@@ -1,0 +1,131 @@
+Screen {
+    layout: vertical;
+}
+
+#top {
+    height: 1;
+    padding: 0 1;
+}
+#title {
+    width: auto;
+    text-style: bold;
+    color: $accent;
+}
+#model_info {
+    width: 1fr;
+    content-align: right middle;
+    color: $text-muted;
+}
+
+#progress_row {
+    height: 1;
+    padding: 0 1;
+    margin-bottom: 1;
+}
+#progress {
+    width: 1fr;
+}
+#progress Bar {
+    width: 1fr;
+}
+#progress_label {
+    width: auto;
+    margin-left: 2;
+    color: $text-muted;
+}
+
+#main {
+    height: 1fr;
+}
+#left {
+    width: 34;
+    border-right: tall $panel;
+}
+#filter {
+    margin: 0 1 1 1;
+}
+#scenes {
+    height: 1fr;
+    background: $surface;
+}
+#preview_box {
+    width: 1fr;
+    padding: 0 2;
+}
+
+#log {
+    height: 8;
+    border-top: tall $panel;
+    padding: 0 1;
+    background: $surface;
+}
+
+#small {
+    display: none;
+    height: 1fr;
+    content-align: center middle;
+    color: $warning;
+}
+
+/* dialogs */
+SessionScreen {
+    align: center middle;
+    background: $background 60%;
+}
+#session {
+    width: 96;
+    height: auto;
+    padding: 1 2;
+    border: round $accent;
+    background: $surface;
+}
+#session .title {
+    text-style: bold;
+    margin-bottom: 1;
+}
+#session_note {
+    margin-top: 1;
+}
+
+SettingsScreen {
+    align: center middle;
+    background: $background 60%;
+}
+#settings {
+    width: 72;
+    height: auto;
+    padding: 1 2;
+    border: round $accent;
+    background: $surface;
+}
+#settings .title {
+    text-style: bold;
+    margin-bottom: 1;
+}
+#settings .field {
+    color: $text-muted;
+    margin-top: 1;
+}
+#settings .field_row {
+    height: 1;
+    margin-top: 1;
+}
+#settings .field_row .field {
+    margin-top: 0;
+    width: auto;
+}
+#model_status {
+    width: 1fr;
+}
+#test_result {
+    margin-top: 1;
+    height: auto;
+}
+#buttons {
+    height: auto;
+    margin-top: 1;
+    align-horizontal: right;
+}
+#buttons Button {
+    margin-left: 1;
+}

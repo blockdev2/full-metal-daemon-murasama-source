@@ -14,3 +14,10 @@ hdmod/
 *.npk
 __pycache__/
 desktop.ini
+
+# Translator settings (may contain your Gemini API key)
+translator_config.json
+*.json.tmp
+.pytest_cache/
+translator_state.json
+translator_journal.jsonl
