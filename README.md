@@ -16,7 +16,43 @@ The tools unpack the game's encrypted `.npk` archives, extract every script stri
 | `jogo_extraido/media/script/` | Decompressed/decrypted scripts (compiled Squirrel bytecode `.nut`) |
 | `jogo_extraido/setting.ini`, `jogo_extraido/shader/` | Engine config and compiled shaders |
 
-CGs, voices, sound and video (~3.8 GB) are **not** included. Regenerate them from your own copy of the game (see below).
+CGs, voices, sound and video (~3.7 GB) are too large for git. They are attached to the **[assets-v1.04 release](https://github.com/blockdev2/full-metal-daemon-murasama-source/releases/tag/assets-v1.04)** as zips (see [Getting the assets](#getting-the-assets)).
+
+## Getting the assets
+
+`rebuild.py` needs the full extracted tree. Choose one option.
+
+**Option A: download the release zips**
+
+| Zip | Extracts to | Size |
+|---|---|---|
+| `assets-cg.zip` | `media/cg/` (backgrounds, CGs, sprites, UI) | 1.4 GB |
+| `assets-voice.zip` | `media/voice/` | 1.5 GB |
+| `assets-video.zip` | `media/dx/` | 0.6 GB |
+| `assets-sound.zip` | `media/sound/` (BGM, SE) | 0.2 GB |
+| `assets-misc.zip` | `media/font/`, `media/particle/` | < 1 MB |
+
+Extract **every** zip into `jogo_extraido/` (each zip already contains the `media/...` paths):
+
+```bash
+gh release download assets-v1.04 --repo blockdev2/full-metal-daemon-murasama-source --dir zips
+```
+```powershell
+Get-ChildItem zips\*.zip | ForEach-Object { Expand-Archive $_ -DestinationPath jogo_extraido -Force }
+```
+
+The zips already include the official patches 1.01–1.04.
+
+**Option B: extract from your own game install**
+
+```powershell
+$g = "C:\Program Files\GOG Galaxy\Games\Full Metal Daemon Muramasa"
+Get-ChildItem "$g\*.npk", "$g\patch\*.npk" | ForEach-Object { python npk.py $_.FullName jogo_extraido }
+```
+
+Archives in `patch/` must come last so the official fixes overwrite the original files.
+
+Either way, `rebuild.py` then produces a full playable copy (see [Usage](#usage)).
 
 ## Requirements
 
@@ -116,4 +152,4 @@ Translatable dialogue lives in `media/script/lang/en/`, separate from the scene 
 
 ## Legal
 
-Full Metal Daemon Muramasa © Nitroplus. English release © JAST USA. This repository holds tools and data for personal fan-translation work. It does not include the game's images, audio or video. Buy the game: <https://www.gog.com/game/full_metal_daemon_muramasa>
+Full Metal Daemon Muramasa © Nitroplus. English release © JAST USA. This repository holds tools and data for personal fan-translation work. Game images, audio and video are attached to a release for personal use only — keep this repository private. Buy the game: <https://www.gog.com/game/full_metal_daemon_muramasa>
