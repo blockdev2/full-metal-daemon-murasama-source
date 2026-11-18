@@ -60,7 +60,7 @@ class FakeGemini:
 
     def generate(self, system, prompt, stop):
         FakeGemini.calls += 1
-        items = json.loads(prompt.split('\n', 1)[1])['items']
+        items = json.loads(prompt.split('\n')[1])['items']  # line 2 of the request is the JSON payload
         return json.dumps({'items': [{'id': it['id'], 'pt': ['PT ' + l for l in it['en']]} for it in items]})
 
 
@@ -69,7 +69,10 @@ def texts(tmp_path):
     d = tmp_path / 'texto'
     d.mkdir()
     for name in ('ma01_001', '_system'):
-        shutil.copy(ROOT / 'texto' / f'{name}.json', d)
+        rows = json.loads((ROOT / 'texto' / f'{name}.json').read_text(encoding='utf-8'))
+        for r in rows:
+            r['pt'] = ''  # tests start untranslated, whatever was already translated in texto/
+        (d / f'{name}.json').write_text(json.dumps(rows, ensure_ascii=False), encoding='utf-8')
     return d
 
 
@@ -240,3 +243,32 @@ def test_br_is_optional_but_other_tags_are_not():
     check_line('A <br>B', 'Um B<br>')                                                               # br moved
     with pytest.raises(ValidationError):
         check_line('<center>"I remember."', '"Eu me lembro."')                                     # center lost
+
+
+def test_parse_accepts_renamed_key_and_single_string():
+    rows = [Row(1, '\r\n  Hello there.\r\n  Second line.\r\n', ''), Row(2, '\r\n  Bye.\r\n', '')]
+    good = parse_response(json.dumps({'items': [
+        {'id': 1, 'lines': ['Olá.', 'Segunda linha.']},   # "lines" instead of "pt"
+        {'id': 2, 'pt': 'Tchau.'},                           # a string instead of a list
+    ]}), rows)
+    assert good == {1: ['Olá.', 'Segunda linha.'], 2: ['Tchau.']}
+    # an echo of the English under "en" is never taken as a translation
+    with pytest.raises(ValidationError):
+        parse_response(json.dumps({'items': [{'id': 2, 'en': ['Bye.']}]}), rows)
+
+
+def test_opencode_models_sorted_by_plan():
+    from translator.opencode import plan_of, sort_models
+    names = ['opencode/gemini-3.8-flash', 'opencode/deepseek-v4.1-flash-free', 'opencode-go/qwen3.8-flash',
+             'opencode-go/deepseek-v4.1-flash']
+    assert sort_models(names) == ['opencode-go/deepseek-v4.1-flash', 'opencode-go/qwen3.8-flash',
+                                  'opencode/deepseek-v4.1-flash-free', 'opencode/gemini-3.8-flash']
+    assert [plan_of(n) for n in names] == ['paid', 'free', 'go', 'go']
+
+
+def test_opencode_billing_errors_get_a_hint():
+    from translator.opencode import explain
+    msg = explain('opencode/deepseek-v4.1-flash', '{"type": "provider.quota", "message": "Insufficient balance."}')
+    assert 'opencode-go/deepseek-v4.1-flash' in msg
+    assert 'Regions' in explain('opencode-go/x', 'hosted outside Europe and the United States')
+    assert explain('m', 'other error') == 'other error'

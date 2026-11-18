@@ -187,6 +187,16 @@ Choose the provider in Settings (`s`). The **Model** list loads from the chosen 
 
 OpenCode's free models may only be used through OpenCode itself. The tool therefore drives your local `opencode` CLI (`opencode run`) and does not call the API directly. Each request goes in a temp file attached with `--file`. The CLI runs in an empty private folder, so the agent never sees your files. The CLI is found on `PATH`, or in the OpenCode desktop app's `resources\opencode-cli.exe`, or at the path you set in Settings. Free OpenCode models are offered for a limited time, and each has its own data-retention terms (see opencode.ai/docs/zen).
 
+**Which OpenCode model is billed where.** The model's prefix decides who pays, and the Model list labels each one:
+
+| Prefix / label | Billed to | Example |
+|---|---|---|
+| `opencode-go/…` · **Go plan** | Your OpenCode Go subscription | `opencode-go/deepseek-v4.1-flash` |
+| `opencode/…-free` · **free** | Free quota (limited, can run out) | `opencode/deepseek-v4.1-flash-free` |
+| `opencode/…` · **pay-as-you-go credits** | Zen credits, separate from Go | `opencode/deepseek-v4.1-flash` |
+
+With a Go subscription, pick a **Go plan** model. A look-alike `opencode/…` model fails with `402 Insufficient balance`, and the app then names the matching `opencode-go/…` model. Some Go models (DeepSeek, Qwen, GLM, Kimi) are hosted outside the EU/US. To use them, enable **Global** in the OpenCode console under Settings › Privacy › Regions. Billing and region errors stop the queue at once instead of retrying.
+
 ### Setup (Gemini)
 
 1. Create a free API key at <https://aistudio.google.com/apikey>.
@@ -214,7 +224,7 @@ OpenCode's free models may only be used through OpenCode itself. The tool theref
 
 - The model receives a whole scene in chunks of up to 40 strings, plus the last translated lines as context and the Japanese original (`//` lines) as reference.
 - `glossary.txt` holds fixed terms (one `term = translation` per line) and is sent with every request.
-- Every response is validated before it is saved. It must have the same number of lines, the same tags (`<center>`…) and the same placeholders (`%s`). Invalid answers are retried, and strings that keep failing are skipped and retried on the next run.
+- Every response is validated before it is saved. It must have the same number of lines, the same tags (`<center>`…) and the same placeholders (`%s`). `<br>` is the exception: it is a manual line break placed for English word wrapping, so the model may drop it or move it. Models that rename the `pt` field (for example to `lines`) or return one string instead of a list are normalized, but an echo of the English is never accepted. Invalid answers are retried, and strings that keep failing are skipped and retried on the next run.
 - Indentation, blank lines, Japanese comments and line endings are never sent to the model. The tool re-applies them itself, so every `pt` stays compatible with `inject_text.py`.
 - Each scene is saved atomically after every chunk. You can quit or pause at any time, and strings that already have a `pt` are never re-sent.
 

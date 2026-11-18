@@ -164,7 +164,23 @@ def build_request(scene: Scene, rows: list[Row], context: list[tuple[str, str]])
         'items': [{'id': r.index, 'ja': r.japanese, 'en': r.source} for r in rows],
     }
     return ('Translate the items. previous_lines is already translated context, do not return it.\n'
-            + json.dumps(payload, ensure_ascii=False))
+            + json.dumps(payload, ensure_ascii=False)
+            + '\n\nAnswer with exactly this JSON shape (one entry per item, "pt" has one string per "en" line):\n'
+            + '{"items": [{"id": <same id>, "pt": ["<line 1 in pt-BR>", "<line 2 in pt-BR>"]}]}')
+
+
+PT_KEYS = ('pt', 'lines', 'translation', 'translations', 'pt_br', 'text')  # never "en": an echo is not a translation
+
+
+def _pt_lines(item: dict) -> list | None:
+    """Some models rename "pt" or return one string instead of a list; normalize both cases."""
+    for k in PT_KEYS:
+        v = item.get(k)
+        if isinstance(v, list):
+            return v
+        if isinstance(v, str):
+            return v.split('\n')
+    return None
 
 
 RESPONSE_SCHEMA = {
@@ -219,7 +235,7 @@ def parse_response(text: str, rows: list[Row]) -> dict[int, list[str]]:
         row = by_id.get(it.get('id')) if isinstance(it, dict) else None
         if row is None:
             continue
-        pt = it.get('pt')
+        pt = _pt_lines(it)
         try:
             if not isinstance(pt, list) or len(pt) != len(row.source):
                 raise ValidationError(f'line count {len(pt) if isinstance(pt, list) else "?"} != {len(row.source)}')

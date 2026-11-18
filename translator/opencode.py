@@ -37,9 +37,33 @@ def find_cli(configured: str = '') -> str:
 def list_models(cli: str = '') -> list[str]:
     out = subprocess.run([find_cli(cli), 'models'], capture_output=True, text=True, encoding='utf-8',
                          errors='replace', timeout=120, creationflags=_NO_WINDOW)
-    names = [l.strip() for l in out.stdout.splitlines() if l.strip().startswith('opencode/')]
-    # free models first, then the rest alphabetically
-    return sorted(names, key=lambda n: (not n.endswith('-free'), n))
+    names = [l.strip() for l in out.stdout.splitlines() if re.fullmatch(r'[\w.\-]+/[\w.\-:]+', l.strip())]
+    return sort_models(names)
+
+
+def plan_of(model: str) -> str:
+    """'go' = covered by the OpenCode Go subscription, 'free' = free model, 'paid' = pay-as-you-go credits."""
+    if model.startswith('opencode-go/'):
+        return 'go'
+    return 'free' if model.endswith('-free') else 'paid'
+
+
+def explain(model: str, problem: str) -> str:
+    """Adds a plain hint to OpenCode billing errors, which are easy to hit by picking a look-alike model."""
+    if 'provider.quota' in problem or 'Insufficient balance' in problem:
+        go = 'opencode-go/' + model.split('/', 1)[-1].removesuffix('-free')
+        return (f'{problem[:160]}  →  {model} is billed to pay-as-you-go credits. With the Go plan pick '
+                f'a "· Go plan" model, e.g. {go}')
+    if 'provider.free-limit' in problem:
+        return f'{problem[:160]}  →  free quota used up; pick a "· Go plan" model if you have OpenCode Go'
+    if 'outside Europe and the United States' in problem:
+        return f'{problem[:160]}  →  enable Global in OpenCode console › Settings › Privacy › Regions'
+    return problem
+
+
+def sort_models(names: list[str]) -> list[str]:
+    # Go subscription models first, then free ones, then pay-as-you-go
+    return sorted(set(names), key=lambda n: ({'go': 0, 'free': 1, 'paid': 2}[plan_of(n)], n))
 
 
 def extract_text(stdout: str) -> tuple[str, str]:
@@ -107,8 +131,9 @@ class OpenCodeTranslator:
             if code == 0 and text.strip():
                 return extract_json(text)
             problem = (ev_err or err or f'exit code {code}, empty answer').strip()
-            if code != 0 and not _RATE.search(problem) and 'no answer' not in problem and attempt >= 3:
-                raise RuntimeError(f'OpenCode failed: {problem[:300]}')
+            billing = any(k in problem for k in ('provider.quota', 'provider.free-limit', 'invalid-request'))
+            if billing or (code != 0 and not _RATE.search(problem) and 'no answer' not in problem and attempt >= 3):
+                raise RuntimeError(f'OpenCode failed: {explain(self.model, problem)[:400]}')
             self.log(f'! OpenCode: {problem[:120]} · try {attempt}, waiting {delay:.0f}s (p pauses)')
             if stop.wait(delay):
                 return None
@@ -119,5 +144,5 @@ class OpenCodeTranslator:
         code, out, err = self._run('You are a test.', 'Reply with exactly: ok')
         text, ev_err = extract_text(out)
         if code != 0 or not text.strip():
-            raise RuntimeError((ev_err or err or f'exit code {code}').strip()[:300])
+            raise RuntimeError(explain(self.model, (ev_err or err or f'exit code {code}').strip())[:400])
         return text.strip()

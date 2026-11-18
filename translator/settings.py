@@ -126,7 +126,10 @@ class SettingsScreen(ModalScreen[Config | None]):
         options = list(models) or [current]
         if current not in options:
             options.insert(0, current)  # keep a saved model visible even if the list lacks it
-        label = lambda m: m + ('  · free' if m.endswith('-free') else '') + ('  (current)' if m == saved else '')
+        from .opencode import plan_of
+        tag = {'go': '  · Go plan', 'free': '  · free', 'paid': '  · pay-as-you-go credits'}
+        label = lambda m: (m + (tag[plan_of(m)] if provider == 'opencode' else '')
+                           + ('  (current)' if m == saved else ''))
         sel.set_options([(label(m), m) for m in options])
         sel.value = current
         self.query_one('#model_status', Static).update(
