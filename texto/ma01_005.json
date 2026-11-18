@@ -2,17 +2,17 @@
  {
   "offset": 213,
   "en": "\r\n//《未決囚〇四八号》\r\n  <I>Prisoner 048</I><K>\r\n  <I>Charges: Murder, eleven counts.</I><K>\r\n  <I>Parricide, one count.</I>\r\n//《容疑　殺人罪一二件》\r\n\r\n//《うち一件は尊属殺人》\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//《未決囚〇四八号》\r\n  <I>Prisioneiro 048</I><K>\r\n  <I>Acusações: Homicídio, onze ocorrências.</I><K>\r\n  <I>Parricídio, uma ocorrência.</I>\r\n//《容疑　殺人罪一二件》\r\n\r\n//《うち一件は尊属殺人》\r\n\r\n"
  },
  {
   "offset": 435,
   "en": "\r\n//《鎌倉市警本部より関東拘置所》\r\n  <I>From: Kamakura Chief of Police\r\n  To: Kanto District Jail</I>\r\n\r\n//《未決囚〇四八号に保釈措置発令》\r\n  <I>By imperial decree, Prisoner 048 is to be released forthwith.</I>\r\n\r\n//《<RUBY text='しんのうりょうじ'>親王令旨</RUBY>による特例保釈》\r\n\r\n//《直ちに〇四八号を釈放されたし》\r\n\r\n//《緊急の執行を求む》\r\n",
-  "pt": ""
+  "pt": "\r\n//《鎌倉市警本部より関東拘置所》\r\n  <I>De: Chefe de Polícia de Kamakura\r\n  Para: Penitenciária Distrital de Kanto</I>\r\n\r\n//《未決囚〇四八号に保釈措置発令》\r\n  <I>Por decreto imperial, o Prisioneiro 048 deve ser libertado imediatamente.</I>\r\n\r\n//《<RUBY text='しんのうりょうじ'>親王令旨</RUBY>による特例保釈》\r\n\r\n//《直ちに〇四八号を釈放されたし》\r\n\r\n//《緊急の執行を求む》\r\n"
  },
  {
   "offset": 868,
   "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma01/0050010e038'>\r\n//「〇四八号」\r\n\"048!\"\r\n\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma01/0050020e038'>\r\n//「釈放だ。出ろ」\r\n\"You're free to go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma01/0050010e038'>\r\n//「〇四八号」\r\n\"048!\"\r\n\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma01/0050020e038'>\r\n//「釈放だ。出ろ」\r\n\"Você está livre. Pode ir.\"\r\n"
  },
  {
   "offset": 1192,
