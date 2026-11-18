@@ -1,0 +1,57 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　目的は飢餓虚空の重力圏からの脱出。\r\n//　必要な手順は、辰気の調和である。\r\n\r\n//　荒れ狂う辰気――重力を安定へ導くにより、脱出の\r\n//機会を作る。\r\n//　\r\n//　我が引辰制御をもって、これを成さねばならない。\r\n\r\n//　引辰制御は、辰気を１番から１２５番までの１２５\r\n//種に分類して操ることが骨子である。\r\n//　この分類は辰気の強さに準拠し、強さの程度は番号\r\n//に比例する。\r\n\r\n//　つまり辰気１が最も弱く、辰気１２５が最も強い。\r\n//　辰気１０は辰気２の五倍にあたり、辰気２７と辰気\r\n//５６を合わせれば辰気８３と同位の強さになる。\r\n\r\n//　この辰気１２５種は、全て同時に操ることが可能で\r\n//ある。\r\n  In order to escape the black hole's pull, I must first balance out the forces that bind me. And that means utilizing my own power against Ginseigo's.\r\n\r\n  At its heart, graviton control is a matter of manipulating fields of varying strengths to achieve the desired effect.\r\n\r\n  There are one hundred and twenty-five possible degrees of strength, 1 being the weakest and 125 the strongest.\r\n  The relationship between these is simple arithmetic. 10 is twice as strong as 5, while 27 and 56 are together equal to 83.\r\n\r\n  All one hundred and twenty-five of these may be manipulated simultaneously, but each can occupy only one position at a given time.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1719,
+  "en": "\r\n//　例えば、自己を中心とする空間を立方体と想定し、\r\n  Imagine space as a cube with myself at the center.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1859,
+  "en": "\r\n//　これを五単位分割し、\r\n  Divide this cube into five vertical and five horizontal tiers.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1972,
+  "en": "\r\n//　計１２５個の小さな立方体の集積と考え、\r\n\r\n//　この１２５個の立方体空間に１２５種の辰気を一種\r\n//ずつ配分することは可能である。\r\n  We thus create one hundred and twenty-five smaller cubes. It is to these that we must assign our fields.\r\n\r\n  The simplest way would be to assign them to each position in order.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2354,
+  "en": "\r\n//　但しこうするだけでは無論、辰気の調和つまり重力\r\n//の安定化は得られない。\r\n  But of course, this will not produce the necessary balance of forces.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2550,
+  "en": "\r\n//　辰気の調和とは、辰気の強さの均衡を意味する。\r\n\r\n//　従って、この立方体空間に辰気の安定をもたらすの\r\n//ならば――\r\n\r\n//　あらゆる直線と、\r\n  In order to reestablish control, I must ensure that the strength of the fields is distributed evenly throughout the space.\r\n\r\n  To wit, I must assign my fields so that every vertical and horizontal line of five spaces...\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2989,
+  "en": "\r\n  ...as well as every diagonal line of five spaces...\r\n\r\n//　あらゆる対角線が、\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3090,
+  "en": "\r\n//　同等の強さを持つように辰気１２５種を配分しなく\r\n//てはならない。\r\n  ...adds up to precisely the same total strength.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3253,
+  "en": "\r\n//　……つまりは。\r\n//　これが現在、<RUBY text='おれ'>私</RUBY>に提示されている問題なのだ。\r\n\r\n//　では解法を始めよう。\r\n\r\n//　この問題を解くには高度な計算が必要となる。\r\n//　時間は少ない。肉体の頭脳では不可能である。劒冑\r\n//の計算機能をもってしてもまだ不足であろう。\r\n\r\n//　だが、その不足を肉体の脳が補えるなら――\r\n  There is no hope for victory save this. So be it. Let us begin.\r\n\r\n  I will need every faculty that I possess to solve this problem. My pilot's brain will not be able to find the answer in what little time remains. Even my processing unit is not quite up to the task.\r\n\r\n  But if I join them together, tsurugi and pilot, then perhaps―\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4053,
+  "en": "\r\n  <YELLOW>Assign the values so that every vertical, horizontal, and diagonal line of five spaces adds up to the same total value.</YELLOW>\r\n\r\n  <YELLOW>First click the value you wish to place. Then click the space on the grid where you wish to place it.</YELLOW>\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4329,
+  "en": "\r\n//◆※難易度低下ＯＮのみ\r\n  <YELLOW>Hint: the target value is 315.</YELLOW>\r\n",
+  "pt": ""
+ }
+]

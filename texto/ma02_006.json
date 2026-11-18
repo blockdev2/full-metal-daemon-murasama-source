@@ -1,0 +1,377 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　村を出た時には夕暮れに差し掛かっていた。\r\n//　村長宅を辞してから少々時間を食ったせいだ。\r\n  It is nearly dusk by the time I begin my search of the forest.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 426,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060010a01'>\r\n//《体調はどう？》\r\n《How are you feeling?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 580,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060020a00'>\r\n//「良好とは言えないが、問題はない」\r\n\"Not my best, but it'll do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 757,
+  "en": "\r\n//　代官との一戦は、体内の<RUBY text='カロリー'>熱量</RUBY>をほぼ限度まで奪って\r\n//いた。通常、この消耗を補うには食事と休息のほかに\r\n//方法がない。消化の良いものを摂取し、六時間以上の\r\n//睡眠を取る必要があった。\r\n  The duel with the prefect nearly drained my calorie reserves dry. Food and rest are the only way to replenish them. Normally, I would require an easily-digestible meal of moderate size and at least six hours of sleep to be at full strength.\r\n\r\n//　しかし現状、迅速な行動は体調の確保に優先する。\r\n//代官に時間を与え、巻き返しを許すべきではなかった。\r\n//彼が打撃を受け、おそらくは状況把握もまだ不十分で\r\n//あろう今の間に追撃せねば、時の利を失う。\r\n  The current situation, however, forces me to prioritize my pursuit of the prefect. The longer I wait, the more time he has to regroup.\r\n\r\n//　村の奥まった一角で見つけた雑貨屋で、保存食料の\r\n//類を二、三みつくろって腹へ収め、軽く体を動かして\r\n//消化を促し、脱糞した後少し休む。\r\n//　都合二時間。\r\n  I ate some energy bars from a small, out of the way store, did some light exercise to aid digestion, defecated, and took a brief rest. As such, about two hours have passed since leaving the mayor's residence.\r\n\r\n//　何もしないよりはましという程度の補給にしかなら\r\n//なかったが、まともな食事を得る手間を惜しんだのだ\r\n//から仕方がない。\r\n//　この程度でも短時間の戦闘には耐える筈だ。\r\n  It's better than nothing, but only just. Still, it should hold me through a single short engagement.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2543,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060030a00'>\r\n//「装甲は敵影確認まで控える。\r\n//　奇襲の可能性を考慮すると危険だが、今は\r\n//熱量の消耗を最小限に抑えたい」\r\n\"I'll refrain from armoring until we make contact. We risk being taken by surprise, but for now, I want to conserve fuel at all costs.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2931,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060040a01'>\r\n//《そうね……。\r\n//　相手に待ち伏せを掛けるような余力がない\r\n//ことを祈りましょう》\r\n《I guess you're right. Let's just pray that he doesn't have the strength to mount an ambush.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3251,
+  "en": "\r\n//　舗装が充分とは言い難い道を歩く。\r\n//　村人の姿は見えなかった。田畑のある方角ではない\r\n//のか、異変を警戒して家に籠もっているのか。それと\r\n//も単に黄昏が近いからか。見れば陽は既に西天にある。\r\n  As I walk down the unpaved road, I wonder at the notable absence of foot traffic. Is it simply because there are no fields in this direction, or have the villagers locked themselves in their homes to wait out the storm? Given the setting sun, I suppose it might just be the time of day.\r\n\r\n//　夜になる前に片をつけたかった。\r\n//　しかしどうなるか。難しいかもしれない。\r\n  I wanted to finish this before dark, but that is looking to be a difficult proposition. The season is already late autumn, a time of year when poets liken the sun to a falling rock.\r\n\r\n//　季節は既に秋深く。\r\n//　落日の呆気なさが釣瓶落としに例えられる折柄。\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4251,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060050a00'>\r\n//「誰に」\r\n\"To whom?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4371,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060060a01'>\r\n//《え？》\r\n《Huh?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4497,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060070a00'>\r\n//「誰に祈れる？\r\n//　俺は」\r\n\"To whom should I pray?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4656,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060080a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4790,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060090a00'>\r\n//「神仏の恩寵を願える筋合いではない」\r\n\"I'm hardly in a position to beg the favor of the gods.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4998,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060100a01'>\r\n//《……なら、悪魔の庇護でも願えばどう》\r\n《...Then why not ask for a demon's protection?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5210,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060110a00'>\r\n//「自分に祈って何の意味がある」\r\n\"How can I grant my own prayers?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5386,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060120a01'>\r\n//《私に祈れと、言っているのよ》\r\n《I was referring to myself.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5567,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060130a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5685,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060140a01'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5813,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060150a00'>\r\n//「自惚れるな。\r\n//　得物」\r\n\"You think too highly of yourself, weapon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5991,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060160a01'>\r\n//《……自惚れないことね。\r\n//　手足》\r\n《...I could say the same for you, puppet.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6193,
+  "en": "\r\n//　日の翳りがひたひたと蒼天の端から忍び寄っている。\r\n//　俺は早足に歩を進めた。\r\n  The shadows are growing longer by the minute. I pick up the pace.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6391,
+  "en": "\r\n//　村から問題の『お山』へ向かう道を外れ、森に入る。\r\n//　代官の落ちた地点は把握していた。墜落がもたらす\r\n//負傷を考えに入れれば、そこから長い距離を移動して\r\n//しまっている可能性は除去できる。発見は難しくない。\r\n  We leave the road leading up to the sacred mountain and enter the forest proper, aiming for the area where I saw the prefect crash. It is unlikely he could have gotten far with the wounds that he would have sustained upon impact. Finding him should not be too difficult.\r\n\r\n//　……木々の間を潜りながらの移動が、方角を見失わ\r\n//せなければの話だが。\r\n//　地形と時間的な事情により、太陽もほとんどあてに\r\n//ならない。\r\n  That is, if I don't let this maze of thick, interlocking trees throw off my sense of direction. With the terrain and time of day as they are, I can't even depend on the sun for guidance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7382,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060170a00'>\r\n//（森に慣れた案内人を頼むべきだったろうか）\r\n(Perhaps I should have requested a guide.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7585,
+  "en": "\r\n//　ふと、そんなことを思う。\r\n//　馬鹿げた発想だった。\r\n  I dismiss the idea as soon as it comes to mind. How can I risk someone else's safety when I can't even ensure my own? Perhaps the challenges facing me have brought on a spell of faintheartedness.  \r\n\r\n//　自分自身の安全さえ覚束ない状況で、そんな真似が\r\n//許される筈もない。\r\n//　状況の困難が弱気を誘っているのかもしれなかった。\r\n\r\n//　左手の爪を右手の平に埋め込む。\r\n//　痛みがわずかに、意識へ喝を入れた。\r\n  I dig the nails of my left hand into the palm of my right. The pain helps to renew my focus.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8272,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060180a00'>\r\n//「気配はあるか」\r\n\"Do you sense anything?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8418,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060190a01'>\r\n//《ええ。<RUBY text='かかさま'>銀星号</RUBY>の……こればっかりは間違え\r\n//ようのない匂い。\r\n//　確かにこの辺りにある》\r\n《Yes, Mother's scent. Unmistakable. It's definitely around here somewhere.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8762,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060200a00'>\r\n//「正確な位置は……わからないのだな」\r\n\"But you don't know the exact location.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8954,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060210a01'>\r\n//《私の、あれの気配を捉える能力は劔冑本来\r\n//の<RUBY text='みみ'>探査機能</RUBY>ほど確かじゃないのよ。\r\n//　漠然とした位置以上のことは無理ね。視界\r\n//内に収めれば特定はできるのだけれど》\r\n《My ability to sense Mother and her eggs isn't as precise as radar. I can only get a general idea of their location. It takes visual confirmation to be sure.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9481,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060220a00'>\r\n//「そちらには反応がないのか？\r\n//　<RUBY text='レーダー'>探査機能</RUBY>には」\r\n\"And what about your radar? Hear anything?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9725,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060230a01'>\r\n//《……地表で、しかもこの地形ではね》\r\n《...On the ground? In this terrain?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9923,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060240a00'>\r\n//「……そうだな。\r\n//　愚問だった」\r\n\"...Of course. A foolish question.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10105,
+  "en": "\r\n//　こんな遮蔽物の多い場所で探査機能がまともに働く\r\n//わけがない。\r\n//　最新の<RUBY text='ウォーカードラグーン'>陸戦特化型竜騎兵</RUBY>のように強力な熱源探査を\r\n//持っていれば、また話は別なのかもしれないが。\r\n  Radar is useless with all these trees and rocks surrounding us. What we need is a powerful infrared scanner like those mounted on the army's newest walker dragoons, but one of those isn't simply going to fall into our laps.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10637,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060250a00'>\r\n//「地道に探すとしよう」\r\n\"We'll search the old-<br>fashioned way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10809,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060260a01'>\r\n//《そうね。\r\n//　方角の確認は任せて》\r\n《Okay. Leave the direction to me.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11003,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060270a00'>\r\n//「<RUBY text='コンパス'>方位磁針</RUBY>の代わりにはなるということだな。\r\n//　それは助かる」\r\n\"So you'll serve as a compass, at least. That's helpful.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11282,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060280a01'>\r\n//《ええ。私も自分の有能さに感動してる》\r\n《Yes. I'm awed by my own usefulness.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11484,
+  "en": "\r\n//　耳孔の奥に直接送られてくる不機嫌な<RUBY text='きんちょうじょう'>金打声</RUBY>を聴き\r\n//ながら、樹海の中を縫って進む。\r\n//　まだそれほど奥深くではない筈だが、既に来た方向\r\n//も進行方向も見分けはつかなかった。木、また木。\r\n  I proceed through the undergrowth, Muramasa's last, biting words lingering in the small bones of my ears. We haven't come that far yet, but already every direction I turn looks the same. There are only trees, and more trees, as far as the eye can see.\r\n\r\n//　朝日の下であれば、気持ちの良い散策になったかも\r\n//しれない。\r\n//　だがそろそろ暗くなろうかというこの時刻、きっと\r\n//傍目には肝試しか自殺志願としか映らないことだろう。\r\n  In the light of day, this might have been a pleasant stroll. With night fast approaching, however, I must appear either a fool testing his courage or a suicidal man looking for a place to die.\r\n\r\n//　しかもどちらかといえば後者だ。\r\n//　どの木も何かを吊るすには良さそうな枝ぶりである。\r\n  The latter seems more plausible. Any of the surrounding trees would provide suitable purchase for a noose.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12759,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060290a01'>\r\n//《……どこかから悲鳴か恨み言でも聞こえて\r\n//きそうね》\r\n《...I keep expecting to hear a scream, or the mutterings of a ghost.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13015,
+  "en": "\r\n//　村正が軽口を叩く。\r\n//　似たようなことを考えていたらしい。\r\n  Muramasa's chatter evinces a similar train of thought to my own.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13185,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060300a00'>\r\n//「云わば招く、というぞ」\r\n\"Speak of the devil and he doth appear, they say.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13369,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060310a01'>\r\n//《こういう話をしていると、本当に？》\r\n《You mean talking about it might make it happen?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13580,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060320a00'>\r\n//「ああ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13696,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060330a01'>\r\n//《こんな風かしら》\r\n《You mean like that?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13852,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060340a00'>\r\n//「そうだな」\r\n\"Yes. Like that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13985,
+  "en": "\r\n//　足元が何かに突っ掛かる。\r\n//　根だ。雨に洗われて露出したものらしい。\r\n  My foot catches against something on the ground. A root, probably exposed by heavy rain.\r\n\r\n//　靴の無事を確認して、再び足を進める。\r\n//　この辺りは注意した方が良さそうだった。怪我はし\r\n//ないだろうが、靴を壊せば身動きが取れなくなる。\r\n  After checking that my shoe is undamaged, I resume walking, taking greater care where I step. There's little danger of injury, but a damaged shoe would impede my movements.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14582,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060350a01'>\r\n//《大丈夫？》\r\n《Are you all right?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14728,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060360a00'>\r\n//「問題ない」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14850,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060370a01'>\r\n//《ねえ》\r\n《Hey...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14978,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060380a00'>\r\n//「ああ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15094,
+  "en": "\r\n//　足を止める。\r\n  I stop walking.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15148,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060390a01'>\r\n//《今、本当に聞こえなかった？》\r\n《I think I really did hear something just now.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15348,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060400a00'>\r\n//「俺もそのように思う」\r\n\"So did I.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15490,
+  "en": "\r\n//　周囲を見回す。\r\n//　目を引くものは何もない。今まで通りの光景。\r\n  I scan the area. Nothing out of the ordinary. Just trees, rocks, and dirt.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15676,
+  "en": "\r\n//　耳を澄ます。\r\n//　……静寂。何も聞こえてはこない。虫の音、葉擦れ、\r\n//そんな自然の響きを除いて、気に掛かる程の音は何も。\r\n  I train my ears. Silence. Only the buzzing of insects and the rustling of leaves. Nothing to draw my attention.\r\n\r\n//　だがそれだけにかえって、記憶に残る音響には現実\r\n//感があった。\r\n//　この環境で、あんなものを錯覚することがあるとは\r\n//思えない。\r\n  But that only makes the sound echo louder in my memory. I strongly doubt I'd imagine something like that in a quiet forest like this.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16316,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060410a00'>\r\n//「人の声ではなかったな」\r\n\"It didn't sound human.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16474,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060420a01'>\r\n//《そう思うけれど。野犬？》\r\n《Then what was it? A wild dog?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16652,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060430a00'>\r\n//「もう少し大きい獣のような気もする。\r\n//　方角はわかるか？」\r\n\"Something larger, I think. Do you know where it came from?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16898,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060440a01'>\r\n//《わかるけど……行くつもり？》\r\n《Yes. You're going to check it out?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17087,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060450a00'>\r\n//「獣が理由もなく叫ぶことはない。\r\n//　そしてあれは攻撃的な声だった」\r\n\"Animals don't roar without good reason, and that was an aggressive sound.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17360,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060460a01'>\r\n//《……人が襲われているのかもしれない、と\r\n//いうこと？》\r\n《You think someone might be in danger?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17589,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060470a00'>\r\n//「野獣同士の喧嘩なら、相手の声も聞こえて\r\n//きて良さそうなものだと思わないか」\r\n\"If two wild animals were fighting, don't you think we'd have heard the second by now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17889,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060480a01'>\r\n//《確かに。\r\n//　諒解、行きましょう。先導するからついて\r\n//きて。多分、そう遠くはないはず》\r\n《True. All right, let's go. I'll lead the way, so stay close. It shouldn't be far.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18211,
+  "en": "\r\n//　……悪い予測は的中した。\r\n//　往々にして、そういうものだ。\r\n  My fears were well founded. But then, they usually are.\r\n\r\n//　人がいる。\r\n//　こちらに背を向ける格好の、中背の学生服――村の\r\n//青少年だろうか？　自分の足を抱え込むようにして、\r\n//<RUBY text='・・'>何か</RUBY>を前に<RUBY text='うずくま'>蹲</RUBY>っている。\r\n  A person is visible through the trees, of middling height and wearing a school uniform. A village boy, perhaps? In the dim light, it's hard to be sure. The person is crouched, their back to us, facing off with something in the bushes.\r\n\r\n//　何か。\r\n//　並みの動物であれば、この方角からは人影に隠れて\r\n//見え辛かっただろうが。<RUBY text='・・'>それ</RUBY>はどのようなものか一目\r\n//で判然としていた。つまり、並みではなかった。\r\n  Some㉒<I>thing,</I>㉓indeed. At this angle, with the student blocking my line of sight, most ordinary animals would be hard to make out. But this creature is clearly visible. Therefore, it is far from ordinary.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19366,
+  "en": "\r\n//　犬。山犬、だろう。人里で見られる犬とは太い一線\r\n//を画する禍々しい眼光、荒れた毛並み。\r\n//　昨今は六波羅を揶揄して御公儀などと呼ばれること\r\n//も多い、山野の危険な徘徊者に間違いなさそうだった。\r\n  It is a dog. A wild dog, most likely. Its fierce glare and rough, tousled fur set it apart from the domesticated hounds you see in human company. Indeed, its savage visage would not look out of place amongst a company of Rokuhara soldiers.\r\n\r\n//　しかし、その体躯は異様。\r\n//　小型の熊ほどもありそうに思えた。仮に後足で立ち\r\n//上がれば、人間とそう変わらない高さに達するのでは\r\n//なかろうか。控えめに言っても尋常一様の犬ではない。\r\n  The truly incredible thing is its size, comparable to that of a small bear. If it stood on its hind legs, it might even rival an average human in height. I have never seen such a dog before, wild or otherwise.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20397,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060490a01'>\r\n//《妙な話ね》\r\n《There's something strange about this,》 Muramasa says inside my skull.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20593,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060500a01'>\r\n//《村の人達はあんな獣と共存してきたという\r\n//わけ？　あの体では、とてもこの森の中だけ\r\n//で餌をまかなうことなんてできないでしょう》\r\n《Do the villagers really coexist with such creatures? I can't imagine a beast like that finding enough in this forest to sate its appetite.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21032,
+  "en": "\r\n//　その疑問は頷けた。確かにおかしい。\r\n//　どこからか流れてきたばかりなのだろうか？　だが\r\n//差し当たり、謎は棚上げにしておかねばならない様子\r\n//だった。\r\n  I nod silently. Could the creature have wandered in from elsewhere? \r\n\r\n  My questions will have to wait. The tension in the air is thick, though the student remains utterly motionless even as the beast's growling grows more hostile. I cannot even tell whether the student is looking at their opponent. If they were alone, I would guess them to be picking flowers.\r\n\r\n//　両者の間の空気は張り詰めている。\r\n//　低く唸る獣に対し、学生姿の方は微動だにしない。\r\n//そもそも、犬を見ているのかどうか。単個で見れば、\r\n//地面の草花でも摘んでいるかのようだった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21909,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0060510a01'>\r\n//《御堂。装甲は――》\r\n《Mido, shouldn't we―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22070,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0060520a00'>\r\n//「要るまい」\r\n\"No need.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22196,
+  "en": "\r\n//　あの程度の獣ならば生身で駆逐できるだろう。\r\n//　もっとも、そういう意味での返答ではなかった。\r\n  I should be able to handle such a beast without my armor.<K>\r\n  Although that isn't what I meant.\r\n\r\n//　走る速度を緩める。足音を殺し、忍び寄った。\r\n//　けたたましい乱入は人影を驚かせ、獣の側に好機を\r\n//与える結果となりかねない。\r\n  I reduce my pace, approaching slowly and silently. If I leap into the fray, it could distract the student and give the beast an advantage.\r\n\r\n//　<RUBY text='・・・・・'>要りもせぬ</RUBY>助けを押し付けた挙句にそれでは、余り\r\n//に情けないというものだった。\r\n//　ある程度の距離まで接近したところで足を止めて、\r\n//手頃な木の陰に身を隠す。\r\n  It would be shameful indeed if I got someone killed by offering assistance when it clearly wasn't needed.\r\n\r\n  Once close enough, I hide behind a nearby tree.\r\n\r\n//　しかし、山犬は新手の到来に気付いたのだろう。\r\n//　状況が動いたとを察しての判断か、最後通牒のよう\r\n//に甲高く吠える――<k><?>\r\n  The dog, however, seems to sense my arrival. Perhaps fearing what I might do, it howls one last time in warning―<k><?>\r\n<?>",
+  "pt": ""
+ },
+ {
+  "offset": 23536,
+  "en": "\r\n//そしてその残響の絶えぬ内、尚も\r\n//無関心なまでに不動の姿へ、牙を剥くや噛み掛かった。\r\nthen lunges before the echoes have faded, fangs poised to tear into the yet-motionless student.\r\n\r\n//　迅い。\r\n//　猫科の獣とはまた異なる、犬類特有の直線的、鋭角\r\n//的な突進。よほどに距離を置いていたならばともかく、\r\n//指呼の間合でこれを迎えて躱せるものではあるまい。\r\n  The beast is fast, with the arrow-like charge typical of canines. At this close range, evading such an attack will be nigh impossible.\r\n\r\n//　人影は、<RUBY text='ようよ'>漸</RUBY>う、起き上がっていた。\r\n  At last, the student rises to their feet. Their motions are slow and deliberate―<br>bearlike, even. Though I compared the dog to a bear just moments ago, the human, it seems, is more deserving.\r\n\r\n//　のっそりと首をもたげるその動きは、襲い来る山犬\r\n//の怪物よりもむしろ熊じみている。\r\n//　格段に鈍く、遅い。\r\n\r\n//　犬が駆ける。\r\n//　人影が起つ。\r\n//　\r\n//　――接触する。\r\n  The dog leaps.<K>\r\n  The student waits.<K>\r\n  The two meet.\r\n\r\n//　その一刹那。\r\n//　企図を遂げていたのは、数間を疾駆して標的の首筋\r\n//を狙った犬怪ではなかった。\r\n  It is not the wild dog who takes his enemy's throat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24960,
+  "en": "\r\n//　時間軸上、最も早く重なった両者の部位は、人影の\r\n//右拳と山犬の咽喉だった。\r\n//　拳の先端が、脆弱な骨格に突き刺さる――刺される\r\n//<RUBY text='・・・・・'>犬自身の力</RUBY>がそうさせる。\r\n  First contact is established between the student's right fist and the dog's brittle trachea, the former punching through the latter like a hammer against a porcelain vase. It is the dog's own power that effects this outcome.\r\n\r\n//　針山へ蜜柑を投げ込むようなもの。\r\n//　人影は、ただ、<RUBY text='・・・・・・・'>そこへ拳を置く</RUBY>以上の力を使っては\r\n//いない。\r\n  Imagine an orange flung at a pincushion, and you have the right idea. The student needed no more strength than was necessary to place their fist in the enemy's path.\r\n\r\n//　くきゃり……という短くも滑稽な音を聞いたように\r\n//思った。\r\n//　あるいは錯覚だったろうか。\r\n  I hear a sharp, somehow comical㉓<I>crunch.</I> ㉑Or do I just imagine it?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26046,
+  "en": "\r\n//　その直後の悲痛な絶叫と、まるで曲芸を仕込まれて\r\n//いるかのように宙へ舞い、弧を描きつつ元の位置まで\r\n//転げ落ちていく大柄な山犬の姿は、一瞬、忘我を避け\r\n//得ないほど印象的なものであったから。\r\n  If so, then I imagine it because the sight is so surreal: the massive creature soaring through the air like a circus animal, howling all the while, before crashing to earth exactly where it began.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26542,
+  "en": "\r\n//　落ちた犬が、のたうつ――激しく、短く。\r\n//　学生服の人物が完全に立ち上がり、犬の傍まで歩み\r\n//寄った頃には、既にその四肢の痙攣は弱いものとなり、\r\n//か細く末期の息を洩らすばかりになっていた。\r\n  The fallen beast thrashes briefly in the dirt. By the time the student has walked to its side, the convulsions have all but subsided, leaving only the short, wheezing sound of its last breaths.\r\n\r\n//　一撃は喉ばかりでなく、頚骨まで砕いたのだろう。\r\n//　犬の怪力がその結果を導いた。お陰で長く苦しまず\r\n//に済んだ――そう思えば皮肉であり、哀れであった。\r\n  The blow must have crushed vertebrae along with trachea and larynx, for which the creature need only thank its own strength. As a result, it will not have to suffer a long, agonizing death.\r\n  Ironic, yes, and pitiful.\r\n\r\n//　止めを与えるべきか、その人は迷ったのだろうか。\r\n//近付く足がふと、たたらを踏む。\r\n//　その間に、終わっていた。最後の呼吸が絶え、森に\r\n//静寂が戻る。そして人影の背には後味の悪さが滲んだ。\r\n  The student stops a pace or two away from the dying animal, perhaps unsure whether to deal the finishing blow. But before they can decide, it is over.\r\n\r\n  As the dog draws its last breath and the forest falls silent once more, the student bows their head in regret, if only slightly.\r\n\r\n//　その背を見て、俺は――\r\n  Seeing this, I think―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28126,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 28153,
+  "en": "10_2",
+  "pt": ""
+ }
+]

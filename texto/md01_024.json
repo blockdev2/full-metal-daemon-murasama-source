@@ -1,0 +1,292 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240010a11'>\r\n//「護氏は普陀楽を出た。\r\n//　もうじきここへ着く」\r\n\"Moriuji has left Fudaraku. He'll be here soon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 429,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240020a00'>\r\n//「諒解」\r\n\"Understood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 552,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240030a11'>\r\n//「用意はいいのか？」\r\n\"Are you ready?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 696,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240040a00'>\r\n//「本物の神官と入れ替わる手筈は万端整って\r\n//います。\r\n//　実行に二分と掛かりません」\r\n\"Everything is arranged. When the time comes, we'll need barely a minute to replace the priests.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1013,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240050a11'>\r\n//「そうか。\r\n//　……狙うのはやはり<RUBY text='げぐう'>下宮</RUBY>だな？」\r\n\"All right. So you'll make your move in the lower shrine?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1266,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240060a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1382,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240070a11'>\r\n//「大将領の手の者が既に潜んでいる、などと\r\n//いうことは万一にもないのか……それだけが\r\n//懸念だ」\r\n\"My only concern is that he might have men inside. It would violate tradition, but you can never be sure.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1726,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240080a00'>\r\n//「その点は再三確かめました。\r\n//　今、村正が最後の確認を――」\r\n\"I had the same thought, so I sent Muramasa to do a sweep of the shrine. She should be just about―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2016,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240090a01'>\r\n//「大丈夫よ、御堂。\r\n//　下宮には誰もいない」\r\n\"All clear, Mido. There's no one in the shrine.\"\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240100a01'>\r\n//「どう見ても隠れ潜むには不都合な場所だし、\r\n//間違いはないでしょう」\r\n\"It's not really made for hiding. I don't think there's any risk of an ambush.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2507,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240110a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2631,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240120a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2755,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240130a11'>\r\n//「景明」\r\n\"Kageaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2875,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240140a00'>\r\n//「はい」\r\n\"Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2991,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240150a11'>\r\n//「どういう事だ」\r\n\"What is this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3128,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240160a00'>\r\n//「どういう事なのでしょうか」\r\n\"I was hoping you could tell me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3301,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240170a11'>\r\n//「他人事のように言ってどうする……」\r\n\"How the devil should I know? She's your... tsurugi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3506,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240180a00'>\r\n//「自分も途方もなく戸惑っているのです。\r\n//　御容赦下さい」\r\n\"Please understand. I'm having extreme difficulty processing this.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3756,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240190a11'>\r\n//「……そうか」\r\n\"...Right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3886,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240200a01'>\r\n//「何よ？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4012,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240210a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4136,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240220a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4260,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240230a01'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4385,
+  "en": "\r\n//　――――何故、こうなる。\r\n  How did this happen?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4462,
+  "en": "\r\n//　鎧だったのだ。\r\n  She was a suit of armor.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4528,
+  "en": "\r\n//　蜘蛛だったのだ。\r\n  She was a giant spider.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4596,
+  "en": "\r\n//　ある日突然、妙齢の女性に化ける道理がない。\r\n  She was㉓<I>not</I>㉑a strikingly attractive young woman.\r\n\r\n//　恩返しに来た鶴でもあるまいに。\r\n  Perhaps I could fathom this transformation if we were talking about a crane, but a tsurugi?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4888,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240240a00'>\r\n//（どうしろと）\r\n(How am I supposed to react?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5036,
+  "en": "\r\n//　どうしたらいいものやら。\r\n//　この姿を見るのもこれで幾度目かだが、未だにわか\r\n//らない。\r\n  I've seen her change several times already, but it never makes any sense.\r\n\r\n//　わからな過ぎる。\r\n  Is it possible for something to make negative sense? Anti-sense?\r\n\r\n//　とどのつまり自分が何を悩んでいるのかすら、良く\r\n//わからない。\r\n//　とにかくこの現状が俺の頭脳では消化不可能なのだ。\r\n  I'm not even sure what has me so confused. I just know that my brain is incapable of accepting this.\r\n\r\n//　せめて村正が<RUBY text='はがね'>鋼鉄</RUBY>のままであれば、納得のしようも\r\n//あるのだが……。\r\n  It would have been easier to cope if Muramasa were still made of metal―human-<br>shaped or no.\r\n\r\n  Alas...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5891,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240250a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6009,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240260a01'>\r\n//「どうしたの？」\r\n\"What is it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6150,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240270a01'>\r\n//「きゃっ！」\r\n\"Kya!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6278,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240280a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6396,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240290a01'>\r\n//「ぁん、やめっ、だめだってばっ！\r\n//　くすぐったいからっ。悪戯しないの」\r\n\"Ahhn! H- Hey! That tickles! You've had your fun, now cut it out!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6672,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240300a00'>\r\n//「……柔らかい……」\r\n\"...She's soft...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6818,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240310a01'>\r\n//「恥ずかしいこと言わないでよ」\r\n\"Stop talking like some kind of pervert!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7008,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240320a01'>\r\n//「どうしてそこで両手両膝を床につくの」\r\n\"Why are you banging your head against the floor!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7220,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240330a11'>\r\n//「動揺するな景明」\r\n\"Get it together, Kageaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7372,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240340a00'>\r\n//「無理です」\r\n\"I can't.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7498,
+  "en": "\r\n//　穴を掘りたい。\r\n//　そこに収まって、ひたすら膝を抱えて座っていたい。\r\n  A hole. Yes, that's what I need. A nice big hole to crawl into and hide.\r\n\r\n//　そんな心地だった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7727,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240350a11'>\r\n//「そろそろ行列が若宮大路へ入る頃合だ。\r\n//　準備せねば間に合うまい」\r\n\"The procession will be entering the main street soon. There's barely any time to prepare.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8016,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240360a00'>\r\n//「はい……。\r\n//　署長は？」\r\n\"Understood. Where will you be, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8191,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240370a11'>\r\n//「少し離れて様子を見ておく。\r\n//　万一の場合に備えねばならん」\r\n\"Watching from a distance. I need to be ready in case the worst happens.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8453,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240380a00'>\r\n//「それは？」\r\n\"The worst?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8581,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240390a11'>\r\n//「……景明。\r\n//　斬る斬らぬの判断はお前に委ねるが」\r\n\"...Kageaki. I'm willing to leave the final decision to you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8816,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240400a11'>\r\n//「中途半端な真似だけはしてくれるな。\r\n//　私の言う意味がわかるか？」\r\n\"But whatever you do, do it right. You understand what I'm saying, don't you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9092,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240410a00'>\r\n//「わかります」\r\n\"I do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9218,
+  "en": "\r\n//　親王と署長にとって最も望ましくない事態とは、俺\r\n//が護氏を殺さないと決断することではない。\r\n//　一旦は殺すと決めて襲いながら、途中で迷い、挙句\r\n//取り逃がしてしまうことだ。\r\n  The commissioner's greatest fear is not that I may decide to spare the shogun―<br>but that I may strike and, through doubt or incompetence, fail to finish the deed.\r\n\r\n\r\n//　これはまさしく最悪である。\r\n//　大将領暗殺に成功して幕府が大きな動揺をきたせば\r\n//こそ、たとえ黒幕だと感付かれても親王は生存の道を\r\n//得られるのだ。\r\n  That would indeed be the worst possible outcome. If the shogun is assassinated, then even if the prince is suspected to have ordered it, the resulting chaos will likely allow him to emerge unscathed.\r\n\r\n//　暗殺は試みたが護氏は無事でした、では間違いなく\r\n//親王の霊魂が<RUBY text='かくりよ'>幽世</RUBY>へ旅立つ。\r\n//　……その最悪の事態が迫った時、署長は親王に急を\r\n//知らせて逃亡させるつもりなのだろう。\r\n  If, however, the shogun is attacked within Hachiman Shrine and㉓<I>survives,</I>㉓then His Highness will be dead before sunset. The commissioner must want to be in a position where he can evacuate the prince should that scenario come to pass.\r\n\r\n//　成功の見込みは薄いが、やらぬよりは余程いい。\r\n//　\r\n//　無論、俺はその手配りで安心してはならないわけだ\r\n//が。\r\n  He doesn't have much chance of success, but I suppose it's better than doing nothing.<K>\r\n  Not that I'll let it come to that.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10921,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240420a00'>\r\n//「……斬ると、決意した時は……\r\n//　必ずや」\r\n\"Should I decide to strike... I will not fail.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11130,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240430a11'>\r\n//「頼むぞ。\r\n//　では、私は行く」\r\n\"Good. I'm off, then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11296,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240440a00'>\r\n//「既に警備体制が敷かれています。\r\n//　お気をつけて」\r\n\"The security perimeter is already in place. Please be careful.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11534,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0240450a11'>\r\n//「お前こそな」\r\n\"You too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11663,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240460a00'>\r\n//「こちらも始めるか」\r\n\"Let's get started.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11811,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240470a01'>\r\n//「ええ」\r\n\"Right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11935,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240480a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12053,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240490a01'>\r\n//「御堂……大丈夫。\r\n//　貴方は貴方の思うようにして」\r\n\"Don't worry about a thing, Mido. You just do what you have to do.\"\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240500a01'>\r\n//「私は必ず、貴方の求める剣になる。\r\n//　盾になって……守ってみせる」\r\n\"I'll be right beside you, ready with your sword and armor. When you have need of them, you know what to do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12605,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240510a00'>\r\n<center>orz\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12710,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0240520a01'>\r\n//「だから、どうして挫折するの！」\r\n\"Will you stop that!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12884,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0240530a00'>\r\n//「いや……別に……」\r\n\"...Right...\"\r\n",
+  "pt": ""
+ }
+]

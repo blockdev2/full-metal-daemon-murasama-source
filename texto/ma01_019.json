@@ -1,0 +1,567 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//〝すずやかな風が吹き抜ける　こころをのせて〟\r\n \r\n \r\n \r\n \r\n \r\n<center>\"I remember the clear blue sky we gazed up at in the park that day.\"\r\n\r\n//〝ぼくは走る　風を追って　君に向かって〟\r\n\r\n//〝君は笑う　噴水のそばで　両手を広げて〟\r\n\r\n//〝手をつなぐ　抱き締め合う　芝生の上で踊りながら〟\r\n\r\n//〝永遠だと　信じていた　あの日あの刻あの空〟\r\n\r\n//〝あの空の色　ずっと忘れない　僕と君の時間〟\r\n\r\n//〝あの風の音　ずっと忘れない　僕と君の夢〟\r\n\r\n//〝あの空の色　ずっと忘れない　僕と君の時間〟\r\n\r\n//〝あの風の音　ずっと忘れない　僕と君の夢〟\r\n \r\n \r\n \r\n \r\n \r\n<center>\"I remember the cool spring breeze that carried our hearts away.\"\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>\"I run and run, chasing the wind, hoping that it'll lead me to you.\"\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>\"I see you smiling by the water fountain, your arms spread wide to take me in.\"\r\n\r\n \r\n \r\n \r\n \r\n<center>\"We joined our hands, and held each other tight, as we danced upon the green, green grass.\"\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>\"I remember clearly the day, the sky beneath which we swore eternity.\"\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>\"I'll never forget the blue of the sky, the time I spent with you.\"\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>\"I'll never forget the sound of the wind, the dream we shared together.\"\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>\"I'll never forget the blue of the sky, the time I spent with you.\"\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>\"I'll never forget the sound of the wind, the dream we shared together.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1842,
+  "en": "\r\n//　淡々と。\r\n//　古い流行歌の歌詞をリズムもなく朗読しながら。\r\n//　\r\n//　彼は、来た。\r\n  The words of an old love ballad echo down the hallway, a flat recitation without melody or rhythm.\r\n\r\n  And with the song on his lips, he comes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2124,
+  "en": "\r\n//　鈴川。\r\n\r\n//　鈴川先生。\r\n//　おれたちの担任。\r\n  Suzukawa.<K>\r\n  Our teacher.\r\n\r\n//　床に投げ出された<RUBY text='・・'>ソレ</RUBY>へ、ふと悼むような眼差しを\r\n//向ける。\r\n//　反応はただ、その程度。重ささえ感じる臭気の中、\r\n//手を扇がせることもない。\r\n  He looks mournfully at the <I>thing</I>㉑crumpled on the floor, but that is his only reaction. Even amid the thick, cloying stench, he doesn't even wrinkle his nose.\r\n\r\n//　これから授業を始めるかのような落ち着いた風情。\r\n  I almost expect him to start class right here, so natural is his calm.\r\n\r\n//　ここは教室。\r\n//　教師が一人。\r\n//　生徒は三人と<RUBY text='ひとつ'>一個</RUBY>。\r\n  This is a classroom, after all. One teacher and four students, though one is unlikely to participate.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3017,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190010b57'>\r\n//「永遠に留められるかもしれないと……\r\n//　夢想したのだ」\r\n\"I thought that I could preserve their beauty forever.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3252,
+  "en": "\r\n//　もう生きてはいない教え子を見ながら。\r\n//　そう口火を切る。\r\n  His voice is a murmur, as though he were speaking to the corpse of his pupil.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3435,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190020b57'>\r\n//「人間を生かすのは血液の流れだ。\r\n//　血の流れと共に人は生き、老い、死ぬ。\r\n//　ならば、血を<RUBY text='・・'>固定</RUBY>すれば時を止められる筈\r\n//だと信じたが」\r\n\"It is the flow of blood that gives us life. In time, it carries us into old age and death. By stopping that flow, I hoped to rescue them from the ravages of time.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190030b57'>\r\n//「夢想だった。妄想だったな。\r\n//　血の動きを止められた人間は、ただ腐った\r\n//だけだった」\r\n\"But that was a delusion. I know that now. Once their blood stopped flowing, they all just rotted away.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4244,
+  "en": "\r\n//　陰々と呟き、一度口を閉じる。\r\n//\r\n//　やがてその手が<RUBY text='わなな'>戦慄</RUBY>いた。\r\n//　決してつかみ得ない何かを、それでも握り締めよう\r\n//とするかのように、何もない虚空をかきむしる。\r\n\r\n//　血走った眼で、<RUBY text='・・・・・・・・・'>有り得なかった何か</RUBY>を凝視して。\r\n//　鈴川は初めて感情を露わにした。\r\n  Here, Suzukawa falls silent. But little by little, I see his hands begin to tremble. He raises them before his face, scrabbling at the empty air, as though to grab hold of something that offers no purchase.\r\n\r\n  With bloodshot eyes, he stares longingly at something that㉒<I>could not be.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4998,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190040b57'>\r\n//「何故だ」\r\n\"Why!?\"</voice> he cries at last.\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190050b57'>\r\n//「何故だ!?　何故、失われるのだ!?\r\n//　どうして美しいものはいつまでもそのまま\r\n//でいることができないのだ!?」\r\n\"Why do they leave me!? Why don't they stay beautiful forever!?\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190060b57'>\r\n//「何故必ず、この手から零れ落ちるのだ!?」\r\n\"Why does everything slip through my fingers!?\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190070b57'>\r\n//「呪いなのか！\r\n//　これは呪いなのか！\r\n//　人が背負う宿業とかいう呪いなのか！」\r\n\"Is this a curse!? On me!? On all of us!?\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190080b57'>\r\n//「美しいものが永遠ではないのなら。\r\n//　必ず醜く朽ち果てるものであるのなら」\r\n\"If beauty cannot last forever...! If all things must grow ugly and die...!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190090b57'>\r\n//「<RUBY text='・・・・・'>人は決して</RUBY>、<RUBY text='・・・・・・・・・・・・'>幸福になれないではないか</RUBY>!!\r\n//　幸福というものがただ、不幸の母親でしか\r\n//ないのならば!!」\r\n\"Then no one can ever,㉓<i>ever</i> be happy! Not when happiness only leads to more suffering!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6604,
+  "en": "\r\n//　怨嗟と共に。\r\n//　教師はそう吐き捨てた。\r\n  His voice is choked with grief, hate, a tangle of emotions.\r\n\r\n//　絶望に装飾された憤怒。\r\n//　諦念と混合した無念。\r\n//　吐き出されるのは、そんな塊。\r\n  I hear rage, bound with the chains of despair, and regret, dulled by the grindstone of resignation.\r\n\r\n//　それは鈴川だった。\r\n//　それが鈴川だった。\r\n//　臓腑の底に押し隠されていた真意。\r\n  This is Suzukawa.<K>\r\n ㉒<I>This</I>㉓is Suzukawa, the truth of the man that he hid from us all.\r\n\r\n//　吐露は続く。\r\n//　洪水のように猛然と、延々と吐き出される。\r\n  The words keep coming, a flood that will not end.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7347,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190100b57'>\r\n//「せめてもう少しましな世界であれば！\r\n//　優しい世界であれば！\r\n//　美しい物を守り通せたかもしれないのに！」\r\n\"If only this were a brighter world! A gentler world! Then I could have saved them!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190110b57'>\r\n//「六波羅！　六波羅！\r\n//　なぜこのような時代なのだ！\r\n//　なぜ奴らごとき悪逆無慈悲な山賊づれが、\r\n//春の謳歌を許されるのだ！」\r\n\"Rokuhara! Rokuhara! Why are those jackals, those rapists and murderers, allowed to flourish and prosper!?\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190120b57'>\r\n//「神は無い！\r\n//　正義も無い！\r\n//　美しき善き人々に幸福は約束されない！」\r\n\"There is no god! There is no justice! There is no happiness for the beautiful and pure!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190130b57'>\r\n//「人面の<RUBY text='ケモノ'>畜生</RUBY>が無辜の人々を引き裂き喰らい\r\n//そうして獣はまた肥える！\r\n//　それが世界！　我々の世界だ！」\r\n\"Beasts shaped like men prey on the innocent, feasting and growing fat and strong! That is the world we live in! Those are the rules we live by!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190140b57'>\r\n//「何ができる!?\r\n//　こんな世界で！」\r\n\"What can we do!? Nothing! There's no escaping this hell!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190150b57'>\r\n//「何もできないではないか！\r\n//　三途の川の石積みだ！」\r\n\"The harder we try, the tighter our chains!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190160b57'>\r\n//「我々は鬼を喜ばせるだけの餌なのか！\r\n//　そう悟れというのか！」\r\n\"Am I supposed to accept it, then!? That we are but cattle for slaughter!?\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190170b57'>\r\n//「できようものか！\r\n//　私は守りたいのだ！　美しき諸々を！」\r\n\"How can I!? I want to <I>protect</I>㉑the beautiful!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190180b57'>\r\n//「それが叶わぬのなら。\r\n//　叶わぬのなら……どうすればいいのだ？」\r\n\"But if I can't... if there's no hope... then what am I to <br>do?\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190190b57'>\r\n//「壊すしかないではないか！\r\n//　この手で壊すしかないではないか！\r\n//　獣の餌になる前に！\r\n//　せめて――美しいうちに！」\r\n\"Destroy them! What else!? With my own two hands! Before they become food for the beasts! While their beauty is still whole!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10317,
+  "en": "\r\n//　絶叫。\r\n//　最後は絶叫だった。\r\n//　神と世界を呪う気迫の。\r\n  And finally, he howls―<br>howls in condemnation of this world and its gods.\r\n\r\n//　上天を睨み、殺意を注ぎ――そしてがくりと、両腕\r\n//を落とす。\r\n//　<RUBY text='しぼ'>搾</RUBY>り<RUBY text='かす'>滓</RUBY>のような呻きが、鈴川の喉から洩れた。\r\n  He lifts his accusing gaze to the heavens and disgorges his hate... then falls limp, arms dropping to his sides as though the life has left him.\r\n\r\n  The last few words fall from his lips like the dregs of a dirty sponge.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10944,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190200b57'>\r\n//「壊すしか……ないんだ」\r\n\"I have to... destroy them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11106,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190210b56'>\r\n//「……そんな……」\r\n\"...no...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11241,
+  "en": "\r\n//　希薄さを競うかのような擦れ声。\r\n//　誰の声だろうか。\r\n  An even fainter voice―but whose?―resists the silence.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11397,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190220b56'>\r\n//「先生が、やったのかよ、これ。\r\n//　なんで……」\r\n\"You did this? Why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11585,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190230b57'>\r\n//「欲しいからだよ新田。\r\n//　惜しいからだよ新田」\r\n\"Because I love them, Nitta.\r\n  Because I lose them, Nitta.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11813,
+  "en": "\r\n//　鈴川はなぜか、おれを見て答えた。\r\n  Suzukawa's gaze is fixed on me, though surely it wasn't I who spoke.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11950,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190240b57'>\r\n//「美しいものが腐り果て失われることに私は\r\n//耐えられない。耐えたくもない。\r\n//　私は見たのだ……」\r\n\"I cannot bear to watch the things I treasure rot and die. Never again. I saw it with my own eyes...\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190250b57'>\r\n//「美しかった妻子の顔が病み衰えてゆくのを。\r\n//　いつも温かな言葉をくれた口が苦悶の喘鳴\r\n//しか聞かせてくれなくなるのを。\r\n//　目の当たりにしていたのだ。何もできずに」\r\n\"I watched as my beautiful wife and daughter wasted away, as their loving whispers turned to cries of agony and despair.\r\n  I watched, yet did nothing.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190260b57'>\r\n//「ああ……あの時私は行動するべきだった！\r\n//　手をつかねてただ見ているのではなく！」\r\n\"Ahh! If only I'd acted then! If only I hadn't stood by!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13048,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190270b57'>\r\n//「あの子らが醜くなってしまう前に、美しい\r\n//うちに、終わらせてやるべきだった！\r\n//　苦しみから救ってやるべきだった！」\r\n\"I should have ended it while they were still beautiful! Before disease made them ugly! I should have saved them from their suffering!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190280b57'>\r\n//「あの時の私にはそれができなかった……」\r\n\"But I couldn't.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190290b57'>\r\n//「希望だよ！\r\n//　希望を捨てられなかったのだ！　この世に\r\n//は救い主がいて、慈悲を垂れてくれるという\r\n//希望を！」\r\n\"It was hope! Hope stayed my hand! The hope that, somewhere in this wide world, there was a loving god who would show them mercy!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14006,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190300b57'>\r\n//「……人が呪われているのなら、この希望と\r\n//いうやつこそは最後の一筆だと思わないか。\r\n//　囚人を拷問台から逃さないための鉄の枷だ」\r\n\"If mankind is truly cursed, then hope is the nail that seals our fate. Don't you agree? It's the iron shackle that keeps us bound to the chopping block.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14449,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190310b57'>\r\n//「だが私はもう後悔したくない。\r\n//　そんな希望は二度と持たない」\r\n\"But no more will I regret. No more will I hope.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190320b57'>\r\n//「今この時は悪意の御世だ。\r\n//　美しいものは必ず失われる。\r\n//　守り通す方法はない。\r\n//　だから」\r\n\"This world is ruled by greed and malice. All that is beautiful will be ground to dust.\r\n  And so―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15022,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190330b57'>\r\n//「愛する美しき諸々よ。\r\n//　私のこの手で、破壊する」\r\n\"My beautiful, precious children. Come, and die by my hand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15256,
+  "en": "\r\n//　轟音が室内を揺るがした。\r\n//　濛々たる粉塵。\r\n  A crash rocks the classroom. Dust and debris clog the air.\r\n\r\n//　床が割れる。\r\n//　硬い板張りの床面に、いかなる力でか、長く深々と\r\n//亀裂が走る。\r\n  Something has burst through the building's floor, splintering the hard wood like candy glass.\r\n\r\n//　その根元は鈴川の後方。\r\n  The cracks, long and deep, all lead to the same point at Suzukawa's back.\r\n\r\n//　埃の雲が晴れる。\r\n//　<RUBY text='・・'>それ</RUBY>が己の異形を<RUBY text='さら'>晒</RUBY>す。\r\n  The dust clears, revealing a monstrous shape.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15916,
+  "en": "\r\n//　<RUBY text='むかで'>蜈蚣</RUBY>。<RUBY text='むかで'>百足</RUBY>だ。\r\n//　無数の足を備えた長虫が、鈴川の背後で首を<RUBY text='もた'>擡</RUBY>げる。\r\n  A centipede, its hundred legs wriggling at Suzukawa's back.\r\n\r\n//　キチキチと顎を鳴らし。\r\n//　一対の触覚を揺らし。\r\n  Its crushing mandibles clack together. Its paired antennae sniff the air.\r\n\r\n//　眼は何処に付くとも知れず。\r\n//　鋼のような甲殻は、薄闇に瞬く黄銅色。\r\n  Compound eyes peer down at us, and its hard exoskeleton gives off a faint yellow sheen, like burnished steel.\r\n\r\n//　ごく平凡な虫けらの形に他ならない。\r\n//　何処ででも、土を掘れば這い出て来よう。\r\n  Its shape is perfectly ordinary, no different than the centipedes you find lurking under fallen logs. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16791,
+  "en": "\r\n//　しかしその巨躯は、果たして何の諧謔か。\r\n  But its size! What insanity is this?\r\n\r\n//　頭部の位置が鈴川を凌駕している。\r\n//　胴体の半ば――あるいはそれ以上？――は未だ床の\r\n//下に埋まったまま。\r\n  It dwarfs Suzukawa, its head brushing the rafters, though half of its body―<br>perhaps more―remains buried in the floor. Each of its legs is as long and thick as a grown man's arm.\r\n\r\n//　無数の足のただ一本が、人間の腕にも匹敵する。\r\n\r\n\r\n//　このような蜈蚣がいるものなのか。\r\n//　否。\r\n//　自然の内には在るはずもない。\r\n  Can such a centipede truly exist? No. Not in the natural world.\r\n\r\n//　とくと見れば。\r\n//　鋼鉄めいた甲殻はその実、真に鋼鉄で出来ている。\r\n  And indeed, I slowly come to realize that its shining carapace <I>is</I> made of steel.\r\n\r\n//　――<RUBY text='ツルギ'>劔冑</RUBY>。\r\n//　聞き流しに聞いていた、歴史の講義を思い出す。\r\n  A tsurugi. I recall one of our history lectures, a few words that slipped into my head while I wasn't paying attention.\r\n\r\n//　名工の鍛錬を経た上格の劔冑は、\r\n//　動物を模した姿に変じ、独自の力で動き得る。\r\n  True tsurugi, those forged by peerless artisans, are able to take the form of animals and act independently of their masters.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18220,
+  "en": "\"Shinkai.\"",
+  "pt": ""
+ },
+ {
+  "offset": 18238,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190340b57'>\r\n//　\r\n//　　　　　　　　「<RUBY text='シンカイ'>真改</RUBY>」\r\n<center>\"Shinkai.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18430,
+  "en": "\r\n//　蜈蚣が割れた。\r\n//　十数、あるいは数十の破片と化し、鈴川を囲うよう\r\n//に散る。\r\n  The centipede bursts apart. Its pieces scatter, surrounding Suzukawa like a cage of bronze.\r\n\r\n//　鉄甲の渦の中。\r\n//　ゆるゆると腕が上がった。\r\n\r\n//　――構だ。\r\n//　\r\n//　静止した脳裏の地平に単語が咲く。\r\n  In their midst, he takes a stance. A phrase stirs in a corner of my frozen mind.\r\n\r\n//　――<RUBY text='ソウコウノカマエ'>装甲ノ構</RUBY>。\r\n//　\r\n//　武者の礼法、その第一。\r\n  The Rite of Armoring.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19045,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190350b57'>\r\n//「いかで我がこころの月をあらはして」\r\n<center>\"How might I call forth the moon from my soul?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19252,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190360b57'>\r\n//「闇にまどへるひとを照らさむ」\r\n<center>\"That its light may shepherd the lost through the darkness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19463,
+  "en": "\r\n//　そうして。\r\n//　そこに武者が現れた。\r\n  And then, it stands before us.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19566,
+  "en": "\r\n//　<RUBY text='・・'>武者</RUBY>。\r\n//　この世の最強武力が。\r\n//　おれの、目の前に。\r\n  A musha, the embodiment of might.\r\n\r\n//　戦闘の<RUBY text='かた'>形</RUBY>こそとっていないものの――\r\n//　いや。\r\n//　何を馬鹿な。\r\n  He hasn't drawn his sword yet, but what difference does that make?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19925,
+  "en": "\r\n//　<RUBY text='・・・・'>戦闘の形</RUBY>？\r\n//　並みの人間など指一本で殺せる<RUBY text='もの'>存在</RUBY>が、なぜそんな\r\n//ことをする必要がある？\r\n  What need would a musha, who can kill a man with a flick of his finger, have of a sword in this place?\r\n\r\n//　関係ない。\r\n//　構えていようが寝ていようが。それは一呼吸にすら\r\n//満たない時間で、一個の生命を破壊できる存在なのだ。\r\n  Even were he sound asleep, he could surely kill any one of us before we had time to draw breath.\r\n\r\n//　それがそこにいる。\r\n//　<RUBY text='・・・・・'>おれたちに</RUBY>、<RUBY text='・・・・・・・'>破壊を宣告して</RUBY>。\r\n  A musha is here... and he has promised us death.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20732,
+  "en": "\r\n//◆以下、金打声\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190370b57'>\r\n//「飾馬、新田、稲城、来栖野……。\r\n//　お前達は良い仲間だな」\r\n\"Kazama, Nitta, Inagi, Kurusuno. You four are truly the best of friends.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190380b57'>\r\n//「いつも互いが互いを思いやっている。\r\n//　それでいて遠慮なく付き合えている。\r\n//　美しい関係だ。これ以上ないほど……」\r\n\"Always thinking about each other, yet free and easy at play. Your friendship is beautiful... dazzlingly so.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190390b57'>\r\n//「腐らせたくはない。\r\n//　いつか訪れる無惨な破局を見たくはない。\r\n//　だから終わらせよう。\r\n//　今ここで」\r\n\"I won't let you rot. I've no wish to bear witness to the inevitable collapse, the inevitable misery. Therefore I will end it, here and now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21772,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190400b56'>\r\n//「あわっ……」\r\n\"Ahh...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21900,
+  "en": "\r\n//　殺される。\r\n//　唐突な理解。\r\n  Understanding comes in a flash. I'm going to die.\r\n\r\n//　このままでは殺される。\r\n//　現実逃避をもはや許さぬまでに具象化した死の脅威。\r\n  Before me is death itself, in a form so unmistakable as to crush any attempt at denial.\r\n\r\n//　武者！\r\n//　武者！\r\n//　武者！\r\n  My brain screams musha! Musha! Musha!\r\n\r\n//　死！\r\n//　死！\r\n//　死ッ！\r\n  Death! Death! Death!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22381,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190410b56'>\r\n//「あひっ――ひぃ。ひぃぃ……」\r\n\"Ahh! Aieeee!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22538,
+  "en": "\r\n//　なぜ？\r\n//　なぜ武者が？\r\n  Why? Why is a musha here?\r\n\r\n//　武者といえば六波羅のはず。\r\n//　けど鈴川は六波羅じゃない。\r\n  Musha equals Rokuhara, but Suzukawa isn't Rokuhara.\r\n\r\n//　だってのに、なぜ。\r\n//　なぜ鈴川が武者に!?\r\n  So why is he a musha!? This isn't right!\r\n\r\n//　こんなのは嘘だ。\r\n//　こんなこと、嘘だ間違いだ有り得ない！\r\n  This can't be happening!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23002,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190420b56'>\r\n//「ひぃ……」\r\n\"Eee...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23127,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190430b57'>\r\n//「逃げるな。新田」\r\n\"Don't run.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23264,
+  "en": "\r\n//　鈍くくぐもった声で、囁いてくる鈴川。\r\n//　逃げるなと言いつつ、追う素振りもない。\r\n  Suzukawa's muffled voice speaks to me.\r\n  <I>Don't run,</I>㉓he says, yet makes no move to follow.\r\n\r\n//　<RUBY text='・・・・・・・・・・・・・・'>まだ逃がしてなどいないからだ</RUBY>。\r\n//　まだ殺傷圏の内側なのだ。\r\n  After all,㉓<I>I haven't escaped.</I> I'm still within his reach.\r\n\r\n//　どこ。\r\n//　どこへ。\r\n//　どこまで。\r\n//　どこまで逃げれば。\r\n  Where can I hide? How far must I run?\r\n\r\n//　足腰が立たないから、尻をずりずりと押し動かして、\r\n//おれは一体どこまで逃げ延びれば、\r\n//　騎航一閃万里を駆ける、武者の刃下から脱せられる\r\n//のか!?\r\n  I can't stand. How long will it take me, dragging my ass across the floor, to escape this musha who can cross a thousand leagues with one burst of his engine?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24249,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190440b57'>\r\n//「恐ろしいのなら、眼を瞑れ。\r\n//　眠るように、<RUBY text='・・・・・・・'>終わらせてやる</RUBY>」\r\n\"If you're afraid, close your eyes. I'll end it quickly. It'll be just like going to sleep.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24572,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190450b56'>\r\n//「あひ……」\r\n\"Ahh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24696,
+  "en": "\r\n//　ぶんぶんと首を振る。\r\n//　両目を見開く。\r\n  I shake my head desperately, eyes open wide.\r\n\r\n//　閉じたら駄目だ。\r\n//　一つ瞬きしたその刹那、おれはきっと殺されている。\r\n  I mustn't close them. One blink, and I'm dead.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24981,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190460b57'>\r\n//「……ふむ……」\r\n\"Hmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25111,
+  "en": "\r\n//　首を巡らす武者。\r\n//　小夏と忠保、おれのほかの二人を眺めたのか。\r\n  The musha turns his head to look at Konatsu and Tadayasu.\r\n\r\n//　そしてそこに、おれと同様の様子を見て取ったのか。\r\n//　鉄面の奥で、嘆息の音がした。\r\n  And then, perhaps seeing in them the same thing he sees in me, he sighs behind his steel mask.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25511,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190470b57'>\r\n//「お前達にはまだわからないのだな。\r\n//　この世の悪意というものが……」\r\n\"You three still don't understand, do you? You don't know how cruel the world is.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190480b57'>\r\n//「そうだろう。\r\n//　お前達は今こそ幸福の<RUBY text='さなか'>最中</RUBY>にあるのだから」\r\n\"Of course you don't. These are the best years of your <br>life.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190490b57'>\r\n//「無知だけが幸福を許す。\r\n//　<RUBY text='エデン'>楽園</RUBY>の伝説は全く正しい」\r\n\"Only the ignorant are allowed happiness. The legends of Eden have it right.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190500b57'>\r\n//「知れば幸福は終わりだ。\r\n//　……しかし知らねば、お前達は私の手から\r\n//逃れようと足掻く。それでは死が苦痛になる」\r\n\"Knowledge is the end of happiness. You don't know, so you reject what I offer, even though it will only make your deaths harder.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190510b57'>\r\n//「いや……お前達の死は救済でなくてはなら\r\n//ない。安らかなものでなくては。\r\n//　だから……教育しよう」\r\n\"We can't have that. Death must be salvation. It must come as a blessing. ...You need some foundation.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190520b57'>\r\n//「お前達の担任として。\r\n//　最後の授業をしよう」\r\n\"This will be our last class, my final responsibility as your teacher.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190530b57'>\r\n//「美しさの崩壊をお前達に教えよう。\r\n//　死の安息の前に、生の苦痛を教えてやろう」\r\n\"I will show you how beauty crumbles. I will teach you suffering before I grant you death.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27602,
+  "en": "\r\n//　涼やかに、金音が鳴った。\r\n//　ゆるゆると抜き放たれる白刃。\r\n  With a cold, metallic sound, the musha draws his sword.\r\n\r\n//　細い。\r\n//　実用の武器というより、王侯貴族の飾り刀剣のよう。\r\n  The gleaming blade is slender, more suitable for a ceremonial procession than for actual battle.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27960,
+  "en": "\r\n//　……違う。\r\n//　刀は大物。おれの腕よりも身幅のある大剛刀だ。\r\n  ...No. I'm wrong. The blade is massive, wider than my entire arm.\r\n\r\n//　そんなものが細身に見えてしまう程、黄銅色の劒冑\r\n//が重厚極まりないのだ……。\r\n  It only㉒<I>looked</I>㉔slender when compared to the titanic bulk of the tsurugi holding it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28353,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190540b57'>\r\n//「今からのことは……最後の夢だ。\r\n//　現実ではない。そう思え」\r\n\"From now on, this is only a dream. Nothing that happens is real. Keep telling yourselves that.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190550b57'>\r\n//「お前達は――美しいまま、死ぬべきなのだ\r\n//から」\r\n\"You must die beautiful, after all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28837,
+  "en": "\r\n//　武者が消えた――視界から。\r\n//　そう、認識した刹那。\r\n  The musha vanishes from sight. An instant later―\r\n\r\n//{\tSoundPlay('@mbgm37',0,1000,true);}\r\n//　すいと<RUBY text='・・・・'>後ろから</RUBY>、おれの視野に伸びてくる刃先。\r\n//　首筋の産毛を撫でながら。\r\n  His blade slides into view from㉓<I>behind</I>㉔me, its edge grazing the little hairs on my neck.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29278,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190560b57'>\r\n//「今この場に、一つのルールがあるとしよう。\r\n//　他人を犠牲にした者は助かるというルール\r\n//だ」\r\n\"Let's set the following rule. Whoever sacrifices another will be spared.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29587,
+  "en": "\r\n//　背後の頭上。\r\n//　ぞっとするほどの近さで、その声は降る。\r\n  His voice comes from just above my head, its proximity chilling me to the bone.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29769,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190570b57'>\r\n//「忌まわしいルールだと思うか？　ああ……\r\n//何とも忌まわしいことだ。\r\n//　だがな。真に忌むべきは……このルールが\r\n//別段、<RUBY text='・・・・・・・・・'>特殊なものではない</RUBY>という事実だ」\r\n\"Do you find this rule appalling? Of course you do. But what's truly appalling... is that there isn't anything㉓<I>unusual</I>㉔about it.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190580b57'>\r\n//「人の食料を奪えば自分は飢えない。\r\n//　人の金を奪えば自分は富み栄える。\r\n//　世界の仕組みはそう出来ている。私は教師\r\n//として、この真実を正しく教えよう」\r\n\"If you take another's food, you will not starve. Take another's money, and you will prosper. That is how the world works.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190590b57'>\r\n//「来栖野」\r\n\"Kurusuno.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30834,
+  "en": "\r\n//　名を呼ばれて、小夏はびくりと竦み上がった。\r\n//　返事などできない。恐怖に満ちた目で、おれの背後\r\n//に立つのだろう武者を見上げるばかりだ。\r\n  Konatsu jerks at the sound of her name, but says nothing. She just stares at the musha I can feel behind me, eyes white with fear.\r\n\r\n//　しかし鈴川は構わない。\r\n//　続ける。\r\n  Suzukawa continues, unperturbed.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31282,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190600b57'>\r\n//「<RUBY text='・・・・・・・・・・・・・・・・・'>自分の代わりに新田を殺してください</RUBY>、と\r\n//言ってみろ」\r\n\"Ask me to kill Nitta instead of you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31572,
+  "en": "\r\n//　――――。\r\n//  ――――\r\n\r\n//　なんだろう。\r\n//　今のは、なんだろうか。\r\n  ...What?<K>\r\n  What was that?\r\n\r\n//　なにか、とてつもなく……おぞましい言葉だった、\r\n//ような。\r\n//　どういう、意味、だろうか。\r\n  I feel like I heard something horrible. What was it?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31918,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190610b57'>\r\n//「……そう言えばお前は助かるとしよう。\r\n//　どうだ？　来栖野」\r\n\"Do that, and I will spare you. How about it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32153,
+  "en": "\r\n//　背後の口が言葉を切る前に。\r\n//　返事はなかった。だが返答はあった。\r\n\r\n//　小夏がぷるぷると、首を左右に激しく振っている。\r\n//　恐怖に強張り、声も出せないまま。\r\n  Her response comes before the musha has finished. She shakes her head emphatically, though no sound escapes her throat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32523,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190620b57'>\r\n//「そうだろう」\r\n\"Naturally.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32654,
+  "en": "\r\n//　平然と、頷く気配が頭上にある。\r\n  I sense the musha nod calmly above me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32758,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190630b57'>\r\n//「忌まわしいルールに対して、人は無力では\r\n//ない。\r\n//　心根の美しさ――美意識が、対抗する力に\r\n//なる」\r\n\"We are not powerless against rules that we find abhorrent. Our conscience, the sense of beauty at the core of our being, allows us to resist them.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190640b57'>\r\n//「人間としての正しい美意識は、他人を犠牲\r\n//にして己を救うが如きを良しとしない。\r\n//　醜いと、浅ましいと感じるからだ。人の心\r\n//には確かに、そうした働きがある」\r\n\"A healthy person's conscience will not condone the sacrifice of another for his own sake. He will find it ugly, contemptible, offensive to his sensibilities.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33637,
+  "en": "\r\n//　美しさを。愛してやまぬ、人の美を語りながら。\r\n//　声には喜びの一片もない。\r\n  As he speaks of beauty, the human beauty he so loves, there is no trace of joy in his voice.\r\n\r\n//　なぜ？\r\n  Why?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33885,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190650b57'>\r\n//「だが」\r\n\"However,\"</voice> he continues, his tone clinical.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34046,
+  "en": "\r\n//　淡々と声を継ぐ、\r\n//　――その口は先刻、\r\n//　美の脆弱さを慨嘆したのではなかったか。\r\n  Wasn't he lamenting the weakness of beauty a moment ago?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34245,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190660b57'>\r\n//「その美意識を支えるものは……\r\n//　現実に対する想像力の不足に過ぎない」\r\n\"That sense of beauty is only able to function... because we lack the capacity to imagine what horrors reality can visit upon us.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34579,
+  "en": "\r\n//　眼前で――光が、\r\n//　流れた。\r\n  A flash of light passes before my eyes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34682,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190670b56'>\r\n//（…………何？）\r\n(...Huh?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34813,
+  "en": "\r\n//　<RUBY text='・・・・・'>何かされた</RUBY>。\r\n//　本能的に、そう悟る。\r\n  He㉓<i>did</i>㉔something to me, I realize instinctively.\r\n\r\n//　しかし……何を？\r\n//　白銀の刃が斜めに、視界を走っている……。\r\n  But... what? His shining blade is poised vertically before my eyes...\r\n\r\n//　その先。\r\n//　その先端に。\r\n  And its tip... its tip is...\r\n\r\n//　出血はなかった。\r\n//　だから、だろう。\r\n//　自覚がひどく遅れたのは。\r\n  There's no blood. That must be why I didn't notice at first.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35406,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190680b56'>\r\n//（……あれ？）\r\n(...Huh?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35534,
+  "en": "\r\n//　刺さっている。\r\n//　太刀はおれの、<RUBY text='・・・・・・・・・・・・'>足の甲に突き刺さっている</RUBY>。\r\n  Its tip is㉓<I>buried in my foot.</I>\r\n\r\n//　なのに、血は一滴もこぼれていない。\r\n//　現実感を刺激しない光景。\r\n  But there's no blood. The sight doesn't seem real.\r\n\r\n//　苦痛も――\r\n//　ない。\r\n  And... there's no pain, even.\r\n\r\n//　だがこの時も、本能は素早く察していた。\r\n//　今はただ……頭が現実に追いついていないだけなの\r\n//だと。\r\n  Once again, it is my instinct that first realizes the truth. My brain hasn't caught up yet.\r\n\r\n//　――現実を、捕まえる。\r\n  Here it comes.\r\n\r\n//　<RUBY text='・・・・'>刃が回る</RUBY>。\r\n//　<RUBY text='・・・・・・・・・・・・・'>おれの足に突き刺さったまま</RUBY>。\r\n  The blade twists.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36465,
+  "en": "\r\n//　灼熱。\r\n//　暴発。\r\n//　噴流。\r\n  Lightning surges through my body, searing me to the core.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36584,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190690b56'>\r\n//「ぎっ――」\r\n\"Mmph―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36709,
+  "en": "\r\n//　全身を駆け巡る高圧電流。\r\n//　そんなような何か。\r\n\r\n//　苦痛。\r\n//　それは膨大な、苦痛。\r\n  Pain. There's nothing but pain.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36886,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190700b56'>\r\n//「ぎぁぁぁぁァァァァアアアアアアアアア!!」\r\n\"AAAAAAHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37063,
+  "en": "\r\n//　神経という神経を埋め尽くす苦痛の群れ。\r\n//　けれど足りない。神経が足りない。多過ぎる苦痛が\r\n//口から溢れる。\r\n  Every nerve in my body cries out, but they are not enough to contain it. The pain overflows, bursting from my throat.\r\n\r\n//　おれは吠えた。\r\n//　獣の咆哮だった。\r\n  I howl, the voice of a wounded beast.\r\n\r\n//　薄汚れた床の上を転がり、のたうち回りながら、罠\r\n//に食われたけだものと化して吠え猛る。\r\n//　粉々に千切れ飛んだ意識の一つが、小夏と忠保から\r\n//注がれる、絶望的な視線を感じていた。\r\n  I writhe helplessly on the dusty floor, wailing and moaning like a fox in a trap. In some still-intact corner of my mind, I sense Konatsu and Tadayasu looking on in abject despair.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37915,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190710b57'>\r\n//「さて」\r\n\"Now then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38036,
+  "en": "\r\n//　声が遠い。\r\n//　この世界の支配者の声。\r\n  His voice is distant, like that of a king on his throne.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38168,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190720b57'>\r\n//「新田に訊くのは無理だな。では、来栖野。\r\n//もう一度お前に訊いてみよう。\r\n//　このまま<RUBY text='・・・・・・・'>お前の代わりに</RUBY>新田を痛めつけて\r\n//も構わないか？」\r\n\"Nitta is in no condition to answer, so it's back to you, Kurusuno. Shall I keep torturing Nitta instead of <br>you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38623,
+  "en": "\r\n//　また、おぞましい言葉。\r\n//　続く沈黙は、先の時よりも長かった。\r\n  Another horrifying question. The silence that follows is longer than before.\r\n\r\n//　おれには何を聞く余裕も見るゆとりもない。\r\n//　しかし鈴川は、答えを受け取ったようだ。\r\n  I'm in no position to see or hear her, but Suzukawa seems to recognize her answer.\r\n\r\n//　……同じ返答を。\r\n  ...The same answer as before.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39096,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190730b57'>\r\n//「そうか。宜しい。\r\n//　来栖野。お前の美意識は苦痛の想像に耐え\r\n//られるということだ」\r\n\"I see. Well done, Kurusuno. Your conscience is strong enough to resist the threat of pain.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190740b57'>\r\n//「だが……苦痛は、恐怖の一つに過ぎない。\r\n//　全てでもなければ最大でもない」\r\n\"However, pain is but one of many horrors. It is not the only, nor is it the greatest.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39700,
+  "en": "\r\n//　ようやっと、ほんのわずか、落ち着いてきた感覚の\r\n//暴走――それは苦痛が和らいだのではなく、単に神経\r\n//が焼き切れただけだとわかっていた――のなか、背後\r\n//の気配が移るのを感じ取る。\r\n  As the storm of pain finally starts to calm―though I know it's just my nerves overloading, and not an end to the pain itself―I sense the musha move away.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40142,
+  "en": "\r\n//　そして、息を呑む音と、布団を投げたような音。\r\n//　横転したまま視線を動かせば、何をどうされたのか、\r\n//小夏が仰向けに倒れ、それを黄銅の武者が見下ろして\r\n//いた。\r\n  Then I hear a gasp, and what sounds like a futon hitting the floor. Straining to bring my neck around, I look to see Konatsu lying on her back with the bronze musha over her.\r\n\r\n//　両手には逆手に持ち替えた太刀。\r\n//　切先は、小夏の喉元を指している。\r\n  The musha has his sword in a reverse grip, its tip hovering above Konatsu's throat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40767,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190750b57'>\r\n//「これが死の恐怖」\r\n\"This is the fear of death.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40920,
+  "en": "\r\n//　まさか、動けるはずもない。小夏は凝固した瞳で、\r\n//己に限りなく接近している鋼鉄を見詰める。\r\n//　それだけしかできない。\r\n  Her eyes are locked on the glittering blade. She can't move a muscle. She can't do a thing.\r\n\r\n//　武者は違うだろう。\r\n//　多くのことができるはずだ……手にした太刀をあと\r\n//三センチばかり、下へ落とすことも含めて。\r\n  The musha, however, has infinite options, one of which is to lower his weapon just three centimeters more.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41491,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190760b57'>\r\n//「私がそうしようと思えば……\r\n//　いや。思わずとも、手元がほんの少し狂う\r\n//だけで――来栖野。お前は死ぬ」\r\n\"Should I wish it―or should my grip falter even a little―you will die.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190770b57'>\r\n//「お前は死に晒されている」\r\n\"You are facing death.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41971,
+  "en": "\r\n//　噛んで含めるように、言い聞かせる鈴川。\r\n//　聞き慣れた声で。\r\n//　教室で授業をする、そのままの声で。\r\n  He enunciates every word to make the message clear, speaking with the same calm tone I've heard in countless lectures―a touch of the familiar to add spice to the nightmare.\r\n\r\n//　それこそが総毛を逆立たせた。\r\n//　日常を思わせるその声は、今この場の非日常ぶりを\r\n//際立たせずにはおかないものだったから。\r\n\r\n//　狂っている。\r\n//　この教室は狂っている。\r\n  We are pupils in a mad class, led by a mad teacher.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42622,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190780b57'>\r\n//「……どうする。\r\n//　ルールは覚えているな？」\r\n\"You know the rules. How about it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42822,
+  "en": "\r\n//　降り注ぐ声。\r\n//　小夏は答えない。\r\n//　何も答えられない。\r\n  Konatsu does not reply. She cannot reply.\r\n\r\n//　だが、これは授業なのだ。\r\n//　教師は無回答を認めない。\r\n  But of course, no teacher will take silence for an answer.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43117,
+  "en": "\r\n//　――切先が、<RUBY text='・・・・'>二センチ</RUBY>ばかり落ちた。\r\n  The blade drops two centimeters.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43254,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0190790b33'>\r\n//「……ッ！」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43376,
+  "en": "\r\n//　細く鋭い呼気が小夏の喉から洩れる。\r\n//　一瞬、<RUBY text='・・・・・'>口ではない</RUBY>穴からの音かと、慄然とした。\r\n  A gasp escapes Konatsu's throat. For one terrible second, I wonder if it's coming from a㉓<I>new</I>㉔hole.\r\n\r\n//　刺さっていない。刺さってはいない。\r\n//　触れるか、触れないか……あるいはわずかに皮一枚、\r\n//抉っているかもしれない。\r\n  But it isn't. The blade has not yet entered her flesh. It's only brushing against her throat, perhaps piercing a single layer of skin at most.\r\n\r\n//　喘ぎたいが喘げない様子で、小夏の唇がわななく。\r\n  Konatsu's lips tremble, as though she wants to cry out but can't.\r\n\r\n//　武者は沈黙している。\r\n//　再度の問いを発しはしない。だがそれは無論、その\r\n//意思がないからではなく、必要がないからだった。\r\n  Suzukawa is silent. He does not repeat his query.\r\n  But then, he does not have to.\r\n\r\n//　鈴川の問いは太刀の先端に集約されている。\r\n//　もはや決して、逃れようのない距離の。\r\n  His question is focused in the tip of his blade, impossible for Konatsu to forget or ignore. \r\n\r\n//　死の脅威。\r\n//　死の脅迫。\r\n  It is the threat of imminent death.\r\n\r\n//　それに小夏は、<k>\r\n//　……沈黙を通した。\r\n  And Konatsu...<k> keeps her silence.\r\n\r\n//　指先一つ動かせないほど、恐れ<RUBY text='おのの'>慄</RUBY>いていたけれども、\r\n//　鈴川が要求する言葉を、口にすることはなかった。\r\n  Despite her terror, she does not give in to Suzukawa's demand.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45085,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190800b57'>\r\n//「……うむ」\r\n\"...Well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45211,
+  "en": "\r\n//　ここに至ってようやく、鈴川の声には意外さの色が\r\n//混じった。\r\n  For the first time since this all began, Suzukawa shows surprise.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45385,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190810b57'>\r\n//「思っていた以上に、お前達の絆は堅固だな。\r\n//死をもって脅されても、仲間を犠牲にはでき\r\n//ないか。\r\n//　……美しいな。良いものだ」\r\n\"Your bond is stronger than I expected. Even under the threat of death, you cannot sacrifice your friend. ...Beautiful. Truly beautiful.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45809,
+  "en": "\r\n//　太刀の先端が――\r\n//　離れてゆく。\r\n  And then―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45890,
+  "en": "\r\n//　太刀の先端が――\r\n//　離れてゆく。\r\n  Suzukawa lifts his sword from Konatsu's throat.\r\n\r\n//　はあっと、重石から解放されたかのように、小夏が\r\n//大きく呼吸する。\r\n//　おれもそれに続いた。今なお全身を痺れさせる苦痛\r\n//の中で安堵する。\r\n  Konatsu exhales, a great whoosh of air like a heavy boulder has lifted from her chest. I follow suit, feeling relief wash over me even through the pain.\r\n\r\n//　とにかく――この瞬間は逃れた。\r\n//　まだ全然、安全ではないが。\r\n  That's one threat past. Not that we're in any less danger.\r\n\r\n//　血の巡りが多少、正常に戻ったのを感じる。\r\n//　ささやかながら思考能力が回復している。\r\n  I can feel my senses returning little by little. My thoughts regain some semblance of order.\r\n\r\n//　落ち着け。\r\n//　落ち着いて――行動するんだ。\r\n//　生き延びるために。\r\n  Calm down.\r\n\r\n  Calm down... and get us out of this.\r\n\r\n//　鈴川は……おかしいが……少なくとも、話はできる。\r\n//　そして、おれたちを憎んでいるわけでは、ない。\r\n  Suzukawa is nuts, but he can be talked to, and he doesn't㉒<I>want</I>㉑to hurt us, right?\r\n\r\n//　なら……何とかなる。\r\n//　そう信じる。\r\n  So there has to be something I can do. I'm sure of it.\r\n\r\n//　刺激しないように、言葉を選んで……どうにか。\r\n  I just need to find the right words, and be careful not to provoke him.\r\n\r\n//　全速力で思考し。\r\n  Come on. You can do this.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47511,
+  "en": "\r\n//　おれは視線を上げた。\r\n//　――鈴川もおれを見ていた。\r\n  I look up. Suzukawa is staring at me.\r\n\r\n//　口にしかけていた、全ての言葉が消失する。\r\n//　――鋼鉄の眸がおれを収めている。\r\n  Whatever I was about to say vanishes from my mind instantly. I see myself reflected in his cold steel eyes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47880,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190820b57'>\r\n//「では――」\r\n\"Now then...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48009,
+  "en": "\r\n//　何か言え。\r\n//　言うんだ。\r\n//　――誰かがそう命じている。\r\n  Say something.<K>\r\n  Say something!\r\n\r\n//　<RUBY text='・・・・'>でないと</RUBY>、\r\n  <I>If you don't―</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48231,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0190830b57'>\r\n//「――次だ」\r\n\"Let's move on.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48363,
+  "en": "\r\n//　走る剣閃。\r\n//　空を裂く擦過音。\r\n  His blade flashes. I hear it slice the air.\r\n\r\n//　何かが切れた音は――しない。\r\n//　安堵すべきはずのその事実がうそ寒い。\r\n  There's... no sound of it cutting flesh. Yet somehow, I can't bring myself to feel relief.\r\n\r\n//　反射的に、おれは首へ手をやっていた。\r\n//　……斬られた!?\r\n  My hand goes to my throat. Did he cut me!?\r\n\r\n//　血の感触はない。\r\n//　それは、いまだに出血しない足の傷を思えばなんの\r\n//よすがにもならなかったが。\r\n  There's no blood. But there's no blood coming from my foot either, so that doesn't comfort me one bit.\r\n\r\n//　しかし、首はちゃんと、繋がっている。\r\n//　落ちる気配はない。\r\n  ...Okay. My head's still attached, or seems to be.\r\n\r\n//　少なくとも死んではいない。\r\n//　背筋に覚える凍るような冷気はまだ拭えないながら、\r\n//おれは最低限度の必要事項だけは確認した。\r\n  But then... what did he do?\r\n  \r\n//　では、何をされたのか。\r\n//\r\n//　……変化は視界からだった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49540,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0190840b33'>\r\n//「え？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49656,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190850b56'>\r\n//「あ」\r\n\"Ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49770,
+  "en": "\r\n//　小夏の服が散っていた。\r\n//　隠されているべき肌が露わになっていた。\r\n  Konatsu's clothes slide off her body, revealing the skin beneath.\r\n\r\n//　抜けるように白い。\r\n//　そして、意外なくらい、女性らしいかたち。\r\n  Her skin is porcelain white, and her proportions are surprisingly mature.\r\n\r\n//　幾度か想像はして、\r\n//　しかし勿論、見たことは一度もなかった。\r\n  I've imagined what she might look like any number of times, but this is the first time I've actually seen her naked.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50353,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0190860b56'>\r\n//（きれいだな……）\r\n(She's pretty...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50495,
+  "en": "\r\n//　場違いな感慨。\r\n//　おれはふと、我を忘れた。\r\n  Though entirely inappropriate, the thought floats through my mind.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50646,
+  "en": "\r\n//　悲鳴の形に口を開けて、小夏が両手で体を覆う。\r\n  Konatsu quickly covers her body, her mouth open in the shape of a scream.\r\n\r\n//　胸と内股。\r\n//　ああ、やっぱり隠すのはそこなんだな、と。そんな\r\n//ことを思う。\r\n  Her arms fly to her chest and the space between her legs. So girls㉒<I>do</I> do that, I find myself thinking.\r\n\r\n//　小夏の、女性の部分が隠されて――\r\n//　しかし一瞬後、おれはまた、その場所をまじまじと\r\n//見ていた。\r\n  Konatsu's feminine parts are hidden from view... but then, a moment later, I find myself staring at them once more.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51314,
+  "en": "\r\n//　ぷくりとふくれた胸。\r\n//　その先端の桃色。\r\n//　状況を忘れて悦びを覚えてしまうほど、それは刺激\r\n//的だった。\r\n  Her gently sloping breasts, topped with pink nipples. The sight is provocative enough to make me forget, for an instant, the danger we're in.\r\n\r\n//　けれど、なぜ？\r\n//　なぜおれは見ていられるんだろう。\r\n//　小夏は体を隠しているのに。\r\n  But hold on a minute. Why can I see them? Wasn't she covering them?\r\n\r\n//　……まさか透視能力に開眼したんじゃあるまいな。\r\n//　いや、それは有難いが、どうせ超能力に目覚めるの\r\n//ならもっとこの状況で役立ちそうなものを\r\n  Did I just develop X-ray vision? That's pretty cool. But to be honest, I'd rather have a superpower that could actually get us out of―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52189,
+  "en": "\r\n//　―――――――――――――――――――――――\r\n//――――――――――――――――――――――――\r\n//――――――――――――――――――――――――\r\n//――――――――――――――――――――――――。\r\n\r\n//――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――\r\n\r\n//　え？\r\n//　何？\r\n  ...Huh?\r\n\r\n  ...What?\r\n\r\n\r\n//　何これ。\r\n\r\n//　……何を見てるんだ？\r\n//　おれは。\r\n  What am I looking at?\r\n\r\n//　えぇっと。\r\n//　なんか。\r\n  Um...<K> something's㉓<I>missing</I> here.\r\n\r\n//　なんか、<RUBY text='・・・・・・'>無くなってる</RUBY>んですけど。\r\n\r\n//　……え？\r\n//　なんで？\r\n  Hold on. That can't be right.\r\n\r\n//　そんなわけないじゃん。\r\n\r\n\r\n//　小夏もびっくりした顔をしている。\r\n//　そりゃそうだろう。\r\n  Konatsu seems surprised too, and no wonder.\r\n\r\n//　<RUBY text='・・・・・・'>無くなったら</RUBY>、困るよなぁ。\r\n  She kinda㉓<i>needs</I>㉓those.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53524,
+  "en": "\r\n//　あー……\r\n//　あった。\r\n  ...Oh, there they are.\r\n\r\n//　ちょっと離れたところに、ちゃんとある。\r\n//　<RUBY text='・・・・・・・'>無くなったもの</RUBY>。\r\n  Just a little ways away, lying on the floor, are her missing parts.\r\n\r\n//　よかったよかった。\r\n//　驚いたぜもう。\r\n  Phew. I was worried for a second there.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53915,
+  "en": "\r\n//　………………………………。\r\n//  ......................................................\r\n\r\n//　なあ、ちょっといいかい。\r\n//　君。君だよ。<RUBY text='・'>君</RUBY>を呼んでるんだ。\r\n  Hey, you got a minute?\r\n\r\n  I'm talking to you. Yeah, you.\r\n\r\n//　現実逃避対話用仮想人格君。\r\n//　なんだか久しぶりに、君と話をしたくなってさ。\r\n  I could really use your help denying reality here, my imaginary friend.\r\n\r\n//　質問に答えてくれ。\r\n//　大したことじゃない。簡単なことなんだ。\r\n  I've got a question for you. Don't worry, it's an easy one.\r\n\r\n//　何もおかしなことなんてないよね？\r\n  There's nothing wrong here, right?\r\n\r\n//　おかしなことなんて何も、起きてないよね？\r\n  This is all normal, right?\r\n\r\n//　ねぇ？\r\n  Right?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54795,
+  "en": "\r\n//　――狂ってしまった教室は、\r\n//　そのままどんどんオカシクなる。\r\n  But class is just getting started.\r\n",
+  "pt": ""
+ }
+]

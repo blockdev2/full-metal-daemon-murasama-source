@@ -1,0 +1,597 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　瀕死の茶々丸は良く<RUBY text='も'>保</RUBY>ったが、元より致命傷を癒す\r\n//<RUBY text='すべ'>術</RUBY>など無い。\r\n//　緩慢に死へ近付き……今、死に至ろうとしていた。\r\n  Chachamaru is stronger than I thought. She clings to life for a few days more.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 530,
+  "en": "\r\n//　空を見たいという望みを容れて、外へ連れ出す。\r\n//　今の普陀楽城内に人気は少ない。揉め事に出くわす\r\n//不安はなかった。\r\n\r\n//　茶々丸を松の根元に座らせて、俺も隣へ腰を下ろし、\r\n//二人で空を見上げる。\r\n//　村正は俺達から一歩離れて佇んでいた。\r\n  But eventually she asks to see the sky, so I carry her out to the castle courtyard and lay her at the base of a pine.\r\n\r\n  The chaos has subsided. The castle lies empty. We need not fear attack.\r\n\r\n  Muramasa withdraws to a respectful distance, leaving me to sit beside Chachamaru and stay with her to the end.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1209,
+  "en": "\r\n//　怪奇な天体は今日もそこにある。\r\n\r\n//　人々の間では第二の太陽という呼称が定着していた。\r\n//　それは外観のみに由来するもので、その実態に太陽\r\n//との共通項はほぼ無い――引力を無視した運動をする、\r\n//強い光を放つが熱は発していないらしい、等々。\r\n\r\n//　自然的あるいは人為的に発生した一種の幻像という\r\n//推測が、今は専門家の間で主流を占めていると聞く。\r\n//　真偽を確かめるための本格的調査も各国で計画され\r\n//ている――が、現情勢下で実行は難しいだろう。\r\n  The second sun still hangs in the sky.\r\n\r\n  But though people have taken to calling it as such, it shares little in common with the sun beyond its appearance. It moves freely, unbound by gravity, and emits light but no heat.\r\n\r\n  Experts are calling it a mass hallucination, though they can't decide whether it's naturally occurring or manmade. Although I hear there's an international task force in the planning, given the current political climate, I doubt it will bear fruit.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2359,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010010a00'>\r\n//「あれは本当に光なのか」\r\n\"Is that truly Hikaru?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2516,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010020a07'>\r\n//「……うん」\r\n\"...Yeah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2651,
+  "en": "\r\n//　衰えた声音で、しかし迷わず、茶々丸は認めた。\r\n  Though her voice is weak, I sense no doubt.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2781,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010030a07'>\r\n//「あれは御姫で……地底の牢獄から解き放た\r\n//れた神だよ。\r\n//　どっちが食ってどっちが食われたんだかは、\r\n//よくわからないけど」\r\n\"It's both. The princess... and the god. Can't tell where one starts and the other ends. But I do know one thing...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3187,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010040a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3305,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010050a07'>\r\n//「声が変わったんだ」\r\n\"Its voice has changed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3466,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010060a00'>\r\n//「声が？」\r\n\"Its voice?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3591,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010070a07'>\r\n//「聴かせたでしょ。あの糞っ垂れな神サマの\r\n//雄叫び。\r\n//　あれが……柔らかくなった」\r\n\"You heard it. That screaming. It's... softer now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3871,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010080a07'>\r\n//「今は子守唄みたいに聴こえる。\r\n//　……これ、御姫の声だよ。きっと」\r\n\"That's her voice. I'm sure of it. She's singing... like a lullaby.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4146,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010090a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4270,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010100a07'>\r\n//「お兄さんには、聴こえない？」\r\n\"You can't hear her?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4443,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010110a00'>\r\n//「……いや」\r\n\"Well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4568,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010120a00'>\r\n//「聴こえるような気がする」\r\n\"Perhaps I can.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4721,
+  "en": "\r\n//　空に第二太陽が現れて以来、ずっと吹き続けている\r\n//この風。\r\n//　耳孔の中に反響する<RUBY text='こだま'>谺</RUBY>は、どうしてか――どう\r\n//にも銀星号の唄を思い出させる。\r\n\r\n//　人を闘争の衝動に駆り立てる、あの恐ろしい唄を。\r\n  A breeze is blowing from the second sun. If I close my eyes and bend my ear, I can almost detect in its gentle whisper the strains of a familiar song.\r\n\r\n  Ginseigo's song, that cursed hymn, calling one and all to battle.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5277,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010130a07'>\r\n//「この声は世界を包んでる。\r\n//　みんなが……気付かずに、御姫の唄を聴い\r\n//てる……」\r\n\"Everyone can hear it now. The whole world, touched by her song.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5571,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010140a00'>\r\n//「……だからか」\r\n\"...So that's why.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5712,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010150a00'>\r\n//「だから、なのか」\r\n\"That's why.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5850,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010160a07'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5977,
+  "en": "\r\n//　茶々丸は答えない。\r\n//　眼だけで、頷きを返してきた。\r\n  Chachamaru says nothing. The look in her eyes is all the answer I need.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6145,
+  "en": "\r\n//　あの『神』の解放から、何週間何ヶ月と経ったわけ\r\n//ではない。しかしこのごく短い間に世界各地で起きた\r\n//激変は、過去の歴史の数年分、あるいは数十年分にも\r\n//相当するだろう。\r\n  Only a few days have passed since the god was unleashed, and already the world has seen upheaval to rival any year or decade in history.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6551,
+  "en": "\r\n//　まず中近東では、長らく大英連邦に服属を余儀なく\r\n//されてきた<RUBY text='イスラム'>回教</RUBY>諸国家が蜂起した。\r\n//　過去にもあった事である……だが何の前触れもなく、\r\n//また国家間の連携もない突発的決起は異常であった。\r\n  It began in the Middle East, Muslim nations rising up all at once against their British sovereign. The region had long chafed beneath the colonial yoke, and such uprisings had happened before. But this time there was no warning, nor any sign of cooperation between the rebellious powers. It was every nation for itself.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7202,
+  "en": "\r\n//　やはり大英連邦の保護下にある大漢帝国では、宮廷\r\n//内のクーデターと地方軍閥の反乱、更に民衆の暴動が\r\n//一斉に勃発している。\r\n//　皇帝は既に大英本国へ亡命したらしい。\r\n  The Han Empire, meanwhile, has collapsed, torn apart in the blink of an eye by a palace coup, provincial uprisings, and general rioting among the populace. The emperor, a British puppet, has fled to the queen's protection.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7687,
+  "en": "\r\n//　イベリア半島でも反大英の狼煙が上がった。\r\n//　盟主はフランシスコ・フランコ・バァモンデ将軍。\r\n//軍人として名声高い彼に率いられた<RUBY text='レコンキスタ'>国土解放</RUBY>軍は精強\r\n//であり、戦況は大英側のやや劣勢で推移している。\r\n  Even Europe is challenging British supremacy.\r\n  On the Iberian Peninsula, the feared General Francisco Franco has declared reconquista against Great Britain. For the moment, his forces have the advantage in the field.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8252,
+  "en": "\r\n//　またイタリア半島では<RUBY text='ドゥーチェ'>統帥</RUBY>ムッソリーニが再起。\r\n//　彼は先の大戦で死んだはずであり、その正体は限り\r\n//なく怪しいと言うほかない――それでも多くの人間が\r\n//彼の旗の下に結集し、祖国奪回の気炎を高めている。\r\n\r\n//　まるで戦争をやる契機になるなら本物でも偽者でも\r\n//構わないと考えているかのように……。\r\n  In Italy, I hear that Mussolini has returned. Il Duce was killed in the Second World War. This man is certainly an impostor, yet men are flocking to his banner all the same. It's almost as if they do not care, so long as he gives them a reason to fight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8992,
+  "en": "\r\n//　激変は大英連邦の本国すら例外としなかった。\r\n//　厳格な階級社会の中で抑圧されてきた労働者階層が\r\n//各地で暴発。資産家を襲うに留まらず、首都の王宮に\r\n//まで押し寄せる騒ぎとなっている。\r\n  Even the British Isles are not safe. All across the country, peasants and workers are taking up arms in retribution for decades of economic oppression. Bankers and businessmen are being murdered in the street, and mobs have even stormed Buckingham Palace.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9537,
+  "en": "\r\n//　そんな大英連邦の混乱を見てなのかそうでないのか。\r\n//　<RUBY text='ロシア'>露帝</RUBY>の西方諸侯軍がポーランドへ侵攻を開始し、\r\n  Taking advantage of the turmoil―or perhaps acting on a whim―the Russian Empire has invaded Poland...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9837,
+  "en": "\r\n//　アフリカ南部のトランスヴァール公国は、大英連邦\r\n//とのダイヤモンド鉱山を巡る争いに決着をつけるため\r\n//アフリカ総督府に宣戦……\r\n  ...a dispute over diamond mining rights in the Transvaal has escalated into all-out war...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10133,
+  "en": "\r\n//　オーストラリア総督府と、南洋先住民族の最後の砦\r\n//であるアオテアロア同盟の間でも戦火が噴いた。\r\n//\r\n//　更に、大英連邦と直接関わらない地域――\r\n  ...and in the South Pacific, Aetearoa, the last bastion of free indigenous people in the region, has broken its long peace with the colonial government in Australia.\r\n\r\n  And still the list goes on, beyond the borders of the Empire.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10595,
+  "en": "\r\n//　南米大陸の二雄、ブラジルとアルゼンチンが開戦。\r\n  The two great powers of South America, Brazil and Argentina, are at war.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10757,
+  "en": "\r\n//　統一されていたインドネシア諸島が分裂。\r\n  Indonesia, once united, has split into squabbling factions.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10894,
+  "en": "\r\n//　タイとビルマの両王国は宿命的な抗争を再び始め。\r\n  Thailand and Burma have reignited their age-old feud.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11037,
+  "en": "\r\n//　――――要するに。\r\n//　\r\n//　地球上にあった戦争の火種が、連動してなのか独自\r\n//になのか、<RUBY text='・・'>全て</RUBY>発火して周囲を焦がしているのだった。\r\n  And on it goes.\r\n\r\n  In short, every spark of conflict that existed throughout the world has burst all at once into open flame.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11401,
+  "en": "\r\n//　大和も例外ではない。\r\n//　六波羅と進駐軍の戦いは惰性的に続き、これに各地\r\n//の反幕勢力が介入し、更に幕府と進駐軍のそれぞれで\r\n//内部分裂が生じ――争乱は混迷し拡大する一方である。\r\n\r\n//　この全世界的激動は、一部の有識者が主張するよう\r\n//な大英連邦を筆頭とする専制支配に対する現代人類の\r\n//総合的拒絶意思の表れなどではなく、\r\n//　ただ単に……<k><RUBY text='・・・・・・・・・・・'>一個の意思が望んだ結果</RUBY>なのか。\r\n  Yamato is no exception. War still rages between Rokuhara and GHQ, no longer confined to Kamakura. Anti-shogunate rebels are attacking everyone, and factional strife abounds on both sides. It is chaos, and growing rapidly.\r\n\r\n  If Chachamaru is correct, then all this conflict, all this death, is not, as some experts insist, due to humanity's collective zeitgeist rejecting imperial rule―but because a single heart cried㉓<I>let it be so.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12464,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010170a00'>\r\n//「銀星号の精神汚染が世界全土を狂わせつつ\r\n//あるというのか」\r\n\"Ginseigo's psychic pollution is infecting the entire world?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12711,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010180a07'>\r\n//「範囲が広いせいで汚染の進行は遅いみたい\r\n//だけどね。\r\n//　あと一週間くらいかな……」\r\n\"The world's a big place. Takes time for the waves to penetrate. I give it... another week.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13035,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010190a07'>\r\n//「全人類が戦うだけの<RUBY text='けもの'>狂獣</RUBY>になるまで」\r\n\"Then everyone just starts killing each other.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13273,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010200a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13391,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010210a00'>\r\n//「それは、人間世界が滅ぶという事だ」\r\n\"You're talking about the end of civilization.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13590,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010220a07'>\r\n//「甲鉄で守られるから武者は残るよ。\r\n//　とりあえず」\r\n\"Musha are protected. They'll hang around... for a while.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13831,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010230a00'>\r\n//「本当に<RUBY text='・・・・・'>とりあえず</RUBY>の事に過ぎないだろう。\r\n//　武者のみで社会を維持できる道理がない」\r\n\"How long? Society can't function with musha alone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14141,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010240a07'>\r\n//「そうだね……」\r\n\"Yeah...\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010250a07'>\r\n//「社会が崩壊して、死に絶えてゆくか。\r\n//　それより先にみんな硝子の像になるか……\r\n//どっちかだ」\r\n\"Guess it's a question of which comes first. The collapse of civilization... or everyone turning to glass.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14627,
+  "en": "\r\n//　硝子の像。\r\n//　\r\n//　……そう。それもある。\r\n  Glass. Of course. I almost forgot.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14744,
+  "en": "\r\n//　かの天体は、不定期に地上へ雨を降り注ぐ。\r\n//　雨――その表現は正しいのかどうか。\r\n\r\n//　<RUBY text='・・・・・・・・'>液体のような光線</RUBY>。そんな奇妙な放出物である。\r\n//　世界の各地を、これが襲った。\r\n  Madness is not the only change the second sun has wrought. The rain―if it can be called that―is every bit as deadly.\r\n\r\n  Rays of liquid light falling from the sky. They seem to strike entirely at random, and no region on earth is beyond their reach.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15306,
+  "en": "\r\n//　そしてそこにいた生物を――時には生物以外のもの\r\n//も変質させた。\r\n//　硝子か水晶のように透明であり、しかし金属質でも\r\n//ある、奇妙な物質へ。\r\n\r\n//　調査は進んでいない。その物質に触れた者は高確率\r\n//で同様の変質を遂げるため、調べが困難なのだ。\r\n//　そうして変質したものの生死さえ、現在はまだ判明\r\n//していなかった。\r\n\r\n//　ただ〝彫像〟となったものは生物的活動を停止する。\r\n//　それは明らかな事実である。\r\n  The light transforms everything it touches―not only human beings, but plants, animals, and even some forms of inorganic matter―into what can only be described as statues of crystalline metal. Transparent like glass, but hard as tsurugi-steel.\r\n\r\n  Investigating this phenomenon has proven difficult, as anyone coming into contact with one of these statues has a high probability of becoming one himself. The only thing of which anyone is certain is that the statues exhibit no signs of life.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16407,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010260a00'>\r\n//「あれはやはり……死んでいるのか」\r\n\"Are they... dead?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16575,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010270a07'>\r\n//「<RUBY text='かみ'>金神</RUBY>の仲間になり損なったっていうのか、\r\n//なり切っちゃったっていうのか。\r\n//　実際どっちなんだかはあてにもよくわから\r\n//ないけど」\r\n\"I guess you could say they failed to reach God... or maybe they succeeded too well. I'm not really sure myself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17014,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010280a07'>\r\n//「ま、生物としては死んだも同然だろうね」\r\n\"Either way... yeah, consider them dead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17222,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010290a00'>\r\n//「……あの<RUBY text='あめ'>光雨</RUBY>も、やがて――」\r\n\"Will the rain too...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17414,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010300a07'>\r\n//「地球全土を覆う……。\r\n//　やっぱり大して時間は掛からないと思うよ」\r\n\"Cover the earth? ...Only a matter of time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17665,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010310a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17789,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010320a00'>\r\n//「……世界が、滅びる……」\r\n\"The world is ending.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17948,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010330a07'>\r\n//「このままなら、ね」\r\n\"Yeah. It is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18099,
+  "en": "\r\n//　答案に赤丸を付けるような気安さと迷いの無さで、\r\n//死に瀕した公方は終末予言を肯定した。\r\n//　それはしかし、当然の事ではあろう。\r\n  She says it with the casual indifference of a schoolteacher marking an exam.\r\n\r\n//　この破滅を主導したのは他ならぬ、彼女なのだから。\r\n  I shouldn't be surprised. After all, she made this happen.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18524,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010340a00'>\r\n//「それで、どうする」\r\n\"What will you do now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18675,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010350a07'>\r\n//「うん？」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18803,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010360a00'>\r\n//「お前達……緑龍会は。\r\n//　念願叶って、神を呼び出した」\r\n\"You. The Green Dragon Society. You've won. Your god is here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19045,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010370a00'>\r\n///「それで、これからどうするつもりだ」\r\n\"I'm asking㉒<I>what now?</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19229,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010380a07'>\r\n//「さぁねぇ。\r\n//　たぶん誰も、この先のことなんて考えちゃ\r\n//いなかったろうし」\r\n\"Oh... Dunno. I doubt anyone was thinking that far ahead.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19508,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010390a07'>\r\n//「みんなこれで気が済んで、自殺でもしてる\r\n//かも。\r\n//　それとも今更後悔して、慌てふためいてる\r\n//かな……どうもそっちのが多そうだ」\r\n\"The ones who feel they got what they wanted... they've probably offed themselves by now.\r\n  The ones who wish they could take it back... well, they're probably freaking out, yeah? Something tells me there's more of them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20029,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010400a00'>\r\n//「……お前達は――」\r\n\"How could you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20175,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010410a07'>\r\n//「言ったでしょ。下らない屑の集まりだって。\r\n//　その程度だよ、あいつらは……」\r\n\"I told you. Just a bunch of nutcases. Worthless, the lot of 'em...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20465,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010420a07'>\r\n//「あても、ね」\r\n\"Me included.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20607,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010430a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20731,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010440a00'>\r\n//「どうすれば止められる？」\r\n\"Is there any way to stop it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20898,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010450a07'>\r\n//「……世界の滅びを？」\r\n\"The end of the world?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21061,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010460a00'>\r\n//「ああ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21177,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010470a07'>\r\n//「あれを壊すしかないだろうね」\r\n\"Destroy that thing, I guess.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21359,
+  "en": "\r\n//　指差すような声で――実際はもうその腕が動く事は\r\n//なかった――茶々丸が天を示す。\r\n//　それは単純な結論だった。あの天体が元凶ならば、\r\n//あれを取り除く事で問題は解決するだろう。\r\n  Chachamaru does not gesture―perhaps she no longer can―but her eyes indicate the second sun.\r\n\r\n//　しかし、方法が無い。\r\n  It's the obvious answer. If that object is causing the present chaos, then destroying it should bring the calamity to an end.\r\n\r\n  But how?\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21917,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010480a00'>\r\n//「……とても行き着けん」\r\n\"...I'll never make it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22075,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010490a07'>\r\n//「どう見ても成層圏越えてるもんねぇ。\r\n//　武者の騎航で届く高さじゃない」\r\n\"Yeah, looks to be well above the stratosphere. Musha can't fly that high.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22363,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010500a07'>\r\n//「コロンビヤード砲で撃ち出してもらうしか\r\n//なさそうだ」\r\n\"Maybe you can find someone to shoot you out of a cannon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22610,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010510a00'>\r\n//「月面まで行く気はない」\r\n\"I'd rather not end up on the moon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22780,
+  "en": "\r\n//　それ以前に<RUBY text='サイエンス・フィクション'>空想科学小説</RUBY>の手法を試す気はない。\r\n  Besides, that film was hardly based in science.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22971,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010520a07'>\r\n//「……待ってればいいよ」\r\n\"Just... wait.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23129,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010530a00'>\r\n//「待つ？」\r\n\"Wait?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23249,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010540a07'>\r\n//「あれは――\r\n//　御姫は必ず降りてくる」\r\n\"Soon that thing... the princess will descend.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23461,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010550a07'>\r\n//「もうすぐ。\r\n//　求めるものを、手に入れるために」\r\n\"She'll come to take what's hers.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23675,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010560a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23799,
+  "en": "\r\n//　降りてくる？\r\n//　あの、天体が……？\r\n  That... object is coming <br>here?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23906,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010570a07'>\r\n//「お兄さんは、待っていればいい」\r\n\"All you have to do is wait.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24090,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010580a07'>\r\n//「自分自身を整えて……」\r\n\"And... prepare yourself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24259,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010590a00'>\r\n//「体調の事か」\r\n\"You mean rest?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24394,
+  "en": "\r\n//　茶々丸の双眼が俺を捉えた。\r\n//　その――空洞化しつつある瞳。\r\n  Chachamaru fixes me with her gaze. Though her eyes are cloudy and dim, I cannot look away.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24593,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010600a07'>\r\n//「いい？\r\n//　これはあてからお兄さんへの、最後の忠告」\r\n\"Listen close, brother. This is my final warning.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24829,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010610a07'>\r\n//「お兄さんは湊斗景明である限り、御姫には\r\n//決して勝てない。\r\n//　御姫は、湊斗光なんだから」\r\n\"As long as you are Minato Kageaki, you will never defeat the princess. She is Minato Hikaru. You see?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25173,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010620a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25291,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010630a07'>\r\n//「お兄さんは無名の英雄になって。\r\n//　世界を守ることだけが目的の……<RUBY text='・'>個</RUBY>の無い。\r\n//公の大義に従う武力行使者に」\r\n\"You have to become a hero. Forsake your name, your desires, every aspect of yourself, and become a soulless instrument of <br>justice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25719,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010640a07'>\r\n//「本当の英雄になるんだ」\r\n\"Protect the world. Nothing else.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25896,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010650a00'>\r\n//「……俺は……」\r\n\"I...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26024,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010660a07'>\r\n//「資格の有無なんていい。\r\n//　それしかないんだよ。お兄さん」\r\n\"It's not about what you <I>think</I>㉓you are or aren't. This is your only chance.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010670a07'>\r\n//「御姫を倒して、世界を救える方法は、それ\r\n//だけ」\r\n\"The only way to defeat her and save mankind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26522,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010680a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26640,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010690a07'>\r\n//「……いい？\r\n//　お兄さん、間違えないで」\r\n\"...You listening, big bro? Make no mistake.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26853,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010700a07'>\r\n//「これは足利茶々丸の」\r\n\"This is a curse.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27011,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010710a07'>\r\n//「お兄さんへの。\r\n//　この世界への」\r\n\"On you. On the world.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27193,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010720a07'>\r\n//「最後の――――呪いだ」\r\n\"My final act of revenge.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27362,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010730a00'>\r\n//「…………？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27487,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010740a07'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27614,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010750a07'>\r\n//「……ふぅ……」\r\n\"...haa...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27756,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010760a00'>\r\n//「茶々丸？」\r\n\"Chachamaru?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27885,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010770a07'>\r\n//「疲れちゃった」\r\n\"I'm so tired.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28031,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010780a00'>\r\n//「……そうか」\r\n\"...I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28161,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010790a07'>\r\n//「はぁ。\r\n//　世界……滅びるところ見たかったな」\r\n\"Too bad... I wanted to see the world end.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28381,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010800a07'>\r\n//「誰の声も聴こえない、静かな世界で眠りた\r\n//かった」\r\n\"I wanted to feel silence again... one more time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28614,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010810a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28738,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010820a07'>\r\n//「まっ……いいか」\r\n\"Oh well... I guess this'll do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28904,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010830a07'>\r\n//「うぜェ神畜生の声は御姫の唄になったし。\r\n//　お兄さんの声は優しいし」\r\n\"Instead of that asshole... the princess is singing. I've got you to whisper in my ear.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29202,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010840a07'>\r\n//「他の声は……もう遠いし」\r\n\"And everyone else... is far away.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29383,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010850a00'>\r\n//「茶々丸」\r\n\"Chachamaru...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29511,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010860a07'>\r\n//「うん。\r\n//　これで、いいや」\r\n\"Yeah... Good enough.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29683,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010870a07'>\r\n//「これで……眠れる……」\r\n\"I can finally sleep.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29848,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010880a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29966,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010890a07'>\r\n//「お兄さん」\r\n\"Big bro...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30104,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010900a00'>\r\n//「……ん」\r\n\"...I'm here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30231,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md05/0010910a07'>\r\n//「さよなら」\r\n\"Bye-bye.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30366,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010920a00'>\r\n//「…………ああ」\r\n\"...Goodbye.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30501,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0010930a00'>\r\n//「さようなら」\r\n\"Goodbye, Chachamaru.\"\r\n",
+  "pt": ""
+ }
+]

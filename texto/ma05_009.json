@@ -1,0 +1,667 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　山賊団は郊外の小山に拠点を敷いている。\r\n//　地形学的に見れば北の険しい山脈系に属する隆起だ\r\n//が、実質としては丘と呼ぶには大きく山岳と呼ぶには\r\n//小さい程度のもので、やはり小山と呼ぶほかにない。\r\n  The camp is located atop a hill at the foot of the mountains to the north. It used to be a favorite spot for children to play. Unfortunately for the children, the bandits also took a liking to it when they arrived.\r\n\r\n//　ここは過去、当然のように町の子供の遊び場だった。\r\n//　彼らが威嚇射撃と白刃の脅しで根こそぎ追い払われ\r\n//てしまったのは、子供たち以上に山賊団にとってこの\r\n//山が好物件だったからである。\r\n\r\n//　町を威圧するには充分かつ、出入りに不自由はない。\r\n//山賊団がこの山を<RUBY text='カナーン'>約束の地</RUBY>だと信じていたとしても、\r\n//否定の論拠は見つかりそうになかった。\r\n//　そんなろくでもない約束をする神は御免だが。\r\n  It is high enough to be a constant shadow over the town, while close enough to afford them easy access during raids. I'm not surprised they thought it their promised land, though I surely wouldn't want to meet the god who promised it to them.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1576,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090010e080'>\r\n//「止まれ」\r\n\"Hold it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1739,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090020a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1857,
+  "en": "\r\n//　山の景色を汚染するが如く<RUBY text='そび'>聳</RUBY>えるバリケードの十歩\r\n//手前で、二門の銃口と共に制止を受ける。\r\n//　明け透けに山道の真ん中を歩いてきた俺をここまで\r\n//近づけたのは、おそらく意図を測りかねたのだろう。\r\n\r\n//　胡乱げな眼差しでこちらの身なりを物色している。\r\n//　俺はおとなしく、両手を上げた。\r\n  Ten paces from the ostentatious barricade, two men with rifles bid me to halt. I suspect they only let me get this close because they couldn't figure out why I was walking up to their camp alone in broad daylight.\r\n\r\n  I raise my hands obediently and submit to their probing gaze.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2597,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090030e080'>\r\n//「……町の奴か？\r\n//　何しに来た。ここはオレたちの陣地だぜ」\r\n\"You from the town? What do you want? You know this is our camp.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2888,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090040e082'>\r\n//「鬼ごっこがしたいなら公園へ行けよ、<RUBY text='ボーイ'>少年</RUBY>。\r\n//　ここの鬼はちょっと、おっかないぜぇ？」\r\n\"Best find another park if you wanna play tag, boy. We tend to play a little rough.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3267,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090050e080'>\r\n//「へっへ！\r\n//　そうだな。オレらが<RUBY text='・・'>触る</RUBY>と、穴が開いちま\r\n//うからなぁ……！」\r\n\"Heh heh, yeah! When we tag you, it tends to leave a hole!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3601,
+  "en": "\r\n//　これ見よがしに銃身を揺らす、門番の片方。\r\n//　そしてもう一方の手がベルトの小袋を探る――あれ\r\n//は弾か。何発でも撃てるというアピールか。\r\n\r\n//　俺は、指摘した。\r\n  The first guard waves his rifle menacingly while the other pats the pouch on his belt, presumably to show just how many holes he could put in me if he so chose.\r\n\r\n  I point out the obvious.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4045,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090060a00'>\r\n//「銃は反則です」\r\n\"Guns are against the rules.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4196,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090070e080'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4354,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090080e082'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4512,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090090a00'>\r\n//「この町でも一時期鬼ごっこの鬼が銀玉鉄砲\r\n//を使う事が流行りましたが――失礼、始めた\r\n//のは自分の妹です――それだと単に鬼の一方\r\n//的虐殺ゲームになるためすぐ廃れました」\r\n\"While it was briefly popular in town for 'it' to use a pellet gun―a fad that began with my own sister, I'm ashamed to say―that rule was repealed after it became clear that the game was now a wholesale slaughter.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090100a00'>\r\n//「これは全国的な現象ではなかったかと」\r\n\"I imagine there are similar stories all over the country.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5282,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090110e082'>\r\n//「……あー。\r\n//　そーだっけ……？」\r\n\"...You know, that reminds me...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5505,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090120e080'>\r\n//「……そー言えば、なんかローカルルールが\r\n//あったっけな……オレの地元。\r\n//　鬼が鉄砲使う場合は、鍋の蓋を盾に使って\r\n//いいとか……」\r\n\"Yeah... Now that you mention it, my town had a rule like that. Like if 'it' used a gun, you could make a shield...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5954,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090130e082'>\r\n//「あー、あったあった。\r\n//　玉が無くなったら鬼の負けとか」\r\n\"Oh yeah! And 'it' lost if he ran out of bullets.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6227,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090140a00'>\r\n//「はい。\r\n//　そのようにルールが発展してゆくとやがて\r\n//単なる<RUBY text='サバイバルゲーム'>戦争ごっこ</RUBY>になったので、鬼ごっこと\r\n//は分化したのです」\r\n\"Yes. We had the same rule, but at that point it's no longer tag. It's just a survival game.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6634,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090150e080'>\r\n//「そーかー……」\r\n\"True...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6805,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090160e082'>\r\n//「…………。\r\n//　いや」\r\n\"...Wait.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6987,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090170e082'>\r\n//「で、何しに来たんだよお前は」\r\n\"What the hell are you doing here again?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7211,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090180a00'>\r\n//「貴方がたの首領にお会いしたい」\r\n\"I would like to meet with your leader.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7397,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090190e080'>\r\n//「<RUBY text='おやかた'>御館</RUBY>に？」\r\n\"With our lady?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7602,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090200e082'>\r\n//「……なんだァ？\r\n//　口説きにでも来たのかよ。色男」\r\n\"What, you come to propose or something?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7857,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090210e080'>\r\n//「はっはっは。\r\n//　そいつぁすげぇや！」\r\n\"Hahaha! Now that'd be something!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8087,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090220a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8203,
+  "en": "\"What!?\"",
+  "pt": ""
+ },
+ {
+  "offset": 8219,
+  "en": "\r\n//（ｅｔｃ／山賊Ａ）（ｅｔｃ／山賊Ｂ）\r\n//「「えーー!?」」\r\n \r\n \r\n \r\n \r\n \r\n<center>\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8347,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090250a00'>\r\n//「我らが町と貴方がたの今後について願いの\r\n//筋あり、首領殿を口説かせて頂くべく参上し\r\n//ました。\r\n//　どうかお取次ぎ願います」\r\n\"I have a proposal regarding future relations between your group and the town. Please take me to see her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8734,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090260e082'>\r\n//「……あ、あぁ。\r\n//　そういうこと……」\r\n\"...Oh. That's what you meant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8961,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090270e080'>\r\n//「……なぁ相棒……。\r\n//　実はオレたち、からかわれてるのか？」\r\n\"Hey, man... is he fucking with us?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9226,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090280e082'>\r\n//「…………いや。\r\n//　ただ単に、あんまり関わり合いになっちゃ\r\n//いけないやつに関わっちまっただけなんだと\r\n//思う……」\r\n\"Don't think so. We might be dealing with one crazy son of a bitch.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9603,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090290e080'>\r\n//「……そうか……」\r\n\"Damn...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9777,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090300e082'>\r\n//「どうする？」\r\n\"What do we do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9952,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090310e080'>\r\n//「どうするって……」\r\n\"You're asking me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10139,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090320a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10263,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090330e080'>\r\n//「……この男を追い払うより、御館に会わせ\r\n//てやった方が早い気がする。なんとなく」\r\n\"...I get the feeling it'll be faster to let him see her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10580,
+  "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0090340e082'>\r\n//「オレもだ。\r\n//　……連れてくか。武器も持ってないみたい\r\n//だしさ……」\r\n\"Same. Let's get it over with. Doesn't look like he's armed or anything.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10895,
+  "en": "\r\n//　額を寄せてぼそぼそと囁き合っていた二人がこちら\r\n//へ向き直る。\r\n//　何故だか妙に疲れたような顔をしていたが――そこ\r\n//に加害の意図は見受けられなかった。\r\n  The two men turn back to face me. Their expressions are weary, for some reason. At least they don't appear to mean me harm. They even seem willing to let me pass.\r\n\r\n//　どうやら、通してもらえるらしい。\r\n//　こう簡単にゆくとは思わなかった。\r\n  I didn't think it would be this easy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11453,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090350a00'>\r\n//（意外に親切な人々だ）\r\n(They're not such bad folk.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11612,
+  "en": "\r\n//　これなら、話し合いにも期待が持てる。\r\n//　俺の見通しはいくらか明るくなった。\r\n  As I enter the encampment, hope for a peaceful resolution burns brightly in my chest.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11830,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090360b31'>\r\n//「おーっほっほっほっほっほっほっほっほっ\r\n//ほっほっほっほっほっほっほっほっほっほっ\r\n//ほっほっほっほっほっほっほっほっほっほっ\r\n//ほっほっほっほっほっほっほっほっほっほっ」\r\n\"Oh, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho,\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090370b31'>\r\n//「ほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっ」\r\n\"ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho,\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090380b31'>\r\n//「ほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっ!!」\r\n\"ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13349,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090390b31'>\r\n//「却下よ」\r\n\"Not a chance.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13480,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090400a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13604,
+  "en": "\r\n//　そして、そんな希望はあっさりと潰えた。\r\n\r\n//　案内されて踏み込んだ、砦の中――\r\n//　<RUBY text='まみ'>見</RUBY>えた山賊団の頭領は、俺の話を聞くとひとしきり\r\n//笑い、ひとしきり笑って、ひとしきり笑った後、一言\r\n//で切り捨てた。\r\n\r\n//　取り付く島もない。\r\n  It doesn't take long for the flame to be snuffed.\r\n\r\n  After the bandit captain listens to my proposal, she laughs... and laughs... and laughs... then rejects it with a flick of her wrist.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14167,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090410b31'>\r\n//「略奪をやめろ、ですって？　ふん……。\r\n//　どだい失礼なのよね。アタシ達がいつ略奪\r\n//なんてしたのかしら？」\r\n\"Stop raiding the town? Hmph! How rude! When have we ever raided anything?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14501,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090420a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14619,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090430b31'>\r\n//「<RUBY text='かずま'>一磨</RUBY>ぁ？\r\n//　あなたには覚えがあって？」\r\n\"Kazuma? Have you any idea what this man is talking about?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14870,
+  "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0090440b32'>\r\n//「昨日やったじゃん。姉さん」\r\n\"Didn't we raid them yesterday?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15051,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090450b31'>\r\n//「あ・れ・は、略奪じゃないの！\r\n//　大局に基づく軍事行動のため市民の任意で\r\n//物資を供出させたのよっ！」\r\n\"How many times do I have to tell you? That wasn't a raid! We were collecting voluntary donations to support the war effort.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15429,
+  "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0090460b32'>\r\n//「ご、ごめんなさい、姉さん……」\r\n\"R- Right. Sorry, sis...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15609,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090470a00'>\r\n//「……では、そういう事でも結構です。\r\n//　しかし町の<RUBY text='・・'>任意</RUBY>にも限界があります。この\r\n//ままでは……いえ、既に現在、町の生活環境\r\n//は深刻な打撃を受けている状況です」\r\n\"...I won't argue with your interpretation. However, there are limits to how much the town is willing to㉒<I>donate.</I> If this continues―no, already, we are experiencing severe hardship for the sake of your cause.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16190,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090480b31'>\r\n//「あら、そう」\r\n\"Oh really.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16324,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090490a00'>\r\n//「……ご寛恕を頂くわけには参りませんか」\r\n\"Is there any chance you could show us some clemency?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16536,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090500b31'>\r\n//「よくってよ？\r\n//　じゃあ今後は、予定より少し減らしてあげ\r\n//ましょう」\r\n\"Certainly. How about we cut our orders in half?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16790,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090510a00'>\r\n//「予定とは」\r\n\"Half of...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16918,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090520b31'>\r\n//「それは軍機よ」\r\n\"That's classified.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17063,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090530a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17187,
+  "en": "\r\n//　何の意味もない言質だ。\r\n//　こんな紙屑のような一言を土産に持ち帰ったところ\r\n//で、全く本家を納得させることはできないだろう。\r\n  So the offer is meaningless. The old master would be more satisfied with the dirt beneath my feet.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17488,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090540a00'>\r\n//「……失礼ながら。\r\n//　貴方がた山賊団の目的とはどのようなもの\r\n//なのですか」\r\n\"Might I inquire as to the ultimate objective of your banditry?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17763,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090550b31'>\r\n//「山賊団ではありません！\r\n//　志士団とお呼びなさい！」\r\n\"We're not bandits! Call us revolutionaries!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17988,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090560a00'>\r\n//「志士団？」\r\n\"Revolutionaries?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18122,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090570b31'>\r\n//「我々はより自由な立場から正義を貫くため\r\n//あえて六波羅の麾下を脱した烈士の集い！\r\n//　悪を討ち、不正を正し、いつか泰平の世を\r\n//導くべく戦い抜くことを誓った独立軍団――」\r\n\"We are a gathering of true patriots! Heroes who chose to fight for freedom and justice, unshackled by Rokuhara's petty rules and regulations!\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090580b31'>\r\n//「つまりは志士団なのです!!」\r\n\"In other words, revolutionaries!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18786,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090590a00'>\r\n//「……はぁ」\r\n\"I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18910,
+  "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0090600b32'>\r\n//「そうなんだ……。\r\n//　軍費の横領がバレて夜逃げしただけじゃな\r\n//かったんだね、姉さん！」\r\n\"Oh, that's what it was! And I thought we ran away because they found out you'd been selling supplies on the black market!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19271,
+  "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0090610b32'>\r\n//「ご、ごめん……」\r\n\"S- Sorry...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19418,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090620b31'>\r\n//「どう？\r\n//　おわかりかしら、湊斗景明とやら」\r\n\"Anyway. Do you understand now, Minato Kageaki?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19634,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090630a00'>\r\n//「わかりました」\r\n\"Yes, I do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19768,
+  "en": "\r\n//　色々と。\r\n//　余計な事まで。\r\n\r\n//　だが、重要な事は一つだけだった。\r\n  More than I needed to. For better or worse, the <I>pertinent</I>㉑information is easy to pick out.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19985,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090640a00'>\r\n//「略奪をやめる気はない。\r\n//　そういう事ですか」\r\n\"So you have no intention of stopping your raids. Correct?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20212,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090650b31'>\r\n//「……何を聞いていたのかしら、この男は。\r\n//略奪なんかしていないというのに。\r\n//　まったく低能な平民の相手をするのは大変\r\n//ね！　おーっほっほっほっほっほっほっ」\r\n\"Were you even listening, my good man? We don't㉓<I>raid.</I> Well, I suppose it was foolish of me to expect sense from a <I>farmer!</I> Oh, ho, ho, ho, ho, ho, ho,\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090660b31'>\r\n//「ほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっ」\r\n\"ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho,\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090670b31'>\r\n//「ほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっほ\r\n//っほっほっほっほっほっほっほっほっほっ」\r\n\"ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho, ho,\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090680b31'>\r\n//「ほっ!!」\r\n\"HO!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21832,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090690a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21956,
+  "en": "\r\n//　笑いを聞く間に、方策は固まっていた。\r\n//　元々、腹案の一つとして抱えてはいたものだ。\r\n\r\n//　昨夕、養母と話した時から。\r\n//　対話で解決できず、<RUBY text='しか'>而</RUBY>して殺し合いに持ち込んでは\r\n//ならぬとなれば――\r\n\r\n//　心中、密かに準備を整える。\r\n//　自分が<RUBY text='・・'>演技</RUBY>に向いているとは夢にも思えなかった。\r\n//平静を欠いていては、そもそも話にならない。\r\n\r\n//　手順を脳裏で反芻し、そして口火を切る。\r\n//　首領は丁度こちらに向かい、辛辣な表情のまま言葉\r\n//を重ねようとしているところだった。\r\n  Her laughter gives me the time I need to prepare my next move. If peaceful negotiation is off the table and lethal force is out of the question, then this is the only option left.\r\n\r\n  I knew it might come to this, but I'll need to be calm if I'm to have any hope of success. I am not a terribly gifted actor.\r\n\r\n  So I arrange the words in my head, take a deep breath, then strike just as the captain begins to wind down.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23120,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090700b31'>\r\n//「さあお帰りなさいな！\r\n//　その辛気臭い顔はもう見飽きたの。さっさ\r\n//と畑に戻って芋でも掘ったら――」\r\n\"Run along now! You're glooming up my camp. Go back to your farm or potato patch or whatever it is you peasants―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23485,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090710a00'>\r\n//「<RUBY text='・・・・・'>山賊の頭領</RUBY>」\r\n\"Bandit captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23657,
+  "en": "\r\n//　覆い被せるようにして、言い放つ。\r\n//　語調の変化を感じ取ってだろう。首領の女性が口を\r\n//止めた。\r\n  The woman falls silent when I interrupt her. She has sensed my abrupt change in tone. The other bandits step back, eyes wary, as the atmosphere seems to <I>thicken.</I>\r\n \r\n//　周囲に居並ぶ山賊たちも息を呑む。\r\n//　――空気の組成が変化した。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24090,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090720a00'>\r\n//「あんたに勝負を申し込む」\r\n\"I challenge you to a duel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24255,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090730b31'>\r\n//「……はぁ？\r\n//　何なの、突然」\r\n\"...Huh? What's this, now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24429,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090740a00'>\r\n//「まさか逃げないだろうな？」\r\n\"Or are you a coward?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24591,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090750b31'>\r\n//「いや。もしもし。\r\n//　一人で話を進めないでよ」\r\n\"Um, just a moment. I don't follow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24798,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090760a00'>\r\n//「あんたは女だが、武人の端くれの筈だ。\r\n//　元々軍隊にいて、これだけの部下を抱えて\r\n//いたなら勿論そうだろう」\r\n\"You may be a woman, but you possess a warrior's blood. Otherwise you would not have had so many men under your command.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25178,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090770b31'>\r\n//「ちょっと」\r\n\"Wait a minute.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25313,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090780a00'>\r\n//「ああ……けれどあんたは世襲で親の身分を\r\n//継いだくちか。御館とか呼ばれていたしな。\r\n//　しかし、血筋だけのお飾りってこともある\r\n//まい？」\r\n\"Or did you just inherit your rank and title from your father? Your men called you 'lady,' come to think of it. You must've had a privileged upbringing.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090790a00'>\r\n//「あの<RUBY text='クルス'>竜甲</RUBY>は伊達ではないんだろう？\r\n//　昨今は武家に生まれたのに劒冑を駆れず、\r\n//床の間に飾っておくだけなんて武者もどきも\r\n//多いらしいが……あんたは違うんだろうな」\r\n\"But that doesn't necessarily mean your crux is just for show. I hear many so-called musha have never seen combat... but you're not one of those, are you?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090800a00'>\r\n//「でなければ山賊に身を落としてなお親分の\r\n//ままでいるのは難しいだろう……よほど虚勢\r\n//の張り方が上手いなら別だが。\r\n//　ああ、山賊ではないんだったか？　失礼」\r\n\"You've kept control of your men even after deserting the army to become bandits―<br>sorry, revolutionaries―so you must have㉓<I>some</I>㉓skill. That, or you're very good at bluffing. Which is it, I wonder.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26824,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090810b31'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26951,
+  "en": "\r\n//　相手の反応を無視し、言葉の上に言葉を畳み掛ける。\r\n//　ぼろが出るのを避けるためだったが……結果的には\r\n//それが功を奏したらしい。\r\n  This steamrolling tactic―<br>letting the words come like water from a broken faucet<br>―is little more than a desperate attempt to avoid giving the game away. Still, it seems to have had the desired effect.\r\n\r\n//　首領の眼が<RUBY text='す'>据</RUBY>わっていた。\r\n//　周囲の山賊は完全に沈黙している。\r\n  The captain's eyes are hard and sharp, and her men have all gone silent.\r\n\r\n//　俺も黙って、首領を見下ろした。\r\n//　殊更に身長差を意識した視線で――<RUBY text='か'>且</RUBY>つそれが相手\r\n//にも伝わるよう、露骨に。\r\n  I stare down at her, flaunting my height advantage in the most obnoxious manner possible, and wait for a response.\r\n\r\n//　ややあって。\r\n//　首領が口の端を持ち上げた。\r\n\r\n//　笑みだ。\r\n  After several seconds... she smiles.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28016,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090820b31'>\r\n//「――それで？」\r\n\"So?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28146,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090830a00'>\r\n//「だから、勝負だよ」\r\n\"<I>So,</I>㉒I'm calling you out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28309,
+  "en": "\r\n//　俺も歪んだ笑みで応えた。\r\n//　相手ほど巧くやれた自信はなかったが。\r\n  I answer with a smile of my own, though I doubt mine is as genuinely menacing.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28505,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090840a00'>\r\n//「俺が勝ったら、二度と町へ手出しをしない\r\n//よう部下に命じろ」\r\n\"If I win, you'll order your men to stop raiding the village.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28756,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090850b31'>\r\n//「アタシが勝ったら？」\r\n\"And if I win?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28905,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090860a00'>\r\n//「ん？　ああ……\r\n//　そうだな」\r\n\"Hmm? Oh... right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29068,
+  "en": "\r\n//　それは、考えてもみなかった。\r\n//　――そんな表情を作る。\r\n  I scratch my chin, as if the thought had not occurred to me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29231,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090870a00'>\r\n//「俺のことは好きにしてくれていい」\r\n\"You can do what you like with me, I suppose.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29426,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090880b31'>\r\n//「……ふうん。\r\n//　そう」\r\n\"...Hmm? Okay.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29579,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090890b31'>\r\n//「聞いたわね、おまえ達？」\r\n\"You hear that, boys?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29741,
+  "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0090900b32'>\r\n//「聞いたよ、姉さん」\r\n\"We sure did, sis.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29897,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090910e080'>\r\n//「へへへ……」\r\n\"Heh heh heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30072,
+  "en": "\r\n//　山賊らの間に、低い笑いが広がる。\r\n//　楽しいことになった――どの顔も、そう言っている。\r\n  The bandits chuckle and exchange grins. They're obviously expecting prime entertainment, of the public execution variety.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30341,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090920b31'>\r\n//「結構よ。湊斗景明。\r\n//　その条件で勝負を受けます」\r\n\"Have it your way, Minato Kageaki. I accept your <br>terms.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30578,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090930b31'>\r\n//「その者に太刀を！」\r\n\"Give this man a sword!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30733,
+  "en": "\r\n//　指示を受けた山賊の一人が、自分の腰から大振りの\r\n//刀を抜いた。\r\n//　にやにやと笑いつつ、こちらへ手渡してくる。\r\n\r\n//　――田舎の腕自慢がよ。\r\n//　身の程を教えられたら、どんな顔をするのかね――\r\n  The closest bandit draws his sword and hands it to me, grinning from ear to ear.\r\n\r\n  <I>Hick thinks he's hot shit,</I> his eyes seem to say. <I>Can't wait to see you put in your place.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31222,
+  "en": "\r\n//　目は口ほどに物を言う。\r\n//　そんな視線のメッセージと一緒に、俺は太刀を受け\r\n//取った。\r\n  I ignore the warning and take the sword, testing its feel in my hands.\r\n\r\n//　特に名刀とは思えないが、悪くもない。\r\n//　少なくともまめに手入れはされている。\r\n  While not an exceptional blade, it does appear well maintained; of course, since I don't intend to cut anything, its condition isn't all that important. I'll be fine as long as its balance isn't completely off-kilter, which it is not.\r\n\r\n//　斬るつもりはないのだから、あまり関係はないが。\r\n//　重心の狂った駄刀でさえなければ充分だった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31948,
+  "en": "\r\n//　俺はその刀を可能な限り素人臭く――そして<RUBY text='はな'>端</RUBY>から\r\n//相手を軽んじている風で構えた。\r\n  I assume a rather sloppy stance, doing my very best to seem both as amateurish and as arrogant as humanly possible.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32229,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090940b31'>\r\n//「あら、勇ましい！\r\n//　強敵ね！」\r\n\"Oh my! You're quite the swordsman!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32415,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090950a00'>\r\n//「今更、取り消しは無しにしてもらおう」\r\n\"It's too late to back out now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32602,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0090960b31'>\r\n//「くっ……」\r\n\"Kuh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32729,
+  "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0090970b32'>\r\n//「姉さん、気をつけて！」\r\n\"Be careful, sis!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32890,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0090980e080'>\r\n//「御舎弟、大変だ。\r\n//　御館がやられたら、あなたが仇討ちするん\r\n//ですぜ！」\r\n\"Oh no, young master!\" one bandit cries in mock alarm. \"If our lady loses, you're gonna have to take revenge!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33248,
+  "en": "\r\n//　わざとらしくも悲壮に盛り上がる山賊団一同。\r\n//　俺はそれを真に受ける形で、笑ってみせた。\r\n  I smile at this, as if taking his words seriously.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33449,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0090990a00'>\r\n//「どうした？\r\n//　掛かって来い」\r\n\"Well? Are you coming or not?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33623,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0091000b31'>\r\n//「あらぁ、よろしいの？」\r\n\"You'll let me go first?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33785,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0091010a00'>\r\n//「あんたが来てからでいいよ、俺は」\r\n\"I don't see why not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33956,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0091020b31'>\r\n//「ふっふ――」\r\n\"Hehe...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34087,
+  "en": "\r\n//　憫笑を息吹と共に流し、首領の女が一歩を踏む。\r\n//　そのなめらかさ、しなやかさで技量の程は知れた。\r\n  With a pitying smile, she readies her blade and steps into range. The grace and stability of her stride offer an easy measure of her skill.\r\n\r\n//　強い。\r\n//　\r\n//　最初からわかっていた通り。\r\n\r\n//　<RUBY text='・・・・・・'>俺よりも強い</RUBY>。\r\n\r\n//　これも五分以上の確率で見込んでいた事だ。\r\n  She's strong.<K>\r\n  Stronger than me.\r\n\r\n  But I knew from the beginning that it was likely to be so. Hence my performance.\r\n\r\n//　だから侮った。\r\n\r\n//　話し合いで片付かぬなら、頭目との勝負に持ち込ん\r\n//で決着させる――その構想……\r\n//　最大の問題点は、確実に勝つための方策だった。\r\n  When I came up with this Plan B, the most pressing question was how to ensure victory.\r\n\r\n//　六波羅軍の精強は今更論ずるまでもない。\r\n//　わけても武者、竜騎兵の強さは全世界を見渡しても\r\n//匹敵するものが稀だろう。だからこそＧＨＱも彼らの\r\n//降伏を受け入れ、大和統治権という代価を与えたのだ。\r\n  The strength of the shogunate's warriors cannot be overstated. Rokuhara musha, in particular, have few equals anywhere in the world. That is why the Allies accepted their terms of surrender, rather than risk a confrontation that was certain to be costly.\r\n\r\n//　この女性はその六波羅の一員として勤め上げてきた。\r\n//　それも、配下から完璧に近い信望を得るほどに――\r\n//軍籍を失いながらも部下を手元に置き続けている以上、\r\n//その点は疑えない。\r\n  This woman held rank as a musha―and what's more, commands the loyalty of her men. She must, or they would not have continued to follow her even after becoming fugitives.\r\n\r\n//　幕軍において武者が歩兵部隊の指揮官を務める場合、\r\n//両者の関係は中級武家の家長（あるいは継嗣）とその\r\n//一族郎党であることが多い。\r\n//　主従の縁は俄かではなく伝統的なものだ。\r\n  In the shogunate army, when a musha commands a company of footsoldiers, it usually means that he or she is the head or heir of a warrior house, and they are that house's vassals. This feudal relationship is a long-standing tradition in Yamato's military.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36561,
+  "en": "\r\n//　が、それでもその長が惰弱無能であったなら、地位\r\n//を失った途端に見限られて当然である。\r\n//　伝統は忠義を補強はするかもしれないが、それ単独\r\n//では何も支えられない。\r\n  But even then, a weak lord will remain in charge only so long as he has his rank. Tradition may reinforce loyalty, but it cannot replace it.\r\n\r\n//　彼女はまず第一に、六波羅武者を称して恥じぬ実力\r\n//の持ち主なのだ。その実力で配下を繋ぎ止めている。\r\n//　こと武勇において他者の後塵を拝するような人間で\r\n//はないだろう。\r\n  Her men have not abandoned her. Therefore, this woman first and foremost possesses ability commensurate with her position. I have little hope of winning a fair fight.\r\n\r\n  My only chance is for her to be careless.\r\n\r\n//　まともに戦って勝てる見込みは薄い。\r\n//　勝つには――油断させるしかない。\r\n\r\n//　ただ勝負を挑んでも駄目だ。\r\n//　武者たる者が一介の市民に挑戦されたなら、きっと\r\n//九分の嘲りと共に一分の警戒心を抱くはず。\r\n  Simply challenging her to a duel would not have been enough. While a musha has little to fear from a civilian, still part of her would have wondered if I was more than I seemed. And as long as she practices even the slightest caution, the odds are stacked against me.\r\n\r\n//　その一分があっては隙が生まれない。\r\n//　勝ち目は少ない。\r\n\r\n\r\n//　<RUBY text='・・・・・'>だから侮る</RUBY>。\r\n//　こちらを、相手は所詮女だ――と、見くびっている\r\n//馬鹿者に見せる。\r\n  That is why I went to such lengths to insult her, to make her see me as nothing more than a fool who scorns women.\r\n\r\n//　この芝居が成功すれば……\r\n//　相手は怒ると共にこちらを侮蔑し、ただ勝つだけで\r\n//はなく圧倒してやろうと考える。\r\n  If it worked, then she will attempt to㉗<I>crush</I>㉗me, rather than simply to defeat me. Her strike will lack subtlety and finesse―and most importantly, will not be aimed to kill. You cannot shame a dead man.\r\n\r\n  She will come, most likely, for an arm or a leg.\r\n\r\n//　剣が大味になる。\r\n//　しかもその太刀筋は決して致命的なものではない。\r\n\r\n//　一撃で斬り殺してしまっては、屈辱を味わわせる事\r\n//ができないからだ。\r\n//　狙うのはおそらく、手足一本の奪取。\r\n\r\n//　……そこまで状況を掌中に収められたなら。\r\n//　例え、技量で優る相手といえども――\r\n  If the battle thus takes the shape I desire, then even if her skill is superior to mine―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39325,
+  "en": "\r\n//　打ち破れるのは、道理だった。\r\n  ―victory is all but certain.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39418,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0091030b31'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39545,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0091040a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39663,
+  "en": "\r\n//　前方に突出させておいた、こちらの左小手を狙って\r\n//伸びた敵手の一撃、\r\n//　それを後方への重心移動によって回避……\r\n  A short slide back to evade the slash aimed at my left wrist, which I presented as bait, then my own strike comes down against the base of her blade, amplified by my full weight, and smashes it from her grasp.\r\n\r\n//　即座に重心を前へ戻し、その威勢を以て一打を送る。\r\n//　狙いは相手の太刀の鍔元。\r\n\r\n//　許容量を超えた過負荷が敵に太刀を取り落とさせ、\r\n//　反動のまま翻った俺の切先は対手の喉を指す。\r\n  Her weapon clatters to the ground, and a heartbeat later, the rebound from my strike puts my sword at her throat.\r\n\r\n//　――決着。\r\n//　企み通り、一合で済んだ。\r\n  The duel is settled, as planned, in a single exchange.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40571,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0091050b31'>\r\n//「……な……」\r\n\"...You...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40704,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0091060b31'>\r\n//「……図ったのね……\r\n//　おまえ！」\r\n\"You tricked me!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40874,
+  "en": "\r\n//　流石。\r\n//　まぐれだ、なにかの間違いだ――などと思い込んで\r\n//自尊心を守る前に、真実を求めて把握したか。\r\n\r\n//　こんな芯の太い強者に実力を発揮させないよう努め\r\n//たのは正解だった。\r\n  Impressive. Instead of guarding her pride, she chooses instead to confront the truth. I was right to keep this woman from exercising her full strength.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41307,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0091070a00'>\r\n//「それでも約束は約束です。\r\n//　お守り頂けますね」\r\n\"Even so, a promise is a promise. You'll keep yours, won't you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41542,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0091080b31'>\r\n//「くっ……」\r\n\"Kuh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41669,
+  "en": "\r\n//　頭目の女性が唇を噛む。\r\n//　色を失ってゆくそことは裏腹に、頬は紅潮していた。\r\n  The bandit captain bites her lip hard, but the color it loses goes straight to her cheeks.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41892,
+  "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0091090b32'>\r\n//「……え？\r\n//　なに？」\r\n\"Huh? What?\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0091100b32'>\r\n//「…………姉さんが負けたの？」\r\n\"...She lost?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42203,
+  "en": "\r\n//　今頃結果を理解したらしい頭目の弟が傍らの山賊に\r\n//尋ねている。\r\n//　問われた側は答えるべき言葉が無い様子だった。\r\n\r\n//　数十人分の茫然自失と、一人分の激憤に囲まれて。\r\n//　……俺は奇妙なほど、勝利の実感というものを味わ\r\n//えずにいた。\r\n\r\n//　――これで、本当に終わるのだろうか？\r\n  The captain's brother turns to the bandit next to him, but the other man seems just as confused.\r\n\r\n  As the air around me grows thick with disbelief―and one woman's rage―I find the sense of victory strangely absent.\r\n\r\n  Is this really the end?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42876,
+  "en": "\r\n//　今夜の光は安静にしている。\r\n//　呼吸も幾分か穏やかに聞こえた――比較の話でしか\r\n//ないにせよ。\r\n  Tonight, Hikaru's condition is stable. Her breathing is soft―at least, softer than usual.\r\n\r\n//　それでも回復の兆候などは毛筋ほども見えない。\r\n//　生色は衰退の一途だ。その速度に緩急があり、今日\r\n//は緩の方へ寄っているというに過ぎない。光が日一日\r\n//と死に近付いている事実は変わらない。\r\n  There is, however, no hint of improvement. She is still wasting away. Some days the decay is slower, but fast or slow, it does not change the fact that she is dying.\r\n\r\n//　帰りが遅くなったので、今日のところは本家へ報告\r\n//するのを控えた。\r\n//　家へ直帰し、養母へ経過を伝えるに留めた。\r\n  It was late when I got back to town, so I refrained from calling on the old master and went straight home to report the outcome to my mother.\r\n\r\n//　養母は俺の無事こそ喜んでくれたものの、山賊砦で\r\n//の一部始終についてはあまり良い顔をしなかった。\r\n//　最善の形で解決した――とは、考えていないことが\r\n//窺えた。\r\n  While she was ecstatic to have me back in one piece, she was not so thrilled with the details of my encounter at the camp. She clearly does not believe the situation to be resolved.\r\n\r\n//　俺も同様の思いだった。\r\n//　そうでなければ、夜分に訪いを入れる非礼を犯して\r\n//でも本家に寄っていったろう。\r\n  Nor do I. Otherwise, I would have gone to the old master's house even despite the late hour.\r\n\r\n//　……あの手しか無かったとは、思うのだが。\r\n  ...I still do not see what else I could have done, but there's no denying that my solution left much to be desired.\r\n\r\n  The bandit captain was not at all satisfied with the outcome of our duel. A glance at her face was enough to tell me that. I should be glad she didn't call for a rematch then and there.\r\n\r\n//　女首領の表情は詳細に観察するまでもなく、納得と\r\n//いう成分を欠いていた。\r\n//　負けたと思うよりも、もう一度やれば勝つとの思い\r\n//の方が遥かに深かったことは疑いない。\r\n\r\n//　山賊たちとて納得などしていないだろう。\r\n//　おそらくは首領以上に。\r\n  Her men, too, seemed unconvinced. Perhaps more so than their leader.\r\n\r\n//　しかし、あれは明確な取り決めのもと行われた勝負\r\n//である。\r\n  Even so, it was a deal fairly struck. A verbal contract, yes, but that shouldn't matter. The terms were set, the duel took place, and the result was indisputable.\r\n\r\n//　口約束に過ぎないが、それはさして問題ではない。\r\n//　約束は環視の中で確かに取り交わされたし、決着も\r\n//明々白々だった。\r\n\r\n//　仮にも武家の出である者が、確かな事実に頬被りを\r\n//決め込むとは考えにくい。\r\n//　約束は守られるだろう――守られる筈だ。\r\n\r\n  She gave her word as a warrior. So she will keep her promise. She must.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46094,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0091110a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46218,
+  "en": "\r\n//　とにかく明日、本家へ報告に行こう。\r\n//　俺はそう決めた。\r\n  I'll report to the old master tomorrow. It won't be easy to convince him I succeeded. Presentation will be key.\r\n\r\n//　本家が納得するかどうかはわからないが……\r\n//　説明の仕方次第だ。\r\n\r\n//　山賊とて元は侍、武人の矜持というものがある。\r\n//　少なくとも露骨に略奪を続けはしないだろう――と、\r\n//そのように話を持って行けば説き伏せることも可能か\r\n//もしれない。\r\n  If I appeal to honor, claiming that pride will not let them continue their raids―at least not openly―<br>then perhaps he will accede.\r\n\r\n//　詐術を弄するようだが、光の病状が一刻を争う以上、\r\n//万止むを得ない。\r\n//　それに、武人の矜持を信ずる念は偽りではなかった。\r\n  It feels somewhat deceitful, but Hikaru's life is on the line. I have no choice.\r\n  And besides, a warrior's honor is nothing to scoff at. I must have faith that the captain's will win out. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47310,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0091120a00'>\r\n//「……光……」\r\n\"Hikaru...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47440,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0091130a14'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47555,
+  "en": "\r\n//　もう少し待て。\r\n//　もう少し待ってくれれば、必ず……お前を……\r\n  Just hold on a little longer... and everything will be fine.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47727,
+  "en": "\r\n//　……また、ここにいる。\r\n  ...Once again, this place.\r\n\r\n//　<RUBY text='おれ'>光</RUBY>を封ずる闇の檻。\r\n//　形ではなく無をもって閉ざされた牢獄のなか。\r\n  I awaken, as ever, in my cold, dark prison. My cage made not of steel, but of oblivion.\r\n\r\n//　おれはいつまでもここにいる。\r\n//　そうして、同じ夢を見る。\r\n  I have always been here, and will always be here, dreaming the same dream.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48203,
+  "en": "\r\n//　<RUBY text='はじまり'>原点</RUBY>の記憶。\r\n  My origin. My earliest memory. My mother tears me from my father, and with bladed tongue severs our bond.\r\n\r\n//　父を奪う母。\r\n//　母に奪われる父。\r\n//　父を失う己。\r\n\r\n\r\n//　繰り返し。\r\n//　また、繰り返し。\r\n  I watch it play out again and again. The same dream forever, in this boundless abyss.\r\n\r\n//　おれは同じ夢を見続ける。\r\n//　果てもない暗黒の界で。\r\n\r\n//　それだけが光という存在に許されたこと。\r\n  I will dream the dream until the day my soul rots and fades to nothing. I have no choice.\r\n\r\n//　闇は決しておれを逃さない。\r\n//　ここで朽ちよと、そう命ずる。\r\n\r\n//　動いてはならぬと、そう命ずる。\r\n\r\n//　そう。\r\n//　光は、ここから動いてはならぬ。\r\n\r\n//　父を奪われた<RUBY text='おれ'>光</RUBY>がこの生命を動かすならば、\r\n//　それは父を取り戻すためである。\r\n  No other act is permitted me here. I cannot move. I cannot wake. This prison will never release me.\r\n\r\n  Unless―\r\n\r\n  Unless it is to take back what is mine.\r\n\r\n  My father, stolen from me at birth. Only in pursuit of him will I be able to leave this darkness behind.\r\n\r\n//　奪われたおれは、\r\n//　奪い返すためだけに<RUBY text='うごく'>生きる</RUBY>。\r\n\r\n//　だがそれは許されぬのだ。\r\n  Ahh, but that path is closed to me.\r\n\r\n//　――父は母のもの。母は父のもの。\r\n//　子が母から父を奪うは、<RUBY text='ひとのみち'>倫理</RUBY>が厳に禁ずるところ。\r\n  My father belongs to my mother, and she to him. The laws of man, the laws of morality, forbid daughters from claiming their fathers.\r\n\r\n//　光は、人である。\r\n//　人の道に背くことはできぬ。\r\n  I, Hikaru, am but human. I cannot defy this sacred commandment.\r\n\r\n//　人の道に従うならば、\r\n//　母から父を取り戻すことは許されぬ。\r\n  Even if I could, even if I㉒<I>did</I> take him back, my father would never accept me. To him, morality is paramount.\r\n\r\n//　人の道に背いて父を奪わんとしても、\r\n//　父は光を認めまい。\r\n\r\n//　だから、光はこの闇の底から動けない。\r\n\r\n//　奪われた者として始まったおれは、\r\n//　奪い返す道が開かれぬ以上、未来永劫<RUBY text='はじまり'>原点</RUBY>に留まり\r\n//続けるしか<RUBY text='ありよう'>在様</RUBY>が無い。\r\n\r\n//　……だから光はここにいる。\r\n//　いつまでもここにいる。\r\n\r\n  The path is closed. And so I remain, forever trapped in the moment of my loss.\r\n\r\n  Dreaming.\r\n",
+  "pt": ""
+ }
+]

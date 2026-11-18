@@ -1,0 +1,247 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　――何たる。\r\n  What is this?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 267,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0010a00'>\r\n//「ちぃ――」\r\n\"Tch!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 391,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0020b37'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 520,
+  "en": "\r\n//　――何たる事か。\r\n\r\n//　この様を傍で見ている立場であったら、<RUBY text='・・・・'>演技指導</RUBY>を\r\n//したかもしれない。\r\n//　もう少し<RUBY text='リアリティ'>現実感</RUBY>を、とでも。\r\n\r\n//　<RUBY text='サムライアクション'>時代活劇</RUBY>の中にしか有り得ぬ光景だ――\r\n//　\r\n//　武者と生身で渡り合う剣士など！\r\n  What㉓<I>is</I>㉓this? Am I starring in a film? I keep expecting the director to yell㉓<I>cut,</I>㉓then tell us to make it look more realistic.\r\n\r\n  I would have to agree, for this scene is the sort that can only be found in the most fantastic tales: where an unarmored swordsman fights a musha on equal terms―or better!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1286,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/025vs0030a01'>\r\n//《……実は貴方たち……\r\n//　二人で<RUBY text='・・'>ぐる</RUBY>になって、私をからかってたり\r\n//しない？》\r\n《...Tell me you two planned this just to drive me up a wall.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1600,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0040a00'>\r\n//「同じ事を俺も訊こうと思っていたのだが」\r\n\"I had the same suspicion regarding you, actually.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1811,
+  "en": "\r\n//　他にどう考えろというのか。\r\n//　全ては夢で、現実の俺はどこかで眠っているのか。\r\n//今ここの<RUBY text='・・'>現実</RUBY>よりは、まだ有りそうな話に思えた。\r\n  What other explanation is there? I could more easily believe that I had slipped into a dream than that what I am experiencing is real.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2181,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0050b37'>\r\n//「さほどに奇妙な事ではないのです……」\r\n\"It is no great mystery.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2372,
+  "en": "\r\n//　間の抜けたやり取りを聞いていたように――実際は\r\n//こちらの動揺を読み切ってか。\r\n//　異装の男が口を挟む。\r\n  The man speaks suddenly, as if responding to our banter. More likely he sensed my distress.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2636,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0060b37'>\r\n//「ここは狭い。武者の最大の利点である騎航\r\n//能力が全く活かせません。\r\n//　翼を奪われた鷹が鼠に手間取るは、むしろ\r\n//道理というものでしょう」\r\n\"Your greatest advantage, flight, is negated by this confined space. Even a hawk, denied the use of his wings, must struggle to catch a mouse.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3092,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0070a00'>\r\n//「……それでも鷹には嘴がある。\r\n//　鼠の牙と渡り合って互角以下では、やはり\r\n//不甲斐ないかと思われるが？」\r\n\"...Yet still the hawk has its beak and talons. Is it presumptuous to assume that these should suffice to overcome the mouse's teeth?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3481,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0080b37'>\r\n//「他にも事情はあります。\r\n//　私はここで、無理に勝ちを取る必要はない。\r\n//足止めできればそれでいい」\r\n\"There are other factors. I do not need to㉓<I>defeat</I>㉑you in order to win. It is enough to merely delay you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3852,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0090b37'>\r\n//「しかし貴方は違う。\r\n//　一刻も早く私を倒さねばならない……こう\r\n//している間にも私の部下達が駆けつけて来る\r\n//かもしれないのだから」\r\n\"For you, the opposite is true. You must defeat me with all haste. The longer you take, the greater the chance that my men will find us here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4298,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0100a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4418,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0110b37'>\r\n//「<RUBY text='とき'>時間</RUBY>を味方とする者は<RUBY text='ゆとり'>余裕</RUBY>を得、敵とする\r\n//者は<RUBY text='あせり'>焦慮</RUBY>を得る。\r\n//　私と貴方。<RUBY text='タイ'>体</RUBY>は貴方が大きく優るでしょう。\r\n//しかし<RUBY text='シン'>心</RUBY>は私が優位にあります」\r\n\"The man with time on his side gains options. His opponent gains only fear. Thus, while you have the advantage in Body, I have the advantage in Mind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5022,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0120b37'>\r\n//「ここまでは五分。\r\n//　残るは、<RUBY text='ギ'>技</RUBY>……」\r\n\"If we assume that these are equal, that leaves only the question of Skill...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5291,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0130a00'>\r\n//（それが、比較にならぬというわけか!?）\r\n(So his is that much <br>superior!?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5483,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0140a00'>\r\n//「――ぬぅ！」\r\n\"...Ngh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5613,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0150b37'>\r\n//「御小手一本」\r\n\"I believe I'm up an arm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5769,
+  "en": "\r\n//　こちらの繰り出す太刀を<RUBY text='たいさば'>体捌</RUBY>きで避け、更に避け。\r\n//そうして生じた隙を突き、左手首に一撃を<RUBY text='く'>呉</RUBY>れてきた。\r\n//　関節部である手首は防護が薄い。切り離されること\r\n//こそなかったが、肉を深く裂かれている。\r\n\r\n//　遂に反撃まで食った事に、衝撃は無論ある。\r\n//　だがそれ以上に<RUBY text='たま'>堪</RUBY>らぬのは、こちらの剣撃が躱され\r\n///続けている事だった。彼は刀を使って受け止めてすら\r\n///いない。\r\n\r\n//　俺は<RUBY text='・・・・・'>受けさせる</RUBY>事さえできていないのだ。\r\n\r\n//　受けさせれば、力で押し切れる。\r\n//　武者と常人の筋力差は絶対だ。\r\n\r\n//　それは必ずしも難しい事ではない、筈だった。\r\n//　力量に大きな差でもない限り、そうそう太刀筋を見\r\n//切って避けるなどという真似はできないからだ。\r\n\r\n//　つまり。\r\n  Pain flares along my wrist. It's still attached, but that is small comfort. Just now, he danced past two of my strikes, then slipped one of his own through the lightly armored joint.\r\n\r\n  But far worse than the shock of having taken a blow―is the shame of my continued inability to land one of my own, or even to make contact with my enemy's sword. This man has not needed a single parry!\r\n\r\n  I have tried my damnedest to draw one out, knowing that my augmented strength would overcome him. It should have been a simple task.\r\n\r\n  A swordsman cannot read his enemy so well as to cleanly evade his㉓<I>every</I> attack. Not unless his skill is vastly superior.\r\n\r\n  And of course, that is the answer.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7545,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0160a00'>\r\n//（技量に、それだけの差がある……）\r\n(The difference is that great.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7727,
+  "en": "\r\n//　大人と子供。\r\n//　玄人と素人ほどの。\r\n\r\n//　剣師である養父にさえ、ここまで軽くあしらわれた\r\n//覚えは無かった。\r\n//　何者なのか――この男。\r\n  Even my father, who taught me the Yoshino-onryu, never handled me with such ease.\r\n\r\n  Compared to this man, I might as well be a child, a novice who has never held a sword in his life. Who is he?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8142,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0170b37'>\r\n//「……いえ。やや浅い……\r\n//　咄嗟に力を抜いて打ちに備えた？」\r\n\"Or... no. The cut was shallow. Your body reacted to my counter?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8407,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0180a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8527,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0190b37'>\r\n//「戦慣れした反応、だけでは説明できない。\r\n//　貴方は知っているようですね。我々六波羅\r\n//新陰流の剣筋を」\r\n\"That suggests experience, and of a specific nature. You have faced the Rokuhara Shinkage-ryu before.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8890,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0200a00'>\r\n//「一度、立ち合ったことがある」\r\n\"Once.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9042,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0210b37'>\r\n//「その者の名は？」\r\n\"And what was this swordsman's name?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9215,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0220a00'>\r\n//「一ヶ尾瑞陽」\r\n\"Ichigao Mizuhi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9353,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0230b37'>\r\n//「……あの娘。\r\n//　道理で……成程」\r\n\"Ah... Ichigao. That would explain it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9553,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0240b37'>\r\n//「あれと剣を交えていたのなら納得もゆく」\r\n\"Hers was indeed the Shinkage-ryu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9757,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0250a00'>\r\n//「あの方をご存知か……」\r\n\"You knew her?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9908,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0260b37'>\r\n//「つまらぬ汚職事件に巻き込まれたりしなけ\r\n//れば、今頃は私の手元に引き上げていたかも\r\n//しれない者です。\r\n//　惜しいことをした……」\r\n\"She might well have been one of those facing you today, if not for that black market foolishness. Such a waste...\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0270b37'>\r\n//「私が<RUBY text='じか'>直</RUBY>に手解きをしたのはほんの数度です\r\n//が、確かに<RUBY text='てんぴん'>天稟</RUBY>と呼べるものがありました。\r\n//　彼女は今？」\r\n\"May I ask what became of her? She was a gifted pupil, though I only instructed her myself on a few brief occasions.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10751,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0280a00'>\r\n//「……二年前、己の矜持に殉じられた。\r\n//　他に語るべき事はない」\r\n\"Two years ago, she died for honor. There is nothing more to be said.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11015,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0290b37'>\r\n//「……そうですか……」\r\n\"I see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11167,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0300a00'>\r\n//「貴方は彼女の師か」\r\n\"You were her swordmaster?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11324,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0310b37'>\r\n//「そう言っても差し支えはないでしょうね。\r\n//　……宜しい。これも人の<RUBY text='えにし'>縁</RUBY>」\r\n\"I had that distinction.\r\n  ...A strange conflux. But these connections are what make us human. So be it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11675,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0320b37'>\r\n//「あの者に伝え切れなかった<RUBY text='おうひ'>奥秘</RUBY>を、貴方に\r\n//お教えしましょう。\r\n//　――掛かっておいでなさい」\r\n\"I could not pass to her all of my secrets. So instead, I shall pass one to you. Come as you will.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12050,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0330a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12171,
+  "en": "\r\n//　言うや、男は初めて<RUBY text='かまえ'>構</RUBY>を取った。\r\n//　刀を右肩上に担ぐ、武者正調の上段。\r\n\r\n//　それはかえって、隙を生んだように見えた。\r\n//　無構と違って太刀筋はある程度限定される。動きを\r\n//読み取ることが可能になっている。\r\n\r\n//　より、単純な力の勝負に近くなったと言ってもいい。\r\n//　そうなれば、生身の劣勢は明らかだ。\r\n\r\n//　何のつもりか？\r\n//　\r\n//　しかし、躊躇する時間を俺は持たなかった。\r\n\r\n//　この瞬間にも、後背に敵が現れ得るのだ。\r\n//　何があろうと――挑むしかない。\r\n  Thus said, he assumes the musha jodan, blade held above his right shoulder.\r\n\r\n  This is the first time he has taken a stance, but rather than give me new cause for concern, it seems to diminish the threat he presents.\r\n\r\n  A fixed stance limits his options. I can begin to predict how he'll respond to my attack. And that means I might have the chance to bring my strength to bear.\r\n\r\n  What is he planning? No time to wonder, not when a swarm of musha could descend upon me at any moment. I'll have to meet his challenge directly.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13415,
+  "en": "\r\n//　俺は対手に倣って太刀を上段に取った。\r\n//　そして呼吸を――計らない。こんな剣術の化け物の\r\n//ような相手にそんな真似をしても墓穴掘りだ。\r\n\r\n//　何も考えず、\r\n//　斬り込む。\r\n  I assume jodan, mirroring his. Normally, this is where I would assess my opponent's breathing, but to vie for timing with this master of the sword seems a very poor idea indeed.\r\n\r\n  I empty my mind and strike.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13892,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0340a00'>\r\n//（――！）\r\n(!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14010,
+  "en": "\r\n//　こちらの攻撃に、敵は<RUBY text='・・・'>遅れて</RUBY>動いた。\r\n//　\r\n//　遅れて――しかし真っ向から挑むようなその軌道。\r\n\r\n//　これは。\r\n  He answers―slow. A split-second late, yet his strike is angled to meet mine head-on.\r\n\r\n  This can mean only one thing.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14337,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0350a00'>\r\n//（<RUBY text='キリオトシ'>切落</RUBY>か!?）\r\n(Kiri-otoshi!?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14505,
+  "en": "\r\n//　遅れて剣を起こしながら――\r\n//　相手の剣を<RUBY text='・・・・・'>切り落とし</RUBY>、体をも断って勝つ技法。\r\n\r\n//　一刀流の秘極として名高い剣。\r\n//　それを……ここで？\r\n  Kiri-otoshi, made famous by the Itto-ryu, is a technique for cutting㉓<I>through</I>㉓your opponent's strike. It is feared, and rightly. But to use it here?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14917,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0360a00'>\r\n//（馬鹿な）\r\n(Madness.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15042,
+  "en": "\r\n//　俺は構わず振り込む。\r\n//　手を止める必要はない――この勝負は勝てる。\r\n\r\n//　単純な力において、武者と生身の差は<RUBY text='・・'>絶対</RUBY>だ。\r\n//　男の剣がいかに精妙を極めようとも、武者の一刀を\r\n//切り弾いて軌道を変えさせる事など叶わない。\r\n\r\n//　俺に相手を殺す気は無いから、加減はしている。\r\n//　しかし同じ事だ。\r\n\r\n//　せいぜいが相打ち。\r\n//　受ける被害は確実に、相手の方が大きい――\r\n  No need to disengage, I judge in an instant. This is a contest I can win.\r\n\r\n  A musha facing an unarmored man has an <I>absolute</I>㉓advantage in power. His deflection may be flawless―no doubt it will be―but that will not suffice to shift my course, not even though I've held back my strength so not to kill him.\r\n\r\n  The most he can hope is to land his own blow, and even then, his damage will be greater!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16027,
+  "en": "\r\n//　\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0370b37'>\r\n//　　　　　　　　「六波羅新陰流」\r\n<center>\"Rokuhara Shinkage-ryu:<K>\r\n<center><voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0380b37'>Gasshi.\"\r\n\r\n//　\r\n//【常闇斎】\r\n//<voice name='常闇斎' class='常闇斎' src='voice/mb02/025vs0380b37'>\r\n//　　　　　　　　　　「<RUBY text='ガッシ'>合撃</RUBY>」\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16495,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/025vs0390a00'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16633,
+  "en": "\r\n//　何も言える事はなく。\r\n//　ただ、黙って<RUBY text='・・'>それ</RUBY>を見詰める。\r\n\r\n//　俺の左手が廊下に落ちていた。\r\n  As silence falls, I am left to gape―<K>at my severed left hand, lying on the floor.\r\n",
+  "pt": ""
+ }
+]

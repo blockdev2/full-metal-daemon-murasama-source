@@ -1,0 +1,592 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260010a01'>\r\n//「…………で」\r\n\"So...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 345,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260020a01'>\r\n//「これが、『近い事』？」\r\n\"This is your idea of㉓<I>close?</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 523,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260030a00'>\r\n//「解釈次第では」\r\n\"In a manner of speaking.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 671,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260040a01'>\r\n//「誤解とか曲解とかいうのよね……それって\r\n//きっと……」\r\n\"Yeah... I just bet...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 880,
+  "en": "\r\n//　駅前地区にあるホテルの一室。\r\n//　衣装提供は一階の貸衣装屋――パーティ等で需要が\r\n//見込まれるため、ホテル内にその種の店舗があるのは\r\n//珍しい事でもない。\r\n\r\n//　豊富な品揃えのうち、仮装パーティ用に分類される\r\n//一着が俺の要望を満たした。\r\n  Most hotels like this one have stores that rent out clothing for parties and events. It did not take long to find an outfit for Muramasa which met my requirements.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1410,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260050a00'>\r\n//「完璧だ」\r\n\"Absolute perfection.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1545,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260060a01'>\r\n//「これ、何なのか訊いていいかしら？\r\n//　……どっちかっていうと私の方であんまり\r\n//訊きたくないんだけど……」\r\n\"Mind telling me what I'm wearing here? Assuming I want to know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1872,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260070a00'>\r\n//「貴人に仕える女性が着る服には違いないぞ。\r\n//　西洋の、だが」\r\n\"The clothes of a woman in service. Albeit the Western version.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2125,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260080a01'>\r\n//「本当かな……」\r\n\"Oh really...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2267,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260090a00'>\r\n//「いや、良い。\r\n//　いや、素晴らしい」\r\n\"Mm... Magnificent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2440,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260100a01'>\r\n//「褒めてくれるのは嬉しいんだけどね。\r\n//　……なんか今の貴方、駄目な病気っぽい」\r\n\"Thanks for the compliment, I guess... but why do I get the feeling you're a little sick in the head?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2764,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260110a00'>\r\n//「病気は病気だが、おそらく地球上の男性の\r\n//過半数が患っている病気だから、気にしない\r\n//でくれ」\r\n\"Perhaps I am. But if so, it's a sickness that most men are afflicted with. Don't let it bother you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3103,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260120a01'>\r\n//「何なんだか。\r\n//　で、私はこの格好でどうしたらいいわけ？」\r\n\"Whatever. So you put me in this getup. What now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3345,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260130a00'>\r\n//「そうだな……。\r\n//　お茶を貰おうか」\r\n\"Now... how about some tea?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3526,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260140a01'>\r\n//「道具は？」\r\n\"I don't see a tea set.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3672,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260150a00'>\r\n//「テーブルの上の、それだ」\r\n\"That's it there on the table.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3840,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260160a01'>\r\n//「これ……？\r\n//　ふぅん。海を越えるとお茶の道具もこんな\r\n//風になるのね」\r\n\"This? Huh... I guess this is Western style too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4100,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260170a00'>\r\n//「所変われば、だからな」\r\n\"Different cultures.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4255,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260180a01'>\r\n//「ちょっと待ってて」\r\n\"Just a minute.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4405,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260190a01'>\r\n//「わっ、わっ……\r\n//　ごめん、こういうの使ったことないから！」\r\n\"Ah! S- Sorry! I've never used a pot like this!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4648,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260200a01'>\r\n//「こぼしちゃった、拭かないとっ」\r\n\"Let me wipe that up!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4822,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260210a00'>\r\n//「……ッ……」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4944,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260220a01'>\r\n//「なんで感動してるの!?」\r\n\"Why do you look so <br>happy!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5115,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260230a00'>\r\n//「いや。いやいや。\r\n//　俺としたことが……些か取り乱した」\r\n\"...Pardon me. That was a close one.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5335,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260240a00'>\r\n//「危うく魂を根こそぎ持っていかれるところ\r\n//だった」\r\n\"I could feel my soul ascending to heaven.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5552,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260250a01'>\r\n//「どこへよ……」\r\n\"Sure that was heaven?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5703,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260260a00'>\r\n//「構わずに続けてくれ。\r\n//　何度失敗してもいい」\r\n\"Please continue. And spill as much as you like.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5920,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260270a01'>\r\n//「しませんっ。\r\n//　すぐ淹れ直すから、待ってて」\r\n\"I won't spill any more! Just wait. I'm almost done.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6147,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260280a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6271,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260290a01'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6396,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260300a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6520,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260310a01'>\r\n//「……ねえ」\r\n\"Um...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6649,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260320a00'>\r\n//「何だ」\r\n\"What's wrong?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6774,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260330a01'>\r\n//「視線が気になる」\r\n\"The way you're staring...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6932,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260340a00'>\r\n//「何故だろう」\r\n\"Was I staring?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7067,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260350a01'>\r\n//「ほのかに邪念を感じるっていうか」\r\n\"It feels... hungry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7243,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260360a00'>\r\n//「はて」\r\n\"Ah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7358,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260370a01'>\r\n//「……いやらしいこと、考えてない？」\r\n\"...Were you thinking of doing something naughty?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7566,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260380a00'>\r\n//「うむ。考えている」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7700,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260390a01'>\r\n//「否定してよっ！\r\n//　逃げ場が無くなるじゃないの！」\r\n\"You're not supposed to admit it! Now there's no way out!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7938,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260400a00'>\r\n//「だから肯定した」\r\n\"That's the point.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8082,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260410a01'>\r\n//「だ、だめだからね。\r\n//　こんな所で」\r\n\"W- We're not doing that, okay? Not here...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8285,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260420a00'>\r\n//「しかしその服を持ち出すわけにはいかない\r\n//のでな」\r\n\"But we can't take the costume home.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8496,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260430a01'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8626,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260440a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8750,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260450a01'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8892,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260460a00'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9028,
+  "en": "\r\n//　はぁぁぁぁ。\r\n//　\r\n//　村正が深々と嘆息した。\r\n//　仕方なさそうに、こちらを見やってくる。\r\n  After loosing a heavy sigh, Muramasa turns to me with a look of resignation.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9254,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260470a01'>\r\n//「……もぅ。\r\n//　どうして欲しいの？」\r\n\"...What do you want me to do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9444,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260480a00'>\r\n//「説明しよう。\r\n//　何、簡単な事だ」\r\n\"Nothing difficult. First...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9623,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260490a01'>\r\n//「……へんたい。ふらちもの」\r\n\"...You are such a pervert.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9797,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260500a00'>\r\n//「失敬な」\r\n\"You wound me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9925,
+  "en": "\r\n//　敬えというのが無理な構図ではあるが。\r\n//　村正を<RUBY text='ひざまず'>跪</RUBY>かせ、膝の間に入れている。\r\n\r\n//　既に隆起したものと直面する格好だ。\r\n  Of course, I am well aware that this is not my most distinguished hour. I have positioned Muramasa on her knees, her head between my thighs. My rigid member towers exposed before her eyes.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10341,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260510a01'>\r\n//「こんなもの突きつけて……もー」\r\n\"Does it have to be so big?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10521,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260520a00'>\r\n//「恨むなら己の服装を恨んでくれ」\r\n\"Blame your outfit, not me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10695,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260530a01'>\r\n//「着せたの、貴方でしょ！」\r\n\"You're the one who made me wear it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10875,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260540a00'>\r\n//「俺も惑わされている犠牲者に過ぎん」\r\n\"I'm just an innocent victim.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11057,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260550a01'>\r\n//「わけわからないし……」\r\n\"I don't even know anymore...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11227,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260560a00'>\r\n//「村正。手を貸せ」\r\n\"Give me your hand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11372,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260570a01'>\r\n//「手？」\r\n\"My hand?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11498,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260580a00'>\r\n//「利き手」\r\n\"Your dominant hand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11632,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260590a01'>\r\n//「はい」\r\n\"Okay...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11757,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260600a01'>\r\n//「……握らされた……」\r\n\"And now I'm holding it...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11921,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260610a00'>\r\n//「落ち込まないように」\r\n\"A little more enthusiasm, please.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12087,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260620a01'>\r\n//「これ……<RUBY text='こす'>擦</RUBY>るの？」\r\n\"So you want me to... what, rub it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12284,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260630a00'>\r\n//「うむ。軽くでいい」\r\n\"Gently.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12421,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260640a01'>\r\n//「こう……？」\r\n\"Like this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12558,
+  "en": "\r\n//　細い指が、言葉通りの動作をする。\r\n\r\n//　愛戯と云うにはたどたどしい。\r\n//　快感と呼べるほど明確な形を成さないむず痒いもの\r\n//が、神経を這い上がってきた。\r\n  Her fingers move, stiffly at first. A tingling, too vague to call pleasure, begins to crawl up my spine.\r\n\r\n//　焦らされているような感覚。\r\n//　だが不快感とは遠い。\r\n  The sensation is teasing, but far from unpleasant.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13045,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260650a01'>\r\n//「こんなことさせて楽しむなんて」\r\n\"I can't believe you're making me do this.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13240,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260660a00'>\r\n//「昨晩、似たような事をお前の方からされた\r\n//気もするが……」\r\n\"You did something similar last night. With no prompting, I might add.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13497,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260670a01'>\r\n//「あ、あれはあれ！\r\n//　これはこれよっ！」\r\n\"Th- That was different!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13687,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260680a00'>\r\n//「あれほど大胆かつ強引な真似ができたお前\r\n//なら、この程度は大丈夫だ」\r\n\"Well, with that experience under your belt, this should be a simple matter.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13965,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260690a01'>\r\n//「……うぅー……」\r\n\"Ugh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14104,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260700a00'>\r\n//「もう少し強くしてくれてもいい」\r\n\"You can do it harder now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14277,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260710a01'>\r\n//「……こう？」\r\n\"...Like this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14417,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260720a00'>\r\n//「ああ……」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14541,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260730a01'>\r\n//「…………。\r\n//　だんだん恐い感じになってきた」\r\n\"...I'm getting scared.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14739,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260740a00'>\r\n//「生理現象だ」\r\n\"It's supposed to do that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14885,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260750a01'>\r\n//「これじゃなくて。\r\n//　貴方が。目付きとか」\r\n\"No, I mean... the look in your eyes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15091,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260760a00'>\r\n//「……すまん。\r\n//　<RUBY text='・・'>それ</RUBY>は本当に病気だ」\r\n\"...Oh. That, I'm afraid, <I>is</I>㉓a sickness.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260770a00'>\r\n//「正気な内に謝っておく」\r\n\"I should apologize now, while I'm able.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15491,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260780a01'>\r\n//「でもやめないのね……」\r\n\"But you're not going to stop, are you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15671,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260790a00'>\r\n//「次は口を使ってくれ」\r\n\"Use your mouth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15819,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260800a01'>\r\n//「あまつさえ要求が進んでる……」\r\n\"It gets worse...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15989,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260810a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16110,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260820a01'>\r\n//「はい。……わがまま」\r\n\"Fine... Don't say I never did anything for you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16296,
+  "en": "\r\n//　<RUBY text='ためら'>躊躇</RUBY>いがちに、村正が粘膜へ舌をつける。\r\n//　ほんの少し、触れる程度。\r\n  Timidly, she extends her tongue and touches it to the head of my penis.\r\n\r\n//　指とは違うぬめった感触。\r\n//　今度の刺激は性感そのものだった。\r\n  This time, my body's response is unmistakably pleasure. The wet muscle spreads, the sensation with it, and my grotesque meat swells, exultant.\r\n\r\n//　舌が接触の面積を広げる。\r\n//　感覚が増長する。\r\n\r\n//　悦びを訴えて、醜悪な肉の塊が脈打った。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16906,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260830a01'>\r\n//「……いいの？」\r\n\"Am I doing it right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17056,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260840a00'>\r\n//「とても」\r\n\"Absolutely.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17182,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260850a01'>\r\n//「私はすごく恥ずかしいんだけど」\r\n\"I just want you to know I'm feeling really embarrassed right now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17401,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260860a00'>\r\n//「だからこそ。だからこそだ」\r\n\"All the better, Muramasa. All the better.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17584,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260870a01'>\r\n//「……男って生き物は……」\r\n\"Men...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17735,
+  "en": "\r\n//　そう言いながらも、村正は続けてくれる。\r\n//　先端へ舌を這わせ、口の部分をつつくようにする。\r\n  Despite her obvious ambivalence, Muramasa continues, licking around the rim of my glans and touching her tongue to the tip.\r\n\r\n//　それが良いと知っての行為ではなかったのだろうが、\r\n//効果は著しかった。\r\n//　疼きを覚え、我知らず下唇を舐める。\r\n  I do not think she knows the effect this will have. Her instincts, however, are true. \r\n\r\n  My pleasure surges. I wet my lips.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18314,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260880a00'>\r\n//「良し。そのまま……」\r\n\"That's good. Now...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18466,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260890a01'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18591,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260900a00'>\r\n//「口の中に入れてくれ」\r\n\"Put it in your mouth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18745,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260910a01'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18875,
+  "en": "\r\n//　目で責めてくる村正に、気付かぬふりを装う。\r\n//　首根を押さえて軽く促した。\r\n  Pretending not to see the reproach in her eyes, I press gently against the back of Muramasa's neck.\r\n\r\n//　人でなし、と言いたげな瞳のまま、村正は許容する。\r\n  She gives me one last exasperated glare, then acquiesces. \r\n\r\n//　肉筒が口唇の狭間へ割って入った。\r\n//　醜いものと綺麗なものとが交わるその様は、見るに\r\n//つけ蠱惑的。\r\n  Slowly, my flesh enters her mouth, the ugly spreading to fill the pristine.\r\n\r\n  This is wrong, yet so very right. I feel my fetters slip and fray.\r\n\r\n//　<RUBY text='やま'>疚</RUBY>しさを伴った嬉しさが込み上げる。\r\n\r\n//　これはまずい。\r\n//　これは――いい。\r\n\r\n//　抑えが利かなくなってくる。\r\n\r\n//　村正にこんな事をさせていると思うと、暗色の喜悦\r\n//はいや増す。\r\n  Muramasa is pleasuring me. Her motions are clumsy, her limits strained, but still she works her tongue for my sake.\r\n\r\n//　困惑しながらも、村正は奉仕を続けていた。\r\n//　口の中のものを持て余しつつ、不器用に舌を蠢かせ、\r\n//触れ合わせる。\r\n\r\n//　快感が募る。\r\n//　徐々に、徐々に高まる。\r\n\r\n//　だがもどかしい。\r\n\r\n//　抑えが利かない。\r\n  Deep in my loins, a fire gathers, hotter by the second. And yet, it's not enough.\r\n\r\n  My fetters tear. I grip her cheeks and begin to thrust.\r\n\r\n//　俺は自ら動いた。\r\n//　女の頬に手を添えて、出し入れする。\r\n\r\n//　苦しかったのか、村正が眉をしかめた。\r\n//　それでも吐き出そうとはしない。\r\n  Her brows rise, signaling distress, but she makes no attempt to pull away. Such gumption. I take full advantage, forcing my way past teeth and tongue until I reach her throat.\r\n\r\n//　その我慢に付け入って、享楽を貪る。\r\n//　頬の内側に擦りつけ、更には喉まで犯した。\r\n\r\n//　<RUBY text='たま'>堪</RUBY>らなくなる。\r\n\r\n//　こんな下劣な行為は、\r\n//　――――余りにも良い。\r\n  <I>Yes.</I>㉑ The savagery compels me. My apex approaches.\r\n\r\n\r\n//　限界だ。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21154,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260920a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21275,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260930a01'>\r\n//「……？」\r\n\"?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21397,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260940a00'>\r\n//「こっちを向いていろ」\r\n\"Look up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21538,
+  "en": "\r\n//　肉根を引き出す。\r\n//　鼻先へ据える。\r\n\r\n//　そうして、村正が理解するよりも先に、欲望を迸ら\r\n//せた。\r\n  I pull free and aim at the center of her face.\r\n\r\n  Before she can guess what is happening, my white hot lust erupts.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21821,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260950a01'>\r\n//「きゃ……！」\r\n\"Ah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21951,
+  "en": "\r\n//　反射的に逃げようとするのを押さえつけ。\r\n//　横を向く事さえ許さず、正面から浴びせる。\r\n\r\n//　鼻梁から目元、額。\r\n//　前髪も。\r\n  She tries to jerk back, but I hold her in place so she cannot turn away.\r\n\r\n  The milky fluid showers her like rain, landing upon her nose and lips, eyelids, brow, and hair. I can hardly believe the quantity and thickness. \r\n\r\n//　よくもこれ程、と自分で思う量。\r\n//　小さな顔の上に白濁の液を撒く。\r\n\r\n//　動けなくされた村正は、暴行を甘んじて受けている。\r\n//　<RUBY text='まぶた'>目蓋</RUBY>を震わせる事しかできない。\r\n  And Muramasa―she accepts my filth. She has no choice but to watch and wait for me to complete her debasement.\r\n\r\n//　最後の一滴まで、俺は出し切った。\r\n  Within moments, I am dry.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22846,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260960a01'>\r\n//「んっ……くぅ……」\r\n\"Ngh... kuh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22995,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260970a00'>\r\n//「いい姿だ」\r\n\"Beautiful.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23123,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0260980a01'>\r\n//「…………。\r\n//　終わった……？」\r\n\"...Is it over?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23292,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0260990a00'>\r\n//「いや」\r\n\"No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23407,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0261000a01'>\r\n//「え？」\r\n\"Huh?\"\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0261010a01'>\r\n//「だって……」\r\n\"But you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23658,
+  "en": "\r\n//　だっても何もない。\r\n//　俺の欲求はまだ尽きていなかった。\r\n\r\n//　男根は固さを保っている。\r\n  But I㉓<I>nothing.</I> We have not even scratched the surface of my lusts. My manhood remains ready for more.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23916,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0261020a00'>\r\n//「これからだ」\r\n\"We've hardly begun.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24056,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0261030a01'>\r\n//「な、何が？」\r\n\"Th- There's more?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24200,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0261040a00'>\r\n//「すぐにわかる」\r\n\"Oh yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24331,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0261050a01'>\r\n//「あの、御堂……。\r\n//　もう目付きが恐いのを通り越して赤裸々に\r\n//危険なんだけど」\r\n\"Um... Mido? Remember how I said I was scared? Well, now it's more like terrified.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24637,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0261060a00'>\r\n//「病気だと言ったろう」\r\n\"I told you, it's a sickness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24798,
+  "en": "\r\n//　体内に在る、愉楽を追求する何かが俺を動かす。\r\n\r\n//　村正の体を転がし、腰を抱え上げた。\r\n//　尻を差し出す卑猥な格好が出来上がる。\r\n  As my flesh commands, I take Muramasa and toss her face forward onto the carpet. Seizing her hips, I lift her buttocks. Only a thin piece of cloth remains to keep me from my prize.\r\n\r\n  But wait. Why rush it? There's plenty of time.\r\n\r\n//　後は裾を<RUBY text='まく'>捲</RUBY>って下着をずらせばいい。\r\n//　だが性急さは無用だ……時間はある。\r\n\r\n//　まずは<RUBY text='み'>視</RUBY>て味わおう。\r\n  First, to savor this sight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25477,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0261070a01'>\r\n//「……あぅ……」\r\n\"Ah...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25613,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0261080a00'>\r\n//「さぁて」\r\n\"Now...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25734,
+  "en": "\r\n//　楽しむか。\r\n  Let the fun begin.\r\n",
+  "pt": ""
+ }
+]

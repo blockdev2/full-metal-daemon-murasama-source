@@ -1,0 +1,202 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　深更。\r\n//　慣れた気配の接近に、<RUBY text='とこ'>床</RUBY>から出て窓辺へ寄る。\r\n  Late that night, sensing a familiar presence, I rise from my futon and move to the window.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 430,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060010a00'>\r\n//「……村正か」\r\n\"Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 560,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060020a01'>\r\n//《ええ》\r\n《It's me.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 690,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060030a00'>\r\n//「捕捉されずには済んでいるようだな」\r\n\"You're in the clear?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 864,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060040a01'>\r\n//《厳しいけれどね。\r\n//　……夜になれば少しは警備も甘くなるかも、\r\n//って期待してたのに》\r\n《It's not easy. You'd think the patrols might be a little laxer after dark.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1176,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060050a00'>\r\n//「変わるまい」\r\n\"Unlikely.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1306,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060060a01'>\r\n//《むしろ堅くなったくらいよ》\r\n《Yeah. There're even more of them.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1491,
+  "en": "\r\n//　だからこそ、俺も宿舎を出るのは控えた。\r\n//　夜の調査行動は昼と違い見咎められただけで致命的\r\n//に怪しまれる。何の益もない。\r\n\r\n//　<RUBY text='おんぎょう'>隠形</RUBY>に優れる村正でさえ梃子摺る監視網を掻い潜り、\r\n//情報を収集するなど、似非警官には荷が勝ち過ぎる。\r\n  That is why I chose to stay indoors. Without an official reason to be outside after dark, discovery would be tantamount to blowing my cover, and I do not have the skills to roam undetected where even Muramasa must exercise caution. I am just a policeman, and not a real one, at that.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2167,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060070a00'>\r\n//「それで……結果はどうだ」\r\n\"Did you find anything?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2328,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060080a01'>\r\n//《今のところは、反応なし。\r\n//　もっとも、まだ全部を回ったわけじゃない\r\n//けれど》\r\n《No sign of them. There're still places I haven't looked.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060090a01'>\r\n//《本丸周辺にはとても近付けないし。\r\n//　あれは何なのかしらね……表の警備陣だけ\r\n//じゃない。裏にも何か結界がありそう》\r\n《Like the main keep. I'm not getting near that place. It's not just the guards. There's something else... some kind of power shielding it.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3025,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060100a00'>\r\n//「そうか……」\r\n\"All right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3156,
+  "en": "\r\n//　俺が普陀楽へやってきた目的は二つ。\r\n\r\n//　一つは親王の下命。\r\n//　もう一つは――<RUBY text='ニッカリ'>青江</RUBY>の遺言。\r\n\r\n//　\r\n//　　　　　　　　　《白銀の星》\r\n\r\n//　\r\n//　　　　　　　　　《かの姫は》\r\n\r\n//　\r\n//　　　　　　　　　《六波羅の》\r\n\r\n//　六波羅の――何だと言おうとしたのか。\r\n//　それは知る術とてない。死人は語ってくれない。\r\n\r\n//　だが銀星号が六波羅に関わり有りとするなら、まず\r\n//調べるべきはこの普陀楽山塞だ。\r\n//　幕府の頭脳であり心臓。\r\n\r\n//　その意味で、親王の依頼は渡りに船でもあった。\r\n  When I came here, it was with two objectives.\r\n\r\n  First, to carry out the prince's orders.\r\n  Second―to ascertain the truth behind Aoe's final words.\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>《The Silver Star... is hidden in Rokuhara's...》\r\n\r\n  Rokuhara's... what? I can only guess. But if Ginseigo is indeed tied to Rokuhara, then this castle is the most likely place to hold a clue.\r\n\r\n  In that sense, the prince did me a favor by sending us on this mission.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4347,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060110a01'>\r\n//《御堂の方は？》\r\n《How are things on your end?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4508,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060120a00'>\r\n//「特に気付いた点はない。\r\n//　お前のように、あれの<RUBY text='けはい'>香気</RUBY>を辿れるわけで\r\n//もないしな」\r\n\"No sign of Ginseigo. Of course, I can't track them like you can.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4824,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060130a01'>\r\n//《そう？\r\n//　その娘の世話をするのに忙しくて、そっち\r\n//まで気がまわらなかったっていうのが本当の\r\n//ところなんじゃないの？》\r\n《Oh. You sure you weren't too busy to look? What with babysitting that girl and all.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5197,
+  "en": "\r\n//　別に指を指されたわけではないが、その娘というの\r\n//が誰のことなのかは悩む余地もなかった。\r\n//　……村正の音なき声には、どうも棘がある。\r\n  I don't need her to spell out who she means.\r\n  ...I do wonder at the bite in her voice, however.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5512,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060140a00'>\r\n//「今日一日を振り返れば、否定も難しいが。\r\n//　目的は忘れていない」\r\n\"The day... had its challenges. But I haven't forgotten our purpose here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5781,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060150a01'>\r\n//《……なら、いいけれど》\r\n《...If you say so.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5944,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060160a00'>\r\n//「気に食わんのか」\r\n\"Do you object?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6085,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060170a01'>\r\n//《何が？\r\n//　その娘が？　それとも、貴方が今している\r\n//ことが？》\r\n《To what? You fooling around with that girl? Or to this little side job you've got going?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6378,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060180a00'>\r\n//「両方だ」\r\n\"Both.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6498,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060190a01'>\r\n//《別に……\r\n//　貴方の好きにすればいい》\r\n《...No. That's up to you.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060200a01'>\r\n//《その娘に手を貸すのも、権力争いの道具に\r\n//なるのも。貴方がそう決めたならそれでいい》\r\n《Be her little helper. Be the prince's tool. If that's what you want, I won't complain.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7005,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060210a00'>\r\n//「なら、何が気に入らない？」\r\n\"Then why are you so upset?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7173,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060220a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7307,
+  "en": "\r\n//　返答はなかった。\r\n\r\n//　気配が離れてゆく。\r\n//　それは単に物理的な距離が離れているからだとわか\r\n//っていながら。俺には、村正の隔意を示しているよう\r\n//にも思えてならなかった。\r\n\r\n//　あの日、一条に従うと決めてからずっとこうだ。\r\n//　村正は俺から遠ざかっている。\r\n  Silence. Her presence begins to fade. \r\n\r\n  I know that this is merely a function of physical distance, but I cannot help but feel a psychological one as well.\r\n\r\n  It's been like this ever since I accepted Ichijo's proposal. Muramasa is shutting me out.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7958,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060230a01'>\r\n//《御堂》\r\n《Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8085,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060240a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8203,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060250a01'>\r\n//《正宗に気を付けなさい。\r\n//　あれは貴方を許していない》\r\n《Watch out for Masamune.\r\n  He hasn't forgiven you.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8445,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060260a00'>\r\n//「……あぁ」\r\n\"...I know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8573,
+  "en": "\r\n//　知っている。\r\n//　今――この瞬間も。俺を冷たく見据える鋼鉄の眼光\r\n//を肌に感じている。\r\n\r\n//　俺への……\r\n//　邪悪への殺意を、失っていない。\r\n  Even now, I feel his cold metal eyes watching my every move.\r\n\r\n  His hatred of me―of evil―<br>will never die.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8909,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0060270a01'>\r\n//《その娘もよ》\r\n《She hasn't forgiven you either.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9071,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060280a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9189,
+  "en": "\r\n//　劒冑の気配は完全に去った。\r\n//　再び、探索を始めるのだろう。\r\n\r\n//　視線を部屋の中へ戻す。\r\n//　俺の寝床から馬一頭分ほど離れて、綺麗に布団の中\r\n//へ収まった寝姿がある。\r\n  And then Muramasa is gone―returned, I assume, to her search for Ginseigo.\r\n\r\n  I turn away from the window to regard the room. There, about two meters from my futon, a second futon lies; and atop it, a figure in perfect repose.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9682,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060290a00'>\r\n//「一条」\r\n\"Ichijo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9801,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0060300a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9919,
+  "en": "\r\n//　呼び掛けに反応はない。\r\n\r\n//　だが、目覚めているのはわかっていた。\r\n//　<RUBY text='・・・・・・・・・'>呼吸が眠っていない</RUBY>。俺の声は届いている。\r\n  She doesn't reply, but from the whisper of air in the dark, I know that she is awake.\r\n\r\n  I know that she can hear my voice.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10276,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0060310a00'>\r\n//「何故、俺を殺さなかった？」\r\n\"Why didn't you kill me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10441,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0060320a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10559,
+  "en": "\r\n//　応えはない。\r\n  Again, only silence answers.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10626,
+  "en": "\r\n//　月は上天で薄く笑い、草木は風に震えている。\r\n//　酷く冷え込む夜だった。\r\n  I turn back to the window. High above, the moon smiles softly, and the trees on the road sway in the breeze.\r\n\r\n  It's going to be a cold night.\r\n",
+  "pt": ""
+ }
+]

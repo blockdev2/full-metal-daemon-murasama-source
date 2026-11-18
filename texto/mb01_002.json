@@ -1,0 +1,67 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020010a02'>\r\n//「……嘘だ」\r\n\"...You're lying.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 347,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020020a12'>\r\n//「くへ……」\r\n\"Heh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 478,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020030a02'>\r\n//「嘘だ、嘘だ、嘘だ……ッ！\r\n//　あの人が罪のない人間まで殺して回ってる\r\n//だと!?」\r\n\"You expect me to believe that shit!? That he's killing innocents!? Kids!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 769,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020040a02'>\r\n//「てめえよくも、そんないい加減な事を――」\r\n\"I should cut your lying tongue out, you son of a―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 983,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020050a12'>\r\n//「訊いてみりゃあ、いいんですよ」\r\n\"Ask him, then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1154,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020060a02'>\r\n//「何ぃ？」\r\n\"The fuck you say!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1287,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020070a12'>\r\n//「本人に訊けばいいんですよ……嬢。\r\n//　あいつぁきっと、嘘は言わない……」\r\n\"Ask him if it's true. He'll tell.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020080a12'>\r\n//「嬢のようなお人に、面と向かって訊かれち\r\n//まったら……多分、ねぇ。\r\n//　正直に答えてくれますよ……」\r\n\"If it's you, he'll tell you <I>everything.</I>㉑ I'd bet my last yen on it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1864,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020090a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1988,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020100a12'>\r\n//「へ、へっ……\r\n//　ヘェヘヘヘヘヘヘヘヘヘ……！」\r\n\"Hehe...<waitVoice=1000> HEHEHEHEHEHE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2207,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 2219,
+  "en": "香奈枝生存の場合",
+  "pt": ""
+ },
+ {
+  "offset": 2251,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 2263,
+  "en": "それ以外",
+  "pt": ""
+ }
+]

@@ -1,0 +1,97 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　牧村さんに挨拶して、署長宅の門をくぐる。\r\n//　常の事ながら、玄関は勤勉かつ優秀なる<RUBY text='かさい'>家宰</RUBY>の手で\r\n//万全に清められていた。\r\n  I pay my respects to Miss Makimura and step into the commissioner's residence. As always, the entrance hall is in magnificent condition, kept sparkling clean by the dutiful stewardess.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 621,
+  "en": "\r\n//　自分用にあてがわれている一室へ入り、腰を下ろす\r\n//や、俺はすぐ八幡宮から持参した紙を広げた。\r\n//　そうして、黙考を開始する。\r\n  Upon entering the room set aside for my use, I sit down at the desk and unfold the paper I brought back from the shrine.\r\n\r\n  Several minutes pass in silence.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 982,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200010a00'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1112,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200020a01'>\r\n//《またしばらくはこっちの家なのね》\r\n《I guess we'll be staying here for a while.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1315,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200030a00'>\r\n//「村正か……\r\n//　ああ、そうなる」\r\n\"Muramasa... Yes, that's right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1494,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200040a01'>\r\n//《宮様に、何か仕事でも頼まれた？》\r\n《Did His Highness give you a job or something?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1700,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200050a00'>\r\n//「そんなところだ」\r\n\"He did.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1834,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200060a01'>\r\n//《ふぅん》\r\n《I see.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1965,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200070a00'>\r\n//「…………。\r\n//　どう説明したものかな」\r\n\"How to explain...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2140,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200080a01'>\r\n//《……無理に話してくれなくてもいいのよ。\r\n//　事情を知ろうと知るまいと、私のやること\r\n//は変わらない》\r\n《...You don't have to explain if you don't want to. Whatever the mission, my role stays the same.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200090a01'>\r\n//《貴方が必要とする力をすべて用意する。\r\n//　それだけだから》\r\n《To provide the power you need to fight.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2724,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200100a00'>\r\n//「そうか……。\r\n//　だが、やはり話しておこう」\r\n\"Thank you. Still, I think you'd better know what's going on.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200110a00'>\r\n//「お前の知恵も借りたい」\r\n\"We'll need to put our heads together for this one.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3129,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200120a01'>\r\n//《悩むようなこと？》\r\n《Is there a problem?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3288,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200130a00'>\r\n//「なかなか」\r\n\"You could say that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3425,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200140a01'>\r\n//《……何を頼まれたの？》\r\n《...What did His Highness ask you to do?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3610,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200150a00'>\r\n//「うむ……」\r\n\"Well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3735,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200160a00'>\r\n//「回りくどく言えば」\r\n\"To put it obtusely...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3886,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200170a01'>\r\n//《わざわざ》\r\n《Must you?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4023,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0200180a00'>\r\n//「武家の棟梁にとって鶴岡八幡宮は鬼門の地、\r\n//そう語られるようにしろと。\r\n//　……<RUBY text='・・'>二度</RUBY>となれば、声価も不朽だろうな」\r\n\"To the heads of the great warrior houses, Hachiman Shrine has been rumored a place of ill luck ever since Shogun Minamoto-no-<br>Sanetomo was assassinated there by his brother's son seven hundred years ago. Should something like that ever happen again, I imagine the rumor would become rather difficult to deny.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4631,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200190a01'>\r\n//《……………………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0200200a01'>\r\n//《……それって》\r\n《You mean―》\r\n",
+  "pt": ""
+ }
+]

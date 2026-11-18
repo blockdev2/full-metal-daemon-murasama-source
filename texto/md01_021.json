@@ -1,0 +1,297 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　<RUBY text='げんじのちょうじゃ'>源氏長者</RUBY>が八幡宮に<RUBY text='もう'>詣</RUBY>でて武運隆盛を祈る年例行事、\r\n//奉刀参拝。\r\n//　これを、襲い、\r\n  Each year, the patriarch of the Genji clan makes pilgrimage to Hachiman Shrine to pray for continued fortune in war. As a token of his piety, he presents a sacred sword to the shrine.\r\n\r\n  My mission:<K> to confront the Rikue Shogun, Supreme Commander of the Dragon Army, Noble of the High Third Rank Ashikaga Moriuji―<K>and kill him.\r\n\r\n//　正三位六衛大将領、<k>\r\n//　元帥<RUBY text='ろくはら'>竜軍</RUBY>大将、<k>\r\n//　大和の覇者、<k>\r\n//　足利護氏を――――討つ。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 938,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210010a00'>\r\n//「……そして」\r\n\"With the shogun's death...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1085,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210020a00'>\r\n//「大きく動揺するであろう幕府を朝廷権威で\r\n//補強してやり――反面、朝廷の発言力を増す。\r\n//　この公武合体による新体制で官民の対立を\r\n//緩和、治政に安定をもたらし」\r\n\"The shogunate will be thrown into chaos. The imperial court will take this opportunity to help restore order, thereby regaining influence over the affairs of state. This union of civil and military governments will restore the people's faith in their leaders and promote stability...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210030a00'>\r\n//「ＧＨＱの介入する隙を無くしてゆく……」\r\n\"...thereby eliminating any excuse GHQ would have to intervene.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1919,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210040a10'>\r\n//「まとめると、そういうことやねぇ」\r\n\"Yeah, that's pretty much the idea.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2113,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210050a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2231,
+  "en": "\r\n//　雄略と呼ぶべきだろう。\r\n//　徒手空拳に等しい身で強大な軍事政権に挑み、その\r\n//体質を改めさせようというのであるから。\r\n  It is a bold plan, to say the least, to challenge a powerful regime with only a single sword in your service.\r\n\r\n//　成就する見込みの程は知れない。\r\n//　が、何もせず情況を見守れば、進駐軍は時節が到来\r\n//次第六波羅の排除に乗り出し――これを遂げて大和を\r\n//完全な占領下に置くか。\r\n  There's no possible way to ensure success. But if things continue as they are, then sooner or later, the Allies will make their move to supplant Rokuhara.\r\n\r\n//　それとも六波羅が勝利を得て大和唯一の支配権者と\r\n//なりおおせるか。\r\n//　この国はどちらかの結末を迎えるだろう。……苛烈\r\n//な交戦の後に。\r\n  Either GHQ will win and claim total dominion, or Rokuhara will drive them back across the sea―but whichever fate befalls Yamato, it will come with a heavy price in blood.\r\n\r\n//　いや、可能性はもう一つある。\r\n//　両者の相克に決着がつかず、延々と戦争が続く――\r\n//という最悪の展開も起こり得る。\r\n  And then, there is the third possibility―the worst imaginable―that neither side scores a decisive victory, and the war drags on for years.\r\n\r\n//　喜ばしからざる運命を拒否し、<RUBY text='・・・'>比較的</RUBY>にでも良好な\r\n//未来を手に入れたいと望むなら、やはり行動は必要だ。\r\n//　親王と署長、この二人の構想は、暴挙といえば暴挙\r\n//であったが至当といえば至当に違いなかった。\r\n  If we desire an even <I>relatively</I>㉑favorable future, then some action needs to be taken. So while the plan presented by the prince and the commissioner is indeed reckless, there is also no denying its necessity.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4188,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210060a10'>\r\n//「どやろ」\r\n\"How 'bout it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4325,
+  "en": "\r\n//　暗殺を実行できる者は、俺しかいない。\r\n//　足利護氏は戦歴余る武者。銃一丁で倒せるような男\r\n//ではない。同じ武者だけがその首級を狙える。\r\n  If the assassination is to take place, it will have to be by my hand. Ashikaga Moriuji is a famed musha, not the sort of man who can be slain by conventional means. Only another musha can take his head.\r\n\r\n//　<RUBY text='はるひろ'>春煕</RUBY>親王は大仰に頭を下げたりしなかった。\r\n//　大和のため国民のためと、くどく言い重ねることも。\r\n  But Prince Haruhiro does not beg my aid, nor does he regale me with patriotic rhetoric.\r\n\r\n//　説明は全てした。\r\n//　後は自分自身の判断で決めろ――そういうことか。\r\n  He has given me my mission. It is up to me to accept it.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5188,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210070a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5312,
+  "en": "\r\n//　親王の企図こそ大和を救う。\r\n//　そう信じるのに、苦労は要らなかった。\r\n  The prince's plan would indeed seem to be Yamato's best hope.\r\n\r\n//　容易な計画ではなかろう。齟齬もあろうし見落とし\r\n//もあろう。きっと困難は多い――が、この人ならばと\r\n//思わせるものが、親王には確かにあった。\r\n//　署長という補佐役もいるのだ。\r\n  It will not be easy to accomplish. The obstacles arrayed against him are too numerous to count. But I cannot deny that he possesses some quality that makes me believe he can rise to the challenge. Having the commissioner to support him is another point in his favor.\r\n\r\n//　何より俺の頭では親王のそれに優る計画を思いつか\r\n//ないのだから、価値を否定できる筋合いではなかった。\r\n//　\r\n//　親王が間違っているとは、どの角度からも言えない。\r\n  And most of all, I can conceive of no better strategy. I am hardly in a position to reject theirs.\r\n\r\n//　……ならばできるか。\r\n//　足利護氏を襲い、命を奪えるか。\r\n  ...So. Can I do it?<K>\r\n  Can I take the life of Ashikaga Moriuji?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6534,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210080a00'>\r\n//（大和のために）\r\n(It would bring peace to Yamato.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6689,
+  "en": "\r\n//　多くの善き人々を救うために、\r\n//　一人の悪しき者を殺す。\r\n  To save a million innocent lives, take the life of one evil man.\r\n\r\n//　…………それは、\r\n//　\r\n//　\r\n//　俺が既に幾度も、幾度も、繰り返してきた所業だ。\r\n  That...<K> is precisely what I've been doing these past two years.\r\n\r\n//　<RUBY text='わざわい'>銀星号</RUBY>の拡大を阻止すべく、\r\n//〝卵〟に寄生された武者を幾人となく斬り殺した。\r\n  Each time I slew an infected musha, I was protecting Yamato from the scourge of Ginseigo.\r\n\r\n//　一悪を断ち多善を残す。\r\n  I was destroying one evil so that many goods could survive.\r\n\r\n//　まるで同じだ。\r\n//　何処にも違いなど無い。\r\n  It's the same. Exactly the same.\r\n\r\n//　どちらも、<k>\r\n//　\r\n//　――――独善に過ぎない。\r\n  The prince's mission, my mission―both for the greater good.<K>\r\n  And both tainted by the sin of self-righteousness.\r\n\r\n//　国のため。人のため……\r\n//　そんな聞こえの良い<RUBY text='かわ'>外面</RUBY>を一枚剥けば、そこに真実\r\n//の姿が覗く。\r\n  For Yamato. For the people. Sweet-sounding words, yes. But peel back the layers of rhetoric and you see them for what they are.\r\n\r\n//　親王の動機が実は私利私欲だとか、間の抜けた事を\r\n//言うつもりはない。\r\n//　しかし、対立者を暴力で挫くという道を選ぶのなら、\r\n//動機がどうあれそれはやはり独善の行いなのだ。\r\n  Which is not to say that the prince is motivated by greed or ambition. I would be a fool to believe that. But no matter what your motives are, to eliminate your rivals by force of might is indeed a self-righteous act.\r\n\r\n//　我の善のため、\r\n//　彼の善を悪と称して葬る。\r\n//　\r\n//　<RUBY text='いっけんいっさつこれぜんあくそうさい'>一剣一殺是善悪相殺</RUBY>。\r\n  Brand your enemy's good evil, and destroy it to serve your own. Hence, for each man who falls beneath the blade, one good and one evil must meet their end.\r\n\r\n//　俺の返答は定まった。\r\n  I have my answer.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8894,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210090a00'>\r\n//「行きましょう。\r\n//　奉刀参拝の日、足利護氏の前へ」\r\n\"Very well. I shall confront Ashikaga Moriuji on the day of the ceremony.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9142,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210100a10'>\r\n//「……やってくれるんか？」\r\n\"...So you'll kill him for us?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9319,
+  "en": "\r\n//　むしろ意外そうな、親王の声だった。\r\n//　顔色こそ変えていないが、脇の署長も内心は同じと\r\n//見える。\r\n  The prince sounds surprised by my reply, and though it does not show on his face, I can tell the commissioner is no less so.\r\n\r\n//　俺はかぶりを振った。\r\n  I shake my head.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9666,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210110a00'>\r\n//「今はお約束致しかねます」\r\n\"That, I cannot promise.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9828,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210120a11'>\r\n//「……何？」\r\n\"...What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9954,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210130a00'>\r\n//「本人と<RUBY text='まみ'>見</RUBY>えてから決します。\r\n//　斬るか、斬らぬか」\r\n\"At this time, I cannot decide whether to take his life.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10212,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210140a00'>\r\n//「足利護氏は殺さねばならない男なのか。\r\n//　この目で、見て……決めたく思います」\r\n\"I must see him with my own eyes... and judge what meaning his death will have.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10508,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210150a10'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10641,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210160a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10765,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210170a00'>\r\n//「却って御迷惑とあれば無論、強いて望みは\r\n//致しません。\r\n//　ここで聞いた事はすべて忘れ、直ちに立ち\r\n//去りましょう」\r\n\"If this condition does not meet your needs, then of course, I shall not press the issue. I will forget that this conversation ever happened.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210180a00'>\r\n//「如何か――」\r\n\"Is this acceptable?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11308,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210190a10'>\r\n//「ええよ」\r\n\"Works for me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11445,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210200a11'>\r\n//「宮殿下……」\r\n\"Your Highness...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11582,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210210a10'>\r\n//「計画を打ち明ける段階で、景明くんを信頼\r\n//するちゅうことは決めてたんや。\r\n//　ならとことん信じ切ろうやないか」\r\n\"We trusted him enough to tell him the plan, right? Might as well trust him all the way.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210220a10'>\r\n//「景明くんの判断を信じて、任せるわ」\r\n\"I'll leave the decision in your capable hands.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12143,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210230a00'>\r\n//「……御高配痛み入ります」\r\n\"...Your Highness humbles me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12310,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210240a10'>\r\n//「斬ったらあかん、思うたらそれでええ。\r\n//　その時は、後で景明くんの考えをわしらに\r\n//聞かせてくれな」\r\n\"If you decide he shouldn't die, well, all right then. I'll look forward to hearing your reasons.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12664,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210250a00'>\r\n//「はっ」\r\n\"Yes, Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12795,
+  "en": "\r\n//　……過分なまでの信頼を抱かれている。\r\n//　有難くも、両肩に重かった。\r\n  Far too much faith has been placed in me. I am grateful, but the weight is crushing.\r\n\r\n  And all the more so for the knowledge that I must repay their trust with blood.\r\n\r\n\r\n//　しかも俺は、この信頼に刃で応えなくてはならない。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13168,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210260a00'>\r\n//「もう一つ、お断りしておかねばならぬ事が\r\n//あります」\r\n\"There is one more thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13371,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210270a10'>\r\n//「うん？」\r\n\"Yeah?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13500,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210280a00'>\r\n//「我が劒冑……\r\n//　村正の<RUBY text='ルール'>掟</RUBY>はご存知であられる筈」\r\n\"You are aware, of course, of the Law that binds my tsurugi, Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13772,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210290a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13896,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210300a00'>\r\n//「舞殿宮殿下。\r\n//　もしも自分が、足利護氏を斬った暁には」\r\n\"Your Highness. If I choose to slay Ashikaga Moriuji...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14135,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210310a00'>\r\n//「貴方の御命をも頂かねばなりません」\r\n\"I will require your life in exchange.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14326,
+  "en": "\r\n//　それが<RUBY text='おれ'>村正</RUBY>の掟。\r\n//　善悪相殺の律法。\r\n  One good for one evil. Such is the Law of Balance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14479,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210320a00'>\r\n//「宜しいか」\r\n\"Is this acceptable?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14616,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210330a10'>\r\n//「承知したえ」\r\n\"Works for me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14759,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210340a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14877,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210350a10'>\r\n//「このアホが大将領と差し違えるわけやな。\r\n//　……大儲けやないか」\r\n\"Trade my life for the shogun's? Sounds like a bargain.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210360a10'>\r\n//「わしの代わりなら、何処にでもおるわ」\r\n\"It won't be hard finding a replacement for this old fool.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15352,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210370a00'>\r\n//「宮殿下……」\r\n\"Your Highness...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15489,
+  "en": "\r\n//　嘘の響きは聞き取れなかった。\r\n//　……それはもしかすると、俺の耳が騙されただけで、\r\n//親王はいま内心で用が済んだら俺を始末しようと決意\r\n//しているのかもしれない。\r\n  These words bear no trace of deception―or at least, none that my ears can discern. It is possible, of course, that the prince is playing me, that he intends to have me assassinated after I complete the mission.\r\n\r\n//　どちらが真実か。\r\n//　\r\n//　どちらであっても、舞殿宮春煕親王という人物は、\r\n//心底からの敬意を払うに値する。\r\n  But whatever the case, my heart tells me that he is worthy of my deepest respect.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16209,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210380a11'>\r\n//「景明」\r\n\"Kageaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16329,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210390a00'>\r\n//「はい」\r\n\"Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16445,
+  "en": "\r\n//　厳しい声に視線を動かす。\r\n  The commissioner's voice is not unexpected.\r\n\r\n//　この人が口を開くことは予測していた。\r\n//　何を言うのかも。\r\n  Neither are the words that follow.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16677,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210400a11'>\r\n//「その時は私を斬れ」\r\n\"Take my life instead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16828,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md01/0210410a10'>\r\n//「菊池」\r\n\"Kikuchi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16959,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210420a11'>\r\n//「いいな」\r\n\"Are we clear?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17087,
+  "en": "\r\n//　御簾の方を振り返らず、俺だけを見据えて、署長は\r\n//<RUBY text='おもし'>重石</RUBY>のような声で告げた。\r\n//　不動の意思がそこにあった。\r\n  The commissioner's eyes remain fixed on me. I hear resolve like an immovable boulder in his voice.\r\n\r\n//　――善悪相殺。\r\n  The Law of Balance. Should I slay Ashikaga Moriuji, then this man, too, must die by my hand.\r\n\r\n//　足利護氏を斬るなら、この人も斬らねばならない。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17595,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210430a00'>\r\n//「署長……」\r\n\"Commissioner...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17728,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210440a00'>\r\n//「明堯様」\r\n\"Father.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17850,
+  "en": "\r\n//　何年ぶりにか、<RUBY text='ちち'>養父</RUBY>の名を呼ぶ。\r\n//　応えはなかった。\r\n  How many years since I last called him this?\r\n\r\n//　……殺せない。\r\n//　殺せるわけがない。\r\n\r\n  He took me in. He made me family. I owe this man everything.\r\n\r\n//　大恩あるこの人を、どうして我が手で斬れよう。\r\n  To take his life is unthinkable.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18259,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210450a00'>\r\n//（だが）\r\n(However...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18381,
+  "en": "\r\n//　そう思う一方、足利護氏は構わず斬れるのか。\r\n  Does that mean I can kill the shogun without a second thought?\r\n\r\n//　同じ人間である。\r\n//　善あり悪あり功あり罪ある、同じ<RUBY text='ただびと'>只人</RUBY>である。\r\n  He too is human, just like the rest of us, with merits and flaws, crimes and accomplishments.\r\n\r\n//　単に俺の立つ位置からは署長の善ばかりが、護氏の\r\n//悪ばかりが目立つというだけに過ぎない。\r\n//　異なる位置に立つ者には、異なる見方があるだろう。\r\n  The commissioner's good indeed seems to outweigh the shogun's, but that is only because of where I stand. Someone with a different background and different experiences might well see things a different way.\r\n\r\n//　なのに一方のみ悪として斬り、もう一方を善として\r\n//生かすのは、\r\n//　\r\n//　――独善である。\r\n  To condemn one but not the other to death...<K>\r\n  That would be㉓<I>self-<br>righteous.</I>\r\n\r\n//　村正は言った。\r\n//　独善こそ争いの根源。殺し合いを正当化し、際限も\r\n//なく続けさせる元凶――と。\r\n  Self-righteousness, the philosophy of Muramasa teaches, is the root of all conflict. It justifies bloodshed and fosters hatred.\r\n\r\n//　そう。\r\n//　それは、その通りなのだ。\r\n  Just so.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19776,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210460a11'>\r\n//「景明」\r\n\"Are we clear, Kageaki?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19910,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210470a00'>\r\n//「諒解しました」\r\n\"Yes. I understand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20052,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md01/0210480a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20170,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0210490a00'>\r\n//「大将領を斬った、その時は……\r\n//　貴方を」\r\n\"If I kill Ashikaga Moriuji, I will―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20371,
+  "en": "\r\n//　斬る。\r\n//　この養父を斬る。\r\n  Kill you.\r\n\r\n  Kill my father.\r\n\r\n//　斬らねばならぬ。\r\n  I must.\r\n\r\n//　……斬れぬのなら、\r\n//　足利護氏もまた、斬ってはならないのだ。\r\n  If I cannot... then nor can I kill the shogun.\r\n",
+  "pt": ""
+ }
+]

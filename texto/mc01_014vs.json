@@ -1,0 +1,97 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ａ】\r\n<voice name='ｅｔｃ／駐屯隊Ａ' class='その他男声' src='voice/mc01/014vs0010e202'>\r\n//「そこの女、止まれ！」\r\n\"You there! Halt!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 412,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｂ】\r\n<voice name='ｅｔｃ／駐屯隊Ｂ' class='その他男声' src='voice/mc01/014vs0020e203'>\r\n//「現在、建朝寺は幕府の管理下にある。\r\n//　一般客の参拝は認められない」\r\n\"By order of the shogunate, Kenchoji Temple is closed until further notice.\"\r\n\r\n//【ｅｔｃ／駐屯隊Ｂ】\r\n<voice name='ｅｔｃ／駐屯隊Ｂ' class='その他男声' src='voice/mc01/014vs0030e203'>\r\n//「退去せよ！」\r\n\"Find another temple to pray at!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 929,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/014vs0040a03'>\r\n//「参拝客ではございませんの。\r\n//　通してくださいましな」\r\n\"I'm not here to visit. I have important business at the temple. Please let me through.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1208,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｂ】\r\n<voice name='ｅｔｃ／駐屯隊Ｂ' class='その他男声' src='voice/mc01/014vs0050e203'>\r\n//「何……？\r\n//　寺の関係者か？」\r\n\"Business?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1411,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ａ】\r\n<voice name='ｅｔｃ／駐屯隊Ａ' class='その他男声' src='voice/mc01/014vs0060e202'>\r\n//「ならば証明証を見せろ」\r\n\"Show us your pass.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1613,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/014vs0070a03'>\r\n//「証明証？」\r\n\"Sorry?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1748,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ａ】\r\n<voice name='ｅｔｃ／駐屯隊Ａ' class='その他男声' src='voice/mc01/014vs0080e202'>\r\n//「駐屯隊長が発行したものだ。\r\n//　本当に関係者なら、持っているはずだぞ」\r\n\"Your pass from the commander. If you belong here, you'll have one.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2068,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/014vs0090a03'>\r\n//「ああ……はい、はい。\r\n//　これでよろしいのかしら？」\r\n\"Oh, of course. Will this do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2286,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ａ】\r\n<voice name='ｅｔｃ／駐屯隊Ａ' class='その他男声' src='voice/mc01/014vs0100e202'>\r\n//「ん……？」\r\n\"Let's see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2464,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｂ】\r\n<voice name='ｅｔｃ／駐屯隊Ｂ' class='その他男声' src='voice/mc01/014vs0110e203'>\r\n//「なっ――」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2631,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ａ】\r\n<voice name='ｅｔｃ／駐屯隊Ａ' class='その他男声' src='voice/mc01/014vs0120e202'>\r\n//「あが……」\r\n\"Agh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2801,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/014vs0130a03'>\r\n//「万国共通の通行許可証。\r\n//　確かに、お渡ししましてよ？」\r\n\"My pass. I do believe it's the all-access variety.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3047,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｂ】\r\n<voice name='ｅｔｃ／駐屯隊Ｂ' class='その他男声' src='voice/mc01/014vs0140e203'>\r\n//「き……貴様」\r\n\"Who... are you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3233,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/014vs0150a03'>\r\n//「御免あそばせ」\r\n\"I'll just head on inside.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3393,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｂ】\r\n<voice name='ｅｔｃ／駐屯隊Ｂ' class='その他男声' src='voice/mc01/014vs0160e203'>\r\n//「……ろ――」\r\n\"...You...\"\r\n\r\n//【ｅｔｃ／駐屯隊Ｂ】\r\n<voice name='ｅｔｃ／駐屯隊Ｂ' class='その他男声' src='voice/mc01/014vs0170e203'>\r\n//「六波羅武士を……舐めるな！」\r\n\"You're not going anywhere!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3782,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/014vs0180a03'>\r\n//「あら……」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3914,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｂ】\r\n<voice name='ｅｔｃ／駐屯隊Ｂ' class='その他男声' src='voice/mc01/014vs0190e203'>\r\n//「すぐに仲間が来る……竜騎兵も……。\r\n//　自分の愚かな行為を……後悔すると、いい\r\n//……」\r\n\"They'll be here in moments. More men... dragoons... You'll regret challenging Rokuhara...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4282,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/014vs0200a03'>\r\n//「根性がおありなのね。\r\n//　胸を撃ち抜かれてなお、呼子を吹くなんて」\r\n\"Look at you. A bullet in the chest, and still blowing away at that whistle.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4568,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/014vs0210a03'>\r\n//「素敵でしてよ」\r\n\"<I>Delicious.</I>\"\r\n",
+  "pt": ""
+ }
+]

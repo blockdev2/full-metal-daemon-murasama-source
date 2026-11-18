@@ -1,0 +1,497 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330010a00'>\r\n//（…………）\r\n(......)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 337,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330020a03'>\r\n//（つまらないことを考えてらっしゃる？）\r\n(Are you planning something foolish?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 538,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330030a00'>\r\n//（……船の何処かに、<RUBY text='パラシュート'>落下傘</RUBY>の備えくらいは\r\n//あると思われます。\r\n//　大尉殿、この場は自分にお任せ頂き――）\r\n(There will be parachutes aboard. Use them, Captain. I will maintain the standoff.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 913,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330040a03'>\r\n//（そんなものを探している暇があると思われ\r\n//ますの？）\r\n(Do you honestly think there's time for that?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1145,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330050a00'>\r\n//（しかし……）\r\n(But―)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1272,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330060a03'>\r\n//（しかしは無し）\r\n(No buts, dear.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1419,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330070a00'>\r\n//（……されど大尉殿。\r\n//　此度の試みはそもそも、自分の進言が原因\r\n//です。始末はこの身一つで負うのが筋）\r\n(But captain, we're here because of what I said. I should be the one to bear the burden.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1758,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330080a03'>\r\n//（大和の将来の在り方について、思うところ\r\n//を聞かせてくださったのは景明さま。\r\n//　それを聞いて、こうすることを決めたのは\r\n//わたくし）\r\n(You shared your hopes for Yamato's future. But I'm the one who decided to lend a hand in realizing them.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2169,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330090a03'>\r\n//（景明さまが言われるような筋なんてござい\r\n//ません）\r\n(So you're wrong. The burden isn't yours at all.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2401,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330100a00'>\r\n//（……しかし）\r\n(But Captain...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2536,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330110a03'>\r\n//（しかしは禁止）\r\n(No more buts.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2682,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330120a00'>\r\n//（…………。\r\n//　それで……宜しいのですか）\r\n(...Is this what you want?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2871,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330130a03'>\r\n//（良い悪いの話ではありませんの。\r\n//　わたくしは<RUBY text='・・'>大鳥</RUBY>）\r\n(It isn't about what I want, dear. I am an Otori.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3134,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330140a03'>\r\n//（この国のためにすべきことをする。それは\r\n//わたくしの義務なのです。\r\n//　血が命ずる定めです）\r\n(I will do what Yamato requires. That is my duty, bound to my blood.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3447,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330150a00'>\r\n//（……）\r\n(......)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3565,
+  "en": "\r\n//　もはや返す文句はなかった。\r\n//　これ以上、翻心を求めるのは侮辱。\r\n\r\n//　尊ぼう。\r\n//　彼女が有する、血の誇りを。\r\n  If this is a matter of honor, so be it. To press the issue further would be an insult.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3833,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330160a03'>\r\n//（景明さまこそ。\r\n//　わたくしに付き合わなくてはならない義理\r\n//などなし、お逃げになっても結構ですのよ）\r\n(You're welcome to escape, though. No reason you should die with me.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4161,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330170a00'>\r\n//（冗談は糸目だけにして頂きたい）\r\n(A poor joke, Captain. Just like your squint.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4353,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330180a03'>\r\n//（――――）\r\n(......)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4486,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0330190a04'>\r\n//（……プッ）\r\n(Pff!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4608,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330200a03'>\r\n//（笑われた!!）\r\n(Did you just laugh!?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4757,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330210a00'>\r\n//（失礼。\r\n//　しかし大鳥大尉、自分の身命は既に貴方の\r\n//掌中へお預けしております）\r\n(I apologize. However, as I said before, my life belongs to you now.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5043,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330220a00'>\r\n//（大尉がこの空に散られるのならば、自分も\r\n//従うまでの事）\r\n(If this is your time to die, then it is mine as well.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5281,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330230a03'>\r\n//（……景明さまには景明さまの使命がお有り\r\n//でしょうに。\r\n//　銀星号のことをお忘れになったの？）\r\n(But you have a duty also. Or have you forgotten Ginseigo?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5587,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330240a00'>\r\n//（全く、忘れておりません。\r\n//　ですので大尉、この場は是が非でも無事に\r\n//切り抜けて頂きたい）\r\n(I have not. Which is why I ask that you do everything in your power to survive.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5903,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330250a00'>\r\n//（大尉殿が生き延びて下されば、自分もあれ\r\n//の追跡を続けられます）\r\n(As long as you're alive, my mission can continue.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6149,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330260a03'>\r\n//（…………）\r\n(......)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6282,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0330270a04'>\r\n//（まっ、そういうことですかなァ。\r\n//　なるたけ死なないように頑張るといたしま\r\n//しょう、お嬢さま）\r\n(It does seem living would be best for us all. Don't you agree, Mistress?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6597,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330280a03'>\r\n//（え、ええ。そうね）\r\n(Y- Yes. I suppose so.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6757,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0330290a04'>\r\n//「――という次第で内緒話タイムは終了いた\r\n//しました。\r\n//　こっそり背後に回ろうとなさるのはおやめ\r\n//になった方がよろしいですよ」\r\n\"That being the case, I believe our little conference is over. Now, if you gentlemen would please stop trying to sneak behind us?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7174,
+  "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0330300e141'>\r\n//「うっ……」\r\n\"Ngh―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7344,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330310b03'>\r\n//「そうか。\r\n//　あと三秒あれば、どうにかなったんだが」\r\n\"Damn. I just needed three more seconds.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7580,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330320a00'>\r\n//「!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7689,
+  "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0330330e141'>\r\n//「ちゅ――中佐！」\r\n\"C- Colonel, sir!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7879,
+  "en": "\r\n//　その男は、<RUBY text='・・・'>上から</RUBY>降ってきた。\r\n//　――天井から。\r\n\r\n//　いつの間に、どうやって、そんな所へ現れたのか。\r\n//　彼の味方さえ絶句している。全く関知の外だったの\r\n//だろう。\r\n\r\n//　平然と構えているのは永倉老だけだ。\r\n  He appears abruptly, dropping from the ceiling. How long has he been there? Why did no one notice? \r\n\r\n  Even his own men are speechless. Of all of us, only Miss Nagakura is unshaken.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8413,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330340a03'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8546,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330350b03'>\r\n//「ご苦労さん。\r\n//　後は俺が引き受ける」\r\n\"Good work, men. I'll take it from here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8761,
+  "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0330360e141'>\r\n//「……はッ！」\r\n\"...Yes sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8939,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330370b03'>\r\n//「さぁて。\r\n//　……大鳥大尉に永倉軍属、そして湊斗景明\r\n//か」\r\n\"Now, what have we here? Captain Otori Kanae, Nagakura Sayo, and of course, Minato Kageaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9236,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330380a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9354,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330390b03'>\r\n//「どうやってここへ？　なんて聞くだけ馬鹿\r\n//らしいな。\r\n//　どうして、なんてのは尚更か」\r\n\"I won't bother asking how. Or why. I think I already know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9658,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330400a03'>\r\n//「あら。決め付けはよろしくありませんこと\r\n//よ、キャノン中佐。\r\n//　人生は意外性の連続ですもの♪」\r\n\"It never does to jump to conclusions, sir. Life is full of surprises.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9979,
+  "en": "\r\n//　嘆息混じりの呟きに、軽口で応える大鳥大尉。\r\n//　……いや、軽口ではない。これは時間稼ぎの手管。\r\n\r\n//　相手を対話に引き込んで、時間を使わせる<RUBY text='はら'>肚</RUBY>なのだ。\r\n\r\n//　しかし――後方に退いた素朴な将校とは違う。この\r\n//キャノン中佐に、そのやり方が通じるか……？\r\n  The captain's banter has a purpose. She's stalling, trying to run out the clock. But while it worked with the honest soldier, I doubt the colonel will be so accommodating.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10563,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330410b03'>\r\n//「ふん？　まぁそうだな。\r\n//　じゃあ意外性に期待してみるか」\r\n\"Surprises, huh? I guess you're right. Let's see if you can surprise me, then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10846,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330420b03'>\r\n//「お三方、ご来船の目的は？」\r\n\"What brings you fine ladies―and gentleman―<br>aboard?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11063,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330430a03'>\r\n//「朝の散歩に。\r\n//　たまには空でというのも一興かと思い立ち\r\n//まして」\r\n\"Oh, we were just out for our morning walk and felt the sky would make a nice change of pace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11365,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330440b03'>\r\n//「それは健康的なことだ。\r\n//　しかし、大して面白くもなかったろう？」\r\n\"A robust constitutional. Very good, miss. Though I'm afraid we can't offer much entertainment here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11682,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330450a03'>\r\n//「これから面白くする予定ではありませんの？\r\n//　中佐」\r\n\"Really? But I heard there'd be fireworks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11911,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330460b03'>\r\n//「どういうことかな」\r\n\"Fireworks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12069,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330470a03'>\r\n//「花火大会をなさるんでしょう？\r\n//　風の噂で耳にしましてよ」\r\n\"Oh yes. The biggest. A little bird told me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12309,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330480b03'>\r\n//「……<RUBY text='・・・'>風の噂</RUBY>、か。\r\n//　ヘイジョージ、天国から見てるか？　お前\r\n//さんが江ノ島でくたばっちまって以来、うち\r\n//の課の情報管理はこんなザマだよ」\r\n\"A little bird. Right...\" The colonel turns his eyes upward. \"Hey, George. You seeing this? Operational security my ass, huh? Bet you'd never have let this happen.\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12828,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330490a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12946,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330500b03'>\r\n//「花火ね。\r\n//　確かにでかいやつを一つ、打ち<RUBY text='・・・'>落とす</RUBY>予定\r\n//だが」\r\n\"Fireworks,\" he continues, once more addressing us. \"Well, you're right. We're planning quite the show.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13288,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330510b03'>\r\n//「見たいなら事前に申し込んで欲しかったな。\r\n//　せっかくの客だ、こっちだって最高の席を\r\n//用意して差し上げたいが……急に来られちゃ\r\n//そうもいかない」\r\n\"You should've asked, if you wanted a seat. I'd have saved you the best in the house.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13709,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330520b03'>\r\n//「客人に礼を欠くのは紳士の恥ってものだ」\r\n\"Now I'm afraid we're all full up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13920,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330530a03'>\r\n//「非礼はこちら。どうかお気になさらず。\r\n//　それにわたくしどもは、見物に参ったわけ\r\n//ではありませんし」\r\n\"No, sir. The fault is ours. Besides, we didn't come to watch.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14242,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330540b03'>\r\n//「ほう？\r\n//　他に何か目的が？」\r\n\"Oh? Then why did you come?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14432,
+  "en": "\r\n//　驚くキャノン。\r\n//　あえて確認するまでもなく、その驚きは顔の表面に\r\n//おける筋肉運動であるに過ぎなかった。\r\n  The colonel responds with perfect surprise, but I do not need to be a mindreader to see that it goes no deeper than the muscles of his face.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14748,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330550a03'>\r\n//「ええ。\r\n//　実は、花火に水を掛けてしまおうかなーと\r\n//思いまして」\r\n\"To douse your fireworks, actually.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14989,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330560a03'>\r\n//「このように」\r\n\"As you can see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15134,
+  "en": "\r\n//　香奈枝嬢が片手で、いつでも爆弾を斬り割れる位置\r\n//にいる俺を示す。\r\n//　返答は、大仰なゼスチャーと大袈裟な悲鳴だった。\r\n  She indicates me with a wave of her hand. Seeing that I stand poised to strike, the colonel lets out a cry of dismay.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15445,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330570b03'>\r\n//「おいおい。勘弁してくれ！\r\n//　そんなことをされたら、折角の花火が使え\r\n//なくなってしまうじゃないか！」\r\n\"No! You'll ruin everything!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15742,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330580a03'>\r\n//「そうしたいんだと申し上げたら？」\r\n\"What if I told you that's precisely what I want?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15950,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330590b03'>\r\n//「なんてこった。\r\n//　君は理解者だと信じていたんだがな……」\r\n\"Are you serious? And here I thought you understood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16207,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330600a03'>\r\n//「そうですね。少なくとも完全な反対はして\r\n//おりませんでした。\r\n//　けれど、考えが変わってしまいましたの」\r\n\"I do. And I agreed, at least in part. But my thoughts on the matter have changed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16552,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330610b03'>\r\n//「どんな風にだい？」\r\n\"How?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16704,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330620a03'>\r\n//「<RUBY text='ジョンブル・ゴー・ホーム'>帰れ英国紳士</RUBY>☆」\r\n\"John Bull, go home.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16916,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330630b03'>\r\n//「……<RUBY text='エクスクリュージョニズム'>攘夷主義</RUBY>なんて流行らないぞ」\r\n\"...Exclusionism is a little passe, don't you think?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17193,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330640a03'>\r\n//「来るだけなら歓迎もできますけれどね。\r\n//　土足で踏み込んだ挙句に表札まで書き換え\r\n//るつもりのお客さんには、笑顔を向けるのも\r\n//限度がございましてよ」\r\n\"You're welcome to visit, of course. It's when you tramp in with muddy shoes and try to change the name on the door that our smiles turn aside.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17666,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330650b03'>\r\n//「しかしそれはあなた一人の決意ではないな、\r\n//<RUBY text='レディ'>貴婦人</RUBY>？\r\n//　誰かに<RUBY text='そそのか'>唆</RUBY>されたんだろう」\r\n\"You didn't come to this conclusion on your own, did you? Someone seduced you into betraying me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18064,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330660b03'>\r\n//「そこの彼かな？\r\n//　君の笑顔を俺から奪った憎い奴は」\r\n\"Was it him? Was he the one who turned your smile <br>away?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18319,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330670a03'>\r\n//「ご明察。でも唆したなんて人聞きの悪い。\r\n//　わたくしと景明さまは真実の愛で結ばれて\r\n//おりますのよ！」\r\n\"Very good, sir. Though <I>seduced</I>㉑makes it sound so lurid. Kageaki and I are very much in love!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18681,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330680b03'>\r\n//「騙される女はいつも同じことを言う」\r\n\"That's what every woman says who's been seduced.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18901,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0330690a04'>\r\n//「そうですねぇ」\r\n\"Very true.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19035,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330700a00'>\r\n//「確かに」\r\n\"Indeed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19157,
+  "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0330710e141'>\r\n//「うん」\r\n\"Mm-hm.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19321,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330720a03'>\r\n//「なんでこんなところでそろって同意!?」\r\n\"DO YOU㉗<I>ALL</I> HAVE TO AGREE!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19521,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330730b03'>\r\n//「貴婦人、君の要望はでき得る限り聞き入れ\r\n//よう。俺は狭量な男ではないつもりだ。\r\n//　こちらへ戻ってくる気はないか？」\r\n\"I'm not a petty man. I'll make whatever concessions I'm able. So won't you please come back, my lady?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19913,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330740a03'>\r\n//「未練でしてよ、中佐。\r\n//　女の気持ちは移ろいはしても、過去に戻り\r\n//はしないものなのです」\r\n\"My dear colonel, if there's one thing you should know about ladies, it is that we may move on, but we never turn back.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20274,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330750a03'>\r\n//「それが殿方との違い」\r\n\"That's where we differ from men.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20448,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330760b03'>\r\n//「なんてことだ。\r\n//　もう取り返しはつかないのか！」\r\n\"There's no hope!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20659,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330770b03'>\r\n//「許し難い男だな、湊斗景明。\r\n//　決闘を申し込むしかなさそうだ」\r\n\"Damn you, Minato. It seems I have no choice!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20915,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330780b03'>\r\n//「さて、白手袋はどこへやったか……」\r\n\"Now where'd I put my dueling glove...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21124,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330790a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21248,
+  "en": "\r\n//　金髪男性のおどけた挑発の視線を、俺は沈黙のまま\r\n//見詰め返した。\r\n//　言うべき――言葉がない。\r\n\r\n//　それは既に、香奈枝嬢も同様だった。\r\n//　永倉侍従も。\r\n\r\n//　全員、異常に気付いていた。\r\n//　\r\n//　――何故だ？\r\n\r\n//　<RUBY text='・・'>何故</RUBY>？\r\n  I meet the colonel's theatrics with silence. There is nothing to say. Words are meaningless. Even the Otori pair has ceased to participate in this farce.\r\n\r\n  The same question is on everyone's mind.\r\n\r\n  Why?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21825,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330800b03'>\r\n//「……チ。\r\n//　引っ張れるのはここまでか」\r\n\"...Ah, hell. Guess playtime's over.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22039,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330810b03'>\r\n//「だが、まあ――充分だろう。\r\n//　君らにここから脱出するだけの力があった\r\n//としても……今からではどうにもならない」\r\n\"That's okay, though. I dragged it out long enough. Now, even if you break through this line, it won't make any difference.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22449,
+  "en": "\r\n//　進駐軍中佐が肩をすくめる。\r\n//　\r\n//　何故。\r\n\r\n//　何故、彼はこちらに時間を<RUBY text='・・・・'>稼がせる</RUBY>？\r\n//　何も……疑念を示さずに。\r\n  The colonel shrugs.\r\n\r\n  Why did he let us buy time?\r\n\r\n//　爆弾を投下させたくないこちらにとって時間を稼ぐ\r\n//事が勝利条件ならば、爆弾を投下したい彼の勝利条件\r\n//は時間を切り詰める事。\r\n//　即刻に爆弾を取り戻さねばならない筈だ。\r\n  He must have known that we were hoping to stall until the bomb could no longer be dropped. He should have used any means to secure it, not engage us in ridiculous banter.\r\n\r\n//　だというのに。\r\n//　\r\n//　\r\n//　……この矛盾を解く鍵は、勝利条件の逆転にある。\r\n  There's only one explanation.\r\n\r\n//　時間を稼ぐ必要があったのは、こちらではなかった。\r\n//　<RUBY text='・・・・'>彼だった</RUBY>。そういう事だ。\r\n\r\n//　つまり。\r\n  Time was on㉓<I>his</I>㉓side all along.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23526,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0330820a03'>\r\n//「……さよ……」\r\n\"Sayo...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23666,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0330830a04'>\r\n//「魚座は運勢昇り調子とあったのですが……\r\n//　は。そういえば山羊座は運気絶滅でござい\r\n//ました！」\r\n\"I don't understand. The horoscope was perfect, Mistress! Unless... an㉗<I>Aries.</I> Their forecast was doom!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24019,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0330840a04'>\r\n//「まさか？」\r\n\"Can it be, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24152,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0330850a00'>\r\n//「……自分です……」\r\n\"...I'm afraid so.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24299,
+  "en": "\r\n//　現状理解も、既に遅い。\r\n//　時間は過ぎ去ってしまった。\r\n\r\n//　挽回の<RUBY text='チャンス'>機会</RUBY>は――――無い。\r\n  Understanding has come too late. The window for action has passed, and there will be no second chances.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24583,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330860b03'>\r\n//「君らはいい所に目をつけた。\r\n//　だが……ほんの少し、辿り着くのが遅かった\r\n//な」\r\n\"I'm honestly impressed you found it. If you'd been a little bit faster, who knows?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24902,
+  "en": "\r\n//　キャノン中佐が小さく笑う。\r\n//　それは傲慢な勝利宣言ではなかった。\r\n\r\n//　言葉通りの、敗者へ向ける慰めがそこにあった。\r\n  The colonel's smile is not one of pride or triumph. It seems that the praise, at least, is sincere.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25194,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330870b03'>\r\n//「それは<RUBY text='ザ・ガジェット'>鍛造雷弾</RUBY>の保管器だ。\r\n//　もう空っぽの」\r\n\"That's the Forged Bomb's containment cell. It's empty now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25482,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330880b03'>\r\n//「中身は既に船を出た」\r\n\"The bomb is gone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25650,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0330890b03'>\r\n//「君達は……\r\n//　<RUBY text='・・・・・・・・'>間に合わなかった</RUBY>んだ」\r\n\"I'm sorry... but it's over.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25898,
+  "en": "\r\n//　\r\n//　　　　　　　　　午前八時二分\r\n \r\n \r\n \r\n \r\n \r\n<center>08:02\r\n",
+  "pt": ""
+ }
+]

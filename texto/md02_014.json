@@ -1,0 +1,402 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　朝と違い、昼食の席には堀越公方の姿があった。\r\n//　年齢相応の健啖ぶりで、選り好みせず箸を動かして\r\n//いる。\r\n\r\n//　光はいない。\r\n  At noon, the general joins us for lunch. She eats with youthful gusto, seemingly content to follow wherever her chopsticks lead her.\r\n\r\n  Hikaru is not present.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 576,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140010a00'>\r\n//「先刻、何か騒動があった様子ですが」\r\n\"I heard shouting earlier.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 755,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140020a07'>\r\n//「あー、あれ？\r\n//　大したこっちゃないよ。ただのこそ泥」\r\n\"Oh, that? That was nothing. Just a thief.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 987,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140030a07'>\r\n//「なんか逃がしちまったみたいだけどね。\r\n//　まぁ、どうだっていい」\r\n\"Seems he got away. Meh, no skin off my nose.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1237,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140040a01'>\r\n//「……そのこそ泥って。\r\n//　やたらとでっかい坊さんじゃないでしょう\r\n//ね？」\r\n\"...This thief wouldn't happen to be a rather large monk, would he?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1519,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140050a07'>\r\n//「？　……違うけど。\r\n//　なんだ、あいつに会ったのか？」\r\n\"Uh... no?\r\n<waitVoice=4150>  Oh, you ran into㉓<I>him,</I>㉓did you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1780,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140060a01'>\r\n//「ちょっとね。\r\n//　あれ、貴方のお友達？」\r\n\"You could say that. A friend of yours?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1985,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140070a07'>\r\n//「そう言われると、喧嘩売ってんのかてめえ\r\n//と返したくなる。\r\n//　そんな間柄です」\r\n\"He's the sorta guy who makes me wanna kill you just for asking that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2281,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140080a01'>\r\n//「気が合いそうなのに。\r\n//　性格の悪い者同士で」\r\n\"Oh? I figured you'd get along great. Like two mean-spirited peas in a pod.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2531,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140090a07'>\r\n//「本気で喧嘩売ってんなてめえ」\r\n\"Maybe I㉓<I>will</I>㉗kill you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2718,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140100a01'>\r\n//「食事中に騒ぐならあっち行って頂戴。\r\n//　鬱陶しいから」\r\n\"Could you keep it down? You're ruining our meal.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2954,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140110a07'>\r\n//「この足軽具足、誰の家で飯食ってるつもり\r\n//なんでしょうね……」\r\n\"Whose food does this hand-me-down gambeson think she's eating?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3219,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140120a07'>\r\n//「それで、あいつなんか言ってた？」\r\n\"So? What'd he say?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3397,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140130a01'>\r\n//「別に。\r\n//　癇に障る大笑いを聞かされただけよ」\r\n\"Nothing. All he did was laugh his stupid bald head <br>off.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3632,
+  "en": "\r\n//　そう答えて村正が眉をひそめる一方、俺はひそかに\r\n//安堵していた。\r\n//　実はあの僧が騒動の原因なのではという一抹の懸念\r\n//をずっと拭えずにいたが、杞憂だったらしい。\r\n//\r\n//　俺は堀越公方府に属す人間ではなく、彼が敵意ある\r\n//侵入者であったとしても捕まえる義務はないのだが。\r\n//　居候している立場、彼に有意義な助言を受けた事実\r\n//などを考え併せると、心中は複雑なものになったろう。\r\n\r\n//　助言。\r\n//　\r\n//　\r\n//　――――無我。\r\n  Muramasa seems surprised to learn that the monk wasn't behind this morning's disturbance. It did seem plausible, given the timing, though for my part, I'm relieved that wasn't the case.\r\n\r\n  While I'm certainly under no obligation to detain the general's enemies, as a guest―a freeloader, really―I would have felt badly if I had let one escape. At the same time, I would not have wanted to betray the monk, who offered freely such helpful advice.\r\n\r\n  ...Muga.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4725,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140140a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4849,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140150a07'>\r\n//「お兄さん、<RUBY text='さわら'>鰆</RUBY>きらい？」\r\n\"What's wrong? Don't like mackerel?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5058,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140160a00'>\r\n//「――は。\r\n//　いえ、そのような事はありません」\r\n\"...Ah. No, I quite enjoy it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5256,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140170a07'>\r\n//「そう？\r\n//　箸で挟んだまま固まってるから、よっぽど\r\n//嫌なのかと」\r\n\"Yeah? You've been staring at that piece between your chopsticks for a while, so I thought maybe...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5561,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140180a01'>\r\n//「いい<RUBY text='かんざわら'>寒鰆</RUBY>ね」\r\n\"This mackerel㉓<I>is</I>㉓quite good.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5763,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140190a07'>\r\n//「今朝とれた直送品だ。\r\n//　味わって食いやがれ」\r\n\"Just came in this morning. Make sure you taste that goodness 'fore you swallow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6021,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140200a01'>\r\n//「もちろん。\r\n//　ふぅ、御飯が進む……」\r\n\"Of course. Mm... makes the rice taste even better.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6235,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140210a01'>\r\n//「お代わり貰える？」\r\n\"Could I have another bowl?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6397,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140220a07'>\r\n//「あ、はい」\r\n\"Oh, sure.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6533,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140230a07'>\r\n//「どうぞ」\r\n\"Here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6662,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140240a01'>\r\n//「ありがとう」\r\n\"Thanks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6796,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140250a07'>\r\n//「じゃ、ねぇーーーーーーーーーーっ!!\r\n//　なんであてがおめーのごはんよそってやら\r\n//なきゃいけねえんだぁぁぁあああああああ!!」\r\n\"WAIT! JUST A GODDAMN MINUTE! WHY THE FUCK AM I TOPPING YOUR <br>BOWL!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7158,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140260a01'>\r\n//「うるさいやつねー。\r\n//　はいはい、じゃあもう頼みません」\r\n\"What's the big deal? Fine. I won't ask you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7392,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140270a01'>\r\n//「御堂、お代わりいる？」\r\n\"Mido? Would you like more rice?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7565,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140280a00'>\r\n//「そうだな……貰おう」\r\n\"Ah... please.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7711,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140290a01'>\r\n//「はい」\r\n\"Here you go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7841,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140300a00'>\r\n//「済まん」\r\n\"Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7966,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140310a01'>\r\n//「ふふ……」\r\n\"Hehe...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8097,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140320a00'>\r\n//「どうした？」\r\n\"What is it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8229,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140330a01'>\r\n//「ううん。\r\n//　こういうのもいいなって、ちょっと思った\r\n//だけ」\r\n\"Oh, nothing. Just thinking this was a nice change of pace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8485,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140340a00'>\r\n//「そうか……」\r\n\"Ah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8609,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140350a07'>\r\n//「地獄のように腹が立ちます!!」\r\n\"Hot anger boils inside me!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8788,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140360a01'>\r\n//「何なのよ貴方。\r\n//　頼めば怒るし頼まなくても怒るし」\r\n\"I thought you didn't want to be bothered. Now you're whining about being <br>ignored?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9058,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140370a01'>\r\n//「わがままいっぱい過ぎない？」\r\n\"Rather selfish, don't you think?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9241,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140380a07'>\r\n//「違うわー！　あての怒りは正しい怒りじゃ！\r\n//　ねえ、わかってよ！　お願いだからわかっ\r\n//てよっ！」\r\n\"No! I have every right to be pissed! I mean, come on! Look at it from my perspective!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9581,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140390a01'>\r\n//「わかんないし」\r\n\"No thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9724,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140400a07'>\r\n//「えーんえーん」\r\n\"Wahhhh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9864,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140410a01'>\r\n//「この子どっか行かないかしら」\r\n\"Can we put her out with the garbage?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10051,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140420a07'>\r\n//「おめーのさすがは劒冑と言わざるを得ない\r\n//冷血ぶりには茶々丸さんもたじたじですよ。\r\n//　つーか……あまりにもナチュラルな態度に\r\n//騙されて今の今まで気付かなかったが……」\r\n\"Fine. I give up. Guess I should know better than to expect compassion from a cold lump of metal like you.\r\n  ...Speaking of which. It should've been obvious, but you covered it up like a pro.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10603,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140430a01'>\r\n//「なに？」\r\n\"What are you talking about?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10751,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140440a07'>\r\n//「おめー、劒冑だろ!!\r\n//　なんで飯食ってんだよ!?」\r\n\"You're a tsurugi! Why the hell are you eating!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10978,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140450a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11102,
+  "en": "\r\n//　……気付かなかった。\r\n//　今の今まで。俺も。\r\n  An excellent point. It completely slipped my notice as well.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11247,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140460a01'>\r\n//「いいじゃない、食べたって。\r\n//　せっかく肉体化してるんだから」\r\n\"I have a human body now. Why shouldn't I eat?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11492,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140470a07'>\r\n//「激しく無駄な気がするんだが」\r\n\"That's a lot of good food going to waste.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11687,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140480a01'>\r\n//「そうでもないのよ？\r\n//　こうやって摂取した栄養素は、熱量に変換\r\n//して私の心鉄にいくらか蓄えておけるし」\r\n\"It's not wasted at all. I can convert food to energy and store it in my shingane.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12029,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140490a00'>\r\n//「そうなのか」\r\n\"You can?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12158,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140500a01'>\r\n//「もちろん、本物の肉体に比べたら変換効率\r\n//はあまり良くないけどね」\r\n\"Not as efficiently as you can, of course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12405,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140510a07'>\r\n//「具体的にはどんなもん？」\r\n\"Just㉓<I>how</I>㉔efficient are you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12591,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140520a01'>\r\n//「米俵ひとつで、普通の人間が小皿一杯分の\r\n//御飯から得られる程度の熱量」\r\n\"For rice, I can extract about as much energy from one bushel as a human would from a single bowl.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12900,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140530a07'>\r\n//「謝れ！　お百姓さんに謝れ！\r\n//　そして二度と食うな!!」\r\n\"APOLOGIZE! APOLOGIZE TO THE FARMERS! AND NEVER EAT AGAIN!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13147,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140540a01'>\r\n//「何よ。残したって無駄になるだけでしょう。\r\n//　もったいないじゃない」\r\n\"Hmph. Better than letting it go to waste, right? It's not doing any good just sitting there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13448,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140550a07'>\r\n//「裏庭へ捨ててダンゴムシのエサにした方が\r\n//まだしも宇宙船地球号的には有意義ですよ!!」\r\n\"I'd rather feed it to the worms out back! I'm sure our Mother Earth would approve!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13765,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140560a01'>\r\n//「いやよね。こういう屁理屈を並べて意味も\r\n//なく人を傷つけるやつって」\r\n\"Some people will find any excuse to put others down.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14026,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140570a07'>\r\n//「あては間違ってねぇーーー！\r\n//　絶対に間違ってねえーーーーーー!!」\r\n\"I'M NOT WRONG, DAMMIT! BACK ME UP HERE, BRO!\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140580a07'>\r\n//「つーかあて、さっきから何度叫んでるんだ\r\n//畜生ーーーーーー!!」\r\n\"AND I WISH I DIDN'T HAVE TO KEEP SHOUTING LIKE THIS!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14525,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140590a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14643,
+  "en": "\r\n//　内心、堀越公方に同意せぬでもなかったが。\r\n//　言うと後難がありそうだったので黙っておく。\r\n\r\n//　それに実際問題として、多少でも熱量の蓄積が増す\r\n//なら、銀星号との力量差を埋める役に立つ。\r\n//　例え薄紙一枚分であろうと、近付く努力を怠るべき\r\n//ではなかった。\r\n\r\n//　特に今は。\r\n//　<RUBY text='おれ'>仕手</RUBY>の努力が薄紙一枚分の成果すら挙げているとは\r\n//言い難い状況なのであるから。\r\n  Although I am not without sympathy for the general's objections, speaking up on her behalf would likely cause severe difficulties for me down the line. Best to stay silent.\r\n\r\n  Besides, however wasteful Muramasa eating might be from a conservationist point of view, the fact remains that any additional energy, however small the amount, will help narrow the gap between us and Ginseigo. If it will increase our chances by even a fraction of a percent, then it is needful, plain and simple.\r\n\r\n  That is especially true now, with my efforts having failed.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15765,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140600a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15889,
+  "en": "\r\n//　無我。\r\n//　\r\n//　無我の境地か……。\r\n  Muga. The absence of self.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15986,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140610a01'>\r\n//「御堂？」\r\n\"Mido?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16112,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140620a00'>\r\n//「……ああ」\r\n\"...I'm fine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16242,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140630a07'>\r\n//「なんかまた固まってたね。\r\n//　さっきから、どしたの？」\r\n\"You spaced out again there. What's wrong?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16474,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140640a00'>\r\n//「少々考え事がありまして」\r\n\"I was just thinking.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16633,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140650a01'>\r\n//「……あのいんちき坊主に言われたこと？」\r\n\"...About what that awful monk said?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16834,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140660a00'>\r\n//「からかわれた節があるのも事実だが……\r\n//　やはりあれは、忠告であり助言であったの\r\n//だと思う」\r\n\"Mockery aside, I believe that his counsel was sincere.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17128,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140670a01'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17258,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140680a07'>\r\n//「置いてけぼりです……」\r\n\"I'm out of the loop...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17425,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140690a01'>\r\n//「ごめんなさい」\r\n\"Oh, sorry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17565,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140700a01'>\r\n//「そうね、御堂がそう思うなら……」\r\n\"Anyway, Mido, if that's really how you feel...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17768,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140710a07'>\r\n//「謝るだけかよ！\r\n//　説明してくれないのかよ！」\r\n\"Hey! If you're sorry, then explain!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17982,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0140720a01'>\r\n//「貴方には関係ないもの」\r\n\"It's none of your business.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18151,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140730a07'>\r\n//「家主権限で、仲間外れ禁止を命ずる。\r\n//　いじめかっこわるい」\r\n\"This is my house, and I say no leaving people out of the conversation. That's bullying, and bullying's bad, 'kay?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18464,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0140740a07'>\r\n//「というわけでお兄さん、何があったの？」\r\n\"Now that that's settled, can you bring me up to speed?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18687,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0140750a00'>\r\n//「……は」\r\n\"...All right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18815,
+  "en": "\r\n//　真意が不明とはいえ、堀越公方は銀星号の支援者で\r\n//ある。\r\n//　その彼女に銀星号と戦う方法について相談するなど\r\n//ナンセンスの極みだろう。\r\n\r\n//　しかし、今はどんなに低い可能性でも逃したくない\r\n//心境だ。\r\n//　それに他人に説明することで考えが整理されるかも\r\n//しれない。\r\n\r\n//　……結局、俺は午前中の出来事を彼女に話した。\r\n  Though her motivations remain a mystery, the general is Ginseigo's ally―perhaps not the best person to ask for advice.\r\n\r\n  However, I cannot afford to let any opportunity for progress slip by. At the very least, explaining it will help to improve my own understanding of the matter.\r\n\r\n  I start from the beginning.\r\n",
+  "pt": ""
+ }
+]

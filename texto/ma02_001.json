@@ -1,0 +1,227 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010010b45'>\r\n//「……!?」\r\n\"...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 332,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010020a03'>\r\n//「けほ、けほっ。\r\n//　…………ふぅ」\r\n\"Cough, cough... phew.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010030a03'>\r\n//「やっぱり銃は好きになれません。\r\n//　煙たいですし、手応えも良くないですし」\r\n\"I'll never grow to like guns. There's too much smoke, and you don't get the right feedback from the kill.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 832,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0010040a04'>\r\n//「おや、お嬢さま。\r\n//　飛び道具なのに手応えとは、如何なもので\r\n//ございましょう」\r\n\"Oh? But Mistress, surely there is no feedback from a ranged weapon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1118,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010050a03'>\r\n//「あるんですよー。\r\n//　弾頭が標的を撃ち抜いた瞬間に指の先から\r\n//脊椎の裏まで駆け巡る……壊れたオルガンの\r\n//ような旋律が、こう」\r\n\"But there is. That feeling you get the instant your shot tears through warm flesh... like a broken organ's melody coursing up your spine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1553,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0010060a04'>\r\n//「それは単に充足した<RUBY text='サディズム'>嗜虐性</RUBY>が体を震わせて\r\n//いるだけなのでは？」\r\n\"Are you certain that's not just sadistic glee?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1829,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010070a03'>\r\n//「そう片付けられてしまうと、ただの変態ね。\r\n//　ひどいばあや」\r\n\"When you put it that way, I sound like some kind of freak. You're terrible, Sayo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2110,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0010080a04'>\r\n//「人にして人を殺せる輩はみな変態の異常者\r\n//でございます、お嬢さま」\r\n\"Anyone who can kill a fellow human being is indeed a freak most heinous, Mistress.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2392,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010090b45'>\r\n//「……待て……」\r\n\"...Wait.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2524,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010100b45'>\r\n//「ど――\r\n//　どういうつもりだ？」\r\n\"What is the meaning of <br>this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2705,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010110a03'>\r\n//「こういうつもりですけれども。\r\n//　ええと――」\r\n\"Exactly what it looks like, um...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2917,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0010120a04'>\r\n//「六波羅代官、長坂大尉殿です」\r\n\"Captain Nagasaka, the Rokuhara prefect for this village.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3118,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010130a03'>\r\n//「長坂大尉。\r\n//　進駐軍司令部より派遣された巡察官として、\r\n//大和軍将兵の不適切な行いを是正することは\r\n//わたくしの責務ですの」\r\n\"Captain Nagasaka. As the GHQ inspector assigned to this area, it is my responsibility to address the inappropriate behavior of Yamato's soldiers.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3558,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010140b45'>\r\n//「我が兵が貴官に対し何か失礼な振舞いでも\r\n//……」\r\n\"Did my men㉒<I>offend</I>㉔you in some way?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3776,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010150a03'>\r\n//「村人の徴発、限度を超えた酷使、作業から\r\n//脱落した者に対する私刑。\r\n//　いずれも軍士官として適切なやりようでは\r\n//ありませんね？」\r\n\"I witnessed them drafting villagers into forced labor, working them to exhaustion, and then executing those who collapsed. Hardly conduct befitting a man in uniform, no?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4246,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010160b45'>\r\n//「そのようなことを貴官に言われる筋合いは\r\n//ないっ！　大和の内政は六波羅に委任されて\r\n//いる筈ではないか！」\r\n\"It's not your place to decide that! Rokuhara was promised sovereignty in Yamato!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4584,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010170a03'>\r\n//「ええ。\r\n//　ＧＨＱの監督の下で」\r\n\"Yes, but under GHQ supervision.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4773,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010180b45'>\r\n//「採鉱事業の申請ならばとうに済ませた！\r\n//　許可も得ている……」\r\n\"I already have approval for my mining project! Everything should be in order.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5044,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010190a03'>\r\n//「けれど、それはあくまで書類上のこと。\r\n//　あなたがたの施政の実態を調査し、好まし\r\n//からぬ事実が発見された時には、状況の悪化\r\n//を防ぐ措置を取るのが巡察官の職権の内」\r\n\"But that's just paper on some bureaucrat's desk. My job is to ascertain the reality of your operation, and it's well within my authority to address any problems that I find.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5572,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010200b45'>\r\n//「莫迦な……」\r\n\"Nonsense!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5702,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010210a03'>\r\n//「これは私見なのですけれど。\r\n//　……民政局への付け届けが足りなかったの\r\n//ではありませんこと？」\r\n\"If I might offer my personal opinion, perhaps you should have been more generous in your gifts to the Civil Affairs Bureau?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6077,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010220b45'>\r\n//「コブデン中佐の胃袋にも財布にも寝台にも、\r\n//奴の欲しがるものを欲しがるだけ詰め込んで\r\n//やったわ！\r\n//　あれでもまだ足りないと抜かすのか!?」\r\n\"I've given Colonel Cobden everything he asked for! Filled his belly, wallet, and his bed! Now he wants <br>more!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6496,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010230a03'>\r\n//「それは確かですか？」\r\n\"Is that true?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6651,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010240b45'>\r\n//「確かだよ！　この事業の予算の一割は奴が\r\n//一人で食い潰したようなものだ！\r\n//　貴官、何も聞かされておらんのか!?　奴は\r\n//万事うまく取り計らうと請け負ったのだぞ!?」\r\n\"It is! One-tenth of my budget for this operation is going straight into his pocket! What, you weren't told!? He promised to see that everything went smoothly!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7147,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010250a03'>\r\n//「……まあ、大変」\r\n\"...My, how astonishing.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010260a03'>\r\n//「さよ、今のを聞きまして？　わたくしたち、\r\n//贈収賄事件の重大な証拠をつかんでしまった\r\n//みたい」\r\n\"Did you hear that, Sayo? I do believe we've stumbled upon evidence of serious corruption in our ranks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7652,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0010270a04'>\r\n//「大変ドラマティックな展開でございます、\r\n//お嬢さま」\r\n\"A most dramatic turn of events, Mistress.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7872,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010280b45'>\r\n//「馬鹿にしているのか、貴様らは!?」\r\n\"Are you mocking me!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8042,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010290a03'>\r\n//「そんなつもりはないのですけれど。\r\n//　ねえ？」\r\n\"That wasn't my intent. ...Sayo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8252,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0010300a04'>\r\n//「はばかりながらお嬢さま。\r\n//　客観的に評価致しまして、我々は大尉殿を\r\n//遺憾なく小バカにしております」\r\n\"Speaking objectively, Mistress, we have been mocking the captain rather mercilessly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8588,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010310a03'>\r\n//「あら、そうでしたの？\r\n//　申し訳ありません。わたくしったらどうも、\r\n//こういうことには疎くて」\r\n\"Oh, we have? My apologies, Captain. I'm so dull when it comes to these things.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8915,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010320b45'>\r\n//「…………。\r\n//　目的は……何だ」\r\n\"...What do you want?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9084,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010330a03'>\r\n//「目的？」\r\n\"Pardon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9215,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010340b45'>\r\n//「貴官の目的だ！　とどのつまり何が欲しい\r\n//のだ。金か、それとも鉱山の利権か？\r\n//　ならそう言え、下手な揺さぶりなどかけず\r\n//とも、話は聞いてやる！」\r\n\"Your demands! What are they!? Money? A share in the mine? Then stop wasting time trying to rattle me and say so! I'm willing to <br>bargain!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9674,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010350a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9807,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010360a03'>\r\n//「困ったことね、さよ。\r\n//　会話が通じていません」\r\n\"How troublesome, Sayo. He doesn't seem to understand me at all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10052,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0010370a04'>\r\n//「まことに難儀なことで。\r\n//　如何でございましょう。ここは一つ、大尉\r\n//殿の脳天に風穴を開けてやって、ちっとは物\r\n//の道理がわかるようにして差し上げては？」\r\n\"I quite agree, Mistress. Perhaps a nice big hole might help your words enter the good captain's thick <br>skull.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10492,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010380a03'>\r\n//「それが親切というものかしら。\r\n//　では、そういうことですので」\r\n\"I suppose that's only fair. In the interests of consensus, then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10759,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0010390a03'>\r\n//「<RUBY text='ＰＬＥＡＳＥ，ＧＯ　ＴＯ　ＹＯＵＲ　ＧＲＡＶＥ'>あなたのための墓穴へどうぞ</RUBY>。\r\n//　せっかく村の人達が掘って下さった<RUBY text='あな'>坑道</RUBY>、\r\n//有効にご活用下さいまし」\r\n\"Please go to your grave. The villagers dug such a fine tunnel for you. It would be a shame not to put it to good use.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11251,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0010400b45'>\r\n//「――小娘ェェェェェッッッ!!」\r\n\"DAMN YOU, GIRL!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11410,
+  "en": "\r\n//　代官――どうやらその地位を失いつつあるようだが\r\n//――が己の劔冑を呼び、装甲し飛び立とうとする一瞬、\r\n//老人は自分が動かねばならないことを悟っていた。\r\n//　そして、間に合わないということも。\r\n  The instant the prefect―<br>perhaps soon to be ex-<br>prefect―dons his tsurugi and attacks the two women, the old man knows that he must act.\r\n  He also knows that he will not make it in time.\r\n\r\n//　あの愚かな男を止めるのは自分の責任だ。\r\n//　男の愚かさを、その所以を、知る者は今となっては\r\n//彼ひとりしか残っていない。\r\n  Stopping that fool is his responsibility, for he alone knows the reason for his foolishness.\r\n\r\n//　この手で、決着をつけたかった。\r\n//　これ以上、いらぬ血が流される前に。\r\n  He wants―<I>needs</I>㉗to settle it himself, to end it without another drop of innocent blood spilled.\r\n\r\n//　あの男の暴走がこの小さな村を巻き込む前に、留め\r\n//得なかったことは、老人にとって痛恨であった。\r\n  If only he could have stopped the prefect before his madness swallowed the village. Two worthless old men would have died, and that would have been the end of it.\r\n\r\n//　――益体なき男が二人、死ねばそれで良かろうに。\r\n//　\r\n//　そう思う。\r\n\r\n  But fate is not so kind.\r\n\r\n//　忌まわしきは老いの退廃。\r\n//　代官に挑むための支度が、彼の期待を裏切って多く\r\n//の時を必要としたせいで、状勢の悪化をただ座視する\r\n//羽目になった。\r\n  Time has taken its toll on him. His preparations took longer―far longer―than he anticipated, and so he has been forced to watch, helpless, as the bodies pile ever higher.\r\n\r\n//　今、この刹那もか。\r\n\r\n//　村を蝕む事態を動かした――というよりも蹴り飛ば\r\n//した――あの若い女は殺されるだろう。自業自得と、\r\n//見られなくもない。\r\n//　だが、彼女はどうやら村の救い手のようだ。\r\n  And now a new body will be added to the stack. The young inspector, the first person to take a stand against the prefect, will die. Her methods were certainly not beyond reproach, but that does not change the fact that she acted to save the village.\r\n\r\n//　そして今ここで殺された後には、災いを残すだろう。\r\n//　老人は世の動静に疎かったが、祖国が戦争に敗れ、\r\n//占領を受けている現状は知っていた。\r\n  Yet with her death, the village's fate may well be sealed. The old man is hardly versed in the affairs of the outside world, but he is aware that his country was defeated in war and is now occupied by a foreign power.\r\n\r\n//　その占領軍に属する人間が、この村で変死を遂げた\r\n//ならば……。\r\n  Should a member of the occupying army meet an untimely end in this village...\r\n\r\n//　あの女性はどう見ても大和人であるものの、しかし、\r\n//軍服は間違いなく進駐軍司令部の所属を示している。\r\n//　その死について、現地の居住民が責任を問われない\r\n//という保証はどこにもなかった。\r\n  While the woman is clearly of Yamatoan stock, her uniform marks her just as clearly as an officer of GHQ. There is no reason to believe that her superiors will not blame the local population for her death.\r\n\r\n//　あの男は今ここで止めなくてはならない。\r\n//　他ならぬ彼が止めねばならない。\r\n//　\r\n//　なのに。\r\n  The prefect must be stopped, here and now, and the old man is the one who must stop him. And yet―\r\n\r\n//　――できぬ、とは。\r\n\r\n//　振り返れば、悔いばかりを重ねてきた命。\r\n//　既に終わりの見えたこの年齢になって、なお大きな\r\n//一つを加えなくてはならないのか。\r\n  Looking back, he sees a life full of regrets. Must he now add one more to the tally, here at the end of his days?\r\n\r\n//　竜騎兵は疾駆する。\r\n//　空を裂き。地に溝を穿ち。\r\n  The dragoon charges, his feet gouging deep craters in the earth.\r\n\r\n//　数打の、紛い物に等しい劔冑であろうと、もたらす\r\n//速度と力は到底只人が及ぶべくもなし。\r\n//　抗うはおろか、確と見留めることすらかなうものか。\r\n  His armor is kazu'uchi, not worthy to be called a tsurugi, but its power and speed far surpass a mere human's all the same. Simply tracking its movements is impossible, to say nothing of resisting its strike.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16073,
+  "en": "\r\n//　――止めてくれ。\r\n//　\r\n//　老人は願った。\r\n  <I>Stop him,</I>㉓the old man prays.\r\n\r\n//　あの一閃を。\r\n//　この身ではどうしても届かぬ、あの一閃だけ、誰か\r\n//――止めてはくれぬか。\r\n  Once, just once, turn his blade. Do for me what I cannot.\r\n\r\n//　さすれば後は、我が手で始末をつけられように。\r\n  I will handle the rest. I will finish this with my own hand.\r\n\r\n//　虚しい祈り。\r\n//　応えるものなどいよう筈もない。\r\n  His prayers are in vain, he knows. There is no one to answer them.\r\n\r\n//　……否、\r\n//　かつてはいた。\r\n  ...Things were not always so.\r\n\r\n//　力なきやからの、民草の叫びに応え、絶大な力を刃\r\n//に乗せて揮う者がいた。\r\n//　いると――信じられていた。真実は違ったとしても。\r\n//そう世に信じさせるだけの事実があった。\r\n  Once, there were those who used their might to protect the weak and powerless―or that, at least, was what men believed, for there were still examples enough to admire.\r\n\r\n//　今は、無い。\r\n//　人々は既に信仰を失った。\r\n//　その名を叫ぶに、込める想いは希望に<RUBY text='あら'>非</RUBY>ず、呪詛。\r\n  But not anymore. The people have lost their faith. Now, when men speak of musha, it is only with loathing, never hope.\r\n\r\n//　老人の願いは誰にも届かぬ。\r\n//　届いたところで、誰も聞かぬ。\r\n  The old man's prayers do not reach. And if they did, they would go unanswered.\r\n\r\n//　誰も――\r\n  There are―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17700,
+  "en": "\r\n//　いない――\r\n  ―no―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17744,
+  "en": "\r\n//　赤い<RUBY text='いろ'>彩</RUBY>が踊る。\r\n//　……血の深紅が。\r\n  Something crimson fills his sight, as though to blot out the clear blue sky. A spray of blood, perhaps?<K> ...No.\r\n//　あたかも蒼空を呪うかのように。\r\n\r\n//　重厚な甲鉄。\r\n//　鋭凶な刀刃。\r\n//　目にするだけで心臓が騒ぐほどの、力満つ気配。\r\n\r\n\r\n  It is massive armor, gleaming blade, force of presence to rouse men's hearts.\r\n\r\n//　具象化した武。\r\n//　天より降りた神。あるいは地より這い出た鬼。\r\n  It is might in humanoid form, a god descended from the heavens―or perhaps a demon crawled up from the pits of hell.\r\n\r\n//　其は、何か。\r\n//　何物か。\r\n  What is it, this thing standing before him?\r\n\r\n//　それは\r\n//　在るべくもなく\r\n//　見誤るべくもなく。\r\n  It cannot be, but there it is. Impossible. Unmistakable.\r\n\r\n//　然して今、其処に在るもの。\r\n\r\n//　其は。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18739,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0010410b06'>\r\n//「じっちゃ……。\r\n//　あれ、なぁに？」\r\n\"Grandpa? What's that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18915,
+  "en": "\r\n//　傍らの孫娘の問いに、老人は答えを持っていた。\r\n//　あれが何であるか、知っていた。\r\n  He knows the answer to his granddaughter's question. He knows what it is that has come like a miracle.\r\n\r\n//　彼の脳漿が、否、\r\n//　血潮が知っている。\r\n//　鍛冶種族の血が赤い孤影の意味を教える。\r\n  He knows it in his heart―<br>no, in his blood. The blood of smiths is speaking to him, telling him the nature of the crimson giant.\r\n\r\n//　あれは。\r\n  It is―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19457,
+  "en": "\r\n//　――真性の劔冑。\r\n//　そして、真実の武者。\r\n  A true tsurugi.<K>\r\n  A true... musha.\r\n",
+  "pt": ""
+ }
+]

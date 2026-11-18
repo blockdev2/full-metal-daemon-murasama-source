@@ -1,0 +1,67 @@
+[
+ {
+  "offset": 220,
+  "en": "\r\n//　あなたは湊斗光を殺さなくてはならない。\r\n  You must kill Minato Hikaru.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 326,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0080a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 452,
+  "en": "\r\n//　しかし殺せなかった。\r\n  However, you could not bring yourself to do so.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 550,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0090a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 676,
+  "en": "\r\n//　仕方ない。\r\n//　協力者を求めよう。\r\n\r\n//　あなた一人では目的を果たせなくても、誰かに力を\r\n//貸してもらえばできるかもしれない。\r\n//　手伝ってくれる人を探そう。\r\n  You need help. Perhaps you can find someone willing to assist you.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 991,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0100a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1117,
+  "en": "\r\n//　何処へ行く？\r\n  Where will you begin your search?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1189,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 1201,
+  "en": "The Grand Manor",
+  "pt": ""
+ },
+ {
+  "offset": 1224,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 1236,
+  "en": "The Isolated Home",
+  "pt": ""
+ },
+ {
+  "offset": 1261,
+  "en": "10_3",
+  "pt": ""
+ },
+ {
+  "offset": 1273,
+  "en": "The Hilltop",
+  "pt": ""
+ }
+]

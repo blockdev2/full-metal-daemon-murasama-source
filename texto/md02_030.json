@@ -1,0 +1,22 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//\tSetFwC('cg/fw/fw光_通常b.png');\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0300010a14'>\r\n//「ここで割り込み！」\r\n\"Here I go!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 383,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0300020a07'>\r\n//「割り込み？」\r\n\"Here you go!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 526,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0300030a14'>\r\n//「選択肢挿入！」\r\n\"INSERT CHOICE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 655,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0300040a07'>\r\n//「選択肢ッ!?」\r\n\"Choice!?\"\r\n",
+  "pt": ""
+ }
+]

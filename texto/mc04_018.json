@@ -1,0 +1,422 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　階段は思いのほか長かった。\r\n\r\n//　しかし傾斜は緩く、時として平面の通路にもなった。\r\n//　歩いた時間の長さの割りに、さほど深くは下りてい\r\n//ない筈だ。\r\n\r\n//　地上の邸宅の範囲から外れたかといえばそんな事も\r\n//なく、単に<RUBY text='・・・・'>ぐるぐる</RUBY>回されているだけだと村正は云う。\r\n//　……設計意図が良くわからない。\r\n\r\n//　とまれ数分もして、俺はようやく部屋らしき場所へ\r\n//到着した。\r\n  There are more stairs than I expected, but the incline is shallow, and from time to time flattens out completely. We're not very deep underground at all.\r\n\r\n  At the same time, Muramasa informs me that we haven't gone far from the manor above. It seems that we are descending in a long, drawn-out spiral. I haven't a clue why they built it this way.\r\n\r\n  After a few minutes, we come to an open space.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1189,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180010a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1313,
+  "en": "\r\n//　室内には光源がなかった。\r\n//　電灯くらい用意されていそうなものだが、この暗さ\r\n//ではスイッチの所在を調べるのも難事だろう。\r\n\r\n//　とりあえず、俺は見渡してみた。\r\n  There is no light. I assume there must be a switch somewhere, but I'll never find it in this darkness.\r\n\r\n  I look around, trying to see what I can.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1715,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180020a01'>\r\n//《……御堂》\r\n《Mido...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1850,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180030a00'>\r\n//「……ああ……」\r\n\"I know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1981,
+  "en": "\r\n//　<RUBY text='・・'>いる</RUBY>。\r\n\r\n//　闇の中、何が見て取れたというのでもない。\r\n//　だがわかる。知る――皮膚の感覚で単純なる事実を\r\n//理解する。\r\n\r\n//　銀星号はここにいる。\r\n  I can feel it, a truth against my skin.\r\n\r\n  Ginseigo is㉓<I>here.</I>\r\n\r\n//　……短慮な行動は慎まねばならない。\r\n//　銀星号がこの付近に在るのなら、つまりここは猛虎\r\n//の<RUBY text='・・・'>狩り場</RUBY>だ。\r\n\r\n//　いつ何時、研ぎ澄まされた爪が襲ってきても不思議\r\n//ではなかった。\r\n//　心を鎮めて、室内へ一歩踏み込む。\r\n\r\n//　用心の上に用心を重ねて、探索しなくては……\r\n  I must be very careful. I am in the tiger's lair. At any moment, her razor claws could tear into my flesh.\r\n\r\n  I still my heart and take a step... pause... and then another...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2910,
+  "en": "\r\n//◆顔グラなし\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180040a07'>\r\n//「平気だよ。\r\n//　そんな心配しなくても」\r\n\"Relax. No one's gonna bite ya.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3129,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180050a00'>\r\n//「！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3239,
+  "en": "\r\n//　やおら、部屋の奥から声が投げられると同時。\r\n//　白光が炸裂した。\r\n  Light floods the room, blinding me for an instant.\r\n\r\n//　……ただの明かりだ。光量も大したことはない。\r\n//　だが闇に慣れた眼は急激な変化に対応しかね、暫時\r\n//視力を失った。\r\n\r\n//　徐々に回復する。\r\n//　地下室の様子が――明らかになる。\r\n  But as the brightness fades... I see what I've found. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3726,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180060a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3850,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180070a01'>\r\n//《――――》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3984,
+  "en": "\r\n//　何だ？\r\n//　これは。\r\n  What―\r\n\r\n  What is that?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4059,
+  "en": "\r\n//　\r\n//　　　　　　　　　　<RUBY text='ネジ'>捩</RUBY>れている。\r\n \r\n \r\n \r\n \r\n \r\n<center>A shape, twisted.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4197,
+  "en": "\r\n//　こんなものは知らない。\r\n//　こんなものは在り得ない。\r\n  I don't know.\r\n\r\n  I don't know!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4326,
+  "en": "\r\n//　\r\n//　　　　　　　　　　<RUBY text='クル'>狂</RUBY>っている。\r\n \r\n \r\n \r\n \r\n \r\n<center>Utterly mad.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4459,
+  "en": "\r\n//　こんなものは<RUBY text='このよ'>現実界</RUBY>に存在しない。\r\n  This thing cannot be.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4579,
+  "en": "\r\n//　\r\n//　　　　　　　　　　奇怪、\r\n//　　　　　　　　　　　　　奇怪。\r\n \r\n      Hideous.\r\n \r\n  \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n                              Sublime.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4778,
+  "en": "\r\n//　存在してはならない。\r\n  This thing㉓<I>must</I>㉑not be.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4863,
+  "en": "\r\n//　\r\n//　　　　　　　　　　奇塊、\r\n//　　　　　　　　　　　　　奇械。\r\n \r\n                         Impossible.\r\n \r\n \r\n \r\n \r\n \r\n \r\n   <I>There!</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5052,
+  "en": "\r\n//　何なのか。\r\n//　これは――――何なのか。\r\n  And still, I have to know.\r\n\r\n  <I>What is it?</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5181,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180080a07'>\r\n//「……ま、<RUBY text='アバン・ガード'>前衛芸術</RUBY>ってとこ？\r\n//　アホみたいな<RUBY text='コスト'>手間隙</RUBY>かけて何の意味もねぇ\r\n//ものつくっちまったって思えば、ほんとそう\r\n//だしねー」\r\n\"Modern art, I guess you could say. Stupid expensive... and pointless.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5620,
+  "en": "\r\n//　<RUBY text='・・'>ソレ</RUBY>をぐるりと回り込み、少女が一人、姿を見せる。\r\n//　どうしてか、気安い様子であった。\r\n\r\n//　何処かで会っていただろうか。\r\n  A girl steps from behind the thing. Her manner is familiar. Have we met?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5918,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180090a07'>\r\n//「バベルの塔だ！」\r\n\"Behold, one and all! The Tower of Babel!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6094,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180100a07'>\r\n//「神を目指した夢の、成れの果てだ！」\r\n\"The fate of a dream to challenge the gods!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6299,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180110a07'>\r\n//「ここにはもう何もない。\r\n//　終わっちまったんだから、何もない」\r\n\"There's nothing here now. Not anymore.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180120a07'>\r\n//「神は来たらず。\r\n//　世はなべて事もなし」\r\n\"God is nowhere, and all is right with the world.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6750,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180130a07'>\r\n//「……何が足りなかったのかなー。\r\n//　勇気かな。友情かな」\r\n\"What was missing, I wonder... Courage? Friendship?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6994,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180140a07'>\r\n//「やっぱ愛かな。\r\n//　考えてみればこの世界のあらゆる問題って\r\n//愛があるとわりかし適当に解決するよねー」\r\n\"Love? Yeah. When you get right down to it, most things work out if you've got enough love.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180150a07'>\r\n//「お兄さん。\r\n//　やっぱあんたをほっとくんじゃなかった」\r\n\"...I knew I shouldn't have let you roam free, big bro.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7582,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180160a07'>\r\n//「捕まえとかなきゃいけなかった。\r\n//　……なんでそうしなかったかなぁ。そうし\r\n//とけば楽しく過ごせもしたのになぁ」\r\n\"Why? Why didn't I make you mine? We would've had so much fun together.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7928,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180170a07'>\r\n//「ねー？」\r\n\"Wouldn't we?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8064,
+  "en": "\r\n///　あははと、少女が両手を広げて笑う。\r\n//　その声は室内ではなく、彼女の体内の空洞に反響し\r\n//ているように、俺には聴こえた。\r\n\r\n//　骨も腑も心臓もない、空洞の少女。\r\n  She throws back her head and laughs. Her laughter echoes in the cavernous space, though to my ears, the echoes seem to come from inside her heart.\r\n\r\n  The girl is empty, a shell stripped to nothing.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8518,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180180a07'>\r\n//「……あての愚痴だけ聞かせてちゃ悪いか。\r\n//　さ。本命の方へどうぞ」\r\n\"Sorry. You didn't come here to listen to me bitch and moan. ...Go on, then. She's waiting for you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8825,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180190a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8944,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180200a07'>\r\n//「愛を語るなりお別れするなり。\r\n//　お好きに」\r\n\"Make your confessions. Say your farewells. Do what feels right to you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9190,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180210a00'>\r\n//「…………？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9315,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180220a07'>\r\n//「あ。\r\n//　まだ気付いてなかったかな」\r\n\"Oh. You still haven't realized.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9510,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180230a07'>\r\n//「それとも全力で現実から戦略的撤退？」\r\n\"Or are you trying to convince yourself this is all a bad trip?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9738,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180240a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9856,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180250a07'>\r\n//「お兄さん。\r\n//　だめだよ、ちゃんと見て」\r\n\"<I>Look,</I>㉗big brother. Give her that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10068,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180260a07'>\r\n//「最後なんだから……」\r\n\"This is your last chance.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10235,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180270a01'>\r\n//《御堂》\r\n《Mido...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10364,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180280a07'>\r\n//「これは、\r\n//　<RUBY text='・・・・・'>このひとは</RUBY>」\r\n\"<I>Look.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10561,
+  "en": "\r\n//　\r\n//　　　　　　　　　　見つめて\r\n//　　　　　　　　　　　いる。\r\n \r\n \r\n \r\n \r\n \r\n<center>An eye―opens.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10710,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180290a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10834,
+  "en": "\r\n//　\r\n//　　　　　　　　　知っている。\r\n//　　　　　　　　　知っている、瞳。\r\n \r\n \r\n \r\n \r\n \r\n<center>I know that look.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10997,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180300a00'>\r\n//「――――あ」\r\n\"Ah―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11123,
+  "en": "\r\n//　\r\n//　　　　　　　　　<RUBY text='わら'>微笑</RUBY>っている。\r\n//　　　　　　　　　うれしそうだ。\r\n \r\n \r\n \r\n \r\n \r\n<center>I know that smile.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11314,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180310a00'>\r\n//「――――あ、あ」\r\n\"Ah―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11446,
+  "en": "\r\n//　\r\n//　　　　　　　　俺に会えたことが\r\n//　　　　　　　　うれしいのだろう。\r\n \r\n \r\n \r\n \r\n \r\n<center>She looks so happy to see me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11624,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180320a00'>\r\n//「――――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11766,
+  "en": "\r\n//　\r\n//　　　　　　<RUBY text='わら'>微笑</RUBY>っている。\r\n//　　　　　　微笑って、俺の名を、そっと。\r\n \r\n \r\n \r\n \r\n \r\n<center>Softly, tenderly, she speaks my name.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11979,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180330a00'>\r\n//「――――――――――――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12145,
+  "en": "\r\n//　\r\n//　　　　　　　　　　　か<k>げ<k>\r\n//　　　　　　　　　　　あ<k>き\r\n \r\n \r\n \r\n \r\n \r\n                    ㉑Ka<K>ge<K>a<K>ki \r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12316,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180340a00'>\r\n//「あああああああああああああああああああ\r\n//ああああぃぃぃぃイイイイイイイイイッッ!?」\r\n\"AHHHHHHHHHHHHHHH<br>HHHHHHHHHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12579,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180350a01'>\r\n//《……かっ》\r\n《Mo―》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180360a01'>\r\n//《かかさま》\r\n《Mother...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180370a01'>\r\n//《母様》\r\n《Mother!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12962,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180380a00'>\r\n//「あ……うううああああえあああああああ」\r\n\"Ah... AHHHHHHHHHHHH!\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180390a00'>\r\n//「ヒッ、カ――カカ、カ」\r\n\"Hi- Hika- ka- ka-\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180400a00'>\r\n//「ひかる」\r\n\"Hikaru!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13401,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180410a00'>\r\n//「光！」\r\n\"HIKARU!\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180420a00'>\r\n//「光――光！　光!!」\r\n\"Hikaru! Hikaru! HIKARU!!!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13666,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180430a07'>\r\n//「……届かなかったんだ」\r\n\"...It wasn't enough.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13831,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180440a07'>\r\n//「あの力――地上最大の破壊力を食い尽くす\r\n//には、完全な〝飢餓虚空〟が必要だった。\r\n//　けどそこまで届かなかった」\r\n\"The Forged Bomb was too powerful. Only a perfect Void could have swallowed that energy.\r\n  But she didn't have it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14221,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180450a07'>\r\n//「なんか足りなかったんだ。\r\n//　やっぱ愛かな。愛なんだろーなぁ。うん」\r\n\"Something was missing. My guess is love.\r\n  Love. What else could it <br>be?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14509,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180460a00'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14645,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180470a07'>\r\n//「さってっと。\r\n//　じゃ、おしまいにしようか」\r\n\"Right. Time to wrap this up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14849,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180480a07'>\r\n//「お兄さんは早いとこ逃げて。\r\n//　なんとなくで言うけど、まだこの世にやり\r\n//残したことがあるんでない？」\r\n\"You should get going, brother. Something tells me you've still got unfinished business.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15197,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180490a00'>\r\n//「――――――」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15322,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180500a07'>\r\n//「ここにいると巻き添え食うからさ。\r\n//　おい、村正」\r\n\"You'll die if you stay here. Hey, Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15550,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180510a01'>\r\n//《……えっ？》\r\n《Wh- What?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15690,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180520a07'>\r\n//「しっかりしとけよ。\r\n//　文字どーりの<RUBY text='はがね'>鋼鉄</RUBY>の心で、仕手が平静じゃ\r\n//ない時に支えてやるのも劒冑の仕事だろ？」\r\n\"Come on. You're supposed to be helping your master. What's a heart of steel for, if not for moments like these?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16098,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180530a07'>\r\n//「外へ引っ張っていってやれ」\r\n\"Get him as far from this place as you can.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16291,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180540a01'>\r\n//《…………。\r\n//　あ、貴方はどうするの？》\r\n《Wh- What about you?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16481,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180550a07'>\r\n//「ほっとけよ、かびくせぇ骨董品が。\r\n//　こっちの始末はこっちでつける」\r\n\"Mind your own damn business, you moldy antique. I can take care of myself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16767,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180560a01'>\r\n//《――――》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16901,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180570a01'>\r\n//《貴方》\r\n《Are you―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17033,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180580a07'>\r\n//「やかましい。\r\n//　とっとと行け」\r\n\"Gods, you're slow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17209,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180590a07'>\r\n//「正国！」\r\n\"Masakuni!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17342,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180600a07'>\r\n//「おめーも主人のいなくなった世の中に興味\r\n//無さそうだよな。\r\n//　一緒に行くか？」\r\n\"Bet this world looks awfully gray without that master of yours. How 'bout it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17647,
+  "en": "\r\n//【正国】\r\n<voice name='正国' class='その他男声' src='voice/mc04/0180610b39'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17784,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180620a07'>\r\n//「その力……\r\n//　八大地獄の炎が、最後に欲しい」\r\n\"Lend me your power. I could really use some hellfire right now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18026,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180630a07'>\r\n//「世界の全てとはいかなかったけど。\r\n//　だったらせめて、<RUBY text='あて'>自分</RUBY>くらいは、灰も塵も\r\n//残さず消し去りたいから」\r\n\"I couldn't burn the world to ash... but at least I want to make sure that nothing of <I>me</I>㉓remains.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18422,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc04/0180640a07'>\r\n//「やっちまえ、同田貫!!」\r\n\"Give us a sendoff, Dotanuki!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18594,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180650a01'>\r\n//《……陰義!?》\r\n《Shinogi!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18733,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180660a01'>\r\n//《いけない――御堂！》\r\n《Mido, we have to go!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18896,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180670a00'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19032,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180680a01'>\r\n//《正気でいられないのはわかる。\r\n//　忘れろなんて無茶は言わない》\r\n《I know you're in shock. I won't tell you to forget what you saw.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180690a01'>\r\n//《でも、今は動いて！\r\n//　苦しむのも狂うのもあと！》\r\n《But you can lose your mind later! First you have to survive!》 \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19539,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0180700a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19663,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0180710a01'>\r\n//《逃げるのよ！》\r\n《That means move it, mister!》\r\n",
+  "pt": ""
+ }
+]

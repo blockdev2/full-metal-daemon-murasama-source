@@ -1,0 +1,92 @@
+[
+ {
+  "offset": 227,
+  "en": "\r\n//　殺す。\r\n\r\n//　そう。\r\n//　あなたは湊斗光を殺さなくてはいけない。\r\n\r\n//　世界を守るために。\r\n  Yes. You must kill her, or the world will die.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 421,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004by0010a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 547,
+  "en": "\r\n//　目的は完全に判明した。\r\n//　後は実行するだけだ。\r\n\r\n//　殺そう。\r\n//　首を絞めてもいいし、胸を叩き割ってもいいし、腹\r\n//を踏み潰してもいいし、水に沈めてもいいし、ガスを\r\n//吸わせてもいいし火を着けてもいい。\r\n\r\n//　相手は無力な病人。\r\n//　どんなやり方でも容易に殺害できる。\r\n\r\n//　さあ、どうぞ。\r\n  You know your purpose. Now carry it out. She is helpless to resist, whatever you do.\r\n\r\n  Wring her neck, if you like, or cave her chest in. Or perhaps you'd prefer to stomp her guts out, or drown her in the bathtub, or douse her in kerosene and light a match.\r\n\r\n  The choice is yours.\r\n  Choose.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1289,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004by0020a00'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1427,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004by0030a00'>\r\n//「ああああああああああっ!!」\r\n\"AHHHHHHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1585,
+  "en": "\r\n//　……あなたは逃走した。\r\n  You flee the room.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1657,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 1669,
+  "en": "Stab her",
+  "pt": ""
+ },
+ {
+  "offset": 1685,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 1697,
+  "en": "Strangle her",
+  "pt": ""
+ },
+ {
+  "offset": 1717,
+  "en": "10_3",
+  "pt": ""
+ },
+ {
+  "offset": 1729,
+  "en": "Beat her",
+  "pt": ""
+ },
+ {
+  "offset": 1745,
+  "en": "10_4",
+  "pt": ""
+ },
+ {
+  "offset": 1757,
+  "en": "Slice her",
+  "pt": ""
+ },
+ {
+  "offset": 1774,
+  "en": "10_5",
+  "pt": ""
+ },
+ {
+  "offset": 1786,
+  "en": "Poison her",
+  "pt": ""
+ },
+ {
+  "offset": 1804,
+  "en": "10_6",
+  "pt": ""
+ },
+ {
+  "offset": 1816,
+  "en": "Crush her",
+  "pt": ""
+ }
+]

@@ -1,0 +1,237 @@
+[
+ {
+  "offset": 214,
+  "en": "\r\n//　一条はこの辺りで調査を行っている筈だが……\r\n  Ichijo should be around here somewhere...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 339,
+  "en": "\r\n//◆ボイス無し\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0010a02'>\r\n//「――――！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 484,
+  "en": "\r\n//【ｅｔｃ／整備員】\r\n<voice name='ｅｔｃ／整備員' class='その他男声' src='voice/ma03/011b0020e140'>\r\n//「――――！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 647,
+  "en": "\r\n//　……気のせいだろうか。\r\n//　耳に遠く響く喧騒が、何か良からぬ事態を示唆して\r\n//いるように思えてならない。\r\n\r\n//　俺は小走りに駆けて、声のする方角へ向かった。\r\n  Is that shouting I hear farther down the corridor?\r\n\r\n  I pick up the pace.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 970,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0030a02'>\r\n//「謝れっつってんだろ！」\r\n\"I said apologize!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1124,
+  "en": "\r\n//【ｅｔｃ／整備員】\r\n<voice name='ｅｔｃ／整備員' class='その他男声' src='voice/ma03/011b0040e140'>\r\n//「ふざけんな！」\r\n\"Fuck off!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1298,
+  "en": "\r\n//　果たして、一条はいた。\r\n//　どこかのチームのガレージの前。整備士らしき大男\r\n//と対峙し、険悪な形相を交換し合っている。\r\n\r\n//　そして一条の背後には、尻餅をついた男の子。\r\n  I turn the corner to find Ichijo in front of a garage, squaring off against a burly mechanic. Behind her, on the floor, is a little boy. His eyes are wet with tears.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1729,
+  "en": "\r\n//【ｅｔｃ／整備員】\r\n<voice name='ｅｔｃ／整備員' class='その他男声' src='voice/ma03/011b0050e140'>\r\n//「ここは関係者以外立ち入り禁止だ！　そこ\r\n//にそう書いてあんだろうがッ！\r\n//　勝手に入り込んできたその餓鬼が悪いんだ\r\n//よ!!」\r\n\"The sign says authorized personnel only! Can't you read!? It's the little shit's own fault for waltzing in univited!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2168,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0060a02'>\r\n//「だからって襟首掴んで放り投げていいって\r\n//決まりがあるかよ！\r\n//　大の大人が子供苛めて喜んでんじゃねぇ!!」\r\n\"Where's it say you've gotta <I>throw</I>㉔him out!? You're just a shithead who gets his kicks beating up kids!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2537,
+  "en": "\r\n//【ｅｔｃ／整備員】\r\n<voice name='ｅｔｃ／整備員' class='その他男声' src='voice/ma03/011b0070e140'>\r\n//「んだとォ――」\r\n\"The fuck!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2712,
+  "en": "\r\n//　……事情の説明を求めるまでもないようだった。\r\n//　状況は極めて明快だ。\r\n\r\n//　俺は足も止めず、そのまま二人の間に割って入った。\r\n  There's no need for further explanation. Without breaking stride, I interpose myself between Ichijo and the man.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3029,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0080a02'>\r\n//「湊斗さん!?」\r\n\"Sir!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3155,
+  "en": "\r\n//【ｅｔｃ／整備員】\r\n<voice name='ｅｔｃ／整備員' class='その他男声' src='voice/ma03/011b0090e140'>\r\n//「なんだてめェ」\r\n\"Who the hell're you!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3341,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0100a00'>\r\n//「申し訳ありません。\r\n//　この者は自分の身内です」\r\n\"Pardon me. I'm this girl's guardian.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3551,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0110a02'>\r\n//「湊斗さんっ、こいつは――」\r\n\"This guy―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3705,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0120a00'>\r\n//「黙れ」\r\n\"Be quiet.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3827,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0130a02'>\r\n//「……っ」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3944,
+  "en": "\r\n//【ｅｔｃ／整備員】\r\n<voice name='ｅｔｃ／整備員' class='その他男声' src='voice/ma03/011b0140e140'>\r\n//「身内ぃ？」\r\n\"Guardian!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4113,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0150a00'>\r\n//「はい。\r\n//　この者の非礼は、自分が――」\r\n\"Yes. If she did something to offend you, I'll be―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4326,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0160a00'>\r\n//「……ッッ」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4446,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0170a02'>\r\n//「――の野郎ォッ!!」\r\n\"Asshole!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4584,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0180a00'>\r\n//「黙れと言った」\r\n\"I said be quiet.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4725,
+  "en": "\r\n//　飛び出しかける一条の腕をつかみ、後ろへ除ける。\r\n  I grab Ichijo's arm and yank her behind me before she can pounce on the man.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4891,
+  "en": "\r\n//【ｅｔｃ／整備員】\r\n<voice name='ｅｔｃ／整備員' class='その他男声' src='voice/ma03/011b0190e140'>\r\n//「こっちゃあ忙しいんだよ！\r\n//　下らねえことで騒ぎやがって！」\r\n\"We're busy here! I don't got time for this bullshit!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5175,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0200a00'>\r\n//「ご迷惑をお掛けしました」\r\n\"I apologize for the trouble.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5343,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0210a02'>\r\n//「……ッ……！」\r\n\"Kuh...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5475,
+  "en": "\r\n//【ｅｔｃ／整備員】\r\n<voice name='ｅｔｃ／整備員' class='その他男声' src='voice/ma03/011b0220e140'>\r\n//「とっとと消えろッ！　ボケが！」\r\n\"Get lost, dumbass!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5682,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0230a00'>\r\n//「はい」\r\n\"Very well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5805,
+  "en": "\r\n//　頭を下げるこちらにぺっ、と唾を吐き捨てて大男が\r\n//ガレージへ戻ってゆく。\r\n//　手巾で頬についた汚れを拭い、俺は向き直った。\r\n  The man returns to his garage, but not before spitting on my bowed head.\r\n\r\n  After wiping my head with my handkerchief, I turn to Ichijo.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6143,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0240a00'>\r\n//「行くぞ」\r\n\"Let's go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6268,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0250a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6393,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0260a00'>\r\n//「大丈夫ですか」\r\n\"Are you all right?\"</voice> I ask the boy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6559,
+  "en": "\r\n//　子供の方に尋ねる。\r\n//　彼は立ち上がると、こちらをきっと睨みつけて言い\r\n//放った。\r\n  He leaps up and fixes me with a baleful glare.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6745,
+  "en": "\r\n//【ｅｔｃ／男の子】\r\n<voice name='ｅｔｃ／男の子' class='その他男声' src='voice/ma03/011b0270e200'>\r\n//「いくじなしっ」\r\n\"Coward!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6917,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0280a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7036,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0290a02'>\r\n//「おい、このガキ――」\r\n\"Hey, kid! Watch what you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7197,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0300a00'>\r\n//「止せ」\r\n\"Forget it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7320,
+  "en": "\r\n//　一条の方を向いてぺこりと頭を下げると、男の子は\r\n//廊下を走り去っていった。\r\n//　シャツの背にプリントされたチームロゴが遠ざかる\r\n//――<k>大男の作業着にあったのと同じロゴだった。\r\n  The child bows to Ichijo, then runs off down the hall. I catch a glimpse of the logo on the back of his shirt.<K>\r\n  It's the same one that was on the mechanic's jumpsuit.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7770,
+  "en": "\r\n//　……騒ぎを起こしてしまった以上、この近辺で調査\r\n//を続けることは望ましくない。\r\n//　俺は子供と正反対の、広場へと続く方角へ向かって\r\n//歩き出した。少し遅れて、一条が追ってくる。\r\n  Now that we've caused a disturbance here, it would be best not to stay in the area. I start walking in the opposite direction, toward the stands. After a brief pause, Ichijo follows.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8231,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0310a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8350,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0320a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8469,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0330a02'>\r\n//「……あの」\r\n\"...Um...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8596,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0340a00'>\r\n//「何だ」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8714,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/011b0350a02'>\r\n//「…………。\r\n//　あたしは、間違ってるんでしょうか」\r\n\"...Was I wrong?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8906,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/011b0360a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9025,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 9048,
+  "en": "10_2",
+  "pt": ""
+ }
+]

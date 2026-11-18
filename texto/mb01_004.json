@@ -1,0 +1,217 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040010a10'>\r\n//「八幡宮が消えたいうんは？」\r\n\"And we're sure about the shrine?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 396,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040020a11'>\r\n//「相変わらず工事用の<RUBY text='カーテン'>帷幕</RUBY>が張り巡らされて\r\n//おり、外からは様子を窺えません。\r\n//　警備体制も依然として厳しいままです」\r\n\"They've erected curtains to conceal the site, but I managed to get a man past their security.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 795,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040030a11'>\r\n//「ですが昨晩、どうにか配下の者を忍び込ま\r\n//せるのに成功しました。\r\n//　……無かったそうです」\r\n\"He reports that Hachiman Shrine... is gone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1075,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040040a10'>\r\n//「無かった……」\r\n\"<I>Gone.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1220,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040050a11'>\r\n//「はい。\r\n//　何も……」\r\n\"Gone, Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1374,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040060a10'>\r\n//「八幡宮が、根こそぎ？」\r\n\"The whole thing?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1535,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040070a11'>\r\n//「は。\r\n//　近隣の土地も含めて」\r\n\"Yes. There's nothing but a crater.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1715,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040080a10'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1842,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040090a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1960,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040100a10'>\r\n//「何やっちゅうねん……」\r\n\"How the hell...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2120,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040110a11'>\r\n//「わかりません。\r\n//　些か、事態が突飛過ぎ……」\r\n\"I don't know, Your Highness. This is all... rather bizarre.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2349,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040120a10'>\r\n//「程があるえ。\r\n//　どんな怪奇現象や」\r\n\"No kidding! What the hell's going on!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2551,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040130a11'>\r\n//「……今は、宮殿下。\r\n//　それよりも今後の事を」\r\n\"Perhaps, Your Highness, we should focus on what comes next.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040140a11'>\r\n//「何はともあれ、大将領は姿を消しました」\r\n\"Regardless of how it happened, the shogun is gone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2982,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040150a10'>\r\n//「うん……」\r\n\"Yeah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3116,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040160a11'>\r\n//「事態の謎は謎として、むろん調査せぬわけ\r\n//には参りませんが……そればかりにかまけて\r\n//いては時勢に乗り遅れます。\r\n//　今は、当初の予定通りに行動を起こさねば」\r\n\"The investigation will continue, but in the meantime, I believe that we must proceed as planned. We have only a short window in which to act.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3591,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040170a10'>\r\n//「……そやな。\r\n//　こっちの思い通りには動いてるんや」\r\n\"...You're right. Things're going our way.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040180a10'>\r\n//「手を打ってかんとあかんな」\r\n\"Better make the most of it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3990,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040190a11'>\r\n//「は」\r\n\"Yes, Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4118,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040200a10'>\r\n//「幕府中枢のガタガタっぷりは予想以上の事\r\n//になってるえぇ。\r\n//　頭が一つから四つに増えた途端、何をする\r\n//にもいちいち揉めるようになったらしうてな」\r\n\"Rokuhara's in even worse shape than we hoped. Soon as one head turned into four, they started snapping at each other over every little thing.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040210a10'>\r\n//「わしの<RUBY text='けんちょうじ'>仮御所</RUBY>行きがこんな遅れたのもその\r\n//せいや。\r\n//　いつまでも城内に置いといたって仕方ない\r\n//のは、あいつらみんなわかってたのにな」\r\n\"That's why it took so long to get me moved, even though they all agreed it made no sense to keep me there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5034,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040220a11'>\r\n//「なるほど……。\r\n//　邦氏殿下は？」\r\n\"I see... And Lord Kuniuji?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5212,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040230a10'>\r\n//「若過ぎるわ。一応、近いうちに大将領位を\r\n//継がはる御方と奉られてはいるけどな。\r\n//　<RUBY text='・・・・'>あの四人</RUBY>をまとめて言うこと聞かせるのは、\r\n//なんぼなんでも、荷が重いわ」\r\n\"Poor kid. He's way too young. He'll get the㉓<I>position</I> of shogun, sure, but with those four? He won't be running squat.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5712,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040240a11'>\r\n//「……。\r\n//　同情したくなります」\r\n\"...I do not envy him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5882,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040250a10'>\r\n//「ほんとにな……」\r\n\"You said it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6030,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040260a11'>\r\n//「四公方の中で、誰かが突出する気配は？」\r\n\"Who of the four appears to have the advantage?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6236,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040270a10'>\r\n//「や、それがねえ。\r\n//　うまい具合に<RUBY text='パワーバランス'>力の均衡</RUBY>が取れてるんよ」\r\n\"No one, actually, if you can believe it.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040280a10'>\r\n//「まず最年長で政戦両面の実績は抜群の古河\r\n//公方、遊佐童心やろ。\r\n//　んで、護氏の息子で邦氏の叔父になる足利\r\n//宗家出身の小弓公方、今川雷蝶がおって」\r\n\"Yusa Doshin's the most experienced by far, but if anyone's got a legit claim, it's Imagawa Raicho. He's Moriuji's son, and Kuniuji's uncle.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040290a10'>\r\n//「堀越公方、足利茶々丸は経済的に。\r\n//　篠川公方、大鳥獅子吼は軍事的に、四人の\r\n//中で最大の力を持ってる……」\r\n\"Meanwhile, Ashikaga Chachamaru's got the money, and Otori Shishiku's got the men.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040300a10'>\r\n//「どや？\r\n//　見事なもんやないか」\r\n\"Perfect balance. Impressive, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7502,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040310a11'>\r\n//「……確かに。\r\n//　これは護氏の遺産でしょうな」\r\n\"...Indeed. I suppose we should thank Moriuji for that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7726,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040320a10'>\r\n//「ああ。まったくうまいことやってたもんや。\r\n//　お陰で今、あいつらは苦労してるえ」\r\n\"Yeah, he really screwed 'em good. And now we're the ones who benefit.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040330a10'>\r\n//「護氏には都合が良かったんやろけどな……\r\n//四公方の力が拮抗してるってのは。\r\n//　今、それで都合が良いのはこっちや」\r\n\"I tell ya, I could kiss the guy. Right on his hairy lip.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8352,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040340a11'>\r\n//「……既に、目算が？」\r\n\"Do you have a plan?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8504,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040350a10'>\r\n//「うん。\r\n//　実はもう、当たりをつけてあってな」\r\n\"Yep. Already got a <br>candidate.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8716,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040360a11'>\r\n//「……お早い」\r\n\"Your Highness is no less impressive.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8873,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040370a10'>\r\n//「ただ、なぁ……。\r\n//　策の幅を広げるには、やっぱ力が欲しいわ」\r\n\"Thanks, Chief. It's just... we could use some fighters of our own, y'know?\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040380a10'>\r\n//「別に軍隊を寄越せとは言わん。\r\n//　いざっていう時にあてにできる武者が一騎、\r\n//おるだけでだいぶ話が変わるんやけど……」\r\n\"I'm not saying hand me an army. Heck, just one would do. One musha we could count on in a pinch would give us a whole lotta flexibility.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9563,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040390a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9687,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040400a10'>\r\n//「景明くん、手伝ってくれんかなぁ」\r\n\"No chance he'll come around?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9875,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040410a11'>\r\n//「……申し訳御座いません。\r\n//　宮殿下、どうかあの者につきましては」\r\n\"I'm sorry, Your Highness.\r\n  Kageaki, he...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10118,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040420a10'>\r\n//「銀星号で、いっぱいいっぱいか」\r\n\"He's got kind of a full plate?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10305,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040430a11'>\r\n//「は……」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10426,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040440a10'>\r\n//「……そやねえ。\r\n//　景明くんには、そっちに集中してもらお」\r\n\"...Yeah, you're right. Best leave him out of this.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040450a10'>\r\n//「誰か、他に……\r\n//　おらんわなぁ」\r\n\"Now, is there anyone else... Anyone...\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040460a10'>\r\n//「無いものねだりはみっともないけど……\r\n//　なんとかならんかな？　署長」\r\n\"I don't mean to beg, Chief... but any chance you're hiding a musha up your sleeve?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11153,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040470a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11271,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040480a10'>\r\n//「ならんわなぁ」\r\n\"Yeah... silly question.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11427,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040490a11'>\r\n//「……一人。\r\n//　心当たりが、なくもなく」\r\n\"There is... one possibility.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11616,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040500a10'>\r\n//「え？\r\n//　……ほんとに？」\r\n\"...You're kidding. Why didn't you say something!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11814,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040510a11'>\r\n//「は。\r\n//　護氏暗殺のような仕事に使えるとも思えぬ\r\n//者なので、あの折は敢えて申し上げませなん\r\n//だが……」\r\n\"I did not believe this particular musha had much potential as an assassin.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040520a11'>\r\n//「今後の件に関してなら、話の持ち掛けよう\r\n//であるいは」\r\n\"Where subterfuge is㉓<I>not</I> required, however... depending on how we approach her, she might be willing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12427,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0040530a10'>\r\n//「だ、誰や誰や？\r\n//　勿体ぶらんと、早う！」\r\n\"It's a girl!? Is she cute!? C'mon, man! Who is it!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12651,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0040540a11'>\r\n//「はっ……」\r\n\"...The night I took my men to Enoshima...\"\r\n",
+  "pt": ""
+ }
+]

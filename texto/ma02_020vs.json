@@ -1,0 +1,432 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　夕暮れ刻。\r\n//　山は未だ平穏の内にあった――望ましからざる。\r\n  Twilight has come, and the mountain is still quiet, much to my dismay.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 394,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0010a00'>\r\n//「……遅い」\r\n\"...He's late.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 527,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0020b55'>\r\n//「うむ」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 656,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0030a00'>\r\n//「斥候の雪車町一蔵を制圧したことが裏目に\r\n//出たのかもしれません」\r\n\"Neutralizing his forward scout may have backfired.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 905,
+  "en": "\r\n//　敵陣営は武者三騎。こちらは一騎。\r\n//　である以上各個撃破は必須の戦術だったが、その為\r\n//に敵の行動を萎縮させてしまったのでは、作戦目的が\r\n//達せられない。\r\n  The enemy has three musha; we have one. I thought it necessary to reduce their numbers. But if, in doing so, I put them further on the defensive, then the plan may be doomed to failure.\r\n\r\n//　あるいは月山と同様に雪車町をも不利は覚悟の上で\r\n//見逃し、一対三の戦闘へ敵を誘い出すべきだったのか。\r\n//　戦術的有利に拘泥するあまり、戦略的意味を失った\r\n//のかもしれない……。\r\n  Perhaps I should have let Sorimachi go, as I did Gassan, and accepted the risk of possibly facing three enemies simultaneously. In my zeal to secure a tactical advantage, I may have lost sight of the greater strategy.\r\n\r\n//　<RUBY text='ほぞ'>臍</RUBY>を噛む。\r\n//　今更どうにもならぬことを思い煩う、己の愚昧が<RUBY text='かん'>癇</RUBY>\r\n//に障る。\r\n  ...This is foolish, I berate myself. Nothing will come of worrying over what I cannot change.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2091,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0040b55'>\r\n//「多少、慎重になったのは事実であろうがな。\r\n//　その程度のことで穴熊を決め込んでしまう\r\n//ほど、あの男はまだ枯れておらんよ」\r\n\"While it probably made him a little more cautious, he's not so withered as to hole up in his cave because of something like that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2513,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0050a00'>\r\n//「は……」\r\n\"If you say so...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2646,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0060b55'>\r\n//「あやつは坑道を諦められん。\r\n//　故に、来る。これは間違いない」\r\n\"He can't give up the mine. Therefore, he will come. Of that I have no doubt.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2927,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0070a00'>\r\n//「……はい。\r\n//　しかし、問題は時間です」\r\n\"...Yes, but the question is when.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3123,
+  "en": "\r\n//　事態の推移が最悪を極めた場合。\r\n//　この夜にも、大鳥香奈枝の措置を無効化する後任の\r\n//派遣官がＧＨＱから到着しかねないのだ。\r\n  In the worst-case scenario, Lieutenant Otori's replacement could arrive this very night to undo all her work.\r\n\r\n//　そうなった場合でも代官を討たねばならぬ俺の都合\r\n//に変わりはないが、村にとっては事情が激変する。\r\n//　正体不明の流れ者の犯行とみられるならば、いい。\r\n//　だが、そうなるとは限らない。\r\n  Even if that happens, I will still have no choice but to slay the prefect. For the village, however, the meaning of that act will change dramatically.\r\n\r\n  I was seen entering the mayor's house, and am known to have stayed with the Emishi on the mountain. Rokuhara may well look at these truths and judge the entire village responsible for the death of their officer. That would be catastrophic.\r\n\r\n//　俺が村長の家に出入りしていた事実や、山の蝦夷家\r\n//に厄介になっていたことなどが不利に働き、村全体で\r\n//代官を弑したのだと六波羅に断じられる可能性もある。\r\n//　……迷惑で済む話ではない。\r\n\r\n\r\n\r\n//　ＧＨＱの巡察官に従っただけ、という弁解が立つ内\r\n//に事を終わらせなくてはならないのだ。俺の私事で村\r\n//が破局に陥るような結果を避けるためには。\r\n//　その時間は残り少ない……。\r\n  In order to avoid destroying the entire village for the sake of my personal quest, I must finish this while they can still claim that they were following GHQ orders.\r\n\r\n  Time is running out.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4852,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0080a00'>\r\n//「もう少し派手に誘いをかけましょう。\r\n//　この際です。本当に坑道を潰しかねない程\r\n//の爆破を」\r\n\"Let's make a bigger explosion to draw him out, one that could actually collapse the whole tunnel system.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5195,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0090b55'>\r\n//「うむ…………\r\n//　いや」\r\n\"Hrmm... No, wait.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5360,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0100a00'>\r\n//「御老？」\r\n\"Elder?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5483,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0110b55'>\r\n//「どうやらその儀は無用の様子。\r\n//　奴め、ようやく堪忍袋の緒を切ったわ」\r\n\"It seems that won't be necessary. That old fool's patience has finally run out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5779,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0120a00'>\r\n//「！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5891,
+  "en": "\r\n//　茜の空を轟音が貫く。\r\n  A thunderous roar peels across the amber sky, and from the horizon comes a steel warrior trailing a plume of smoke.\r\n\r\n//　噴煙を引いて躍る軌跡。\r\n//　それはあたかも幼児の一筆書き。\r\n\r\n//　乱雑に、\r\n//　戯れるように、\r\n//　嘲笑うように、\r\n//　誘うように、\r\n  It dances among the clouds, playful, mocking, taunting, its jittering motions like the scrawl of a child's brush.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6370,
+  "en": "\r\n//　<RUBY text='かけ'>騎航す</RUBY>る武者――\r\n//　ただ一騎。\r\n  A musha has come... but only one.\r\n\r\n//　地上では事前の指示通り、作業にあたっていた村人\r\n//らが一目散に逃げ散ってゆく。\r\n//　一度だけそちらに視線を送ってから、俺は再び空を\r\n//見上げた。目を<RUBY text='すが'>眇</RUBY>め、天を舞う姿形を見極める。\r\n  As instructed, the villagers working at the mine drop everything and scatter. After a glance to make sure they've all fled, I look again at the airborne tsurugi, straining my eyes to make out its form.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6999,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0130a00'>\r\n//「あれは……月山。\r\n//　風魔小太郎！」\r\n\"That's... Gassan. Fuma Kotaro!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7186,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0140b55'>\r\n//「ほう。あれが……\r\n//　なるほど、の。なかなかに曲者と見ゆるわ。\r\n//あの甲鉄……」\r\n\"Oh? So that's his tsurugi. I see. It looks every bit as wily as its master.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7491,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0150a00'>\r\n//「まさに。\r\n//　しかし……」\r\n\"Quite. However...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7650,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0160b55'>\r\n//「む？」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7777,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0170a00'>\r\n//「代官が」\r\n\"The prefect...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7908,
+  "en": "\r\n//　いない。\r\n//　空にあるは月山、ただ一騎のみ。\r\n  I don't see him. Gassan is alone in the sky.\r\n\r\n//　代官の劔冑は<RUBY text='つばさ'>母衣</RUBY>がまだ回復していない、という事\r\n//もあろうが。\r\n//　――おそらくこれは陽動。\r\n  Though the prefect's damaged wings are likely also a factor, this is obviously a diversion.\r\n\r\n//　月山で俺を誘い出し、その隙に代官が坑道を<RUBY text='つ'>衝</RUBY>く。\r\n//　これではうかつに動けない……！\r\n  If I go after Gassan, the prefect will attack the mine in my absence!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8532,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0180b55'>\r\n//「構わぬ。\r\n//　ゆけ、御堂」\r\n\"No matter. Go, Mido.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8703,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0190a00'>\r\n//「いや、弥源太老、これは――」\r\n\"But that would leave you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8877,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0200b55'>\r\n//「なれの留守を代官が襲う。わかっておる。\r\n//　そちらはうてが引き受けた」\r\n\"Open to the prefect's attack, yes. I will be his opponent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9152,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0210a00'>\r\n//「無謀です。\r\n//　武者に常人が挑むなど」\r\n\"An unarmored man against a musha? It's madness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9359,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0220b55'>\r\n//「無謀は無謀だがな。何とかなろうさ。\r\n//　向こうは翼を失った武者、こちらはこちら\r\n//で少々の手妻がある。そう悪い勝負でもない」\r\n\"So it is, but I imagine it'll work out all the same. He has lost his wings, and I still have a few tricks up my sleeve. Not bad odds, if you ask me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9803,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0230a00'>\r\n//「……御老人。\r\n//　死ぬおつもりか？」\r\n\"Elder... do you mean to <br>die?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9992,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0240b55'>\r\n//「いや、いや。孫どもも幼い。まだ死ねぬよ。\r\n//　案ずるな、御堂……うては守るべきものの\r\n//ために戦う。そして、そういう者は死んでは\r\n//ならんことを知っている」\r\n\"Not at all. My granddaughters are still young. I can't die yet.\r\n  Fear not, Mido. A man with something to protect knows better than to throw his life away.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10490,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0250b55'>\r\n//「死んで守れるものなどないからな。\r\n//　……ふっふ。ここは冗談だ。笑ってくれて\r\n//良いぞ」\r\n\"You can't protect anything after you're dead. ...Heh, that was a joke. You can laugh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10817,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0260a00'>\r\n//「は……」\r\n\"No...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10939,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0270b55'>\r\n//「ゆかれよ。\r\n//　出陣の<RUBY text='はなむけ'>餞</RUBY>に一言贈るなら、御堂……なれの\r\n//劔冑は紛れもなく天下至強」\r\n\"<I>There</I>㉓is your opponent. But before you go, let me give you a final word of advice. ...Mido, your tsurugi is unsurpassed by any under heaven.\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0280b55'>\r\n//「<RUBY text='・・・・・・・・・・・'>良きにしろ悪しきにしろ</RUBY>、その力は絶境、\r\n//何者にも劣るを知らぬ。\r\n//　されば御堂、なれはその至強を<RUBY text='ひとえ'>偏</RUBY>に信じよ。\r\n//それだけで良い。それだけで打ち勝てる」\r\n\"Be it a blessing or a curse, its power is supreme. Therefore, you need only trust in its strength with all your heart. Do so, and you will never know defeat.\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0290b55'>\r\n//「なれ<RUBY text='ら'>等</RUBY>の前に立ち塞がるもの――\r\n//　遍く全てに」\r\n\"All who dare to stand before you will scatter like dust in the wind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12194,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0300a00'>\r\n//「……はっ。\r\n//　承りました」\r\n\"...I will take your words to heart.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12374,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0310b55'>\r\n//「御堂。\r\n//　酒はいける口かな」\r\n\"Do you drink, Mido?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12550,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0320a00'>\r\n//「……？\r\n//　それは、一応……人並み程度には」\r\n\"Drink? ...Yes. As much as the next person.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12761,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0330b55'>\r\n//「では今宵は一献酌み交わそう。\r\n//　思えば御堂と出会ってからは忙しないこと\r\n//続きで、そんな暇もなかったが……」\r\n\"Then tonight we drink. With all that's happened, we haven't had a chance to just sit down with a bottle.\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0340b55'>\r\n//「年寄りにとって若い者との酒は何よりの薬。\r\n//　だというにうちの孫は二人とも娘、しかも\r\n//まだ子供とあってはどうにもならぬ。\r\n//　得難い機会よ。御堂、付き合って貰えぬか」\r\n\"Nothing is more gratifying for an old man than to share sake with the young. But my grandchildren are both girls, and not yet of an age to enjoy the taste. This is a rare opportunity, Mido. Will you join me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13699,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0350a00'>\r\n//「御意に！\r\n//　では……今宵」\r\n\"Of course! Then... until tonight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13877,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0360a00'>\r\n//「村正！」\r\n\"Muramasa!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14003,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/020vs0370a01'>\r\n//《――御堂》\r\n《Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14138,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0380a00'>\r\n//「騎体状況を送れ」\r\n\"Status report.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14281,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/020vs0390a01'>\r\n//《諒解！》\r\n《Sending!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14416,
+  "en": "\r\n//　　　甲鉄錬度：<RUBY text='四四／五二'>焔慧地ノ上</RUBY>\r\n \r\n \r\n \r\n \r\n<center>Armor: 44/52\r\n<?>",
+  "pt": ""
+ },
+ {
+  "offset": 14542,
+  "en": "\r\n//　　　騎体能力：<RUBY text='四一／五二'>離垢地ノ上</RUBY>\r\n<center>Power: 41/52\r\n<?>",
+  "pt": ""
+ },
+ {
+  "offset": 14656,
+  "en": "\r\n//　　　騎航推力：<RUBY text='三八／五二'>真如相廻向ノ上</RUBY>\r\n<center>Thrust: 38/52\r\n<?>",
+  "pt": ""
+ },
+ {
+  "offset": 14777,
+  "en": "\r\n//　　　騎航速力：<RUBY text='三四／五二'>至一切処廻向ノ上</RUBY>\r\n<center>Maximum Speed: 34/52\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14905,
+  "en": "\r\n \r\n \r\n<center>Electromagnetic Distortion: Disabled\r\n<center><I>Imperial Edict, Limited Prohibition</I>\r\n \r\n \r\n<?>",
+  "pt": ""
+ },
+ {
+  "offset": 15028,
+  "en": "\r\n<center>Electromagnetic Corruption: Disabled\r\n<center><I>Imperial Edict, Absolute Prohibition</I>\r\n \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15140,
+  "en": "\r\n//　　　<RUBY text='ながれ'>磁気鍍装</RUBY>：使用可能\r\n \r\n \r\n \r\n \r\n \r\n<center>Enchant: Enabled\r\n<?>",
+  "pt": ""
+ },
+ {
+  "offset": 15264,
+  "en": "\r\n//　　　<RUBY text='おわりのながれ'>蒐窮磁装</RUBY>：使用可能\r\n<center>Railgun: Enabled\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15382,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/020vs0400a01'>\r\n//《戦闘に一切の支障なし！》\r\n《Ready for combat!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15550,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/020vs0410a00'>\r\n//「承知！\r\n//　参る！」\r\n\"To battle!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15693,
+  "en": "\r\n//　……しかし、弥源太老。\r\n//　俺は――夜には――\r\n\r\n//　夜には――――！\r\n  Tonight, you said. But elder, tonight... \r\n\r\n  When I visit you tonight...!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15889,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0420b55'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0430b55'>\r\n//「もう良かろうよ。\r\n//　さっさと出て参れ」\r\n\"You can come out now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16209,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0440b55'>\r\n//「それとも……\r\n//　うてにさえも臆したか？」\r\n\"Or do you hide even from me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16412,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0450b45'>\r\n//「抜かせ」\r\n\"Hardly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16536,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0460b45'>\r\n//「あの小癪な若造を避けたのは事実、復仇を\r\n//遂げるまでは何を言われようと構わんが……\r\n//　貴様などに怯えねばならぬ理由が一体どこ\r\n//にある？　余り嗤かしてくれるなよ、弥源太」\r\n\"True, I avoided facing that whelp. I'll do what it takes to claim my victory, honor be damned. But you, Yagenta, present no threat whatsoever. Hide from you? Don't make me laugh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17071,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0470b55'>\r\n//「それは上々。\r\n//　ようやく決着をつけられるというものだ」\r\n\"The very words I wanted to hear. Now we can finally settle our score.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17336,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0480b45'>\r\n//「こちらの台詞を奪うでないわ。\r\n//　今更になって<RUBY text='はら'>肚</RUBY>を決めた戯けが、豪胆ぶる\r\n//のも程々にしておけ。俺まで道化芝居の役者\r\n//になる」\r\n\"Stop stealing my lines, Yagenta. It took you thirty years to find your spine, and now you think you can play the valiant? This is starting to feel more and more like one grand joke.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17835,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0490b55'>\r\n//「道化よ、右京。なれもうてもな。道化以外\r\n//の何だと云う？\r\n//　五十の坂を下りながら、かくも<RUBY text='ろく'>碌</RUBY>でもなき\r\n//理由で斬り結ぼうとする我らが……」\r\n\"That's exactly what it is, Ukyo, and the two of us are the punchline. Look at us, past fifty and about to cross blades for no reason at all. What are we, but painted clowns?\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0500b55'>\r\n//「およそ人並みの知恵があればなされぬ所業\r\n//であろうよ。\r\n//　これは出来の悪い滑稽劇、人の失笑を買う\r\n//種以外の何物でもない」\r\n\"If we had a brain between us, we would not be here now. This is nothing but a poorly written farce, worthy of only disdain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18759,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0510b45'>\r\n//「違うとは言わんがな。我らの生をここまで\r\n//下らぬ芝居に仕立てたのは貴様の<RUBY text='きょうだ'>怯懦</RUBY>よ。\r\n//　三〇年前に殺していれば良かったのだ。\r\n//　三〇年前に殺されていれば良かったのだ！」\r\n\"I don't disagree. But it was <I>your</I>㉑cowardice that reduced our lives to offal.\r\n  I should have killed you thirty years ago. You should have killed me thirty years ago!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19318,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0520b45'>\r\n//「三〇年――――はッ！\r\n//　貴様がくれたこの年月、反吐のような三〇\r\n//年だったわ！　何を得ても何を奪っても心が\r\n//満ちぬ。それが<RUBY text='・・・'>代わり</RUBY>でしかないからだ！」\r\n\"Thirty years... HAH! The time your gutlessness granted me wasn't worth spit! No matter what I earned or took, it was never enough. It could never replace her!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19833,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0530b45'>\r\n//「ただ――閉じた輪の中を回るような。\r\n//　下らぬ、下らぬ時間であった……！」\r\n\"Like a rat on the wheel, running and running. Thirty years lived... and wasted!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20126,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0540b55'>\r\n//「……そうか。\r\n//　やはりなれはそういう男よ、右京」\r\n\"...I see. You'll always be the same man, Ukyo.\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0550b55'>\r\n//「いくら歳月が流れようと変わるわけがない。\r\n//　……なれにとっては、決着がつかぬ限り、\r\n//何事も決して終わらんのだからな」\r\n\"Years become decades, but you never change. To you, closure is everything. Nothing ends in your mind until all debts are paid.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20767,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0560b45'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20893,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0570b55'>\r\n//「そこをうても一媛も見誤った……。\r\n//　時の癒しは誰にも平等と思い込んだ。なれ\r\n//の上にもいずれ、と。\r\n//　……なれの性格は知っていた筈なのにな」\r\n\"Both Ichihime and I failed to understand your nature. We thought that time healed everyone equally, that even you would one day forget. ...We should have known better.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21384,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0580b55'>\r\n//「一言だけ詫びておく。\r\n//　済まなかった。右京」\r\n\"Though I cannot make amends, I will say this. ...I'm sorry, Ukyo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21630,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0590b45'>\r\n//「…………。\r\n//　今更……俺がそんな言葉を欲しがると思う\r\n//のか」\r\n\"...Yagenta. After all this time, you think that's what I want? Your㉓<I>apology?</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21912,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0600b55'>\r\n//「思わぬよ。なれには嘲弄としか聞こえまい。\r\n//だがこれも、けじめというもの。\r\n//　案ずるな。口先の詫びで済ませるつもりは\r\n//ない。遅れた決着をくれてやる」\r\n\"No. I'm sure it falls on your ears as an insult, but so be it. It is my responsibility to acknowledge my mistakes, <I>and</I>㉗correct them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22389,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0610b55'>\r\n//「なれを終わらせてやろうぞ、右京。\r\n//　三〇年分の負債、今ここで清算する」\r\n\"I will grant you an end, Ukyo, like you've always wanted. Thirty years of debt, here to be repaid!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22707,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0620b45'>\r\n//「……はっ。言いおったわ、老廃が。\r\n//　貴様一人で俺を終わらせる？　ほざけ……\r\n//今となっては貴様を殺し、お山の神を殺し、\r\n//一媛を奪わぬ限り何も終わらぬ！」\r\n\"...Ha! Stop your barking, old man.㉓<I>You'll</I>㉗grant me an end? I will slay the mountain god and claim Ichihime. There can be no other end!\"\r\n\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0630b45'>\r\n//「貴様など、その最初の踏み台に過ぎん。\r\n//　叩き潰して打ち棄てる。勝手に土へ還るが\r\n//いい――」\r\n\"You are but the first step on my path. I will crush you and toss you aside.\r\n  Rot with the worms, Yagenta!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23526,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0640b45'>\r\n//「八紘一宇ッ!!」\r\n<center>\"For Asia united!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23675,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0650b55'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23810,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0660b45'>\r\n//「……ふん？　またその棒切れか。\r\n//　何の<RUBY text='まじな'>呪</RUBY>いかは知らぬが、そんなもので俺に\r\n//どう抗うと云う？」\r\n\"...Hmph. That stick again? Some kind of charm, I suppose. How do you expect to fight me with that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24183,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0670b55'>\r\n//「……こうするのよ」\r\n\"...Like this.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24337,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0680b55'>\r\n//「世に鬼あれば鬼を断つ。\r\n//　世に悪あれば悪を断つ」\r\n<center>\"Where there are demons,\r\nI slay them.\r\nWhere there is evil,\r\nI smite it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24604,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0690b55'>\r\n//「ツルギの<RUBY text='ことわり'>理</RUBY>ここに在り」\r\n<center>\"Mine is the Way of the Sword!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24821,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0700b45'>\r\n//「――むっ!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24945,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0710b55'>\r\n//「右京。\r\n//　これが何かわかるか」\r\n\"Do you know what this is?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25130,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0720b45'>\r\n//「……劔冑……か？」\r\n\"A tsurugi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25274,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0730b55'>\r\n//「然り。\r\n//　なれらが坑道を掘り始める時……<RUBY text='・・・'>守り石</RUBY>を\r\n//砕き、中の神宝を奪ったであろう？」\r\n\"Just so. Remember when you opened the mine? You shattered the guardian stone and took what lay within.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25648,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0740b55'>\r\n//「これは、その断片よ」\r\n\"This is a fragment of that treasure.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25828,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0750b45'>\r\n//「……ほう。\r\n//　するとそれは、曲がりなりにも天下一名物\r\n//ということか」\r\n\"...Oh? So it was indeed the First Under Heaven?\"\r\n\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0760b45'>\r\n//「あの劔冑、どうにも扱えぬので、雪車町に\r\n//渡してしまったが……惜しいことをしたな。\r\n//　貴様が使えると知っておればくれてやった\r\n//ものを。いささか面白くなったであろうに」\r\n\"That tsurugi wouldn't answer me no matter how I tried, so I gave it to Sorimachi... but now I regret that decision. If I'd known you could use it, I'd have given it to you. Then you might have put up a fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26638,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0770b55'>\r\n//「驕っておれよ、右京。\r\n//　<RUBY text='かたわ'>片羽</RUBY>の武者如き、この小太刀一つで釣りが\r\n//来る……」\r\n\"Enough posturing. This kodachi is more than enough for a wingless musha like you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26976,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/020vs0780b45'>\r\n//「……随分と安く見積もられたものだ。\r\n//　釣りを貰うのはこちらよ、弥源太！」\r\n\"I think you'll find that your confidence is misplaced. It is you who will die today, Yagenta!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27283,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/020vs0790b55'>\r\n//「すぐに知れる。\r\n//　参れ、右京！」\r\n\"We'll soon see. Have at you, Ukyo!\"\r\n",
+  "pt": ""
+ }
+]

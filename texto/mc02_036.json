@@ -1,0 +1,142 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【ｅｔｃ／幕兵Ａ】\r\n<voice name='ｅｔｃ／幕兵Ａ' class='その他男声' src='voice/mc02/0360010e270'>\r\n//「あ……あぁぁ……」\r\n\"Ah... ahh...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 396,
+  "en": "\r\n//【ｅｔｃ／幕兵Ｂ】\r\n<voice name='ｅｔｃ／幕兵Ｂ' class='その他男声' src='voice/mc02/0360020e271'>\r\n//「な、何なんだよ！\r\n//　何だってんだよぉ、あれは!!」\r\n\"What... is that? What the hell is that!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 651,
+  "en": "\r\n//【ｅｔｃ／幕兵Ｃ】\r\n<voice name='ｅｔｃ／幕兵Ｃ' class='その他男声' src='voice/mc02/0360030e272'>\r\n//「南無阿弥陀仏南無阿弥陀仏」\r\n\"Amida protect us...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 852,
+  "en": "\r\n//【ｅｔｃ／幕兵Ｄ】\r\n<voice name='ｅｔｃ／幕兵Ｄ' class='その他男声' src='voice/mc02/0360040e273'>\r\n//「し……城がねえ……\r\n//　普陀楽城が<RUBY text='ね'>無</RUBY>えぞ……」\r\n\"Fudaraku... It's <I>gone...</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1117,
+  "en": "\r\n//【ｅｔｃ／幕兵Ｅ】\r\n<voice name='ｅｔｃ／幕兵Ｅ' class='その他男声' src='voice/mc02/0360050e274'>\r\n//「かっ――閣下！　大鳥中将ッ！\r\n//　こっこっこれは如何なる………これは如何\r\n//なる……!?」\r\n\"G- General! Sir! What's happening here!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1427,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360060a06'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1572,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360070a06'>\r\n//（永倉の翁がやにわに連絡を寄越してきた時\r\n//は、まさか……と思ったが）\r\n(Nagakura, that old bastard. I didn't believe him at first. But to think...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1858,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360080a06'>\r\n//（……やってくれたな。\r\n//　この大和の大地に――白豚めら!!）\r\n(...Hah! Those miserable swine! Look what they've done to us. To Yamato!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2125,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360090b49'>\r\n//「し……獅子吼！\r\n//　説明をせよ！」\r\n\"S- Shishiku! Explain this at once!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2311,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360100a06'>\r\n//「……邦氏殿下」\r\n\"My lord...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2454,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360110b49'>\r\n//「そなたは余を<RUBY text='さら'>攫</RUBY>い、城より連れ出した。\r\n//　そして――この仕儀！」\r\n\"You barge into my chambers and take me from the castle... Now this!?\"\r\n\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360120b49'>\r\n//「あれもそなたの仕業なのか!?\r\n//　普陀楽を……幕府を滅ぼさんとしてか!!」\r\n\"Was this your doing? Have you betrayed Rokuhara!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2991,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360130a06'>\r\n//「<RUBY text='まこと'>真</RUBY>、そのような疑念をお持ちならば。\r\n//　殿下、今この場にて、我が首を刎ねられよ」\r\n\"If you truly believe that, Your Grace, then strike the head from my shoulders this instant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3342,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360140b49'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3466,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360150b49'>\r\n//「ならば……これは……」\r\n\"Then who...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3613,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360160a06'>\r\n//「進駐軍どもの仕掛けし事にございます」\r\n\"The Westerners, Your <br>Grace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3810,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360170b49'>\r\n//「何だと!?」\r\n\"GHQ!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3932,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360180a06'>\r\n//「<RUBY text='フォージド・ボム'>鍛造雷弾</RUBY>と申す新型兵器の由。\r\n//　奴等はこれにて六波羅を一掃し、この国を\r\n//奪わんと企てたのでありましょう」\r\n\"They used a new weapon. The Forged Bomb, I'm told. A weapon that could destroy us and conquer Yamato in a day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4357,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360190b49'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4481,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360200b49'>\r\n//「で、では……最早。\r\n//　……我らは……」\r\n\"Then... it's too late. We're finished.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4680,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360210a06'>\r\n//「しかし、奴等は仕損じました」\r\n\"They have failed, Your Grace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4863,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360220b49'>\r\n//「なに？」\r\n\"Failed?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4985,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360230a06'>\r\n//「我ら六波羅の主。\r\n//　足利四郎邦氏殿下はここに<RUBY text='おは'>御座</RUBY>します」\r\n\"You, Ashikaga Kuniuji, still live. The shogun is㉓<I>here.</I>\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360240a06'>\r\n//「殿下の将、獅子吼はこれに在ります。\r\n//　六波羅百万騎が最精鋭、奉公衆並びに厩衆\r\n//も付き従っております」\r\n\"Together with his general, his personal guard, and the Umaya-shu. The best of Rokuhara.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5615,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360250a06'>\r\n//「更に我が麾下、篠川軍が健在でございます。\r\n//　――六波羅は滅びておりませぬ！」\r\n\"So long as Sasagawa stands, Rokuhara will not fall!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5893,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360260b49'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6011,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360270a06'>\r\n//「殿下！\r\n//　この獅子吼、必ずや御身を戴き、捲土重来\r\n//致しまする」\r\n\"My lord! I swear that your day will come.\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360280a06'>\r\n//「故に、どうか！\r\n//　一時の恥辱を耐え忍び、我がもとに御身を\r\n//預けられませ！」\r\n\"Thus, I beg you! Accept this shame. Place yourself under my protection!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6547,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc02/0360290b49'>\r\n//「……そなたの領国へ落ちよと申すのだな」\r\n\"...You wish me to seek refuge in your domain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6752,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360300a06'>\r\n//「はッ！」\r\n\"Yes!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6880,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc02/0360310a06'>\r\n//「今は――会津へ！」\r\n\"We make for Aizu!\"\r\n",
+  "pt": ""
+ }
+]

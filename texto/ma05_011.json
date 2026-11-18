@@ -1,0 +1,642 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　――早暁。\r\n//　目を開けた刹那、時刻をそう踏む。\r\n\r\n//　まだ陽も昇らぬこの折に、なぜ目覚めたのか。\r\n//　昨晩、改めて心奥に秘めた誓いが全身の細胞を高揚\r\n//させていたのか。\r\n\r\n//　それとも――虫の知らせというものか。\r\n  I wake the next morning at the crack of dawn. The sky visible through my window is gray, the sun not yet risen above the horizon.\r\n\r\n  What has woken me so early? Was it the energy thrumming through my every cell, the manifestation of my renewed resolve?\r\n\r\n  Or was it a premonition of doom?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 835,
+  "en": "\r\n//　道場の戸を開け、海の色で染まった庭へ下りる。\r\n//　辺りは静寂に包まれていた。\r\n\r\n//　早朝であれば常の事。\r\n//　だが今日のそれは、ただ人々の眠りがもたらすもの\r\n//だけでなく、どこかに不穏な――押し殺したような、\r\n//そんな何かを含んでいる。\r\n  In the dim light, the garden appears submerged at the bottom of a lake. The air is utterly still, nary a soul yet to rise from their slumber.\r\n\r\n  I can feel it. Today's silence is not a peaceful one. There is something ominous to it. Something threatening.\r\n\r\n//　ほんの数歩で、その正体は知れた。\r\n  It doesn't take me long to locate the source.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1562,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110010a00'>\r\n//「お早うございます」\r\n\"Good morning.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1705,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110020b31'>\r\n//「……おはよう」\r\n\"...Morning.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1843,
+  "en": "\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1853,
+  "en": "\r\n//　だが内心の不本意を、舌打ち一つきりで彼女は吐き\r\n//捨てた様子だった。\r\n//　こちらへ注ぐ眼光の下には、既に平静な微笑がある。\r\n  She steps out from behind a tree at the far end of the yard, no longer attempting to hide her presence. At first, she seems displeased at having been discovered, but her frown quickly changes to a casual smile.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2263,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110030b31'>\r\n//「ま、手間が省けたってものね。\r\n//　おまえの寝床を探して回らなくて済んだの\r\n//だし」\r\n\"I suppose I should thank you. This saves me the trouble of looking for your room.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2569,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110040a00'>\r\n//「そも、この住所をお教えした記憶も無いの\r\n//ですが」\r\n\"I must wonder how you found my home in the first place.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2800,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110050b31'>\r\n//「そんなの、調べればすぐにわかることよ」\r\n\"That was easy. Everyone in town knows who you are.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3013,
+  "en": "\r\n//　確かにそうだ。\r\n  True enough.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3067,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110060a00'>\r\n//「御用の向きは」\r\n\"Might I inquire as to the purpose of your visit?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3239,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110070b31'>\r\n//「聞かないとわからないの？」\r\n\"You have to ask?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3400,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110080a00'>\r\n//「察しはつきますが、生き死にに関わる事。\r\n//　万一の誤りもないよう、確認は必要かと」\r\n\"I have my suspicions, but as this is a matter of life or death, I feel it prudent to be certain before taking any action.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3745,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110090b31'>\r\n//「生き死にの事なら尚更、いちいち確かめて\r\n//いる暇などないでしょうに。\r\n//　おまえが寝こけていたらそのまま首に斬り\r\n//つけるつもりだったのだけど？　アタシは」\r\n\"In a matter of life or death, shouldn't you act first and ask questions later? I was fully prepared to kill you in your sleep.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4205,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110100a00'>\r\n//「それなら誤解の余地は元々ありませんが」\r\n\"That would have left no room for misunderstanding.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4415,
+  "en": "\r\n//　夜明け前という時刻をわざわざ選んで襲ってきたの\r\n//だ。当然そうだろう。\r\n//　もし昨晩何事もなく就寝していたなら、きっと枕頭\r\n//まで踏み込まれても気付かなかったに違いない。\r\n  Yes, no room indeed. If I'd been sound asleep in my bed, as I normally would be, I would not have noticed her approach until she was on top of me.\r\n\r\n//　仮に気付いたとしても。手足は重く、対峙して戦う\r\n//ことはままならなかったろう。\r\n//　早朝の眠りは特に深いものだ。古来よりの兵法にも、\r\n//奇襲に最適の時機とある。\r\n  And even if I had woken before she took my head, my senses would be dull and my responses sluggish. A man's sleep is deepest in the hours before dawn.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5228,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110110b31'>\r\n//「今だって同じでしょう。\r\n//　これが見えないわけでもあるまいに」\r\n\"It's not like there's any room for misunderstanding now. Or do you not see what I'm holding here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5522,
+  "en": "\r\n//　言って、首領は手にしていた物の一方を、こちらへ\r\n//投げて寄越した。\r\n//　右手を伸ばし、宙で受け取る。\r\n  She tosses me a long object, identical to the one in her left hand. I snatch it out of the air.\r\n\r\n//　太刀だった。\r\n//　先日の勝負で借り受けたものだ。\r\n  A sword. The same one I used in our last duel.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5913,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110120a00'>\r\n//「……奇襲する<RUBY text='はら'>肚</RUBY>だった割りに」\r\n\"...You needed two swords to kill me in my sleep?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6133,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110130b31'>\r\n//「ふん。\r\n//　おまえと真っ向から勝負して本当の優劣を\r\n//知らしめられるのなら、元よりそれに越した\r\n//ことはありません」\r\n\"Hmph! I was㉗<I>hoping</I>㉑we could settle this face-to-face, so I'd get the chance to show you who the real warrior is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6530,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110140b31'>\r\n//「ただ、平民ごときを相手にわざわざ勝負の\r\n//体裁を整えてやる義理など、全くなかったと\r\n//いうだけよ」\r\n\"I just wasn't about to go out of my way challenging a peasant.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6842,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110150a00'>\r\n//「そうですか」\r\n\"I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6969,
+  "en": "\r\n//　屈折したものだが、そう説明されればわからなくも\r\n//ない。\r\n  Her logic is questionable, but I think I get the idea.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7126,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110160a00'>\r\n//「自分は貴方と対等に勝負する資格を得た。\r\n//　そんなところでしょうか」\r\n\"So I've earned the right to face you on equal terms.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7381,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110170b31'>\r\n//「そう思いたければ思いなさい。\r\n//　おまえがこうして出てきたのなら、アタシ\r\n//は正面からおまえを斬り捨てる」\r\n\"Think what you like, but now that you're here, it all comes down to one thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7720,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110180b31'>\r\n//「それだけのことよ」\r\n\"A fight to the death.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7874,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110190a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7992,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110200b31'>\r\n//「おまえは好きにしたらいい。\r\n//　この前のように、小賢しい策を使ってみな\r\n//さい。今度はそんなもの、おまえの命諸共に\r\n//ぶった斬って差し上げるけどね……！」\r\n\"Go ahead. Use one of your little tricks. I should warn you, though, it won't save you this time!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8419,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110210a00'>\r\n//「……一度、あのような術策を用いた以上。\r\n//　信じて頂けなくとも、それは我が身の不徳\r\n//ゆえというものですが」\r\n\"After what I did, I won't blame you for not trusting my word...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8743,
+  "en": "\r\n//　白刃を露わにする首領に応じて、鞘を抜き捨てる。\r\n//　刃先の手入れは今日も怠りないようだった。\r\n  The captain bares steel and I follow suit. The weapon she gave me is in pristine condition―polished just recently, by the looks of it.\r\n\r\n//　使い物にならないような、細工が施されているので\r\n//はないか――\r\n//　と、そんな疑念は湧くこともなかった。罠を仕込む\r\n//くらいなら、最初から太刀など渡さねば良い話だ。\r\n  I see no reason to fear sabotage. If she weren't going to fight fair, she would not have armed me to begin with.\r\n\r\n//　それに、首領の瞳に満ちる凶々しい戦意には偽りの\r\n//色が無い。\r\n//　正面から斬り伏せるとの言は本心だ。\r\n  And then there are her eyes, which glow with battlelust. No question; she wants to prove her superiority against my full strength.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9690,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110220a00'>\r\n//「尋常にお相手仕る」\r\n\"But this time, I shall face you with honor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9863,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110230b31'>\r\n//「言っていなさい」\r\n\"We'll see about that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10014,
+  "en": "\r\n//　取り合わず、太刀をゆるりと右肩上へ構える首領。\r\n//　武者正調、上段の太刀取り。\r\n  Without another word, she assumes the right shoulder jodan. Musha standard.\r\n\r\n//　応じて構える――\r\n//　その前に、俺は言葉を継いだ。\r\n  I prepare to take my own stance, but first, there is one thing to get out of the way.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10396,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110240a00'>\r\n//「首領殿」\r\n\"Captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10519,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110250b31'>\r\n//「なに？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10642,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110260a00'>\r\n//「勝負の前に、取り決めを宜しいか」\r\n\"Shall we set the terms before we begin?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10832,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110270b31'>\r\n//「……あぁ」\r\n\"...Oh, right,\"</voice> she responds, a smirk playing on her lips.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11017,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110280b31'>\r\n//「なぁに？　上手い約束の仕方を思いついた\r\n//わけ？　今度は首領を辞めたなんて言い訳が\r\n//通らないような。\r\n//　それとも誓約書でも書く？」\r\n\"What? Have you thought of some promise I can't wriggle out of? Or should we write out a contract and sign it in blood?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11436,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110290a00'>\r\n//「いいえ」\r\n\"No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11554,
+  "en": "\r\n//　首を左右する。\r\n  I shake my head.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11612,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110300a00'>\r\n//「前回と同じ約束で結構です。\r\n//　自分が勝利した暁には、町への略奪行為を\r\n//止めて頂く」\r\n\"The same terms as before will do. If I win, you'll stop raiding the village.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110310a00'>\r\n//「貴方が勝ったなら、この身をお好きに」\r\n\"If you win, then I'm yours to do with as you please.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12117,
+  "en": "\r\n//　……殺す気満々の相手に出すには、少しばかり妙な\r\n//交換条件だが。\r\n  A strange offer, when you think about it. She already means for her victory to be my death.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12323,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110320b31'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110330b31'>\r\n//「何を考えているの。おまえ」\r\n\"Is that supposed to be a <br>joke?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12621,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110340a00'>\r\n//「格別の事は」\r\n\"Not at all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12753,
+  "en": "\r\n//　ただ、覚悟を定めただけだ。\r\n//　小細工などに頼らず、この女性から害意というもの\r\n//を取り除くまで戦う――と。\r\n  I am simply set in my resolve. To extinguish her malice, I must defeat her without the use of petty tricks.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13039,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110350a00'>\r\n//「宜しいか」\r\n\"Do these terms satisfy you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13184,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110360b31'>\r\n//「……結構よ。\r\n//　それが望みなら」\r\n\"If that's how you want it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13365,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110370a00'>\r\n//「では」\r\n\"Very well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13487,
+  "en": "\r\n//　太刀をとる。\r\n//　対手と正対称の武者上段。\r\n  I take my stance. Musha jodan, mirroring my opponent.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13622,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110380a00'>\r\n//「吉野御流合戦礼法、湊斗景明。\r\n//　参る」\r\n\"Yoshino-onryu Kassen Reiho, Minato Kageaki. By your leave.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13841,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110390b31'>\r\n//「……六波羅<RUBY text='しんかげりゅう'>新陰流</RUBY>。\r\n//　対等の名乗りなど烏滸がましいけれど、流\r\n//名だけは<RUBY text='く'>呉</RUBY>れてあげる」\r\n\"...Rokuhara Shinkage-ryu. <br>I won't pretend you're my equal by giving you my name, but you can tell them in hell what school it was that felled you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14291,
+  "en": "\r\n//　じわりと一歩、首領が間を詰めた。\r\n//　そこに前回のような傲岸なる余裕は影もない。\r\n  She takes a step. The arrogance from our last duel has vanished. Now there is only purpose in her stride―<br>the cool composure of a veteran warrior.\r\n\r\n//　実力に裏打ちされた平常心だけがある。\r\n//　――やはり、強い。\r\n  As expected, this will not be an easy fight. I can forget about using the blunt edge of my weapon. Weight, balance, shape―katana are designed to be held with the cutting edge forward. Even the hilt wrapping is done in such a way as to facilitate the standard grip, and any deviation from that will render your weapon slow and clumsy.\r\n\r\n  I'm already at a disadvantage in training and experience. Another handicap, and my slim chance of victory will dwindle to nothing.\r\n\r\n  I must bring all of my strength to bear, yet avoid dealing a fatal blow.\r\n\r\n//　その感慨を新たにすると共に、俺は峰打ちで戦うと\r\n//いう方策を捨てた。\r\n//　それではとてもこと、勝てなどしない。\r\n\r\n//　刀剣は刃を敵に当てるように出来ている。\r\n//　それは刃の鋭さに留まる問題ではない。形状、重量\r\n//バランス、柄糸の巻き方、<RUBY text='めぬき'>目貫</RUBY>の配置……全てがその\r\n//用途を前提としているのだ。\r\n\r\n//　それを無視しては、剣の性能を大きく損じる。\r\n//　只でさえ実力差があるのに更なるハンディキャップ\r\n//を背負い込んでは、僅かな勝機がつかむ前から去って\r\n//しまうだろう。\r\n\r\n//　太刀は正しく扱い、その上で急所を外すしかない。\r\n//　さもなくば、寸止めか。\r\n\r\n//　……<RUBY text='いず'>何</RUBY>れにしろ、峰打ちで勝つのとさして変わらぬ\r\n//難業とも思えたが。\r\n//　薄紙一枚分でも勝利へ近付けるのならば、その選択\r\n//をする責任が俺にはあった。\r\n  ...A prospect very nearly as daunting as it would be to use the blunt edge of my blade, but if it will improve my chances even slightly, then I have a duty to take that risk. Mine is not the only life at stake.\r\n\r\n//　この背は、自己一身に留まらぬ命運を担っている。\r\n\r\n//　首領はじわり、じわりと、地面を足裏で摺って間合\r\n//を詰めてきていた。\r\n//　亀のような歩み――しかしその鈍足こそ脅威である。\r\n  The captain approaches slowly, slowly, her feet never leaving the ground. A snail's pace, and all the more terrifying for it.\r\n\r\n//　姿勢を、重心を、崩さぬままに遅く遅くゆっくりと\r\n//ひた歩むのはまさに至難の業だ。\r\n//　姿勢の維持は早足の方が遥かに易く済む。\r\n  It is extremely challenging to maintain posture and balance during such slow, precise movement, just as it is more difficult to control a bicycle rolling at a crawl. \r\n\r\n  The gradual advance is an art that requires many years of training, and the fear I feel as she slides ever closer is because I know what it represents.\r\n\r\n  A perfectly stable center of gravity, a rock-solid yet mobile foundation that will allow her to strike with her full speed and strength at the exact moment that I come within range.\r\n\r\n//　自転車を例に引き出せば自明の事。\r\n//　歩くよりも遅い速度で自転車を乗りこなすなど、誰\r\n//にできようか？\r\n\r\n//　首領の遅足は、その離れ業を――重心の完全制御を\r\n//意味している。\r\n//　本能的な怯えが、俺の背筋を冷たく這い登った。\r\n\r\n//　……つまりはこういう事だ。\r\n//　彼女はこの歩法により、間合が<RUBY text='・・・'>斬り間</RUBY>に達する瞬間\r\n//を、ずれなく無駄なく完全に掌握し、最高の機に一刀\r\n//を繰り出す事ができる。\r\n\r\n//　これと拮抗するには、同じ戦機をこちらも掴むしか\r\n//ない。\r\n//　俺は緊張に強張りかける眼球を辛うじて宥め、適度\r\n//に弛緩させて視野を安定させた。\r\n  If I am to be victorious, then I, too, will have to seize that moment, and without ceding so much as a fraction of a second. I relax my eyes, searching for the equilibrium that will let them stay open without straining the muscles.\r\n\r\n//　足は、その場に留める。\r\n//　これも一つの選択であった。\r\n  My feet stay planted. I do not go to meet her advance.\r\n\r\n//　敵の歩法に対してこちらも歩法にて応じ、敵の間合\r\n//掌握を乱し己のみ間合を奪おうと図る――それも一途。\r\n//　だが放棄した。そこに勝負を挑んではおそらく勝て\r\n//ない。\r\n  By moving toward her at my own pace, I could disrupt her sense of timing and perhaps claim the initiative... but the attempt would almost certainly end in my death.\r\n\r\n\r\n//　間合の取り合いとなれば、何よりも実戦経験が物を\r\n//言う。\r\n//　高々数年ばかりの兵役と幾度かの仕合の経験のみで、\r\n//六波羅武者の歴戦ぶりに敵し得るとは些かも思えない。\r\n  When two swordsmen vie for position, it is the more senior combatant who holds the advantage. A few years in uniform and a duel or two can hardly compare to the battlefield experience of a Rokuhara musha.\r\n\r\n//　静止して待てば、間の取り合いについてはアドバン\r\n//テージを譲ることになるものの、距離の把握において\r\n//はこちらの方が容易であり優位となる。微速ながらも\r\n//敵は動いている以上、この点は揺るがない。\r\n\r\n//　そこに勝機を見出すに如かず。\r\n  If I keep still, then while I do surrender control of the range, I gain an advantage when it comes to reading it. As long as my opponent is moving, however slowly, it will be more difficult for her to calculate the killing zones of our weapons.\r\n\r\n  I can only hope that therein lies my chance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20342,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110400a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20466,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110410b31'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20593,
+  "en": "\r\n//　朝靄の中には呼気も浮かばず、相対する敵手の呼吸\r\n//は全く見えてこない。\r\n//　対してこちらは、相手ほど巧妙に吐息を隠しきれて\r\n//いるか……どうか。 \r\n  The morning haze is thick between us. I spy no hint of her breath in the air. Is she having the same problem? Or am I an open book?\r\n\r\n//　呼吸を読まれることは、行動予定表を黒板に記して\r\n//見せるのとほぼ同義だ。\r\n//　相手はこちらの対応不可能な機を掴んで攻め寄せて\r\n//来るだろう。\r\n  The body depends on its muscles for locomotion, and your position on the breathing cycle is what determines how much energy they can bring to bear. Your muscles are weakest during inhalation and at their most efficient during exhalation, with the period of stasis between the two serving as a middle ground.\r\n\r\n  In combat, therefore, your breathing cycle is like the timetable of guard shifts at a bank. If your opponent can read it, then she will know exactly when you are most vulnerable.\r\n\r\n//　体を動かすのは筋肉であり、筋肉の出力は呼吸状態\r\n//に左右される。\r\n//　通例、<RUBY text='・'>吸</RUBY>よりは<RUBY text='・'>止</RUBY>、止よりは<RUBY text='・'>呼</RUBY>が、より大きな筋力\r\n//を生み出す。\r\n\r\n//　ゆえに間違っても、空気を肺臓へ吸い込む機を――\r\n//全身の筋肉が行動力を減らす瞬間を察知されてはなら\r\n//ない。\r\n//　それには、吐息の勢いを可能な限り緩めることだ。\r\n  In order to prevent a fatal lapse, keep your exhalations slow and soft. Govern one part of the cycle, and the rest will follow.\r\n\r\n//　呼気を隠せば吸気も隠れる。\r\n//　肺は静かに使うに限る…………\r\n\r\n//　いつしか、間合は狭まっていた。\r\n  As I bring my breathing under control, I realize that the distance between us has shrunk considerably.\r\n\r\n//　小刀の先で削るように詰められた相関距離、それが\r\n//一定の値へと接近している。\r\n//　\r\n//　――一定の値。\r\n\r\n//　即ち、<RUBY text='・・・・・・'>斬るべき間合</RUBY>だ。\r\n  A few more seconds, and it will be time.\r\n\r\n  Time for me to strike.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22877,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110420a00'>\r\n//（見えている……）\r\n(I see it.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23013,
+  "en": "\r\n//　可能な限りの角度と視点から距離を検討、確認する。\r\n//　ほぼ、<RUBY text='センチ'>糎</RUBY>単位では把握できていた。\r\n\r\n//　戦機は近い。\r\n//　それは、俺の機だ。\r\n  From the angles and points available to me, I can calculate the distance to within a centimeter. My mind draws an invisible arc in the air before me.\r\n\r\n  When she crosses it, she will be in range.㉓<I>My</I>㉑range.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23470,
+  "en": "\r\n//　彼我の得物はほぼ同尺。\r\n//　しかし体格においては開きがあり、それはそのまま\r\n//<RUBY text='リーチ'>有効射程</RUBY>の差となる。\r\n  Our weapons are approximately the same length, but I am taller and longer of limb, and that translates to a reach advantage.\r\n\r\n//　俺の射程は対手よりも長い。\r\n//　その優越分は、つまりこちらが一方的に攻められる\r\n//間だ。\r\n  The first move is mine. For a short window, I will be able to strike while my enemy will not.\r\n\r\n//　蜻蛉が止まりそうな速度でその距離へと近付きつつ\r\n//ある首領は、あたかも俺がその機会を狙いやすいよう\r\n//に配慮しているかの風である。\r\n//　無論、違う――――<k>いや、そうも言い切れないか。\r\n  The captain's glacier-slow advance seems almost designed to make it easier for me to seize that chance. Preposterous, of course...<K> or is it?\r\n\r\n//　確かに彼女は配慮しているのかもしれない。\r\n//　俺に絶好の機会を狙い打たせ――そこを迎撃して、\r\n//制圧しようと。\r\n  Perhaps she㉓<I>is</I>㉗being considerate, offering me a prime opportunity in the hope that I will take it... and open myself to a counter.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24763,
+  "en": "\r\n//　射程の優越により一方的に攻められるといっても、\r\n//それは俺が動き出すまでの話だ。\r\n//　動きを起こし、体を前へ押し出せば――当然。間合\r\n//は縮まり、相手にとっても打ち頃になる。\r\n  The range advantage only exists until I make my move. When I launch my body into the attack, I will also be entering my opponent's kill zone. The range advantage, therefore, is not inherently decisive.\r\n\r\n//　現状は必ずしも、一方的な優位とは言えないだろう。\r\n\r\n\r\n//　それでも先に動きを起こせるという点が大きな有利\r\n//であることは間違いない。\r\n//　対手はこちらの攻勢を<RUBY text='・・・・・・・・'>一切の遅れ無しに</RUBY>把握できて、\r\n//それでようやく互角。そして実際はそうはいかぬもの。\r\n  That said, my attack still comes first, and initiative is a powerful ally. In order to cancel out the advantage, she will have to reply without so much as a nanosecond of lost time―<br>which is, of course, impossible.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25867,
+  "en": "\r\n//　動きの立ち遅れはまず避けられず、その遅れの分量\r\n//だけ刃の競走で不利を背負うのは自明である。\r\n//　目の前の<RUBY text='てだれ'>手練</RUBY>とて、その理からは逃れられまい。\r\n\r\n//　剣速で挽回される<RUBY text='おそれ'>可能性</RUBY>はあるにせよ……\r\n//　やはり、こちらにとって悪い勝負ではない。\r\n  Veteran though she may be, even this musha will be forced to start the race a few positions back. There is the possibility that she will overtake me with pure speed... but I think the odds are in my favor.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26495,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110430a00'>\r\n//（…………）\r\n(......)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26619,
+  "en": "\r\n//　間合に達した。\r\n\r\n//　俺の、間合だ。\r\n  It's time.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26701,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110440b31'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26822,
+  "en": "\r\n//　心なしか。\r\n//　首領の双眸が、険しさを増したようだった。\r\n  For an instant, the captain's eyes seem to glow.\r\n\r\n//　俺は機を見送った。\r\n//　変わらず不動のまま、敵が間を詰めてゆくに任せる。\r\n  I hold my position, letting the opportunity pass me by.\r\n\r\n//　こちらの有効射程、敵の<RUBY text='アウトレンジ'>射程外</RUBY>――我が優越的区間\r\n//はさして長くもない。すぐに失われるだろう。\r\n//　それを看過している事実が、首領には心外の様子だ。\r\n  She seems surprised by this, and for good reason. The advantage will not be mine for much longer. Her continuing advance will soon bring her in range for her own strike.\r\n\r\n//　……確かに。\r\n//　兵法の常道に従うなら、打ち込んでいるべきだった。\r\n\r\n//　思い留まったのは、脳裏の一語が引っ掛かった為だ。\r\n  But though conventional wisdom demands action, her last words stay my hand.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27849,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110450a00'>\r\n//（六波羅新陰流……）\r\n(Rokuhara Shinkage-ryu...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28003,
+  "en": "\r\n//　正しくは<RUBY text='やぎゅう'>柳生</RUBY>新陰流六波羅派。\r\n//　嘗て徳川氏御家流であった大流儀の<RUBY text='すえ'>裔</RUBY>である。徳川\r\n//時代末期に主家を捨て朝廷勢力へ身を投じ、六波羅の\r\n//隷下となった柳生某を祖としている。\r\n  More accurately, the Rokuhara branch of the Yagyu Shinkage-ryu, the most famous of the schools once sponsored by the Tokugawa shogunate.\r\n\r\n  The Rokuhara branch was founded in the closing years of Tokugawa, when a Yagyu swordmaster abandoned his clan and threw his lot in with the imperial court, thus coming under Rokuhara's banner.\r\n\r\n//　多くの独特な技法を持ち、もはや柳生流とは言いか\r\n//ねる面もあるものの、幕軍内で隆盛。\r\n//　分派ながら本家を凌ぐ地位を獲得し、今やその当主\r\n//は幕閣に席を持つことすらある。\r\n  While its teachings differ in many ways from those of the original Yagyu school, it quickly rose to preeminence within the new shogunate's martial hierarchy, and now the Grandmaster of the school even has a place on the shogun's council.\r\n\r\n//　当代宗家は柳生<RUBY text='じょうあんさい'>常闇斎</RUBY>。\r\n//　不世出の達人と呼ばれ、その腕を買われて足利一族\r\n//の親衛隊である六波羅<RUBY text='うまやしゅう'>厩衆</RUBY>の頭領を務めているという\r\n//――いや。その辺りは別にどうでもいい。\r\n  The current Grandmaster is one Yagyu Jo'ansai, a man hailed as one of the greatest swordsmen of this age. It is said that he even commands the Ashikaga clan's personal bodyguard, the Umaya-shu. But he is a topic for another time.\r\n\r\n//　柳生新陰流と並んで徳川家の兵法を預かった流儀に、\r\n//小野派一刀流がある。\r\n//　これもまた名流だが、特にその奥義は著名だ。\r\n  My concern now lies with another school that served the Tokugawa clan, the Onoha Itto-ryu, and specifically with the legendary technique that earned it its fame.\r\n\r\n  Kiri-otoshi.\r\n\r\n//　<RUBY text='キリオトシ'>切落</RUBY>。\r\n//　これはまず、敵手に正面を<RUBY text='・・・・'>斬らせる</RUBY>。\r\n  To perform kiri-otoshi, the Itto-ryu swordsman first entices his enemy to attack him head-on.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30345,
+  "en": "\r\n//　相手が攻撃の挙動を起こし、剣筋を定めるまで待ち\r\n//――それから我が動きを起こす。\r\n//　対敵の剣撃と正対称の剣撃を。\r\n  He waits for the attack to begin, and once the enemy is committed―only then does he make his move, answering with a strike that perfectly mirrors his opponent's.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30696,
+  "en": "\r\n//　そして敵の剣を迎え撃ち、<RUBY text='・・・・・'>斬り落とす</RUBY>。\r\n//　そのまま、敵の肉体をも断つ……\r\n  Normally this would cause the blades to lock, but through subtle control of the direction of the force, the kiri-otoshi practitioner deflects the enemy's sword and cuts into his flesh.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31043,
+  "en": "\r\n//　ただ一刀にて<RUBY text='ウケ'>受</RUBY>と<RUBY text='セメ'>攻</RUBY>を共に行う。\r\n//　まさしく一刀流の流名を体現するような技だ。\r\n  Defense and offense in a single stroke.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31272,
+  "en": "\r\n//　……その術理を、首領が――新陰流が知らないとは\r\n//言い切れなかった。\r\n//　小野柳生両家は同じ主を戴きながら、互いを潜在敵\r\n//とし、技法の盗み合いなどは日常茶飯事だったという。\r\n  It would be foolish to assume that this woman, as a Shinkage-ryu disciple, has not studied kiri-otoshi. Itto-ryu and Shinkage-ryu were rivals for Tokugawa's favor, and it's said that they made a habit of stealing each other's techniques.\r\n\r\n//　そうでなくとも、ある流派の技術が別の名で他流に\r\n//存在するなど珍しくもない事なのだ。同じ武器の操法\r\n//を突き詰めているのだから当然とも言えるだろう。\r\n//　六波羅柳生が切落を伝えていても不思議は何もない。\r\n  And even without such history between them, it is not unusual for different schools to develop the same techniques. There are only so many ways of wielding the sword.\r\n\r\n//　事実、俺が切落を名のみではなく術理まで知るのは\r\n//まさにそういう理由からだった。\r\n//　吉野御流において、この技法は<RUBY text='ウチシオ'>打潮</RUBY>の名称で伝えら\r\n//れている。\r\n  This is why I know what kiri-otoshi entails. The Yoshino-onryu has a similar technique, one we call \"uchishio.\"\r\n\r\n//　首領が俺の攻撃に対して単に剣速での勝負に臨まず、\r\n//切落をもって応じた場合――勝負は剣筋の見切り合い\r\n//になる。切落同士の打ち合いは、相手側に見切られた\r\n//剣が最終的に<RUBY text='・・・・・'>落とされる</RUBY>からだ。\r\n  If she answers my attack with kiri-otoshi, then victory is a question not of speed, but of which of us can better read the other's strike. I also may attempt kiri-otoshi, but it will mean nothing unless my reading is superior.\r\n\r\n//　そして、その勝負は俺が不利になる。\r\n//　こちらから仕掛ける以上、その時点で既に半ば以上、\r\n//剣筋を定めてしまっている――途中変化は不可能では\r\n//ないが、その範囲はどうにも狭く、少ない。\r\n  In this situation, having the first strike becomes a disadvantage. While it is possible to change the heading of a sword in mid-slash, the degree of freedom is severely limited. \r\n\r\n  This means that my opponent will know more or less the precise nature of my stroke the moment I unleash it, and will be able to act accordingly, while I will have to struggle to adapt to hers.\r\n\r\n//　こちらの剣をある程度見てから動く敵手との間には、\r\n//覆し難い優劣が生まれるだろう。\r\n//　曰く、この剣を極めた者に引き分けはあっても敗北\r\n//はない――剣聖の至芸と畏怖される所以である。\r\n  The most I can realistically expect in that scenario is to take her with me. Hence the saying that a master of kiri-otoshi may know death, but never defeat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34274,
+  "en": "\r\n//　だから見送った。\r\n//　首領が切落ないしはそれと同質の術、相手に先制を\r\n//許しながら後より勝つ迎撃技法を心得ている危険性に\r\n//ついて、考慮に値せずとは思い切りかねた。\r\n  And so I decide to let the opportunity pass. The risk of a counter is simply too great.\r\n\r\n//　…………もしかすると、俺は唯一の勝機を逃したの\r\n//かもしれない。\r\n//　心臓の周辺に<RUBY text='・・・・'>ざわざわ</RUBY>と蠢く迷いを振り捨て、気を\r\n//新たに間合を測り直す。\r\n  Anxiety gnaws at my chest―am I throwing away my best hope of victory?―<br>but I cast it aside and recalculate the distance.\r\n\r\n//　俺の優越距離は終わりかけていた。\r\n//　あと一呼吸後……双方の<RUBY text='レンジ'>打ち間</RUBY>となる。\r\n  My advantage is coming to an end. One more breath... and my enemy, too, will have the range.\r\n\r\n//　現在この時点で、俺には三つの選択肢があった。\r\n//　優越距離で仕掛けるのが一。相互攻撃の距離で仕掛\r\n//けるのが一。相互攻撃の距離で敵が仕掛けて来るのを\r\n//待つのが一。\r\n  At present, I have three possible courses of action. One, to strike now, while I still have the advantage. Two, to strike when we both have the range. And three, to wait for the enemy to strike. In each case, the enemy's response will determine the outcome.\r\n\r\n//　これに対応する形で、相手の側にも選択肢があると\r\n//いうことになる。\r\n\r\n\r\n//　まず第一の選択。\r\n//　こちらの優越距離で仕掛けた場合――相手が切落の\r\n//ような技をもって応じるなら、こちらの敗となる。\r\n//　そうでなければ剣速の差で勝。\r\n  Case one: Strike now, while the range is mine alone. If the captain answers with kiri-otoshi, I lose. Otherwise, the initiative should grant me victory.\r\n\r\n//　第二の選択。\r\n//　相撃の距離で仕掛け――相手も同様に仕掛けて来た\r\n//なら優劣は無し。剣速で勝敗は決する。\r\n//　敵が切落を期して待ち構えたなら敗。\r\n  Case two: Strike later, when we both have the range. If the enemy strikes too, then the conditions are equal and speed alone will tell the tale. If she uses kiri-otoshi, I die.\r\n\r\n//　第三の選択。\r\n//　敵の仕掛けを待ち――望み通りに敵が来たならば勝。\r\n//〝打潮〟の剣理を俺の技量で全うできるなら、だが。\r\n//　敵が来なかったなら、状勢は動かず。\r\n  Case three: Wait for the enemy to attack. If she comes as I hope, then victory is mine―assuming, that is, that I am able to perform uchishio with my meager skill. If she holds her hand, then the battle simply continues.\r\n\r\n//　いずれの方途も一長一短。\r\n//　選択の決め手は、敵の何を最も恐れるかという判断\r\n//だった。\r\n  Each case has its pros and cons. It all comes down to what I fear most in my enemy.\r\n\r\n//　運剣の速度を最も恐れるとするなら、先にスタート\r\n//を切れる今こそ仕掛けねばならない。\r\n//　相互攻撃の間合に入った後では、互角以下の勝負に\r\n//しかならないのだ。\r\n  If I take her speed as the greatest threat, then I must strike now while I have a head start. Once she has her range, the best I can hope for will be an even race.\r\n\r\n//　そうではなく、迎撃技を最大の脅威と設定するなら、\r\n//第一・第二の選択は無いということになる。\r\n//　選ぶべきは第三。待ちの姿勢だ。\r\n  If, on the other hand, I am more worried about the possibility of a counter, then the first and second choices are out of the question. I must take the third and let her strike first.\r\n\r\n//　どちらか。\r\n//　……だが、この決断は既に下している。\r\n  So which is it, speed or technique?<K>\r\n  The answer comes easily enough.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38292,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110460a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38410,
+  "en": "\r\n//　俺は待った。\r\n//　相関距離の変化を見守る。\r\n  I wait, and watch the distance between us continue to shrink.\r\n\r\n//　敵の攻勢を、ひた待つ。\r\n//　あくまでも、この一瞬間は――だが。\r\n  Everything may change in the next moment, or the next, but for this moment, I do nothing.\r\n\r\n  And in that moment―<K>she steps into range.\r\n\r\n//　一瞬間。\r\n\r\n//　間合が、\r\n//　相撃に達する。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38867,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110470b31'>\r\n//「――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38988,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110480a00'>\r\n//「――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39106,
+  "en": "\r\n//　顕れた結果は、<k>\r\n//　…………彼我、<RUBY text='・・・・'>共に静止</RUBY>。\r\n  The result:<K> perfect stillness. Neither of us moves.\r\n\r\n//　この時点で、双方の企図は露出した。\r\n//　どちらも、相手の攻を引き出しての迎え技を狙って\r\n//いる。\r\n  At once, our intentions are revealed. We are㉗<I>both</I>㉗lying in wait, each hoping that the other will make the first move. And that leaves us with―\r\n\r\n//　そして、それが互いの知るところとなった上は、\r\n//　\r\n//　――千日手だ。\r\n\r\n  ―a stalemate.\r\n\r\n//　敵が待ち構えている以上、攻め込むことはできない。\r\n//　敵の攻めを待つしかない。\r\n  It would be suicide to attack an opponent who has already prepared a counter. My only choice is to force her to abandon that plan and attack.\r\n\r\n//　しかし、こちらが待ち構えていることは敵も知って\r\n//いる。\r\n//　敵も攻めることはできず、待ち続ける。\r\n  But she knows that I, too, am aiming for the counter. Her position is exactly the same as mine.\r\n\r\n//　<RUBY text='・・・・・・・・・・'>先に動いた方が負ける</RUBY>。\r\n//　互いに、そう悟り合う。\r\n  The first to strike will die.\r\n\r\n//　即ち――\r\n//　状況は持久戦に陥った。\r\n  Which makes this now a battle of endurance. Who will be forced to act?\r\n\r\n//　一瞬。\r\n//　また一瞬。\r\n\r\n//　対峙を続け、対峙のままに、時間を送る。\r\n  We stand facing each other, motionless, as time passes us by.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40712,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110490a00'>\r\n//（どうする）\r\n(What now?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40839,
+  "en": "\r\n//　この状形でも、選択の余地がないではない。\r\n//　無芸に対手の翻意を待ち続けるほかにも道はある。\r\n  The battle has become fundamentally a waiting game, but that does not mean there are no other ways to break the stalemate.\r\n\r\n//　一つは、互いに退く。\r\n//　このような形勢になった際は、力量を認め合って、\r\n//勝負を分けるのが節度ある武人の振舞いというものだ。\r\n  We could stand down, for example. When reasonable warriors find themselves at this sort of impasse, it is customary for them to acknowledge each other as equals and settle on a draw.\r\n\r\n//　また一手には、誘いを仕掛ける。\r\n//　攻撃をかける――と見せかけて、敵の迎え技を引き\r\n//出し空転させ、しかる後に制するのだ。\r\n  I might also choose to attempt a feint. If I give the appearance of an attack, my opponent may unleash her counter early, giving me the opportunity to defeat it with a counter of my own.\r\n\r\n//　どちらもこの状況は打開し得る。\r\n//　が……選ぶことは、できなかった。\r\n  Two ways out... but unfortunately, neither is viable.\r\n\r\n//　前者は論外だ。\r\n//　互いにこの勝負に賭すものがある以上、士の美風に\r\n//背こうとも退くことはできない。\r\n  The first is obviously out of the question. Given what we each have riding on this battle, neither of us can afford to back down, not even if the warrior code demands it.\r\n\r\n//　後者もやはり、考慮には値しない。\r\n//　あっさり<RUBY text='フェイント'>誘い技</RUBY>に乗ってくれるような相手だと見込\r\n//んでいたのなら、ここまで行き詰まる前にいくらでも\r\n//やりようはあった。\r\n  The same goes for the second. If I thought there were a chance she might fall for a feint, I would have tried it before she got within range.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42792,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110500a00'>\r\n//（……だが）\r\n(However...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42920,
+  "en": "\r\n//　敵がその手を使うことは、充分に有り得る。\r\n  That doesn't mean㉗<I>she</I> won't try a feint.\r\n\r\n//　相手が遂に押してきた――からといって、すぐさま\r\n//ござんなれと食いついては、危ういやもしれない。\r\n//　戦に<RUBY text='ふ'>古</RUBY>りた者はそうした引き出しを必ず持っている\r\n//と云う。\r\n  I may want to exercise caution when the captain makes her move. If I take it on blind faith that my chance has come, I may find myself diving headfirst into a trap. I've heard that veteran soldiers are especially skilled at such tactics.\r\n\r\n//　見極めが肝心だ。\r\n//　敵の攻勢、その真偽の。\r\n  I must judge whether she is truly coming in for the kill or merely attempting to beguile me. The question is whether I can make that judgment in the split second I'll have to act.\r\n\r\n//　果たして、瞬時に正確な判断を下せるものか。\r\n//　それは、困難であろう……が。\r\n\r\n\r\n  Difficult, yes. Dreadfully so.\r\n  However―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43987,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110510a00'>\r\n//（見極めれば勝てる）\r\n(Succeed, and victory is <br>mine.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44150,
+  "en": "\r\n//　偽を偽と看破できたなら、誘いに乗った<RUBY text='・・'>ふり</RUBY>をすれ\r\n//ば良い。\r\n//　それで敵が応じてきたところを、狙い定めて制する。\r\n  If I can recognize her feint as such, then I need only pretend to go for the counter, thus drawing out her own counter, which I may then defeat. A counter-counter-counter, as it were.\r\n\r\n//　……応じたと見えたものが、実はそれこそ敵の<RUBY text='・・'>ふり</RUBY>\r\n//だった、などという事態さえも起こり得るが。\r\n//　それにしても、こちらから誘い技を仕掛けるよりは\r\n//待った方が分はありそうだ。\r\n  Of course, there is no guarantee that her counter won't be another feint, but the odds of victory have to be higher than if I lead with a feint of my own.\r\n\r\n//　そうして結局。\r\n//　――待ち続ける。\r\n  And so... I keep waiting.\r\n\r\n//　待つ。\r\n//　敵の動きを待つ。\r\n  Waiting for my enemy's move, just as she is waiting for mine.\r\n\r\n//　敵も、待つ。\r\n//　俺の動きを待っている。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45265,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110520a00'>\r\n//（立合いの開始から……今、七呼吸と半）\r\n(Seven breaths since we began... now seven and a half.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45475,
+  "en": "\r\n//　秒単位ではどれほどだろう。\r\n//　いや――考えまい。\r\n  I don't know what that equates to in seconds, but time has little meaning in a duel. Far more important is the state of my breathing, a direct reflection of my physical condition.\r\n\r\n//　勝負のさなか、実時間などさしたる意味は持たない。\r\n//　それよりは呼吸数の把握の方が意味がある。呼吸の\r\n//状態は体力状況に直結するからだ。\r\n\r\n//　現時点において、問題は全く無い。\r\n//　持久力には自信のある方だ。おそらく眼前の元軍人\r\n//にも劣らないだろう。\r\n  Long battles such as these are draining, but at present, my condition remains optimal. Endurance is the one thing in which I have some confidence. I'm fairly certain that I can match even this trained soldier before me.\r\n\r\n//　もし対峙者がその点について、俺の自信を裏返しに\r\n//した不安を抱いているなら――\r\n//　いずれ必ず、仕掛けて来る。\r\n  If she also suspects that she may be the first to flag, then she will likely strike before long.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46617,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110530a00'>\r\n//（そうだ。\r\n//　彼女は来る）\r\n(No. She㉓<I>must</I>㉑strike.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46788,
+  "en": "\r\n//　確信する。\r\n  Of course. From the beginning, her purpose in this duel was to prove herself the better swordsman. But I have never doubted that.\r\n\r\n//　思えば首領は、俺に優るとの自負をもってこの対戦\r\n//に臨んでいるのだ。先日の敗北が誤りであると証明し\r\n//ようと。\r\n//　対して俺は、実力で劣るという事を疑っていない。\r\n\r\n//　俺の方がこの相対を続けるのには何の支障も無い。\r\n//　が、彼女は違う。このまま五分と五分の対峙を維持\r\n//する事は、己が実力で優越するというそもそもの戦う\r\n//動機を否定するに等しく、戦いの意味を失わしめる。\r\n  In which case, this stalemate weighs more heavily on her than on me. I lose nothing by letting it continue, but to her, the fact that we are deadlocked―<br>which is to say㉒<I>evenly matched―</I>is a repudiation of the very goal that brought her here.\r\n\r\n//　だから攻めざるを得ない。\r\n//　彼女は自己の力量を証し立てるため、必ず来る。\r\n  If I will not strike, then she must. That is the only way to prove herself superior.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47971,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110540b31'>\r\n//「――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48092,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110550a00'>\r\n//（来る……）\r\n(...Now?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48217,
+  "en": "\r\n//　―――――――――――――――――――――――\r\n//――――――――――――――――――――――――\r\n//――――――――――――――――――――――――\r\n//――――――――――――――――――――――来た。\r\n  Now.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48542,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110560a00'>\r\n//「！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48652,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110570b31'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48773,
+  "en": "\r\n//　…………そう来たか!?\r\n  So㉒<I>that's</I>㉓her play!\r\n\r\n//　彼女は確かに、押し出してきた。\r\n//　だが――それは俺の予測を全く外すものだった。\r\n  The captain does indeed make the first move, but one that utterly betrays my expectations.\r\n\r\n//　首領は足を摺り、じり……と進み出てきた。\r\n//　ただ、それだけだったのだ。\r\n  A single half-step in my direction, then another, but no sign of an attack.\r\n\r\n//　つまりは再び、間合を詰め始めたのだ。\r\n  My enemy has resumed her advance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49368,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110580a00'>\r\n//（いかぬ）\r\n(No!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49486,
+  "en": "\r\n//　顔から血の気が引いてゆくのを感じ取る。\r\n//　鏡に映せば幽鬼めいた蒼白貌を拝めるだろう。\r\n  I feel the blood drain from my face as icy fingers play up my spine.\r\n\r\n//　敵手の企むところが奈辺か、手に取るようにわかる。\r\n//　気付くのが余りにも遅過ぎたが。\r\n  The captain's aim is glaringly apparent, though I realized it far too late.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49914,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110590a00'>\r\n//（俺の間合が<RUBY text='・・・・'>殺される</RUBY>）\r\n(She means to kill my range!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50107,
+  "en": "\r\n//　そうとしか、解釈のしようはない。\r\n\r\n//　言わずもがな、刀剣には間合というものがある。\r\n//　それは、刃が届く範囲――では、ない。正確には。\r\n  When wielding the sword―<br>or any weapon, for that matter―your first concern is whether your target is in range. This is not, however, as simple as having him in reach of your blade.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50514,
+  "en": "\r\n//　例えば切先だけ届く距離を、間合の内とは通常考え\r\n//ない。\r\n  If, for example, the enemy is only close enough to strike with the tip of your sword, then he is not considered in range. This is because a slash made with only the tip is unlikely to deal significant damage.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50825,
+  "en": "\r\n//　敵の骨肉まで刀剣が断裁し得る間合とは、切先三寸\r\n//下より一尺ほどの範囲の刃が相手に触れる距離である\r\n//と云う。\r\n//　その該当部分を称して<RUBY text='ものうち'>物打</RUBY>と呼ぶ。\r\n  In order to deliver a blow strong enough to cleave through muscle and bone, you must strike with the part of the blade located between ten and thirty centimeters below the tip. This is called the mono-uchi.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51301,
+  "en": "\r\n//　物打の間を越えても、<RUBY text='・・・・・'>下回っても</RUBY>、刀剣の殺傷力は\r\n//損なわれる。\r\n//　斬って、斬れなくはない……だが一撃必殺とはゆか\r\n//ないもの。\r\n  If you make contact with any part of the blade above―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51599,
+  "en": "\r\n  ―or㉓<I>below</I>㉑the mono-uchi, then the strike will lack the force needed for a certain kill.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51713,
+  "en": "\r\n//　今は双方、相手を物打の当たる距離に収めている。\r\n//　が……このまま、首領が間を詰め続けたなら。\r\n  At the current distance, we are both in position to strike with our mono-uchi. But if she continues to advance, then sooner or later, she will be too close to strike with my mono-uchi. I, however, will still be within range of hers.\r\n\r\n//　相関距離が俺の物打の間よりも縮まる。\r\n//　そして、その時点では、敵側はなおこちらを物打の\r\n//範疇に留めている……\r\n\r\n//　そう。\r\n//　対峙がかく膠着する以前には、ある面で俺の有利を\r\n//保証した射程距離の優越が、今度は仇となるのだ。\r\n//　<RUBY text='・・・・・・・・・・・・・・・'>最低射程も俺の方が長いのだから</RUBY>。\r\n  My superior reach, which gave me the advantage at the start of this duel, has now become a liability. Put simply, my minimum range is greater than hers.\r\n\r\n//　やがては、対手のみが一方的に俺を斬り得る間合と\r\n//なる。その意味はつまり俺の敗死だ。\r\n//　そんな近間からの剣閃を防ぎ止めることがどれほど\r\n//難儀か、他人の知恵を借りるまでもない。\r\n  The moment she passes below that range, she will be able to strike without fear of reprisal, while I will be faced with the monumental task of defending against an opponent who, from my perspective, may as well be attacking from inside my own body.\r\n\r\n//　所謂、<RUBY text='・・・・・・'>懐に入られる</RUBY>という格好だ。\r\n//　体格に優れる者が劣る者と立ち合う際、最も危惧せ\r\n//ねばならぬ事態だ。\r\n  This is the inherent danger in facing an opponent smaller than oneself. I should have been guarding against it from the start.\r\n\r\n//　近い未来に約束された窮地を回避したく望むなら、\r\n//そうなる前に決着をつける必要があろう。\r\n//　だが、その先に待つも死地だ。\r\n  My only escape is to strike now, before it comes to pass. But that way, too, lies death.\r\n\r\n//　仕掛ければ返される。\r\n//　それは、わかり切っている。\r\n  Her counter is waiting. Of that I have no doubt.\r\n\r\n//　迂闊に動けぬ状況は何も変わっていない。\r\n//　ただ………こちらに限って、時間制限が設けられた\r\n//だけだ。\r\n  So nothing has changed, save that now I have a time limit pressing against me.\r\n\r\n//　動けば死。\r\n//　待てば死。\r\n  If I strike, death. If I wait, death.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54321,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110600a00'>\r\n//（下がる、か……？）\r\n(Should I... retreat?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54471,
+  "en": "\r\n//　妙手めいたものがふと、脳裏を<RUBY text='よ'>過</RUBY>ぎった。\r\n//　……ひとまず後退する。\r\n  An idea flashes through my head. Retreat. Move backward, away from the enemy.\r\n\r\n//　敵が前進するのと同じ速度で退き、間合を維持する。\r\n//　そうすれば有利にはならずとも、膠着状態は続けら\r\n//れる……\r\n  Wouldn't that solve my problem? I could maintain a distance that allows me to act, thereby prolonging the stalemate, which should work to my―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55010,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110610a00'>\r\n//（駄目だ）\r\n(No.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55128,
+  "en": "\r\n//　しかし、俺は自分の発想を一蹴した。\r\n//　後退すればその刹那、俺は<RUBY text='・・・'>死に体</RUBY>となる。\r\n  I quickly dismiss the thought. The moment I shift my weight to the rear, I'm dead.\r\n\r\n//　前進して敵に打ち込んでゆく勢力を失う。\r\n//　それこそ、彼女にすれば勝機だ。迎撃の恐れはなく、\r\n//また体重が後ろへ流れているとなれば防御も踏ん張り\r\n//が利かない。斬り崩すのは造作ない。\r\n  I will lose the ability to strike with my body, making my sword ineffective. The captain will be able to attack with impunity, and will easily overpower any defense, given that I am already falling away from her.\r\n\r\n//　彼女がその勝機を掴み損ねると信じるのは如何にも\r\n//甘かろう。\r\n//　対手、つまり俺の取り得る手立ての一つとして後退\r\n//を考慮に入れていないとは考えられない。\r\n  She must have considered every possible response to her advance. It would be delusional to hope that she won't seize the opportunity.\r\n\r\n//　退けば必ず食い付いてくる。\r\n  If I strike, death. If I wait, death. If I retreat, death.\r\n\r\n//　……逃げ場、無し。\r\n//　時間稼ぎの策すらも。\r\n  No way out. No hope of even postponing the inevitable.\r\n\r\n//　時間はただ喪失に喪失を重ね、\r\n//　俺の死を意味する刻限へと近付いてゆく。\r\n  Time marches on, counting down to the moment of my doom.\r\n\r\n//　両の腕に保持される太刀が意味を無くす、その距離\r\n//が接近する。\r\n  Another two or three centimeters, and the sword in my hands will lose its meaning.\r\n\r\n//　……元より、この敵手を殺すつもりはないのだ。\r\n//　殺傷力を失う、それ自体は良しとしてもいい。\r\n  Of course, my goal is not to kill the captain. Perhaps my sword does not need its full strength.\r\n\r\n//　だが打撃力の減衰が殺傷力以下<RUBY text='・・・'>制圧力</RUBY>以上にうまく\r\n//収まるかと云うと――\r\n//　虫の良い期待であろう。\r\n  But will it still have㉓<I>stopping</I> power when it can no longer kill? Will I be able to find that perfect balance?\r\n  No, the chance of that is too slim to rely on.\r\n\r\n//　殺傷力が有るとは、骨まで断てるという事だ。\r\n//　それが無いとは、骨は断てないという事だ。\r\n  In swordsmanship, killing force is defined as the ability to cut through bone. If my sword lacks that, then even if my strike lands first, it will cut at most a few centimeters into her shoulder.\r\n\r\n//　このまま間合が侵され、そして斬り合いになったと\r\n//して――しかも速度優り、先にこちらの刃が相手の体\r\n//に達したとして。\r\n//　俺の太刀は敵の肩口を数<RUBY text='センチ'>糎</RUBY>は抉るだろう。\r\n\r\n//　しかし敵は止まるまい。\r\n//　一瞬の百分の一程の時間の後、敵の刃が達し、俺は\r\n//骨から内臓まで存分に斬り裂かれて果てる。\r\n  That won't stop her. A fraction of a fraction of a second later, her sword will plow through my collarbone and into my chest cavity.\r\n\r\n//　敗北だ。\r\n  Defeat.\r\n\r\n//　ならば、相打ちではなく――\r\n//　一方的に、一撃を加えられるなら？　その一撃では\r\n//勝負を決められずとも、相手を弱らせ、流れを有利に\r\n//変えられるのではないか。\r\n  All right. Then what if I land a hit without taking one myself? That would at least weaken her and turn the tide in my favor.\r\n\r\n//　打潮――切落の剣理で敵の剣を封じた上で斬れば。\r\n//　あるいは体捌きを駆使して一撃を躱せば……\r\n  A successful uchishio would do the trick, or maybe I can evade her first strike with quick footwork.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59023,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110620a00'>\r\n//（絵空事だ）\r\n(Nonsense.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59150,
+  "en": "\r\n//　脳内実験に失敗し、その案も放棄する。\r\n//　理想の実現には、俺の能力限界と物理法則の無視が\r\n//どうにも必要不可欠なようであった。\r\n  I reject this plan, too, after a few mental simulations reveal that I will need to defy both my own limitations㉓<I>and</I> the laws of physics if I'm to pull something like that off.\r\n\r\n//　距離が、近過ぎるのだ。\r\n//　技を弄するだけの余裕が無い。\r\n  The range is just too close to maneuver. Nothing I can do will make it in time.\r\n\r\n//　そこまで懐に食い付かれてしまっては、最早こちら\r\n//は闇雲に太刀を振り下ろす以外の選択を失う。\r\n//　他はせいぜい、黙って斬られるくらいだろう。受け\r\n//太刀を繰り出すのも、やはり無理だ。間に合うまい。\r\n  That leaves me with only two options: to strike and pray for a miracle to occur... or to accept defeat and wait for her blade to end my life.\r\n\r\n//　……打つ手が無い。\r\n\r\n//　無い。\r\n  There's nothing else.\r\n\r\n  Nothing.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60249,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110630a00'>\r\n//（……負けたのか）\r\n(Have I lost?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60388,
+  "en": "\r\n//　未だ一合さえ太刀を合わせていない。\r\n//　だが既に勝負は決した――そうなのかと、思う。\r\n  Although we haven't had a single exchange, the duel seems all but decided.\r\n\r\n//　それは、かつて感じた覚えのない絶望だった。\r\n  I have never felt such despair as this. So much is riding on this battle. The fate of the town. My sister's life...\r\n\r\n//　負けてはならぬ勝負である。\r\n//　妹の命運を背負った勝負である。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60898,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0110640b46'>\r\n//「母親としては、一緒に死んでやるくらいか」\r\n\"As his mother... I guess I'll just have to die with him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61108,
+  "en": "\r\n//　――更に、もう<RUBY text='おひとかた'>御一方</RUBY>の命をも。\r\n  ...and my mother's.\r\n\r\n//　そんな戦いに、\r\n//　……敗れようとしている。\r\n  Defeat is unacceptable, yet defeat is just what I'm facing.\r\n\r\n//　その想いが心魂の奥底から新たな力を呼び起こして\r\n//くれるような事は無かった。\r\n//　世の中はそこまで俺に都合良く出来てはいなかった。\r\n  If only this desperation would awaken some power hidden inside of me... but no, the world is not so kind. Desperation brings only greater despair.\r\n\r\n//　それが呼んだものは単に深い絶望だった。\r\n//　そして動揺だった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61815,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110650a00'>\r\n//（落ち着け……）\r\n(Calm down,) I scold myself, to no avail.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61978,
+  "en": "\r\n//　自己への叱咤も絶望を前にしては虚しい。\r\n//　視界が急速に、色を失い始めていた。\r\n  My vision is rapidly losing color, the same phenomenon experienced by musha during extreme caloric deficiency. This episode is a sign of anxiety, not freeze, but ultimately they mean the same thing.\r\n\r\n//　<RUBY text='カロリー'>熱量</RUBY>を失った武者が陥るという、<RUBY text='グレイアウト'>灰転症状</RUBY>とは違う。\r\n//極度の緊張が血流を乱しているだけだ。\r\n//　だが、意味は似たようなものだった。\r\n\r\n//　……自壊。\r\n//　俺は自ら崩れ、敗れようとしている。\r\n  Impending collapse. I'm digging my own grave.\r\n\r\n//　自覚しても、抑制が利かない。\r\n//　意識が惑乱し、散漫になり、現実認識が怪しくなる。\r\n  But even though I know what is happening, I can do nothing to stop it. My mind is cloaked in fog, and the world is slipping away.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62975,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110660a00'>\r\n//（今は対戦中……\r\n//　敵は目の前にいる）\r\n(You're fighting a duel. Focus on the enemy!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63176,
+  "en": "\r\n//　自らに言い聞かせる、その声が遠い。\r\n//　<RUBY text='・・・・・・・・・'>俺が何処にいるのか</RUBY>、わからなくなってくる。\r\n  My second attempt to regain control proves no more successful than the first. The words sound distant, foreign, my sense of place and position fading.\r\n\r\n//　……まずい。\r\n//　身体感覚が消える。\r\n  The situation is dire. My body is growing numb.\r\n\r\n//　自分の身体を見失う。\r\n\r\n//　この動揺が表面化したら終わりだ。\r\n//　どうしようもない隙となって表れるだろうそれは、\r\n//敵手にとって待望の瞬間に違いない。\r\n  The moment my distress becomes apparent to the enemy, I'm finished. She will strike, and I will die.\r\n\r\n//　即、斬死……\r\n//　何の対応もできずに。\r\n  I will die... and my mission will fail.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64066,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110670a00'>\r\n//（それは、ならぬ）\r\n(I can't fail!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64206,
+  "en": "\r\n//　己一人の都合で死ねぬ身である。\r\n  More lives than my own are at stake here.\r\n\r\n//　流離してゆく五体の感覚を引き止めようと、足掻く。\r\n//　それは溺れる者が藁をつかむに似ていただろう。\r\n  Like a drowning man scrabbling at driftwood, I struggle desperately to hold my dissolving body together.\r\n\r\n//　すべての努力は<RUBY text='ゼロ'>零</RUBY>の積み重ねに過ぎず、何ら有益な\r\n//ものを結実させない。\r\n//　俺の心身を押し流さんとする悪意のうねりは、慰め\r\n//程度に弱まることもなく、せせら笑って目的を遂げる。\r\n  But my efforts are in vain. The despair surging through me cannot be stayed from its nefarious purpose.\r\n\r\n//　感覚はまず、下から消失した。1\r\n//　……足腰が無い。\r\n  First, my legs vanish from beneath me, leaving my body suspended in the air.\r\n\r\n  Oh, I know that if I look down, I will find them right where they should be; but though my eyes seek to fulfill that urge, I cannot allow them to stray for even a second from the enemy before me.\r\n\r\n  And so, I am left with the feeling of utter weightlessness, as if my sword and I were flying through the open sky.\r\n\r\n  A thought floats idly through my head. This must be how a musha feels. To a musha in flight, the legs are merely auxiliary stabilizers. Their loss is not a major impediment.\r\n\r\n//　何処かへ消えてしまった。\r\n//　いや、そんな筈はない――目を下に向ければ確固と\r\n//在るだろう。\r\n//\r\n//　だがそうしたがる眼球を、まさか好きにさせられる\r\n//わけはなかった。\r\n//　敵は、前にいるのだ……！\r\n//\r\n//　ふとした弾みにも下を向いてしまいそうになる目線\r\n//を、必死の思いで正面に固定する。\r\n//　そうすればしかし、足腰が無いという馬鹿げた疑念\r\n//を払拭することが叶わないのだった。\r\n//\r\n//　今や、<RUBY text='・・・・・・・・・・・'>立っているのが疑わしい</RUBY>。\r\n//　空に浮いているような心地。\r\n//\r\n////　太刀を携え、空に舞う……\r\n////　それではまるで武者だなと、夢想じみたことを俺は\r\n////考えた。\r\n//\r\n////　武者ならば、両足が本当に無くなってもさして困る\r\n////まい。\r\n////　云わば姿勢制御用の<RUBY text='パーツ'>部品</RUBY>に過ぎないのだから。\r\n//\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66700,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110680a00'>\r\n//（羨ましいことだ）\r\n(If only I could say the same.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66856,
+  "en": "\r\n//　などと<RUBY text='うすぼ'>薄惚</RUBY>けた想念まで浮かんだのは、俺が棺桶に\r\n//片足を突っ込んでいる証だったのかもしれない。\r\n//　そんな間にも時は流れ、対敵は接近し、つまり死は\r\n//肉薄している。\r\n  Perhaps I am able to entertain such fantasies because I know that death is near. Even now, time rolls on. My enemy approaches, and with her comes oblivion.\r\n\r\n//　――やんぬるかな。\r\n  So it comes to this.\r\n\r\n//　辛うじて正気を保っている、心のわずかな一部分。\r\n//　そこにすがって、俺は覚悟を定めた。\r\n  In the small corner of my mind still clinging to reality, I prepare myself to do what must be done.\r\n\r\n//　かくなる上は、斬れるうちに斬り込むしかない。\r\n//　相手は待ち構えている。迎撃で制される恐れは濃い。\r\n//極めて濃い。勝算は少ない――が、このまま押し込ま\r\n//れるのを待っていては少ないどころか、皆無になる。\r\n  At this point, I have only one choice: to strike first, and stake everything on the slim, slim hope that her counter will fail. My chances of success are one in a million, but compared to what they will be once she passes under my range, they might as well be certain.\r\n\r\n//　仄かな光明に活路を見出すのみだった。\r\n//　そのために――まず足腰を取り戻す。\r\n  But first, I must regain control of my legs.\r\n\r\n\r\n//　頭に血を上らせ、下半身の感覚を喪失した状態では、\r\n//闇雲に斬りつける事さえままならない。\r\n//　心の、動揺し続ける部分は<RUBY text='・・・'>忘却し</RUBY>、平静な部分に全\r\n//意思を乗せる……そして四肢を再確認する。\r\n  With all the blood gone to my head, my lower body is cold and numb. I turn away from the part of me still lost in despair, and focus all that remains on remembering my wayward limbs.\r\n\r\n//　体を今も支えている筈の、二本の脚を探す。\r\n//　……落ち着け。\r\n  I know they're there. I just need to find them.\r\n\r\n  ...Relax. You're not a musha, flying through the sky. You're a man, with two legs supporting you.\r\n\r\n//　ここは空ではなく、俺は武者ではない。\r\n//　だから足は確かにあるのだ。\r\n\r\n//　足の踏み込みには頼らぬのが武者の刀法。\r\n//　しかしここは地上だ。足技を忘れては充分な一撃は\r\n//達成し得ない。\r\n  A musha in flight may need no legs to strike, but this is the ground. A step-in is required.\r\n\r\n//　足を使って踏み込まねば、\r\n//　威力も、間合も――――\r\n  Without the step-in, your strike will lack power, range, and―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69620,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110690a00'>\r\n//「！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69730,
+  "en": "\r\n//　その一瞬。\r\n\r\n//　……全てが繋がった。\r\n  In a flash, everything falls into place.\r\n\r\n//　心は現実に復帰した。\r\n//　感覚は正常に立ち戻った。\r\n  My vision clears, my mind awakens, and feeling returns to each part of my body.\r\n\r\n//　腕と、足と、腰と、脊椎、そして一刀の所在を把握\r\n//する。\r\n//　視界は眩まず、誤差のない情報を入手する。\r\n\r\n//　俺が復元する。\r\n//　離散しかけた自分というものが、今再び一点に集束\r\n//する。\r\n  I take stock. Two arms, two legs. Hips and a spine. A blade in my hands.\r\n\r\n  The scattered pieces of myself have rejoined with one another. I am whole once more.\r\n\r\n//　その、半瞬後。<k>\r\n//　間合は遂に、<k>俺の最低射程を割るところに到達して\r\n//――\r\n\r\n  And none too soon. A half-heartbeat later―<K>my enemy takes the final step.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 70658,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110700b31'>\r\n//「――！」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 70780,
+  "en": "\r\n//　俺の<RUBY text='・・・'>斬り間</RUBY>は。\r\n//　失われず、維持されていた。\r\n  And I...<K> still have my range.\r\n\r\n//　首領にも、それは伝わったろう。\r\n//　すぐさま斬りつけて来ないことが何よりの証拠だ。\r\n  This is not lost on the captain. That she stays her hand is proof of that.\r\n\r\n//　俺はただ重心を移動させたに過ぎない。\r\n\r\n//　足は、そのまま。\r\n//　両膝の角度を変え、腰をわずかに後方へ――体重を\r\n//後ろへ。体が流れてしまわぬ程度に、ほんの微妙に。\r\n  I have merely effected a minor change in posture, angling my knees in such a way as to shift my hips―my center of gravity―a few centimeters to the rear.\r\n\r\n//　それで変化は済んだ。\r\n//　<RUBY text='・・・・・・・'>踏み込んで斬る</RUBY>体勢から、<RUBY text='・・・・・・'>その場で斬る</RUBY>体勢へ。\r\n  A minor change, but that is all I needed. Where before, I was poised to step into the strike, now I am poised to strike㉒<I>where I'm standing.</I> \r\n\r\n//　日頃より親しむ、素振りの型である。\r\n//　空の斗争に備えた、足遣いを自ら封ずる武者の鍛錬。\r\n  This is the very same position that I assume for my daily striking practice, the method by which a musha learns to wield his sword without the use of his legs.\r\n\r\n\r\n//　通常、地上においては実戦的な意味を持たない太刀\r\n//振りの形態である。\r\n//　足場というものがある戦いでは、踏み込みの利益を\r\n//捨てる愚行をしか意味しない。\r\n  In general, it has no purpose in ground-based combat. There is normally no reason not to perform a step-in when it is possible to do so. The extra speed and power gained by footwork are too valuable to be ignored.\r\n\r\n//　あくまで、通常は。\r\n//　このような状況であれば――敵手に内懐まで食いつ\r\n//かれた格好であれば、その愚は逆転する。\r\n  In certain extreme situations, however―such as when your opponent is nearly too close to strike―<br>abandoning footwork has one benefit.\r\n\r\n//　<RUBY text='・・・・・・・・・・'>斬撃の間合を縮小する</RUBY>という効果を生む。\r\n//　それこそ、万死に一生を掴む道であった。\r\n  Which is to say the effect of <I>shortening</I>㉑your minimum range. \r\n\r\n//　敵の深い侵入を迎えた、この間合――\r\n//　踏み込みを捨てた俺にはなお絶好、<RUBY text='ものうちどころ'>物打処</RUBY>が相手を\r\n//捉える間隔である。\r\n  I can practically count the hairs on my enemy's head, but thanks to this tiny shift in posture, she is still within the strike zone of my sword's mono-uchi.\r\n\r\n//　思いついてみれば、至極、単純な事。\r\n//　だが、斬り付けは踏み込むもの――という固定観念\r\n//が、その単純なる発想を容易には許してくれなかった\r\n//のだ。\r\n  In retrospect, this play was rather obvious, but my preconceived notions of what a ground-based duel entailed prevented me from seeing it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 73952,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110710a00'>\r\n//（危うい……）\r\n(Too close.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 74083,
+  "en": "\r\n//　断崖に落ちかけた身を指一本で支える。\r\n//　まさにその心境だった。\r\n  I feel like a man who has barely managed to catch the edge of a cliff.\r\n\r\n//　――安堵して、吐息をこぼす暇など無かったが。\r\n  Not that there's any time to feel relief. I have escaped certain death, yes, but only for the moment.\r\n\r\n//　死地は脱した。\r\n//　そして、状況はここに窮まった。\r\n\r\n//　首領はこちらの変形を認めながら、去就に迷いもし\r\n//ない。\r\n//　変わらず、巧緻の極にある遅足前進を続けている。\r\n  While the captain has recognized the change and what it means, she shows not a glimmer of doubt before resuming her advance: that beautifully, dreadfully slow advance.\r\n\r\n//　この現況。\r\n//　こちらにとっては、もはや斬るのみの間だ。しかし、\r\n//まだ迂闊には仕掛けられない。\r\n  Now I truly have no choice but to strike. However, I cannot.\r\n\r\n//　俺に比せば四肢の短い敵手の側は、いくらか間合の\r\n//余裕を残している。\r\n//　これほどの近間でも切落、あるいはそれ以外の応じ\r\n//技を繰り出し得る。……まだ、待つ必要があった。\r\n  As the captain's reach is shorter than mine, she still has a few centimeters of latitude left. It may be possible for her to perform kiri-otoshi even at this close range. I must wait a while longer.\r\n\r\n//　反して敵は、対峙初期の俺と似た状況にある。\r\n//　こちらに応じ技の余地はない。対応策は相打ちのみ。\r\n//であれば今すぐにも先手を取り、髪一筋分でも早く剣\r\n//を相手へ届かせるが最上手だ。\r\n  The captain, on the other hand, is in a position similar to mine at the beginning of the duel. I have no room to counter, which means that my only possible response to any strike of hers will be to aim for a draw―we both score a hit. In which case, her best play is to strike first and claim the initiative.\r\n\r\n//　しかし――来ない。\r\n//　間合をじわりと削りながら、俺の呼吸を測るばかり\r\n//である。\r\n  And yet, she does not. She waits for me to make my move, closing all the while.\r\n\r\n\r\n//　なぜか。\r\n//　確たるところは、定かではない。\r\n  Why does she persist? I cannot be certain... but perhaps her pride demands it. If she pressures me into striking first, then defeats me with a counter, it will be a far better demonstration of her superiority than a victory won through speed alone.\r\n\r\n//　しかし、あるいは……これも己への自負心ゆえか。\r\n//　紙一重の勝利よりも、俺を威迫し誘い出しての迎撃\r\n//による完勝をこそ望むのか。\r\n\r\n//　確かに刻一刻と厚みを増す殺気は俺の恐怖心を煽り\r\n//立てる。\r\n//　精神の手綱をほんの少しでも緩めればその瞬間にも、\r\n//喚き立てながら無闇に斬り掛かってしまいそうな程に。\r\n  I cannot deny that her malice, intensifying by the moment, strikes fear into my heart. Any slack in my mental reins, and I may fall upon her in a screaming frenzy.\r\n\r\n//　衝動を堪えるには意志力の総動員を必要とした。\r\n\r\n//　――あとわずか。あとわずか、耐えねばならない。\r\n  It takes all my willpower just to stand, and wait.\r\n\r\n  A little longer. I need endure for just... a little longer.\r\n\r\n//　最後の節目が間もなく訪れる。\r\n  The last chance is nearly at hand.\r\n\r\n//　間合はこのまま狭まり……\r\n//　遂に敵手も、ただ斬るばかりの距離に達する。\r\n  Once she reaches the inside limit of her own minimum range, then she too will have no choice but to strike.\r\n\r\n//　互いに応じ技を<RUBY text='こ'>凝</RUBY>らす余地、最早なく。\r\n//　ただただ斬り合い、剣速を競うのみの間合に。\r\n  Neither of us will have room to counter. There will be no feints, no clever tricks. Raw speed alone will decide the victor.\r\n\r\n//　策も術も技も無し。\r\n//　条件は五分と五分。疑いようもなく互角の勝負。\r\n  A purely even match. Which warrior is the faster? Which the stronger?\r\n\r\n//　どちらが、速いか。\r\n//　どちらが、強いか。\r\n\r\n//　一刀の振り合いにて、それを決する。\r\n  One exchange, and we'll have our answer.\r\n\r\n//　最後の節目。\r\n//　最後の戦機だ。\r\n  The last chance. The moment of truth.\r\n\r\n//　……間合は近接。\r\n//　手を伸ばせば届くほどの距離に、我が敵はいた。\r\n  The range is point-blank, my enemy close enough to reach out and touch.\r\n\r\n//　その貌は、<k>\r\n//　――湖面の如く。\r\n  Her face fills my sight, cold and calm as the surface of a lake.\r\n\r\n//　彼女は山賊だ。\r\n//　六波羅上がりの、尊敬できぬ経歴を持つ、どう見た\r\n//ところでいけ好かない女だ。\r\n  She is a bandit, a deserter, a former Rokuhara soldier. I would have to think long and hard to find one thing about her worthy of admiration.\r\n\r\n//　しかし今この瞬間は、純一の武人であって――ただ\r\n//それきりの存在だった。\r\n  But at this moment, she is a warrior. No more, no less.\r\n\r\n  She is a vessel of might, the pure expression of a single goal. The destruction of Minato Kageaki.\r\n\r\n\r\n//　<RUBY text='おれ'>湊斗景明</RUBY>という敵に打ち克つ、\r\n//　ひたむきなちから。\r\n//\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 79601,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0110720b31'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 79740,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0110730a00'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 79876,
+  "en": "\r\n//　朝日が差した。\r\n  The sun rises.\r\n\r\n",
+  "pt": ""
+ }
+]

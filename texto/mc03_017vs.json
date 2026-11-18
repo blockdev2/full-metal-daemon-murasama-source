@@ -1,0 +1,122 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　太陽は西の空にあった。\r\n//　もうじき山の<RUBY text='は'>端</RUBY>へ沈み、夕暮れが訪れるだろう。\r\n  The sun is low in the west, the mountains rising to pluck it from the sky.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 440,
+  "en": "\r\n//　その前に決着をつけたいものだと、切に願った。\r\n//　<RUBY text='・・・・・'>あんな代物</RUBY>と昏い世界で対峙したくない、それだけ\r\n//でも理由としては足りる。\r\n  I need to finish this before that happens. The last thing I want is to face an enemy like this in darkness.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 786,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/017vs0010a01'>\r\n//《敵騎至近！》\r\n《Target, point-blank!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 939,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/017vs0020a00'>\r\n//「つぁ――――」\r\n\"Gah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1069,
+  "en": "\r\n//　だが、より切実な事情もあった。\r\n//　現在の俺の身体状況を鑑みるに、この尋常ならざる\r\n//<RUBY text='パワー'>勢威</RUBY>を誇る敵と長時間に渡って鎬を削り合うのは……<k>\r\n//全くの無謀！\r\n\r\n//　<RUBY text='カロリー'>熱量</RUBY>が不足している！\r\n  But before I can even make it to dusk, I must first address a more pressing concern: my own condition, which after my failed attempt to stop the train can best be described as \"depleted.\" A lengthy engagement is out of the question!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1646,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc03/017vs0030b33'>\r\n//《死体とかはいい！　歯ブラシの色を言え！》\r\n《Forget your insides! Let's see the color of your toothbrush!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1875,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/017vs0040a00'>\r\n//「……糞！\r\n//　避け損ねたか!?」\r\n\"Dammit! I thought we dodged that!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2055,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/017vs0050a01'>\r\n//《左肩甲鉄破損!!\r\n//　何でよ、直撃でもないのにっ！》\r\n《Damage to left shoulder! How'd that get through!? It just grazed us!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2310,
+  "en": "\r\n//　手足が重い。鉛を詰められたようだ。\r\n//　実際に詰まっているのは、自業自得という四文字で\r\n//あろうが。\r\n  My limbs feel like they're stuffed with rocks. In reality, they are hobbled by the weight of my own foolishness. \r\n\r\n//　逆上に任せて粗雑な猛攻を仕掛けた<RUBY text='ツケ'>債務</RUBY>だ。\r\n//　<RUBY text='ブレス'>呼吸</RUBY>、<RUBY text='バーン'>燃焼</RUBY>、<RUBY text='ブラッド'>血流</RUBY>――武者として軽視すべからざる\r\n//<RUBY text='３Ｂ'>身体機能</RUBY>が全て狂ってしまっていた。\r\n  My rage-driven charge was reckless and sloppy, throwing blood, breath, and burn―the \"three Bs\" of musha combat―entirely out of sync. As a result, my combat effectiveness has dropped to a fraction of normal.\r\n\r\n//　俺の戦闘能力は大幅に低下した状態にある。\r\n//　\r\n//　対して、敵は前と同様、<RUBY text='フルスピード・アンド・フルスイング'>全速突進＋全力攻撃</RUBY>。  \r\n  My enemy, meanwhile, is still at full strength, and clearly intends to continue their strategy of all-out charge into all-out strike. The only thing that has changed is their weapon, which unlike a regular chainsaw, has apparently been modified for slashing attacks.\r\n\r\n  I might have thought it a ridiculous prop, if not for the way it cut through my armor like tissue paper.\r\n\r\n//　前と違うのはその武装だ。\r\n//　<RUBY text='チェーンソー'>回転鋸刀</RUBY>――それは本来叩き付けて使うような道具\r\n//ではない筈だが、戦闘用に改良を加えられているせい\r\n//なのか、そんな扱いでも充分に性能を発揮している。\r\n\r\n//　最も重厚な肩部甲鉄を薄紙も同然に切り裂かれては、\r\n//その見た目に安直な<RUBY text='ステージセット'>舞台装置</RUBY>を嘲笑ってやる事もでき\r\n//なかった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4281,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/017vs0060a00'>\r\n//「何という裁断力だ」\r\n\"That thing is a problem.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4437,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/017vs0070a01'>\r\n//《掠めて<RUBY text='・・'>これ</RUBY>だと……\r\n//　直撃した場合のことは、考えない方が心の\r\n//健康に良さそうね》\r\n《And that one barely grazed us. I don't want to think about what a direct hit would do.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4787,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/017vs0080a00'>\r\n//「毒の斧を捨てさせたのは失敗だった。結果\r\n//論だが……。\r\n//　どれほど嫌らしくとも、あちらの方がまだ\r\n//しも対処は容易だった気がする」\r\n\"In hindsight, I should have let them keep their axe. It might have been easier to fight that, poison and all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5193,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/017vs0090a01'>\r\n//《かもね……》\r\n《Yeah...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5333,
+  "en": "\r\n//　……要するに。\r\n//　我が状態は最悪で、敵は以前にも増して危険。\r\n  In any case, the fact is that our strength has decreased, while the enemy is more dangerous than ever. We cannot withstand another hit.\r\n\r\n//　もう一撃たりと貰えない。\r\n//　一撃で間違いなく、俺は戦闘継続能力を奪われる。\r\n\r\n//　自ら招いたこの窮地は、自らの才知で脱する以外に\r\n//なかった。\r\n//　この一合、そして次の一合が、おそらく俺の生死を\r\n//分かつ山場となる。\r\n  This leaves me with only one choice: to find a way out of the mess I made. This next exchange, or the next, will tell the tale.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6036,
+  "en": "\r\n//　――戦術を組み立てよう。\r\n//　今、<RUBY text='カン'>勘</RUBY>任せの戦いをすれば命を落とす。\r\n  Depending on instinct will get us killed. We need a strategy, a method by which my exhausted body can overcome the enemy's monstrous strength.\r\n\r\n//　息を切らしたこの身体が、剛力の怪物を相手にして、\r\n//如何にせば敗北を免れ得るか。\r\n//　慎重に考慮して決めねばならない。\r\n\r\n//　勝負に出るか、凌いで態勢を立て直すか、それとも。\r\n//　\r\n//　……いずれにせよ、一度決めたなら、もう修正する\r\n//余裕は無いであろう。\r\n  And whether I decide to attack, defend, or even to take some other course, the choice will have to be final. Therefore, in these few precious moments, I must first assess the options available.\r\n\r\n//　誤りに気付いた時には死んでいるに違いない。\r\n//　だから――今この一瞬に、よくよく考え抜いて決め\r\n//なくては。\r\n\r\n//　俺はまず、確認すべき事柄を脳裏にまとめた。\r\n//　順々、手短に村正へと問う。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7185,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/017vs0100a00'>\r\n//「陰義の使用は可能か？」\r\n\"Can we use shinogi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7342,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/017vs0110a01'>\r\n//《今は自殺行為ね。比喩ではなくて》\r\n《That would be suicide. Literally.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7538,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/017vs0120a00'>\r\n//「敵騎がまた<RUBY text='・・'>分離</RUBY>して攻撃をかけてくる事は\r\n//あると思うか？」\r\n\"Do you think they'll try to attack us separately?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7804,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/017vs0130a01'>\r\n//《どうかしら。\r\n//　各個の騎体性能は大きく低下していたよう\r\n//だし……あれは奇襲か緊急回避のための<RUBY text='からくり'>機巧</RUBY>\r\n//で、何度も使っては来ないと思うけれど》\r\n《Hard to say. The individual parts don't seem as strong. I'm guessing that only works when they can take you by surprise.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8279,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/017vs0140a00'>\r\n//「……列車が落ちた地点はまだ近いか？」\r\n\"How far are we from where the bridge fell?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8480,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/017vs0150a01'>\r\n//《戦闘で移動したから、少し離れてる。\r\n//　方角はほぼ真北よ》\r\n《A little ways to the south.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8707,
+  "en": "\r\n//　良し。\r\n//　最低限、訊くべきことは訊いた。これ以上の質問を\r\n//重ねるゆとりも無い。\r\n\r\n//　作戦手順を決定しよう。\r\n//　まず、最初の一合は……\r\n  All right. Now to formulate a plan.\r\n\r\n  First, I should―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8988,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 9014,
+  "en": "10_2",
+  "pt": ""
+ }
+]

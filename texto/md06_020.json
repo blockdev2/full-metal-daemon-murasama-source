@@ -1,0 +1,442 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200010a00'>\r\n//「人数はわかるか？」\r\n\"How many are there?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 362,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0200020a01'>\r\n//《四人よ》\r\n《Four.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 492,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200030a00'>\r\n//「そのくらいなら抑えられるな……。\r\n//　良し、そこにある半鐘を鳴らせ」\r\n\"Shouldn't be a problem. Go ahead and ring the bell.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 746,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0200040a01'>\r\n//《いいの？》\r\n《Are you sure?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 887,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200050a00'>\r\n//「ああ。\r\n//　真相を皆に知らしめる必要がある」\r\n\"Yes. We need everyone to see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1083,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0200060a01'>\r\n//《諒解》\r\n《All right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1215,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200070e227'>\r\n//「なんだぁ!?　火事か!?」\r\n\"Shit, that's the fire bell!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1416,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0200080e109'>\r\n//「げっ、冗談じゃねえ!!」\r\n\"Fuck!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1596,
+  "en": "\r\n//　突然の火事ほど恐ろしいものはない。\r\n//　半鐘の警報が響くや付近一帯の眠りは<RUBY text='たちま'>忽</RUBY>ち覚まされ、\r\n//人々は往来へ飛び出した。\r\n  Few things in a city are feared more than fire. Within a minute of the first clang, the riverside is packed with people wrested from their slumber.\r\n\r\n//　――そして、当然。\r\n//　それを目の当たりにする結果となった。\r\n\r\n//　完成が見えてきた出来かけの橋……\r\n//　その周囲に蠢く四人の男。\r\n  And there, they see what I wanted them to see. Four men skulking at the skeletal base of our bridge, in their hands saws, cleavers, hatchets―tools that can serve but one purpose.\r\n\r\n\r\n///　彼らの手にある道具。\r\n//　鋸、鉈、手斧……。\r\n\r\n//　逃げ場を失い、呆然とする顔。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2472,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200090e110'>\r\n//「あんたら……」\r\n\"Hey, that's―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2650,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200100b54'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2795,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200110a00'>\r\n//「この地域の治安維持に雇われたがっていた、\r\n//<RUBY text='・'>筋</RUBY>の方々ですか？」\r\n\"I assume these are the men who were offering their 'protection?'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3080,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200120e110'>\r\n//「そ、そうだ」\r\n\"Yeah... that's them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3261,
+  "en": "\r\n//　これで決まった。\r\n//　真相は、<RUBY text='・・・・・'>良くある事</RUBY>だった。\r\n  The mystery of the bridge, it turns out, was no mystery at all.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3451,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200130a00'>\r\n//「倫理的に問題のある<RUBY text='セールス'>売り込み</RUBY>です」\r\n\"They could use a seminar on ethical sales practices.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3687,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200140b54'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3832,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200150a00'>\r\n//「治安回復を必要とさせるために、まず治安\r\n//を悪化させる。\r\n//　合理的発想と、言えなくはありませんが」\r\n\"Though I suppose that when your business is protection, the last thing you want is for potential clients to feel safe without you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4211,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200160e110'>\r\n//「どういうことだよ」\r\n\"What're you talking about?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4407,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200170a00'>\r\n//「橋を壊したのはこの方々です。\r\n//　今もまた、同じ事を……」\r\n\"They destroyed the old bridge. And they were planning to destroy this one too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4673,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200180a00'>\r\n//「旧来の住民と難民との間を裂くために」\r\n\"To keep you and the refugees at each other's throats.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4883,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200190e110'>\r\n//「な……何だと!?」\r\n\"Say what!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5059,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200200b54'>\r\n//「……ッ……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5207,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200210a00'>\r\n//「全てはこの地域の住民を資金源として取り\r\n//込むためだったのでしょうが……こうなって\r\n//はもはや叶わぬ事です。\r\n//　お諦め下さい」\r\n\"There you have it, gentlemen. I'm afraid this community will not be in need of your services.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5589,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200220a00'>\r\n//「何も言わず、そのままお帰りを。\r\n//　そうして今後一切の手出しを控えて頂ける\r\n//なら、住民の方々も難民の方々もあえて貴方\r\n//がたの責任を問おうとはなさらぬでしょう」\r\n\"I recommend that you leave. Now. If you are never seen in this area again, I suspect that no one will bother to report your activities here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6069,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200230a00'>\r\n//「そのように自分からも説得します」\r\n\"I trust that's a satisfactory arrangement?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6262,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200240b54'>\r\n//「要らん世話じゃァ」\r\n\"Take your arrangement and shove it, copper!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6456,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200250b54'>\r\n//「六波羅御雇の看板で食えた時代じゃねえ。\r\n//　稼ぎ場所を作らんことにゃあ、首も回らん\r\n//でのォ」\r\n\"Rokuhara ain't paying our bills anymore. We gotta make new customers or we're up shit creek.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6809,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200260b54'>\r\n//「引けって言われて引けるかい！」\r\n\"This turf is ours!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6996,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200270a00'>\r\n//「無意味な意地です」\r\n\"It is not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7136,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200280b54'>\r\n//「やっかぁしいわ！\r\n//　余計な邪魔しくさって――」\r\n\"Shut your goddamn mouth! You shouldn't have fucked with our plans.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7396,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200290b54'>\r\n//「こうなりゃ力ずくで<RUBY text='シマ'>縄張り</RUBY>にしたらァ!!」\r\n\"Now we take what we're owed!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7631,
+  "en": "\r\n//　四人の頭株と思われる男は佩刀の白鞘を払った。\r\n//　その両脇で、鋸を手にしていた男は短刀に持ち替え、\r\n//鉈と手斧の男はその刃先をこちらへ向ける。\r\n  Steel flashes in the lamplight. The leader of the four has drawn a crude katana, while to either side, his underlings brandish their axes and knives.\r\n\r\n//　周囲で悲鳴が上がり、人の輪が一歩後退した。\r\n//　\r\n//　……荒事は何としても避けたかったが――この状況、\r\n//言っている場合ではないか。\r\n\r\n  Around me, the crowd recoils in fear. I step forward. Though I hoped to avoid violence, it seems I don't have a choice.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8338,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200300a00'>\r\n//「村正、虎徹を寄越せ！」\r\n\"Muramasa, pass me <br>Kotetsu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8504,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0200310a01'>\r\n//《諒解！》\r\n《Got it!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8636,
+  "en": "\r\n//　場慣れした筋者四人を相手に丸腰では少々分が悪い。\r\n//　といって劒冑は大袈裟、太刀一本が適当なところだ。\r\n  Armoring would be overkill. At the same time, it would be foolish to face four hardened thugs barehanded.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8913,
+  "en": "\r\n//　流石と言うべきか、四人は俺の手の中に突如太刀が\r\n//現れるのを見て、仰天したとしてもそれで隙を作りは\r\n//しなかった。\r\n//　二人が前に出て、残り二人は左右に回る。\r\n\r\n//　四対一の形勢。\r\n//　ひとまず距離を取り、囲まれるのを防ぐ――それが\r\n//正手であろう。\r\n\r\n//　しかし今回、時間を掛けるべきではなかった。\r\n//　彼らが周囲の人々に刃を向ける事になっては大事だ。\r\n\r\n//　住民も難民も、絶対に傷付けさせてはならない。\r\n  Though their eyes widen when Kotetsu appears suddenly in my hands, the four men do not allow their surprise to distract them. Two step forward to attack me head-on while the remaining two approach from my sides.\r\n\r\n  In general, when facing multiple opponents, it is wise to keep your distance and avoid being surrounded. Here, however, my priority is to ensure the safety of the civilians present. I must not give these men a chance to turn their blades on them.\r\n\r\n//　従って退かぬ。\r\n//　前へ出る。\r\n\r\n//　正面右、鉈を持った男へ――\r\n  And so, instead of retreating, I advance toward the enemy on my right.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10161,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200320a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10285,
+  "en": "\r\n//　行く、<k>と見せて瞬時、向きを変え。\r\n//　右脇から食い付こうと飛び出しかけていた手斧男を\r\n//迎え撃つ。\r\n\r\n  The enemy braces for my attack. Immediately, I turn away, to meet instead his ally who is striking at my flank.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10565,
+  "en": "\r\n//　峰打ちの一刀は<RUBY text='あやま'>過</RUBY>たず、男の鎖骨を陥没させた。\r\n//　悲鳴の代わりに多量の空気を吐き出して、まず一人\r\n//が地面に倒れる。\r\n  The blunt edge of my blade lands true, collapsing the man's collarbone and driving the air from his lungs. He crumples without a whimper.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10923,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200330b54'>\r\n//「……ガキァ!!」\r\n\"DIE, PUNK!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11077,
+  "en": "\r\n//　激昂の声。\r\n//　そちらに視線を向けた刹那、額の中央に危機を知ら\r\n//せる電流が走った。\r\n  A shout of pure rage yanks my focus to the left. At the same instant, an electric tingle at my forehead warns me of danger.\r\n\r\n//　凄まじい一撃が襲い来る。\r\n//　確実に俺の肉体を二つ割りにできる程の――\r\n  A mighty blow falls from the sky, determined to split me in two.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11525,
+  "en": "\r\n//　危うく、防ぎの太刀は間に合った。\r\n//　真っ向から受け止めては押し負ける。斜めに逸らし、\r\n//受け流す。\r\n  I get my sword up just in time. Knowing that I don't have the strength to block it, I deflect the blow to the side. \r\n\r\n  It passes millimeters from my ear, taking several hairs with it.\r\n\r\n//　殺刃が耳の横を滑ってゆく。\r\n//　髪が数本巻き込まれ、引き千切られた。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11987,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200340a00'>\r\n//「……ッ！」\r\n\"Ngh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12109,
+  "en": "\r\n//　手首を返す。\r\n//　頭上で太刀を旋回させ――男の腋下を下方から抉る\r\n//ように。\r\n\r\n//　一撃。\r\n  My sword circles above my head, then strikes from below, taking the man beneath his right arm.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12352,
+  "en": "\r\n//【野木山組】\r\n<voice name='野木山組' class='その他男声' src='voice/md06/0200350b54'>\r\n//「げほァ!?」\r\n\"Gah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12494,
+  "en": "\r\n//　重傷を負わせぬよう加減はした。\r\n//　それでも急所を打ち抜く痛撃である。殴り殴られが\r\n//日常茶飯の筋者であろうと耐えられる道理はない。\r\n  Even considering that I held back my strength, such a blow is more than even the hardest man can endure.\r\n\r\n  He drops, foaming. Their leader is down. That just leaves two more.\r\n\r\n//　のたうち回る男は泡を吹いていた。\r\n//　もはや戦う力はあるまい。\r\n\r\n//　これで首領格も脱落。\r\n\r\n//　残るは、二人――――\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13064,
+  "en": "\r\n//　吐息し、汗を拭う。\r\n//　短いが激しい戦闘は、俺の体力精神力を大きく消耗\r\n//させた。\r\n  Afterward, while catching my breath, I wipe the sweat from my brow. That fight, though short, was exhausting.\r\n\r\n  Fortunately, I have sustained no injury, and the four toughs, now unconscious on the ground, will all survive their wounds.\r\n\r\n//　辛うじて、怪我はない。\r\n//　四人の筋者は全て地に伏しているが、こちらも命に\r\n//関わるような傷は誰も負っていない。\r\n\r\n//　……まぁ、上々の結果だろう。\r\n//　戦わずに済めばそれに越した事はなかったのだが。\r\n  Everyone lives. That's about the best outcome one can expect from a fight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13820,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200360a00'>\r\n//「村正……他に仲間はいないな？」\r\n\"Any more of them?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13985,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0200370a01'>\r\n//《大丈夫よ》\r\n《That was it.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14125,
+  "en": "\r\n//　返答を受けて、体の力を抜く。\r\n//　兎も角もこれで一件落着だ。\r\n\r\n//　すぐにすぐ住民と難民が肩を組んで笑い合えるとは\r\n//思わないが、少なくとも関係の好転には繋がるだろう。\r\n//　対立の根が一つ、取り除かれたのだから。\r\n  I let my body relax. All in all, I'd consider this a victory.\r\n\r\n  Of course, it's not as though the neighborhood's problems will just go away. They're still a long way from good relations. But at least now there's one less force acting to keep them apart.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14711,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200380a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14830,
+  "en": "\r\n//　ふと、奇妙な静寂に気付いた。\r\n//　俺を見守る、周囲の――\r\n\r\n//　何とも言いようがない、そんな気配。\r\n//　\r\n//　……そうか。刃物など、用が済んでもひけらかして\r\n//おくものではない。\r\n  Something is odd. The crowd is silent, but watchful. Why are they all staring?\r\n\r\n  Right. My sword. I shouldn't wave it about. Most people are fearful in the presence of a naked blade.\r\n\r\n//　軍人でも犯罪者でもない正常の市民にとって、刀剣\r\n//の光は脅威的だろう。\r\n//　俺は村正に命じ、虎徹を回収させた。\r\n  Silently, I instruct Muramasa to collect Kotetsu.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15517,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0200390e109'>\r\n//「消えた……!?」\r\n\"His sword!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15690,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200400e110'>\r\n//「お、おい。\r\n//　まさか――あの話……」\r\n\"It disappeared! Y- You don't think he's really―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15937,
+  "en": "\r\n//　……しまった。\r\n\r\n//　焦ってやり方を間違えた。\r\n//　今のは常人の視覚だと、太刀が消失したようにしか\r\n//見えない。\r\n\r\n//　わざわざ混乱を煽ってどうする。\r\n//　誤魔化さねば――何とか適当に、\r\n  Too late, I realize my mistake.\r\n\r\n  Just now my sword would have appeared to vanish. I should have known this would only upset them.\r\n\r\n  I need to explain. But how?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16391,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200410e110'>\r\n//「……あんた……」\r\n\"...Is it you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16571,
+  "en": "\r\n//　しかし。\r\n//　意を決した一人が口を開くのは、俺が弁明法を思い\r\n//つくより早かった。\r\n  But a local speaks first, long before any excuse comes to mind.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16774,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200420e110'>\r\n//「あんた」\r\n\"Are you the one they're talking about?\"\r\n\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200430e110'>\r\n//「今までに何人も殺してきた、殺人鬼の武者\r\n//だって聞いたんだけど……\r\n//　ほ――ほっ、本当なのか!?」\r\n\"They say there's a musha out there killing people! Is it true!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17307,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200440a00'>\r\n//「……え？」\r\n\"...What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17433,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200450e110'>\r\n//「誰でも構わず……\r\n//　女でも子供でも殺してきたって」\r\n\"He'll kill anyone. Women, kids.\"\r\n\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200460e110'>\r\n//「聞いたん……だけど……」\r\n\"I mean... that's what I heard...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17886,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200470a00'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18022,
+  "en": "\r\n//　誰が。\r\n\r\n//　誰が、教えたのだ。\r\n\r\n//　その――――真実を。\r\n  Heard? Where? Who told them that?\r\n\r\n  Who told them the㉓<I>truth?</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18199,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0200480e228'>\r\n//「な……何を言い出すんだよ、いきなり！」\r\n\"What? That's crazy!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18418,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200490e110'>\r\n//「い、いや。\r\n//　俺だって信じちゃいなかったけど」\r\n\"I know it sounds crazy! I didn't believe it myself...\"\r\n\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200500e110'>\r\n//「今の見たろ！\r\n//　ヤクザをあっさり片付けるし、刀は出たり\r\n//消えたりするし！」\r\n\"But you saw what he did! The way he fought! That trick with the disappearing sword!\"\r\n\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200510e110'>\r\n//「あんな真似、武者にしかできねえよ！」\r\n\"I'm telling you that's musha shit!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19238,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0200520e228'>\r\n//「それは……そうだが……」\r\n\"Yeah, but...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19429,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200530e227'>\r\n//「まっ、待てって！\r\n//　このお巡りさんがもし、武者だとしてもだ\r\n//……まさか殺人鬼ってことはないだろう！」\r\n\"Wait! Wait a second, guys! Maybe he's a musha, but that doesn't mean he's a killer!\"\r\n\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200540e227'>\r\n//「なぁっ!?」\r\n\"I mean, you're not, right!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19983,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200550a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20107,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200560e227'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200570e227'>\r\n//「お、おい。\r\n//　なんで黙ってるんだよ」\r\n\"Wh- Why're you just standing there?\"\r\n\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200580e227'>\r\n//「なんか言ってくれよ」\r\n\"Say something!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20675,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200590a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20799,
+  "en": "\r\n//　言う？\r\n//　何を……言えるのだろう。\r\n\r\n//　自分は殺人鬼ではない、と？\r\n\r\n//　そんな……嘘を？\r\n  Say something? What? That I'm not a killer?\r\n\r\n  That I am an㉓<I>innocent man?</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21037,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200600a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21161,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200610e227'>\r\n//「あんた……まさか」\r\n\"No way...\"\r\n\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200620e227'>\r\n//「まさか、本当に」\r\n\"Are you really...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21517,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200630a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21641,
+  "en": "\r\n//　――瞬間。\r\n//　\r\n//　空気が沸騰した。\r\n\r\n//　筋者が刃物を抜いた時の比ではなく。\r\n//　ひぃ――と掠れ声の呻きを口々に洩らしつつ、火の\r\n//上から飛び退くように、人々は俺を遠巻きにした。\r\n  It begins with a gasp, a panicked squeak rising from every throat at once.\r\n\r\n  An instant later, the crowd starts to㉓<I>boil.</I>\r\n\r\n\r\n//　少しでも俺から離れようとし、後ろが<RUBY text='つか'>閊</RUBY>えてそれが\r\n//果たせないと、互いに邪魔にし合って罵り合う。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22233,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0200640e109'>\r\n//「どっ、どけよてめぇ！」\r\n\"Outta my way!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22422,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200650e227'>\r\n//「うるせえ、押すな！」\r\n\"Get your hands off me!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22617,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0200660e109'>\r\n//「何だと!?\r\n//　そもそもてめぇらがあの変な男を引っ張り\r\n//込んだんだろうが！」\r\n\"Hey, fuck you! You brought him here!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22905,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200670e227'>\r\n//「知らねえよっ！」\r\n\"We didn't know he was a psycho!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23103,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0200680e110'>\r\n//「俺達相手にけしかけるつもりだったのか!?」\r\n\"Bullshit! You were gonna sic him on us!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23344,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0200690e227'>\r\n//「知らねえってんだろ！\r\n//　お前らこそ、俺達を殺させるつもりで――」\r\n\"What!? Motherfucker! That's the kind of move you'd make!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23640,
+  "en": "\r\n//　争っている。\r\n//　折角まとまるかと思えた人々が。\r\n\r\n//　争っている。\r\n//　俺が原因で。\r\n\r\n//　争っている……。\r\n//　押し合い、掻き毟り合い、殴り合って――\r\n  That tiny glimmer of consensus has vanished. Now, once again, they are at each other's throats, pushing, fighting to be the first to flee.\r\n\r\n  And at the center, like the core of a flame, I stand―the one who㉓<I>inspired</I>㉒them. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24117,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200700a00'>\r\n//「止めろ」\r\n\"Stop... Please...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24249,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200710a00'>\r\n//「止めろぉっっ!!」\r\n\"STOP!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24380,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200720a00'>\r\n//「……あ……」\r\n\"Ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24506,
+  "en": "\r\n//　人々が凝固する。\r\n//　一様に、俺を見詰めて。\r\n\r\n//　どの瞳にも恐怖がある。\r\n//　限りない恐れの念。\r\n  Silence drops like a hammer. All eyes go to me.\r\n\r\n  And in every eye, the same emotion, precisely what a killer deserves.\r\n\r\n  Terror.\r\n\r\n\r\n//　血塗れの殺人鬼に対する、当然の感情。\r\n\r\n//　恐怖。\r\n//　恐怖。\r\n//　恐怖。\r\n//　恐怖。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24933,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200730a00'>\r\n//「うっ……」\r\n\"Ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25056,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0200740a00'>\r\n//「うぁぁぁぁアアアアアアアアア!!」\r\n\"AHHHHHHHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25222,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0200750b34'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ }
+]

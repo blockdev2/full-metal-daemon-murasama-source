@@ -1,0 +1,502 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　聞けば、奉刀参拝は既に三日前の事であるらしい。\r\n//　だいぶん長く眠ってしまっていたようだ。\r\n  According to my host, three days have passed since the events at Hachiman Shrine. I was unconscious all that time.\r\n\r\n//　そのつもりで自分の身体を点検すれば、成程確かに、\r\n//寝過ぎた時特有の痛みが随所にある。\r\n  Even had she not so informed me, the aching of my joints is clearly the result of too much time spent abed.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 728,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040010a07'>\r\n//「お茶どうぞー」\r\n\"Have some tea.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 875,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040020a00'>\r\n//「……有難うございます」\r\n\"...Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1024,
+  "en": "\r\n//　足利茶々丸六波羅中将と二人、縁側に並んで煎茶を\r\n//<RUBY text='すす'>啜</RUBY>る。\r\n//　香りも風味も良い。伊豆は茶の名産地にも近い事を、\r\n//俺は思い出した。\r\n  I sip from the offered cup as General Ashikaga Chachamaru joins me on the garden patio. The tea is fragrant and flavorful, and I am reminded that Izu is located close to one of Yamato's more famous tea-producing regions.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1481,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040030a07'>\r\n//「今日は雲が張っててだめだな」\r\n\"Nope, the clouds are too thick.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1666,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040040a00'>\r\n//「？」\r\n\"?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1776,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040050a07'>\r\n//「あっちの空。\r\n//　富士山がよく見えない」\r\n\"On the horizon. You can't see Fuji.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1981,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040060a00'>\r\n//「……あぁ。\r\n//　この北向きの庭は、富士を楽しむ仕立てで\r\n//したか」\r\n\"...Of course. This garden offers a view of Fuji to the north.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2240,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040070a07'>\r\n//「そっ」\r\n\"Yup.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2365,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040080a07'>\r\n//「この辺りからだと、富士山の<RUBY text='・・・・・'>どてっぱら</RUBY>に\r\n//開いたでっかい穴がちゃんと見えて面白いん\r\n//だよ」\r\n\"On a perfectly clear day, you can see the big hole in Fuji's peak. It's pretty cool.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2731,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040090a00'>\r\n//「そうですか……」\r\n\"That must be quite the <br>sight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2891,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040100a00'>\r\n//「して、閣下」\r\n\"That aside, Your Excellency. If I might have a moment of your time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3079,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040110a07'>\r\n//「あて？」\r\n\"You talking to me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3221,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040120a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3337,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040130a07'>\r\n//「そんな他人行儀な呼び方しなくても」\r\n\"C'mon, don't be so formal. We're friends, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3548,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040140a00'>\r\n//「他人です」\r\n\"No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3669,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040150a07'>\r\n//「クール……」\r\n\"So cold...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3809,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040160a00'>\r\n//「お伺いしますが。\r\n//　何ゆえ、自分を伊豆まで連れてこられたの\r\n//です？」\r\n\"I would like to know why you've brought me to Izu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4066,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040170a07'>\r\n//「鎌倉にいたら面倒なことになるからね。\r\n//　あて、<RUBY text='かまくら'>東都</RUBY>防衛警備の月番だったもんでさ」\r\n\"Couldn't stay in Kamakura. I was supposed to be in charge of the city's defense, which sort of makes what happened at the shrine my fault.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4470,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040180a07'>\r\n//「八幡宮の事件はあての不手際だって言えば\r\n//そう言えるわけで。\r\n//　雷蝶あたりから責任追及される前に、先手\r\n//打って本拠地に<RUBY text='ひきこもっ'>自主謹慎し</RUBY>たのよ」\r\n\"One of the others was sure to ask for my head. So I figured I'd shut myself up here in Izu before they could. Sort of a voluntary house arrest, I guess you could say.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4988,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040190a00'>\r\n//「……八幡宮の事件……」\r\n\"...What did happen at the shrine?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5157,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040200a07'>\r\n//「足利護氏死す。\r\n//　一代の覇王も最期はあっけないもんだ」\r\n\"The death of Ashikaga Moriuji. The man who conquered Yamato, gone in the blink of an eye.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5440,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040210a00'>\r\n//「それは――確かに？」\r\n\"Is that true?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5586,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040220a07'>\r\n//「<RUBY text='そと'>表</RUBY>向きには隠されてるし、内向きにもまだ\r\n//失踪って扱いで捜索中だけどね。\r\n//　八幡宮と護衛団ごといなくなって、三日間\r\n//経っても手掛かりすら無いんだ」\r\n\"We're keeping the news under wraps and calling it a 'disappearance,' but come on. Hachiman Shrine and his entire corps of guards vanished with him, and it's been three days.\"\r\n\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040230a07'>\r\n//「<RUBY text='おなくなり'>死亡</RUBY>は確定だよ。\r\n//　普陀楽じゃ後継者を立てる準備に入ってる」\r\n\"No way he's still breathing. Back at Fudaraku, they're already getting ready to invest his successor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6451,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040240a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6569,
+  "en": "\r\n//　銀星号の打撃で吹き飛ばされ――それで死んだにし\r\n//ても生きていたにしても、大将領の体は最終的にあの\r\n//黒い渦へ呑まれて消えたのであろう。\r\n//　あれきり姿を現さないなら、そういう事になる。\r\n  If he hasn't been found, then he must have been consumed by that \"black hole\" Hikaru summoned, whether or not it was her strike that actually killed him.\r\n\r\n//　結果的に舞殿宮の企図は達せられた。\r\n//　ただ……俺が報告に戻れなかったため、状況を把握\r\n//するのにさぞ苦労するに違いない。\r\n  All's well that ends well? The prince's goal would appear to be met. Though without my report, he has no way of knowing exactly what happened.\r\n\r\n//　それが親王の安全に災いしなければ良いのだが……。\r\n  I can only hope that my absence doesn't somehow cause his downfall.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7502,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040250a00'>\r\n//「死亡を知っているのは、普陀楽の首脳だけ\r\n//ですか」\r\n\"So only the Rokuhara generals know about the shogun's death?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7738,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040260a07'>\r\n//「どーだろ？\r\n//　ＧＨＱの動きがなんか怪しいし、倒幕派も\r\n//ちょろちょろし始めてるしな……」\r\n\"Hard to say. GHQ's been acting strange the last couple of days, and the rebels are poking their heads out of the grass.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8100,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040270a07'>\r\n//「実はもうかなり漏れてるのかもしれんね。\r\n//　ま、こういうのは隠そうとして隠し切れる\r\n//もんでもないし」\r\n\"Maybe the news has already leaked. Besides, you can't keep a secret like this forever.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8447,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040280a00'>\r\n//「ええ。\r\n//　……それはともかく」\r\n\"True... But back to my question, Your Excellency.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8645,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040290a00'>\r\n//「先ほど閣下にお尋ねしたかったのは、自分\r\n//の身柄をわざわざ回収された件についてです」\r\n\"I asked why you went to the trouble of recovering <I>me</I> from the scene.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8947,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040300a07'>\r\n//「あそこにほったらかしといたらまずいやん。\r\n//　お兄さん、事件の主犯に仕立て上げられて\r\n//処刑よ？」\r\n\"What, you wanted me to leave you there for Rokuhara to capture? They'd have pinned the whole thing on you in a heartbeat!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9323,
+  "en": "\r\n//　……冤罪とも言い切れないが。\r\n  ...Well, I did㉓<I>try</I>㉑to kill the shogun.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9435,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040310a00'>\r\n//「しかしそれは、自分の都合に過ぎません」\r\n\"Yes. But that would have been my concern, not yours.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9647,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040320a07'>\r\n//「あての都合でもあるんだなァ」\r\n\"Oh, I wouldn't say that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9825,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040330a00'>\r\n//「……どういう事でしょうか？」\r\n\"...I'm afraid I don't follow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9999,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040340a07'>\r\n//「お茶うめぇー」\r\n\"Damn, this is good tea.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10155,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040350a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10273,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040360a00'>\r\n//「では閣下の御都合に照らした場合、自分の\r\n//身は今後どのように扱われるのでしょう」\r\n\"All right. Then may I ask what you intend to do with me now that I'm in your custody?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10579,
+  "en": "\r\n//　差し当たっては軟禁か？\r\n  Am I a prisoner?\r\n\r\n//　こちらとしては鎌倉に戻り、八幡宮で起きたことの\r\n//一切を親王と署長に報告したい。\r\n//　堀越公方がそれを認めないなら、強行突破するしか\r\n//ないが……。\r\n  Right now, my first order of business is to return to Kamakura and report to my patrons. If the general intends to keep me here, I'll have no choice but to attempt an escape.\r\n\r\n//　ここは公方府、歴とした軍事基地だ。\r\n//　容易ではないだろう。少なくとも村正が回復しなく\r\n//ては話にもならない。\r\n  Unfortunately, this manor is located in the heart of Horigoe Military District. Breaking out will be no easy feat. At the very least, I'll have to wait until Muramasa has fully recovered.\r\n\r\n//　強行策より、<RUBY text='から'>搦</RUBY>め手を用いるべきか……。\r\n  Perhaps I should try a more indirect approach.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11556,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040370a07'>\r\n//「特に考えてないけど。\r\n//　お兄さん次第」\r\n\"Haven't given it much thought, really. Guess it's up to you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11786,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040380a00'>\r\n//「……？」\r\n\"...?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040390a00'>\r\n//「自分の好きにして構わないと？」\r\n\"You mean I'm free to do as I please?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12081,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040400a07'>\r\n//「もちろん。\r\n//　あては男を縛って食い物にするタイプでは\r\n//なく、陰から尽くすタイプなのです」\r\n\"Of course! I'm the kind of girl who supports her man, not the kind who keeps him tied down.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12418,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040410a07'>\r\n//「邪魔はしないけど必要なことは何でもして\r\n//くれる女。当然処女。でも床上手だったり。\r\n//　……うわーなんて都合がいいんでしょう」\r\n\"Never in the way, but always there when you need me. And a bona-fide virgin to boot. A virgin who just so happens to be a monster in the sack. ...Now there's a list of qualities you don't see every day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12917,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040420a07'>\r\n//「色男は得だねーこのー」\r\n\"It's good to be the protagonist, huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13099,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040430a00'>\r\n//「…………。\r\n//　鎌倉に戻ろうかと考えているのですが」\r\n\"...<WaitVoice=3250>I'd like to return to Kamakura as soon as possible.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13348,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040440a07'>\r\n//「そりゃさみしぃ……。\r\n//　あてはまだしばらく戻れないしなー」\r\n\"Aw, and leave me all alone? It'll be a while 'fore I can go back.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13613,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040450a07'>\r\n//「でもお兄さんがそうしたいなら仕方ないね。\r\n//　列車の手配しようか？　船でちんたら行く\r\n//よりいいでしょ」\r\n\"But hey, if that's what you want. Should I get you on a train? It'll be faster than a ship.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13968,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040460a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14092,
+  "en": "\r\n//　わからない。\r\n//　この将軍は――この少女は俺に何を望んでいるのか。\r\n  Incomprehensible. What does this girl―this girl who commands one-fourth of the Dragon Army―want?\r\n\r\n//　敵なのか。味方なのか。\r\n//　親しげな、懐っこい子犬のような様子からは敵意も\r\n//裏表も感じられない。が――彼女は銀星号の擁護者で\r\n//あると自ら認めている。\r\n  Is she friend or foe? Nothing in her comportment suggests malice toward me, only a clinging, puppylike affection. Still, she has admitted to harboring Ginseigo.\r\n\r\n//　それは事実なのか。\r\n//　事実なら何故、そんな事をするのか。\r\n  Is it true? If it is, then why? Why would she consort with someone so dangerous?\r\n\r\n//　足利茶々丸の目的は何なのか。\r\n  Ashikaga Chachamaru... what do you want?\r\n\r\n//　……謎が多過ぎる。\r\n  There are too many questions, and I don't know where to begin. I could just start asking and hope that she gives me the answers I need... but how far can I trust her, really?\r\n\r\n//　多過ぎて、何からどう聞けば良いのかすら悩む。\r\n//　思いつく端から訊いても良いが――その答えとて、\r\n//どこまで信用したものなのか……。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15395,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040470a07'>\r\n//「おや？」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15522,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040480a00'>\r\n//「……何か？」\r\n\"...Is something the matter?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15670,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040490a07'>\r\n//「しばらくは現れないと思ってたんだけどな。\r\n//　お兄さんが起きたせいかな？」\r\n\"I didn't think she'd show up so soon. Maybe she felt you were awake?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15959,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040500a00'>\r\n//「？」\r\n\"?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16069,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040510a07'>\r\n//「良かったね。\r\n//　待ち人来たれり」\r\n\"Lucky you. It's who you've been waiting for.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040520a07'>\r\n//「落ち着いた場所で向き合うのって久しぶり\r\n//なんじゃない？」\r\n\"I bet it's been a while since you two could just sit down and talk.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16530,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040530a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16654,
+  "en": "\r\n//　――――光。\r\n  Hikaru.\r\n\r\n//　光だ。\r\n//　光が、いた。\r\n  Hikaru... is㉓<I>there.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16775,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040540a14'>\r\n//「人が人のまま、ささやかにまとまって身を\r\n//寄せ合う時代はここで<RUBY text='・・・・・'>ぶった切る</RUBY>。\r\n//　誰もが欲するままに生き、戦い、殺す――\r\n//そんな時代を導こう！」\r\n\"I shall shatter mankind's shell of peace, harmony, and brotherhood, and usher in an age where every individual lives, fights, and kills in accordance with their desires!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17284,
+  "en": "\r\n//　光。\r\n  Hikaru.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17318,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040550a14'>\r\n//「神となれば我が望みは<RUBY text='・・・'>正当化</RUBY>されよう。\r\n//　人の世を壊せば人の法に囚われる父は解放\r\n//されよう……」\r\n\"As a god, my actions will be <I>lawful!</I> And with mankind gone, my father will be free from the bonds of morality.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17702,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040560a14'>\r\n//「妨げる何物もなく、光は父に向き合える！\r\n//　母に奪われた父を、取り戻せる！」\r\n\"No more will any power divide us! As Mother stole my father from me, I shall steal him back!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18000,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040570a14'>\r\n//「これが光の<RUBY text='みち'>覇道</RUBY>だ!!」\r\n\"Such is the will of Hikaru!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18177,
+  "en": "\r\n//　光……\r\n  Hikaru...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18216,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040580a14'>\r\n//「村正が如何なる劒冑であるか」\r\n\"I knew from the beginning what Muramasa was.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040590a14'>\r\n//「承知の上で、我が物としたのだ」\r\n\"I knew, and joined with it all the same.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040600a14'>\r\n//「そしておまえにも与えた……」\r\n\"Then I left the other Muramasa to fall into your hands...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18752,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040610a14'>\r\n//「おまえの手で、母上を殺させるために！」\r\n\"For I knew you would use it to kill my mother!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18949,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040620a00'>\r\n//「光ッッ!!」\r\n\"HIKARU!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19073,
+  "en": "\r\n//　……我に返った時。\r\n//　俺は背中を床につけて、天井と空を仰いでいた。\r\n  ...The next thing I know, I am lying face up at the far end of the patio.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19267,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040630a14'>\r\n//「……景明……」\r\n\"...Kageaki...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19395,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040640a14'>\r\n//「そう熱烈に求められるのはな、悪い気分で\r\n//はないというか、光としても本望なのだがな。\r\n//　ＴＣＯはわきまえてくれ」\r\n\"It's hardly unpleasant to be the focus of such intense desire―I wouldn't have it any other way, in fact―but you would do well to consider a little thing called TCO.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19824,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040650a00'>\r\n//「……<RUBY text='ＴＣＯ'>資産保有費用</RUBY>……？」\r\n\"...Total Cost of Operations?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20021,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040660a07'>\r\n//「御姫、<RUBY text='ＴＰＯ'>時と場所と場合</RUBY>です」\r\n\"Princess, Princess! Time, Place, Occasion.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20244,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040670a14'>\r\n//「――ＴＰＯはわきまえるように。\r\n//　まだ朝方、ここは縁側、光は起き抜けだ」\r\n\"...Do try to consider the TPO next time. It's still morning, this is a place of rest and relaxation, and I have only just awakened.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20578,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040680a14'>\r\n//「そして、親しき仲にも礼儀あり。\r\n//　まずは朝の挨拶からだ」\r\n\"Besides, courtesy is important even among family. Let's start with the usual greetings, shall we?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20854,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040690a14'>\r\n//「おはよう、景明」\r\n\"Good morning, Kageaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20994,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040700a00'>\r\n//「…………お早う」\r\n\"...Good morning.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21137,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040710a07'>\r\n//「おはよー、御姫」\r\n\"Morning, Princess!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21291,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040720a14'>\r\n//「うむおはよう。\r\n//　今日は青空が見えるな。いい気分だ」\r\n\"And a fine morning to you, too. The blue sky is quite refreshing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21529,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040730a07'>\r\n//「野球でもしたくなる天気だね」\r\n\"Makes you want to play some baseball.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21720,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040740a14'>\r\n//「悪くない」\r\n\"A fine idea.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21841,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040750a07'>\r\n//「昼からやろうか？\r\n//　ヒマしてる武者集めてさ」\r\n\"You wanna? I could round up some off-duty musha and get a game going by noon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22097,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040760a14'>\r\n//「良かろう。\r\n//　新たな魔球を試したかったところだ」\r\n\"See to it, then. I've been wanting to try out my new deathball.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22327,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040770a07'>\r\n//「お兄さんもどう？\r\n//　<RUBY text='フルアーマーベースボール'>全身装甲野球</RUBY>」\r\n\"What about you, big bro? Up for a game of full-armor baseball?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22610,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040780a00'>\r\n//「……フルアーマー？」\r\n\"...Full-armor?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22757,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040790a07'>\r\n//「普通にやるとゲームにならないんだよね。\r\n//御姫の投げる球誰も打てないし。<RUBY text='キャッチャー'>捕手</RUBY>は一球\r\n//ごとに病院送りだし。打席に立てば<RUBY text='ピッチャーライナー'>投手返し</RUBY>\r\n//でそのまま<RUBY text='・・・・'>投手ごと</RUBY>場外<RUBY text='ホームラン'>本塁打</RUBY>とかになるし」\r\n\"It's not much of a game otherwise. No one can hit the princess's pitches, any catcher who gets in front of one ends up in the hospital, and if you put her on the plate, her home runs are liable to take a defender or two out of the park with them.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040800a07'>\r\n//「選手全員劒冑着用の武者にして、<RUBY text='おひめ'>銀星号</RUBY>は\r\n//重力操るのとかナシにすると、どうにかこう\r\n//にか勝負になるんだよ。\r\n//　野球っつーにはだいぶ<RUBY text='アストロ'>宇宙的</RUBY>な感じだけど」\r\n\"That's why we put all the players in tsurugi, with the added rule that Ginseigo can't use her gravity control. Then it's almost fair... though a little more㉓<I>cosmic</I>㉓than your usual game of baseball.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24123,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040810a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24247,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040820a14'>\r\n//「なかなかエキサイティングで面白い競技だ」\r\n\"It's quite an exciting way to spend an afternoon!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24450,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040830a07'>\r\n//「エキサイトし過ぎて、試合の終わる頃には\r\n//選手の半分くらいが両足で立ってないしねー。\r\n//　お兄さん、どうよ。興味あるでしょ」\r\n\"So exciting that half the players are missing a limb afterward. So how 'bout it, bro? Sound like fun?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24845,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040840a00'>\r\n//「欠片もありません」\r\n\"Not at all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24986,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040850a07'>\r\n//「残念。\r\n//　ま、劒冑が復旧中だししょうがないか」\r\n\"Oh, that's too bad. But I guess you can't play with your tsurugi damaged anyway.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25248,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040860a07'>\r\n//「お兄さん、野球好きそうなんだけどな」\r\n\"You strike me as a guy who likes his baseball.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25460,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040870a14'>\r\n//「当たりだ。\r\n//　ふふふ、景明はかなりの巧者だぞ」\r\n\"Ha! Right on the money. I'll have you know Kageaki is quite the old hand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25697,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040880a14'>\r\n//「地元ではバントの魔王と呼ばれていた」\r\n\"Back in our village, they called him the Buntmaster.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25897,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040890a07'>\r\n//「ツケメン大王みたいな王座っすね」\r\n\"That's a bit like being crowned Noodle King, isn't <br>it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26115,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040900a14'>\r\n//「何を言う。\r\n//　あとグラブトスは神業、ライン際の打球を\r\n//フェアかファールか見極める判断にかけても\r\n//達人級との評判を専らにしていたんだぞ」\r\n\"It doesn't stop there. He was also famous for his mastery of the grab-and-toss, and no one could match him when it came to declaring a ball fair or foul.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26566,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0040910a07'>\r\n//「……微妙な才能に満ち溢れてる人だな」\r\n\"...He's like a treasure trove of semi-useful talents.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26785,
+  "en": "\r\n//　頭上で行き交う会話を記号的に受け止めつつ、立ち\r\n//上がる。\r\n//　激情は去っていた。\r\n  As the two girls trade meaningless banter beside me, I pick myself up and dust myself off. The rage that seized me has receded.\r\n\r\n//　平静でいられるわけでもなかったが。\r\n\r\n  Not that I'm㉓<I>calm,</I>㉓per se.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27155,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0040920a00'>\r\n//「光……」\r\n\"Hikaru...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27279,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0040930a14'>\r\n//「何だ？」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27389,
+  "en": "\r\n//　名を呼べば、光は屈託のない声を返してくる。\r\n  She turns to me with a friendly smile.\r\n\r\n//　隔絶。\r\n  Total disconnect.\r\n\r\n//　何気ない態度こそ、何より違和感を覚えさせられて\r\n//ならない。\r\n//　何故、そんなにも自然の<RUBY text='てい'>態</RUBY>でいられるのか。\r\n  Nothing could be more disorienting than my sister's complete lack of tension. I cannot for the life of me comprehend how she can act so normal after all that has happened.\r\n\r\n//　この二年間の出来事は、光にとって何だったのか。\r\n  What have these two years <I>meant</I>㉑to Hikaru?\r\n\r\n//　互いに全身を劒冑で覆って相対していた時でさえも\r\n//感じずに済まされなかった心理の隔絶は、素肌で向き\r\n//合ってみれば尚一層赤裸々だった。\r\n//　光は二年前と同じ目で俺を見ている。\r\n  Face to face, the psychological divide that I have always felt between us, even when she was hidden behind her steel mask, is even more pronounced. Her eyes, as she looks at me now, are㉓<I>exactly</I>㉑the same as they were two years ago, as if to say that nothing between us has changed.\r\n\r\n//　俺との関係は何も変わっていないと、そう言うかの\r\n//ように。\r\n//　\r\n//　そんな筈はない――何もかも変わった。\r\n  Impossible. Impossible! <I>Everything</I>㉒has changed.\r\n\r\n//　変わらないと信じるなら、その妄信こそ狂気だ。\r\n//　光はやはり狂っている。<k>\r\n//　そう思う。<k>\r\n//　<RUBY text='・・・・'>思いたい</RUBY>。\r\n  If she truly believes that it has not, then Hikaru is indeed insane. She must be.\r\n\r\n  ...She must be.\r\n\r\n//　狂ったからこそ殺戮の銀星号と化したのだと、そう\r\n//思いたい。\r\n//　そう思えば、後は光の悲運を嘆いて戦うだけで済む。\r\n  My heart latches on to that feeble certainty, desperate to <I>know</I>㉔that it was some sickness of the mind that drove her to become the murderous Ginseigo. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29474,
+  "en": "\r\n//　だが。\r\n  But if...<K>\r\n  If she isn't insane...\r\n\r\n  If, as she claims, she is driven by㉗<I>reason...</I>\r\n\r\n//　もしも……狂っていないのなら。\r\n//　本人が言った通り、全て<RUBY text='・・'>正気</RUBY>でしたことなら。\r\n\r\n//　どうなる？\r\n  Then what?\r\n\r\n//　あの殺戮、\r\n//　あの災厄が、\r\n//　\r\n//　狂気ゆえではなく――\r\n//　希望ゆえに引き起こされたものであったのなら。\r\n\r\n//　光はただ、この二年を<RUBY text='いちず'>一途</RUBY>に生きていただけである\r\n//なら。\r\n  If these two years of misery and death were the result of Hikaru being true to herself...\r\n\r\n  If they were nothing more than an expression of <I>hope...</I>\r\n\r\n//　……それは、可能な事なのだろうか？\r\n  ...Is it possible?\r\n\r\n//　<RUBY text='・'>狂</RUBY>ではなく、\r\n//　<RUBY text='・'>憎</RUBY>でもなく、\r\n//　\r\n//　願いを追い求める<RUBY text='・'>理</RUBY>によって諸人を殺戮する――\r\n\r\n//　世界を<RUBY text='こわ'>毀</RUBY>す。\r\n  To wage war against humanity and the world entire, not out of hatred or malice or madness... but in the logical pursuit of a clear, defined goal.\r\n\r\n//　……そんな事が可能なのか。\r\n  Can any person do such a thing?\r\n\r\n//　もしも可能であったなら――<k>\r\n//　\r\n//　\r\n//　　　　　　　　　　……俺は、どうするべきなのだ。\r\n  If the answer is yes...\r\n\r\n  If Hikaru slew her mother and brought terror to Kanto... all out of a desire for her <I>father...</I>\r\n\r\n  ...then what am I to do?\r\n\r\n//　養母の死も、\r\n//　関東に撒き散らされた災厄も、\r\n//　\r\n//　光の、父を求める想いゆえであったのなら――――\r\n",
+  "pt": ""
+ }
+]

@@ -1,0 +1,577 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0040010a09'>\r\n//「味をみるには目で見るな、と申すわ……」\r\n\"To see a thing truly, first close your eyes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 419,
+  "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/mb02/0040020b21'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 543,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0040030a09'>\r\n//「また杜撰な手を打ってきたものよのぅ。\r\n//　やぁれ、やれ……」\r\n\"A bold move... but the execution leaves much to be desired.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0040040a09'>\r\n//「義清」\r\n\"Yoshikiyo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 907,
+  "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/mb02/0040050b21'>\r\n//「はっ」\r\n\"My lord.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1027,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0040060a09'>\r\n//「柳生常闇をこれへ」\r\n\"Fetch the good Yagyu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1178,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040070a00'>\r\n//「なかなか、一筋縄ではいかぬ仁のようだ」\r\n\"A man of hidden depths.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1361,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040080a02'>\r\n//「ただの腐れ坊主ですよっ。\r\n//　人を馬鹿にしやがって……！」\r\n\"Him? He's just a sick fuck, playing mind games like <br>that!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1610,
+  "en": "\r\n//　一条はまだ、憤懣冷めやらぬ様子だった。\r\n//　先刻の注意が一応生きているのか、大声を上げては\r\n//いないものの、全身から不機嫌の気色が滲む。\r\n\r\n//　ここは本丸から官僚宿舎のある二ノ丸へ通ずる道の\r\n//一つだが、勾配がきついせいか、他に通行者はない。\r\n//　さもあろうと期待して選んだのだが、どうやらその\r\n//判断は報われている。\r\n\r\n//　とはいえ。\r\n  A black aura rises from Ichijo's skin. At least she's keeping her voice down, as I warned her to before.\r\n\r\n  Not that I'm taking any chances. I chose this route back to our lodgings because I guessed―correctly, as it turns out―that the comparatively steep incline would make it unpopular with foot traffic. There is no one around to overhear.\r\n\r\n  Still.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2480,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040090a00'>\r\n//「一条。\r\n//　もう少し、感情を隠せ」\r\n\"You need to control yourself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2661,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040100a02'>\r\n//「……はい。\r\n//　そうしなきゃならないのは、わかってるん\r\n//ですけど」\r\n\"...I know. I'm trying. I really am.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2897,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040110a00'>\r\n//「ままならないのか」\r\n\"But you can't help it?\"\r\n\r\n<FW img=''>\r\n  She looks down, perhaps ashamed.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3100,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040120a02'>\r\n//「どうしても……」\r\n\"...I can't help it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3246,
+  "en": "\r\n//　羞恥からか、一条は俯いた。\r\n\r\n//　敵地に潜んで違和なく溶け込む。\r\n//　確かに、この素直な――素直過ぎる少女には難しか\r\n//ろう。\r\n  No, I suppose not. Perhaps that was always too much to ask of one such as her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3527,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040130a00'>\r\n//（短期決戦だな）\r\n(We'll need to move quickly.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3678,
+  "en": "\r\n//　最初から抱いていた方針を再確認する。\r\n\r\n//　時間を掛けても自滅に至るだけだ。\r\n//　それは何も一条一人の責任ではなかった。俺とても\r\n//潜入工作などという繊細な任務に適した柄ではない。\r\n\r\n//　<RUBY text='ぼろ'>襤褸</RUBY>はすぐに出る。だからその前に<RUBY text='と'>疾</RUBY>く任務を終え、\r\n//去る。\r\n//　そうするに如くはない。俺と一条の二人組では。\r\n\r\n//　入念な準備工作を放棄する以上、至極乱暴な作戦に\r\n//なってしまうのは避けられそうにもないが……元より\r\n//それは親王も承知の上だろう。\r\n//　むしろ<RUBY text='・・・・・・・・'>ある程度の乱暴さ</RUBY>は望んでいる。\r\n\r\n//　驕れる武力集団六波羅の横面を張り飛ばすべくして\r\n//――それには同盟者今川雷蝶に力を見せ付けるという\r\n//意味も含まれる――わざわざ二騎の武者を送ったのだ。\r\n//　いない筈はなかろう、専門の工作員ではなく。\r\n\r\n//　問題はその舞殿宮の希望を、どう具体的なプランへ\r\n//落とし込むかだが……。\r\n  This has confirmed what I already suspected from the outset. Time is not on our side.\r\n\r\n  The longer we are here, the greater the risk, and not only from Ichijo's righteous fury. Subterfuge is an art that demands flexibility, and in that, I am no more gifted than she.\r\n\r\n  We㉒<I>will</I>㉔give ourselves away, and sooner rather than later. We must complete our mission and be gone from this place.\r\n\r\n  It will be messy. There's no time for well-laid plans. But the prince must have expected that―is counting on it, even.\r\n\r\n  If he'd wanted subtlety, he would have sent one of his no doubt numerous spies. He sent two musha because he wanted a brute force solution, both to shatter Rokuhara's image of invulnerability and to demonstrate his power to Imagawa Raicho.\r\n\r\n  The question I must answer... is what shape that solution will take.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5751,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040140a02'>\r\n//「みな――景秋、さん」\r\n\"Sir? Uh, I mean, Kage...aki?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5912,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040150a00'>\r\n//「ん……」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6031,
+  "en": "\r\n//　急に名を呼ばわれて、思索から撤退する。\r\n\r\n//　自分の口でした呼び方に惑乱させられた風で一条は\r\n//頬を赤らめていたが、別にその行為自体が目的ではな\r\n//かったらしい。\r\n//　道の先を指し示している。\r\n\r\n//　女性がいた。\r\n  I look up at the sound of my name.\r\n\r\n  Its use appears to have flustered Ichijo. She needs more practice, though in this case, that does not appear to have been her goal. She is pointing down the road.\r\n\r\n  I turn. A woman is there.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6591,
+  "en": "\r\n//　若い。美しいようにも見える。\r\n//　しかしそれは別段、訝しむに値しない。同様の条件\r\n//に該当する女性はこの王城にいくらもいるだろう。\r\n\r\n//　女の身でわざわざ、こんな険しい道を選んで歩くの\r\n//は奇異といえば奇異だが……\r\n//　それも怪しむほどの事ではない。一条とて、何の苦\r\n//もなく歩んでいる。\r\n\r\n//　にも拘わらず事実として、その女性は注意を引いた。\r\n\r\n//　奇抜な格好をしているという事もない。\r\n//　ごく、素朴な装束だ……岩田女史のような、役人用\r\n//の機能的なものとはまた違う種の。\r\n\r\n//　といって、雑用婦の身なりでもない。\r\n//　\r\n//　結局、そこが引っ掛かるのか。\r\n\r\n//　服装はその人の身分、立場を表すものだ。\r\n//　が、女性の格好からはそれが見えない。\r\n\r\n//　容貌には気品があり、その点のみ見れば権門の姫と\r\n//も思える。しかし服装を含めれば明らかに違う。\r\n//　奥で奉仕する女官にも城内の神社の<RUBY text='かんなぎ'>巫</RUBY>にも役人にも\r\n//武官にも掃除人にも食堂の飯炊きにも見えない。\r\n\r\n//　この城内は人間の階級と役割が厳格に規定された小\r\n//社会を構成している。なのにその何処にも該当しない。\r\n//　浮いているのだった。その姿が――所在無げな態度\r\n//も含めて。\r\n  She is young―and beautiful, in my humble estimation―but that is no cause for surprise. I'm sure this castle has dozens of women who fit the same description.\r\n\r\n  It is somewhat odd, I suppose, that a young woman would choose this laborious path, but not terribly. Ichijo has managed it easily enough.\r\n\r\n  Neither of these things is sufficient cause for her to hold my eye. And yet, hold it she does.\r\n\r\n  Is it her clothing? Nothing about it is strange. In fact, her kimono is rather plain, though without the utilitarian cut that might mark her as a housemaid or a bureaucrat like Chief Iwata.\r\n\r\n  ...Ah. That's the problem. I cannot see her㉓<I>place.</I>\r\n\r\n  Fudaraku is a rigidly structured society. Here, everyone has a place, and attire is the most basic indicator thereof. But her attire tells me nothing.\r\n\r\n  Her features have a refined cast. Taking that alone, I would guess her a lady of noble birth. But her clothing―as well as other factors―say that is not so.\r\n\r\n  Nor does she appear a lady-in-waiting, nor one of the priestesses who tend the castle's shrines, nor a soldier, nor a laborer, nor a wandering cook.\r\n\r\n  She does not belong.<K>\r\n  And from the obvious confusion in her bearing, I wonder if she would not agree.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9377,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040160a00'>\r\n//「もし」\r\n\"Pardon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9496,
+  "en": "\r\n//　思考の開始から行動まではほんの数秒だった。\r\n//　しかし迷いはあった。\r\n\r\n//　六波羅の役人としては、不審な女性を見過ごさない\r\n//べきだろう。だが――実は彼女は不審でも何でもなく、\r\n//城内の住人なら誰でも知っている、少し特殊な立場の\r\n//人間なのかもしれない。\r\n\r\n//　であれば無知な対応は命取りになり得る。新任の者\r\n//だから、で済むとは限らないのだ。\r\n\r\n//　が、結局。俺が<RUBY text='コマ'>木札</RUBY>を張ったのはこちらだった。\r\n  Though I choose my course of action quickly, it is not without some doubt. But at this point, every choice is a gamble.\r\n\r\n  If she is, in fact, a suspicious individual, then as a shogunate officer, it behooves me to approach.\r\n  If the opposite is true, and she is someone nobody should fail to recognize, then almost any act carries the risk of disaster.\r\n\r\n  A polite query seems the safest bet.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10517,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040170b28'>\r\n//「……はい」\r\n\"...Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10642,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040180a00'>\r\n//「何か、難儀されておいでですか」\r\n\"Do you require assistance?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10816,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040190b28'>\r\n//「難儀というほどのことでは……」\r\n\"Oh... No, thank you. I'm quite all right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11005,
+  "en": "\r\n//　臆するように、女性が目元を伏せた。\r\n//　つい、それにつられて。視線を女性の足元へ遣る。\r\n\r\n//　どう検討しても山歩きには適さないであろう薄手の\r\n//履物は、土で茶色く汚れていた。\r\n//　……今のはあまり、正直な発言ではなかったようだ。\r\n  She lowers her eyes deferentially. I too look down. Her footwear catches my eye.\r\n\r\n  Light sandals. Hardly appropriate for a hike. Dirt has turned her tabi socks brown.\r\n\r\n  ...I suspect her last statement may not have been truthful.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11593,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040200a00'>\r\n//「車を呼びましょう。\r\n//　ここでお待ち頂けますか」\r\n\"If you don't mind waiting, I'm happy to call a car.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11817,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040210b28'>\r\n//「いえ、本当に……結構です。\r\n//　ご厚意だけ、頂戴致します」\r\n\"Please don't trouble yourself. Really. I'm fine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12053,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040220a00'>\r\n//「しかし<RUBY text='おみあし'>御御足</RUBY>が」\r\n\"But your feet...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12229,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040230b28'>\r\n//「すぐ、近いのです」\r\n\"It's not much farther.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12381,
+  "en": "\r\n//　目的地がということだろう。\r\n  In that case―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12456,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040240b28'>\r\n//「……近い……はずなので」\r\n\"At least... it shouldn't be.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12623,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040250a02'>\r\n//「はず？」\r\n\"Shouldn't be?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12751,
+  "en": "\r\n//　曖昧に濁された言葉尻を、一条が捕まえた。\r\n//　女性は応えず、目を逸らす。\r\n\r\n//　少し、頬が赤らんでいた。\r\n\r\n//　……ああ。\r\n//　成程。\r\n  She looks away, a blush rising to her cheeks.\r\n\r\n  ...Ah. Of course.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13031,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040260a00'>\r\n//「この城は広過ぎます」\r\n\"This castle is much too <br>large.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13198,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040270b28'>\r\n//「……ええ。\r\n//　本当に」\r\n\"Truly...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13343,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040280a00'>\r\n//「どちらへ？」\r\n\"Where are you bound?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13484,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040290b28'>\r\n//「京極屋敷まで……」\r\n\"Lord Kyogoku's residence.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13639,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040300a00'>\r\n//「京極……\r\n//　侍所所司、京極善門様の御屋敷ですか？」\r\n\"Kyogoku...\r\n  Kyogoku Yoshikado, who heads the Bureau of Retainers?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13885,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040310b28'>\r\n//「はい」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14003,
+  "en": "\r\n//　京極家ゆかりの人間か。\r\n//　しかし、単なる武家の妻女という様相でもないのだ\r\n//が……。\r\n  Is she a member of Lord Kyogoku's household? She's not dressed like a woman from a warrior house...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14248,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040320a00'>\r\n//「さて……」\r\n\"Hmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14372,
+  "en": "\r\n//　それはそれとして、困った。\r\n//　屋敷地の当て推量は可能だが、正確なところまでは\r\n//わからない。\r\n  I am not familiar with this residence. I could guess its location, but...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14603,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040330a02'>\r\n//「京極屋敷……\r\n//　あぁ、あれかな？」\r\n\"Kyogoku... Oh, I know!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14780,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040340a00'>\r\n//「わかるのか」\r\n\"You do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14908,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040350a02'>\r\n//「はいっ。\r\n//　さっき――見た時に、そんなのがあったと」\r\n\"Yes. I saw it―there. You know!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15122,
+  "en": "\r\n//　一条が言葉を飛ばしたのは『雷蝶の手下が用意した\r\n//城の見取り図を』とは言えなかったからだろう。\r\n//　先刻宿舎でそれを見せられた際に、色々と記憶して\r\n//おいたようだ。\r\n  Ah.㉓<I>There,</I>㉓on the map Raicho's spy gave us. She must have memorized it before we left the house.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15490,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040360a00'>\r\n//「では、御婦人。\r\n//　御案内仕ります」\r\n\"I hope you'll let us take you there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15681,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040370b28'>\r\n//「……申し訳ありません。\r\n//　それではお手を煩わせますが、よろしくお\r\n//願いします」\r\n\"...Thank you. That would be most helpful.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15944,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040380a00'>\r\n//「……お前の迷子癖を忘れていた俺が浅はか\r\n//だった」\r\n\"...I can't believe I forgot about your disease.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16167,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040390a02'>\r\n//「ちっ、違うんです！\r\n//　地球の自転が……プレートテクトニクスが\r\n//あたしの計算を裏切って……！」\r\n\"I- I don't have a㉓<i>disease!</I> <br>It's just... plate tectonics! Yeah! It's screwing with my calculations! If the earth would just stop spinning...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16562,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040400b28'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16692,
+  "en": "\r\n//　迷子の女性と案内役の出会いは、化学変化を起こし、\r\n//三人の迷子を出現させていた。\r\n//　<RUBY text='ミイラ'>木乃伊</RUBY>取りが木乃伊になったとも云う。\r\n\r\n//　気付けば空は茜色。\r\n//　鴉の声が耳に痛い。\r\n  Somehow, Ichijo has managed to take one lost woman and two prospective guides and transmute that into three desperately lost souls.\r\n  She has some potential as an alchemist.\r\n\r\n  A crow caws accusingly.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17195,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040410a00'>\r\n//「面目ありません、御婦人。\r\n//　かえって御迷惑をお掛けしてしまいました」\r\n\"I'm terribly sorry, miss. We've only made things worse.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17456,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040420b28'>\r\n//「いえ、そんな」\r\n\"Please don't apologize.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17603,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040430a02'>\r\n//「大丈夫です！\r\n//　今度は……今度はっ……」\r\n\"Don't worry, I've got this! Let's see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17807,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040440a00'>\r\n//「地面に棒を立てて、お前は何をする気だ」\r\n\"Why are you standing that stick in the dirt?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18011,
+  "en": "\r\n//　末期的だった。\r\n\r\n//　さんざん引き回された女性は腹を立ててこそいない\r\n//ものの、腑に落ちない様子で小首を傾げてはいる。\r\n//　その意味する向きは大体想像がついた。\r\n\r\n//　先回りして答えておく。\r\n  Her case is terminal.\r\n\r\n  Fortunately, the lady does not seem upset. She does, however, look somewhat confused. I head off the obvious question.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18452,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040450a00'>\r\n//「実は……今日着任したばかりなのです。\r\n//　城内の地理に、明るいとはいえず」\r\n\"Actually, we're new to this castle. We only just arrived this afternoon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18736,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040460b28'>\r\n//「そうでしたか……」\r\n\"Oh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18871,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040470a00'>\r\n//「申し遅れました。\r\n//　自分は<RUBY text='まんどころくにん'>政所公人</RUBY>、改景秋です」\r\n\"I apologize for the late introduction. I'm Arata Kageaki, with the Bureau of Fiefs.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19175,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040480a00'>\r\n//「こちらは同じく一媛」\r\n\"This is my wife, Ichihime.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19334,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040490b28'>\r\n//「岡部桜子です。\r\n//　挨拶もせず、こちらこそ失礼致しました」\r\n\"Okabe Sakurako. I'm the one who must apologize.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19569,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040500a02'>\r\n//「……岡部？」\r\n\"...Okabe?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19699,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040510b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19817,
+  "en": "\r\n//　岡部といえば――\r\n//　先日、会津猪苗代で反乱の兵を起こし。大鳥獅子吼\r\n//率いる幕軍に敗れ、討ち果たされた……あの。\r\n  As in, the Okabe who attempted a coup against the shogunate and was killed over Lake Inawashiro?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20101,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040520a00'>\r\n//「<RUBY text='だんじょういん'>弾正尹</RUBY>頼綱公の御息女であらせられました\r\n//のか」\r\n\"You are the daughter of the Danjo'in, Lord Okabe Yoritsuna?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20375,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040530b28'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20491,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040540a00'>\r\n//「これは……\r\n//　知らなかった事とはいえ、御無礼を」\r\n\"Please forgive our lack of courtesy, my lady.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20712,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040550b28'>\r\n//「……そのようなお気遣いは無用に。\r\n//　今はただ、賊将の落とし胤というだけの事\r\n//に過ぎません」\r\n\"I beg you, do me no honors. I am the remnant of a traitor's house, nothing <br>more.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21036,
+  "en": "\r\n//　感情なく、岡部の姫が言う。\r\n//　俺は暫時、続けるべき言葉を持たなかった。一条も\r\n//絶句している。\r\n\r\n//　その足元に倒れた棒――よりにもよって崖のある西\r\n//へ向いていた――をさりげなく蹴り飛ばしつつ、胸中\r\n//の<RUBY text='パズルピース'>断片群</RUBY>に整合をつけてゆく。\r\n//　……成程。それでこの、<RUBY text='・・・・'>浮いた姿</RUBY>か。\r\n\r\n//　岡部頼綱。一時は足利護氏に匹敵する権勢を有し、\r\n//弾正尹――皇族を当てるのが通例であった――の官職\r\n//まで得た人物。\r\n//　その、娘。\r\n\r\n//　名家の出自ではあるが、今はその名声を公に認めら\r\n//れない。高貴であるが、富貴を失っている。\r\n//　といって、<RUBY text='じげ'>地下</RUBY>に居場所を得られるわけでもなく。\r\n\r\n//　本人の語る通り、ただ敗将の胤であり、それ以外の\r\n//何者でも有り得ない。\r\n//　この城にあって存在が際立つのは当然だった。\r\n  I don't know what to say. Neither, it seems, does Ichijo. Her dowsing rod lies at her feet, forgotten.\r\n  Fortunate, as it would have led us straight off a cliff.\r\n\r\n  While kicking it surreptitiously aside, I feel the pieces snap together in my head.\r\n\r\n  Before he turned against Rokuhara, Okabe Yoritsuna was one of the most powerful men in Yamato. For a time, his influence rivaled that of the shogun. He was even granted the court title of Danjo'in, High Judge, one normally reserved for members of the imperial family.\r\n\r\n  As his daughter, her name carries honor second to none. But no one will acknowledge that honor now. As a fallen noble, she has no place. Not among her peers, and not among her people.\r\n\r\n  She is, and always will be, nothing but a㉓<I>remnant.</I>㉑ No wonder she seemed not to belong.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22972,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040560b28'>\r\n//「わたくしもほんの一週間ほど前、京極家の\r\n//預かりとなることが決まり、篠川公方府から\r\n//この城へ移されたばかりなのです。\r\n//　それで、道もまだ良くわからず……」\r\n\"I was brought from Sasagawa a week ago and placed in Lord Kyogoku's care. I haven't had much time to explore the castle.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23426,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040570a00'>\r\n//「……は」\r\n\"...I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23550,
+  "en": "\r\n//　半端な相槌を打って、歩みを再開する。\r\n//　方角の見当はかなり<RUBY text='アバウト'>適当</RUBY>なものだった。しかし立ち\r\n//止まっていては空気の停滞に耐えられそうもなかった。\r\n\r\n//　考えた事はさして変わりなかったのだろう。\r\n//　他の二人も躊躇なく歩き始める。\r\n  I resume walking. Though I have only a vague idea which direction we should go, any progress is preferable. I do not think that I could spend another moment stewing in that silence.\r\n\r\n  The two women must feel the same. They follow without pause.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24181,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040580a00'>\r\n//（同じだな……）\r\n(She's just like us.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24324,
+  "en": "\r\n//　ふと、そんな事を思った。\r\n//　俺と一条と岡部の姫。侵入者二人と死せる敵将の娘。\r\n\r\n//　どちらにとっても、この荘厳な城は安住の地となり\r\n//得ない……。\r\n\r\n//　こちらが城に馴染まぬと知って、似たような感興を\r\n//抱いたのか。\r\n//　深い孤立に彩られていた姫君の<RUBY text='かお'>貌</RUBY>は、今はわずかに\r\n//柔らかかった。\r\n  Two spies and a traitor's daughter. Not a one of us belongs in this castle. Here, everyone is an enemy.\r\n\r\n  Perhaps she also senses a kinship. Her eyes have softened slightly, the shadow of isolation having receded.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25004,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040590b28'>\r\n//「……何か？」\r\n\"...Is something wrong?\"</voice> she turns suddenly to Ichijo and asks.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25194,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040600a02'>\r\n//「あ……いえ」\r\n\"Huh? Oh, no.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25327,
+  "en": "\r\n//　急に声を掛けられ、一条が泡を食う。\r\n//　何を思ってか桜子姫の横顔を注視していたようだが、\r\n//<RUBY text='レスポンス'>反応</RUBY>があるとは予想だにしていなかったらしい。\r\n  Ichijo flails for an answer. She must not have expected the lady to notice her staring.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25671,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040610a02'>\r\n//「その、綺麗だなって思って。\r\n//　なんていうか、さすがお姫さまっていうか」\r\n\"It's just... you're really beautiful. Like how I always imagined a lady would be.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25961,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040620b28'>\r\n//「……ありがとうございます。\r\n//　でも、奥御殿にいらっしゃる姫様方の方が\r\n//ずっとお美しいでしょう」\r\n\"...That's very kind of you,\" she whispers, blushing. \"But you would not say that if you'd seen the ladies who live in the noble estates.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26343,
+  "en": "\r\n//　いくらかの羞恥を滲ませて、姫が小さく応える。\r\n//　確かに、ここから遠くない場所で安逸を貪っている\r\n//であろう貴婦人達とは、身を包む装いの点で格段の差\r\n//があるに違いない。\r\n\r\n//　が。\r\n//　一条は、首を左右した。\r\n  Lady Sakurako seems disarmed by the praise. It is true that there are many highborn women in this castle, most of whom live in idle luxury. They doubtless have much finer clothing than hers.\r\n\r\n  But that is not what Ichijo meant.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26898,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040630a02'>\r\n//「そんな、格好だけのことじゃなくて。\r\n//　その……本物、って感じが」\r\n\"It's not how you look. It's like... you're the real thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27156,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040640a00'>\r\n//「……本物だぞ」\r\n\"She㉓<I>is</I>㉓the real thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27313,
+  "en": "\r\n//　失礼過ぎる。\r\n  <I>Please.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27366,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040650a02'>\r\n//「そ、そうなんですけど！\r\n//　そうじゃなくて……その本物っぽさが本物\r\n//っぽいから」\r\n\"I- I know that! I'm just saying! Her realness! It's really real!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27652,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040660a00'>\r\n//「落ち着け。\r\n//　言いたい事はわからんでもないが、言って\r\n//いる事はさっぱりわからん」\r\n\"Calm down. I know what you're trying to say, but you're not making any <br>sense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27958,
+  "en": "\r\n//　最近、俺の周囲にその手の人間が多い気がする。\r\n//　どういう訳か。\r\n\r\n//　ふと見れば、桜子姫が<RUBY text='たま'>堪</RUBY>りかねたように、くすくす\r\n//と笑い出していた。\r\n//　品良く口元を手で隠しているが、声を殺し切れては\r\n//いない。\r\n  Why do I get the feeling that I attract people like this?\r\n\r\n  My attempt to calm Ichijo is interrupted by the tinkle of laughter. I look to see the lady, mouth covered demurely, struggling to contain her amusement.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28516,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040670b28'>\r\n//「申し訳ありません……。\r\n//　けれど、おかしな方々」\r\n\"I do apologize... but I've never met anyone like you two.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28749,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040680a00'>\r\n//「只今の一幕をもって我々の人間像を見定め\r\n//ないで頂けるならば、深く感謝の念を抱くに\r\n//吝かではありません」\r\n\"I ask that any impression of our character based solely upon this display be set aside in favor of future demonstrations to the contrary.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29144,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040690a02'>\r\n//「すごく回りくどいんですけど」\r\n\"Why don't you just say what you mean?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29326,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040700a00'>\r\n//「この娘は変ですが自分は普通です」\r\n\"She's the one with the problem, not me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29516,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040710a02'>\r\n//「わかりやすい……そして酷い……」\r\n\"Yeah... thanks...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29684,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040720b28'>\r\n//「ふふ。\r\n//　お二人とも、幕府のほかの方々とはだいぶ\r\n//違います」\r\n\"Hehe... You're so different from the other people here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29934,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040730a00'>\r\n//「は。\r\n//　普陀楽城に来て、まだ一日も経っておりま\r\n//せんから。諸兄のようには馴染んでおらぬの\r\n//でしょう」\r\n\"Understandable. It's been less than a day. We haven't quite adjusted yet.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30263,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040740b28'>\r\n//「ええ。\r\n//　あまり……本物、って感じが致しません」\r\n\"No, indeed. It's like you're not... the real thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30490,
+  "en": "\r\n//　一条を真似て、姫がおどけた口調で言う。\r\n//　言われたこちらは笑うどころではなかったが。\r\n\r\n//　めくら射ちに射掛けた矢が的を貫いている。\r\n//　姫に底意がないのは明らかであるにせよ、全く動揺\r\n//せずに済ますのは無理だった。\r\n\r\n//　それでもどうにか、驚きは顔の表面へ浮き出る前に\r\n//沈める。\r\n//　一条も、しゃっくりに似た声を小さく漏らすだけで\r\n//こらえたようだ。\r\n  By how she mimics Ichijo's wording, I assume she means it as a joke.\r\n  If only I could laugh.\r\n\r\n  This must be how it feels to have a blind-fired arrow land a hair's-breadth from your head. Although I know that she does not suspect us, I cannot help but feel a spike of fear.\r\n\r\n  I manage to keep it from showing on my face. Ichijo does the same, though not before letting out a surprised little squeak.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31433,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040750a00'>\r\n//「……こちらへ来る前は、田舎で事務仕事を\r\n//していたに過ぎぬ者です。\r\n//　ひょんな縁からこんな所へ栄転してしまい\r\n//ましたが、正直、戸惑うばかりで」\r\n\"I was just a country bureaucrat before. This transfer was a great opportunity, but to be honest, we're rather lost.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31864,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040760b28'>\r\n//「そうなのですか……。\r\n//　それは気苦労も多いことでしょう」\r\n\"Oh. That must be difficult.\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040770b28'>\r\n//「わたくしも……お二人のように働いておら\r\n//れる方々とは比べ物になりませんけれども。\r\n//　慣れない土地では、色々」\r\n\"I feel much the same... though I'm sure that my troubles can't compare to yours.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32418,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040780a00'>\r\n//「は……」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32536,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040790b28'>\r\n//「特に道が複雑なのは困ります。\r\n//　篠川と違って始終監視の目が付いて回らぬ\r\n//のは良いのですが……出歩く度に迷わされる\r\n//のは、どうにも」\r\n\"It's these roads. I never know where I'm going. It's nice not to be watched every second, like in Sasagawa. I just wish I didn't keep getting lost.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32984,
+  "en": "\r\n//　普陀楽に限らず城塞というものは、必要以上に入り\r\n//組んだ道路構造を有する事が稀でない。\r\n//　敵軍に城門を突破された際、少しでも侵攻を遅らせ、\r\n//また兵力を分断する為だ。\r\n//\r\n//　無論、地理に明るい者なら最小限の時間で要所間を\r\n//移動できるようにもなっているが……\r\n//　在城一週間の桜子姫がそれを知らなくとも不思議は\r\n//ない。\r\n  I sympathize. Castles, as a rule, are designed to buy time. Often, this means laying roads in such a way as to delay or divide an invading force.\r\n\r\n  With time, one can learn the shortest routes through the labyrinth, but she has only been here a week. It's not her fault.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33748,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040800b28'>\r\n//「今日も八幡様にお参りした後、馬場に立ち\r\n//寄って馬を眺めていこうと思ったのですが。\r\n//　その途中で、迷ってしまって」\r\n\"Why, just this morning I left the shrine to Hachiman on my way to the circuit to see the horses, and before I knew it, I was clear across the castle.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34170,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040810a00'>\r\n//「……はぁ」\r\n\"I see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34296,
+  "en": "\r\n//　俺の記憶が確かなら、その二箇所は直線距離で五〇\r\n//メートルと離れていない筈だが……。\r\n//　そして直線同様の道があった筈だが……。\r\n  If memory serves, those two locations are approximately fifty meters apart...\r\n  And, if memory serves, they are joined by a single road...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34644,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040820b28'>\r\n//「困りませんか？\r\n//　どうして、どこの道路も分岐なんて意地の\r\n//悪いことをするのでしょう」\r\n\"I just don't understand why roads have to intersect. It's cruel. Don't you agree?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34956,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040830a00'>\r\n//「それは道路交通局に訊いてみないことには」\r\n\"I'll be sure to take that up with the Transportation Bureau.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35179,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040840b28'>\r\n//「みんな一本道なら迷ったりしませんのに」\r\n\"It would be so much easier if every road had only one destination.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35405,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040850a00'>\r\n//「確かに迷いはしないでしょうけれども」\r\n\"Yes... I suppose it would.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35588,
+  "en": "\r\n//　交通の利便性と並立させるには一体どれだけの道路\r\n//が必要になるやら。\r\n  Though I shudder to think of how many roads would be required.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35771,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040860a02'>\r\n//「ですよね！」\r\n\"That's what I keep saying!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35918,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040870b28'>\r\n//「わかって頂けます？」\r\n\"Oh! You understand?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36070,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0040880a02'>\r\n//「すごく。\r\n//　そう分岐なんてするから悪い。あれが全部\r\n//悪い。一本道をたくさん作ればいいんだよな。\r\n//地上で足りなければ地下にトンネル掘って」\r\n\"Yeah! It's the turns that get you! That's why we gotta do away with all that and just make lots of nice, straight paths. I mean, that's what tunnels are for, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36544,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040890b28'>\r\n//「そうですそうです。\r\n//　橋をいっぱい架けたっていいんですし。空\r\n//ならいくら使ったって誰も困りませんもの」\r\n\"Oh yes. And if we run out of space, we can build bridges instead! Magnificent bridges, to make use of all that empty sky.\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0040900b28'>\r\n//「ね、あなたもそう思いませんか？」\r\n\"Wouldn't that be <br>wonderful?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37097,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0040910a00'>\r\n//「個人的見解を申し上げれば、そんなジャン\r\n//グルジムのような街には住みたくありません」\r\n\"If I might be permitted a dissenting opinion, I would prefer not to live inside a jungle gym.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37417,
+  "en": "\r\n//　重度の方向認識障害者二人が意気投合していた。\r\n//　そして俺は取り残されていた。\r\n  Touching as it is to watch these two bond over their shared defect, I wish that it did not have to come at my expense.\r\n",
+  "pt": ""
+ }
+]

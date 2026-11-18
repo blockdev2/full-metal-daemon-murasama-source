@@ -1,0 +1,532 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080010b46'>\r\n//「……景明？」\r\n\"...Kageaki?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 336,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080020a00'>\r\n//「……あ……」\r\n\"...Ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 465,
+  "en": "\r\n//　――立ち尽くしていたらしい。\r\n//　声に振り返ってみれば、<RUBY text='はは'>養母</RUBY>が戸口に立ち、案じる\r\n//様子で俺を見ていた。\r\n  The sound of my name snaps me out of my daze, and I turn to find my mother looking at me with concern.\r\n\r\n//　何分も呆けてはいなかったと思うが……いや、そう\r\n//なのかもしれない。\r\n//　急激な現実感の回復に戸惑う。\r\n  How long have I been standing here? Not more than a few seconds, surely... or was it a few minutes? Reality's sudden return has left me disoriented.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1077,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080030a00'>\r\n//「……申し訳ありません。稽古をしていたの\r\n//ですが。\r\n//　少し、考える事があって……没頭しており\r\n//ました」\r\n\"I'm sorry. I was practicing... but my thoughts got away from me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1397,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080040b46'>\r\n//「……そか。\r\n//　ま、ほどほどにしときなさい」\r\n\"...Oh. Well, don't wear yourself out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1592,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080050a00'>\r\n//「はい。\r\n//　ご心配をお掛けしました」\r\n\"Of course. I didn't mean to worry you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1785,
+  "en": "\r\n//　頭を下げた拍子に、汗で湿った前髪が額に触れる。\r\n//　……冷たかった。やはり、結構な時間が経っていた\r\n//らしい。\r\n  As I bow, a few strands of damp hair touch my forehead. The sweat is cold. I was out of it for longer than I thought.\r\n\r\n//　両の瞼を閉ざし、その上から軽く手を当てる。\r\n//　意味は何もないが、平静を取り戻すにはこういった\r\n//儀式が不可欠だ。\r\n  I close my eyes and cover them with a hand. A meaningless gesture, but necessary to restore my mental balance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2374,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080060b46'>\r\n//「……しっかし。\r\n//　本家も、無茶なこと言ったもんだな」\r\n\"Anyway, the old man sure put you between a rock and a hard place.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2612,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080070a00'>\r\n//「は……」\r\n\"Well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2734,
+  "en": "\r\n//　既に、本家での<RUBY text='いきさつ'>経緯</RUBY>については報告を済ませている。\r\n//　養母は――諸手を挙げて喜んだりはしなかった。\r\n  I've already told her what happened at the old master's. She did not throw up her hands in joy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3028,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080080b46'>\r\n//「おまえの頼みを体よく蹴ったつもりか……\r\n//わたしへの当てつけか。単なる<RUBY text='・・・・'>物の弾み</RUBY>か。\r\n//　何にしろ、まともな考えじゃないな。一人\r\n//で山賊をどーにかしろ、なんてさ」\r\n\"I don't know if he thinks this is a clever way to blow you off, or if he's trying to get back at me, or if it's just some whim that popped into his head. Either way, it's insane sending you against those bandits by yourself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3616,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080090a00'>\r\n//「……御本家からは、町の人々に協力を仰い\r\n//でも良いと言われてはいます」\r\n\"...He did say that I could request assistance from the town.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3882,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080100b46'>\r\n//「おまえがそうしないことくらい、向こうだ\r\n//ってわかってるよ。付き合いは長いんだから。\r\n//　わかってて言ったんだ。あの爺いめ」\r\n\"Yeah, right. He's known you long enough to know that's the last thing you'll do. That's why he said it, that old fox.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4275,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080110a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4393,
+  "en": "\r\n//　否定の根拠が見つからず、口を噤む。\r\n//　確かに、町の人を巻き込むつもりはない。山賊は町\r\n//全体の問題ではあるが、今回の本家との取り決めは俺\r\n//が個人的な都合で結んだものだ。\r\n  She's right, of course. I have no intention of asking for aid. The bandits may be a threat to the entire town, but I made this deal for personal reasons, without consulting the townsfolk. I can't drag them into it now.\r\n\r\n//　他人に危険を分かち合わせるべきではなかった。\r\n//　成程、あの御老人であれば、俺のそんな心理くらい\r\n//見通すだろう。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5060,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080120a00'>\r\n//「……しかし、御本家は約束は守ります。\r\n//　それだけの<RUBY text='プライド'>自尊心</RUBY>は持っておられる方です」\r\n\"He will keep his promise, though. He is far too proud to do otherwise.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5387,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080130b46'>\r\n//「……そこは信じるけどね。\r\n//　景明、おまえ本気でやるつもりなの？」\r\n\"That, I believe. ...But are you really gonna do it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5629,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080140a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5745,
+  "en": "\r\n//　ようやく開いた道だ。\r\n//　光を救うに至る。\r\n  This is what I've been waiting for. A chance to save Hikaru.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5887,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080150b46'>\r\n//「出てってください、ってお願いして、はい\r\n//そうですか……で済む話じゃないんだよ？」\r\n\"It's not gonna be as simple as just asking them to leave.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6159,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080160a00'>\r\n//「何にせよまずは話し合いから試みるつもり\r\n//ではいますが……はい。\r\n//　おそらくそれでは済まないでしょう」\r\n\"I do intend to try that first... but yes, I know that's unlikely to work.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6487,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080170b46'>\r\n//「死ぬかも」\r\n\"You could die.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6610,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080180a00'>\r\n//「可能性としては」\r\n\"It is possible.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6752,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080190b46'>\r\n//「死ぬと痛いぞ。\r\n//　いや、試したことないからわからんけどさ」\r\n\"Dying hurts, you know. Not that I've tried it or anything.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6992,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080200a00'>\r\n//「では、死なないように注意します」\r\n\"Then I'll do my best to avoid it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7176,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080210b46'>\r\n//「怖くないのか？」\r\n\"You're not scared?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7312,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080220a00'>\r\n//「恐ろしいです。\r\n//　山賊団の直中へ一人で乗り込む……などと\r\n//考えただけで」\r\n\"I am. The thought of walking into their camp terrifies me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7583,
+  "en": "\r\n//　俺は片手を突き出した。\r\n  I hold out my hand.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7656,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080230a00'>\r\n//「この通り。\r\n//　指先が震えます」\r\n\"Look. I'm shaking.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7823,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080240b46'>\r\n//「……だったらさ」\r\n\"Then...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7948,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080250a00'>\r\n//「しかし。\r\n//　光を救う為」\r\n\"But if this is the only way to save Hikaru―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8133,
+  "en": "\r\n//　震えは止まった。\r\n//　その五指を握り込む。\r\n  The shaking stops. I curl my fingers into a fist.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8264,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080260a00'>\r\n//「是非もありません」\r\n\"Then I have no choice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8416,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080270b46'>\r\n//「…………。\r\n//　困った息子だ」\r\n\"Look at you, a grown man, still giving your momma trouble.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8611,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080280a00'>\r\n//「お許しを」\r\n\"Forgive me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8740,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080290b46'>\r\n//「もう少し横着な子に育てりゃ良かった」\r\n\"I knew I should've raised you to be less principled.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8940,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080300a00'>\r\n//「精一杯、統様を見習ったつもりでしたが」\r\n\"Forgive me if I did not follow the example you set.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9151,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080310b46'>\r\n//「……可愛くない言い草だけは一人前だよ。\r\n//　ったく、もう」\r\n\"...At least you've learned to be a proper smartass. Geez.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9387,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080320b46'>\r\n//「わかった。\r\n//　でも、わたしも一緒に行くからね」\r\n\"Have it your way. But I'm going with you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9592,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080330a00'>\r\n//「それはなりません」\r\n\"You mustn't.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9734,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080340b46'>\r\n//「なりませんたって、なるもん。\r\n//　息子をそんなとこへ一人で行かせられるか」\r\n\"Mustn't, my ass. I'm going. No way I'm sending my son out there alone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10007,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080350a00'>\r\n//「昨今は、母親の過保護が社会問題化してい\r\n//ます」\r\n\"Overprotective mothers are a growing problem in today's society.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10244,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080360b46'>\r\n//「息子を武装略奪集団の中へ一人で送り込む\r\n//母親がいたらそりゃ虐待っていう社会問題だ\r\n//と思います」\r\n\"Yeah, and so are mothers who send their kids to fight against hundred-to-one odds. We call it child abuse.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10587,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080370a00'>\r\n//「むしろ息子の非行ではないでしょうか。\r\n//　……いえ、そういう問題ではなく」\r\n\"Or perhaps the children are to blame for being disobedient. ...In any case.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10874,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080380a00'>\r\n//「御本家からは自分の手腕で事を解決せよと\r\n//命じられています。\r\n//　統様のお力は借りられません」\r\n\"The old master ordered me to solve the problem on my own. I can't ask for your <br>help.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11202,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080390b46'>\r\n//「でも、町の人間を使っていいとも言ってた\r\n//んだろ。\r\n//　わたしだって町の人間だ」\r\n\"But he said you could get help from the town, didn't <br>he? I live here too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11489,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080400a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11607,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080410b46'>\r\n//「ふふ、不器用な息子め。\r\n//　口で母に勝とうなど十年早い――」\r\n\"Hehe. Nice try, boy, but you're ten years too early to outsmart your―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11860,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080420a00'>\r\n//「御本家は、町の人間とは言っておりません。\r\n//　町の<RUBY text='・'>男</RUBY>と言っておりました」\r\n\"He said I could get help from the㉓<I>men,</I>㉒not just anyone.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080430a00'>\r\n//「お諦めください、統様」\r\n\"I'm sorry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12297,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080440b46'>\r\n//「……十秒経ってねぇ……\r\n//　つーか爺いのあほー！　そんなにわたしが\r\n//嫌いかー！」\r\n\"It didn't even take him ten seconds... And what the hell, Gramps!? Do you really hate me that much!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12610,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080450a00'>\r\n//「それに……統様。\r\n//　光を一人残しては行けません」\r\n\"Moreover... we mustn't leave Hikaru alone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12828,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080460b46'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12937,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080470a00'>\r\n//「自分の留守の間、光をお守りください。\r\n//　お願い致します」\r\n\"Please protect her while I'm gone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13159,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080480b46'>\r\n//「…………。\r\n//　あー！」\r\n\"...Ahh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13294,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080490b46'>\r\n//「もー！」\r\n\"Dammit!\"\r\n\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080500b46'>\r\n//「くそー！\r\n//　可愛くねえーー!!」\r\n\"You little brat!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13554,
+  "en": "\r\n//　視界が、急に閉ざされた。\r\n//　……頭を抱き込まれたのだと、そう気付くまで数秒\r\n//掛かった。\r\n  My vision suddenly plunges into darkness. It takes me a few seconds to realize that she's wrapped her arms around my head.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13828,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080510b46'>\r\n//「ろくでもない息子だ。\r\n//　母親の言うことを聞きゃあしない」\r\n\"You're a bad boy for not listening to your mother.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14057,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080520a00'>\r\n//「申し訳ありません」\r\n\"I don't know what to say.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14212,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080530b46'>\r\n//「おまえみたいな子供は大嫌いだ」\r\n\"I should disown you for <br>this.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14384,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080540a00'>\r\n//「<RUBY text='あい'>敬愛</RUBY>しております。\r\n//　統様」\r\n\"I'll always love you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14578,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080550b46'>\r\n//「ばかったれ。\r\n//　いいか？　親不孝。いっこだけ、わたしの\r\n//言う通りにしなさい」\r\n\"Dumbass.\r\n  All right. If you're gonna go, there's one thing you have to promise.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14869,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080560a00'>\r\n//「はい」\r\n\"Okay.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14986,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080570b46'>\r\n//「無事に帰って来ること」\r\n\"Come back safe.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15128,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080580a00'>\r\n//「は。\r\n//　最大限の努力を払います」\r\n\"I'll do my very best.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15301,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080590b46'>\r\n//「空気読め。\r\n//　そんな言葉を聞きたがってると思うか」\r\n\"That's not the answer I was looking for, you stupid boy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15527,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080600a00'>\r\n//「……必ず帰ります。\r\n//　統様」\r\n\"I'll come back safe. I promise.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15704,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080610b46'>\r\n//「よろしい」\r\n\"Good.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15818,
+  "en": "\r\n//　抗い難い力を持っていた、養母の腕から解放される。\r\n//代わりに与えられたのは嘆息だった。\r\n//　何かを振り払うような間を置いて、養母は再び俺を\r\n//真っ直ぐに見やってくる。\r\n  My mother releases me from her strangely comfortable grip, then sighs, pauses as if to clear her mind, and fixes me once more with her gaze.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16222,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080620b46'>\r\n//「いつ行く？」\r\n\"When are you going?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16353,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080630a00'>\r\n//「明日にでも」\r\n\"Tomorrow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16483,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080640b46'>\r\n//「会社は？」\r\n\"What about work?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16608,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080650a00'>\r\n//「既に休暇を申請してあります」\r\n\"I've already put in for time off.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16786,
+  "en": "\r\n//　どのみち山賊に持ち去られた商品の補充がつくまで\r\n//は仕事が回らない。\r\n//　出勤しても、することがなかった。\r\n  Even if I went to work, there wouldn't be anything to do. The company has to replace what was stolen before any new orders can come in.\r\n\r\n//　それに山賊問題の解決は会社の利益にも寄与する。\r\n//　事情を話して休暇を求めると、社長は一も二もなく\r\n//認めたばかりか、有給扱いにまでしてくれた。\r\n  In addition, solving the bandit problem will benefit the company as well. After I explained the situation, my boss was only too willing to give me the time. He even put it down as paid leave.\r\n\r\n//　……尤もそれは、期待の顕れというよりも、香典の\r\n//前払いという面が強い様子ではあったが。\r\n//　あの時社長の表情にあった希望と諦めの<RUBY text='せめ'>鬩</RUBY>ぎ合いは、\r\n//一対九で諦め側が優勢と見えた。\r\n  ...Although to be honest, it felt less like a vote of confidence than an advance donation for my funeral. A war between hope and resignation raged on his face throughout our conversation, but the latter clearly had the advantage.\r\n\r\n//　無理もない事ではある。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18082,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080660b46'>\r\n//「……策の一つくらいはあるんだろね？」\r\n\"You've at least got a plan, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18264,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080670a00'>\r\n//「別段」\r\n\"Not as such.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18388,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080680b46'>\r\n//「無いのか息子よ!?」\r\n\"You've got nothing!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18528,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080690a00'>\r\n//「まずは会ってから、考えます」\r\n\"I hope to come up with something after I've met their leader.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18734,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080700b46'>\r\n//「あぁ……\r\n//　やっぱすっげー不安……」\r\n\"This is㉓<I>not</I>㉑making me feel better...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18930,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080710a00'>\r\n//「どうか、ご心配なく」\r\n\"Please don't worry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19082,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080720b46'>\r\n//「無茶言うなっつーの。\r\n//　じゃ……一つだけ助言だ」\r\n\"Yeah, like that's gonna happen!\r\n  ...Okay. I'll give you one piece of advice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19327,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080730b46'>\r\n//「こいつは母親じゃなくて、武の道の先達と\r\n//して。\r\n//　……なんて大仰に構えて言うと無闇やたら\r\n//恥ずかしいけど」\r\n\"I say this not as your mother, but as your elder disciple in the Way of the Warrior. ...That sounded cheesy, didn't it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19702,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080740a00'>\r\n//「はっ。\r\n//　承ります」\r\n\"I await your instruction.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19861,
+  "en": "\r\n//　居住まいを正して、聴く姿勢をとる。\r\n//　養母がそのように前置きして話す事には、そうする\r\n//だけの価値がある筈だった。\r\n  I straighten my posture. Whatever she is about to say deserves nothing less than my full attention.\r\n\r\n//　彼女も自分の父親から吉野御流を学んでいる。\r\n//　娘と同じように。光が吉野御流の修行を希望した際、\r\n//本家が苦々しく思いながらも最終的に黙認したのは、\r\n//何の事はない、既に養母の前例があったからだった。\r\n  When the old master grudgingly allowed Hikaru to begin training, it was not only her genius that influenced his decision. There was precedent: Hikaru's mother, who had learned the Yoshino-onryu from her own father years ago.\r\n\r\n  My mother's talent, too, is far from ordinary. She almost never displays the fruits of her training anymore, but I can tell from subtle signs in the way she moves and holds her body that her skill may rival even her daughter's. The words of such an individual are not to be taken lightly.\r\n\r\n//　しかもその力量は凡庸の域を優に超える。\r\n//　養母が殊更に手並みを披露することは決してない。\r\n//が、日常のさりげない立ち居振る舞いから窺える業の\r\n//程は、天才の光にさえ匹敵するものだ。\r\n\r\n//　その人の助言ならば<RUBY text='あだ'>徒</RUBY>や<RUBY text='おろそ'>疎</RUBY>かにはできない。\r\n//　拝聴の構えで待つ俺に、養母は告げた。\r\n\r\n\r\n  A pause as she waits for me to ready myself, and then―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21503,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080750b46'>\r\n//「殺しちゃいけないよ」\r\n\"You mustn't kill anyone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21651,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080760a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21769,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080770b46'>\r\n//「誰も。\r\n//　一人も、殺しちゃあ駄目だ」\r\n\"Not a single person, you hear? Not for any reason.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21968,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080780a00'>\r\n//「……は」\r\n\"...But...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22092,
+  "en": "\r\n//　確かに、無用の殺生は武人として最も恥ずべき事。\r\n//　言われるまでもなく、避けられる限りは避けたい。\r\n  There is no greater shame, I know, than to take a life without need. Killing must always be the last resort.\r\n\r\n//　しかし……数と凶暴性で圧倒する山賊団を相手に、\r\n//不殺を通して立ち向かえるものだろうか？\r\n//　それは余りに難しいのではないかと思えた。\r\n  However... will I be able to drive off the bandits, who far outstrip me in both number and ruthlessness, without the use of lethal force? It seems a slim hope indeed.\r\n\r\n//　そんな内心が伝わったのだろう。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22796,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080790b46'>\r\n//「景明。\r\n//　敵を殺せば、戦いは終わると思う？」\r\n\"Kageaki,\" she continues, sensing my thoughts. \"Do you think killing your enemy will end the fight?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23055,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080800a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23173,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080810b46'>\r\n//「それは違うよ。\r\n//　逆だ」\r\n\"Well it won't. It'll do just the opposite.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23346,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080820b46'>\r\n//「敵を殺したら、戦いは<RUBY text='・・・・・・・'>終わらなくなる</RUBY>」\r\n\"Kill your enemy... and the fight goes on㉓<I>forever.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23594,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080830a00'>\r\n//「……は……」\r\n\"...I see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23726,
+  "en": "\r\n//　漠然と……\r\n//　養母の言わんとするところはわからなくはない、が\r\n//……\r\n  I think I understand what she's trying to say.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23894,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080840b46'>\r\n//「もしもおまえが死んだら、わたしはおまえ\r\n//を死なせた奴を全員殺す。\r\n//　一人も許さない。絶対に」\r\n\"If you get killed out there, I'll murder every last person who had a hand in your death. I won't let a single one live. Count on it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24260,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080850a00'>\r\n//「！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24370,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080860b46'>\r\n//「…………おまえが誰かを殺したらさ。\r\n//　その人の身内が、同じように誓うかもしれ\r\n//ないんだよ」\r\n\"If you kill someone, who's to say their friends or family won't make the same promise?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24687,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080870b46'>\r\n//「そうなったら、そいつも殺す？\r\n//　そうしたら今度は、そいつの兄弟かなんか\r\n//が復讐に来るかもしれないね……」\r\n\"If they come for revenge, will you kill them, too? Then <I>their</I>㉔loved ones might be next.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25035,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080880a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25159,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080890b46'>\r\n//「終わらないだろ？」\r\n\"You see? There's no end to <br>it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25314,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080900a00'>\r\n//「はい……」\r\n\"...Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25439,
+  "en": "\r\n//　養母の言う通り。\r\n//　俺は己の浅慮を恥じた。\r\n  She's absolutely right. I wasn't considering anyone's circumstances but my own.\r\n\r\n//　一人でも殺せば、そこには拭い難い怨恨が生まれる。\r\n//　そうなったが最後、その先は泥沼の潰し合いが待つ\r\n//ばかりだろう。\r\n  Kill one man and you empower the worst kind of resentment, the kind that can never truly be satisfied. My actions could lead to war between the bandits and the town, with horrifying casualties on both sides.\r\n\r\n//　俺一人で始めた事でも、町が巻き込まれずに済む筈\r\n//はない。\r\n//　山賊側と町側に多大な死者が出ることになる。\r\n\r\n\r\n//　それこそは、万難を排して避けたかった最悪の結末\r\n//であるのに……\r\n//　解決どころか、本末転倒も甚だしい。\r\n  Lethal force won't solve the problem. It will only trigger the very catastrophe we're trying to prevent.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26431,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080910b46'>\r\n//「だからいいね、景明……\r\n//　どうするにしろ、誰も死なせないように」\r\n\"So you understand. Whatever you do... make sure no one dies.\"\r\n\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0080920b46'>\r\n//「おまえ自身も含めてだよ」\r\n\"And that includes you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26826,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080930a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26950,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0080940a00'>\r\n//「はい。\r\n//　統様」\r\n\"I will.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27085,
+  "en": "\r\n//　深々と一礼する。\r\n//　夜の到来を告げる冷たい風が、縁側から吹き込んで\r\n//きていた。\r\n  As I bow deeply, a cold breeze through the window signals the fall of night.\r\n",
+  "pt": ""
+ }
+]

@@ -1,0 +1,587 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/023vs0010b56'>\r\n//『てめえの絶望に他人を巻き込むな！\r\n//　おれたちはそんなに弱くねえッ!!』\r\n\"Don't drag us into your despair! We're not as weak as you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 480,
+  "en": "\r\n//　五月蝿い！\r\n//　私は正しい！　私は正しい！\r\n//　私は正しいんだっ！　だから死ぬべきではないんだ！\r\n  Silence! I'm right! I am the good here! Why should I be the one to die!?\r\n\r\n//　力を！\r\n//　力をくれっ！\r\n//　<RUBY text='やつ'>村正</RUBY>を殺す力を！\r\n//　理不尽にも私を殺そうとする奴を殺せる力を！\r\n  Power! Give me power to kill Muramasa! To defeat this demon who threatens my life so unjustly!\r\n\r\n//　誰でもいい！\r\n//　どんな力でもいい！\r\n  I don't care what it is, or where it comes from! I'll take anything!\r\n\r\n//　どんな力でも――私を助けてくれるなら！\r\n//　この世の美しき諸々のために、私を！\r\n  Anything that will help me save the beautiful!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1289,
+  "en": "\r\n//◆以下、顔なし\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma01/023vs0020a14'>\r\n//『――愉快な真似を』\r\n《How very amusing.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma01/023vs0030a14'>\r\n//『その<RUBY text='・・・・・'>いじましさ</RUBY>は笑うほかないな。\r\n//　見物料に、これをやろう。役に立つぞ……\r\n//というより、それを持っていれば嫌でも役に\r\n//立つ時が訪れようが』\r\n《I can only laugh at deeds so petty. Here. Take this as recompense for your performance. You may find it useful. Or rather, the time will come when it makes itself useful whether you wish it or not.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma01/023vs0040a14'>\r\n//『――ん？　おれが何者か、だと？\r\n//　何者、というのは深い問いだな。誰だ、と\r\n//尋ねるのとは違う。名を告げるだけでは答え\r\n//として足りるまい』\r\n《Hmm? What am I? An interesting question. It is not the same as asking \"who.\" My name alone will not suffice.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma01/023vs0050a14'>\r\n//『おまえはおれの<RUBY text='・・'>意味</RUBY>を問うのか？\r\n//　ならばこう応える』\r\n《I believe you wish to know my㉒<I>purpose.</I> Very well.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2653,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma01/023vs0060a14'>\r\n//『――おれは天下布武。\r\n//　<RUBY text='ぎん'>白銀</RUBY>の星の名で呼ばれている者だよ』\r\n《I am she who will conquer the world. You know me as the Silver Star.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2936,
+  "en": "\r\n//　そうだ……お前でもいい。\r\n//　忌まわしき殺戮者！　お前が求めに応じてくれるの\r\n//なら、それでも構わない！\r\n  Yes... even you will do. Foul, cursed Angel of Slaughter! If you will answer my prayers, then so be it!\r\n\r\n//　力を！\r\n//　力を！\r\n//　私に力を!!\r\n  Power!\r\n\r\n  GIVE ME POWER!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3297,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0070b57'>\r\n//「あ……ああああああああああああああ!!」\r\n\"Ah... AHHHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3476,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0080a00'>\r\n//「――!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3594,
+  "en": "\r\n//　丹田で――横隔膜の下で――凶暴な何かが<RUBY text='ぜんどう'>蠕動</RUBY>する。\r\n  Something writhes in the pit of my gut, something vast and mighty.\r\n\r\n//　それは何かの目覚め。何かの身じろぎ。\r\n//　あの日、<RUBY text='・・・・・・・'>植えつけられた</RUBY>何か。\r\n  It is awakening, stirring from its slumber. The seed that was planted inside me is about to bear fruit.\r\n\r\n//　有り得ない<RUBY text='・・'>子宮</RUBY>を錯覚する。\r\n//　有り得ない<RUBY text='・・'>胎児</RUBY>を認識する。\r\n  I feel it coming to life, a nonexistent child in my nonexistent womb.\r\n\r\n//　胎児の名を曰くカイブツ。\r\n//　暴れ狂い泣き叫び己を守る母体を食い破る。激痛。\r\n//実在しないカイブツの実在しない牙と爪が呼び起こす\r\n//幻の痛み。腹が裂ける。それも幻。苦痛だけが現実。\r\n  The child is a monster. Wailing and flailing, it eats itself free of the womb that nurtured it. I feel pain―<br>intense, gut-wrenching pain―as the imaginary monster's imaginary fangs tear into my flesh. All an illusion, even the sensation of being consumed from within.\r\n\r\n  All an illusion, save for the pain.\r\n\r\n//　鈴川令法の、真改の、存在しない子宮からいま生誕\r\n//する非事実のカイブツ。それは誰の眼にも映らない。\r\n//　誰の手にも触れはしない。完全な妄想。非実在。\r\n  It is born, born from the phantom womb of Suzukawa Ryobu and Inoue Shinkai. None can see the monster, however, nor lay hands on it, for it does not exist.\r\n\r\n//　然して、ただ。\r\n//　溢れ返るこの、膨大な<RUBY text='パワー'>力</RUBY>だけは事実！\r\n  But the raw, unstoppable <I>power</I>㉔is real!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5414,
+  "en": "\"Kuruwa Kurukuru Kurui Kuruu! Kureha Kurekure Kurekure Ha!\"",
+  "pt": ""
+ },
+ {
+  "offset": 5481,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0090b57'>\r\n//　\r\n//　　　　　「<RUBY text='くるわ・くるくる・くるい・くるう'>曲輪来々包囲狂</RUBY>\r\n//　　　　　　<RUBY text='くれは・くれくれ・くれくれ・は'>暮葉紅々刳々刃</RUBY>」\r\n<center>\"Kuruwa Kurukuru Kurui Kuruu! Kureha Kurekure Kurekure Ha!\"</center>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5884,
+  "en": "\r\n//　<RUBY text='コマンド・オン'>呪句実行</RUBY>。\r\n  Command accepted.\r\n\r\n//　うねる力に指向性を与える。\r\n//　膨大な質量を集束。硬度を付与。速度を付与。鋭さ\r\n//を付与。破壊するための全てを付与。\r\n  I grant the storm of power direction and purpose. It seizes control of a tremendous㉓<I>mass</I>㉒and bestows upon that mass hardness, sharpness, and speed―all the ingredients of destruction.\r\n\r\n//　後は――\r\n//　叩きつけるのみ！\r\n  All that's left―is to unleash it on my enemy!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6460,
+  "en": "\"Byakka Rantan Shan Kala!\"",
+  "pt": ""
+ },
+ {
+  "offset": 6494,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0100b57'>\r\n//　\r\n//　　　　　「<RUBY text='びゃっか・らんたん・しゃん・かあら'>白華爛丹燦禍羅</RUBY>！」\r\n<center>\"Byakka Rantan Shan Kala!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6752,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0110a00'>\r\n//「<RUBY text='エンチャント'>磁波鍍装</RUBY>――！」\r\n\"Enchant―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6930,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0120a00'>\r\n//「ぬぅ……ッ!?」\r\n\"Ngh!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7060,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0130b57'>\r\n//《教えておいてやろう……血液だけではない！\r\n//　真改の陰義は<RUBY text='・・・・・・'>あらゆる液体</RUBY>を操るのだ！》\r\n《Now I'll be the teacher. It's not just blood! Shinkai's shinogi controls㉓<I>all</I>㉒liquids!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7428,
+  "en": "\r\n//　地上の河川から――海から――噴き上がった水流に\r\n//打ち飛ばされ、村正が<RUBY text='・・・・・'>転げ落ちる</RUBY>。\r\n//　怒涛は更にそれを追った。天を渡る水の龍からして\r\n//みればあまりにもちっぽけな武者を一呑みに呑む。\r\n  The waterspout that erupts from the rivers and sea below strikes Muramasa with crushing force, knocking him from the sky. It then follows like a dragon soaring across the heavens and snaps the puny musha up in its mighty jaws.\r\n\r\n//　どんな猛者でもひとたまりもなかったはずだ。\r\n//　あそこまでの巨大質量に襲われて、無事でいられる\r\n//わけがあろうか！\r\n  That much water should punch through even the hardest armor!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8221,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0140b57'>\r\n//「はっ……ははははは！\r\n//　はははははははは！　どうだ、見たか……\r\n//この力。真改の力。私の力だ！」\r\n\"Hahahahahahahahahaha! <br>Now you see! This is Shinkai's power! My power!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0150b57'>\r\n//「美しきもののために！　我が正義だ！」\r\n\"It is <I>justice,</I>㉓bringing salvation to the beautiful!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8753,
+  "en": "\r\n//　込み上げる衝動を抑え切れず、哄笑しながら、だが\r\n//自分でも起きた出来事に対する驚きは禁じ得なかった。\r\n//　まさか、ここまでのものとは……！\r\n  I howl with laughter, unable to suppress the urge. At the same time, I am awed by what just happened. Such power!\r\n\r\n//　一体どれほどの量を引き上げたのか。\r\n//　莫大な水流は今は散り、地上に降り注いでいる。時\r\n//ならぬ雨に仰天する街の様子が目に浮かぶようだった。\r\n  I never thought Shinkai could control so much liquid. The massive spout has dissipated, its water showering the city below. I imagine the shock on people's faces as they are drenched by the sudden rain.\r\n\r\n//　村正の姿はどこにもない。どこにも見えない。\r\n//　蜘蛛から変じたあのおぞましい姿は、綺麗に空から\r\n//消え失せている。\r\n  Muramasa is nowhere to be seen. That detestable spider has been ejected from the sky.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9776,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0160b57'>\r\n//「……墜落したか。\r\n//　相応の末路と言うべきだろうな」\r\n\"Crashed, did he? No less than he deserves.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9999,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0170b38'>\r\n//《――否。\r\n//　方位<RUBY text='ひのえからうまのしも'>一七〇度下方</RUBY>、距離二四〇〇。\r\n//　敵影確認》\r\n《...Negative. Enemy located. Five o'clock low, range 2400.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10305,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0180b57'>\r\n//「何!?」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10424,
+  "en": "\r\n//　信じ難い報告に、目を剥いて示された方角を見やる。\r\n//　そこには確かに、あの姿が。\r\n  Eyes bulging in disbelief, I look in the direction Shinkai indicated. There he is, circling far below.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10665,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0190b57'>\r\n//「あれを受けて無事だというのか!?」\r\n\"He survived that!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10835,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0200b38'>\r\n//《敵騎は我が白華爛丹の直撃を受ける寸前に\r\n//防壁を展開。\r\n//　その効果によって致命打を避けた模様》\r\n《The enemy erected a barrier moments before impact. It would seem to have prevented critical injury.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11183,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0210b57'>\r\n//「防壁だと？」\r\n\"A barrier?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11316,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0220b38'>\r\n//《磁力の壁を張り、水流を磁化した上で反発、\r\n//威力を減殺したものと思われる》\r\n《A wall of magnetic force. It is likely that the enemy magnetized and repelled the water, thereby dampening its power.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11651,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0230b57'>\r\n//「磁力……\r\n//　つまり磁力操作が<RUBY text='やつ'>村正</RUBY>の陰義なのか」\r\n\"Magnetic force... So Muramasa's shinogi controls electromagnetic fields?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11925,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0240b38'>\r\n//《そう推定するのが妥当である》\r\n《That is a reasonable assumption.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12108,
+  "en": "\r\n//　化物め。\r\n//　唾を吐きたいところだったが、頭部を兜に覆われて\r\n//いてはそれもできない。劔冑を装甲しているとたまに\r\n//こういった細かな不自由と出くわすことがある。\r\n  Monster! I would spit in disgust, but my tsurugi's helmet prevents me. I've learned that these are the little inconveniences a musha encounters from time to time.\r\n\r\n//　あの力でも奴を倒すには足りないのか。\r\n//　真改では奴を倒せないのか!?\r\n  That attack wasn't enough to defeat him? Is his tsurugi so superior?\r\n\r\n//　\r\n//　……おのれ。\r\n  ...Damn you, Muramasa. You're in my way.\r\n\r\n//　目障りだ。\r\n//　我が道を妨げるあの男。あくまでも立ちはだかろう\r\n//とするあの深紅。\r\n  The man in black and his crimson tsurugi, determined to end my sacred quest.\r\n\r\n//　倒す。\r\n  I won't accept that I'm powerless against you.\r\n\r\n//　倒せないなどということがあってたまるか。\r\n//　この自分が正しいなら、正しいのだから、間違って\r\n//いる奴を排除できないはずがない。\r\n  If I am right―which of course I am―then there's no reason I shouldn't be able to defeat you who are wrong!\r\n\r\n//　倒す。排除する……！\r\n  Die, Muramasa!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13427,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0250b38'>\r\n//《敵騎の状態を確認。\r\n//　胸部甲鉄を中心に深刻な損傷》\r\n《The enemy has suffered severe damage to the thoracic armor.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13671,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0260b57'>\r\n//「ん？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13790,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0270b38'>\r\n//《全機能が大幅に低下した状態にあると推測。\r\n//　現時点における性能比は真改の優越である》\r\n《This should significantly impair its flight and combat capabilities. Analysis shows that Shinkai now has the advantage.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14145,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0280b57'>\r\n//「損傷……！　そうか！」\r\n\"Damage... Of course!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14303,
+  "en": "\r\n//　さすがに奴とても無傷ではいられなかったらしい。\r\n//　考えてみれば当然のこと。\r\n  Even he was unable to escape unharmed. Given the power I unleashed, that's only to be expected.\r\n\r\n//　今のうちに畳み掛ければ、勝てる！\r\n  If I seize this chance, I can win!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14626,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0290b38'>\r\n//《敵騎、復元機能の作動を確認。\r\n//　所要時間は不明》\r\n《The enemy has begun repairs. Time to completion unknown.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14864,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0300b57'>\r\n//「そんな時間は与えん！」\r\n\"I won't give it to him!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15025,
+  "en": "\r\n//　兜角を下げて降下突入。\r\n//　眼下を旋回騎航していた村正も、こちらに気付いて\r\n//覚悟を決めたか、頭を上げて向かってくる。\r\n\r\n//　先程までとは完全に逆転した格好。\r\n  I drop my nose and dive. Perhaps resigned to his fate, Muramasa rises to meet me.\r\n\r\n  I finally have the high ground.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15394,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0310b57'>\r\n//《村正ァァァッ！》\r\n《MURAMASAAAAAAA!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15542,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0320a00'>\r\n//《……真改》\r\n《...Shinkai.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15677,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0330b57'>\r\n//《武者の格闘は高位置を取った者が有利……\r\n//だったな!?\r\n//　頂いた御教授、有難く活用させてもらう！》\r\n《The musha who attacks from above has the advantage, was it!? Allow me to put your teachings to good use!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16032,
+  "en": "\r\n//　突進。進撃。\r\n//　太刀をかざし、敵の下へ抜けながら振り下ろす！\r\n  I charge the enemy, readying my sword high, then slash down as I pass beneath!  \r\n\r\n//　村正も下段に取り、切り上げてくる。\r\n//　だが――優劣は明らか！\r\n  Muramasa takes gedan―<br>the low hold―and swings up to meet me, but it's clear the advantage is mine!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16433,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0340b57'>\r\n//「しゃッ！」\r\n\"Sha!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16557,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0350a00'>\r\n//「ぐぅッ!?」\r\n\"Guh!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16681,
+  "en": "\r\n//　村正の太刀を打ち弾き、その甲鉄に切り込む！\r\n//　手応えは堅く、手首の骨が痺れるほどだったが――\r\n//しかしむしろその感覚が心地良い。\r\n  My strike knocks Muramasa's weapon aside and cleaves into his armor! The impact is solid, numbing my wrists to the bone, but I savor the sensation and the joy that it brings.\r\n\r\n//　ようやくこの手で奴に一撃を加えてやれたのだ。\r\n  I've finally landed a blow!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17173,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0360b38'>\r\n//《敵、左肩部甲鉄に損傷》\r\n《Enemy unit, damage to left shoulder armor.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17357,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0370b57'>\r\n//《はッ！\r\n//　どうだ、村正！　優位から一転、打ちのめ\r\n//される側になった気分は》\r\n《Ha! Well, Muramasa!? How do you like the taste of victory torn from your grasp!》\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0380b57'>\r\n//《なかなか乙なものだろう!?》\r\n《Novel, isn't it!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17814,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0390a00'>\r\n//《……とは、言いかねるな。\r\n//　そんなものは今更貴様に教えてもらうまで\r\n//もない》\r\n《...Hardly. You are far from the first to teach it to me.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0400a00'>\r\n//《既に慣れ切り、飽き切った……。\r\n//　だが、苦痛という感覚は忌々しいほど常に\r\n//新鮮だ》\r\n《It's a taste I know far too well, though the pain remains damnably fresh.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18394,
+  "en": "\r\n//　そんな答えを寄越しながら、声にだけは相変わらず\r\n//乱れというものがない。\r\n//　どうせ虚勢だろうが。\r\n  Despite the humiliation his words would suggest, his voice is as composed as ever. An act, of course. It must be.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18671,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0410a00'>\r\n//《しかし……先の<RUBY text='・・'>あれ</RUBY>は、何だ。\r\n//　如何に真改が名物とは云え、あそこまでの\r\n//力を持つとは正直、信じ難い》\r\n《Still... what was that shinogi just now? Exceptional though it may be, I find it hard to believe that Shinkai could possess such strength.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0420a00'>\r\n//《あれは――<RUBY text='・・'>異常</RUBY>だ》\r\n《Your power is㉒<I>wrong.</I>》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19281,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0430b57'>\r\n//《ふん。\r\n//　銀色の破壊の神が、私に力を下さった……\r\n//とでも言っておこうか》\r\n《Heh. The devil showed me favor, I suppose you could say. The devil cast in silver.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19582,
+  "en": "\r\n//　きっと理解はできまいが。\r\n//　理解できても信じまい。\r\n\r\n//　しかし、村正の返答は予想を裏切った。\r\n  I don't expect him to understand, or believe me if he does.\r\n\r\n  But Muramasa's response betrays my expectations.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19855,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0440a00'>\r\n//《貴様が銀星号に<RUBY text='・'>卵</RUBY>を植えられていることは\r\n//最初から知っている》\r\n《I'm already aware that you carry Ginseigo's egg.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20127,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0450b57'>\r\n//《ほう？》\r\n《Oh?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20251,
+  "en": "\r\n//　卵。確かにあれは、卵を思わせる球形をしていた。\r\n//　とするとこの男、何か知っているのか……？\r\n  Egg? I suppose its shape did resemble an egg. So this man knows something about it?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20491,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0460a00'>\r\n//《俺達はその気配を追っていたのだからな。\r\n//　だが……あれはただの<RUBY text='・・・・'>時限爆弾</RUBY>の筈》\r\n《Its presence is what brought us here. However, the egg is merely a time bomb.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0470a00'>\r\n//《貴様が見せた異常の力とは、何の関わりも\r\n//――》\r\n《It should not be able to grant such unnatural―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21044,
+  "en": "\r\n//嶋：ここだけネームプレート\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma01/023vs0480a01'>\r\n//《あるのでしょうね》\r\n《Maybe it can.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21242,
+  "en": "\r\n//　突然。\r\n//　澄んだ声が対話に割り込む。\r\n  A different voice interrupts the man, this one high and melodic.\r\n\r\n//　薄手の陶器を指先で打つような響。\r\n//　……まさか、これは、<RUBY text='ムラマサ'>劔冑</RUBY>の？\r\n  It carries a strange echo, like fingers rapping against a ceramic bowl. Could it be his tsurugi itself speaking?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21637,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma01/023vs0490a01'>\r\n//《今回、銀星号がばら撒いている七個の卵は、\r\n//私の野太刀と掛け合わせて創られたもの。\r\n//　あの卵には私の力が宿っている》\r\n《This time, Ginseigo combined its seven eggs with the fragments of my nodachi. The eggs, therefore, carry my power.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22039,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0500a00'>\r\n//《では、それが――》\r\n《And that―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22186,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma01/023vs0510a01'>\r\n//《さっきの非常識な陰義の理由でしょうね。\r\n//　そしておそらく、甲鉄のふざけた硬さも》\r\n《Would explain the outrageous shinogi just now. It's probably also contributing to Shinkai's absurd durability.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma01/023vs0520a01'>\r\n//《どう、井上和泉守？　生憎と私は<RUBY text='・・'>後世</RUBY>の事\r\n//に詳しくはないけど、摂津鍛冶が独力であれ\r\n//だけの性能を完成させられたとはどうしても\r\n//思えない》\r\n《What say you, Lord of Izumi? I'm afraid my knowledge of those who came after me is limited, but I rather doubt the smiths of Settsu could have developed such strong armor on their own.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma01/023vs0530a01'>\r\n//《それとも過小評価？\r\n//　十六<RUBY text='ようぎく'>葉菊</RUBY>を戴く劔冑の、あれが真骨頂なの\r\n//かしら？》\r\n《Or do I sell you short? Is that the true worth of a tsurugi that was awarded the emperor's sixteen-leaf chrysanthemum?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23422,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0540b38'>\r\n//《――否。貴殿の指摘は正鵠を得ている》\r\n《Negative,》 Shinkai responds, further shocking me. 《Your observation is indeed accurate.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23676,
+  "en": "\r\n//　問いかけを受けて、驚いたことに真改は応じた。\r\n//　心なしか――いや、間違いなく錯覚であろうが――\r\n//敬意に似た調子を込めて、金打声を発信する。\r\n  Is it just my imagination, or is there a hint of deference in Shinkai's metallic voice?\r\n  ...No, it can't be.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24016,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0550b38'>\r\n//《当方の<RUBY text='ちから'>能力</RUBY>は当方を<RUBY text='・・'>侵食</RUBY>する異物によって\r\n//高められている。この異物の詳細は解析でき\r\n//なかったが――これが貴殿の……\r\n//　貴殿<RUBY text='・'>ら</RUBY>の力か》\r\n《My abilities are being heightened by the foreign element present in my armor. I have been unable to fully analyze its nature, but now I see that it originates with you. Or rather, with one of your line.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24606,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma01/023vs0560a01'>\r\n//《……迷惑を掛けているみたいね》\r\n《...I suppose I should apologize.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24798,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0570b38'>\r\n//《御配慮は無用。如何なる形であれ、先人の\r\n//業に触れるは喜びである》\r\n《Not necessary. To touch the work of one's predecessors, no matter in what form, is always a pleasure.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25105,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0580b57'>\r\n//「その辺にしろ、真改」\r\n\"That's quite enough, <br>Shinkai.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25273,
+  "en": "\r\n//　戦闘の<RUBY text='さなか'>最中</RUBY>にはふさわしからぬ奇妙にのどかな空気\r\n//を漂わせて語り合う劔冑らに苛立ち、口を挟む。\r\n//　会話には理解しかねる部分もあったが、一つだけは\r\n//はっきりしていた。意味がないということだ。\r\n  I cut in, annoyed by the entirely too friendly tone of their conversation. There was much said that I don't understand, but I caught enough to know that none of it matters.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25778,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0590b57'>\r\n//《下らんことをごちゃごちゃと……！\r\n//　時間稼ぎのつもりか、村正。往生際の悪い\r\n//……武者なら武者らしく、潔く散れ！》\r\n《No more chatter! Are you trying to buy time, Muramasa? Pathetic. A musha should die with grace!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26152,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0600a00'>\r\n//《そうだな》\r\n《Indeed.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26283,
+  "en": "\r\n//　村正――甲鉄の内側からの声。\r\n//　劔冑よりもむしろ劔冑らしい冷たい声音で、それは\r\n//淡々と続けてきた。\r\n  This time, the tsurugi's pilot answers, his flat tone closer to what I'd expect from a tsurugi than Muramasa's or even Shinkai's was.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26586,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0610a00'>\r\n//《今の言には全く同意する。\r\n//　では――武者らしく潔く散れ。鈴川令法》\r\n《I could not agree more. Therefore, Suzukawa Ryobu... die with grace, as a musha should.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26882,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0620b57'>\r\n//《……!?》\r\n《!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27004,
+  "en": "\r\n//　言い放つや、村正の紅影は首をめぐらせて旋回。\r\n//　こちらへと進撃する――圧倒的不利な下方から。\r\n  With that, the crimson musha wheels and charges―<br>from below, an overwhelming disadvantage.\r\n\r\n//　……何を。あの男。\r\n//　状況がわかっていないのか。\r\n  Doesn't he understand his position? Not only has he lost the high ground, but his damage is greater than mine!\r\n\r\n  This battle is already over!\r\n\r\n//　高度で劣位にあるのも奴なら、損傷の度合いがより\r\n//深いのも奴！\r\n//　死ぬべきがどちらかなど、決まっているだろうに！\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27667,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0630b57'>\r\n//「……度の過ぎた虚勢は不愉快なものだな。\r\n//初めて知ったぞ。\r\n//　いいさ、真改――夢くらいは許してやる。\r\n//妄想に浸らせたまま、奴を葬れ」\r\n\"...Now I know how irritating bravado can be. Let him have his dreams, Shinkai. We'll finish him before he wakes!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28082,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0640b38'>\r\n//《承知》\r\n《Understood.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28211,
+  "en": "\r\n//　弱者め！\r\n//　そう、奴こそが弱者というものだ。あれほどなんや\r\n//かやと大言壮語をしておきながら、最後にすがるのが\r\n//負けを認めぬ妄想とは！\r\n  Weakling! Now I see you for the pitiful thing you are. After all your arrogance and bluster, in the end, you refuse to admit defeat!\r\n\r\n//　なんとも見苦しい。\r\n  How ugly! A foul creature like you deserves only one end.\r\n\r\n  Fall, and die in disgrace!\r\n\r\n//　醜い。\r\n//　その醜さに相応しく、無様な最期に堕ちてゆけ――！\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28791,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0650a00'>\r\n//「<RUBY text='エンチャント・マイナス'>磁装・負極</RUBY>――」\r\n\"Enchant: Minus!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28989,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma01/023vs0660a01'>\r\n//《――〝ながれ・かえる〟》\r\n《I part the flows.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29157,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0680b57'>\r\n//「！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29269,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0690b57'>\r\n//「今のは――！」\r\n\"What was that!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29410,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0700b38'>\r\n//《磁力障壁の発動を確認》\r\n《Electromagnetic barrier detected.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29585,
+  "en": "\r\n//　攻撃を弾かれた。\r\n//　甲鉄の強度に押されたのではない――硬質のゴムを\r\n//叩いたかのような。奇妙な感覚が手の内に残っている。\r\n  My attack was deflected, and not by Muramasa's armor. A strange sensation, like pounding a sledgehammer against a tire, lingers in my hands.\r\n\r\n//　――磁極の反発を利用した防御！\r\n//　先刻もこれを使い、怒涛の水流を防いでのけたのか。\r\n  He used magnetic fields to repel my attack! That must be how he blunted the impact of the maelstrom.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30162,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0710b57'>\r\n//「おのれ……しぶとい！」\r\n\"Damn you! Die already!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30322,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0720b38'>\r\n//《陰義の継続使用は仕手への負担が大。\r\n//　連続的な攻撃による突破が妥当である》\r\n《Use of shinogi drains energy from the pilot. Consider repeated attacks to wear down enemy defenses.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30642,
+  "en": "\r\n//　そんなまどろっこしいことはやっていられない。\r\n//　あの虫唾が走る存在をいつまでも見ていられるもの\r\n//か！\r\n  That will take too long! I can't bear to look at this insect a moment more!\r\n\r\n//　あの結界が剣撃を防ぐのなら、防ぎ切れない攻撃を\r\n//加えてやればいい。\r\n//　そうすれば一撃で済む。\r\n  If my sword can't make it through his barrier, then I'll use an attack that can!\r\n\r\n//　<RUBY text='ビャッカランタン'>白華爛丹</RUBY>！\r\n  Byakka Rantan!\r\n\r\n//　体内の力を集中する。\r\n//　うねる流れを引き寄せ、つかみ、集束して――！\r\n  I focus on the power within me, seizing the currents, drawing them together, and unleashing them!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31423,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0730b57'>\r\n//「<RUBY text='くるわ・くるくる'>曲輪来々</RUBY>――」\r\n\"Kuruwa Kurukuru―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31612,
+  "en": "\r\n//　…………え？\r\n  ...What?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31659,
+  "en": "\r\n//　なんだ、これは？\r\n//　視界が――色を、失う？\r\n  What's going on? The world's... losing color?\r\n\r\n//　それだけではない。\r\n//　<RUBY text='あし'>速度</RUBY>が――落ちる。<RUBY text='バランス'>姿勢</RUBY>が――崩れる。身体が――\r\n//<RUBY text='・・'>寒い</RUBY>。\r\n  And that's not all.<K>\r\n  Speed... dropping.<K>\r\n  Balance... failing.<K>\r\n  Body... cold.\r\n\r\n//　寒い――！\r\n//　なんだ、この身体の奥から来る異様な凍えは!?\r\n  Why am I so cold!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32210,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0740b57'>\r\n//「真改！　どうしたのだ!?」\r\n\"Shinkai! What's <br>happening!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32381,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0750b38'>\r\n//《――――》\r\n《――――》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32517,
+  "en": "\r\n//　答えがない。いや――答えてはいるのか？\r\n//　ノイズじみた雑音だけがわずかに届く。\r\n  No answer. Or is there? I hear what sounds like static, coming from far away.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32733,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0760a00'>\r\n//《限界が来たようだな》\r\n《So you've reached your limit.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32901,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0770b57'>\r\n//《村正！\r\n//　これは何だ……限界とはどういう意味だ！\r\n//　お前が何かをしたのか！》\r\n《Muramasa! What is this!? What do you mean, limit!? Is this your doing!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33197,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0780a00'>\r\n//《俺は何もしていない。\r\n//　それは貴様の未熟が招いた現象……\r\n//　<RUBY text='フリーズ'>熱量欠乏</RUBY>だ》\r\n《No. It's the result of your own incompetence.㉓<I>Freeze.</I>》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33511,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0790b57'>\r\n//《……熱量欠乏!?》\r\n《...Freeze!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33654,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0800a00'>\r\n//《武者の旋回機動は激しい<RUBY text='Ｇ'>荷重</RUBY>が掛かるため、\r\n//血液が下がり、視力障害を生じることがある。\r\n//　だがこれは通常、さほど問題にはならない。\r\n//劔冑の防護が働くからだ》\r\n《The G-forces sustained during combat maneuvers place great strain on the pilot, potentially forcing blood away from the head and causing loss of consciousness. Normally, however, this does not occur. Our tsurugi's power protects us.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0810a00'>\r\n//《しかし別の理由により、劔冑の防護が弱ま\r\n//れば、これは途端に身近な危険となる。\r\n//　そしてその<RUBY text='・・'>理由</RUBY>は、問題を視力障害だけで\r\n//済ませはしない》\r\n《But if our tsurugi's protection is weakened by freeze, blackout becomes a very real threat. And that is only the least of the dangers.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0820a00'>\r\n//《熱量欠乏。\r\n//　劔冑は能力を発揮するために、<RUBY text='ユーザー'>仕手</RUBY>の<RUBY text='カロリー'>熱量</RUBY>\r\n//を絶えず消費する。強大な力を使う時ほど、\r\n//消耗も莫大だ》\r\n《Freeze is caused by caloric deficiency. A tsurugi constantly drains calories from its pilot to sustain its functions. The greater the power used, the greater the drain.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0830a00'>\r\n//《その消費量が、肉体の耐久限界を超えれば\r\n//……そう。今の貴様のようになる》\r\n《And if this consumption exceeds the body's limit... then the pilot will experience what you are now.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0840a00'>\r\n//《貴様の熱量は、先の大規模な陰義で既に底\r\n//を突いていたのだ。その上に更に無理を重ね\r\n//れば、結果は……\r\n//　劔冑のほぼ完全な機能停止。違うか？》\r\n《Your caloric reserves were already near empty after that massive shinogi. Any further attempt to draw such power... could only result in the total cessation of function. 》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36016,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0850b57'>\r\n//《そ……そんな》\r\n《No...!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36152,
+  "en": "\r\n//　そんな、馬鹿な。　そんなこと、私は知らなかった。\r\n//　知らなかったのに。\r\n  Impossible! I didn't know about this!\r\n\r\n//　酷い。\r\n//　なんで……なんで誰も教えてくれなかったんだ。\r\n//　どうして、こんなことになるまで！\r\n  Why didn't someone tell me!? Why didn't they warn me before this happened!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36541,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0860a00'>\r\n//《これは武者にとって常識以前の事柄。\r\n//　しかし――生身の者しか相手にせず、限界\r\n//を味わうことのなかった貴様が知る筈もない》\r\n《All musha know this as they know their own names, but you have only preyed upon the helpless. Without facing another musha in battle, you could not have known your own limits.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37007,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0870b57'>\r\n//《うぅ……》\r\n《Ugh...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37137,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0880a00'>\r\n//《鈴川令法。他人の手を借りるまでもなく、\r\n//己の悪行への報いは自分自身で招いたな。\r\n//　貴様は程なく墜落する……》\r\n《You have reaped with your own hands the price of your deeds. Soon you will crash from the sky.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0890a00'>\r\n//《が、その甲鉄の強度があれば死ぬ事はある\r\n//まい。<RUBY text='・・・'>そして</RUBY>俺は貴様の生存を認められない。\r\n//　故に最期は、俺の手で送る》\r\n《But the strength of Shinkai's armor may well protect you from death, and I㉓<I>cannot</I> allow you to live. Therefore, your end will come at my hand.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37956,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0900b57'>\r\n//《い……嫌だ……！》\r\n《No... No!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38101,
+  "en": "\r\n//　死ねない。\r\n//　私は死ねない。\r\n  I can't die. Not yet!\r\n\r\n//　動け！\r\n//　動け、手足！　動け、真改！\r\n//　なぜ動かない！　なぜ痺れる！　なぜ落ちてゆく!?\r\n  Move, body! Move, Shinkai! Why won't you move!?\r\n\r\n//　動けぇぇぇぇぇぇっ！\r\n//　私は死ぬわけにはいかないのだ！\r\n//　美しいもの達のために！\r\n  MOVE! I mustn't die here! I still have beauty to save!\r\n\r\n//　私、は――――\r\n  I still―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38609,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0910a00'>\r\n//《さらばだ、鈴川令法。\r\n//　人の美しさにすがった弱者》\r\n《Farewell, Suzukawa Ryobu, you of small heart who clung to the beauty of others.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0920a00'>\r\n//《貴様は悪の一語のみで断ずるべき人間では\r\n//ないのかもしれない。\r\n//　だが<RUBY text='・・・・・'>美しいもの</RUBY>は、貴様のような脆弱さを\r\n//求めてはいなかったのだ》\r\n《Perhaps it would be wrong to label a man like you simply evil... but whatever the case, beauty had no need of your weakness.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39329,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0930b57'>\r\n//《あ……あぁ》\r\n《Ah... ahh!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39466,
+  "en": "\r\n//　もはや定かならぬ視界の奥。\r\n//　深紅の武者が太刀を鞘に納める。\r\n  Through my rapidly dimming vision, I see the crimson musha sheathe his sword.\r\n\r\n//　居合／抜刀術の構。\r\n//　一刀必殺の意思の具現。\r\n  He prepares himself for iai, the art of drawing one's blade and striking the enemy in a single unbroken motion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39846,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0940b57'>\r\n//「し……真改……!?」\r\n\"S- Shinkai!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39988,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0950b38'>\r\n//《双極の磁力。\r\n//　その吸引と反発の作用を、居合の技に持ち\r\n//込むか……》\r\n《Dipolar magnetic fields... Iai strengthened by the forces of attraction and repulsion...》\r\n\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0960b38'>\r\n//《何という恐ろしき工夫よ。\r\n//　ここまで精密かつ高圧の力を御すは仕手に\r\n//とっても劒冑にとってもまさしく生死を天に\r\n//預ける綱渡りの筈……それを遂げている……》\r\n《A terrifying technique indeed. To summon and bind such violent energy risks destroying both tsurugi and pilot. Yet they have succeeded.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40756,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs0970b57'>\r\n//「真改ぃぃぃぃぃぃぃっ!!」\r\n\"SHINKAI!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40904,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs0980b38'>\r\n//《……我が仕手よ。\r\n//　武の鬼道を歩んだ者の逃れ得ぬ<RUBY text='さだめ'>運命</RUBY>、今が\r\n//その時と存ずる》\r\n《...Master. All who walk the path of blood and battle must one day meet their end. I respectfully submit that now is our time.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41284,
+  "en": "\r\n//　呼びかけにも、劔冑は動かない。\r\n//　ただ静かな言葉だけを送ってきた。\r\n  My tsurugi does not move at my command. It tells me only to accept the inevitable.\r\n\r\n//　死が来る。\r\n//　最強にして最凶、近づいたもの全てを滅ぼすと謳わ\r\n//れた妖甲が、その<RUBY text='ノロイ'>呪</RUBY>の究極を解き放とうとしている。\r\n//　絶対不可避の死の運命。村正。\r\n  I'm going to die. The demon Muramasa, hated and feared for bringing ruin to all who behold it, is about to unleash its curse.\r\n\r\n//　悟ってしまった。理解してしまった。\r\n//　真改の甲鉄は――無双無敵であるはずの防壁は――\r\n//今より訪れる<RUBY text='・・'>もの</RUBY>を決して防ぎ止められない。\r\n  Understanding comes to me like the Word of God. Shinkai's armor―this impenetrable wall that has protected me until now―will be powerless to stop what is coming.\r\n\r\n//　ようやく気付いた。\r\n//　妖甲の妖甲たる所以。\r\n//　あれは死。あれは滅び。ただ純然たる、<RUBY text='・・'>それ</RUBY>。\r\n  Now I know, though far too late, my enemy's true nature. Muramasa is death, absolute and inescapable. It is <I>oblivion.</I>\r\n\r\n//　関わってはならなかったのだ。\r\n//　近づいてはならなかったのだ。\r\n  I should never have faced it. I should have run while I had the chance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42742,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs0990a00'>\r\n//《いかに堅固な城塞とて……\r\n//　<RUBY text='いなづま'>天の鉄鎚</RUBY>の前には脆いもの》\r\n《Even the strongest fortress keep is dust before the hammer of light.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs1000a00'>\r\n//《<RUBY text='エンチャント'>磁波鍍装</RUBY>――<RUBY text='エンディング'>蒐窮</RUBY>》\r\n《Enchant: Ending.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43256,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma01/023vs1010a01'>\r\n//《諒解。\r\n//　<RUBY text='シ'>死</RUBY>を始めましょう》\r\n《Command accepted. Let's start the killing, then.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43486,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs1020a00'>\r\n//《吉野御流合戦礼法、〝迅雷〟が崩し……》\r\n《Yoshino-onryu Kassen Reiho, adapted from Jinrai―》\r\n\r\n//◆鞘に手をかける村正。溜め演出\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/023vs1030a00'>\r\n//《<RUBY text='レールガン'>電磁抜刀</RUBY>――――〝<RUBY text='マガツ'>禍</RUBY>〟》\r\n《Railgun: Magatsu.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43971,
+  "en": "\r\n//【真改】\r\n<voice name='真改' class='真改' src='voice/ma01/023vs1040b38'>\r\n//《いかで……我が……\r\n//　こころの月を……あらは……して……》\r\n《How might I... call forth... the moon... from my soul...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44224,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/023vs1050b57'>\r\n//「やみに……まどえる……\r\n//　ひとを……てら…………さ…………」\r\n《That its light... may shepherd... the lost... through... the... darkne...》\r\n",
+  "pt": ""
+ }
+]

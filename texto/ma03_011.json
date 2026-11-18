@@ -1,0 +1,1067 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110010a00'>\r\n//「調査方針を説明します」\r\n\"I will now explain our course of action.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 389,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0110020a02'>\r\n//「はいっ」\r\n\"Okay!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 509,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0110030a03'>\r\n//「おうっ」\r\n\"Bring it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 642,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0110040a04'>\r\n//「お嬢さま。無理に個性を演出すると何だか\r\n//とても痛々しいですよ」\r\n\"Mistress, you're trying much too hard to make an impression.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 899,
+  "en": "\r\n//　予備予選終了後、競技場内広場。\r\n//　客の大半と敗退したチームが去った頃合を見計らい、\r\n//俺達は行動を開始しようとしていた。\r\n  We begin our investigation after the qualifier has ended, when most of the spectators have left the stadium.\r\n\r\n//　村正が感じる<RUBY text='・・'>匂い</RUBY>は依然としてサーキット場周辺に\r\n//ある。\r\n//　去っていったチームの<RUBY text='クルス'>騎体</RUBY>を気に掛ける必要はない。\r\n  Muramasa still places Ginseigo's scent inside the circuit, so we don't have to worry about the teams that were eliminated. They've all left as well.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1586,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110050a00'>\r\n//「主眼に据える調査対象は、今日のレースに\r\n//参加しなかったチーム。\r\n//　多くはパドック内の各ガレージで明日の本\r\n//予選の為に騎体点検を行っている筈です」\r\n\"We will focus on the teams that did not participate in today's time trial. Most of them should be in their respective paddocks, preparing for tomorrow's preliminary.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110060a00'>\r\n//「コースに出て練習騎航を行うチームもある\r\n//でしょうが、そちらは村正に任せて下さい。\r\n//　我々はレース関係者を装ってガレージ内の\r\n//チームに接触を試み、情報収集を行います」\r\n\"Some racers might head out to the track for practice, but we can leave those for Muramasa to check. We will pretend to be involved with the race administration and attempt to gather information from pilots and crew.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110070a00'>\r\n//「レース中ほど警戒は厳しくない筈ですので、\r\n//殊更に不審な行動を取らねば問題は起きない\r\n//でしょう。もし怪しまれた場合は迅速に撤収\r\n//し/て下さい。無理押しは禁物です」\r\n\"Security won't be as tight as during the race, so there should be no problem unless you do something to invite suspicion. If that happens, disengage immediately. Getting too greedy now will only make our job more difficult later.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3197,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0110080a03'>\r\n//「質問っ」\r\n\"Question!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3330,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110090a00'>\r\n//「はい、大尉殿」\r\n\"Yes, Captain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3467,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0110100a03'>\r\n//「聞き込みの方向性はどのように？\r\n//『あなた、銀星号を知りませんか』といった\r\n//感じでよろしいのでしょうか」\r\n\"How should we frame our inquiries? Is 'do you know Ginseigo' subtle enough?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3809,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0110110a02'>\r\n//「捻り無さ過ぎだろ、おい」\r\n\"How is that subtle?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3967,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110120a00'>\r\n//「あやしまれては元も子もありません。ひと\r\n///まずは当たり障りのない会話で情報を集める\r\n//に/留めましょう。何気ない雑談の中に意外な\r\n//収穫が見つかるというのは良くある話です」\r\n\"In order to avoid tipping our hand, it would be best, for now, to elicit information through casual conversation. Surprising truths can often be gleaned from seemingly innocuous statements.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4510,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110130a00'>\r\n//「ただ、それでも一応の方向を示すなら……\r\n//　力に飢えている人間を探して下さい」\r\n\"The only specific direction I can give... is to look for someone who desires <br>power.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4815,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0110140a03'>\r\n//「それはどういう？」\r\n\"Desires power?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4968,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110150a00'>\r\n//「銀星号によって寄生体に選ばれる人間の、\r\n//言うなれば――傾向です」\r\n\"That appears to be the common thread linking those chosen by Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5238,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110160a00'>\r\n//「村正、お前は引き続きコントロールタワー\r\n//から監視を頼む。\r\n//　これからいくつかのチームがコースに出て\r\n//来る筈だ」\r\n\"Muramasa, you continue to keep watch from the control tower. More teams are likely to use the track.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5609,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110170a01'>\r\n//《諒解》\r\n《Understood.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110180a01'>\r\n//《…………。\r\n//　ねぇ、御堂》\r\n《...By the way, Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5907,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110190a00'>\r\n//「何か」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6023,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110200a01'>\r\n//《考えたのだけど。\r\n//　今回、銀星号がつくった七つの〝卵〟》\r\n《I've been thinking about the seven eggs Ginseigo scattered this time.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6290,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110210a01'>\r\n//《それを与えられた武者のうち、三人を私達\r\n//は既に見ている。……三人、をね。\r\n//　彼らには共通項があった。そう思わない？》\r\n《Of the seven, we've already encountered three. Don't you think they had something in common?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6671,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110220a00'>\r\n//「……共通項」\r\n\"Something in common...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6814,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110230a01'>\r\n//《彼らは<RUBY text='・'>力</RUBY>を求めていた。渇望していた。\r\n//　他人を屈服させて、自分の望みをかなえる\r\n//ために》\r\n《They all desired power―<br>were㉒<I>starved</I>㉔for it, even. They wanted the strength to bend others to their will and realize their dreams.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110240a01'>\r\n//《鈴川令法、長坂右京、風魔小太郎……\r\n//　皆、そうじゃない？　程度と性質の違いは\r\n//あったかもしれないけれど》\r\n《Suzukawa Ryobu, Nagasaka Ukyo, Fuma Kotaro. Even if the nature of their obsessions was different, they were all like that, weren't they?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7630,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110250a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7754,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110260a01'>\r\n//《前回、銀星号が〝卵〟をばら撒いた時には\r\n//そんなことはなかった。\r\n//　寄生体はただ無作為に選ばれたようにしか\r\n//見えなかったし、実際そうだったんでしょう》\r\n《It wasn't like that all the other times. It seemed like the infected were chosen randomly, which they probably were.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110270a01'>\r\n//《でも今回は明らかに違う。\r\n//　おそらくそれは、今回の〝卵〟が寄生体に\r\n//私の能力を分け与えるという付加価値を持つ\r\n//からよ》\r\n《But this time, there's a clear pattern. It's probably because these eggs bestow part of my power upon the recipient.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8609,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110280a00'>\r\n//「……折角の力。\r\n//　必要としている者にくれてやろう、という\r\n//ところか？」\r\n\"...So she might as well give it to people who want it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8873,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110290a01'>\r\n//《ええ。\r\n//　寄生体は<RUBY text='・・・・・・'>選ばれている</RUBY>》\r\n《Yes. They're being chosen deliberately.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9113,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110300a00'>\r\n//「ならば――」\r\n\"In which case...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9250,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110310a01'>\r\n//《力を求めている者を探せばいいのよ。\r\n//　この競技場で誰よりも力に飢えている人間\r\n//を……》\r\n《We just need to find someone who thirsts for power, who wants it more than anyone else here.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9586,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0110320a02'>\r\n//「力に飢えている人間……」\r\n\"Someone who thirsts for power...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9757,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110330a00'>\r\n//「……尤も、ここはレース場。\r\n//　多かれ少なかれ、誰しもがそうした欲求は\r\n//持っているようにも思えるのですが」\r\n\"Of course, anyone in the racing profession is likely to qualify to some degree.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10097,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0110340a03'>\r\n//「ですねぇ」\r\n\"True...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10231,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0110350a04'>\r\n//「それでも異常なほどの執念を燃やしている\r\n//御仁がいれば目立ちましょう。\r\n//　注意を払ってみる価値は有ると存じます」\r\n\"But someone who's truly obsessed with power is bound to stand out. I believe it merits our attention.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10602,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110360a00'>\r\n//「はい。\r\n//　では以上のような方針で開始します。効率\r\n//化のため、手分けしてあたって下さい」\r\n\"Agreed. Then we'll proceed in that vein. Best to split up so we can cover more ground.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10922,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0110370a02'>\r\n//「はいっ！　頑張ります！」\r\n\"I won't let you down!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11082,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0110380a03'>\r\n//「じゃあ行きましょうか、ばあや」\r\n\"Shall we be off, Sayo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11261,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0110390a04'>\r\n//「は。\r\n//　まぁ私どもは大体一緒くたでございますし」\r\n\"Right with you, Mistress. Everyone seems to treat us as one character, after all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11518,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110400a00'>\r\n//「……さて。\r\n//　では、俺も行動を開始する」\r\n\"...Now, where should I begin?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11711,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110410a01'>\r\n//《気をつけなさいね。\r\n//　ただでさえ貴方は人を警戒させやすいんだ\r\n//から》\r\n《Be careful. You have a way of setting people on edge.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11981,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110420a00'>\r\n//「無用の心配だ。\r\n//　俺とてそうしようと思えば友好的に接する\r\n//くらいの事は造作もない」\r\n\"Nonsense. I'm perfectly capable of friendly conversation when the situation calls for it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12298,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110430a00'>\r\n//「――チーム・サワダの門倉直哉」\r\n\"Kadokura Naoya, of Team Sawada.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12477,
+  "en": "\r\n//【ｅｔｃ／門倉】\r\n<voice name='ｅｔｃ／門倉' class='その他男声' src='voice/ma03/0110440e280'>\r\n//「はい？」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12630,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110450a00'>\r\n//「四国大会のチャンピオン。\r\n//　しかし、全国から猛者が集まるこの大会で\r\n//勝つ見込みはあるまいと、専らの下馬評」\r\n\"You were the regional champion of Shikoku. However, you are not considered a contender for the national title.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13004,
+  "en": "\r\n//「な、なんだよいきなり……」\r\n//【ｅｔｃ／門倉】\r\n<voice name='ｅｔｃ／門倉' class='その他男声' src='voice/ma03/0110460e280'>\r\n//「なんだよいきなり……」\r\n\"What the...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13231,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110470a00'>\r\n//「力が欲しくはありませんか？」\r\n\"Do you desire power?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13396,
+  "en": "\r\n//【ｅｔｃ／門倉】\r\n<voice name='ｅｔｃ／門倉' class='その他男声' src='voice/ma03/0110480e280'>\r\n//「え……えぇ？\r\n//　あんた、一体……」\r\n\"Huh? What are you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13605,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110490a00'>\r\n//「欲しいなら、差し上げる……\r\n//　そう言われたら、貴方はどうします？」\r\n\"If I were to offer you power beyond your wildest dreams... would you take it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13885,
+  "en": "\r\n//【ｅｔｃ／門倉】\r\n<voice name='ｅｔｃ／門倉' class='その他男声' src='voice/ma03/0110500e280'>\r\n//「……ひ、ひっ、ひぃーーーーっ!!\r\n//　悪魔が、悪魔がオレを誘いにーーーー!?」\r\n\"AHHHHHHHH! It's the <br>devil! He's come for my soul!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14182,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110510a00'>\r\n//「果たして何が悪かったのだろう」\r\n\"...What did I do wrong?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14353,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110520a01'>\r\n//《何もかもよ》\r\n《Everything.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14495,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110530a00'>\r\n//「他の三人は大丈夫だろうか……」\r\n\"I hope the others are doing all right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14681,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0110540a01'>\r\n//《貴方よりはずっとね》\r\n《Better than you, I'm sure.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14850,
+  "en": "\r\n//　手法を改めることにして、調査を再開。\r\n//　手近なガレージを覗いてみると、雑誌や街角でしば\r\n//しば見かけるシンプルなロゴがまず目についた。\r\n\r\n//　田村甲業を意味するデザイン。\r\n//　戦前からの名チーム、タムラワークスのガレージの\r\n//ようだ。\r\n  I decide to try a different tack.\r\n\r\n  Peering into a nearby garage, I spot a familiar logo: Tamura Armorworks.\r\n\r\n  This must be the garage for Tamura's famous racing team, which has been a powerhouse in the sport since the pre-war period.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15454,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110550e010'>\r\n//「どなた？」\r\n\"Can I help you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15633,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110560a00'>\r\n//「失礼。\r\n//　敵情視察といったところです」\r\n\"Pardon me. I'm merely gathering information on the enemy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15851,
+  "en": "\r\n//　出入口近くにいたスタッフが声を掛けてくるのへ、\r\n//言葉少なに答える。\r\n//　嘘をつく者はとかく多弁なもの。こういう際は多少\r\n//素っ気ないくらいの方が要らぬ疑念を招かずに済む。\r\n  My answer to the mechanic's question is short and to the point. Liars are talkative. A little brusqueness helps to avoid suspicion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16255,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110570e010'>\r\n//「あぁ、ポリスチームの人？」\r\n\"Oh. You're from the police team?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16475,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110580a00'>\r\n//「――は。そうです」\r\n\"Yes, I am.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16615,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110590a00'>\r\n//「自分が参加するのは今回が初めてなのです\r\n//が……一目でわかってしまいますか」\r\n\"This is my first time participating. Is it that obvious?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16886,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110600e010'>\r\n//「そりゃね。あなたみたいな強面で、参加者\r\n//っていったら、ポリスチームくらいしかない\r\n//でしょ？」\r\n\"A scary-looking guy like you? Only one team you could be on.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17235,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110610a00'>\r\n//「…………成程」\r\n\"...I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17368,
+  "en": "\r\n//　いささか忸怩とさせる部分を含む説明であったが、\r\n//胸中にはひとつ頷いておく。\r\n//　彼の言は良いアドバイスになった。\r\n  While I object to some of his reasoning, his answer has given me an idea.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17629,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110620a00'>\r\n//（そうか。\r\n//　そういうことにして貰えばいい）\r\n(Of course. We should have asked to be placed on the police team.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17860,
+  "en": "\r\n//　今日のうちにも手を打っておこう。\r\n  I'll arrange it before the day is out.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17967,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110630e010'>\r\n//「ホットボルトの調子はどうです？」\r\n\"How's your Hot Bolt running?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18192,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110640a00'>\r\n//「良好です。\r\n//　やはりあの騎体は素晴らしい」\r\n\"Very well, thank you. It's a splendid machine.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110650a00'>\r\n//「シャフト式<RUBY text='４ＷＤ'>四翼駆動</RUBY>の先駆けでありながら、\r\n//あの完成度は見事というほかありません。\r\n//　<RUBY text='メンテ'>整備</RUBY>に手を焼かされるのが難点ですが」\r\n\"The quality of the design is remarkable, considering that it was the first shaft-driven four-wing drive. It is a little hard to maintain, though.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18887,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110660e010'>\r\n//「よく言われます。あの時点ではとてもそこ\r\n//まで手が回らなかったみたいで。\r\n//　でも、警察さんは大事に使ってくださって、\r\n//うちとしても嬉しいですよ」\r\n\"We get that a lot. They weren't thinking about maintenance back when they designed it. Still, it makes us happy to know you guys are taking good care of it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19408,
+  "en": "\r\n//　好意的な笑みを見せるスタッフ。\r\n//　会話が聴こえているだろう周囲の人間も、部外者で\r\n//ある俺を嫌がる気配は覗かせなかった。\r\n  The mechanic smiles jovially. The other staff within earshot don't appear to resent my presence either.\r\n\r\n//　ポリスチームの使うホットボルトはタムラの作品だ。\r\n//　それだけに、敵とは言ってもなかばは身内のような\r\n//意識が働くのか。情報を仕入れたいこちらとしては、\r\n//好都合な事だった。\r\n  The police team's Hot Bolt is a Tamura product, which I suppose makes us family of a sort, if still rivals. It should be relatively easy to gather information here.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20143,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110670a00'>\r\n//「今日はもう<RUBY text='はし'>騎航</RUBY>らないのですか」\r\n\"Will you go out again <br>today?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20350,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110680e010'>\r\n//「ええ。練習は朝のうちに済ませました。\r\n//　……本番まで騎体を見せたくないんですよ。\r\n//今回は」\r\n\"No, we finished our practice in the morning. This time, we're keeping our machine a secret till the main event.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20747,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110690a00'>\r\n//「つまり、新型ですか」\r\n\"So it's a new model.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20900,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110700e010'>\r\n//「口チャックで」\r\n\"Don't tell anyone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21088,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110710a00'>\r\n//「心得ました」\r\n\"Understood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21220,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110720e010'>\r\n//「ま、明日を楽しみにしていてください」\r\n\"Just look forward to tomorrow's prelim,\"</voice> he says with a conspiratorial grin.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21508,
+  "en": "\r\n//　含み笑うスタッフに頷き、視線を巡らす。\r\n//　彼はサブメカニックのようだ。それはそれで面白い\r\n//話が聞けそうだが――いま俺が話を聞かねばならない\r\n//人物は他にいる。\r\n\r\n//　……見当たらない。<k>\r\n//　\r\n//　不在なのかと思いつつもう一度首を巡らせて、よう\r\n//やく発見した。\r\n\r\n//　それほど目当ての人物は小柄だった。\r\n\r\n//　いかにも力仕事向きな周囲のスタッフ達より二回り、\r\n//三回りも小さい。\r\n//　チームの中核ともいうべき立場とは対照的だった。\r\n  I look around the garage. While I'm sure this mechanic has some interesting stories to tell, there's someone else I need to speak with right now.\r\n\r\n\r\n  It takes two or three scans of the room to find the person I'm looking for. That's how small she is: at least two or three heads shorter than the burly mechanics. One might say that her diminutive stature contrasts with her significance to the team.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22562,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110730a00'>\r\n//「……あの人は」\r\n\"That's...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22695,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110740e010'>\r\n//「ええ、うちのトップレーサーです。\r\n//　ご存知でしょう？」\r\n\"Yeah, our top racer. You've seen pictures, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22975,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110750a00'>\r\n//「勿論。雑誌で幾度も。\r\n//　では、少し挨拶をしてきましょうか」\r\n\"Yes, in magazines. May I pay my respects?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23207,
+  "en": "\r\n//【ｅｔｃ／スタッフ】\r\n<voice name='ｅｔｃ／スタッフ' class='その他男声' src='voice/ma03/0110760e010'>\r\n//「どうぞ。\r\n//　あ、ナーバスな子なんで、あまり恐がらせ\r\n//ないであげてくださいね」\r\n\"Go ahead. Oh, but try not to look so scary around her. She's a bit shy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23543,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110770a00'>\r\n//「……はい」\r\n\"...All right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23674,
+  "en": "\r\n//　悪意の無さがかえって耳に痛い言葉を聞きながら、\r\n//その方角へ足を向ける。\r\n//　トップレーサーは壁際に座り、何かの手作業をして\r\n//いるようだった。\r\n  I head off, slightly disheartened by the man's last words, made all the more biting for their lack of malice.\r\n\r\n//　小さな金属を磨いている。<RUBY text='クルス'>劔冑</RUBY>の<RUBY text='パーツ'>部品</RUBY>だろう。\r\n//　その手付きはひどく丁寧だった。そこにあるものが\r\n//宝石であるかのように繰り返し繰り返し磨き、状態を\r\n//確かめてなお満足せず、更に磨く。\r\n  Tamura's top racer is sitting against the wall, intent on polishing a tiny metal object. It must be part of a racing crux, though the care she's showing makes it seem more like a precious stone.\r\n  Two brushes with a thin cloth, a pause to inspect the shine, and repeat.\r\n\r\n//　自分の愛騎を土足で踏むような騎手はいない。\r\n//　それにしても、タムラのレーサーが劔冑へ注ぐ愛情\r\n//は一頭地を抜けていた。そもそもがそういう性格なの\r\n//かもしれない。\r\n  All racers possess a certain love for their machines, but hers appears to be stronger than average. Perhaps she is naturally inclined toward forming attachments with her equipment.\r\n\r\n//　集中して、俺の接近にも気付いていないようだ。\r\n//　驚かせて手元を狂わせでもしてはばつの悪いことに\r\n//なる。俺は慎重に声を掛けた。\r\n  She does not appear to have noticed my approach. I speak softly so as not to startle her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25347,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110780a00'>\r\n//「……失礼」\r\n\"...Excuse me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25478,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0110790b42'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25593,
+  "en": "\r\n//　ゆっくりと、手作業に没頭していた頭が上を向く。\r\n//　良く知っている顔だ。こちらが、一方的に。姓名も\r\n//当然記憶している。\r\n  She lifts her head slowly, as if coming out of a trance.\r\n\r\n  I know her face and name by heart, though she certainly doesn't know mine.\r\n\r\n//　双眸が俺を捉えた。\r\n//　その希少な職種に特有の、握力を感じるまでに精確\r\n//な視線。\r\n  Her gaze seems to grip me with physical force, a quality of focus unique to armor racers.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26147,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110800a00'>\r\n//「<RUBY text='おうじみさお'>皇路操</RUBY>さん。\r\n//　初めて御目に掛かります」\r\n\"It's a pleasure to meet you, Miss Oji Misao.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26394,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0110810b42'>\r\n//「……あなたは？」\r\n\"...You are?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26523,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110820a00'>\r\n//「ポリスチームの関係者、湊斗景明です」\r\n\"Minato Kageaki, with the police team.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26717,
+  "en": "\r\n//　微妙な表現を用いる。\r\n//　このように言えば、全くの嘘とはならない。\r\n\r\n//　そんなせせこましい小細工を咄嗟に使ってしまった\r\n//のは、彼女の眼がこちらの心の奥底まで覗いているか\r\n//のような錯覚を抱いたからだった。\r\n//　深い瞳をしている。\r\n  It's not a complete lie, depending on how you look at it.\r\n\r\n  Still, I may not have been so quick to fall back on underhanded tactics if not for the sensation of her peering into my soul.\r\n\r\n  Such... deep eyes.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27289,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110830a00'>\r\n//「宜しければどうかお見知り置き下さい」\r\n\"If possible, I would like a few moments of your time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27499,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0110840b42'>\r\n//「……はい」\r\n\"...Okay.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27616,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110850a00'>\r\n//「お噂はかねがね伺っております。\r\n//　昨年は各地のレースに参戦し、通算一〇勝\r\n//を達成されたとか」\r\n\"I've heard much of your accomplishments. Ten victories in a single year is no mean feat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27947,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0110860b42'>\r\n//「……ええ……」\r\n\"...Yeah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28070,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110870a00'>\r\n//「御愛騎<RUBY text='サンダーボルト'>雷箭</RUBY>のポテンシャルもあるでしょう\r\n//が、やはり記録樹立の肝は貴方のテクニック\r\n//――中でも際立つのはインの取り方」\r\n\"While the power of your Thunderbolt is doubtless a factor, such exploits would not have been possible without your incredible cornering technique.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28537,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0110880b42'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28646,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110890a00'>\r\n//「最短のルート選択と最少の減速幅。\r\n//　陳腐な表現で恐縮しますが、芸術的としか\r\n//言いようが見つかりません」\r\n\"You always take the shortest route with the least deceleration. The expression is a bit overused, but 'art' is the only way to describe it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29043,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0110900b42'>\r\n//「……ありがとうございます……」\r\n\"...Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29195,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110910a00'>\r\n//「……そういえばこの夏、練習中に接触事故\r\n//で負傷されたと聞きましたが。\r\n//　大事はありませんでしたか」\r\n\"...That's right. I heard you were injured in a collision over the summer. Are you all right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29539,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0110920b42'>\r\n//「……大丈夫です……」\r\n\"...I'm fine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29675,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110930a00'>\r\n//「……そうですか。\r\n//　それは何よりの事…………」\r\n\"I'm glad to hear that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29870,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0110940b42'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29979,
+  "en": "\r\n//　こちらが口を噤むと、もういいの？と言いたげな色\r\n//を瞳に浮かべて、彼女――皇路操は作業に戻った。\r\n//　俺の存在を気に掛けている様子はない。<RUBY text='ナーバス'>繊細</RUBY>という\r\n//割りに――<k>いや、これも一つの繊細さの表れか。\r\n\r\n//　取り付く島がなかった。\r\n//　有名人ならばさもありなんと思わせるような、一般\r\n//人など洟も引っ掛けないという態度とはまた違う。\r\n\r\n//　別世界、という表現が一番適切だと思われた。\r\n//　彼女と俺、いやほかの人間すべては、異なる世界に\r\n//住んでいるのだと。\r\n\r\n//　鏡の向こうの世界とこの世界との間に何かの間違い\r\n//で通信回線が開いたから、対話ができているだけなの\r\n//だと。\r\n//　そんな風に思わせるものがあった。\r\n\r\n//　別世界の住人。\r\n//　<RUBY text='レディ・ザ・ソニック'>音速領域の姫</RUBY>。\r\n\r\n//　言葉が通じても心が通じ合わないのは、仕方がない\r\n//のかもしれない。\r\n\r\n//　……とはいえどうしたものか。\r\n//〝卵〟の寄生先に選ばれた人間がもしこのガレージの\r\n//中にいるとすれば、それは劔冑を操る者、つまり彼女\r\n//以外にいない。\r\n\r\n//　世界が違うから駄目だ、とあっさり背を向けられる\r\n//ものではなかった。\r\n//　もう少し踏み込んで話を聞かねばならない。\r\n\r\n//　……露骨に尋ねてしまうのが、一番簡単ではあるの\r\n//だが。\r\n//　先刻、既にそれで失敗している。\r\n\r\n//　当たり障りのない会話で情報を引き出さなくてはな\r\n//らない……。\r\n//　忙しげに立ち働くスタッフらの姿を眺めつつ、話の\r\n//種を探す。\r\n  After waiting half a second to make sure I'm finished, Oji Misao returns to her work. For a supposedly \"shy\" girl, she seems untroubled by my presence. Or is that how her shyness manifests?\r\n\r\n  In any case, I'm unsure how to proceed. Her attitude isn't that of a celebrity too aloof to make time for her fans. Rather, it's like she's living in a different world entirely, one that no one can ever hope to reach. We were only able to communicate for a moment because some freak accident opened a channel between our world and hers.\r\n\r\n  She is the Sonic Princess, existing in a dimension of transcendent speed. My words may reach her, but it would be foolish to expect my heart to do the same.\r\n\r\n  Still, I can't back down now. If the infected racer is in this garage, it can only be her, the pilot. I need to try harder.\r\n\r\n  I suppose asking directly would be the easiest way, but the spectacular failure of that technique earlier is still fresh in my mind. I should try to draw out information as naturally as possible, during the course of a conversation.\r\n\r\n  A glance at the busy mechanics gives me a topic to work with.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33000,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110950a00'>\r\n//「……このサーキットは設備が整っています\r\n//ね。完全に舗装されたコースは勿論、充分な\r\n//スペースが確保されているピット、パドック、\r\n//選手用宿舎に食事処、更には公園まである」\r\n\"This racetrack is impressive, isn't it? In addition to the fully-paved course, it has a spacious pit, enough paddocks and lodging for all teams, a cafeteria, and even a small park.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110960a00'>\r\n//「自分が学生の頃には考えられなかったこと\r\n//です。\r\n//　あの時分からレースが好きでしばしば観戦\r\n//しておりましたが、当時の競技場は実に<RUBY text='シンプル'>単純</RUBY>」\r\n\"It wasn't like this when I was a student. I went to the races every chance I got, but the tracks were all simple affairs.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33985,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110970a00'>\r\n//「<RUBY text='スタンド'>観客席</RUBY>など無くて当然、芝生の上に<RUBY text='ござ'>茣蓙</RUBY>を\r\n//敷いての見物が一般的でした。\r\n//　ガレージなどもありませんでしたね。参加\r\n//チームは自前でテントを建てていたものです」\r\n\"You were lucky to have stands. We had to lay out mats on the grass. There were no garages, either. Teams brought their own tents to work in.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34522,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0110980b42'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34637,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0110990a00'>\r\n//「それでもレースは素晴らしかった」\r\n\"But the races were wonderful.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111000a00'>\r\n//「中山昇、亜久田進次郎、広中兄弟……そう、\r\n//それに貴方の父君、皇路卓。\r\n//　彼らは悪環境を物ともせず、見事に<RUBY text='かけ'>騎航</RUBY>た」\r\n\"Nakayama Noboru, Akuta Shinjiro, the Hironaka Brothers... and your father, Oji Suguru. They didn't let the poor conditions keep them from racing with everything they had.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35279,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111010b42'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35394,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111020a00'>\r\n//「近在の競技場に皇路卓がやって来た時の事\r\n//はよく覚えています。\r\n//　その時の大会はごく小さなものでしたが、\r\n//世界挑戦間近の英雄は本気の<RUBY text='はしり'>騎航</RUBY>を見せた」\r\n\"I still remember when Oji Suguru came to race at a track near my home. The race was small, and your father already close to his world debut. But still, the hero gave it his all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35923,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111030a00'>\r\n//「彼が常にそうであったように。\r\n//　ほかのありとあらゆる選手を突き放し、最\r\n//先端を孤独に駆けるあの姿は今でも目蓋の裏\r\n//に焼きついて離れません」\r\n\"He left the other racers in the dust, of course. I'll never forget the sight of him out there, alone and untouchable.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36353,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111040a00'>\r\n//「思い出すたび、あの時の興奮が甦って心臓\r\n//の鼓動が早まります。\r\n//　同時に無念も湧きます。戦争さえ無かった\r\n//ら、と……」\r\n\"Even now, thinking about it makes my heart race. The excitement of that time is still fresh in my mind... as is the regret. If not for the <br>war...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36782,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111050a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36906,
+  "en": "\r\n//　言葉を切る。\r\n//　自分が単なる独白をしていることに気付いたからだ。\r\n\r\n//　反応する声は全くない。\r\n//　\r\n//　……何をしているのだ、俺は。\r\n//\r\n//　鼻の付け根を指先でつまみ、軽く眼を閉ざす。\r\n//　気分を切り替える。\r\n\r\n//　――単刀直入に訊いてしまおうか。\r\n//　埒が明かないのだから、仕方がない。\r\n  I stop, realizing that she hasn't said a word in response. I've been talking to myself this whole time.\r\n\r\n  ...What am I doing? I close my eyes and squeeze the bridge of my nose for a moment, trying to get my mind back on track.\r\n\r\n  This isn't working. Better just come out and ask.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37629,
+  "en": "\r\n//　そう思って、改めて皇路操へ目を向ける。\r\n//　そして驚いた。\r\n\r\n//　彼女はこちらを見ていた。\r\n//　その瞳に<RUBY text='たゆた'>揺蕩</RUBY>う色彩は、先程までとは違う。\r\n\r\n//　別の世界ではなく、同じ世界の人間として俺の姿を\r\n//捉えていた。\r\n//　\r\n//　――誤解に気付く。\r\n\r\n//　彼女は話を<RUBY text='・・・・・・・'>聞いていたのだ</RUBY>。\r\n  Thus decided, I return my gaze to the girl―and am surprised by what I see.\r\n\r\n  She is looking straight at me, and her deep, dark eyes have taken on a different hue. She is looking at me not as an outsider, but as one of her own.\r\n\r\n  She was listening all along.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38373,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111060b42'>\r\n//「続けてください。\r\n//　……よかったら……」\r\n\"Please tell me more. ...If you don't mind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38570,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111070a00'>\r\n//「…………はい」\r\n\"...Of course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38707,
+  "en": "\r\n//　瞳に引き込まれかける己を連れ戻し、頷く。\r\n//　戸惑いは肝臓の辺りへ押し込めておいて、俺は再び\r\n//話し始めた。\r\n  I pull myself back from the abyss of her gaze and continue.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38945,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111080a00'>\r\n//「皇路卓の騎航技術は当時の世界の一線級と\r\n//比べてもそう遜色なかったものと思います。\r\n//　殊にあのコーナーリング……」\r\n\"Oji Suguru's piloting technique was equal to that of the top world rankers of the time. Especially his cornering.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39331,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111090a00'>\r\n//「草間を抜ける蛇にも似た独特の旋回技法は\r\n//大和の騎手の中では異彩を放っていました。\r\n//　あの技術を模倣できた者は嘗ても今も存在\r\n//しません」\r\n\"His unique method of weaving through turns like a snake set him apart from the rest of Yamato's racers. To this day, no one has replicated it.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111100a00'>\r\n//「……実娘の貴方を除いては。\r\n//　貴方の騎航は時を追う毎に、父君のそれへ\r\n//近付いてゆくように自分には思われます」\r\n\"...Except for you, his daughter. The more you race, the closer your technique gets to your father's. At least, that's how it looks to me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40176,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111110b42'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40285,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111120a00'>\r\n//「あれはやはり、父君に手ずから教えられた\r\n//ものなのですか？」\r\n\"Did he teach you himself?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40501,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111130b42'>\r\n//「……うん」\r\n\"...Yeah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40618,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111140a00'>\r\n//「そうですか。\r\n//　嬉しく思います。皇路卓は夢を断ち切られ\r\n//ましたが、貴方がその夢を受け継ぐならば、\r\n//無念も報われましょう」\r\n\"I'm pleased to hear that. Oji Surugu was unable to realize his dream, but with you as his successor, I've no doubt he'll be avenged.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41036,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111150b42'>\r\n//「……そう思う？」\r\n\"...You think so?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41170,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111160a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41286,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111170b42'>\r\n//「……うん。\r\n//　わたしも、そう思ってる」\r\n\"...So do I.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41449,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111180a00'>\r\n//「世界を目指されますか」\r\n\"Do you plan to challenge the world?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41620,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111190b42'>\r\n//「……うん。\r\n//　まずは国内で勝って……それから」\r\n\"...Yeah. But first, I have to take Yamato.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41826,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111200a00'>\r\n//「では、この大会は重要ですね」\r\n\"So this race is essential.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41997,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111210b42'>\r\n//「……勝ちます。\r\n//　必ず……最初の全国王者になる」\r\n\"...I'll win. I'll become the first national champion... no matter what.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42235,
+  "en": "\r\n//　速度の世界の頂点を目指す少女が、小さな拳を握り\r\n//締める。\r\n//　そこに込められた力の強さは外見とは裏腹だ。\r\n  Misao clenches her fists tightly, suddenly seeming to tower over me. To conquer the world of speed is no easy task, but she would appear to be up to the challenge.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42576,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111220a00'>\r\n//（…………）\r\n(......)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42700,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111230a00'>\r\n//（力を求める理由はある、か……）\r\n(So she has reason to seek power...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42882,
+  "en": "\r\n//　……そんな事を考えている自分に少し、嫌気が差す。\r\n//　彼女はただ、孝心から言っているだけなのに。\r\n  I'm a little ashamed of myself for the thought. Misao speaks only out of love for her father.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43138,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111240a00'>\r\n//「強敵と思われる相手はいますか？」\r\n\"Who are you watching out for?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43318,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111250b42'>\r\n//「……やっぱり、翔京かな。\r\n//　それに、ヨコタン……」\r\n\"Shokyo, of course. ...And Yokotan.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43522,
+  "en": "\r\n//　翔京兵商はタムラにとって長年の宿敵。\r\n//　ヨコタン――横森鍛造は国内評価こそタムラと翔京\r\n//に劣るが、本場欧州でアジアへの伝統的偏見を覆して\r\n//声価を確立した点で、他社とは一線を画している。\r\n\r\n//　どちらも最強と言い得る騎体を用意する筈だ。\r\n  Shokyo Weapons Systems and Tamura Armorworks have been rivals for decades, and Yokotan―Yokomori Tanzo―while not as respected in Yamato, has overcome entrenched prejudice to earn a strong reputation in Europe, the home of armor racing.\r\n\r\n  Both opponents are sure to bring their strongest machines.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44196,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111260a00'>\r\n//「確かに、その両者でしょうね。\r\n//　特に翔京はおそらく、噂だけは聞いている\r\n//アプティマ系列の最終完成型を投入してくる\r\n//でしょうから……」\r\n\"I agree that they present the greatest threat. Shokyo, especially, is rumored to have brought the final model of the Optima line.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44629,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111270b42'>\r\n//「…………ごめんなさい」\r\n\"...Sorry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44765,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111280a00'>\r\n//「はい？」\r\n\"Pardon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44887,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111290b42'>\r\n//「……ポリスチームは……その……\r\n//　………わたしはホットボルト、好きだから」\r\n\"...About the police team. I... like Hot Bolt.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45138,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111300a00'>\r\n//「……ああ、いえ。\r\n//　有難うございます。自分も好きです」\r\n\"...Oh. Thank you. So do I.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45349,
+  "en": "\r\n//　不器用な気の遣い方だった。\r\n//　だが、不快は全く覚えない。\r\n  It's an awkward show of concern, but I find it endearing.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45512,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111310a00'>\r\n//「仕方がありません。\r\n//　レースに勝つためには金が必要です。いか\r\n//に優れたスタッフがいても、資金が不足して\r\n//いてはどうにもならない部分があります」\r\n\"But that's the way it goes. You need money to win races. Even the best staff in the world can only do so much without funding.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45957,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111320b42'>\r\n//「……うん。\r\n//　お金のことは、とても大変」\r\n\"...Yeah. Money is... tough.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46139,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111330a00'>\r\n//「ポリスチームの運営は局内外の有志の寄付\r\n//に頼っています。潤沢な資金は望めません。\r\n//　警察の予算から費用を取れれば少しは楽に\r\n//なるのでしょうが……まさか、ですし」\r\n\"The police team is supported entirely by donations, so I'm afraid the best equipment is out of our reach. It would be easier if we could dig into the police budget, but...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46656,
+  "en": "\r\n//　そんなことをすれば暴動が起きかねない。\r\n//　警察予算とは即ち国民の血税なのだ。\r\n  Such a misuse of funds could start a riot. That money comes straight from the people's pockets.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46887,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111340a00'>\r\n//「今回は貴方を応援させて頂きます。\r\n//　同じタムラの劔冑を扱う者として」\r\n\"As a Tamura customer, I'll be rooting for you this time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47149,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111350b42'>\r\n//「……ありがとう」\r\n\"...Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47280,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111360a00'>\r\n//「先程、スタッフの方から伺いました。\r\n//　タムラも新型騎を投入するそうですね」\r\n\"I heard from one of your staff. You're planning to unveil a new model?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47565,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111370b42'>\r\n//「……うん。最新型。\r\n//　タムラの技術を、全部集めた……結晶」\r\n\"...Yeah, brand new. The culmination of all our skill and technology.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47815,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111380a00'>\r\n//「興味をそそられます。\r\n//　公表は明日とのことですから、詮索は控え\r\n//ますが――」\r\n\"I'm very interested, but the race is tomorrow, so I'll refrain from―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48104,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111390b42'>\r\n//「……これ……」\r\n\"...Here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48227,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111400a00'>\r\n//「はっ？」\r\n\"Pardon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48349,
+  "en": "\r\n//　ずっと手にしていた物体を、彼女が差し出す。\r\n//　金属の塊――駆動翼用のベアリングか。\r\n  Misao holds out her hand, revealing the object she has been polishing this whole time. It's a small metal sphere, one of the wing actuator bearings from a racing crux.\r\n\r\n//　……成程。\r\n//　考えてみれば当然。彼女は明日の本予選で使用する\r\n//虎の子の整備をしているところだったのだ。\r\n  ...Of course. She was working on their secret weapon.\r\n\r\n//　劔冑の整備は<RUBY text='メカニック'>技師</RUBY>の仕事だが、何もかも専門知識が\r\n//なくてはできない職人芸というわけでもない。\r\n//　簡単な作業は素人でも手伝える。<RUBY text='レーサー'>騎手</RUBY>がやっていけ\r\n//ないという法はない。\r\n  While maintenance is the mechanics' job, not every task requires specialized training. There are simple things that even an amateur can do, and no law against racers working on their own craft.\r\n\r\n//　そういう作業をするかどうかはレーサーの性格次第。\r\n//全くしない、それが騎手の矜持、という者も多い。\r\n//　彼女は<RUBY text='・・'>する</RUBY>方なのだろう。\r\n  Whether they do is up to the racer's personal preference. Many consider it a point of pride never to touch their machine's innards. Misao would appear to be the opposite sort.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49806,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111410a00'>\r\n//「これが新型騎ですか。\r\n//　道理で、大切に扱っていると思いました」\r\n\"So this is part of the new model. No wonder you were so careful with it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50075,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111420b42'>\r\n//「……うん。大切。\r\n//　わたしの命よりも……大切」\r\n\"...It's precious. More precious than my life.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50284,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111430a00'>\r\n//「……そうですか。\r\n//　きっと、大変な労力を費やして造られたの\r\n//でしょうね」\r\n\"I see. A lot of work must have gone into it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50541,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111440b42'>\r\n//「……うん。\r\n//　これは、お父さんの血と汗」\r\n\"...Yeah. Dad's blood, sweat... and tears.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50737,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111450a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50856,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111460b42'>\r\n//「身体の一部。\r\n//　だから……大切にするの」\r\n\"It's part of him. So... it's part of me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51051,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111470a00'>\r\n//「失礼。\r\n//　まさか新型騎というのは、父君――皇路卓\r\n//氏が設計されたものなのですか？」\r\n\"I'm sorry. Do you mean to say that your father, Oji Suguru, designed this machine?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51361,
+  "en": "\r\n//　皇路卓は引退以降、一度たりともマスコミの前には\r\n//姿を見せていない。\r\n//　娘のコーチをしているという噂はあったが――それ\r\n//は事実らしい――娘のレースに現れることはなかった。\r\n\r\n//　彼は今、何処で何をしているのか。憶測は様々ある。\r\n//　しかしその中に、タムラで騎体開発をしているなど\r\n//というものは無かった。\r\n  Oji Suguru hasn't made a single public appearance since his retirement. There are rumors of him coaching his daughter―rumors that would appear to be true―but even at her races, he has never shown his face.\r\n\r\n  I doubt there's anyone who guessed that he was designing cruxes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52110,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111480b42'>\r\n//「……お父さんに、会いたい？」\r\n\"...Want to meet him?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52266,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111490a00'>\r\n//「え……ええ。\r\n//　ここにいらっしゃるのですか？」\r\n\"I... Yes, certainly. Is he <br>here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52475,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111500b42'>\r\n//「……うん。\r\n//　ちょっと、待ってて」\r\n\"...Yeah. Hold on.\"\r\n\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111510b42'>\r\n//「……お父さん……！」\r\n\"Dad!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52758,
+  "en": "\r\n//　少女が声を張り上げる。\r\n//　しかしそれは、ガレージの喧騒の只中では到底通ら\r\n//ない。\r\n\r\n//　だが、付近にいたスタッフが気を利かせた。\r\n//　奥に走っていき、そこにいた誰かに対してこちらを\r\n//示して見せる。\r\n\r\n//　――痩せた姿が、近付いてきた。\r\n  Misao lifts her voice, though not enough to break through the commotion of the garage.\r\n\r\n  Fortunately, a nearby mechanic hears her and runs to the back of the room. I see him point me out to someone.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53326,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111520b24'>\r\n//「どうした？　操」\r\n\"What is it, Misao?\"</voice> asks the gaunt man who approaches.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53514,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111530b42'>\r\n//「……この人……ポリスチームの、ひと。\r\n//　昔、お父さんのレースを見たことがあるん\r\n//だって」\r\n\"This man is from the police team. He saw you race... before.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53802,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111540b24'>\r\n//「ああ、それは――」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53935,
+  "en": "\r\n//　線の細い顔がこちらを向く。\r\n//　一見、その容貌は記憶を刺激しなかった。余りにも\r\n//違う。嘗ての大和最強騎手皇路卓は眼鏡などかけてい\r\n//なかったし、このように柔和な表情もしていなかった。\r\n\r\n//　だが、無礼一歩手前までよくよく見て、思い直す。\r\n//　眼鏡を外し、時間を逆行させれば確かにあの騎手は\r\n//ここにいる。表情は――過去にも雑誌記事で読んだ事\r\n//はあった。私生活では別人のように温和だと。\r\n\r\n//　柔弱とさえ感じる微笑の中に、敵手の内懐へ獰猛に\r\n//喰らいつく餓狼の面影を見て取ることはできない。\r\n//　それでも間違いなく、彼は皇路卓だった。\r\n  The man turns to look at me. At first, his thin features trigger no memories. The Oji Suguru I knew didn't wear glasses, nor was his manner as pleasant as this.\r\n\r\n  But upon closer inspection, I realize that if you took off the glasses and turned the clock back a decade or two, it would indeed be that hero standing before me.\r\n\r\n  As for his kindly demeanor, I recall once reading that he was a very different person in private life.\r\n\r\n  There's no trace in his gentle―even timid―smile of the ravenous fury with which he dominated the track. But still, there's no question. He is Oji Suguru.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55337,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111550a00'>\r\n//「湊斗景明と申します。\r\n//　お会いできて光栄です。嘗て、貴方に夢中\r\n//で声援を送った人間の一人として」\r\n\"Minato Kageaki. It's an honor to meet you, sir. I remember cheering for you until my throat was raw.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55686,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111560b24'>\r\n//「いや、恐縮です。\r\n//　皇路卓です――しかしどうか、僕がここに\r\n//いることはご内密に」\r\n\"The honor is mine. I'm Oji Suguru, as you've guessed. But please don't tell anyone I'm here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56003,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111570a00'>\r\n//「と言われますと……」\r\n\"May I ask why not?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56154,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111580b24'>\r\n//「もう表舞台には立たないと決めていまして。\r\n//　自分なりに、『皇路卓』には決着をつけて\r\n//いるんですよ。それをまた掘り返されるのも、\r\n//ちょっとね……」\r\n\"I decided years ago to leave public life behind me. It was my way of closing the book on the legend of Oji Suguru. To have that book reopened now would be...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56633,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111590a00'>\r\n//「……成程」\r\n\"...I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56760,
+  "en": "\r\n//　数瞬かけて、俺は彼の言わんとするところを察した。\r\n//　挫折した皇路卓、娘と共に復活――などと無責任に\r\n//囃されるのは嫌だということか。\r\n\r\n//　その気持ちはわかるような気がする。\r\n  It takes a few seconds, but I grasp what he's trying to say. He doesn't want anyone stirring up rumors about Oji Suguru returning to the track.\r\n\r\n  I think that I can sympathize with that.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57227,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111600a00'>\r\n//「申し訳ありません。\r\n//　そういう事なら、自分のような者もご不快\r\n//でしょう」\r\n\"I apologize. My presence must be an annoyance, then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57492,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111610b24'>\r\n//「あ、いや、そういう意味で言ったんでは。\r\n//　こちらこそ申し訳ない。しまった、皮肉の\r\n//ようなことを言ってしまいましたね」\r\n\"Oh, no, that's not what I meant! I should be the one apologizing. That sounded like it was aimed at you, didn't it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57886,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111620b24'>\r\n//「あなたのような方とお会いするのは嬉しい\r\n//んですよ。昔の自分がプロとして、お客さん\r\n//を喜ばせてあげられていたと知ることが、不\r\n//愉快なわけはありません」\r\n\"I'm always happy to meet people like you, to know that I gave my fans a good show.\"\r\n\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111630b24'>\r\n//「……くすぐったくもありますけどね。\r\n//　嫌ではないです、決して」\r\n\"It's a little embarrassing, but far from unwelcome.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58536,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111640a00'>\r\n//「そうですか。\r\n//　なら、良かった」\r\n\"As a fan, I appreciate hearing that from you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58733,
+  "en": "\r\n//　本心から言うことができた。\r\n//　彼の言葉は嘘ではないとわかったからだ。\r\n\r\n//　皇路操は座ったまま、こちらを見上げている。\r\n//　その顔はどこか誇らしげだった。\r\n  My relief is genuine. I can tell that he's being honest. Misao is looking up at me from her seat, a hint of pride in her placid expression.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59120,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111650a00'>\r\n//「しかし、驚きました。\r\n//　貴方が開発側の立場で<RUBY text='アーマーレース'>装甲競技</RUBY>に携わって\r\n//おられたとは、夢だに」\r\n\"But I must admit that this is a surprise. I never would have thought you were involved in racing as a designer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59507,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111660b24'>\r\n//「ああ、操に聞きましたか。\r\n//　ええ。いま言った事と矛盾するみたいです\r\n//が、やっぱり世界の夢は諦められなくて……」\r\n\"Oh, did Misao tell you? That's right. Despite what I just said, I couldn't fully give up on the dream of taking the world.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59899,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111670a00'>\r\n//「無理からぬ事と思います。\r\n//　貴方は世界へ指先をかけておられた。何事\r\n//もなければ、そのまま登っていたでしょう」\r\n\"I don't blame you. You were so close to your world debut. If all had gone as planned, you would have kept climbing until you reached the top.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60307,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111680a00'>\r\n//「戦争さえなければ……」\r\n\"If not for the war...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60464,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111690b24'>\r\n//「……ええ」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60588,
+  "en": "\r\n//　曖昧な表情で頷く。\r\n//　その時、彼の顔面を駆け巡った感情の渦はあまりに\r\n//複雑だった。\r\n\r\n//　――そう。戦争。\r\n//　彼は世界の夢を戦争に奪われていた。\r\n\r\n//　皇路卓が国内制覇を遂げ、いざ欧州へ乗り出そうと\r\n//した、まさにその年。\r\n//　大戦は勃発したのだ。\r\n\r\n//　……六年前、終戦を迎えた時には既に、彼の肉体の\r\n//全盛期は遠い彼方へ過ぎ去っていた。\r\n//　自分の努力や才能とは全く関係ない処で潰えた夢に、\r\n//彼がどれほどの痛憤を抱いたか。察するに余りある。\r\n  His tone is measured, but the tightness I glimpse around his eyes hints at something beneath the surface.\r\n\r\n  The war. That's what ended Oji Suguru's dream.\r\n\r\n  He had just completed his conquest of Yamato and was about to make his world debut when hostilities began. By the time the war had ended, he was already past his physical prime.\r\n\r\n  I can hardly imagine the frustration he must have felt, powerless to resist as everything he had worked for was stolen from him.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61736,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111700a00'>\r\n//「失礼。\r\n//　無神経な事を口にしました」\r\n\"Pardon. That was insensitive of me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61929,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111710b24'>\r\n//「ああ、いや。お気になさらず。\r\n//　済んだことですし。気持ちの整理はついて\r\n//いますよ」\r\n\"No, it's fine. I've put all that behind me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62200,
+  "en": "\r\n//　……今度のそれは、嘘だった。\r\n//　そう見えた。\r\n  Now this, something tells me, is a lie.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62327,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111720a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62445,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111730b24'>\r\n//「それに、僕の代わりに娘が飛んでくれます\r\n//からね……。\r\n//　僕の開発した騎体で」\r\n\"Besides, I have my daughter to fly in my place. And with the machine I built.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62741,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111740a00'>\r\n//「俄かには信じ難い思いです。\r\n//　騎手を引退後、一から勉強を始められたの\r\n//ですか？」\r\n\"To be honest, it's hard to believe. Did you study design from scratch after retiring?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63051,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111750b24'>\r\n//「ハハ、それはさすがに。\r\n//　僕は元々メカの方だったんですよ。試作品\r\n//のテストをするうちに<RUBY text='とびかた'>騎航法</RUBY>を覚えて、いつ\r\n//の間にかそちらが本業に……という運びで」\r\n\"Haha! Of course not. I started out as a mechanic, actually. I learned to fly while testing new designs, and at some point that became my real job. So it goes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63570,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111760a00'>\r\n//「そうでしたか……」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63703,
+  "en": "\r\n//　初めて知る事実だ。\r\n//　いや、昔そんな話を小耳に挟んだことはある、か？\r\n  It's the first I've heard of it... or not. I seem to remember rumors to that effect.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63911,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111770b24'>\r\n//「あなたが言った通り、僕は一度騎手として\r\n//世界に指をかけて、そして転げ落ちました。\r\n//　しかし今、戻って来たんですよ。かつての\r\n//場所へ。今度は開発者として」\r\n\"As you said, I tried and failed to conquer the world as a racer.\r\n  But now I'm back. Back where I belong. Only this time, as a designer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64382,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111780a00'>\r\n//「タムラの技術の結晶とか」\r\n\"I hear your crux is the culmination of Tamura's skill and technology.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64590,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111790b24'>\r\n//「そんなことを言ったのか？　操」\r\n\"Is that what you told him, Misao?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64771,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111800b42'>\r\n//「……うん。\r\n//　だって……そうだもの」\r\n\"Yeah. ...Because it is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64943,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111810b24'>\r\n//「山崎さんが聞いたら怒るぞ。\r\n//　あれの開発ではだいぶ対立したからな」\r\n\"Mr. Yamazaki wouldn't like you saying that. He opposed my design the whole way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65225,
+  "en": "\r\n//【操】\r\n<voice name='操' class='操' src='voice/ma03/0111820b42'>\r\n//「……でも」\r\n\"But...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65340,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111830a00'>\r\n//「相当な作品を仕上げられたようですね」\r\n\"It sounds like you've assembled quite the <br>machine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65551,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111840b24'>\r\n//「どうでしょう？\r\n//　タムラ始まって以来の駄作になるかもしれ\r\n//ません。その可能性はあります。すでにそう\r\n//声高に言っている者も社内にはいますよ」\r\n\"Heh, I wonder. It might just be the biggest piece of junk we've ever produced. At least, that's what much of the company thinks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65992,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111850a00'>\r\n//「貴方自身は？」\r\n\"But what do you think?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66138,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111860b24'>\r\n//「……さて。\r\n//　明日の一戦を御覧あれ、というところです\r\n//かね」\r\n\"Well... we'll just have to see, won't we?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66374,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0111870a00'>\r\n//「……自信は充分、と」\r\n\"That sounds like confidence to me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66541,
+  "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/ma03/0111880b24'>\r\n//「はっはっはっ」\r\n\"Ha ha ha!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66674,
+  "en": "\r\n//　はぐらかすように笑う皇路氏。\r\n//　しかしその笑いの中に、俺の言葉を否定するような\r\n//響きは込められていなかった。\r\n  He tries to laugh it off, but I hear nothing in his tone that contradicts my assumption.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66947,
+  "en": "\r\n//　――さて。\r\n//　そろそろ頃合いだろうか。\r\n\r\n//　あまり長居しても迷惑になりそうだ。\r\n//　それに、一条や大鳥大尉の様子も気になる。\r\n\r\n//　彼女らを探しに行くべきか……それとも。\r\n//　どうする？\r\n  Perhaps it's time to be going. I shouldn't keep the Tamura team from their work any longer, and I'm concerned about Ichijo and the captain.\r\n\r\n  Should I go look for them? Or...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67418,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 67430,
+  "en": "Stay here",
+  "pt": ""
+ },
+ {
+  "offset": 67447,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 67459,
+  "en": "Check on Ichijo",
+  "pt": ""
+ },
+ {
+  "offset": 67482,
+  "en": "10_3",
+  "pt": ""
+ },
+ {
+  "offset": 67494,
+  "en": "Check on Kanae",
+  "pt": ""
+ }
+]

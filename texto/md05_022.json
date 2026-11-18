@@ -1,0 +1,387 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220010a01'>\r\n//《私達の世界があんな風に見える辺り》\r\n《We're where our world looks like that.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 415,
+  "en": "\r\n//　……………………………………………………………\r\n//………………………………………………………………\r\n//………………………………………………………………\r\n//………………………………………………………………。\r\n\r\n//　飛ばされ過ぎだ。\r\n  A <I>little</I> far?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 789,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220020a00'>\r\n//（……宇宙かよ……）\r\n(Space. Really?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 933,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220030a01'>\r\n//《これってさりげなく人類史上の偉大な一歩\r\n//だったりするんじゃないかしら》\r\n《Isn't this kind of a big deal? Like, a giant leap for mankind or something?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1227,
+  "en": "\r\n//　その一歩を自ら踏み出したのなら感慨も湧こうが。\r\n//　蹴り飛ばされての事では、何とも感想の述べようが\r\n//ない。\r\n\r\n//　しかし青い。\r\n//　しかし遠い。\r\n  Yes. And that would be wonderful, if we had achieved it ourselves. I'm not sure how I'm supposed to feel when we got there by way of a kick.\r\n\r\n  The earth is so blue... and so far away.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1646,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220040a00'>\r\n//（あの方向へ<RUBY text='・・・'>落ちて</RUBY>いかない……という事は\r\n//つまり、俺は地球の引力圏外へ脱出したのか？\r\n//　どんな速度で飛ばされたのだ）\r\n(We don't appear to be falling. Does that mean we've escaped Earth's gravity? How fast were we going, exactly?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2061,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220050a01'>\r\n//《完全に脱出したわけでもないみたいよ。\r\n//　まだ少し、地球からの辰気を感じるもの》\r\n《There's still a little pull, actually. We haven't escaped completely.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2361,
+  "en": "\r\n//　では衛星軌道の近辺か？\r\n//　\r\n//　それにしても相当な速度でなければ到達できない筈\r\n//――<k>そうか、それで全身の火傷か。\r\n\r\n//　速度の代償、大気との摩擦の結果がこれなら納得は\r\n//いく。\r\n//　……いやむしろ、ここは燃え尽きなかった事にこそ\r\n//疑問を抱かねばならないのかもしれないが。\r\n\r\n//　磁気障壁、甲鉄の強度、全てを考慮に入れても蹴り\r\n//の威力と大気の摩擦熱に耐えられたのはまったく僥倖\r\n//と言いようがない。\r\n//　それとも〝虎徹〟による性能強化が働いたか……。\r\n  So we're in orbit. Even then, our velocity must have been phenomenal... ah. So that's why I feel㉓<I>burnt.</I>㉑ Atmospheric friction would have done the trick.\r\n\r\n  Though that still leaves the question of how I survived the trip. Even accounting for Muramasa's barrier and the natural strength of her armor, I find it difficult to fathom.\r\n  Perhaps Kotetsu's power played a role.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3430,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220060a00'>\r\n//（しかし宇宙は真空ないし真空に近い筈だが。\r\n//　なぜ俺は窒息せずにいられる？）\r\n(All right. So why haven't I asphyxiated? Space is supposed to be a vacuum, or close.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3729,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220070a01'>\r\n//《合当理の熱量変換を応用して酸素を作って\r\n//供給してるの。\r\n//　……空の果てには空気が無いなんて知らな\r\n//かったから、ちょっと慌てたけど》\r\n《I'm synthesizing oxygen from your body heat and feeding it directly into your blood.\r\n  To be honest, I was a little freaked out at first. I had no idea there was no air up here.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4218,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220080a00'>\r\n//（成程）\r\n(I see.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4336,
+  "en": "\r\n//　声は出せなくとも、酸素欠乏の懸念は無用なのか。\r\n//　水もない場所で溺死しなくて済むのなら何にしても\r\n//有難い。\r\n  I may not be able to talk, but at least I don't have to worry about drowning a few hundred thousand kilometers from the nearest body of water.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4660,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220090a01'>\r\n//《ただ、あまり長くは続かないから。\r\n//　承知しておいて》\r\n《I can't keep it up for long, though. Just so we're clear.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4909,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220100a00'>\r\n//（力尽きる前に、大気圏内へ帰還する方策を\r\n//考えろというわけだな？）\r\n(So we need to find a way back into atmosphere before our energy runs out.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5182,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220110a01'>\r\n//《ええ》\r\n《Yes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5308,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220120a01'>\r\n//《――いえ。\r\n//　その前に一悶着ありそう》\r\n《Or, no. Home will have to wait.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5510,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220130a00'>\r\n//（…………）\r\n(......)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5634,
+  "en": "\r\n//　そうか。\r\n//　地上へ戻るには、決着をつけねばならないと。\r\n\r\n//　――――否。\r\n  So, Ginseigo followed us here. Defeating her comes first.\r\n\r\n  ...And last.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5839,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220140a00'>\r\n//（こうなれば、あえて帰還の手立てを考える\r\n//必要もない）\r\n(Forget home, Muramasa. We won't be needing to return.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6074,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220150a01'>\r\n//《……そうね》\r\n《...You're right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6221,
+  "en": "\r\n//　飛来する白銀の彗星。\r\n//　あれを打倒する――その一事が全て！\r\n  That silver comet is our enemy. Nothing else matters!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6383,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/0220160a14'>\r\n//《ふふふ……\r\n//　まだまだ健勝そうだな景明！》\r\n《Ah, Kageaki! Still hale, I see!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6576,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/0220170a14'>\r\n//《地球を回る、物言わぬ赤い衛星にしてやれ\r\n//なんだとは残念無念！》\r\n《And here I hoped to find you a lifeless ball of metal!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6822,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220180a00'>\r\n//《……それは生憎だったな》\r\n《...Sorry to disappoint you.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6992,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/0220190a14'>\r\n//《然らば稀有な体験を楽しめよう。\r\n//　天界の居心地はどんなものだ？》\r\n《No matter. This is a rare opportunity! Not every day one knocks on the gates of heaven.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7274,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/0220200a14'>\r\n//《おまえはそこで何を思う？\r\n//　青い故郷を見て帰りたいと思うか――それ\r\n//とも深遠の星々を見て更に先へ、果てまでも\r\n//旅してみたいと思うか！》\r\n《Tell me. How do you feel? Do you long for the embrace of Mother Earth? Or do the stars tempt you with the promise of adventure, of unknown wonders beyond the veil?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7739,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220210a00'>\r\n//《……どちらも違うな。\r\n//　ここで俺が思う事は、一つだけだ》\r\n《Neither. I have only one desire.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7963,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/0220220a14'>\r\n//《云え！》\r\n《Speak it!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8082,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220230a00'>\r\n//《銀星号。\r\n//　最早お前を地上へ帰したくはない》\r\n《To end you here, Ginseigo.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8282,
+  "en": "\r\n//　人々の住まう世界には。\r\n  Before you can return to wreak havoc on the world.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8386,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/0220240a14'>\r\n//《――良くぞ言ったり。\r\n//　ならば景明、力ずくで光を<RUBY text='とど'>留</RUBY>めてみせよ!!》\r\n《Well said! End me then, Kageaki! If you truly have the power!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8668,
+  "en": "\r\n//　猛気を<RUBY text='たぎ'>滾</RUBY>らせ、星の輝きを放つ騎体が迫り来る。\r\n//　凄まじいまでの<RUBY text='スピード'>速度</RUBY>。空恐ろしいまでの<RUBY text='パワー'>勢威</RUBY>。\r\n\r\n//　あのままに俺を襲い、一撃をもって砕くのであろう。\r\n\r\n//　――今度こそ斃される。\r\n\r\n//　迎撃の方法はなく、防御の方法もない。\r\n//　あらゆる意味で、対抗の方法がない。\r\n\r\n//　五分の勝負であった先刻さえ、遂に競り負けた。\r\n//　今度は五分ではない。俺と村正は大きく損傷し戦闘\r\n//能力を減じている一方、銀星号は全くの無傷。\r\n\r\n//　これでどうすれば立ち向かえるのか。\r\n//\r\n//　どうすれば勝てるのか。\r\n\r\n//　そんな魔法か奇跡のような方法があるのか？\r\n\r\n//　無い。<k>\r\n//　\r\n//　――――――――――――――――――否。\r\n\r\n//　有る。\r\n\r\n//　魔法でもなければ奇跡でもないが。\r\n//　勝つ方法はある。\r\n\r\n//　たった一つ。\r\n\r\n//　――そう。\r\n//　湊斗景明が湊斗光を殺す方法は一つだけ。\r\n\r\n//　この戦いに臨む前、それを知った。\r\n//　知っていたのに、最後の決断を欠いた。\r\n\r\n//　今なら間に合う。\r\n//　まだ。\r\n\r\n//　まだ俺は戦える。\r\n\r\n//　だから今、やらなくてはならない。\r\n\r\n//　――――やろう。\r\n\r\n//　たった一つの方法を行おう。\r\n  Blazing with incandescent fury, the silver star approaches. Unstoppable speed. Irresistible power. This time, surely, her wrath will destroy me.\r\n\r\n  I have no means of defense. No means to strike back. Even when we fought on equal footing, in the end her might surpassed mine.\r\n\r\n  Now the advantage is entirely Ginseigo's. The damage from her last attack has greatly sapped my strength, while Ginseigo remains untouched, pristine.\r\n\r\n  What hope have I to overcome? Is there a miracle, a deus ex machina, waiting just off the stage?\r\n\r\n  No. I have nothing.\r\n\r\n  Nothing...<K> save㉗<I>that.</I>\r\n\r\n  I was wrong. One hope remains. Not a miracle by any means, and yet, a path to victory.\r\n\r\n  Before I departed Fudaraku, the last egg showed me the truth.\r\n\r\n  For Minato Kageaki to slay his sister, there is one thing he first must do.\r\n\r\n  It was always there at the back of my mind, but I lacked the conviction. It's not too late. There's still time, but only if I take the plunge.\r\n\r\n  So take it I must. There was never a choice.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11242,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220250a00'>\r\n//（村正）\r\n(Muramasa.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11363,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220260a01'>\r\n//《待って。\r\n//　交戦圏に入るまでの時間で、何とか回復を\r\n//進めてみる》\r\n《Hold on. I'll repair as much as I can before we're engaged.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220270a01'>\r\n//《上手くいけば、いくらかましな状態に――》\r\n《If I work fast, we might stand a―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11833,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220280a00'>\r\n//（それはいい。\r\n//　そんな事をしても勝てはしない）\r\n(Never mind. It won't help our chances.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12044,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220290a00'>\r\n//（勝つ為の手は一つだ……）\r\n(There's only one way to win.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12211,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220300a01'>\r\n//《……？　なに？》\r\n《Huh? What's that?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12365,
+  "en": "\r\n//　押し寄せる獰猛な戦気を味わい、肌が粟立つ。\r\n//　もう敵は近い。もう時間がない。\r\n  My skin tingles, sensing the approach of raw battlelust. Ginseigo will be upon us soon.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12588,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220310a00'>\r\n//（村正。\r\n//　今、すぐに）\r\n(Listen close, Muramasa. There's no time to waste.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12774,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220320a00'>\r\n//（俺を精神汚染しろ）\r\n(You have to take control.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12929,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220330a01'>\r\n//《――――――――――――え？》\r\n《...What?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13095,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220340a00'>\r\n//（精神支配だ。\r\n//　<RUBY text='おまえ'>劒冑</RUBY>の精神で<RUBY text='おれ'>仕手</RUBY>の精神を潰し、同化して\r\n//取り込め）\r\n(Use your power. Take control of my mind. Make me an extension of your will.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13431,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220350a00'>\r\n//（……いつか拘置所でやろうとしたようにだ）\r\n(Do what you tried to do in my cell those months ago.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13646,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220360a01'>\r\n//《な――なっっ、なんで!?》\r\n《Wha―  Why!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13807,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220370a00'>\r\n//（野太刀を再生させた時の事を思い出せ。\r\n//　あれが答えだ）\r\n(Remember that vision! We saw the answer.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14032,
+  "en": "\r\n//　奇怪な心象世界の中で得た解答。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14094,
+  "en": "\r\n//　――湊斗景明は湊斗光を殺せない。\r\n\r\n//　――だから。\r\n//　最初に湊斗景明を、殺す。\r\n  In order to kill Hikaru, first I must die.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14275,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220380a00'>\r\n//（俺がいる限り、銀星号には……\r\n//　光には勝てない）\r\n(As long as I exist, we'll never defeat Ginseigo. She is Hikaru.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14514,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220390a00'>\r\n//（どうしようとも）\r\n(I'm powerless against her.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14667,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220400a01'>\r\n//《そんなこと……》\r\n《That's not―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14817,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220410a00'>\r\n//（いや事実だ。\r\n//　さっきもそうだった）\r\n(It is. I proved it just now.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15003,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220420a00'>\r\n//（確実に斬れる筈だったあの瞬間、俺の意識\r\n//に光の面影が過ぎった……。\r\n//　あれさえ無ければ、空間歪曲の発動に先ん\r\n//じて刃が届いていたかもしれない）\r\n(That moment, when I had her dead to rights, I saw Hikaru's face in my mind. If not for that, my strike might have landed before she could use her power.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15474,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220430a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15608,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220440a00'>\r\n//（俺自身が最大の敗因だ）\r\n(I am our worst enemy.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15765,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220450a00'>\r\n//（だから俺を殺せ）\r\n(You have to kill me.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15912,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220460a00'>\r\n//（俺の意思を潰せ）\r\n(Erase my will!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16053,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220470a01'>\r\n//《……む、無理よ》\r\n《I... I can't!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220480a01'>\r\n//《仕手の心をなくしてしまったら、戦いよう\r\n//がないもの》\r\n《I need your will to guide me!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16416,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220490a00'>\r\n//（普通の武者ならそうなる。\r\n//　だが村正、お前は使命あって生まれた劒冑）\r\n(For any other tsurugi, that would be true. But you were forged with a single purpose.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16707,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220500a00'>\r\n//（その使命は俺の使命と今や同一のもの。\r\n//　俺の心が消えようと、お前の使命が残って\r\n//いれば同じ事だ）\r\n(Your duty and mine are the same. Even when my will is gone, that duty will remain.)\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220510a00'>\r\n//（戦える）\r\n(And that is all we need to fight.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17178,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220520a01'>\r\n//《……で……でも》\r\n《B- But...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220530a01'>\r\n//《でも、私は》\r\n《I wanted―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17458,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220540a00'>\r\n//（村正！）\r\n(Muramasa!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17582,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220550a01'>\r\n//《私は……貴方の意志を守りたくて、》\r\n《―to <I>protect</I>㉑your will, not―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17786,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220560a00'>\r\n//（急げ！）\r\n(Hurry!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17907,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220570a01'>\r\n//《できないっ！\r\n//　だって、私――！》\r\n《No! If I do that―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18091,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220580a00'>\r\n//（忘れるな村正。\r\n//　俺達は、屍を踏んで歩いてきた）\r\n(Remember our crimes, Muramasa! Remember all those we've sacrificed to get here.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18346,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220590a00'>\r\n//（ここに至るため、幾多の命を踏み砕いた）\r\n(We crushed their dreams. We stole their future.)\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220600a00'>\r\n//（……俺を汚染から救い出してくれたあの時。\r\n//　お前自身が、俺に言った事だ）\r\n(Remember the words you yourself spoke when you freed me from Ginseigo's control.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18837,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220610a01'>\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18949,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220620a00'>\r\n//（他人に<RUBY text='・・・・・・・'>支払わせてきた</RUBY>犠牲、そのすべてを\r\n//無駄とするか否か、今が瀬戸際だ。\r\n//　迷う必要はない……迷う事など許されない）\r\n(This moment will decide what they all died for. <I>Something</I>㉒or㉓<I>nothing.</I>㉑ Now is the time! What reason is there to hesitate? We have no right to doubt our path.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19447,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220630a01'>\r\n//《御堂……》\r\n《Mido...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19582,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220640a00'>\r\n//（やれ）\r\n(Do it.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19700,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220650a00'>\r\n//（これは俺の責務だ）\r\n(This is my duty.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19846,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220660a00'>\r\n//（これはお前の責務だ）\r\n(Our duty.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19988,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220670a01'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20116,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220680a00'>\r\n//（村正）\r\n(Do it, Muramasa.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20244,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0220690a00'>\r\n//（俺の意思を奪え!!）\r\n(KILL ME!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20381,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0220700a01'>\r\n//《……っ……ぁぁあああ!!》\r\n《Ah―  AHHHHHHHH!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20546,
+  "en": "\r\n//　血と肉と何かで出来ていた心が、\r\n//　打ち上げられ。鍛え上げられ。\r\n\r\n//　漆黒の鋼に変わってゆく。\r\n\r\n//　固く。\r\n//　硬く。\r\n\r\n//　強く。\r\n//　<RUBY text='つよ'>靭</RUBY>く。\r\n\r\n//　揺れ動かぬ、鉄の塊に。\r\n\r\n//　……これで良い。\r\n\r\n//　これで正真の無我境へ至る。\r\n\r\n//　全ての愚念は消え、残るは唯一義。\r\n\r\n//　本来それとは誰よりも縁遠い湊斗景明が、\r\n//　自己の抹殺という儀礼を経て、<k>\r\n//　\r\n//　英雄たるものに曲がり成る。\r\n  The power burns through me, a white-hot flame, forging my soul into something new.\r\n\r\n  Instead of soft flesh and warm blood, my heart becomes a core of black steel. Harder. Stronger. Unbreakable. Unbending.\r\n\r\n  This is what I needed. My true path to forsaking the self. This power will purge me of weakness, leaving the one righteous purpose to drive me.\r\n\r\n  Thus, through this ritual of self-annihilation, Minato Kageaki will become that from which he was always furthest removed.\r\n\r\n  Witness the birth of a hero.\r\n\r\n",
+  "pt": ""
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　小弓御所の前にいる。\r\n  Oyumi Headquarters. We've made it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 298,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0200010a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 422,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200020a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 546,
+  "en": "\r\n//　前に――いるのだった。\r\n//　東から回り込み、警戒線の間隙を縫って接近、折を\r\n//見て装甲騎航。低高度を保ちつつ公方府を目指した末、\r\n  ...We've made it. It feels like a dream.\r\n\r\n  From the moment we donned our tsurugi and started our approach from the east, the world around us ceased to make sense.\r\n\r\n  Nothing happened. Not one IFF call from a panicked radio operator. Not one patrol swooping down to intercept. We reached the base unchallenged.\r\n\r\n//　とうとう何の迎撃も受けることなく。\r\n//　\r\n//　……出来過ぎであった。\r\n  In no way should it have been this easy. We were flying no more than a few dozen meters above the ground. Radar might not have been able to see us, but human eyes surely would. Someone should have reported our approach.\r\n\r\n  I expected it, reasoning that we might still break through, depending on how many enemy dragoons were close enough to engage. A naive assumption, perhaps, but as it turns out, reality was far more accommodating than I dared to imagine.\r\n\r\n//　いかに防備の薄い箇所を狙おうが、数十メートルの\r\n//低空を飛ぶ騎影は必ず目視確認される。されない筈が\r\n//ない。されれば<RUBY text='ヘッドクォーターズ'>公方府</RUBY>へ連絡が行こうし、行けば防空\r\n//隊にも指令が下り、その一部は俺達を捕捉するだろう。\r\n\r\n//　そう考えていた。その程度なら短時間の強行突破も\r\n//不可能ではなかろうと。\r\n//　それはむしろ、甘い目測であったのかもしれない。\r\n\r\n//　しかし現実は輪を掛けて甘く、砂糖菓子同然だった。\r\n\r\n//　装甲姿がいっそ滑稽なほどの無傷ぶりで、俺と一条\r\n//は目指した場所へ立っている。\r\n//　苛酷を窮めると思われた潜入行がここまでたやすく\r\n//成ってしまった理由はわからない。\r\n  But now, as we stand in our laughably pristine armor and take in the scene before us, I begin to realize what has happened. \r\n\r\n//　……否。わからな<RUBY text='・・・'>かった</RUBY>。\r\n//　\r\n//　あまりに容易な進攻の果て、今川雷蝶の居館へ遂に\r\n//到り、その有様を視野に収めるまでは。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2865,
+  "en": "\r\n//　小弓御所は、<RUBY text='お'>陥</RUBY>ちていた。\r\n  Oyumi has fallen.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2963,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200030a02'>\r\n//「……どうして？」\r\n\"How...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3096,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0200040a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3214,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200050a02'>\r\n//「まさか、姫さまたちが……？」\r\n\"You think Sakurako's friends...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3391,
+  "en": "\r\n//　岡部残党を中核とする反幕軍に襲われた――\r\n//　\r\n//　まず、有り得ない話である。一条自身が自分の言葉\r\n//を全く信じていない風だった。\r\n  I hear in Ichijo's voice that she does not believe what she is suggesting.\r\n\r\n//　一に、定めた戦略と異なる。二に、黒瀬童子が集め\r\n//ると云った千ばかりの兵で公方府を落とせる筈がない。\r\n//三に、余りにも行動が早過ぎる。\r\n//　四に――――\r\n  Indeed, the rebels could not have done this. First, it was not the plan. Second, they do not have the numbers. Third, even if they had, they could not have accomplished it so quickly.\r\n\r\n  And fourth―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4112,
+  "en": "\r\n//　俺は<RUBY text='えんじん'>煙塵</RUBY>漂う凄惨な館内へ踏み込んだ。\r\n//　一条も背後に続いてくる。\r\n  I step into the smoking ruin, Ichijo at my back.\r\n\r\n//　中は、滅茶苦茶であった。\r\n//　大軍に奇襲を受け、忽ち奥まで入り込まれたのだと\r\n//しても――ここまでの醜態には果たしてなろうか。\r\n\r\n//　盲滅法に機関銃を撃ち放ったとしか思えぬ破砕痕。\r\n//　倒壊した壁と、その手前で砲身を歪めつつ横転して\r\n//いる迫撃砲――これは何だ。まさか館内でこんなもの\r\n//を使って砲撃したとでもいうのか。\r\n  Bullet holes litter every visible surface, as if the soldiers fighting here discharged their weapons completely at random. And there, what is that tube sticking out from that rubble? A mortar? Inside the base?\r\n\r\n  No attack could have inspired such chaos, not even if an entire army had taken them by surprise.\r\n\r\n//　そして死体。\r\n//　一面の死と死と死と死。\r\n\r\n//　その全てが六波羅の軍装を纏っている。\r\n  Strangest of all are the corpses. An ocean of the dead, and every last one of them wearing a Rokuhara uniform.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5346,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200060a02'>\r\n//「……変です。\r\n//　こいつら、誰にやられたんでしょう」\r\n\"This doesn't make sense. There's no enemy dead.\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5574,
+  "en": "\r\n<voice name='景明' class='景明' src='voice/mb03/0200040a00'>\r\n//　…………。\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5682,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200070a02'>\r\n//「<RUBY text='・'>敵</RUBY>の死体が全然ない……。\r\n//　どういうことですか？　六波羅が六波羅を\r\n//攻めた？」\r\n\"So who attacked them? Another Rokuhara faction?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5975,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200080a02'>\r\n//「でも、どいつもこいつも死んでるってのは\r\n//……生きてる奴らはどこへ……」\r\n\"And... what happened to the survivors? Where'd they go?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6239,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0200090a00'>\r\n//「いない」\r\n\"Nowhere.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6362,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200100a02'>\r\n//「え？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6478,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0200110a00'>\r\n//「生存者はいない。\r\n//　誰も彼もが死んでしまった」\r\n\"There are no survivors. Everyone's dead.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0200120a00'>\r\n///「ここに残っているのは死骸と、\r\n//　……死神だけだ」\r\n\"All that's left are the bodies... and the thing that killed them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6925,
+  "en": "\r\n//　奥を目指して走る。\r\n//　死骸の上を飛んで。血の飛沫を散らし。\r\n  I race across the corpse-sown field, blood splashing around my feet. The center of the keep is just ahead.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7140,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb03/0200130a01'>\r\n//《――――》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7274,
+  "en": "\r\n//　村正の精神は真冬の鉄板のように固く冷たい。\r\n//　そのくせ溶鉱炉から溶け出したばかりの<RUBY text='ノロ'>鋼滓</RUBY>のよう\r\n//にどろどろと熱くもある。\r\n  Muramasa's mind is suddenly cold to the touch, as hard as steel beneath a winter sky. And at the same time, it boils and churns, like slag from the forge.\r\n\r\n//　村正を装う俺の精神も相似であろう。\r\n//　酷冷と灼熱の同居に意識は何処かの<RUBY text='はて'>涯</RUBY>へ飛びそうに\r\n//なっている。\r\n  I share in both―the ice and the flames. They propel my consciousness far, far ahead.\r\n\r\n//　ともすれば現実に先行するその意識を追う心地で、\r\n//俺は駆けた。\r\n  All my body can do is give chase.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8067,
+  "en": "\r\n//　そこは、この城館の主が住まう間であったのだろう。\r\n//　絢爛なばかりの装飾で満たされていたようだ。\r\n//　\r\n//　嘗ては。\r\n//　今は既に、見る影も無い。\r\n//　砕け、裂かれ、全ては崩壊し去っている。\r\n  Soon we reach the deepest part of the keep, where the grand meeting hall would have stood.\r\n\r\n  Nothing remains of its glory. The structure lies in ruins, torn and smashed to pieces―<br>together with its master.\r\n\r\n//　主人も含めて。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8606,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200140a02'>\r\n//「……こいつ……」\r\n\"Is that...\"\r\n\r\n<FW img=''>\r\n  Ichijo speaks at my shoulder, her voice a hushed whisper.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8819,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0200150a00'>\r\n//「ああ。\r\n//　大和ＧＰで見掛けたな……」\r\n\"Yes.\" I answer her with a nod, my eyes fixed on the gruesome sight. \"We saw him at the Grand Prix.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9075,
+  "en": "\r\n//　俺の背後から覗いて絶句する一条に、頷きを返す。\r\n//　部屋の中央寄りに転がる、人間――の残滓。断片。\r\n  General Imagawa Raicho, governor of Oyumi―or what's left of him. \r\n\r\n//　余程の激闘の末にかく果てたのであろうか。\r\n//　豪奢な劒冑で身を<RUBY text='よろ'>鎧</RUBY>った小弓公方今川雷蝶は、彼の\r\n//居館が受けた災禍を象徴するように、凄まじき形相を\r\n//浮かべて<RUBY text='・・・・・・・'>砕け散っていた</RUBY>。\r\n\r\n  One can only imagine the terrible struggle that took place here. Though his face remains miraculously whole, features twisted in a savage grimace, the rest of him―<br>flesh, bone, golden armor―<br>lies scattered in pieces throughout the wreckage, as if to embody in his person the fate of his command.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9949,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200160a02'>\r\n//「……どういうことなんですか……」\r\n\"Who did this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10113,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0200170a00'>\r\n//「どうも、こうも無い」\r\n\"Not who.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10254,
+  "en": "\r\n//　歯を<RUBY text='こす'>擦</RUBY>って言葉を<RUBY text='しぼ'>搾</RUBY>る。\r\n//　状況は不分明か。否。その正逆。\r\n  The words grate against my teeth like nails on a board. There is, after all, no mystery here.\r\n\r\n//　状況は明々白々。\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10542,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0200180a00'>\r\n//「お前も見た筈だぞ一条。\r\n//　この光景を、一度は目にしている筈だ」\r\n\"I've seen this before. So have you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10774,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0200190a02'>\r\n//「――あ――」\r\n\"Ah―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10900,
+  "en": "\r\n//　今川雷蝶は死んだ。\r\n//　小弓公方府は壊滅した。\r\n\r\n//　しかし、俺達は何もしていない。\r\n//　彼らの敵であった我々は一切、何も。\r\n  Oyumi has fallen, its general with it. But how? We were their only enemy, and we played no part in this.\r\n\r\n//　だから彼らは敵に滅ぼされたのではない。\r\n//　戦争は彼らを殺していない。\r\n\r\n//　彼らを殺し滅ぼしたものは何か。\r\n//　戦争とは全く別の、人の群れを滅ぼし去るものとは\r\n//何か。\r\n  So, if it wasn't an enemy that killed them―if it wasn't war―what was it? What else besides war can wreak such devastation?\r\n\r\n//　天災だ。\r\n//　雷雨の渦巻く大嵐。風に乗って広がる大火。沿岸を\r\n//呑み尽くす大海嘯。山の怒りが周辺全てを地獄に変え\r\n//る大噴火。\r\n  Nature.<K>\r\n  The hurricane, the tidal wave, the volcano's molten wrath.\r\n\r\n//　それらと同等。\r\n//　同じように突然で、同じように抗えず、同じように\r\n//無慈悲。人を殺す。人の営みを滅ぼす。ただそれだけ\r\n//の現象。\r\n  This was not those, but the difference is trivial. Its essence is the same―<br>sudden, irresistible, merciless. A scourge upon the works of man.\r\n\r\n  I recall its names.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12230,
+  "en": "\r\n//　人は呼んだ。\r\n//　殺戮の天象と。\r\n  The Angel of Slaughter.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12320,
+  "en": "\r\n//　人は呼んだ。\r\n//　死の雨と。\r\n  The Rain of Death.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12399,
+  "en": "\r\n//　人は呼んだ。\r\n//　魔王と。\r\n  The Destroyer of Worlds.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12481,
+  "en": "\r\n//　そして、人は呼んだ。\r\n//　\r\n//　<RUBY text='ぎん'>白銀</RUBY>の星と。\r\n  And, oh yes.<K>\r\n  The Silver Star.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12626,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb03/0200200a14'>\r\n//「いい<RUBY text='ゆうやけ'>夕焼</RUBY>だな、景明。\r\n//　まるで<RUBY text='ほおずき'>鬼灯</RUBY>の野のようだ……」\r\n\"Look, Kageaki. It's like a field of winter cherries. What a beautiful sunset.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb03/0200210a14'>\r\n//「そうは思わないか？」\r\n\"Don't you agree?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13074,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0200220a00'>\r\n//「――<RUBY text='ひかる'>銀星号</RUBY>!!」\r\n\"HIKARU!\"\r\n",
+  "pt": ""
+ }
+]

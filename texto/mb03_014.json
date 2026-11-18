@@ -1,0 +1,42 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　平穏な航海の末、浦安へ到着した。\r\n//　予定通りバスに乗って船橋へ。そこから海岸沿いを\r\n//歩く。\r\n\r\n//　習志野から美浜へ……\r\n//　丁度房総半島の付け根にある小弓はその先だ。\r\n\r\n//　潮風は冷えるが、日差しのお陰で耐えかねる程でも\r\n//ない。まずまず平穏な道行だった。\r\n//　しばしば幕軍の車両と行き違うが、特にトラブルと\r\n//いう程のことはなくやり過ごせている。\r\n\r\n//　どうやら何事もなく目的地へ着けそうだ。\r\n//　\r\n//　\r\n//　……と見込むのは、まだ早計であろうが。\r\n  A few hours later, we are walking the cold, white shore where the Boso Peninsula joins Honshu. Oyumi is just ahead.\r\n\r\n  Our journey thus far―from Urayasu as planned, to Funabashi by bus, then on foot through Narashino and Mihama―has been blessedly uneventful, save for a few Rokuhara patrols who readily accepted our cover story.\r\n\r\n  Although the wind off the bay remains chill, the bright sun has helped to relieve the cold.\r\n\r\n  It's still early yet, but I'm starting to think that we might reach our goal without incident.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1419,
+  "en": "\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/0140010e112'>\r\n//「習志野分隊、<RUBY text='オニヤンマ'>鬼蜻</RUBY>より報告。\r\n//　目標を捕捉した」\r\n\"Dragonfly to base. I have the Soga twins in sight.\"\r\n\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/0140020e112'>\r\n//「……〝曽我兄弟〟二名を確認。\r\n//　他に随行者は無し」\r\n\"Confirmed. They're alone.\"\r\n\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/0140030e112'>\r\n//「以降の指示を乞う。{Wait(2500);}<BR>　……諒解した。プランＤにて迎撃」\r\n\"What are your orders?\r\n<WaitVoice=2700>  Understood.\"\r\n\r\n\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/0140040e112'>\r\n//「直ちに作戦を開始する」\r\n\"Will proceed with Plan D.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2431,
+  "en": "\r\n//　やはり小弓まで真っ直ぐ、というのは虫が良過ぎた。\r\n//　ここまで侵入を許してくれた沿岸の道路は美浜の中\r\n//ほどで小弓軍の一分隊に封鎖され、その先への通行は\r\n//もはや叶わない。\r\n  Our luck was bound to run out eventually.\r\n\r\n  About halfway down the Mihama shoreline, we suddenly find the road blocked by soldiers. There are still fourteen kilometers left to our destination.\r\n\r\n//　小弓公方府まではあと十数キロ。\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2955,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0140050a00'>\r\n//「……どうしたものかな」\r\n\"This is... problematic.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3114,
+  "en": "\r\n//　封鎖を見るなり踵を返しては怪しまれかねない。俺\r\n//と一条はそのまま単なる通行人を装って近付き、当然\r\n//のように追い払われて、今は進路を逆にしている。\r\n//　このまま歩き続ければ浦安まで戻ってしまうが。\r\n  Several minutes later, having been turned away at the roadblock―it would have attracted suspicion if we'd reversed course the moment we spotted it―<br>Ichijo and I are headed back the way we came.\r\n\r\n  If we don't find another route, we'll wind up back in Urayasu.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3694,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0140060a02'>\r\n//「少し戻った辺りに喫茶店があったじゃない\r\n//ですか。とりあえずそこ入りません？」\r\n\"Didn't we pass a tea house? Maybe we should sit down.\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3967,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0140070a00'>\r\n//「そうするか」\r\n\"Good idea.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4098,
+  "en": "\r\n//　海水浴客を睨んだ立地で、季節柄閑古鳥が鳴いては\r\n//いたが、それでも一応営業している様子だった。\r\n//　ひとまず腰を落ち着けて対策を練るには格好の場所\r\n//だ。\r\n  I recall the place she mentions. A beachfront establishment: empty, as one might expect in late fall, but the sign on the door said \"open.\"\r\n",
+  "pt": ""
+ }
+]

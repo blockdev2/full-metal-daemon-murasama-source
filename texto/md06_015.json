@@ -1,0 +1,77 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　昼。\r\n//　再び<RUBY text='ひかり'>光</RUBY>の家へ食料を持参し、ついでに自分の食事も\r\n//済ませる。\r\n  Noon finds us once more at little Hikari's home.\r\n\r\n//　大した物ではなかったが、朝と同様、家主は素直に\r\n//喜んでくれた様子であった。\r\n//　嬉しく思う一方、これまでどんな食生活だったのか\r\n//不安にもなる。\r\n  The girl seems happy to see us, and doubly so to see the meal that we brought. She reacted similarly when we fed her this morning. Given that neither was a sumptuous affair, I worry that she's been going hungry.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 852,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0150010a01'>\r\n//「……要するに。\r\n//　昔からの住人と新しく入ってきた人達との\r\n//間を取り持って、和解させたいの？」\r\n\"So... you want to help these newcomers get along with the people who've always lived here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1191,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0150020a00'>\r\n//「まぁ、そうだ。\r\n//　このまま互いに不満と不信の念を募らせて\r\n//いけば、やがて破滅的な結果になりかねない」\r\n\"Yes. If relations continue to fester, it could easily lead to violence.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1517,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0150030a00'>\r\n//「それを防ぐ」\r\n\"That's what I want to prevent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1668,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0150040a01'>\r\n//「難しいと思うけど」\r\n\"It won't be easy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1821,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0150050a00'>\r\n//「簡単ではなかろうな」\r\n\"No, I'm sure it won't.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1976,
+  "en": "\r\n//　人間関係の決裂は一瞬で済むが、和解は百年の時を\r\n//掛けてなお成就しない場合がある。\r\n  Like most things, human relationships are far easier to break than to build. One can labor for a hundred years and still fail to repair what it only took an instant to destroy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2294,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0150060a00'>\r\n//「しかし、俺でも和解の切欠を作るくらいの\r\n//事はできるかもしれない……」\r\n\"Still, perhaps I can lay the groundwork for peace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2550,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0150070a01'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2674,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0150080a00'>\r\n//「やるだけはやってみる」\r\n\"I have to try.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2824,
+  "en": "\r\n//　どんな形であったにせよ、一度は争いを止められた\r\n//のだ。\r\n//　なら、今度もできる――できると信じたい。\r\n  I've already prevented one outbreak of violence. I want―need―to believe that I can do so again.\r\n\r\n//　俺のような者が生かされるなら、生かされる意味が\r\n//欲しい。\r\n//　何かを成し遂げたい。\r\n  There has to be some purpose, some reason to live on in spite of my crimes.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3305,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0150090b34'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3435,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0150100a01'>\r\n//「そう。\r\n//　それで……どうする気なの？」\r\n\"Okay. So what will you do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3628,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0150110a00'>\r\n//「話し合いだけで片付く問題ではないだろう。\r\n//　まず行動が必要だ」\r\n\"Discussion will not be enough. Both sides will have to act.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3884,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0150120a00'>\r\n//「難民側に行動を起こして貰う」\r\n\"Starting with the refugees.\"\r\n",
+  "pt": ""
+ }
+]

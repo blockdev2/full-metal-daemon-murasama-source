@@ -1,0 +1,462 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　拘置所の一日は退屈によって支配される。\r\n\r\n//　既に刑の確定した者のための施設である刑務所とは\r\n//異なり、拘置所に収容されるのは未決囚と未決囚扱い\r\n//の死刑囚（彼らに与えられるべき刑罰は最後の死のみ\r\n//であり、他には無い）なので、強制労働は行われない。\r\n\r\n//　規定の上では志願すれば労役に就くことも可能な筈\r\n//だが、この関東拘置所はその体制が整っていないため、\r\n//要望に応えることは不可能――とのことだった。\r\n//　看守からそう聞いている。\r\n\r\n//　外に出て体を動かせるのは一日あたり三十分間だけ。\r\n//　他の時間は全て独房内で静かに過ごさねばならない。\r\n\r\n//　読書や書き物は可能だが、制限がつく。\r\n//　長い一日を潰すのは無理だ。\r\n\r\n//　となれば後は、ひたすらに寝て過ごすか、あるいは\r\n//――貪眠による心身機能の低下を受容できないのなら\r\n//ば――二畳余の空間で許される限りの運動を行うしか\r\n//ない。\r\n\r\n//　派手な音を立てる行為は当然、認められない。\r\n//　器具を使うような運動も無論――例え獄室内にある\r\n//物で間に合わせるとしても。乾布摩擦でさえ、看守に\r\n//よっては絞殺の準備とみられる。\r\n\r\n//　素振りなどは論外。体術の型なども看守のささくれ\r\n//立った神経をいたずらに刺激するのみだ。\r\n//　結局のところ、出来ることは腕立て、腹筋、背筋と\r\n//いったスタンダードな筋トレの類に限られる。\r\n\r\n//　つまりは、俺が今している事もそれなのだった。\r\n  Life in jail is a constant struggle against boredom.\r\n\r\n  Unlike prisons, which hold sentenced criminals, jails are meant to house those awaiting trial, such as myself, and those sentenced to execution, whose punishment is death alone. As such, there is no forced labor program.\r\n\r\n  In theory, I should be able to request assignment to a work detail, but the Kanto Jail has no such system in place. At least, that's what the guards have told me.\r\n\r\n  We are allowed only thirty minutes of outdoor exercise each day. The rest of the time we must spend quietly inside our cells.\r\n\r\n  Reading and writing are allowed, but with restrictions; it is not possible to occupy an entire day with these activities alone.\r\n\r\n  The only remaining options are to sleep the time away, or―if letting your body atrophy does not appeal to you―exercise to the extent that the confines of your three-meter-square cell permit.\r\n\r\n  Of course, any activity that would produce noise is forbidden, as is anything that would require the use of equipment. And don't even think about trying to fashion some sort of makeshift exercise device out of items in your jail cell, because the guards are likely to assume that you're planning suicide or escape.\r\n\r\n  Striking practice is not an option either. Guards tend to be high-strung, and even taking a stance can test their nerves.\r\n\r\n  Ultimately, you have little choice but to engage in standard strength training exercises such as pushups, situps, and back extensions.\r\n\r\n  In other words, exactly what I am doing right now.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3565,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020010e038'>\r\n//「未決囚〇四八号」\r\n\"Prisoner 048.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3739,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020020a00'>\r\n//「はい」\r\n\"Here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3856,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020030e038'>\r\n//「事情聴取のため、お前を一時的に鎌倉署へ\r\n//移送するとの通達があった。迎えの車はもう\r\n//来ている。\r\n//　一〇分以内に支度をしろ」\r\n\"You're to be taken to Kamakura station for questioning. The car is already here. Be dressed and ready in ten minutes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4293,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020040a00'>\r\n//「わかりました」\r\n\"Understood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4428,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020050e038'>\r\n//「……ところで、お前」\r\n\"...By the way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4609,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020060a00'>\r\n//「何でしょうか」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4737,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020070e038'>\r\n//「今、何をしていた？」\r\n\"What were you doing just now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4933,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020080a00'>\r\n//「腕立て伏せです」\r\n\"Pushups.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5068,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020090e038'>\r\n//「……そうか。\r\n//　腕立て伏せか」\r\n\"...Oh, those were pushups.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5277,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020100a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5393,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020110e038'>\r\n//「お前、生まれは？」\r\n\"Where are you from?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5576,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020120a00'>\r\n//「長崎です」\r\n\"Nagasaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5703,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020130e038'>\r\n//「俺は秋田だ」\r\n\"I'm from Akita.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5873,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020140a00'>\r\n//「きりたんぽが美味しいとか」\r\n\"I hear the kiritanpo is delicious.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6049,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020150e038'>\r\n//「長崎は、ちゃんぽんだな」\r\n\"You guys make chanpon, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6251,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020160a00'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6367,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020170e038'>\r\n//「……俺の故郷では、腕立て伏せってのは、\r\n//両手と両足を地面につけてやるもんだった」\r\n\"...In Akita, we do pushups with both hands and feet on the ground.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6691,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020180a00'>\r\n//「大概は、そうでしょう」\r\n\"I believe that is usually the case.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6862,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020190e038'>\r\n//「足を浮かせてやる腕立て伏せっていうのは\r\n//初めて見た」\r\n\"This is the first time I've seen someone do them with their legs in the air.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7154,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020200a00'>\r\n//「自分も、他人がやるのはあまり見た覚えが\r\n//ありません」\r\n\"I, too, have rarely seen it done.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7369,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020210e038'>\r\n//「苦しくないのか？」\r\n\"Isn't it painful?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7550,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020220a00'>\r\n//「苦しみ悶えます」\r\n\"Excruciatingly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7692,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020230e038'>\r\n//「…………そうか。\r\n//　安心したよ」\r\n\"...Oh. That's a relief.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7901,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020240a00'>\r\n//「それは幸いです」\r\n\"Glad to be of service.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8050,
+  "en": "\r\n//【ｅｔｃ／看守】\r\n<voice name='ｅｔｃ／看守' class='その他男声' src='voice/ma03/0020250e038'>\r\n//「支度をしてくれ」\r\n\"Get ready.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8221,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020260a00'>\r\n//「はい」\r\n\"At once.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8341,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020270a11'>\r\n//「……つまり。\r\n//　間違いはないのだな」\r\n\"...So there's no mistake.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8524,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020280a00'>\r\n//「はい。\r\n//　あの村は銀星号が滅ぼしました」\r\n\"None. The village was destroyed by Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8732,
+  "en": "\r\n//　卓上の茶碗を手に取る。\r\n//　鼻をくすぐるほのかな香りは、遠州産の新茶のそれ\r\n//だった。色を見れば安物とわかるが、品質は悪くない。\r\n\r\n//　水面が唇に触れる程度に碗を傾け、舌先を湿らせる。\r\n  I bring the offered teacup to my lips. The fragrance tells me that this is a new blend from Enshu: inexpensive, judging by the color, but it should prove sufficient for my tastes.\r\n\r\n  I tilt the cup back until the hot liquid just touches my mouth, then wet the tip of my tongue.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9301,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020290a00'>\r\n//「村正も同様の見解です。というより……\r\n//　ただの一人も逃れ得なかった、文字通りの\r\n//<RUBY text='・・'>全滅</RUBY>なのです。誤解の余地がありません」\r\n\"Muramasa is of the same opinion. Of course, as the village was utterly annihilated, without even a single survivor, I do not see how any other conclusion is possible.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9776,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020300a11'>\r\n//「その通りだな。\r\n//　例えば軍事用語で全滅と云うとき、部隊が\r\n//機能を完全に失うほどの損害を受けた状態を\r\n//指す。比率にして三割から四割程度」\r\n\"Agreed. Even in war, an enemy force is considered 'annihilated' once it has suffered too many losses to function effectively. In practice, this means about forty percent.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020310a11'>\r\n//「全滅といっても六割は無事に生きている。\r\n//それが常識というものだ。\r\n//　しかし<RUBY text='・・'>あれ</RUBY>に遭遇した者には、その六割の\r\n//生存が許されない」\r\n\"It is to be expected that an annihilated force will have sixty percent of its strength remaining. Where Ginseigo is involved, however, we have no choice but to use the word 'annihilation' literally.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10765,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020320a00'>\r\n//「あれは戦争ではないので。\r\n//　加害者と被害者との間に、戦闘などという、\r\n//生温いお遊戯めいた交渉は存在しません」\r\n\"Her actions are not war, Commissioner. War implies combat, but Ginseigo does not allow her victims even the barest semblance of resistance. She is not so <I>playful</I>㉑as that.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020330a00'>\r\n//「単なる天災です。\r\n//　沿岸の村を襲う大津波です。\r\n//　山麓の村を襲う大噴火です。\r\n//　生き残りなど許される筈がない」\r\n\"Ginseigo is a disaster, no different from the tsunami that wipes out a fishing village or the volcano that buries a town. It would be foolish to expect survivors.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11636,
+  "en": "\r\n//　事実を事実として言い切る。\r\n//　返答はなかった。\r\n\r\n//　広くもない室内の東側の壁に、絵が一幅、飾られて\r\n//いる。桑の栽培の様子を描いた、ごくごく平凡な風景\r\n//画だ。技術的にも見るべき点は特にないだろう。\r\n//　だが好悪を問うなら、好みだった。\r\n\r\n//　著名人の作品ではない。いや、画家の手になるもの\r\n//でさえない。それはこの部屋の主の、自筆だった。\r\n//　凡庸な作品だからこそと言うべきか、見る人を落ち\r\n//着かせるような趣がある。……贔屓目かもしれないが。\r\n\r\n//　そんな絵だけが、この部屋にあって唯一、装飾品と\r\n//呼べるものだった。\r\n//　後は実用本位の家具と多くの資料類、味も素っ気も\r\n//ない諸々があるばかりだ。\r\n\r\n//　鎌倉市の治安を預かる――べき――警察署の首長が\r\n//座すにしては、寂しい佇まいだと言えた。\r\n//　もう少し皮肉な表現力を駆使するなら、<RUBY text='・・・・・'>嘆かわしい</RUBY>\r\n//佇まいだと評することも可能かもしれない。\r\n\r\n//　あるいは<RUBY text='・・・'>現実的</RUBY>か。\r\n//　現実的な署長室の現実的な警察署長は、テーブルの\r\n//木目に向けていた視線を外し、再びこちらを見やって\r\n//いる。\r\n  The commissioner does not immediately reply to my candid statement of the facts. I take this opportunity to look around the office.\r\n\r\n  On the eastern wall of the medium-sized room is a painting of mulberries in blossom. It is the sort of scene common in works of art, with nothing to distinguish it in theme or technique. Yet if I were asked my personal opinion on it, I would rate it favorably.\r\n\r\n  It is not the work of a famous artist, nor of a professional artist at all. It was painted, in fact, by the commissioner himself. Looking at it, one feels strangely at peace, perhaps an effect of its perfectly ordinary nature.\r\n  But maybe it's just me. I confess to a certain bias.\r\n\r\n  In any case, the painting is the only thing in the room that can be called decorative. The rest of the space is dominated by plain furniture and stacks of documents. A bit spartan, perhaps, for the office of the man responsible<br>―on paper, at least―for the safety of Kamakura's people. If I were in a sardonic mood, I might even call it pitiful.\r\n\r\n  No, perhaps realistic is the most appropriate description. A realistic office for a realistic police commissioner.\r\n\r\n  He seems to be finished thinking. His eyes are directed at me once more.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14323,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020340a11'>\r\n//「〝卵〟の孵化は阻止したのだな」\r\n\"You stopped the eggs from hatching?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14506,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020350a00'>\r\n//「はい。\r\n//　六波羅代官長坂右京とその傭兵風魔小太郎\r\n//が寄生体であることを確認、両名を殺害しま\r\n//した」\r\n\"Yes. The Rokuhara prefect Nagasaka Ukyo and his mercenary Fuma Kotaro were infected. I murdered them both after confirming their status as hosts.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14904,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020360a11'>\r\n//「現状で何よりも肝要なのはそこだ。\r\n//　あんなものに<RUBY text='・・'>増え</RUBY>られては堪らん」\r\n\"That's all that matters at this stage. We can't have more of those things on the loose.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15224,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020370a11'>\r\n//「御苦労だったな」\r\n\"Good work.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15361,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020380a00'>\r\n//「いいえ。\r\n//　苦しんだのは決して、自分ではありません\r\n//から」\r\n\"No, my work was most certainly not good.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15593,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020390a11'>\r\n//「…………。\r\n//　銀星号について情報は得られたか？」\r\n\"...<WaitVoice=1250>Did you learn anything about Ginseigo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15826,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020400a00'>\r\n//「長坂右京からは何も。\r\n//　風魔小太郎の方は<RUBY text='・・'>あれ</RUBY>と会話程度の接触は\r\n//した様子ですが、所在などの有意義な情報は\r\n//やはり得られませんでした」\r\n\"Nothing from Nagasaka Ukyo. Fuma Kotaro seemed to have spoken with her, but as usual, I learned nothing of her whereabouts.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16280,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020410a11'>\r\n//「そうか。\r\n//　あれは何処かに、何者かが、<RUBY text='・・'>保護</RUBY>している\r\n//とみるべきなのだが……」\r\n\"I see. There has to be someone harboring her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16571,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020420a00'>\r\n//「そう考えなくては、理屈に合いません」\r\n\"Yes, that is what logic would dictate.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16766,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020430a11'>\r\n//「失踪者扱いで全国に捜索を手配しているに\r\n//も拘わらず、まるで引っ掛からないのだから\r\n//な。\r\n//　警察力の不足もあるだろうが……」\r\n\"There hasn't been a single sighting, after all, despite my reporting her as missing to every precinct in Yamato. The lack of police coverage is part of it, but...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17217,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020440a11'>\r\n//「もう二年にもなる。\r\n//　支援者がいると考えるべきだ」\r\n\"It's been two years now. She must have outside support.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17451,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020450a00'>\r\n//「全くに。しかし、目的が皆目わかりません。\r\n//　誰もを害する殺戮者に、誰がどうして手を\r\n//貸すのか」\r\n\"I completely agree, though I cannot fathom the goal of this hidden benefactor. Who would grant aid to an indiscriminate killer?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17824,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020460a11'>\r\n//「ああ。筋道が通らんな？\r\n//　……そして世の中、筋道の通らん話が割合\r\n//横行するから困る」\r\n\"Yes, it makes no sense. Unfortunately, the world is full of things that make no sense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18141,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020470a00'>\r\n//「であれば、論理的推察のみによって真実へ\r\n//近付くのは難しいという事になります」\r\n\"In which case, it will be difficult to reach the truth through logical deduction alone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18446,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020480a11'>\r\n//「その通りだ。\r\n//　安楽椅子の探偵を気取っていてもどうにも\r\n//ならん」\r\n\"Indeed. We won't get anywhere playing armchair detective.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020490a11'>\r\n//「決定的な情報が要る。\r\n//　済まないが宜しく頼むぞ、景明」\r\n\"We need a solid lead. I know it will be hard, but I'm counting on you, Kageaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18960,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020500a00'>\r\n//「承知しています。\r\n//　ところで。それとは別件で一つ、気になる\r\n//事柄が」\r\n\"Understood.\r\n  By the way, there is an unrelated matter I wished to discuss.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19243,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020510a11'>\r\n//「なんだ？」\r\n\"What is it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19372,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020520a00'>\r\n//「風魔小太郎に劔冑を提供した男です。\r\n//　名は雪車町一蔵。六波羅御雇の野木山組に\r\n//属し、且つＧＨＱの御用聞きでもある」\r\n\"Sorimachi Ichizo, the man who procured Fuma Kotaro's tsurugi. He is affiliated with both Rokuhara and GHQ.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19754,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020530a11'>\r\n//「ああ……」\r\n\"Yes, you mentioned him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19895,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020540a00'>\r\n//「自分が聞かされた話をすべて鵜呑みにする\r\n//なら、という前提ですが――風魔はＧＨＱに\r\n//奪われた劔冑を雪車町の手配りで取り戻して\r\n//いる。何故、そのような真似が許されたのか」\r\n\"If everything I heard is to be believed―a hasty assumption, perhaps―then Sorimachi facilitated the return of Fuma's tsurugi after it had been confiscated by GHQ. Why was this allowed, I wonder.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020550a00'>\r\n//「ＧＨＱの〝劔冑狩り〟政策の成果は当然、\r\n//厳重に封印されている筈。\r\n//　でなければ、手間隙を費やして劔冑を狩り\r\n//集めた意味がありません」\r\n\"It seems obvious to assume that GHQ is keeping tight control of the tsurugi they've confiscated. Otherwise there was no reason to hunt them down in the first place.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20907,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020560a11'>\r\n//「…………。\r\n//　先日の教師。鈴川令法か。彼も出所不明の\r\n//劔冑を持っていたのだったな」\r\n\"Hmm... Didn't that teacher, Suzukawa Ryobu, also get his tsurugi from an unknown source?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21223,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020570a00'>\r\n//「はい。\r\n//　関連性が疑われます」\r\n\"Yes. His case may well be related.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21406,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020580a11'>\r\n//「お前はどう考えている？」\r\n\"What are your thoughts?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21568,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020590a00'>\r\n//「……妥当な推論をするなら。\r\n//　ＧＨＱの大和への無関心が進駐軍の綱紀を\r\n//緩ませ、物資の横流しを安易に行わせている\r\n//――というあたりでしょう」\r\n\"The simplest hypothesis would be that GHQ's indifference toward Yamato has allowed for corruption to run rampant through its ranks, thus giving rise to illegal sales of military equipment, including <br>tsurugi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22092,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020600a11'>\r\n//「その推論に対する自己採点は？」\r\n\"And how do you rate that hypothesis?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22276,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020610a00'>\r\n//「不可」\r\n\"Untenable.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22398,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020620a11'>\r\n//「なぜ？」\r\n\"Why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22517,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020630a00'>\r\n//「ＧＨＱは大和に無関心ですか？」\r\n\"Is GHQ indifferent toward Yamato?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22698,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020640a11'>\r\n//「否。\r\n//　……そう、そういうことだな」\r\n\"No. ...Of course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22873,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020650a11'>\r\n//「この件については既に推測を持っている。\r\n//　だが、明日話そう。どうせ話題になる……\r\n//こんな話は幾度も口にしたくない」\r\n\"I already have a theory regarding this matter. However, it's probably best to address it tomorrow. I would prefer not to repeat such a sensitive topic too often.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23310,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020660a00'>\r\n//「明日？」\r\n\"Tomorrow?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23434,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020670a11'>\r\n//「今日は私の役宅で休んでおけ。拘置所には\r\n//戻らなくていい。\r\n//　明日、仕事が済んだ後で付き合って欲しい\r\n//所がある」\r\n\"You'll rest at my residence tonight, instead of in your cell. Tomorrow, after work, I would like you to accompany me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23822,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020680a00'>\r\n//「どちらへ」\r\n\"Where to?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23949,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020690a11'>\r\n//「八幡宮だ。\r\n//　親王殿下がお前に会いたがっておられる」\r\n\"Hachiman Shrine. His Highness the Prince wishes to meet you in person.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24201,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020700a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24325,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020710a00'>\r\n//「それはまた、何故」\r\n\"Whatever for?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24468,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020720a11'>\r\n//「お前が思っている以上に、殿下はお前の事\r\n//を気に掛けておられるよ。\r\n//　殿下は国民を多く害する銀星号事件を我が\r\n//身の事として考えておいでだ」\r\n\"You are more often in His Highness's thoughts than you realize. He mourns each and every one of Ginseigo's victims as if they were his own flesh and blood.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020730a11'>\r\n//「お前にかける期待も大きい。\r\n//　一度親しく言葉を交わしたいと、実は前々\r\n//から仰せであった」\r\n\"His Highness has wished for some time to speak to the man upon whom his hopes rest.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25245,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020740a00'>\r\n//「しかし。\r\n//　血の穢れに塗れた身を皇族の御前には――」\r\n\"But for a murderer such as myself to approach an imperial prince...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25494,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020750a11'>\r\n//「そんなつまらん事にこだわられる殿下では\r\n//ない」\r\n\"His Highness is not given to such trivial concerns.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25718,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020760a00'>\r\n//「つまらぬ事とは思われません。\r\n//　社稷を司る者は不浄を遠ざけるべき」\r\n\"I do not think it trivial. One entrusted by the gods with the governance of the people must not be exposed to such impurities.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26047,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020770a11'>\r\n//「まあ、そう言うな。\r\n//　要は実際的な方なのだよ、殿下は。事件の\r\n//実情を知るために現場の者の声を聞きたいと\r\n//望んでおられる。となればお前しかいない」\r\n\"Don't be so stubborn, Kageaki. His Highness is a practical man. He wishes merely to hear the truth of the situation from one who has experienced it firsthand. That means you.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020780a11'>\r\n//「それだけだ。だから別に、愛想を振りまく\r\n//必要もない。\r\n//　事件について殿下の御下問にお答えすれば\r\n//済む」\r\n\"That's all. You won't have to participate in any ceremonies or rituals. Just answer his questions as best you can.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26908,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020790a11'>\r\n//「小一時間ほどの辛抱だ。我慢して付き合え」\r\n\"It won't take an hour. Just grin and bear it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27116,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020800a00'>\r\n//「……わかりました」\r\n\"...Very well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27259,
+  "en": "\r\n//　やむなく首肯する。\r\n//　気の重い話だが、そう言われては仕方がなかった。\r\n\r\n//　――八幡宮の親王。\r\n//　皇室の変わり種という風評はこれまでにも耳にして\r\n//いたが、どうやら噂通りあるいは噂以上の人物らしい。\r\n//　獄囚に会いたがる貴人など聞いたこともない。\r\n\r\n//　……あまり根掘り葉掘りあれこれと聞かれなければ\r\n//良いが。\r\n\r\n//　既に湯気など立てない茶碗を呷る。\r\n//　温かみを失った茶は無闇に苦かった。\r\n  I am still uncomfortable with the prospect, but I have no choice.\r\n\r\n  The prince of Hachiman Shrine is known among the people as the \"odd duck\" of the imperial family, and this request would seem to lend much credence to those rumors. Too much, perhaps. What sort of noble willingly meets with a man awaiting trial for murder?\r\n\r\n  ...I'll just have to hope his questions aren't too specific.\r\n\r\n  I take a mouthful of tea to calm myself. The liquid, now lukewarm, tastes very bitter indeed.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28345,
+  "en": "\r\n//　職員用の通用門から鎌倉署の外へ。\r\n//　通りへ出る。\r\n\r\n//　署長はわざわざ見送りをしてくれた。厚情は有難い\r\n//が、人目を思って気に病みもする。\r\n//　警察署長が拘置囚を送っているのだから異様な図だ。\r\n\r\n//　とはいえ署長は警察の制服姿だが、こちらは拘置所\r\n//の囚人服を着ているわけではない。\r\n//　無用の心配だとはわかっていた。\r\n  I leave by the employee entrance fronting the main street. The commissioner sees me off.\r\n\r\n  While I am grateful for the courtesy, I cannot help but worry what passers-by might think of the police commissioner treating a prisoner as a guest.\r\n\r\n  My fears are unfounded, of course. I have already changed out of my prison garb.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29158,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020810a11'>\r\n//「何事も無ければ、明日は日暮れ前に役宅へ\r\n//戻る。それまではくつろいでいろ」\r\n\"Assuming nothing changes, I'll return home before tomorrow evening. Rest until then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29454,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020820a00'>\r\n//「はい。\r\n//　書斎を使っても構いませんか」\r\n\"Thank you. May I make use of the study?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29654,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020830a11'>\r\n//「好きにしろ。\r\n//　……ああ、そういえば<RUBY text='ドイツ'>統合帝国</RUBY>の優生学に\r\n//ついてまとめた研究書が入っている」\r\n\"If you like. ...Ah, that reminds me. I've acquired a study on eugenics research in the German Empire.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30025,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020840a00'>\r\n//「それは関心があります。今夜にでも読んで\r\n//おきましょう。\r\n//　では」\r\n\"That sounds interesting. Perhaps I'll read it tonight. Until tomorrow, then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30302,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020850a11'>\r\n//「ああ――\r\n//　ん？」\r\n\"Take care. ...Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30451,
+  "en": "\r\n//　署長の視線がふと、泳ぐ。\r\n//　俺の後方、斜め右側へ。\r\n\r\n//　つられて追う。\r\n//　\r\n//　人影があった。\r\n\r\n//　コンクリート塀に背を預け、こちらをうつむき加減\r\n//の横目で窺っている。\r\n//　一見、何の気もなさそうな素ぶり。しかしその実、\r\n//眼球の奥には激しい意志の光があった。\r\n\r\n//　俺の知る限り、彼女がいつもそうであったように。\r\n\r\n//　脳裏に強く記憶されている顔だった。\r\n//　姓名を思い出すのに何の苦労もいらない。\r\n  Something over my shoulder catches the commissioner's attention. I turn to look.\r\n\r\n  A girl is standing with her back against the concrete wall of the station, watching us from afar. At first glance, her expression is unremarkable, even disinterested; but looking closer, I see an indomitable will gleaming in her eyes.\r\n\r\n  Yes, that fiery gaze is unmistakably hers.\r\n\r\n  With her features burned indelibly into my memory, it is no trial at all to remember her name.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31529,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0020860a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31653,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020870a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31777,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0020880a11'>\r\n//「知り合いか？」\r\n\"An acquaintance?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31917,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020890a00'>\r\n//「ええ……。\r\n//　どうしてここに？」\r\n\"...Yes. What brings you <br>here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32102,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020900a00'>\r\n//「一条綾弥さん」\r\n\"Miss Ichijo Ayane.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32244,
+  "en": "\r\n//◆ショックガーン\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0020910a02'>\r\n//「逆だよっ!!」\r\n\"You got it backwards!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32413,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0020920a00'>\r\n//「…………失敬」\r\n\"...My apologies.\"\r\n",
+  "pt": ""
+ }
+]

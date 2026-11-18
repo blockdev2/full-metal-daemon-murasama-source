@@ -1,0 +1,342 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　列車という構造物は、隠れ潜む場所として用いるに\r\n//は致命的に横幅が足りない。\r\n//　真っ直ぐ追えば捕捉できる筈だ。\r\n\r\n//　あれが、見間違いでないなら。\r\n//　\r\n//　見間違いなら――誰にも会うまい。\r\n\r\n//　会わないだろう。\r\n  Trains do not offer much room for concealment. If I go straight, I will find my quarry.\r\n\r\n  That is, assuming he wasn't a phantom. If he was, then I'm sure I'll find no one at all.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 725,
+  "en": "\r\n//◆顔グラなし\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120010a12'>\r\n//「…………ケヘッ」\r\n\"...Heh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 890,
+  "en": "\r\n//　男はいた。\r\n//　酷くぞんざいで、だが奇妙に熱っぽい――そう、己\r\n//を含めた世の何もかもを下らぬものと<RUBY text='みな'>看做</RUBY>し嘲りつつ\r\n//そこに耽溺する、この男独特の風情を露わにしながら。\r\n\r\n//　男は俺の前にいた。\r\n  But of course, the man is there, with that same lazy excitement in his eyes: as though the world and everything in it―himself included―were merely a source of entertainment, nothing more.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1411,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120020a00'>\r\n//「雪車町一蔵!!」\r\n\"Sorimachi Ichizo!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1551,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120030a12'>\r\n//「け、け、け……！\r\n//　奇遇でござんすねェ、湊斗の旦那」\r\n\"Heh heh heh! If it ain't Officer Minato!\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120040a12'>\r\n//「会津には雪見旅との洒落込みで……？\r\n//　でしたらご愁傷様だァ、今年の会津は<RUBY text='つうじん'>通人</RUBY>\r\n//狙い、<RUBY text='おしろい'>白粉</RUBY>塗る気はないらしい」\r\n\"Here for a gander at Aizu's lovely snow? Sorry to be the bearer of bad news and all, but she's gunning for a less cultured crowd this year.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2255,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120050a12'>\r\n//「真っ赤な<RUBY text='べに'>紅</RUBY>だけ唇に引いて、<RUBY text='いき'>粋</RUBY>を示そうっ\r\n//て魂胆でねェ……\r\n//　へ、へッ！　憎いもんじゃありませんか」\r\n\"Instead of white, she's putting on red. Lips a color that'll sear your soul. Heh! The harlot. Gotta love it, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2685,
+  "en": "\r\n//　御託を宣いながら、その挙措は猫のそれさながらで\r\n//あり、進退自在の業の程は疑いもない。\r\n//　追いすがるべき両足に、俺は一時停止を命じるほか\r\n//なかった。\r\n\r\n  Despite his blather, the man remains as poised and alert as a wildcat. I am forced to check my approach. The distance is three or four meters. \r\n\r\n//　距離、およそ<RUBY text='六メートル'>三、四間</RUBY>。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3151,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120060a00'>\r\n//「何故ここにいる」\r\n\"Why are you here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3295,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120070a12'>\r\n//「洒落者が自分だけだとお思いで？」\r\n\"Vacation. Same as you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3477,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120080a00'>\r\n//「置け」\r\n\"Answer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3596,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120090a12'>\r\n//「へぇ、ヘヘ……！\r\n//　別に訊くほどのことでも、ありゃあせんで\r\n//しょう……」\r\n\"Heh heh! I'd'a thought it would be obvious.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3861,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120100a12'>\r\n//「あたしが何者で、あんたが何者か、綺麗に\r\n//忘れちまったってェんならともかく……ねぇ」\r\n\"Unless you forgot who I work for, that is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4139,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120110a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4263,
+  "en": "\r\n//　この男は……そうだ。ＧＨＱの雇われ工作員。\r\n//　そして俺は、ＧＨＱの目論見を数度に渡って妨害し、\r\n//また大鳥大尉と協力して鍛造雷弾の投下を妨害すべく\r\n//試みもした、今や彼らにとって明確な敵性存在。\r\n  He's an agent of GHQ. In which case, his presence here makes perfect sense.\r\n\r\n//　成程、わざわざ口を費やして訊くまでもなかったか。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4728,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120120a00'>\r\n//「つまりは猟犬」\r\n\"You're hunting us.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4870,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120130a12'>\r\n//「へっ……」\r\n\"Heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5003,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120140a00'>\r\n//「<RUBY text='クライブ・キャノン'>ＧＨＱ参謀</RUBY>がお前を選んだ。そういう事か。\r\n//　大和人のお前なら、会津内への侵入にさえ\r\n//成功すれば、後は篠川軍の存在もさして気に\r\n//せずに行動できる……」\r\n\"I know why Colonel Cannon chose you. As a Yamatoan, you pass unnoticed. You can work without drawing the army's attention.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5501,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120150a00'>\r\n//「だがそれにしても、現状で確かな身元保証\r\n//もなしに越境するような真似が可能とは思え\r\n//ないが。\r\n//　六波羅御雇の名は余程に信用があるのか？」\r\n\"But that doesn't explain how you crossed the border. They would have checked your identity, or was your work for Rokuhara enough to earn you a pass?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5956,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120160a12'>\r\n//「なわきゃ、ねえでしょう……。\r\n//　今はそんなもん、厄除けのまじないほどの\r\n//御利益もありゃしませんよ」\r\n\"Nah... all my good deeds for that bunch ain't worth spit now.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120170a12'>\r\n//「ま、全周封鎖なんて大仰に言おうが、別に\r\n//城壁を建てて並べてるわけじゃあない、兵士\r\n//が銃持って巡回してるだけですから……ねェ。\r\n//　穴くらい探せば見つかります……」\r\n\"But y'know how it is. When your wall is made of men, it's easy to find a hole.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6703,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120180a12'>\r\n//「無ければ無いで、<RUBY text='・・・・'>開ければ</RUBY>いいだけの事で」\r\n\"And if you can't find one... you just make your own.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6960,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120190a00'>\r\n//「…………。\r\n//　お前の飼い主はそれを許したのか」\r\n\"...And your master approved such methods?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7174,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120200a00'>\r\n//「無関係の者に危害を加えるなとは、言わな\r\n//かったのか？」\r\n\"I'd have expected him to order you to avoid <br>casualties.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7418,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120210a12'>\r\n//「言いましたさァ……。\r\n//　可能な限り、ってぇ注釈付きで」\r\n\"Oh, he did.㉒<I>Where possible,</I> were his exact words.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7670,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120220a12'>\r\n//「可能でなけりゃ、仕方ありません……」\r\n\"And sometimes, some things just ain't possible...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7885,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120230a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8003,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120240a12'>\r\n//「けッ、へぇっ！\r\n//　キャノン中佐はわかっておいでですよ……\r\n//そういう命令の仕方をすれば必ず死人が出る\r\n//ってことくらい」\r\n\"Heh! You think he didn't know what would happen?\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120250a12'>\r\n//「知ってて、わかっててやってるんだ……。\r\n//　だから、あの男は、やっちまった後で悔い\r\n//たり嘆いたりなんかしねえよ」\r\n\"You better believe he knew. So when he hears about the fellas I killed, he ain't gonna cry and moan.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8711,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120260a12'>\r\n//「<RUBY text='・・・・・・・'>てめぇとは違う</RUBY>」\r\n\"Not like you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8902,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120270a00'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9038,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120280a00'>\r\n//「そこまでして……\r\n//　彼は、俺を」\r\n\"He wants us dead that <br>badly?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120290a00'>\r\n//「俺と大鳥大尉を抹殺したいのか。\r\n//　随分と執念深い」\r\n\"I didn't take him for a man who holds grudges.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9439,
+  "en": "\r\n//　いや。\r\n//　執念の問題ではない……か？\r\n\r\n//　あの人物の事だ。\r\n//　俺達が、というより大鳥大尉が自分ひとりの安全を\r\n//図って<RUBY text='ひっそく'>逼塞</RUBY>するような性分ではないことまで読み切り、\r\n//その上で決断を下したのかもしれない。\r\n\r\n  Is that all it is?\r\n\r\n  No. There's another, better explanation. \r\n\r\n  Colonel Cannon must have guessed that the captain and I―the former, in particular<br>―would not be content to hide out in the countryside: that we would interfere with GHQ's efforts in Aizu, as indeed is presently our goal.\r\n\r\n//　会津において香奈枝嬢が企むであろう、反ＧＨＱ的\r\n//行動――それは実在する――を阻止するためにこそ。\r\n//　この顔色の悪い男は、送り込まれたのではないのか。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10327,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120300a00'>\r\n//「……標的は、俺よりもむしろ大鳥大尉か？\r\n//　雪車町一蔵」\r\n\"Captain Otori is your primary target. Isn't she, Sorimachi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10571,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120310a12'>\r\n//「いくらか血の巡りが良くなってきたようで。\r\n//　へ、へェ……こいつはおめでたい」\r\n\"Blood's finally getting to the brain, eh? Heh! That's nice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10857,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120320a00'>\r\n//「そうか。\r\n//　ならば、ここは通さん」\r\n\"You're not getting past me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11039,
+  "en": "\r\n//　挑発的な軽口には付き合わず。膝の力を抜き、腰を\r\n//わずかに沈める。\r\n//　敵の攻撃手段を予測し、それに備える。\r\n  Ignoring his mockery, I bend my knees and consider his likely angles of attack.\r\n\r\n//　雪車町が持つのは杖――仕込み一振りだけだ。\r\n//　劒冑は無い。なら、素手で取り押さえることも難事\r\n//ではあれ無理ではない筈。\r\n  He has only his cane sword. No tsurugi in sight. Though challenging, it should be possible to take him.\r\n\r\n//　……いざとなれば村正に手伝わせるまでだ。\r\n//　この相手に騎士道を気取ったところで、自己満足に\r\n//すらなりはしない。\r\n  If necessary, I'll even use Muramasa. Sorimachi is not an opponent against whom honor will serve any purpose.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11881,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120330a12'>\r\n//「さぁて……へへェ。\r\n//　別に、通せとも言いませんがね……」\r\n\"Heh... Here's the thing. I'm not looking to pass.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12127,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120340a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12246,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120350a12'>\r\n//「あのご令嬢を先に仕留めたいってのは……\r\n//ま、<RUBY text='あちらさん'>進駐軍</RUBY>の都合。\r\n//　<RUBY text='・・・'>こっち</RUBY>にゃこっちの都合ってもんがあって」\r\n\"You're right about my boss. The lady's his big concern. But I've got my own priorities.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12666,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120360a12'>\r\n//「どっちが重いかってなると……ねェ？」\r\n\"And if it comes down to one or the other, well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12881,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120370a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13005,
+  "en": "\r\n//　\r\n//　　　　　　　　〝半端野郎……〟\r\n \r\n \r\n \r\n \r\n \r\n<center>《You worthless piece of shit...》\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13137,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120380a00'>\r\n//「お前は……」\r\n\"Sorimachi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13270,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120390a12'>\r\n//「ケ」\r\n\"Heh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13392,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120400a12'>\r\n//「けっ、ケケ、ヘヘヘヘヘ」\r\n\"Hehehehehehe!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13553,
+  "en": "\r\n//　\r\n//　　　　　　　　　　〝消えろ〟\r\n\r\n//　\r\n//　　　　　　　　　〝消えちまえ〟\r\n \r\n \r\n \r\n \r\n \r\n<center>《Die.》\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>《Die, you son of a bitch.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13772,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120410a00'>\r\n//「雪車町!!」\r\n\"SORIMACHI!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13899,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120420a12'>\r\n//「湊斗ォ!!」\r\n\"MINATO!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14032,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120430a00'>\r\n//「……ッ!?」\r\n\"Guh...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14157,
+  "en": "\r\n//　紫電の一刀を寸分の差で避け。\r\n//　次なる一撃に備えて構え――\r\n  Barely slipping his first slash, I prepare for the next, only to realize that my enemy has retreated.\r\n\r\n//　そうして、既に後方へ引き下がっている対手の姿を\r\n//見た。\r\n//　\r\n//　……逃げる、のか？\r\n  Is he... running?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14520,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120440a12'>\r\n//「ヒヒ、ハハァ!!\r\n//　今日のところは、<RUBY text='けつ'>尻</RUBY>をくれてやるぜ」\r\n\"Hehe! Not me you're fighting today!\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120450a12'>\r\n//「てめぇには、もっと<RUBY text='・・・・'>いい相手</RUBY>が待ってるん\r\n//でなァ!!」\r\n\"You've got a㉓<I>special</I>㉒partner just itching for a rematch!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15051,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120460a00'>\r\n//「……何!?」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15174,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120470a12'>\r\n//「最高の奴さぁ!!\r\n//　てめぇのその、益体もねぇ命を分捕るのに、\r\n//あれッくらい相応しい奴は他にいねぇ!!」\r\n\"Oh yeah! If anyone's got the right to end your sorry life, it's them!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15502,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120480a12'>\r\n//「おとなしくして、そこで待ってなァッ!!」\r\n\"So you just sit tight, y'hear!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15701,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120490a00'>\r\n//「雪車町ッ!!」\r\n\"Sorimachi!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15831,
+  "en": "\r\n//　声は、痩せた筋者の足を留める役に立たなかった。\r\n//　距離が開く。<RUBY text='きょうあい'>狭隘</RUBY>な通路を黒い姿は巧妙に走り抜け\r\n//てゆく。\r\n  My shout is powerless to halt the scoundrel's flight. He turns and I give chase, driven by an inexplicable yet terrifying premonition.\r\n\r\n//　俺はその背を追った。\r\n//　曰く言い難い、しかしどうにも不吉な予感が心臓の\r\n//中に巣食っていた。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16329,
+  "en": "\r\n//　雪車町は人並みを凌ぐ俊足だ。\r\n//　容色からして不健全に違いなかろう彼の心肺機能が\r\n//何故あの速度を許すのか、<RUBY text='にわ'>俄</RUBY>かには理解し難い。\r\n  His speed is unthinkable for a man of such singularly haggard appearance. If I am gaining, it is far too slow, and ahead is the car Miss Nagakura mentioned, where the Sasagawa company awaits. Low as their morale might be, running into them will surely lead to trouble.\r\n\r\n  If Sorimachi reaches that car, I'll have to give up the chase.\r\n\r\n//　差を詰めるのは困難だった。\r\n//　引き離されこそしないが――このままでは不味い。\r\n\r\n//　おそらくこの先には篠川公方府の軍兵を乗せた車両\r\n//がある。\r\n//　その中に入られては、追うに追えなくなる。\r\n\r\n//　永倉侍従が言った、士気の低い後方要員という話が\r\n//本当なら、彼らと俺をかち合わせるところに雪車町の\r\n//意図があるとも思えないが。\r\n//　そんな事態になれば面倒であるのは間違いない。\r\n\r\n//　今のうちに捕まえるべきだ――が……\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17516,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120500a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17635,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120510a12'>\r\n//「……へ……」\r\n\"Heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17771,
+  "en": "\r\n//　病的な顔が、こちらに向き直っている。\r\n//　足も止まっていた。\r\n  Suddenly I am looking once more into those sunken eyes. Sorimachi has stopped and turned to face me across the divide between two cars.\r\n\r\n//　連結器を越え、一つ前の車両に乗り移ったところで。\r\n//　雪車町は逃走をやめ、俺を見ている。\r\n\r\n//　胸の<RUBY text='ざわめき'>戦慄</RUBY>が酷くなった。\r\n  For an instant, my heart stops beating.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18272,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120520a00'>\r\n//（いかぬ）\r\n(Stop him.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18396,
+  "en": "\r\n//　止めろ。\r\n//　止めるのだ。\r\n\r\n//　――何を？\r\n//　\r\n//　否。そんな事はどうでもいい。\r\n\r\n//　とにかく、<RUBY text='・・'>それ</RUBY>を、止めるのだ。\r\n//　今すぐ！\r\n  Stop him, before he does... what?\r\n\r\n  It doesn't matter. Stop him. Now!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18706,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120530a12'>\r\n//「けっ――」\r\n\"Heh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18837,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120540a12'>\r\n//「けッ、ケェーーーーーッ!!」\r\n\"HEHEEEEEEEEEE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19001,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120560a00'>\r\n//「雪車町!!」\r\n\"SORIMACHI!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19128,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mc03/0120570a12'>\r\n//「ヒハハハァーーーーーーーッッ!!」\r\n\"HAHAHAHAHAHA!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19300,
+  "en": "\r\n//　奇態な笑声が、遠くなる。\r\n//　いや、声だけではなく。\r\n\r\n  His cackles grow distant. Sorimachi is receding, though neither of us moves. His car is pulling away!\r\n\r\n//　その姿も。\r\n//　俺は下がってなどいない。前に進んでいる。なのに\r\n//雪車町は遠ざかる。\r\n\r\n//　列車が離れていた。\r\n//　雪車町の乗る車両と、俺の乗る車両とが。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19731,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0120580a00'>\r\n//（連結器を外した!?）\r\n(He detached us from the engine!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19891,
+  "en": "\r\n//　ようやくに現状事態を把握し。\r\n//　そして俺の困惑は更に深まった。\r\n  My confusion deepens. What could be the purpose of this act?\r\n\r\n//　こんな事をする意図が計り知れない。\r\n//　俺と大鳥主従が乗った車両は機関車から切り離され、\r\n//徐々に速度を落としている――だから、何なのか。\r\n\r\n  Without the engine to pull us, our section of the train has begun to slow.\r\n\r\n  But that will only delay us, not harm us. We are traveling across flat terrain, not climbing a hill with another train behind us. That might indeed be cause for disaster, but as is, my only concern is the bridge ahead.\r\n\r\n//　不都合には違いないが、全く致命的な窮地とは言え\r\n//ない。\r\n//　何故……こんな、子供の悪戯のような真似を？\r\n\r\n//　今がまさに急勾配の坂道を登っている最中で、後方\r\n//からは別の機関車が迫っているような時でもあったの\r\n//なら、この列車は滑落したすえ凄惨な衝突事故を起こ\r\n//したことであろうが。そんな状況ではないのだ。\r\n\r\n//　列車はのどかな平地を走り抜け、再び橋に差し掛か\r\n//ろうとするところだった。\r\n//　先行する雪車町らの車両は、こちらを捨てたせいか\r\n//速度を増し、既に橋の半ばまで達している。\r\n  Sorimachi, the locomotive freed of our weight, has already pulled a good distance away. His train is halfway across the bridge, proving that it still stands.\r\n\r\n  Could he mean to destroy it after he's crossed? That would take a heavy cannon or a great deal of explosive, and I see no evidence of any such ordnance.\r\n\r\n//　……橋は安全だ。\r\n//　この状況を仕組んだ当の本人が、今それを証明して\r\n//いる。\r\n\r\n//　まさか……自分の列車が渡り終えた後で、橋を破壊\r\n//しようとでも云うのだろうか。\r\n//　それには相当量の爆弾、あるいは砲門が必要となる\r\n//筈だが、そんなものは影も形も見えない。\r\n\r\n//　わからなかった。\r\n//　……わからぬままに、俺は忍び寄る破滅の足音だけ\r\n//を聞いている。\r\n  It makes no sense... yet I hear the footsteps of our end fast approaching. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22216,
+  "en": "\r\n  Sorimachi crosses the bridge just as we reach the near edge.\r\n\r\n//　先行車が橋を渡り終えた。\r\n//　入れ違いに、<RUBY text='こちら'>後続</RUBY>が橋へ近付く。\r\n\r\n//　何も起こらない。\r\n//　雪車町は何もしない。\r\n  Nothing happens. He makes no move―<K>save to lift his arm and point to the sky.\r\n\r\n//　ただ軽く、腕を上げて。\r\n//　空に――――\r\n",
+  "pt": ""
+ }
+]

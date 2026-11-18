@@ -1,0 +1,552 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　鬚切が裏参道へ飛び込む。\r\n//　わずか、しかし確実に遅れて、俺が続く。\r\n  Higekiri streaks up the underground passage. I give chase―only a moment behind, but behind all the same.\r\n\r\n//　逃げ道は封じていた――最初の段階では。\r\n//　敵の曲芸戦術を封じ、追い詰めに掛かった時点でも、\r\n//唯一の出入口は俺の背後にあった筈だった。\r\n  From the beginning of the battle, throughout his acrobatic assault, and even after I pulled him down, I had my back to the chamber's only exit.\r\n\r\n//　それが――いつ！\r\n//　\r\n//　……あの間合の取り合いの最中か!?\r\n  So when did he steal my position!? Was it while we were dueling for range!?\r\n\r\n//　いかにも最後の反撃を企てているように見せかけな\r\n//がら、その実、退路の確保に動いていたのか!!\r\n  So the whole time he seemed to be planning a counterattack, he was actually securing his avenue of escape!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1224,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0300010a00'>\r\n//（戦局……！）\r\n(My objective...!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1361,
+  "en": "\r\n//　その通りだった。\r\n//　戦闘に没頭し、俺はそれを失念していた。\r\n  The shogun is right. I forgot that our victory conditions were different.\r\n\r\n//　相手を迅速に仕留める必要があったのは俺だけ。\r\n//　敵はこの地下空間から生きて逃れさえすれば、勝利\r\n//条件を満たせるのだ！\r\n  I was the one who needed a quick kill. He needed only to escape!\r\n\r\n//　それを忘れるとは。\r\n  To forget something so vital...\r\n\r\n//　いや……むしろ忘れなかった大将領が凄まじいのか。\r\n//　名も知れぬ者に襲われ、命を危うくしている状況で、\r\n//かくも冷静さを保つとは。\r\n  No, perhaps it is the shogun who should be praised for retaining such presence of mind under fire. So this is what happens when a rank amateur challenges a battle-hardened veteran.\r\n\r\n\r\n//　これが青二才と古強者の差か。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2304,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0300020a01'>\r\n//《……地上に出るっ！》\r\n《We're almost out!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2464,
+  "en": "\r\n//　歯軋りするかのような、村正の<RUBY text='こえ'>金打声</RUBY>。\r\n  Muramasa's report warns of impending doom.\r\n\r\n//　間に合わない。\r\n//　足利護氏を外に出してしまう。\r\n  I can't catch him in time. Moriuji will break free to the surface, and his elite guard will flock to defend him. My mission will become <I>impossible</I>㉓to complete.\r\n\r\n//　地上では精鋭武者の一団が主君を出迎える。\r\n//　その守りを破って討つのは……不可能。\r\n\r\n//　そうなればどうなる。\r\n  And then what?\r\n\r\n//　俺の事はいい。\r\n//　だが、親王は!?\r\n  Forget about me! What will that mean for the prince!? For my father!?\r\n\r\n//　――<RUBY text='ちち'>養父</RUBY>は!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3229,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0300030a00'>\r\n//「く……おおっ!!」\r\n\"Kuh―  OHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3370,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300040a05'>\r\n//「な」\r\n\"Wha―\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300050a05'>\r\n//「何だ……これは……」\r\n\"What... is this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3626,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0300060a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3750,
+  "en": "\r\n//　<RUBY text='シ'>屍</RUBY>が溢れていた。\r\n  We emerge into a sea of corpses.\r\n\r\n//　兵士。\r\n//　武者。\r\n//　侍臣。\r\n//　神官。\r\n  Footsoldiers. Musha. Priests. Attendants.\r\n\r\n//　地上にいた幕府の人々。八幡宮の人々が。\r\n//　分け隔てなく、この上もなく平等に、死という同一\r\n//の運命を享受して在る。\r\n  There is no distinction between soldier and civilian. All have been granted the same exact fate, as if the final judgment of an impartial god.\r\n\r\n//　生命、存在せず。\r\n//　静かになだらかに、平穏な世界が現出していた。\r\n\r\n//　ここは氷原だ。\r\n//　極北の荒野だ。\r\n\r\n//　始まりと終わりが共存する。\r\n//　不動不変の<RUBY text='とじたせかい'>三次元</RUBY>。\r\n  This is a frozen tundra, a blasted desert. Nothing moves or breathes in this place. Beginning and end are synonymous here, a closed world from which nothing can escape.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4746,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0300070a01'>\r\n//《……御堂》\r\n《...Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4882,
+  "en": "\r\n//　乾き切った声で、劒冑が俺に注意を促した。\r\n  Muramasa's hushed voice draws my attention to the center of the courtyard.\r\n\r\n//　視界のほぼ中央。\r\n//　――貴人を運ぶ<RUBY text='ぎっしゃ'>牛車</RUBY>が、鎮座している。\r\n  There, a liveried carriage sits silent and still. Its splendid decor is absurd amid the carnage.\r\n\r\n//　滑稽なほど場違いな代物。\r\n//　それを示して、村正が<RUBY text='・・・・・・'>何を告げたい</RUBY>のか、既に痛い\r\n//ほど悟っていた。\r\n  I know what Muramasa is trying to tell me. I knew the moment I laid eyes on this apocalyptic scene.\r\n\r\n//　この光景を見たその刹那に、もうわかっていたのだ。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5636,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0300080a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5754,
+  "en": "\r\n//　<RUBY text='すだれ'>簀垂</RUBY>が揺れる。\r\n  The bamboo curtains at the rear of the carriage part.\r\n\r\n//　最初に、白い指先が――\r\n//　続いて艶やかなる容姿が。\r\n　First to emerge is a lily-white hand...<K> and then the rest of her slender, nymphlike form.\r\n\r\n//　その奥から現れた。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6097,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300090a05'>\r\n//「そなたは……長庚局」\r\n\"You're Chachamaru's handmaiden, Yutsuzu!\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300100a05'>\r\n//「ここで何をしている。何があった。\r\n//　……そなたの主人はどうした!?」\r\n\"What are you doing here? What happened to my men? Where is your mistress!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6538,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300110a14'>\r\n//「若宮堂の舞の袖。\r\n//　<RUBY text='しず'>静</RUBY>の<RUBY text='おだまき'>苧環</RUBY>繰り返し」\r\n\"A dance before the child-god's shrine. The silent flowers look on in envy.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300120a14'>\r\n//「返せし人を偲びつつ。\r\n//　……と」\r\n\"And think of those who will never return.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7000,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300130a14'>\r\n//「すっかり<RUBY text='まい'>闘戦</RUBY>も果ててからやって来るとは、\r\n//無粋の謗りを免れまいぞ。\r\n//　こちらとしても甲斐がない」\r\n\"Quite rude for the guest of honor to arrive only after the last dance is through. And I had such fine, strong partners, too. Now I'm afraid they've all left the stage.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300140a14'>\r\n//「せっかく、よき<RUBY text='もの'>兵</RUBY>を相手に心楽しく舞えた\r\n//というのに。\r\n//　しかし……元より芸とは一輪の花、人目に\r\n//触れず儚く散るも定めの内というものか」\r\n\"But perhaps it is the nature of art to be fleeting. Like a delicate blossom caught on the wind, carried off before man can lay eyes on its beauty.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300150a14'>\r\n//「うむ。花は惜しまず、また咲かせば良い。\r\n//　今度はおまえを<RUBY text='とも'>対手</RUBY>として、前にもまさる\r\n//華やかな舞を演じてくれよう」\r\n\"In which case, we need only let the flowers bloom once more. This time, you shall be my partner, and our dance shall put to shame all that has come before.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300160a14'>\r\n//「嫌とは言うまいな……景明！」\r\n\"You'll join me for this number... won't you, Kageaki!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8513,
+  "en": "\r\n//　大将領には目もくれず。\r\n//　その<RUBY text='かんばせ'>顔貌</RUBY>は真っ直ぐ、俺に向けられた。\r\n  She does not even acknowledge the shogun's presence. Her words, her gaze, are for me alone.\r\n\r\n//　光。\r\n  Hikaru.\r\n\r\n//　……二年ぶりになる。\r\n//　生身の姿を、こんなにも近く見るのは。\r\n  This is the first time in two years that I have seen her so close and unarmored.\r\n\r\n//　その時間、その年頃を思えば意外なほど、光の姿形\r\n//は記憶の中のそれと違いが少なかった。\r\n//　俺に一種の失調感を覚えさせるほどであった。\r\n  Two years is a long time for a girl her age, yet her features are nearly the same as when I last saw her in our family shrine.\r\n\r\n//　何故こんなにも変わりがないのか。\r\n//　何故こんなにも昔日のままなのか。\r\n  How can she be so unchanged, so familiar?\r\n\r\n//　光の<RUBY text='ほし'>運命</RUBY>は、凄烈なまでの変貌を遂げているという\r\n//のに！\r\n  How, when madness has twisted her heart so cruelly!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9629,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0300170a00'>\r\n//「ひか――」\r\n\"Hika―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9754,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300180a05'>\r\n//「応えぬかッ！」\r\n\"Answer me, woman!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9895,
+  "en": "\r\n//　俺の小声は、別方向の怒声にかき消された。\r\n//　ん？という顔で光がそちらへ視線を向ける。\r\n  A furious roar drowns out my whispered call. Hikaru turns her head with a look of surprise, as if noticing for the first time the musha standing there.\r\n\r\n//　黙殺された格好の大将領であった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10251,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300190a14'>\r\n//「何か。\r\n//　急ぎの用件でないなら、家族の対話に割り\r\n//込まないで頂きたい」\r\n\"What? Unless you have some urgent business, I'd ask that you not disturb our family time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10541,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300200a05'>\r\n//「……き、\r\n//　貴様はこの状況が見えておらんのか!?」\r\n\"You―  Do you not have eyes in your head!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10759,
+  "en": "\r\n//　俺の言葉を遮られたことが不興らしい光と、困惑を\r\n//激昂に繋げつつある六波羅元帥。\r\n//　両者の世界は悲しいほど隔絶していた。\r\n  Hikaru, annoyed by the interruption, and the shogun, confusion quickly turning to rage. Their worlds are so distant from each other as to invite pity, like watching two people try to exchange information while separated by a sheer cliff face a mile high.\r\n\r\n//　断崖絶壁の上と下。\r\n\r\n//　だが――上の光には護氏とそれを取り巻くすべてが\r\n//見えるが、下の護氏には漠たる空しか見えないのだ。\r\n  But while Hikaru can see the whole of the shogun's world from her perch atop the mountain wall, Moriuji, looking up, can see nothing but empty sky.\r\n\r\n//　大将領は<RUBY text='・・・・・・・'>いま必要なこと</RUBY>を理解していない。\r\n  He can't see what he most desperately needs to see.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11720,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300210a05'>\r\n//「長庚とやら！\r\n//　この有様の中にいて、何も見ておらぬこと\r\n//はあるまい」\r\n\"You were in the middle of all this, Yutsuzu! Don't tell me you didn't see what happened!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12015,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300220a05'>\r\n//「予の問いに答えよ！\r\n//　これはいかなる仕儀か!?」\r\n\"Now answer me! Who did this!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12216,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300230a14'>\r\n//「長庚というのはな、世を忍ぶ仮の名だ。\r\n//　夕暮れの星という意味らしい。人に付けて\r\n//貰ったものだが、まぁまぁ気に入っている」\r\n\"Yutsuzu,\" Hikaru explains to me, \"is the name I've been going by recently. I'm told it means 'the twilight star.' An acquaintance gave it to me. I've grown rather fond of it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12666,
+  "en": "\r\n//　まず俺の方を見て、光は懇切にそう解説した。\r\n//　それから大将領へ向き直る。\r\n  Once satisfied that I'm in the loop, Hikaru turns back to the red-faced shogun.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12875,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300240a14'>\r\n//「おれがやった」\r\n\"I did it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12999,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300250a05'>\r\n//「何をだ!?」\r\n\"Did what!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13126,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300260a14'>\r\n//「むぅ。\r\n//　会話になっているようでなっていない」\r\n\"Hmm. We seem to be having some difficulty communicating.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13346,
+  "en": "\r\n//　何故かわざわざこちらに向かって光は呟いた。\r\n  This, again, is directed at me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13461,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300270a14'>\r\n//「この者らを斬ったのは誰か、問うたのでは\r\n//ないのか？\r\n//　それがおれだと言っている」\r\n\"You asked who slew these men. I did.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13713,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300280a05'>\r\n//「……正気か？　貴様」\r\n\"...Have you taken leave of your senses?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13885,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300290a14'>\r\n//「やにわにその言い草は失敬であろう」\r\n\"I do wish people would stop asking me that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14073,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0300300a00'>\r\n//「……当然の言葉だ」\r\n\"...What do you expect?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14225,
+  "en": "\r\n//　彼は知らないのだから。\r\n//　まだ気付いていないのだから。\r\n  He doesn't know. It hasn't yet dawned on him what he is facing.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14391,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300310a14'>\r\n//「おまえに言われると傷つく……」\r\n\"That hurts, coming from you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14560,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300320a05'>\r\n//「予を愚弄する気かッ！」\r\n\"You mock me!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14709,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300330a14'>\r\n//「困った。難儀な男だ」\r\n\"What a troublesome man.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14856,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0300340a15'>\r\n//《どちらかと言うなら、向こうが正しい気も\r\n//するのだが》\r\n《I sympathize more with him, to be honest.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15101,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300350a14'>\r\n//「なぜだ？」\r\n\"But why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15218,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300360a05'>\r\n//「貴様がやった、だと……？\r\n//　夢物語も大概にしろ。貴様の何処にそんな\r\n//力があると抜かすか！」\r\n\"<I>You</I> did it? Is that a joke!? Where would you get the power to do this!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15536,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300370a14'>\r\n//「それは無論――」\r\n\"Well, obviously I―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15674,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300380a14'>\r\n//「…………。\r\n//　さっきから、おれ一人だけ口が忙しいぞ」\r\n\"...Why am I the one doing all the talking?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15889,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0300390a15'>\r\n//《人の相手をいちいち、<RUBY text='・・'>まめ</RUBY>にするからだ。\r\n//　些事は適当にいなしておけ》\r\n《It's because you take every question so seriously. Try to ignore the little things now and then.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16240,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300400a14'>\r\n//「むぅ。しかし無礼は好かん。\r\n//　するのもされるのも」\r\n\"But I don't want to be rude. Do unto others, and all that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16468,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300410a05'>\r\n//「貴様、長庚――」\r\n\"Damn you, woman! If you don't―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16627,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300420a14'>\r\n//「……仕方もないな」\r\n\"...Oh, all right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16765,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300430a14'>\r\n//「先に<RUBY text='・・・'>そっち</RUBY>から済ませることにしよう。\r\n//　六衛大将領、足利護氏卿」\r\n\"I'll take care of this piece of business first. Rikue Shogun, Ashikaga Moriuji!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17065,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300440a05'>\r\n//「なにィ……？」\r\n\"What...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17198,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300450a14'>\r\n//「おまえに会いに来た用向はほかでもない。\r\n//　この光が、覇を問うためだ！」\r\n\"I have come for one reason. To speak of conquest!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17447,
+  "en": "\r\n//　ゆるりと伸ばされる腕。\r\n//　微笑む口元。\r\n  She raises her arm, the motion slow and graceful, and from her smiling lips flow the words of the covenant.\r\n\r\n//　紡がれる誓句。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17663,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300460a14'>\r\n//「鬼に逢うては鬼を斬る」\r\n<center>\"Where there are demons,\r\nI slay them.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300470a14'>\r\n//「仏に逢うては仏を斬る」\r\n<center>\"Where there are saints,\r\nI slay them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17999,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300480a05'>\r\n//「……白銀の劒冑……？」\r\n\"A silver tsurugi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18154,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300490a05'>\r\n//「貴様――よもや、」\r\n\"You... it can't be...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18306,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300500a14'>\r\n//「ツルギの理」\r\n<center>\"Mine is the Way...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18444,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300510a14'>\r\n//「ここに在り!!」\r\n<center>\"...of the Sword!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18582,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300520a05'>\r\n//「――銀星号、だと!?」\r\n\"Ginseigo!?\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300530a05'>\r\n//「貴様があの殺戮魔……？\r\n//　では」\r\n\"You're the silver demon who's been slaughtering my men!? But that means...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18942,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300540a05'>\r\n//「……では、\r\n//　貴様を擁していたのは、」\r\n\"The one who's been hiding you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19135,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300550a14'>\r\n//「大将領！\r\n//　そこらへんの細かいことは後に回せ！」\r\n\"Stop! This is no time to concern yourself with trifles!\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300560a14'>\r\n//「おまえは今、己の<RUBY text='もとい'>基</RUBY>を光に問われている」\r\n\"Your very existence is being called into question!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19580,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300570a05'>\r\n//「何……？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19703,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300580a14'>\r\n//「足利護氏。\r\n//　天下に武を布かんとする者。光と同じ道を\r\n//求める者」\r\n\"Ashikaga Moriuji, you who would conquer all of Yamato. Our paths, I believe, are one and the same.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300590a14'>\r\n//「覇道の先達に対し、おれは礼節を示そう。\r\n//　その影を拝して教えを乞おう」\r\n\"And so it is with the utmost respect that I seek your wisdom as an elder disciple of might.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300600a14'>\r\n//「覇とは如何に！」\r\n\"What makes a conqueror!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20410,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300610a05'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20534,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300620a14'>\r\n//「答えられぬ道理は無かろう」\r\n\"Surely you must have an answer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20698,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300630a05'>\r\n//「……はっ。\r\n//　予とあろう者が、日に二度も下民に<RUBY text='みち'>大道</RUBY>を\r\n//問われるとはな！」\r\n\"...Hah! That I would find my path questioned by the lowborn twice in one day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21015,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300640a05'>\r\n//「覇を知りたいか、銀色の<RUBY text='ケモノ'>化物</RUBY>！」\r\n\"You wish to know of conquest, creature!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21233,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300650a14'>\r\n//「うむ！」\r\n\"I do!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21344,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300660a05'>\r\n//「ならば知れ！\r\n//　……奪い取ることだ!!」\r\n\"Then know that a conqueror takes what he wants!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21551,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0300670a00'>\r\n//「光!?」\r\n\"Hikaru!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21670,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300680a05'>\r\n//「予は天下が欲しい。\r\n//　だから、奪うのよ」\r\n\"I desire dominion. Therefore I shall claim it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21880,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300690a05'>\r\n//「このようにしてな！\r\n//　貴様の首など要らぬが、予の道に立ち塞が\r\n//るのであれば刈り取るほかにあるまいて」\r\n\"Just as I do your life! A worthless trophy, but you forfeited your head when you stood in my way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22232,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0300700a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22366,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300710a05'>\r\n//「鬚切の秘太刀は獲物の滓も残さぬ」\r\n\"Once again, Higekiri's ultimate strike leaves not even atoms behind.\" \r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300720a05'>\r\n//「幽鬼よろしく闇夜に潜んで血を啜っている\r\n//分には見逃してもくれようが……\r\n//　予の前にぬけぬけと姿を見せるとは、増上\r\n//慢にも程があろうぞ！　戯けめ!!」\r\n\"You should have stayed in the shadows, hunting the weak like the fiend you are. What delusion of grandeur made you think that you could show yourself before me? Fool!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23068,
+  "en": "\r\n//◆顔グラなし\r\n//【光】\r\n//　\r\n<voice name='光' class='光' src='voice/md01/0300730a14'>\r\n//　　　　　　「なるほど。そうか」\r\n<center>\"Yes, I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23255,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300740a05'>\r\n//「……ッ!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23374,
+  "en": "\r\n//◆顔グラなし\r\n//【光】\r\n//　\r\n<voice name='光' class='光' src='voice/md01/0300750a14'>\r\n//　「覇とは、即ち強奪。\r\n//　　異論の余地は欠片もない。至当である」\r\n<center>\"A conqueror㉗<I>takes.</I> Conquest is plunder. Indeed, nothing could be more true.\"\r\n\r\n//◆顔グラなし\r\n//【光】\r\n//　\r\n<voice name='光' class='光' src='voice/md01/0300760a14'>\r\n//　　　　　「この光も全く賛同する！」\r\n<center>\"A fine answer, Ashikaga Moriuji!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23889,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300770a05'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24013,
+  "en": "\r\n//◆顔グラなし\r\n//【光】\r\n//　\r\n<voice name='光' class='光' src='voice/md01/0300780a14'>\r\n//　「おまえはひたすらに大和が欲しいのだな。\r\n//　　自分自身の存在に懸けて求めるか！」\r\n<center>\"So your desire for Yamato is so strong, so insistent, that you would devote yourself body and soul to its conquest!\"\r\n\r\n//◆顔グラなし\r\n//【光】\r\n//　\r\n<voice name='光' class='光' src='voice/md01/0300790a14'>\r\n//　　「そこまで、この国を欲してやまぬと」\r\n<center>\"You truly must yearn to make this land yours!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24605,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300800a05'>\r\n//「……ふん。\r\n//　別に大和でなくとも構わぬ」\r\n\"...Hmph. I have no particular desire for Yamato.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24817,
+  "en": "\r\n//◆顔グラなし\r\n//【光】\r\n//　\r\n<voice name='光' class='光' src='voice/md01/0300810a14'>\r\n//　　　　　　　「……？」\r\n<center>\"...Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24988,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300820a05'>\r\n//「たまたま大和に生まれたから、大和に覇を\r\n//唱えるだけの話よ。\r\n//　別の国でも構いはせなんだ」\r\n\"I chose Yamato because I was born here. Any other land would have done just as well.\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300830a05'>\r\n//「予の覇業を打ち立てられる場でさえあれば\r\n//――」\r\n\"All I needed was a place to raise my banner and spread my might.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25538,
+  "en": "\r\n//◆顔グラなし\r\n//【光】\r\n//　\r\n<voice name='光' class='光' src='voice/md01/0300840a14'>\r\n//　　　　　　　「ちょっと待て」\r\n<center>\"Wait a minute.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25725,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300850a05'>\r\n//「……何処に隠れた……？\r\n//　姿を見せよ、凶賊!!」\r\n\"Now, where are you hiding? Show yourself, knave!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25945,
+  "en": "\r\n//【光】\r\n//　\r\n<voice name='光' class='光' src='voice/md01/0300860a14'>\r\n//<FONT size='24'>「それでは、愛が無いだろうがッッ!!」</FONT>\r\n<center>\"YOU FORGOT THE LOVE, FOOL!!!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26155,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300870a05'>\r\n//「おォッ!?」\r\n\"Goh!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26277,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0300880a00'>\r\n//「なっ……くぅ!!」\r\n\"Wha―kuh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26413,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300890a14'>\r\n//「おのれ……がっかりさせてくれおって！\r\n//　真面目に聞いていたこっちが馬鹿を見たで\r\n//はないか！」\r\n\"How dare you disappoint me like this!? I feel like an idiot now because of you!\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300900a14'>\r\n//「おまえの騙る覇は覇にあらず！」\r\n\"The conquest you speak of is nothing of the sort!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26906,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300910a05'>\r\n//「む……無傷だと!?\r\n//　馬鹿なッ！」\r\n\"No damage!? Impossible!\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300920a05'>\r\n//「貴様、何者――」\r\n\"What㉓<I>are</I>㉓y―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27223,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300930a14'>\r\n//「人の話はちゃんと聞け!!」\r\n\"I'M TALKING HERE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27369,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0300940a05'>\r\n//「ごはァ!?」\r\n\"Gwah!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27492,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300950a14'>\r\n//「覇とは強奪。\r\n//　そこまでは正しい」\r\n\"The conqueror takes. That much is correct.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27680,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300960a14'>\r\n//「だが、奪うとは何だ？\r\n//　――欲し、求めるから奪うのであろう！」\r\n\"But㉒<I>why</I>㉑does he take? Because he is driven by desire!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27932,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300970a14'>\r\n//「求めるとは？\r\n//　――愛しているから求めるのだ！」\r\n\"And from where does desire come? From love!\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300980a14'>\r\n//「愛し、欲し、奪う！\r\n//　それが覇道!!」\r\n\"Love, desire, take! That is the Way of the Conqueror!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28335,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0300990a14'>\r\n//「足利護氏！\r\n//　おまえは最初の一歩から間違っている!!」\r\n\"You, Ashikaga Moriuji, left the path with your very first step!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28570,
+  "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0301000a05'>\r\n//「がふッ……!?」\r\n\"Gah...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28701,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0301010a14'>\r\n//「最初に愛が無ければ欲ではなく覇でもない！\r\n//　虚栄に過ぎん！」\r\n\"Without love, there is no desire! No conquest! There is only your own empty glory!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28968,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0301020a14'>\r\n//「おまえはッ！\r\n//　単に！『天下を取る、かっこいい俺様』に\r\n//陶酔したいだけではないかぁ!!」\r\n\"<I>You</I> just want people to point to you and say―look at the big man, he's so cool―<br>YOU UTTER FAILURE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29304,
+  "en": "\r\n//　鬚切は――\r\n//　大将領足利護氏は、そうして<RUBY text='・・・・・・・・・・'>何処かへ飛んでいった</RUBY>。\r\n  And then the shogun, Ashikaga Moriuji... vanishes over the horizon.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29537,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0301030a00'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29667,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0301040a01'>\r\n//《………………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29807,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0301050a14'>\r\n//「ふんっ。\r\n//　下らぬ手間を費やした」\r\n\"Hmph! Well that was a complete waste of time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29998,
+  "en": "\r\n//　不機嫌に吐き捨てる銀星号。\r\n//　両腕を組み、さも忌々しげな様子だ。\r\n  Arms crossed, shoulders bristling, Ginseigo is the very picture of displeasure.\r\n\r\n//　意に染まぬ問答をした――その程度の余韻しか窺え\r\n//ない。\r\n//　<RUBY text='・・'>戦い</RUBY>の名残りを示すものなど、まるで無かった。\r\n  In her bearing, there is only frustration―nothing, however small, to suggest that she fought a battle here.\r\n\r\n//　実力の程は先刻思い知らされている、鬚切――上代\r\n//の大名物と練達の仕手から成る強剛の武者を打倒して\r\n//おきながら。\r\n//　息一つ乱れていない。\r\n  She defeated the legendary Higekiri and its veteran pilot, enemies against whom I was struggling moments ago... and she isn't even breathing hard.\r\n\r\n//　銀星号。\r\n  Ginseigo...\r\n\r\n//　この魔物、\r\n//　この<RUBY text='ひかる'>銀星号</RUBY>を、俺は倒さねば。\r\n//　\r\n//　……凍り固まる脳漿で、最低限の状況判断をする。\r\n  This monster shaped like Hikaru is the enemy I must defeat. My petrified brain understands that much, at least.\r\n\r\n//　しかし、勝てるのか。\r\n//　余りにも桁が違い過ぎるこの怪物に、勝てるか。\r\n  But can I win? Do I have any hope against her might?\r\n\r\n//　俺の力で――\r\n  Is my power enough to―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31422,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0301060a01'>\r\n//《……御堂》\r\n《...Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31558,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0301070a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31682,
+  "en": "\r\n//　ふと、寄り添うような温もりを肌に覚えた。\r\n//　不思議に頼もしい感触。\r\n  A warmth envelops my body. I find the sensation encouraging.\r\n\r\n//　俺は独りではない。\r\n//　……そうだ。そうだった。\r\n  She's right. I'm not alone.\r\n\r\n//　やれる。\r\n//　俺は――俺達は戦える！\r\n  Together, we can fight!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32061,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0301080a00'>\r\n//「光！」\r\n\"Hikaru!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32180,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0301090a14'>\r\n//「つまらん事で待たせてしまったな」\r\n\"Sorry to keep you waiting through that nonsense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32370,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0301100a14'>\r\n//「劒冑共々、今日は調子が良いと見える。\r\n//　何よりのことだ」\r\n\"I see both you and your tsurugi are in top form today. Excellent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32614,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md01/0301110a14'>\r\n//「さぁ、愉しもう景明！\r\n//　奪い合い求め合い、互いを味わい尽くすと\r\n//しよう！」\r\n\"Now come, let us dance, Kageaki! We shall each take from the other what we most desire, and taste the sweet, sweet nectar of conquest!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32955,
+  "en": "\r\n//　先程の憂さなどはや忘れた様子で、嬉々と云う光。\r\n//　闘争を睦み合いのように語って求めるその姿は――\r\n//既に遠い。\r\n  Her disappointment has vanished, subsumed in joy. \r\n\r\n  The mind of this creature, who speaks of battle as though it were coitus... is, alas, unknowable.\r\n",
+  "pt": ""
+ }
+]

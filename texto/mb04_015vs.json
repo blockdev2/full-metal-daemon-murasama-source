@@ -1,0 +1,397 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　裏切り。否定。\r\n//　――それが湊斗景明の、綾弥一条への回答なら。\r\n\r\n//　俺はこの答えを、残り全ての力でお前に返す。\r\n  If this is to be my answer to Ichijo―this rejection, this betrayal―then I must deliver it with all of the strength I still possess.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 537,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/015vs0010a01'>\r\n//《御堂。注意して。\r\n//　長くは保たない》\r\n《Mido, be careful. We don't have much left.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 749,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0020a00'>\r\n//「承知している！」\r\n\"I'm aware!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 888,
+  "en": "\r\n//　劒冑が言っているのは<RUBY text='カロリー'>熱量</RUBY>のことだ。\r\n//　既に銀星号と一戦を交えた後。合当理を稼動させる\r\n//エネルギーは小匙数杯分ほどの残量もない。\r\n  She means my heat reserves, of course. The battle with Ginseigo has drained them nearly dry. I'll have to end this quickly.\r\n\r\n//　短期決戦の必要があった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1301,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0030a00'>\r\n//「……ち！」\r\n\"...Tch!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1428,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/015vs0040a01'>\r\n//《真っ向からの<RUBY text='ちからくらべ'>剛力勝負</RUBY>は向こうに有利よ、\r\n//御堂！》\r\n《We're not winning a brawl!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1681,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0050a00'>\r\n//「そのようだ」\r\n\"So it seems.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1816,
+  "en": "\r\n//　今の打ち合いは四分六分でこちらが打ち負けていた。\r\n//　危うく、押し切られる事は防いだが。\r\n  When we clashed just now, she overpowered me by fifty percent or more. Fortunately, I managed to keep her sword from reaching my armor.\r\n\r\n//　本来なら村正も力では劣らない。\r\n//　が、今は条件が悪過ぎる。\r\n  As Muramasa warned, our present state is far from optimal.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2261,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0060a02'>\r\n//《湊斗……さん……っ！》\r\n《Why!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2408,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0070a00'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2532,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0080a02'>\r\n//《あなたは――――\r\n//　…………どうしてっ！》\r\n《Why are you doing this!?》\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0090a02'>\r\n//《認めてくれてるんだと、思っていたのに！》\r\n《You said I was right! Didn't you!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2924,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0100a00'>\r\n//《認めている。綾弥一条。\r\n//　幾度でも繰り返す》\r\n《I did. And I'll say it again.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0110a00'>\r\n//《悪を憎み、無くそうと願うお前は正しい。\r\n//　決して間違っていない》\r\n《You are right to hate evil, Ichijo. And to fight against it.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3387,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0120a02'>\r\n//《なのにっ！》\r\n《Then why!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3524,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0130a00'>\r\n//《――それでも、戦いには罪が有る。\r\n//　正義の一語を冠するには値しない》\r\n《Because killing is always a sin! The killer's work is never good, or just!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3810,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0140a02'>\r\n//《違うっ……！》\r\n《You're wrong!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3953,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0150a02'>\r\n//《悪を討つことが正義でないなら……\r\n//　正義は何処にも顕れない！》\r\n《How else are you supposed to bring demons to justice, if you're not allowed to kill them!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4246,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0160a02'>\r\n//《ほかにどうしようがある!?\r\n//　<RUBY text='サティヤーグラハ'>非暴力抵抗運動</RUBY>でもやれって言うんですか\r\n//……》\r\n《What are we supposed to do? Huh!? Follow in Gandhi's footsteps!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4576,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0170a02'>\r\n//《六波羅にそんなのが通用するとでも!?》\r\n《You think that'll stop Rokuhara!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4771,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0180a00'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4895,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0190a02'>\r\n//《するわけがない！\r\n//　戦わなければ何も変わらないっ！》\r\n《That's crazy! There's only one way to change things! Fight!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5142,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0200a02'>\r\n//《暴力を振りかざす奴等は、同じ暴力で殴り\r\n//倒されない限り反省なんかしない！》\r\n《Scumbags who use their power for evil don't stop until someone takes them down!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5442,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0210a00'>\r\n//《その通りだ……》\r\n《...Yes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5582,
+  "en": "\r\n//　全く正しい。\r\n//　一条の言う事は全くの真実だ。\r\n  Once again, Ichijo, you are right.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5704,
+  "en": "《And that's why―》",
+  "pt": ""
+ },
+ {
+  "offset": 5735,
+  "en": "《Even so―》",
+  "pt": ""
+ },
+ {
+  "offset": 5759,
+  "en": "\r\n//《だから》\r\n《And that's why―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5813,
+  "en": "《That is justice!》",
+  "pt": ""
+ },
+ {
+  "offset": 5843,
+  "en": "《That isn't justice!》",
+  "pt": ""
+ },
+ {
+  "offset": 5876,
+  "en": "\r\n//《それが正義だ！》\r\n《That is justice!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5941,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0260a00'>\r\n//「くっ……」\r\n\"Kuh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6067,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0270a02'>\r\n//《正義でないなら――何だと！》\r\n《What is it then!? If it isn't justice!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6256,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0280a02'>\r\n//《何だって言うんですか！》\r\n《What do you call it!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6422,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0290a00'>\r\n//《……》\r\n《......》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0300a00'>\r\n//《悪だ。\r\n//　悪を討つものも、また悪でしかない》\r\n《I call it evil. Those who kill demons are themselves demons.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6774,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0310a02'>\r\n//《ッ……》\r\n《Ngh...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6901,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0320a00'>\r\n//《いや……\r\n//　悪で<RUBY text='・・・・・・・・'>なくてはならない</RUBY>》\r\n《That is how it㉓<I>must be.</I>》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7139,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0330a02'>\r\n//《あなたは、狂ってるっ！》\r\n《You're insane!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7298,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0340a00'>\r\n//《まさに狂っている。\r\n//　だがそれは、戦いそのものが狂った論理の\r\n//産物だからだ》\r\n《Yes! But so is anyone who takes up the sword! All bloodshed, all battle is born of madness!》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0350a00'>\r\n//《善人と云い、悪人と云うも、それは人間の\r\n//一面に過ぎない。\r\n//　一面しか持たない人間などいない》\r\n《No person is only good or evil. No one is ever just the part of them we see!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7931,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0360a00'>\r\n//《そんな事は誰もが知っている。\r\n//　……なのに人は対立者を己の知る一面のみ\r\n//をもって悪人と断定し、争い、殺す》\r\n《We know this truth. All of us. And still we call our enemies demons, and kill them based solely on one facet of their being.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0370a00'>\r\n//《そうしなくては、殺し合いという絶対的な\r\n//矛盾を許容できないからだ！\r\n//　もし欺瞞を捨て、戦いの実相をそのままに\r\n//受け入れるなら――》\r\n《We do this because it's the only way to protect ourselves from the guilt!\r\n  If you wish to stop living a lie, if you wish to face the truth―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8767,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0380a00'>\r\n//《狂うしかない。\r\n//　善も悪も、敵も味方も、隔てなく殺す悪鬼\r\n//たるを自ら認める以外にない！》\r\n《Then there's no choice㉓<I>but</I> to go mad! To accept that you are a demon who slays good and evil both!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9117,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0390a00'>\r\n//《<RUBY text='おれ'>村正</RUBY>になるしかない!!》\r\n《To accept that you too bear the curse of Muramasa!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9335,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0400a02'>\r\n//《ち――違う……！》\r\n《That's―not true!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9489,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0410a00'>\r\n//《違わぬ！\r\n//　違うと言うのなら……一条、お前は何故、》\r\n《It is! You know it too!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9700,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0420a00'>\r\n//《遊佐童心を殺した後で――\r\n//　己の行為に怯えたのだ!?》\r\n《Else why did killing Yusa Doshin come so close to destroying you!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9953,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0430a02'>\r\n//《……！》\r\n《!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10075,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0440a00'>\r\n//《あの時のお前は、彼を殺害した事実に怯え、\r\n//震えていた》\r\n《I watched you tremble at the memory. I saw your vomit on the floor.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0450a00'>\r\n//《それは何故だ。\r\n//　信ずる正義と、為した悪業との間に、どう\r\n//にも整合のつけられぬ矛盾を見出したからで\r\n//はないのか!?》\r\n《Why did you react with such horror? Because you'd realized there was no way to reconcile the justice you believed in with the evil you had done!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10751,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0460a02'>\r\n//《そうじゃない！\r\n//　あれは……っ》\r\n《No! I was just―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10926,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0470a02'>\r\n//《ただ、初めて人を斬ったから……\r\n//　耐えられなかっただけ、で――》\r\n《It was my first time. I needed to process―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11176,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0480a00'>\r\n//《耐えられなかったのは何故だ。\r\n//　遊佐入道を単なる悪と信じ、殺す事が正義\r\n//と信じていたなら、どうしてそれほど衝撃を\r\n//受けた》\r\n《Process what? If he was purely evil and killing him was purely good, then why should the act weigh on you at all?》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0490a00'>\r\n//《お前は風邪薬で病原菌を殺すのにも苦痛を\r\n//覚えるのか？\r\n//〝社会の悪〟を殺す事はそれとどう違う？》\r\n《Does it prick your conscience every time you take pills to kill an infection? How is killing a monster any different?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11945,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0500a02'>\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12053,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0510a00'>\r\n//《……わかっていた筈だ。何処かで。\r\n//　お前ほど欺瞞や逃避の似合わぬ者が、真実\r\n//を見過ごしたとは考えられない》\r\n《You know. You knew it then. And you are not someone who can hide from the truth.》\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0520a00'>\r\n//《<RUBY text='・・・・・・・・・・・・・'>人を悪と断じて殺す事の矛盾</RUBY>、\r\n//　お前は――頭で気付かずとも、体で悟って\r\n//いたのだ》\r\n《Even if your mind tried to turn away, your body, your <I>blood,</I>㉓had already seen it―that to kill a man㉓<I>because he's evil</I>㉒is an inherently paradoxical act.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12862,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0530a00'>\r\n//《だから震えたのだ！》\r\n《That's what you couldn't accept!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13033,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0540a02'>\r\n//《違う――――!!》\r\n《NO!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13168,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0550a00'>\r\n//《一条ッ!!》\r\n《ICHIJO!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13298,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/015vs0560a02'>\r\n//《らぁぁぁぁぁァァァッ!!》\r\n《RRRRRAAAAAAHHHH!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13458,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0570a00'>\r\n///「うぬ!!」\r\n\"Ngh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13579,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/015vs0580a01'>\r\n//《御堂！\r\n//　これ以上はっ――》\r\n《Mido, that's it!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13753,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0590a00'>\r\n//「限度か」\r\n\"We're out of energy?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13890,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/015vs0600a01'>\r\n//《甲鉄も熱量もね！》\r\n《And armor!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14042,
+  "en": "\r\n//　……ならば。\r\n//　打つべき手は一つきり、か。\r\n  ...Then there's only one choice left.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14164,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0610a00'>\r\n//「一手を以て覆す」\r\n\"We finish this now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14312,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/015vs0620a01'>\r\n//《御堂。\r\n//　……いい、のね？》\r\n《...Are you sure?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14486,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0630a00'>\r\n//「ああ。\r\n//　俺はここで、綾弥一条を殺す」\r\n\"Yes. I will kill her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14670,
+  "en": "\r\n//　殺す。\r\n  I must.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14707,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0640a00'>\r\n//「これは非道だ。\r\n//　これは無道だ。\r\n//　一片の道理もない」\r\n\"There is no justice in this <br>act. It is murder, brutal and foul.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14962,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0650a00'>\r\n//「<RUBY text='・・・・・・・・'>だがこれが戦いだ</RUBY>。\r\n//　<RUBY text='・・・・・・・・・・・・'>戦いには常に道理などない</RUBY>。\r\n//　正義という厚化粧が施されているかいない\r\n//かの違いしかない」\r\n\"But that is war. That is battle. There is never justice in killing, only a facade that killers employ to mask the filth of their crime.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0660a00'>\r\n//「遊佐童心を、銀星号を、殺すという事。\r\n//　綾弥一条を殺すという事」\r\n\"Killing Yusa Doshin―or killing Ginseigo―versus killing Ayane Ichijo.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0670a00'>\r\n//「どちらも同じ、許されざる行為。\r\n//　前者のみ許し、後者のみ許さぬというなら\r\n//それは独善でしか在り得ない」\r\n\"To condone one but not the other is to say that㉓<I>my</I>㉔view of good is㉓<I>right.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16083,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0680a00'>\r\n//「その独善を俺が承認し、世が承認するなら。\r\n//　――戦いの火種が無数に撒かれる」\r\n\"If such self-righteousness is allowed to flourish, then conflict will spread to consume the earth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16401,
+  "en": "\r\n//　それは己の善を通し、他者の善を排除する行為への\r\n//認可であるから。\r\n//　悪と信じた者と争い殺す事は正しいのだと、認める\r\n//ものであるから。\r\n  This self-righteousness is what enables people to trample others' good for the sake of their own. It tells them that their actions are just, that to kill those whom they deem evil is an act of virtue.\r\n\r\n//〝悪〟と戦う事は尊い――と。\r\n//　\r\n//　誰もがそう信ずるとき、戦争は禁忌ではなくなる。\r\n  If everyone believes that it is right to kill evil, then war ceases to be taboo.\r\n\r\n//　だがそれは違う。\r\n//　<RUBY text='いくさ'>戦</RUBY>は<RUBY text='まがごと'>凶事</RUBY>にして卑しむべし。\r\n  This must never be allowed to happen. War must always be condemned as the hideous injustice that it is.\r\n\r\n//　世に災厄を為す者はいる。\r\n//　世に死すべき罪人はいる。\r\n//　\r\n//　戦いが<RUBY text='・・'>必要</RUBY>とされる事はある。\r\n  Yes, some people are dangerous. Yes, some must die.\r\n\r\n  Some battles are necessary. But even these are never㉓<I>just.</I>\r\n\r\n//　だが<RUBY text='・・'>正義</RUBY>である事は決してない。\r\n//　その戦いが例えただ一人の善とその他全ての人類の\r\n//善との対決であったとしても、一方の善が一方を暴力\r\n//で圧殺するならそれは断じて正義を名乗れない。\r\n  Even when a single person threatens the whole of mankind, it does not change what killing her means―that one side's good has, through violence, extinguished the good of the other.\r\n\r\n//　ただの殺戮。\r\n//　ただの独善。\r\n//　ただの悪業である。\r\n  It is still murder. It is still self-righteous. It is still, unquestionably, evil.\r\n\r\n//　戦い殺すは独善の極地にして常に悪業。\r\n//　忌まれ卑しまれ避けられねばならない。\r\n  It is always wrong to take a life. The act must forever be shunned.\r\n\r\n//　<RUBY text='さ'>然</RUBY>あらずんば、世に戦いの種は尽きまじ。\r\n  Lest the world never know true peace.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18574,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0690a00'>\r\n//「<RUBY text='われら'>村正</RUBY>は装甲悪鬼。\r\n//　戦の真実を証し立てる者」\r\n\"We are the armored demon, cursed Muramasa. We embody the truth of might.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18848,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/015vs0700a01'>\r\n//《――ええ》\r\n《...Yes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18985,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0710a00'>\r\n//「忌まれ、憎まれ、畏れられねばならぬ者」\r\n\"All must hate us. All must fear us. All must curse our name.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19207,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/015vs0720a01'>\r\n//《――ええ》\r\n《Yes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19341,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0730a00'>\r\n//「故に……\r\n//　<RUBY text='あく'>銀星号</RUBY>を殺した上は<RUBY text='ぜん'>一条</RUBY>をも殺す」\r\n\"Where we slay evil, we also slay good.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19605,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0740a00'>\r\n//「ともすれば正義などと奉られる戦いを只の\r\n//殺戮に貶める！」\r\n\"Thus, what fools would have called just, they will know instead as the work of demons!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19881,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/015vs0750a01'>\r\n//《ええ》\r\n《Yes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20009,
+  "en": "\r\n//　一条。これが俺の答えなのだ。\r\n//　お前が求めた、湊斗景明という男の答えだ。\r\n\r\n//　お前の命題、正義の追求に対する回答なのだ。\r\n//　\r\n//　だから。\r\n  Hear me, Ichijo. This is my answer.\r\n\r\n  You looked to me to show you the way. I may betray you, but I will not betray that trust.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20367,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0760a00'>\r\n//「無益無法の<RUBY text='たたかい'>殺戮</RUBY>を行う。\r\n//　――綾弥一条を斬り殺す」\r\n\"This is an act of fruitless slaughter, as the Law of Balance demands. So be it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20660,
+  "en": "\r\n//　お前を殺す。\r\n\r\n//　一切の手加減はなく。\r\n//　最大の戦力をもって。\r\n//　\r\n//　お前の命を奪いにゆく。\r\n  No quarter, Ichijo. I strike to kill, with all the might I possess behind it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20899,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/015vs0770a00'>\r\n//（――だが）\r\n(But if―)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21028,
+  "en": "\r\n//　もしも、一条。\r\n//　お前の正義が俺の体現する醜い真実さえも超克する\r\n//ものであるのなら。\r\n  If you have the power, if your Way is true, then show me!\r\n\r\n  Strike me down! Reject the awful truth I preach.\r\n\r\n//　突き破ってみせろ。\r\n//　俺を打ち砕き、先へ進んでみせろ。\r\n\r\n//　お前の正義こそが、本当の真実だと云うのなら――\r\n//　それができる筈だ!!\r\n  Then climb my blasted corpse and march onward, on the path that you believe is right!\r\n",
+  "pt": ""
+ }
+]

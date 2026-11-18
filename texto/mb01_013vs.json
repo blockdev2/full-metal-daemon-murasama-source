@@ -1,0 +1,1232 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　一条――正宗が太刀を抜き放つ。\r\n//　長い。\r\n\r\n//　今は失われている村正の野太刀ほどではないが。\r\n//　斬馬刀と称しても良いだけの刃渡り、そして身幅が\r\n//ある。\r\n  Ichijo whips her sword from its sheath. The blade is large―not so long or wide as Muramasa's lost nodachi, but more than sufficient to be classified a zanbato, or horse-killer.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 639,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0010a00'>\r\n//「鎌倉末期の典型だな……」\r\n\"The style of Late <br>Kamakura.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 811,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0020a01'>\r\n//《ええ。\r\n//　太刀の長大化が始まった頃の作よ》\r\n《Yes. Probably one of the first tsurugi to use an oversized sword.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1055,
+  "en": "\r\n//　鎌倉時代の末から太刀は次第に長く大振りのものが\r\n//好まれるようになり、その風潮は次の時代まで続く。\r\n//　戦国期に入って槍・鉄砲による集団戦術が発達する\r\n//と共に鎮静したが、武者の間ではなお廃れず、\r\n\r\n//　朝倉氏に仕えた豪将真柄十郎左衛門などは七尺三寸\r\n//にも及ぶ大太刀を駆使していたと云う。\r\n//　このような風潮が生まれた契機は、諸説あって定か\r\n//ではない。\r\n\r\n//　一説には、その原因を元寇とする。\r\n//　蒙古武者の強固な甲鉄に手を焼かされた大和武者は、\r\n//それを打ち破れる剛刀を求めたのだ――と。\r\n\r\n//　そんな大太刀も、扱いこなすだけの力量が無ければ\r\n//無用の長物と堕す。\r\n//　状況にも縛られる。\r\n\r\n//　地上、特に障害物の多い場所は適さない。\r\n//　<RUBY text='セオリー'>常道</RUBY>に則れば、一条は騎航に移る筈だ――が。\r\n  One of the features that characterized the century and a half between the Kamakura and Sengoku periods was a trend toward larger and heavier swords.\r\n\r\n  Although the introduction of matchlock rifles effectively ended this as an option for the rank-and-file, it remained a strong preference among musha well into the 16th century. Magara Naotaka, who served the Asakura clan, was said to have wielded a blade fully two and a half meters in length.\r\n\r\n  Regarding this trend, one theory holds that it emerged from the Mongol invasion of 1281. History records that the Mongol musha possessed armor of surpassing durability. Heavier swords might have been a means to overcome this defense.\r\n\r\n  Whatever its origins, such a weapon requires great skill to wield effectively, and is unsuited to engagements on the ground, where obstacles are plentiful. Prudence would seem to dictate that Ichijo shift the field to the sky.\r\n\r\n  She does not.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3044,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0030a00'>\r\n//「ッ！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3159,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0040a01'>\r\n//《木を!?》\r\n《The trees!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3295,
+  "en": "\r\n//　一条の選択は俺の意表を突いた。\r\n//　その場で太刀を一振――二振――三振。\r\n  Without moving from the spot, she sweeps her sword through the air―once, twice, thrice.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3511,
+  "en": "\r\n//　膝ほどの高さで切り断たれた木々が倒れ込む。\r\n//　俺の立つ方角へと……だがそれ自体は何の脅威にも\r\n//ならない。\r\n  Felled at knee height, the trees surrounding her topple to the ground. \r\n\r\n  Several fall toward me, but they are no threat. Their leaves, however―\r\n\r\n//　この一手の核心は別に有る。\r\n//　――散り舞う木の葉が、刹那。濃藍色の敵騎を覆い\r\n//隠した。\r\n  As they fill the air, for an instant, Masamune vanishes from sight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4050,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0050a00'>\r\n//（この技は!?）\r\n(This technique!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4187,
+  "en": "\r\n//　脳内を駆け巡る警鐘に従って、その場所を捨てる。\r\n//　飛び下がり――それでも<RUBY text='・・・・'>つるつる</RUBY>と伸び来る鋭鋒が\r\n//視界の中央から迫った。\r\n  Sirens blare in my skull. I abandon my position, leaping back as fast as I am able.\r\n\r\n  And even then, the glint of steel follows, growing to fill my sight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4580,
+  "en": "\r\n//　腰の太刀を抜きざま、下からすくい上げて打ち弾く。\r\n//　その時には既に見えていた。\r\n\r\n//　色鮮やかなる相州正宗。\r\n//　あたかも何かの魔術を駆使したかのように、こちら\r\n//の目前へ<RUBY text='・・'>転移</RUBY>していた。\r\n  At the last moment, I tear my sword from its sheath and deflect her thrust.\r\n\r\n  And as the sparks clear, I see it―azure Masamune, so close that it seems to have moved by magic.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5080,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0060a01'>\r\n//《なに――まさか陰義!?》\r\n《How!? Shinogi!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5242,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0070a00'>\r\n//（いや。\r\n//　<RUBY text='・・'>縮地</RUBY>だ）\r\n(No. Just footwork. Shuku-chi.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5431,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0080a01'>\r\n//《え？》\r\n《You're kidding.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5570,
+  "en": "\r\n//　後方へ流れた体重を、足の踏み替えで前方へ向ける。\r\n//　そして止まらず踏み込み、一刀。\r\n\r\n//　逆袈裟の形に斬りつける。\r\n  I plant my back foot, arresting my retreat, then bound forward with a rising diagonal slash.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5852,
+  "en": "\r\n//　予測していたのか、一条の太刀が迎え撃つ。\r\n//　俺の剣勢は殺され――しかし一条の剣も弾かれる。\r\n  Ichijo parries, but her own sword snaps back from the force.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6069,
+  "en": "\r\n//　弾かれて――\r\n//　<RUBY text='・・・・・・'>そのまま旋回</RUBY>。\r\n\r\n//　頭上でぐるりと取り回した太刀を、一条は叩きつけ\r\n//てきた。\r\n\r\n//　想定通り。\r\n  And as it does, it㉓<I>swivels,</I>㉒its tip describing a circle in the air above her head.\r\n\r\n  Her momentum preserved, she strikes―<K>as expected.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6445,
+  "en": "\r\n//　それは先の一合の役割交替。\r\n//　一条が打ち込み、俺が受け返す。\r\n\r\n//　そして今度はこちらが、弾かれた勢いを利して斬り\r\n//つける。\r\n  This time, our roles are reversed. I parry and, without wasted motion, translate that force into another attack.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6763,
+  "en": "\r\n//　同じ打ち込み。\r\n//　同じ受け。\r\n\r\n//　見物人がいたなら、首を傾げたことだろう。\r\n//　稽古でもしているのか？――と。\r\n//　\r\n//　その感想は真実から極めて近い。\r\n\r\n//　同じ技を使う者同士の対決など、実際、稽古のよう\r\n//なものだ。\r\n  The pattern repeats once more. I can imagine an observer's confusion. This was supposed to be a fight, not a training exercise.\r\n\r\n  But of course, when disciples of the same school do battle, those things are one and the same.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7331,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0090a02'>\r\n//「……っ。\r\n//　あんた、まさか」\r\n\"...You're shitting me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7501,
+  "en": "\r\n//　千日手を打ち切って距離を取り、一条が面甲の奥で\r\n//呟く。いくらかの驚きを込めて。\r\n//　その心情はこちらとて同じであった。\r\n  After the third exchange, Ichijo breaks the engagement. I share in her surprise.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7778,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0100a00'>\r\n//「やはり吉野御流か」\r\n\"Yoshino-onryu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7924,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0110a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8044,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0120a00'>\r\n//「最初の仕掛けは吉野御流、猿隠れ。\r\n//　そこから繋げた瞬速の踏み足は、<RUBY text='・・・・'>膝を抜く</RUBY>\r\n//ことで実現する吉野御流秘伝の縮地法」\r\n\"That trick with the trees was Saru-gakure, followed by the Yoshino-onryu's shuku-chi, which works by rapidly dropping the knees and letting your own weight carry you forward.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8526,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0130a00'>\r\n//「そして切り返しの応酬は、技であり稽古法\r\n//でもある木霊打ち……」\r\n\"And finally, Kodama-uchi, which while normally used as a training exercise, is also an effective means of attack.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8838,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0140a02'>\r\n//「……そうか。\r\n//　あんたも」\r\n\"...You too, huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8999,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0150a00'>\r\n//「吉野御流合戦礼法。\r\n//　免許は受けていないが、奥伝には達した」\r\n\"Yoshino-onryu Kassen Reiho. While not formally accredited, I am conversant with its secrets.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9287,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0160a02'>\r\n//「吉野御流堂上礼法。\r\n//　免許も奥伝も知らねぇけど、多分一通りは\r\n//習った」\r\n\"Yoshino-onryu Dojo Reiho. I dunno what's secret or not, but I'm pretty sure I got the whole package.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9599,
+  "en": "\r\n//　……堂上礼法。\r\n//　その名には覚えがある。系譜上、吉野御流合戦礼法\r\n//の源流とされている流派だ。\r\n\r\n//　ここまで技が酷似しているということは、あながち\r\n//事実無根でもないのだろう。\r\n//　何らかの、深い縁があるのは間違いなさそうだ。\r\n\r\n//　思えばこれまでにも、一条は俺が修めたものに近い\r\n//組打術を幾度か披露した。\r\n//　その折々には、単なる偶然の符合だろうとしか思わ\r\n//なかったのだが。\r\n\r\n//　まさか同系流儀であったとは……\r\n  ...I've heard the name. The Dojo Reiho, or School of Courtly Conduct, is said to have birthed my own Kassen Reiho, or School of Battlefield Conduct.\r\n\r\n  Given that our techniques thus far have been identical, that rumor would appear to be more truth than fiction. At the very least, our schools must share some profound connection.\r\n\r\n  Looking back, I recall several instances where Ichijo demonstrated unarmed techniques similar to my own. My subconscious wrote these off as coincidence.\r\n\r\n  To think that the coincidence extended this far...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10776,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0170a00'>\r\n//「劒冑を扱えるのも道理か」\r\n\"That explains why you can pilot a tsurugi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10959,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0180a02'>\r\n//「……お互い、手の内はお見通しってわけだ。\r\n//　でもそんなの」\r\n\"...So we know all each other's tricks. Cool.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11196,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0190a02'>\r\n//「関係あるか――よっ!!」\r\n\"Won't make any <br>difference!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11363,
+  "en": "\r\n//　再び、一条が縮地で迫る。\r\n//　こちらの懐へ入り――下段の太刀を<RUBY text='・・・'>裏返す</RUBY>。\r\n\r\n//　逆流れ！\r\n  Again she closes with shuku-chi. She is suddenly there, her sword reversed, blade facing up between my legs. Sakanagare!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11658,
+  "en": "\r\n//　後方への退避は間に合わない。\r\n///　飛ぶ。\r\n\r\n//　上方へ跳躍。\r\n//　股座に吹き付ける太刀風から逃れる。\r\n  No time to retreat. I leap into the air. Her strike passes millimeters from my groin.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11908,
+  "en": "\r\n//　合当理に火を入れなくとも、この程度の飛翔は造作\r\n//ない。\r\n//　木々の狭間を抜け、円往寺一帯を眼下に見下ろす。\r\n  Even without igniting his gattari, a musha can leap far higher than any man. For a moment, I hang above the trees, Ennoji spread out below.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12226,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0200a01'>\r\n//《このまま騎航戦に移るのも一手だけれど？》\r\n《Seems like a good time to take this topside.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12445,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0210a00'>\r\n//「いや――」\r\n\"...No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12571,
+  "en": "\r\n//　劒冑の具申に頷かず、地表へ向けて太刀を構える。\r\n//　武者の本領は空にあり。その意味で、村正の提案は\r\n//正しい。\r\n\r\n//　だが今現在、天候は雨だ。\r\n//　探査機能が著しく制限される。\r\n\r\n//　そんな状況下での騎航戦闘など、もはや戦闘の名に\r\n//値しない。\r\n//　博打だ。一条はそれを厭うて、あの大太刀を持ちな\r\n//がら<RUBY text='つばさ'>母衣</RUBY>を畳んでいるのだろう。\r\n\r\n//　俺とても、そんな投機的趣向をもって戦いに臨む事\r\n//などできなかった。\r\n//　\r\n//　仮にあったとしても、今は無理だ。\r\n  I ready my blade, eyes fixed on the ground.  Normally, Muramasa would be correct.\r\n\r\n  But not in this weather. The rain will play havoc with our sensors.\r\n\r\n  In such conditions, an aerial engagement becomes a matter of luck more than skill. I suspect this is why Ichijo kept her wings folded, even though her weapon is advantaged in the air.\r\n\r\n  I also have no desire to gamble. And even if I had―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13672,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0220a00'>\r\n//「そんな暇はない」\r\n\"There's no time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13817,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0230a01'>\r\n//《――ッ!?》\r\n《!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13948,
+  "en": "\r\n//　<RUBY text='アンチエアークラフトガン'>対空砲</RUBY>の一弾に等しかった。\r\n//　こちらを追って翔躍した正宗の一撃。\r\n\r\n//　翼なくば、武者とて空中の動作は自在ならない。\r\n//　回避など許されず、真っ向から受け止める。\r\n\r\n//　重い一撃を、村正の剛力は辛うじて支え切った。\r\n//　鍔迫り合う。足場もない虚空で、腕任せに押し切り\r\n//合う。\r\n  She explodes from the trees, slamming into me like a shell from an anti-aircraft gun. With my own wings folded, I cannot evade, and so I take the full force of her blow on my blade.\r\n\r\n  It barely holds. Our weapons squeal. My strength vies with hers in the void of the sky.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14703,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0240a00'>\r\n//「<RUBY text='ガリュウ'>臥竜</RUBY>で敵を空へ追い込み、<RUBY text='ショウリュウ'>昇竜</RUBY>で仕留める。\r\n//　……基本通りの見事な連携だ」\r\n\"Garyu into Shoryu. A classic combination. ...Flawlessly executed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15054,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0250a02'>\r\n//「ほざいてろよ！」\r\n\"Then you'll like㉗<I>this!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15214,
+  "en": "\r\n//　大地の引力が彼我の騎体を引き寄せている。\r\n//　正宗の片足が俺の足に裏から絡んだ。\r\n  As the earth's pull overcomes our momentum, she hooks her leg around mine, calf-to-calf.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15441,
+  "en": "\r\n//　そうして押し込む。\r\n//　足絡みを軸に体勢が変転した。\r\n\r\n//　正宗が上に。村正が下に。\r\n//　敵騎の太刀は、我が首筋を狙い――\r\n  I am suddenly staring up at her, my back to the ground. Her blade angles for my throat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15725,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0260a00'>\r\n//（させては、やれぬ）\r\n(Well maneuvered.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15873,
+  "en": "\r\n//　吉野御流は〝二虎競落〟の法。\r\n//　争いに熱中するあまり山から転げ落ち、而して尚も\r\n//相手の喉笛を食い合う二虎の故事に倣い。空中戦闘に\r\n//おいて双方の騎体が絡んだならば上位を奪う。\r\n\r\n//　そして墜落、敵を地面との間に挟み圧殺する。\r\n//　決して容易くはないこの術を、一条は全うしていた。\r\n\r\n//　良き師のもとで学んだのだと知れる。\r\n//　だが――俺とても。\r\n  The Tigers' Fall, this position is called, after the old story about two warring beasts who throw themselves off a mountain cliff in their struggle.\r\n\r\n  The Yoshino-onryu practitioner who finds herself reenacting this fall will attempt to take the top position, then use the force of impact with the ground to drive her fangs into the enemy's neck.\r\n\r\n  To call this difficult would be an understatement. Ichijo clearly had an exceptional teacher.\r\n\r\n  But then, so did I.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16873,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0270a02'>\r\n//「……ッ!?　この――」\r\n\"Kuh!? Fuck!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17018,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0280a00'>\r\n//「これが<RUBY text='・・'>返し</RUBY>だ。\r\n//　知っていたか」\r\n\"This is the counter. Were you taught it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17239,
+  "en": "\r\n//　一条がしたように、絡む足を軸にして転回する。\r\n//　但し――一条が縦方向に回ったのに対し、横方向へ。\r\n\r\n//　位置関係が逆転する。\r\n//　村正が上。正宗が下へ。\r\n\r\n//　こちらの優位。\r\n//　しかし、一条の反応も迅速であった。\r\n\r\n//　すぐさま体勢を捻り返し、またもや上位へ。\r\n\r\n//　それを更に返して俺が上位へ。\r\n\r\n//　――変転、数度。\r\n//　墜落の瞬間にどちらが<RUBY text='まさ'>勝</RUBY>っていたかはわからない。\r\n  Using the same points of contact, I mimic Ichijo's feat, though on the horizontal rather than the vertical axis. Now I have the top, and therefore the advantage.\r\n\r\n  It does not last. Ichijo's response is swift. She regains the top in the blink of an eye.\r\n\r\n  I counter again. She follows suit. The world spins.\r\n  I cannot say whose reversal is last before the ground finally rushes up to meet us.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18230,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0290a02'>\r\n//「ぐッッ!!」\r\n\"Guh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18353,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0300a00'>\r\n//「つ……！」\r\n\"Kuh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18477,
+  "en": "\r\n//　どちらも企図を遂げ得なかった。\r\n//　それだけは明白だった。\r\n\r\n//　浮遊から着陸への急な移行に伴う平衡感覚の混乱が、\r\n//一瞬一秒でも素早く立ち上がりたがる両足を妨害する。\r\n//　姿勢回復までは半呼吸――千年のようなその時間。\r\n\r\n//　しかし、長く短い時間を費やしたのは濃藍の敵騎も\r\n//同様だった。\r\n//　合わせ鏡の正確さで、揃って起き上がり対峙する。\r\n  The answer is irrelevant. Neither, it turns out, has sufficient advantage to overpower the other's defense.\r\n\r\n  I try to stand, but my inner ear protests. It is fully half a breath before my legs will respond.\r\n\r\n  An eternity―but fortunately, one my opponent shares. Like reflections in a mirror, the two of us rise as one.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19322,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0310a02'>\r\n//「かッッッ!!」\r\n\"HA!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19447,
+  "en": "\r\n//　間合を読む、呼吸を計る――そんな<RUBY text='・・・・・・・'>まだるっこしい</RUBY>\r\n//思案はこの少女と無縁のようだった。\r\n//　衰える気配もない獰猛さを剥き出しにして襲い来る。\r\n//短い気合は発砲に似ていた。\r\n\r\n//　愚直、剛直なる一直線の突進。\r\n//　速度が充分ならばそれは大いに脅威であり、そして\r\n//一条／正宗の足は必要値を五割ばかり超えていた。\r\n\r\n//　――が。\r\n  Does this girl have no caution? Range, timing―<br>trivial, she says. She strikes with unmitigated ferocity, her shout like the crack of a pistol.\r\n\r\n  Even the most reckless charge can be deadly, backed with sufficient speed and power―and Ichijo has both, by a factor of one-point-five or more.\r\n\r\n  However―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20291,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0320a00'>\r\n//（正直過ぎる……）\r\n(It's too clean.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20435,
+  "en": "\r\n//　迅雷と呼ぶのが相応の速さで撃尺の距離へ進入し、\r\n//一条は太刀を担ぎ上げる。\r\n//　刃、一旋――――\r\n  Like a bolt of lightning, she crushes the range and lifts her blade to strike.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20674,
+  "en": "\r\n//　その前に。\r\n//　俺は剣を投げ捨てながら半歩踏み込み、身を屈めて\r\n//対手の懐へ入った。\r\n  But before she can, I toss my own sword aside and take a half-step forward, lowering my body to meet her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20922,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0330a02'>\r\n//「……っ？」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21044,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0340a00'>\r\n//「<RUBY text='・・・'>借りる</RUBY>ぞ」\r\n\"Offer accepted.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21209,
+  "en": "\r\n//　お前自身の力を。\r\n  Free energy has its uses.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21279,
+  "en": "\r\n//　右手を敵騎の脇から差し入れ、背に回し。\r\n//　腰を合わせて右足を払う。\r\n\r\n//　払い腰。\r\n  My right arm goes to the enemy's back. Hip planted against hers, I sweep her right leg. Harai-goshi.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21521,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0350a02'>\r\n//「なぁっっ!?」\r\n\"Wha―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21649,
+  "en": "\r\n//　……ごくごく基本的な投げ技は、教本に掲載を申請\r\n//したいほどの完璧さで決まった。\r\n//　一回転して背から地面へ落ち、一条の身体が勢いの\r\n//まま盛大に転がってゆく。\r\n\r\n//　俺は太刀を拾い上げた。\r\n  A basic throw, but it's hard to imagine a more textbook execution. Ichijo flips once in the air, strikes the ground hard, and rolls for several meters before stopping.\r\n\r\n  My sword is already back in my hand.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22155,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0360a01'>\r\n//《御堂！》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22287,
+  "en": "\r\n//　村正の声が俺を促す。\r\n//　言われるまでもない。\r\n\r\n//　今が、好機。\r\n\r\n//　勝機。\r\n  Yes. This is my chance. I need only seize it... and strike.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22481,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0370a00'>\r\n//「……」\r\n\"......\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0380a00'>\r\n//「得難い体験をしたな、一条。\r\n//　空に命を預ける武者にとって、<RUBY text='・・・・・'>投げられる</RUBY>\r\n//機会など滅多にあるものでもない」\r\n\"I hope you learn something from this, Ichijo. It's not every day a musha gets to experience being thrown.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22994,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0390a02'>\r\n//「くぅ……」\r\n\"Kuh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23120,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0400a00'>\r\n//「良い<RUBY text='わざ'>術技</RUBY>を身につけているようだが、それ\r\n//のみに依存していては戦術の幅が狭まる。\r\n//　搦め手もあることを知っておけ」\r\n\"Your swordsmanship is impressive―flawless, even―but a musha needs more than that to survive.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23518,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0410a00'>\r\n//「例えば今の……\r\n//　単なる基礎的な柔術に過ぎんが、使い所を\r\n//間違えなければ有効な一手となる。甲冑剣法\r\n//だけが武者の技ではない」\r\n\"Take that throw just now. Basic jujutsu, but effective when applied correctly. It always pays to have more options.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23927,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0420a02'>\r\n//「……抜かしやがる」\r\n\"I'm hearing a lotta...㉓<I>talking</I> here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24104,
+  "en": "\r\n//　立ち上がる一条。\r\n//　天晴れな事に、その手は大太刀を離していなかった。\r\n\r\n//　眼光が怒りの温度で俺を射る。\r\n  She climbs to her feet. Somehow, she still has a grip on her sword. Her rage washes over me like fire.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24381,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0430a02'>\r\n//「追い打ちも掛けねぇで技の解説か。\r\n//　さっきから、受け一方だしよ」\r\n\"Thought you were gonna fight for your life, not hand out lessons, or play㉗<I>practice dummy.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24681,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0440a01'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24811,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0450a02'>\r\n//「余裕ぶりやがって……\r\n//　搦め手か。ああ、そうかよ。そっちが好み\r\n//だってんなら見せてやる……」\r\n\"Guess you got it all wrapped up, huh?\r\n  ...Options. Yeah. I'll show you㉓<I>options.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25146,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0460a02'>\r\n//「正宗！」\r\n\"MASAMUNE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25272,
+  "en": "\r\n//　藍色の武者が片腕を突き出す。\r\n//　槍のように。何も握らぬ腕を。\r\n\r\n//　その手首には……筒型の器具。\r\n  The azure musha raises her arm like a spear. Her hand is empty, but on her wrist―<K>\r\n  Some kind of... barrel?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25548,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0470a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25669,
+  "en": "\r\n//　……砲門？\r\n//　いや、まさか。\r\n\r\n//　鎌倉時代の劒冑にそんな兵装があろう筈もない。\r\n//　だが一条は、その箇所に戦気を注いで、短い一言を\r\n//発した。\r\n  A cannon? On a 13th century tsurugi? Impossible.\r\n\r\n  But then I feel her malice swell and gather in the barrel's throat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26021,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0480a02'>\r\n//「<RUBY text='くら'>喰</RUBY>え」\r\n\"Do it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26168,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0490b40'>\r\n//《承知》\r\n《Aye!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26290,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0500a02'>\r\n//「がっッ――」\r\n\"GAH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26417,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0510a01'>\r\n//《……!?》\r\n《!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26545,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0520a02'>\r\n//「ぎっ、い、りいいいイイイイイイッッ!!」\r\n\"GH! EEEEEEEEEEEEEEEEEE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26729,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0530a00'>\r\n//「な――」\r\n\"Wha―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26852,
+  "en": "\r\n//　――何をしている？\r\n\r\n//　この、<RUBY text='・・・・・'>引き剥がす</RUBY>音は……\r\n//　何を――――\r\n  That㉓<I>sound,</I>㉓like flesh being ripped from the bone! What is she doing!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27087,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0540a02'>\r\n//「あああ、あ、らぁぁぁアアアアアアッ!!」\r\n\"AUGHHH! RRRRRAHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27267,
+  "en": "\r\n//　筒が、火を吹いた。\r\n\r\n//　射出される――――弾丸。\r\n//　あれは砲だったのだ。有り得ない砲。\r\n\r\n//　いや。\r\n\r\n//　……違う。\r\n//　弾丸には速度がない。威力がない。\r\n\r\n//　まるで<RUBY text='ばね'>撥条</RUBY>仕掛けで飛ばしたかのようだ。\r\n//　それが砲弾であるとすれば、怠慢の度が過ぎた。\r\n  Her wrist barks, discharging a round iron shell.\r\n\r\n  My heart stops. It is a cannon! How!?\r\n\r\n  ...Wait. Why can I still see the shell?\r\n\r\n  The projectile is moving far too slow, as if it had been launched by a simple spring. It can't possibly carry enough force to kill.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27954,
+  "en": "\r\n//◆読み「だぁぁぁい」\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0550b40'>\r\n《DAAAAAAAAAIIII―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28107,
+  "en": "\r\n//　至近距離の砲撃であるにも拘わらず、見切って躱す\r\n//だけのゆとりがある。\r\n//　俺は軽く身を捻った。それで事足りた。\r\n\r\n//　弾丸が村正の甲鉄に近付く。しかし届かず。\r\n//　標的を失い、遠ざかる。\r\n  Still, no sense letting it hit me.\r\n\r\n  I twist my body a fraction to the side. The shell passes harmlessly by.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28512,
+  "en": "\r\n//◆読み「だらぁーーーー!!」\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0560b40'>\r\n《DAAARAAAHHHHHHH!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28672,
+  "en": "\r\n//　\r\n//　　　　　　　時間と空間が消失した。\r\n \r\n \r\n \r\n \r\n \r\n<center>The world ends.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28787,
+  "en": "\r\n//　忘我。\r\n\r\n//　幽離。\r\n\r\n//　……苦痛。\r\n//　一度何処かへ消え去った俺の世界を再構築したのは、\r\n//全身を貫く疼痛だった。\r\n\r\n//　鉄の肌に感じる冷たさ。\r\n//　雨が降っていたことを思い出す。\r\n\r\n//　雨は、正面から注がれている。\r\n//　意識を飛ばしていた刹那に、倒れていたようだ。\r\n  Loss.\r\n\r\n  Emptiness.\r\n\r\n  Pain.\r\n\r\n  After an eternity drifting in darkness, it is pain which pulls my scattered pieces together.\r\n\r\n  Icy fingers rap on my hard metal skin.\r\n  Ah. The rain. I'm face-first to the clouds.\r\n\r\n  I must have fallen while I was unconscious.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29463,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0570a00'>\r\n//「……っ……」\r\n\"...kuh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29595,
+  "en": "\r\n//　上体を跳ね起こす。\r\n//　幾多の負傷が存在を主張し、神経を焼いた。\r\n\r\n//　前方に、佇む敵騎。\r\n//　昏く輝く騎体は奇妙に揺らいで見えた。視覚が安定\r\n//していないらしい。\r\n  I force myself to sit up. Agony flares through my body, countless wounds making their presence known.\r\n\r\n  A few meters away, my enemy shines darkly in the gloom. For an instant, she seems to wobble. Perhaps the damage is affecting my eyes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30093,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0580a00'>\r\n//「今のは…………\r\n//　村正」\r\n\"Muramasa... what was <br>that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30265,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0590a00'>\r\n//「村正」\r\n\"...Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30391,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0600a01'>\r\n//《――ッ――》\r\n《Ngh...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30530,
+  "en": "\r\n//　衝撃が、一時的に機能を<RUBY text='シャットダウン'>停止</RUBY>させていたのか。\r\n//　劒冑の反応は数秒遅れた。\r\n  The shock must have forced a temporary shutdown. Several seconds pass before she responds.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30789,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0610a01'>\r\n//《御堂……》\r\n《Mido...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30926,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0620a00'>\r\n//「損傷状況を報告」\r\n\"Damage report!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31069,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0630a01'>\r\n//《……全身に無数の鏃……。\r\n//　針鼠にされた心地よ》\r\n《...Punctures everywhere. It's like we wrestled a hedgehog.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31315,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0640a01'>\r\n//《戦闘行動への支障は大》\r\n《Expect significant loss of function.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31499,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0650a00'>\r\n//「鏃？」\r\n\"Punctures?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31623,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0660a01'>\r\n//《小さな鉄片よ。\r\n//　其処彼処に突き刺さっている》\r\n《That thing spat metal all over. Most of it is still inside us.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31870,
+  "en": "\r\n//　…………つまり。\r\n//　先の砲弾は、<RUBY text='ハイエクスプロージブ'>榴弾</RUBY>の一種であったのか。\r\n\r\n//　着弾衝撃ではなく、炸薬の破裂によって中に仕込ん\r\n//だ鉄片を撒き散らし、敵の殺傷を期する。\r\n//　……しかし。\r\n  ...So, not a cannonball. A grenade, with a timed explosive and a fragmenting shell.\r\n\r\n  A powerful weapon, but...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32305,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0670a00'>\r\n//「何故だ……？」\r\n\"How?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32435,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0680a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32571,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0690a00'>\r\n//「何故そんなものを古式の劒冑が……」\r\n\"How does a medieval tsurugi have such a weapon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32774,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0700a01'>\r\n//《……てつはう》\r\n《...Iron bombs.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32924,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0710a00'>\r\n//「何？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33043,
+  "en": "\r\n　……てつほう？\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33079,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0720b40'>\r\n//《道は誤れど、鍛冶師の端くれか。\r\n//　過去を学ぶに怠りはなかったと見ゆる》\r\n《Hmph. The demon has studied her history. Indeed, that was an iron bomb.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33365,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0730a01'>\r\n//《……正解だったの。\r\n//　真逆、と思ったけれど》\r\n《...Really? I was hoping I was wrong.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33583,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0740b40'>\r\n//《如何にもこれは〝<RUBY text='てつはう'>鉄炮</RUBY>〟……\r\n//　正宗<RUBY text='ななつのからくり'>七機巧</RUBY>が一であり》\r\n《Seven righteous tools I crafted to smite the wicked! This is the third, the Sphere of Dancing Flame.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33949,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0750b40'>\r\n//《嘗て、蒙古どもが使いし武器でもある》\r\n《Those filthy Mongols left one thing of value.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34157,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0760a00'>\r\n//「！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34269,
+  "en": "\r\n//　そうか。\r\n//　名高き竹崎季長の蒙古襲来絵詞。\r\n\r\n//　そこに描かれし怪兵器〝てつはう〟――\r\n//　<RUBY text='シンテンライ'>震天雷</RUBY>とも呼ばれた黎明の火器。\r\n\r\n//　それならば相州正宗が知っていてもおかしくはない\r\n//……！\r\n  The Mongols. An image comes to me: the famous painting of Takesaki Suenaga engaging the Mongol hordes at Kyushu.\r\n\r\n  It depicts one of the earliest gunpowder weapons, which the Mongols called Zhentianlei, or \"thunder bombs.\"\r\n\r\n  Now it makes sense!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34849,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0770a01'>\r\n//《……そんな代物。\r\n//　よくも造れたものね》\r\n《...I don't believe it.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35047,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0780a00'>\r\n//「おそらくは武者の熱量を一種の<RUBY text='ＦＡＥ'>気体爆薬</RUBY>と\r\n//成さしめて炸薬に代え、鉄片は甲鉄を割いて\r\n//用立てたのだろうが……」\r\n\"I suspect that it converts its pilot's energy into a kind of fuel-air explosive, and uses its own armor as the <br>payload.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35466,
+  "en": "\r\n//　確かに、並みの発想ではない。\r\n  A brute force solution, but logical.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35565,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0790a01'>\r\n//《ええ。\r\n//　けれど、そういうことじゃないのよ。御堂》\r\n《You're right. But that's not what I meant.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35798,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0800a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35919,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0810a01'>\r\n//《そう、あの武器は甲鉄を原料にしている。\r\n//　仕手の肉体と<RUBY text='・・・'>一体化</RUBY>した甲鉄をね》\r\n《You said it yourself. That shell was made from its armor... and a tsurugi and its pilot are one.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36272,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0820a01'>\r\n//《自分の骨肉を<RUBY text='・・・・・・'>引き千切って</RUBY>敵にぶつける、\r\n//なんて攻撃手段があっていいと思う？》\r\n《How would you feel if I had a weapon that used㉒<I>your flesh</I>㉗as ammunition?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36624,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0830a00'>\r\n//「!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36735,
+  "en": "\r\n//　俺は一条の姿を見直した。\r\n\r\n//　……荒い息をついている。\r\n//　足元も覚束ない様子だ。\r\n\r\n//　揺れていると見えたのは、錯覚ではなかった。\r\n//　一条は苦悶していた。\r\n\r\n//　……己の骨肉を千切って敵に投擲するが如き攻撃法。\r\n//　そんな真似をしたならば当然だ。\r\n\r\n//　しかも――\r\n  I take a second look at Ichijo. Her breathing is ragged, her posture unsteady. When I saw her wobble before, it wasn't a trick of the eyes.\r\n\r\n  If indeed that weapon stripped the flesh from her bones, I can only imagine her suffering.\r\n\r\n  Even worse―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37397,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0840a01'>\r\n//《とんだ欠陥兵器よ》\r\n《What a piece of junk.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37560,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0850b40'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37684,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0860a01'>\r\n//《射程の短さに反して、効果範囲が<RUBY text='・・・・'>広過ぎる</RUBY>。\r\n//　……自分で食らってるじゃないの》\r\n《You made the blast radius wider than its range. What did you㉗<I>expect</I>㉕to happen?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38036,
+  "en": "\r\n//　村正が指摘する通り。\r\n//　あの爆裂が正宗にも損傷を与えた事は見るも明らか\r\n//だった。\r\n\r\n//　無論、直撃されたこちらほどではないが……いや、\r\n//大した違いは無いかもしれない。\r\n//　一条の全身にも幾多の鋭い鉄針が食い込んでいる。\r\n  Indeed. Ichijo herself was caught in the explosion. I assume I got the brunt of it, but I doubt it made much difference. Her armor is just as pockmarked as mine.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38543,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0870b40'>\r\n//《クックック……\r\n//　クハーッハッハッハッハッハッハッ!!》\r\n《Heh heh heh... HAAHAHA<br>HAHAHAHAHA!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38770,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0880b40'>\r\n//《<RUBY text='・・'>それ</RUBY>が何だと云う？\r\n//　邪甲<RUBY text='ばら'>輩</RUBY>！》\r\n《I expected you to DIE, fool!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39010,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0890a01'>\r\n//《……何ですって？》\r\n《...Excuse me?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39165,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0900b40'>\r\n//《侮るでないわ。\r\n//　我が理念を。我が主の信念を！》\r\n《You know nothing of justice! Of purpose! Of conviction!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39402,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0910b40'>\r\n//《<RUBY text='われら'>正宗</RUBY>は<RUBY text='・・・・・・・'>正義を貫徹する</RUBY>。\r\n//　それのみが肝心。他は瑣末事》\r\n《We exist to destroy evil! Nothing else matters! NOTHING!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39721,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0920b40'>\r\n//《<RUBY text='おの'>己</RUBY>が甲鉄を費やすのは、それこそ最も<RUBY text='つよ'>剛</RUBY>い\r\n//方法だからだ。\r\n//　己を巻き添えにするのは、そうするまいと\r\n//思えば剛さが欠け落ちるからだ》\r\n《We use our own flesh for nothing is stronger!\r\n  We do not spare ourselves for then our weapons would be weaker!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40191,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0930a02'>\r\n//「そうだ……」\r\n\"Evil must die...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40330,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0940b40'>\r\n//《邪悪を打ち砕く剛さ！\r\n//　正宗にはそれだけあれば良い。他には何も\r\n//要らぬ！》\r\n《No㉗<I>matter</I>㉑the cost! In the pursuit of justice, there can be no compromise!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40637,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs0950a02'>\r\n//「ああ。\r\n//　そうだ。正宗」\r\n\"Not for anyone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40794,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs0960a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40914,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs0970a01'>\r\n//《……なんて無茶苦茶な》\r\n《...You're crazy.》\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41080,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0980b40'>\r\n//《見下げるか、村正……。\r\n//　だがおのれは蒙昧にして知らぬのだ。正義\r\n//に魂を捧げた者は不屈である事をまだ知らぬ》\r\n《Ignorant demon. You see so little. A soul sworn to justice can㉓<I>never</I>㉑be defeated!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41445,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs0990b40'>\r\n//《これから思い知る!!\r\n//　ＤＡＡＡＩＩＡＡＡＡＡＨＨＨＨＨ!!》\r\n《You will learn!\r\n  DAAAIIAAAAAHHHHH!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41676,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1000a00'>\r\n//「……ッッ」\r\n\"Guh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41800,
+  "en": "\r\n//　総身の傷など知らぬげな、一条の猪突。\r\n//　一撃。\r\n\r\n//　対してこちらは、反応がわずか遅れた。\r\n//　為す術なく受け、衝撃を浴びる。\r\n\r\n//　振動が全身の甲鉄に伝わり、骨格が麻痺する。\r\n//　そこへ、返しの一打――\r\n  She charges like something out of a nightmare, spraying blood from wounds that seem to mean nothing.\r\n\r\n  I cannot say the same for my own. My parry is slow. Her blade smashes into my shoulder, numbing my arm to the bone.\r\n\r\n  Before I can recover, she strikes again.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42385,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1010a00'>\r\n//「うぬ……っ」\r\n\"Ngh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42512,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs1020a01'>\r\n//《御堂！》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42644,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1030a00'>\r\n//「大事なし」\r\n\"I'm fine!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42773,
+  "en": "\r\n//　ふらつく足を蹴り放って後退――と見せておき円転、\r\n//敵騎の側面へ逃れる。\r\n//　そんな小技が許される程度に、今の被弾の悪影響は\r\n//留まっていた。流石に筋力が万全ではなかったのか。\r\n\r\n//　一瞬こちらを見失った一条が、再び捉えて舌を打つ。\r\n  I stagger back―a feint, which I turn into a sidestep that carries me out of her arc of attack.\r\n  Perhaps her damage is telling after all, if after taking two hits, I am able to escape.\r\n\r\n  After a heartbeat, she reorients herself to face me once more.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43388,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1040a02'>\r\n//「ちっ……固ぇ」\r\n\"Tch. Tough son of a bitch.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43540,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs1050b40'>\r\n//《悪名を響かせるだけのものはある甲鉄だ。\r\n//　忌々しいの……》\r\n《Aye. Armor fit for the demon of legend.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43776,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1060a02'>\r\n//「だが、大したことじゃない」\r\n\"Getting cold feet?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43938,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs1070b40'>\r\n//《然り。\r\n//　斬れぬなら、<RUBY text='・・・'>砕けば</RUBY>良かろうよ》\r\n《Nay, Mido. What cannot be sundered... can always be <I>crushed.</I>》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44205,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1080a02'>\r\n//「だ、なぁッ!!」\r\n\"Damn straight!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44344,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs1090a01'>\r\n//《……好き放題言われているわね。\r\n//　御堂？》\r\n《I don't know about you, but I don't feel like taking their crap lying down.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44598,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1100a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44718,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs1110a01'>\r\n//《私たちがあいつを砕く。\r\n//　いい？》\r\n《We'll crush them first. Okay?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44914,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1120a00'>\r\n//「……ああ」\r\n\"...Do it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45043,
+  "en": "\r\n//　村正の要請に応えて、<RUBY text='サイクロトロン'>丹田</RUBY>を回す。\r\n//　熱量放出。\r\n\r\n//　迫る一条は一見して、芸の無い猪突猛進。\r\n//　が、その姿勢は低く、重心もまた下にある。\r\n\r\n//　同じ手は食わぬという事だろう。\r\n//　それは良い――だがやはり甘い。\r\n\r\n//　こちらの<RUBY text='・・・・'>引き出し</RUBY>を見誤っている。\r\n  In the pit of my gut, a cyclotron forms. I feed it my heat. The energy grows.\r\n\r\n  Though Ichijo's charge seems as reckless as before, her center of gravity this time is much lower. She will not let me throw her again.\r\n\r\n  Good―but not enough. Never assume that you've seen every trick your enemy has.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45809,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs1130a01'>\r\n//《<RUBY text='ながれ・まわる'>磁装・正極</RUBY>――》\r\n《I join the flows.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46007,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1140a00'>\r\n//「――<RUBY text='リニア・アクセル'>磁力加速</RUBY>」\r\n《Linear Accel!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46195,
+  "en": "\r\n//　正宗の刀撃を、対称的な一撃で迎え撃つ。\r\n//　相撃。互いに跳ね返され、しかしそのまま次の一撃\r\n//へ繋ぐ。\r\n\r\n//　吉野御流、木霊打ち。\r\n//　双方がこれを用いて戦えば、先刻も実証された通り、\r\n//その様は稽古じむ。\r\n\r\n//　――だが。\r\n  I meet her strike with its opposite. Our blades spring apart, then circle for another pass.\r\n\r\n  Kodama-uchi. When two swordsmen engage using this technique, their battle comes to resemble a training exercise.\r\n\r\n  Assuming that all else is equal.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46785,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1150a02'>\r\n//「――!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46903,
+  "en": "\r\n//　稽古とはならない。\r\n//　剣速に格段の差があったなら、そうはならない。\r\n\r\n//　甲鉄の磁気侵食による動作最適化が<RUBY text='ロス'>無駄</RUBY>という<RUBY text='ロス'>無駄</RUBY>\r\n//を殺し。\r\n//　関節は存在を忘れるほどに軽く。\r\n\r\n//　太刀はあたかも羽根を得たかのように踊る。\r\n//　\r\n//　――吉野御流、木霊打ちの村正崩し。\r\n\r\n//　<RUBY text='ツバメ'>飛燕</RUBY>打ち。\r\n  This time, there is no clean exchange of blows. I have a clear advantage―speed, granted by the fields of magnetic force humming through my armor.\r\n\r\n  My joints respond with liquid ease, and my sword blurs like a swallow in flight. A Muramasa original: Tsubame-uchi.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47680,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1160a02'>\r\n//「ぎっ……」\r\n\"Ghk!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47804,
+  "en": "\r\n//　この<RUBY text='・・'>反則</RUBY>には対応の術が無かったろう。\r\n//　眼前、息の届く間にあった敵影が吹き飛ぶ。\r\n\r\n//　吹き飛ぶ――\r\n//　そう、斬れてはいない。刃は弾かれていた。\r\n\r\n//　恐ろしいまでに硬い手応え。\r\n//　村正の堅牢さを<RUBY text='なじ'>詰</RUBY>られる筋合いではなかった。\r\n\r\n//　これほどの甲鉄を断ち切るには……\r\n  Clearly, she was not expecting me to cheat. The force of my counter sends her flying.\r\n\r\n  Not what I intended. Her armor remains whole. And she had the gall to complain about Muramasa's durability.\r\n\r\n  If I'm to cut my way through this bastion―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48517,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs1170a01'>\r\n//《御堂、時間を与えないで！\r\n//　今よ！》\r\n《Now, Mido! Don't give her a chance to recover!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48733,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1180a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48859,
+  "en": "\r\n//　結論は一致する。\r\n//　大刀を、鞘へ。\r\n//  \r\n//　この機に決着をつけねばならない。\r\n\r\n//　体内でちからを回す。\r\n//　今一度。しかし比較にならぬほどの力量を。\r\n\r\n//　行き着く処は一つ。\r\n//　――――<RUBY text='オワリノナガレ'>蒐窮の太刀</RUBY>。\r\n  I sheathe my sword.\r\n  Indeed. One choice left.\r\n\r\n  Once more, the power grows inside me―only this time, orders of magnitude stronger.\r\n\r\n  This must end. Now.<K>\r\n  ...I have to end it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49403,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1190a02'>\r\n//「くそ……がっ！」\r\n\"Gah... FUCK!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49544,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs1200b40'>\r\n//《御堂！　立てェい！》\r\n《On your feet, Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49702,
+  "en": "\r\n//　<RUBY text='とお'>徹</RUBY>らなかったとはいえ、武者の一太刀を浴びながら\r\n//一条の回復は言語道断の早さだった。\r\n//　既に膝を立て、剣を取り直している。\r\n\r\n//　あまつさえ――\r\n//　\r\n//　あれは、何か。\r\n  Even considering that my blow did not penetrate, her recovery is faster than it has any right to be. She rises to one knee, her sword raised before her.\r\n\r\n  And then―\r\n  What is㉓<I>that?</I>\r\n\r\n  A mist rises from her sword, raindrops flashing into steam. The air ripples like a desert mirage.\r\n\r\n//　あれも先刻の鉄炮と同様、五郎正宗固有の兵装なの\r\n//かもしれない。\r\n//　だが、その<RUBY text='ちから'>性能</RUBY>を誇示する機会はない。\r\n  Is she... feeding heat into the blade? Masamune spoke of \"seven tools.\" This must be another of their number.\r\n\r\n  No matter. Whatever fearsome power it contains, she will not get the chance to unleash it.\r\n\r\n//　こちらが早い！\r\n//　何をしようとも遅い。\r\n\r\n  The advantage is mine!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50793,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1210a00'>\r\n//「<RUBY text='レールガン'>電磁抜刀</RUBY>――――〝<RUBY text='マガツ'>禍</RUBY>〟」\r\n\"Railgun: Magatsu!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51017,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/013vs1220a01'>\r\n//《……御堂!?》\r\n《Mido!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51155,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1230a00'>\r\n//「ッ……」\r\n\"Kuh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51278,
+  "en": "\r\n//　――外し――――た――――\r\n  I―<I>missed?</I>\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51358,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1240a02'>\r\n//「ぎっ……」\r\n\"GHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51482,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1250a02'>\r\n//「いぃ、がっ、」\r\n\"EEE! GAH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51617,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1260a02'>\r\n//「ぐぅぅぅるぅああああーーーーーーッッ!!」\r\n\"GRRRRAHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51796,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs1270b40'>\r\n《DAAIEDARAAAHHHHHH!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51916,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs1280b40'>\r\n//《キハーッハッハッハッハッハァーーーッ!!\r\n//　どうだ……思い知ったか、妖甲よ！》\r\n《KAAHAHAHAHAHAHAHA! YES, DEMON! NOW YOU SEE!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52182,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb01/013vs1290b40'>\r\n//《悪に報いあり！\r\n//　正義に勝利あり！\r\n//　世の真理は今ここにあり！》\r\n《THE RIGHTEOUS STAND!\r\n  THE WICKED FALL!\r\n  BEHOLD! PROVIDENCE AT HAND!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52460,
+  "en": "\r\n//　湊斗景明は木にもたれている。\r\n\r\n//　立ち上がる力を失くしていることは明白だった。\r\n//　こうも斬られて、動ける筈がない。\r\n  Minato Kageaki lies before me, motionless. He is at my mercy. His wound is deep and jagged―and still crackling with heat.\r\n\r\n//　傷口は<RUBY text='・・・・・・'>じゃりじゃり</RUBY>と音を鳴らしていた。\r\n\r\n//　焼かれているのだ。\r\n//　まだ冷めやらぬ炎熱に。\r\n\r\n//　似たような音は、自分の右腕からもする。\r\n//　太刀を握る手が焼けている。\r\n  I hear the same crackling from closer by. I do not need to look to know its source. My right arm is fused to the hilt of my sword, scorched raw by the same hellish flame.\r\n\r\n//　痛みはなかった。\r\n//　多分、神経が既に焼き切れたのだろう。\r\n\r\n//　腕と太刀は焼接されて、もう一本の棒だ。\r\n//　それでも動かせる。\r\n  There is no pain. The limb is already dead, a charred husk―that still serves its purpose.\r\n\r\n//　この<RUBY text='つるぎ'>正宗</RUBY>は<RUBY text='おれ'>武者</RUBY>が戦いを望む限り、力をくれる。\r\n\r\n//　真紅色の武者の前へ、歩み寄った。\r\n//　雨粒を焼いて煙を立てる刀を、喉元に突き付ける。\r\n  This is what it means to be a musha. So long as I possess the will to fight, Masamune will give me the strength.\r\n\r\n  I step forward and raise my smoking blade to point at my enemy's throat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53991,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1300a02'>\r\n//「殺す……ぞ……」\r\n\"I'm gonna kill you... Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54151,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1310a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54271,
+  "en": "\r\n//　返答はない。\r\n//　聴いていることは、目を見ればわかる。けれど何も\r\n//返してはこない。\r\n\r\n//　言葉も。<RUBY text='ひとみ'>眸</RUBY>の光すらも。\r\n//　それがとてつもなく癇に障った。\r\n  No response. I know he heard me. And yet, not even a flicker in his eyes.\r\n\r\n  Something clenches deep in my gut.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54651,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1320a02'>\r\n//「できないとでも、思ってるのか」\r\n\"You think I'm bluffing?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54824,
+  "en": "\r\n//　気のせいか。\r\n//　この台詞は二度目であるように思う。\r\n\r\n//　だとすると、あたしは何を未練がましく繰り返して\r\n//いるのか。\r\n//　彼に、それを否定された覚えもないのに。\r\n  Dissonance. Have I spoken these words before? Why would I feel the need to again?\r\n\r\n  He never doubted my resolve... did he?\r\n\r\n//　頭が痛い。\r\n//　しかし、そんなものより遥かに痛く辛い何かが、胸\r\n//の奥からせり上がってきている。\r\n  A howling agony builds in my skull, but that is nothing compared to the thing in my gut. It rises―rises―to squeeze my heart.\r\n\r\n//　良くない。\r\n\r\n//　この光景は良くない。\r\n//　この男は良くない。\r\n  This is wrong.\r\n\r\n  Everything about this is wrong.\r\n\r\n//　終わらせるべきだ。\r\n//　罪人の首を<RUBY text='は'>刎</RUBY>ねよう。\r\n  I know how to end it. Take his head.\r\n\r\n//　この男は人殺し。\r\n//　六波羅とも銀星号とも関わりのない、何も悪くない\r\n//人間を幾人も殺したのだ。本人がそう認めた。\r\n  He is a murderer. He has killed innocents. Children. If I do not bring him to justice, who will?\r\n\r\n//　あたしはそんな奴を許さない。\r\n//　正宗という力を手に入れた今、そんな奴を滅ぼす事\r\n//があたしの役目だ。\r\n\r\n//　正義の味方は何処にもいない。\r\n//　だから、あたしが正義に味方する。\r\n  That's my duty now. I have the power. I must be a hero where before there were none.\r\n\r\n//　非凡な力を持つ武者でありながら、その力で弱者を\r\n//殺すような奴は、あたしの手で倒す。\r\n//　どんな理由があっても許さない。\r\n  Wherever the mighty make victims of the helpless, I must be there to punish their crimes.\r\n\r\n//　許してはならない。\r\n//　そう、教えられた。\r\n\r\n//　………………………………誰に？\r\n  No matter their reasons, they all must die. So I was taught.\r\n\r\n  ...Taught? By whom?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56896,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1330a02'>\r\n//「……うくっ……」\r\n\"...uhk...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57034,
+  "en": "\r\n//　心臓が、鼓動を一回だけ飛ばした。\r\n//　息が止まり、肌が震える。\r\n  For an instant, my heart ceases to beat. My throat constricts. My skin crawls.\r\n\r\n//　早くしよう。\r\n//　悪を許さないのなら、もう殺すだけでいい。\r\n\r\n//　すぐに済む。\r\n//　剣を一突きして終わりだ。\r\n  I must finish it. Quickly.\r\n  If I truly hate evil―\r\n\r\n  Then there's only one answer. Just thrust―and it's over.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57509,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1340a02'>\r\n//「なんでだよ……」\r\n\"...Why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57645,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1350a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57765,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1360a02'>\r\n//「なんで……\r\n//　何も言わない」\r\n\"Why won't you㉓<I>say</I> something?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57950,
+  "en": "\r\n//　誰かがしつこく、湊斗景明を問い詰めている。\r\n//　あたしはもう、許さないと決めているのに。\r\n\r\n//　煩わしい……。\r\n  Someone is talking. Her voice is bitter.㉒<I>Weak.</I>㉔ Stop it. Can't you see I have a duty?\r\n\r\n  Just... shut up already.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58257,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1370a02'>\r\n//「言えよ！」\r\n\"Say it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58384,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1380a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58504,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1390a02'>\r\n//「理由があったんだろ!?\r\n//　どうしようもなかったんだろっ!?」\r\n\"Tell me you had a reason!\r\n  Tell me you had no choice!\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1400a02'>\r\n//「あんたはそうするしかなかったんだろぉ!?」\r\n\"You didn't want to kill them, did you!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58942,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1410a11'>\r\n//「……呪いだよ」\r\n\"It's a curse.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59081,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1420a02'>\r\n//「呪い……？」\r\n\"...Sorry?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59213,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1430a11'>\r\n//「村正が妖甲と称される所以。\r\n//　……善悪相殺の掟。その呪縛」\r\n\"Muramasa is cursed. I mean that literally. It's called the Law of Balance.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59480,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1440a11'>\r\n//「悪しきものを一つ斬ったなら、\r\n//　善きものも一つ斬る」\r\n\"Every time Kageaki kills an enemy, he must kill one friend in return.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1450a11'>\r\n//「景明の意思とは関わりなく」\r\n\"The Law㉓<I>forces</I>㉓him to.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59902,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1460a02'>\r\n//「……な」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60020,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1470a11'>\r\n//「呪いで最初に殺したのは自分の<RUBY text='はは'>養母</RUBY>だ。\r\n//　あいつは一番最初に、一番大切な人間を手\r\n//に掛けた」\r\n\"Its first victim was his own mother. He loved her more than anyone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60356,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1480a11'>\r\n//「だから引き返せなくなった。\r\n//　そこから始まった全てを終わらせるための\r\n//……戦いの道を」\r\n\"And that's why he had to keep going, you see. If he'd stopped, she'd have died for nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60683,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1490a02'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60809,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1500a11'>\r\n//「……それでも止めてやるべきだったのかも\r\n//しれない。\r\n//　そうだろうな。おそらくは。きっとそうだ\r\n//ろう」\r\n\"I know that's not an excuse. Perhaps I should have stopped him anyway. ...I know I should have.\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61164,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1510a11'>\r\n//「だが……私は景明を戦わせている。\r\n//　呪いも、何もかも、全て承知の上で」\r\n\"But I didn't. And I won't. Because there's no one else.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1520a11'>\r\n//「他にいないからだ。\r\n//　銀星号と戦い、その〝卵〟を破壊し、災厄\r\n//の拡散を防いでくれる武者は……」\r\n\"No one else will stop Ginseigo, and Ginseigo㉗<I>must</I> be stopped, even if innocents have to die.\r\n  ...It was my decision.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61797,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/013vs1530a11'>\r\n//「責められるべきは、私だよ」\r\n\"I'm the one you should blame.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61970,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1540a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62096,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1550a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62216,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1560a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62336,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1570a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62462,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1580a02'>\r\n//「こ……のっっ!!」\r\n\"FUCK!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62595,
+  "en": "\r\n//　太刀を手元に引き戻し、体重を掛けて突き出す。\r\n//　破滅的な高温を宿した切先は、甲鉄を水飴も同然に\r\n//貫いた。\r\n\r\n//　肉を焦がす。\r\n//　その下の内臓をも焼き上げる。\r\n  I reposition my blade and strike. Its white-hot tip sinks into his armor like wax. The smell of roasting flesh fills the air.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62975,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1590a00'>\r\n//「ぐふ……」\r\n\"Guh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63101,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1600a02'>\r\n//「どうだ……」\r\n\"Well!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63230,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1610a00'>\r\n//「…………。\r\n//　場所が違う」\r\n\"...Not there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63388,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1620a02'>\r\n//「……何？」\r\n\"...What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63516,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1630a00'>\r\n//「そんな所を刺しても……\r\n//　武者は死なぬ」\r\n\"You have to aim higher... if you want to kill a musha.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63736,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1640a02'>\r\n//「てめ……」\r\n\"You―\"\r\n\r\n//!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63869,
+  "en": "\r\n//　湊斗景明の言う通りだ。\r\n//　喉元に当てていた刀を、わざわざ引き戻して、胸へ\r\n//突き入れて……どうする。\r\n\r\n//　そのまま刺せば、それで良かった。\r\n//　……今からそうしよう。\r\n\r\n//　すぐに。\r\n//　許されざる罪人を殺すために。\r\n  He's right. My blade was at his throat. Why did I stab him㉗<I>there</I>㉓instead?\r\n\r\n  I should have killed him.\r\n  ...I still can.\r\n\r\n  Do it. It's what he deserves.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64375,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1650a02'>\r\n//「ほかにあるだろ……」\r\n\"...That's it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64523,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1660a02'>\r\n//「言う事ならほかにあるはずだろ！」\r\n\"That's all you've got to say!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64706,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1670a00'>\r\n//「……」\r\n\"......\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1680a00'>\r\n//「無くも……ない」\r\n\"There is... one more thing.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1690a00'>\r\n//「言えた筋合いでも……ないが……」\r\n\"I have no right to ask this...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65149,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1700a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65269,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1710a00'>\r\n//「……銀星号を……頼む」\r\n\"But please... stop Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65435,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1720a02'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65567,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1730a02'>\r\n//「な、に？」\r\n\"What...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65695,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1740a00'>\r\n//「その正宗ならば……あるいは……\r\n//　止められるかもしれない」\r\n\"With Masamune's power... you might stand a chance.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1750a00'>\r\n//「頼む……」\r\n\"Please...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66059,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1760a02'>\r\n//「違うだろッ!!\r\n//　そんなこと聞きたいんじゃねぇよ!!」\r\n\"NO! That's not what I want to hear!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66273,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1770a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66394,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1780a02'>\r\n//「あんたは悪くないんだろうがっ！\r\n//　なのに、殺されていいわけねぇだろ！」\r\n\"You're supposed to tell me how it wasn't your fault! How you don't deserve to die like this!\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1790a02'>\r\n//「あたしに理由を言えよ！\r\n//　呪いのせいだったんだって、説明しろよ！」\r\n\"It was the curse, wasn't it!? That's why you killed them!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66951,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1800a00'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67083,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1810a02'>\r\n//「そうすりゃ……\r\n//　そうしてくれれば……」\r\n\"Just tell me, please! So I can―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67282,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1820a00'>\r\n//「関係……ない」\r\n\"It... doesn't matter.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67429,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1830a02'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67555,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1840a00'>\r\n//「罪は……罪。\r\n//　悪は……悪」\r\n\"I... killed them.\r\n  My deeds. My crimes.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1850a00'>\r\n//「それを裁こうとする……お前は、正しい。\r\n//　理由など……関係ない……」\r\n\"You are right... Ichijo.\r\n  I deserve... to be punished.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1860a00'>\r\n//「悪は」\r\n\"Murder...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1870a00'>\r\n//「罪は」\r\n\"Evil...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 68228,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1880a02'>\r\n//「――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 68360,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1890a00'>\r\n//「許しては、ならないのだ」\r\n\"Must never be forgiven.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 68524,
+  "en": "\r\n//　\r\n//　　　　　　　私を止めてはならない\r\n\r\n//　\r\n//　　　　　　　私を許してはならない\r\n\r\n//　\r\n//　　　　　　　　　　　憎め\r\n\r\n//　\r\n//　　　　　　　　私の犯した罪を憎め\r\n\r\n//　\r\n//　　　　　　　　私という悪を憎め\r\n\r\n//　\r\n//　　　　　　　　　　　憎め\r\n//　　　　　　　　　　　怒れ\r\n\r\n//◆ウェイト\r\n\r\n//　\r\n//　　　　　　　　　　　殺せ\r\n// \r\n \r\n \r\n \r\n \r\n \r\n<center>Do not stop me.\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>Do not forgive my crimes.\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>Hate them, Ichijo.\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>Hate my evil.\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>Hate me.\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center>Reject me.\r\n\r\n\r\n \r\n \r\n \r\n \r\n \r\n<center><I>Kill me.</I>\r\n \r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69308,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1900a02'>\r\n//「……やだよぅ……」\r\n\"...Please...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69452,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1910a00'>\r\n//「一条……」\r\n\"Ichijo...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69581,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1920a02'>\r\n//「やだよ……父様……\r\n//　もう、やだよ……」\r\n\"Please, Father... don't make me do it...!\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1930a02'>\r\n//「死なないで……」\r\n\"Please don't go away...\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/013vs1940a02'>\r\n//「……父様……\r\n//　………湊斗さん………」\r\n\"Father... Officer Minato...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 70114,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/013vs1950a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 70240,
+  "en": "\r\n//　俺は――――\r\n//　<RUBY text='すが'>縋</RUBY>りつき、泣きじゃくる一条を、ただ眺めやること\r\n//しかできなかった。\r\n  As I stare in disbelief, Ichijo throws herself upon me―<br>and crumples, sobbing, into my arms.\r\n",
+  "pt": ""
+ }
+]

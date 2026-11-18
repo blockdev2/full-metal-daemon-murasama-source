@@ -1,0 +1,72 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0220010b00'>\r\n//「ばっ、馬鹿な！\r\n//　篠川の援軍が来ただとぉ!?」\r\n\"Reinforcements!? Impossible! Sasagawa is completely cut off!\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0220020b00'>\r\n//「どうやってだ！\r\n//　古河は我々が既に押さえた……」\r\n\"How could they break through? We still hold Koga!\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0220030b00'>\r\n//「いや、そもそも早過ぎる！\r\n//　開戦からまだ一日半しか経っていないでは\r\n//ないかっ!!」\r\n\"And it hasn't even been two days since we attacked! They can't have gotten here so fast!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1017,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0220040b03'>\r\n//「ウィロー少将、落ち着いて下さい。\r\n//　篠川の全軍が押し寄せてきたわけではあり\r\n//ません」\r\n\"Sir, please calm down. It's not the entire Sasagawa garrison.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1327,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0220050b00'>\r\n//「何だと？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1468,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0220060b03'>\r\n//「来たのは飛行艦が一隻だけです。\r\n//　我が軍のガレーキープ級にも匹敵する大型\r\n//ですが……一隻は一隻」\r\n\"It's just one airship, sir. An airship to rival our Galley Keep, but still just one.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1819,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0220070b03'>\r\n//「搭載兵力も高は知れています」\r\n\"At most, a single wing of dragoons.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2017,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0220080b00'>\r\n//「ふむ……」\r\n\"Hmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2159,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0220090b03'>\r\n//「大鳥獅子吼は古河の陥落を見越して、少数\r\n//精鋭による来援を選んだのでしょう。\r\n//　占領直後なら古河の防空も甘い……突破は\r\n//困難であっても不可能ではありません」\r\n\"General Otori must have predicted that Koga would fall. A small force, leaving Sasagawa early, could have broken through before our air defense network was established.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2682,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0220100b03'>\r\n//「敵ながら果断な将軍ですね」\r\n\"A bold move, and effective.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2869,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0220110b00'>\r\n//「……だが。\r\n//　所詮は一隻、だな？」\r\n\"...But it's still just one airship. Correct?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3086,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0220120b03'>\r\n//「そうです。\r\n//　大勢は覆りませんよ」\r\n\"Correct, sir. Not enough to turn the tide.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0220130b03'>\r\n//「普陀楽上空の航空戦力を一部動かし、迎撃\r\n//させましょう。\r\n//　六波羅の心臓を止めるのが少し遅れますが、\r\n//それだけのことです」\r\n\"We'll send several squadrons to head them off. It may delay Rokuhara's defeat by a few hours, but that's all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3706,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0220140b00'>\r\n//「それだけのことでも、忌々しいがな。\r\n//　あと一歩で終わるというところに邪魔とは\r\n//……」\r\n\"A few hours is a few too many, Colonel. Why now? We almost had them...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4025,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0220150b03'>\r\n//「閣下」\r\n\"Sir...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4161,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0220160b00'>\r\n//「わかっているよ、クライブ。\r\n//　任せる。あの援軍を叩き潰し、普陀楽城の\r\n//士気を完全に砕いてやってくれ」\r\n\"I know, Clive. I know. Take care of it. Sweep their reinforcements from the sky, and the fortress will crumble once and for all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4562,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0220170b03'>\r\n//「了解」\r\n\"Yes sir.\"\r\n",
+  "pt": ""
+ }
+]

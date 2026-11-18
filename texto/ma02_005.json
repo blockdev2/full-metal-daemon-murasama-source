@@ -1,0 +1,652 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050010b45'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 337,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050020b45'>\r\n//「……っ……」\r\n\"Ugh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 464,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050030b45'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050040b45'>\r\n//「ち……年を食ったかよ……俺も。\r\n//　あのような若造に……」\r\n\"Damn... I must be getting old to let a whelp like that best me.\"\r\n\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050050b45'>\r\n//「……畜生が……」\r\n\"Next time, I'll...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 968,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050060b35'>\r\n//「ほっ、ほっ、ほっ。\r\n//　不覚であったのう。主らしくもない」\r\n\"Ho ho ho! It's not like you to suffer defeat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1210,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050070b45'>\r\n//「小太郎！」\r\n\"Kotaro!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1335,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050080b35'>\r\n//「怪我は大したことはないようだの。\r\n//　打ち身程度か。何より何より、主にもまだ\r\n//運があるということよ」\r\n\"Your injuries don't appear serious. After all, a few bruises never hurt anyone. Looks like㉓<I>something</I>㉔is still looking out for you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1737,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050090b45'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1861,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050100b35'>\r\n//「少し待て、薬をやろう。\r\n//　強壮剤もあるが如何する。呑むか」\r\n\"One moment. I have just the thing to fix you up. I also have a few things to put some㉓<I>spring</I>㉔in your step. Would you like one?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2198,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050110b45'>\r\n//「……。\r\n//　事情の説明はいらん様子だな？」\r\n\"...Sounds like you know what happened.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2400,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050120b35'>\r\n//「見ておったからの」\r\n\"I saw the whole thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2561,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050130b45'>\r\n//「何もせずにか！」\r\n\"And did nothing!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2705,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050140b35'>\r\n//「はてな。\r\n//　儂に何かできることがあったかの？」\r\n\"Well... was there anything I could have done?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2932,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050150b45'>\r\n//「空々しいことを抜かす。\r\n//　あの場に貴様がおれば、彼奴めを討ち取る\r\n//ことも容易かった筈だ！」\r\n\"No excuses! If you'd been there, killing that damned musha would've been child's play!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3258,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050160b35'>\r\n//「否、とは言わぬがの。\r\n//　それで如何する？」\r\n\"Very true, very true. But what would you have done then?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3490,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050170b45'>\r\n//「何……」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3610,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050180b35'>\r\n//「勢いに任せて巡察官とやらも斬ったかね？」\r\n\"Killed that inspector in a fit of rage, perhaps?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3830,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050190b45'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3948,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050200b35'>\r\n//「それはいかん。で、あろ？\r\n//　あの女を殺してしまったら我らは手詰まり。\r\n//主がいかにＧＨＱへ工作しておろうが無駄よ。\r\n//連中は体面のために主を処刑せずばなるまい」\r\n\"That would have been a poor choice, no? Killing her would have ruined everything. All the bribes in the world couldn't have kept GHQ from claiming your head.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4454,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050210b45'>\r\n//「うぬ……」\r\n\"Hrmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4579,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050220b35'>\r\n//「それを思えば主が敗れたはむしろ不幸中の\r\n//幸いよ。むろん、殺されては元も子もない。\r\n//いざという際には手を出すつもりでいたが、\r\n//ほっ、主は自力で生還したではないか」\r\n\"If you look at it that way, your defeat was a stroke of luck. Of course, we can't have you dying either, so I was prepared to act if necessary. Fortunately, you escaped without my lifting a finger. Ho!\"\r\n\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050230b35'>\r\n//「儂ごときの手は無用であったということよ。\r\n//　だからのぉ、あまり責めてくれるな。儂も\r\n//些か腰が重いかもしれんが、主よりひと回り\r\n//余計に年を重ねておるでな。仕様がない」\r\n\"Don't blame me for not helping when you didn't need it. I may be a bit slow on my feet, but do remember that I'm getting on in years.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5621,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050240b45'>\r\n//「……抜かせ。\r\n//　まあいい。確かに今回は俺の失策であった。\r\n//貴様に当たったところで詮もないわ」\r\n\"...I'm sure. Fine, you've made your point. There's no use blaming you for my failure.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5949,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050250b45'>\r\n//「しかし、この先は働いて貰うぞ」\r\n\"But you'd better be ready to work next time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6141,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050260b35'>\r\n//「むろん。儂は主に雇われた身ゆえ、御用と\r\n//あらば承ろう。\r\n//　何をしようかの。歌を詠もうか。それとも\r\n//絵でも描こうかな」\r\n\"Certainly. I am in your pay, after all. How can I refuse? What will it be, then? Shall I compose a poem? Or how about a fine painting?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6564,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050270b45'>\r\n//「俺が貴様に<RUBY text='く'>呉</RUBY>れている金は厚生年金か？」\r\n\"Since when am I doling out pensions?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6784,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050280b35'>\r\n//「冗談よ。凄むでない。\r\n//　残念なことに、我が家の家訓には無為徒食\r\n//という言葉がなくてのゥ。どうぞこの老骨に\r\n//鞭打って、こき使ってくれい」\r\n\"I was only joking. Don't glare at me so. Fortunately for you, 'freeloading' is one word you won't find in my family dictionary. You may do as you please with these old bones of mine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7282,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050290b45'>\r\n//「当たり前だ。恩着せがましいわ。\r\n//　貴様とて、ここでひと稼ぎせねば後がない\r\n//身であろう」\r\n\"Such was my intent. Don't patronize me. You have as much need of my money as I have of your swords.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7615,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050300b35'>\r\n//「ほっ。痛い所を突いてくれるの。\r\n//　まさに然りよ。主家と勤めとを失い、劔冑\r\n//までも一度は奪われた我が一族。怪しげな話\r\n//にでも食いつかぬことには、孫らが干上がる」\r\n\"Ho! Quite true, I'm sorry to say. We lost our liege and our purpose, and even, for a time, our tsurugi. Our grandchildren will grow up in poverty if we don't jump at every chance we get, even the ones that seem a little, shall we say,㉓<I>off.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8215,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050310b45'>\r\n//「口の減らぬ……。\r\n//　ふん。だがそう思うのならば、貴様らには\r\n//あの赤い武者を相手にして貰おうか」\r\n\"Hmph, nonsense. If you're that desperate, then you can have that crimson musha all to yourselves.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8558,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050320b35'>\r\n//「ほう……？　儂に譲るかね。あの村正を。\r\n//　これは意外。主ほどの気概ある男であれば、\r\n//借りは己の手で返さずにおかぬものと思うて\r\n//おったに」\r\n\"Oh? Give Muramasa to me, will you? I thought a man with your pride would be itching at the chance to settle the score.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8995,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050330b45'>\r\n//「煽っているつもりか？\r\n//　言われずとも、できる事ならそうしている。\r\n//だが、翼を砕かれては如何ともならぬわ」\r\n\"Trying to provoke me, are you? Of course I would settle the score myself, if I could. But with my wings damaged, there's no hope of that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9393,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050340b35'>\r\n//「飛べぬか」\r\n\"Your tsurugi can't fly?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9543,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050350b45'>\r\n//「鍛冶師に直させぬことにはな。\r\n//　鍛冶か……ち。まさか<RUBY text='・'>奴</RUBY>が俺の頼みを聞く\r\n//筈もなし。今頃は祝い酒でも呷っているか」\r\n\"Not until I find a smith to fix it.\r\n  A smith... Tch! I can hardly expect㉓<I>him</I>㉒to take my commission. I imagine he's raising a cup right now to toast my defeat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10011,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050360b35'>\r\n//「休息をとればそのうち直ろう」\r\n\"If you let it rest, I'm sure it will be as good as new in no time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10231,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050370b45'>\r\n//「貴様らの真打と一緒にするな。数打はそこ\r\n//まで便利に出来ておらん。\r\n//　自然修復など待っておっては、俺も貴様も\r\n//寿命が尽きるわ」\r\n\"Kazu'uchi aren't that accommodating, unlike your shin'uchi. We'll both die of old age long before it repairs itself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10639,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050380b35'>\r\n//「やれ、それでは仕方もなかろうの。\r\n//　心得た。年寄りの冷水というものだがここ\r\n//は一つ、老いてなお盛んなりと言わせてくれ\r\n//ようかい」\r\n\"Well then, if you're so keen on watching an old man exert himself, then I suppose there's no choice. I'll just have to prove that I can still keep up with the young.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11111,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050390b45'>\r\n//「奴は俺の首を取らねば済まぬ様子だった。\r\n//すぐにも追って来よう。\r\n//　任せたぞ……<RUBY text='おいらく'>老楽</RUBY>の身を貴様と二人、うら\r\n//寂しい森に沈めるなど御免なのでな」\r\n\"That musha seemed set on taking my head. He'll likely come for me soon. Make sure you finish him. I've little desire for my withered corpse to be buried next to yours in this godforsaken forest.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11654,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050400b35'>\r\n//「それはこちらも願い下げよ。言うてはなん\r\n//だが主の顔、墓の中まで付き合いたいような\r\n//代物ではないからのう」\r\n\"I share that sentiment. As much as it pains me to say it, I can't say the prospect of staring at your face for eternity excites me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12055,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050410b45'>\r\n//「意見が合って結構だ。\r\n//　それはともかく、貴様……先程、聞き捨て\r\n//ならぬことを洩らしたな」\r\n\"I'm glad we agree. That aside... I believe you let slip something rather important just now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12384,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050420b35'>\r\n//「とは？」\r\n\"Which was?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12518,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050430b45'>\r\n//「村正、と言ったか？」\r\n\"You called it Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12674,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050440b35'>\r\n//「あの赤い劔冑のことだの」\r\n\"That red tsurugi, yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12844,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050450b45'>\r\n//「確かか」\r\n\"Are you certain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12975,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050460b35'>\r\n//「さて……。\r\n//　劔冑の目利きが儂の仕事ではないでなぁ。\r\n//見立て違いということもあろうよ」\r\n\"Well... appraising tsurugi is not my profession. I suppose I might be mistaken.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13297,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050470b45'>\r\n//「しかし、一目見て伝説が謳う村正と断定は\r\n//したわけか」\r\n\"But a single look was enough to convince you that it was the legendary Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13559,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050480b35'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13686,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050490b45'>\r\n//「そういえばあの男、妙なことを尋ねてきた。\r\n//　銀星号のことを知らんか、などと……」\r\n\"Now I remember. That man asked a strange question: whether I knew Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13985,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050500b35'>\r\n//「ほーぅ……」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14118,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050510b45'>\r\n//「……露骨に惚けるではないか？\r\n//　俺の知らぬことを何か知っているようだ」\r\n\"...Is that your best attempt at playing the fool? It seems that you know something I don't.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14418,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050520b35'>\r\n//「はてな」\r\n\"I wonder.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14551,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050530b45'>\r\n//「貴様が俺の劔冑に施した妙な<RUBY text='・・・'>仕掛け</RUBY>とでも\r\n//関わりのあることか？」\r\n\"Is it related to that㉒<I>upgrade</I> you performed on my tsurugi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14845,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050540b35'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14972,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050550b45'>\r\n//「…………まあ、良い。\r\n//　いずれにしろ、事は厄介だ。あれが貴様の\r\n//言う通り勢州村正であろうと、なかろうとな」\r\n\"...No matter. Whether he truly wields Muramasa of Seishu or not, it doesn't change the fact that he's a difficult opponent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15359,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050560b45'>\r\n//「勝算はあるのか」\r\n\"Can you defeat him?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15505,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050570b35'>\r\n//「ほっ。その心配は無用に願おうかの。\r\n//　妖甲村正であろうが名甲正宗であろうが、\r\n//この小太郎の前では同じ事。赤子にひとしく\r\n//無力で、可愛いものよ」\r\n\"Ho! You need not worry about that, my friend. Whether it be the cursed Muramasa or the blessed Masamune, it matters not. When they face me, even the mightiest musha are but lost, frightened children.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16032,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050580b45'>\r\n//「随分と吼える。\r\n//　貴様らがそこまでの<RUBY text='わざ'>術技</RUBY>を秘めていたとは、\r\n//この俺にして知らなんだぞ」\r\n\"You'd best live up to your boasts. I didn't know you had such powerful techniques.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16375,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050590b35'>\r\n//「血の気の多い村の若い衆なぞを相手に使う\r\n//ようなものでもないからの。\r\n//　主のような練磨の猛者が敵ならば、出さぬ\r\n//ではないが……ほほ、見てみたいかの？」\r\n\"It's not the sort of thing you waste on a few uppity villagers. Against a veteran warrior such as yourself, however, it may come in handy... Hoho. Would you like to find out?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16886,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050600b45'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17004,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050610b35'>\r\n//「それとも……\r\n//　そちらの御仁が相手をして下さるかな？」\r\n\"Or... perhaps the gentleman over there would be willing to help demonstrate.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17274,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050620a12'>\r\n//「いやいや、いや……。\r\n//　そいつぁ勘弁して頂けませんかねぇ」\r\n\"Ah... Could I get a rain check on that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17513,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050630b45'>\r\n//「貴様……」\r\n\"You!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17635,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050640b35'>\r\n//「ほっ。\r\n//　久しいの、雪車町殿」\r\n\"Ho! It's been some time, Sorimachi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17828,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050650a12'>\r\n//「へ、へ。\r\n//　どうも、ご無沙汰をしまして」\r\n\"Heh heh. Sorry for not keeping in touch.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18041,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050660b45'>\r\n//「……丁度いい。\r\n//　貴様に使いをやろうと思っていたところだ」\r\n\"Good timing. I was just about to send someone to fetch you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18291,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050670a12'>\r\n//「はい、それはまあ、そうでしょうとも。\r\n//　大尉殿が仰りたいことは、ようくわかって\r\n//おります」\r\n\"Yes, well, I had a feeling. And I've got a pretty good idea what you're gonna say.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18622,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050680b45'>\r\n//「一応言わせろ。腹に溜まる。\r\n//　貴様、民政局との<RUBY text='・・・'>つなぎ</RUBY>は万全だと言って\r\n//いたのではなかったか!?　これで何処からも\r\n//邪魔は入らない、と！」\r\n\"Let me say it anyway. I need to get it off my chest.\r\n  You lying bastard! You assured me Civil Affairs was in my pocket! They were supposed to make sure nothing got in my way!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19134,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050690a12'>\r\n//「えぇ、はい。確かにそう申し上げました。\r\n//　コブデン中佐にお引き合わせした折でした\r\n//っけねぇ……じかに話す機会も必要だろうと、\r\n//この雪車町の周旋で」\r\n\"Yes. Yes, I did. That was when I brought you to meet Colonel Cobden, wasn't it? I figured you'd want to talk mano-e-mano and all that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19602,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050700b45'>\r\n//「だが実際はどうだ。巡察官だと!?\r\n//　あんなものを寄越させないための裏工作で\r\n//はないか……！　これでは何の意味もないわ。\r\n//コブデンは能無しか、それとも恩知らずか!?」\r\n\"But what did it get me? An inspector!? I paid him precisely to keep this from happening! Is Cobden a fool, or an ingrate!? Was all that money wasted!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20096,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050710a12'>\r\n//「お怒りはご尤も。大変ご尤もで。\r\n//　しかしですねぇ、大尉殿。コブデン中佐は\r\n//別に<RUBY text='・・・・・'>ばっくれた</RUBY>わけでも、忘れてたわけでも\r\n//ないんでして……」\r\n\"You're quite right to be angry. Quite right. But just so you know, Captain, the colonel hasn't gone back on your bargain. Or forgotten it, for that matter.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20603,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050720b45'>\r\n//「約束通りのことはしたと？\r\n//　それでこの<RUBY text='ザマ'>醜態</RUBY>か？」\r\n\"You're saying㉓<I>this</I>㉓is how he keeps his promises?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20865,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050730a12'>\r\n//「通すべきとこにはちゃんと話を通しました\r\n//んで、はい。そいつぁ間違いないです。\r\n//　ただちょいと、予想してなかった穴が……\r\n//巡察官制度なんですがね。足を掬われまして」\r\n\"He pulled the right strings in the right places. That's for sure. It's just, there was one teeny thing he missed. The inspector program. Never saw it coming.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21380,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050740b45'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21498,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050750a12'>\r\n//「あれは民政局の人間が適当に割り振られて\r\n//行くやつで、占領地の実情を把握するための\r\n//巡察ってのが任務なんですが……\r\n//　表向きのことでしてねぇ」\r\n\"An inspector's job is to check in on the locals, see how the occupied territories are getting on and all that. Or that's the PR line.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21956,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050760a12'>\r\n//「侵略者じゃありませんって格好つけるため\r\n//にあるようなもんでして。実際は有給休暇か\r\n//慰安旅行みたいなもんなんです。何もしない\r\n//のが暗黙のCHECK了解になってんですよ、巡察官は」\r\n\"The point is to make GHQ look less like an invading army, but it's really just a paid vacation. Inspectors all know they're not supposed to㉒<I>do</I>㉓anything.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22488,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050770a12'>\r\n//「そんなだから中佐も気にはしてなかったん\r\n//ですがねぇ。それでも大和人の中尉がここへ\r\n//巡察に出たって聞くと、使い走りに非公式の\r\n//伝言を与えて追わせたんですよ。こうして」\r\n\"That's why it slipped the colonel's mind. Not that he didn't try to correct the mistake, mind you. As soon as he heard a Yamatoan lieutenant'd been assigned to this village, he sent an errand boy with an message for her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23069,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050780b45'>\r\n//「貴様が？」\r\n\"And that's supposed to be you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23217,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050790a12'>\r\n//「<RUBY text='さい'>左様</RUBY>で。\r\n//　ただそれが、間に合いませんでね。着いた\r\n//時にはもう、あの巡察官が<RUBY text='・・・・・・'>やっちまった</RUBY>後で\r\n//して……」\r\n\"You got it. But he was too late. By the time I arrived, the inspector'd already gone and fouled it all up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23660,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050800a12'>\r\n//「後ほど中佐に連絡を飛ばしておきますが、\r\n//驚くでしょうねぇ。何もしないのが巡察官の\r\n//本分だっていうのに、まさか建前の方を押し\r\n//立てて暴れ回るお人がいようとは、いやはや」\r\n\"I bet the colonel will be awful surprised when I tell him. Inspectors are supposed to be lazy bums. Who'd have thought one would actually take her job seriously? What a world...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24201,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050810b45'>\r\n//「……。\r\n//　伝言とやらは、あの女に伝えたのか？」\r\n\"...Did you deliver your message?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24406,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050820a12'>\r\n//「えぇ、こちらへ来る前に。\r\n//　大尉殿との約束がどうのなんて言えません\r\n//から、単純に、何もしないで欲しいって意向\r\n//を伝えるだけの内容だったんですがねぇ……」\r\n\"Yes, just before coming here. I couldn't say anything about the deal, of course, so I just relayed the colonel's wishes for her to back off.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050830a12'>\r\n//「それをいいことに、シラを切られちまいま\r\n//して。自分は巡察官の職務を果たすだけです、\r\n//とこうで。そりゃ正論ですからね。こっちと\r\n//しちゃ、返す言葉ってもんがない」\r\n\"But she used that as an excuse to play dumb, she did. Kept saying she was only doing her duty. Absolutely right. Oh yes. How was I supposed to argue?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25382,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050840b45'>\r\n//「……あの女は何者だ」\r\n\"...Who is she?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25529,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050850a12'>\r\n//「詳しい話は存じませんがね。欧州のどこか\r\n//の軍から連盟軍に出向してるんだそうで。\r\n//　そいつは別に珍しくもなんともありゃしま\r\n//せんが……」\r\n\"I'm not privy to the details, but apparently she's on loan to the AEF from some country in Europe or other. That by itself is nothing unusual, but...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25994,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050860b45'>\r\n//「大和人なのだろう？」\r\n\"She's Yamatoan, isn't she?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26153,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050870a12'>\r\n//「その通りで。\r\n//　名前も大鳥香奈枝で大和人、もちろん大和\r\n//語に不自由はなし、と間違いのないところで\r\n//してねぇ。それがどうして欧州にいたやら」\r\n\"Oh yes. Otori Kanae, Yamato born and raised. And of course, she speaks the language perfectly. I haven't the faintest idea what she was doing over there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26628,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050880b45'>\r\n//「司令部での立場は強いのか？」\r\n\"Does she have clout with command?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26806,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050890a12'>\r\n//「いぃえぇ、全然。主流の派閥にゃぁ属して\r\n//ないそうですからねぇ。大和人ならなんかで\r\n//役に立つこともあるだろうってんで、民政局\r\n//に席を与えられてるようなもんらしいですよ」\r\n\"Not a bit. Doesn't belong to any of the major factions, I hear. Sounds like they gave her a place just 'cause they thought it'd be useful to have a native around.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27332,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050900b45'>\r\n//「……ふん。\r\n//　では今回の件は、単なる跳ねっ返りの独走\r\n//なのだな？」\r\n\"...Hmph. So it's just a rebellious officer gone off the reservation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27604,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050910a12'>\r\n//「そういうことですかねぇ……」\r\n\"Looks that way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27773,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050920b45'>\r\n//「始末はどうつける？」\r\n\"How will you fix this mess?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27933,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050930a12'>\r\n//「コブデン中佐に連絡を取って、召還命令を\r\n//出して頂きましょう」\r\n\"I'll get in touch with Colonel Cobden and ask him to order her back to base.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28212,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050940b45'>\r\n//「いつになる？」\r\n\"How long will that take?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28360,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050950a12'>\r\n//「こっちの連絡は明日中には着くとして――\r\n//電話がありゃ一発なんですがね。こんな村に\r\n//電線が引かれてるわきゃないですし――それ\r\n//を受けた中佐殿がすぐに動いてくれたとして」\r\n\"It'd be faster with a phone, but a village like this won't have one of those. Let's say my message gets there sometime tomorrow, and the colonel gets on it right away...\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0050960a12'>\r\n//「中佐から巡察官への連絡は、無線がある筈\r\n//ですんで。巡察官の方で居留守を決め込んだ\r\n//としても……ま、丸一日とは誤魔化せないで\r\n//しょう。その後は再び大尉殿の天下です」\r\n\"He should be able to contact the inspector by radio. She might pretend not to notice... but she can't ignore it for a whole day, surely. After that, it's all yours, Captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29416,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050970b35'>\r\n//「ここ数日が勝負ということだの」\r\n\"So everything will be decided in a matter of days.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29623,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0050980b45'>\r\n//「……わかった。宜しく頼む。\r\n//　思えば貴様には世話になりっぱなしだな。\r\n//ＧＨＱとの折衝に融資の仲介。幕兵以外の駒\r\n//も入用だろうと、小太郎を寄越してもくれた」\r\n\"...All right. I'm counting on you, Sorimachi. Come to think of it, I'm rather in your debt, aren't I? Not only have you negotiated with GHQ and secured financing on my behalf, but you even sent Kotaro to supplement my men.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30182,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0050990b35'>\r\n//「そうだの。雪車町殿は儂にとっても、劔冑\r\n//を取り戻してくれたうえに儲け話の世話まで\r\n//してくれた恩人。感謝しておるよ」\r\n\"I feel the same. You returned my clan's tsurugi and gave us a chance to make a decent wage. You're a good man to have around.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30592,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051000a12'>\r\n//「へへ。滅相もないことで」\r\n\"Heh heh. It was nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30764,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051010b45'>\r\n//「成功の暁には報いさせてもらおう」\r\n\"I'll make sure you're rewarded once my plans have succeeded.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30975,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051020a12'>\r\n//「いやぁ、へへ……。\r\n//　お気持ちだけ、頂いておきましょうか」\r\n\"That's mighty kind of you. Heh heh... But your gratitude is more than enough.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31252,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051030b45'>\r\n//「ほう。無欲な男だな。\r\n//　それとも……」\r\n\"Oh? How charitable of you. Unless...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31449,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051040a12'>\r\n//「へっ」\r\n\"Heh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31574,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051050b45'>\r\n//「俺が成功しようとしまいと<RUBY text='・・・・・・・'>貴様らにはどう</RUBY>\r\n//<RUBY text='・・・・'>でもいい</RUBY>のだと、そういうことか？\r\n//　ＧＨＱの使い走り……雪車町一蔵」\r\n\"Unless it doesn't matter to you whether I succeed or fail. Is that how your GHQ masters see it, Sorimachi Ichizo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32029,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051060a12'>\r\n//「へ、へ、へ……」\r\n\"Heh heh heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32179,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0051070b35'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32306,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051080a12'>\r\n//「そう言っちゃ、身も蓋もありませんが……。\r\n//　まあ、要はそういうことですかねぇ」\r\n\"Well, when you put it like that... yeah, pretty much.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32589,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051090b45'>\r\n//「……鼻持ちならん奴め」\r\n\"...A scoundrel, you are.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32749,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051100a12'>\r\n//「恐れ入ります」\r\n\"I'll take that as a compliment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32913,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0051110b35'>\r\n//「ほっ、ほっ、ほっ」\r\n\"Ho ho ho!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33061,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051120b45'>\r\n//「ふん……。\r\n//　もう一つ聞いておきたいことがある」\r\n\"Hmph... By the way, I have one more question for you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33290,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051130a12'>\r\n//「何なりと」\r\n\"If I may be of service.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33440,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051140b45'>\r\n//「赤い武者は見たか？」\r\n\"Have you seen a crimson musha?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33603,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051150a12'>\r\n//「いえ……話は聞きましたがね。\r\n//　ご災難だったようで」\r\n\"No... though I heard what happened. My condolences.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33845,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051160b45'>\r\n//「何者かわからんか？\r\n//　本人の言を信じるなら、六波羅でも進駐軍\r\n//でもないらしい」\r\n\"Do you know anything? If his words are to be trusted, then he's not affiliated with either Rokuhara or GHQ.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34174,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051170a12'>\r\n//「さぁて。\r\n//　心当たりってほどのもんでもございません\r\n//が……」\r\n\"Well now. It's not what I'd call much of a lead...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34428,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051180b45'>\r\n//「なんだ」\r\n\"What is it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34554,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051190a12'>\r\n//「先刻、巡察官殿に会いに行った折ですがね。\r\n//　<RUBY text='まえ'>以前</RUBY>にちらりと顔を合わせたことのある、\r\n//警官と出くわしましたんで」\r\n\"Just now, when I went to see the inspector, I ran into a cop outside the mayor's place.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34947,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051200b45'>\r\n//「……警官？」\r\n\"...A cop?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35077,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051210a12'>\r\n//「やたら不景気な面した若い男なんですがね」\r\n\"A young fellow with an awfully gloomy look on his face.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35304,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051220b45'>\r\n//「どういう人間だ」\r\n\"What sort of man was he?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35455,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051230a12'>\r\n//「さて、ねぇ。口も利いてないんで。\r\n//　ただ、あれはねぇ……あたしらなんかとは\r\n//どうも、生理的に合いそうにない野郎ですよ」\r\n\"Don't know. We didn't say a word to each other. But if I had to guess, I'd say he's the sort who doesn't get along with our kind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35875,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0051240b35'>\r\n//「ほっ。と、いうと？」\r\n\"Ho! Which is to say?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36037,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051250a12'>\r\n//「<RUBY text='・・'>善人</RUBY>です。\r\n//　真っ当な家で教育を受けてきたんでしょう\r\n//ねぇ」\r\n\"A good guy. A real saint. I'd bet he was raised in a nice, loving family.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36341,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051260b45'>\r\n//「……はッ。\r\n//　それは確かに、合わんか」\r\n\"Ha! I see what you mean.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36526,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0051270b35'>\r\n//「ほほ。儂はともかくとして、主らはのう。\r\n//　互いに虫が好かぬであろうて」\r\n\"Ho ho. Speak for yourselves. I'm a paragon of virtue.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36797,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051280a12'>\r\n//「好きか嫌いかで言えば、別に嫌いじゃあり\r\n//ませんがねぇ。\r\n//　あたしゃ、<RUBY text='・・・'>真面目</RUBY>に生きてる人間はみんな\r\n//好きなんで。善玉でも悪玉でも……ね」\r\n\"Of course, that's not sayin' I don't㉓<I>like</I>㉓his sort. Everyone who takes life seriously is all right in my book, whether they're good guys... or bad.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37301,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0051290b35'>\r\n//「今の世の中、誰もが真剣よ。遊びで生きて\r\n//いられる奴などおらんわさ。\r\n//　それで、雪車町殿。つまりはその男が武者\r\n//だ、と？」\r\n\"That's everyone these days, my friend. No one can afford to treat life like a game, not anymore.\r\n  So, you think he was the musha?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37727,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051300a12'>\r\n//「……そう決めつけられるほどの材料はない\r\n//んですがねぇ。\r\n//　ただ、最初に会った時から思ってたんです\r\n//がね。あの男、<RUBY text='やっとう'>剣術</RUBY>の方は相当使いますよ」\r\n\"...Don't know enough to say for sure. I'll tell you this much, though. He's good with a blade. Knew that the moment I saw him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38208,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051310b45'>\r\n//「武者であってもおかしくないほどに、か？」\r\n\"Good enough to be a <br>musha?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38401,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051320a12'>\r\n//「えぇ」\r\n\"Oh yeah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38530,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0051330b45'>\r\n//「ふむ……。\r\n//　警察が武者を抱えているとは初耳だが……」\r\n\"Hmm... It's the first I've heard of the police having a musha.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38777,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0051340b35'>\r\n//「念の為。\r\n//　雪車町殿、そやつの人相を教えて下さらん\r\n//かな」\r\n\"Let's err on the side of caution. Can you tell me what he looks like?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39047,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/0051350a12'>\r\n//「お安い御用で……」\r\n\"No problem.\"\r\n",
+  "pt": ""
+ }
+]

@@ -1,0 +1,642 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060010a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 331,
+  "en": "\r\n//　彼女らは俺に気付きもしない。\r\n//　笑い合いながら、駆け去っていく。\r\n  I watch them run off laughing down the street. They didn't seem to notice me.\r\n\r\n//　世界が違うのだと、そう思った。\r\n//　彼女らには彼女らの世界。こちらは、俺と光のいる\r\n//世界。\r\n  I don't blame them. They inhabit a different world from Hikaru and myself now. Though I may gaze longingly across that divide, I can never bridge it.\r\n\r\n//　その間には壁が立ちはだかっている。\r\n//　視線は通っても、心はもう通わない。\r\n\r\n//　楽しげな――遠い光景から目を離して、俺は会社へ\r\n//向かった。\r\n  I tear my eyes away from the distant, joyful scene and head to the office.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1115,
+  "en": "\r\n//　……しまった。\r\n//　\r\n//　時計を見て、胸中に不覚を呟く。\r\n  ...Damn. I swear silently as I look at my watch.\r\n\r\n//　<RUBY text='・・・'>一瞬前</RUBY>に見たときより、約二十分進んでいる。\r\n//　つまりはそれだけの時間、何もせず、意識をどこか\r\n//へ飛ばしていたということだ。\r\n  I could have sworn I checked it only a moment ago, but now twenty minutes have passed since then. My lack of sleep is catching up to me: a brief lapse in concentration and my mind is out to sea like a boat loosed from its bollard.\r\n\r\n\r\n//　寝不足が祟っている。\r\n//　ほんのわずか気を緩めるだけで、俺の精神は<RUBY text='もや'>舫</RUBY>いを\r\n//外された船よろしく海を漂ってしまうようだ。\r\n\r\n//　部長らが俺の醜態に気付かなかった筈はないだろう。\r\n//　それでも起こされなかったのは、気を遣われたから\r\n//に他ならない。\r\n\r\n//　彼らも俺の家庭事情は知っている。\r\n//　知って、何それとなく配慮をしてくれる。\r\n\r\n//　それは有難かったが、しかし甘えられなかった。\r\n//　給料を貰っているのだ。その分の仕事をする責任が\r\n//俺にはある。\r\n  My boss and coworkers must have seen how dazed I was. Their decision not to rouse me could only have been out of respect for my family's situation, of which they are well aware.\r\n\r\n  I am grateful for their support, but I mustn't take advantage of it. I have a responsibility to do the work they're paying me for.\r\n\r\n//　この時世、辛いのは何も我が家だけではない。\r\n//　どの家庭もそれぞれの労苦を抱えている。会社とて\r\n//も同様だ。\r\n  My family is not the only one experiencing hardship in these dark times. Everyone has their own problems to deal with, and that goes for businesses as well as people.\r\n\r\n//　自分の所の苦しみだけを押し立てて、よそへ負担を\r\n//回し付けるが如き真似は、厚顔無恥というべきだった。\r\n//　自省せねばならない。\r\n  Only a shameless man forces others to bear his burden for him.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3323,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060020a00'>\r\n//「申し訳ありません、部長」\r\n\"My apologies, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3480,
+  "en": "\r\n//【ｅｔｃ／部長】\r\n<voice name='ｅｔｃ／部長' class='その他男声' src='voice/ma05/0060030e238'>\r\n//「ん、いや。気にするな。\r\n//　疲れてるんだろ」\r\n\"Eh, don't worry about it. I know you're just tired.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3732,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060040a00'>\r\n//「業務に差し障りがある程ではありません。\r\n//　今は気が緩んでいました」\r\n\"Not so tired that it should interfere with my work. I was careless today.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4008,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060050a00'>\r\n//「今後は気をつけます」\r\n\"It won't happen again.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4163,
+  "en": "\r\n//【ｅｔｃ／部長】\r\n<voice name='ｅｔｃ／部長' class='その他男声' src='voice/ma05/0060060e238'>\r\n//「うん……」\r\n\"...Right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4324,
+  "en": "\r\n//　部長が不安げに頷く。\r\n//　その不安が俺の仕事の進捗に対してのものなら気も\r\n//楽だったが、そうでないのは明らかなだけに心は重く\r\n//ならざるを得なかった。\r\n  He nods, his expression worried. I wish that his concern were simply with the progress of my work; few things are more painful, I've found, than to be the object of someone's charity.\r\n\r\n//　人に気を遣わせるという事は、かくも苦しい。\r\n//　これは恩知らずな言い草というものかもしれないが。\r\n  ...I realize that I should simply be grateful for it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4955,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060070e226'>\r\n//「先輩、お茶どうぞ」\r\n\"Have some tea.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5139,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060080a00'>\r\n//「……すまない。\r\n//　頂く」\r\n\"...Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5292,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060090e226'>\r\n//「そんなに気張らなくても大丈夫ですよー。\r\n//　今は忙しい時期でもないですし」\r\n\"You don't have to be so hard on yourself. It's not like we're busy these days.\"\r\n\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060100e226'>\r\n//「フフフ……\r\n//　わたしなんて、今日で三日連続遅刻です。\r\n//記録更新なのですよ」\r\n\"Heh heh heh... To tell the truth, I've been late three days in a row this week. It's a new record!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5968,
+  "en": "\r\n//【ｅｔｃ／部長】\r\n<voice name='ｅｔｃ／部長' class='その他男声' src='voice/ma05/0060110e238'>\r\n//「……お前はもう少し気張れ。\r\n//　あと、減給」\r\n\"...That reminds me. You're getting a pay cut.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6214,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060120e226'>\r\n//「えー!?\r\n//　そ、そんなぁ……今月は……待ちに待った、\r\n//劇団☆超感染の新作公演があるのに……！」\r\n\"What!? B- But I have to see my favorite theater troupe this month...\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6566,
+  "en": "\r\n//　くらりとよろめいて、窓枠へ手をつく同僚社員。\r\n//　思わず苦笑する。\r\n\r\n//　……結局、何が悪いかと言って、深刻に考え過ぎる\r\n//のが一番悪いのかもしれない。\r\n\r\n//　俺は頭を軽く振って気を取り直すと、改めて手元の\r\n//書類に向かった。\r\n  Tanaka stumbles and grips the windowsill to keep from falling over. I chuckle at her theatrics.\r\n\r\n  Maybe they're right. Maybe I do need to relax a little.\r\n\r\n  I shake my head once to clear it of worry, then turn my attention to the papers on my desk.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7167,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060130e226'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7331,
+  "en": "\r\n//【ｅｔｃ／部長】\r\n<voice name='ｅｔｃ／部長' class='その他男声' src='voice/ma05/0060140e238'>\r\n//「どうした田中。ぼーっとして。\r\n//　そのうち給料がゼロになるぞ、そんなこと\r\n//してると」\r\n\"Tanaka?\" the boss calls, not looking up from the files he's signing. \"You're gonna end up with a big fat zero on your paycheck if you don't get back to work too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7754,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060150e226'>\r\n//「部長」\r\n\"Boss.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7911,
+  "en": "\r\n//【ｅｔｃ／部長】\r\n<voice name='ｅｔｃ／部長' class='その他男声' src='voice/ma05/0060160e238'>\r\n//「……ん？」\r\n\"...Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8070,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060170e226'>\r\n//「<RUBY text='・・・・'>あいつら</RUBY>です」\r\n\"It's㉗<I>them.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8286,
+  "en": "\r\n//【ｅｔｃ／部長】\r\n<voice name='ｅｔｃ／部長' class='その他男声' src='voice/ma05/0060180e238'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8438,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060190a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8556,
+  "en": "\r\n//　かりかりと小気味良い音を立てて踊っていた部長の\r\n//鉛筆が急停止する。\r\n//　俺は椅子を引いて、立ち上がった。\r\n  My boss's pen comes to an abrupt halt. I quickly rise from my chair and move to the window, where my coworker is staring out at the street.\r\n\r\n//　窓の外を凝視している同僚の傍へ寄り、視線の行先\r\n//を追う。\r\n\r\n//　会社の玄関前に、人の一団があった。\r\n//　それだけならば、商品の搬入作業と見間違えたかも\r\n//しれない。\r\n  A group of people is standing in front of the building's entrance. If that were all, they might be mistaken for delivery men here to pick up goods for sale.\r\n\r\n//　だが群れた人々が悉く剣呑な表情をし、それ以上に\r\n//剣呑な気配の漂う筒状あるいは棒状の道具を手にして\r\n//いるとなれば、断じてそんな筈はなかった。\r\n//　彼らの道具は、一般的には銃火器や刀剣と呼ばれる。\r\n  That they are not delivery men is clear from their threatening glares, and by the even more threatening objects in their hands: long tubes and metal sticks, commonly known as rifles and swords, respectively.\r\n\r\n//　つまりは武装した一団が、会社の前に出現していた。\r\n//　その付近には数人の社員の姿が見える。が、対応を\r\n//しかねている様子だった。\r\n\r\n//　事態の意味がわからないから、ではない。\r\n//　その逆だろう。彼らが何者で何を求めて来たのかは、\r\n//わかり過ぎるほど良くわかっている。\r\n\r\n//　彼らは、山賊だ。\r\n  A contingent of armed men has appeared outside our front door. A few employees are standing nearby, but all seem unsure what to do.\r\n\r\n  Not because they don't know who these men are. By now, everyone in the town knows that all too well.\r\n\r\n  Bandits.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10473,
+  "en": "\r\n//　その出自について、確かなところは誰も知らない。\r\n//　だが、推測は容易くできた。\r\n  Though no one knows for sure where they came from, it is a simple enough matter to guess. Bands of armed thieves are not rare in Yamato these days. In fact, you could say that the country is overflowing with them.\r\n\r\n//　実の話、この手の武装略奪集団は今の大和において\r\n//珍しい存在だとは言えない。\r\n//　溢れている、とさえ言えたかもしれない。\r\n\r\n//　六波羅幕府の内外で吹き荒れる権力闘争の嵐は当然、\r\n//闘争の回数と同じだけの敗者を産み落とした。\r\n//　彼らは地位を奪われ、政治の舞台から退場する。\r\n  Rokuhara has fought hundreds of battles in its quest for supremacy, against forces both within and without. And for every battle that has a winner, there are also, of course, the losers: those stripped of their rank and prestige and cast into the darkness of obscurity.\r\n\r\n\r\n//　だがその退場が現世から黄泉への退場をも意味する\r\n//かといえば、必ずしもそうではない。\r\n//　多くの場合その二つはセットだったが、中には粛清\r\n//の刃を逃れ、再起を期して野に潜るような者もいる。\r\n  In most cases, defeat also comes with a one-way ticket to the underworld, but this is not always so. Once in a while, the defeated will escape the victor's judgment, go into hiding, and live to fight another day.\r\n\r\n//　彼らには彼らなりの信念があったのかもしれない。\r\n//　だが市民層にとってみれば、彼らが潔い死を選んで\r\n//くれない事ほど迷惑な話も他になかった。\r\n  But while they doubtless have their own pride, their own justice to uphold, to us common folk they are little more than pests who should have died in battle somewhere far from here.\r\n\r\n//　何故なら彼らは、再起を期す――少なくともそう主\r\n//張して一族郎党を繋ぎ止める――以上、武器を捨てる\r\n//筈がなく、武器を手にしている以上、市井に混じって\r\n//まっとうに日銭を稼ごうなどと考えられる筈もなく、\r\n  After all, as long as the dream of regaining their power is the pretense that holds them together, they will never be able to lay down their weapons; and as long as they wear armor and carry steel, they cannot join a peaceful community and earn an honest wage.\r\n\r\n//　結果、一日一日を生きるための手段として、武力を\r\n//背景に市民から物資を奪うという道へ至るからだった。\r\n//　本人らの主張は兎も角、傍からは盗賊団以外の何と\r\n//も呼べない集団がこうして誕生する。\r\n  Which leaves them with only one way to survive, and that is to take what they need by force. Thus a gang of bandits is born―for that is ultimately what they are, no matter what they choose to call themselves.\r\n\r\n//　幕府の目が届きにくい、余り都市化の進んでいない\r\n//地方はしばしば彼らの根城とされた。\r\n//　つまりはこの町も、そうしたケースに当てはまって\r\n//しまったのだ。\r\n  These bands tend to set up near rural towns where Rokuhara has little presence. In other words, towns like ours.\r\n\r\n//　無論、幕府には連絡し、対応も乞うた。\r\n//　だが、梨の<RUBY text='つぶて'>礫</RUBY>であった。\r\n  We've requested aid from the shogunate, of course, but to no avail.\r\n\r\n//　別にこの手の賊兵に対して幕府が寛容主義を貫いて\r\n//いるという事実はない。討伐は行われている。\r\n//　だが幕府の戦力は有限であり、それは当然、危険度\r\n//の高い敵に対して優先的に向けられる。\r\n  Which is not to say that Rokuhara lets such outlaws go unchecked. Precisely the opposite, in fact. But the military's resources are limited, and must be deployed against targets in order of threat.\r\n\r\n//　大兵力を有したまま下野した者、人望のあった者、\r\n//海外勢力と繋がりのある者などが、迅速な討伐の対象\r\n//となった。\r\n//　この町に出現した彼らはそうではない。\r\n  Of highest priority are enemies with large contingents, charismatic leaders, or pipelines to foreign powers. The band occupying our town has none of these.\r\n\r\n//　どちらかといえば小規模な部類だった。\r\n//　しかし、田舎町を完全に萎縮せしめるだけの戦力は\r\n//持っている。\r\n  In the scheme of things, they are a relatively inconsequential group. But it hardly requires a well-<br>equipped army to keep a town like ours under control.\r\n\r\n//　六波羅の注意は引かないが、山賊をやるには充分。\r\n//　……考えようによっては、最も始末の悪い賊集団に\r\n//当たってしまったのかもしれなかった。\r\n\r\n//　幕府が比較的安定し、軍が暇を持て余しているよう\r\n//な時期であれば、こんな町にも駆除部隊が派遣される\r\n//可能性はあったろうが。\r\n//　生憎と、今現在は違う。\r\n  If the country were more stable and the shogunate had more time, we might hope for a unit to be sent to our aid. Alas, that is not the case.\r\n\r\n//　堀越公方<RUBY text='あしかがもりまさ'>足利守政</RUBY>が鎮守府将軍岡部頼綱と手を結び、\r\n//大将領足利護氏打倒の兵を挙げる――\r\n//　そんな噂が広まり、しかも守政は釈明の努力をしな\r\n//かったため、鎌倉中央は神経を尖らせていたのである。\r\n  Ashikaga Morimasa, Governor of Horigoe, has joined with General Okabe Yoritsuna to raise an army against the shogun.\r\n  At least, that's what the rumors say, and with Morimasa doing nothing to dissuade them, the entire Kamakura region teeters on the brink of war.\r\n\r\n//　篠川、小弓、古河の三公方府、そして鎌倉の中央軍\r\n//は堀越の挙兵に備えた警戒態勢下にあり、取るに足ら\r\n//ない小賊の討伐どころではなかった。\r\n//　いくら要請を出そうと通る筈がない。\r\n  Sasagawa, Oyumi, Koga, and Kamakura are all on guard against an attack from Horigoe. Small wonder they don't have time to bother with a band of piddling outlaws.\r\n\r\n//　そういう次第で。\r\n//　町付近の山を占拠した彼ら山賊団は、時期外れの春\r\n//を謳歌するのだった。\r\n  These bandits have, one might say, struck gold.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17041,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0060200e080'>\r\n//「……とまあ、こんなところだ。\r\n//　すぐに用意して貰おうか？」\r\n\"Here's the list of what we need. How soon can you get it ready?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17335,
+  "en": "\r\n//【ｅｔｃ／部長】\r\n<voice name='ｅｔｃ／部長' class='その他男声' src='voice/ma05/0060210e238'>\r\n//「い、いや……そう言われましても。\r\n//　それだけの品を持っていかれてしまっては\r\n//……我が社の経営が立ち行かなく……」\r\n\"But if you take all this, we won't be able to do <br>business...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17706,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0060220e080'>\r\n//「そーかぁ。\r\n//　ならどうする？　オレらと戦う？」\r\n\"So, what? You wanna fight?\"\r\n\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0060230e080'>\r\n//「戦って今ここで会社潰す？」\r\n\"We can finish off your <I>business</I>㉗right here, if you want.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18184,
+  "en": "\r\n//【ｅｔｃ／部長】\r\n<voice name='ｅｔｃ／部長' class='その他男声' src='voice/ma05/0060240e238'>\r\n//「それは……\r\n//　そんな……しかし」\r\n\"But... but...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18383,
+  "en": "\r\n//　引き篭もってしまった社長に代わってやむなく応対\r\n//に出た部長の立場は、全く同情するほかになかった。\r\n//　銃口をちらつかせる、まともな交渉など望むべくも\r\n//ない相手と辛抱強く対話せねばならないのだから。\r\n  I do not envy my boss for having to deal with the bandits. It can hardly be called a fair negotiation, what with the men flashing their guns every chance they get.\r\n\r\n//　交渉が一応、対話の形になっているのは、相手側に\r\n//こちらを嬲る意図があるためでしかない。\r\n//　利害調整の意図などは皆無だった。盗賊なのだから、\r\n//当たり前だが。\r\n  The only reason the conversation has maintained some semblance of civility is because the bandits enjoy watching him squirm. If they actually cared about making a deal―well, then they wouldn't be bandits.\r\n\r\n//　とはいえ実のところ、俺はそうまで深刻な――会社\r\n//が致命的な損害を受けるとまでは――危機感を抱いて\r\n//いなかった。\r\n  That said, I am not particularly worried that my company will suffer catastrophic losses.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19583,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060250e226'>\r\n//「せ、先輩……どうなっちゃうんでしょう」\r\n\"U- Um... what's going to happen?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19815,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060260a00'>\r\n//「どうにもならない。\r\n//　いや、相応の物資は供出せねばなるまいが」\r\n\"Nothing. We're just going to give them what they ask for.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20069,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060270e226'>\r\n//「で、でも、なんかとんでもない要求をされ\r\n//てるみたいですけど……\r\n//　あぁぁ、このままだと給料どころか失職の\r\n//ピンチに」\r\n\"But it sounds like they're making some crazy demands... Ahh! At this rate, I might not even have a paycheck to cut soon!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20509,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060280a00'>\r\n//「従業員の一斉賃金カットは覚悟しておいた\r\n//方が良さそうだが、その程度で収まるだろう。\r\n//　あれはヤクザの手口だ」\r\n\"We'll all likely have to take pay cuts... but no more, I think. This is just how gangsters conduct business.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20884,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060290e226'>\r\n//「え？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21040,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060300a00'>\r\n//「彼らは町の経済に寄生している。\r\n//　経済が破壊されるほどの打撃を町に与えれ\r\n//ば、彼ら自身の進退が窮まる理屈だ」\r\n\"These bandits are parasites. They depend on this town for food and supplies. They know better than to damage our economy beyond recovery.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060310a00'>\r\n//「過大な要求をしているのは、この後で提示\r\n//する本当の要求を無抵抗に受諾させるための\r\n//布石に過ぎない。\r\n//　そろそろ譲歩するだろう」\r\n\"They make outrageous demands to ensure that the real demand goes through without resistance. They should yield soon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21847,
+  "en": "\r\n//【ｅｔｃ／同僚女】\r\n<voice name='ｅｔｃ／同僚女' class='その他女声' src='voice/ma05/0060320e226'>\r\n//「そ、そうでしょうか……」\r\n\"Are you sure?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22039,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060330a00'>\r\n//「過去の例からみてもほぼ間違いない。\r\n//　彼らは無軌道な暴力集団ではなく、理性的\r\n//に統率された組織だ」\r\n\"Judging by how they've conducted themselves so far. They're an organization governed by reason, not a gang of purposeless thugs.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22419,
+  "en": "\r\n//　同僚は疑わしげであったが、俺は彼らの中の一角を\r\n//見ていた。\r\n//　軽装甲車の脇で、その人物は<RUBY text='モノバイク'>単輪自動車</RUBY>を<RUBY text='アイドリング'>空吹き</RUBY>さ\r\n//せている。\r\n  Tanaka seems unconvinced, but now my attention is focused on something else: the motorbike idling next to the band's armored truck.\r\n\r\n//　南方戦線で兵役に従事していた頃、幾度か目にした\r\n//機体――騎体だった。\r\n//　大和陸軍の<RUBY text='キューマルドラコ'>九〇式竜騎兵甲</RUBY>。\r\n  I saw bikes like that in the jungles of Southeast Asia. It's an army-issue Type-90 Dragoon. A tsurugi.\r\n\r\n//　劔冑だ。\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23161,
+  "en": "\r\n//　つまり、バイクに跨るあの女性は武者。\r\n//　この集団の頭株に違いない。\r\n  Which means the woman riding it is a musha, and the leader of the pack.\r\n\r\n//　その貌に張り付いた侮蔑の笑みは他の賊兵らと同様\r\n//だが、一点違うのは、武力による威嚇行為に酔ってい\r\n//ない所だった。\r\n//　落ち着いて、部下の交渉を眺めている。\r\n  Like her men, she wears a smile of contempt, though with one noticeable difference. She does not seem drunk on her power. Her gaze is calm as she watches the \"negotiation,\" and when she decides the time is right, she revs her engine once.\r\n\r\n//　それも、頃合良しと見たのだろう。\r\n//　明らかに合図の意図をもって、一際大きく<RUBY text='エグゾースト'>排気</RUBY>する。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24010,
+  "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0060340e080'>\r\n//「……ち、貧乏くせえ連中だ。\r\n//　仕方ねえなあ！」\r\n\"Fine, I get it! You're fucking poor!\"\r\n\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0060350e080'>\r\n//「じゃあこれと、これだけ用意しろ。今日の\r\n//ところはそこまでにまけといてやるよ。\r\n//　感謝してくれよな。全然足りないんだぜぇ、\r\n//こんなんじゃ！」\r\n\"Just hand over this, this, and this. It's not enough, but we'll let you off easy today. You better be grateful!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24715,
+  "en": "\r\n//【ｅｔｃ／部長】\r\n<voice name='ｅｔｃ／部長' class='その他男声' src='voice/ma05/0060360e238'>\r\n//「は、はい。有難うございます。\r\n//　すぐに用意しますので……！」\r\n\"Y- Yes! Thank you! We'll get it ready right away!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24992,
+  "en": "\r\n//　気が変わっては大変と、部長がすぐさま商品倉庫へ\r\n//すっ飛んでいく。\r\n//　その背を打った山賊たちの会釈無い笑いは、容易く\r\n//手に乗った部長の浅慮を嘲ったものなのであろう。\r\n  My boss bolts for the warehouse, terrified that the bandits will change their mind. They see him off with jeers and catcalls. They must think they played him well.\r\n\r\n//　実際は、部長は愚かな人間ではない。\r\n//　俺が同僚に呟いた程度の事は容易に見抜けるだけの\r\n//知性の所有者だ。\r\n  In his defense, my boss is no fool. I'm sure that he would have little trouble reaching the conclusion I presented to my coworker.\r\n\r\n//　が、武器を持った人間を前にして知力を鈍らせずに\r\n//済む人間というのは圧倒的に少数派である。\r\n//　俺とても、彼らの矢面に立たされていたら、賢しく\r\n//推理を巡らす余裕など無かったに決まっていた。\r\n  Few men, however, can employ their full reason when threatened with violence. I don't think for one second that I could have done any better than he.\r\n\r\n//　部長は貧乏籤を引いたとしか言いようがない。\r\n//　この後、逃げを決め込んでいた社長にも詰られる事\r\n//になるだろう。\r\n  He certainly drew the short straw this time. He'll probably catch flak from the owner for his quick capitulation, just as soon as the owner comes out of hiding.\r\n\r\n//　せめてその際には、弁護役を務めたいものだが……\r\n  If possible, I would like to speak in his defense―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26632,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060370a00'>\r\n//「……！」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26751,
+  "en": "\r\n//　そう思いつつ部長から山賊らへと戻した視線を、俺\r\n//は慌てて伏せた。\r\n//　偶然、こちらを見回していた頭目の眼差しと鉢合わ\r\n//せしてしまったからだ。\r\n  I quickly tear my gaze away from the bandits. For a moment, my eyes met those of their leader, who was scanning the building at just that instant.\r\n\r\n//　相対した一瞬の間に、いくつかの印象を覚える。\r\n//　高慢、底意地の良くなさ、意外に清潔な容貌、力へ\r\n//の過信――大半は<RUBY text='マイナス'>負</RUBY>の方向のものだった。\r\n  My impression of her in that instant was negative. I saw arrogance, malevolence, overconfidence, surprisingly attractive features... <I>mostly</I> negative.\r\n\r\n//　幸い、向こうはこちらの事など気にも留めなかった\r\n//らしい。\r\n//　臆病な態度を嗤うように鼻を鳴らしだけして、すぐ\r\n//に注意が離れてゆくのを感じた。\r\n  Luckily, she does not seem to think much of me. A snort for my cowardly reaction, and then her gaze moves elsewhere.\r\n\r\n//　安堵の吐息をつく。\r\n//　絡まれなくて済んだのは幸いだった。争い事は生来、\r\n//どうも好きではない。\r\n  I breathe a sigh of relief. For a moment there, I was afraid I would be their next target.\r\n\r\n//　増してこのような手合いとの争いは。\r\n//　嘲笑を浴びるだけで済むなら、安いものだ。\r\n  I have always preferred to avoid conflict, especially with people such as these. I'll gladly bask in their contempt if it will keep me beneath their notice.\r\n\r\n//　部長が手近な人間を集めて物資の運び出しを始めて\r\n//いる。\r\n//　手伝うため、俺もそちらへ向かった。\r\n\r\n//　作業は捗りそうだった。\r\n//　皆の顔を見ればわかる。彼らを手早く追い払うには\r\n//それが最善だと、俺のみならず誰もがそう悟っていた。\r\n  My boss and the men he gathered are already hard at work hauling out supplies. I head to the warehouse to see if I can help.\r\n\r\n  It won't take long. Everyone is determined to finish as quickly as possible. That, after all, is the surest way to bring this episode to a close.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29027,
+  "en": "\r\n//　<RUBY text='みなと'>皆斗</RUBY>家は五百年間に渡ってこの土地に君臨してきた\r\n//氏族だ。\r\n\r\n//　元来は武士であり、一帯を所領としていたが、徳川\r\n//氏による天下一統と前後して帰農。\r\n//　しかし大地主として事実上の支配力は保持し続け、\r\n//現在にまで至っている。\r\n  The Minato clan has ruled these lands for over five hundred years.\r\n\r\n  Originally, it was a warrior clan, its head the feudal lord of this region. Even after it lost its warrior status around the time of Tokugawa's unification, it maintained de facto control over affairs in these parts.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29694,
+  "en": "\r\n//　湊斗家はその分家にあたる。\r\n//　が、概して相続問題の収拾の結果として生じる一般\r\n//的な分家族とは、やや性格を異にすると言わねばなら\r\n//ない。\r\n  The Minato family to which I belong is a branch of that clan. But where most branch families are formed in response to questions of succession, mine has a rather unusual origin.\r\n\r\n//　発祥は五百年前、つまり皆斗本家の登場とほぼ時を\r\n//同じくする。\r\n//　そもそも皆斗家は朝廷より勅命を受け、<RUBY text='・・・・・'>あしきもの</RUBY>\r\n//を封じるためにこの地へやって来た一党であった。\r\n  Its establishment dates back five centuries; in other words, contemporaneous with the founding of the Minato clan itself. To understand this anomaly, one must know that the Minato clan originally came to these lands under imperial edict, with orders to take charge of something㉓<I>evil</I> and keep it sealed for all eternity.\r\n\r\n//　彼らはその具体的手法として、一族を分けて別家を\r\n//建て、〝<RUBY text='あ'>邪</RUBY>しきもの〟を鎮める祭祀を行わせ、本家が\r\n//それを警護及び監視する――という形をとった。\r\n//　<RUBY text='すなわ'>即</RUBY>ちその別家が、湊斗家である。\r\n  To this end, the Minato clan decided to form a branch family which would live separately and conduct the rituals necessary to keep the evil locked away, while the clan's main family would stand above it as guardian and supervisor. Thus my family came into being.\r\n\r\n//　このような祭祀に特化された家系は、血統の純潔を\r\n//重視し、親族婚を重ねる例が少なくない。\r\n//　湊斗家において、それがまさしく正逆になったのは、\r\n//役目として鎮守するものが悪害であったからだろう。\r\n  Historically, families charged with a duty of ritual are wont to keep the bloodline pure. Often, this can even mean marriages between close relatives. That this is not the case with the Minato family is due entirely to the fear with which the evil in its custody is regarded.\r\n\r\n//　湊斗家の当主は代々女性が務め、必ず外の土地から\r\n//婿を迎えて後裔を残した。\r\n//　常に他所者の血を加え続けることで、湊斗家を異類\r\n//の存在とし、抱える厄災もろとも隔離したわけである。\r\n  The head of the family has always been female, and has always taken a husband from outside the clan to father the next generation. By thus keeping the bloodline diluted, the Minato family is made a wholly separate entity, isolated from the rest of the clan along with the catastrophe against which it protects.\r\n\r\n//　屋敷地が常に里から離れた場所に置かれたことも、\r\n//理由は等しい。\r\n//　湊斗家は高い地位を認められながら土地に溶け込む\r\n//ことを許されず、敬して遠ざけられる立場にあった。\r\n  This is also the reason that our manor is located so high up in the mountains. Although it enjoys status and respect, the Minato family is never truly allowed to mingle with the people it serves.\r\n\r\n//　……だがそれも、形骸化して久しい。\r\n//　伝統的支配層の常として頑迷なまでに保守的である\r\n//皆斗本家が手配りを怠らず、そのため<RUBY text='かたち'>形骸</RUBY>は維持され\r\n//続けているものの、町の人々の意識は既に過去と違う。\r\n  ...Or at least, that is the idea. In reality, these customs are a thing of the past. While the clan, exhibiting the stubborn traditionalism characteristic of ancient warrior houses, still goes to great lengths to maintain the trappings of the branch family's aloof majesty, our image among the townspeople is a far cry from what it was.\r\n\r\n//　大半の人は湊斗の家を、ちょっと変わった<RUBY text='・・・・'>お宮さん</RUBY>\r\n//程度にしか見ていなかった。\r\n//　でなければ山賊問題に際して、強気な本家への抑止\r\n//役に養母が持ち上げられることもなかったろう。\r\n  Now most of them see us simply as a family of eccentric shrine keepers. Otherwise, those opposed to the clan leader's call to war would not have chosen my mother to represent them.\r\n\r\n//　それは多分に、姉御肌と呼ぶべき養母の性格のせい\r\n//でもあったろうが。\r\n//　何にしろ、本家にしてみれば幾重にも面白からぬ話\r\n//に違いない。\r\n  Of course, I imagine her own affability and leadership qualities played a part as well. Either way, it is nothing for the clan leader―the old master, as he is known―to be happy about.\r\n\r\n//　だから会いに行くにあたり、それなりの覚悟はして\r\n//いた。\r\n  Which is why, whenever I call upon him, I must always be prepared for a lecture.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34641,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060380b52'>\r\n//「考えてもみよ。\r\n//　奴らは正規兵崩れではあろうが、数は百に\r\n//も届かぬ。町の男どもが集い、不意を襲えば、\r\n//勝てぬ道理などあろうかよ」\r\n\"Think about it. They may be soldiers, but there are less than a hundred of them. If we round up all the men in town and take them by surprise, there's no way we can fail!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35109,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060390a00'>\r\n//「は……」\r\n\"...Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35231,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060400b52'>\r\n//「それを統めは人死にが出るの、割りに合わ\r\n//ないのと言いおって……\r\n//　まさしく女の言辞よな。一命を賭してでも\r\n//守るべき誇りがあることを、知ろうともせぬ」\r\n\"And yet, that Subaru keeps challenging me, saying, 'Oh, it's not worth it, people will die.' Hmph. How like a woman. She doesn't even try to understand that there are some things in this world worth dying for!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35768,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060410a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35886,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060420b52'>\r\n//「景明！\r\n//　貴様もそうは思わんか」\r\n\"Kageaki! You understand, don't you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36073,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060430a00'>\r\n//「……はっ。\r\n//　自分如きには、何とも」\r\n\"...I'm afraid it's not my place to say, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36275,
+  "en": "\r\n//　……覚悟はしていたが、実際にこうなってみると、\r\n//やはり対応に窮するものがある。\r\n//　俺は嘆息を肺の奥へ隠しつつ、<RUBY text='すがめ'>眇</RUBY>で時計を確認した。\r\n//実りないまま、来訪より既に一時間が経過している。\r\n\r\n//　話は本題に触れてさえいない。\r\n//　本家にとっては兎も角、俺にとっての本題には全く。\r\n\r\n//　やにわに用件から切り出すのも無作法な話であるし、\r\n//それにどうせ避けられぬ話題ならと、こちらから山賊\r\n//の一件を持ち出してみたのだが。\r\n//　どうも後悔すべき選択をしたらしい。\r\n  However much I prepare myself, it's always harder than I expect. Sighing inwardly, I sneak a glance at my watch. An hour has passed since my arrival, and nothing to show for it.\r\n\r\n  The conversation hasn't even drawn close to my topic. It would have been rude to broach it immediately after arriving, so I chose to open with news of this morning's raid: a subject that I knew was unavoidable either way.\r\n\r\n  I'm beginning to regret that choice.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37439,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060440b52'>\r\n//「わからぬはずはなかろう！\r\n//　貴様は御国の為に戦地へ赴いた身ではない\r\n//か。武功を挙げられなかったのは残念だが、\r\n//金で兵役を逃れた酒屋の糞餓鬼などとは違う」\r\n\"Of course you understand! You fought for your country in the war! It's too bad you couldn't bring home any medals, but at least you're nothing like the parasites who bought their way out of the draft!\"\r\n\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060450b52'>\r\n//「知っておるぞ。統は兵役免除の手続きをし\r\n//ようとしたが、貴様が拒んだのであろう。\r\n//　その一件を聞いて以来、儂は貴様のことを\r\n//見込んでいるのだ」\r\n\"I heard what happened! Subaru tried to get you an exemption, but you turned it down. Ever since then, I've had high hopes for you, boy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38416,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060460a00'>\r\n//「恐縮です」\r\n\"Thank you, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38549,
+  "en": "\r\n//　……単に、そこまでの世話は養家に掛けられないと\r\n//思っただけなのだが。\r\n//　どうも誤解があるようだ。\r\n\r\n//　狷介で知られるこの人が、一年前に光が倒れて以来\r\n//度重なっている俺の訪問を、歓迎はせぬまでも門前払\r\n//いにもしない理由がそこにあると思えば、その誤解を\r\n//解いてしまうわけにもいかない。<RUBY text='いささ'>些</RUBY>か心苦しかった。\r\n  ...I simply couldn't let her go to such lengths for me.\r\n\r\n  A misunderstanding on the old master's part, but if that is what has earned me a reception―grudging though it may be―all the times I've come calling since Hikaru's collapse, then however much the deception pains me, I cannot afford to correct it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39363,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060470b52'>\r\n//「貴様を養子に取った明堯にも、ふむ、見る\r\n//目くらいはあったのだろうな。\r\n//　聞けば、貴様の実の親は義勇兵として大陸\r\n//へ赴き、壮烈な戦死を遂げたとか」\r\n\"Akitaka made a good choice when he took you in. I suppose that's㉒<I>one</I>㉗thing the bastard managed to do right. From what I heard, your birth parents went to the continent as volunteers, and died a glorious death.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39905,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060480a00'>\r\n//「はい。\r\n//　そのように、聞いております」\r\n\"So I've been told.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40084,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060490b52'>\r\n//「南蛮の血筋とはいえ、御国より受けし恩を\r\n//忘れず、一命を捧げたは天晴れである。\r\n//　貴様の身体にもその父母と同じ血が流れて\r\n//いるのだ」\r\n\"They may have been barbarians, but they knew to offer their lives to the country that gave their kind sanctuary. That's worthy of respect. Don't forget that you share their blood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40564,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060500a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40682,
+  "en": "\r\n//　これにはどう答えて良いかわからず、目礼だけする。\r\n//　養父が俺を引き取るに際し、最も反対したのは目の\r\n//前の保守的老人だと、誰からともなく聞き知っている\r\n//だけに反応の<RUBY text='すべ'>術</RUBY>がない。\r\n  I respond with a bow, not sure what to say. What can I say, when I know from what others have told me that it was this very man who most vehemently opposed my adoption?\r\n\r\n//　だが本家は自己の強硬論を補強するために、事実を\r\n//捏造して今更俺の両親を持ち上げたわけではなかった。\r\n//　この俺に血肉を与えたのは、確かにそういう人々で\r\n//あったらしい。\r\n  At least he isn't rewriting my parents' history in order to support his argument. From what I've been told, they did indeed die exactly as he says.\r\n\r\n//　長崎鳴滝の人である。\r\n//　つまりはネーデルラント市国の人間であり、厳密な\r\n//意味では大和人と言えない。\r\n  My parents were born in Narutaki, Nagasaki―also known as New Holland. In other words, they were not Yamatoan in the strictest sense of the word.\r\n\r\n//　外暦一八〇〇年代初頭、欧州全土を巻き込んだナポ\r\n//レオン戦争の中で、<RUBY text='オランダ'>蘭王国</RUBY>は<RUBY text='ブリテン'>大英連邦</RUBY>に踏み潰され、\r\n//地上から消滅した。\r\n//　戦争終結後も、国土回復は成されなかった。\r\n  The relevant background begins with the Napoleonic Wars that ravaged Europe in the early 19th century. During this conflict, Holland was obliterated by British invasion, and thereafter vanished from the face of the earth.\r\n\r\n//　行き場を無くしたオランダ人の窮状は、徳川宰領府\r\n//もすぐに知るところとなった。\r\n//　開府以来の長きに渡る国交を鑑み、これを看過する\r\n//は国家の信義に背くと結論、\r\n  The plight of the Dutch people, who no longer had a homeland, quickly came to the attention of the Tokugawa shogunate, which decided that to ignore it would betray a relationship of trade and trust that stretched back two hundred years.\r\n\r\n//　当時の国際港でありオランダ人にも馴染み深かった\r\n//長崎近郊の土地を開放、居住地として提供した。\r\n//　アジア各地の商館で進退窮まっていたオランダ商人、\r\n//外交官らが殺到したのは言うまでもない。\r\n  The shogunate therefore offered the port of Nagasaki to the Dutch, who were already familiar with it as the primary avenue of trade with Yamato. The Dutch had many trading posts and embassies throughout Asia, and now those merchants and diplomats flocked to their new home.\r\n\r\n//　その土地はネーデルラント市国と名づけられ、徳川\r\n//宰領府と大英連邦に非好意的ないくつかの国からのみ、\r\n//独立国としての扱いを受けた。\r\n//　爾来、百年。\r\n  The city was christened New Holland and recognized as an autonomous state, though only by the Tokugawa shogunate and countries hostile to Britain.\r\n\r\n//　長崎鳴滝村の小国家は、オランダの亡命政権とでも\r\n//いうべき発祥時の性格を徐々に変え、大英連邦の支配\r\n//から脱した欧州人の駆け込み寺のようになっていた。\r\n//　俺の祖先も<RUBY text='・・・・・'>駆け込んだ</RUBY>口だ。\r\n  A century passed, and what had originally been an asylum for Dutch in exile gradually became a haven for all seeking to escape British rule. My ancestors were one example, having escaped New Britain, I was told, in the time of my grandfather.\r\n\r\n  Most likely, they were remnants of the New British<br>―or Americans, as they call themselves―who fled the New World after losing their second war for independence.\r\n\r\n//　聞いた話では、祖父の代に<RUBY text='ネオ・ブリテン'>新大陸</RUBY>から渡って来た\r\n//のだという。\r\n//　おそらくは、第二次新大陸独立戦争の敗残兵だった\r\n//のだろう。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44810,
+  "en": "\r\n//〝<RUBY text='アウァ・アメリカ'>偉大なる故郷</RUBY>〟を<RUBY text='ブリテン'>女帝</RUBY>の<RUBY text='くびき'>軛</RUBY>から解放せよ――\r\n//　今も新大陸で密やかに叫ばれているという合言葉を、\r\n//祖父も口にしたのではないか。\r\n  Sometimes I wonder if my grandfather ever spoke passionately of freeing America from the queen's yoke, as many Americans still whisper in secret.\r\n\r\n//　……実の親族の事は、どうにも曖昧になる。\r\n//　俺が生家の姓――大和への帰化を志した家祖が本来\r\n//の英語姓を和風に<RUBY text='アレンジ'>改変</RUBY>したもの――を冠し、<RUBY text='あらたじろう'>改次郎</RUBY>と\r\n//名乗っていたのは生後ほんの数年ばかりに過ぎない。\r\n  But ultimately, I know little of my biological relatives. The name I was born with, Arata Jiro―Arata being a Yamatoan version of my family's original English name―was mine only for the first few years of my life.\r\n\r\n//　およそ二十年前、<RUBY text='アラタ'>改</RUBY>家の父と母――二人とも大和人\r\n//の血をも濃く備える<RUBY text='ハイブリッド'>混血</RUBY>であったそうな――は、幼児\r\n//だった俺を残し、大陸戦線に身を投じて戦死した。\r\n//　これは長崎鳴滝の人間として珍しい話ではない。\r\n  Some twenty years ago, my parents―both of mixed heritage―left their young son and went to war, where they would die.\r\n\r\n  They shared this experience with many other New Hollanders, men and women, who wanted to repay the country that had taken them in. I'm sure they also hoped for revenge against Britain, which was reaching out to engulf Asia as it had Europe.\r\n\r\n//　流亡の身を迎え入れてくれた大和の恩に報いる想い\r\n//が強かったのだろう。欧州からアジアへと支配の網を\r\n//広げてゆく大英連邦に対する復仇の意欲もあったろう。\r\n//　長崎鳴滝の成人は男女問わず多くが大和軍に参じた。\r\n\r\n//　また、市国内で結成されたネーデルラント騎士団に\r\n//加わる者も多かった。\r\n//　これは四年前――先の大戦末期に九州最前線へ出撃\r\n//し、連盟軍相手に奮戦、玉砕を遂げている。\r\n  Most joined the Yamatoan military, though there were also the Knights of New Holland, a corps of brave warriors who went to the front lines in Kyushu, where they fought bravely and died to a man.\r\n\r\n//　軍内で、俺の両親は養父と親交があったらしい。\r\n//　その縁で、養父は俺を引き取ってくれたのだ。\r\n  My parents were in the former group. Somewhere on the continent, they met and befriended the man who became my father. After they died, he adopted me.\r\n\r\n//　それから二十年余の歳月を、俺は湊斗家の養子――\r\n//湊斗景明として生きている。\r\n  Thus I became Minato Kageaki, and so I have lived to this day.\r\n\r\n//　現在、ネーデルラント市国は公的には存在しない。\r\n//　国際連盟に国家として認めない旨を宣告されたうえ、\r\n//連盟軍の厳重な監視下に置かれている。弾圧まで受け\r\n//ているとの報は聞かないが、生活環境は厳しかろう。\r\n  Currently, New Holland has no official status. The League of Nations does not recognize it as a state, and the Allied Expeditionary Force keeps it under close watch. I haven't heard of any overt oppression against the people there, but I doubt conditions are comfortable.\r\n\r\n//　そんな中で、親なしの孤児として生きる至難を想像\r\n//すれば、養父の厚意は俺にとって幾重にも感謝せねば\r\n//ならぬものだった。\r\n//　養父と共に俺を受け入れてくれた一家にも。\r\n  When I think of how it would have been to grow up as an orphan in that environment, I am infinitely grateful to my father for having the kindness to take me in, and to the Minato family for accepting me.\r\n\r\n//　俺は、湊斗の家に恩義がある。\r\n  I owe them... everything.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48969,
+  "en": "\r\n//【署長】\r\n//　\r\n<voice name='署長' class='署長' src='voice/ma05/0060510a11'>\r\n//『統……』\r\n \r\n \r\n \r\n \r\n \r\n<center>\"Subaru...\"\r\n\r\n//【統】\r\n//　\r\n<voice name='統' class='統' src='voice/ma05/0060520b46'>\r\n//『……んー？\r\n//　どしたの、その子』\r\n \r\n \r\n \r\n \r\n \r\n<center>\"Hmm? What's with the kid?\"\r\n\r\n//【署長】\r\n//　\r\n<voice name='署長' class='署長' src='voice/ma05/0060530a11'>\r\n//『いや、その……\r\n//　何というかだな……突然で済まないんだが……』\r\n \r\n \r\n \r\n \r\n \r\n<center>\"Well, you see... I mean, I know it's awfully sudden...\"\r\n\r\n//【署長】\r\n//　\r\n<voice name='署長' class='署長' src='voice/ma05/0060540a11'>\r\n//『この子を、うちの養子にしようと思う』\r\n \r\n \r\n \r\n \r\n \r\n<center>\"But I was thinking we could adopt him.\"\r\n\r\n//【統】\r\n//　\r\n<voice name='統' class='統' src='voice/ma05/0060550b46'>\r\n//『……あ、そう』\r\n \r\n \r\n \r\n \r\n \r\n<center>\"...Oh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49946,
+  "en": "\r\n//【統】\r\n//　\r\n<voice name='統' class='統' src='voice/ma05/0060560b46'>\r\n//『……じゃあ……』\r\n \r\n \r\n \r\n \r\n \r\n<center>\"Well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50101,
+  "en": "\r\n//【統】\r\n//　\r\n<voice name='統' class='統' src='voice/ma05/0060570b46'>\r\n//『昼飯、三人分作らないとな』\r\n \r\n \r\n \r\n \r\n \r\n<center>\"Guess I'll be cooking for three, then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50302,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060580a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50426,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060590b52'>\r\n//「――だからだ、景明。\r\n//　貴様も誇りの為に戦う道を知っていよう」\r\n\"―and that, Kageaki, is why I know you understand what it means to have pride.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50702,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060600a00'>\r\n//「……はっ」\r\n\"...Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50827,
+  "en": "\r\n//　名を呼ばれたのが契機となって、些か取り留めなく\r\n//想念を追っていた思考が引き戻される。\r\n//　尤も、先方もさほど内容のある話はしていなかった\r\n//らしい。会話は全く進んでいなかった。\r\n  The sound of my name pulls me back from the labyrinth of memory. Fortunately―or not, depending―the old master is still on the same topic.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51250,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060610b52'>\r\n//「尊厳を捨てて生きるより、誇りと共に死ぬ\r\n//のが<RUBY text='やまとびと'>大和人</RUBY>というものだ。\r\n//　それを、あの統めは……」\r\n\"A true Yamatoan would rather die with honor than live without dignity. And yet, Subaru insists―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51626,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060620a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51744,
+  "en": "\r\n//　<RUBY text='おもて'>面</RUBY>を伏せて、慎重に回答を避けつつ思う。\r\n//　本家の言うことは、わからぬではない。\r\n  As I keep my head bowed to avoid making a reply, I consider the old master's words. His argument is not without merit.\r\n\r\n//　だがその理解は同時に、本家に反対する養母の思想\r\n//への理解をも深めた。\r\n//　\r\n//　――誇りは大事であろう。しかし。\r\n  At the same time, however, it serves to deepen my understanding of Mother's viewpoint. \r\n\r\n  Yes, pride is important. However, one should only risk his life for pride if he reached that decision of his own accord, and not if it was forced upon him by another.\r\n  ...I believe that's more or less what my mother would say, if she could.\r\n\r\n//　そのために死すという意思は、人が自発的に持って\r\n//こそ尊ばれるべきで、他者が強要するようなものでは\r\n//ない。\r\n//　……一言で言えば、養母の意見はそうなろう。\r\n\r\n//　それを言うに言えない養母の苦衷が偲ばれた。\r\n//　かくも直接的な物言いをすれば、それが本家を激発\r\n//させる爆薬となり、事を一気に最悪の局面へ追いやり\r\n//かねない。\r\n  I sympathize with her, placed in the unenviable position of having to express herself as tactfully as possible. Were she to speak her mind outright, the old master might fly into a rage. And that could lead to disaster.\r\n\r\n//　俺も口を噤まねばならなかった。\r\n//　養母への同意を面と向かって告げるわけにはいかず、\r\n//といって養母への非難に同調もできぬとなれば、それ\r\n//だけが唯一の方策だ。\r\n  I also must hold my tongue. I cannot risk supporting my mother to his face, but nor can I go along with his criticisms of her. This leaves me with no choice but silence.\r\n\r\n//　老人の、語気荒い愚痴はしばらく続いた。\r\n  His tirade continues for some time.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53768,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060630b52'>\r\n//「……とな。あの時も統はそんな事を言うて\r\n//おった。馬鹿者めが！\r\n//　景明、貴様も養い親に感謝するのは良いが、\r\n//あまり毒されるでないぞ」\r\n\"...Can you believe that's what she said!? The fool! I know you're grateful to her for raising you, but make sure she doesn't get inside your head.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54215,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060640a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54333,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060650b52'>\r\n//「きゃつの娘……光は、見所があったがな。\r\n//　あんなことになったのが、つくづく惜しい」\r\n\"Her daughter, Hikaru. Now there was a girl who might have understood. It's truly regrettable what happened to her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54674,
+  "en": "\r\n//　俺は顔を上げた。\r\n//　話を本題へ引き込む機会が来たようだ。\r\n  I look up. My chance has finally come.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54818,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060660b52'>\r\n//「万事が滞りなく運んでおれば、今頃は光が\r\n//湊斗家の長となっておったに。\r\n//　全く、何たることか！」\r\n\"If everything had gone as it should, Hikaru would be head of the family now. It's a damn shame things turned out this way!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55186,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060670a00'>\r\n//「はい。\r\n//　本来なら……今年一月に髪上げの儀が執り\r\n//行われ。光は湊斗家四三代の座を襲っており\r\n//ました」\r\n\"Yes, sir. Hikaru was to undergo her coming-of-age in the first month of this year, after which she would have become the forty-third head of the family.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55594,
+  "en": "\r\n//　現実にならなかった予定を云う。\r\n  I speak of plans that never came to pass.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55701,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060680a00'>\r\n//「御本家の苦衷、お察し致します」\r\n\"I can imagine your frustration.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55880,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060690b52'>\r\n//「おぉ。\r\n//　髪上げの儀と湊斗の相続さえ済めば、儂の\r\n//片付けねばならぬ大事はあと光の婚礼が残る\r\n//のみであったわ……」\r\n\"Indeed. After the succession, the only task left to me would have been to find her a husband.\"\r\n\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060700b52'>\r\n//「貴様も口惜しかろう。\r\n//　もしこのまま光が二度と立たぬようなこと\r\n//があれば、貴様の立場も宙に浮くからの」\r\n\"You must feel the same. What will happen to your position in the family if she doesn't recover?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56592,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060710a00'>\r\n//「……は」\r\n\"...Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56714,
+  "en": "\r\n//　俺の立場。\r\n//　\r\n//　――光を生涯に渡って支え、守る。\r\n  My position. To support and protect Hikaru for as long as she lives.\r\n\r\n//　それが目前の老人によって定められた湊斗における\r\n//俺の役割であり、光がいなくなれば意味を成さぬ使命\r\n//であった。\r\n  The old master assigned me that duty himself. It is my sole purpose within the Minato family, and if Hikaru dies, that purpose is lost.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57192,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060720a00'>\r\n//「しかし全ては、この身の不覚から。\r\n//　自分が注意を怠ったばかりに、このような\r\n//始末に至りました」\r\n\"This is all my fault. If I had been more watchful, I could have prevented it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57515,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060730a00'>\r\n//「詫びて済む話ではございませんが……\r\n//　返す返すも、面目次第なき限り」\r\n\"I know that I cannot undo my mistakes. I can only express my everlasting shame.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57800,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060740b52'>\r\n//「……貴様が謝るには及ばん。\r\n//　病は天命。人を責めても始まらぬ」\r\n\"...You have no need to apologize. Illness is the province of gods. No man is to blame.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58083,
+  "en": "\r\n//　吐き捨てるように、本家が呟く。\r\n\r\n//　天命という事実をぼかした言い様は、鉱毒病事件を\r\n//起こした工場に一部住民の反対を押し切って開業許可\r\n//を与えたのが、他ならぬこの老人である為だろう。\r\n//　声も表情も苦々しい。\r\n  I am not surprised that he would evade the truth so. It was he who approved the smelting plant's construction despite numerous objections from the town. No doubt that is why his tone is so bitter.\r\n\r\n//　あるいは本家は俺の言葉を婉曲な非難と受け取った\r\n//のかもしれない。が、こちらにその意図はなかった。\r\n//　保護者の役割を全うし得なかった俺以上の責任が、\r\n//この人にあるとは考えていない。\r\n  Or perhaps he took my words as a roundabout attack on his role in all this. If so, that was not my intent. I am Hikaru's guardian, and therefore I bear the greatest share of responsibility.\r\n\r\n//　本家が不機嫌の殻に閉じ篭もってしまう前に、俺は\r\n//話を進めることにした。\r\n  Best move the conversation along before he withdraws into his shell of ill temper.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59282,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060750a00'>\r\n//「……昨晩にも、発作がありました。\r\n//　幸い、大事には至らず済みましたが」\r\n\"She had another attack last night. Luckily, there were no serious complications.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59571,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060760b52'>\r\n//「うむ……。\r\n//　体調は、どうだ。少しは回復しておらんか」\r\n\"I see... Has her condition improved at all?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59799,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060770a00'>\r\n//「残念ながら……」\r\n\"I'm afraid not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59941,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060780b52'>\r\n//「髪上げの儀は年内に済ませねばならぬ！\r\n//　さもなくば家法に背く。湊斗の<RUBY text='かんなぎ'>巫姫</RUBY>の継承\r\n//を規定の年齢において行わざるは、古来より\r\n//厳に戒められるところだ」\r\n\"The ceremony must be performed within the year! The laws are explicit. For five hundred years, the new priestess has always been invested at the appointed <br>age.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60462,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060790b52'>\r\n//「これに<RUBY text='たが'>違</RUBY>えば御家の命運に陰りが差そう」\r\n\"If we break this tradition now, it will bring doom to the entire clan.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60719,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060800a00'>\r\n//「……は。\r\n//　しかし今は、とてもの事に」\r\n\"Yes, sir. However, she is in no condition...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60924,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060810b52'>\r\n//「起き上がれずとも良い。\r\n//　半日の儀式の間、静かにしておれるなら、\r\n//後はどうにか――」\r\n\"She doesn't need to do anything. If she can just stay quiet through the ceremony<br>―say, half a day―then the rest will take care of itself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61299,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060820a00'>\r\n//「それが叶う状態ではないのです、御本家。\r\n//　いつ何時、発作に見舞われるとも知れず」\r\n\"That is impossible, sir. There is no way of knowing when her attacks will occur.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61603,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060830b52'>\r\n//「……ぬぅ……」\r\n\"...Hrmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61737,
+  "en": "\r\n//　苛立たしげに、皺だらけの指が髭を掻き毟る。\r\n  The old master tugs at his beard.\r\n\r\n//　<RUBY text='しきた'>仕来</RUBY>りの遵守を至命とするこの老人にしてみれば、\r\n//皆斗一族の最重要事ともいえる巫姫の継承儀礼を規則\r\n//通りに行えなかった初の惣領として名を後へ残すなど、\r\n//到底受け入れられることではなかろう。\r\n  Tradition is everything to this man, and the succession is by far the clan's most important tradition. He won't want to go down in history as the first clan leader to fail in this duty.\r\n\r\n//　攻めるべき隙はそこにある。\r\n//　俺は心持ち、膝を進めた。\r\n  This is my opening. My only hope.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62492,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060840a00'>\r\n//「さればこそ――御本家」\r\n\"I have a solution,\"</voice> I say, sliding my knees an inch closer.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62694,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060850b52'>\r\n//「うむ？」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62813,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060860a00'>\r\n//「欧州では鉱毒病の研究も進んでおり、中で\r\n//もベルリンのメンゲレ博士は第一人者と聞き\r\n//及びます。\r\n//　……如何でしょう」\r\n\"I am told that the foremost expert on heavy metal poisoning is a Doctor Mengele in Berlin. ...Please, sir.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060870a00'>\r\n//「御本家のお力で、博士をお招き頂くわけに\r\n//は参りませんか」\r\n\"Will you not consider using your influence to call the doctor here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63443,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060880b52'>\r\n//「またその話か」\r\n\"This again?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63578,
+  "en": "\r\n//　本家は、露骨に眉をしかめた。\r\n  He frowns deeply.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63658,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060890b52'>\r\n//「皆斗の祭儀を司る巫姫の身柄を、他国者の\r\n//医師などに預けるわけにはゆかぬ。\r\n//　何度も、そう言うておろうが」\r\n\"How many times have I told you? The Minato priestess must not be defiled by the hands of a foreign doctor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64025,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060900a00'>\r\n//「承っております。\r\n//　しかし、最早」\r\n\"I understand. However, there's no other―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64222,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060910b52'>\r\n//「医師ならば手配する！\r\n//　先日の者は役に立たなんだようだが、次は\r\n//熊本の大学の――」\r\n\"If you need doctors, you can have them! The last one was useless, but this time I'll summon that fellow from Kumamoto University, Doctor...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64589,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060920a00'>\r\n//「赤池教授ならば、先日書簡を頂きました。\r\n//　自分の手には負えぬ、と」\r\n\"If you mean Doctor Akaike, we received a letter from him just this week, in which he expressly stated that it's beyond his abilities.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060930a00'>\r\n//「……メンゲレ博士をご紹介くださったのは、\r\n//かの教授です」\r\n\"It was he who recommended Doctor Mengele.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65146,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060940b52'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65270,
+  "en": "\r\n//　黙り込む本家。\r\n//　その顔は憤懣を持て余して引き歪み、恐ろしいまで\r\n//の形相となっていた。\r\n  The old master goes deathly quiet, his face a terrible mask of displeasure.\r\n\r\n//　これは、危険信号だ。\r\n//　本家の身近にあって彼を良く知る者は誰しも、この\r\n//顔を見ると、すぐさま何もかも打ち捨てて引き下がる\r\n//――そうせねば、自分が憤懣の捌け口とされるからだ。\r\n  This is a warning sign. Anyone who has spent much time around this man knows to stage a tactical retreat at this point, or risk the full force of his rage.\r\n\r\n//　それはこの土地において社会的生命の喪失さえ時に\r\n//意味した。\r\n//　不注意で本家の激発を招いたがため、職を失い路頭\r\n//に迷った者はかつて一人二人ではない。\r\n  At times, this has resulted in livelihoods quite literally coming to an end. More than a few people have lost their jobs and been thrown out of their homes for angering the Minato patriarch.\r\n\r\n//　だが俺は逃げ出すわけにはいかなかった。\r\n//　光にはもう、時間がない。\r\n  I, however, cannot retreat. Hikaru is out of time.\r\n\r\n//　次の発作が命を奪うやもしれないのだ。\r\n//　あるいはその次の発作かもしれないが。確かなのは\r\n//それが永遠に続くはずはなく、しかも永遠よりも無の\r\n//方にはるかに近いだろうという事だった。\r\n  The next attack might claim her life, or the one after that. There is no way to know. The only thing that is certain is that her luck will not hold forever.\r\n\r\n//　本家の機嫌を窺っているゆとりは無い。\r\n//　俺はその場に平伏した。\r\n  I throw myself to the floor at the old man's knees.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67108,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060950a00'>\r\n//「お願い申し上げます、御本家……」\r\n\"I beg of you, master.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67280,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060960b52'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67398,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060970a00'>\r\n//「何卒。\r\n//　光の為、皆斗家の為――お許しを頂きたい」\r\n\"Please. For Hikaru's sake, for the clan's sake, grant me this one request!\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0060980a00'>\r\n//「何卒！」\r\n\"Please!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67765,
+  "en": "\r\n//　遠い異国の名医を呼び寄せるだけの力の持ち主は、\r\n//この老人を置いて他にはいない。\r\n//　文字通り、額を畳に擦り付ける。\r\n  I press my forehead into the mats, nearly hard enough to draw blood.\r\n\r\n//　普段であれば、ここで一喝されて終わりだ。\r\n//　しかし今日は、沈黙が長く続いた。\r\n  Normally, this is where he would shout me out of his home. Today, however, the silence lasts longer than expected.\r\n\r\n//　家族の情からではないにしても、本家とて光の回復\r\n//を心底より望んでいるのだ。俺や養母にも劣らぬほど。\r\n//　光の病状に狂おしいまでの焦りを抱いているのは、\r\n//全く変わらない。……俺はそう信じた。\r\n  Even if he doesn't care for her as family, he is no less desperate to cure Hikaru than my mother or myself. I have no choice but to believe that.\r\n\r\n//　信じて待った。\r\n  And so, I wait.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 68755,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0060990b52'>\r\n//「…………良かろう……」\r\n\"...Very well,\"</voice> the old man croaks at last, his voice as raspy as a wounded bull's.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 68980,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0061000b52'>\r\n//「大和に人なしとあっては、致し方ない。\r\n//　ベルリンの医者とやらを呼んでくれよう」\r\n\"If there is truly no one of use in Yamato, then so be it. I will summon this doctor from Berlin.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69297,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0061010a00'>\r\n//「御本家……！」\r\n\"Master...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69431,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0061020b52'>\r\n//「だがな、景明！」\r\n\"However!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69566,
+  "en": "\r\n//　喜びの余り思わず跳ね上がった顔を、威圧的な眼光\r\n//が迎える。\r\n//　釘を刺すように、本家は告げてきた。\r\n  A rush of joy lifts my head, but the old master's stare pins me to the floor.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69810,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0061030b52'>\r\n//「それも貴様の進言が、信ずるに値するもの\r\n//であれば……の話だ」\r\n\"First,\" he continues, his voice hard as flint, \"I must be certain that your recommendation is worth considering.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 70116,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0061040a00'>\r\n//「……は……」\r\n\"...Sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 70244,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0061050b52'>\r\n//「わかるか？\r\n//　儂は愚にもつかぬ輩の妄言に乗って、湊斗\r\n//の社の清浄を汚させたりなどせぬ」\r\n\"You understand, don't you, that I cannot risk the sanctity of the Minato shrine on the word of some fool?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 70583,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0061060b52'>\r\n//「だが、貴様が信ずるに足る男であるならば\r\n//……意見を聞き、他国の医師に湊斗の敷居を\r\n//跨がせてもくれよう。\r\n//　儂は、そう言うておるのだ」\r\n\"If you prove to me that you are a man I can trust... then I will accept your recommendation, and allow this barbarian doctor entrance into our most hallowed precincts.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 71054,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0061070a00'>\r\n//「――はっ。\r\n//　して、その証は如何にして立てれば宜しい\r\n//のでしょうか」\r\n\"Understood. How shall I earn your confidence, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 71311,
+  "en": "\r\n//　要は、<RUBY text='・・'>試す</RUBY>ということか。\r\n//　伝統の遵守と光の身命、どちらを優先すべきか――\r\n//本家は逡巡している。\r\n  So he means to test me. The old master is wavering, uncertain whether to prioritize ancient tradition or Hikaru's life.\r\n\r\n//　後者と主張する俺の言葉に、どれ程の重みがあるか。\r\n//　それによって、決しようというのだ。\r\n  I am asking him to choose the latter, but first he must know how much weight my words carry. So be it.\r\n\r\n//　俺は心身を引き締めて身構えた。\r\n  I ready my heart and mind for whatever challenge he names.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 71985,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0061080b52'>\r\n//「山賊どもを、片付けよ」\r\n\"Deal with the bandits.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 72143,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0061090a00'>\r\n//「……はっ？」\r\n\"...Sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 72271,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0061100b52'>\r\n//「あやつらを始末するのだ」\r\n\"Get rid of them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 72426,
+  "en": "\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0061110b52'>\r\n//「どのような手段を用いてもかまわぬ。町の\r\n//男を駆り出しても良い。\r\n//　景明。貴様の手腕で、あの飢えた野犬ども\r\n//を儂の膝元から駆逐してみせよ！」\r\n\"I don't care how you do it―use the town's men, if you like―but㉒<I>you,</I>㉒Kageaki, will drive those jackals from my doorstep!\"\r\n\r\n//【本家】\r\n<voice name='本家' class='本家' src='voice/ma05/0061120b52'>\r\n//「成し遂げた暁には、貴様を認めてやろうぞ」\r\n\"If you complete this task, then you will have earned my respect.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 73092,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0061130a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ }
+]

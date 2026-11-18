@@ -1,0 +1,132 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120010b00'>\r\n//「日暮れか。\r\n//　流石に一日では陥ちんな……」\r\n\"I suppose it was too much to hope that it would fall in a day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 460,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120020b03'>\r\n//「六波羅は強兵ですよ。\r\n//　それにこちらの態勢も完璧ではありません\r\n//でしたしね」\r\n\"Rokuhara is no pushover, sir, and we didn't have as much time to prepare as we wanted.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120030b03'>\r\n//「今日のところは、小弓を沈めただけで良し\r\n//としておくべきでしょう」\r\n\"But we did capture Oyumi. That's not bad for a day's work.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1051,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120040b00'>\r\n//「ああ」\r\n\"True.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1186,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120050b03'>\r\n//「現状を確認します」\r\n\"Here is our current position.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1363,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120060b03'>\r\n//「<RUBY text='オーサムクイン'>第一軍団</RUBY>は鎌倉市に進駐」\r\n\"The First Division has occupied Kamakura and will continue to keep the population pacified.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120070b03'>\r\n//「<RUBY text='ハイオワサ'>第二軍団</RUBY>は藤沢方面より普陀楽城を攻撃中。\r\n//　<RUBY text='タイエンダネギア'>第三軍団</RUBY>は大船方面より普陀楽城を攻撃中」\r\n\"The Second and Third are attacking Fudaraku from Fujisawa and Ofuna, respectively.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120080b03'>\r\n//「<RUBY text='ワウンスナコック'>第四軍団</RUBY>は小弓公方府を制圧。\r\n//　<RUBY text='サカ・ガェア'>第五軍団</RUBY>は古河公方府を攻撃中」\r\n\"Fourth Division has captured Oyumi district headquarters. Fifth is attacking Koga.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2429,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120090b03'>\r\n//「艦隊は相模湾をほぼ制圧、幕府艦隊を牽制\r\n//しつつ物資の輸送を行っています」\r\n\"Our fleet has Sagami Bay on lockdown. They'll continue to check the enemy fleet while transporting supplies to our forces in theater.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2792,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120100b00'>\r\n//「うむ……」\r\n\"Very good.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2938,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120110b03'>\r\n//「<RUBY text='ハイオワサ、タイエンダネギア'>第二、第三軍団</RUBY>に攻撃中止を命じて宜しい\r\n//ですか、閣下？\r\n//　夜が訪れる前に兵を退かせ、夜営の準備を\r\n//整える必要があります」\r\n\"May I order the Second and Third to stand down for the night? They'll need time to prepare the camp.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3405,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120120b03'>\r\n//「艦隊に収容できる限りはしたいですから、\r\n//その意味でも急いだ方が良いですね。\r\n//　日が落ちてからでは事故の危険が増します」\r\n\"And given the risk of accident, I'd like to get as many men aboard the ships as possible before the sun goes down.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3819,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120130b00'>\r\n//「……夜間も攻撃を続行する選択はないか？\r\n//　中佐」\r\n\"Remind me why we can't keep the attack up all night.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4065,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120140b03'>\r\n//「それは多くの意味で危険です。\r\n//　夜戦を支障なく行えるほど我が軍の兵士は\r\n//地理を把握していないのが一つ、大和軍人は\r\n//伝統的に夜戦を得意としているのが一つ」\r\n\"Three reasons, sir. First, our men are not sufficiently familiar with the terrain. Second, Yamato's military traditionally excels at nighttime engagements.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4572,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120150b03'>\r\n//「誤って市街地を攻撃してしまう恐れもある\r\n//のが一つ」\r\n\"And third, the risk of accidentally damaging Kamakura city.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4828,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120160b00'>\r\n//「……そうだな」\r\n\"...Mm.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4976,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120170b00'>\r\n//「わかったよ、キャノン。\r\n//　焦らないことにしよう」\r\n\"All right, Cannon. We'll take it slow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5208,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120180b03'>\r\n//「まだ始まったばかりですからね」\r\n\"The war has only just begun, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5407,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120190b00'>\r\n//「だが、敵が夜襲してくる可能性もある。\r\n//　警戒は徹底させておいてくれ」\r\n\"But I wouldn't put it past the enemy to try something. Make sure we have plenty of sentries.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5723,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120200b03'>\r\n//「はい」\r\n\"Yes sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5861,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120210b03'>\r\n//「ただ……ウィロー少将。\r\n//　古河方面は別ですよ」\r\n\"Koga is a different story, however.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6087,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120220b00'>\r\n//「ああ。\r\n//　わかっているとも」\r\n\"Yes. We can't afford to let our forces there rest.\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120230b00'>\r\n//「古河は六波羅の生命線……。\r\n//　裏を返せば、我々の勝負所だ」\r\n\"Koga is Rokuhara's lifeline. Victory there will win us the war.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6565,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120240b03'>\r\n//「古河を奪えば普陀楽を孤立させられます」\r\n\"Take Koga, and we cut Fudaraku off entirely.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6787,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120250b00'>\r\n//「夜間戦闘用装備はあちらへ優先的に回して\r\n//いるんだな？」\r\n\"You made sure the Fifth got the best of our night combat gear?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7052,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120260b03'>\r\n//「勿論です。\r\n//　それでも相当の被害を覚悟しなくてはなり\r\n//ませんが……」\r\n\"Of course, sir. But even then, casualties will be high.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7332,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120270b00'>\r\n//「最終的な帳尻は合うさ。\r\n//　古河で支払う犠牲には大いに意味がある」\r\n\"The sacrifice will be worth it in the end. Koga is simply too important.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7622,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120280b03'>\r\n//「ええ」\r\n\"Yes, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7761,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0120290b00'>\r\n//「<RUBY text='ワウンスナコック'>第四軍団</RUBY>も古河の応援に向かわせてくれ」\r\n\"Have the Fourth reinforce the Fifth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8020,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0120300b03'>\r\n//「了解です、閣下」\r\n\"At once.\"\r\n",
+  "pt": ""
+ }
+]

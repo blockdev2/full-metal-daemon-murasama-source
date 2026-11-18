@@ -1,0 +1,42 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc02/0340010a14'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 328,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/mc02/0340020a15'>\r\n//《……御堂？\r\n//　如何した》\r\n《Mido? What is it?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 507,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc02/0340030a14'>\r\n//「<RUBY text='そら'>天</RUBY>より来たる」\r\n\"Something is coming.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc02/0340040a14'>\r\n//「……<RUBY text='ちから'>破壊</RUBY>の<RUBY text='たまり'>果</RUBY>」\r\n\"...The ultimate power.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 858,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/mc02/0340050a15'>\r\n//《――!?》\r\n《!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 996,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc02/0340060a14'>\r\n//「うぬ!!」\r\n\"HNGH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1106,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/mc02/0340070a15'>\r\n//《かッ》\r\n《AH―》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/mc02/0340080a15'>\r\n//《く――<?>\r\n//{Wait(500);}\r\n//ああああああああああああああああ\r\n//あああアアアアアアアアアアアアアアアＡＡ\r\n//ＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡ》\r\n《KHH―<WaitVoice=700>AHHHHHHHHHHH HHHHHHHHHHHHHHH!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1623,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc02/0340090a14'>\r\n//「この光を！」\r\n\"You dare?\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc02/0340100a14'>\r\n//「この<RUBY text='ひかる'>銀星号</RUBY>を――」\r\n\"You dare!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1897,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc02/0340110a14'>\r\n//「凌辱するかッッッ!!」\r\n\"YOU DARE DEFILE <br>HIKARU!?\"\r\n",
+  "pt": ""
+ }
+]

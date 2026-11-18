@@ -1,0 +1,807 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　舞台の上では狂言が始まっていた。\r\n//　演目は『<RUBY text='ふせないきょう'>無布施経</RUBY>』。法要を済ませたはいいものの、\r\n//決まりのお布施を施主から貰えず困惑する住持の姿が\r\n//何とも滑稽である。\r\n\r\n//　未だ余韻の冷めやらぬ胸中にその軽妙なやり取りは、\r\n//まるで食後の茶の一服のように染み渡り、気の<RUBY text='たかぶ'>昂</RUBY>りを\r\n//宥めてくれる。\r\n//　能とは良く考えられているものだと、俺は感服した。\r\n  On the stage, the Kyogen interlude has begun. The piece is Fuse-nai-Kyo, in which a bumbling priest goes to great lengths trying to collect a donation for the funeral he performed.\r\n\r\n  Like a cup of tea following a rich meal, these lighthearted antics form a perfect contrast with the powerful display we just witnessed, giving us time to reflect and digest.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1160,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0180010a00'>\r\n//「……む？」\r\n\"...Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1285,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0180020a02'>\r\n//「あれ？\r\n//　……あの役者」\r\n\"Isn't that...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1438,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0180030a00'>\r\n//「〝頼政〟ではないか……」\r\n\"Yorimasa...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1588,
+  "en": "\r\n//　急な騒声に目をやれば。\r\n//　あの名演を見せ付けた能楽師が、客席に現れていた。\r\n\r\n//　しかも、役の衣装そのままである。\r\n//　……何をしているのか。\r\n\r\n//　不思議がったのは、本人を除く全員であろう。\r\n//　何事かと、警備の兵が男のもとへ駆けつける。\r\n  Sensing a disturbance in the crowd, we turn to look.\r\n\r\n  The master thespian who just defined the role of Yorimasa for a generation has appeared in the audience, still in full costume. What is he doing?\r\n\r\n  Nobody seems to have expected this. Several guards rush to take his measure.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2245,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0180040a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2364,
+  "en": "\r\n//　だが、彼らはすぐに引き下がった。\r\n//〝頼政〟の無作法を咎めるでもなく、泡を食った様子\r\n//で。\r\n\r\n//　能役者はあたかもまだ曲の<RUBY text='さなか'>最中</RUBY>にあるかの素振りで、\r\n//悠々と美しく足を滑らせ進んでゆく。\r\n//　その向かう先は――岡部の遺姫。\r\n\r\n//　京極家の将士であろう、周囲を固めていた男たちが\r\n//いきり立って腰を上げたのも一瞬のこと。\r\n//　<RUBY text='たちま'>忽</RUBY>ち恐縮の<RUBY text='てい'>態</RUBY>で刀の柄へ掛けた利き手を引き剥がす。\r\n\r\n//　遂に止める者もなく、〝頼政〟は桜子の前に立った。\r\n//　そして衣装を脱ぎ去り、頭巾を取り、面に手をかけ\r\n//――――\r\n  But before any lays a hand on him, the guards suddenly freeze, then back away, as if having encountered an actual ghost.\r\n\r\n  The actor continues his procession unimpeded, gliding forward with the same majestic grace he displayed to such effect on the stage.\r\n\r\n  His destination soon becomes clear. He's headed for Lady Sakurako.\r\n\r\n  Two officers from Lord Kyogoku's party rise, but these, like the guards, are shortly cowed. They release their swords and, bowing deeply, part to let the man pass.\r\n\r\n  At last, Yorimasa stands before the lady. With slow, deliberate motions, he sheds his robe, doffs his headdress, then lifts a hand to his mask...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3835,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180050b28'>\r\n//「――あっ！」\r\n\"Ah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3959,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0180060a00'>\r\n//「!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4068,
+  "en": "\r\n//　――遊佐童心!?\r\n\r\n//　馬鹿な。\r\n//　なら、主催者然と座している男は一体……\r\n  Yusa Doshin!? Impossible. He's sitting right―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4241,
+  "en": "\r\n//　……誰だ？\r\n//　あの異相の男は。\r\n\r\n//　周囲の人間が驚きつつも咎め立てはしていないこと\r\n//から察するに、<RUBY text='うろん'>胡乱</RUBY>な者ではないのだろうが。\r\n//　俺には見覚えのない男だった。それはつまり、広く\r\n//知られた幕府高官ではない事を意味する。\r\n\r\n//　何にしても、あの男が頭巾を着けて遊佐童心入道の\r\n//影武者を務めていたという真相のようだ。\r\n  Who is㉓<I>that?</I>\r\n\r\n  The guests near the bizarrely dressed man all shrink back in disbelief, but not one demands he account for his presence. They recognize him.\r\n  A man known in this castle, but not to the public. Who could he be?\r\n\r\n  In any case, the general must have enlisted him as his double. It was him sitting there all along.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5101,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180070a09'>\r\n//「いやいや……\r\n//　驚かせてしまったか」\r\n\"My apologies, lady. I hope I didn't shock you too badly.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180080a09'>\r\n//「すまんのぅ、桜子どの。\r\n//　いかぬ、いかぬとわかってはおるのだが、\r\n//わしは元来こういう真似が好きでなァ」\r\n\"I tried to stop myself. Truly, I did. But mischief is engraved in these bones, you see.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180090a09'>\r\n//「この性根、この歳になってはもう如何とも\r\n//ならぬわえ。\r\n//　年寄りの戯れと思うて、どうか水に流して\r\n//くだされい！」\r\n\"And I'm afraid it's much too late to change. Do say you'll forgive an old man his foibles.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6005,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180100b28'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6129,
+  "en": "\r\n//　姫は呆然とした様子で、返す言葉もない。\r\n//　邦氏以下の列席者も大同小異だ。\r\n\r\n//　……誰が思うか。\r\n//　古河公方ともあろう者が、こっそり能楽一座の中に\r\n//紛れ込んでシテを張るなどと……！\r\n  The lady still has not recovered from her surprise, which she shares, to one degree or another, with every member of the audience. Who could have imagined that the governor of Koga would take the stage himself?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6630,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0180110a00'>\r\n//「……能楽も武家の嗜みとはいえ」\r\n\"True, Noh has traditionally been a pastime of warriors...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6835,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0180120a02'>\r\n//「どこまでふざけてんだ。あの坊主」\r\n\"I told you. He gets off on fucking with people.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7033,
+  "en": "\r\n//　一条の声は呟きにしてはやや大き過ぎたが、今なら\r\n//ば誰に聴かれても咎められはしないと思えた。\r\n  Ichijo's voice is quite a bit louder than I'd like, though no one within earshot seems to mind. They likely agree with her appraisal of the general.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7338,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180130b28'>\r\n//「……童心入道様……\r\n//　あなたが……あの〝頼政〟を……」\r\n\"Reverend Doshin... On the stage... that was you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7571,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180140a09'>\r\n//「うむ」\r\n\"It was.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7690,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180150b28'>\r\n//「そんな……\r\n//　どうして」\r\n\"But...㉓<I>why?</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7850,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180160a09'>\r\n//「拙い芸で、頼綱公の<RUBY text='ほまれ'>誉</RUBY>まで汚してしまった\r\n//かの」\r\n\"Ah... Has my poor talent dishonored your lord father's memory?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8115,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180170b28'>\r\n//「そ、そのようなことはございません。\r\n//　……お見事な舞でした」\r\n\"N- No, not at all. It was... a magnificent performance.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8364,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180180a09'>\r\n//「おう、おう！\r\n//　他ならぬ桜子どのにお褒め頂けるとは、何\r\n//とうれしや！」\r\n\"It was? Wonderful! I could hope for no higher praise!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8627,
+  "en": "\r\n//　頬を緩ませて、入道公方が手を打ち鳴らす。\r\n//　その前で、姫は困惑の度をますます深めるばかりだ。\r\n\r\n//　……そう。確かに、見事な芸であった。\r\n//　だからこそ腑に落ちないのだ。\r\n\r\n//　技術の高さは、芸能達者で知られた婆娑羅公方の事。\r\n//今更驚くにも値しない。\r\n//　だが、あの情感――\r\n\r\n//　滅びゆく者の悲哀を、ああも見事に唄い上げたのは\r\n//何故なのか。\r\n//　数多の敵対者を虫けら同然に踏み殺し、顧みてなど\r\n//こなかった六波羅の大領袖が……何故。\r\n  The warrior-priest claps his hands with joy, but the lady's bewilderment only deepens.\r\n\r\n  And no wonder. Yes, the performance was magnificent, as close to perfection as any I've witnessed. What neither the lady nor I can fathom is㉗<I>how</I> Yusa Doshin accomplished this.\r\n\r\n  His skill: that is no surprise. The general is known for his artistic talents.\r\n\r\n  But the emotion in his performance. The <I>authenticity</I>㉕of it. Where did that come from?\r\n\r\n  How could a man who has crushed countless foes, who now stands at the apex of power in Yamato, speak so poignantly of how it feels to die amid defeat?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9901,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180190a09'>\r\n//「のう……\r\n//　桜子どの」\r\n\"My lady...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10048,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180200b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10166,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180210a09'>\r\n//「聞けば、閣老らの度々の諮問に何も答えら\r\n//れぬとか。\r\n//　殊に先のいくさに関する話となると、貝の\r\n//ようなだんまりぶり……」\r\n\"I'm told you've been less than cooperative with my officers. When it comes to questions about the war, in particular, you never say a word.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10588,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180220b28'>\r\n//「それは……」\r\n\"Reverend, I...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10723,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180230a09'>\r\n//「いや、お気持ちはわかり申すぞ。\r\n//　敗者は口を閉ざすもの」\r\n\"Oh, I understand. I do. The tongue wishes to speak of the fallen, of who they were and what they aspired to accomplish.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180240a09'>\r\n//「口を開けば己の理がこぼれ出る。\r\n//　だが戦い敗れた後で理を語って何になろう。\r\n//負け犬の遠吠えよ、潔からぬことよと笑われ、\r\n//かえって理を汚すばかりではないか……」\r\n\"But in defeat, what are such words but the whine of a beaten dog? What will they earn you but pity and scorn? True to your heart as they may be, to give them voice would diminish all that your comrades fought for.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180250a09'>\r\n//「それでは冥途の同胞に申し訳が立たぬ。\r\n//　……であろう？　姫」\r\n\"And how will you face them then? ...No?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11803,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180260b28'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11927,
+  "en": "\r\n//　そうだ。\r\n//　岡部桜子は、そう言っていた……。\r\n\r\n//　息を呑んで見詰め返す姫からふと顔をそらし。\r\n//　遊佐童心は一座を見渡した。\r\n  Lady Sakurako stares up at him, stunned. Every word was as she herself spoke them to us mere days ago.\r\n\r\n  Suddenly the general looks up and takes in the room.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12293,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180270a09'>\r\n//「聞いておったか、御一同！\r\n//　桜子姫が虜囚の身に甘んじ、口を閉ざして\r\n//生き永らえておられるは、負けを恥じるから\r\n//でも世を拗ねているからでもない」\r\n\"Did you hear that, all of you!? You have wondered at her silence. Is it shame, you have asked? Has she turned her back on the world? That would be a petty gesture indeed.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180280a09'>\r\n//「黙して生きることこそが、敗れ死んだ者の\r\n//名誉を守る道であるからじゃ！\r\n//　わからぬか？　たとえ命冥加な女よと、世\r\n//の嘲りを買おうとも――」\r\n\"Well, I am here to tell you that you are all wrong! She holds her silence because㉓<I>silence</I>㉓is the only way to preserve the honor of the fallen!\r\n  Do you see? Each time you look at her and say, 'Shameless! She should have had the good grace to die―'㉑\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180290a09'>\r\n//「それは反面、潔く果てし者どもへの賞賛と\r\n//なる！\r\n//　恥を忘れたふうに振舞う女の姿を見るたび、\r\n//人々は岡部の猛き<RUBY text='もののふ'>武士</RUBY>を思い出すであろう！」\r\n\"You are, by definition, praising those who㉗<I>did!</I> \r\n  The sight of her, brazen, clinging to life, forces each and every one of you to <I>remember</I>㉒Yoritsuna and his brave few!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180300a09'>\r\n//「姫は岡部の名を汚さず後世へ残すため、己\r\n//を捨石とされておる！」\r\n\"Thus she, in essence, has sacrificed herself―that the deeds of her clan may never be forgotten!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14153,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180310b28'>\r\n//「――――!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14274,
+  "en": "\r\n//　……何と。\r\n//　それは――そこまでは考えが及ばなかった。\r\n\r\n//　それが、桜子姫の真意であったのか。\r\n//　…………聞けば、納得のゆかぬ点は何もない。\r\n\r\n//　まさしく、かの姫君はその覚悟でもって生きていた\r\n//のであろう。\r\n//　胸の奥へ秘め置いて。あの日の、一条の抉るような\r\n//問いかけにさえ遂に全ては明かすことなく。\r\n\r\n//　それにつけても、畏るべきは遊佐の童心坊。\r\n//　何と人心の機微に通じていることか。\r\n  ...Is it true? Is that the lady's intent?\r\n\r\n  It must be. It makes perfect sense.\r\n\r\n  So that's the truth of her resolve. She kept it hidden all this time, behind a mask that not even Ichijo could tear away.\r\n  That no one could―save for Yusa Doshin.\r\n\r\n  What perception. What awesome insight. No wonder the man is so feared.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15204,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180320a09'>\r\n//「あの父にしてこの娘あり！\r\n//　流石は天下に知られた頼綱公じゃ。子女へ\r\n//の薫陶悪しからず。麒麟から<RUBY text='どば'>駑馬</RUBY>は生まれぬ\r\n//もの……」\r\n\"A great man, Lord Yoritsuna! How do we know? Look at his daughter. See his greatness reflected in her. He raised her with care, and now she repays him by honoring his legacy.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180330a09'>\r\n//「我らもかくあらねばならぬ。\r\n//　良いか!?　皆の衆!!」\r\n\"Do you see, worthies!? We all must strive to follow his example!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180340a09'>\r\n//「岡部を手本として一族を薫育せい！\r\n//　武門の盛衰など所詮は時の運。我が六波羅\r\n//の栄華もいつかは終わりを迎えよう。その折\r\n//に見苦しき振舞いがあってはならぬ……」\r\n\"Ask yourselves, as you lead your houses into the future, how Okabe would conduct himself!\r\n  And let us remember the truth that was spoken: that all who rise must fall. One day, Rokuhara's time will come, and when it does, I expect each and every one of you to acquit yourselves <I>magnificently.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16556,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180350a09'>\r\n//「散るときは花と散ろうぞ！\r\n//　たとえそれが埋木の、幻の花であってもの\r\n//……散った後に、<RUBY text='み'>実</RUBY>が<RUBY text='な'>生</RUBY>ることもあろうて！」\r\n\"That is how warriors die! Yes!?\r\n  And though our seeds may lie buried deep, perhaps one day, they will blossom as his did!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16997,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180360b28'>\r\n//「……童心様……」\r\n\"Reverend Doshin...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17142,
+  "en": "\r\n//　――は。\r\n//　――ははァ。\r\n\r\n//　筆頭公方の大喝に、異を唱えられる者がいよう筈も\r\n//ない。\r\n//　皆が一斉に平伏する。俺もそれに倣った。\r\n\r\n//　一条の頭を腕ずくで一緒に押さえ込みつつ。\r\n  As one, the audience bows to the floor and looses a shout of assent.\r\n\r\n  I join them. So does Ichijo, when I remember to grab her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17555,
+  "en": "\r\n//◆赤面\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0180370a02'>\r\n//（…………）\r\n(......)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17692,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0180380a00'>\r\n//（目立つだろう）\r\n(We're trying not to stand out, remember?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17856,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0180390a02'>\r\n//（すみません）\r\n(Sorry!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17983,
+  "en": "\r\n//　幕府の御一同はともかく、こちらには頭を下げねば\r\n//ならぬ義理など無いから気持ちはわかる。\r\n//　俺とて下げたのは格好だけだ。\r\n\r\n//　……だが。\r\n//　幾分は、本心からの礼も混じっていただろう。\r\n\r\n//　場には唯一、頭を下げていない人間がいる。\r\n//　足利四郎邦氏だ。\r\n\r\n//　遊佐童心はそちらへ体を向けた。\r\n  I understand how she feels. I, too, would not bow if it weren't essential to our disguise.\r\n\r\n  Though at the same time, it is hard to deny that the general's words have struck a chord in my heart.\r\n\r\n  Now he turns to the one person in the stadium who has not lowered his head.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18709,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180400a09'>\r\n//「不吉なことを申し上げましたかな。\r\n//　殿下、お許しあれ」\r\n\"Forgive me, Your Grace. I should not speak so lightly of defeat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18958,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0180410b49'>\r\n//「いや、謝るには及ばぬ……」\r\n\"No, Reverend... Do not apologize.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19133,
+  "en": "\r\n//　少年の表情は反発の対極にある。\r\n//　深い感銘に、額まで火照らせていた。\r\n  The young lord's face is flushed―not from anger, but from its opposite.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19330,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0180420b49'>\r\n//「良くぞ申した、童心坊！\r\n//　この四郎、闇夜に灯明を得た心地である」\r\n\"Your words are a light in the darkness. Thank you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19580,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180430a09'>\r\n//「過分なるお言葉。\r\n//　冥利に尽き申す」\r\n\"You are much too kind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19760,
+  "en": "\r\n//　深々と、古河公方は主君へ礼を返した。\r\n//　そうして再び、姫に向き戻る。\r\n\r\n//　……闇夜に灯明。\r\n//　それはあの年若い王者の、本心の発露であろう。\r\n\r\n//　彼が望んだ、岡部の姫と共に歩ける未来。\r\n//　ひどく険しいと思えたその道も、傍らに遊佐童心の\r\n//ような理解者が<RUBY text='はべ'>侍</RUBY>るのならば――あるいは、成し得る\r\n//事なのかもしれない。\r\n  The governor bows deeply to his lord, then returns his attention to Lady Sakurako.\r\n\r\n  A light in the darkness. I have no doubt those words were spoken truly.\r\n\r\n  It is a treacherous path the boy has chosen―to walk hand-in-hand with a traitor's daughter. But perhaps, with an ally like Yusa Doshin, it will not be impossible after all.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20608,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180440a09'>\r\n//「桜子どの……。\r\n//　お覚悟の程はまことに立派と存ずる。我ら\r\n//六波羅、決して姫の邪魔立ては致さぬ」\r\n\"My lady... know that I have the utmost respect for your resolve. And know that Rokuhara shall respect it as well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20967,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180450b28'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21091,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180460a09'>\r\n//「黙して、生き続け……\r\n//　父君の誇りを守られるが宜しかろう」\r\n\"Live on. Keep your silence. Honor your father's <br>memory.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21341,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180470b28'>\r\n//「……はい」\r\n\"...I will.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21469,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180480a09'>\r\n//「だが、の。\r\n//　我らは岡部を語りたい……」\r\n\"But know also that we wish to honor him too.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180490a09'>\r\n//「かような傑物がおった、と……\r\n//　我らとは遂に道を違え、弓引き合う間柄と\r\n//はなりしも、決して邪念はなく私欲もなく」\r\n\"Because your father㉒<I>was</I>㉗a great man, and though our differences ended, sadly, on the field of battle, there was never any hatred between <br>us.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180500a09'>\r\n//「ただ、己の正道を貫かんがため。\r\n//　勝てぬと知った戦いに敢えて臨み、見事に\r\n//散って逝った……そんな英雄がおったのだと」\r\n\"He fought for what he believed was right, even knowing that he could not win. He died like a warrior. Like a hero.\"\r\n\r\n//嶋：修正（見せたも）【090930】\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180510a09'>\r\n//「子々孫々に語り伝えたいのよ……。\r\n//　今日、この鈍牛めが不出来な舞を見せたの\r\n//もそのため」\r\n\"And the world should know that he was㉓<I>here.</I> Hence my bumbling performance this eve.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22849,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180520b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22967,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180530a09'>\r\n//「桜子どのは、ご存知かな。\r\n//　わしと頼綱公が肩を並べて、共に戦った事\r\n//もあったと……」\r\n\"Did you know that your father and I served together?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23250,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180540b28'>\r\n//「えっ？\r\n//　……い、いいえ。初耳です」\r\n\"N- No... I had no idea.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23431,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180550a09'>\r\n//「あれはもう……三五年も前になろうか。\r\n//　<RUBY text='ロシア'>露帝</RUBY>相手の<RUBY text='おおいくさ'>大戦</RUBY>のおり」\r\n\"Oh yes. We fought the Russians together. Thirty-five years ago now, it was.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23769,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180560a09'>\r\n//「わしらはかの乃木将軍の陣中におった。\r\n//　おう、亡き殿もおられたぞ」\r\n\"We served under General Nogi. My late lord Moriuji was there too.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180570a09'>\r\n//「三人とも、当時は新米の陸軍士官に過ぎな\r\n//かったがの……」\r\n\"Of course, back then, we were just freshly commissioned lieutenants who didn't know our asses from our elbows!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24327,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180580b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24445,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180590a09'>\r\n//「今でも夢に見るわ。\r\n//　難攻不落の<RUBY text='リュイシュン'>旅順</RUBY>要塞」\r\n\"Ahh, Port Arthur. I still see it in my dreams.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180600a09'>\r\n//「厳寒のなか、<RUBY text='ラッパ'>喇叭</RUBY>を合図に、兵が突撃して\r\n//ゆくたび……\r\n//　一面の凍土が血肉で煮える」\r\n\"Men charging through the biting cold, torn to pieces by the enemy's guns, limbs scattered across the tundra...\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180610a09'>\r\n//「積み重なるのは友軍の骸ばかり……\r\n//　戦果はひとかけらも手にできず、忌々しき\r\n//城壁には傷もつかぬ」\r\n\"Every day, hundreds more of our comrades dead... and not a scratch on those blasted walls to show for it.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180620a09'>\r\n//「竜騎兵の爆撃も効果はなく……\r\n//　かえって撃墜され、弾薬を地上の味方へと\r\n//ばらまく始末」\r\n\"Even our dragoons and their bombs could do little. The Russians kept cutting them down, scattering their payloads over our lines instead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25766,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180630a09'>\r\n//「……地獄であったのう。\r\n//　三人で、その地獄を眺めたわ」\r\n\"Yes... it was hell. And the three of us were mired in it.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180640a09'>\r\n//「わしは、泣いた。\r\n//　武人にあるまじき事だが……命のはかなさ、\r\n//戦の無情さが胸に染みて、涙が止まらなんだ\r\n//……」\r\n\"I wept, you know... to my everlasting shame. The fragility of life, the horrors of battle. It was more than I could bear.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180650a09'>\r\n//「十太郎――おう、殿の事だがの。あの頃は\r\n//そう呼んでおった。\r\n//　十太郎は、そんなわしを殴った。兵の死に\r\n//涙するなら、坊主にでもなってしまえと」\r\n\"Jutaro―that's what we called Lord Moriuji back then―Jutaro was having none of it.\r\n  'If you want to weep for the fallen,' he said while striking me across the face, 'you should have become a <br>priest!'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26911,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180660a09'>\r\n//「頼綱公は、何も言わなんだ。\r\n//　黙って眺めておった」\r\n\"And your father... he said nothing. Nothing at all.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180670a09'>\r\n//「あの二〇三高地を。\r\n//　兵が突撃を繰り返し、繰り返しただけ死骸\r\n//を積み重ねてゆく丘をただ、眺めておった」\r\n\"As our men threw themselves at 203 Meter Hill, as the bodies piled higher and higher... he watched, and never turned away.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180680a09'>\r\n//「唇を固く噛み締め……\r\n//　血を滲ませていた。噛み切っておったのだ\r\n//ろうな……」\r\n\"I still remember the look on his face. Lips pulled back, jaw clenched tight... and a trickle of blood at the corner of his mouth, from where he'd bitten through.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27885,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180690b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28003,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180700a09'>\r\n//「だが、その後。\r\n//　司令部へ戻り、頼綱公が何を上申したか。\r\n//桜子どの……わかるかな」\r\n\"That night, he went to the general's tent. And do you know what he said?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28303,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180710b28'>\r\n//「いえ……」\r\n\"No...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28426,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180720a09'>\r\n//「二〇三高地は観測と砲撃に絶好の場所。\r\n//　これさえ取れば、隙を見てはこちらの制空\r\n//権を脅かしに来る籠城軍の頭へ蓋をしてやる\r\n//事もできる。いくさの流れが変わる」\r\n\"He said, 'That hill is the key to the city. With our spotters and howitzers planted on its summit, we can ground the enemy's dragoons for good. And how goes the air goes the battle.'㉑\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180730a09'>\r\n//「故に、今こそあの丘を砲撃するべし――と。\r\n//　……敵のみならず、友軍もひしめいておる\r\n//所にな」\r\n\"And then, he recommended a full bombardment of the hill... knowing that our own men were still fighting on its flanks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29304,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180740b28'>\r\n//「っ!?　そんな」\r\n\"No...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29433,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180750a09'>\r\n//「乃木将軍はむろん、一言のもとに拒絶した\r\n//……<RUBY text='みかど'>帝</RUBY>の<RUBY text='せきし'>赤子</RUBY>を我が砲で撃てようか、と。\r\n//　しかし、頼綱公は引き下がらなかった……\r\n//思えば剛情の<RUBY text='たち'>質</RUBY>はあの頃からであったわ」\r\n\"General Nogi, of course, rejected the proposal. 'I will not turn my guns on His Majesty's own subjects!'\r\n  But your father, Yoritsuna: he would not take no for an answer. Yes, he was always as stubborn as they come.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180760a09'>\r\n//「陛下の赤子を無為に死なせてきたは、今日、\r\n//これまでの閣下である。\r\n//　今日これよりは、陛下の赤子に有為の死を\r\n//お与えあれ……と」\r\n\"㉑'Sir,' he said, 'as we speak, His Majesty's subjects are dying for nothing, by your order. I submit that you do what is necessary to give their deaths purpose.'㉑\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180770a09'>\r\n//「将軍に向かって言い放ちおったわ。\r\n//　名族の出とはいえ、一介の将校に過ぎぬ身\r\n//でな。呆れた胆力よ」\r\n\"Can you imagine it? A mere lieutenant, highborn or no, speaking so to a general. Ah, but that was your father.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180780a09'>\r\n//「だがその真情が乃木閣下を動かし、砲撃を\r\n//決行させ、我が軍勢をして遂に二〇三高地を\r\n//奪取せしめた。\r\n//　勝負の趨勢は一夜にして覆った」\r\n\"And General Nogi, he saw this for the true loyalty that it was. He gave the order to commence bombardment, and within a day, we had taken that hill.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31327,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180790a09'>\r\n//「……頼綱公は、まこと……\r\n//　人の<RUBY text='い'>活</RUBY>かし方、その本当のところを知って\r\n//いる御仁であった……！」\r\n\"Even back then, your father knew how to make the most of a man's sacrifice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31669,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180800b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31787,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180810a09'>\r\n//「頼綱公は、こういう話を姫に聞かせなんだ\r\n//か」\r\n\"He never told you this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31980,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180820b28'>\r\n//「……はい。\r\n//　いくさの話は滅多にしてくれませんでした。\r\n//幼い折には、せがんだこともあったのですが」\r\n\"No, he never spoke of the wars... though as a little girl, I often begged him...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32312,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180830a09'>\r\n//「さもあろう。さもあろう。\r\n//　要塞陥落の手柄は疑いもなく頼綱公のもの\r\n//であったが、御本人は一度たりと誇ることが\r\n//なかった」\r\n\"No. No, he wouldn't have. He won that siege for us, you know, but he would have refused his honors if he could.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180840a09'>\r\n//「むしろ、生涯の恥としておった。\r\n//　味方を撃つがごときを、将軍に勧めた事を」\r\n\"He hated himself for that, for his role in the slaughter of our men.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180850a09'>\r\n//「悔いては、おらなんだ……。\r\n//　しかし恥じておった」\r\n\"He never regretted it... but he was ashamed of it.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180860a09'>\r\n//「そんな御仁であったよ。\r\n//　姫の父君は……」\r\n\"That's the sort of man he was.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33394,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180870b28'>\r\n//「……父上……」\r\n\"Oh, Father...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33531,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180880a09'>\r\n//「わしはの。桜子どの。\r\n//　そんな頼綱公の事跡の数々を、埋もれさせ\r\n//てしまいとうはない」\r\n\"Please understand, my dear. I don't want his story to be forgotten.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180890a09'>\r\n//「後の世に、あの男の生涯を正しく伝え残し\r\n//たい……。\r\n//　彼と同じ時代を生きたからには、その責任\r\n//があると思うのよ」\r\n\"I believe that as one who fought both beside and against him, it is my responsibility to ensure that his truth lives on.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34215,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180900b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34333,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180910a09'>\r\n//「構わぬかな？　桜子どの。\r\n//　我らが頼綱公を語っても……」\r\n\"Will it trouble you, my lady, if we speak where you cannot?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34580,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180920b28'>\r\n//「……は……」\r\n\"I...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34705,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180930b28'>\r\n//「はい……」\r\n\"No, Reverend...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34838,
+  "en": "\r\n//　あの姫の身中に、固く冷たくそびえていた<RUBY text='しゅんれい'>峻嶺</RUBY>――\r\n//　それが今、揺らいだようだった。\r\n\r\n//　……矜持にかけても自分の口では語れなかった、父\r\n//の戦い。\r\n//　それを六波羅が語るという。\r\n\r\n//　いや――古河公方は既に語ってみせた。\r\n//　百万言よりも雄弁な、舞の一差しで。\r\n  Before my eyes, that mighty wall of ice in her heart seems to crack.\r\n\r\n  Will Rokuhara truly take up her burden and give voice to what honor demands that she not?\r\n\r\n  A foolish question. The general has already done just that, with a dance more eloquent than any words could be.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35557,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180940b28'>\r\n//「どうぞお好きに……。\r\n//　童心入道様」\r\n\"If it pleases you...\"\r\n\r\n<FW img=''>\r\n  The warrior-priest nods solemnly.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35787,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180950a09'>\r\n//「うむ、そうか。そうか……。\r\n//　礼を申す。姫」\r\n\"Thank you for your understanding.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35990,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180960b28'>\r\n//「いえ……。\r\n//　……ただ……」\r\n\"No... In truth...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36153,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0180970a09'>\r\n//「うん？」\r\n\"In truth?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36277,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180980b28'>\r\n//「聞くのは……<RUBY text='つろ'>辛</RUBY>うございます。\r\n//　今のように……わたくしの知らなかった父\r\n//の姿を聞かされると……」\r\n\"It is... hard... to hear of him like that. A part of his life I never knew...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36630,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0180990b28'>\r\n//「もう一度……！\r\n//　父に……会いたく……！」\r\n\"It makes me wish that I could talk to him... one more time...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36859,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181000a09'>\r\n//「おう、おう……！\r\n//　そうであろうのう」\r\n\"Ah...! Of course. How foolish of me.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181010a09'>\r\n//「済まぬ、泣かせてしもうたな……。\r\n//　義清！」\r\n\"I should have been more considerate. Yoshikiyo!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37265,
+  "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/mb02/0181020b21'>\r\n//「はッ」\r\n\"My lord.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37385,
+  "en": "\r\n//　姫の涙にうろたえた様子で、遊佐童心はいつからか\r\n//背後に控えていた小姓を呼ばわる。\r\n//　遠目にも美貌と知れるその小姓は素早く、急須と碗\r\n//を主人に手渡した。\r\n  The general, flustered, motions to his page, who is standing behind him. The boy―how long has he been there?―immediately produces a cup and a jug.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37784,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181030a09'>\r\n//「このような時は酒に限る。\r\n//　桜子どの、一献ゆかれよ」\r\n\"A spot of sake, I think, to take the edge off.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38012,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181040b28'>\r\n//「……お見苦しいところを……\r\n//　申し訳ございません」\r\n\"Forgive me... I am not myself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38221,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181050a09'>\r\n//「父を思い娘が涙するに何の不思議があろう。\r\n//何の罪があろう。\r\n//　何も恥じるには及ばぬ。さ、姫」\r\n\"Daughters weep for their fathers. It is the way of the world. Your cup.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38535,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181060b28'>\r\n//「はい……」\r\n\"Thank you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38665,
+  "en": "\r\n//　桜子が受け取った碗に、童心が急須を向ける。\r\n//　大ぶりの碗になみなみと注がれる酒。\r\n\r\n//　姫がそれを飲み干す。\r\n//　……その光景を、能楽堂の全ての者が見ていた。\r\n\r\n//　幕府政治を動かす百官。\r\n//　その家族。\r\n//　彼らを統べる足利四郎邦氏。\r\n\r\n//　全員が見た。\r\n//　何か――象徴的な絵画として。\r\n  She takes the cup―it is larger than average―and waits as Doshin fills it from the jug.\r\n\r\n  She then lifts it to her lips and tilts it back.\r\n\r\n  The audience watches, holding its breath, as Okabe's daughter drains the cup dry. From the lowest scribe to Lord Kuniuji himself, no one can fail to recognize what this is.\r\n\r\n  A㉓<I>symbol.</I>㉑ Of what, only time will tell.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39484,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0181070a00'>\r\n//（……どうしたものかな）\r\n(What does this mean?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39640,
+  "en": "\r\n//　俺は、悩まねばならなかった。\r\n//　<RUBY text='・・・・・・・'>どうしたものか</RUBY>。\r\n\r\n//　前線の兵士が自己判断で作戦方針を変更するなど、\r\n//原則的に許されない事だが。\r\n//　その必要が今、あるのかもしれない。\r\n\r\n//　当初の目論見は――あるいはその放棄は。果たして\r\n//親王の利益に沿うか……。\r\n//　\r\n//　決断に迷って、俺は一条を見た。\r\n  And now, I am forced to ask―what does this mean for my mission?\r\n\r\n  As a rule, a soldier must never deviate from his orders so long as adherence is possible. But could this be an exception?\r\n\r\n  Is there a chance that by abandoning my task, I might serve the prince better than by completing it?\r\n\r\n  While searching for an answer, I glance at Ichijo.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40486,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0181080a00'>\r\n//（……？　どうした）\r\n(...What's wrong?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40632,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0181090a02'>\r\n//（え？）\r\n(Huh?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40748,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0181100a00'>\r\n//（気分が悪そうだぞ）\r\n(You look ill.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40891,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0181110a02'>\r\n//（あ……はい。\r\n//　なんか、胃の辺りが<RUBY text='・・・・'>むずむず</RUBY>して）\r\n(Oh... yeah. There's like this... <I>churning</I>㉑in my gut.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41161,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0181120a00'>\r\n//（……変な物を食ったわけでもあるまい？）\r\n(What did you eat?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41338,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0181130a02'>\r\n//（そうなんですけど。\r\n//　なんだろこれ……）\r\n(Nothing. I dunno...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41521,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0181140a02'>\r\n//（……こういう時って……）\r\n(It's like...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41672,
+  "en": "\r\n//　気にはなったが、いつまでも頭を寄せ合い密談して\r\n//いては周囲に不審がられる。\r\n//　今は公方と姫の一幕に注目していて当たり前なのだ。\r\n\r\n//　俺は体の向きを戻した。\r\n  I'm curious, but huddling together like this will only attract attention. I force myself to turn back to the drama unfolding.\r\n\r\n  As I do, that strange figure catches my eye.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42101,
+  "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0181150b37'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42234,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0181160a00'>\r\n//「ッ!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42347,
+  "en": "\r\n//　……気のせい…………か？\r\n//　あの奇妙な影武者、今、こちらを見ていた……？\r\n  Was he looking at us?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42498,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181170a09'>\r\n//「ゆく川の流れは絶えぬ。\r\n//　流れた水は二度と戻らぬ」\r\n\"The river flows on, never stopping, always leaving something behind.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181180a09'>\r\n//「過ぎ去りしものはいくら惜しんでも帰って\r\n//きてはくれぬ……世のさだめとは申せ<RUBY text='さみ'>淋</RUBY>しい\r\n//ことよ。\r\n//　だが、面影を偲ぶくらいはできようて」\r\n\"This is the sad truth of our world. Though we grieve, the departed never return. But we can remember them.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181190a09'>\r\n//「それがうつくしきものであれば、川の流れ\r\n//を正しき<RUBY text='かた'>方</RUBY>へ向ける<RUBY text='しるべ'>標</RUBY>ともなろう」\r\n\"And if we are guided by those memories, by the beautiful and good, then perhaps we can steer the river onto a happier course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43557,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181200b28'>\r\n//「……はい」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43681,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181210a09'>\r\n//「桜子どの。\r\n//　これを受け取られるがよい」\r\n\"My lady. This, I give to you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43874,
+  "en": "\r\n//　言って童心は急須を小姓に返すと、別のものを手に\r\n//取った。\r\n//　面だ。先刻まで、自身が被っていたもの。\r\n  He returns the jug to his page, and from his sleeve, he pulls―the mask. The one he wore on stage.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44143,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181220b28'>\r\n//「これは……」\r\n\"Yorimasa...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44275,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181230a09'>\r\n//「この頼政面。\r\n//　亡き頼綱公を想って、わしが彫った」\r\n\"I carved this myself, in memory of your father.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44501,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181240b28'>\r\n//「童心様がお手ずから!?」\r\n\"<I>You</I> carved it!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44658,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181250a09'>\r\n//「うむ。\r\n//　拙い手の内ではあるが……頼綱公との思い\r\n//出の<RUBY text='くさぐさ'>種々</RUBY>を彫り込めたつもりじゃ」\r\n\"Aye. Not a master's work by any measure, but I like to think I put my heart into it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45003,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181260b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45121,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181270a09'>\r\n//「迷惑であれば、重ねてすすめはせぬが。\r\n//　姫の手元に置いてくれぬかな」\r\n\"You would do me great honor by accepting it. As a gift.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45382,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181280b28'>\r\n//「は、はい……。\r\n//　喜んで」\r\n\"Yes... of course. Of course I will.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45560,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181290b28'>\r\n//「喜んで……頂戴いたします……」\r\n\"Thank you, Reverend...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45730,
+  "en": "\r\n//　渡された面に魅入られながら。\r\n//　上の空で、桜子姫は答えた。\r\n\r\n//　<RUBY text='いつく'>慈</RUBY>しむように、頼政面の頬へ指を這わせる。\r\n  She seems entranced by the mask. Her fingers glide softly up the curve of its cheek.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46022,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181300b28'>\r\n//「ああ……\r\n//　本当に……父上のお顔のよう……」\r\n\"Oh... It does resemble <br>him...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46225,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181310a09'>\r\n//「そう思われるか……」\r\n\"Does it truly?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46372,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181320b28'>\r\n//「はい……」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46496,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181330a09'>\r\n//「それは当然の事ぞ……」\r\n\"As well it should.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46650,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181340b28'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46774,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181350a09'>\r\n//「何故ならその面――<BR>{\tWaitKey(2000);}\r\n//　頼綱の死骸から剥ぎ取った骨で作ったもの\r\n//だからのう」\r\n\"After all...<WaitVoice=2200> I carved it from his bones.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47067,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181360b28'>\r\n//「え？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47183,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0181370a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47307,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0181380b49'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47443,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0181390a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47567,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181400b28'>\r\n//「な……\r\n//　……何と……」\r\n\"I... I'm sorry...\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181410b28'>\r\n//「何と仰られました……？」\r\n\"I don't think I heard you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47883,
+  "en": "\r\n//　桜子姫が、尋ねている……。\r\n//　冬空の下に干しっぱなしにしておいた洗濯物のよう\r\n//に、<RUBY text='・・・・'>がちがち</RUBY>と強張った声で。\r\n\r\n//　九割がた空白化した意識の残り一割で、俺はなんと\r\n//醜いのだろう、と思っていた。\r\n//　崩れかけの笑顔を無理矢理に支えている姫の相貌が\r\n//――何とも汚く、醜く見える。\r\n\r\n//　人は、これほど醜い顔にもなれるのか。\r\n//　\r\n//　反して、対面の僧侶の美しさはどうであろう。\r\n\r\n//　無限の喜び。\r\n//　尽きる底のない、この世すべてに対する愛情。\r\n//　それが、満ち満ちている――まさに天上の微笑。\r\n\r\n//　釈尊が舞い降りたかのようであった。\r\n  Her voice is brittle, like a thin sheet of ice, and in the tiny part of my mind still functioning, I find myself thinking―<I>how ugly.</I> \r\n  How ugly she is, with the corpse of a smile clinging to her face.\r\n\r\n  Has the sight of another person ever revolted me so?\r\n\r\n  And look at him. That smile. That infinite joy. You can see that he has love for all things.\r\n\r\n  His beauty is that of the Buddha himself.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49127,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181420a09'>\r\n//「骨じゃ」\r\n\"I carved it from his bones.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49269,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181430b28'>\r\n//「ほね……」\r\n\"His―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49393,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181440a09'>\r\n//「おぬしの父君の顔面をな、こう」\r\n\"First I took his face, like so.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49572,
+  "en": "\r\n//　古河公方――遊佐の童心入道は、<RUBY text='ひょうきん'>剽軽</RUBY>な手真似をし\r\n//て見せた。\r\n  The priest lifts his hands and mimes holding an object.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49772,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181450a09'>\r\n//「のこぎりで。\r\n//　ぎぃこぎぃこ、と……」\r\n\"Then I took a saw and started cutting―<I>krrr, krrr―</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49993,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181460b28'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50117,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181470a09'>\r\n//「上から下まで、切り割ってな。\r\n//　肉を削いで……」\r\n\"Right up the center. Then I... <I>peeled</I>㉔off the skin...\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181480a09'>\r\n//「それから、鑿を打つ。\r\n//　こつこつ、こつこつと」\r\n\"And got to work with my chisel.㉒<I>Thk-thk, thk-thk.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50578,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181490a09'>\r\n//「眉間の皺を刻むのに苦労したのぉ。\r\n//　舞台に出る折は頭巾に隠れてしまう所だが、\r\n//そういう所こそ手を抜かず仕上げねば全てが\r\n//駄目になってしまうでな……」\r\n\"The hardest part was the brow, if you can believe it. Now, that's hidden on stage by the headdress, so you might ask, why bother? But of course, it's those little details that bring the work together.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51106,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181500b28'>\r\n//「あ――あぁ」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51233,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181510a09'>\r\n//「後はいくらか肉付けをし、<RUBY text='ごふん'>胡粉</RUBY>と<RUBY text='にかわ'>膠</RUBY>を塗り\r\n//重ね、彩色をして……完成じゃ。\r\n//　いや、なかなか骨であったわい」\r\n\"Then I rounded out the cheeks a bit, glued the thing together, painted on the finishing touches, and voila! It was a <I>bonebreaking</I>㉑task, let me tell you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51715,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181520a09'>\r\n//「それに比べると、碗の方は楽であったなァ」\r\n\"The cup was much easier.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51902,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181530b28'>\r\n//「……」\r\n\"......\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181540b28'>\r\n//「――――!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52134,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181550a09'>\r\n//「こっちは頭蓋の<RUBY text='・'>皿</RUBY>を切り取って、上に漆を\r\n//塗っただけだからの。\r\n//　これも削って整えねばならんかと思うてい\r\n//たが、綺麗な形をしていてくれて助かったわ」\r\n\"For that, I just lopped off the top of the skull and lacquered it over. I didn't need any of my polishing tools. Perfect natural shape.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52618,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181560b28'>\r\n//「あ――そ」\r\n\"The... the cup...\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181570b28'>\r\n//「それも……父上の……」\r\n\"You... my father...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52900,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181580a09'>\r\n//「いんや？\r\n//　こちらは、おぬしの同腹の兄」\r\n\"Oh, no. That's your older brother.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181590a09'>\r\n//「岡部十兵衛の骨ぞ」\r\n\"Say hello to dear Jubei.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53244,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181600b28'>\r\n//「――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53374,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181610a09'>\r\n//「……のう、桜子どの。\r\n//　先程はこの碗に口をつけて酒を召されたな」\r\n\"Speaking of which... that was quite the drink you <br>took.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53633,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181620a09'>\r\n//「いかがであった……？\r\n//　血を分けた兄の、骨髄の味は」\r\n\"How did it taste? A bit like <I>love,</I>㉓perhaps?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53867,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0181630b28'>\r\n//「　　、　　　、　　　　、　」\r\n\"      .      .      .      .      .      .      \"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54060,
+  "en": "\r\n//【童心】\r\n//<voice name='童心' class='童心' src='voice/mb02/0181650a09'>\r\n//「かあっっっはっはっはっはっはっはっはっ\r\n//はっはっはっはっはっはっはっはっはっはっ\r\n//はっはっはっはっはっはっはっはぁッッッ!!」\r\n\"HA HA HA HA HA HA HA\r\n  HA HA HA HA HA HA HA\r\n  HA HA HA HA HA HA HA\r\n  HA HA HA HA HA HA HA\r\n  HA HA HA HA HA HA HA\r\n  HA HA HA HA HA HA HA!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54493,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181660a09'>\r\n//「さあて」\r\n\"Now, then!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54618,
+  "en": "\r\n//　一<RUBY text='しき'>頻</RUBY>り、笑い――\r\n//　この能楽堂の中ただ一人、好き放題に笑い<RUBY text='たの'>愉</RUBY>しみ。\r\n\r\n//　その、悪魔的な快笑を少しも乱さぬまま。\r\n//　力をなくした姫の手を取り、舞台の上へ導き出る。\r\n\r\n//　いつしか狂言師らはみな退いていた。\r\n//　白い空間に今立つは、姫と仏僧の二人きり。\r\n  Once he has finished laughing―though the theater still rings with it―he grabs Lady Sakurako by the hand, and with that grin of diabolical pleasure, hoists her limp body onto the stage.\r\n\r\n  The actors in the Kyogen have all vanished, leaving the priest and the lady alone in the space.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55351,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181670a09'>\r\n//「<RUBY text='よばんめ'>四番目</RUBY>は雑能と申すも……\r\n//　真髄は狂女物にあり！」\r\n\"Ladies and gentlemen, a play in the fourth! A madness play, and as we all know, no one does madness better than a woman!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55683,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181680a09'>\r\n//「いざ！\r\n//　見事に舞ってくだされい、桜子どの!!」\r\n\"Come, lady! Dance! Show us true beauty!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55894,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181700a09'>\r\n//「ははは、どうした？\r\n//　ほうれ、父が参ったぞ。そなたの父が参っ\r\n//たぞ」\r\n\"Ha ha ha! What's wrong? Daddy's here! Don't you miss me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56157,
+  "en": "mb02/0181710b28",
+  "pt": ""
+ },
+ {
+  "offset": 56204,
+  "en": "Father! Father!",
+  "pt": ""
+ },
+ {
+  "offset": 56256,
+  "en": "\r\n//\r\n\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181720a09'>\r\n//「もっと良い声を聞かせよ！\r\n//　そら、こちらはそなたの兄じゃ。もう一度\r\n//接吻をくれてやれい！」\r\n\"Oh, you can do better than that! Look, it's your brother! Come give us another kiss!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56588,
+  "en": "\r\n//\r\n\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181740a09'>\r\n//「それよ！\r\n//　その声よ！」\r\n\"YES! SING!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0181750a09'>\r\n//「はぁっはっはっはっはっはっはっは!!」\r\n\"HA HA HA HA HA HA HA\r\n  HA HA HA HA HA HA HA!\"\r\n",
+  "pt": ""
+ }
+]

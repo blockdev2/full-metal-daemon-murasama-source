@@ -1,0 +1,57 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0010010a07'>\r\n//「ではこれより何となく裁判を開始する！」\r\n\"Okay! Let's get this trial thing started, or whatever!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 436,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0010020a07'>\r\n//「被告人、前へ」\r\n\"The accused will step forward.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 599,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0010030a00'>\r\n//「はい」\r\n\"Your Honor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 722,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0010040a07'>\r\n//「検事！」\r\n\"Prosecutor!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 857,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0010050b56'>\r\n//「ういッス」\r\n\"㉑'Sup.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 983,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0010060a07'>\r\n//「まず、罪状の告発を」\r\n\"Present the charges.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1145,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0010070b56'>\r\n//「えーと被告湊斗景明は、とりあえずおれを\r\n//殺しました」\r\n\"Uh... well, he killed me, for starters.\"\r\n\r\n//嶋：修正（双子）【091005】\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0010080b56'>\r\n//「それから年端もいかない蝦夷の二子を殺し\r\n//ました」\r\n\"And after that, he killed these cute Emishi girls.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1624,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 1636,
+  "en": "皇路操を殺害",
+  "pt": ""
+ },
+ {
+  "offset": 1662,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 1674,
+  "en": "綾弥一条を殺害",
+  "pt": ""
+ }
+]

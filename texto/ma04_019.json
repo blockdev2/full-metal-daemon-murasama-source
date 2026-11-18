@@ -1,0 +1,547 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0190010a02'>\r\n//「湊斗さん！\r\n//　……湊斗さんっ！」\r\n\"Officer Minato! Sir!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 386,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0190020a02'>\r\n//「おい、大鳥のお嬢！\r\n//　聞こえねぇのか!?」\r\n\"Hey, Otori lady! Can you hear me!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 583,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0190030a02'>\r\n//「なんだよこれ……\r\n//　まさか妨害電波ってやつか!?」\r\n\"What the hell? Is this that 'jamming' thing!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 803,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0190040a02'>\r\n//「くそぉ……\r\n//　届けよ！」\r\n\"Shit! Is anybody getting this!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 974,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0190050a02'>\r\n//「<RUBY text='・・・'>来てる</RUBY>！\r\n//　<RUBY text='・・・・・・・'>来やがったんだ</RUBY>！」\r\n\"They're here! Those fuckers are actually here!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1241,
+  "en": "\r\n//　鉄巨兵は沈黙していた。\r\n//　一文字形の深い亀裂を晒し、月光の下に輝く屑鉄の\r\n//山となり果てている。\r\n  The giant is at last silent, now merely a small mountain shining dully in the moonlight.\r\n\r\n//　自由の利かぬ足を酷使して山によじ登り、亀裂から\r\n//こぼれたような格好で項垂れる六波羅制式の竜騎兵を\r\n//引き摺り出す。\r\n//　巨兵の乗り手であった男は、失神していた。\r\n  Pushing my injured legs to their limit, I climb up to the deep gash carved by my strike. The Rokuhara dragoon is dangling from his cockpit, unconscious. I pull him free and toss him to the ground, then peer into the machine's metal bowels.\r\n\r\n//　それは無造作に地面へ放り捨てておいて、俺は亀裂\r\n//の中を覗き込んだ。\r\n//　幾重にも交差した橋梁の向こう、檻に閉じ込められ\r\n//て――<RUBY text='うずくま'>蹲</RUBY>る<RUBY text='・・'>彼ら</RUBY>の姿を視認する。\r\n  Beyond the latticed catwalks, in the belly of the monster, I see them―the children, huddled in their cage.\r\n\r\n//　誰一人、身動きしない。\r\n//　身を寄せ合い、固まったまま。\r\n  They are motionless, all of them, like a single lump of flesh.\r\n\r\n//　胸骨に沿って、体内を氷塊が滑り落ちた。\r\n//　声が出ない――彼らの名を呼び、生死を確認すると\r\n//いう単純な作業が、恐怖によって阻止されている。\r\n  Something cold slides down my ribs into my gut. My voice catches in my throat. I know I should call out to them, but fear prevents me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2898,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190060a00'>\r\n//「……村正。\r\n//　確認しろ」\r\n\"...Muramasa. Run a thermal scan.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190070a00'>\r\n//「熱源探査。\r\n//　彼らの……状態は」\r\n\"Give me their... condition.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3241,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190080a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190090a01'>\r\n//《……無事よ。\r\n//　衰弱が酷いけれど……生きている。すぐに\r\n//治療を受けさせれば助かるでしょう》\r\n《They're alive. Badly weakened, but alive. If they get treatment soon, they should be okay.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3707,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190100a01'>\r\n//《御堂！》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3837,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190110a00'>\r\n//「済まん」\r\n\"A moment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3961,
+  "en": "\r\n//　忘却していた疲労、苦痛が<RUBY text='いちどき'>一刻</RUBY>に押し寄せた。\r\n//　脳が揺れる。目が眩む。\r\n  My head swims as the pain and fatigue that were forgotten during the battle return with a vengeance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4218,
+  "en": "\r\n//　無様な転落の衝撃はそこへ更に拍車をかけた。\r\n//　どうにかこうにか、振り払って立ち上がる。\r\n  The shock of collapsing only makes it worse, but I manage somehow to shake it off and stand.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4461,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190120a01'>\r\n//《……本当に限界ね。\r\n//　今の私達なら、この間の<RUBY text='れーさーくるす'>競技用劔冑</RUBY>とやら\r\n//と殴り合いしても負けられるかも》\r\n《...We're both way past our limit. In our current state, we might even lose a fight to one of those racing cruxes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4872,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190130a00'>\r\n//「お前がそんな弱音を吐くなら余程だな。\r\n//　まだ、研究所の方が片付いていないが……」\r\n\"It must be bad, if you're willing to admit that. Though there's still the matter of the research facility...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5204,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190140a01'>\r\n//《まさか？》\r\n《You can't mean...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5349,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190150a00'>\r\n//「今回はここまでとしておく。\r\n//　本件は銀星号事件と無関係である事がほぼ\r\n//確定した。である以上、現状で解決を強行す\r\n//べき必然性は欠く」\r\n\"No. I believe we can rule out Ginseigo's involvement. In which case, there's no reason to act with undue haste.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5761,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190160a00'>\r\n//「といってこの島を放置して良いということ\r\n//にはならないが。\r\n//　今は、彼ら……芳養一家の保護が優先だ」\r\n\"I have no intention of leaving this island in Rokuhara hands... but the Haya children come first.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190170a00'>\r\n//「彼らの身柄を確保し、仲間と合流、対岸へ\r\n//帰還する」\r\n\"We'll collect them, rendezvous with the others, and return to Katase.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6350,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190160a00'>\r\n//「といってこの島を放置して良いということ\r\n//にはならないが。\r\n//　今は、彼ら……芳養一家の保護が優先だ」\r\n\"I have no intention of leaving this island in Rokuhara hands... but the Haya children come first.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190170a00'>\r\n//「彼らの身柄を確保し、仲間と合流、対岸へ\r\n//帰還する」\r\n\"We'll collect them, rendezvous with Ichijo, and return to Katase.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6935,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190180a01'>\r\n//《諒解。\r\n//　驚かさないで》\r\n《Right. Don't scare me like that.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7117,
+  "en": "\r\n//　改めて、鉄屑によじ登ろうと手を掛ける。\r\n//　あの裂傷から子供達を救助できればいいのだが……\r\n//難しいようなら手立てを考えなくてはならない。\r\n\r\n//　あるいは俺はこの場を確保して待ち、救援を呼びに\r\n//やらせるという手も――\r\n  I grab hold of the giant's armor and gather my strength for another climb. All I have to do is haul the prisoners free, but that might be difficult in my condition. Perhaps I should just secure the area and call for―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7674,
+  "en": "\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7684,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190190a01'>\r\n//《な……何よ！\r\n//　今度は……》\r\n《Wha―  What!?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190200a01'>\r\n//《まだ何かあるっていうの!?》\r\n《It's not over yet!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8016,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190210a00'>\r\n//「…………そのようだ」\r\n\"...So it would seem.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8169,
+  "en": "\r\n//　疲れ切った頭が銃弾に鞭打たれて、僅かながら活性\r\n//化する。\r\n//　\r\n//　……そうだ。今回の一件は<RUBY text='・'>罠</RUBY>。\r\n  The bullet that explodes against my helmet restores some life to my enervated brain.\r\n\r\n  A trap. That's right. This whole thing was a trap, set to remove me from㉗<I>their</i> equation. I should have known they wouldn't just let me go.\r\n\r\n//　俺の存在を厭うた<RUBY text='・・'>彼ら</RUBY>による罠。\r\n//　何事もなく終わってくれる筈が、ない。\r\n\r\n\r\n//　彼らが今回画策した、<RUBY text='・'>敵</RUBY>と<RUBY text='・'>敵</RUBY>の潰し合いはほぼ理想\r\n//的な結末を迎えた。六波羅の怪物は倒され、俺は半死\r\n//半生の態である。\r\n//　ならば、後は――生き残りに止めを刺すばかり。\r\n  Their plan was a resounding success. They pit their enemies against each other: now Rokuhara's weapon lies in ruins, and I can barely move.\r\n\r\n  All that's left... is to finish us off.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9227,
+  "en": "\r\n//　上空をゆっくりと旋回する騎影、三。\r\n//　低空から<RUBY text='こちら'>地上</RUBY>を<RUBY text='ね'>睨</RUBY>め下ろす騎影、同じく三。\r\n\r\n//　制空戦用<RUBY text='ストライカー'>打撃竜騎兵</RUBY>／ＳＴ-〇五ワーウルフ。\r\n//　制陸戦用<RUBY text='グラップラー'>重装竜騎兵</RUBY>／ＧＲ-〇三ガルム。\r\n  Three dragoons circle high overhead, with three more keeping watch from low altitude.\r\n\r\n  ST-05 Warwolves and GR-03 Garms. The AEF's premier cruxes for air superiority and ground control!\r\n\r\n//　……国際連盟軍の制式竜騎兵！\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9869,
+  "en": "\r\n//　空に竜騎兵。地に戦車と機械化歩兵。\r\n//　……完全包囲下に置かれたというわけだ。\r\n  The sky is closed, and on the ground are tanks and infantry by the dozen. No way out.\r\n\r\n//　先頭の戦車の装甲上には、屹立する人影が見える。\r\n//　軍服を内から押し上げるほど筋肉の発達した長身。\r\n  A man stands atop the closest tank. He is tall and imposing, his uniform bulging with muscle, but his face is white and delicate, like a porcelain sculpture.\r\n\r\n//　だが<RUBY text='かお'>貌</RUBY>は白く端麗で、体と不釣合いな繊細さがある。\r\n//　金髪碧眼、見るからに純血の白色人種。携える黄金\r\n//造りの大剣とも相俟って、半神的なまでの英姿を完成\r\n//させている。\r\n  Blond hair and blue eyes―<br>a pure-blooded Anglo-Saxon, if ever I've seen one. With that golden greatsword strapped to his back, he resembles a demigod hero of myth.\r\n\r\n//　彼が指揮官であることは誤解のしようもなかった。\r\n//　夜目を凝らして階級章を確認するまでもなく。<k>――\r\n//少佐か。その階級は大隊長、あるいは軍内の一部局で\r\n//要職を務めるクラスの将校を意味している。\r\n  It is obvious at a glance that he is in charge here, but I squint and scan for his rank insignia anyway.<K>\r\n  Major, if I'm not mistaken, which makes him the commanding officer of a company, or perhaps an assistant bureau chief.\r\n\r\n//　感慨というほどのものは視線に込めず、彼は俺を見\r\n//下ろしてきた。\r\n  He looks down at me from his vantage point, gaze offering no hint of emotion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11573,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190220a00'>\r\n//「……貴官は<RUBY text='どなた'>何方</RUBY>か」\r\n\"...And who might you be?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11757,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190230b02'>\r\n//「礼節として応えよう、蛮族の戦士。\r\n//　断っておくが答礼は要らない」\r\n\"I shall grant you a reply, barbarian warrior. You needn't return the courtesy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12062,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190240b02'>\r\n//「私はジョージ・ガーゲット少佐である。\r\n//　ＧＨＱ資料管理課に所属する」\r\n\"I am Major George Gargett, of GHQ's Data Management Bureau.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12354,
+  "en": "\r\n//　答礼は無用とのことであったので、俺は軽く頷いた\r\n//のみで名乗りは避けた。\r\n//　先方がこちらの個人情報に全く無関心そうな事でも\r\n//ある。\r\n\r\n//　疑問点のみを口にした。\r\n  Since he seems disinterested in my personal information, I respond with another question.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12701,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190250a00'>\r\n//「……資料管理課」\r\n\"Data management?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12844,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190260b02'>\r\n//「そうだ。\r\n//　私は資料を管理しに来たのだよ」\r\n\"Indeed. My duty is to manage data vital to our mission in Yamato.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13103,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190270b02'>\r\n//「その作業には、<RUBY text='・・'>資料</RUBY>の<RUBY text='・・'>廃棄</RUBY>も含まれる」\r\n\"Where necessary, that includes the㉒<I>disposal</I>㉑of said data.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13409,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190280a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13527,
+  "en": "\r\n//　――そういう事か。\r\n//　資料管理課という、一聞する限り左遷用部局としか\r\n//思えないそれの実質を、俺は概ね察した。\r\n  Ah. It sounded like a place to send unwanted officers, but now the name makes sense.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13796,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190290a00'>\r\n//「つまりは貴官が雪車町らを使い、大和支配\r\n//の為の謀略を巡らしていた人物。\r\n//　そう解釈して誤りないだろうか。特殊工作\r\n//班の班長殿」\r\n\"So you're the one using Sorimachi and his ilk to foment unrest across Yamato.\r\n  Is this accurate, Major Gargett of GHQ's black ops division?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14232,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190300b02'>\r\n//「答える必要を認めない」\r\n\"I'm under no obligation to answer,\"</voice> he says with impressive arrogance, doubtless knowing that this amounts to a blunt affirmation.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14532,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190310a00'>\r\n//「では事実と仮定して問いを重ねさせて頂く。\r\n//　戦争に善悪を問う不毛は承知の上。しかし\r\n//政治には良非があろうと存ずる」\r\n\"Then I will continue on the basis of that assumption, if I may.\r\n  While I grant that war has little room for questions of right and wrong, I hold that the same is not true for matters of civil policy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15009,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190320a00'>\r\n//「貴軍が大和を制圧するは軍略の正道と認め\r\n//られても、卑劣な策謀によって民心を得よう\r\n//とするは恥ずべき非道とのみ思われまいか。\r\n//　この点、如何に」\r\n\"Therefore, while you may justify your occupation of Yamato as a necessity of war, I feel that your shameful attempts to sway the civilian population through fear and deceit are at best unknightly, and at worst inhuman. Your opinion, Major?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15567,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190330b02'>\r\n//「答える必要を認めない」\r\n\"I'm under no obligation to answer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15764,
+  "en": "\r\n//　臆面もなく、ガーゲット少佐は繰り返した。\r\n  He does not bat an eye.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15868,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190340b02'>\r\n//「……だが、一般的見解として述べるなら。\r\n//　正道と云い非道と云おうと、それは絶対的\r\n//な基準を持つものではなく、<RUBY text='ケースバイケース'>状況次第</RUBY>」\r\n\"...If, however, I were to express the prevailing view on the issue, I would say that right and wrong are not absolutes, but must be considered on a case-by-case basis.\"\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190350b02'>\r\n//「その策謀とやらを非道ととるか否かは見解\r\n//の相違があるだろう」\r\n\"How you judge these 'shameful attempts' you speak of is simply a matter of where you stand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16693,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190360a00'>\r\n//「最低限の人倫さえ、絶対的な基準ではない、\r\n//と？」\r\n\"Are even the most basic human rights open to <I>consideration?</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16935,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190370b02'>\r\n//「いいや？」\r\n\"Certainly not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17094,
+  "en": "\r\n//　――一種の驚嘆を禁じ得なかったことに。\r\n//　少佐はあくまで平然とかぶりを振り、そして続けた。\r\n  It is... awesome, in a way, how the major answers with perfect calm and perfect assurance, as if oblivious to the accusation in my voice.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17388,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190380b02'>\r\n//「人たる道――天に<RUBY text='ま'>坐</RUBY>す我らが父の教えは、\r\n//絶対的に尊重すべきものである。\r\n//　しかしそれは、<RUBY text='・・'>君ら</RUBY>と何の関係もないこと\r\n//ではないか？」\r\n\"We must all uphold the laws of our Heavenly Father and treat our fellow men with dignity and respect.\r\n  None of which applies to <I>you,</I>㉒of course... though I must admit, your eloquence had me fooled for a <br>moment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17988,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190390b02'>\r\n//「言葉を発する珍しい猿よ……」\r\n\"I very nearly mistook you for human.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18196,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190400a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18320,
+  "en": "\r\n//　良くわかった。\r\n//　良く理解した。\r\n  That is all I needed to hear.\r\n\r\n//　こういう人物なのだ。\r\n//　それが彼の正義なのだ。\r\n  So that's the kind of man he is. That is where his justice lies. \r\n\r\n//　全世界を制覇したと言っても良いアングロサクソン\r\n//族の偉業を、単に政戦略や技術力の問題とはとらえず、\r\n//<RUBY text='マニフェスト・ディスティニー'>神に選ばれた特別な民族ゆえの運命</RUBY>であると信ずる人。\r\n//　決して珍しくはなく、また難解な信仰でもない。\r\n  There are those among the Anglo-Saxon race who believe that their successful conquest of nearly the entire world has been the product not of superior strategy, resources, and technology, but rather of divine will―the so-called \"manifest destiny.\" Such men are not uncommon, nor is their belief difficult to understand.\r\n\r\n//　だが彼と大和人の価値観を隣接させるには、互いに\r\n//五百光年ほど歩み寄る必要があるだろう。\r\n//　残念ながら、それだけのゆとりはなかった。\r\n  It is equally easy to grasp, however, that for this soldier and any Yamatoan to see eye-to-eye would require bridging a gap of about ten thousand light years―a journey that, I'm afraid, I haven't the energy to make.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19690,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190410a00'>\r\n//「……<RUBY text='こちら'>当方</RUBY>も礼節として、確認をさせて頂く」\r\n\"...In the interest of civilized discourse, allow me one final question.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19955,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190420a00'>\r\n//「貴官には自分に対する戦闘行動を回避する\r\n//意思は全く、一切合財、完膚なく皆無か。\r\n//　ジョージ・ガーゲット少佐」\r\n\"Major Gargett, am I to understand that there is no possibility, however slight, of resolving this situation without a battle?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20347,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190430b02'>\r\n//「戦闘などは行わない。\r\n//　言った筈だ。我々は資料の管理を行う」\r\n\"There will be no battle. As I said, I am here to manage data, nothing more.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20643,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190440b02'>\r\n//「ムラマサ。君と……\r\n//　猿の身で何故か我々の軍服を纏う、滑稽で\r\n//不愉快な道化と」\r\n\"That data being you, Muramasa... as well as the despicable clown of an ape who dares to wear our uniform.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20997,
+  "en": "\r\n//　…………大鳥大尉のことか。\r\n  ...Captain Otori, I assume.\r\n\r\n//　成程、この少佐の下では彼女は歓迎されるまい。\r\n//　何も知らされずに俺への釣針として用いられた後、\r\n//釣魚ごと始末されるのが、今回の彼女の役割だったと\r\n//いうわけだ。\r\n  I can see how this major would not look kindly upon a Yamatoan in his command. So the plan was to use her to reel me in, then get rid of us both.\r\n\r\n//　……俺に言わせれば、随分と甘く見た話だが。\r\n//　たとえ彼らがここで俺の殲滅に成功したとしても、\r\n//彼女を捕殺するには至らないだろう。\r\n  If you ask me, I think he's sorely underestimating her. I doubt she'll be as easy to corner as I was.\r\n\r\n//　彼女はＧＨＱの自分に対する愛情を盲信してなどい\r\n//ない。事かくあるも予期していた。\r\n//　別段動じる事もなく、応変して脱出を果たすに違い\r\n//ない。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22009,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190450b02'>\r\n//「この、両資料を……\r\n//　我々は廃棄する。それだけだ」\r\n\"We will dispose of these data forthwith.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22255,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190460b02'>\r\n//「ムラマサ。\r\n//　君という資料を、我々は廃棄するだけだ」\r\n\"Muramasa, your data has been marked for disposal.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22513,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190470a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22631,
+  "en": "\r\n//　体調は、確認する気も起こらない。\r\n//　戦う以前に、一歩を踏み出す事が可能かどうか。\r\n\r\n//　怪物の奇砲を浴びた左側の手足は付いているだけと\r\n//いった様子。右の手足とて大差はない。\r\n//　身体各所に、無傷の箇所はほぼ絶無。\r\n  I haven't the stomach to ask Muramasa for a report on my condition. My left-side limbs, those that took the brunt of the death ray, seem hardly attached, and my right leg isn't much better. I have serious doubts I'll be able to stand, let alone fight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23218,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190480a00'>\r\n//「村正……」\r\n\"Muramasa...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23347,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190490a01'>\r\n//《一応訊くだけ訊くけど、土下座して命乞い\r\n//をするって選択は無いのね？》\r\n《This seems like a stupid question, but I don't suppose begging for your life will work?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23650,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190500a00'>\r\n//「それが通るなら幸いだったが。\r\n//　彼は人種差別主義者だ。そもそもこちらを\r\n//交渉に値する相手と<RUBY text='みな'>看做</RUBY>していない」\r\n\"I wish it were that simple, but this man is as pure a racist as I've ever met. As far as he's concerned, I have no standing to negotiate with him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24087,
+  "en": "\r\n//　……中世大和人には理解が難しいかもしれない。\r\n//　そうも思ったが、杞憂に過ぎなかった。\r\n\r\n//　村正のいらえは即答で、明確だった。\r\n  I try to come up with a better explanation, thinking that it might be difficult for a medieval Yamatoan to grasp the concept of racism.\r\n\r\n  I needn't have bothered.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24460,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190510a01'>\r\n//《<RUBY text='あなた'>人間</RUBY>達の一部が、<RUBY text='わたし'>蝦夷</RUBY>たちに対して持って\r\n//いるような感覚で、あいつは今こっちを見て\r\n//いるってことね。\r\n//　なら、話すだけ無駄でしょう》\r\n《So he sees you the same way many of your people see mine? Well, then talking won't solve anything.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190520a01'>\r\n//《避け合うか、殺し合うか。\r\n//　道は二つに一つよ》\r\n《There's no reasoning with people like that. You can only avoid them, or fight.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25182,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190530a00'>\r\n//「……そうか」\r\n\"...I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25312,
+  "en": "\r\n//　経験者の言葉だった。\r\n//　頷く以外にない。元より、反対意見は持たなかった\r\n//が。\r\n  I can tell by Muramasa's tone that she speaks from experience, leaving me with no room to argue. Not that I have any inclination to do so. I fully agree with her assessment.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25622,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190540a00'>\r\n//「突破する。\r\n//　行けるか、村正」\r\n\"We're breaking through. Are you ready?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25809,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190550a01'>\r\n//《裸で真冬の富士に登れるものなら、きっと》\r\n《Sure, if you'd call someone climbing Fuji naked in the middle of winter ready.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26060,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190560a00'>\r\n//「そうか。\r\n//　その程度か」\r\n\"I see. That's very <br>comforting.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26234,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190570a01'>\r\n//《その程度よ。\r\n//　気楽に行きましょう、御堂！》\r\n《Isn't it? Relax, Mido! This'll be a piece of cake.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26464,
+  "en": "\r\n//　決して果たすべき<RUBY text='めい'>命</RUBY>がある。\r\n//　――<RUBY text='おれたち'>村正</RUBY>には。\r\n  I still have a duty to perform. As much as I would relish a miserable death, I must settle for a shameful existence instead.\r\n\r\n//　ここで斃れる事は許されなかった。\r\n//　悲愴な最期の予感に酔う間を惜しみ、見苦しく生き\r\n//延びる道を探らねばならない。\r\n\r\n//　包囲隊形に視線を<RUBY text='や'>遣</RUBY>る。\r\n//　……水も洩らさぬ見事な布陣。蟻の這い出る隙間も\r\n//ない。\r\n  I do a quick visual scan of the enemies surrounding me. Their formation is perfect, tight enough to keep even ants from escaping.\r\n\r\n//　特に空からの脱出は絶望的だ。\r\n//　既に制空されている以上、離陸の瞬間に撃ち落とさ\r\n//れずに済む可能性は何をどう模索しても見出しかねる。\r\n  Breaking free to the sky is out of the question. Six dragoons are standing by to shoot me down the moment I take off.\r\n\r\n//　活路は地上にしかない。\r\n//　戦車と歩兵が俺を足止めし、その隙を低高度戦闘に\r\n//特化された<RUBY text='グラップラー'>重装竜騎兵</RUBY>が頭上から襲う――敵方は当然、\r\n//そう手を踏んで来るだろう。それを頓挫させ得るか。\r\n  My only hope is to escape by land. The enemy will try to keep me pinned with tanks and infantry while the Garms, dragoons designed for close air support, strike with impunity from above.\r\n\r\n//　交戦しつつ戦場を移動、機を計って離脱、この場へ\r\n//戻り芳養少年一家の身柄を確保、そして仲間と合流し、\r\n//脱出を果たす。\r\n//　こちらが踏むべき手順はそのようになる。\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28280,
+  "en": "\r\n  I will have to fend off this onslaught, look for a gap in the formation, disengage... then return to secure the Haya children, rendezvous with Ichijo, and escape the island undetected.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28478,
+  "en": "\r\n  I will have to fend off this onslaught, look for a gap in the formation, disengage... then return to secure the Haya children, rendezvous with the others, and escape the island undetected.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28680,
+  "en": "\r\n//　……真冬に裸の富士登頂より、もういくらか難しい\r\n//ようにも思えた。\r\n  This may prove more difficult than climbing Fuji naked in winter.\r\n\r\n//　俺の挙措とその意味に気付いたのだろう。\r\n//　金髪の偉丈夫が動いた。\r\n\r\n//　――両手持ちの大剣を、十字形に振るい。\r\n//　高らかに吠える。\r\n  And now the blond titan stirs atop his tracked steed, surely aware of what my wandering gaze means.\r\n\r\n  He raises his massive sword and carves a shining cross in the air, then lifts his eyes to heaven and cries―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29284,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190580b02'>\r\n//「<RUBY text='セイクロサンクト'>神聖にして侵すべからず</RUBY>！」\r\n\"Sacrosanct!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29509,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190590a01'>\r\n//《劔冑！》\r\n《A tsurugi!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29644,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190600a00'>\r\n//「やはりか……」\r\n\"I knew it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29778,
+  "en": "\r\n//　ただの剣ではあるまいと思っていたが。\r\n//　黄金の鞘が砕けて舞い、甲鉄と化して将校を覆った。\r\n  His golden sheath bursts into pieces, pieces that encase him in shimmering armor.\r\n\r\n//　劔冑である。おそらくは<RUBY text='ブラッド'>真打</RUBY>の。\r\n//　誓言からして銘は竜殺しの剣〝<RUBY text='アスカロン'>聖性守護</RUBY>〟――その\r\n//<RUBY text='コピー'>写し</RUBY>か。まさか<RUBY text='オリジナル'>真物</RUBY>ということはないだろう。\r\n  A crux―blood, of course. A shin'uchi. His incantation would identify it as Ascalon the Dragon Slayer, though most likely it's a copy. The original is far too valuable to be in his possession. From the look of the metalwork, I place it as seventh or eighth generation Royal Smithy. \r\n\r\n//　甲鉄の質感を見るに英国王室製、第七代か第八代。\r\n//　まず、業物と呼ぶべき出来と思えた。\r\n\r\n//　豪奢な劔冑で身をよろい、将校が前へ進み出る。\r\n//　配下に指示を下す様子はない。\r\n  Thus armored in the majesty of legend, the major jumps down from his tank and steps forward. He still has not given orders to his men.\r\n\r\n//　……まさか、一騎打ちをしようというのか？\r\n  ...Does he mean for this to be a duel?\r\n　\r\n//　その俺の内心を、聞きつけたわけでもなかろうが。\r\n\r\n//　彼が淡々と呟く。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31255,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190610b02'>\r\n//「害虫駆除は危険を伴い……\r\n//　しかも不毛な作業だ」\r\n\"Pest removal is a dangerous task,\" he says calmly, as though responding to my unspoken question. \"One with little honor or reward.\"\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190620b02'>\r\n//「このような事に、優秀なる我が兵士、我が\r\n//同胞の命を費やしたくはない。\r\n//　彼らの力は、ふさわしい戦いにのみ用いら\r\n//れるべきなのだ」\r\n\"I cannot ask my comrades to risk their lives in an enterprise so unworthy of them. Their strength is meant for a more fitting battle.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32038,
+  "en": "\r\n//　全くの本気の声で、ＧＨＱ少佐はそんな事を言った。\r\n//　周りを囲む兵の間に声なきどよめきが走る。\r\n  At this, tremors of adulation run through the soldiers encircling us.\r\n\r\n//　感激しているようだ。\r\n//　……どうやらこれは、<RUBY text='・・・'>いい話</RUBY>らしい。\r\n  It appears that this pompous display was meant to be㉓<I>inspiring.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32470,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190630a01'>\r\n//《……拍手でもする？》\r\n《Shouldn't you applaud?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32635,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190640a00'>\r\n//「やめておこう」\r\n\"Better not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32770,
+  "en": "\r\n//　太刀を納めねばならないのが面倒だ。\r\n  I'd have to sheathe my sword.\r\n\r\n//　ガーゲット少佐は、部下の反応に気を払う素振りも\r\n//見せない。\r\n//　堂々たる足取りで進み――止まる。\r\n\r\n//　俺と立ち合うつもりであれば、まだ距離は遠い。\r\n  Without acknowledging his men's response, Major Gargett takes another step toward me... and stops.\r\n\r\n  The range is still too far for a duel.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33244,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190650a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33363,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190660b02'>\r\n//「で、あるならばだ。\r\n//　最も望ましい結末は、同胞の手を煩わせず、\r\n//害虫が勝手に死んでくれる事」\r\n\"As such, the ideal outcome is for said pests to die without my men ever lifting a finger.\"\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190670b02'>\r\n//「害虫同士で食い合ってくれる事だ。\r\n//　そうではないかね？」\r\n\"In other words, for the vermin to kill one another. Don't you agree?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33997,
+  "en": "\r\n//　何故か俺に向かって、少佐は訊いた。\r\n\r\n//　ＧＨＱの意図は既に承知している。\r\n//　江ノ島の罠はその意図に基づいて仕組まれたもの。\r\n//そしてそれは成功し、今のこの結果がある。\r\n\r\n//　……だから何だ。何を今更。\r\n//　事実を確かめ、勝ち誇りたいとでも言うのだろうか。<k>\r\n//　\r\n//　そうではなかった。\r\n  This last is, for some reason, directed at me.\r\n\r\n  I already know what GHQ is after. This trap was designed to yield precisely the outcome he speaks of, and it has succeeded. What more could he want? Is this just his way of gloating? Of savoring his victory?\r\n\r\n  Unfortunately not.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34720,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190680b02'>\r\n//「だから。\r\n//　<RUBY text='・・・・'>最後まで</RUBY>、食い合ってくれねば困るのだよ」\r\n\"And so... let's see it through to the㉓<I>end,</I>㉓shall we?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35025,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190690a00'>\r\n//「――!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35140,
+  "en": "\r\n//　彼の真意を直感する。\r\n//　そして即座、飛び出そうとする。\r\n\r\n//　だが両足は俺の意思を裏切った。\r\n//　傷つき疲れ切った足は、砂利の上で無意味に滑った\r\n//だけで、一歩も進みはしなかった。\r\n  Suddenly realizing what he intends, I try to leap up and attack. But my ruined legs betray me, leaving me to flounder in the dust.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35555,
+  "en": "\r\n//　俺の無様をあげつらうかのような華麗さで、ＧＨＱ\r\n//の将校が飛躍する。\r\n//　こちらへ向かって――では、ない。\r\n  With a grace that seems to mock my failure, the major's crux takes to the sky.\r\n\r\n  He flies―but not toward me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35844,
+  "en": "\r\n//　<RUBY text='・・・・・'>怪物の上へ</RUBY>！\r\n  Toward the monster's head!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35945,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190700a00'>\r\n//「……ガーゲット少佐ッッ!!」\r\n\"Major Gargett!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36100,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190710b02'>\r\n//「このがらくたは良く出来ている」\r\n\"This lump of metal is quite extraordinary,\"</voice> he says as he alights atop the metal skull.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36369,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190720b02'>\r\n//「素晴らしい。全く素晴らしい。\r\n//　君ら劣等の手になる創造物の内、これこそ\r\n//は最上の一品に違いない」\r\n\"Brilliant. Truly brilliant. Of all that you savages have made, this is the one creation of worth.\"\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190730b02'>\r\n//「<RUBY text='・・・・・・・・・・・・・・・'>屑を食い潰しながら屑を駆逐する</RUBY>。\r\n//　これほど効率の良い清掃道具が他にあろう\r\n//か？」\r\n\"It㉓<I>consumes</I>㉓refuse to㉓<I>burn</I> refuse. I have never seen a more efficient waste disposal mechanism.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37170,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190740a00'>\r\n//「そこから降りろ、ガーゲット少佐！\r\n//　貴官は――騎士ではないのか!!」\r\n\"Stop this, Major Gargett! You call yourself a knight!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37426,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190750b02'>\r\n//「無論の事。\r\n//　私は騎士だ」\r\n\"I do indeed,\"</voice> replies the paragon of the Anglo-Saxon race. There is no shame, no remorse, no uncertainty in his voice. Only pride.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37733,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190760b02'>\r\n//「この光栄ある<RUBY text='クルス'>聖骸</RUBY>にかけて私は戦う。\r\n//　神と、祖国と、同胞のために」\r\n\"I have sworn upon this sacred crux to fight for God, for country, and for <br>comrade.\"\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190770b02'>\r\n//「黄色い猿のためではない。\r\n//　……それが、そんなにも不思議か？」\r\n\"<I>Not</I>㉑for the yellow apes of this miserable island. Is that truly so hard to understand?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38390,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190780a00'>\r\n//「……ッ」\r\n\"Kuh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38511,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0190790b02'>\r\n//「庇護を求めるなら、騎士ではなく動物愛護\r\n//団体をあたるがいい。\r\n//　さらばだムラマサ。君は猛々しく、狡猾で、\r\n//見るも不快な獣であった」\r\n\"If aid is what you seek, then you need an animal rights activist, not a knight.\r\n  Now then, Muramasa. Farewell. You were the fiercest, cleverest savage I ever had the displeasure to meet.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39027,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190800a00'>\r\n//「やめろ――！」\r\n\"STOP!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39156,
+  "en": "\r\n//　俺の叫びはただ、虚しかった。\r\n  My last entreaty fails.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39242,
+  "en": "\r\n//　騎士の姿が巨騎の中へ沈む。\r\n//　――死せる怪物が蘇る。\r\n  The golden knight vanishes into the cockpit―and the dead giant returns to life.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39423,
+  "en": "\r\n//　轟吼。\r\n//　鋼の巨躯が起き上がり、凄まじい軋みが夜を揺らす。\r\n  It lifts its ponderous bulk from the ground, screeching and squealing like a chorus of the damned.\r\n\r\n//　そこへ後方から接近した大型車両が、ほとんど一瞬\r\n//にして簡単な作業を終えた。\r\n//　……<RUBY text='・・・・・・'>電源ケーブル</RUBY>の交換だ。\r\n  I realize too late that a repair crew is at its back. Before my eyes, they complete their work―the replacement of the machine's power cable.\r\n\r\n//　今や巨獣は命と牙を共に取り戻している。\r\n//　完全な姿で再起する。\r\n  Thus the monster is restored in full, wings and fangs once again ready for battle.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40171,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0190810a01'>\r\n//《――――》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40305,
+  "en": "\r\n//　漂白された思念が、全く同じことになっている俺の\r\n//意識野に重なる。\r\n//　何をすべきかわからない。何を思うべきかすらも。\r\n  Muramasa's shock and mine meld into one vast, white expanse of non-<br>thought. What should I do? How should I feel?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40615,
+  "en": "\r\n//　――顎が開く。\r\n\r\n//　どうすればいい。\r\n//　どうすれば、いい。\r\n  The dragon's jaws open wide.\r\n\r\n  What do I do?<K>\r\n ㉔<I>What do I do?</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40800,
+  "en": "\r\n//　戦うのだ。\r\n//　……そう。戦うのだ。\r\n\r\n//　だが。\r\n//　もう一度、この怪物と戦えば。\r\n  Fight. Yes. I must fight.\r\n\r\n  But if I engage that monster once more...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41012,
+  "en": "\r\n//　彼らは、\r\n//　もはや、\r\n\r\n//　もはや――\r\n  Then those children...\r\n\r\n  Those children―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41133,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0190820a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41257,
+  "en": "\r\n//　思考は、ただ白いまま。\r\n//　何の知恵も産み落とさない。\r\n\r\n//　唸りを上げる魔砲――\r\n//　俺のための葬送曲を、立ち尽くして聴く。\r\n\r\n//　何もできず。\r\n//　案山子のように、棒立ちで。\r\n\r\n//　俺は無意味な最期を待つ。\r\n//　凍った心は、その無意味さを悲しむ事さえできない。\r\n  There are no answers to be had from my stricken brain.\r\n\r\n  The cannon roars, sounding my death knell, but all I can do is stand petrified...<K> and wait for the end to come.\r\n",
+  "pt": ""
+ }
+]

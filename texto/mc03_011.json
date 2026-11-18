@@ -1,0 +1,327 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　過去、鉄道を利用する機会は少なかった。\r\n  I have not, in my life, had many opportunities to ride the train. My home in the country never warranted a station, and though I did travel by train during my tour in the army, it was only a handful of times.\r\n\r\n  Otherwise, I rode at most two or three times following my discharge. It might have been more, were it not for Rokuhara's restrictions, but as my employer never found in me much use as a salesman, and lacking any great desire to travel, I doubt it would have made much difference. \r\n\r\n//　育った土地は文字通りの片田舎で駅も線路もなく、\r\n//長じて徴兵を受け軍役に就いた折には汽車に乗ること\r\n//もあったが、それとてせいぜい数度ばかり。\r\n//　復員して郷里に戻り、就職してからほんの二、三度。\r\n\r\n//　六波羅が政権掌握後に民間人の鉄道利用を規制して\r\n//いなければ、もう少し回数は増えていたろう。\r\n//　……会社では俺を外勤向きと評価する人などおらず、\r\n//<RUBY text='し'>私</RUBY>で旅行する趣味もなかったから、高は知れているが。\r\n\r\n//　そんな次第で、俺は片手で数えて足りる程度にしか\r\n//鉄道の旅の経験がない。\r\n//　この速さも、内装も、窓の外を流れる風景も、まだ\r\n//慣れず、斬新な印象の残るものだった。\r\n  So this sensation of speed. The landscape flying past. These things still feel new to me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1751,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110010a04'>\r\n//「落ち着かぬご様子で」\r\n\"Can't sit still?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1900,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110020a00'>\r\n//「恥ずかしながら、少々」\r\n\"I'm embarrassed to admit it, but no.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2072,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110030a04'>\r\n//「しばらくの辛抱でございますよ」\r\n\"It won't be much longer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2244,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110040a00'>\r\n//「不快を感じてはおりません。お気遣いなき\r\n//よう。\r\n//　……侍従殿は、泰然としていらっしゃる」\r\n\"Thank you, but I'm fine. It's just... novel. You seem unaffected.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2546,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110050a04'>\r\n//「皺の数は経験の数でございまして。\r\n//　特にお嬢さまと欧州で暮らしていた頃は、\r\n//日常的に利用しておりましたからねぇ」\r\n\"These wrinkles aren't just for show, sir. During our time in Europe, we rode the train nearly every day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2923,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110060a00'>\r\n//「あちらでは電動の列車も普及しているとか」\r\n\"I believe they have electric trains now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3126,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110070a04'>\r\n//「左様でございますね。市街地の短距離路線\r\n//では既にそちらが主流でしょうか。\r\n//　都市間鉄道はまだまだ蒸気機関車が多数を\r\n//占めておりますが……」\r\n\"Mainly in the cities. In the country, it's still mostly steam.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3501,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110080a04'>\r\n//「一部では電気機関車などというものも使わ\r\n//れているようでございます」\r\n\"Though I have heard that electric engines are becoming more commonplace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3776,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110090a00'>\r\n//「？　それは、電動列車と何か違うのですか」\r\n\"Is that different from an electric train?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3980,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110100a04'>\r\n//「湊斗さまが仰られているのは、個々の車両\r\n//が動力を持つ方式のものでございましょう。\r\n//　それとは別に、電動の機関車が他の列車を\r\n//牽引する方式のものもあるのでして」\r\n\"You probably mean a train where all the cars are powered. An electric engine, on the other hand, pulls the rest of the cars behind it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4457,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110110a00'>\r\n//「ああ……成程。\r\n//　要は従来の蒸気機関車を電動にしただけの\r\n//ものですか」\r\n\"Ah, I see. Like a steam engine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4698,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110120a04'>\r\n//「その通りなのですが湊斗さま、そういった\r\n//ことをうかうかと口外されませぬように。\r\n//　一部の<RUBY text='マニア'>鉄道愛好家</RUBY>の耳に入ったが最後」\r\n\"Yet, but do take care where you make the comparison. If any railroad fanatics happen to overhear, you might find yourself in a bit of a <br>situation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5160,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110130a04'>\r\n//「推定四二時間ほどの時間をかけて両方式の\r\n//発祥の経緯に始まり機構の詳細、その細かな\r\n//相違点、そして運用の実態から未来の展望に\r\n//至るまでを徹底的に講義されかねません」\r\n\"History, comparative dynamics, the finer points of engineering and possibilities for the future. Why, the lecture will go on for two days at least.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5656,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110140a00'>\r\n//「？　は……」\r\n\"...I'll be careful.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5796,
+  "en": "\r\n//　何のことやら。\r\n  Though is the danger really so great?\r\n\r\n//　車窓が映し出す動画はのどかな田園から、深い山野\r\n//の情景へと徐々に移り変わっている。\r\n//　しばしば、橋上を走って河川を越えることもあった。\r\n  I turn to the window, where a pastoral scene is giving way to rugged mountains and valleys. From time to time, we trundle over a bridge, the rivers below sparkling in the sun. I can easily imagine how delighted a child would be to see this.\r\n\r\n//　日差しを照り返して燦然と煌く<RUBY text='かわも'>川面</RUBY>は、子供が見た\r\n//なら大いにはしゃいだのかもしれない。\r\n//　<RUBY text='ひとけ'>人気</RUBY>のない客車の中で、俺はそんなことを思った。\r\n  But in this car, we are alone.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6637,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110150a00'>\r\n//「……それにしても。\r\n//　あっさりと乗車できたものですね」\r\n\"I'm surprised we were able to board so easily.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6868,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110160a04'>\r\n//「会津の外へ向かう列車は開戦前に逃げ出し\r\n//たい富裕層でごった返しているそうですが。\r\n//　今、逆に会津中心部へ行きたがる民間人は\r\n//よほどの物好き」\r\n\"Anyone who can afford a ticket is on their way㉔<I>out</I>㉕of Aizu by now. What with the war coming and all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7295,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110170a04'>\r\n//「席は取り放題でございます。\r\n//　ま、欧州に比べて馬鹿馬鹿しいほど高額な\r\n//運賃を支払えるなら、ではありますけれども」\r\n\"The seats were ours for the taking. It's still absurdly expensive compared to Europe, but that's beside the point.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7682,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110180a00'>\r\n//「はっ。それはそれとして、自分が気にして\r\n//いたのは別の事です。\r\n//　現在の会津は戒厳令下も同然なれば、」\r\n\"Actually, I was thinking about security.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7977,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110190a00'>\r\n//「列車は悉く軍に徴発されているか……ある\r\n//いはそこまでいかず民間の利用に充てる余地\r\n//を残していたとしても、乗車にあたって厳重\r\n//な審査を行うのではないか、と」\r\n\"Even assuming that every train had not been earmarked for military use, I expected there to be checkpoints, inspections. That sort of thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8454,
+  "en": "\r\n//　その場合、果たして乗車を許されたかどうか。\r\n//　叩けば埃は際限なく出てくる身体だ。\r\n\r\n//　大鳥主従とて、それは同じだろう。\r\n//　いや……更に危険か。\r\n  If there had been, I doubt I would have passed with my colorful record. And that goes double for the Otori pair.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8802,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110200a04'>\r\n//「そこは賭けではありましたな。\r\n//　確かに、獅子吼殿がそういった措置を命じ\r\n//ていても不思議ではございませなんだ」\r\n\"It was a bit of a gamble, in fact. Shishiku might easily have issued such orders.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9150,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110210a04'>\r\n//「されど<RUBY text='か'>彼</RUBY>の男の企図は十中八九、急戦。\r\n//　必要以上に列車を確保しておく意味も、敵\r\n//の間者の侵入を極度に警戒する意味も、余り\r\n//無いと申せます」\r\n\"But with his offensive only days away, it's unlikely he would be overly concerned about spies.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110220a04'>\r\n//「そして獅子吼殿は無駄を好かぬご性根……。\r\n//　賭けとはいえ、そう分は悪くなかったので\r\n//ございますよ」\r\n\"And he is not a man who abides waste. We judged the odds to be in our favor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9901,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110230a00'>\r\n//「……成程」\r\n\"I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10025,
+  "en": "\r\n//　そんな些事に割く労力があるなら、他により有効な\r\n//使い道がいくらでもあるということか。\r\n//　その通りかもしれない。\r\n  So he's spending his manpower elsewhere. Not a difficult choice to comprehend.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10291,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110240a00'>\r\n//「そして乗車にさえ成功してしまえば、これ\r\n//が最も高速かつ効率的な移動手段……と」\r\n\"And with security not a concern, this was the fastest and most convenient means of travel we could hope for.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10620,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110250a04'>\r\n//「座って待っていれば着きますから。\r\n//　懸念すべきは、車内でトラブルが発生した\r\n//時に逃げるのが難しいことくらいでしょうか」\r\n\"All you have to do is sit and wait. Of course, if something does go wrong, escape will be a bit of a problem.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11011,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110260a00'>\r\n//「そのような危険性が？」\r\n\"Are we assuming that's likely?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11177,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110270a04'>\r\n//「必ずしも、皆無とは。\r\n//　車両は別ですが、篠川軍の一個中隊が我々\r\n//の相客でございます」\r\n\"The danger is there. We're sharing this train with a company of Sasagawa's finest.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11490,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110280a00'>\r\n//「……それは。\r\n//　顔を合わせると、些か厄介な事になる恐れ\r\n//も」\r\n\"...Should we be worried?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11709,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110290a04'>\r\n//「なきにしもあらずで。\r\n//　……とは申せ、あれは予備役からの召集兵」\r\n\"Not overmuch. These are reserves who've just been called up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11969,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110300a04'>\r\n//「任務はどうやら兵站、士気も装備も相応で\r\n//しかない様子。\r\n//　油断は禁物にせよ、さほど案ずるには及び\r\n//ますまいて」\r\n\"They'll be guarding the rear in this fight, and you know what that means for equipment and morale. Let's be careful, but not too careful.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12377,
+  "en": "\r\n//　ほっほっと笑う老侍従に、俺も頷きを返した。\r\n//　そして、口を噤む。\r\n  I answer the old woman's chuckle with a nod. Silence descends abruptly thereafter, and as the heavy rhythm of the train fills the space, my eyes drift to the car's other passenger.\r\n\r\n//　不意に沈黙の帳が広がった。\r\n//　<RUBY text='ホイル'>鉄輪</RUBY>が<RUBY text='レール'>条鉄</RUBY>の上を転がり駆けてゆく、規則的な重い\r\n//響きに耳を委ねる。\r\n\r\n//　知らず知らず、視線は乗車以来一度も口を開いてい\r\n//ない女性の上へ流れた。\r\n  She has not said a word since we boarded.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13050,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0110310a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13183,
+  "en": "\r\n//　大鳥大尉は風景を眺めている。\r\n//　否――正確には違う。\r\n  She is looking out the window, though from the fixed angle of her gaze and her lack of expression, I doubt she actually sees much of anything.\r\n\r\n//　心ここに在らぬ<RUBY text='てい'>態</RUBY>だった。\r\n//　眼差しは景色に向けられてはいるものの、その角度\r\n//は固定されて動かず、地形の移り変わりにも<RUBY text='ほとん'>殆</RUBY>ど反応\r\n//しない。\r\n\r\n//　外ではなく内面を見ているのか。\r\n//　彼女の細い双眸は、今。だとすると、そこには何が\r\n//映っているのだろう。\r\n  Could those narrow eyes be turned inward instead? If so, I wonder what they see.\r\n\r\n//　大鳥香奈枝という女性の、如何なる心情が――\r\n//　\r\n//　柄にもなくそんな詮索めいた欲求を起こしたのは、\r\n//沈思する彼女に心を惹かれたからかもしれない。\r\n  That I wonder anything at all is strange. Perhaps I find myself drawn to her, for in this moment she looks fragile, fleeting: feminine, in an archetypal sense, but one that is divorced from her usual comportment.\r\n\r\n//　普段の大尉と異なり、どうしてか、今の彼女は通俗\r\n//的な意味において女性と見えた。\r\n//　儚く、危うい。<RUBY text='そび'>繊</RUBY>やかで、淡い。\r\n\r\n//　<RUBY text='かつ'>嘗</RUBY>て見た、<RUBY text='コントラバス'>弦楽器</RUBY>を奏でる彼女に似ている。\r\n//　似ているが――やはり違う。あの時の彼女には確か\r\n//な意思があり、それが音色を導き<RUBY text='がく'>楽</RUBY>に仕上げていた。\r\n//しかし今、彼女の<RUBY text='かお'>貌</RUBY>はその意思をどこか、欠いている。\r\n  The closest comparison that I can manage is to how she seems when playing her instrument. But though similar, there is one marked difference.\r\n\r\n  The music she plays has a focus, direction, a will guiding and shaping it.\r\n\r\n  That will is absent from her now. \r\n\r\n  She looks... lost, like a child far from home.\r\n\r\n//　家路を見失った迷い子のようでもあった。\r\n//　\r\n//　寄る辺ない異境にただ独り、ぽつねんと佇む。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15470,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0110320a03'>\r\n//「……景明さま」\r\n\"...Darling?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15614,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110330a00'>\r\n//「…………はっ」\r\n\"...Captain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15749,
+  "en": "\r\n//　その名指しに、俺の<RUBY text='いらえ'>応答</RUBY>は暫時、遅れた。\r\n//　不意であったせいもある。だがそれ以上に、彼女の\r\n//声は呼ばわりというよりも独白に近かった。\r\n  My reply is late, in part because her call was sudden. But more than that, I thought at first that she was speaking to herself, so distant were the words from the world I inhabit.\r\n\r\n//　相変わらず、彼女の<RUBY text='せかい'>表情</RUBY>は外界から断たれている。\r\n//　……続く言葉は、会話の間と云うにはやや長過ぎる\r\n//時間を置いて<RUBY text='こぼ'>零</RUBY>された。\r\n\r\n  Following a lengthy pause, she finally asks her question.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16487,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0110340a03'>\r\n//「……このまま。\r\n//　何処かに行ってしまいましょうか」\r\n\"Shall we go somewhere together? Somewhere far away.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16726,
+  "en": "\r\n//　道を失った迷子が、諦めて当て<RUBY text='ど'>所</RUBY>もなくとぼとぼと\r\n//歩き出すような――\r\n//　\r\n//　そんな一言を、大鳥大尉は口にした。\r\n\r\n//　何処か。\r\n//　それはきっと、<RUBY text='・・・・・・・・'>真っ直ぐではない</RUBY>何処か……という\r\n//意味だろう。\r\n\r\n//　篠川公方府へ殴り込み、大鳥獅子吼を討つなどと、\r\n//馬鹿げた――だろう、客観的にはどう見ても――企て\r\n//を捨てて。\r\n//　別の何処かへ。\r\n  I hear the unspoken. Somewhere, she says... somewhere our paths will not be set in stone, where there will be no path at all, save survival.\r\n\r\n  Here, we are on a suicidal mission, because her duty and mine demand it. To forsake that mission is to forsake who we are, to become new, nameless people who barely resemble our former selves.\r\n\r\n  It would be, in a way, how things are meant to be: an acceptance of weakness, of normalcy. It would be to acknowledge that we are not special, but people like any other.\r\n\r\n\r\n//　目的もなく。強いて決めるなら、戦火を逃れる為に。\r\n//　いま巷間に溢れている、そんな人々の群れに混ざる。\r\n\r\n//　何者でもない、一個の人間として。\r\n//　身の程をわきまえ、己の分際に従い……\r\n\r\n//　もはや大鳥香奈枝でも湊斗景明でもなく。\r\n//　貴顕の矜持も銀星号封殺の責務もなく。\r\n//　\r\n//　自ら欲して無名の者となり、世に埋没する。\r\n\r\n//　――そうしたい、と。\r\n//　大鳥大尉は、言ったのだろうか。\r\n  Is that what she desires?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18415,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110350a00'>\r\n//「大尉、」\r\n\"Captain, I―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18543,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0110360a03'>\r\n//「冗談でしてよ」\r\n\"I'm joking, dear.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18693,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110370a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18817,
+  "en": "\r\n//　いつしか。\r\n//　彼女は首を傾け、俺に視線を向けていた。\r\n\r\n//　何処かを彷徨っていた心は、現世に戻ってきている。\r\n//　大鳥香奈枝として。\r\n  Suddenly, she is looking at me. There is light in her eyes. She is herself once more.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19117,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0110380a03'>\r\n//「冗談です……」\r\n\"Only joking...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19264,
+  "en": "\r\n//　繰り返される言葉に、どうしてか、頷き一つを返す\r\n//のが躊躇われた。\r\n//　\r\n//　胸腔の中心が、奇妙に痛む。\r\n  And yet, I find myself unable to let the matter rest. All it would take is a nod, yet something in me... aches.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19546,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110390a00'>\r\n//「……当てのない旅というのも、案外面白い\r\n//ものかもしれません」\r\n\"Perhaps an aimless journey would not be so bad.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19787,
+  "en": "\r\n//　痛みの意味を考えることは禁じて。\r\n//　俺はただの言葉遊びとして応じた。\r\n  Instead of pursuing what that ache might mean, I indulge the fantasy. It feels like a compulsion, not a choice.\r\n\r\n//　そうしなければならないという思いが、強迫観念の\r\n//ように在った。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20125,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110400a00'>\r\n//「風の向くまま気の向くまま、東へ西へと。\r\n//　おそらく退屈せずに日々を過ごせます」\r\n\"Wandering where the wind takes us, always searching for a new port of call... It wouldn't be boring.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20446,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110410a04'>\r\n//「良いものですねぇ。\r\n//　特にこれからの季節、みちのく温泉ツアー\r\n//などするには最高でございましょう」\r\n\"No indeed,\" Miss Nagakura offers, as though she only heard this part of our exchange. \"Especially in these winter months. A tour of Michinoku's hot springs is just the ticket.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20870,
+  "en": "\r\n//　それまでの経過は何も聞いていなかった風で、さよ\r\n//侍従が話に乗る。\r\n//　大鳥大尉は微笑んで、小さく首を頷かせた。\r\n  The captain answers with an easy smile.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21094,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0110420a03'>\r\n//「……そうね。\r\n//　じゃあ……行きましょうか」\r\n\"A splendid idea. Let's do that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21301,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0110430a03'>\r\n//「いつか」\r\n\"One day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21433,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110440a00'>\r\n//「はい」\r\n\"One day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21553,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110450a04'>\r\n//「ええ、いずれ」\r\n\"I can't wait.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21690,
+  "en": "\r\n//　全員一致で、約束する。<k>\r\n//　全員、その<RUBY text='・・・'>いつか</RUBY>など来ないことを知っていた。\r\n  And thus the promise is made, though it has no hope of ever being fulfilled.\r\n\r\n  Every day, everywhere, such words are spoken and forgotten.\r\n\r\n//　ありふれた、その場限りの口約束。<k>\r\n//　世間の<RUBY text='そこかしこ'>其処彼処</RUBY>で無数に交わされ、そしてそのまま\r\n//忘れ去られて二度と思い出されない。\r\n\r\n//　そんな軽い会話だ。<k>\r\n//　\r\n//　\r\n//　そんな軽い会話が、今はどうしても辛い。\r\n\r\n//　大鳥大尉の<RUBY text='きず'>瑕</RUBY>なき微笑を見るのが辛かった。\r\n//　逃げるように、視線を車窓へ流す。\r\n  It is perfectly normal. So why does it hurt?\r\n\r\n  Unable to bear the sight of her smile, I turn to look at the scenery, still changing as before.\r\n\r\n//　変わりつつも相変わらずの風景が視界を占めた。\r\n//　そして――その手前に。<RUBY text='ガラス'>硝子</RUBY>が映す、一つの影。\r\n\r\n//　男。\r\n  And there, in the glass between me and the <br>world―<K>the reflection of a man.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22914,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110460a00'>\r\n//「……ッ!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23033,
+  "en": "\r\n//　即座に立ち上がり、背後を振り返る。\r\n//　車両の連結口からほんの一瞬、覗いたと思えた姿は\r\n//既に何処にも見当たらない。\r\n\r\n  I leap to my feet and whirl around. The passage to the next car is empty.\r\n\r\n//　しかし。\r\n//　今――確かに。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23348,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110470a04'>\r\n//「湊斗さま？」\r\n\"Sir? Is everything all right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23498,
+  "en": "\r\n//　きょとんとした目で見上げられる。\r\n//　俺よりも注意力は高いであろうこの老侍従が何も気\r\n//付かなかったというのなら、いま見たと思えたものは\r\n//単なる錯覚である可能性が高い。\r\n  The old woman seems taken aback. If she of all people detected no intruder, then perhaps I only imagined it.\r\n\r\n//　だが――\r\n//　\r\n//　俺はその男に、<RUBY text='・・・'>見覚え</RUBY>があったのだ。\r\n  But no. I knew that face.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24021,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110480a00'>\r\n//「……すぐに戻ります」\r\n\"I'll just be a moment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24176,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0110490a04'>\r\n//「どちらへ？\r\n//　動かれると危のうございますよ」\r\n\"We shouldn't be about.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24368,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0110500a00'>\r\n//「重々承知！」\r\n\"I'm aware!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24499,
+  "en": "\r\n//　つい先刻、聞かされたばかりの話はまだ耳に残って\r\n//いる。\r\n//　だがそれでも、確かめないわけにはいかなかった。\r\n  But I have to be sure.\r\n\r\n//　俺は制止を振り切って駆け出した。\r\n//　<RUBY text='・・'>屋上</RUBY>の村正に、俺を追うよう命じておく――必要に\r\n//なるかもしれない。\r\n  I transmit my intent to the roof of the train, where Muramasa rides. She may be needed.\r\n\r\n  Then I take off running.\r\n",
+  "pt": ""
+ }
+]

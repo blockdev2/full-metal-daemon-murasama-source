@@ -1,0 +1,387 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0190010a11'>\r\n//「……宮殿下……」\r\n\"Your Highness... It's over.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 367,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190020a10'>\r\n//「……おう。\r\n//　ご苦労さんやったねえ。菊池」\r\n\"...Yeah. Why don't you take a break? You've earned it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 597,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0190030a11'>\r\n//「……お先に参ります。\r\n//　殿下はどうか、ゆるりとお越しあれ」\r\n\"Thank you, Your Highness... I'll go on ahead. Please... take your time. I have no pressing need of company.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 895,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190040a10'>\r\n//「うん……」\r\n\"Got it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1029,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190050a10'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190060a10'>\r\n//「まさかおまさんが来るとは思わんかったわ。\r\n//　堀越の」\r\n\"Gotta say. You're not who I was expecting.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1387,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190070a07'>\r\n//「雷蝶の方が良かったか？\r\n//　<RUBY text='プリンス'>皇子様</RUBY>」\r\n\"Guess you were hoping for Raicho? Sorry, Princey. You get little ol' me instead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1664,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190080a07'>\r\n//「お呼びでないとは残念なり。\r\n//　でもどっちだってたいしてかわんない気が\r\n//するけどにゃー？」\r\n\"I don't think it makes much difference, though. Yeah?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1963,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190090a10'>\r\n//「……そやな。\r\n//　わしは負けた責任とって、死ぬだけや」\r\n\"...Yeah. I've lost. Time to pay for my mistakes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2202,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190100a07'>\r\n//「うむ。\r\n//　よりによって雷蝶と組んで、あげく野郎を\r\n//操り損ねてるようじゃどーしょーもねえわ」\r\n\"Yup. Picking Raicho was your first mistake. Your second was letting him get away from you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2541,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190110a10'>\r\n//「……」\r\n\"......\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2669,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190120a07'>\r\n//「手を急ぎすぎたな、宮様。\r\n//　敗因はそこだろ」\r\n\"You were just too impatient. That's what it comes down <br>to.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2910,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190130a10'>\r\n//「返す言葉もないわ。好きに言えばええ。\r\n//　次はもっとうまくやったるし」\r\n\"True. But don't worry. I'll do better next time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3173,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190140a07'>\r\n//「次ね……」\r\n\"Uh-huh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3307,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190150a10'>\r\n//「ギャグや、ギャグ。\r\n//　冷たい目で見んな」\r\n\"Just a joke. Don't look at me like that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3520,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190160a10'>\r\n//「菊池も待ってるし。\r\n//　さっさと首刎ねてくれんか」\r\n\"Go on, then. Get it over with. Kikuchi's waiting.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3754,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190170a07'>\r\n//「あんたの忠実な鎌倉署長か。\r\n//　そのおっちゃんなら、おめーが生き延びて\r\n//目的遂げるのを望むんでないの？」\r\n\"Your loyal dog here? Something tells me he'd rather you finish what you started.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4101,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190180a10'>\r\n//「…………。\r\n//　性格悪いやっちゃなァ」\r\n\"...You're kind of a jerk, you know that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4308,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190190a07'>\r\n//「そお？」\r\n\"Sorry?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4438,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190200a10'>\r\n//「わざわざ未練を残させたいんか」\r\n\"You trying to make me beg for my life?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4633,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190210a07'>\r\n//「いーや？　違うよ。\r\n//　そうしたいなら、そうさせてやろうかって\r\n//話」\r\n\"Nah. I'm just offering to lend you a hand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4888,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190220a10'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5021,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190230a07'>\r\n//「あれ？　躍り上がって喜ばないの？」\r\n\"Huh. I thought you'd start dancing a jig.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5225,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190240a10'>\r\n//「……もうちょっと聞いてからにするわ。\r\n//　で、その条件は何や」\r\n\"Maybe after I hear the specifics. What do you want?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5479,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190250a07'>\r\n//「なんも？」\r\n\"Nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5614,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190260a10'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5741,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190270a07'>\r\n//「タダで安全なとこまで送り届けてやるよ。\r\n//　横浜でいいだろ？」\r\n\"I'll give you a ride, free of charge. How's Yokohama sound?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6003,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190280a10'>\r\n//「ＧＨＱ……？」\r\n\"GHQ?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6140,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190290a07'>\r\n//「そっ。\r\n//　今のあいつらはおめーに利用価値を見出す\r\n//よ」\r\n\"Yeah. They could use a guy like you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6371,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190300a07'>\r\n//「帝室の<RUBY text='かわりだね'>変種</RUBY>、お調子者で人気者の親王サマ。\r\n//　国民を味方につけるにゃ格好の材料だ」\r\n\"Imperial prince, bit of an oddball, popular with the regular folk. You're just what they need to get the people on their side.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6766,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190310a10'>\r\n//「……それも売り込むツテがあればの話やろ。\r\n//　わし、ＧＨＱにはほとんど人脈ないよ」\r\n\"How am I gonna make that case? I barely know anyone over there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7062,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190320a07'>\r\n//「案ずるな迷える子羊。\r\n//　横浜基地前に放り出してそれきり、なんて\r\n//こたしねーよ。茶々丸さんのアフターケアは\r\n//万全なのだ」\r\n\"Rest easy, little lamb. I wasn't gonna just drop you on their doorstep and peace out. What kinda girl you think I am?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7471,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190330a07'>\r\n//「ちゃんと仲介者を紹介してやる。\r\n//　<RUBY text='ＧＤＧ'>緑龍会</RUBY>っつって、まぁわりと怪しげな連中\r\n//がいるわけだが。ＧＨＱの要人に顔が利く」\r\n\"I've got these friends. The Gruenedrachen Gesellschaft. A nutty bunch, but they've got pull.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7878,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190340a10'>\r\n//「……<RUBY text='グリューネドラヘ'>緑龍</RUBY>……？」\r\n\"The Gruene... what now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8082,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190350a07'>\r\n//「あとはおめーの手腕次第。でも簡単だろ？\r\n//　向こうのメリットははっきりしてんだ」\r\n\"Green Dragon Society. They'll make the introductions. The rest is all you. But like I said, John Bull won't take much convincing.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190360a07'>\r\n//「あんたが大和を代表して進駐軍支持を表明\r\n//すれば国際連盟の非戦派も黙る。\r\n//　ジョンブルどもは背中を気にせず<RUBY text='あてら'>六波羅</RUBY>と\r\n//戦えるって寸法だな」\r\n\"With you backing their play on behalf of Yamato, they can declare war on us without having to worry about the peaceniks back home.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8909,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190370a07'>\r\n//「大歓迎間違いなし。\r\n//　三食昼寝にハーレム付きは固いぜ、旦那」\r\n\"They're gonna love you, man. Bet you get a harem and everything.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9176,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190380a10'>\r\n//「……そんで。\r\n//　おまさんはどうなるんや」\r\n\"...And what'll you be doing while all this is going on?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9404,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190390a07'>\r\n//「そりゃもちろん、獅子吼と一緒に悪戦苦闘。\r\n//　もー足掻きに足掻いて足掻きまくる」\r\n\"Fighting, of course. Me and Shishiku. We're gonna give the Allies a hell of a time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9717,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190400a07'>\r\n//「ＧＨＱに<RUBY text='・・・'>切り札</RUBY>まで投入させる」\r\n\"Make them go㉓<I>all the way.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9938,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190410a07'>\r\n//「でも最後は負けるね。\r\n//　どだい、市民に見捨てられた軍がいつまで\r\n//も<RUBY text='も'>保</RUBY>つわけねーし……」\r\n\"But in the end, we'll lose. Only so much you can do once the locals turn against you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10290,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190420a07'>\r\n//「六波羅は滅びてあても死んでおしまい。\r\n//　大和国は平和になりましたとさ。めでたし\r\n//めでたし」\r\n\"Rokuhara will fall, I'll be dead, and Yamato'll have peace at last. Happy end for all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10625,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190430a10'>\r\n//「……理想的やね」\r\n\"...The best.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10773,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190440a07'>\r\n//「だろ？\r\n//　じゃ、そういうことでいい？」\r\n\"Yep. So you coming?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10962,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190450a10'>\r\n//「返答か。\r\n//　そやな。それなら」\r\n\"Oh. Well, when you put it like that...\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190460a10'>\r\n//「断る。\r\n//　ここで死ぬわ」\r\n\"I think I'll stay here and die.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11330,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190470a07'>\r\n//「音声だけではよくわからないと思いますが、\r\n//あては今ずっこけました」\r\n\"That just now? That was the sound of me doing a faceplant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11600,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190480a10'>\r\n//「なんで解説？」\r\n\"Uh... thanks?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11746,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190490a07'>\r\n//「いや、そのスダレで見えてないかと思って」\r\n\"Sorry. Thought you might've missed it with the screen.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11972,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190500a07'>\r\n//「つか、なんでさ。\r\n//　文句なしにいい話でないの」\r\n\"Anyway, mind clueing me in? I think it's a pretty sweet offer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12216,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190510a10'>\r\n//「そやな」\r\n\"Sure is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12348,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190520a07'>\r\n//「<RUBY text='ブリテン'>大英連邦</RUBY>の属国になるのはヤってこと？」\r\n\"I guess you don't want the Brits taking over.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12595,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190530a10'>\r\n//「嫌やな。\r\n//　でも、それが大和のみんなにとって最善の\r\n//道なら仕方ないとも思うえ」\r\n\"Hell no. But if that's what's best for Yamato, I'm willing to bite the bullet.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12904,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190540a07'>\r\n//「じゃ、何が不満よ？」\r\n\"So what's your problem, then?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13075,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190550a10'>\r\n//「取引になってないからや」\r\n\"There's no take to your <br>give.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13256,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190560a07'>\r\n//「……んー？」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13390,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190570a10'>\r\n//「おまさんは何も得しないやないか。\r\n//　そう、言うてはった通り。進駐軍はわしを\r\n//歓迎するやろ。六波羅は追い詰められるやろ。\r\n//首領株のおまさんは死ぬやろう」\r\n\"It's like you said. They'll welcome me with open arms. They'll use me to start their war, and in the end, Rokuhara will fall, and you with it.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190580a10'>\r\n//「おまさんは失うだけや。\r\n//　何も手に入らない」\r\n\"You don't stand to gain anything. All you do is lose.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14096,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190590a07'>\r\n//「うむ。なんて無欲な足利茶々丸。\r\n//　百年後にはお札になってるかもしれんね」\r\n\"Yeah, turns out I'm a font of good will. Maybe they'll put me on a bill in a hundred years or so.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14414,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190600a07'>\r\n//「で、それがなんかまずいの？」\r\n\"Something wrong with <br>that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14598,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190610a10'>\r\n//「まずいわ。えろうまずい。\r\n//　くれるもんだけくれて何も要求せん奴ての\r\n//はな、本物の聖人か。でなければ」\r\n\"You bet your ass there is. When someone offers you something and asks for nothing in return, well, either she's a real saint...\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190620a10'>\r\n//「<RUBY text='・・・・・・・・・・・・'>最後に何もかも奪っていく</RUBY>、本物の悪魔や」\r\n\"Or she's a demon, who wants it㉓<i>all.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15254,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190630a07'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15399,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190640a10'>\r\n//「……茶々丸。\r\n//　おまさんの望みを聞かせてもらおか」\r\n\"So what do you want, Chachamaru?\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190650a10'>\r\n//「本当に何も無いなら、そう言うとええ。\r\n//　<RUBY text='・・・・・・・'>そのツラのまま</RUBY>言えたら、信じたるわ」\r\n\"If it's really nothing, okay, I'll believe you. If you can tell me with a straight face, that is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15977,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190660a07'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16110,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190670a10'>\r\n//「……望みは？」\r\n\"What are you after?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16262,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190680a07'>\r\n//　　　　　　　　　「<RUBY text='ワールド'>世界</RUBY>\r\n//　　　　　　　　　　<RUBY text='エンド'>終焉</RUBY>」\r\n<center>\"The end of the world.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16542,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190690a10'>\r\n//「――――!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16673,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190700a07'>\r\n//「……あばよ、宮様。\r\n//　おめー使うのが一番いいと思ったんだけど。\r\n//しゃあね、別のやりかた考えるわ」\r\n\"Sorry, prince. I was really hoping you'd say yes. Looks like it's back to the drawing board.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17023,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190710a10'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17156,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190720a07'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17289,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0190730a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17413,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190740a07'>\r\n//「……おい。ちょっと待て。\r\n//　そこのおっさん」\r\n\"...Hey, beardy. You for <br>real?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17625,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0190750a11'>\r\n//「……悪いな……」\r\n\"I'm... afraid so...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17771,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190760a10'>\r\n//「菊池……」\r\n\"Kikuchi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17908,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0190770a11'>\r\n//「致命傷なのですが……ね。\r\n//　当たり所が変に悪かったのか……なかなか\r\n//息が絶えてくれず……」\r\n\"Oh, my wound is... quite mortal, Your Highness. It's just taking... a little longer than expected.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18246,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0190780a11'>\r\n//「まだ生きています、などと言うのも恥ずか\r\n//しく……\r\n//　黙って死を待っていたのですが……」\r\n\"I tried to bleed out quietly... not wanting to get your hopes up...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18547,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0190790a11'>\r\n//「まぁ……せっかくの余命なので。\r\n//　<RUBY text='・・・・'>悪魔退治</RUBY>だけ、しておきました」\r\n\"But it seems there was one last thing I could do...\r\n  Save the world... Not a bad end...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18869,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190800a07'>\r\n//「……心臓の真上……ど真ん中か……。\r\n//　これじゃ虎徹でもどーにもなんねーな……」\r\n\"Straight to the heart... God damn... Even Kotetsu can't fix that...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19166,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0190810a07'>\r\n//「……ひっでぇー。\r\n//　こんなオチ、ありかぁ……？」\r\n\"...Fuck this.\r\n  What a joke...\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19384,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0190820a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19502,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0190830a10'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ }
+]

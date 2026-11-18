@@ -1,0 +1,322 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030010b56'>\r\n//「それと――」\r\n\"And after㉗<I>that―</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 344,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030020a07'>\r\n//「多いよ！　いつまで続くんだよ！」\r\n\"Hold it! How many more of these are there!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 547,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030030b56'>\r\n//「じゃあ中略して、あと一つだけ」\r\n\"Okay. I'll skip straight to the big one.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 735,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030040b56'>\r\n//「あいつは自分の母親も殺しました。\r\n//　以上」\r\n\"Two years ago, he killed his mom. Boom!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 941,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030050a07'>\r\n//「はいご苦労さん」\r\n\"Thanks, kid. You're done.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1102,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030060a07'>\r\n//「では、弁護人！」\r\n\"Counsel for the defense!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1262,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030070a11'>\r\n//「はい」\r\n\"Your Honor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1385,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030080a07'>\r\n//「弁護できるならしてみるがよい」\r\n\"Whadda ya got to say for this sorry piece o' shit?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1592,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030090a11'>\r\n//「仕方なかったんです」\r\n\"It couldn't be helped.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1747,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030100a07'>\r\n//「ハァ？\r\n//　仕方なかったァァァァァァ!?」\r\n\"Say WHAT!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1926,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030110a11'>\r\n//「そうです。仕方なかったのです」\r\n\"It couldn't be helped.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2096,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030120a07'>\r\n//「じゃー仕方ないな。\r\n//　情状酌量の余地を認める」\r\n\"Well, shit. If you're gonna pull㉗<I>that</I>㉕one out...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2337,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030130a07'>\r\n//「無罪!!」\r\n\"Not guilty!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2471,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030140b56'>\r\n//「異議有りッ!!」\r\n\"OBJECTION!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2604,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030150a07'>\r\n//「えー」\r\n\"Really?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2732,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030160b56'>\r\n//「弁護人に質問します！\r\n//　仕方なかったってのは、いったいどう仕方\r\n//なかったんですかっ」\r\n\"The defense should have to explain what they mean! Why couldn't it be helped!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3041,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030170a11'>\r\n//「被告人は幼い頃に両親を無くし（中略）」\r\n\"Minato Kageaki lost his parents early in life. He was raised on the street where\r\n(...)\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3288,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030180a11'>\r\n//「愛情に飢えていた被告人は甘えようとして\r\n//うっかり殺してしまっただけであり（中略）」\r\n\"(...) as his so-called murders were all accidents, triggered by his desperate need for affection (...)\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3617,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030190a11'>\r\n//「死体を押入れに隠したのは精霊に生き返ら\r\n//せて貰おうという彼の善意の顕れであって\r\n//（中略）」\r\n\"(...) and if he hid the bodies in his closet, it was only because he hoped that by doing so, the spirits would bring them back to life, which is to say (...)\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4014,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030200a11'>\r\n//「……以上の理由により、被告人に被害者へ\r\n//の殺意は無かったと断定できるのであります」\r\n\"...thus, as you can see, the defendant had no malice toward his victims, and therefore cannot be guilty of murder.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4355,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030210b56'>\r\n\"WTF is this shit!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4469,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030220a07'>\r\n//「うーん、何という弁護……。\r\n//　突っ込み所が多過ぎてどこから突っ込んだ\r\n//もんだかわからねえ」\r\n\"Wow, you're good at this. Like, that was so full of holes I don't even know how to <I>begin</I>㉗arguing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4824,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030230a07'>\r\n//「これって一種のノーガード戦法か？\r\n//　うかつに突っ込むとカウンター食いそうだ」\r\n\"And something tells me if I try, I'll just end up sinking my own battleship.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5127,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030240a11'>\r\n//「納得して頂けましたか」\r\n\"Then you accept our argument?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5292,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030250a07'>\r\n//「したような気もする。\r\n//　じゃ、閉廷すっか」\r\n\"Sure seems easier than the alternative. Let's close this thing down!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5536,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030260b56'>\r\n//「騙されないでください判事！」\r\n\"Let's not! Get your head in the game, Your Honor!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5730,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030270a07'>\r\n//「えー」\r\n\"Come on...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5861,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030280a11'>\r\n//「何かご不満でも」\r\n\"Is there a problem?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6007,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030290b56'>\r\n//「あらいでかっ！」\r\n\"Hell yes there is!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6152,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030300a07'>\r\n//「だって聞いてたろー今のー。\r\n//　仕方なかったんだよー。殺意は無かったん\r\n//だよー。ならゴメンネ☆って謝ってもらえば\r\n//もうそれでいーだらぁー？」\r\n\"Come on, man. You heard him. He didn't wanna kill those folks. Can't we just let him off with a 'my bad?'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6582,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030310b56'>\r\n//「良くねえよっ！\r\n//　仕方なかろうが殺意が無かろうが、それで\r\n//殺された方が納得いくわけねーだろ!!」\r\n\"Hell no! He killed them! It doesn't matter what he wanted! How're㉗<I>they</I> supposed to feel!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6925,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030320a07'>\r\n//「法律は死人の為に有るんじゃないしィ？\r\n//　生きてる人の為に有るんだしィ？」\r\n\"Well, like... the law's meant to serve the living, not the dead, y'know?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7218,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030330a11'>\r\n//「流石は判事。至言であります」\r\n\"Wise words, Your Honor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7386,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030340b56'>\r\n//「おめーら……自分の言ってることが社会に\r\n//どういう影響を与えるかとか……ちょっとは\r\n//考えろよ。頼むから……」\r\n\"...Yo. Take a step back and think about what you're saying. Please. Consider the societal implications!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7753,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030350a07'>\r\n//「そんなこと言われてもにゃー？」\r\n\"Don't give me that. I'm just doing what the law says.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7963,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030360a11'>\r\n//「これが仕事なので」\r\n\"And I have a duty to defend my client.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8131,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030370b56'>\r\n//「ぐあーーーー!!\r\n//　悪い意味で職業意識が発達し過ぎた世界は\r\n//ほんと駄目だーーーーーーー!!」\r\n\"I am so㉗<I>done</I>㉓with this shit! I know y'all take pride in your work, but how about a little basic human decency to go with it!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8502,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030380a07'>\r\n//「うーむ。ワガママな検事だなぁ」\r\n\"You sure ask a lot.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8678,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030390a07'>\r\n//「しかたねー。妥協案を考えてやろう」\r\n\"Fine. We'll do a compromise.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8869,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030400b56'>\r\n//「どんな？」\r\n\"Yeah?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8992,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030410a07'>\r\n//「景明ちゃんは悪くにゃいから死刑になんか\r\n//できねぇけどぉー。\r\n//　代わりにそこの弁護人を殺して良い」\r\n\"Big bro here did nothing wrong. We can't kill him. So we'll kill his lawyer instead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9334,
+  "en": "\r\n//　――――待て。\r\n  What?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9381,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030420a11'>\r\n//「私ですか」\r\n\"You mean me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9511,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030430a07'>\r\n//「うん」\r\n\"Yup.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9636,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030440a11'>\r\n//「まあ、被告人さえ救えば私の仕事は果たさ\r\n//れるので構いませんが」\r\n\"Well, if it helps my client, then I suppose I've done my job.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9894,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030450a07'>\r\n//「検事は？」\r\n\"You cool with that, kid?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10045,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030460b56'>\r\n//「うーん……\r\n//　どっちかってーと今は被告人より弁護人の\r\n//方がムカつくしなァ」\r\n\"Uh... Honestly, I'm more pissed at his lawyer right now, so...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10323,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030470a07'>\r\n//「大人になることも必要だよ？」\r\n\"Sometimes you just gotta be the grown up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10518,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0030480b56'>\r\n//「そーですね。\r\n//　じゃ、それでいいです」\r\n\"Yeah... Let's go with that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10706,
+  "en": "\r\n//　待て。\r\n//　待ってくれ。\r\n  Wait! \r\n\r\n  No!\r\n\r\n  You can't!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10792,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030490a07'>\r\n//「ん？\r\n//　どーかしたんかね被告人。口ぱくぱくして」\r\n\"Hmm? Why's the defendant doing his best impression of a goldfish over there?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11053,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030500a07'>\r\n//「なんか言いたいことでも？」\r\n\"You got something to say?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11229,
+  "en": "\r\n//　あるに決まっている！\r\n\r\n//　何故――俺の罪で俺が罰せられず、他の人間が殺さ\r\n//れねばならないのだッ!!\r\n//　俺を罰すればいい……！\r\n  Something to㉗<I>say!?</I>㉑<I>I</I>㉓killed those people! Those are㉓<I>my</I> crimes. Why must someone else pay the price!?\r\n\r\n//　俺の罪に言い逃れの余地など無いことは、誰よりも\r\n//俺が知っている！\r\n//　この首には絞首紐が相応だ――いや、必要だ！\r\n  I plead guilty, and demand justice done! Give me death! The noose is my―\r\n\r\n//　だから、俺を……\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11850,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030510a07'>\r\n//「なんも聞こえんね」\r\n\"He's not talking.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12006,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc02/0030520a11'>\r\n//「特に意見は無いようです」\r\n\"I think that means he approves.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12176,
+  "en": "\r\n//　………………ッ!?\r\n\r\n//　口が――動かない！\r\n//　毒だ。毒で――麻痺している――\r\n  ...What? They can't hear <br>me?\r\n\r\n  It's the poison! The poison has robbed me of speech!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12398,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030530a07'>\r\n//「では刑を執行する」\r\n\"Okay. Time to carry out the sentence.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12574,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030540a07'>\r\n//「エクスキューショナー、カモーン！」\r\n\"Executioner! COME ON DOWN!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12763,
+  "en": "\r\n//　待て！\r\n//　待っ――――――\r\n  NO!\r\n\r\n  NO!!!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12838,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mc02/0030550a07'>\r\n//「<RUBY text='ごー・とぅー・へーる'>やっちまえ</RUBY>♪」\r\n\"Have a nice trip to hell♪\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13049,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0030560a00'>\r\n//「――――――――――――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13215,
+  "en": "\r\n//　何故だッッッッッッッ!!\r\n  WHY!?\r\n\r\n//　何故……この俺が生きることを許され……\r\n//　生きるべき人が死んでゆくのだ!?\r\n  Why am I allowed to live while good men pay the price for my crimes!?\r\n\r\n//　この世に正義は無いのか。\r\n  Is there no㉓<I>justice</I>㉓in this world!?\r\n\r\n//　こんな事はもうやめてくれ。\r\n//　どうすれば終わる？　どうすれば<RUBY text='・・・・'>これきり</RUBY>になる？\r\n  Please, someone tell me. How do I make it stop? What will it take to end the horror, to ensure that he is the last?\r\n\r\n//　俺が自分で自分を殺すしかないのか。\r\n  Is suicide the only answer? Is a merciful death, an easy death, truly to be my fate? \r\n\r\n//　安楽な、逃避としての死しか、俺には許されないの\r\n//か。\r\n//　罰は？　苦痛は？　鉄槌は？\r\n  But what about my punishment? I'm supposed to㉗<I>suffer!</I> \r\n  Look! Look at the blood on my hands! Has this not earned me torment!?\r\n\r\n//　罰!!\r\n\r\n//　これほどの罪を犯した俺に、どうして断罪たる死が\r\n//与えられないのだ。\r\n//　汚辱に満ちた刑死をもって報いてくれないのだ。\r\n//  \r\n//　それが…………この世界だというのか!?\r\n\r\n//　ならば<RUBY text='ここ'>世界</RUBY>には何の希望も無い！\r\n//　正しき人間が非業に斃れ――その死を<RUBY text='もたら'>齎</RUBY>した悪鬼に\r\n//罰はなく――<RUBY text='しか'>然</RUBY>らば正しき人間の正しき生き様は全く\r\n//の無価値に帰す!!\r\n  If not...\r\n\r\n  If there is no force in this world that will destroy me for my sins...\r\n\r\n  Then what hope is there? What hope for the good? For those who struggle to be kind and just?\r\n\r\n//　そんな事を認めて<RUBY text='たま'>堪</RUBY>るか。\r\n\r\n//　彼らには価値が有った――大いなる価値があった！\r\n//　それを俺が無道にも奪ったのだ。\r\n  Their lives had meaning! Their lives had worth! And I ended that. I stole their future!\r\n\r\n//　だから、頼む。\r\n//　誰か……誰でもいい。\r\n\r\n//　俺を、\r\n//　この俺を――――誰か――――\r\n  Please. Someone, anyone.<K>\r\n  Don't let their good mean nothing.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15519,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0030570a00'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15655,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0030580a00'>\r\n//「……ここは……何処だ……？」\r\n\"...Where am I?\"\r\n",
+  "pt": ""
+ }
+]

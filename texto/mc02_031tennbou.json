@@ -1,0 +1,177 @@
+[
+ {
+  "offset": 220,
+  "en": "\r\n//　船体最後尾の展望室だ。\r\n//　雄大な眺望が楽しめる。……といってもこれは軍用\r\n//船、遊覧船と違って全周ガラス張りにはできないから\r\n//いくらかの制限はあった。\r\n  This is the observation deck at the aftmost end of the ship. Its windows, though not as large as they might be on a passenger ship, afford a beautiful view of the landscape below.\r\n\r\n//　目につくものといえば景色だけで、不審な物体など\r\n//は何もない。\r\n//　出入口も一つだけだ。\r\n  Unfortunately, there is nothing else to draw my attention.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 844,
+  "en": "\r\n//　俺は通路に引き返した。\r\n  I return to the corridor.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 923,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0010a03'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1053,
+  "en": "\r\n//　立ち去ろうとした時――\r\n//　\r\n//　不意に大鳥大尉が足を止めた。\r\n  As we go to leave, the captain stops.\r\n\r\n//　眉根を寄せ、床の一点を見詰めている。\r\n  Frowning, she stares at a spot on the floor.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1311,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0020a00'>\r\n//「如何なさいましたか」\r\n\"Have you found something?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1471,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0030a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1600,
+  "en": "\r\n//　答えず、香奈枝嬢は歩き出した。\r\n//　注視していた地点の手前で立ち止まり、そこにしゃ\r\n//がみ込む。\r\n  Instead of answering, she walks to the spot and kneels down.\r\n\r\n//　俺は彼女の後を追い、その向かいに回った。\r\n//　永倉侍従は心得たもので、戸口の脇に張り付いて外\r\n//を警戒している。\r\n  I move to the other side while Miss Nagakura guards the door.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2059,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0040a03'>\r\n//「景明さま、これを」\r\n\"Look at this.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0050a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2339,
+  "en": "\r\n//　彼女の爪が指し示す辺りに目を凝らす。\r\n//　\r\n//　何か――わずかな<RUBY text='くぼ'>窪</RUBY>みがあった。\r\n  I follow her pointing finger. It looks like... an indentation in the floor?\r\n\r\n//　爪の先を使い、大尉はその部分を軽く引っ掻く。\r\n  She reaches out and runs her fingernail over it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2702,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0060a00'>\r\n//「――これは」\r\n\"That's...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2834,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0070a03'>\r\n//「鍵穴……」\r\n\"A keyhole.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2973,
+  "en": "\r\n//　――だった。\r\n//　大尉が指先で剥ぎ取った薄板に隠されていたのだ。\r\n  So it appears. It was hidden beneath a small piece of metal. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3149,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0080a00'>\r\n//「しかし、何の為の」\r\n\"What does it unlock?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3301,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0090a03'>\r\n//「扉かと」\r\n\"A hatch, I imagine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3446,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0100a00'>\r\n//「扉？」\r\n\"How can you tell?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3577,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0110a03'>\r\n//「御覧下さいまし。\r\n//　床のこの辺りの……五〇センチ四方」\r\n\"Look at this part of the floor, about... fifty centimeters square.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3839,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0120a03'>\r\n//「ぴったりと合わさってはいますが。\r\n//　良く見てみると、<RUBY text='・'>筋</RUBY>がありません？」\r\n\"It's tightly fitted, but you should be able to make out a line.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4146,
+  "en": "\r\n//　…………本当だ。\r\n  ...She's right.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4206,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0130a00'>\r\n//「では、大尉殿」\r\n\"Captain...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4342,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0140a03'>\r\n//「この下には<RUBY text='・・'>何か</RUBY>があって。\r\n//　そしてそれは、こんな方法で隠さなくては\r\n//ならないもの――ということになりますね」\r\n\"There's something down here. Something they want to hide.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4704,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0150a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4830,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0160a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4965,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0170a00'>\r\n//「斬り破って――\r\n//　は、危険が大き過ぎますか」\r\n\"Should we cut through, or would that be too great a <br>risk?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5198,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0180a03'>\r\n//「そうですね。万一のことを考えますと。\r\n//　急がば回れの戒めに従って、ひとまず鍵を\r\n//探してみましょう」\r\n\"I suppose there's a chance it could set something off. Let's make that our last resort, and see if we can find the key first.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5586,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0190a00'>\r\n//「諒解です」\r\n\"Understood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5717,
+  "en": "\r\n//　……しかし、何処に？\r\n  But where will we find the key?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5799,
+  "en": "\r\n//　いや、床に隠し扉はあるが。\r\n//　まず鍵を手に入れなければ、その奥にある物を確か\r\n//めることはできない。\r\n\r\n//　鍵を探すのだ。\r\n  There is the door hidden in the deck, but without the key, we have no way of getting past it.\r\n\r\n  First, we need that key.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6122,
+  "en": "\r\n//　いや――床に隠し扉がある。\r\n//　そして、船長から拝借した鍵もある。\r\n  Wait, there is one thing: the hidden door. And now we have the captain's key.\r\n\r\n//　俺は何へともなく祈る心地で、それを小さな鍵穴に\r\n//差し込んだ。\r\n//　もし、違う鍵であったなら……おそらくこれまでだ。\r\n//別の鍵を探している時間などない。\r\n  I take the key out, and with a silent prayer, insert it into the lock. If this doesn't work, we're out of luck. There's no time to search for another key.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6706,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0200a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6835,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031te0210a04'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6955,
+  "en": "\r\n//　回す。\r\n//CHECK\r\n//◆カチャリ。\r\n\r\n//　――――回った！\r\n//\r\n//　床板を引き上げる。\r\n//　それは簡単に外れて、下層へ通じる階段を俺達の前\r\n//に<RUBY text='さら'>曝</RUBY>け出した。\r\n  It worked! The panel comes off easily, revealing a set of steps leading down.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7292,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031te0220a00'>\r\n//「大尉殿」\r\n\"Captain...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7419,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031te0230a03'>\r\n//「ええ……」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7554,
+  "en": "\r\n//　言葉少なに、意を交し合う。\r\n//　\r\n//　――この期に及んで、躊躇いはしない。\r\n  We're out of options. There's no time to hesitate.\r\n\r\n//　まず俺が階段を踏んだ。\r\n//　続いて大鳥大尉。最後に老侍従が影よろしく付く。\r\n  I go first, muffling my footsteps. Captain Otori follows, her servant as close as her shadow.\r\n\r\n//　足音を殺し、下層へ………………\r\n  Together, we descend.\r\n",
+  "pt": ""
+ }
+]

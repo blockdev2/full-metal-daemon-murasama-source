@@ -1,0 +1,967 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　……視界の中の人々にまつわる教科書的知識を引き\r\n//出したところで、何が変わるというものでもない。\r\n//　だがいくつか、頷けることはあった。ふきという娘\r\n//の態度、山中孤立の家、反面そう貧困でもない佇まい。\r\n  ...Recalling my textbook knowledge regarding Emishi has not brought with it any new revelations. But it has helped me to understand a few things, such as the girl Fuki's self-effacing attitude, the isolation of this mountain cabin, and the fact that they seem to be living well despite the remote location.\r\n\r\n//　蝦夷という種族の複雑な在り方はこの小さな家の中\r\n//にもすべて詰まっていると言えた。\r\n//　唯一、子供の快活さだけを例外として。\r\n  In a sense, this family represents every thread of the complex tapestry that is the Emishi people.\r\n\r\n  Although I do wonder why the histories never mentioned the liveliness of Emishi children.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1225,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120010b06'>\r\n//「にーやはどこから来たの？」\r\n\"Where you from, mister?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1390,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120020a00'>\r\n//「鎌倉の町から参りました」\r\n\"I came from Kamakura.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1550,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120030b06'>\r\n//「かまくらー……。\r\n//　いったことないけど、しってる。でっかい\r\n//まち？」\r\n\"Kamakura... Never been there, but I know it. Big <br>town?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1815,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120040a00'>\r\n//「はい。現在の大和における事実上の首都で\r\n//すから」\r\n\"Yes. It is the de facto capital of Yamato.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2033,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120050b06'>\r\n//「じじつじょうのしゅと？」\r\n\"De facto capital?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2189,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120060a00'>\r\n//「首都とは、国で一番の都のことです。\r\n//　事実上とは、本当は違うのだけれども大体\r\n//そのようなものである、という意味です」\r\n\"The capital is the most important city in a country. De facto means that even though there's a real capital somewhere else, everyone treats Kamakura like the capital.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2634,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120070b06'>\r\n//「かまくらは……いちばんのみやこみたいな\r\n//もの？」\r\n\"Kamakura's... the most important city?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2848,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120080a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2964,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120090b06'>\r\n//「ほんとうのしゅとは？」\r\n\"What's the real capital?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3124,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120100a00'>\r\n//「<RUBY text='やましろのくに'>山城國</RUBY>、京都です。\r\n//　現在も近畿以西においては中心的な位置を\r\n//占めていると言えるのですが……」\r\n\"Kyoto, in Yamashiro. It still plays a central role in the affairs of western Yamato...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3498,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120110a00'>\r\n//「しかし、大和西部は未だほぼ全域が遅々CHECKと\r\n//して進まぬ戦災からの復興の途上にあります。\r\n//　京都の賑わいも相応のものに過ぎません」\r\n\"But those areas have yet to recover from the war. Kyoto lacks the vitality of larger cities.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3886,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120120b06'>\r\n//「かまくらはもっとすごい？」\r\n\"So Kamakura is even <br>bigger?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4059,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120130a00'>\r\n//「人が大勢います」\r\n\"The streets are full of <br>people.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4221,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120140b06'>\r\n//「どのくらい？」\r\n\"How many?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4354,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120150a00'>\r\n//「この村の倍の、十倍の、百倍ほど」\r\n\"More than a hundred hundred villages.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4542,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120160b06'>\r\n//「きゃー！\r\n//　すごいねぇ……」\r\n\"Ooh! Wow!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4697,
+  "en": "\r\n//　はしゃいで、ぱちぱちと手を叩く下の娘。\r\n//　ふなという名前だったか。先程から、突然の闖入者\r\n//である俺にくっついて離れない。\r\n  The girl―Funa, was it?―<br>claps her hands in amazement. She has been glued to my side since I awoke, a veritable font of questions. \r\n\r\n  She is certainly no shrinking violet. Most children would regard a stranger such as myself with greater scrutiny.\r\n\r\n//　物怖じしない性格のようだ。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5204,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120170b05'>\r\n//「ふなー。\r\n//　あまりお武家様を困らせないの」\r\n\"Funa! Don't bother our guest!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5400,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120180b06'>\r\n//「んぅー」\r\n\"Boo!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5519,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120190a00'>\r\n//「いえ、お気遣いなく。\r\n//　ただ寝ているだけというのは無聊なもの、\r\n//かえって助かります」\r\n\"Please, she's no bother. I'm grateful to have something to occupy the time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5825,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120200b06'>\r\n//「こまってない！」\r\n\"No bother!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5962,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120210b05'>\r\n//「もぅ……」\r\n\"Funa...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6087,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120220b55'>\r\n//「世話を掛けるな、御堂」\r\n\"Sorry for the trouble, Mido,\"</voice> old Yagenta says from the far corner of the room, where he is sharpening some carpentry tools.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6363,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120230a00'>\r\n//「とんでもありません」\r\n\"Not at all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6507,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120240b55'>\r\n//「そやつは誰に似たやら、まるで落ち着きと\r\n//いうものがなくて困っておる。\r\n//　昼は外で遊んでおるから良いが、夜になる\r\n//とうてらの邪魔しかすることがないらしい」\r\n\"She's a handful, she is, though I've no idea where she gets it. It's fine during the day, when she can run around outside, but at night, it seems she has nothing better to do than get in our way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7045,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120250b05'>\r\n//「そうなんですよぅ。\r\n//　台所に来ればおなべに手を入れようとする\r\n//し、じっちゃまの刃物は触りたがるし、気が\r\n//つくと箪笥の中身をひっくり返してるし……」\r\n\"It's true!\" Fuki chimes in from the kitchen. \"She's always trying to stick her hands in the pots or touch Grandpa's tools, and if I take my eyes off her for one moment, she'll start rummaging through the cupboards...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7586,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120260b05'>\r\n//「申しわけないですけど、今日はお武家様の\r\n//お陰で助かっちゃってます」\r\n\"I'm sorry to say this, sir, but it's a great help having you here to look after her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7873,
+  "en": "\r\n//　大工道具かなにかと思しき刃物を磨いている老人と、\r\n//厨房に立っている上の娘が口を合わせる。\r\n//　この家の最年少者はなかなかの暴れん坊のようだ。\r\n//実際、腹の上に飛び乗って来られては疑うべくもない。\r\n  The little one is a regular wild child, if the two of them are to be believed.\r\n\r\n  And indeed, I see no reason to doubt them. She has just leapt atop my stomach.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8344,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120270b05'>\r\n//「……って言ってるそばからもー！\r\n//　怪我してる人にそんなことしちゃ駄目！」\r\n\"Do you see what I mean? Funa! Can't you see he's hurt!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8611,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120280a00'>\r\n//「お気遣いなく」\r\n\"I don't mind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8748,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120290b05'>\r\n//「遣います遣わせてくださいっ！\r\n//　ほら、おとなしくしてる！」\r\n\"But I do! Funa, stay still!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8966,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0120300b06'>\r\n//「わー」\r\n\"Whee!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9083,
+  "en": "\r\n//　厨房から飛んでくるや、妹を担ぎ上げて脇へのけ、\r\n//また戻っていく上の娘。\r\n//　手が離せない仕事の最中らしく、慌しい。\r\n  The older girl dashes into the room and grabs her sister under the arms, places her down to the side, then vanishes back into the kitchen as quickly as she came. She must have something boiling on the stove.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9481,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120310a01'>\r\n//《意外に騒々しい家ね……》\r\n《It's livelier than I expected.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9660,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120320a00'>\r\n//（珍客のせいでもあるだろう。\r\n//　あまり来訪者の多い家とは思えん）\r\n(It's probably because they have a guest. I doubt they get many visitors.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9929,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120330a01'>\r\n//《そうね。\r\n//　……少しだけ、懐かしい。この空気》\r\n《True. ...It brings back memories.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10145,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120340a00'>\r\n//（似ているのか）\r\n(Of your family?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10284,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120350a01'>\r\n//《どうかしら。\r\n//　私に妹はいなかったし……けどやっぱり、\r\n//蝦夷の家には蝦夷の家の匂いがあるのかもし\r\n//れない》\r\n《Hard to say. I never had a sister. But maybe there's some unique quality that all Emishi homes share.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10660,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120360a00'>\r\n//（……そうか。\r\n//　お前も蝦夷か。言われてみれば当然のこと\r\n//だな）\r\n(...Ah, so you were an Emishi too. I suppose that was obvious, though it never crossed my mind.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10952,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120370a01'>\r\n//《……そういえば、そんなことさえも話して\r\n//いなかったのね。\r\n//　少しは……話しておくべきだったのかしら》\r\n《Now that you mention it, I haven't told you much about myself. ...Do you think maybe I should have?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11316,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120380a00'>\r\n//（そう思うのか）\r\n(Do you?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11447,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120390a01'>\r\n//《…………いいえ。\r\n//　貴方は？　聞きたいと思う？》\r\n《...Not really. Why? Do you want to know?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11673,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120400a00'>\r\n//（いいや）\r\n(No.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11791,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120410a01'>\r\n//《……そう。\r\n//　ところで……》\r\n《I see. By the way...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11967,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120420a00'>\r\n//（何だ）\r\n(What?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12084,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120430a01'>\r\n//《あのふきっていう娘の、私に対する仕打ち\r\n//には何か底深い理由があるのかしら》\r\n《Is there some sinister purpose behind what that Fuki girl has done to me?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12382,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120440a00'>\r\n//（いや。\r\n//　単に慌てていただけだと思うが）\r\n(I doubt it. She was probably just in a hurry.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12591,
+  "en": "\r\n//　そこはかとなく憮然たる様子で妹娘に<RUBY text='・・・・'>座られて</RUBY>いる\r\n//劔冑に個人的見解を述べておく。\r\n//　玩具を与えられた格好の娘は、ご満悦のようだった。\r\n  Muramasa seems unhappy with her new role as Funa's chair. The girl, for her part, looks positively delighted with her new toy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12968,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120450b05'>\r\n//「もうすぐごはんできますからねー。\r\n//　お武家様、待っててください。今日は腕に\r\n//よりをかけましたからっ」\r\n\"It's almost ready! I hope you're hungry, sir. I think I've outdone myself today!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13303,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120460a00'>\r\n//「どうかお構いなく」\r\n\"Please don't go to any trouble on my account.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13478,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120470b55'>\r\n//「腕をふるうのは良いがな。\r\n//　怪我人に食わす物だということはちゃんと\r\n//考えておるのか？」\r\n\"It's fine to give it your all, Fuki, but I hope you've considered that you're feeding an injured man.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13822,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120480b05'>\r\n//「もちろん。\r\n//　あ、お武家様。好き嫌いはあります？」\r\n\"Of course! Oh, sir, is there anything you don't like?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14054,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120490a00'>\r\n//「油の強いものがやや苦手ですが、ほかには\r\n//別段」\r\n\"I prefer less greasy foods, but otherwise, no.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14273,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120500b05'>\r\n//「よしっ、大丈夫！\r\n//　じっちゃま、ちゃぶ台出しておいてー」\r\n\"Not a problem! Grandpa, can you set the table?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14507,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120510b55'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14640,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120520b05'>\r\n//「じっちゃま？」\r\n\"Grandpa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14772,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120530b55'>\r\n//「……飯は少し後だ。\r\n//　客が来たらしい。招かれざる類のな」\r\n\"Dinner will have to wait. We have uninvited guests.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15020,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120540a00'>\r\n//「！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15130,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120550b05'>\r\n//「え……？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15252,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120560b35'>\r\n//「夜分に失礼。\r\n//　少々お邪魔致し申す。何、用を済ませたら\r\n//すぐに退散しますでの」\r\n\"I hope you'll pardon the intrusion,\" says the woman-thing who just kicked down the door. \"Fear not. We'll be out of your hair as soon as we have what we came for.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15645,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120570b05'>\r\n//「な、なっ、なんですかっ、あなたたち……」\r\n\"Wh- Who are you!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15825,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0120580b45'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15943,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120590b05'>\r\n//「！　お、お代官様!?」\r\n\"S- Sir Prefect!?\"</voice> Fuki exclaims in disbelief when she sees the man who enters next.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16165,
+  "en": "\r\n//　戸を蹴り開ける非礼と慇懃な挨拶とを一緒にやって\r\n//のけた若い女――注釈、外見上。\r\n//　そして、その後ろからのっそりと現れる初老の男。\r\n\r\n//　来るべくして来た二人だった。\r\n\r\n//　しかし――予想より遥かに早い！　向こうとて無傷\r\n//ではなし、よもやこの夜の内に来ることはなかろうと\r\n//見込んでいた。\r\n//　乱破者の実力を甘く見たか……。\r\n  I expected their coming, but not so soon! They should still be recovering from their injuries. It would seem that I underestimated the Outlaw of Soshu.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16813,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120600a00'>\r\n//（村正）\r\n(Muramasa.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16934,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120610a01'>\r\n//《戦闘は不可能！\r\n//　<RUBY text='あなた'>仕手</RUBY>の肉体、<RUBY text='わたし'>騎体</RUBY>の甲鉄、共に騎航に耐え\r\n//られる状態に無し！》\r\n《We can't fight! Neither of us is in any condition to fly!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17283,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120620a00'>\r\n//（諒解した。\r\n//　太刀だけ寄越せ）\r\n(Understood. Just give me a sword.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17465,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120630a01'>\r\n//《……本気!?》\r\n《Are you serious!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17612,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120640a00'>\r\n//（限られた手段のうちから最善手を選択して\r\n//いるだけの事。格別、冗談じみてはおるまい）\r\n(It's the best choice available. Did it sound like I was <br>joking?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17906,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0120650a01'>\r\n//《けれど……！》\r\n《But...!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18047,
+  "en": "\r\n//　二人の背後と、物音を確認する。\r\n//　……<RUBY text='・・・・・'>もうひとり</RUBY>、どこかに潜んでいるということは\r\n//無さそうだ。巧妙に隠れていないとは限らないが。\r\n  I focus my senses, but catch no sign of my㉒<I>third</I>㉒enemy. Of course, he might be concealed too well for me to detect.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18424,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120660b35'>\r\n//「ほっほ。おったおった、ほれおった。\r\n//　さぁて……」\r\n\"Ho ho! There you are! Just as the prefect said. Now then...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18671,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120670a00'>\r\n//「待て。\r\n//　話は外で聞く。この家の人々を巻き込むに\r\n//は及ばん」\r\n\"Wait. Let's talk outside. There's no need to involve these people.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18932,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120680b35'>\r\n//「そうしてくれれば、こちらも助かるがの」\r\n\"That would certainly save us some trouble.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19143,
+  "en": "\r\n//　温かだった寝床から身を起こす。\r\n//　苦痛が走る――包帯に血が滲む。少し傷口が開いた\r\n//か。\r\n  I lift my body from the warm futon. Pain instantly shoots up my arm, and blood begins to seep through the bandages.\r\n\r\n//　しかし、動けなくはない。\r\n  However, I can still move.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19485,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120690b05'>\r\n//「お武家様！　いけません！」\r\n\"You mustn't!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19639,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120700a00'>\r\n//「大変お世話になりました。\r\n//　少々つまらぬ用事が出来たようなのでこれ\r\n//にて失礼を。後日、改めて御礼に参上させて\r\n//頂きます」\r\n\"Your hospitality has been extremely generous, but I'm afraid I must attend to a less pleasant matter. Please excuse me. I promise to repay your kindness at a later date.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20094,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120710b05'>\r\n//「そ、そんな」\r\n\"B- But...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20224,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120720b35'>\r\n//「はっは！　後日、後日か！」\r\n\"Ha ha! A later date, he says!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20404,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120730a00'>\r\n//「今のは別に笑う所ではないが」\r\n\"That wasn't meant to be amusing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20581,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120740b35'>\r\n//「笑う所だよ、湊斗景明。\r\n//　まあ良いわえ……後日の御礼とやらは儂が\r\n//代わりに済ませてやろうぞ」\r\n\"Oh, but it was, Minato Kageaki. Well, don't worry. I'll be sure to thank them in your place.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20925,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0120750b05'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21043,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120760a00'>\r\n//「そうか。なら手土産は友島屋の鳩サブレー、\r\n//一二枚セットで頼む。あと山倉醸造の『公暁』\r\n//を一瓶。\r\n//　おそらく造作を掛けることはなかろうが」\r\n\"I see. In that case, please bring them a box of one dozen dove-shaped sable cookies from Tomoshima. Also, a bottle of Kugyo sake from the Yamakura brewery. I do not expect you will encounter any difficulties fulfilling this request.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21585,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120770b35'>\r\n//「心得た。\r\n//　必ず、そのようにしてくれよう」\r\n\"Your wish is my command.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21785,
+  "en": "\r\n//　風魔小太郎の歯を見せた笑いに応えて、足腰を立た\r\n//せる。\r\n//　……わずかに揺らいだ。血が足りないのか、<RUBY text='ふくらはぎ'>脹脛</RUBY>が\r\n//萎えている。\r\n  As Fuma Kotaro chuckles mirthfully, I haul myself to my feet. My legs wobble beneath me, weakened by the lack of blood.\r\n\r\n//　だが動く。動けば、戦える。\r\n//　戦うためには、他に何も必須ではない。\r\n  But I can move. And if I can move, then I have all that I need to fight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22326,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120780a00'>\r\n//「……待たせた」\r\n\"...Sorry to keep you <br>waiting.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22483,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120790b35'>\r\n//「ほっ。なに、構わぬよ。爺は気が長いでな。\r\n//　では参ろうか……」\r\n\"Ho! No need to apologize, youngling. At my age, all you have left is patience. Shall <br>we?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22781,
+  "en": "\r\n//　促されるまま、土間に降りる。\r\n\r\n//　否、降りようとした――が。\r\n//　ついと伸びた腕に、行く手を遮られた。\r\n  I step down to the earthen floor―<K>or try to, but a hand blocks my path.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23028,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120800b55'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23155,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120810a00'>\r\n//「御老」\r\n\"Elder...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23275,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120820b55'>\r\n//「下がられい」\r\n\"Stand down.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23416,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120830a00'>\r\n//「しかし、これは自分の」\r\n\"But these are my―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23571,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120840b55'>\r\n//「ここはうての家。\r\n//　誰を客として迎え、誰を迎えぬかはうてが\r\n//決めること」\r\n\"And this is my house. I decide who to welcome and who to turn away.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23860,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120850a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23978,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120860b55'>\r\n//「客人を狼藉者に引き渡すなどという作法を\r\n//蝦夷は持たん。かような真似こそ最大の恥辱。\r\n//　御堂、この爺に恥知らずの汚名を着せたく\r\n//思うのでなくば、まずは任せてもらおう」\r\n\"The Emishi do not hand our guests over to thieves and brigands. No act is more shameful. So unless you intend to bring an old man dishonor, I ask that you leave this to me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24511,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0120870a00'>\r\n//「…………御意に」\r\n\"...Very well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24651,
+  "en": "\r\n//　恥辱と告げられては是非もなし。\r\n//　やむなく、ひとまず引き下がる。\r\n  Now that he has made it a matter of honor and shame, I have no choice but to respect his wishes. \r\n\r\n//　しかし事あらば即座に割り込まねばならない。\r\n//　村正は手元に引き寄せておいた。瞳を見開いて押し\r\n//黙っている小さな娘を慎重に部屋の奥へ移した後で。\r\n  I step back, though remain ready to act at a moment's notice. At my silent direction, Muramasa deposits the little girl gently in a corner, then takes station at my side.\r\n\r\n//　異様な雰囲気を感じ取ってだろう、ふなという娘の\r\n//目元は潤んでいた。\r\n//　……舌の裏側に苦渋が湧く。\r\n  Funa seems to have grasped the gravity of the situation. She is silent, her eyes wet with tears. A bitter taste grows beneath my tongue.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25559,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120880b35'>\r\n//「ほぅ、ほぅ。これは勇ましき御老人かな。\r\n//　しかし、歳食えば骨朽ちると申す。無理は\r\n//慎まれたが宜しかろう」\r\n\"Oh ho... Such courage! Admirable indeed, if foolish. A man your age should take better care of himself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25932,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120890b55'>\r\n//「……年寄っておるのは事実ゆえ、言われて\r\n//怒る筋はないがな。\r\n//　それでも貴様の如き<RUBY text='けしょう'>化生</RUBY>に毒舌を叩かれる\r\n//のは心外というもの。その口こそ慎まれたい」\r\n\"While I may indeed be old and withered, I still have some pride left. Be silent, fiend! I'll brook no mockery from the likes of you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26428,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120900b35'>\r\n//「はっは！　これはしたり、これはしたり。\r\n//　人よりいささか<RUBY text='・・'>遊び</RUBY>を知っておる程度の儂、\r\n//化生呼ばわりはちと心外なる申されよう」\r\n\"Ha ha! Well now! I'm merely a man who enjoys a bit of㉓<I>recreation</I>㉓now and then. Fiend is rather harsh, don't you think?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26881,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120910b35'>\r\n//「だが家主殿。\r\n//　儂を化生と見られるならば、折角のこと、\r\n//そのように振舞わぬではないが……？」\r\n\"But if I truly seem a fiend to you,\" the creature continues, a predatory smile on its lips, \"then perhaps I should try harder to fit the role...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27277,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0120920b45'>\r\n//「無用だ。\r\n//　控えておれ」\r\n\"No. Stand aside.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27433,
+  "en": "\r\n//　唇を舐めた、外法者の背後から。\r\n//　それまでは黙りこくっていた男が踏み出し、弥源太\r\n//老人との間に立ち塞がった。\r\n  For the first time, the prefect speaks, pushing past his grinning henchman to stand before Yagenta.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27717,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0120930b35'>\r\n//「代官殿」\r\n\"Prefect?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27849,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0120940b45'>\r\n//「こやつの相手は俺がする。\r\n//　……不満はなかろう？　弥源太」\r\n\"I will handle this one. ...Yagenta. You've no objections, I trust?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28106,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120950b55'>\r\n//「不満か。今となっては、なれとうてが<RUBY text='うつしよ'>現世</RUBY>\r\n//にいつまでもしがみついておる事こそ不満で\r\n//ならぬよ。\r\n//　長坂右京……」\r\n\"Objections? Aye, Ukyo, I've objections. The fact that you and I still cling shamelessly to this mortal fold displeases me to no end.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28551,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0120960b45'>\r\n//「は。抜かすわ。\r\n//　けりをつける機会ならいくらでもあったに、\r\n//逃げ続けてきたのは何処の誰ぞ？」\r\n\"Hah! Nonsense. We could have settled this score a hundred times past, if one of us hadn't kept running <br>away!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28906,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120970b55'>\r\n//「言われるまでもない。\r\n//　だから不満と言うておる。なぜもっと早く、\r\n//決断ができなんだか……」\r\n\"I don't need you to tell me that. Every day, I ask myself why I didn't stop you sooner.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29242,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0120980b45'>\r\n//「その後悔さえ、三十年遅いわ！\r\n//　あの時に貴様が逃げなければ、我らの一方\r\n//は人生に実りを得、もう一方とて少なくとも\r\n//老廃を晒さずには済んだであろうよ」\r\n\"It's thirty years too late for regret! If you hadn't fled back then, one of us would have known fulfillment, and the other would have been spared a long and wretched life.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29741,
+  "en": "\r\n//　二人の老いた男の視線が正面から相撃つ。\r\n//　沈黙の帳が下りた。\r\n  The two old men match each other glare for glare. Silence falls over the gathering.\r\n\r\n//　誰も、何も口にしない。身動きもしない。\r\n//　あの二人が不動なら、他には誰も動けない。\r\n  No one speaks, or breathes, or moves a muscle, as though the thirty years spoken of by the prefect have descended to suffocate us with their immensity.\r\n\r\n//　代官の口にした三十年という言葉が、固形と化して\r\n//空間の隅々まで詰まったかのようだった。\r\n//　――立ち入れない。手足が縛られている。息苦しさ\r\n//さえ覚える。\r\n  It is not my place to interfere. It is no man's place to.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30522,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0120990b55'>\r\n//「……うてはこの一命に実りがなかったとは\r\n//思うておらぬ」\r\n\"...I do not lack for fulfillment, Ukyo,\"</voice> Yagenta says at last.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30785,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121000b45'>\r\n//「俺は思っておるよ。\r\n//　何も得られなんだわ……何もな」\r\n\"But I do,\" the prefect responds. \"I have gained nothing, Yagenta. Nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31041,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121010b55'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31168,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121020b45'>\r\n//「貴様とて本心ではそうであろう。\r\n//　それともその孫娘どもを得て満足だとでも\r\n//言い張るつもりか？」\r\n\"I know that in your heart, you feel the same. Or do you mean to say that you're <I>satisfied</I>㉔with these granddaughters of yours?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31548,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121030b55'>\r\n//「そう言ってはならぬ理由があるか？」\r\n\"Is there some reason I shouldn't be?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31747,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121040b45'>\r\n//「貴様が求めたのは<RUBY text='・・'>それ</RUBY>ではなかろう」\r\n\"<I>That's</I>㉓not what you <br>wanted.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31968,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121050b55'>\r\n//「求めたものを得られるとは限らぬし、そう\r\n//でないものの価値がそれより劣るとも言えぬ。\r\n//　うての命はこやつらを世に送り出すために\r\n//あったと、そう言うても一向に構わぬ」\r\n\"What we want isn't always what we get, and there is no reason why the latter should be less valuable. I can say with no regrets that the purpose of my life was to bring them into this world.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32516,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121060b45'>\r\n//「……そうか。貴様がそう言うならそれでも\r\n//良かろうさ。\r\n//　ならば貴様は何故、今になって俺に挑む？」\r\n\"...I see. So be it, then. But if that is truly how you feel, then why do you face me now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32854,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121070b55'>\r\n//「冥途へ悔いを引き摺らぬ為よ。\r\n//　なれの馬鹿はうてか<RUBY text='いちひめ'>一媛</RUBY>が止めねばならな\r\n//かった。一媛亡き今はうてしかおらぬ」\r\n\"Because there is one thing that I must do before I die. Only Ichihime and I could have ended your madness, and with her gone, that task falls to me.\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121080b55'>\r\n//「己の責務を残して逝けば黄泉路に迷うわ。\r\n//　右京、なれの墓碑銘を刻むことが、うての\r\n//最後の仕事となろうよ」\r\n\"I cannot rest until I have done my final duty, and that is to carve your headstone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33656,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121090b45'>\r\n//「では俺の仕事は貴様の墓碑を刻むことか？\r\n//　ふん、厄介な」\r\n\"And I suppose it's my responsibility to carve yours? Hmph. I can hardly be bothered.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33928,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121100b45'>\r\n//「犬に食わせて済ます。構うまい？」\r\n\"I'll feed you to the dogs instead. How does that suit you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34137,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121110b55'>\r\n//「良かろうよ！」\r\n\"Well enough!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34282,
+  "en": "\r\n//　老人は、壁の素朴な神棚の上から何かをもぎ取った。\r\n//　代官は背負っていた鎧櫃を土間へ落とす。\r\n  Old Yagenta reaches into the room's shrine alcove and takes something from the altar.\r\n  The prefect unshoulders his tsurugi case and sets it on the floor.\r\n\r\n//　弥源太老人が手にしたのは短い棒状の物。\r\n//　あれは――何かの牙か？\r\n  The object in Yagenta's hands is short and tapered. Some kind of tooth, perhaps?\r\n\r\n//　鎧櫃の蓋を乱暴に蹴り開け、代官が両拳を胸の前で\r\n//構える。\r\n//　――海軍礼則に<RUBY text='のっと'>法</RUBY>る<RUBY text='ソウコウノカマエ'>装甲ノ構</RUBY>！\r\n  The prefect kicks the lid off his case, then crosses his fists before his chest: the traditional armoring stance of the navy!\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35133,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121120b45'>\r\n//「弥源太……」\r\n\"Yagenta...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35264,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121130b55'>\r\n//「右京……！」\r\n\"Ukyo!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35399,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121140b45'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35523,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121150b55'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35656,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121160a03'>\r\n//「良かった。\r\n//　もしスタートの合図と勘違いされたらどう\r\n//しようかと思ってました」\r\n\"Thank goodness. For a moment, I was worried you'd take that as a starting signal.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0121170a04'>\r\n//「大丈夫ですよ、お嬢さま。\r\n//『位置について用意』とは誰も言っておりま\r\n//せんでしたから」\r\n\"Not to worry, Mistress. No one called 'on your mark, get set.'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36256,
+  "en": "\r\n//　……やにわの銃声。\r\n//　続けて聞こえてきたのは、そんな話し声だった。\r\n\r\n//　特に警戒した様子もなく、人影が二つ、開き放しの\r\n//戸口から入り込んでくる。\r\n//　いずれも女性。一方は若く長身、もう一方は老いて\r\n//小柄。\r\n\r\n//　長髪をなびかせる令嬢風の女性にぴたりと付き従う\r\n//白髪の侍従は、室内を見回すや、ふと眉をひそめた。\r\n  Two women walk in through the open door, chatting as if on an afternoon stroll.\r\n\r\n  Upon entering the room, the elder of the two frowns.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36875,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0121180a04'>\r\n//「……なんですか、この年寄り臭い空間は」\r\n\"Good heavens, it smells like old people in here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37083,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121190a03'>\r\n//「ばあや、あなたが言わないの」\r\n\"You're not making it any better, Sayo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37275,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121200b45'>\r\n//「貴様は……」\r\n\"You...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37402,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0121210a00'>\r\n//「巡察官殿」\r\n\"Lieutenant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37531,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121220a03'>\r\n//「良かった、湊斗さま。こちらにいらしたの\r\n//ですね。心配しておりましたのよ？\r\n//　捜査に行くと出ていかれたきり、日が暮れ\r\n//ても戻られないし、連絡一つないのですもの」\r\n\"Oh, what a relief. So this is where you were. I was awfully worried when you didn't return to the village. You didn't even call.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38012,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0121230a00'>\r\n//「これは……とんだ不手際を。\r\n//　いささか難儀しておりまして、ご連絡する\r\n//<RUBY text='いとま'>暇</RUBY>がありませんでした。いらぬ心労をお掛け\r\n//した事、深くお詫び致します」\r\n\"Of course, how inconsiderate of me. I would have sent word, but circumstances prevented it. You have my deepest apologies for the needless stress I've caused you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38520,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0121240a04'>\r\n//「や、や、そのお怪我は……\r\n//　これはいらぬどころか妥当な心配であった\r\n//ご様子！　お加減はいかがなものでございま\r\n//しょう？」\r\n\"Needless? Judging by the look of your wounds, our worries were needful indeed! Whatever happened?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38903,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0121250a00'>\r\n//「お恥ずかしい。不覚傷です。\r\n//　浅からぬ負傷ではありましたが、こちらの\r\n//方々のお陰をもって大事なく済んでおります。\r\n//　どうかお気遣いなさいませぬよう」\r\n\"I was taken by surprise, it shames me to say. My wounds were indeed severe, but I survived thanks to these Emishi folk. Please do not worry yourselves <br>further.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39394,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0121260a04'>\r\n//「さようでございますか。\r\n//　よろしゅうございましたね、お嬢さま」\r\n\"That is most fortunate. No, Mistress?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39628,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121270a03'>\r\n//「ええ。本当に、ご無事で何より。\r\n//　湊斗さまは大事な恩人ですもの。この方を\r\n//お助け下さったのなら、わたくしからも御礼\r\n//を申し上げないといけません」\r\n\"Yes indeed. I'm so glad you're all right. You are my savior, after all. If these Emishi helped you, then I too owe them my thanks.\"\r\n\r\n<FW img=''>\r\n  She turns to Fuki with a graceful bow.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40146,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121280a03'>\r\n//「ありがとうございます」\r\n\"I am in your debt.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40309,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0121290b05'>\r\n//「え？　はい……い、いえ、そんなっ」\r\n\"Huh? Oh... Oh! N- Not at all!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40492,
+  "en": "\r\n//　これぞ礼法の見本と言わんばかりに丁寧な仕草で腰\r\n//を折る大鳥中尉。\r\n//　一瞬ぽかんとした後で、一礼を受けたふきは慌てて\r\n//何度も頭を下げた。\r\n  After a moment of confusion, Fuki turns bright red and starts bowing repeatedly, clearly flustered by the lieutenant's display of courtesy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40856,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0121300b05'>\r\n//「はぅ……」\r\n\"Ooh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40980,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121310a03'>\r\n//「くす。\r\n//　可愛らしい方」\r\n\"My, how adorable.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41146,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0121320b05'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41264,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121330a03'>\r\n//「それはそれとして、湊斗さま。\r\n//　いかがされます？　村へお戻りになられる\r\n//のなら一緒に参りましょう。すぐそこまで車\r\n//で来ていますの」\r\n\"Now then, Officer. If you wish to return to the village, we'll be happy to take you. There's a car parked just down the road.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41699,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0121340a00'>\r\n//「……は。\r\n//　いや、しかし」\r\n\"Thank you. However...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41863,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0121350a04'>\r\n//「お嬢さま」\r\n\"Mistress.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41990,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121360a03'>\r\n//「あら。わたくしったら、迂闊。\r\n//　そうですね……怪我をされている方に車で\r\n//山道はきついかもしれません」\r\n\"Oh, how thoughtless of me. I suppose a drive through the mountains might be troublesome for a man in your condition.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42370,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121370a03'>\r\n//「ここは一晩、この家の方々にお願いして」\r\n\"If the master of the house doesn't mind, it would probably be best for you to spend the night―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42635,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121380b45'>\r\n//「おい」\r\n\"Wait.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42752,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121390a03'>\r\n//「はい？」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42880,
+  "en": "\r\n//　ＧＨＱの軍服がくるりと向きを変える。\r\n//　そちらには依然、対峙したままの老人が二人。\r\n  She turns to face the two old men, who are still poised a hair's breadth from violence.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43112,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121400a03'>\r\n//「なにか？」\r\n\"Is something the matter?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43263,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121410b45'>\r\n//「貴様、この場に割り込んでおいて、並べる\r\n//御託がそんなものしかないのか」\r\n\"That's all you have to offer? Greetings and platitudes?\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43528,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121420a03'>\r\n//「……ええっと……」\r\n\"Oh... um...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43678,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121430b45'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43802,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121440a03'>\r\n//「……………………どなた？」\r\n\"...<WaitVoice=3000>Have we met?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43984,
+  "en": "\r\n//◆悲しそう\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121450a03'>\r\n//「…………。\r\n//　ギャグが通じません、ばあや」\r\n\"Aw... No one's laughing, Sayo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44209,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0121460a04'>\r\n//「遺憾ながら、私めから見ましてもいまのは\r\n//弁護の余地なく……いささかベタベタ過ぎで\r\n//はありますまいかと」\r\n\"If you'll pardon me for saying so, that gag is rather worn out. You have no one to blame but yourself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44569,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121470a03'>\r\n//「頑張りましたのに」\r\n\"And I gave it my best shot, too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44740,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0121480a04'>\r\n//「努力は成果を挙げてこそ努力と認められる\r\n//ものでございますよ、お嬢さま」\r\n\"Effort only has meaning when it produces results, Mistress.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45008,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121490b45'>\r\n//「……茶番はその辺で良いか？」\r\n\"...Are you quite finished?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45179,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121500a03'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45304,
+  "en": "\r\n//　一息――その四半分にも満たぬ時間。\r\n//　ライフルの銃口が代官を指していた。\r\n  In the blink of an eye―no, faster―the prefect is staring down the still-smoking barrel of her rifle.\r\n\r\n//　最初から彼女が手に提げていた――\r\n//　未だ硝煙をまとう銃口が。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45638,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121510b45'>\r\n//「……ッ」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45754,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121520a03'>\r\n//「この場であなたを殺すのは容易いこと。\r\n//　けれど、そちらの腰巾着には多少の余命を\r\n//許さねばなりませんね。その間に、お子さま\r\n//方が危害を受けないとも限りません」\r\n\"It would be simplest to kill you here, but that would give your minion there a moment or two to live. I'd rather not risk any harm coming to these children in that time.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121530a03'>\r\n//「あなたも同じ考えでいらっしゃるかしら？\r\n//　わたくしを殺すのは容易い……けれど、殺\r\n//すわけにはいかないお立場。違いまして？\r\n//　長坂大尉」\r\n\"Your thoughts are similar, I imagine. It would be easy to kill me, but there are factors that prevent it. Am I right, Captain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46706,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121540b45'>\r\n//「……何が言いたい」\r\n\"...So what if you are?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46858,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121550a03'>\r\n//「あら、こんな駆け引きも通じませんの？\r\n//　困ったお方。脳細胞はあまり甘やかさない\r\n//方がよろしくってよ」\r\n\"Oh, am I㉓<I>still</I>㉔being too opaque? How troublesome. Brain cells rot if you don't use them, you know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47231,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121560b45'>\r\n//「ッ！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47344,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0121570b35'>\r\n//「代官殿！　この場は……」\r\n\"Prefect! You mustn't...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47515,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121580a03'>\r\n//「<RUBY text='・・・'>おまけ</RUBY>の方が察しは宜しいのね。頭のいい\r\n//腰巾着とは重宝なこと。\r\n//　類は友を呼ぶというけれど、割れ鍋に綴じ\r\n//蓋とも言いますもの。良いのではなくて？」\r\n\"Looks like your flunky is a bit quicker on the uptake. You're lucky to have such a bright bootlicker, Captain. They say birds of a feather flock together, but then, they also say that sluts are good enough to make a sloven's porridge.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48113,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0121590b35'>\r\n//「……巡察官殿。\r\n//　話は呑み込み申した。この上は無用の挑発\r\n//を避けて下さらんかな」\r\n\"...Miss inspector, your position is well understood. Would you mind refraining from further provocations?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48452,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121600a03'>\r\n//「あら？」\r\n\"Pardon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48583,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0121610b35'>\r\n//「主がどのように口舌を垂れ、儂どもの耳を\r\n//楽しませてくれようとも……\r\n//　この翁、<RUBY text='・・・・・・・・・・・・・・・'>いま幾人の敵から狙われているか</RUBY>、\r\n//うっかり忘れるほど呆けてはおりませぬでな」\r\n\"No matter how you regale us with your wonderfully amusing insults, I am not yet so senile as to forget the other enemies in the room.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49128,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0121620a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49246,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121630b55'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49373,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0121640a01'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49501,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0121650b35'>\r\n//「欲はかかれぬが宜しかろう。\r\n//　そちらのお申し出の通りにされるが最上と\r\n//存ずる」\r\n\"No need to get greedy, is there? I concede that we should accept your terms.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49808,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121660a03'>\r\n//「……異存はありません。\r\n//　そういうことで、宜しいですかしら。長坂\r\n//大尉？　互いにここで争うのは望ましくない。\r\n//お預けにしておくのが賢明と思いますけれど」\r\n\"...Agreed. How about it, Captain? Fighting now will accomplish nothing. Best for both sides to withdraw tonight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50263,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121670b45'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50381,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0121680b35'>\r\n//「代官殿」\r\n\"Prefect.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50513,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121690b45'>\r\n//「……わかっておる。\r\n//　だが小娘。貴様は一度ならず二度までも俺\r\n//を妨げた。誓ってこのままでは済ませぬぞ」\r\n\"...Very well. But hear this, girl. You've interfered in my affairs twice now. I will not let this go unanswered.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50883,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0121700a03'>\r\n//「済ませておいて下さいまし。\r\n//　あなたのような殿方に執心されても嬉しく\r\n//ありませんもの。マイストライクゾーンから\r\n//インコースに大きく外れてデッドボールです」\r\n\"Oh, please reconsider. I can do without the attention of a gentleman like yourself. You are―how should I put this―<br>so far outside my strike zone as to be a dead ball.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51402,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0121710a04'>\r\n//「残念でございましたな、大尉殿。\r\n//　これにめげず、男を磨いて出直して来られ\r\n//ませ。まずは細かいところから、ネイルケア\r\n//などお勧めでございますよ」\r\n\"Ah, the sorrows of unrequited love. But don't be discouraged, Captain. Take this as an opportunity to improve your image. I recommend starting small. A manicure, perhaps.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51891,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121720b45'>\r\n//「…………。\r\n//　弥源太」\r\n\"...Yagenta.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52039,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121730b55'>\r\n//「なんだ」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52168,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121740b45'>\r\n//「良かったな。\r\n//　今度もうまく逃げられたではないか」\r\n\"Congratulations. You've escaped yet again.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52390,
+  "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0121750b55'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52517,
+  "en": "\r\n//【長坂】\r\n<voice name='長坂' class='長坂' src='voice/ma02/0121760b45'>\r\n//「……そのまま腐るがいい。\r\n//　さらばだ」\r\n\"...Let the worms have you, for all I care.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52720,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/0121770b35'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52847,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0121780a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ }
+]

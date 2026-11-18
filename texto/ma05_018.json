@@ -1,0 +1,832 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　ただならぬ物音に、俺は門の方角へ目を向け……\r\n//　まろび出てきた人影に、我が眼を疑った。\r\n  I turn to the entrance, drawn by the noise―and gasp when I see who comes tumbling through the gate.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 465,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180010a00'>\r\n//「首領殿!?」\r\n\"Captain!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 591,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180020b31'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 712,
+  "en": "\r\n//　その人が我が家を訪れたという事が、さまでに不可\r\n//思議だったのではない。\r\n//　非現実性は、彼女の姿にあった。\r\n  It is not her arrival that surprises me so―we are, after all, allies now―but the sheer㉓<I>horror</I>㉑of her appearance.\r\n\r\n//　無数の斬傷。\r\n//　全身に――まさに<RUBY text='なます'>膾</RUBY>切りとしか言いようがない。\r\n  From head to toe, her body is covered with lacerations, as though someone ran her through a paper shredder.\r\n\r\n//　肌という肌、肉という肉を切り刻まれている。\r\n//　こんな凄惨な有様は、戦場でも滅多に顕れなかろう。\r\n  No inch of flesh is undamaged. Such grisly wounds would be shocking even on the battlefield.\r\n\r\n//　……むしろ、戦いを冒涜するような。\r\n//　大勢で一人を嬲り物にする如き所業でもなければ、\r\n//このように無残な姿には――\r\n  And indeed, I have little doubt that to call what befell her㉓<I>battle</I>㉓would be an insult to warriors everywhere. She was clearly set upon by multiple attackers, who treated her as though she were nothing more than―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1914,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180030a00'>\r\n//「首領殿！\r\n//　……お気を確かに！」\r\n\"Captain! Say something!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2089,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180040b31'>\r\n//「……ぁ……」\r\n\"...ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2221,
+  "en": "\r\n//　ともかくも駆け寄って、ふらついた足取りの首領を\r\n//抱き止める。\r\n//　ぼやけた眼差しが、俺を射る……だが焦点は合って\r\n//いない。\r\n  I race to the captain's side and catch her as she falls. She turns her head to look at me, but her eyes are glazed, unfocused.\r\n\r\n//　瀕死であった。\r\n//　かつて南方の戦場で、数多の死を見届けた経験が、\r\n//要りもしない予見をする――<RUBY text='・・・・・'>もう駄目だ</RUBY>、と。\r\n  One look into those murky eyes is enough. I watched many brave soldiers die in the jungles of Southeast Asia, and so I know―<I>it's too late.</I>㉑ She is holding on by a single thread, a thread which soon will snap.\r\n\r\n//　この眼をした人間は、もう助からない。\r\n\r\n//　……何故だ。\r\n//　何があった。どうしてこんな事になった!?\r\n  What happened!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3155,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180050b46'>\r\n//「景明！\r\n//　とにかくその人を部屋まで上げろっ！」\r\n\"Bring her inside, quick!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3343,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180060a00'>\r\n//「は……\r\n//　はッ！」\r\n\"R- Right!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3483,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180070b31'>\r\n//「……まってっ……」\r\n\"Wait...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3624,
+  "en": "\r\n//　養母の一声で我に返り、満身創痍の小さな体を抱え\r\n//上げようとしたところで、その腕を掴まれる。\r\n//　首領の視線が今は俺を捉えていた――瞳の色はその\r\n//ままに。\r\n  I start to lift the captain's battered body, but her hand on my arm stops me. She peers up at me, pupils now steady even through the thickening mist of death.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4033,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180080a00'>\r\n//「……首領殿。\r\n//　ご無理はなさらず。今すぐ、手当てを――」\r\n\"Everything will be fine. We're going to treat your―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4274,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180090b31'>\r\n//「いい……から。\r\n//　そんな、こと……より……」\r\n\"No... forget about me... You have to... hurry...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4495,
+  "en": "\r\n//　けほっ、と彼女が咳き込む。\r\n//　俺の胸元に、血華が散った。\r\n  She erupts into a fit of coughing. Bright red blood spatters across my chest.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4678,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180100a00'>\r\n//「……！」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4797,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180110b31'>\r\n//「町の人を……すぐに……\r\n//　……急いで……兵たちが……」\r\n\"The town... hurry... my men...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5015,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180120a00'>\r\n//「首領殿……？\r\n//　いや、とにかく今は安静に！　無理をして\r\n//口を利かれては、傷に」\r\n\"Captain...? Never mind. You have to rest! I'll listen to whatever you have to say after we've seen to your wounds!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5351,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180130b31'>\r\n//「攻めて……くる……」\r\n\"My men are... coming...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5510,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180140a00'>\r\n//「――!?」\r\n\"...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5629,
+  "en": "\r\n//　断片的だった首領の言葉は、その一語で結合した。\r\n//　\r\n//　……山賊団が攻めて来る!?\r\n  I finally understand what she's trying to say. The bandits are coming to raid the town!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5856,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180150b46'>\r\n//「……！」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5966,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180160a14'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6081,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180170b31'>\r\n//「……ごめんなさい……\r\n//　部下を……抑えきれませんでした……」\r\n\"...I'm sorry. I couldn't... stop them...\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180180b31'>\r\n//「……約束したのに……」\r\n\"...even though... I said I would...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6484,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180190a00'>\r\n//「首領殿……」\r\n\"Captain...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6615,
+  "en": "\r\n//　こぼれた涙は、苦痛のそれではなかった。\r\n//　身体の傷よりも遥かに深い痛哭を伝えていた。\r\n  Tears fall from her eyes, but not tears of pain. Her suffering stems from somewhere far deeper than the flesh.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6873,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180200a00'>\r\n//「首領殿」\r\n\"Captain...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6998,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180210b31'>\r\n//「ごめんなさい……\r\n//　約束……守れなかった……」\r\n\"I couldn't... keep my promise...\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180220b31'>\r\n//「あなたとの、約束を……\r\n//　とうとう……一度も……」\r\n\"I couldn't... give you anything. Not even... once...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7432,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180230a00'>\r\n//「そのようなことは決して！」\r\n\"That's not true!\"</voice> I cry, desperate to keep her㉓<I>here,</I> on our side. She mustn't be allowed to go. Not like this.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7700,
+  "en": "\r\n//　俺は叫んだ。\r\n//　何を置いても――今は、彼女をこのまま<RUBY text='い'>逝</RUBY>かせては\r\n//ならないと思った。\r\n\r\n//　あるいは、夢想を抱いたのかもしれない。\r\n//　彼女が悲痛の中で死のうとしているなら、その悲痛\r\n//を取り除いてやれば死なずに済む筈だと。\r\n  Perhaps it is a madness that drives me, a vain hope that if I can ease her anguish, her body will not succumb to death.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8192,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180240a00'>\r\n//「貴方は約束をお守り下さいました。\r\n//　町に平穏を与えて下された」\r\n\"You did keep your promise! Peace returned after you <br>left!\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180250a00'>\r\n//「お陰で、妹に医者を呼ぶ事も叶いました。\r\n//　今はもう、快復しております……！」\r\n\"Because of that, we were able to call a doctor for my sister, and look! She's completely healed!\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180260a00'>\r\n//「全ては貴方のご尽力あればこそです！」\r\n\"It's all thanks to you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8928,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180270b31'>\r\n//「……ぁ……」\r\n\"Re...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9057,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180280b31'>\r\n//「ほんとうに……？」\r\n\"Really...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9200,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180290a00'>\r\n//「はい！\r\n//　この湊斗景明――心魂に懸けて貴方の存在\r\n//に感謝致します！」\r\n\"Yes! I'm more grateful to you than words could ever express!\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180300a00'>\r\n//「感謝しております……！」\r\n\"You're our savior!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9616,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180310b31'>\r\n//「……あ……ぁぁ。\r\n//　……よかった……」\r\n\"...ah... thank... goodness...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9809,
+  "en": "\r\n//　首領が微笑む。\r\n//　表情から悲痛が和らぐ。\r\n  She smiles. I can see the agony melt away.\r\n\r\n//　だが――遠い。\r\n//　遠くなる――――\r\n  And yet she is still slipping, little by little, with each passing moment.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10072,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180320a00'>\r\n//「首領殿！」\r\n\"Captain!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10198,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180330b31'>\r\n//「それなら……いいの……\r\n//　それなら……」\r\n\"That's all... I need... That's all...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10402,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180340a00'>\r\n//「良くはありません……！\r\n//　自分は、貴方に何も報いていない！」\r\n\"Don't be ridiculous! I still haven't held up my end!\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180350a00'>\r\n//「どうか、お気を強く！\r\n//　自分を忘恩の徒にしないで頂きたい！」\r\n\"Please hang on! If you die now, how will I ever repay you!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10893,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180360b31'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11014,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180370b31'>\r\n//「じゃあ……最後に……\r\n//　一つだけ……」\r\n\"Then... grant me one request... before the end...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11227,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180380a00'>\r\n//「最後などと言わず！　一つと言わず！\r\n//　どのような事でも仰せ付け下さい」\r\n\"This isn't the end! I'll give you anything you ask for! Anything you want, as much as you want!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11531,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180390a00'>\r\n//「貴方にはそれだけの恩を受けている……！」\r\n\"I owe you everything!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11715,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180400b31'>\r\n//「……いえ……\r\n//　一つで良いのです……」\r\n\"No... one is enough...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11901,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180410b31'>\r\n//「一つだけ……\r\n//　……お願い……」\r\n\"Just... one wish...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12075,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180420a00'>\r\n//「それは……!?」\r\n\"One wish...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12211,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180430b31'>\r\n//「……なまえ……を」\r\n\"My... name...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12357,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180440a00'>\r\n//「？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12470,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180450b31'>\r\n//「あたくし、の……\r\n//　なまえを……呼んで……」\r\n\"Say my... name...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12660,
+  "en": "\r\n//　思わず、絶句した。\r\n//　……自分の間抜けさ加減にだ。\r\n  I am struck speechless by her request―or rather, by the failing that it forces me to confront.\r\n\r\n\r\n//　恩人だと思い、そう口にしながら。\r\n//　その名さえ知ってはいなかった。\r\n  She is my savior, and yet, I do not know her name.\r\n\r\n//　山上の砦での対面の折に名乗って貰えなかったから\r\n//ではあるが……\r\n//　それにしても、機会はその後いくらでもあったろう\r\n//に。\r\n  True, she did not deign to give me her name when we faced off atop the mountain, but I've had any number of opportunities since then to fill that gaping hole.\r\n\r\n//　………俺の馬鹿面を見てだろう、彼女がおかしげに\r\n//笑う。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13460,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180460b31'>\r\n//「……ふふ……\r\n//　だって……訊いて下さらないんだもの……」\r\n\"Hehe...\" she chuckles weakly as I search for a response. \"You never... bothered to ask...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13740,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180470a00'>\r\n//「……失礼を！\r\n//　大変遅きに失し、今更恥ずかしいばかりで\r\n//はありますが」\r\n\"Forgive me! It shames me terribly to have neglected something so important.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14025,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180480a00'>\r\n//「御婦人。\r\n//　どうか、お名前をお聞かせ下さい」\r\n\"It would be an honor, my lady, if I could have your name.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14252,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180490b31'>\r\n//「……<RUBY text='みずひ'>瑞陽</RUBY>……と……」\r\n\"...Mizuhi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14430,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180500a00'>\r\n//「瑞陽……」\r\n\"Mizuhi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14557,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180510b31'>\r\n//「……はい……」\r\n\"...Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14693,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180520a00'>\r\n//「瑞陽殿」\r\n\"Mizuhi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14815,
+  "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0180530b31'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14942,
+  "en": "\r\n//　最後に。\r\n//　彼女は、それは嬉しそうに。\r\n  She smiles then, one last time. It is gentle and bright, like the warm spring sun.\r\n\r\n//　<RUBY text='わら'>微笑</RUBY>ったのだ。\r\n//　\r\n//　――最後に。\r\n\r\n//　ほぅ……と風に溶けゆく微かな息吹、\r\n//　何かが抜け去ったかのように力を失う身体、\r\n//　そして微笑。\r\n  She exhales softly, her breath vanishing on the wind, and then her body goes limp, now absent what made it whole.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15461,
+  "en": "\r\n//　それが、彼女の<RUBY text='おわり'>最期</RUBY>だった。\r\n  Mizuhi ends her life in my arms, smile still lingering on her lips.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15618,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180540a00'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15754,
+  "en": "\r\n//　これまでの人生で――特に数年の兵役の中で。\r\n//　身近な人間の死に立ち会う事は幾度かあった。\r\n\r\n//　そうして知った事がある。\r\n//　誰かが死んだ時、その人に預けていた心も死ぬのだ\r\n//と。\r\n  Experience has taught me that when someone close to you dies, the part of your heart in which they resided dies with them. Where before there was warmth, now there is a void.\r\n\r\n//　心の一部が死んで、穴が開く。\r\n//　温かいものが無くなり、代わりに空虚なものが生ま\r\n//れる。\r\n\r\n//　……瑞陽という人の死で、生じた空虚は、\r\n//　こうなるまで、思いもしなかった程に――大きく、\r\n//深かった。\r\n  The void left by Mizuhi's death is colder and deeper than I could have imagined, especially considering how short a time we actually knew each other.\r\n\r\n//　ほんの短い、わずかな期間の接触だったのだ。\r\n//　俺とこの人とは。\r\n\r\n//　それなのに。\r\n//　俺は心の、これほどの領域を、この人に預けていた\r\n//のだ。\r\n  To think that so much of my heart was given to her.\r\n\r\n//　失ってから、そうと知る。\r\n//　……失ってはならない人を失ったのではないかと、\r\n//知る。\r\n  Only after losing her do I realize... that perhaps she was someone I desperately needed.\r\n\r\n//　この人は、俺という人間に必要な存在だったのでは\r\n//ないかと――\r\n  Someone I could not afford to lose.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17306,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180550a00'>\r\n//「……今更。\r\n//　何を」\r\n\"...Don't be a fool,\"</voice> I whisper. <I>Of course</I>㉓she was.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17506,
+  "en": "\r\n//　自責を呟く。\r\n//　\r\n//　――何を、わかり切った事を。\r\n\r\n//　とにかく、この人をこのままにしてはおけない。\r\n//　亡骸といえど洗い清めて差し上げなくては――<k>いや、\r\n//どうもそういう場合ではないようだが、せめて布団に\r\n//は寝かせてやらねば。\r\n  I shake my head, reminding myself that there are duties to perform. First her body must be cleansed and purified, and then there are the preparations for―\r\n\r\n  No, I suppose there are more pressing matters... but at least I can get her off the dirt and into a bed.\r\n\r\n//　一人では手間が掛かってしまう。\r\n//　俺は養母に手伝いを頼もうと、背後を振り返った。\r\n  This is a job for two people. I turn to ask my mother for help.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18331,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180560a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18450,
+  "en": "\r\n//　いない。\r\n//　……光もいない。\r\n  She's not there. Neither is Hikaru.\r\n\r\n//　二人とも、何処に――<k>\r\n//　\r\n//　と、視界の端に、二人の背が映った。\r\n  Where could they have―<K>\r\n  Something moves at the corner of my vision.\r\n\r\n//　とても病み上がりとは思えぬ早足でどこかへ向かう\r\n//光と、小走りにその後を追う養母。\r\n//　行く先は――\r\n  I turn to see Hikaru marching away with a speed that seems extraordinary given her recent infirmity, and her mother racing to follow.\r\n\r\n  They're headed for―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19053,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0180570a00'>\r\n//「祭殿？」\r\n\"The shrine?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19179,
+  "en": "\r\n//　……何故、このような時に？\r\n  Now?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19243,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180580b46'>\r\n//「光！\r\n//　……おい、ちょっと待ちなって」\r\n\"Hikaru! Hey! Wait a <br>minute!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19426,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180590b46'>\r\n//「何やってんだ……<k><?>\r\n//{\tFwC('cg/fw/fw統_通常b.png');}\r\n//……………………」\r\n\"What are you doing?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19638,
+  "en": "\r\n\"......\"\r\n\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180600b46'>\r\n//「光。\r\n//　おまえ」\r\n\"Hikaru... you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19785,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180610a14'>\r\n//「母上。\r\n//　そこに立たれては邪魔です」\r\n\"You're in my way, Mother.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19959,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180620b46'>\r\n//「……その<RUBY text='かぎ'>御鑰</RUBY>、どうするつもりだ」\r\n\"What are you doing with that key?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20161,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180630a14'>\r\n//「訊くまでもないことを。\r\n//　こんなもの、使い道は一つきりでしょう」\r\n\"Do you have to ask? A key has only one purpose, does it not?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20412,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180640b46'>\r\n//「孫の手にするなら居間にもうちょっとマシ\r\n//なやつがあるぞ」\r\n\"If you're looking for a backscratcher, we've got a nice one in the den.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20662,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180650a14'>\r\n//「それは母上がお使い下さい」\r\n\"I will gladly yield that one to you, should you have need.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20853,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180660b46'>\r\n//「……なんでおまえが知ってるんだ。\r\n//　御鑰の場所と、使い方まで」\r\n\"...Why do you have it? You shouldn't know where it is, much less how to use it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21120,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180670a14'>\r\n//「<RUBY text='・・・・・・・・・・'>光が見ていましたから</RUBY>。\r\n//　あれが見聞きした事は<RUBY text='おれ'>光</RUBY>にも伝わります」\r\n\"Because I was㉒<I>watching,</I> Mother. I see everything it sees.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21455,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180680b46'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21565,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180690a14'>\r\n//「さて？　何度も申し上げるつもりはありま\r\n//せんが。\r\n//　邪魔です、母上。おどき下さい」\r\n\"Now, I believe we've established that you're in my way. Please move.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21852,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180700b46'>\r\n//「何をする気だよ」\r\n\"Tell me what you're going to do first.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22008,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180710a14'>\r\n//「<RUBY text='・・・'>おれの</RUBY>劒冑を解放するのです。\r\n//　どうやら、差し迫った事態のようではあり\r\n//ませんか」\r\n\"I'm going to free my tsurugi. This seems as good a time as any, given the situation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22341,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180720b46'>\r\n//「おまえの劒冑……？」\r\n\"<I>Your</I>㉑tsurugi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22487,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180730a14'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22596,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180740b46'>\r\n//「……その劒冑で？\r\n//　何をするって？」\r\n\"...And what will you do once it's free?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22784,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180750a14'>\r\n//「母上。\r\n//　わかりきった問いにいちいち答えねばなら\r\n//ないこちらの身にもなって頂けますか」\r\n\"Mother. Try to imagine how it feels having to provide such obvious answers.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23084,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180760b46'>\r\n//「そりゃすまんこってした。\r\n//　ものわかりの悪い母に噛み砕いて説明して\r\n//やってくれ、娘よ。母がボケてしまった時の\r\n//練習だと思って」\r\n\"Sorry. Your mother's a little slow on the uptake, so break it down for her. Think of it as practice for when I start going senile.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23500,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180770a14'>\r\n//「致し方ありません。\r\n//　ただ、鏖殺するだけです。町に攻めて来る\r\n//連中とやらを」\r\n\"If you insist. I will massacre the men attacking the town.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23768,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180780b46'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23877,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180790a14'>\r\n//「単語の意味もご説明しましょうか」\r\n\"Shall I explain what I mean by 'massacre?'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24064,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180800b46'>\r\n//「結構です。\r\n//　聞くだに胸が悪くなりそうだ」\r\n\"Spare me. I think I'd puke.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24249,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180810a14'>\r\n//「それは上々」\r\n\"We wouldn't want that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24383,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180820b46'>\r\n//「通さない」\r\n\"I can't let you free that tsurugi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24526,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180830a14'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24635,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180840b46'>\r\n//「……殺してどうする？　光。\r\n//　後には恨みが残るだけだよ」\r\n\"What will come of killing them? It'll just leave the survivors hungry for payback.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24896,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180850a14'>\r\n//「残りませぬ」\r\n\"It will not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25020,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180860b46'>\r\n//「……なんでだ」\r\n\"...Why not?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25146,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180870a14'>\r\n//「一人残らず殺しますゆえ」\r\n\"Because I will leave none alive.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25308,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180880b46'>\r\n//「……」\r\n\"......\"\r\n\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180890b46'>\r\n//「あの山賊どもにだって親類縁者くらいいる\r\n//だろうさ。\r\n//　その中には復讐心に駆られる奴もいるだろ」\r\n\"Even thieves have friends and family, someone who'll come looking for revenge.\"\r\n\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180900b46'>\r\n//「そいつら自身にだって、死ねば悲しむ仲間\r\n//の一人くらいいるだろ。\r\n//　恨みは必ず残る」\r\n\"And if you kill them too, then㉒<I>their</I>㉑loved ones will inherit their hatred. It'll just keep going forever.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26051,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180910a14'>\r\n//「残りませぬ」\r\n\"It will not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26175,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180920b46'>\r\n//「……なんでだよ」\r\n\"...Why the hell not?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26313,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180930a14'>\r\n//「一人残らず殺しますゆえ。\r\n//　この光より弱き者は<RUBY text='・・・'>すべて</RUBY>」\r\n\"Because I will leave㉗<I>nothing</I> alive. Nothing in this world that is weaker than I.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26608,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180940b46'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180950b46'>\r\n//「それは……\r\n//　武の道じゃないぞ。光」\r\n\"That's not the warrior's Way, Hikaru.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26901,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180960a14'>\r\n//「武の道にございます」\r\n\"But it is, Mother.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27043,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180970b46'>\r\n//「何を……」\r\n\"What―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27159,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0180980a14'>\r\n//「ではお聞かせ下さい。\r\n//　母上はどうなさりたいのです？」\r\n\"Then let me ask. What will you do to resolve this conflict?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27394,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0180990b46'>\r\n//「説得してくるよ」\r\n\"I'll convince them to leave.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27540,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181000a14'>\r\n//「そんな状況ではなかったら？」\r\n\"And if that is impossible?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27702,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181010b46'>\r\n//「……止めるさ。\r\n//　けど、殺しはしない」\r\n\"...Then I'll stop them. But I won't kill a single one.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27908,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181020a14'>\r\n//「はははははは……！」\r\n\"Heh! Hahahahaha!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28048,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181030b46'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28157,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181040a14'>\r\n//「そのような事ができるとお思いか？」\r\n\"Do you think yourself capable of that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28340,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181050b46'>\r\n//「できるさ。\r\n//　景明も手伝ってくれる」\r\n\"Piece of cake. Kageaki'll have my back.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28528,
+  "en": "\r\n//◆不快\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181060a14'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28650,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181070b46'>\r\n//「あの子は一度それをやってみせた。\r\n//　もう一度だって、きっとできる」\r\n\"He already succeeded once. There's no reason we can't do it again.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28910,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181080a14'>\r\n//「……成程。それで、さっきの女……。\r\n//　母上は一度、やらせたのですね。景明に、\r\n//<RUBY text='・・・・・'>そんなこと</RUBY>を」\r\n\"...So that's what that woman was talking about. Kageaki has complied with your teachings once already.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29282,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181090b46'>\r\n//「ああ」\r\n\"Yup.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29389,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181100a14'>\r\n//「だからもう一度やると」\r\n\"And you would have him do so again?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29551,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181110b46'>\r\n//「ああ……」\r\n\"That's right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29673,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181120a14'>\r\n//「戯け」\r\n\"Fool.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29781,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181130b46'>\r\n//「……何ぃ……」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29902,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181140a14'>\r\n//「あなたのその下らぬ所業が――\r\n//　今日の事態を招いたとは思いませぬのか」\r\n\"Have you not considered that perhaps these㉓<I>fancies</I>㉗of yours are precisely what led to this crisis?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30211,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181150b46'>\r\n//「……どういう意味だよ」\r\n\"...What's that supposed to mean?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30370,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181160a14'>\r\n//「山賊どもとやらは、武を侮った。\r\n//　真相は<RUBY text='・・'>殺法</RUBY>に過ぎぬ武を、見誤った」\r\n\"These bandits do not grasp the truth of might. They have forgotten that it is solely a tool of murder.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181170a14'>\r\n//「あなたが偽りの武を見せたからだ、母上。\r\n//　戦って負けても<RUBY text='・・・・・・・'>殺されずに済む</RUBY>などと彼ら\r\n//に信じさせた」\r\n\"This is your fault, Mother. Because you showed them a false image of might, they believe they can㉗<I>survive</I>㉓if defeated in battle.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31109,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181180b46'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31224,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181190a14'>\r\n//「彼らは武を軽んじた。\r\n//　甘く見た」\r\n\"They scorn might, as㉒<I>you</I> taught them to.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181200a14'>\r\n//「だから嵩に懸かって攻め寄せて来る。\r\n//　おわかりになりませぬか、母上」\r\n\"And that is why the horde is bearing down on us now. Do you truly not understand?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31689,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181210b46'>\r\n//「……そうだとしても。\r\n//　連中が戦う気を無くすまで、防ぎ続ければ\r\n//いいこった」\r\n\"...Maybe you're right, but it changes nothing. I'll just hold them off until they lose the will to fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32004,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181220b46'>\r\n//「そいつが武の道だよ」\r\n\"That's the Way of the Warrior. That is the purpose of might.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32188,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181230a14'>\r\n//「違います。\r\n//　武はそんな<RUBY text='・・・・・・・'>まだるっこしい</RUBY>ものではない」\r\n\"You're wrong. Might is not so㉗<I>blunt</I>㉕an instrument as that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32472,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181240a14'>\r\n//「強きをもって弱きを滅ぼす。\r\n//　それが、武にござります」\r\n\"Destroy those weaker than yourself. That is the Law of Might.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32709,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181250b46'>\r\n//「教えたはずだぞ光！\r\n//　戈を止めると書いて武の一文字！」\r\n\"I taught you better, Hikaru! The sword is a tool to save lives!\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32950,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181260a14'>\r\n//「否！\r\n//　戈にて<RUBY text='とど'>止</RUBY>むと書いて武の一文字！」\r\n\"No! It is a tool to end them!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33161,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181270b46'>\r\n//「……!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33267,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181280a14'>\r\n//「刃は生命に止めを呉れるもの！\r\n//　他に用途は何も無し！」\r\n\"The sword is a weapon, a vessel of might! Its sole purpose is to extinguish life!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33524,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181290b46'>\r\n//「だからって、殺してどうなるよ！\r\n//　誰も得しねえだろ！」\r\n\"Even if that's true, what do you gain by killing them!? There'll be nothing left but a mountain of bodies!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33806,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181300b46'>\r\n//「そんな武道、何の意味があるってんだ……」\r\n\"There's no point!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33977,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181310a14'>\r\n//「そうでしょうか？\r\n//　母上の教えてくださった武道こそ、糞の役\r\n//にも立ちませなんだが……村正が示した武は\r\n//こうして光を世に送り出してくれましたぞ？」\r\n\"No point? While the Law of Might that you espouse has shown itself utterly worthless, the Law that Muramasa revealed has allowed me to rejoin the living.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34443,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181320b46'>\r\n//「……!?\r\n//　村正が……示した？」\r\n\"Did you say... Muramasa!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34607,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181330a14'>\r\n//「つまりは……\r\n//　こうしてここに光の在ることが、我が武の\r\n//真実たる<RUBY text='あかし'>証明</RUBY>！」\r\n\"The fact that I stand before you now is proof that㉓<I>mine</I> is the true might!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34924,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181340b46'>\r\n//「おまえ……」\r\n\"You...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35042,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181350a14'>\r\n//「おどきあれ、母上。\r\n//　これで最後とさせて頂く」\r\n\"Begone with you, Mother. This is your final warning.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35258,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181360b46'>\r\n//「…………。\r\n//　おまえ、誰だ？」\r\n\"...Who are you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35413,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181370a14'>\r\n//「……くふっ」\r\n\"...Heh!\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181380a14'>\r\n//「娘の顔を見忘れたか。\r\n//　母上」\r\n\"Have you forgotten the face of your own daughter?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35713,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181390b46'>\r\n//「どうだったかな。\r\n//　わたしがお<RUBY text='なか'>腹</RUBY>痛めて産んだ子は、そりゃー\r\n//性格面でアレなとこが多過ぎたし正直人間と\r\n//してこいつどうなのよって感じだったけど」\r\n\"I wonder. My little girl may have had some issues, <I>serious</I>㉓issues, and frankly, I was starting to wonder how she'd ever make it in civilized society...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36210,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181400b46'>\r\n//「おまえほど、化物じみた<RUBY text='つら'>面</RUBY>はしてなかった\r\n//と思うんだが」\r\n\"But I'm pretty sure she wasn't a monster like you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36463,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181410a14'>\r\n//「ふっふ……！」\r\n\"Hehehehe!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36587,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181420b46'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36696,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181430a14'>\r\n//「良い眼をしているではないか、母上！」\r\n\"Now you have the eyes of a warrior!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36879,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181440b46'>\r\n//「来るな。\r\n//　そのまま下がって、外へ出ろ！」\r\n\"Stay back. Put the key down and leave the shrine!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37086,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181450a14'>\r\n//「嫌と申さば、\r\n//　――――如何する!?　湊斗統!!」\r\n\"And if I refuse... what then, Minato Subaru!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37293,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181460b46'>\r\n//「ッ!!」\r\n\"Kuh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37399,
+  "en": "\r\n//　――止められる筈だ、と……\r\n//　統には、確信があった。\r\n  <I>I can stop her.</I><K>\r\n  Of this Subaru is certain.\r\n\r\n//　娘の力量は知っている。\r\n//　<RUBY text='ありてい'>有体</RUBY>に言って、妖怪じみた天才だ。\r\n  She knows her daughter's strength well. Many people have called Minato Hikaru a genius, but that is a woefully inadequate word.\r\n\r\n//　一年前、病に倒れる直前、その技術はもう完成まで\r\n//間近だった。\r\n//　が……まだ、付け入る隙は残していた。\r\n  One year ago, before the illness took her, Hikaru was already at the brink of true mastery.\r\n  Still, she had not quite perfected her technique.\r\n\r\n//　あれから一年。光の技は停滞している。\r\n//　いや、後退しているはずだ――常識的に考えれば。\r\n//それについてはどうもあまり期待しない方が良さそう\r\n//だったが。\r\n  Hikaru's skill cannot have increased during her coma. If anything, she should be weaker now, but one look is all Subaru needs to throw that notion out the window.\r\n\r\n//　光の流麗な立ち姿は、これで病み上がりなどと言わ\r\n//れてもつまらぬ<RUBY text='ギャグ'>諧謔</RUBY>にしか思えない。\r\n//　しかし――まだ、抑え切れる。統はそう踏んだ。\r\n  No one would believe, beholding Hikaru's deadly poise, that the girl had just recovered from a wasting disease. Subaru's memories of Hikaru the invalid seem ludicrous now.\r\n\r\n  But formidable though her opponent is, Subaru is confident that she will prevail. The speed, flexibility, and power evident in Hikaru's stance are all within her ability to overcome.\r\n\r\n//　<RUBY text='かまえ'>構</RUBY>から窺える技の多様さ、鋭さ、強靭さは統の許容\r\n//量に収まる。\r\n//　危うい線ではあっても、紙一枚の差で勝てる。\r\n\r\n//　湊斗統にも己の術技に自負するところがあった。\r\n//　あと半年――いや三ヶ月も光が修練を重ねていたら\r\n//わからなかったろうが、現段階ではまだ優ると見た。\r\n  Given another six―no, three months of training, the balance of power may well have reversed, but as it stands now, Subaru has the advantage.\r\n\r\n//　――<RUBY text='カラン'>花乱</RUBY>の裏から、八手で詰み。\r\n  Eight moves from the reverse Karan.\r\n\r\n//　脳裏に勝利への図式を思い描く。\r\n//　推敲。……この計算を崩す要素は無い。\r\n  The formula for victory takes shape in her head. She runs it once, refines it, runs it again. No chance of failure. Not with this plan. \r\n\r\n//　ならば図式を実行する。\r\n//　統は重心を前へ傾け、仕掛ける気を窺った。<k>\r\n  All that remains is to execute it. She leans forward slightly and looks for her chance. \r\n\r\n//　そこで、計算は崩壊した。\r\n  And there, her plan falls apart.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40359,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181470b46'>\r\n//「……!?」\r\n\"...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40469,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181480a14'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40578,
+  "en": "\r\n//　――呼吸がおかしい。\r\n  Something is wrong. She can't read her enemy's breathing.\r\n\r\n//　光の呼吸をつかめない。\r\n//　呼吸そのものはあるが……何かが違う。\r\n  Hikaru㉓<I>is</I>㉓breathing, of course, but not as she should be.\r\n\r\n//　<RUBY text='・・・・・・・・・・・'>戦う人間の呼吸ではない</RUBY>。\r\n//　ひどく――――希薄な。\r\n  This isn't the way someone breathes during battle. It's too...㉓<I>light.</I>\r\n\r\n\r\n//　希薄なのは呼吸に留まらない。\r\n//　……気付けば、<RUBY text='けはい'>存在感</RUBY>そのものが希薄。\r\n  And it's not just her breathing, Subaru realizes. Hikaru's very㉗<I>presence</I> seems nebulous, even though she is clearly visible to the eye.\r\n\r\n//　目の前に確かに、<RUBY text='はげ'>烈</RUBY>しく在りながら。\r\n//　しかし<RUBY text='かげろう'>陽炎</RUBY>のようにあやふやで――\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41549,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181490b46'>\r\n//（……なんだ？）\r\n(What... is this?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41680,
+  "en": "\r\n//　それが、\r\n//　湊斗統の不覚だったのだ。\r\n  She should have known better.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41785,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181500b46'>\r\n//（こいつ……\r\n//　本当に、<RUBY text='・・・・・・・'>ここにいるのか</RUBY>？）\r\n(Is she... really here?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42004,
+  "en": "\r\n//　<RUBY text='たたかい'>鉄火</RUBY>の場に立ちながら。\r\n//　そんな現実を離れた疑問に、一瞬でも意識を委ねて\r\n//しまったことが――\r\n  Riddles have no place on the field of battle. A moment of distraction is all it takes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42284,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181510b46'>\r\n//「!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42384,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181520a14'>\r\n//「母上」\r\n\"Mother...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42496,
+  "en": "\r\n//　気付けば。\r\n//　統は耳元に、娘の囁きを聞いていた。\r\n  The next thing Subaru knows, her daughter is whispering in her ear.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42657,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181530a14'>\r\n//「光はあなたを殺しませぬ。\r\n//　光は何者も<RUBY text='・・'>敵意</RUBY>によっては殺しませぬから」\r\n\"You shall not die by my hand. I will kill no one out of spite.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181540a14'>\r\n//「何故なら我が道程は<RUBY text='たかみくら'>神座</RUBY>へ至るための<RUBY text='みそぎ'>禊</RUBY>。\r\n//　武の法だけがあれば良く、敵意悪意が如き\r\n//穢れは無用」\r\n\"I embark now for the throne of heaven, to claim the right of supreme godhood. Hatred, malice... such impurities have no place on my journey. I need only the Law of Might to guide me.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181550a14'>\r\n//「……母上にはこの光、憎しみを捨て切れませぬ。\r\n//　だから殺しませぬ……」\r\n\"My hate for you is too deep to renounce. Therefore, I will not kill you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43684,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0181560b46'>\r\n//「光……！」\r\n\"Hikaru...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43803,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181570a14'>\r\n//「あなたは」\r\n\"You, Mother...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43926,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0181580a14'>\r\n//「愛によってお死にあれ。\r\n//　母上」\r\n\"...shall die by the hand of <br>love.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44106,
+  "en": "\r\n//　　　　　　　……鎧袖、一触であった。\r\n  The next instant, darkness.\r\n",
+  "pt": ""
+ }
+]

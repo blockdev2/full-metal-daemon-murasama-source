@@ -1,0 +1,662 @@
+[
+ {
+  "offset": 214,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0010a00'>\r\n//（捨てられる）\r\n(Yes.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 340,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/045a0020a01'>\r\n//〝――――〟\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 471,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0030a00'>\r\n//（容易いことだ。\r\n//　得ることの――守ることの至難に比べれば、\r\n//捨てるなど！）\r\n(Sacrifice is easy. To hold, to protect. That is the true challenge.)\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0040a00'>\r\n//（それで光を守れるなら、俺はそうする）\r\n(If I must sacrifice the world to protect Hikaru, then that is what I will do.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 982,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/045a0050a01'>\r\n//〝御堂……！〟\r\n\"Mido!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1115,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0060a00'>\r\n//（光の他にも大切なものが何かあるだろうと、\r\n//そう言ったな。\r\n//　その通りかもしれん）\r\n(You were right. There are other things I value.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1388,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0070a00'>\r\n//（だが俺は捨てる）\r\n(I will sacrifice them all the same.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1551,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0080a00'>\r\n//（お前もだ……村正!!\r\n//　俺の内から、消えて去れ!!）\r\n(That includes you, Muramasa! Begone from my soul, and never return!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1793,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/045a0090a01'>\r\n//「……あぁ……」\r\n\"...Ahh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1933,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0100a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2052,
+  "en": "\r\n//　<RUBY text='えにし'>結縁</RUBY>は断たれた。\r\n\r\n//　膝を折り、項垂れる<RUBY text='ひとがた'>人形</RUBY>の劒冑はもはや俺とは何の\r\n//関わりもない。\r\n//　\r\n//　一瞥だけして、背を向ける。\r\n  It's over. Whatever bond Muramasa and I shared has at last been severed utterly. She is nothing to me now.\r\n\r\n  After a final glance, I turn my back.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2467,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0110a07'>\r\n//「お兄さん……」\r\n\"Big bro...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2611,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0120a00'>\r\n//「いつまでそんな糸で遊んでいる？」\r\n\"Haven't you toyed with that string long enough?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2810,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0130a07'>\r\n//「や、これがなかなかしつこくて。\r\n//　あてもハエ取り紙に捕まったハエごっこを\r\n//いつまでもやってたいわけじゃないんですが」\r\n\"Um, it's actually a little tighter than I thought. This must be how a fly feels when it runs into that sticky paper.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3215,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0140a00'>\r\n//「……じっとしていろ」\r\n\"...Hold still.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3363,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0150a07'>\r\n//「あい」\r\n\"㉑'Kay.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3493,
+  "en": "\r\n//　腰の太刀を抜き、一振りくれる。\r\n//　既に効力を弱めていた鋼糸は、あっけなく散った。\r\n  A single stroke is enough to free her. The threads have already lost most of their strength.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3727,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0160a00'>\r\n//「これで良かろう。\r\n//　さっさと立て」\r\n\"There. Now get up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3901,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0170a07'>\r\n//「お兄さーん！」\r\n\"Big broooo!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4046,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0180a00'>\r\n//「……何故、くっつく」\r\n\"...What are you doing?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4202,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0190a07'>\r\n//「愛情表現。\r\n//　お兄さんなら絶対、あてを選んでくれると\r\n//思ってました！」\r\n\"Just a PDA. I knew you'd pick me over her!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4464,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0200a07'>\r\n//「フッ……何を隠そうあては信じていた。\r\n//　普段の冷血な態度は最後のどんでん返しの\r\n//ための伏線に違いないと。ツンツンした後は\r\n//デレデレするに違いないって！」\r\n\"See, I get how these things work. You start by treating me like dirt, but that just sets the stage for a dramatic about-face! In the end, you embrace me with warmth and affection.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4987,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0210a00'>\r\n//「…………。\r\n//　何だかわからんが」\r\n\"Your fantasies aside...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5163,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0220a00'>\r\n//「別にお前を選んだわけではないぞ」\r\n\"I chose Hikaru, not you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5339,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0230a07'>\r\n//「同じことなの。\r\n//　あてはそれでいいんだ……」\r\n\"That's okay. It's the same thing to me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5558,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0240a07'>\r\n//「お兄さーん♪」\r\n\"Luv ya, brother.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5708,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0250a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5827,
+  "en": "\r\n//　しばらく離れそうになかった。\r\n//　煩わしいが、引き剥がすのも面倒なので仕方ない。\r\n  Detaching her seems likely to be difficult. I suppose I'll have to put up with it for now.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6056,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0260a00'>\r\n//「行くぞ」\r\n\"We should move.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6187,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0270a07'>\r\n//「うん」\r\n\"Yeah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6314,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0280a00'>\r\n//「……ああ、そうだ」\r\n\"...But first.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0290a00'>\r\n//「あれはどうする」\r\n\"What do we do with that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6602,
+  "en": "\r\n//　動かない劒冑を親指で差す。\r\n  I toss a thumb at the motionless tsurugi.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6703,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0300a00'>\r\n//「潰すとか言っていたが」\r\n\"Don't you want to destroy <br>it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6873,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0310a07'>\r\n//「そうだね。\r\n//　……どうでもいいや」\r\n\"Hmm... nah.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0320a07'>\r\n//「今度こそ本当に、あいつにはもう何もでき\r\n//ないしね」\r\n\"There's nothing more she can do now. You really did a number on her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7298,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/045a0330a01'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7429,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0340a00'>\r\n//「……だろうな」\r\n\"So I did.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7563,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0350a07'>\r\n//「ほっとこほっとこ。\r\n//　どっちかっていえば生かしといてやる方が\r\n//いい気味だ」\r\n\"Just leave her. I like the idea of letting her rust away.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7846,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0360a07'>\r\n//「行こうよ、お兄さん」\r\n\"C'mon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7995,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0370a00'>\r\n//「ああ」\r\n\"Mm.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8111,
+  "en": "\r\n//　城内の混沌は深まっている。\r\n//　無数の生命を消費しながら。\r\n\r\n//　上空でも、既に白銀色以外の星は探すのに苦労する\r\n//ほどしか見当たらなかった。\r\n  The chaos inside the walls has intensified, consuming thousands to fuel its growth.\r\n\r\n  And as for the sky... try though I may, I am unable to spot more than a handful of uninfected musha.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8529,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0380a00'>\r\n//「後は鍛造雷弾を待つだけか？」\r\n\"So we need only wait for the bomb?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8709,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0390a07'>\r\n//「うん。\r\n//　もうあてらの目的を妨げる要因は無いしね」\r\n\"Yup. Nothing can stop us!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8923,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0400a00'>\r\n//「常闇斎の予感は外れたか。\r\n//　まぁ、何も無いならそれでいい」\r\n\"So Jo'ansai needn't have worried. Better that nothing happen, of course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9187,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0410a07'>\r\n//「――――あっ」\r\n\"...Ah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9327,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0420a00'>\r\n//「どうした？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9454,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0430a07'>\r\n//「……流石に剣豪、いい勘してるな。\r\n//　あてらにしかやれないことが一つ、出来た\r\n//みたいだよ、お兄さん」\r\n\"Always trust a master's instincts. There's still a problem only we can handle.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9794,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0440a07'>\r\n//「あれ見て」\r\n\"Look.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9927,
+  "en": "\r\n//　示された方向に目をやる。\r\n\r\n//　天頂近く、<RUBY text='ぎんせいごう'>白銀の王者</RUBY>が悠然と舞っていた。\r\n//　それに挑むつもりか。近付く武者が一騎。\r\n  I follow Chachamaru's finger. High above the battlefield, the silver star hovers like a queen on her throne, surveying the scope of her conquest.\r\n\r\n  And then I see it. Another musha is approaching her from below. A challenger?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10384,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0450a00'>\r\n//「何者だ」\r\n\"Who is that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10512,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0460a07'>\r\n//「ど腐れ坊主。\r\n//　古河公方遊佐童心さ」\r\n\"That crazy fucking monk. General Yusa Doshin.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0470a07'>\r\n//「劒冑は同田貫正国。名物だよ」\r\n\"His tsurugi is Dotanuki Masakuni. A masterpiece, to be sure.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10932,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0480a00'>\r\n//「ほう」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11048,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0490a07'>\r\n//「酔狂の虫を起こしやがったな。\r\n//　……あの婆娑羅者が」\r\n\"Guess this is more of his 'basara' bullshit.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11284,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0500a07'>\r\n//「どーしたもんかな」\r\n\"Man, what a pain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11441,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0510a00'>\r\n//「危惧せねばならぬ程の男か？」\r\n\"Is there cause for concern?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11614,
+  "en": "\r\n//　問うまでもなく、遊佐童心の勇名は聞き知っている。\r\n//　足利一門の連枝であるが、単に名門の一員で終わる\r\n//ことなくその重鎮となったのは、槍一筋で立てた戦場\r\n//の武功によるところが大きい。\r\n\r\n//　おそらく六波羅全体でも上位の実力を持つだろう。\r\n//　\r\n//　だが、相手取ろうとしているのは銀星号だ。\r\n  As I recall, Yusa Doshin was the head of an Ashikaga branch family before taking his Buddhist vows. But it was his prowess on the battlefield, not the accident of his birth, that carried him to the shogun's right hand. It is said that few in Rokuhara can match his mighty spear.\r\n\r\n  However, he faces Ginseigo.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12368,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0520a07'>\r\n//「童心坊だけなら問題ない。\r\n//　百回やって百回御姫が勝つよ」\r\n\"Not if it's just him. She'll kick his ass a hundred times outta a hundred.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12640,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0530a07'>\r\n//「でも……ほら」\r\n\"But... look over there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12797,
+  "en": "\r\n//　茶々丸の指が、やや動く。\r\n//　引かれて視線をずらした先には、天守閣があった。\r\n\r\n//　その<RUBY text='テラス'>張り出し</RUBY>に、遠目にも異様なほどの巨躯を誇る\r\n//男が立ち、俺達と同じように銀星号と古河公方の対峙\r\n//を見詰めている。\r\n//　あれは――小弓公方。\r\n  Her finger shifts. Now she's pointing at the castle keep.\r\n\r\n  There, on the terrace, a man watches the impending clash. His towering frame stands out even at this distance.\r\n\r\n  That's... the governor of Oyumi.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13392,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0540a00'>\r\n//「今川雷蝶！」\r\n\"Imagawa Raicho!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13529,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0550a07'>\r\n//「うん。\r\n//　あいつは別だ。あいつはヤベェ」\r\n\"Yeah. He's different. The real deal.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13739,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0560a07'>\r\n//「さしもの御姫も万一ってことが有り得る」\r\n\"There's a chance he lands a hit on the princess.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13957,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0570a00'>\r\n//「しかも遊佐童心まで加わっては、危険は倍\r\n//か」\r\n\"And if he joins forces with Yusa Doshin...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14170,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0580a07'>\r\n//「それだけじゃない。\r\n//　もし戦ってる最中に鍛造雷弾が来たら――」\r\n\"That's not all. If the bomb drops while she's still fighting...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14440,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0590a00'>\r\n//「どうなる」\r\n\"What happens?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14572,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0600a07'>\r\n//「御姫は対応できないかもしれない……。\r\n//　<RUBY text='・・・'>みんな</RUBY>吹っ飛ばされて終わりってことに」\r\n\"She might not be able to handle it all. And that means <I>everyone</I> goes bye-bye.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14917,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0610a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15042,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0620a00'>\r\n//「片付けるぞ」\r\n\"Let's go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15173,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0630a07'>\r\n//「どっちを？」\r\n\"Where?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15310,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0640a00'>\r\n//「銀星号に加勢して遊佐童心を狙えば、今川\r\n//雷蝶に参戦を促す結果になるな。\r\n//　奴を銀星号に近付けるのは避けた方が良い\r\n//のだろう？」\r\n\"If we join forces with Ginseigo against Masakuni, Imagawa Raicho will certainly intervene. Best to keep him away from Hikaru, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15738,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0650a07'>\r\n//「うん。\r\n//　あて、大概のことは計算に入れてるつもり\r\n//だけど、あいつのパワーだけは計算不可能」\r\n\"Right. His strength is off the charts, so he's the one variable I couldn't account for.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16075,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0660a00'>\r\n//「幸い、ひとまずは静観する気らしいな。\r\n//　今の内が好機だ」\r\n\"Fortunately, he seems content to watch for the moment. Now is our chance.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0670a00'>\r\n//「天守閣に登り、俺達が今川雷蝶を倒す」\r\n\"We will ascend to the terrace and kill the general.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16538,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0680a07'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16672,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0690a00'>\r\n//「怖いなら残っていろ」\r\n\"If you're afraid, then stay here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16839,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0700a07'>\r\n//「へっへー」\r\n\"Hehe.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16972,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0710a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17092,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0720a07'>\r\n//「あいつの<RUBY text='うで'>実力</RUBY>って洒落にもなんないから、\r\n//まともにやったら勝ち目無かったんだよね。\r\n//　――――さっきまでは」\r\n\"Up until a moment ago, I'd have said we were fucked. No way you could win.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17467,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0730a00'>\r\n//「今は違うのか」\r\n\"...And now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17603,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0740a07'>\r\n//「勝てる」\r\n\"We got this.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17740,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0750a07'>\r\n//「あてとお兄さんなら、絶対に」\r\n\"Together, we can take him down.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17926,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0760a00'>\r\n//「百回やって何回だ？」\r\n\"How many times out of a hundred?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18092,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0770a07'>\r\n//「百二十回は勝てるね」\r\n\"A hundred twenty!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18252,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0780a00'>\r\n//「良し。\r\n//　信じてやる」\r\n\"That's what I like to hear.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18417,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0790a00'>\r\n//「行くぞ！」\r\n\"Let's go!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18545,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0800a07'>\r\n//「いえっさー！」\r\n\"Yes sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18687,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0810a08'>\r\n//「……駄目。\r\n//　やはり童心様では及ばない」\r\n\"...I knew it. The reverend's no match for that monster.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18907,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0820a08'>\r\n//「麿が行くしかないわ！」\r\n\"I have to help him!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19063,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0830a07'>\r\n//「行かせねえよ。\r\n//　ここまで来てぶち壊しにさせるか」\r\n\"How 'bout not? Can't have you fucking up the plan.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19302,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0840a08'>\r\n//「……茶々丸!?」\r\n\"Chachamaru!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19438,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0850a08'>\r\n//「あんた、今までどこで何を――」\r\n\"Where the devil have you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19614,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0860a07'>\r\n//「長話は止そうぜ。\r\n//　もう終演時間が迫ってんだ」\r\n\"Mind if we cut the chit-chat? Curtain's ready to fall on this show.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0870a07'>\r\n//「用件だけ片付けさせろ」\r\n\"Let's get straight to <br>business.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20037,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0880a08'>\r\n//「――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20168,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0890a08'>\r\n//「言ってごらんなさい」\r\n\"And what business is that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20328,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0900a07'>\r\n//「雷蝶。\r\n//　おめーを殺しに来た」\r\n\"Chopping off your head.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20510,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0910a08'>\r\n//「そう」\r\n\"Ah.\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0920a08'>\r\n//「……あんただったわけね。\r\n//　全てを仕組んでいたのは」\r\n\"So this was all your doing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20828,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0930a07'>\r\n//「ハッハッハッ、ようやくわかったようだね。\r\n//　キミタチはずっとワタシの掌の上で踊って\r\n//いたのだよ！」\r\n\"HA HA HA! You finally get it! That's right. You've been dancing to my tune all along!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21175,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0940a00'>\r\n//「その割りには予定外の事態に右往左往する\r\n//姿ばかりが俺の印象に残っているが……」\r\n\"I seem to recall you spending most of your time in palpitations over the latest thing that went wrong.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21499,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0950a07'>\r\n//「仕方ないやん！\r\n//　一時間半で完結する映画とは違うんだから、\r\n//そうそう何もかも黒幕の思う通りスムーズに\r\n//進みやしませんよっ！」\r\n\"H- Hey! Come on! This ain't a motion picture, where the villain wraps everything up in two hours! Shit happens in real life!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21925,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a0960a00'>\r\n//「がっかりだな」\r\n\"I'm disappointed in you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22074,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a0970a07'>\r\n//「……もっとがんばります」\r\n\"...I'll try harder next time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22252,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0980a08'>\r\n//「ふんっ。\r\n//　あんた達二人きりで、麿に挑もうというの」\r\n\"Hmph. So the two of you think you can match me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22482,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a0990a08'>\r\n//「行き過ぎた無謀は可愛いわね」\r\n\"It's cute when a kitten thinks it's a tiger.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22672,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1000a07'>\r\n//「手加減でもしてくれるって？」\r\n\"Does that mean you'll go easy on us?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22863,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a1010a08'>\r\n//「まさか。\r\n//　逆よ」\r\n\"Just the opposite.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23013,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a1020a08'>\r\n//「――粉微塵にしてあげる!!\r\n//　膝丸!!」\r\n\"I'll grind you to dust! Hizamaru!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23203,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a1030a08'>\r\n//「帰命頂礼八幡大菩薩！\r\n//　我、御剣と罷り成る!!」\r\n<center>\"By the grace of Hachiman, lord of warriors!\r\nI am the blade of peerless might!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23462,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a1040a08'>\r\n//「湊斗とやら。\r\n//　おまえは腕に相当の自信があるようだけど」\r\n\"Now then, Minato. You appear to have some faith in your skill.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23713,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a1050a08'>\r\n//「この間の雑兵と麿を一緒にしないことね！\r\n//　我が膝丸の甲鉄……斬れるものなら斬って\r\n//見せなさい！」\r\n\"But if you think I'll go down like that rebel did, you have another thing coming! Let's see you try to cut through <I>this</I>㉓armor!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24098,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a1060a00'>\r\n//「――ふん。\r\n//　中将閣下の思し召しとあっては、従うほか\r\n//あるまいな」\r\n\"Heh. If the general insists, then I suppose I have no choice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24364,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1070a07'>\r\n//「そうだね。\r\n//　でもお兄さん、やるのはちゃんと武装して\r\n//からにしよう」\r\n\"Hold on a sec, big bro. Let's get you geared up first.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24635,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a1080a00'>\r\n//「何？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24753,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1090a07'>\r\n//「お兄さんの<RUBY text='えもの'>武器</RUBY>は、その太刀じゃない」\r\n\"You don't need that little sword.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24983,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1100a07'>\r\n//「ここにある」\r\n\"You've got a proper weapon right here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25152,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a1110a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25277,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1120a07'>\r\n//「わかるでしょ？　わかるはずだよ。\r\n//　もう<RUBY text='えにし'>縁</RUBY>は結ばれている……」\r\n\"You know what I mean. Yeah, you know. The joining is already complete.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25584,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1130a07'>\r\n//「<RUBY text='・・'>ここ</RUBY>だ。\r\n//　お兄さんの武装はここにある！」\r\n\"Your weapon is here!㉓<I>Right here!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25829,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a1140a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25954,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a1150a08'>\r\n//「……何だか知らないけど。\r\n//　世迷言を並べるしかすることがないなら、\r\n//まとめて潰すわよ？」\r\n\"...I don't know what this is about, but if you're just going to stand there, I'll cut through the both of you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26302,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1160a07'>\r\n//「呼んで！\r\n//　お兄さん」\r\n\"Call me, brother!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26466,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1170a07'>\r\n//「<RUBY text='な'>銘</RUBY>を!!」\r\n\"Call my name!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26627,
+  "en": "\r\n//　心の中央。\r\n//　そこに一つの語句が思い浮かぶ。\r\n\r\n//　俺はそれを舌に乗せ、唱えた。\r\n  I turn my gaze inward. There, newly carved on my heart, rests a name.\r\n\r\n  I speak it like an oath.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26865,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a1180a00'>\r\n//「――――――――――<RUBY text='コテツ'>虎徹</RUBY>」\r\n\"Kotetsu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27046,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a1190a08'>\r\n//「…………なッ――」\r\n\"Wha―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27183,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a1200a00'>\r\n//「獅子には肉を。狗には骨を。\r\n//　龍には無垢なる魂を」\r\n<center>\"Meat for the lions. Bones for the wolves.\r\nAnd for the dragon, an innocent soul.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27451,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a1210a00'>\r\n//「今宵の虎徹は――血に飢えている」\r\n<center>\"Tonight, Kotetsu thirsts for blood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27646,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/045a1220a08'>\r\n//「……茶々丸。\r\n//　あんたは、一体」\r\n\"Chachamaru!? What in the world...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27832,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1230a07'>\r\n//《さぁー、戦いだ！》\r\n《Oh yeah! Now we're talking!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28003,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1240a07'>\r\n//《<RUBY text='あてら'>虎徹</RUBY>の初陣だよ！\r\n//　お兄さん――御堂!!》\r\n《Ready for our first battle!? This is it, big bro―Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28266,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a1250a00'>\r\n//「……ああ」\r\n\"Ready.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28391,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1260a07'>\r\n//《敵騎は六波羅筆頭今川雷蝶》\r\n《We face Rokuhara's mightiest warrior.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28584,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1270a07'>\r\n//《相手に取って不足はないけど余剰もねぇ！\r\n//　あてらが勝つに決まってる！》\r\n《But that's nothing you and me can't handle! There ain't no way we lose!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28878,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/045a1280a07'>\r\n//《御堂、行ったれーーー!!》\r\n《Let's do this, Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29050,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/045a1290a00'>\r\n//「応!!」\r\n\"Aye!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29166,
+  "en": "\r\n//　抜刀し、突き進む。\r\n//  \r\n//　黄金の敵騎に。\r\n//　武者、長曽弥虎徹としての初陣に。\r\n\r\n//　湊斗景明の、最後の戦いに向かって。\r\n  I draw my blade and stride forward to meet the golden musha.\r\n\r\n  This will be my first battle as the master of Nagasone Kotetsu... and my last as Minato Kageaki.\r\n\r\n",
+  "pt": ""
+ }
+]

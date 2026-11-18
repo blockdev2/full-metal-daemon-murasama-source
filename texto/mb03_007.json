@@ -1,0 +1,242 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　胸は鉛を詰めたように重かったが、俺は署長宅の門\r\n//を潜る前に表情からその陰を消そうと努めた。\r\n//　会う人に気遣いを強いるのは避けたい。\r\n\r\n//　軽く呼吸も整えてから、玄関へ向かう。\r\n  Although apprehension still sits like a ball of lead in my chest, I do my best to assume a neutral expression before passing through the manor's front gate. It won't do to give anyone cause for concern.\r\n\r\n  I pause to steady my breathing, then open the door.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 753,
+  "en": "\r\n//【牧村】\r\n<voice name='牧村' class='その他女声' src='voice/mb03/0070010b51'>\r\n//「景明様。\r\n//　お帰りなさいませ」\r\n\"Good evening, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 929,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070020a00'>\r\n//「……牧村さん。\r\n//　只今戻りました」\r\n\"Miss Makimura. I trust that everything's well?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1130,
+  "en": "\r\n//【牧村】\r\n<voice name='牧村' class='その他女声' src='voice/mb03/0070030b51'>\r\n//「お疲れ様でございます」\r\n\"Better, now that you're <br>here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1308,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070040a00'>\r\n//「貴方こそ。\r\n//　いつもお世話を掛けます」\r\n\"Please let me know if there's anything I can do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1517,
+  "en": "\r\n//　それにしても、わざわざ出迎えというのは妙なこと\r\n//だった。\r\n//　家事の一切を受け持つこの人にとり、朝と夕は一日\r\n//の中で特に忙しい時間帯の筈だ。\r\n  After morning, evening is the busiest time of day for the manor's sole caretaker. I'm surprised that she bothered to greet me at the door.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1886,
+  "en": "\r\n//【牧村】\r\n<voice name='牧村' class='その他女声' src='voice/mb03/0070050b51'>\r\n//「良いところへ戻られました。\r\n//　お嬢様の様子をお窺い下さい」\r\n\"Actually, there is. You should check on the young lady when you have a moment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2164,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070060a00'>\r\n//「……一条がなにか？」\r\n\"Has something happened?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2320,
+  "en": "\r\n//【牧村】\r\n<voice name='牧村' class='その他女声' src='voice/mb03/0070070b51'>\r\n//「確かめたわけではございませんので。\r\n//　自分からは、何とも」\r\n\"I'm not certain. I thought it best to wait for you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2571,
+  "en": "\r\n//　それだけ言って、署長の忠実な従者は引き下がった。\r\n\r\n//　……？　どういう事だろう。\r\n//　一条の容態が急変したとかいう話なら、彼女のこと、\r\n//俺などを待ったりせず早急に打つべき手を打っている\r\n//筈。\r\n\r\n//　そういう問題とは別の……\r\n//　何事かが一条にあり、その気配を察して、俺に忠告\r\n//したというわけだろうか。\r\n\r\n//　兎も角も、俺は一条のもとへ向かった。\r\n  She bows, then returns to her duties without another word.\r\n\r\n  Strange. What could be the problem? It can't be related to Ichijo's health. Miss Makimura would have addressed any issue there without waiting for my return.\r\n\r\n  Something else, then, some change that she only㉔<I>sensed.</I> Not cause for alarm, but cause for concern...\r\n  I'd better go see for myself.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3471,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070080a00'>\r\n//「一条……」\r\n\"Ichijo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3596,
+  "en": "\r\n//　一目見れば、異変は明らかだった。\r\n\r\n//　そもそも、俺の声に反応がない。\r\n//　座して、両手をひとつに固めて、祈るような姿勢で\r\n//――違う。<RUBY text='すが'>縋</RUBY>りつくかのように、その手へ額を寄せて。\r\n//少女は、光と音の全てを遮断している様子だった。\r\n\r\n//　溺れかけた人間が唯一の命綱を握り締めるのと全く\r\n//等しい必死さで、少女が掌中へ収めているのは、<RUBY text='さほど'>然程</RUBY>\r\n//高価そうでもない<RUBY text='かんざし'>髪挿</RUBY>――\r\n//　普陀楽で俺が贈った、あの。\r\n  The moment I enter the room, I know that something is wrong.\r\n\r\n  My first clue is the absence of any response. I find Ichijo kneeling by the bed, head bowed over clasped hands. I think at first that she is praying―but no.\r\n\r\n  She is clinging to something―for dear life, like a drowning man would a lifeboat. Shifting my gaze, I spy between her fingers a flash of silver and red.\r\n\r\n  The hairpin I bought for her at the castle.\r\n\r\n  What happened? I take a step toward her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4756,
+  "en": "\r\n//　何があったのか。\r\n//　近寄ってもう一度声を掛けるべく、俺が一歩を踏み\r\n//出すと、その足裏は何かを踏んで軽く滑った。\r\n  My foot makes contact with something on the floor.\r\n\r\n//　反射中枢が姿勢を維持させ、同時に眼球を操作して\r\n//踏んだ物を確認させる。\r\n//　俺の視覚は新聞を捉えた。そして、その見出しも。\r\n  Immediately, my lizard brain selects an appropriate response, calling a halt to my forward motion and directing my eyes to assess the anomaly. The reflected photons from a discarded newspaper paint a headline upon my retinas.\r\n\r\n//　情報が吸収され、脳内に光速の信号が飛び交う。\r\n//　無数の工程を経て、情報は別の形に整理された。\r\n  At the speed of light, that information is shuffled between neurons, broken down and processed, then returned in a new form.\r\n\r\n//　つまりは、俺は理解した。\r\n//　一条の心中に何が起こったのかを。\r\n  That form is called understanding. I㉒<I>understand</I> what has happened to Ichijo.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5879,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070090a00'>\r\n//（知ったのか）\r\n(She knows.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6010,
+  "en": "\r\n//　己のした事が、殺人である――と。\r\n\r\n//　おそらく少女は今まで、無意識に避けていたのだ。\r\n//　遊佐童心を討ち果たした行為をただ勝利、ただ正義\r\n//とだけ考えて。意識はせぬままに〝殺人〟というおぞ\r\n//ましき部分を除けていた。\r\n\r\n//　逃避がもしも意図的なものであったのなら、彼女が\r\n//容易く心を崩されることは無かったろう。\r\n//　だが彼女はそこまで厚顔ではなかった。逆であった。\r\n//何事も正面から向き合うを旨とする人間であった。\r\n\r\n//　だから新聞の見出し一行でさえ無視できなかった。\r\n//　その意味を正しく汲み取り、結果……こうなった。\r\n  She knows what she did.\r\n\r\n　 I suspect that until the moment she opened that newspaper, her subconscious had prevented her from facing the truth―<br>that here,㉒<I>victory</I>㉑and <I>justice</I> are synonymous with <I>murder.</I>\r\n\r\n  If her self-deception had been intentional, the headline would not have broken her so. But Ichijo is incapable of intentionally deceiving anyone, least of all herself.\r\n\r\n  Presented with the naked truth, even in the form of a newspaper headline, she had no choice but to accept it and understand.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7333,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070100a00'>\r\n//「一条」\r\n\"Ichijo,\"</voice> I call again, just a little bit louder than before.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7512,
+  "en": "\r\n//　先程よりも少し強く、しかし強過ぎないように抑制\r\n//して声を掛ける。\r\n//　今度は反応があった。急激に。はっ、と顔を上げた\r\n//一条が俺を正視し、確かめるように一度<RUBY text='まばた'>瞬</RUBY>きする。\r\n  This time, there is a response. Her head snaps up. Her eyes fix on me. She blinks once―<K><?>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7904,
+  "en": "\r\n//　そうして、飛びついてきた。\r\nand the next thing I know, her face is buried in my chest.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8020,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070110a02'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8144,
+  "en": "\r\n//　嗚咽は無かった。涙も無かった。\r\n//　だが、その衝動と戦っていることは明らかだった。\r\n  She sheds no tears, nor makes a sound, but I can tell that it is a struggle. She is on the brink. The slightest lapse in discipline will trigger a flood that will not stop.\r\n\r\n//　あと僅か、ほんの少しでも精神が後退すれば、抵抗\r\n//は潰えるだろう。\r\n//　少女は泣き始め、止め処なく泣き続けるだろう。\r\n\r\n//　それは綾弥一条という一個人の<RUBY text='シ'>終焉</RUBY>を意味する。\r\n  And that will be the end of her.\r\n\r\n//　悲しいなら泣けば良い、と人は云う。\r\n//　確かにそうだ。涙には苦悩を洗い流し、幾らかでも\r\n//痛みを和らげる偉大な効果がある。\r\n  People say that you should cry when you're hurting. It is true. Tears have a wonderful power to cleanse your grief. To soothe your pain.\r\n\r\n//　涙を流して、人は再び現実に立ち向かう活力を得る。\r\n//　だが――殺人という行為に、立ち向かうべき現実は\r\n//存在しない。全ては過去にしかない。\r\n  Through tears, we find the strength to stand and face the future. And that is good―for anyone but a murderer.\r\n\r\n  For someone who has taken a life, there is no future. There is only the past―<br>immutable, <I>final.</I>\r\n\r\n//　殺人とは、対象をそこで<RUBY text='・・・'>終わり</RUBY>にしてしまう行いで\r\n//あるからだ。\r\n//　全てはそこで完結し、後日に修正を加える余地など\r\n//無い。\r\n  That is what it means to kill. And that is why killers such as we can never weep for what we've done.\r\n\r\n  Such tears serve no one but ourselves, serve no purpose but to grant a reprieve from guilt.\r\n\r\n//　ならば、殺人の辛さに耐えかねて流す涙は、己一人\r\n//を救うものでしかないのだ。\r\n//　己の罪に、己のみの<RUBY text='さばき'>意思</RUBY>で与える恩赦だ。\r\n\r\n//　――卑怯。\r\n//　<RUBY text='とてつ'>途轍</RUBY>もなく卑怯である。\r\n\r\n//　だから俺達は泣くことができない。\r\n\r\n//　泣く時は。\r\n//　最低の恥知らずに堕する決意のもと、すべてを忘れ\r\n//去り、あるいは死者の赦しを捏造し――要するに過去\r\n//を否定して異なる新たな生き方を始める時である。\r\n  For us, therefore, to weep is a choice: to forget the truth of our deeds, or perhaps to imagine that we are forgiven. In other words, to reject the past, to reject the㉓<I>self</I>㉕and become some new, shameless creature.\r\n\r\n//　その時はもう、過去と同じ生き方はできない。否定\r\n//したのだから。\r\n//　過去と同じ、殺人をも含めた生き方を続けるならば、\r\n//懺悔の涙を流してはならない。\r\n  One who has undergone this gruesome transformation can no longer return to the life they knew, for that is a part of the past they've denied.\r\n\r\n//　綾弥一条が、今後も綾弥一条で在り続けるために、\r\n//少女は決して泣けないのだ。\r\n//　……しかし。それは果たして彼女の幸福を意味する\r\n//だろうか。\r\n  Thus, Ayane Ichijo will not shed a tear, not if she still wishes to㉓<I>be</I>㉗Ayane Ichijo.\r\n\r\n  And yet, a part of myself asks―can Ayane Ichijo ever be happy?\r\n\r\n  Might not forsaking that name, those duties, be the only way for her to find peace?\r\n\r\n  Of course, the answer is yes. But as sincerely as I want to see her free, I cannot be the one to free her.\r\n\r\n//　ここで涙を流し、全てから逃避してしまった方が、\r\n//一条には幸福ではないのか。\r\n//　そうも思う。いや、どう考えてもそうだろう。\r\n\r\n//　しかしそれを俺が勧めることはできない。\r\n//　一条が犯した殺人には俺も関与している。そして俺\r\n//は過去を捨てられない。まだすべき事がある。過去の\r\n//殺人の継続としての未来を進み、至るべき終着がある。\r\n//\r\n\r\n  I am a party to her crime, and I cannot forsake my past. The only path to my goal derives inescapably from the murders that I have committed.\r\n\r\n//　……銀星号を討つまでは。\r\n//　俺は殺人者の道を行かねばならない。\r\n  Until I end Ginseigo's madness, I must remain a killer.\r\n\r\n//Walk the path of\r\n//　である以上、俺に一条を救う言葉は全く発しようが\r\n//なかった。\r\n//　いや、そもそもそんなもの、殺された遊佐童心以外\r\n//の誰も持ち合わせないのだ。\r\n  And even if I could choose otherwise, it would not be my place to offer her salvation. In truth, the only one who can is the man whom she killed, Yusa Doshin.\r\n\r\n//　一条が自分を救いたく思うなら、自力で救いを<RUBY text='・・'>捏造</RUBY>\r\n//するしかない。\r\n//　その決断を下す権利は、彼女一人のものだ――少女\r\n//の人生の全てを<RUBY text='おとし'>貶</RUBY>める権利は。\r\n  That man is gone. If she desires salvation all the same, then she must find it in a lie.\r\n\r\n  And that must be her decision. Only she has the right to desecrate herself.\r\n\r\n//　俺には何もできない。\r\n//　震える小さな肩を抱く、そんな些細な事だけを唯一\r\n//の例外として。\r\n  For my part, all I can do is hold her as she trembles.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13615,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070120a02'>\r\n//「……ちくしょう……」\r\n\"Fuck...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13755,
+  "en": "\r\n//　懸命に湿度を取り払った声が、少女の喉奥から絞り\r\n//出される。\r\n//　それは、自分自身への罵倒だった。\r\n  When she speaks, her voice has been wrung dry of moisture. I know that the curse is directed at herself.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14023,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070130a02'>\r\n//「っ……くそぉ……！\r\n//　なんでだよ……」\r\n\"Why...!? Fucking... why!?\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070140a02'>\r\n//「なんで……あたしはこんなに弱いんだ……」\r\n\"Why am I so weak!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14382,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070150a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14500,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070160a02'>\r\n//「あたしは、正義を……\r\n//　正義をしなきゃいけない……」\r\n\"There's still... so much evil out there!\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070170a02'>\r\n//「六波羅の山犬どもを、\r\n//　こ――ころ、さ、ない……と……」\r\n\"Those jackals... I have to k―  I have to... kill them!\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070180a02'>\r\n//「う……っ……！\r\n//　なのに……なのに！」\r\n\"But I... I can't...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15131,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070190a00'>\r\n//「一条……」\r\n\"Ichijo...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15258,
+  "en": "\r\n//　何故だ。\r\n//　何故――そこまで。\r\n  What has such a grip on your soul?\r\n\r\n//　問いたかった。だが問えなかった。\r\n//　今、その一言は最後の引金になりかねない……綾弥\r\n//一条を瓦解させる、最後の。\r\n\r\n//　俺にその引金を扱う権利はない。\r\n  I want to know, but I dare not ask. The question could easily trigger a collapse.\r\n\r\n  I do not have that right.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15705,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070200a02'>\r\n//「湊斗さん……教えて……。\r\n//　あなたは……」\r\n\"Tell me... please... Teach me...\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070210a02'>\r\n//「どうして、そんなに強いんですか……」\r\n\"What makes you so strong?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16078,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070220a00'>\r\n//「……強くはない」\r\n\"I'm... not strong.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16223,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070230a02'>\r\n//「嘘……\r\n//　あなたは、同じように戦って、殺して――\r\n//呪いまで背負って。それでも、あたしのよう\r\n//にはなってない……」\r\n\"You are. You've fought and killed, just like me. You even have that curse. But you don't let it stop you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16602,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070240a02'>\r\n//「湊斗さんは……強いよ」\r\n\"You㉓<I>are</I> strong.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16762,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070250a00'>\r\n//「強いのではない。\r\n//　俺は、ただ」\r\n\"That isn't strength. It's <br>just...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16951,
+  "en": "\r\n//　――<RUBY text='す'>磨</RUBY>り減っただけだ。\r\n  Exhaustion.\r\n  ...Resignation.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17059,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070260a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17183,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070270a02'>\r\n//「それでも……\r\n//　それが、戦い続ける助けになるなら」\r\n\"It's the same. It doesn't matter what it is. If that's what lets you fight...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17439,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070280a02'>\r\n//「それは強さなんです。\r\n//　あたしには……その強さがない……！」\r\n\"Then it's the same thing.\r\n  I㉓<I>need</I>㉔that strength!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17694,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070290a00'>\r\n//「一条」\r\n\"You need to rest.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17823,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070300a02'>\r\n//「湊斗さんの強さが欲しい」\r\n\"I need it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17972,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070310a02'>\r\n//「奪ってでもっ……！」\r\n\"Even if I have to take it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18131,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070320a00'>\r\n//「……そんなものは奪えない」\r\n\"You can't.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18283,
+  "en": "\r\n//　奪う必要もない。\r\n//　……だが、一条にとっては違うのか。\r\n\r\n//　どうしても、必要なのか。\r\n//　戦い続けるための――何かが。\r\n\r\n//　……それがお前の<RUBY text='・・'>決断</RUBY>なのか。\r\n  And she㉓<I>doesn't</I>㉑need it.\r\n\r\n  But no. Perhaps she does.\r\n\r\n  Perhaps she truly does need something,㉓<I>anything</I>㉑to let her fight.\r\n\r\n  Is that your answer, Ichijo?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18740,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070330a02'>\r\n//「なら……\r\n//　あなたが、奪ってください」\r\n\"Then... you do it.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070340a02'>\r\n//「あたしを」\r\n\"You㉗<I>take</I>㉓me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19052,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070350a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19170,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070360a02'>\r\n//「湊斗さんと……\r\n//　一つに、して」\r\n\"Let me be a part of you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19346,
+  "en": "\r\n//　男性的な本能は、意味を誤解させてくれなかった。\r\n//　彼女が今、心底、<RUBY text='・・'>それ</RUBY>を求めている事も。\r\n  My male instincts are too strong to permit me even a moment of blessed ignorance. I realize instantly what she is asking, and that she wants it more than anything.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19690,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0070370a00'>\r\n//「一条」\r\n\"I―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19806,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070380a02'>\r\n//「お願いです。\r\n//　一度だけでいいんです」\r\n\"Please. Just once.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0070390a02'>\r\n//「一度だけ……\r\n//　そうしてくれれば、あたしは」\r\n\"Just once... and I'll be okay.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20177,
+  "en": "\r\n//　逡巡する。\r\n//　求められている事に、ごく単純な喜びはある。昂り\r\n//もある。\r\n  My pulse rises. My pupils expand. A primal excitement swells within me.\r\n\r\n//　だが、それに身を任せて良いのか。\r\n//　それは少女を本当の意味で救うのか。\r\n  But should I surrender to its urgings? Will that save her? Truly?\r\n\r\n//　俺にはわからない。\r\n//　\r\n//　だが、俺は全て彼女自身の決断に委ねると決めたの\r\n//ではなかったか。\r\n  I do not know. But I swore, didn't I, that I would follow where she led?\r\n\r\n//　その決断を彼女が下したのなら。\r\n//　俺がすべきは――それを尊重することだけ、か。\r\n  If this is her decision... then I can only obey.\r\n",
+  "pt": ""
+ }
+]

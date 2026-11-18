@@ -1,0 +1,477 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　伝言に示された場所に向かい。\r\n//　走る。走る。走る。\r\n  How long have I been running? Hours, I am certain. The sun is low in the blood-<br>red sky.\r\n\r\n//　時間は経った――経ち過ぎた。\r\n//　村正を奪われてから、何時間になるだろう。\r\n\r\n//　陽は傾き、空は赤らみ始めている。\r\n\r\n//　無事だ。まだ無事、その筈だ。\r\n//　雪車町の目的が何であろうと、村正を殺す必要など\r\n//無い筈だ。\r\n  There's still time. There has to be. Whatever Sorimachi's objective, he has no reason to kill Muramasa.\r\n  And so, though my calls remain unanswered, I refuse to believe that she's gone.\r\n\r\n  She'll be there, at the end of this road, in the place Sorimachi said he'd be waiting. I will save her.\r\n\r\n  I will save her!\r\n\r\n\r\n//　だから無事でいる。\r\n//　そう信じる。\r\n\r\n//　例え未だ村正との通信が途絶したままでも。\r\n//　幾ら呼び掛けてもいっかな反応が無くとも。\r\n\r\n//　生きていてくれる。\r\n//　きっと。絶対に。必ず。\r\n\r\n//　だから急がなくてはならない。\r\n//　一秒でも早く。村正のもとへ。助け出すために。\r\n\r\n//　走る――――\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1469,
+  "en": "\r\n//　そこはただの荒地だった。\r\n//　草が<RUBY text='ぼうぼう'>苞々</RUBY>に生え、大小の<RUBY text='いしころ'>石塊</RUBY>も無数に転がっている。\r\n\r\n//　そんな中で枯れ木のように、雪車町一蔵はいた。\r\n//　岩に預けていた腰を持ち上げ、俺の方へ数歩、歩み\r\n//寄る。\r\n  This is it. A desolate lot, empty but for weeds and rocks.\r\n\r\n  And there Sorimachi stands, like a gnarled, leafless tree.\r\n\r\n  Pushing away from the rock against which he was leaning, he closes the distance to me a few paces.\r\n\r\n//　そこで止まった。\r\n  And with a few paces still between us, he stops.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2148,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330010a12'>\r\n//「よう」\r\n\"Hey there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2279,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330020a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2397,
+  "en": "\r\n//　……村正の姿は見当たらない。\r\n  I don't see Muramasa. What is his game? I expected him to offer a trade, though for what, I haven't a clue.\r\n\r\n  Did he hide her elsewhere, in case I attack? What does he―\r\n\r\n  No. Calm down, Kageaki. You know how to get the answer.\r\n\r\n//　人質に取り、何かを要求するのではないかと思った\r\n//が。どういうつもりだろう。\r\n//　連れていては即座に奪回される恐れもあると踏んで、\r\n//別の所へ隠しているのか……？\r\n\r\n//　冷静に。\r\n//　冷静にならねば。\r\n\r\n//　まずは安否を確かめよう。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3037,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330030a00'>\r\n//「村正は何処だ」\r\n\"Where is she?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3174,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330040a12'>\r\n//「江ノ島以来……だなァ？\r\n//　こうやって、不細工な<RUBY text='つら'>面</RUBY>を突きつけ合うの\r\n//は……」\r\n\"Been a while, hasn't it? Enoshima―last time you saw my ugly mug.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3492,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330050a12'>\r\n//「け、け……！\r\n//　まあ俺の方は、その貧乏神も寄り付かねえ\r\n//ような面、陰から拝ませてもらってたがよぅ」\r\n\"Keh...! Been keeping an eye on yours, though. Now there's one only a mother could love.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3840,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330060a00'>\r\n//「村正は何処だ！」\r\n\"WHERE IS SHE!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3981,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330070a12'>\r\n//「け、け、けェ……！」\r\n\"Heh heh heh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4135,
+  "en": "\r\n//　死体漁りの鴉が笑うに酷似した声。\r\n//　\r\n//　落ち着け……落ち着け！\r\n\r\n//　切札は向こうの手にある。\r\n//　焦ってはならない。\r\n  He caws like a raven pecking at a corpse. I force myself once again to be calm.\r\n\r\n  Remember. He holds all the cards.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4448,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330080a12'>\r\n//「ご執心じゃねェか。\r\n//　たかが劒冑に……何をそんな、入れ込んで\r\n//やがるんだァ？」\r\n\"What's the big deal? Relax, Officer. Why lose your shit over some hunk of metal, huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4764,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330090a00'>\r\n//「お前に説明する必要はない。\r\n//　村正を返せ」\r\n\"That's none of your concern. Return her at once.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4979,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330100a12'>\r\n//「こっちも惚気なんか聞く義理も<RUBY text='ね'>無</RUBY>ぇなァ。\r\n//　さて、返せ……返せとくらァ」\r\n\"Yeah, you're right. I don't care what you two see in each other.\r\n  But give her back? Well, as to that...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5327,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330110a12'>\r\n//「へへ、どう返そうかねえ？」\r\n\"The question is how do you want her?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5514,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330120a00'>\r\n//「…………。\r\n//　お前は、俺に報復したいのだろうが」\r\n\"...I assume you're here for revenge. So be it.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330130a00'>\r\n//「どんな要求でも聞いてやる」\r\n\"I'll give you whatever you want.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5902,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330140a12'>\r\n//「ふへっ、へへェ……！\r\n//　そいつはありがてえ。何でもしてくださる\r\n//ってかァ」\r\n\"Hehe! Oh yeah? Whatever I want?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6158,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330150a12'>\r\n//「へッ、へッ……馬鹿くせえや。\r\n//　てめェなんぞに何ができる？　てめェに何\r\n//の値打ちがあるってんだァ？」\r\n\"Heh... What a joke. You think you have something I want? Nah. You ain't worth shit.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6505,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330160a12'>\r\n//「けけ……けけけ！」\r\n\"Heh... hehehe!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6658,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330170a00'>\r\n//「……っ。\r\n//　なら、目的は何だ！」\r\n\"Then what is it!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6827,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330180a00'>\r\n//「お前はどうするつもりだ!?」\r\n\"What are you planning!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6991,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330190a12'>\r\n//「どうするも……こうするも。\r\n//　ひェッ、ヘヘ」\r\n\"Nothing. Heh. Nothing at <br>all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7203,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330200a12'>\r\n//「もうやるこたァ、やっちまったさ」\r\n\"Already done what I wanted to do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7396,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330210a00'>\r\n//「何が言いたい」\r\n\"Explain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7528,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330220a12'>\r\n//「脳味噌あるだろう？\r\n//　使ってみたらどうだ？」\r\n\"You got a brain, don't you? Figure it out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7749,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330230a12'>\r\n//「くけっ、ケケ……！」\r\n\"Heh! Heh heh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7904,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330240a00'>\r\n//「答えろ！\r\n//　村正は、何処だ!!」\r\n\"Where is she!? Tell me!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8075,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330250a12'>\r\n//「ヒヒ……」\r\n\"Hehe...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8209,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330260a12'>\r\n//「いねぇよ」\r\n\"She's gone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8347,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330270a00'>\r\n//「……何？」\r\n\"...What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8473,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330280a12'>\r\n//「いねぇ」\r\n\"Gone.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330290a12'>\r\n//「もう、何処にも、いねぇ」\r\n\"Your Muramasa's gone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8763,
+  "en": "\r\n//　雪車町が繰り返す単純な言葉。\r\n//　その意味が理解できない。\r\n  The words are so simple, but I can't understand.\r\n\r\n//　いない？\r\n//　<RUBY text='・・・・・'>もういない</RUBY>……？\r\n  Muramasa is㉓<I>gone?</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9035,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330300a00'>\r\n//「何を言っている」\r\n\"What are you saying?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9182,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330310a12'>\r\n//「クヒ、ヒヒ……！\r\n//　どうやら脳味噌、腐り切って溶けちまった\r\n//らしいや」\r\n\"Heh! Hehehe! Guess I was wrong about you having a brain.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330320a12'>\r\n//「こんなこともわからねえたァなァ」\r\n\"You really don't hear what I'm saying?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9647,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330330a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9771,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330340a12'>\r\n//「わかってるだろうが」\r\n\"Nah, you hear. You get it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9939,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330350a12'>\r\n//「殺した。\r\n//　もう殺したって、言ってんだよ」\r\n\"I killed your girl. She's <br>dead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10150,
+  "en": "\r\n//　\r\n//　　　　　　　　　　　殺した。\r\n \r\n \r\n \r\n \r\n \r\n<center>Dead.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10246,
+  "en": "\r\n//　その一語を、<k>誤解するのは不可能だった。\r\n\r\n//　殺した。\r\n//　この男が。\r\n  At last, the meaning is impossible to deny.\r\n\r\n  Sorimachi killed Muramasa.\r\n\r\n  She's㉗<I>dead.</I>\r\n\r\n\r\n//　殺した。\r\n//　村正を。\r\n\r\n//　<RUBY text='・・・・・・'>村正を殺した</RUBY>。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10582,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330360a00'>\r\n//「……嘘を言うな」\r\n\"...You're lying.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10725,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330370a12'>\r\n//「ヒヒッ、ふヘ……」\r\n\"Hehehe...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10873,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330380a00'>\r\n//「嘘だ。お前は嘘を」\r\n\"You're lying!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11016,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330390a12'>\r\n//「クヒヒヒヒヒヒヒ」\r\n\"HEHEHEHEHE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11166,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330400a00'>\r\n//「嘘を、」\r\n\"You... You're...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11297,
+  "en": "\r\n//　雪車町が上着の裏から何かを取り出し、投げた。\r\n//　人の手より一回り大きい程度のもの。\r\n  Sorimachi reaches into his back pocket, then tosses something at my feet.\r\n\r\n  I look down. It's about the size of a fist, with the dull shine of steel and the tint of dry blood.\r\n\r\n//　赤い。\r\n//　鮮血を思わせる真紅。\r\n\r\n//　鈍い輝き。\r\n//　金属の光沢。\r\n\r\n//　甲鉄。\r\n\r\n///　村正の甲鉄。\r\n\r\n//　その、――――断片。\r\n  Armor. A piece of Muramasa.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11840,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330410a00'>\r\n//「村正」\r\n\"Muramasa...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11963,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330420a00'>\r\n//「村正！」\r\n\"Muramasa!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12087,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330430a00'>\r\n//「村正ァ!!」\r\n\"MURAMASA!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12213,
+  "en": "\r\n//　その<RUBY text='な'>銘</RUBY>を呼ぶ。\r\n\r\n//　劒冑と仕手は不離一体。\r\n//　遠く隔てられていても呼び声は必ず届く。\r\n\r\n//　届けば、応えてくれる。\r\n//　応えが来る――\r\n  I call her name. We are one, souls entwined. My voice will reach, and she will answer.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12541,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330440a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12665,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330450a12'>\r\n//「ひ……ひひ……」\r\n\"Heh... hehe...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12815,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330460a00'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12951,
+  "en": "\r\n//　俺の足元に投げ捨てられた甲鉄は、そのまま。\r\n//　屑のように転がっている。\r\n  Nothing. The metal at my feet is silent, still.㉓<I>Lifeless.</I>\r\n\r\n  Like a stone.\r\n\r\n//　屑のように。\r\n//　そこらの石と同じ、何の生命も宿らぬもののように。\r\n\r\n//　赤い甲鉄。\r\n\r\n//　それは今、<k>ただの残骸で、\r\n\r\n  ...Like a corpse.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13366,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330470a00'>\r\n//「オアアアアアアアアアアアアアア!!」\r\n\"AHHHHHHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13534,
+  "en": "\r\n//　血という血が<RUBY text='は'>爆</RUBY>ぜた。\r\n  My blood bursts into flame. I charge, feet scorching the weeds. \r\n\r\n  Sorimachi reaches for his cane, but I am faster. I am already there, and my fist is primed.\r\n\r\n  I strike.\r\n\r\n\r\n//　草の上を飛ぶ。飛んで駆ける。\r\n//　その男を狙って疾走する。\r\n\r\n//　雪車町の手が仕込み杖に伸びた。\r\n//　遅い――俺の方が早い。\r\n\r\n//　指呼の間へ飛び込む。\r\n//　右拳を振りかぶり。\r\n\r\n//　殴る。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14066,
+  "en": "\r\n//　痩せぎすの体が吹き飛んだ。\r\n//　杖が落ちる。\r\n\r\n//　追う。\r\n\r\n//　大股に一歩を踏み込んで。\r\n//　もう一度。\r\n  He staggers back, cane falling from his grasp. I lunge, giving chase.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14307,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330480a12'>\r\n//「けェッ!!」\r\n\"KEH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14437,
+  "en": "\r\n//　その出鼻に、叩き込まれた。\r\n//　雪車町の拳が俺の頬を抉り、視界が火花の渦と化す。\r\n  This time, his fist is there to meet me. My cheekbone cracks. Stars burst behind my eyes.\r\n\r\n  My knees buckle, but I force them to carry me forward. My own fist lands.\r\n\r\n//　構わない。\r\n//　膝にまで響く打撃を無視して、返しの一撃。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14835,
+  "en": "\r\n//　数歩、たたらを踏み。\r\n//　それでも雪車町は倒れなかった。\r\n\r\n//　俺の両肩を掴んで、信じ難い剛力で引き込み、腹に\r\n//膝頭を突き入れてくる。\r\n  He staggers again, but does not fall. He seizes my shoulders, and with unbelievable strength, drives his knee into my gut.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15175,
+  "en": "\r\n//　大量の苦汁が喉を越え、口腔に湧き出す。\r\n//　吐く。\r\n\r\n//　更に雪車町は、俺の背へ肘を打った。\r\n//　連続して。鋭い衝撃に背骨が歪む。\r\n  Bile sprays from my mouth. As I choke, Sorimachi strikes from behind. His fists and elbows batter my spine, driving my face toward the ground.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15528,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0330490a00'>\r\n//「ぐァァァァ!!」\r\n\"GAHHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15663,
+  "en": "\r\n//　吼えた。\r\n//　前屈した体勢のまま、死力を尽くす。\r\n\r\n//　強引な投げ。\r\n//　無理矢理に、雪車町の体を地面へ倒す。\r\n  I roar and, seizing his wrist, use all my strength to throw him.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15908,
+  "en": "\r\n//　俺も諸共に引き倒された。\r\n//　組み合ったまま、殴り合う。\r\n  We fall together in a tangle of limbs, and still the blows keep coming.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16082,
+  "en": "\r\n//　殴る。\r\n//　殴られる。\r\n\r\n  His fists dig deep, heavy with hate. But my hate is no less.\r\n\r\n//　雪車町一蔵は俺を憎悪していた。\r\n//　俺は雪車町一蔵を憎悪していた。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16302,
+  "en": "\r\n//　殴る。\r\n\r\n//　憎い。\r\n//　この男が憎い。\r\n  Hate.<K> Hate is all I know. The reasons are forgotten.\r\n\r\n//　理由は何処かに吹き飛んでいた。\r\n\r\n//　憎い。\r\n//　ただ憎い。\r\n  From the very beginning, there was nothing else between us.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16590,
+  "en": "\r\n//　殴る。\r\n\r\n//　いつしか、殴っているのは俺だけだった。\r\n\r\n//　雪車町は動かない。\r\n//　俺に殴られ、殴られながら笑っている。\r\n  Eventually I realize that Sorimachi has stopped fighting. He lies there, laughing as I rain blows upon him.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16892,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330500a12'>\r\n//「へっ……へへ」\r\n\"Heh... heh heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17042,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330510a12'>\r\n//「いい、面だ」\r\n\"There it is.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330520a12'>\r\n//「それでいい」\r\n\"That's the look.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17322,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330530a12'>\r\n//「わっかりやすいぜぇ……」\r\n\"Ain't no question what you want now.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330540a12'>\r\n//「俺が憎くて、殺したいんだろう？」\r\n\"You want it so bad I can taste it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17692,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330550a12'>\r\n//「てめぇは今……俺を殺したくて、殺そうと\r\n//してる」\r\n\"Yeah. You wanna kill me... so that's what you're gonna do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17935,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330560a12'>\r\n//「それでいいんだァ……」\r\n\"That's what I'm talking about.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18110,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330570a12'>\r\n//「今までは、そうじゃなかった」\r\n\"You didn't have it before.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18290,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330580a12'>\r\n//「てめぇは嫌々、殺してた……」\r\n\"Before, you didn't want it.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330590a12'>\r\n//「いつも、そうだったんだろう？」\r\n\"You never wanted it, did <br>ya?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18652,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330600a12'>\r\n//「みっともなかったぜぇ……」\r\n\"What a sorry bastard...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18826,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330610a12'>\r\n//「人を、殺しておいて……\r\n//　本当はこんなことしたくなかったんだって\r\n//言いたくて、泣く」\r\n\"Killing, then crying like you wished you could take it back.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330620a12'>\r\n//「じゃあ、やるなってんだァ……。\r\n//　てめぇに殺された奴はみんな、そう言うぜ」\r\n\"Why'd you do it, then? That's what they're all <br>saying.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19400,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330630a12'>\r\n//「呪いの<RUBY text='つるぎ'>村正</RUBY>を抱えてどっかに引き篭もって\r\n//りゃあ良かった……」\r\n\"Shoulda gone and hid on some mountain, cursed tsurugi and all.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330640a12'>\r\n//「それを、てめぇはしゃしゃり出てきて……\r\n//　世界のためだか、より多くの人を救うため\r\n//だか、<RUBY text='・・・・・・・'>誰も頼んでねえ</RUBY>使命を勝手に背負って、\r\n//本当は殺したくないくせに殺して……泣いた」\r\n\"But no, you were the man with a㉓<I>mission,</I>㉗had to save the world.\r\n  Well who the fuck asked you, huh? Who asked you to go 'round killing kids, then cry about it after?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20273,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330650a12'>\r\n//「くだらねえ」\r\n\"<I>Fuck</I>㉗you.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330660a12'>\r\n//「勝手に殺しておいて、自分を憐れみやがる\r\n//たァ……」\r\n\"Acting like you had no choice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20631,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330670a12'>\r\n//「胸糞悪い」\r\n\"Made me sick.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20771,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330680a12'>\r\n//「反吐が、出るぜ」\r\n\"You worthless motherfucker.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20934,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330690a12'>\r\n//「今はいい」\r\n\"But now...\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330700a12'>\r\n//「いい面だ」\r\n\"Now you got the㉓<I>look.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21220,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330710a12'>\r\n//「憎んで憎んで、殺したくて殺したくて堪ら\r\n//なくて殺す面だァ」\r\n\"The look of a real killer, who wants it more than anything.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21479,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330720a12'>\r\n//「みんなそうやって、殺しゃあ良かった」\r\n\"That's how you shoulda killed 'em all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21683,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330730a12'>\r\n//「……あの蝦夷の餓鬼共もなァ！」\r\n\"That's how you shoulda killed those girls!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21882,
+  "en": "\r\n//　五月蝿い。\r\n//　黙れ。\r\n\r\n//　貴様の声など聞きたくない。\r\n\r\n//　殴る。\r\n//　黙らせたくて、殴る。\r\n  Enough. I focus my blows on his face, desperate to silence him forever.\r\n\r\n  And still Sorimachi keeps laughing.\r\n\r\n\r\n//　止まらない。\r\n//　雪車町は笑い続ける。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22215,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330740a12'>\r\n//「殺せ」\r\n\"Do it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22342,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330750a12'>\r\n//「殺せェ……」\r\n\"Do it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22478,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0330760a12'>\r\n//「その面で、殺してみせろォ！」\r\n\"Kill me with a smile!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22653,
+  "en": "\r\n//\r\n//　殺す。\r\n \r\n \r\n \r\n \r\n \r\n<center>Die.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22712,
+  "en": "\r\n//　石を、掴んだ。\r\n//　硬く、尖った石だ。\r\n\r\n//　これなら殺せる。\r\n\r\n//　額に叩き付ければ、一撃だ。\r\n  A stone is in my hands, heavy, hard, and sharp. One blow to the skull will end it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22951,
+  "en": "\r\n//\r\n//　殺す。\r\n \r\n \r\n \r\n \r\n \r\n<center>Die!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23010,
+  "en": "\r\n//　俺は、\r\n//　石を振りかぶって、\r\n  I raise the stone above my head―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23108,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 23120,
+  "en": "Kill him",
+  "pt": ""
+ },
+ {
+  "offset": 23136,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 23148,
+  "en": "...I can't.",
+  "pt": ""
+ }
+]

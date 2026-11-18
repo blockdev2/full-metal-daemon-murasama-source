@@ -1,0 +1,177 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300010a00'>\r\n//「村正！」\r\n\"Muramasa!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 337,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300020a00'>\r\n//「村正――」\r\n\"...Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 467,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300030a00'>\r\n//「……くッ!!」\r\n\"...Damn it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 598,
+  "en": "\r\n//　馬鹿が。\r\n//　何を血迷っている――だから今はその劒冑、村正が\r\n//奪われているのだ！\r\n  Fool! Muramasa was taken! Do you not know what that means!?\r\n\r\n  Blind with rage at my own stupidity, I nearly miss the important question. Why doesn't Muramasa respond?\r\n\r\n  A tsurugi and its master are inseparable. No distance can sever their bond.\r\n\r\n  Has she lost consciousness? Is her damage that great?\r\n\r\n  Or is she already...\r\n\r\n\r\n//　村正を助けるのに村正の力を頼れる筈がない。\r\n//　馬鹿。何を錯乱して。愚劣な。\r\n\r\n//　しかし……応答が無いというのは、如何なる事だ。\r\n//　仕手と劒冑の縁は不断のもの。どれほど距離が遠か\r\n//ろうと、繋がりを失う事などない。\r\n\r\n//　考えられるとすれば……\r\n//　応答もしかねる程、深刻な損傷を受けているか。\r\n\r\n//　あるいは、<k>\r\n//　その域を通り越して、<k>\r\n//　村正は……既に…………\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1624,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300040a00'>\r\n//「……!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1739,
+  "en": "\r\n//　胸中に湧いた、不吉の影を払い捨てる。\r\n//　有り得ない。あってはならない事だ。\r\n  I banish the thought. That cannot be.\r\n\r\n//　とにかく追おう。\r\n//　自前の足では駄目だ。劒冑も使えない。何か別の。\r\n  The next station. That's where I'll find her. But how do I get there? I cannot fly, and on foot, I am far too slow.\r\n\r\n//　別の――何か……\r\n  There must be something...\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2202,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300050a00'>\r\n//「良し……！」\r\n\"Of course!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2333,
+  "en": "\r\n//　思い付いて、俺は線路から飛び出した。\r\n  Bolting from the track, I run to the road.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2450,
+  "en": "\r\n//　大通りに直面する。\r\n//　そこで、俺は周囲を見回した。\r\n\r\n//　この辺りならある筈だ。\r\n//　何処に……何処に……？\r\n  The street in front of the station is crowded. I search frantically for what I need.\r\n\r\n  There! A bus!\r\n\r\n  I run. The bus is just pulling into its stop. Perfect timing. I know this line. It will get me to the next station soon after the train arrives.\r\n\r\n//　あった。\r\n\r\n//　<RUBY text='バス'>大型乗合自動車</RUBY>の停留所。\r\n//　見つけたそこへ、全力で走る。\r\n\r\n//　バスは……今、向こうから来るところだ！\r\n//　折が良かった。\r\n\r\n//　路線も間違いない。\r\n//　これに乗れば、鉄道に次ぐ速度で隣駅まで行ける。\r\n\r\n//　俺が停留所に着くと同時、バスが止まった。\r\n//　乗車口が開く。\r\n\r\n//　しかし――乗れない。\r\n//　人が多い。\r\n  The doors open―but no! There's a line! A wall of prospective passengers blocks me, boarding with interminable sloth.\r\n\r\n  There's no time!\r\n\r\n\r\n//　遅々と乗り込んでゆく客の列が壁になって、バスに\r\n//近付けない。\r\n//　\r\n//　この――こちらは急ぎだ！\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3684,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300060a00'>\r\n//「失礼！」\r\n\"Pardon me!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3809,
+  "en": "\r\n//【ｅｔｃ／乗客女】\r\n<voice name='ｅｔｃ／乗客女' class='その他女声' src='voice/md06/0300070e130'>\r\n//「きゃっ……何!?」\r\n\"Wh- What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3985,
+  "en": "\r\n//【ｅｔｃ／乗客男】\r\n<voice name='ｅｔｃ／乗客男' class='その他男声' src='voice/md06/0300080e131'>\r\n//「おい、押すな！」\r\n\"Hey! No pushing!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4168,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300090a00'>\r\n//「急用で――」\r\n\"It's urgent!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4301,
+  "en": "\r\n//【ｅｔｃ／乗客女】\r\n<voice name='ｅｔｃ／乗客女' class='その他女声' src='voice/md06/0300100e130'>\r\n//「ちゃんと並びなさいよ！」\r\n\"Wait your turn!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4495,
+  "en": "\r\n//　いちいち相手してはいられない。\r\n//　人を掻き分け、押し退けて、前へ。\r\n\r\n//　もう少し。\r\n  I don't have time! I push through, working my way to the front.\r\n\r\n  Almost―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4718,
+  "en": "\r\n//【ｅｔｃ／乗客男】\r\n<voice name='ｅｔｃ／乗客男' class='その他男声' src='voice/md06/0300110e131'>\r\n//「この野郎!!」\r\n\"Back the fuck up!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4895,
+  "en": "\r\n//　やにわに視界が回り、路上に両手を突く。\r\n//　\r\n//　……突き飛ばされた!?\r\n  The world spins. Suddenly I'm on my hands and knees.\r\n\r\n  Did someone push me? Looking up, I see a throng of sneering faces. Serves him right, they all seem to say. \r\n\r\n//　無様な格好で見上げると、人々が俺を嘲笑していた。\r\n//　何だありゃ――みっともなぁい――ざまぁ見ろ馬鹿、\r\n//と。\r\n\r\n//　何を……この連中は！\r\n//　俺が必死だとわからないのか。\r\n  Disbelief grips my heart. What's wrong with them!? Don't they know what's at stake!?\r\n\r\n\r\n//　大事な人の安否が懸かっている。\r\n//　一秒を争っている――わからないのか！\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5644,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300120a00'>\r\n//「くっ……！」\r\n\"Kuh...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5772,
+  "en": "\r\n//　膝に力を入れて立つ。\r\n//　乗車口に駆け寄る。\r\n  I climb to my feet and run for the bus.\r\n\r\n//　あと一歩。<k>\r\n  The door is there!<K>\r\n<?>",
+  "pt": ""
+ },
+ {
+  "offset": 5951,
+  "en": "\r\n//　――俺の目前で、扉は閉ざされた。\r\n  It shuts in my face.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6040,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300130a00'>\r\n//「車掌！」\r\n\"Please!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6162,
+  "en": "\r\n//【ｅｔｃ／車掌】\r\n<voice name='ｅｔｃ／車掌' class='その他男声' src='voice/md06/0300140e105'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6320,
+  "en": "\r\n//　俺の声に、ハンドルを握る初老の男性は、鼻で嗤い\r\n//返しただけだった。\r\n//　そっぽを向いて、アクセルを踏み込む。\r\n  But the driver scoffs and steps on the gas. He does not even look my way.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6575,
+  "en": "\r\n//　バスが走り出した。\r\n//　窓の向こうでまだ数人、俺を指差して笑っている。\r\n  I watch, helpless, as the bus pulls away. Through the windows, people point at me and laugh.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6791,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0300150a00'>\r\n//「あ……あぁ」\r\n\"No... No!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6921,
+  "en": "\r\n//　行ってしまった。\r\n//　次のバスを待たねばならない。\r\n  The bus is gone. I'll have to wait for the next. How long will that take? Ten minutes? Twenty?\r\n\r\n  There's no time! Why is this happening!?\r\n\r\n  It's wrong!\r\n\r\n  It's cruel!\r\n\r\n\r\n//　あと何分か……何十分か。\r\n//　このような時なのに！\r\n\r\n//　どうしてこんな事になる……？\r\n//　不条理ではないか。\r\n\r\n//　余りに無情ではないか。\r\n\r\n//　こんな事が許されるのか。\r\n//　こんな事が……！\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7476,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/md06/0300160b05'>\r\n//「そうしてください。\r\n//　あては難しいことはわかりませんけど……\r\n//こんな大怪我をしている人が出ていくなんて、\r\n//そんなの駄目です」\r\n\"Yes, please stay. All this talk of battles is beyond me, but I know we mustn't let an injured man leave.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7872,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/md06/0300170b06'>\r\n//「んーっ？\r\n//　ねーや、にーやはどうしたの？」\r\n\"Huh? Is the big man going somewhere?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8075,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/md06/0300180b05'>\r\n//「にーや、おうちに帰りたいんだって」\r\n\"He wants to go home, Funa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8255,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/md06/0300190b06'>\r\n//「えーっ、そんなのやだ！\r\n//　もっといてほしい……」\r\n\"Huh!? Don't go, mister! I wanna talk more...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8475,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/md06/0300200b05'>\r\n//「そうよねっ。\r\n//　ほら、お武家様。ふなもこう言ってます」\r\n\"So do I. Look, noble samurai. Funa is begging.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8706,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/md06/0300210b05'>\r\n//「う……ごめんなさい。\r\n//　でも二人とも、昨日からここに詰めっきり\r\n//でしょ？　朝御飯、食べてないんじゃないか\r\n//と思って」\r\n\"Yes... I'm sorry, but you've been stuck out here since yesterday. I thought you might want breakfast.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9087,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/md06/0300220b06'>\r\n//「つくった！\r\n//　もってきた！」\r\n\"We made it! Here!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9250,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/md06/0300230b05'>\r\n//「お武家様……その、ご迷惑でしたか？」\r\n\"Um... is it a bother?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9428,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/md06/0300240b06'>\r\n//「くえ！」\r\n\"Eat!\"\r\n",
+  "pt": ""
+ }
+]

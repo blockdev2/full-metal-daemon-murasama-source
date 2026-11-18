@@ -1,0 +1,257 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　……少し、降り始めたようだ。\r\n//　\r\n//　壁が薄いからか、小雨の音がよく響く。\r\n  That night, it rains. Though the sound is light, it echoes clearly through the house's thin walls.\r\n\r\n//　橋の再建を始めてよりこのかた、俺は<RUBY text='ひかり'>光</RUBY>の家で厄介\r\n//になっている。\r\n//　外れとはいえ鎌倉市内。署長宅から通うに不都合は\r\n//無いのだが――理由あってこうしていた。\r\n  Ever since beginning this project, I have stayed at the home of little Hikari. Convenience is not the primary reason. It is closer to the worksite than the commissioner's residence, but not by a significant degree.\r\n\r\n//　家主への返礼は食料ほか生活必需品である。\r\n//　今の時勢そして子供の一人暮らしという事情を思う\r\n//に、現金よりこの方が良かろうと考えたのだ。\r\n  For the use of her home, I have repaid the young landlady with food and various necessities, reasoning that a child in her circumstances would find them more useful than money.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1324,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170010a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1448,
+  "en": "\r\n//　一度、一緒に暮らさないかと持ち掛けてみた。\r\n//　その返答は迷いなく。\r\n  I did make one attempt to convince her to come live with me. She turned it down without hesitation, declaring that she would stay until her mother came back.\r\n\r\n  I did not try to explain how unlikely that was, that mothers who abandon their children almost never return. As alone as she seems, she still has a family as long as she believes that she does. I do not have the right to take that from her.\r\n\r\n//　ここで母の帰りを待つからと、光は首を横に振った。\r\n//　\r\n//　以来、その話はしていない。\r\n\r\n//　前触れもなく姿を消したという母親が戻る見込みは\r\n//皆無に近い――そう思う。\r\n//　死んでいれば当然、生きていてもだ。\r\n\r\n//　しかし、そこまで口にして光を説き伏せるべきとは\r\n//思われなかった。それは全く彼女にとって良い事では\r\n//ないと思えた。\r\n//　だから俺は口を噤んだ。\r\n\r\n//　彼女は独りきりに見える。\r\n//　だが家族は<RUBY text='・・・・'>まだいる</RUBY>のだ――彼女がそう信じる限り。\r\n//俺の独断でそれを取り上げて良い筈はない。\r\n\r\n//　俺にできる親切とは、他人同士の距離を踏み越える\r\n//事ではなく守る事であった。彼女の聖域を侵さぬよう。\r\n//　その距離から今、光は俺に不分明な眼差しを注いで\r\n//いる。\r\n\r\n  The greatest kindness I can offer, then, is to honor her need for this sanctuary and maintain whatever distance she allows.\r\n\r\n  And from that distance, she is presently watching. I cannot read the look in her eyes.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3191,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170020a00'>\r\n//「……？　何か？」\r\n\"Is something the matter?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3342,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170030b34'>\r\n//「かげあきは……」\r\n\"Um...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3480,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170040b34'>\r\n//「どうして、がんばるの？」\r\n\"Why are you trying?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3644,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170050a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3768,
+  "en": "\r\n//　言葉足らずの問い掛けは、それでも意味明瞭だった。\r\n//　問われているのは、難民を語らって橋の建て直しを\r\n//試みる俺の振舞いだ。\r\n\r\n//　彼女は一部始終を見ていたのか。\r\n//　それとも見るまでもなく、大人にはない不可思議な\r\n//感性で俺が<RUBY text='・・・・・・'>頑張っている</RUBY>事を悟ったのか。\r\n  Though her question lacks a fair bit of clarity, I do not misunderstand. \r\n\r\n  Did she see me working with the men at the bridge? Or was it instinct, the sort that only children possess?\r\n\r\n  Either way, she is right. I am㉗<I>trying.</I>\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4442,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170060b34'>\r\n//「どうして？」\r\n\"Why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4573,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170070a00'>\r\n//「……は。それは……\r\n//　みんなに仲良くして欲しいからです」\r\n\"Well... because I want everyone to get along.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4806,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170080b34'>\r\n//「なかよく？」\r\n\"Get along?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4943,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170090a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5059,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170100b34'>\r\n//「どうして？」\r\n\"Why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5190,
+  "en": "\r\n//　繰り返しの疑問。\r\n//　俺は脳裏で言葉を選んだ。\r\n\r\n//　……適切かどうかわからないが……\r\n  This time it takes longer to find the right words.\r\n\r\n  I hope these will do...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5414,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170110a00'>\r\n//「和を以て貴しとす」\r\n\"Peace is the noblest pursuit.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5573,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170120b34'>\r\n//「わお？」\r\n\"Peas is...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5704,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170130a00'>\r\n//「和を以て」\r\n\"Peace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5828,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170140b34'>\r\n//「わをもって」\r\n\"Peace is...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5966,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170150a00'>\r\n//「貴しとす」\r\n\"The noblest pursuit.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6104,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170160b34'>\r\n//「とぉとしとす」\r\n\"The noblest... pursuit.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6257,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170170a00'>\r\n//「はい」\r\n\"Right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6375,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170180b34'>\r\n//「……なぁに？」\r\n\"What's that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6517,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170190a00'>\r\n//「昔の偉い人が言った言葉です。\r\n//　仲良くする事を大切にしなさい――」\r\n\"Something a very important man wrote a long time ago. It means that people should try to get along.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6819,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170200a00'>\r\n//「争ってばかりいては何もできない。\r\n//　争わず、助け合えば、どんな事でもできる\r\n//から……と」\r\n\"Because if you get along and work together, you can do anything.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7120,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170210b34'>\r\n//「どんなことでも？」\r\n\"Anything?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7265,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170220a00'>\r\n//「はい。\r\n//　食べる物を育てたり、家を建てたり」\r\n\"Yes. Like build a farm. Or a house.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7470,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170230b34'>\r\n//「どうぶつえんは？」\r\n\"Or a zoo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7615,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170240a00'>\r\n//「できます」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7737,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170250b34'>\r\n//「えいがかんは？」\r\n\"A movie theater?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7886,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170260a00'>\r\n//「できます」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8008,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170270b34'>\r\n//「すごい……」\r\n\"Wow...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8141,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170280a00'>\r\n//「はい。\r\n//　ですが――」\r\n\"Yes. However...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8293,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170290a00'>\r\n//「仲良くせず、争っていると、そうした物は\r\n//作れないばかりか、壊してしまうこともあり\r\n//ます」\r\n\"If you don't get along, if you fight, then you can't build anything. Worse, you'll break the things you have.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8639,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170300b34'>\r\n//「だめ……」\r\n\"That's bad...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8776,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170310a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8892,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170320b34'>\r\n//「あらそわないで、なかよくするには、どう\r\n//したらいいの？」\r\n\"How do you get along with everyone?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9121,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170330a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9245,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170340a00'>\r\n//「貴方が以前、して下さったように」\r\n\"Remember what you did for me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9425,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170350b34'>\r\n//「？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9544,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170360a00'>\r\n//「貴方は自分の食べ物を人に与えました。\r\n//　自分よりも困っているから、と」\r\n\"You gave me your food, because you saw that I needed it more than you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9823,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170370a00'>\r\n//「……簡単なようで難しい事です。\r\n//　自分に余裕がある時、他人に優しくできる\r\n//人は多くいる――しかし自分が苦しい時にも\r\n//そうできる人は少ない」\r\n\"That's not easy. Many people can give when they have plenty, but not many people are strong enough to help when they're hurting too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10268,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170380a00'>\r\n//「自分が苦しいと、人は自分だけを守り、時\r\n//には他人から奪って自分を救おうとさえする。\r\n//　……貴方はそうではなかった」\r\n\"Most people, when they're hurting, think only of helping themselves. Sometimes they even take what others have. But you did the opposite.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10681,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170390b34'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10811,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170400a00'>\r\n//「とても立派な事です」\r\n\"That makes you special.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10967,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170410b34'>\r\n//「……そう……」\r\n\"Oh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11102,
+  "en": "\r\n//　褒められる事に慣れていないのか。\r\n//　光ははにかんで、俯いた。\r\n\r\n//　頬に朱が差して、桃のようになっている。\r\n  She must not be accustomed to compliments. She looks down, blushing like a ripe peach.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11366,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170420a00'>\r\n//「…………。\r\n//　誰もが自分の事より他人の事を思いやれば、\r\n//争いなど起きません」\r\n\"When everyone puts others first, there is no reason to fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11646,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170430a00'>\r\n//「それは……とても良い事です」\r\n\"And that's a wonderful thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11820,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170440b34'>\r\n//「……うん」\r\n\"...Yeah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11952,
+  "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0170450b34'>\r\n//「そうなると、いいね」\r\n\"I hope everyone can get along.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12121,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0170460a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ }
+]

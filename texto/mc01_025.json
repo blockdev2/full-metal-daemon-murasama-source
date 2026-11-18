@@ -1,0 +1,302 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//◆ボイス「ウェイトアミニット」Wait a minute\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250010a11'>\r\n//「待て！」\r\n\"Stop!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 395,
+  "en": "\r\n//◆ボイス「ユアネームアンド……」Your name and...\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250020a11'>\r\n//「貴官の姓名と――」\r\n\"State your name and―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 615,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250030a03'>\r\n//「大和語で結構でしてよ、署長さん」\r\n\"I speak Yamatoan, Commissioner.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 806,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250040a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 930,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250050a11'>\r\n//「貴方か……大鳥大尉」\r\n\"So... it's you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1078,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250060a03'>\r\n//「はい。\r\n//　本日はお日柄も良く」\r\n\"Yes. And how are you this fine day?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1271,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250070a11'>\r\n//「……コブデン氏が失敗したと聞いた時点で、\r\n//何らかの制裁は避けられまいと覚悟していた\r\n//が。\r\n//　よりによって貴方が送られて来るとは」\r\n\"When I heard that Cobden had failed, I knew there'd be repercussions. I just didn't expect them to send you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1677,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250080a11'>\r\n//「いや……当然か。\r\n//　私がＧＨＱの参謀でもそうする」\r\n\"But perhaps I should have. It makes perfect sense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1906,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250090a03'>\r\n//「ええ。\r\n//　わたくしがＧＨＱの味方なら、忠誠を確か\r\n//める試金石になる。敵なら、敵同士ぶつから\r\n//せて食い合わせることになる」\r\n\"Indeed. It's the perfect way to test if I'm loyal, and if I'm not, to take care of two problems.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2297,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250100a03'>\r\n//「しかもわたくしは大和人。\r\n//　わたくしが親王を襲っても傍目には進駐軍\r\n//の関与が窺えないし、仮に知られても大した\r\n//問題にはならない……」\r\n\"That I am myself Yamatoan is an added bonus. To most, this will look like an internal matter. GHQ can easily deny its involvement.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250110a03'>\r\n//「実際に血を流し合ったのは結局、どちらも\r\n//大和人なんですもの。\r\n//　ＧＨＱは宮殿下に報復を加えながら、大和\r\n//の人々の感情を刺激しなくて済んでしまう」\r\n\"Race speaks louder than flag. And thus, my superiors need not fear that removing the prince might incite public outcry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3182,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250120a03'>\r\n//「わたくしの上司は本当に合理的でしてよ」\r\n\"Yes, the colonel is a man who knows how to make the most of his tools.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3421,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250130a11'>\r\n//「……<RUBY text='Ｇ２'>参謀第二部</RUBY>。\r\n//　クライブ・キャノン中佐？」\r\n\"That would be Colonel Clive Cannon of G2 Military Intelligence?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3684,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250140a03'>\r\n//「あら、ご明察」\r\n\"Oh, very good, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3836,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250150a11'>\r\n//「私が張り合うには、少々……無理がきつい\r\n//相手だったようだ」\r\n\"...Not a man I could hope to outmaneuver, it seems.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4078,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250160a03'>\r\n//「ですかしら？\r\n//　あなたがたが焦って自沈の道を選びさえし\r\n//なければ、まずまず互角の勝負ができていた\r\n//と思いましてよ」\r\n\"Oh, I don't know. If you hadn't overplayed your hand, I think you might have made a worthy opponent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4464,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250170a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4582,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250180a03'>\r\n//「策を弄し過ぎたのではなくて？\r\n//　足利護氏の急な死は確かに、進駐軍の大和\r\n//政策を巧遅から拙速へと振り向ける危険性を\r\n//持っていましたけど――」\r\n\"Really, though. What were you thinking? I understand you were worried how GHQ might react to the shogun's death―and it's true, there was talk of moving up the schedule.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5074,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250190a03'>\r\n//「掌を返すように一瞬で変わると思っていた\r\n//なら、あなたがたは警戒が過ぎました。\r\n//　ＧＨＱのように図体の大きい組織が、そう\r\n//俊敏に動けるものではありません」\r\n\"But if you thought that would happen overnight, well, I'm afraid you overestimated the speed with which an organization like GHQ might change its course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5570,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250200a03'>\r\n//「方針を翻すとしても、それは会議と密談を\r\n//繰り返して内部の意見調整を済ませた後……。\r\n//　あなたがたが対策を講じる余地は十二分に\r\n//ありましたのよ？」\r\n\"They would have to confer with their agents, hold endless meetings... You had plenty of time to work out a less desperate plan.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6028,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250210a11'>\r\n//「…………成程」\r\n\"...Ah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6158,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250220a11'>\r\n//「そうか。そういうことか。\r\n//　つまり我々は……疑心暗鬼の陥穽に<RUBY text='はま'>嵌</RUBY>った\r\n//のか」\r\n\"Now I see. It was trust we lacked.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6435,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250230a03'>\r\n//「……疑心？」\r\n\"...Trust?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6574,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250240a11'>\r\n//「貴方に対する。\r\n//　大鳥大尉」\r\n\"In you, Captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6736,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250250a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6863,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250260a11'>\r\n//「足利護氏を殺したのは我々ではない」\r\n\"You're wrong about one thing. We didn't kill the shogun.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7073,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250270a11'>\r\n//「景明に拒絶され、<RUBY text='・・・・'>貴方にも</RUBY>断られ……我々\r\n//はやむなくプランを放棄した。\r\n//　暗殺実行者を用意できなかったからだ」\r\n\"You were our last resort after Kageaki rejected us. When you turned us down, we had no choice but to abandon the plan entirely.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7500,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250280a11'>\r\n//「しかし、大将領は死んだ」\r\n\"And yet, someone killed the shogun.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7674,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250290a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7807,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250300a11'>\r\n//「我々は――――ＧＨＱが手を下したのだと\r\n//判断した」\r\n\"We thought it had to be <br>you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8018,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250310a03'>\r\n//「……あぁ……」\r\n\"I see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8159,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250320a11'>\r\n//「そうだ。大鳥大尉……我々から大将領暗殺\r\n//の計画を聞いた貴方がＧＨＱへ報告したのだ\r\n//と、そう思った。そしてＧＨＱはそれを利用\r\n//すべく策したに違いないと」\r\n\"Indeed. We assumed that you went back to your superiors and told them about our plan―and that in that plan, they saw an opportunity to shift the balance in their favor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8660,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250330a11'>\r\n//「自らの手で護氏を始末しておき、その上で\r\n//<RUBY text='われわれ'>舞殿宮</RUBY>の計画を幕府に密告する……。\r\n//　計画は実在したのだし、大尉という証人も\r\n//いるのだから信じさせるのは容易い」\r\n\"By killing the shogun themselves, then ensuring that His Highness took the blame. We had, after all, <I>planned</I>㉒his assassination, a fact to which you could have truthfully attested.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9215,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250340a11'>\r\n//「幕府の手で宮殿下を攻め滅ぼさせ、しかる\r\n//後、その行為を非難して進駐軍が幕府を潰す。\r\n//　大和の国民は進駐軍を正義の執行者と認め、\r\n//支配を受け入れる……」\r\n\"Rokuhara would have burned Kenchoji to the ground, which GHQ would have condemned as proof of the shogunate's tyranny. You could have declared war and conquered Yamato with the full backing of its people.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250350a11'>\r\n//「そういう筋書きをＧＨＱは書いたのだろう\r\n//と……我々は考えたのだ」\r\n\"It made perfect sense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9964,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250360a03'>\r\n//「……それで。\r\n//　とにもかくにも進駐軍の出足を止めようと、\r\n//コブデン中佐を買収して横須賀軍港を爆破さ\r\n//せるなんて乱暴な手を……」\r\n\"And that's why you paid Colonel Cobden to sabotage Yokosuka base. You hoped it would delay GHQ's response.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10374,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250370a11'>\r\n//「ああ。\r\n//　一刻の猶予も許されない――と、宮殿下も\r\n//私も思い込んでいた」\r\n\"Yes. We felt certain there was no time to waste.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10632,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250380a11'>\r\n//「……空回りだったのだな。\r\n//　大尉、先程の貴方の話を追えば……護氏を\r\n//殺したのは<RUBY text='あなたがた'>ＧＨＱ</RUBY>でもない」\r\n\"But it appears we were mistaken. It wasn't you at all, was it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10976,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250390a03'>\r\n//「ええ。\r\n//　あの事件は司令部にも寝耳に水」\r\n\"No. My superiors were quite shocked by the news.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11197,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250400a03'>\r\n//「わたくし、お二人から暗殺の話を持ちかけ\r\n//られたこと、誰にも洩らしませんでしたから。\r\n//　利用してどうの、なんてキャノン中佐にも\r\n//できる道理はなかったんです」\r\n\"You should have seen the look on the colonel's face. He couldn't have hijacked your plan, because I never told him about it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11667,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250410a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11791,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250420a03'>\r\n//「お断りする時、申しましたでしょう。\r\n//　<RUBY text='・・・・・・・・・・・・・'>計画の趣旨には賛同できます</RUBY>けど、私的な\r\n//事情で少し立て込んでいるので今回はご協力\r\n//致しかねます――って」\r\n\"Do you remember what I said when you tried to recruit me? I told you I agreed with what you were trying to accomplish, that it was only my busy schedule which prevented me from accepting.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12366,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250430a03'>\r\n//「あの言葉を額面通りに受け取って下されば\r\n//よろしかったのに」\r\n\"You should have taken me at my word.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12602,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250440a11'>\r\n//「……そうだな。\r\n//　それをできなかったのが、私の器量だ」\r\n\"...So I should. That I couldn't was a failing of character.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12846,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250450a03'>\r\n//「美人の言葉を疑ってはいけない。\r\n//　この世の鉄則でしてよ」\r\n\"Don't you know, sir? A lady always tells the truth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13094,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250460a11'>\r\n//「来世があれば気を付けよう。\r\n//　…………しかし」\r\n\"I'll try to remember that in my next life. ...Still. This raises the question.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13345,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250470a11'>\r\n//「では……誰だ。\r\n//　あの奉刀参拝の日、誰が八幡宮を襲ったの\r\n//だ？」\r\n\"If neither of us killed the shogun,㉒<I>who did?</I>\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250480a11'>\r\n//「我々を踊らせたのは誰だ？\r\n//　いや……そもそも<RUBY text='・・・・・・'>踊らせる意図</RUBY>があったの\r\n//か？」\r\n\"Who played us? Was that even their intent? And if not, what did they want?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13920,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250490a03'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14059,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250500a11'>\r\n//「……詮無いことか。今更。\r\n//　理由はどうあれ、私は策に敗れた」\r\n\"I suppose it doesn't matter now. As you said, I overplayed my hand.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250510a11'>\r\n//「結果として、意味もなく進駐軍に敵対する\r\n//愚を犯した」\r\n\"I turned GHQ against us for no reason at all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14539,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250520a03'>\r\n//「ええ。\r\n//　もちろん、右の頬をはたかれたら左の頬を\r\n//<RUBY text='・・・・'>殴り返す</RUBY>のが彼らのマナーです」\r\n\"Yes, and I'm afraid their rule is to answer every insult with drawn blades.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14881,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250530a03'>\r\n//「そうやって世界の支配権を握ってきた人種\r\n//ですから」\r\n\"That is how the Anglo-<br>Saxon race conquered half the world.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15131,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250540a11'>\r\n//「承知している。\r\n//　逃げるつもりはないし、温情を乞うつもり\r\n//もない」\r\n\"I'm aware. And I accept my fate.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15367,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250550a03'>\r\n//「……菊池署長。\r\n//　わたくしは<RUBY text='・・・'>首謀者</RUBY>への制裁を命じられてい\r\n//ますの」\r\n\"...Commissioner. You should know that my orders are to eliminate the person who incited Cobden's betrayal.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15716,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250560a03'>\r\n//「あなたは――」\r\n\"If you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15858,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250570a11'>\r\n//「私が首謀者だ」\r\n\"That was me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15994,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250580a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16121,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250590a11'>\r\n//「進駐軍にとってもその方が好都合だろう。\r\n//　大和の皇族に危害を加えるのはやはり<RUBY text='リスク'>危険</RUBY>\r\n//が大きいはずだ」\r\n\"I'm sure your superiors, too, would prefer it that way. There's too much risk in killing a prince.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250600a11'>\r\n//「宮殿下を唆す者がいた……という事にして\r\n//おいた方がいい。\r\n//　いわゆる君側の奸だよ」\r\n\"So I'll take the blame. Let them say that I led His Highness astray.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16789,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250610a11'>\r\n//「……あながち間違いでもない。\r\n//　確かに私は、宮殿下の御側に控えながら、\r\n//正しく補佐し奉る責務を果たせなかったのだ\r\n//からな」\r\n\"...They won't be wrong. I was his closest advisor, and I failed him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17146,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250620a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17273,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250630a03'>\r\n//「あなたがたがわたくしを信頼できなかった\r\n//のは、わたくしの不徳も一因。\r\n//　その分のお詫びはせねばなりません……」\r\n\"If you couldn't trust me, then it's because I didn't earn that trust. For that, I owe you an apology.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17653,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0250640a03'>\r\n//「ご希望に沿いましょう。\r\n//　菊池署長」\r\n\"We'll do it your way, Commissioner.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17855,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mc01/0250650a11'>\r\n//「心から感謝する。\r\n//　大鳥大尉」\r\n\"You have my deepest gratitude, Captain.\"\r\n",
+  "pt": ""
+ }
+]

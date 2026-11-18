@@ -1,0 +1,467 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　幽閉生活というものはおおむね単調と孤独と閉塞の\r\n//三重奏に支配される。\r\n//　これは何処の世界のどんな時代でもまず変わらない\r\n//真理であろう。\r\n  Life as a solitary prisoner is mostly comprised of boredom, loneliness, and claustrophobia. I suspect that this qualifies as a universal truth.\r\n\r\n//　この状態がいつまでも続くとは思えないのだが……。\r\n//　俺がこうしてＧＨＱの基地内に囚われている事には、\r\n//香奈枝嬢の私的事情とは別にＧＨＱの事情がなくては\r\n//おかしい。無意味に虜囚を取る軍はない。\r\n  It is also a universal truth that no military goes to the trouble of keeping prisoners without good reason. Captain Otori's personal vendetta aside, GHQ must see some value in me beyond that of a caged pet. I'd expect them to make at least some overture... but days have gone by without so much as a whisper.\r\n\r\n//　その事情が、俺を愛玩動物よろしく檻に入れて餌を\r\n//与え続けること自体を目的としているとは考えられな\r\n//かった。\r\n//　必ず何らかのアプローチはしてくるだろう。\r\n\r\n//　しかし――それがなかなか訪れない。\r\n//　そんな日々において、単調さを崩してくれる要素の\r\n//到来は何であれ歓迎すべきものだった。\r\n  At this point, I'd welcome just about any distraction.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1679,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140010a03'>\r\n//「……ご一緒に散歩でもいかが？」\r\n\"...Would you like to go for a walk?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1871,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140020a00'>\r\n//「喜んでお供します。\r\n//　大尉殿」\r\n\"I would. Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2039,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140030a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2166,
+  "en": "\r\n//　アングロ・サクソン族は他国に進出すると、そこに\r\n//<RUBY text='・・'>自国</RUBY>を形成する――しばしばそう評される。\r\n  Wherever the Anglo-Saxon goes, it is said, they bring their civilization with them.\r\n\r\n//　それは華僑が中華街を造るのとは異なる。\r\n//　商業目的で他国に移住した彼ら華僑が築造する街は、\r\n//拠点であると同時に故郷の写し――安息の地であるが、\r\n//そこまでのものに過ぎない。\r\n  One might argue that the same could be said about the Chinese, for every city with a large Chinese population will also have a Chinatown. But they are merely surrounding themselves with the familiar, making a home, a place to live and work. These patches of Chinese civilization are ultimately static.\r\n\r\n//　拠点であり故郷である中華街は発展の限界を持つ。\r\n//　自分達の生活に必要充分な環境が完成すれば、それ\r\n//から更に規模を拡大していく事はない。\r\n\r\n//　アングロサクソンの都市は拡大する。\r\n//　際限なく。\r\n  Not so for the Anglo-Saxon. Their civilization expands without limit: either militarily, through conquest and assimilation, or economically, through media and trade, though the peaceful methods are no less forceful. Sooner or later, every city within their sphere of influence comes to resemble London.\r\n\r\n//　軍事的に占領した国では現地の文化文明を破壊また\r\n//は強奪しつつ自国の文化文明に沿って都市化する。\r\n//　交易関係を結んだ国へは、自国の文化文明を積極的\r\n//に輸出し、やがて都市の様相を自国化する。\r\n\r\n//　彼らは真の意味における征服者だ。\r\n//　アングロサクソン族の宗主国家といえる<RUBY text='グレート・ブリテン'>大英連邦</RUBY>は\r\n//政治的に世界の過半を制しているが、文化的な版図は\r\n//きっと更に広かろう。\r\n  Thus, though the British Empire covers, as maps go, only half the world, its cultural borders extend much farther still.\r\n\r\n//　無論、大和にとっても他人事などではない。\r\n//　国内の産業と文化を保護するため諸外国との交易に\r\n//制限を掛けていた徳川政体が遂に打倒されて以来百年。\r\n//今や市街には<RUBY text='モーターカー'>自動車</RUBY>が行き交い、都市間は<RUBY text='レールロード'>鉄道</RUBY>が繋ぐ。\r\n  Yamato, too, is included within those borders. A hundred years have passed since the isolationist Tokugawa shogunate fell, and now you can see automobiles on the streets and travel the length of Honshu by train.\r\n\r\n  There are, unsurprisingly, those who fear what this means for Yamatoan culture and industry, such as General Ishima of the Left Palace Guard, who published the treatise titled simply <I>High Treason.</I>\r\n\r\n  But the great majority of Yamato's people have accepted this change, even welcomed it―in a sense, aiding and abetting the invasion of their homeland. \r\n\r\n//　そうした変化に危惧を抱き、警鐘を鳴らす人間も、\r\n//『売国論』を著した<RUBY text='いしまさこんのしょうげん'>石馬左近将監</RUBY>など少なからずいる。\r\n//　しかし、より多くの人々が変化を受け入れ、歓迎し、\r\n//一面において自国侵略の一助をなしているのだった。\r\n\r\n//　そしてそうなるからには、相応の理由が存在した。\r\n//　アングロサクソン族は合理主義に基づく発明に長け、\r\n//その文化の利便性は多くの方面で他文化の追随を許さ\r\n//ない。彼らが造る物は速く、<RUBY text='おおき'>巨</RUBY>く、強い。\r\n  It is difficult to blame them. As a whole, the Anglo-Saxon race is a pragmatic one. They excel at maximizing efficiency and convenience, at building faster conveyances, stronger machines. Their civilization, therefore, comes with many benefits.\r\n\r\n  In the crudest meaning of the word possible, they are indeed the \"superior\" race. And they know it. They believe with all their hearts that their way is the best for us all. \r\n\r\n//　だからこそ求められ、普及する。\r\n//　\r\n//　最も身も蓋も味も素っ気もない意味において彼らは\r\n//他に優越する種族なのである。\r\n\r\n//　優秀なる彼らは優秀な科学文明を持ち、その文明を\r\n//僻地へもたらす正義を信じ、正義ゆえに躊躇わない。\r\n//　アングロサクソン帝国の覇業が成るのは必然と云う\r\n//べきであろう。\r\n  The rise of Anglo-Saxon imperialism was, I think, only a matter of time.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6906,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140040a00'>\r\n//「見事な軍事拠点です。\r\n//　おそらく、普陀楽城よりも総合的な機能に\r\n//おいては優るのではありますまいか」\r\n\"It's an impressive base. I would not be surprised if it proved more defensible than Fudaraku.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7251,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140050a03'>\r\n//「ええ……」\r\n\"Mm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7383,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140060a00'>\r\n//「大和古来の軍学に基づく築城ではどう工夫\r\n//してもここまで効率的な構造にはなりません。\r\n//　どうしたところで各所に細かい無駄が表れ\r\n//ます」\r\n\"There is only so much one can do with classical Yamatoan fortress design. Inefficiencies are sadly unavoidable.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7798,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140070a00'>\r\n//「六波羅が総力で当たっても、果たしてこの\r\n//基地を攻め落とせるかどうか。疑問です。\r\n//　とにかくまず横須賀と分断しないことには\r\n//……」\r\n\"By comparison, I suspect that even Rokuhara's full strength would have trouble taking this base. At least, without first cutting it off from Yokosuka.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8246,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140080a03'>\r\n///「そうですね……」\r\n\"Quite...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8391,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140090a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8509,
+  "en": "\r\n//　世間話のつもりで話を振ってみたが、どうも香奈枝\r\n//嬢の反応はいつになく鈍い。\r\n//　生返事を寄越してくるばかりだった。\r\n  Thus far, my attempts at small talk have netted me only half-hearted responses. I wonder if she's surprised by my willingness to pass comment on my captors.\r\n\r\n//　捕虜でありながら遠慮もなく周囲を検分し批評する\r\n//態度が呆れを買ったのかとも思ったが、違うようだ。\r\n//　顔色を窺うに、そもそも話がまともに聞かれている\r\n//かどうかからして疑わしい。\r\n  But no. A quick look at her face tells me that she simply isn't listening.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9207,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140100a00'>\r\n//「大尉殿」\r\n\"Captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9330,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140110a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9457,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140120a00'>\r\n//「もしや、御身体の具合でも……」\r\n\"Are you ill?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9617,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140130a03'>\r\n//「……え？」\r\n\"...Sorry?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9753,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140140a03'>\r\n//「あ、はい。わたくしもそう思いましてよ」\r\n\"Oh, yes. I think you're right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9952,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140150a00'>\r\n//「やはり。ならば御自愛下さい。\r\n//　確かに無聊をかこつ自分には有難いお誘い\r\n//でしたが、大尉殿にそのような無理までして\r\n//頂くには及びません」\r\n\"Then please rest. While I appreciate the opportunity to get out of my cell, I would not have you risk your health for my sake.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10385,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140160a03'>\r\n//「え？」\r\n\"My health?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10516,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140170a00'>\r\n//「すぐに戻りましょう。\r\n//　念のため、軍医に――」\r\n\"We should go back. Perhaps Miss Nagakura could have the base doctor meet us―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10767,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140180a04'>\r\n//「まぁまぁ湊斗さま。\r\n//　そう慌てなくとも、大丈夫でございますよ」\r\n\"Just a moment, sir. The situation is hardly so dire.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11016,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140190a00'>\r\n//「しかし」\r\n\"But the captain―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11149,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140200a04'>\r\n//「お嬢さま？\r\n//　湊斗さまはお嬢さまが心ここにあらぬ態で\r\n//おられたのをご心配なさったのです」\r\n\"Mistress? The good officer is wondering why you seem so out of sorts.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11455,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140210a04'>\r\n//「それでおからだの不調を問われたのですが\r\n//……何か、健康に思わしからぬところでも？」\r\n\"Is there, like he fears, something wrong with your health?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11740,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140220a03'>\r\n//「……あっ」\r\n\"...Oh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11873,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140230a03'>\r\n//「いえ、申し訳ありません、景明さま。\r\n//　わたくし、この通りピンピンしておりまし\r\n//てよ」\r\n\"I'm so sorry, dear. As you can see, I'm quite well!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12164,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140240a00'>\r\n//「本当ですか」\r\n\"Are you certain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12301,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140250a03'>\r\n//「ええっ、もー、どこもかしこもビンビンで\r\n//困っちゃいます。\r\n//　景明さま、ご覧になりたいの……？」\r\n\"Oh yes! In fact, I'm almost <I>too</I> healthy! Would you like to see proof?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12632,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140260a03'>\r\n//「いやんっ、こんなところで！」\r\n\"Oh, you dog!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12798,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140270a04'>\r\n//「何を見せる気なんでしょーねこの痴女は」\r\n\"What grotesqueries are you planning to visit on this poor man now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13024,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140280a00'>\r\n//「……そうですか。なら宜しいのです。\r\n//　安堵致しました」\r\n\"Well, as long as you're feeling all right...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13253,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140290a00'>\r\n//「大尉殿、貴方は自分にとっても掛け替えの\r\n//ない<RUBY text='おひと'>御人</RUBY>です。\r\n//　どうか御身体は大切にして下さい」\r\n\"You mean a great deal to me, Captain. Please do not forget that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13587,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140300a03'>\r\n//「え……ええ」\r\n\"O- Oh... all right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13736,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140310a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13869,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140320a04'>\r\n//「健康はともかく。\r\n//　何だか妙に調子が出ないご様子ですねぇ、\r\n//お嬢さま」\r\n\"Health aside, you do seem a little off your game today, Mistress.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14144,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140330a03'>\r\n//「そ、そんなことはなくってよ？\r\n//　わたくしはいつも通り」\r\n\"D- Don't be silly! I'm as right as rain!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14378,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140340a04'>\r\n//「あまりそうは見えませぬが……」\r\n\"Oh, but that twitch at the corner of your mouth...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14576,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140350a03'>\r\n//「気のせいです！」\r\n\"You're imagining things!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14736,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140360a04'>\r\n//「しかし現在の時刻は三時、風向きは北北西、\r\n//大気中の電波濃度は六三％でございますよ？\r\n//　普段のお嬢さまなら直ちに怪鳥の如き奇声\r\n//を上げマイムマイムを踊り出されるはず……」\r\n\"Still, I should note that it is three of the clock, with a northwesterly wind and sixty-three percent saturation of EM radiation in the atmosphere. Usually, you'd be screeching like a falcon and performing the Mayim Mayim now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15320,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140370a03'>\r\n//「ええわかってますちょっとお待ちなさい。\r\n//　時刻よーし風向きよーし電波よーし」\r\n\"Oh, of course! Just a moment! Time, wind, radiation, all good!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15609,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140380a03'>\r\n//「クケーーーーーーーーーーーーーッッ!!」\r\n\"KEEEEEEEEEEEEEEEE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15795,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140390a04'>\r\n//（……変だ……）\r\n(Something's wrong.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15937,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140400a00'>\r\n//（……変だ……）\r\n(Very wrong.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16072,
+  "en": "\r\n//　何があったのか不明だが、今日の大鳥大尉は色々と\r\n//性能が低下気味らしい。\r\n//　まるで一週間徹夜して原稿を書き上げた直後の小説\r\n//家のようだ。\r\n  I don't know what, but something has dealt a heavy blow to the captain's higher functions. She reminds me of a novelist who just spent a sleepless week finishing her manuscript.\r\n\r\n//　心配ではあるものの、心配してもどうにもならない\r\n//気配が濃厚である。\r\n  Unfortunately, it doesn't look as though my concern will have any impact.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16660,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140410a04'>\r\n//「まぁそのうち回復なさいましょう」\r\n\"She'll snap out of it sooner or later.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16849,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140420a00'>\r\n//「は」\r\n\"I hope so.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16968,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140430a04'>\r\n//「それはさておき湊斗さま。\r\n//　ウォルフ教授に会われたとか？」\r\n\"Changing the topic, sir, we heard you met with Professor Wolf?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17221,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140440a00'>\r\n//「はい。\r\n//　部屋に招かれ、短時間ですが面談を」\r\n\"Yes, briefly. He invited me to his study.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17432,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140450a04'>\r\n//「どのようなお話をされましたかな。\r\n//　むろん、差し障りのない範囲でお答え頂け\r\n//れば結構でございますよ」\r\n\"May I ask what you discussed? Assuming it wasn't private.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17744,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140460a00'>\r\n//「……そうですね。\r\n//　とりあえず……印象が強かったのは」\r\n\"I don't believe it was. Let's see. The thing I remember most vividly...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18000,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140470a00'>\r\n//「パンツという単語が会話中にやたらと出て\r\n//きたことでしょうか」\r\n\"...is how often underpants were mentioned during our conversation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18260,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140480a04'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18384,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140490a04'>\r\n//「聞く方に差し障りのあるお話だったようで」\r\n\"It sounds like perhaps it <I>should</I>㉒be kept private.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18605,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140500a00'>\r\n//「失礼」\r\n\"I apologize.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18729,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140510a04'>\r\n//「いえ、あの教授はいつもそんなんですから。\r\n//　一体どんな歪んだ生い立ちを過ごされたの\r\n//かは存じませんが、とにかくパンツに異様な\r\n//執着心を抱かれているらしく」\r\n\"No, sir. That's quite all right. The whole base knows about the professor's panty fixation. Every time he opens his mouth it's panties this, panties that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19220,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140520a04'>\r\n//「口を開けばパンツパンツと――」\r\n\"Honestly, what kind of childhood did he―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19410,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140530a00'>\r\n//「侍従殿。\r\n//　誤解なさらぬよう」\r\n\"I beg your pardon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19577,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140540a04'>\r\n//「は？」\r\n\"Sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19693,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140550a00'>\r\n//「――あの方はパンツに執着しているのでは\r\n//ありません。\r\n//　パンツを脱がすことに執着しているのです」\r\n\"I feel it necessary to point out that it's not a panty fixation, but a fixation with <I>the removal thereof.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20054,
+  "en": "\r\n//　力を込めて、拳を握る。\r\n  I curl my fingers into a righteous fist.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20148,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140560a00'>\r\n//「これは全く、意味も意義も異なる事です。\r\n//　混同されてはいけません」\r\n\"You must understand. The two could not be more different.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20408,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140570a04'>\r\n//「はァ」\r\n\"You don't say...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20536,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140580a00'>\r\n//「例えるなら美濃部達吉先生を逆賊呼ばわり\r\n//するようなもの」\r\n\"To conflate them is like calling Minobe Tatsukichi a traitor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20785,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140590a04'>\r\n//「何を仰りたいのかさっぱりわかりませんが、\r\n//多分その例えは適切ではないですぞ。\r\n//　……しかし、湊斗さまも何だか調子がおか\r\n//しゅうございますね。お嬢さまとは別方向に」a\r\n\"I haven't the foggiest what you're trying to say, but I <I>know</I>㉔that analogy isn't appropriate. And is it just me, or are you a little out of sorts yourself?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21298,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140600a00'>\r\n//「そうでしょうか。\r\n//　……そうかもしれません」\r\n\"Out of sorts? ...Perhaps you're right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21506,
+  "en": "\r\n//　空を見上げてみる。\r\n\r\n//　青い。\r\n//　良く晴れた、澄んだ空だ。\r\n\r\n//　そんなつまらない事を想う。\r\n\r\n//　だが――こんなつまらない事を、俺は久しく忘れて\r\n//いたのではないか。\r\n  I look up into a cloudless sky. Obviously, the sight is beautiful... but I feel as if ages have passed since I was last able to appreciate that beauty.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21923,
+  "en": "\r\n//◆クール\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0140610a04'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22063,
+  "en": "\r\n//　演習場らしき広場がある。\r\n//　ふと、俺は足を止めていた。\r\n  I come to a stop. Ahead, approximately a dozen people are gathered on the parade ground. It is readily apparent, however, that they are not here for a parade.\r\n\r\n//　十人余りの人の群れが見える。\r\n//　しかし皆、これから演習という様子ではない。\r\n\r\n//　多くは無表情であった。\r\n//　うち一人は、表情が消えていた。\r\n  The men are expressionless, almost eerily so―though for all but one, I can tell that this is the product of stoic resolve.\r\n\r\n  For the last, despair seems a more likely cause.\r\n\r\n//　両者は似ているようで違う。\r\n//　一名は表情というものが欠落してしまったのであり、\r\n//他の人々は意図的に表情を隠しているのだ。\r\n\r\n//　表情の消えた一名は、両腕を拘束されていた。\r\n//　それを、解かれた……と思えば、今度は杭に全身を\r\n//縛り付けられていく。\r\n  When I catch sight of him, his wrists are bound. But as I watch, one of the others uncuffs him, then ties him to a pole set in the ground.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23236,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140620a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23360,
+  "en": "\r\n//　流石にその時点で、俺にも事態は察せられた。\r\n\r\n//　縛られ、目隠しまでされた男だけ残し、他の人間が\r\n//周囲に散る。\r\n//　場の代表らしき将校が、低い声で何事かを述べた。\r\n  And here, of course, I realize what I'm witnessing.\r\n\r\n  After the man is secured and blindfolded, the soldiers spread out to form a line facing him. An officer steps forward and says something in a low, solemn voice.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23837,
+  "en": "\r\n//　<RUBY text='ライフル'>長銃</RUBY>を構えた兵士が数人、立ち並ぶ。\r\n//　筒先は無論、杭の男だ。\r\n  The soldiers lift their rifles and take aim at the man.\r\n\r\n//　将校が号令を掛ける。\r\n  The officer gives the order.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24108,
+  "en": "\r\n//　男は死亡した。\r\n  It's over in a blink.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24171,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140630a00'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24301,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140640a03'>\r\n//「コブデン中佐です」\r\n\"That was Colonel Cobden.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24464,
+  "en": "\r\n//　同じように足を止めて、同じように眺めていたのだ\r\n//ろう。今の処刑の様子を。\r\n//　演習場に瞳を向けたまま、大鳥大尉が呟いた。\r\n  I turn to the captain, who is standing beside me, her eyes fixed on the dead man's body.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24752,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140650a00'>\r\n//「大尉……」\r\n\"Captain, did you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24889,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140660a03'>\r\n//「罪状は収賄、通謀……\r\n//　そして反乱」\r\n\"The charges were bribery, conspiracy... treason.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25104,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140670a00'>\r\n//「反乱？」\r\n\"Treason?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25227,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140680a03'>\r\n//「横須賀の事故のことは覚えておられます？」\r\n\"You recall the 'accident' at Yokosuka Naval Base?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25448,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140690a00'>\r\n//「ああ……はい」\r\n\"The... ah, yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25587,
+  "en": "\r\n//　あの日の電話で、香奈枝嬢が触れた事件のことか。\r\n  She mentioned it on the phone.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25707,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140700a00'>\r\n//「確か、事故というのは表向きの発表に過ぎ\r\n//ないと……\r\n//　つまり」\r\n\"You implied that it was not an accident. Do you mean to say...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25968,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140710a03'>\r\n//「ええ。それが反乱でしたの。\r\n//　今は亡きコブデン中佐の起こした」\r\n\"Yes. It was treason. His doing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26205,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140720a03'>\r\n//「……いえ。\r\n//　正確には、舞殿宮殿下が起こさせた」\r\n\"...No. I should say, the prince's doing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26430,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140730a00'>\r\n//「……何と？」\r\n\"I'm sorry?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26561,
+  "en": "\r\n//　親王が起こさせた？\r\n//　横須賀軍港の反乱事件を？\r\n  The prince? He's responsible for what happened at Yokosuka?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26711,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140740a00'>\r\n//「――大尉殿。\r\n//　それは一体、どういう」\r\n\"Captain, I don't understand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26900,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140750a03'>\r\n//「お知りになりたい？」\r\n\"Do you need to?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27057,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140760a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27173,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140770a03'>\r\n//「この件については、もう何もかも終わって\r\n//しまったことですのよ？」\r\n\"Even though, with Cobden's death, the matter is finally settled?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27446,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0140780a00'>\r\n//「……それでも、願わくば」\r\n\"...Please.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27595,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140790a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27728,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0140800a03'>\r\n//「わかりました。\r\n//　お話ししましょう……」\r\n\"As you wish.\"\r\n",
+  "pt": ""
+ }
+]

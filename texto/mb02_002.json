@@ -1,0 +1,332 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020010b20'>\r\n//「この一棟をお使い下さい」\r\n\"This house is yours.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 381,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020020a02'>\r\n//「え？\r\n//　ここ一軒、全部？」\r\n\"Uh, the whole thing?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 544,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020030b20'>\r\n//「少し前まで警備兵の詰所だったものです。\r\n//　住むには手狭で、少々不自由をお掛けする\r\n//かもしれませんが」\r\n\"It was a guard post until recently. I'm afraid it's a bit small.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 872,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020040a00'>\r\n//「充分です。\r\n//　他の官舎から離れているのがいい」\r\n\"Not at all. I appreciate that no other houses are nearby.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1102,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020050b20'>\r\n//「ええ。その点を考慮して手配しました。\r\n//　ここでの会話は誰にも聞かれずに済みます」\r\n\"That's why I chose it. You'll have some privacy here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1388,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020060b20'>\r\n//「それでも油断はなさいませぬように」\r\n\"Still, do take care.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1571,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020070a00'>\r\n//「心得ております。\r\n//　ところで」\r\n\"Of course. Speaking of which...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1751,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020080b20'>\r\n//「はい」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1876,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020090a00'>\r\n//「今後、貴方と連絡を取る際にはどのように\r\n//しましょう」\r\n\"How should we go about contacting you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2096,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020100b20'>\r\n//「政所で、<RUBY text='よりゅうど'>寄人</RUBY>の岩田を呼び出して下されば\r\n//結構です。\r\n//　お二人は私の部下という事になっています\r\n//から、人目を憚る必要はありません」\r\n\"Just ask for Chief Scribe Iwata. On paper, you work for me, so there won't be any problem.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2529,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020110a00'>\r\n//「了解しました」\r\n\"Understood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2664,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020120b20'>\r\n//「他には何か？」\r\n\"Is there anything else?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2820,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020130a02'>\r\n//「あ、あのー」\r\n\"U- Um...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2949,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020140b20'>\r\n//「はい？」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3077,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020150a02'>\r\n//「あたしと湊斗さんがここで一緒に暮らして、\r\n//その、問題とかないのか？\r\n//　傍目にかなり怪しいような気が……」\r\n\"Is it okay for us to be staying together? Won't people, you know... wonder?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3413,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020160b20'>\r\n//「？　大丈夫ですよ。\r\n//　お二人は夫婦ということになっていますし」\r\n\"Why would they? You're husband and wife.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3659,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020170b20'>\r\n//「……宿舎は外壁や天守ほど頑丈に出来てい\r\n//ませんので、柱へ強烈な頭突き等を加えるの\r\n//はご遠慮下さい」\r\n\"Please refrain from headbutting the walls. Not every structure here is built to handle that kind of attack.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4027,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020180a00'>\r\n//「だそうだ、一条」\r\n\"You heard the chief, Ichijo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4182,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020190a02'>\r\n//「で、でで、でも！\r\n//　夫婦!?」\r\n\"W- Wait! Wait! We're married!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4357,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020200a00'>\r\n//「知らなかったのか」\r\n\"You didn't know?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4503,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020210a02'>\r\n//「聞いてませんし！」\r\n\"You didn't tell me!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4652,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020220a00'>\r\n//「偽名の苗字を同じにしただろう」\r\n\"We're using the same surname.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4829,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020230a02'>\r\n//「そ、それは、兄妹なのかなーと」\r\n\"I thought we were brother and sister!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5014,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020240a00'>\r\n//「夫婦ということにしておかないと、宿舎を\r\n//分けられてしまうだろうが。\r\n//　それでは不便で困る」\r\n\"Then they would have assigned us separate quarters. This was the only arrangement that made sense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5352,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020250a02'>\r\n//「そりゃそうですけど！」\r\n\"But still!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5498,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020260a00'>\r\n//「嫌なのか」\r\n\"You're unhappy?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5631,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020270a02'>\r\n//「え……え？」\r\n\"I―huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5760,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020280a00'>\r\n//「俺と夫婦を装うのは嫌か」\r\n\"Pretending to be my wife.\r\n  It makes you unhappy?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5949,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020290a02'>\r\n//「そ、それは……\r\n//　そんなことは……」\r\n\"I... I didn't...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6123,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020300a00'>\r\n//「俺は嫌だ」\r\n\"It makes me sick.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6258,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020310b20'>\r\n//「サマーソルトキックもご遠慮下さい」\r\n\"No somersault kicks either, please.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6456,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020320a00'>\r\n//「だそうだ、一条」\r\n\"You heard the chief, Ichijo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6611,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020330a02'>\r\n//「うっ、うぅ……だって……」\r\n\"B- But you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6766,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020340a00'>\r\n//「婚姻とは神前で誓うべきもの。\r\n//　方便で詐称するのは気が進まん」\r\n\"Marriage is a sacred bond. I hate to use it as a ruse in this way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7029,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020350a02'>\r\n//「……はぁ」\r\n\"Oh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7152,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020360a00'>\r\n//「だが、その点を置けば。\r\n//　お前のような見目良い少女と住まいを共に\r\n//するのは男性として率直に喜ばしい」\r\n\"That said, as a man, I do look forward to sharing my home with an attractive young woman.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7496,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020370b20'>\r\n//「あなた、わざとやってませんか？」\r\n\"You're doing it on purpose, aren't you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7695,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020380a00'>\r\n//「何の事でしょう」\r\n\"Pardon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7829,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020390a02'>\r\n//「わ……うわーーー!!\r\n//　馬がっ、馬がっ」\r\n\"H- HORSE! THERE'S A HORSE! GYAAAAAAAAAA!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8029,
+  "en": "mb02/0020400a02",
+  "pt": ""
+ },
+ {
+  "offset": 8076,
+  "en": "Get the fuck off me!",
+  "pt": ""
+ },
+ {
+  "offset": 8133,
+  "en": " ",
+  "pt": ""
+ },
+ {
+  "offset": 8142,
+  "en": "It's slobbering all over me! Now it's biting me!",
+  "pt": ""
+ },
+ {
+  "offset": 8198,
+  "en": "Oh gods, what is that thing it's rubbing against me!?",
+  "pt": ""
+ },
+ {
+  "offset": 8259,
+  "en": "Officer Minato! Help!",
+  "pt": ""
+ },
+ {
+  "offset": 8288,
+  "en": "I'm being violated by a horse over here!",
+  "pt": ""
+ },
+ {
+  "offset": 8336,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020410a00'>\r\n//「ともかく、我々は早速行動に移ります」\r\n\"In any case, we'd best get to work.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8528,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020420b20'>\r\n//「最初はどのように？」\r\n\"How will you begin?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8689,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020430a00'>\r\n//「情報収集を。\r\n//　城内の人物と事物を己の耳目で確認します」\r\n\"I'd like to take a look around the fortress first, get the lay of the land.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020440a00'>\r\n//「計画立案は、その後に」\r\n\"We'll consider our options then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9112,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020450b20'>\r\n//「そうですね。それが宜しいでしょう」\r\n\"Very good.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9285,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020460a00'>\r\n//「まずは<RUBY text='ターゲット'>標的</RUBY>の実像を知りたいところです。\r\n//　手配りをして頂けますか」\r\n\"It would be helpful to get a look at our target, if possible. Can that be arranged?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9607,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020470b20'>\r\n//「そのくらいならすぐに。業務にかこつけて\r\n//面会できるよう取り計らいましょう。\r\n//　その間に、入浴を済ませておいて下さい」\r\n\"Certainly. I have the perfect excuse.\r\n  However, I expect you should take a bath first, yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9988,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020480a00'>\r\n//「成程……。\r\n//　身嗜みに<RUBY text='うるさ'>煩</RUBY>い人物ですか」\r\n\"I suppose the general... values cleanliness?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10223,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0020490b20'>\r\n//「ええ。\r\n//　馬糞臭い少女が公文書を持って来たら怒る\r\n//と思います」\r\n\"Yes. I imagine he'll be quite put out if your companion shows up smelling like a dung heap.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10521,
+  "en": "\r\n//　馬糞臭い少女を風呂に浸からせた後、岩田女史から\r\n//書類を受け取って普陀楽城本丸へ入る。\r\n//　書類自体は、どうという事もない定期報告書だった。\r\n//しかし執政に提出し、捺印を貰う必要がある。\r\n\r\n//　格好の材料だった。あの工作員の仕事はなかなか手\r\n//早くそつがない。\r\n//　これで現在の幕府執政――唯一城に残っている公方、\r\n//遊佐童心に何の不自然もなく会う事が叶う。\r\n  After giving Ichijo a thorough washing, we head into the central keep with documents meant for the general's signature. Chief Iwata clearly knows her profession. This is, as she said, the perfect excuse.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11267,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020510a02'>\r\n//「遊佐童心って、どんな奴なんでしょう」\r\n\"What's this Yusa Doshin guy like?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11457,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020520a00'>\r\n//「それを多少なりと知る為に会いに行くのだ\r\n//が」\r\n\"That's what we're here to find out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11662,
+  "en": "\r\n//　周囲を確認する。\r\n//　幸い、人影はない。\r\n  I glance around quickly. Fortunately, no one is in sight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11798,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020530a00'>\r\n//（言葉遣いに注意しろ。宿舎とは違う、どこ\r\n//で誰が聞いているかわからん。\r\n//　六波羅の新米小役人になり切っておけ）\r\n(Careful how you speak, Ichijo. This is enemy territory. Remember, you're just a bureaucrat.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12156,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020540a02'>\r\n//（あ、はい。\r\n//　すみません）\r\n(R- Right! Sorry.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12315,
+  "en": "\r\n//　小声で注意してから、話を続ける。\r\n  When I'm sure that she understands, I continue in a more normal tone.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12453,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020550a00'>\r\n//「遊佐<RUBY text='これもり'>惟盛</RUBY>入道童心……関東四公方の最年長\r\n//であられ、<RUBY text='さきの'>前</RUBY>大将領護氏殿下の懐刀と目され\r\n//ていた御方でもある。\r\n//　軍政両略の道に明るく」\r\n\"Yusa Doshin―Yusa Koremori, before he took his vows. He was Shogun Moriuji's right-hand man for decades, and is the eldest of the four Kanto generals. He's widely respected as both a statesman and a warrior.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020560a00'>\r\n//「その一方、文化芸能も大いに好まれ、多く\r\n//の芸術家を保護しまた御自ら嗜まれる。\r\n//　単なる伝統保守よりも新奇な試み、前衛的\r\n//な挑戦を愛されるその姿勢と……」\r\n\"He's also known for his patronage of the arts, as well as for being something of an artist himself. I've heard that he has a preference for the unconventional that extends even to his duties.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020570a00'>\r\n//「公務においてもしばしば型破りな振舞いを\r\n//見せることから――人呼んで、<RUBY text='バサラ'>婆娑羅</RUBY>公方。\r\n//　俺が知っているのはこの程度だ」\r\n\"This has earned him a reputation as a modern-day 'basara,' a man given to extravagance and unbound by custom. \r\n  And that is all I know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13974,
+  "en": "\r\n//　一般常識の範疇である。\r\n  All anyone outside the shogunate knows.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14067,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0020580a02'>\r\n//「あたしもそのくらいです。\r\n//　六波羅のれんちゅ……方々って、私生活と\r\n//か、生々しい姿をほとんど新聞や雑誌に見せ\r\n//ませんから」\r\n\"Same. The papers don't say all that much about the fuc―fellows in charge.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14431,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0020590a00'>\r\n//「確かに」\r\n\"True.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14551,
+  "en": "\r\n//　世界各国の王侯貴族と比較しても少ない方だろう。\r\n//　それはおそらく――大和支配という<RUBY text='・・・・'>軍事行動</RUBY>の最中\r\n//であるとの認識が彼らの<RUBY text='うち'>裡</RUBY>にあるからだ。\r\n\r\n//　平和時の富貴層の義務として、大衆に<RUBY text='ゴシップ'>世間話</RUBY>の種を\r\n//提供するよう振舞うのは、全てが終わった後……\r\n//　大和唯一にして絶対の支配者に成り<RUBY text='おお'>果</RUBY>せた後の事だ\r\n//ろう。\r\n\r\n//　多くの血を流した末に。あるいは流し<RUBY text='・・・'>ながら</RUBY>。\r\n//　……そうさせぬ為に、俺と一条は此処にいた。\r\n  Especially true when compared to the nobles of Europe, whose primary function these days seems to be birthing new scandals to keep their people entertained.\r\n\r\n  But then, one could call that a㉓<I>peacetime</I>㉓duty, and Yamato is not at peace. Perhaps the great and powerful who lead Rokuhara will provide the public with more fodder once their conquest is complete.<K>\r\n  ...Once Yamato has drowned in blood.\r\n\r\n  Our job is to prevent that from happening.\r\n",
+  "pt": ""
+ }
+]

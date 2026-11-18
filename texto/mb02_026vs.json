@@ -1,0 +1,317 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0010a09'>\r\n//「ふぉっ――」\r\n\"HO!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 341,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0020a02'>\r\n//「ちっ――」\r\n\"Tch!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 465,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0030a09'>\r\n//《ほゥ、ほゥ、ほゥ。\r\n//　なかなかの手並み》\r\n《Oh? Oh-ho! Not bad at all!》\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0040a09'>\r\n//《槍留めの技をよくこなしよる！》\r\n《You block my thrusts well, young lady!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 845,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0050a02'>\r\n//「くそ……\r\n//　槍ってのは厄介なもんだな」\r\n\"Fucking spears. What a pain in the ass.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1047,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0060b40'>\r\n//《うむ。\r\n//　蒙古どもも使っておった……》\r\n《Aye. The Mongols used them too.》\r\n\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0070b40'>\r\n//《薙刀よりも遠くから突いて来る。\r\n//　時には投げて来る。\r\n//　……これを相手に間合を奪うは至難の業ぞ》\r\n《They outranged our naginata. They even threw them, the savages.\r\n  Take care, Mido. It will not be easy to get within range.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1616,
+  "en": "\r\n//　一説によれば、大和の槍は元寇の際に大陸から流入\r\n//したのが始まりだが、やがて長柄物の筆頭格の地位を\r\n//薙刀から奪取し戦国時代にかけて隆盛したのだという。\r\n//　事実なら、つまりはそれだけ有利だったという事だ。\r\n\r\n//　こうして立ち向かってみればその理由は嫌になる程\r\n//良くわかる。\r\n  The history of the spear in Yamato began, according to one theory, with the Mongol invasion. There are other theories, but everyone agrees that by the Sengoku period, the spear had risen to dominate the battlefield, replacing the naginata entirely as the infantry polearm of choice.\r\n\r\n  I could have done without the demonstration of why it did!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2386,
+  "en": "\r\n//　敵の騎体は足が鈍い。\r\n//　まだ正宗の騎航に慣熟したとは言えないあたしでも、\r\n//どうにか<RUBY text='ふたわがかり'>双輪戦</RUBY>の鉄則通りに高度優位を奪い取れる。\r\n//湊斗さんの村正に比べればまさに鈍亀だ。\r\n\r\n//　この時点で<RUBY text='タチウチ'>激突</RUBY>における優勢は確定している。\r\n//　高度が速度を生み速度は威力を生む。\r\n\r\n//　しかしそんなもの、\r\n  My enemy is slow―how like a turtle―much slower than Officer Minato's Muramasa. Even though I'm still new to flight, I've had no trouble taking the high ground.\r\n\r\n  \"Take the high ground\" is the first rule of musha combat for a reason. Altitude gives me speed; speed gives me power.\r\n\r\n  But none of that means anything―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3217,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0080a02'>\r\n//「――だらぁっ！」\r\n\"DAAARRAH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3355,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0090a09'>\r\n//「ふっふぅ！」\r\n\"Heh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3482,
+  "en": "\r\n//　太刀の間合に入る前に<RUBY text='・・・・・・・・・'>突き退けられている</RUBY>ようでは、\r\n//何の意味もない！\r\n  ―if I can't get close enough to land a hit!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3696,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0100a02'>\r\n//「畜生。受け止めると体が崩される……\r\n//　懐に入る暇がねえ！」\r\n\"Shit... He keeps forcing me off course. If I block, I lose my chance to attack!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3968,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0110b40'>\r\n//《そこが槍の卑劣さよ。\r\n//　安全な場所から己のみ攻めて、勝ちを盗む》\r\n《Spear-wielders are all cowards. They strike from safety, expecting victory to fall into their laps.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4273,
+  "en": "\r\n//　同感だったものの、それを言ったって仕方がない。\r\n  No argument there, but complaining won't help.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4409,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0120b40'>\r\n//《どうする、御堂》\r\n《What course, Mido?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4560,
+  "en": "\r\n//　どうする？\r\n//　…………………………。\r\n  What㉓<I>course?</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4657,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0130a02'>\r\n//「……へ。\r\n//　どうもこうも、無ぇ」\r\n\"...Heh. What course do you <I>think?</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4851,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0140b40'>\r\n//《心得た。<RUBY text='・・'>それ</RUBY>で参ろう。\r\n//　カッハァーーーーーッ!!》\r\n《Straight through it is!\r\n  KAHAAAAAAAAA!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5102,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0150a09'>\r\n//《どうした、どうした！\r\n//　埒が明かん様子ではないか娘武道！》\r\n《What's wrong, little hero? You seem at a loss!》\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0160a09'>\r\n//《もう手詰まりかの？\r\n//　大見得を切ってそれでは格好というものが\r\n//つくまいて！》\r\n《And here I hoped you'd have the strength to match the fire in your heart!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5635,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0170a02'>\r\n//《うるせえ。埒は明ける。\r\n//　<RUBY text='・・・・'>あと三手</RUBY>だ》\r\n《Yeah, keep laughing! Three moves. Then I'll shut you up for good.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5900,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0180a09'>\r\n//《ほーゥ？\r\n//　ではその三手、見せて頂こう！》\r\n《Three moves? By all means, show me!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6108,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0190a02'>\r\n//「けっ……」\r\n\"Keh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6234,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0200a09'>\r\n//「ふむぅ？」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6358,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0210a02'>\r\n//「つっ……く」\r\n\"Tch... Kuh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6494,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0220a09'>\r\n//《これで二手。残り一手。\r\n//　ふっふっ、ちぃと手数が足りんのではない\r\n//かな？》\r\n《That makes two. Only one move left. Perhaps you should have asked for more!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6791,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0230a02'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6915,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0240a09'>\r\n//《この槍の<RUBY text='けらくび'>螻蛄首</RUBY>は特別強靭に出来ておるで\r\n//の……。\r\n//　<RUBY text='・・・・'>打ち折る</RUBY>のは骨であろう》\r\n《This spear has an exceptionally strong neck. I believe you'll find cutting through quite the challenge.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7309,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0250a09'>\r\n//《わしがこのまま打たせ続けてやるとも限ら\r\n//ぬしのう。ん？\r\n//　はぁっはっはっは！》\r\n《And there's no guarantee I'll let you keep trying, is there? HA HA HA HA!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7610,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0260a02'>\r\n//《そうか。\r\n//　じゃあ、<RUBY text='・・'>やめ</RUBY>だ》\r\n《Oh. Well, okay. Keep your spear.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7821,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0270a02'>\r\n//《つーかよ、三手も要らなかったし》\r\n《Turns out I didn't need three after all.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8018,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0280a09'>\r\n//《ほっ……？》\r\n《Oh?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8148,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0290a09'>\r\n//《ぬ!?》\r\n《Nuh!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8270,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0300a02'>\r\n//「おら――よっ！」\r\n《How's THIS!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8415,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0310a02'>\r\n//「どうだ!?」\r\n\"How was that!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8548,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0320b40'>\r\n//《敵騎、左肩甲鉄に被撃！\r\n//　だが大した損傷ではない》\r\n《Direct hit, left shoulder! However, he received less damage than expected.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8807,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0330b40'>\r\n//《槍留めの連続による腕力の低下が不都合で\r\n//あった。\r\n//　また、敵騎の甲鉄も中々に優れている》\r\n《Blocking his thrusts has weakened your arms, and his armor is highly durable.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9127,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0340a02'>\r\n//「亀だけに、ってか。\r\n//　簡単にはいかねえな」\r\n\"Guess he's a hard-shelled turtle, huh? Gonna take some㉒<I>work.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9365,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0350a02'>\r\n//《まぁ、調子くれてた野郎の目を覚まさせて\r\n//やれたみたいだから、いいとしておくか》\r\n《But hey, at least we woke the fucker up, right?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9639,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0360a09'>\r\n//《……確かにの。いいやつを貰ったわい。\r\n//　やってくれたものよな、娘御》\r\n《...Yes, you certainly did. That was well played, young lady.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9911,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0370a02'>\r\n//《別に。\r\n//　槍に勝つなら懐へ入る、なんて常識だろ》\r\n《Not really. Once you get in close, it's easy.》\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0380a02'>\r\n//《その弱点があるから武者の間で槍は流行ら\r\n//なかったんだろうが？》\r\n《I mean, that's why most musha don't use spears. Basic shit.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10392,
+  "en": "\r\n//　高速で空を飛び交う武者の剣術が基本を斬撃とし、\r\n//刺突に重きを置かないのと同じ理由だ。\r\n//　点の攻撃は命中率が悪い。線の攻撃の方が当て易い。\r\n\r\n//　槍は遠間から一方的に突けるとはいえ、敵に当てる\r\n//難度は剣の刺突と同様に――いや、得物が長いだけに\r\n//なお高い。\r\n\r\n//　その難事をしくじれば、あっさり懐に入られるわけ\r\n//だ。至近距離で槍にできることは何もない。\r\n//　今度は自分の方が一方的に斬られるだけ。\r\n  It's the same reason you almost never see a musha thrust with his sword in the air. Compared to a slash, which targets a line, a point-targeting thrust is much harder to land.\r\n\r\n  A spear can thrust farther than a sword, of course, but this actually makes connecting <I>more</I> difficult. And if you miss, that's it. The enemy's inside your range. There's nothing you can do but take the hit.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11392,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0390a02'>\r\n//《六回……今の込みなら七回か？　全部的を\r\n//外さなかったてめぇの腕は大したもんだ。\r\n//　けどよ。六回も見りゃ、こっちの眼だって\r\n//慣れるに決まってんだろ》\r\n《That was what, six thrusts you made me block? Pretty good for an old man.\r\n  But if you show me the same thing six times, you better believe I'll start to see it coming.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11892,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0400a09'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12016,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0410a02'>\r\n//《受けないで避ければ体勢も崩れない。\r\n//　てめえを、斬れる！》\r\n《If I see it coming, I don't have to block. And that means I can fuck you up!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12289,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0420a02'>\r\n//《<RUBY text='・・・・'>とろとろ</RUBY>やり過ぎたんだよ、坊主！\r\n//　あたしが慣れるまで時間を寄越したてめぇ\r\n//が馬鹿だ》\r\n《Slow and steady won't work here, asshole! Shouldn't have given me time to catch up!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12645,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0430b40'>\r\n//《驕る悪党はそうして自滅するものよ！\r\n//　クハハハーーーーッ!!》\r\n《And thus do villains choke on their hubris! HAHAHA<br>HAHAHAHA!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12907,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0440a09'>\r\n//《……いや、本当にのぅ。\r\n//　返す言葉もないわい》\r\n《...Indeed. Hubris is a terrible foe.》\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0450a09'>\r\n//《だがの。わしも大物ぶって手加減していた\r\n//わけではなくてのう。\r\n//　ちっと、<RUBY text='・・・・'>肩慣らし</RUBY>をしておったのよ……》\r\n《Still, you should know that I wasn't toying with you. I just needed some time to shake off the rust.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13511,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0460a09'>\r\n//《おぬしの一発で目が覚めたことでもある。\r\n//　そろそろ――参ろうか》\r\n《That blow of yours helped with that, I must say.\r\n  Now... shall we begin?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13791,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0470a02'>\r\n//《何を……!?》\r\n《Begin what!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13929,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0480a09'>\r\n//《尾張貫流破門、遊佐童心。\r\n//　これなる劒冑は<RUBY text='どうたぬきまさくに'>同田貫正国</RUBY>》\r\n《Yusa Doshin, expelled from the Owari Kan-ryu, wielding Dotanuki Masakuni!》\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0490a09'>\r\n//《我らが槍――いざ、御覧あれい!!》\r\n《Behold the㉗<I>true</I>㉓might of our spear!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14435,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0500b40'>\r\n//《……？\r\n//　御堂》\r\n《...Hmm? Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14582,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0510b40'>\r\n//《槍に、<RUBY text='・・'>何か</RUBY>を通しよったぞ》\r\n《He just ran something up his spear.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14792,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0520a02'>\r\n//「何か？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14914,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0530b40'>\r\n//《筒のような》\r\n《Some sort of tube.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15059,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0540a02'>\r\n//「……筒？」\r\n\"...Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15186,
+  "en": "\r\n//　頭の中のどこかに引っ掛かる。\r\n\r\n//　筒。\r\n//　槍。\r\n//　\r\n//　……何か。<RUBY text='・・・・・・'>つながるもの</RUBY>があった、気が。\r\n  Wait... a spear with a tube attached?\r\n\r\n  Why does that sound familiar...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15461,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/026vs0550b40'>\r\n//《御堂！　間合ぞ！》\r\n《Eyes on the enemy, Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15621,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0560a02'>\r\n//「ッ！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15736,
+  "en": "\r\n//　悩むのは後だ。\r\n//　今は集中する。\r\n\r\n//　いくらか慣れてきたとは言っても、あの槍の穂先を\r\n//見切るには相当な神経の集中が要る。\r\n//　気を散らしながらできるようなことじゃない。\r\n\r\n//　しかも相手はどこからどう見ても曲者中の曲者。\r\n//　一度見切られたからには必ず一捻り入れてくるはず。\r\n\r\n//　それでも、\r\n  Think later. I know what I said, but the fact is I still need all my focus just to evade his thrusts.\r\n\r\n  Worse, now that he knows I've got his number, I can expect him to throw in a twist or two. He's definitely the kind of fuck who keeps a bagful of tricks up his sleeve.\r\n\r\n  Still―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16475,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0570a09'>\r\n//《馳走》\r\n《Have at you!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16605,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0580a02'>\r\n//《来やがれ――》\r\n《Bring it―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16746,
+  "en": "\r\n//　\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/026vs0590a09'>\r\n//　　　　　　　《<RUBY text='イチヲモツテコレヲツラヌク'>一を以て之を貫く</RUBY>》\r\n<center>《My Way is but a single thrust.》\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17010,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/026vs0600a02'>\r\n//《――え？》\r\n《Uh―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17139,
+  "en": "\r\n//　やつは、確かに<RUBY text='・・'>捻り</RUBY>を入れてきた。\r\n//　文字通り。そのまんま。\r\n\r\n//　でも、一捻りどころじゃなかった。\r\n  He does throw in a twist―<br>literally―but way more than just one.\r\n",
+  "pt": ""
+ }
+]

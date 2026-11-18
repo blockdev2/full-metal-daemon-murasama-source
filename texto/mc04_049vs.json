@@ -1,0 +1,187 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　一度は回復しかけた敵騎の<RUBY text='ネイリング'>騎航</RUBY>が、また失われ。\r\n//　その様子を確認し――俺は戦慄した。\r\n  When I see my enemy abandon flight, my blood goes cold. He is coming for me.\r\n\r\n//　狙っている。\r\n\r\n//　合当理の出力すら切って熱量をかき集め。\r\n//　<RUBY text='・・・・・・'>墜落しながら</RUBY>、あの恐怖の一射を再び放とうとして\r\n//いる。\r\n  With the last of his strength, he will swat me from the sky―his own death assured, whether he succeeds or fails.\r\n\r\n//　まさに狂気の沙汰。\r\n//　しかし、何を驚くべきであろう。\r\n\r\n//　この凶敵にして、当然の仕儀！\r\n  It's madness.\r\n\r\n  I would expect no less!\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 998,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/049vs0010a00'>\r\n//「<RUBY text='リニア・アクセル'>磁気加速</RUBY>――」\r\n\"Linear Accel!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1182,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/049vs0020a00'>\r\n//「<RUBY text='グラビティ・アクセル'>辰気加速</RUBY>！」\r\n\"Gravity Accel!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1370,
+  "en": "\r\n//　即断して、こちらも陰義を<RUBY text='く'>繰</RUBY>る。\r\n//　操るは磁力と重力。\r\n  Without a moment's pause, I engage my own shinogi, summoning the elemental forces of nature to grant me impossible speed.\r\n\r\n//　武者の常識を超えた高々速度に到達する。\r\n//　最高級の<RUBY text='レーサークルス'>競技用劒冑</RUBY>にさえ後塵を拝せしめる速さ。\r\n\r\n//　この世の何者も追い付くことはできないだろう。\r\n//　\r\n//　\r\n//　しかし。\r\n  The air falls away. Sound shatters to silence. Not even the fastest racing cruxes could hope to catch me now.\r\n\r\n  Nothing of this world could.\r\n\r\n  And yet―\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2072,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/049vs0030a00'>\r\n//（振り切れて――いない！）\r\n(How!?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2218,
+  "en": "\r\n//　敵騎の眼はこの世ならぬものなのか。\r\n//　わかる。感じる……<RUBY text='ロック'>捕捉</RUBY>されていると皮膚が叫ぶ。\r\n  Are his eyes not of this world? I feel them tracking me, hooks buried in my flesh.\r\n\r\n//　もし俺が後方に逃れようとしていたなら、為す<RUBY text='すべ'>術</RUBY>も\r\n//なく背を打ち抜かれていたに違いない。\r\n//　しかし、敵に向かっていたからとて術はあろうか。\r\n  I was right. Escape is impossible. If I'd run, he would have shot me down no matter the angle or distance.\r\n\r\n  But flee or fight, it's all the same. He has me in his sights, and his arrow cannot miss.\r\n\r\n\r\n//　捕捉されている以上、先制されるのも確実なのだ。\r\n//　そして敵のあの射法は標的を<RUBY text='・・・'>絶対に</RUBY>外さない。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3102,
+  "en": "\r\n//　あれは、錯覚ではなかった――決して。\r\n//　射手の元から飛び立った矢が、途中で針路を変じて、\r\n//俺を貫いたのだ。\r\n  I know what I saw. That arrow changed course, always on target no matter where I flew.\r\n\r\n  I don't know how the arrow is guided. I suspect the pilot has control, but that's just speculation. The only thing I know is that there's no way to evade.\r\n\r\n//　<RUBY text='ホーミング'>自動追尾</RUBY>なのか、<RUBY text='リモートコントロール'>遠隔制御</RUBY>なのかは定かでない。\r\n//　俺の勘は後者だと告げているが、根拠は無かった。\r\n\r\n//　確かな事実は、回避の方法が<RUBY text='・・'>無い</RUBY>という事。\r\n\r\n//　術式がどちらであれ高速騎航によって相手側の捕捉\r\n//限界を超える方法で破れる筈だ、が……\r\n//　陰義を重ね掛けし、最高速度にまで達してなお振り\r\n//切れないのでは、諦めるしかない。\r\n  My only hope was to shake the pilot's aim―but if reaching even this speed isn't enough, then that hope too, I must abandon.\r\n\r\n//　その他の回避手段を模索しようにも、如何せん情報\r\n//が足りなかった。\r\n//　敵手の術技を一度見たのみで完全に見切るような才\r\n//は生憎、俺と無縁である。\r\n  What else? Is there another way to avoid the arrow or escape his sight?\r\n\r\n  Perhaps, but I will never find it. I know too little about my enemy's power. To understand it completely from that single encounter would take more insight than I possess.\r\n\r\n//　従って――――\r\n  So be it. The enemy will get his shot, and that shot will find its mark.\r\n\r\n//　敵騎は必ず先制射撃する。\r\n//　その射撃は必ず命中する。\r\n//　\r\n//　……以上二項を前提として対処せねばならない。\r\n\r\n  What I need to determine now is how to kill him anyway.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5068,
+  "en": "\r\n//　矢が撃ち放たれるまで、おそらくあと一呼吸有るか\r\n//無きか。\r\n//　その極少時間で無理難題に挑む。\r\n  It's coming. My time is woefully short, a single breath or less.\r\n  With the precious instants remaining, I must answer the ultimate challenge.\r\n\r\n//　思い浮かぶ手立ては一つきりだった。\r\n//　\r\n//　――矢払いの術。\r\n  Yabarai, the art of deflecting an arrow in flight. It is the stuff of legends, achievable by only the greatest masters<br>―at least when talking about unarmored swordsmen.\r\n\r\n//　飛来する矢を、一剣にて切り落とす。\r\n//　入神、極頂の業である。……生身の者にとっては。\r\n\r\n//　腕に覚えある武者ならば、弓矢はおろか銃弾ですら\r\n//太刀一閃にて打ち払うをさしたる難事とはすまい。\r\n  Musha are not as limited. Never mind arrows. With training, even an average musha can deflect the bullets from a gun.\r\n\r\n//　だが武者であっても、同じ武者の弓から放たれる矢\r\n//は大いなる脅威と<RUBY text='みな'>看做</RUBY>さねばならなかった。\r\n//　弾速において<RUBY text='ライフル'>長銃</RUBY>を凌ぐ武者弓箭の前では、劒冑で\r\n//強化された反射神経さえ無意味と<RUBY text='だ'>堕</RUBY>すのだ。\r\n  This changes, however, when the archer is also a musha. The velocity of a musha's arrow far outstrips the most powerful rifles. Even with the enhancements a tsurugi offers, to cut one down in flight is a nearly impossible task.\r\n\r\n//　切り払うのは至難の上の最難事。\r\n//　\r\n//　\r\n//　……その最難事を俺は成し遂げねばならない。\r\n\r\n//　それを成さねばこの太刀が敵騎に届かない。\r\n//　あの敵を殺せない。\r\n  But that is what I must do in order to reach this enemy.\r\n\r\n//　<RUBY text='ボルト'>回転矢</RUBY>がもう一度、この身体に食い込んだなら、俺\r\n//は失墜するだろう。\r\n//　先刻の一弾で既に肉体は限界への<RUBY text='カウントダウン'>秒読み</RUBY>を開始して\r\n//いるのだ。\r\n  Fail, and defeat is certain. I cannot survive another arrow. I may not survive the first.\r\n\r\n//　矢を払えなければそこで敗北は決する。\r\n//　\r\n//　如何にして、成すか？\r\n\r\n//　動体視力と反応速度そして運動能力の卓抜をもって、\r\n//できる業でないことは明白だ。\r\n//　三種のどれ一つとして常人の枠を出ない湊斗景明に\r\n//は到底、不可能だ。\r\n  Yabarai it is. What tools do I possess that will allow me to accomplish this miracle?\r\n\r\n  Speed, reflexes, visual acuity? No. My physical abilities are purely average, and average will not suffice.\r\n\r\n//　技術をもって挑むのが唯一の可能性だろう。\r\n//　しかし俺の学んだ吉野御流は、現況において有効と\r\n//なる矢払いの術を伝えていなかった。\r\n  Technique, then, is my sole recourse. The Yoshino-<br>onryu, however, does not teach a form of the yabarai that applies here.\r\n\r\n//　だから――<k>\r\n//　唯今、即座に、<RUBY text='・・・・・・・・・'>ここで業を工夫する</RUBY>。\r\n  That being the case, I have only one choice. To develop a new technique. Now.\r\n\r\n//One myself \r\n//　無謀の一択。\r\n\r\n//　法外の企図だ。\r\n//　成功率はごく僅かであろう。\r\n  It is, of course, an absurd proposition. I will almost certainly fail.\r\n\r\n  However, without seizing that slimmest of threads, I will never slay this Sagittarius.\r\n\r\n\r\n\r\n//　その蜘蛛の糸のような可能性を掴み取らねば、あの\r\n//<RUBY text='サジタリウス'>弓騎士</RUBY>の殺害は許されない。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8853,
+  "en": "\r\n//　――――来る。\r\n//　\r\n//　俺の肌の粟立ちが、敵の殺意の肉迫が、残り時間を\r\n//あと一秒弱と告げている。\r\n  The cold bite of malice against my skin informs me of death's approach. In less than a second, my enemy will fire.\r\n\r\n//　多角的視点から方法を検討しているゆとりはない。\r\n//〝選択〟が必要だ。\r\n  That leaves me with no time to consider the problem from every angle.\r\n\r\n//　<RUBY text='・・・・・'>どの方向で</RUBY>考えるか。\r\n//　それを選ぼう。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9417,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/049vs0040a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9543,
+  "en": "\r\n//　選ぶのだ。考えるのは方向を選んだ後だ。\r\n//　正しい方向を知るために考えてはならない。それは\r\n//今、時間の浪費しか意味しない。敗北以外の結末を呼\r\n//ばない。\r\n  I cannot formulate a plan until I know what approach to take, and I cannot know what approach to take until I consider the options.\r\n\r\n  But time is more precious than air. I cannot waste it on deliberation.\r\n  Instead, I must㉓<I>decide</I>.\r\n\r\n\r\n//〝選択〟をせよ。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10064,
+  "en": "\r\n//　湊斗景明には膨大な戦闘経験の蓄積がある。\r\n//　その中におそらく一つは、正答への手掛かりとなる\r\n//ものが含まれている筈だ。\r\n  A wealth of experience dwells in my memory. One of these battles must contain a clue to the answer I need. \r\n\r\n  And that is not the only choice I must make.\r\n  To unlock the clue, I will need a key. I must also decide where in㉗<I>this</I>㉗battle the key to victory lies.\r\n\r\n//　それを選べ。\r\n\r\n//　そしてもう一つ。\r\n//　現状況下における要点が何であるか、それも選択に\r\n//よって決定せよ。\r\n\r\n//　選んだ要点に基いて戦闘記録を参照、検討し、敵の\r\n//射法に対抗し得る<RUBY text='アート'>戦技</RUBY>を完成させることになる。\r\n  The key, and the clue from my past. Assemble these, and the yabarai will lie within my grasp.\r\n\r\n//　では選ぼう。\r\n//　俺の過去から一つを選んで引き出そう。\r\n\r\n//　それは――――\r\n  So choose, Minato Kageaki. Which opponent gave you the clue?\r\n\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11161,
+  "en": "\r\n//　そして要点は、\r\n  And what is the key to victory?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11234,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 11246,
+  "en": "Suzukawa Ryobu",
+  "pt": ""
+ },
+ {
+  "offset": 11268,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 11280,
+  "en": "Nagasaka Ukyo",
+  "pt": ""
+ },
+ {
+  "offset": 11301,
+  "en": "10_3",
+  "pt": ""
+ },
+ {
+  "offset": 11313,
+  "en": "Fuma Kotaro",
+  "pt": ""
+ },
+ {
+  "offset": 11332,
+  "en": "10_4",
+  "pt": ""
+ },
+ {
+  "offset": 11344,
+  "en": "Sorimachi Ichizo",
+  "pt": ""
+ },
+ {
+  "offset": 11368,
+  "en": "10_5",
+  "pt": ""
+ },
+ {
+  "offset": 11380,
+  "en": "Kurusuno Konatsu",
+  "pt": ""
+ },
+ {
+  "offset": 11404,
+  "en": "10_6",
+  "pt": ""
+ },
+ {
+  "offset": 11416,
+  "en": "Otori Shishiku",
+  "pt": ""
+ },
+ {
+  "offset": 11438,
+  "en": "20_1",
+  "pt": ""
+ },
+ {
+  "offset": 11450,
+  "en": "My condition",
+  "pt": ""
+ },
+ {
+  "offset": 11470,
+  "en": "20_2",
+  "pt": ""
+ },
+ {
+  "offset": 11482,
+  "en": "Muramasa's condition",
+  "pt": ""
+ },
+ {
+  "offset": 11510,
+  "en": "20_3",
+  "pt": ""
+ },
+ {
+  "offset": 11522,
+  "en": "The enemy's condition",
+  "pt": ""
+ },
+ {
+  "offset": 11551,
+  "en": "20_4",
+  "pt": ""
+ },
+ {
+  "offset": 11563,
+  "en": "The enemy's eyesight",
+  "pt": ""
+ },
+ {
+  "offset": 11591,
+  "en": "20_5",
+  "pt": ""
+ },
+ {
+  "offset": 11603,
+  "en": "The enemy's goal",
+  "pt": ""
+ },
+ {
+  "offset": 11627,
+  "en": "20_6",
+  "pt": ""
+ },
+ {
+  "offset": 11639,
+  "en": "The worsening weather",
+  "pt": ""
+ }
+]

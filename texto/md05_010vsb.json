@@ -1,0 +1,222 @@
+[
+ {
+  "offset": 216,
+  "en": "\r\n//　あの〝神〟の力が強大を極めていても、空間歪曲の\r\n//効果範囲には自ずと限度が存在する筈だ。\r\n//　もし違うのなら、先の一撃も避け切れなかったろう。\r\n\r\n//　従って、やはり最も確実な対処は離脱。\r\n//　少しでも速く――少しでも遠くへ！\r\n  Powerful though this attack is, I know that its range has a limit. Otherwise I could not have escaped the first attempt.\r\n\r\n  And that means the only sensible course is to flee, as far and as fast as I can!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 770,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1010a00'>\r\n//「来ない……な？」\r\n\"Nothing's happening.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 919,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1020a01'>\r\n//《……うん……》\r\n《Yeah...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1030a01'>\r\n//《距離が遠いと使えないのかしら》\r\n《Maybe it has a really short range?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1248,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1040a00'>\r\n//「かもしれん。\r\n//　しかし……あれは手強いな」\r\n\"Perhaps. A small comfort, if true.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1451,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1050a00'>\r\n//「迂闊に近寄れんぞ」\r\n\"We still can't get close enough to strike.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1625,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1060a01'>\r\n//《効果範囲が見えないってのは厄介ね。\r\n//　<RUBY text='みみ'>探査機能</RUBY>を働かせれば把握できる可能性も\r\n//あるけど、そんなことやってる暇なんてない\r\n//でしょうし》\r\n《Not without knowing how much space it's grabbing. My radar might be able to pick it out, but that'd take more time than we have.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1070a01'>\r\n//《あと……もう一つ》\r\n《And there's one more thing that worries me.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2273,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1080a00'>\r\n//「何だ」\r\n\"What is it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2398,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1090a01'>\r\n//《もしかするとあれ、防御にも使えるんじゃ\r\n//ないの？》\r\n《What if it uses that power as a shield?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2628,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1100a00'>\r\n//「…………。\r\n//　攻撃を曲げる――あるいは自分自身を空間\r\n//歪曲で瞬間的に移動させてか？」\r\n\"You're saying it could... deflect our strike by bending space? Or even shift itself out of the way?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1110a00'>\r\n//「……有り得ないと言い切るのは無理だな」\r\n\"...It makes sense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3132,
+  "en": "\r\n//　そんな天地法外な防御措置を取られては、電磁抜刀\r\n//といえど必勝を期し難い。\r\n//　そして、<RUBY text='・・・・'>試し撃ち</RUBY>をやれるような熱量はない。\r\n  I certainly can't discount the possibility, given what we've seen. And if the god is indeed capable of such defensive measures, then the railgun may no longer be decisive.\r\n\r\n//　野太刀の電磁抜刀を使えるのはおそらく一度きり。\r\n//　二度目の機会を得るのは難しいだろう。そして他に、\r\n//あの〝神〟に致命傷を与える攻撃方法というのも考え\r\n//つかない。\r\n  To make matters worse, even one full-power railgun is likely to drain me dry. I can't waste heat probing the enemy's defenses, and I won't get a second chance.\r\n\r\n//　つまり……\r\n//　空間歪曲による防御を想定し、その無効化の算段を\r\n//つけた上で、決戦力の行使に臨むべし。\r\n\r\n//　結論としてはそうなる。\r\n\r\n//　そうなるが……\r\n  I have to assume the worst, that the target will use spatial distortion to neutralize my attack, and come up with a way to land it all the same.\r\n\r\n  But how?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4343,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1120a00'>\r\n//「……ん？」\r\n\"...Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4470,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1130a01'>\r\n//《なに？》\r\n《What's wrong?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4610,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1140a00'>\r\n//「…………？\r\n//　いや」\r\n\"Nothing... just...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4764,
+  "en": "\r\n//　今……？\r\n  Just now...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4808,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1150a01'>\r\n//《え？》\r\n《Huh?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4936,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1160a00'>\r\n//「あ……」\r\n\"Ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5058,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1170a00'>\r\n//「……何だ!?」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5186,
+  "en": "\r\n//　距離を大きく取っていたのに――\r\n//　何故、<RUBY text='・・・'>勝手に</RUBY>近付いている!?\r\n  The Konjin is㉓<I>closer!?</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5358,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1180a01'>\r\n//《空間歪曲よ！》\r\n《It's bending space again!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1190a01'>\r\n//《あっちとこっちの間にある空間を、端から\r\n//<RUBY text='・・・'>潰して</RUBY>いってるのっ！》\r\n《This time it's㉓<I>folding</I>㉑the space between us!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5805,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1200a00'>\r\n//「……不条理にも程があるぞ!!」\r\n\"How is that even possible!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5978,
+  "en": "\r\n//　神に言っても仕方のない事を、俺は思わず叫んだ。\r\n\r\n//　とにかく、離脱し――\r\n  A foolish question to ask a god. For now, there's only one option.\r\n\r\n  I shunt power to my engine, preparing to―\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6224,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1210a01'>\r\n//《御堂!!》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6355,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1220a00'>\r\n//「見ればわかる!!」\r\n\"I see it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6492,
+  "en": "\r\n//　退避、退避退避退避――――\r\n  FLEE!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6557,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1230a01'>\r\n//《か、紙一重ね……！》\r\n《<I>That</I>㉑was close...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6728,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1240a00'>\r\n//「……く。\r\n//　あの金神、さっぱり知的ではないが芸達者\r\n//だな！」\r\n\"For a mindless lump of rock, it has quite the bag of tricks!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6985,
+  "en": "\r\n//　今のも標的を近くに寄せたいという、本能的な欲求\r\n//からしたに過ぎない事なのだろう。おそらくは。\r\n//　だが欲求を満たす手段が全くもって非常識だ。\r\n\r\n//　あれに手足でも付いていれば、まずそれを使ったの\r\n//かもしれないが……。\r\n  What it did just now was likely instinctive. It wanted its prey closer, so it used what means it had to make that happen. Those means just happened to be rather <I>exotic.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7502,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1250a01'>\r\n//《とにかくもう、動き回るしかない。\r\n//　重力波も空間歪曲もこちらに目標を定めて\r\n//使っているのは確かなんだから、まず位置を\r\n//掴まれなければ未然に防げる理屈よ》\r\n《All we can do for now is keep it from catching us. We're lucky its aim is so bad. We should be okay as long as we keep moving.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7974,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1260a00'>\r\n//「同意だ」\r\n\"Agreed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8098,
+  "en": "\r\n//　問題は、それが延命策であって打開策では全くない\r\n//という事だが。\r\n//　今はどうにも仕方ない。\r\n\r\n//　攻略法を練る時間が要る。\r\n//　まずそれを稼ぎ出そう。\r\n  Running is not a solution, but at least it will buy us time to find one. For now, that will have to do.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8441,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1270a01'>\r\n//《ああもう、また！》\r\n《Why won't it stop!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8602,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1280a00'>\r\n//「向こうの力は無尽蔵のようだからな……」\r\n\"I assume it's not worried about energy...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8805,
+  "en": "\r\n//　逃げの一手！\r\n  And that means we keep running!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8875,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1290a00'>\r\n//「……うむ!?」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9003,
+  "en": "\r\n//　逃げられない!?\r\n\r\n//　真逆、広範囲への空間歪曲か？\r\n//　そんな事も可能なのか。\r\n\r\n//　ならば、打つ手は――\r\n  We're not moving!?\r\n\r\n  Don't tell me it expanded the area of effect! If it could do that, then why―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9276,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1300a01'>\r\n//《これ……違う！》\r\n《This is something new!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9437,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1310a00'>\r\n//「何？\r\n//　なら、今度は何だ！」\r\n\"What now!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9595,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1320a01'>\r\n//《これは……》\r\n《No way...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1330a01'>\r\n//《きっと――時間がっ！》\r\n《I think it's... bending time!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9906,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1340a00'>\r\n//「じ……」\r\n\"Ti―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10028,
+  "en": "\r\n//　時間ッッ!?\r\n  TIME!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10069,
+  "en": "\r\n//　空間が重複する。\r\n\r\n//　己の視界の中に己の姿を見る。\r\n//　過去か――未来か――\r\n  Shapes appear from out of thin air. Visions of myself. My past? My future?\r\n\r\n  What is this!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10296,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1350a01'>\r\n//《時間歪曲……》\r\n《Time is... folding on itself!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10461,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/010vs1360a00'>\r\n//「どうなる!?」\r\n\"What does that mean!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10604,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1370a01'>\r\n//《ごめんなさいわからない！》\r\n《Sorry! I really don't know!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/010vs1380a01'>\r\n//《わからないけどっ、多分――》\r\n《But whatever it is, it's bound to be―》\r\n",
+  "pt": ""
+ }
+]

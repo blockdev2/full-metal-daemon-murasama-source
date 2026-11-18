@@ -1,0 +1,332 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070010a00'>\r\n//「円往寺……？」\r\n\"Ennoji Temple?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 351,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070020a02'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 467,
+  "en": "\r\n//　少女が先に立って俺を導いたのは、際立って著名と\r\n//も広壮とも言い難い、その寺院だった。\r\n//　古都鎌倉の誇る名刹の一つには違いないのだが。\r\n\r\n//　参拝者はおろか、僧の姿さえ見当たらない。\r\n//　無人寺ということはなかろう……が、そうであった\r\n//としても頷けてしまう程度には寂れた佇まいを呈して\r\n//いる。\r\n\r\n//　すぐ近くに鎌倉五山の第一位建朝寺、第二位円覚寺、\r\n//第四位浄智寺といった錚々たる寺院が立ち並ぶためか。\r\n//　日頃から人の出入りは少ないように窺えた。\r\n  Kamakura boasts many temples. Some are quite large and famous. This is not one of them.\r\n\r\n  I see no other visitors, nor even a priest. The temple cannot be abandoned, but it feels that way.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1340,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070030a02'>\r\n//「昔、父様がよく連れてきてくれました」\r\n\"My father used to bring me here a lot.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1535,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070040a00'>\r\n//「菩提寺なのか」\r\n\"Your family grave is here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1685,
+  "en": "\r\n//嶋：修正（一条）【090930】\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070050a02'>\r\n//「いえ、違います。\r\n//　綾弥の家とは何の縁もありません」\r\n\"No. There's no connection.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1933,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070060a02'>\r\n//「でも父様は毎週のように参拝してたみたい\r\n//です。もしかしたら毎日かも。\r\n//　……きっと、ここが悪を許さない<RUBY text='かみ'>仏天</RUBY>様を\r\n//祀る寺だから」\r\n\"Still, he used to come every week. Maybe even every day. I think it's because the god here punishes the wicked.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2366,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070070a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2484,
+  "en": "\r\n//　傍らの石碑に目を遣る。\r\n//　――<RUBY text='エンマオウ'>閻魔王</RUBY>。\r\n\r\n//　いわゆる閻魔大王。\r\n//　十王信仰の中核をなす裁断者がこの寺の本尊なのだ。\r\n//なかなか珍しい事と云える。\r\n  I scan the inscription on the nearby stela. It reads―<I>Enma-o.</I>\r\n\r\n  Enma is the god of hell, presiding over the Ten Kings who judge the souls of the dead. Unusual, as an object of worship.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2952,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070080a00'>\r\n//「厳格な父君であられるようだ」\r\n\"Your father must be a strict man.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3130,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070090a02'>\r\n//「そうですね。\r\n//　人にも……自分にも」\r\n\"Yes. With himself even more than with others.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3333,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070100a00'>\r\n//「一度お会いしたいものだな。\r\n//　お前を見る限り、尊敬に値する方と思える」\r\n\"I'd like to meet him. He raised a fine daughter.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3590,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070110a02'>\r\n//「ありがとうございます。\r\n//　……湊斗さんともう何年か早く知り合って\r\n//いたら、紹介できたかもしれませんけど」\r\n\"I appreciate that. ...If we'd met a few years sooner, I could have introduced you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3933,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070120a00'>\r\n//「…………そうか」\r\n\"...I'm sorry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4073,
+  "en": "\r\n//　一条には家族がいない。\r\n//　以前、何かの折にちらりとそう聞いていた事を思い\r\n//出す。\r\n\r\n//　失言が恥ずかしかった。\r\n  Come to think of it, she mentioned once having no family. I should have remembered.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4341,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070130a02'>\r\n//「あたし、この寺は嫌いなんです」\r\n\"I hate this place.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4507,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070140a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4625,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070150a02'>\r\n//「ここへ来る時の父様は決まって、難しい顔\r\n//をしていたから。\r\n//　何かを悩んで……悲しんで。怒って」\r\n\"Whenever Father came here, he'd get this look on his face. Like he was struggling with something. Some anger... sadness...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4993,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070160a02'>\r\n//「楽しそうだったことは一度もありません」\r\n\"He never once looked happy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5180,
+  "en": "\r\n//　本堂を眺める一条の、独白めいた呟き。\r\n//　ふと、俺は幻視した。\r\n\r\n//　一人の男の背中。\r\n//　微動だにせず、本堂奥の閻魔像を見上げている――\r\n  Ichijo's voice is tight, but flat. I follow her gaze to the temple's main hall.\r\n\r\n  For an instant, I can almost see her father standing there, back rigid, head raised, eyes locked on the statue of Enma within.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5612,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070170a02'>\r\n//「今ならわかります。\r\n//　父様は悪と戦う覚悟を決めるために、ここ\r\n//へ来ていたんです」\r\n\"Now I understand how he felt. He came here when he needed to renew his resolve.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5916,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070180a02'>\r\n//「だからいつも辛そうな顔をしていた。\r\n//　……だからあたしは嫌いでした」\r\n\"And that hurt him. That's why I hated this place.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6171,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070190a02'>\r\n//「今も嫌いです。\r\n//　父様と同じで……あたしにとっても、ここ\r\n//は覚悟を決めるための場所になったから」\r\n\"I still hate it. Because now... I'm the one who needs resolve.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6482,
+  "en": "\r\n//　少女が振り返る。\r\n//　俺を見る。\r\n\r\n//　挑むような視線だった。\r\n//　……祈るような視線だった。\r\n  She turns. At last, she faces me.\r\n\r\n  Her eyes hold a challenge.\r\n  ...Or a plea.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6719,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070200a02'>\r\n//「湊斗さん」\r\n\"Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6841,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070210a00'>\r\n//「一条……」\r\n\"Ichijo...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6968,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070220a02'>\r\n//「……嘘だって、わかってるんです。\r\n//　あんなの、とんでもない言い掛かりだって\r\n//……わかってるんです」\r\n\"I know it's not true. It can't be. He was just... messing with me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7286,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070230a02'>\r\n//「湊斗さんは……\r\n//　絶対に、信じられる人なんだからっ……！」\r\n\"You're not like that. I can trust you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7515,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070240a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7639,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070250a02'>\r\n//「でも……ごめんなさい。\r\n//　なんでか、聞き流せないんです……」\r\n\"I know... but I'm sorry. I can't get it out of my head.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070260a02'>\r\n//「訊かないと。\r\n//　確かめないと、安心できないんです」\r\n\"I have to ask. I have to be <I>sure.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8099,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070270a00'>\r\n//「一条」\r\n\"Ichijo―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8220,
+  "en": "\r\n//　その一瞬。\r\n//　俺の心理はどう在ったのか。\r\n\r\n//　止めたかったのか。\r\n//　それとも、別の何かを望んだのか。\r\n\r\n//　不明であった。\r\n  Words die in my throat. What am I trying to say?\r\n\r\n  Do I want her to stop?\r\n\r\n  Or―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8510,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070280a02'>\r\n//「答えてください。\r\n//　嘘だって、言ってください」\r\n\"Please, tell me. Tell me it's not true!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8722,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070290a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8840,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070300a02'>\r\n//「あなたが」\r\n\"He said―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8968,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070310a02'>\r\n//「何の罪も無い人を殺しているなんて」\r\n\"He said you're killing <I>innocent people!</I>\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9170,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070320a00'>\r\n//「……なぜ」\r\n\"...Who...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9297,
+  "en": "\r\n//　それを。\r\n//　お前が。\r\n  My voice is barely a groan.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9376,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070330a02'>\r\n//「雪車町です。\r\n//　あのチンピラが言ったんです」\r\n\"That piece of shit <br>Sorimachi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9579,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070340a02'>\r\n//「湊斗さんは、ただの殺人犯だって」\r\n\"He said you're just another murderer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9767,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070350a02'>\r\n//「銀星号や、六波羅と戦っている陰で……\r\n//　何も悪くない人達を殺しているって……」\r\n\"He said... while you're fighting Ginseigo and Rokuhara, you're also killing people who've done nothing wrong.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10097,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070360a00'>\r\n//「――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10215,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070370a02'>\r\n//「嘘ですよね」\r\n\"He's lying, right!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10355,
+  "en": "\r\n//　一途な眼差しが、俺に<RUBY text='すが'>縋</RUBY>る。\r\n//　喰いつく。\r\n\r\n//　俺を信じて。\r\n//　信じているから、怯えていた。\r\n\r\n//　崩壊の恐怖に震えていた。\r\n  Her eyes cling to mine, desperate, beseeching. She trusts me. And because of that, she is afraid.\r\n\r\n  For if she is wrong, the very ground beneath her feet will give way.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10756,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070380a02'>\r\n//「違うと、言ってください」\r\n\"Tell me he's lying!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10914,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070390a00'>\r\n//「――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11032,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070400a02'>\r\n//「早く。\r\n//　早く、して」\r\n\"Please. I need to hear it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11195,
+  "en": "\r\n//　違う、嘘だ、と――\r\n//　そう言えば、一条は信じる。\r\n\r\n//　細かい弁明など必要ない。\r\n//　それだけで事足りる。\r\n\r\n//　一言だけで、一条は信じてくれる。\r\n//　ただ――一言。\r\n  I realize how simple it would be to reassure her. All it would take is one word―<I>no</I>―and Ichijo will believe.\r\n\r\n  One word, if I can only speak it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11613,
+  "en": "\r\n//　全ての罪に背を向けて。\r\n//　その一言を、口にすれば。\r\n\r\n//　口に……\r\n//　できるなら。\r\n  If I can only turn my back on all that I have done.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11807,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070410a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11925,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070420a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12049,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070430a02'>\r\n//「なんでですか」\r\n\"Why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12177,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070440a02'>\r\n//「なんで、何も言ってくれないんですか」\r\n\"Why won't you say something?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12362,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070450a00'>\r\n//「……俺は……」\r\n\"I...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12490,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070460a02'>\r\n//「湊斗さん！」\r\n\"Say something!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12625,
+  "en": "\r\n//　知らぬ――と、言え。\r\n//　何の戯言か――と。\r\n\r\n//　そう言えばいい。\r\n//　そう言えば、この少女の信頼を失わずに済む。\r\n\r\n//　これまで通りの関係を続けられる。\r\n//　だから。\r\n\r\n//　言え。\r\n\r\n//　言うのだ。\r\n  Yes. <I>Say something.</I>㉑ Tell her that it's nonsense. Feign hurt that she would doubt.\r\n\r\n  Do that, and you will keep her trust. Everything will continue as before.\r\n\r\n  What are you waiting for?\r\n\r\n  Say it.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13147,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070470a00'>\r\n//「殺人者だ」\r\n\"I am a murderer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13281,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070480a02'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13417,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070490a00'>\r\n//「雪車町一蔵は正しい。\r\n//　俺は、善人も悪人も区別しない」\r\n\"Sorimachi was right. I make no distinction between the innocent and the guilty.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070500a00'>\r\n//「関わった者は皆、殺す。\r\n//　ただの殺人者だ」\r\n\"Everyone I meet, I kill.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13864,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0070510a02'>\r\n//「嘘だぁぁぁぁぁぁぁぁぁぁぁぁぁっっっ!!」\r\n\"NO!!!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14031,
+  "en": "\r\n//　……裏切られた少女の叫びは。\r\n//　雷鳴よりもなお高く、天地の狭間に轟いた。\r\n  Her howl of betrayal shatters the thunder, carving deep furrows across the sky. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14241,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070520a00'>\r\n//「新田雄飛を覚えているか？\r\n//　野木山組に絡まれているところを、お前に\r\n//救われた少年だ」\r\n\"You remember Nitta Yuhi? The boy you rescued from those gangsters.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070530a00'>\r\n//「俺が殺した」\r\n\"I killed him.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070540a00'>\r\n//「俺とお前が二度目に出会った、あの小さな\r\n//村を覚えているか？\r\n//　あそこには蝦夷の老人がいて、彼には二人\r\n//の孫娘がいた」\r\n\"That village where we met the second time. There was a family there―Emishi, an old man and his two granddaughters.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0070550a00'>\r\n//「どちらも俺が殺した」\r\n\"I killed the girls. Both of them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15210,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 15222,
+  "en": "操殺害",
+  "pt": ""
+ },
+ {
+  "offset": 15239,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 15251,
+  "en": "香奈枝殺害",
+  "pt": ""
+ }
+]

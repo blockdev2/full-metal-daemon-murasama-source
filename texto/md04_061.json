@@ -1,0 +1,112 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0610010a00'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 349,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0610020a01'>\r\n//《……消え――》\r\n《They're...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 493,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610030e008'>\r\n//「消えた？」\r\n\"Gone?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 656,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610040a13'>\r\n//「…………………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 816,
+  "en": "\r\n//嶋：シナリオ退避【090511】\r\n//「きょ、教授？\r\n//　消えてしましたが。鍛造雷弾も、銀星号も」\r\n//おがみ：テキストオーバーのため改行位置調整\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610050e008'>\r\n//「きょ、教授？　消えてしまいましたが。\r\n//　鍛造雷弾も、銀星号も」\r\n\"P- Professor? They're gone. The bomb... and Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1305,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610060a13'>\r\n//「違うよ」\r\n\"No, Lieutenant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1453,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610070e008'>\r\n//「えっ？」\r\n\"Sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1612,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610080a13'>\r\n//「消えていない。\r\n//　<RUBY text='・・・・・'>極小の黒点</RUBY>になった」\r\n\"Not gone. They've become a㉓<I>singularity.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1875,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610090a13'>\r\n//「限界以上に高められた重力によって、自ら\r\n//崩壊したのだ……」\r\n\"Crushed by their own gravity... into a point of infinite density.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2149,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610100e008'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610110e008'>\r\n//「し、失敗したということ……ですか？」\r\n\"Then... the plan failed?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2526,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610120a13'>\r\n//「いいや」\r\n\"No...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610130a13'>\r\n//「成功だ」\r\n\"It㉒<I>worked.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2808,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610140a13'>\r\n//「重力の渦である黒点は、\r\n//　<RUBY text='・・・・・・・・・・・・・・・'>地球中心方向へ向かって落下する</RUBY>!!」\r\n\"At this moment, the singularity is falling... <I>toward the center of the <br>Earth!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3173,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610150e008'>\r\n//「……地上から光が……」\r\n\"The ocean is shining!\"\r\n\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610160e008'>\r\n//「……？　これ……水……？」\r\n\"Is this... water?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3561,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610170a13'>\r\n//「……おお……」\r\n\"Ohh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3707,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610180e008'>\r\n//「……ひっ!?」\r\n\"Eee!\"\r\n\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610190e008'>\r\n//「きょっ、教授ぅ！\r\n//　腕が――腕が腕が腕が」\r\n\"P- Professor! My arm! MY ARM!\"\r\n\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0610200e008'>\r\n//「がっ、ガラスみたいに……\r\n//　あぁぁ、足も!?」\r\n\"It's turning to glass! Ahh! MY LEG!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4335,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610210a13'>\r\n//「……素晴らしい……」\r\n\"Magnificent...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4500,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610220a13'>\r\n//「この光……\r\n//　神の命を宿した水……」\r\n\"These shining droplets are seeds of life...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610230a13'>\r\n//「劒冑の元素だ」\r\n\"The origin of tsurugi!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610240a13'>\r\n//「……おお……\r\n//　何もかもが水晶のように……」\r\n\"Ohh! Everything is turning to crystal!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610250a13'>\r\n//「……<RUBY text='・・・・・'>金属の水晶</RUBY>！」\r\n\"Crystals of <I>metal!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5294,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610260a13'>\r\n//「劒冑鍛造という過程を経ずに……\r\n//　濃密な<RUBY text='みず'>光水</RUBY>を浴びれば……このように……\r\n//純粋に<RUBY text='・・・・'>神の一部</RUBY>となるのだ」\r\n\"By immersing ourselves in the purest water, we become more than any tsurugi. We become... truly a part of God!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5737,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610270a13'>\r\n//「万物を結びつける<RUBY text='アガペ'>神の愛</RUBY>！」\r\n\"Agape! His love will join us all!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610280a13'>\r\n//「やはり、そうか……」\r\n\"Of course...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610290a13'>\r\n//「これが<RUBY text='クリスタルナハト'>水晶の夜</RUBY>の真実だったのだ」\r\n\"This was the truth of Kristallnacht!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610300a13'>\r\n//「英邁なる<RUBY text='アドルフ'>大法首</RUBY>……\r\n//　あれを神の啓示とみたあなたは正しかった」\r\n\"Wise Adolf... you were right. That night㉒<I>was</I>㉓a message from God.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610310a13'>\r\n//「あなたを信じた僕は正しかった」\r\n\"And I was right to believe in you.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610320a13'>\r\n//「僕の夢想、\r\n//　神の推定は正しかった」\r\n\"My theories! My fantasies! All of them <I>right.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7084,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610330a13'>\r\n//「見える」\r\n\"I see you...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610340a13'>\r\n//「僕には見えるぞ、神！」\r\n\"I㉓<I>see</I>㉓you, God!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610350a13'>\r\n//「宇宙の果てから訪れた金属の生命」\r\n\"Creature of living metal come to us from the farthest stars!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610360a13'>\r\n//「あなたを理解したのはこの僕だ」\r\n\"It was I who knew you!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610370a13'>\r\n//「あなたを導いたのはこの僕だ」\r\n\"I who led you!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610380a13'>\r\n//「あなたを冒したのはこの僕だ」\r\n\"I who dragged you into the light!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610390a13'>\r\n//「このウォルフラム・フォン・ジーバスが、\r\n//　地球に革世をもたらした!!」\r\n\"Now I, Wolfram von Sievers, have changed the world forever!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8433,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610400a13'>\r\n//「おお――――」\r\n\"Ohhh!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610410a13'>\r\n//「新たなる世界よ！」\r\n\"A new world!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610420a13'>\r\n//「新たなる時代よ！」\r\n\"A new age!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610430a13'>\r\n//「黄金の夜明けよ！」\r\n\"I give you the Golden Dawn!\"\r\n\r\n////【ウォルフ】\r\n//<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610440a13'>\r\n////「ズィィィィク・ハァァァィィィイイイル!!」\r\n//\"SIEEEEEEEEEEG! HEEEEEEEEEEEEEEIL!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9262,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0610440a13'>\r\n//「ズィィィィク・ハァァァィィィイイイル!!」\r\n\"SIEEEEEEEEEEG! HEEEEEEEEEEEEEEIL!\"\r\n",
+  "pt": ""
+ }
+]

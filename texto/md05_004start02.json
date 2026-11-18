@@ -1,0 +1,67 @@
+[
+ {
+  "offset": 220,
+  "en": "\r\n//　あなたは必要最低限のものを取り戻した。\r\n//　……そうだろう？\r\n\r\n//　あなたの名は――\r\n  You have filled some of the gaps in your memory.\r\n  Let us review. Your name is...\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 446,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0050a00'>\r\n//「湊斗景明」\r\n\"Minato Kageaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 581,
+  "en": "\r\n//　あなたの目的は――\r\n  Your purpose is...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 647,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0060a00'>\r\n//「……湊斗光を……」\r\n\"Minato Hikaru...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 795,
+  "en": "\r\n//　湊斗光を？\r\n  What must you do with Minato Hikaru?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 867,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0070a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 993,
+  "en": "\r\n//　…………。\r\n\r\n//　移動しよう。\r\n//　何処へ行く？\r\n  The search continues.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1102,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 1114,
+  "en": "The Grand Manor",
+  "pt": ""
+ },
+ {
+  "offset": 1137,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 1149,
+  "en": "The Isolated Home",
+  "pt": ""
+ },
+ {
+  "offset": 1174,
+  "en": "10_3",
+  "pt": ""
+ },
+ {
+  "offset": 1186,
+  "en": "The Hilltop",
+  "pt": ""
+ }
+]

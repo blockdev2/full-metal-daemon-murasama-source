@@ -1,0 +1,512 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040010a07'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 346,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040020a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 464,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040030a07'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 609,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040040a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 727,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040050a07'>\r\n//「……あのー……」\r\n\"...Um...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 871,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040060a00'>\r\n//「何だ」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 988,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040070a07'>\r\n//「こういう時には……\r\n//　何かこう、言葉があってもいいんじゃない\r\n//かなぁと思ったりとか……」\r\n\"Doesn't the guy usually... I don't know... say something?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1291,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040080a00'>\r\n//「言葉」\r\n\"Such as?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1411,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040090a07'>\r\n//「良かったとか悪かったとか。\r\n//　好きだとか愛してるとか、もう離さないよ\r\n//とか」\r\n\"Like 'that was nice' or 'sorry if it hurt' or 'I love you' or 'marry me' or 'I'll never let you go'...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1741,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040100a00'>\r\n//「ああ……」\r\n\"Ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1864,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040110a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1988,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040120a00'>\r\n//「そうだな。\r\n//　用は済んだから、出て行け」\r\n\"I'm finished with you. Get out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2183,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040130a07'>\r\n//「あんた本気で天魔鬼神かよっ!!」\r\n\"It wasn't supposed to make you an㉓<I>asshole!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2390,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040140a07'>\r\n//「つーかここ、あての部屋なんですが！」\r\n\"Besides, this is my room!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2581,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040150a00'>\r\n//「だからどうした。\r\n//　お前は俺を追い出したいのか」\r\n\"So? Are you suggesting that <I>I</I>㉓leave?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2802,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040160a07'>\r\n//「い、いいええぇ？\r\n//　そんなつもりは決して全く」\r\n\"No! Nonononono! I wouldn't dare!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3016,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040170a00'>\r\n//「当然だ」\r\n\"Of course not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3145,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040180a00'>\r\n//「出て行くのが嫌ならいても構わんが……\r\n//　その辺の隅でおとなしくしていろ。目障り\r\n//にならないようにな」\r\n\"If you want to stay, then stay. But keep quiet and out of sight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3464,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040190a07'>\r\n//「……ハイ……」\r\n\"...'kay...\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040200a07'>\r\n//「なんだろね……。\r\n//　最近、あての扱いがえらく酷い気がします\r\n//よ……」\r\n\"You know, I feel like everyone's dumping on me lately...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3871,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040210a00'>\r\n//「そうなのか？」\r\n\"Where did you get that <br>idea?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4027,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040220a07'>\r\n//「ついさっき、あての初めてを奪ったあげく\r\n//それはもう念入りにいたぶってくれやがった\r\n//ケダモノサディストからそんな他人事な感想\r\n//は聞きたくないですー!!」\r\n\"I <I>really</I>㉕don't wanna hear that from the guy who just stole my virginity then had his way with me like some kinda practice dummy, you sadistic beast!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4520,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040230a00'>\r\n//「あれなら別に酷くない。\r\n//　喜んでいただろうが？」\r\n\"That was nothing. Besides, you enjoyed it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4738,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040240a07'>\r\n//「うっうっうっ。この言い草。\r\n//　あんまりだ。女の敵だ」\r\n\"Real fucking piece of work, treating a lady this way! I can't deal with this! I'm... I'm... ugh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5027,
+  "en": "\r\n//　めそめそ泣き始めるのを黙殺して、俺は仮眠を取る\r\n//ために横たわった。\r\n//　声など右から左へ聞き流せば良く、子守唄ほどにも\r\n//気にはならない。\r\n  Ignoring Chachamaru, I lie down on the bed for a short rest. Her sobs make a decent lullaby.\r\n\r\n//　適度な疲労感が、俺を熟睡させてくれそうだった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5422,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040250a07'>\r\n//「……でもさー」\r\n\"...But you know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5571,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040260a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5689,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040270a07'>\r\n//「お兄さん、あんまし変わってないよね。\r\n//　理性的だし」\r\n\"You really haven't changed much, considering. You've still got your reason.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5955,
+  "en": "\r\n//　いじけるのはすぐに飽きたらしく、茶々丸は俺の側\r\n//へ寄ってくると、そう妙な事を言った。\r\n//　\r\n  Chachamaru is no longer sulking. Instead, she kneels at the side of the bed, looking at me with a gleam in her eyes.\r\n\r\n//　……理性的？\r\n  My reason?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6267,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040280a00'>\r\n//「今、けだもの呼ばわりされたばかりだが」\r\n\"Didn't you just call me a beast?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6459,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040290a07'>\r\n//「そりゃしますとも。\r\n//　しないでか」\r\n\"Hell yes I did. And meant it too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6656,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040300a07'>\r\n//「けど他の人間に比べるとねェ。\r\n//　これまで御姫に汚染されたひとはみんな、\r\n//<RUBY text='・・・・・・'>ああなってた</RUBY>わけだし」\r\n\"But there's a world of difference between you and the rest. Everyone else the princess touches winds up like... you know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7071,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040310a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7189,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040320a00'>\r\n//「確かにな」\r\n\"I see what you mean.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7327,
+  "en": "\r\n//　彼らはまさに野獣であった。\r\n//　食らう、殺す、犯す――原始的な欲求の虜となって\r\n//暴れ狂うだけのものに<RUBY text='きわ'>窮</RUBY>まった。\r\n  The ones I've encountered were indeed beasts, slaves to the primal urges of rape, feast, and slaughter.\r\n\r\n//　比較すれば、俺は物を考える事ができ、口を利く事\r\n//もできる。\r\n//　稀有な例と言わなくてはならないのかもしれない。\r\n  I, however, still retain my ability to think and speak, which makes me a rather striking exception.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7918,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040330a00'>\r\n//「他に俺のような奴はいなかったのか」\r\n\"There's never been anyone like me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8106,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040340a07'>\r\n//「うん」\r\n\"Nope.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8232,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040350a00'>\r\n//「今更の疑問だが、奇妙な話だな。\r\n//　何故、俺はああならなかったのか……」\r\n\"It seems pointless to worry about it now. Still, I wonder why.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8503,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040360a00'>\r\n//「お前にはわかるか？」\r\n\"Do you know?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8648,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040370a07'>\r\n//「そだねー……」\r\n\"Well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8788,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040380a07'>\r\n//「詩的に言えば、御姫を『守る』ことがお兄\r\n//さんの望みだったからかな。\r\n//　狂犬になっちゃったら守れないっしょ」\r\n\"I'd say it's the nature of your desire. More than anything else, you want to protect her. And you can't do that if you're an animal. At least, that's the romantic answer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9231,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040390a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9349,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040400a00'>\r\n//「散文的に言えば？」\r\n\"And the realistic answer?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9504,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040410a07'>\r\n//「劒冑の<RUBY text='まもり'>防護</RUBY>。\r\n//　装甲してなくても武者と劒冑は繋がってる\r\n//からね。いくらか<RUBY text='なみ'>汚染波</RUBY>の威力が減殺された\r\n//んでない？」\r\n\"Your tsurugi. You're still connected to each other. That might be dampening the effect somewhat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9937,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040420a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10055,
+  "en": "\r\n//　いずれも説得力らしきものはある。\r\n//　どちらが正しいのか。両方ともか。あるいは、全く\r\n//異なる別の事由か。\r\n  Either theory is plausible. Perhaps it's some mixture of both. Or neither.\r\n\r\n//　まぁ――\r\n  In any case―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10344,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040430a00'>\r\n//「どうでも構わんが」\r\n\"It doesn't matter.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10492,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040440a07'>\r\n//「そうだね。\r\n//　大事なのはひとつだけ」\r\n\"True that. There's only one thing we care about.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10707,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040450a07'>\r\n//「お兄さんが最高の状態にあるってことだ」\r\n\"That you're ready to take on the world.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10915,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040460a00'>\r\n//「……ああ」\r\n\"Exactly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11041,
+  "en": "\r\n//　茶々丸の結論は正しい。\r\n//　今の俺は万全であり、それだけが意味のある事実だ。\r\n  Chachamaru is absolutely right. I am in perfect condition, physical and mental, and that is the only thing that matters.\r\n\r\n//　湊斗景明は湊斗光を守る為に特化されている。\r\n\r\n//　不純物は体外へ排泄された。\r\n//　清々しさを覚える程、いま俺の内面には迷いという\r\n//ものが無い。<RUBY text='かつ'>嘗</RUBY>てそんなものがあったことすら、良く\r\n//思い出せなくなりつつある。\r\n\r\n  The power of Ginseigo's egg has purified my soul. It is refreshing to be so utterly free of doubt. I am finding it harder and harder to believe that there was a time when I <I>cared</I>㉔about so many things.\r\n\r\n//　唯ひとつの望みを遂げる為なら、俺は如何なる所業\r\n//でも成し得るだろう。\r\n//　心に波風を立てる事さえなく。\r\n  I know now that I can make any sacrifice, do any deed if it will serve my one purpose, and all without a glimmer of hesitation or regret.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12155,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040470a07'>\r\n//「だから、心配事もいっこだけあるんだよね」\r\n\"That's why I'm a little worried.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12359,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040480a00'>\r\n//「何だ？」\r\n\"About what?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12485,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040490a07'>\r\n//「お兄さんを元に戻す可能性のあるやつ。\r\n//　堀越に残してきた、あれ」\r\n\"The one person who can turn you back to the way you were. You know, the one we left in Horigoe.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12789,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040500a00'>\r\n//「あぁ……」\r\n\"Ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12912,
+  "en": "\r\n//　<RUBY text='あいつ'>村正</RUBY>か。\r\n  Muramasa.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12984,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040510a07'>\r\n//「壊しちまった方が後腐れはないし、心情的\r\n//にも是非そうしたいとこなんだけどねー。\r\n//　壊すのはいつでもやれるしな……」\r\n\"It would've been safer to destroy her―would've felt great too―but I figure there'll be time for that later.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13380,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040520a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13504,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040530a07'>\r\n//「ま、今後の情勢によってはあれがまた入用\r\n//になる場面も有り得るからね。\r\n//　そのへんを検討した後で決めましょう」\r\n\"And it's possible, depending how things here go, that we might need her again. We can get rid of her after we know what's what.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13907,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040540a07'>\r\n//「あいつが自力で逃げ出すのはまず無理だし。\r\n//　助けに来る仲間なんかもいないでしょ？」\r\n\"There's no way she can escape on her own. And she doesn't have friends to rescue her, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14235,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040550a00'>\r\n//「いるまい」\r\n\"Of course not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14367,
+  "en": "\r\n//　この時代には、知己と呼べる者すらろくに。\r\n//　唯一同じ過去を共有する<RUBY text='ははおや'>二世村正</RUBY>は最大の敵だ。\r\n  Certainly not in this time period. The only person with whom she shares a past―her mother―is her sworn enemy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14667,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040560a00'>\r\n//「加えて言えば、あれが俺の前にやって来た\r\n//としても、俺を元に戻すのは不可能だ」\r\n\"And even were she to make the attempt, I will never go back to the way I was.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14962,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040570a07'>\r\n//「……うん。\r\n//　それなら問題なんて何もない」\r\n\"...Yeah. Then there's nothing to worry about.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15183,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040580a07'>\r\n//「あてとお兄さんは目的を果たせるよ」\r\n\"Nothing can stop us from reaching our goal.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15389,
+  "en": "\r\n//　目的。\r\n  Our goal.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15428,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040590a00'>\r\n//「……光を――」\r\n\"To save Hikaru...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15569,
+  "en": "\r\n//　このままではもう、衰弱死を避けられないあいつを、\r\n  Save her from a wasting death, the price she's paid for her superhuman might.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15739,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040600a07'>\r\n//「<RUBY text='・・'>神に</RUBY>。\r\n//　人を超えた存在に生まれ変わらせる」\r\n\"By making her a god. We'll set the stage for her apotheosis.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16005,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040610a07'>\r\n//「本人が望む通り」\r\n\"Just like she wants.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16161,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040620a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16285,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040630a07'>\r\n//「相変わらず、与太話にしか聞こえねーって\r\n//顔ですね」\r\n\"You still think it's a fairy tale, dont'cha?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16517,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040640a00'>\r\n//「与太話にしか聞こえん」\r\n\"What else am I supposed to think?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16686,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040650a07'>\r\n//「あの論文読んでも？」\r\n\"Even after reading that paper?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16858,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040660a00'>\r\n//「余計に疑わしくなったくらいだ。\r\n//　<RUBY text='・・・・・・・・・・・'>この地面の下に神がいる</RUBY>、だと？」\r\n\"That only made it worse. God is sleeping underground? Nonsense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17178,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040670a00'>\r\n//「信じろと言う方がどうかしている」\r\n\"I'd have to be a fool to believe that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17367,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040680a07'>\r\n//「はっはっはー。ごもっとも。\r\n//　だいたい、タイトルからして『劒冑<RUBY text='・・'>夢想</RUBY>論』\r\n//だしね。書いた当時は筆者自身が内容をろく\r\n//すっぽ信じてなかったって代物だ」\r\n\"Ha ha ha! Right? I mean, even the dude who wrote it called it a㉓<I>fantasy.</I>㉑ He hardly believed it himself!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17843,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040690a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17961,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040700a07'>\r\n//「でも……今は違う。\r\n//　地の底深くに眠るものの実在は確信されて\r\n//いる」\r\n\"But that's changed. Now he knows he was right all along. God is there, right beneath our feet.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18271,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040710a07'>\r\n//「神を推論するあいつと、神を感受するあて\r\n//が出会ったから」\r\n\"Meeting me did the trick. I can㉓<I>sense</I> what he could only㉓<I>predict.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18551,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040720a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18670,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040730a07'>\r\n//「実在を認めたなら……\r\n//　後は引っ張り出すだけ」\r\n\"Now that we know God is real, all that's left is to drag him out of hiding.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18927,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040740a07'>\r\n//「神は来るよ。お兄さん」\r\n\"God will come, big bro. Trust me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19105,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040750a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19229,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040760a00'>\r\n//「与太話だな」\r\n\"Nonsense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19359,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040770a07'>\r\n//「そこいらの新興宗教だってもう少しましな\r\n//勧誘するよねー。\r\n//　これじゃ信者は集まらんわー」\r\n\"I know. Most cults have more believable stories. Won't get people to drink the Kool-Aid with this one!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19707,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040780a00'>\r\n//「……だが、乗ってやる。\r\n//　その愚にもつかん夢物語だけが光を生かす\r\n//希望なら」\r\n\"But so be it. If this delusion of yours is Hikaru's last hope, then so be it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20003,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040790a00'>\r\n//「つまりは光の存命がもはや空想でしか有り\r\n//得ないというのなら――\r\n//　現実を叩き壊して空想を後釜に据えてやる」\r\n\"It's really quite simple. If only a fantasy will save Hikaru, then I will destroy reality itself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20364,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040800a00'>\r\n//「この世の何が邪魔をしようともだ」\r\n\"Nothing in this world will stop me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20550,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040810a07'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20683,
+  "en": "\r\n//　そうだ。\r\n//　そうする――のだ。\r\n  Yes. That. That is my purpose.\r\n\r\n//　それだけが俺の存在する意義。\r\n\r\n//　湊斗光を愛し、命と魂をそのために尽くす、それが\r\n//湊斗景明の果たすべき責務である事に疑いは無い!!\r\n  To love Minato Hikaru, and devote myself to her body and soul.\r\n\r\n  That is why Minato Kageaki exists. Of this, I have no doubt!\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21115,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040820a07'>\r\n//「……んっ……」\r\n\"...mm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21256,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040830a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21380,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040840a07'>\r\n//「えへー」\r\n\"Hehe!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21509,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040850a00'>\r\n//「いきなり何だ」\r\n\"What was that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21647,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040860a07'>\r\n//「忠誠の<RUBY text='ちゅー'>接吻</RUBY>」\r\n\"My kiss of fealty.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21825,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040870a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21943,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040880a07'>\r\n//「お兄さんはあての主だ。\r\n//　お兄さんが世界と戦うなら、あては世界に\r\n//向かって揮われる<RUBY text='ちから'>刃</RUBY>になる」\r\n\"You are my master. If the world is your enemy, let me be the blade you thrust at its heart.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22316,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040890a07'>\r\n//「剣にも、盾にも、銃にもなって、お兄さん\r\n//を助けるよ」\r\n\"I will be your sword, your shield, whatever you <br>require.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22567,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040900a00'>\r\n//「茶々丸」\r\n\"Chachamaru...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22695,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040910a07'>\r\n//「だから……一緒に行こうね。\r\n//　お兄さん」\r\n\"So take me with you, brother.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22897,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0040920a07'>\r\n//「世界の終わりまで」\r\n\"To the end of the world.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23060,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0040930a00'>\r\n//「……ああ……」\r\n\"...Of course.\"\r\n",
+  "pt": ""
+ }
+]

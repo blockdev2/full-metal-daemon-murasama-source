@@ -1,0 +1,77 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　屋敷の内部では急激に混乱が広がっている。\r\n//　香奈枝嬢は随分と派手にやっているようだ。\r\n  I can tell by the sounds of screaming and gunfire that the captain's assault is proceeding apace. Thus far, there has been no organized attempt to repel the crimson tsurugi advancing brazenly through these halls.\r\n\r\n//　隠れもない深紅の甲鉄の<RUBY text='おれ'>村正</RUBY>に対して、大鳥家の兵\r\n//は組織的な迎撃をする様子がない。\r\n//　情報がまともに伝わっていないのだろう。\r\n\r\n//　遭遇するのは数人以下の兵、それも大概は向こうが\r\n//驚いている間に太刀も合わせず突破できた。\r\n//　中にはこちらを家中の武者と思ったのか、一瞥だけ\r\n//して慌しく走り去ってしまった者すらいる。\r\n  Some of the soldiers I've encountered have even passed me by. They must mistake me for a friendly musha, which I suppose goes to show how shocked they are by their former mistress's return.\r\n\r\n//　高度な訓練を受けた親衛兵なら、まず犯さないよう\r\n//な大失態だ。\r\n//　つまりはそれ程に、弑逆された前当主の娘の来寇と\r\n//いう事態が深い衝撃を及ぼしているのだろう。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1512,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0060010a01'>\r\n//《それにしてもって思うけれどね。\r\n//　<RUBY text='なみ'>音波</RUBY>を拾ってみれば、誰も彼もが其処彼処\r\n//で香奈枝香奈枝香奈枝香奈枝――》\r\n《Still, I feel like they're overreacting. All I hear is Kanae, Kanae...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0060020a01'>\r\n//《ここまで動揺しなくてもいいんじゃない？\r\n//　それとも、この家の士卒はよっぽど主筋へ\r\n//の忠誠心が厚いのかしら》\r\n《Are they that ashamed of what they did to her father?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2202,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0060030a00'>\r\n//「違う。\r\n//　そういう事ではない」\r\n\"It's not shame,\"</voice> I reply without pause.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2397,
+  "en": "\r\n<voice name='景明' class='景明' src='voice/mc04/0060040a00'>\r\n//「彼らは単に恐ろしいのだ。\r\n//　大鳥香奈枝が恐ろしくて堪らないのだ」\r\n\"It's fear. They're terrified of what she will do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2630,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0060050a01'>\r\n//《……まるであの連中の心が読めるみたいな\r\n//言い草ね？》\r\n《...It sounds like you know what they're thinking.》\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2873,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0060060a00'>\r\n//「読める」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2992,
+  "en": "\r\n//　造作もない。\r\n//　自分自身の心を覗いてみれば済む話だ。\r\n  It's as simple as looking into my own heart.\r\n\r\n  This howling, primal terror. If these men know what I learned in my cell; if they, too, know the depth of her malice...\r\n\r\n//　論理を超えた畏怖。\r\n//\r\n//　俺と彼らは彼女にとって同じ立場にある。\r\n//　俺があの日、<RUBY text='ヨコハマ'>ＧＨＱ</RUBY>の一室で、大鳥香奈枝の殺意を\r\n//理解したように。彼らも――何らかの体験で――同じ\r\n//ものを知るのなら、抱く想念とて等しくなろう道理だ。\r\n\r\n  Then they know what it means to be what we are. Targets of her vengeance.\r\n\r\n\r\n//　<RUBY text='・・・・・・・・・・・'>大鳥香奈枝に復讐される</RUBY>。\r\n//　あの殺意に狙われるという、この――――心地。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3882,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0060070a00'>\r\n//「それより、方角は」\r\n\"Never mind that. Do you have the signal?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4052,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0060080a01'>\r\n//《こっちで間違いない。\r\n//　……本当に良くわかる》\r\n《Yes. They're here. The scent is so clear.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0060090a01'>\r\n//《これほど濃密な<RUBY text='けはい'>香気</RUBY>は初めて。\r\n//　一体、何があったわけ……？》\r\n《It's never been this strong before. What does it mean?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4556,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0060100a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4680,
+  "en": "\r\n//　村正は、篠川に入った時点で断定していた。\r\n//　<RUBY text='・・・'>あそこ</RUBY>に銀星号がいる、と。\r\n  From the moment we entered Sasagawa, Muramasa has been certain of Ginseigo's location.\r\n\r\n  This has never happened before. All throughout these past two years, she has spoken of the signal as nebulous, a mere clue as to our enemy's whereabouts.\r\n\r\n  This time, however, she was able to pinpoint not only the direction, but the distance, and state with absolute confidence that its source lay within this estate.\r\n\r\n//　正確に、大鳥家本邸の方角そして距離を示した。\r\n//　\r\n//　このような事はかつて無い。\r\n\r\n//　銀星号の香気は漠然としたものだと、村正は常々、\r\n//俺に告げていた。\r\n//　目視すれば特定できるが、それまでは大まかな方向\r\n//程度、それも少し距離が開けばわからなくなる――と。\r\n\r\n//　だがその香気が、今回は異常らしい。\r\n//　村正は極めて明確に所在を掴んでいる様子だ。\r\n  And now that we're here...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5798,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0060110a01'>\r\n//《……どうも、下のようね》\r\n《It's coming from below.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5970,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0060120a00'>\r\n//「下？」\r\n\"Below?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6088,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0060130a01'>\r\n//《地下よ。\r\n//　そう深くはない……多分、このすぐ下の階》\r\n《From underground. Not far. A couple of floors at most.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0060140a01'>\r\n//《……どうする？\r\n//　方角はこちらで間違ってないけれど、階段\r\n//が無かったら困るでしょうね》\r\n《What should we do? I don't see any stairs...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/0060150a01'>\r\n//《床を斬り破る？》\r\n《Want to cut through the floor?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6773,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0060160a00'>\r\n//「銀星号が如何なる状態にあるのかわからん。\r\n//　危険を誘発するような真似は避けたい所だ\r\n//が……」\r\n\"No. Until we've confirmed the enemy's status, we should avoid anything that might provoke a response. Let's see if we can find a way down.\"\r\n",
+  "pt": ""
+ }
+]

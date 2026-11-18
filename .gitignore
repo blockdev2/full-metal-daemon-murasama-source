@@ -1,0 +1,16 @@
+# Large binary assets: regenerate them from your own copy of the game with npk.py
+jogo_extraido/media/cg/
+jogo_extraido/media/dx/
+jogo_extraido/media/sound/
+jogo_extraido/media/voice/
+jogo_extraido/media/font/
+jogo_extraido/media/particle/
+
+# Rebuilt game, scratch output, experimental code
+jogo_reconstruido/
+out/
+out_patch/
+hdmod/
+*.npk
+__pycache__/
+desktop.ini

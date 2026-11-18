@@ -1,0 +1,527 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　夜。\r\n//　まだ早い内に、俺はあてがわれた部屋へ引き取った。\r\n  That night, I decide to retire early.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 356,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200010a00'>\r\n//「今日は少しばかり疲労した」\r\n\"It's been a rather tiring day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 528,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200020a01'>\r\n//「あれこれとあったしね」\r\n\"A lot happened. That's for sure.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 702,
+  "en": "\r\n//　そう言う村正も、心なしか気怠げだ。\r\n  Muramasa sounds as exhausted as I feel.\r\n\r\n//　別荘地で療養しているのではない。敵地の真ん中に\r\n//いると考える方がむしろ事実に近いだろう。\r\n//　そう思えば、この程度の気苦労はまだしも軽いもの\r\n//なのかもしれないが――どう思おうと目蓋は下がる。\r\n  I suppose we should consider ourselves lucky for being㉓<I>only</I>㉑this tired. We're in the middle of the enemy camp, not relaxing in some luxury retreat.\r\n\r\n//　理論武装で疲労を克服できるほど俺は器用に出来て\r\n//いないようだ。\r\n  But knowing that doesn't keep my eyelids from drooping. I am not a man, it seems, who can overcome exhaustion with logic alone.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1503,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200030a01'>\r\n//「休んだ方がいいんじゃない？\r\n//　また変なのが来る前に」\r\n\"Maybe you'd better go to bed before any more㉓<I>events</I> happen.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1759,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200040a00'>\r\n//「そうしよう」\r\n\"I'll do that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1893,
+  "en": "\r\n//　変なのというのが特定の誰かを指しているのか、不\r\n//特定の多数を指しているのか、追及する気は全く起き\r\n//なかった。\r\n//　部屋へ入る。\r\n  I'm uncertain what precisely she means by <I>events,</I>㉓but I agree that I've been through enough for one day.\r\n\r\n  I step into our guest room.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2249,
+  "en": "\r\n//　そして即座、違和感に足を止めた。\r\n  And there, I freeze. Something is off.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2356,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200050a01'>\r\n//「どうしたの？」\r\n\"What's wrong?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2499,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200060a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2623,
+  "en": "\r\n//　不審に思うべき点は何も無い。\r\n  At first glance, everything is exactly as it should be. The furniture is just where it was this morning, though it appears to have been cleaned while I was out.\r\n\r\n//　調度の配置は朝と同じ。掃除をされた形跡はあるが、\r\n//それは無論それだけの事である。\r\n//　部屋を空けている間に誰かがやってくれたのだろう。\r\n\r\n//　不審な点は無い。\r\n  That's no cause for concern. So what is?\r\n\r\n//　記憶と変わらぬ部屋の様相。\r\n//　俺と村正が立てるのみの物音。\r\n//　ほのかに漂う草花の香り。\r\n  The room is empty but for the sound of our breathing, and the faint scent of flowers in the air.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3372,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200070a00'>\r\n//「草花の香り」\r\n\"I smell flowers.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3509,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200080a01'>\r\n//「……？\r\n//　そこの花瓶に生けてある花でしょう？」\r\n\"...You mean the flowerpot in the corner?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3728,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200090a00'>\r\n//「それもある」\r\n\"Not just that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3863,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200100a01'>\r\n//「も？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3985,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200110a00'>\r\n//「あと一種。\r\n//　これは、軍にいた頃に嗅いだものだ」\r\n\"There's another scent, one I remember from my time in the army.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200120a00'>\r\n//「同じ隊の、会津出身の上等兵が良く使って\r\n//いた……自家製の薬。\r\n//　植物から作る、血止めの膏薬」\r\n\"A corporal in my unit―<br>from Aizu, as I recall―often treated our wounds with a special herb. A family recipe, he said.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4583,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200130a00'>\r\n//「その匂いだ」\r\n\"That's what it smells like.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4731,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200140a01'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4855,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200150a00'>\r\n//「村正。\r\n//　熱源探査」\r\n\"Thermal scan, Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5012,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200160a01'>\r\n//「……諒解」\r\n\"...Running.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5147,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200170a01'>\r\n//「!!\r\n//　そこの棚の裏っ！」\r\n\"Contact! Over there, behind those shelves!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5334,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200180b26'>\r\n//「ちぃ!!」\r\n\"Tch!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5452,
+  "en": "\r\n//　如何にしてそんな狭い空間に身を潜めていたのか。\r\n//　村正が叫び、俺が跳躍するのとほぼ同瞬、そこから\r\n//大きな影が飛び出した。\r\n  The space seemed far too small to hold a man, but the moment Muramasa raises her cry, a black-cloaked figure leaps out from behind the dresser. His entire face is covered by a mask, but I can tell from his agility that he is young and well-trained.\r\n\r\n//　全身を黒装束で包んだ人物だ。\r\n//　顔面もほぼ隠しているが、身ごなしから若くそして\r\n//鍛錬を積んだ男だと窺い知れる。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6079,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200190a00'>\r\n//「……<RUBY text='ここ'>公方府</RUBY>の人間ではない、か？」\r\n\"...You're not one of the general's men, are you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6305,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200200b26'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6423,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200210a01'>\r\n//「まぁ、それはわざわざ確認しなくてもいい\r\n//でしょうね。\r\n//　状況的に」\r\n\"Well, that much is obvious, under the circumstances.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6685,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200220a00'>\r\n//「そうだろうか」\r\n\"One can never be sure.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6831,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200230a01'>\r\n//「え？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6953,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200240a00'>\r\n//「掃除夫の方が念入りな仕事の最中だったと\r\n//いう万一の可能性は」\r\n\"It's possible that a janitor got a little too engrossed in his work.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7215,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200250a01'>\r\n//「無理よ。\r\n//　この格好で掃除夫ってどういう衝撃の展開\r\n//なの」\r\n\"No way. Why would a janitor dress like that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7457,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200260a00'>\r\n//「埃対策」\r\n\"Dust protection.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7588,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200270a01'>\r\n//「無理よ！」\r\n\"No way!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7719,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200280b26'>\r\n//「嬲るか、下郎どもが……！」\r\n\"You toy with me, knave!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7885,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200290a01'>\r\n//「怒ってるじゃないの」\r\n\"Look, now he's mad!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8043,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200300a00'>\r\n//「何故だろう。\r\n//　掃除夫に間違われたからといって、怒りを\r\n//覚える必要はないと思うのだが」\r\n\"But why? Is it that insulting to be mistaken for a janitor?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8336,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200310a01'>\r\n//「そういう問題じゃないし。\r\n//　ていうか御堂、貴方まさか本気で掃除夫だ\r\n//と思ってたわけ？」\r\n\"I don't think that's why he's angry. And wait, did you seriously think he might be a janitor?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8669,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200320a00'>\r\n//「無茶を言うな。どう見ても単に不審人物だ。\r\n//　村正、冗談は時と場合を選べ」\r\n\"Don't be ridiculous. He's obviously an intruder. This is neither the time nor the place for jokes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8979,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200330a01'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9103,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200340b26'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9221,
+  "en": "\r\n//　どうしてか、俺は孤立してしまった気がした。\r\n//　正面と背後から同質同量の怒りが迫っているように\r\n//感じられてならない。\r\n  For some reason, I suddenly feel isolated, like I'm facing two opponents instead of one.\r\n\r\n//　とりあえず、正面に意識を集中する。\r\n//　一見して断定できるのは、重武装ではないという事\r\n//だ。銃砲も大剣も黒衣の下には潜ませてあるまい。体\r\n//の線から自明である。\r\n  Best focus on the man in front of me.\r\n\r\n  The only thing a visual inspection reveals is that he isn't heavily armed. It is clear from the lines of his body that there's no rifle or sword beneath his cloak.\r\n\r\n//　といって、危険性が些かでも揺らぐ事はないが。\r\n//　室内である点に思慮を致せば、隠し持てる程の小型\r\n//兵装の方が有用であり、つまり俺にとっては脅威。\r\n  That doesn't make him any less dangerous, however. In a room this small, knives and pistols―weapons he㉓<I>could</I> have under his cloak―are easier to wield. \r\n\r\n//　男に充分な業と殺意があれば、軌跡も見せぬ一閃で\r\n//俺の首を<RUBY text='か'>掻</RUBY>くだろう。\r\n//　そしてそのどちらかでも不足していると判断すべき\r\n//根拠は、今のところ皆無である。\r\n  If this man has the mind and the skill, he could take my head in the blink of an eye. And I have no reason at this time to believe that he lacks either.\r\n\r\n//　男はどう見ても武人。\r\n//　それが、侵入者として<RUBY text='ここ'>公方府</RUBY>にいるなら――\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10901,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200350b26'>\r\n//「この期に及んで命冥加は願わん。\r\n//　望み通り、死に華一つ咲かせてくれるわ」\r\n\"I won't ask the gods to spare my life, but I will give them a show before the end.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11195,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200360b26'>\r\n//「だが、冥土の土産は高くつくぞ！」\r\n\"This warrior's head will cost you, fiend!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11387,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200370a00'>\r\n//「無益です」\r\n\"You will accomplish nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11533,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200380b26'>\r\n//「無益なものか。\r\n//　貴様ら<RUBY text='やまいぬ'>六波羅</RUBY>を幾匹かでも道連れにすれば、\r\n//それだけ世の民が過ごしやすくなる！」\r\n\"Nothing!? Every jackal I take with me to hell is one less to terrorize the people!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11897,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200390a00'>\r\n//「繰り返しますが無益です。\r\n//　貴方の敵が六波羅なら、ここで戦う意味は\r\n//全く存在しません」\r\n\"As I said, you will accomplish nothing. If Rokuhara is your enemy, then attacking me will not serve your purpose.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12244,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200400b26'>\r\n//「……何？」\r\n\"...What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12370,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200410a00'>\r\n//「動かれぬよう。\r\n//　せっかく塞いだ傷口が開きます」\r\n\"Stay still. You will reopen your wound.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12585,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200420a00'>\r\n//「察するところ相当の深傷。\r\n//　顔色を見るに血液の喪失量も甚だしい……\r\n//出血が再び始まれば生命を脅かすことは確実\r\n//です」\r\n\"It appears quite deep, and your pallor tells me you've already lost a great deal of blood. If the wound reopens now, it will endanger your life.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13009,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200430a00'>\r\n//「騒ぎとなり、人を集めてしまうのも不都合\r\n//でしょう。\r\n//　どうか進退は慎重に」\r\n\"Nor would it do to attract attention. Please remain calm.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13282,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200440b26'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13406,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200450b26'>\r\n//「貴様は何者だ」\r\n\"Who are you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13542,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200460a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13666,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200470b26'>\r\n//「答える気は無いか……」\r\n\"Not going to answer?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13822,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200480a00'>\r\n//「いえ。\r\n//　失礼、返答を探すのに少々迷いました」\r\n\"Pardon me. I was merely searching for the proper response.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14053,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200490a00'>\r\n//「自分は湊斗景明と申します。\r\n//　故あって堀越公方のもとに身を置いている\r\n//……居候のようなものです」\r\n\"My name is Minato Kageaki. For personal reasons, I am currently a... freeloader here, I suppose you could say.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14412,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200500b26'>\r\n//「……居候？」\r\n\"A freeloader?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14546,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200510a00'>\r\n//「としか、言いようのない立場です」\r\n\"That's the only way to describe it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14732,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200520a01'>\r\n//「……本当にそうね……」\r\n\"...It really is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14890,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200530b26'>\r\n//「六波羅にも堀越公方にも仕えてはおらぬ、\r\n//と？」\r\n\"You don't serve Rokuhara <I>or</I>㉑Horigoe?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15108,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200540a00'>\r\n//「寝食の恩義はあります。\r\n//　しかし、主従の間柄ではありません」\r\n\"I am the general's guest, but I do not serve her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15351,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200550b26'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15469,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200560b26'>\r\n//「俺をどうする気だ」\r\n\"What will you do with me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15624,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200570a00'>\r\n//「貴方は今日の午前中、ここで何かの騒動を\r\n//起こし、追われていた人物ですね」\r\n\"I assume you're the reason for the commotion earlier.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15889,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200580b26'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16007,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200590a00'>\r\n//「外へ逃げたと見せ掛けて内部に潜み、深夜\r\n//を待っていた……？」\r\n\"You made it seem as though you'd escaped the manor, but instead doubled back and hid inside to await nightfall.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16312,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200600b26'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16430,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200610a00'>\r\n//「成程。\r\n//　屋敷を脱しても堀越の軍管区。闇雲に逃走\r\n//するよりその方が確実か」\r\n\"A wise decision. Even if you'd made it outside, we are in the middle of Horigoe Military District. Better to wait than risk fleeing in broad daylight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16796,
+  "en": "\r\n//　実のところは、捕縛に熱意のなかった足利茶々丸の\r\n//様子からして、格別の細工を弄さずとも逃げる見込み\r\n//はあったのだろうが。\r\n//　そんな揚げ足取りをわざわざ口にする必要はない。\r\n  Although judging by the general's lack of enthusiasm for the chase, I doubt he would have needed much effort or skill to escape undetected.\r\n\r\n  ...I probably shouldn't tell him that.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17255,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200620a00'>\r\n//「公方府などへ忍び込んで、その目的が単に\r\n//物盗りという事はないでしょう。\r\n//　貴方は何の為に参られたのですか？」\r\n\"No common thief would break into a general's mansion. What was your purpose here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17603,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200630b26'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17721,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200640b26'>\r\n//「物盗りだ」\r\n\"Common thievery.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17855,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200650a00'>\r\n//「そうですか」\r\n\"I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17982,
+  "en": "\r\n//　正直な答が返ってくるとは、最初から思っていない。\r\n  I wasn't expecting an honest answer anyway. Nine out of ten, he's with one of the anti-shogunate factions.\r\n\r\n//　十中八九、倒幕派の志士であろう。\r\n//　……どうするべきか。\r\n  ...So what's my play?\r\n\r\n//　敵対するのは全く無益である。既に自分の口で言明\r\n//した通り。\r\n//　といって、加勢する筋ではない。\r\n  As I said, there is no reason for us to fight. But there's no reason for me to take his side, either.\r\n\r\n//　中立の選択は――この状況に用意されていなかった。\r\n//　部屋に留めるなら味方、追い出すなら敵対であろう。\r\n//事実上の。\r\n  Is there a neutral option? No. If I let him stay, I'm his ally; drive him out, and I'm his enemy.\r\n\r\n//　寝食の義理を思えば、明白な非友好的意図を持って\r\n//侵入した者に幾らかでも手を貸すのは気が引ける。\r\n//　しかし現状況、俺が手を貸さねば彼の進退が窮まる\r\n//のは確実であり、その結果彼が死ぬのも確実である。\r\n  I㉓<I>am</I>㉗the general's guest. It would be quite ungracious of me to aid a man who infiltrated her home for less-than-wholesome purposes.\r\n\r\n  At the same time, I know that if I don't help him, he will almost certainly die.\r\n\r\n//　彼は幕府に敵意を持ち、この堀越の将兵とも干戈を\r\n//交えたのだろうが、非戦闘員にまで刃を振るったわけ\r\n//ではない。\r\n//　そんな形跡は全く無かった。\r\n  He strikes me as an honorable sort. While he may have crossed blades with the general's guards, and while he certainly is an enemy of the shogunate, I have heard nothing to suggest that he harmed civilians during his flight.\r\n\r\n//　彼を死地へ蹴り出す気にはとてもなれない。\r\n//　だが、彼を匿った結果――機会を得た彼が逃亡する\r\n//代わり公方府に対する破壊行動へ踏み切るような事が、\r\n//万一にでもあったなら。\r\n  It pains me to think of sending him to his death.\r\n\r\n  But what if I give him aid, and he uses that opportunity not to escape, but to damage my hostess's home or kill her men?\r\n\r\n//　そこで生じる被害に、俺の責任なしとは言えまい。\r\n  I would bear part of the blame, would I not?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20383,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200660b26'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20501,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200670a01'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20625,
+  "en": "\r\n//　思いのほか、長考してしまっていた。\r\n//　二者二様の眼差しが、俺の言葉を待っている。\r\n  Two pairs of eyes wait for me to speak. My silence has lasted longer than I intended.\r\n\r\n//　しかし結論は出た。\r\n//\r\n  Fortunately, I now have my answer.\r\n\r\n//　――つまるところ、<RUBY text='・・・・・・'>そうさせない</RUBY>ことで、双方への\r\n//筋を通す以外にないか。\r\n  Put simply, fulfill my obligation to both sides in such a way that no one gets hurt.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21172,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200680a00'>\r\n//「動けますか？」\r\n\"Can you walk?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21309,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200690b26'>\r\n//「……ああ」\r\n\"...Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21434,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200700a00'>\r\n//「村正。\r\n//　お前が先導してくれ」\r\n\"Lead the way, Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21606,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200710a01'>\r\n//「わかった。\r\n//　先行して安全を確保、<RUBY text='れんらく'>金打声</RUBY>を送ればいい\r\n//のね」\r\n\"Okay. I'll scout ahead and let you know when it's clear.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21896,
+  "en": "\r\n//　相棒に説明は要らなかった。\r\n//　俺の意図を汲んで、村正が素早く部屋を出てゆく。\r\n  My partner needs no explanation. She nods once and moves soundlessly out into the hallway.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22122,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200720b26'>\r\n//「……どうするつもりだ」\r\n\"...What's the meaning of this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22288,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200730a00'>\r\n//「しばらくお待ち下さい」\r\n\"This will only take a moment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22453,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200740b26'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22577,
+  "en": "\r\n//　脱出は容易だった。\r\n//　このような折、劒冑の探査機能は実に有用である。\r\n  Thanks to Muramasa's sensory capabilities, leaving the manor undetected is easy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22781,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200750a00'>\r\n//「夜とはいえ、誰もが寝静まるにはまだ早い\r\n//時間です。\r\n//　気をつけてお行き下さい」\r\n\"It's still early for everyone to be asleep. Please be careful as you make your escape.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23089,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200760b26'>\r\n//「……うむ……」\r\n\"...Right...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23224,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200770a00'>\r\n//「では」\r\n\"Farewell, then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23351,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200780b26'>\r\n//「…………待たれよ」\r\n\"...Wait.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23489,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200790a00'>\r\n//「はい」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23605,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200800b26'>\r\n//「失礼だが、今一度名を聞かせて頂けまいか」\r\n\"If you don't mind, could I have your name again?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23816,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200810a00'>\r\n//「湊斗景明です。\r\n//　こちらは村正」\r\n\"Minato Kageaki. This is Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24001,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200820a01'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24125,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200830b26'>\r\n//「某は……<RUBY text='くろのせ'>黒瀬</RUBY>と呼ばれている」\r\n\"I am called... Kuronose.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24327,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200840a00'>\r\n//「黒瀬……」\r\n\"Kuronose...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24456,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200850b26'>\r\n//「仔細あって、実の姓名は名乗れぬ。\r\n//　許されたい」\r\n\"Forgive me, but I'm in no position to reveal my true name.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24690,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200860a00'>\r\n//「察しております」\r\n\"I understand completely.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24841,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200870b26'>\r\n//「世話になった。\r\n//　この恩義は胸に刻んでおく」\r\n\"Thank you for your assistance. I will not forget this debt.\"\r\n\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md02/0200880b26'>\r\n//「御免」\r\n\"Farewell.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25183,
+  "en": "\r\n//　一礼を残して、彼は駆け去った。\r\n//　音もなく、黒い姿が夜闇に溶け込んでゆく。\r\n  The man bows, then takes off running. His black figure melts soundlessly into the night.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25404,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200890a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25522,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200900a01'>\r\n//「……今日は本当に疲れる日ね」\r\n\"...Today just won't quit, will it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25707,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200910a00'>\r\n//「全くだな」\r\n\"...I know what you mean.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25849,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0200920a01'>\r\n//「だから早く寝なさいって言ったのよ」\r\n\"This is why I said you should go right to sleep!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26057,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0200930a00'>\r\n//「その暇もなかっただろう……」\r\n\"I hardly had the time for that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26233,
+  "en": "\r\n//　そんな事を言い合いながら、部屋に戻り。\r\n//　俺は早々に床へ就いた。\r\n  The moment I get back to my room, I change and lie down in my futon.\r\n\r\n//　意識が沈むまで、数分と掛からなかった。\r\n  Less than a minute later, sleep takes me.\r\n",
+  "pt": ""
+ }
+]

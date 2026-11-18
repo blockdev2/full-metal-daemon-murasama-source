@@ -1,0 +1,637 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030010a04'>\r\n//「どなたでございましょう？」\r\n\"Who is it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 365,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030020a00'>\r\n//「失礼。湊斗です。\r\n//　大尉殿をお見舞い致したく参上しました」\r\n\"Pardon. It's me. I thought I'd look in on the captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 610,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030030a04'>\r\n//「おお……これは！\r\n//　良いところへ！」\r\n\"Oh! What excellent timing, sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 799,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030040a04'>\r\n//「どうぞお入りくださいまし。\r\n//　お嬢さま、湊斗さまが参られましたよ！」\r\n\"Please come in! Oh Mistress, he's here!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1044,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030050a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1163,
+  "en": "\r\n//　部屋の中では、大鳥大尉が臥せっていた。\r\n//　その頬は青白く、およそ生気を示す色彩がない。\r\n  I enter the room to find Captain Otori laid out on the bed, her cheeks sunken and pale.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1401,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030060a00'>\r\n//「大尉殿」\r\n\"Captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1524,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030070a03'>\r\n//「ああ……景明さま……。\r\n//　来てくださったのね……」\r\n\"Oh... darling, you're here...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1741,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030080a04'>\r\n//「ようございましたなお嬢さま……。\r\n//　きっと一途な想いが天に通じたのでござい\r\n//ましょう」\r\n\"Isn't it wonderful, Mistress? Your prayers have been answered.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2037,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030090a03'>\r\n//「ええ……良かった……。\r\n//　最期に……こうして、お会いできて」\r\n\"Yes... I'm so glad to see you... one last time...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2289,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030100a00'>\r\n//「何をそのように、お気の弱いことを」\r\n\"You mustn't say such <br>things.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2475,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030110a00'>\r\n//「こちらに座っても構いませんか」\r\n\"May I sit here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2638,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030120a04'>\r\n//「どうぞ、どうぞ。\r\n//　座布団をお出ししましょう」\r\n\"Of course. I'll bring a cushion.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2843,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030130a00'>\r\n//「お気遣いなく」\r\n\"Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2977,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030140a03'>\r\n//「ふふ……自分の体のことですもの、自分が\r\n//一番わかってましてよ……。\r\n//　景明さまだって、本当はおわかりでしょう\r\n//……？」\r\n\"It's my body... I think I know it best. And you can see it too, can't you? The light leaving my eyes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3372,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030150a00'>\r\n//「は……」\r\n\"Captain...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3497,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030160a04'>\r\n//「おいたわしや、お嬢さま……」\r\n\"Oh, Mistress...\"\r\n\r\n//◆前の台詞と同じ調子で\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030170a04'>\r\n//「茶請けはテンプラ饅頭でよろしいですか、\r\n//湊斗さま……」\r\n\"Would you like some tempura manju with your tea, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3924,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030180a00'>\r\n//「……天麩羅？」\r\n\"...<I>Tempura</I> manju?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4072,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030190a03'>\r\n//「わたくしの命が尽きるまで……\r\n//　もう、幾許もありません…………」\r\n\"It won't be much longer now. I'm fading...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4323,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030200a00'>\r\n//「お戯れを」\r\n\"You jest.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4450,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030210a04'>\r\n//「伝統ある会津名物でございます」\r\n\"It's an Aizu tradition, actually.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4631,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030220a00'>\r\n//「……冒険心旺盛な菓子屋のチャレンジング\r\n//新商品ではなく？」\r\n\"You mean it's not the work of some insane baker with too much time on his hands?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4902,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030230a04'>\r\n//「会津松平家の初代、正之公まで遡る歴史が\r\n//ございます」\r\n\"A tradition going back to Hoshina Masayuki himself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5135,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030240a03'>\r\n//「冗談でこんなこと、言えるとお思い……？」\r\n\"Do you think I would joke about something like this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5359,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030250a00'>\r\n//「冗談では……ないのですか？」\r\n\"...Then it's true?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5522,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030260a04'>\r\n//「冗談のような真実でございまして……」\r\n\"Some truths are stranger than fiction.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5717,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030270a03'>\r\n//「あの庭木をご覧になって、景明さま」\r\n\"Darling, please... do you see that tree? Look. Out in the garden...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5947,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030280a00'>\r\n//「木？\r\n//　……あの落葉樹が、何か？」\r\n\"Tree? You mean the one bare of leaves?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6140,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030290a03'>\r\n//「葉が一枚、残っていますでしょう……？」\r\n\"There's still one left...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6334,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030300a00'>\r\n//「はい」\r\n\"I see it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6455,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030310a04'>\r\n//「三百年以上も昔に信州で考案され、高遠の\r\n//領主であった正之公の会津移封と共にこの地\r\n//へ伝えられたとか――」\r\n\"It is said Lord Masayuki invented the treat while he was ruler of Shinshu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6790,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030320a03'>\r\n//「……あの最後の葉が落ちた時……\r\n//　きっと、わたくしも死ぬのです……」\r\n\"When that leaf falls... my life will end.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7046,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030330a04'>\r\n//「――なので、信州にも全く同じ菓子が伝統\r\n//料理として伝わっているのです！」\r\n\"Which means... you can find them in Shinshu as well!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7310,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030340a00'>\r\n//「まさか――そのようなことが」\r\n\"Impossible.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7466,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030350a04'>\r\n//「世の中はまこと、油断ならぬものでござい\r\n//ます」\r\n\"There are more things in heaven and earth, sir...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7688,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030360a03'>\r\n//「信じて頂けないのは当然ですけれど……\r\n//　でも……わたくしにはわかる……」\r\n\"I know it's hard to believe... but it's true.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7954,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030370a03'>\r\n//「あの弱々しい一枚の葉は……\r\n//　わたくしの……命そのもの…………」\r\n\"That leaf... that fragile thing... is me.\"\r\n\r\n//◆風ぴゅー。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8228,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030380a00'>\r\n//「……あっ」\r\n\"...Ah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8352,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030390a03'>\r\n//「――――」\r\n\"Shit!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8484,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030400a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8608,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030410a03'>\r\n//「ああ……今にも落ちてしまいそう……」\r\n\"Look... it could fall at any moment...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8813,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030420a00'>\r\n//「しまいそうというか今」\r\n\"Just now, it―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8964,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030430a04'>\r\n//「さ、湊斗さま。お召し上がりくださいませ」\r\n\"Here you are, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9145,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030440a00'>\r\n//「では頂きます」\r\n\"Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9279,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030450a00'>\r\n//「……うぅむ。\r\n//　何とも、独特な風味」\r\n\"Hmm... A most unusual flavor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9466,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030460a04'>\r\n//「ほっほっほ。\r\n//　ご無理をなさらず、お茶を使って下さって\r\n//結構でございますよ。濃いめに淹れておきま\r\n//したから」\r\n\"Have some tea to wash it down. I won't feel insulted. I made it extra strong for the occasion.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9828,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030470a00'>\r\n//「……いえ……\r\n//　慎重に味わってみると、案外」\r\n\"Actually... it's starting to grow on me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10038,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030480a03'>\r\n//「ああ、景明さま……！\r\n//　お別れの時が来てしまったのですね……」\r\n\"Oh, darling! It's almost time to say goodbye...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10291,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030490a03'>\r\n//「最後のお願いを……聞いてください……」\r\n\"Won't you hear my last request?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10491,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030500a00'>\r\n//「今、電光の如き速さで庭を飛び出して葉を\r\n//元通りにしてまた駆け戻って来られませんで\r\n//したか？　大尉殿」\r\n\"Did you not just dash to the garden like a bolt of lightning, replace that leaf, and return to your bed?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10850,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030510a03'>\r\n//「ふふ……夢のようなことを仰らないで……」\r\n\"My... what a beautiful dream...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11053,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030520a04'>\r\n//「湊斗さま、最早今のお嬢さまはそのような\r\n//励ましの言葉さえ辛いのでございます、饅頭\r\n//のお代わりはこちらでございます、ああ神は\r\n//何ゆえお嬢さまにこのような仕打ちを……！」\r\n\"Sir, you mustn't give her false hope. Have another manju instead. Ahh! Why!? Why must she suffer so!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11509,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030530a00'>\r\n//「頂きます。\r\n//　舌が慣れてくると、なかなか旨い……」\r\n\"Thank you. Now that I'm used to the texture, they really are quite good.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11760,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030540a03'>\r\n//「どうか――景明さま……！\r\n//　あの饅頭……いえあの葉が落ちてしまう前\r\n//に、わたくしの願いを……！」\r\n\"Darling, please! Before that manju―leaf―falls, hear my last request!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12090,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030550a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12214,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030560a03'>\r\n//「あぁっ――もう今にも！\r\n//　わたくしの命がっ……！」\r\n\"Ahh! My life!\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030570a03'>\r\n//「命がっ！」\r\n\"It hangs by a thread!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12555,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030580a00'>\r\n//「全然、落ちそうにないのですが」\r\n\"It appears quite firmly attached, actually.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12746,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030590a04'>\r\n//「戻す時、カゼイン接着剤で貼っつけておら\r\n//れましたからな。\r\n//　台風でも来ない限りはあのままでございま\r\n//しょう」\r\n\"The power of industrial adhesive. A typhoon wouldn't budge it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13076,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030600a03'>\r\n//「景明さま……どうかこんなわたくしを憐れ\r\n//んでくださいまし……」\r\n\"Oh... take pity on me, darling...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13315,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030610a00'>\r\n//「憐れむなどと」\r\n\"I couldn't.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13450,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030620a03'>\r\n//「愛してくださらなくてもいいの……\r\n//　ほんのわずかな……お情けだけで……」\r\n\"I'm not asking you to love me... just to have a little compassion...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13739,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030630a03'>\r\n//「……それとも……景明さまのお胸の裡には。\r\n//　愛情が……おありですの？」\r\n\"Or... can it be? Is there a tenderness in your heart?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14010,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030640a00'>\r\n//「愛情」\r\n\"A tenderness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14135,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030650a03'>\r\n//「わたくしを……愛してくださるお気持ちが\r\n//……」\r\n\"Do you... love me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14335,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030660a00'>\r\n//「有りません」\r\n\"No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14459,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030670a03'>\r\n//「げばふッッ!!」\r\n\"GUHBUHBUGHGUB!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14605,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030680a04'>\r\n//「あ。\r\n//　落ちましたな、葉っぱ」\r\n\"Ah. That did it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14770,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030690a00'>\r\n//「お茶をもう一杯頂いても宜しいでしょうか\r\n\"Could I trouble you for some more tea?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14968,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030700a04'>\r\n//「どうぞ」\r\n\"Certainly.\"\r\n\r\n//◆とぽとぽ\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15114,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030710a04'>\r\n//「……む、少し濃過ぎましたか」\r\n\"Hmm... perhaps a little too bitter.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15294,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030720a00'>\r\n//「いえ、構いません」\r\n\"It's perfect.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15437,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030730a03'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15582,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030740a03'>\r\n//「はっ!?」\r\n\"Ha!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15708,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030750a03'>\r\n//「ああ……景明さま！\r\n//　この憐れな女の、最後の願いを……どうか\r\n//……！」\r\n\"Darling, please! Before that leaf falls, hear my last request!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15989,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030760a04'>\r\n//「そこまで巻き戻るのですな」\r\n\"I feel like we've covered this ground.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16169,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030770a00'>\r\n//「自分に何か、大尉殿の為にして差し上げら\r\n//れる事があるのでしょうか」\r\n\"Is there something I can do for you, Captain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16417,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030780a03'>\r\n//「あります……\r\n//　景明さまにしか……できないこと……」\r\n\"Yes... something only you can do...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16643,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030790a00'>\r\n//「それは、どのような」\r\n\"What might that be?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16795,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030800a03'>\r\n//「……どうか、聞いてもお笑いにならないで\r\n//ね……」\r\n\"Please... promise you won't laugh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17014,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030810a00'>\r\n//「決して」\r\n\"I promise.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17139,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030820a03'>\r\n//「今際の際とはいえ、女の身で……\r\n//　こんなことを殿方にお頼みするはしたなさ\r\n//は……ああっ、身が縮みます」\r\n\"Oh, but I'm so afraid. For a woman to ask this, even on her deathbed...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17478,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030830a04'>\r\n//「お嬢さま――勇気を！」\r\n\"Be strong, Mistress!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17634,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030840a03'>\r\n//「ええ！\r\n//　……景明さま！」\r\n\"I know! Darling!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17802,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030850a00'>\r\n//「はい」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17918,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030860a04'>\r\n//「む、テンプラ饅頭があと二個だけあまって\r\n//おりますな。\r\n//　湊斗さま、よろしかったら食べてしまって\r\n//くださいませ」\r\n\"Oh? There are still two manju left. Would you care to finish them?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18255,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030870a00'>\r\n//「有難うございます」\r\n\"I would, thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18404,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030880a03'>\r\n//「わたくしの命があるうちに……！\r\n//　あの饅頭が落ちる前に……！」\r\n\"Before I die...! Before those manju fall...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18654,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030890a04'>\r\n//「もう落ちてますよお嬢さま」\r\n\"Too late.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18805,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030900a00'>\r\n//「いえ、落ちていません」\r\n\"I haven't touched them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18964,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030910a03'>\r\n//「お願いです……！」\r\n\"Please...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19113,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030920a04'>\r\n//「おや？　先ほど確かに」\r\n\"Are you certain? I could have sworn...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19287,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030930a00'>\r\n//「落ちたのは」\r\n\"No, that was―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19423,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030940a03'>\r\n//「どうか、最後に、景明さまの手で――」\r\n\"With all your strength―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19614,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0030950a04'>\r\n//「饅頭が――」\r\n\"The manju―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19747,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030960a00'>\r\n//「葉です」\r\n\"The leaf.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19871,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030970a03'>\r\n//「この十銭玉三枚、縦に積み重ねて下さい」\r\n\"Stand three ten-yen coins edge on edge.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20079,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0030980a00'>\r\n//「畏まりました」\r\n\"As you wish.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20215,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0030990a03'>\r\n//「出来たーーーーーーーーーーーーー!?」\r\n\"HE DID IT!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20391,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0031000a04'>\r\n//「すげェーーーーーーーーーーーーッ!!」\r\n\"HOLY SHIT!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20557,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031010a00'>\r\n//「この技は修行しましたから」\r\n\"I've had practice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20717,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031020a03'>\r\n//「なんでっ!?」\r\n\"WHY!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20851,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031030a00'>\r\n//「妹が得意だったので、つい張り合ってしま\r\n//いました」\r\n\"My sister and I often competed to see who could stand more.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21089,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0031040a04'>\r\n//「おかしいですよご兄妹!?」\r\n\"What is wrong with you people!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21258,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031050a00'>\r\n//「ちなみに妹は十枚いけます」\r\n\"She could go ten.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21417,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031060a03'>\r\n//「超人だ!!　勝てる気がしない!!」\r\n\"And this is who you're fighting!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21605,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0031070a04'>\r\n//「とりあえず、落ち着きましょうお嬢さま。\r\n//　お茶をどうぞ」\r\n\"Please calm yourself, Mistress. Here, have some tea.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21845,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0031080a04'>\r\n//「葉っぱも一個あまっております」\r\n\"I've added an extra leaf.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22018,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031090a03'>\r\n//「ええ……頂こうかしら……」\r\n\"...How thoughtful.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22187,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031100a00'>\r\n//「お元気そうで安心しました」\r\n\"I'm glad you're well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22350,
+  "en": "\r\n//　タオルで顔を拭いている香奈枝嬢を眺めつつ、率直\r\n//な感想を口にする。\r\n//　<RUBY text='メイク'>化粧</RUBY>を落とせば、その下の肌は健全な血の通う色を\r\n//示していた。\r\n\r\n//　布団に寝ている必要も、既にない様子だ。\r\n  After she removes her stage makeup, the captain looks the very picture of good health. Her rosy skin reports plainly that she has no need to lie abed. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22816,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031110a00'>\r\n//「……少々、お元気に過ぎる気もしますが」\r\n\"...I must say, I'm a little surprised.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23014,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031120a03'>\r\n//「ですかしら？」\r\n\"Surprised?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23157,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031130a00'>\r\n//「銃弾を受けて、幾日も経たぬお体とは思え\r\n//ません」\r\n\"You were shot, Captain. And only a few days ago.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23381,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031140a03'>\r\n//「当たり所が良かったのでしょうねえ……」\r\n\"Then I suppose I was lucky.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23577,
+  "en": "\r\n//　さよ侍従は席を外している。\r\n\r\n//　二人になると漠たる感を否めない室内は丸きり客間\r\n//の様相であり、病室らしさは片鱗も見て取れなかった。\r\n//　薬臭すら嗅げない。\r\n\r\n//　それはつまり、遅くとも昨日の晩頃には香奈枝嬢に\r\n//対する治療行為の必要が消失していた事を意味しよう\r\n//か。\r\n//　……まず、驚くべき回復力だった。\r\n  Miss Nagakura is out, leaving the two of us alone in the bedroom. The air carries no antiseptic bite. There is no sign that a doctor was even here. Whatever treatment the captain underwent, it must have ended before today. \r\n\r\n  Frankly, surprising is an understatement.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24317,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031150a00'>\r\n//「元々急所を外していたのは存じていました\r\n//が、それにしても」\r\n\"I was aware that your wound was not critical. Still.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24560,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031160a03'>\r\n//「生まれ故郷に戻ったから、かもしれません。\r\n//　べつにそれほど郷愁を覚えていたわけでは\r\n//ないのですけれど。戻ってみると、やっぱり\r\n//水や空気が体に合うのは感じます」\r\n\"Perhaps it's because I'm finally home. I can't say I missed it too dearly, but there is something... a certain taste to the air.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25040,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031170a03'>\r\n//「ごはんもおいしいですし」\r\n\"And the food is as delicious as I remember.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25231,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031180a00'>\r\n//「成程。\r\n//　確かに、そういった事は大きいでしょう」\r\n\"Ah. I suppose that might do the trick.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25445,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031190a03'>\r\n//「明日にはもう元通り動けると思います」\r\n\"I should be up and about tomorrow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25645,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031200a00'>\r\n//「何よりですが、ご無理はなさらぬよう。\r\n//　……ともあれ安堵しました」\r\n\"Please don't strain yourself. I am relieved, though.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25900,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031210a00'>\r\n//「面会謝絶と伺った折は肝を冷やしましたが」\r\n\"When they told me you weren't receiving visitors, I was worried.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26127,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031220a03'>\r\n//「あれは病み姿をお見せして無用のお気遣い\r\n//をさせてはと、わたくしの方からお願いして\r\n//そう計らってもらったのですけど……。\r\n//　うまく伝わらなかったみたいで」\r\n\"Oh. I didn't want you to see me while I was bedridden. I thought that would make you worry, but it seems I had it backwards.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031230a03'>\r\n//「いたずらに心配をお掛けしてしまいました。\r\n//　申し訳もありません、景明さま」\r\n\"I'm sorry, darling. I should have made my intentions more clear.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26874,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031240a00'>\r\n//「……いえ。大尉。\r\n//　謝罪など、全く無用の事です」\r\n\"Please, Captain. Don't apologize.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27083,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031250a00'>\r\n//「そもそも大尉殿の御怪我は自分の不覚から。\r\n//こちらこそ幾重にもお詫びせねばなるまいと\r\n//思っておりました。\r\n//　しかし」\r\n\"If anyone should apologize, it's me. Your wound...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27410,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0031260a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27537,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0031270a00'>\r\n//「しかし――」\r\n\"Your wound...\"\r\n",
+  "pt": ""
+ }
+]

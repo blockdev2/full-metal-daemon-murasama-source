@@ -1,0 +1,567 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　評定の間には、六波羅幕府を主導する四将軍が参集\r\n//していた。\r\n//　それぞれ数人の幕僚を左右と背後に控えさせている。\r\n  The conference room is crowded. The four generals who lead Rokuhara are seated around the center table, each with a number of aides at their back.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 549,
+  "en": "\r\n//　<RUBY text='こが'>古河</RUBY>公方、遊佐童心中将。\r\n  General Yusa Doshin, governor of Koga.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 671,
+  "en": "\r\n//　<RUBY text='おゆみ'>小弓</RUBY>公方、今川雷蝶中将。\r\n  General Imagawa Raicho, governor of Oyumi.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 800,
+  "en": "\r\n//　<RUBY text='ささがわ'>篠川</RUBY>公方、大鳥獅子吼中将。\r\n  General Otori Shishiku, governor of Sasagawa.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 938,
+  "en": "\r\n//　<RUBY text='ほりごえ'>堀越</RUBY>公方、足利茶々丸中将。\r\n  General Ashikaga Chachamaru, governor of Horigoe.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1080,
+  "en": "\r\n//　四者が掌握する権能は強大極まるものだ。\r\n//　進駐軍を唯一の例外として、彼らを掣肘できる勢力\r\n//は大和の大地の上に存在しない。\r\n\r\n//　四人が合意すれば、都市一つを滅却し去る事も可能\r\n//である。\r\n//　嘗て実際に行ったように。\r\n\r\n//　しかし、彼らが歩調を合わせて規模と意義の大きな\r\n//行動に出るためには、四者間の齟齬を解消ないし調整\r\n//する手順が必須となる。\r\n//　……それが今、開始されようとしていた。\r\n  Together, these four command the total military might of Kanto. With the sole exception of the Allied garrison in Yokohama, their power is without equal on Yamato's shores.\r\n\r\n  Should they wish it, entire cities may vanish in fire and smoke. It has happened once already.\r\n\r\n  But in order for any undertaking of scale to proceed, the four generals must first reach a consensus. That is the purpose of this meeting today.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2097,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060010a09'>\r\n//「最優先事項は、邦氏殿下を大将領の地位に\r\n//就ける事。\r\n//　各々方、まずこの点はよろしいか？」\r\n\"Our first priority is to see young Lord Kuniuji invested as shogun. Are we agreed?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2416,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060020a08'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2532,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060030a06'>\r\n//「異論はない。\r\n//　頭領不在のままでは、将兵の士気も綱紀も\r\n//低下する一方だ」\r\n\"You'll get no argument from me. The longer we are without a shogun, the greater the damage to discipline and morale.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2870,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060040a07'>\r\n//「<RUBY text='おじじ'>護氏</RUBY>の死亡発表からこっち、弛みっぱなし\r\n//だからなー。\r\n//　死因も何も説明なし、死んだとしか教えら\r\n//れないんじゃ、動揺して当然だろって話だが」\r\n\"Yeah, you can tell everyone's shook. Guess you can't really blame 'em, though. I mean, all we said was Gramps was dead. Didn't even try to explain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3369,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060050a08'>\r\n//「正しく伝えた方が良かったかしらね」\r\n\"Should we have told them the truth?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3558,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060060a06'>\r\n//「暗殺されたと思われるが詳しい状況は全く\r\n//不明、死体すら発見できていない、と？\r\n//　それこそ混乱の火種になろうよ」\r\n\"That the shogun was assassinated, but we don't know how or by whom? That we haven't even found the body? That would only cause greater chaos.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3978,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060070a09'>\r\n//「で、ござるのう」\r\n\"It is as Shishiku says.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4128,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0060080a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4252,
+  "en": "\r\n//　謎めいた事件として扱われている大将領護氏失踪の\r\n//真相を、俺は勿論承知していたが、口にはしなかった。\r\n//　俺を含め、各公方の幕僚団はこの場に居並んでこそ\r\n//いるものの発言する権利は持っていない。\r\n\r\n//　仮にあったとしても言うわけがないが。\r\n  I was there when Hikaru destroyed Hachiman Shrine. I could provide the answers they require. \r\n  But of course, that is not my place. The generals' aides are not permitted to speak.\r\n\r\n  Not that I would tell them if I were.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4847,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060090a06'>\r\n//「動揺を収める方法は一つ。\r\n//　邦氏殿下を戴いて新たな体制を発足させ、\r\n//旧体制の全てを過去に追いやるのだ」\r\n\"There's only one way to salvage this mess. Establish a new shogunate with Lord Kuniuji at its head, and make the old shogunate a thing of the past.\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060100a06'>\r\n//「奉刀参拝の事件など……\r\n//　いやそもそも、足利護氏という男自体いな\r\n//かったことにしてしまえ」\r\n\"The pilgrimage to Hachiman Shrine never happened. No... there never was a Shogun Ashikaga Moriuji.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5600,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060110a08'>\r\n//「で、できるわけないでしょう!?\r\n//　そんなことっ!!」\r\n\"Have you lost your mind!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5799,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060120a06'>\r\n//「……馬鹿が。騒ぐな。\r\n//　過去の歴史を変えられんのはわかっている」\r\n\"Be quiet, you fool. I'm not suggesting we strike his name from the record.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6082,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060130a06'>\r\n//「俺が言っているのは、それくらいの意識で\r\n//今後に臨めという、気構えの話だ」\r\n\"I'm saying we must proceed as though he didn't exist. It's a matter of managing perceptions.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6395,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060140a08'>\r\n//「わかってるから言ってんのよっ！\r\n//　全部無かったことにしろ!?　あんた、天下\r\n//を平定したお父様の業績を何だと思って――」\r\n\"I know what you meant! You want to forget my father! Well, have you forgotten what he did for Yamato!? How he brought peace and―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6803,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060150a09'>\r\n//「雷蝶殿。雷蝶殿。\r\n//　ここはどうか、抑えてくだされ」\r\n\"Raicho, please. Settle yourself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7014,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060160a08'>\r\n//「我慢できることとできないことがあります！\r\n//　いくら童心様のお言葉でも、」\r\n\"No, Reverend! Even you cannot ask me to forgive this insult!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7286,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060170a09'>\r\n//「お気持ちごもっとも。\r\n//　わかります。わかりますぞぅ」\r\n\"I understand your feelings. Truly I do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7507,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060180a09'>\r\n//「されど獅子吼殿のご意見も、いささか暴言\r\n//とは申せ一理あり……今は昔日の栄光に酔う\r\n//時ではなく、明日の栄光が我らのものである\r\n//ことを万民に示さねばならぬ時でござるゆえ」\r\n\"But Shishiku's proposal, though extreme, does have merit. This is no time for us to dwell on the past. We must show the world that the future still belongs to Rokuhara.\"\r\n\r\n//somewhat lacking in tact\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8060,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060190a08'>\r\n//「それはそうですけれど……」\r\n\"That may be, but...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8221,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060200a09'>\r\n//「護氏公を<RUBY text='・・・・・'>腫れ物扱い</RUBY>にするのは一時のこと。\r\n//　邦氏殿下の六衛大将領襲位が無事に行われ、\r\n//幕府の支配が再び確かなものとなったあとで、\r\n//改めて故人の栄誉を称えましょうぞ」\r\n\"Lord Moriuji need only endure this disgrace for a short while. Once we have a new shogun and our rule is secure, we will honor his legacy as it is due.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060210a09'>\r\n//「その折には盛大な葬儀も執り行わねば」\r\n\"Naturally, a state funeral will be the least of the ceremonies.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8972,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060220a08'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9096,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060230a09'>\r\n//「兎にも角にも、まずは幕府体制の再建……。\r\n//　雷蝶殿ほどの御方であれば、ことの道理が\r\n//おわかりにならぬはずはござるまい」\r\n\"Reestablishing our authority comes first. Surely a man of your caliber can see this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9462,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060240a08'>\r\n//「……はい」\r\n\"...Very well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9593,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060250a09'>\r\n//「御了承、かたじけなく存ずる。\r\n//　いやいや安堵いたした。まずは我ら四人が\r\n//結束せねば、幕府を立て直すなど夢のまた夢\r\n//でござるからのう！」\r\n\"Thank you for your gracious approval.\r\n  Honestly though, I'm glad we could see eye to eye. If the four of us don't work together, the shogunate is doomed!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10055,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060260a09'>\r\n//「はっはっはっはっはっ」\r\n\"Ha ha ha ha ha!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10206,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060270a08'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10330,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060280a07'>\r\n//「坊主必死だな」\r\n\"Baldy's really working it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10489,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060290a06'>\r\n//「ああ。必死だな」\r\n\"Yes. He's clearly desperate.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10653,
+  "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md03/0060300b21'>\r\n//「入道様、頑張って」\r\n\"Fight, Master.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10797,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060310a09'>\r\n//「ふっふぅ。さぁて。\r\n//　では何事もなかったかのように仕切り直す\r\n//といたそう」\r\n\"Heh... Now, let's get down to business.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11052,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060320a09'>\r\n//「邦氏殿下に大将領の位を襲って頂くには、\r\n//むろん朝廷の許しが必要でござる。\r\n//　そのための工作を、いま京都で室町探題が\r\n//進めているのでござるが……」\r\n\"In order to invest Lord Kuniuji as shogun, we first need permission from the imperial court. I've ordered our people in Kyoto to make the necessary preparations. However...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11546,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060330a08'>\r\n//「何か支障でも？」\r\n\"Is there a problem?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11692,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060340a09'>\r\n//「公家衆の態度が、どうもこう……\r\n//　暖簾に腕押し、糠に釘のようでしてなァ」\r\n\"The nobles, well... word is that it's like beating at empty air.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060350a09'>\r\n//「今は帝が気鬱だの、吉日を選んでだのと、\r\n//言を左右にするばかり。\r\n//　具体的な言質を与えぬつもりらしいという\r\n//のが、室町よりの報告でござる」\r\n\"His Majesty is unwell, or they need time to divine an appropriate date... the excuses change with every attempt. The reports indicate that they have no intention of providing what we need.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12458,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060360a06'>\r\n//「ふん。\r\n//　まぁ……予想されたことではないか？」\r\n\"Hmph. I could have told you this would happen.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12686,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060370a07'>\r\n//「こっちが混乱の早期収拾を望むってんなら、\r\n//<RUBY text='・・・'>あっち</RUBY>は逆のことを望むに決まってるしな。\r\n//　できるだけ今の状態を長引かせて、動揺を\r\n//拡大させたいんだろ」\r\n\"We want to get a grip on the chaos, but they think it helps them somehow. They want to let it spread.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13151,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060380a07'>\r\n//「そっから先の<RUBY text='ビジョン'>展望</RUBY>がどの程度あるんだかは\r\n//知らんけど」\r\n\"I just wonder how well they've thought it through.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13425,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060390a09'>\r\n//「各地の倒幕派と結び、一斉蜂起でもさせる\r\n//つもりか……。\r\n//　あるいは、進駐軍の介入に期待しておるの\r\n//か」\r\n\"Either they intend to join with anti-shogunate elements, or they're holding out in the hope that GHQ will interfere.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13800,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060400a06'>\r\n//「<RUBY text='・・・・'>その結果</RUBY>、大和がどうなるかまでは考えず\r\n//にか。\r\n//　無責任な策謀家どもならやりかねんな……」\r\n\"And of course, they don't care what happens to Yamato as a result. I expect no better from those scheming degenerates.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14200,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060410a06'>\r\n//「一つ、梃入れをしてはどうだ？\r\n//　和尚」\r\n\"Shall we apply some leverage, Reverend?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14409,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060420a09'>\r\n//「いかようにでござろう？」\r\n\"What sort of leverage?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14570,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060430a06'>\r\n//「俺が一軍を率いて上洛する」\r\n\"I'll take my men into the capital.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14755,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060440a08'>\r\n//「待たんかい！」\r\n\"Now wait a second!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14897,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060450a07'>\r\n//「ガソリンの海に火のついた<RUBY text='マッチ'>燐棒</RUBY>を投げ込む\r\n//よーなもんだなー」\r\n\"Like tossing a lit match into an ocean of gasoline, for <br>sure.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15192,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060460a06'>\r\n//「――ために篠川で準備を始めた。\r\n//　と、情報を流せばいい」\r\n\"Or rather, leak word that's what we're planning.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15437,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060470a09'>\r\n//「脅しでござるか」\r\n\"A threat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15573,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060480a07'>\r\n//「見切られたらどうする？」\r\n\"What if they call your bluff?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15750,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060490a06'>\r\n//「その時は本当に上洛するまでだ。\r\n//　逆賊岡部頼綱追討の報告だの何だの、適当\r\n//に名目を見繕ってな」\r\n\"Then it won't be a bluff. Pretext is simple. I can claim to be delivering word of the traitor Okabe's defeat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16114,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060500a08'>\r\n//「あんたそんなことして、平穏無事に済むと\r\n//思ってんの？」\r\n\"And you think you can get away with that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16340,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060510a06'>\r\n//「平穏には済むまい。\r\n//　だがこのまま、公家衆に六波羅を侮らせて\r\n//おくよりはましだ」\r\n\"Not without some bloodshed. But far better that than to let them play us for fools.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16657,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060520a09'>\r\n//「むゥ……」\r\n\"Hmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16781,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060530a06'>\r\n//「案ずるには及ばん。\r\n//　<RUBY text='おはぐろ'>鉄漿</RUBY>どもの底など知れている」\r\n\"There's no cause for concern. Those black-<br>toothed mongrels have no spine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17079,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060540a06'>\r\n//「裏で絵図面を描いている奴らは別としても、\r\n//大半の公家が見ているのは目先の利害だけ。\r\n//　室町探題に渋って見せているのも、値上げ\r\n//交渉くらいの考えでしかなかろうよ」\r\n\"Forget about those who dream of lost glory. Most nobles care only about what's right in front of them. If they're being obstinate, it's because they want to negotiate the price.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17611,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060550a06'>\r\n//「この機に少しでも待遇を良くさせたいのだ。\r\n//　脅しを掛ける一方、旨そうな餌をちらつか\r\n//せてやれば、たちまちこちらに靡いてくる」\r\n\"So let them. While threatening retribution with one hand, we'll offer a juicy morsel with the other. They'll fold in under a day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18040,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060560a08'>\r\n//「飴と鞭ってわけ？\r\n//　古典的ね」\r\n\"The carrot and the stick. Rather old-fashioned, isn't it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18246,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060570a07'>\r\n//「まっ、いいんでない？　古典的な手で。\r\n//　あの連中、頭の中身が千年前から変わって\r\n//ないしな」\r\n\"We're dealing with guys who still think it's the Middle Ages. Old-fashioned might be just what we need.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18598,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060580a09'>\r\n//「……なるほど。\r\n//　異論はござらんかな？」\r\n\"...Very well. Is there anything further?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18802,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060590a08'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18926,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060600a09'>\r\n//「では、この件は獅子吼殿にお任せいたそう」\r\n\"Then we'll leave this matter to you, Shishiku.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19135,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060610a06'>\r\n//「承知」\r\n\"Understood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19267,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060620a08'>\r\n//「これでうまくいけばいいけれど」\r\n\"I hope it works out...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19437,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060630a07'>\r\n//「うまくいったらいったで、次の問題だな」\r\n\"Even if it does, there's still the next problem.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19654,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060640a06'>\r\n//「……進駐軍か」\r\n\"...GHQ.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19794,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060650a08'>\r\n//「<RUBY text='ジュネーヴ'>国連本部</RUBY>の諜報班から報告があったわね。\r\n//　ＧＨＱのロビー活動が実を結びそうだって」\r\n\"Ah yes. That report from our spies in Geneva. GHQ's lobbying efforts are starting to pay off.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20150,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060660a09'>\r\n//「反乱鎮圧の様相が殊更に残虐性を誇張して\r\n//伝えられている、とのことでござったな。\r\n//　事実無根にはあらず、苦情を言えた筋合い\r\n//でもないが」\r\n\"The international community was quite shocked, it seems, by the brutal actions we took to quash Okabe's rebellion. Of course, it would be easier to mount a defense if the stories were not only㉗<I>slightly</I> exaggerated.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20680,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060670a07'>\r\n//「国連決議が出るのも近いかね」\r\n\"Guess it's only a matter of time before they get League approval.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20899,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060680a06'>\r\n//「対大和再宣戦――いや。\r\n//　対<RUBY text='・・・'>六波羅</RUBY>宣戦布告か」\r\n\"To declare war on Yamato. No... on㉗<I>Rokuhara.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21164,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060690a06'>\r\n//「来るなら来ればいい……」\r\n\"Let them come.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21326,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060700a09'>\r\n//「もはやいつ戦端が開かれてもおかしくない\r\n//ということでござるのう。\r\n//　……むしろ、<RUBY text='との'>先代</RUBY>が亡くなられた隙をすぐ\r\n//さま衝いてこなかったのが不思議なほど」\r\n\"We should assume that war could break out at any moment. In all honesty, I'm surprised they didn't strike immediately after Lord Moriuji's death.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21823,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060710a07'>\r\n//「政治の都合やら軍備の都合やらがあったん\r\n//だろ？\r\n//　あと、<RUBY text='こっち'>六波羅</RUBY>が絶頂の時に叩き潰してこそ\r\n//ってのもあるだろうしな」\r\n\"Maybe the politics weren't right? Or maybe they just weren't ready. Plus, they prolly wanna beat us when we're at our best.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22262,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060720a08'>\r\n//「その方が民衆の受けはいいわね」\r\n\"True, that would help to win over the people.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22455,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060730a06'>\r\n//「侮られたものだ」\r\n\"They'll regret underestimating us.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22625,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060740a09'>\r\n//「とすれば、開戦の狼煙が上がるのは、邦氏\r\n//殿下が大将領となられ幕府体制に再建の目処\r\n//がついた時」\r\n\"In that case, hostilities will likely begin shortly after Lord Kuniuji's investment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22955,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060750a08'>\r\n//「ほぼ同時……でしょうね。\r\n//　演出効果を狙うならそれが最高ですから」\r\n\"Yes, perhaps even that day. That would make for the best theater.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23223,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060760a06'>\r\n//「だろうな。\r\n//　そのつもりで我らも備えておく必要がある」\r\n\"Agreed. We should proceed under that assumption.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23465,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060770a06'>\r\n//「もしも向こうが動かなかったら……その時\r\n//は好機だ。\r\n//　こちらから仕掛けて、一気に<RUBY text='ヨコハマ'>進駐軍本部</RUBY>を\r\n//落とす！」\r\n\"And if they still hold their hand, then the time is ours! We will strike Yokohama and scour them from our shores!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23882,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060780a09'>\r\n//「……うむ……」\r\n\"...Indeed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24016,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060790a06'>\r\n//「六年間の屈辱、一朝で晴らしてくれるわ」\r\n\"They will pay for these six years of disgrace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24231,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060800a08'>\r\n//「そう言うからには、順調なんでしょうね？\r\n//　あれの準備」\r\n\"Then it's almost ready? It must be, if you're talking like that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24480,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060810a06'>\r\n//「当然だ。\r\n//　貴様などに心配される謂れはない」\r\n\"Of course. Spare me your concern.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24692,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060820a07'>\r\n//「あぁ……<RUBY text='とらのこ'>一七連隊</RUBY>ね。\r\n//　今のうちに一度見ておきたいな、あれ」\r\n\"Oh yeah, our secret weapon. Guess I should take a look while there's still time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25008,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060830a07'>\r\n//「獅子吼、このあと篠川に戻るんだろ？\r\n//　あても一緒に行くよ」\r\n\"You're heading back to Sasagawa after this, right? I'm going with you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25278,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060840a06'>\r\n//「無用だ。\r\n//　貴様に心配される謂れもない」\r\n\"Stay. You're not needed either.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25482,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060850a07'>\r\n//「あるよー。アリアリ。\r\n//　あのプランに金と人員を一番出してるのは\r\n//あてなのでーす」\r\n\"Ah, but see, I'm the one who shelled out the big bucks for this little <br>operation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25801,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060860a07'>\r\n//「世の中で一番エラいのは<RUBY text='スポンサー'>金を出す人</RUBY>。\r\n//　これ常識。これ真理」\r\n\"And in this world, sponsors call the shots. That's just how things work, my man.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26117,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060870a06'>\r\n//「…………。\r\n//　軍務はどうする」\r\n\"...And what of your duties here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26307,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060880a07'>\r\n//「有能な副官に一任」\r\n\"Just so happens I've got a talented lieutenant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26493,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060890a06'>\r\n//「……貴様か」\r\n\"...You?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26630,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0060900a00'>\r\n//「は」\r\n\"Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26743,
+  "en": "\r\n//　やにわに話を振られるも、動揺は見せず応答する。\r\n//　何もかも不意だった前回と違い、今度はあらかじめ\r\n//このような事も想定していた。\r\n  Although I wasn't expecting the mention, I respond without missing a beat. Unlike last time, I'm ready for anything.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27071,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0060910a06'>\r\n//「確かに、茶々丸よりは余程あてになりそう\r\n//だが……」\r\n\"True, you do seem more reliable than Chachamaru.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27307,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060920a07'>\r\n//「そーだろーそーだろー」\r\n\"Doesn't he?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27463,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060930a08'>\r\n//「皮肉を理解しなさいよ」\r\n\"That was an insult.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27618,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060940a09'>\r\n//「しかし何にしても抜擢されたばかりの新任。\r\n//　茶々丸殿抜きで仕事をさせるのは、流石に\r\n//まだ荷が重いのではござらんかな」\r\n\"Still, this man is new to Rokuhara. Can he truly handle your duties by himself?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27976,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060950a07'>\r\n//「大丈夫だよね、中佐？」\r\n\"Well, Colonel?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28135,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0060960a00'>\r\n//「閣下の御期待に沿うべく奮励努力致します」\r\n\"I will do my best to meet your expectations, Excellencies.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28356,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0060970a08'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28480,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0060980a09'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28604,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0060990a07'>\r\n//「む、イマイチな反応。\r\n//　もっと説得力のある言葉でアピールした方\r\n//がいいっぽいよ」\r\n\"They're not buying it. Give 'em something more convincing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28896,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0061000a00'>\r\n//「わかりました」\r\n\"Very well.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0061010a00'>\r\n//「<RUBY text='このかた'>堀越公方</RUBY>がいるとむしろ仕事の邪魔です」\r\n\"I'll work better without her underfoot.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29254,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0061020a07'>\r\n//「わーいすごい説得力だー！」\r\n\"Yeah! That's what I'm talking about!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29441,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/0061030a07'>\r\n//「旅に出ます。捜さないでください」\r\n\"I'm leaving. Don't bother looking for me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29642,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0061040a08'>\r\n//「捜さないわ」\r\n\"Oh, we won't.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29776,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0061050a06'>\r\n//「くっくっく……！\r\n//　そうか。それならいい」\r\n\"Heh heh heh... You'll work better, will you? Excellent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30007,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0061060a06'>\r\n//「期待しているぞ、湊斗中佐」\r\n\"I expect great things from you, Minato.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30197,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0061070a00'>\r\n//「はッ」\r\n\"Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30313,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0061080a09'>\r\n//「……では、議題を移すといたそう。\r\n//　倒幕派の動きについて報告があり申す」\r\n\"...Then, moving on. I have a report from our spies in the field.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30589,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0061090a09'>\r\n//「最近、岡部残党らしき一派が――」\r\n\"Recently, Okabe loyalists have been spotted in the vicinity of―\"\r\n",
+  "pt": ""
+ }
+]

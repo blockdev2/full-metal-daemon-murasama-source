@@ -1,0 +1,472 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　夜。\r\n//　俺は再び、大鳥大尉に外へ連れ出された。\r\n  That night, Captain Otori takes me on another walk.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 355,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200010a03'>\r\n//「……そうですか。\r\n//　あの方は景明さまにそんなお話を……」\r\n\"So the colonel made you an offer...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 587,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200020a00'>\r\n//「はい」\r\n\"He did.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 706,
+  "en": "\r\n//　いつも大尉から付かず離れずの永倉侍従がやや距離\r\n//を取り、それとなく周囲を警戒し始めた時点で、どの\r\n//ような会話が望まれているのかは察せられた。\r\n//　如何にしてか、あの中佐の訪問を知ったに違いない。\r\n  Once we're outside, Miss Nagakura withdraws to an unusual distance, one that will permit her to ensure that no one overhears our conversation. From this, it is clear what the topic is to be. The captain must have learned of Colonel Cannon's visit, and now expects me to relay the details.\r\n\r\n//　尋ねられる前に俺から口火を切り、対談のすべてを\r\n//話した。\r\n//　大尉からも情報の提供があった。\r\n  This, I do. The captain reciprocates.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1493,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200030a00'>\r\n//「……資料管理課課長。実態は諜報総監。\r\n//　そして貴方の上司……あのキャノン中佐が」\r\n\"...The Data Management Bureau. GHQ's black ops division. He leads it... and he's your direct superior?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1819,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200040a03'>\r\n//「ええ。\r\n//　ＧＨＱの大和経略において、実権を掌握し\r\n//ていると言っても過言ではない方です」\r\n\"That's right. It would not be a stretch to say that he is the man most responsible for advancing GHQ's interests in Yamato.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2185,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200050a00'>\r\n//「それはつまり、彼の語った内容は一中佐の\r\n//見解に留まるものではなく……ＧＨＱ全体の\r\n//思想でもあると？」\r\n\"So when he speaks, I should consider him to be speaking for GHQ as a whole?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2515,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200060a03'>\r\n//「虚実はともかく。\r\n//　あの方の言葉にはそれだけの重みがあると\r\n//考えた方がよろしいでしょうね」\r\n\"Whether that is literally true or not, you'd be wise to assume that it is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2838,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200070a00'>\r\n//「……虚実。\r\n//　大尉殿、キャノン中佐の自分に対する依頼\r\n//の件は、果たして額面通りに受け取ったもの\r\n//でしょうか？」\r\n\"...Speaking of truth, Captain, do you believe that I can take the colonel's offer at face value?\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3206,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200080a03'>\r\n//「そうですね……それに関しては。\r\n//　呆れ返るほど効果的な作戦ですし、」\r\n\"Well... he's not wrong about the effect it would have.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3475,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200090a03'>\r\n//「<RUBY text='・・・・・・'>わたくしにも</RUBY>似たようなプランが用意され\r\n//ていますから。\r\n//　また別に思案があるとしても、景明さまの\r\n//協力が欲しいというのは嘘ではないでしょう」\r\n\"I believe that he's sincere about desiring your cooperation. He has similar plans for me, you know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3938,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200100a00'>\r\n//「……成程」\r\n\"...Ah, of course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4073,
+  "en": "\r\n//〝大鳥〟の名の活用か。\r\n//　大和の既存権力層を排除した後、香奈枝嬢を後釜に\r\n//据えようという画策があるわけだ――キャノン中佐の\r\n//脳内に。\r\n  <I>Otori</I>㉒Kanae. She would indeed make a fine replacement once Rokuhara is out of the picture. A puppet like her sister, only on a grander stage.\r\n\r\n//　実行されれば、彼女は傀儡君主となる。\r\n//　妹と同じ配役を、より広い舞台で演じさせられる。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4581,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200110a00'>\r\n//「大尉殿。\r\n//　貴方は承服しておられるのですか？」\r\n\"Will you do it, Captain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4778,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200120a03'>\r\n//「自分に関するプランを？」\r\n\"Go along with his plan?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4949,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200130a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5065,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200140a03'>\r\n//「一概に否定はしません」\r\n\"I can't say for certain that I won't.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5247,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200150a00'>\r\n//「……。\r\n//　余り、大尉の御気性にそぐう提案とも思え\r\n//ませんが」\r\n\"...It doesn't seem like something you'd agree to.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5491,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200160a03'>\r\n//「先日、申し上げましたでしょ。\r\n//　わたくしが大和へ帰国したのは、第一に民\r\n//を守る<RUBY text='つとめ'>責務</RUBY>を果たすため――」\r\n\"Do you remember what I told you? First and foremost, I am here to defend the people of Yamato.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5879,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200170a03'>\r\n//「国際連盟、要するに大英連邦ということに\r\n//なりますけれど、その征服を受け入れるのが\r\n//大和にとって最良なら……わたくしもそれに\r\n//従い、求められる役割を果たすまでです」\r\n\"If submitting to the League of Nations―to Britain―is indeed the best course for Yamato... then that is the course I must take, no matter what it requires of me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6401,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200180a03'>\r\n//「否やはありません。\r\n//　わたくし個人の好みなど、考慮の要もない\r\n//ことです」\r\n\"My feelings on the matter are irrelevant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6664,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200190a00'>\r\n//「……は」\r\n\"...I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6788,
+  "en": "\r\n//　俺は貴人への略礼を<RUBY text='と'>執</RUBY>った。\r\n  I bow briefly, but low, in deference to her resolve.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6924,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200200a03'>\r\n//「景明さまはいかがですの？」\r\n\"And what will you do, Kageaki, dear?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7111,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200210a00'>\r\n//「……考えては、みました」\r\n\"...I have given it some thought.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7282,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200220a00'>\r\n//「キャノン中佐の示す<RUBY text='みち'>未来</RUBY>が最善であるのか\r\n//……まさにその一点を。\r\n//　本当に、それが最も良い可能性であるのか」\r\n\"As you say, it all hinges on whether the path he's laid out is in Yamato's best interests. On whether there truly is no better way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7704,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200230a03'>\r\n//「ご結論は？」\r\n\"Have you reached a conclusion?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7864,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200240a00'>\r\n//「一時的な平和は訪れるでしょう」\r\n\"It would bring㉓<I>a</I> peace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8044,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200250a00'>\r\n//「進駐軍が六波羅を駆逐し、大和の統治権を\r\n//握ったなら、施政の多くの点で改善が期待で\r\n//きます……大英連邦が大和に限って<RUBY text='ジェントルマンシップ'>紳士道</RUBY>を\r\n//放棄しない限りは」\r\n\"If Britain replaces Rokuhara, then the average citizen will likely see a marked improvement in how their government treats them. Assuming, of course, that the British do not abandon their㉓<I>gentlemanly</I> ways when it comes to Yamato.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200260a00'>\r\n//「大和は大英を宗主国と仰ぎ――スカンジナ\r\n//ビアやバルト三国、<RUBY text='モンゴル'>蒙古</RUBY>のように、<RUBY text='ロシア'>露帝国</RUBY>を\r\n//封ずる壁の一枚となります。\r\n//　<RUBY text='ケイジ・オブ・ベアーズ'>対露封鎖網</RUBY>が遂に完成します……」\r\n\"Like Scandinavia, the Baltics, and Mongolia, Yamato will become another piece in the Iron Curtain, England's bulwark against Russia.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9215,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200270a00'>\r\n//「しかしそうなった時、露帝は黙って両手を\r\n//上げるでしょうか？」\r\n\"The question is, will Russia allow this to happen?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9459,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200280a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9586,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200290a00'>\r\n//「南下政策は彼らの生命線です。\r\n//　その切断をただ看過するとは思えません」\r\n\"Russia desperately needs to expand south into Asia. I doubt they'll remain silent as Britain boxes them in.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200300a00'>\r\n//「彼らが封鎖網の実力突破を図った時……\r\n//　まず狙われるのは」\r\n\"When they decide to break the containment, where will they strike first?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10157,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200310a03'>\r\n//「――占領から間もない大和？」\r\n\"The newest brick in the <br>wall?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10344,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200320a00'>\r\n//「支配体制が確立する前なら付け入る間隙は\r\n//ある、おそらくそう考える者がいるでしょう。\r\n//　で、あれば――大和の春も長くは続かない」\r\n\"If they decide that until it is fully integrated, Yamato is vulnerable... then the 'peace' Britain gives us will end before it has truly begun.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10781,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200330a00'>\r\n//「<RUBY text='ロイヤルナイツ'>女帝軍</RUBY>と<RUBY text='コサック'>露帝軍</RUBY>による激戦の巷となります」\r\n\"As knights and cossacks descend upon this country like a storm.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11082,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200340a03'>\r\n//「もちろん、そんな<RUBY text='こと'>事態</RUBY>は大英連邦も望みま\r\n//せん。外交で決着をつけようとするでしょう。\r\n//　幾らかは露帝の要求にも応じ、代償に連盟\r\n//への参加を求める、その辺りで。……けれど」\r\n\"Britain will try to avoid open war, of course. They'll likely offer some concessions in exchange for Russia's membership in the League...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11613,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200350a03'>\r\n//「目論見通りにゆくとは限らない」\r\n\"However, matters rarely proceed as one hopes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11815,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200360a00'>\r\n//「はい。\r\n//　過去の歴史が証明するように……」\r\n\"Indeed, as history proves.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12008,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200370a03'>\r\n//「だからキャノン中佐の依頼は拒む――と？」\r\n\"So that's why you'll reject his offer?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12218,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200380a00'>\r\n//「……そうなります」\r\n\"...Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12355,
+  "en": "\r\n//　それのみが理由ではなかったが。\r\n//　……ＧＨＱに与するという事は、<RUBY text='・・・・'>あの騎士</RUBY>を戦友と\r\n//呼ぶという事でもある。\r\n  Though that is not the only reason.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12602,
+  "en": "\r\n//　私的な感情問題に過ぎない。軽くはないが。香奈枝\r\n//嬢に告げるような事ではなかった。\r\n//　\r\n//　告げるべき事は他にある。一件。\r\n  If I join GHQ, it will mean fighting side by side with the knight who killed my father.\r\n\r\n  But that is a private matter―grave, yes, but not one to speak of here.\r\n\r\n  Instead, I decide to mention my㉒<I>third</I>㉒reason.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13030,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200390a00'>\r\n//「……いや。\r\n//　これも微妙なところか」\r\n\"...Though it's not much better.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13219,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200400a03'>\r\n//「？」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13341,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200410a00'>\r\n//「実はもう一つ、別の危惧が」\r\n\"Actually, there is another reason.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13517,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200420a03'>\r\n//「何ですかしら」\r\n\"Which is?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13659,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200430a00'>\r\n//「論理的考察ではなく、ほとんど単なる憶測\r\n//になってしまうのですが」\r\n\"At this point, it's purely supposition...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13900,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200440a03'>\r\n//「構いませんことよ？」\r\n\"I don't mind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14055,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200450a00'>\r\n//「……キャノン中佐は……\r\n//　本当に、大英連邦に対して忠実な軍人なの\r\n//でしょうか？」\r\n\"I'm wondering... is Colonel Cannon truly loyal to the Crown?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14340,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200460a03'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14473,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200470a00'>\r\n//「我ながら、これは下衆の勘繰りも同然。\r\n//　お恥ずかしい」\r\n\"Disgraceful, I know. One should not cast suspicions.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14711,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200480a03'>\r\n//「……けれど、そう勘繰った根拠はお有りに\r\n//なる……？」\r\n\"...But there is a reason you wondered, yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14945,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200490a00'>\r\n//「根拠と呼べる程のものは。\r\n//　ただ……」\r\n\"Nothing one might call evidence. It's just...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15151,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200500a00'>\r\n//「彼との対話において、自分も正直の徒では\r\n//ありませんでしたが、それ以上に中佐の方が\r\n//深く本心を隠しておられたと思うのです。\r\n//　しかし、一度」\r\n\"While I was hardly a paragon of honesty during our conversation, I sensed that he was holding back a great deal more. But there was a moment...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15607,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200510a00'>\r\n//「賢明。\r\n//　独立国家の誇りを捨て、<RUBY text='クィーン'>女王陛下</RUBY>の施しを\r\n//受ける身に甘んじる事が、賢明な選択という\r\n//ものですか？」\r\n\"Smart. When you abandoned your dreams of independence, when you knelt to the queen and begged for her favor, I suppose you were making the㉓<I>smart</I>㉑choice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16068,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0200520b03'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16210,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0200530b03'>\r\n//「君の言うことは……まぁ、理解できる」\r\n\"Okay... I get where you're coming from.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0200540b03'>\r\n//「が、得てして大衆とは君のように考えない\r\n//ものだ。\r\n//　誇りある苦痛より隷従しての安楽を望む」\r\n\"The problem is, most people aren't like that. They'd rather submit and live in peace than suffer and keep their pride.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16792,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0200550b03'>\r\n//「そうした人々に対する理解も……必要だと、\r\n//俺は思うがね……」\r\n\"It's not all about us... you know?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17038,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200560a00'>\r\n//「あの一瞬だけ、キャノン中佐は<RUBY text='・・・・'>素の感情</RUBY>を\r\n//覗かせた……。\r\n//　自分にはそう思えるのです」\r\n\"I felt that in that moment, he was speaking from the heart.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17361,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200570a03'>\r\n//「……<RUBY text='クイーンズルール'>女王支配</RUBY>への反発を？」\r\n\"...You believe that he resents the queen's rule?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17605,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200580a00'>\r\n//「わかりません。\r\n//　本当に憶測なのです」\r\n\"I don't know. As I said, it was only a feeling.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17813,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200590a03'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17958,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200600a03'>\r\n//「……やっぱり、こちらからの対処も考えて\r\n//みるべきかしら……？\r\n//　いえ……伯爵を動かすには、もう遅い……\r\n//……」\r\n\"...Should we take action? It's too late to summon Count Sarchant now...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18309,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200610a00'>\r\n//「大尉殿？」\r\n\"Captain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18435,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200620a03'>\r\n//「ごめんなさい。何でもありませんの。\r\n//　それで……もし景明さまの推測が当たって\r\n//いたとすると、どうなります？」\r\n\"Oh, I'm sorry. So this suspicion of yours. If it's correct, what then?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18781,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200630a00'>\r\n//「彼が万一にも女王への叛意を有していると\r\n//すれば、大和占領を積極的に推し進めるのも\r\n//その為ということになります。\r\n//　この国に拠って大英連邦に牙を剥く――」\r\n\"If he does harbor rebellious aspirations, then to him, the conquest of Yamato must be in furtherance of those aims. He might plan to use our country as a weapon against Britain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19292,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200640a00'>\r\n//「やはり大和は戦場となるでしょう。\r\n//　この場合、単に大英連邦と露帝が争う場合\r\n//よりも情勢は混迷し、人々は更に苛酷な境遇\r\n//に置かれるかもしれません」\r\n\"In this case also, the peace will not last. If anything, the chaos in the aftermath, and the suffering, will likely be far worse.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19743,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200650a00'>\r\n//「……あるいは六波羅時代を懐かしむ声さえ\r\n//上がる程の」\r\n\"...We may find ourselves wishing we could go back to the way things were.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19998,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200660a03'>\r\n//「もとの濁りの田沼恋しき？\r\n//　勘弁して頂きたいものですね」\r\n\"Longing for the good old days of Rokuhara? There's a frightening thought.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20268,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200670a00'>\r\n//「完全に同意します」\r\n\"Agreed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20405,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200680a03'>\r\n//「つまり景明さまの見るところ、わたくしの\r\n//上司に付き従う先はどう転ぶにしろ必ずしも\r\n//明るくないと。\r\n//　でも――」\r\n\"So you feel that no matter his intentions, nothing good can come of accepting his offer?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20773,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200690a03'>\r\n//「なら景明さまには、独自の展望がお有り？\r\n//　より確実に、大和の平和を約束するような」\r\n\"In that case, do you have another plan? One guaranteed to secure peace for Yamato.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21091,
+  "en": "\r\n//　その追及は辛辣だった。\r\n  The question bites. A <I>guaranteed</I>㉔road to peace. If such a road existed, the prince and my father would not have struggled with the question.\r\n\r\n//　確実に大和の平和を約束する道。\r\n//　そう――そんなものが簡単に見つかれば、誰も苦労\r\n//はしなかったのだ。舞殿宮も、養父も。\r\n  Alas, the reality is far more complex. So complex that even those two, for all their prudence, chose a path which led them to ruin.\r\n\r\n  The fate of nations is no trifling matter. It is certainly beyond my faculties.\r\n\r\n//　人よりも広い視野と深い思慮を備えていたであろう\r\n//あの両人でさえ、世情の混沌の深まりに敗れ、遂には\r\n//道を見失って転落した。\r\n//　一国の将来を占うはそれほどの難事。\r\n\r\n//　試すまでもなく、湊斗景明の器量には余る。\r\n//　\r\n//　だが――\r\n  However...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22060,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200700a00'>\r\n//「展望はありません。\r\n//　ただ、<RUBY text='・・・・'>こだわり</RUBY>なら一つ」\r\n\"It's not what I would call a plan... but I do have one condition.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22331,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200710a03'>\r\n//「こだわり？」\r\n\"A condition?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22473,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200720a00'>\r\n//「現世界情勢を思えば大和の平和を保つのは\r\n//難しい。軍事的緊張と無縁ではいられません。\r\n//　しかし、いずれ戦争を避け得ないとしても\r\n//――」\r\n\"A point of pride. With the state of the world as it is, it seems implausible that we'll be able to remain above the fray. But if Yamato must go to war, Captain―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22939,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200730a00'>\r\n//「それはこの国の人間がこの国の舵取りをし\r\n//た結果であるべきだと考えるのです。\r\n//　大鳥大尉」\r\n\"Then I would have it be the result of choices Yamatoans made.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23237,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200740a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23370,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200750a00'>\r\n//「他国の都合で振り回された挙句にそうなる\r\n//のでは余りにもやるせない。\r\n//　第一、開戦が他国の都合であるなら終戦も\r\n//他国の都合となってしまうのが道理」\r\n\"Manipulated by foreign agents into a war which serves㉗<I>their</I>㉑aims... that is not how I want history to remember us. And most of all, if we go to war on someone else's terms, then they also decide the terms by which that war ends.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23931,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200760a00'>\r\n//「途方もない損害が払われたすえ、大和には\r\n//何も益するところがない……最悪、この国は\r\n//そんな歴史を刻んでしまうことも有り得ます。\r\n//　どうにも、それは受け入れ難い」\r\n\"Worst case, we may find when it's over that all our sacrifices have bought us <I>nothing.</I>㉑ We must not allow that to happen.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24404,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200770a00'>\r\n//「大和の浮沈はせめて大和の意思で決めたい。\r\n//　こだわりとはそういう事です」\r\n\"Let Yamato rise or fall by the will of its people. That is the fate I'll accept.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24696,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200780a03'>\r\n//「…………。\r\n//　……では……」\r\n\"Then...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24858,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200790a03'>\r\n//「景明さまの、その<RUBY text='・・・・'>こだわり</RUBY>のためには――\r\n//　今、六波羅軍が壊滅するような事があって\r\n//はならない」\r\n\"The way things are now, to satisfy your condition... Rokuhara needs to survive.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25225,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200800a03'>\r\n//「そうですね？」\r\n\"Am I wrong?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25369,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200810a00'>\r\n//「……はい」\r\n\"...No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25493,
+  "en": "\r\n//　確かに。\r\n\r\n//　善悪の云々は兎も角、現大和においては幕府軍だけ\r\n//が唯一最大の、大和固有の軍事力だ。\r\n//　諸外国の介入を掣肘し、大和国民の自主独立を守る\r\n//役目は、彼らにしか果たせない。\r\n\r\n//　これを失えば大和は他国人の<RUBY text='コロセウム'>闘技場</RUBY>と化すまで。\r\n  She is correct. Questions about their fitness to rule aside, the fact remains that Rokuhara possesses the only force capable of defending Yamato and its people's right to choose their destiny.\r\n\r\n  If the shogunate falls, then this island will become the place where greater nations work out their differences: a modern-day Coliseum.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26228,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200820a00'>\r\n//「キャノン中佐との対話が戦略論に及んだ時、\r\n//彼も言っていました。六波羅を短時日の内に\r\n//撃滅することは可能だと。\r\n//　しかし考えられません」\r\n\"We spoke briefly of strategy. Colonel Cannon believes that he can end the war in a day. I argued it wasn't possible.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26651,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200830a00'>\r\n//「進駐軍と幕府軍――両軍の陣容を比較して、\r\n//六波羅が絶対的に劣弱であるなどとは……。\r\n//　大尉殿、本当にそのような作戦構想が実在\r\n//するのですか？」\r\n\"The Allied position is superior, but not to that degree. Captain, am I missing something? Is there a way GHQ can accomplish this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27099,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200840a03'>\r\n//「実在します」\r\n\"There is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27238,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200850a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27356,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200860a03'>\r\n//「わたくしも詳細は掴んでいません。\r\n//　厳重な情報規制が掛けられ、上層部の他は\r\n//実行部隊にしか知らされていないようです」\r\n\"I haven't yet managed to pin down the details. There's a tight seal on any intelligence related to the operation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27757,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200870a03'>\r\n//「ようやく探り出せたのは、作戦の決行日と\r\n//……そのために用意された一つの兵器」\r\n\"All I know is the day it will happen... and the name of the weapon that made it possible.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28073,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0200880a00'>\r\n//「……それは？」\r\n\"...Which is?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28209,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0200890a03'>\r\n//「<RUBY text='フォージド・ボム'>鍛造雷弾</RUBY>」\r\n\"The Forged Bomb.\"\r\n",
+  "pt": ""
+ }
+]

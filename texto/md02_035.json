@@ -1,0 +1,22 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//\tSetFwC('cg/fw/fw景明_通常b.png');\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0350010a00'>\r\n//「……………………………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 409,
+  "en": "\r\n//\tSetFwC('cg/fw/fw村正蜘蛛_通常.png');\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0350020a01'>\r\n//《……どうしたの？\r\n//　ちゃんと寝ないと、明日が大変よ》\r\n《...What's wrong? You'd better go back to sleep, or you'll regret it tomorrow.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 725,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0350030a00'>\r\n//「駄目だ。\r\n//　今夜はもう寝れば寝るほど疲れる気がする」\r\n\"I can't. Something tells me I'll only wake up more tired.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 964,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md02/0350040a01'>\r\n//《？》\r\n《?》\r\n",
+  "pt": ""
+ }
+]

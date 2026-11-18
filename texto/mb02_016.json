@@ -1,0 +1,177 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160010a00'>\r\n//「我々も……？」\r\n\"We've been invited?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 356,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0160020b20'>\r\n//「ええ」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 483,
+  "en": "\r\n//　岩田女史は、自身やや困惑した様子で頷いた。\r\n  She seems almost as surprised by this as I.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 610,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0160030b20'>\r\n//「高官の方々だけではなく、政所と問注所に\r\n//勤務の者は全て参加を許されると……。\r\n//　日頃の苦労をねぎらいたい、と童心入道様\r\n//が仰せであるとか」\r\n\"The general has announced that everyone in Fiefs―and Laws―has permission to attend. A reward for our faithful service.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1054,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0160040a02'>\r\n//「参加を、<RUBY text='・・・・'>許される</RUBY>？」\r\n\"Permission to attend?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1241,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0160050b20'>\r\n//「事実上の命令です」\r\n\"It's an order.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1394,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160060a00'>\r\n//「やはり」\r\n\"Of course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1519,
+  "en": "\r\n//　役人社会はそんなものだろう。\r\n  Such is the life of a bureaucrat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1615,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0160070b20'>\r\n//「理由を用意して辞退する事も無理ではあり\r\n//ませんが……」\r\n\"It might be possible to arrange an excuse...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1853,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160080a00'>\r\n//「怪しまれるだけでしょう。\r\n//　承知しました。支度を整えます」\r\n\"No. That would just invite suspicion. We'll be there.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160090a00'>\r\n//「構わないな？　一条」\r\n\"Are you all right with that, Ichijo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2258,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0160100a02'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2374,
+  "en": "\r\n//　予定では、能舞台が開かれる時間は、その後の作戦\r\n//決行の為の準備にあてるつもりだったのだが……。\r\n//　仕方もない。それに、準備と言ったところで大した\r\n//事ができるわけでもないのだ。\r\n\r\n//　元々、成功させる必要のない襲撃作戦である。\r\n//　退路の見定めだけ済ませておけば充分だった。\r\n  We had planned to use the time to complete our preparations, but no matter. We're not actually trying to kill Lord Kuniuji. As long as we have our escape route, we'll be fine.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2976,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160110a00'>\r\n//「服装はこのままで宜しいのでしょうか」\r\n\"Should we attend as we <br>are?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3164,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0160120b20'>\r\n//「まあ、それが無難かと。\r\n//　童心様は私服でも苦しからずと仰せですが」\r\n\"That would be the safest choice, though the general did say that casual dress would be permitted.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3473,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160130a00'>\r\n//「舞台が長時間に渡るようなら、確かに私服\r\n//の方が楽ではあります」\r\n\"It might be wise to take him up on that, if it's going to be a long program.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3746,
+  "en": "\r\n//　正式な能、つまり初番目から五番目までのすべての\r\n//曲種を上演する<RUBY text='ごばんだて'>五番立</RUBY>の場合、一日掛かりの会になる。\r\n//　やる方もだが観る方も<RUBY text='おおごと'>大事</RUBY>だ。\r\n\r\n//　政務にも差し支えようし、流石にそれはあるまいが\r\n//……。\r\n  A traditional Noh program―that is, one which includes a play from each of the five categories―is a highly substantial affair. It generally runs from morning to night, and tests the stamina of the audience as well as of the actors.\r\n\r\n  But as that would mean shutting down the castle for a day, it is unlikely to be what we're in store for here.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4473,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160140a00'>\r\n//「番組はどのような？」\r\n\"What is the program?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4626,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0160150b20'>\r\n//「能二番、合間に狂言一番のようです」\r\n\"Two plays of Noh, with a Kyogen interlude.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4831,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160160a00'>\r\n//「それなら五時間程度でしょう。\r\n//　曲にもよりますが」\r\n\"So only five hours, give or take.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5043,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0160170a02'>\r\n//「五時間……」\r\n\"Five hours...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5177,
+  "en": "\r\n//　一条がうんざりとこぼした。\r\n//　それだけの時間、一箇所に座り続ける事を想像した\r\n//だけで既に疲労したようだ。\r\n\r\n//　歩き回るより座っている方が好きな俺にはさして苦\r\n//でもないが、この活力の塊のような娘には辛かろう。\r\n  Ichijo sounds nonplussed by the prospect. I'm not surprised. Unlike me―I rather prefer sitting―this girl needs a constant outlet for her energy.\r\n\r\n  The thought of five hours spent idle in one spot seems to have already sapped her spirit.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5755,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160180a00'>\r\n//「私服にしておくか。\r\n//　いくらかは楽になる」\r\n\"Maybe you should change. You'll be more comfortable.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5974,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0160190a02'>\r\n//「あ、いえ。\r\n//　大丈夫ですっ」\r\n\"Oh. No. I'm fine!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6137,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160200a00'>\r\n//「無理はするな。\r\n//　そこで体力を消耗されても困る」\r\n\"You don't need to prove anything. Save your strength for later.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6376,
+  "en": "\r\n//　本番はその後なのだ。\r\n  For us, the main event comes after.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6462,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0160210a02'>\r\n//「平気です。\r\n//　……幕府の催しに私服で参加するのって、\r\n//なんかヤですし」\r\n\"I'll be fine, really.\" She lowers her voice to a whisper. \"And it wouldn't feel right, dressing like normal for some Rokuhara bullshit.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6807,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160220a00'>\r\n//「……そうか」\r\n\"...Ah.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6934,
+  "en": "\r\n//　俺にだけ届かせた囁きに、諒解して頷く。\r\n//　……教条主義的な少女だ。\r\n\r\n//　が、これが綾弥一条であろう。\r\n//　その頑固さで疲労を耐えられるのなら文句を並べる\r\n//必要もない。\r\n  As always, Ichijo is a slave to her convictions. But so be it. If that obstinance will see her through the performance, I have no cause to criticize her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7357,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160230a00'>\r\n//「して、曲目は？」\r\n\"What will be performed?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7507,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0160240b20'>\r\n//「それが、発表されていないのです。\r\n//　二番目物と四番目物の二番立であるとしか\r\n//知らされていません」\r\n\"Actually, they haven't said. All we know is that they'll be from the second and fourth categories.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7863,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160250a00'>\r\n//「修羅物と雑能ですか……。\r\n//　しかし、曲目を明かさないというのはまた、\r\n//何故」\r\n\"A warrior play, followed by a madness play... But why would they keep it a secret?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8164,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0160260b20'>\r\n//「さあ……？\r\n//　他でもない古河中将様のことです。なにか\r\n//また奇抜なことを考えていらっしゃるのかも」\r\n\"I haven't a clue. This is General Yusa we're talking about. He must have something up his sleeve.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8519,
+  "en": "\r\n//　肩をすくめて、岩田女史。\r\n//　その態度からするに、あの僧形公方の指図する物事\r\n//が<RUBY text='セオリー'>常道</RUBY>を外れるのは良くある事のようだ。\r\n\r\n//　下級役人まで集めて能舞台を開く行為からしてそう\r\n//だが。\r\n//　婆娑羅公方の名は伊達ではないらしい。\r\n  From the way she shrugs her shoulders, it must be true what they say about the general, despite his priestly attire, having a penchant for the unorthodox. Not that his inviting a few hundred petty bureaucrats was not indication enough.\r\n\r\n  No wonder they call him a basara.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9172,
+  "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0160270b20'>\r\n//「では、お支度を。\r\n//　開演までそれほど間がありません」\r\n\"Now, please get ready. There's not much time before it starts.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9425,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0160280a00'>\r\n//「諒解しました」\r\n\"Understood.\"\r\n",
+  "pt": ""
+ }
+]

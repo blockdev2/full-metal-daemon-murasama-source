@@ -1,0 +1,827 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110010a10'>\r\n//「……間違いないんか？\r\n//　署長」\r\n\"You sure about that, Chief?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 398,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110020a11'>\r\n//「……残念ながら。\r\n//　複数の経路から入手した情報です」\r\n\"I'm afraid so. Multiple sources confirm it.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110030a11'>\r\n//「小弓公方府にて大規模な軍事行動の準備が\r\n//開始されている、と」\r\n\"Oyumi is mobilizing its army as we speak.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 850,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110040a10'>\r\n//「目的は……」\r\n\"Do we know why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 995,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110050a11'>\r\n//「公にされてはおりません。\r\n//　が、現状を鑑みれば……まず……」\r\n\"They haven't said. But under the circumstances...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1238,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110060a10'>\r\n//「疑いは、ないわな」\r\n\"Doesn't look good, huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1400,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110070a11'>\r\n//「……準備に時間を掛けているのが救いです。\r\n//　こちらの戦力を読めないせいでしょう」\r\n\"The one ray of hope in this is that he's taking the time to assemble the bulk of his forces. He still doesn't know what we have.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110080a11'>\r\n//「何かしらの手を打つ暇が無いわけではあり\r\n//ません」\r\n\"And that gives us a chance to prepare.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1958,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110090a10'>\r\n//「……て言うても」\r\n\"Prepare... how?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2109,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110100a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2227,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110110a10'>\r\n//「命運尽きたかなぁ。\r\n//　わし」\r\n\"Guess this is the end of the line...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2418,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110120a11'>\r\n//「いえ……京都へお逃れ下さい。\r\n//　いかに幕府でも禁裏へ兵を押し進めるのは\r\n//無理です」\r\n\"No, Your Highness. You should return to Kyoto. Rokuhara will not dare send troops into the palace.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110130a11'>\r\n//「鎌倉からの脱出は、私がすぐに手配を――」\r\n\"I've already prepared a safe route―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2936,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110140a10'>\r\n//「そうもいかんやろう？\r\n//　菊池……」\r\n\"Ain't happening, Kikuchi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3125,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110150a11'>\r\n//「……宮殿下」\r\n\"Your Highness...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3262,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110160a10'>\r\n//「ここで退いたら、もう再起の目は無いわ。\r\n//　舞殿宮は死んだも同然や……」\r\n\"If I turn tail, I'm as good as dead anyway. I'll lose whatever chance I had to make things better.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110170a10'>\r\n//「死んだも同然のくせに、生きてるってのは\r\n//タチ悪いなぁ。\r\n//　さんざん謀略事を弄んできた奴が、責任も\r\n//取らんで」\r\n\"How am I supposed to go on living, useless, after everything I did to make it this far? How am I supposed to face all the people who paid for my schemes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4000,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110180a11'>\r\n//「しかし」\r\n\"But, Your Highness...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4136,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110190a10'>\r\n//「わしも恥を知ってる。\r\n//　おまさんも知ってるはずえ」\r\n\"I've still got some dignity.\r\n  I know you do too.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110200a10'>\r\n//「あの戦場でわしらが<RUBY text='ひと'>人間</RUBY>のままでいられた\r\n//んは、そいつを忘れなかったからやないか。\r\n//　そやろ……？」\r\n\"Back in the war, that hell... shame was all that kept us human. I don't want to forget it now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4748,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110210a11'>\r\n//「宮殿下……」\r\n\"I understand. However―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4893,
+  "en": "\r\n//【ｅｔｃ／十傑Ａ】\r\n<voice name='ｅｔｃ／十傑Ａ' class='その他男声' src='voice/mb03/0110220e111'>\r\n//「良い覚悟だ。\r\n//　では名誉ある死を迎えて頂くことにしよう。\r\n//舞殿宮春煕親王殿下」\r\n\"Well said! If it is a noble death you desire, Your Highness, then it shall be my honor to provide one!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5257,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110230a11'>\r\n//「何っ――」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5381,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110240a10'>\r\n//「誰や!?」\r\n\"Who's there!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5517,
+  "en": "\r\n//【ｅｔｃ／十傑Ａ】\r\n<voice name='ｅｔｃ／十傑Ａ' class='その他男声' src='voice/mb03/0110250e111'>\r\n//「くっくっく……オレは小弓十傑が一人。\r\n//　人呼んで天敗星の」\r\n\"Heh heh heh! It is I, first of the Ten Heroes of Oyumi! The undefeated―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5821,
+  "en": "\r\n//【ｅｔｃ／十傑Ａ】\r\n<voice name='ｅｔｃ／十傑Ａ' class='その他男声' src='voice/mb03/0110260e111'>\r\n//「ギャアアアアアアアアアアアアア!?」\r\n\"GYAAAAAAAAAAAAAA!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6031,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110270a02'>\r\n//「背中ががら空きだ。\r\n//　間抜け」\r\n\"Your back was wide open, dumbass.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6213,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110280a10'>\r\n//「一条くん！」\r\n\"Ichijo!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6350,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110290a11'>\r\n//「景明……」\r\n\"Kageaki...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6478,
+  "en": "\r\n//　一条は太刀を正宗へ戻すと、死骸を邪魔そうに<RUBY text='ど'>退</RUBY>か\r\n//して室内へ踏み入った。\r\n//　その後に続いて俺も入る。\r\n  Ichijo kicks the body aside and steps into the room, sheathing her sword as she does. I enter behind her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6777,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110300a10'>\r\n//「……よう来てくれたねえ」\r\n\"Boy, am I glad you're here!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6952,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110310a00'>\r\n//「危ういところでしたか」\r\n\"I apologize for not arriving sooner. It seems we were nearly too late.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7158,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110320a11'>\r\n//「ああ。\r\n//　この男、小弓の者だと言っていた……」\r\n\"It was close. This man was sent from Oyumi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7374,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110330a11'>\r\n//「今川雷蝶の放った刺客に間違いない」\r\n\"Apparently, with orders to kill His Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7573,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110340a00'>\r\n//「……では……」\r\n\"You mean...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7708,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110350a11'>\r\n//「軍事行動を準備中という情報もある。\r\n//　……彼は我々を滅ぼすことに決めたようだ」\r\n\"The general is preparing to march on Kenchoji. He means to kill us all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8000,
+  "en": "\r\n//　俺は思わず面を伏せた。\r\n\r\n//　……最悪の事態になってしまった。\r\n//　とうとう。\r\n  So, the worst has come to pass. I lower my head in shame.\r\n\r\n//　己で招いた事に責任を取る、その覚悟は出来ている。\r\n//　だが、それが己一人で済まないのは問題だった。\r\n  Would that I alone could pay the price for my failure, but that is not an option. The most I can hope for now is to keep His Highness and the commissioner alive.\r\n\r\n//　この場の人々について、せめて生命の安全は確保せ\r\n//ねばならない……。\r\n//　俺は気持ちを立て直して、顔を上げた。\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8681,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110360a00'>\r\n//「そういう事であれば、猶予は一刻も許され\r\n//ません。\r\n//　宮殿下、どうか脱出の御支度を。不肖この\r\n//景明が警護仕ります」\r\n\"Your Highness,\" I say, raising my eyes, \"it is imperative that we get you out of the city. I will escort you to the best of my ability.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9090,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110370a10'>\r\n//「そう言うてくれるのは、嬉しいけどな」\r\n\"That's real nice of you, <br>kid...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9291,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110380a11'>\r\n//「……景明。\r\n//　宮殿下は、ここへ残られる」\r\n\"...His Highness is remaining here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9489,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110390a00'>\r\n//「それは！」\r\n\"Sir!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9612,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110400a10'>\r\n//「ほれ。わし、こんなんでも帝の一族やろ？\r\n//　国民の手前、あんましみっともない真似は\r\n//できなくてなぁ」\r\n\"Hey, you know how it is. I'm a prince. Gotta set an example for my people.\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9949,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110410a10'>\r\n//「最後の始末くらいきっちりつけんと……」\r\n\"And that means finishing what I started.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10158,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110420a00'>\r\n//「署長！」\r\n\"Commissioner, please!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10294,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110430a11'>\r\n//「私も脱出をお勧めした。\r\n//　しかし……それが誇りの喪失を意味すると、\r\n//宮殿下がお考えならば」\r\n\"I've tried. But if honor demands that His Highness remain...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10594,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110440a11'>\r\n//「私はその御意思を尊重する。\r\n//　舞殿宮殿下の<RUBY text='しまい'>仕舞</RUBY>を見届け、殉じよう」\r\n\"So be it. I shall attend him for this performance, even if it is to be his last.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10907,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110450a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11031,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110460a10'>\r\n//「勿論、景明くん達が付き合うこたない。\r\n//　署長、おまさんもな。もう充分世話焼いて\r\n//もろたし」\r\n\"There's no reason for you to join us, kid. And I mean, that goes for you too, Chief. You've done more than enough for me already.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11409,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110470a11'>\r\n//「ええ。色々御世話をさせて頂きました。\r\n//　この際ですから最後までお付き合いします。\r\n//どのみち私が見逃されることもないでしょう\r\n//からね」\r\n\"Yes, it has been my privilege to serve you. I will not abandon it now.\r\n  Either way, I can't imagine they'll let me go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11833,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110480a00'>\r\n//「自分も――」\r\n\"Then let me―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11968,
+  "en": "\r\n//　せめて、最低限の責任だけは――\r\n  At least, let me do what I can!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12065,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110490a10'>\r\n//「あかんえ。\r\n//　おまさんにはやることがあるやろう？」\r\n\"No. You've got bigger fish to fry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12287,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110500a00'>\r\n//「……宮殿下」\r\n\"But, Your Highness...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12429,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110510a11'>\r\n//「銀星号の件を頼む。\r\n//　あれを止められるのはお前だけだ。景明」\r\n\"Stop Ginseigo, Kageaki. You're the only one who can.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12675,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110520a00'>\r\n//「署長……」\r\n\"I...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12797,
+  "en": "\r\n//　俯く。\r\n//　重い無力感に、頭を押し付けられる心地だった。\r\n\r\n//　何もできないのか。\r\n  Guilt presses down upon me, bowing my head toward the floor.\r\n\r\n  Though the prince is kind enough to deny it, the fact is that my actions brought this upon them. I was in a position to prevent it, and failed.\r\n\r\n//　この事態を招いた責任の一端は間違いなく俺にある。\r\n//　俺のやりよう次第でこの帰結は変えられた。\r\n\r\n//　にも拘わらず、俺はここで何もできないのか。\r\n//　ただ落ち延びるだけか。\r\n  Must I leave them to pay the price? Am I truly so worthless?\r\n\r\n//　銀星号を<RUBY text='おと'>墜</RUBY>す、その使命の為に。\r\n//　確かにそれは他の何物にも代えて果たさねばならぬ\r\n//俺の責務だ。\r\n  I know. My duty is to defeat Ginseigo. Compared to that, everything else is trivial.\r\n\r\n//　だが……\r\n//　それでも、しかし……\r\n  But still...\r\n\r\n  Still, I...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13827,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110530a02'>\r\n//「行きましょう、湊斗さん」\r\n\"We should go, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13984,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110540a00'>\r\n//「一条……」\r\n\"Ichijo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14109,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110550a02'>\r\n//「下総へ。\r\n//　小弓公方今川雷蝶を殺しに」\r\n\"To Shimosa, I mean. I'm gonna kill Imagawa Raicho.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14320,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110560a00'>\r\n//「――!?」\r\n\"...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14439,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110570a10'>\r\n//「へっ……」\r\n\"Uh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14571,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110580a11'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14695,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110590a02'>\r\n//「先手を打つんです。\r\n//　殺される前に殺す」\r\n\"We strike first. Kill him before he kills us.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110600a02'>\r\n//「そうすればみんな解決します」\r\n\"That'll solve all our problems. Right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15079,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110610a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15203,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110620a10'>\r\n//「そりゃ……まぁ……\r\n//　けど、なぁ……」\r\n\"I mean...㉓<I>maybe...</I> but...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15407,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110630a11'>\r\n//「……仮にそれが成功するとしてもだ。\r\n//　次は篠川、堀越の両公方が――」\r\n\"Even if you succeed, that still leaves Sasagawa and Horigoe. The last two generals won't―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15704,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110640a02'>\r\n//「ならそいつらも殺せばいい」\r\n\"I'll kill them too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15865,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110650a00'>\r\n//「一条、」\r\n\"Ichijo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15987,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110660a02'>\r\n//「どうせ六波羅は滅ぼすんです。\r\n//　<RUBY text='・・・・・・・・'>奴等は悪ですから</RUBY>」\r\n\"They're evil. For six years, those jackals have been bleeding us dry. They were always gonna have to go.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110670a02'>\r\n//「あの山犬どもがこの六年間やってきた事を\r\n//思えば、滅ぼす以外の選択肢なんて最初から\r\n//なかった。\r\n//　予定よりもそれが少し早まるってだけです」\r\n\"Turns out that was sooner rather than later. That's all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16673,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110680a02'>\r\n//「奴等を滅ぼして、この国を正しく立て直し\r\n//ましょう」\r\n\"So let's finish them off and set things right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16898,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110690a10'>\r\n//「…………。\r\n//　けど六波羅が<RUBY text='の'>無</RUBY>うなったら、進駐軍の天下\r\n//になってしまうよ？」\r\n\"...But without Rokuhara, there's nothing left to stop the Brits from taking over.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17228,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110700a02'>\r\n//「……そうでした。\r\n//　あの連中も大和を私物化したいんでしたね。\r\n//そのために六波羅を野放しにしてた……」\r\n\"...Oh, right. I almost forgot. They think Yamato belongs to them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17548,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110710a02'>\r\n//「なら、あいつらもこの国から叩き出します」\r\n\"Don't worry. I'll send them packing too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17751,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110720a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17869,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110730a10'>\r\n//「……そ……\r\n//　そら、ちょっと、無茶やないか……？」\r\n\"You're taking on an awful lot here...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18094,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110740a02'>\r\n//「できます。\r\n//　あたしは古河公方を斃した」\r\n\"I can handle it, just like I handled the monk.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18304,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110750a02'>\r\n//「――きっと誰もそんなことができるなんて\r\n//思ってなかった。\r\n//　でもあたしはやれた」\r\n\"Everyone thought he was untouchable. But I killed <br>him.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110760a02'>\r\n//「だから、できる。\r\n//　<RUBY text='・・・・・・・・・・'>この世の悪を滅ぼせる</RUBY>」\r\n\"I can kill them too.\r\n  <I>All of them!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18840,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110770a02'>\r\n//「目の前にある悪を……\r\n//　どうしようもないから、仕方ないからって\r\n//言って、見逃してやる必要はもう無いんだ」\r\n\"I don't have to pick my battles anymore. I don't have to let it go. Everywhere there's evil... I'll crush it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19210,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110780a02'>\r\n//「あたしと正宗……それに湊斗さんがいれば。\r\n//　絶対、誰にも負けないから」\r\n\"As long as you're with us,\" she smiles at me, \"Masamune and I won't lose to anyone!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19502,
+  "en": "\r\n//　凛とした声は、とうとう。\r\n//　全ての反駁を封殺した。\r\n  We are left without reply.\r\n\r\n//　何も言い返せない。\r\n//　言うべきことはある。ある筈だ……少女のあまりに\r\n//無謀な信仰には、何かを。\r\n  There is more that I could say―more that I should―<br>regarding the madness of which she speaks. There must be. But the strength in her voice will not permit me to speak it, nor even to form the thoughts.\r\n\r\n//　だが声にならない。\r\n//　俺は<RUBY text='けお'>気圧</RUBY>されていた。親王と署長も大同小異だろう。\r\n\r\n//　今の一条は昔日の彼女ではない。\r\n//　つい昨日の、殺人の恐怖に震えていた彼女とも違う。\r\n  She has changed. She is no longer the girl who trembled in my arms, crushed beneath the weight of her deeds.\r\n\r\n//　かつて彼女には意思だけだった。\r\n//　正義を貫くという意思だけがあった。暴力で弱者を\r\n//踏みにじる者を許したくないという意思だけがあった。\r\n  Nor is she the girl for whom justice was merely a dream.\r\n\r\n  Before, she had only an idea, a childlike vision of vanquishing the evils of this world. It was distant, insubstantial―because it had not been㉒<I>tested.</I>\r\n\r\n//　それは子供の浮薄な夢に過ぎなかった。\r\n//　一つの事実もなく、そもそも実現するに至る手段も\r\n//持ち合わせていなかった。\r\n\r\n//　今は違う。\r\n  Now it has. And now she knows. It's not just a dream. She <I>can</I>㉓smite the wicked whom no earthly power could touch.\r\n\r\n//　彼女には自信がある。\r\n//　己が邪悪を滅ぼし得るという確信がある。\r\n\r\n//　力に驕り、法にも囚われぬ巨悪を、\r\n//　我が刃で断罪するという自負がある。\r\n\r\n//　彼女は遊佐童心を討伐した。\r\n//　その行為、殺人への恐れも、今や<RUBY text='ちから'>意思力</RUBY>ずくで踏み\r\n//越えた。\r\n  By slaying Yusa Doshin, and by overcoming the horror of that deed, she has at last truly become what she desired to be.<K>\r\n  An instrument of justice.\r\n\r\n//　そして少女は生まれ変わった。\r\n//　<RUBY text='・・・・・・・'>正義の執行者へ</RUBY>。\r\n\r\n//　綾弥一条が望んでいたものへ。\r\n//　遂に、彼女は届いたのだ……。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21908,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110790a00'>\r\n//「……一条――」\r\n\"Ichijo―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22041,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0110800b28'>\r\n//「流石は正宗様。\r\n//　そのお言葉を聞き、わたくしも迷いが無く\r\n//なりました」\r\n\"Praised be Masamune's Chosen! Your words have banished the fear from my heart.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22329,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110810a00'>\r\n//「なっ……\r\n//　貴方は!?」\r\n\"M- My lady!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22476,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0110820a02'>\r\n//「姫さま!?」\r\n\"What are you doing here!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22618,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110830a10'>\r\n//「あ、桜子さん。\r\n//　そうそう、この人のこと話すの忘れとった」\r\n\"Oh, sorry. I forgot to tell you.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110840a10'>\r\n//「景明くん達とは普陀楽で付き合いがあった\r\n//そうやね？」\r\n\"This is Sakurako. I think you met, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23074,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110850a00'>\r\n//「は……いささか」\r\n\"Yes. We certainly did.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23223,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110860a10'>\r\n//「桜子さんはな、あの晩のどさくさに紛れて\r\n//うまく脱出してきはったんや。\r\n//　そのあと、この建朝寺にわしを頼って来て\r\n//くれたんでな。匿ったげてる」\r\n\"Well, she managed to escape while you were causing a ruckus. Then she showed up here, asking for my help, so we hid her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23668,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110870a11'>\r\n//「この寺も幕府の動揺を受けて風向きが変わ\r\n//りつつある部分があるのでな。\r\n//　これくらいの事は見逃してもらえる」\r\n\"Things are changing here too, with Rokuhara on the back foot. The priests are willing to turn a blind eye.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24038,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0110880a00'>\r\n//「何と……。\r\n//　しかし、よくもあの城から抜け出せたもの\r\n//です」\r\n\"Incredible... How did you ever escape?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24271,
+  "en": "\r\n//　荒事の嗜みは無かろう姫御前の身で。\r\n//　俺達の起こした騒ぎに乗じたと云うが、それにして\r\n//も。\r\n  The lady obviously has no martial training. Even accounting for any cover we might have provided, it must have been terribly difficult.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24564,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0110890b28'>\r\n//「そのことにつきましては……\r\n//　まだ、宮殿下にもお話ししておりませんで\r\n//したけど」\r\n\"Concerning that... there is one thing that I have yet to tell His Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24864,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110900a10'>\r\n//「うん？」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24991,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0110910b28'>\r\n//「童子。おいでなさい」\r\n\"Allow us to explain.\r\n  Doji?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25153,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0110920b26'>\r\n//「はっ、義姉上」\r\n\"Here, sister.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25290,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110930a10'>\r\n//「……こ、このお人は？」\r\n\"Whoa! Who's this!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25453,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0110940b26'>\r\n//「御尊顔を拝し奉り恐悦の極み。\r\n//　某は岡部弾正が一子にて、<RUBY text='くろのせどうじ'>黒瀬童子</RUBY>の名を\r\n//称する者にございます」\r\n\"Please accept my most humble greetings, Your Highness. I am called Kuronose Doji. Okabe Yoritsuna was my father.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25853,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0110950b28'>\r\n//「わたくしの、腹違いの弟です」\r\n\"Doji is my younger half-brother.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26030,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0110960a10'>\r\n//「何やて!?\r\n//　け、けど、頼綱さんの息子はみんな殺され\r\n//はったはずじゃあ……？」\r\n\"Really!? But I heard they killed all of Yoritsuna's <br>sons...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26320,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0110970b26'>\r\n//「我が母は身分卑しく、加えて<RUBY text='とがにん'>科人</RUBY>の係累で\r\n//もありました。\r\n//　そのため父は、某の存在を公には秘し――」\r\n\"My mother was lowborn, and worse, a convict's child. The truth of my parentage was never made public.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26706,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0110980b28'>\r\n//「一族の者と限られた重臣達にのみ、この者\r\n//が岡部の血に連なる男子であることを伝えて\r\n//いたのです」\r\n\"Only the members of our family knew, as well as my father's most trusted vassals.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27033,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0110990a11'>\r\n//「それで六波羅の誅戮を免れたと……！」\r\n\"So Rokuhara didn't know to look for you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27232,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111000b26'>\r\n//「左様にござる」\r\n\"Precisely.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27366,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111010b28'>\r\n//「猪苗代で父が大鳥獅子吼に滅ぼされた後は、\r\n//この<RUBY text='おとうと'>義弟</RUBY>が各地に散った残党を取りまとめて\r\n//おりました。\r\n//　その一部が、普陀楽にも潜入していて……」\r\n\"Ever since our father fell over Inawashiro, Doji has led the scattered remnants of our rebellion. That night, he and a few of his men had infiltrated the castle.\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27878,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111020b26'>\r\n//「遊佐童心めが果てたあの夜に行動を起こし、\r\n//義姉の身柄を奪回したという次第にござる」\r\n\"We'd been planning to rescue my sister for weeks. It just so happened that our attempt coincided with your attack on Yusa Doshin.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28234,
+  "en": "\r\n//　……それでか！\r\n//　あの夜、天守閣からの脱出に少なからぬ時間を費や\r\n//したにも拘わらず、空域が封鎖されていることもなく\r\n//一条を抱えて逃げ出せたのは――\r\n  So that's what happened! I've wondered how we managed to escape so cleanly; by all rights, Rokuhara should have closed the airspace while I was still fumbling around in the keep. But if the castle's forces were occupied with Kuronose...\r\n\r\n//　こちらと同時に事を起こした彼らに撹乱され、軍の\r\n//管制が失われていたからだと考えれば納得もゆく。\r\n//　……知らず知らず、助け合っていたわけだ。\r\n  It turns out we had more allies than we thought, though neither of us knew the other was there.\r\n\r\n  As I marvel at this twist of coincidence, Lady Sakurako bows to Ichijo.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29107,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111030b28'>\r\n//「わたくしどもが首尾よく逃がれられたのは、\r\n//あの狡猾な公方が足止めされていたからこそ\r\n//のこと……。\r\n//　正宗様、心より御礼申し上げます」\r\n\"If you had not kept the general occupied, I doubt I would be here now. You have my eternal gratitude.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29512,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111040b26'>\r\n//「まことに。\r\n//　我らは最後まで見届けること叶いませなん\r\n//だが、彼奴めを遂には討ち果たされたことも\r\n//伺っており申す」\r\n\"Indeed. When I heard you'd slain that vermin, I nearly wept for joy.\"\r\n\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111050b26'>\r\n//「義姉に恥辱を与えたあの破戒僧めを……\r\n//　よくぞ討ち取って下された。某からも御礼\r\n//申し上げる」\r\n\"I only regret that I could not see him suffer for what he did.\r\n  Be that as it may, you have my deepest thanks as well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30209,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111060a02'>\r\n//「あ、ああ……うん」\r\n\"S- Sure. No problem.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30359,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0111070a00'>\r\n//「……宮殿下？」\r\n\"Your Highness, did you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30508,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111080a10'>\r\n//「うん。教えたの、わしや。\r\n//　これこれこういう姿形の武者が遊佐童心と\r\n//一騎打ちしてたけど心当たりはないか、って\r\n//訊かれたもんで」\r\n\"Oh, yeah. When she showed up, she was asking about this musha who'd been seen fighting the general.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111090a10'>\r\n//「そら一条くんの正宗やないかって答えたら、\r\n//桜子さん、それは一媛って名前で普陀楽城に\r\n//いる人じゃないかって言うて」\r\n\"And I said, hold on, that sounds like our Ichijo. And right away, she guessed I was talking about this girl she'd met, Ichihime.\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31315,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111100b28'>\r\n//「ええ。\r\n//　何となく、偽名っぽいとは思っていました\r\n//から」\r\n\"I had a feeling that wasn't your real name.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31547,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111110a10'>\r\n//「何や知ってるやないか、てな感じで……\r\n//　結局、全部話してもうたわ」\r\n\"Anyway, it sounded like you knew each other, so I wound up telling her everything.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31841,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0111120a00'>\r\n//「……成程」\r\n\"...I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31968,
+  "en": "\r\n//　まぁ、この相手に明かされて困るような話でもない\r\n//のは確かだが。\r\n  I suppose it can't hurt, I think as I take in their appearance.\r\n\r\n//　岡部の遺児二人を改めて見直す。\r\n//　桜子姫は以前と変わりない――いや、そんなことは\r\n//ないか。逆境を味わったことによる陰と、それを踏み\r\n//越えたことによる強さとが今は垣間見える。\r\n  At first glance, Lady Sakurako seems unchanged, but of course that is not the case. Her eyes are darker than before, shadowed by the trauma of her ordeal, but also stronger for having overcome it.\r\n\r\n//　黒瀬童子なる人物の方は、全身を覆い尽くす漆黒の\r\n//軍装のため容貌が判然としない。\r\n//　が、桜子姫の弟であるならまだ若年だろう。身体の\r\n//育ち具合からして二十歳前後か。\r\n  The man called Kuronose, meanwhile, is a mystery, his features hidden beneath layers of black cloth. Still, she introduced him as her younger brother, and the lines of his body suggest early twenties at most.\r\n\r\n//　彼もこちらを観察している。\r\n//　取りあえず、陰惨な風貌の男には余り好意を抱かな\r\n//かったらしい。視線は一通り値踏みだけして、すぐに\r\n//俺から外される。\r\n  He is appraising me as well, though I get the impression that he does not like what he sees. Unsurprising. I cut a rather bleak figure.\r\n\r\n  Ichijo, however... When, after a moment, Doji turns to regard the girl beside me, it is with the same profound respect that he has clearly held for her from the start.\r\n\r\n//　しかしその隣、ひたむきな眼差しの少女に対しては\r\n//全く違った。最初から敬意があった。\r\n//　一条のいっこう武者らしくない矮躯を見て、むしろ\r\n//それは深まったらしい。\r\n  The sight of her entirely un-musha-like appearance has not diminished it. If anything, his admiration has grown to see her as she truly is.\r\n\r\n//　良くぞその小さな体で――と云うような嘆息を洩ら\r\n//して、彼は目礼した。\r\n//　双眸が一種の崇拝に近い色彩を<RUBY text='たた'>湛</RUBY>えている。\r\n\r\n  An admiring breath escapes his mask. What courage it must take, his sigh seems to say, to face such great foes with a body so small.\r\n\r\n  He lowers his eyes, a worshipful gesture. His sister speaks into the silence.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34436,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111130b28'>\r\n//「正宗様」\r\n\"Brave warrior.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34565,
+  "en": "\r\n//　それは彼の姉も同じだった。\r\n  Her voice holds the same deep regard.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34662,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111140b28'>\r\n//「お願いがございます」\r\n\"We have a request.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34813,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111150a02'>\r\n//「……何ですか？」\r\n\"...You do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34950,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111160b28'>\r\n//「あなた様の義挙に、どうか我々岡部の一党\r\n//をお加え下さい。\r\n//　決して足手纏いにはなりません」\r\n\"We ask that you allow us to join your crusade. The children of Okabe shall not fail you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35278,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111170a02'>\r\n//「え？\r\n//　……でも……」\r\n\"You? But you said...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35435,
+  "en": "\r\n//　確認するように、一条がこちらを見る。\r\n//　内心の疑問はその視線だけで通じた。\r\n\r\n//　俺も同じ事を思ったからだが。\r\n//　姫は確か、敗北しながらなお抗うが如きを武門の恥\r\n//とし、自ら戒めていた筈――\r\n  Ichijo shoots me a glance. I know what she is asking, largely because I am wondering the same.\r\n\r\n  To continue a lost struggle is an affront to honor. So the lady professed.\r\n\r\n  Will she forsake that oath?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35945,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111180b28'>\r\n//「はい。\r\n//　悪足掻きは岡部の家名を汚すばかり………\r\n//わたくしはそう申しましたし、今もその考え\r\n//は変わっておりません」\r\n\"That hasn't changed. The honor of Okabe will not brook further sacrifices made in its name.\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111190b28'>\r\n//「ですから、岡部の旗は掲げず……\r\n//　ただ正宗様を仰いで戦いたいのです」\r\n\"And so we will not fight beneath the banner of Okabe... but beneath the banner of Masamune!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36602,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111200a02'>\r\n//「それは……」\r\n\"Are you sure?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36736,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111210b28'>\r\n//「……生きているからには、責任を投げ捨て\r\n//てはいられない。そう思い直しました。\r\n//　許すべからざるものがいるなら、戦わねば\r\n//ならないと」\r\n\"I've come to realize that there is no excuse for complacence. For as long as we live and there is evil, we must fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37158,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111220b28'>\r\n//「六波羅は滅ぼすべきです」\r\n\"Rokuhara must be destroyed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37324,
+  "en": "\r\n//　そう言い切った、桜子姫の瞳には――\r\n//　自身の味わわされた屈辱が映っていた。\r\n  Her eyes, as she declares her hate, are fixed upon that grisly stage. Yet it is not the desire for vengeance which drives her. If it were, Yusa Doshin's death would have quenched it.\r\n\r\n\r\n//　しかしそれは、ただ己一人の復讐心を意味していな\r\n//かった。\r\n//　もしそうであったなら、遊佐童心の死をもって消え\r\n//ていただろう。\r\n\r\n//　彼女の眼は己の恥辱を通してより広くを見ている。\r\n//　大和全土の、同じ――あるいはそれ以上の――屈辱\r\n//を味わったであろう人々を視野に捉えている。\r\n\r\n//　彼らを生んだのは六波羅幕府。\r\n//　搾取、弾圧、殺戮と、言い訳のできぬ悪政を六年に\r\n//渡って繰り広げてきた軍事政権。\r\n  Instead, she has transformed her suffering into a window on Yamato at large. All across this country, the innocent and helpless are suffering as she did. In many cases, far worse.\r\n\r\n  Six years of oppression, of bereavement, of slaughter beneath the Rokuhara yoke. It must end, she says―not as Okabe Yoritsuna's daughter, but as simply another human being. Her position and Ichijo's are the same.\r\n\r\n//　――許せない、と。\r\n//　滅びた名門の姫としてではなくただ一個人として、\r\n//岡部桜子は言った。\r\n\r\n//　つまりは、綾弥一条と同じように。\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38838,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111230a02'>\r\n//「姫さま……」\r\n\"Lady...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38966,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111240b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39084,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111250a02'>\r\n//「一緒にやりましょう。\r\n//　六波羅の犬どもを、叩き潰す」\r\n\"Okay. Let's do it. Let's wipe 'em out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39304,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111260b28'>\r\n//「はい！」\r\n\"Thank you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39429,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111270b26'>\r\n//「では、各地の同胞に檄を飛ばしましょうぞ。\r\n//　岡部の生き残りほか大小の反幕勢力、合わ\r\n//せて千ほどはすぐに集まります」\r\n\"I'll send word to our allies across Kanto. Within days, you'll have a thousand men at your command.\"\r\n\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111280b26'>\r\n//「武者もいくらかは」\r\n\"Including a number of musha.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39954,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0111290a11'>\r\n//「――いや。お待ちを。\r\n//　闇雲に事を起こしたところで、成算は」\r\n\"Wait. We can't just charge in blind. First―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40193,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111300a10'>\r\n//「……古河公方は、もうおらん。\r\n//　それで小弓公方もいなくなりよったら……」\r\n\"...Koga's lost its governor.\r\n  If Oyumi goes too...\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111310a10'>\r\n//「房総の幕軍には<RUBY text='・'>頭</RUBY>が無うなる」\r\n\"That leaves the Boso Peninsula headless.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40676,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0111320a11'>\r\n//「宮殿下？」\r\n\"Your Highness, are you saying...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40826,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111330a10'>\r\n//「六波羅は、公方の権力がえろう強い……。\r\n//　逆に言うと、公方がおらんかったら動かん\r\n//組織や」\r\n\"The four generals have all the power. Without them, it's chaos. Rokuhara can't respond.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111340a10'>\r\n//「古河と小弓が潰れた隙を狙えば、千からの\r\n//兵で房総半島を席巻できるかもしれんな……」\r\n\"And that means with a thousand men, we could have the run of Eastern Kanto.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41465,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111350b26'>\r\n//「……千というのはあくまで当座のこと。\r\n//　房総を奪い、宮殿下を戴いて全国に号令を\r\n//発すれば」\r\n\"It will not stay a mere thousand for long. When they learn that we serve the Chrysanthemum Throne, men will flock to offer their swords.\"\r\n\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111360b26'>\r\n//「忽ちのうちに、万余の軍勢が集いましょう」\r\n\"Ten thousand or more by week's end.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42031,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0111370a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42155,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111380b28'>\r\n//「では、こういう手順に……\r\n//　わたくしと童子は同志を結集、鎌倉へ引き\r\n//込み」\r\n\"If Your Highness approves, I believe we have our course. Doji and I will gather what forces we can on short notice and bring them here, to Kamakura.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42519,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111390b26'>\r\n//「宮殿下を房総へ御動座申し上げます。\r\n//　香取が宜しゅうございましょう。あそこの\r\n//宮司は父が懇意にしておりましたゆえ」\r\n\"These will escort Your Highness east. Our father was close to the head priest at Katori Shrine. I believe that will make an appropriate base of operations.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42950,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111400a02'>\r\n//「その間に――\r\n//　あたしと湊斗さんは、小弓公方今川雷蝶を\r\n//討つ」\r\n\"And while you're setting that up, we'll take care of Imagawa Raicho.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43216,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111410a10'>\r\n//「で、軍事的に孤立した房総半島を分捕る。\r\n//　……どや？　署長」\r\n\"Paving the way for our troops to take control of the peninsula. How's that for a plan, Chief?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43512,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0111420a11'>\r\n//「…………。\r\n//　随分と荒っぽい話になったものです」\r\n\"It is... certainly aggressive, Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43733,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111430a10'>\r\n//「そやなぁ。\r\n//　わしらの最初のプランとはえらい違いやね」\r\n\"You could say that, yeah. Like night and day compared to our last plan.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43998,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0111440a11'>\r\n//「……しかし、もはや仕方ありますまい。\r\n//　状況は既に<RUBY text='デッド・オア・アライブ'>生きるか死ぬか</RUBY>」\r\n\"However, this is a desperate moment. We face annihilation.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0111450a11'>\r\n//「すべて投げ捨てて死ぬのが嫌なら、生きて\r\n//戦うのみです」\r\n\"If death does not appeal to us, then we have no choice but to fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44558,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111460a10'>\r\n//「そういうことやね」\r\n\"Knew you'd say that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44717,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0111470a11'>\r\n//「懸念すべきは進駐軍の動きですが……\r\n//　こちらが親王殿下を奉戴していると知れば、\r\n//国民感情に留意するＧＨＱは直接攻撃をため\r\n//らうでしょう」\r\n\"GHQ remains a concern... but I don't believe they would risk public outcry by moving against a force which serves the emperor directly.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb03/0111480a11'>\r\n//「そこに交渉の余地はあります」\r\n\"Perhaps we can find room to negotiate.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45337,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111490a10'>\r\n//「よしよし。\r\n//　何とかいけそうやないか？」\r\n\"Cool. Then let's get this show on the road!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45553,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111500b26'>\r\n//「はッ！\r\n//　必ずや、大義は成就致しまする」\r\n\"For the future of Yamato!\r\n  Victory will be ours!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45767,
+  "en": "\r\n//　――おかしい。\r\n//　何かが、変だ。\r\n  Something is wrong.\r\n\r\n//　いや……俺がおかしいのか。\r\n//　どうしてか、<RUBY text='・・'>彼ら</RUBY>が遠い。\r\n\r\n//　一つの意思のもとに<RUBY text='まと'>纏</RUBY>まりつつあるこの空間で、俺\r\n//だけが醒めている。\r\n  As a heat grows to encompass the room, joining all beneath one will, my heart alone remains cold.\r\n\r\n  What is happening to me?\r\n\r\n  Why do they feel so㉓<I>distant?</I>\r\n\r\n//　……遣り場のない視線が、ふと、それを捉えた。\r\n//　とうに息を止め、硬直し始めている刺客の骸。\r\n  My gaze, seeking answers, finds the other anomaly: the would-be assassin's corpse, rigor beginning to grip his limbs.\r\n\r\n//　まさに一刀両断。\r\n//　迷いの片鱗もない太刀筋だ。\r\n  Ichijo slew him with a single stroke―a㉓<I>perfect</I> stroke, absent quarter.\r\n\r\n//　一条はもう迷わないのだろう。\r\n//　迷わずに戦い続ける。\r\n  She will not hesitate to fight, not ever again. Neither will those whom she has inspired.\r\n\r\n  Sakurako, Kuronose, the commissioner, the prince. They will all ride into battle behind her without the slightest glimmer of doubt.\r\n\r\n//　桜子姫、黒瀬童子、署長、親王……彼らも同じだ。\r\n//　迷わず戦う意思がある。\r\n//　俺だけが、\r\n//　\r\n//　迷うのか？\r\n\r\n  And me? Will I doubt?\r\n\r\n//　いや――迷う必要などない。\r\n//　一条の助けがあれば、俺は呪いに縛られずに済むの\r\n//だし。\r\n  Ichijo has saved me from my curse. Though I played a role in the death of Yusa Doshin, the Law of Balance has exacted no price. My hands, in this, remain unstained with innocent blood―a fact which inspires in me relief such as I have not known for years.\r\n\r\n//　現に、遊佐童心を死に至らしめたが、俺はその代償\r\n//としての死を誰にも求めていない。\r\n//　善なる人は誰も殺していない。\r\n\r\n//　その事に、俺の精神は深く安堵している。\r\n//　\r\n//　\r\n//　なら――良いのではないか。\r\n\r\n  So this is a change to be welcomed. Isn't it? Why shouldn't I continue on this path?\r\n\r\n//　今川雷蝶とて罪悪に満ちた者だ。\r\n//　例えば六波羅の悪行の筆頭に挙げられる大阪虐殺に\r\n//際して彼は梅田市街を担当、地域一帯を住民ごと焼き\r\n//払って数千もの生命を奪ったという。\r\n  Yusa Doshin was only the first. Imagawa Raicho is no less a villain. During the Osaka Massacre, Rokuhara's gravest trespass, he burned Umeda City to the ground. Thousands died in the fire and smoke.\r\n\r\n//　死すべき者だと一条が云うなら、そうだと頷くより\r\n//無いだろう。\r\n//　弁護の言葉も意思も湧かない。\r\n  If Ichijo judges him worthy of death, then I have neither cause nor desire to defend him.\r\n\r\n//　何の問題がある？\r\n//　このまま一条と、親王らと、共に戦う事に何の懸念\r\n//があるのか？\r\n  But, then why this apprehension? Do I fear what Ichijo's fight―the prince's fight―will bring?\r\n\r\n//　戦いの果て、別に理想郷が出来上がるとは思わない。\r\n//　だが六波羅に支配され続けるよりは、ＧＨＱに占領\r\n//されるよりは、人々にとって暮らしやすい大和を親王\r\n//なら創ってくれるだろう。\r\n  Certainly, I am not such a fool as to believe that their struggle will birth some utopia. But whatever comes, it will surely be better than leaving Yamato to Rokuhara or the predations of the West.\r\n\r\n//　それがいけない事なのか。\r\n//　\r\n//　真逆。\r\n  A better life for Yamato's people. Is that wrong?\r\n\r\n  No. How could it be?\r\n\r\n//　正義はここにある。\r\n//　信じるに足る正義がここに存在している。\r\n  Justice is with us. This is a cause I can fight for.\r\n\r\n//　ならばその為に戦おう。\r\n//　それで――良いではないか。\r\n\r\n//　いくら戦い、いくら悪を殺しても、\r\n//　<RUBY text='・・・・・・・・・・・・・・・・・'>俺はもう善を殺さなくて良いのだから</RUBY>。\r\n  At last―<K><I>I can kill evil men without killing the good.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50081,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0111510a00'>\r\n//「――――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50223,
+  "en": "\r\n//　おかしい。\r\n//　おかしい。\r\n//　おかしい。\r\n//　おかしい。\r\n  Why?\r\n\r\n//　よりにもよって――\r\n//　<RUBY text='・・・・・・・・・'>それが納得いかない</RUBY>とはどういうわけなのだ？\r\n  Why does㉓<I>that</I>㉑make me hesitate?\r\n\r\n//　無辜の命を奪いたいとでもいうのか。俺は。馬鹿な。\r\n//　歓迎こそすれ、厭う理由が何処にある。\r\n  Do I㉒<I>want</I>㉕to kill innocents? No. No! I should be thanking Ichijo, not second guessing her!\r\n\r\n//　わからない。\r\n\r\n//　何が引っ掛かっているのか。\r\n//　何に心が迷うのか。\r\n//　\r\n//　何を――――忘れているのか。\r\n  What is wrong with me?\r\n\r\n  What―\r\n\r\n  What have I forgotten?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51008,
+  "en": "\r\n//　\r\n//　　　　　　　　　……景明……\r\n \r\n \r\n \r\n \r\n \r\n<center>...Kageaki...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51112,
+  "en": "\r\n//　何か……あったのではなかったか。\r\n//　戦いを……戒める言葉が……\r\n  Words... Precious words that once turned me from a violent course.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51293,
+  "en": "\r\n//　\r\n//　　　　敵を殺せば、戦いは終わると思う？\r\n//　　　　それは違うよ。逆だ。\r\n \r\n \r\n \r\n \r\n \r\n<center>Do you think killing your enemy will end the fight?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51496,
+  "en": "\r\n//　…………考えがまとまらない。\r\n//　雑念と雑念がぶつかり合って、頭痛すら感じる。\r\n  ...It's no use. My thoughts are meaningless static, and every time I try to bring them into order, I feel an outside force commanding me to shed doubt and armor myself in will.\r\n\r\n//　それを治めようと思う時。\r\n//　強い、引力を感じるのだ。\r\n\r\n//　心を一方向へ引き付けるもの。\r\n//　迷いを捨てさせ、強固な意志をつくらせるもの。\r\n\r\n//　……それを感じているのはきっと、俺だけではない。\r\n//　<RUBY text='・・'>彼女</RUBY>以外の全員が――彼女に対して感じているのだ。\r\n  I am not the only one who feels it. We all do―save for㉓<I>her,</I>㉓its source.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52295,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111520b26'>\r\n//「名前は如何致しましょう」\r\n\"We'll need a name.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52452,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111530a10'>\r\n//「名前？」\r\n\"We thinking up names <br>now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52605,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111540b26'>\r\n//「はっ。\r\n//　倒幕の<RUBY text='きし'>旗幟</RUBY>を鮮明にする以上、やはり軍に\r\n//は相応しき名を冠するべきかと……」\r\n\"If it please Your Highness. Now that we intend open rebellion, a name will show the world where we stand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52968,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb03/0111550b28'>\r\n//「そうですね。\r\n//　人集めにも都合が良いですし」\r\n\"I agree. It will also draw people to our cause.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53185,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb03/0111560a10'>\r\n//「そやなぁ……」\r\n\"Good point.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53329,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111570a02'>\r\n//「いや。\r\n//　名前なんて、いらない」\r\n\"No. We don't need a name.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53506,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111580b26'>\r\n//「はっ？\r\n//　……しかし、正宗殿」\r\n\"...We don't?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53667,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111590a02'>\r\n//「名前を付ければ名前に縛られる。\r\n//　名前で中身を計られる」\r\n\"A name is a label. People judge you by it. It gives them an excuse to misunderstand.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111600a02'>\r\n//「名前で誤解されるし名前で侮られる。\r\n//　だからそんなのはいらない。ただ戦うだけ\r\n//でいい」\r\n\"We don't need a name to tell people who we are. All we need to do is fight.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111610a02'>\r\n//「あたし達は名乗らず戦う。\r\n//　六波羅。進駐軍。悪なる奴ら全てと戦う」\r\n\"Rokuhara. GHQ. Every force of evil. We'll fight them all, because it's right.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111620a02'>\r\n//「その正義だけが、みんなに伝わればいい。\r\n//　その正義を知って、戦う勇気を起こした人\r\n//たちが来てくれればいい」\r\n\"When they see who we are, people will join us, because we've given them the courage to fight evil too. Those are the people we want. The <I>only</I>㉔people we want.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111630a02'>\r\n//「名前は必要ない。\r\n//　あたしたちは無名の、戦う集団だ」\r\n\"Justice is all the truth we need.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55141,
+  "en": "\r\n//　一条には別段、気負いもない。\r\n  As she finishes, an awestruck silence falls.\r\n\r\n//　しかし、誰もが息を呑んだ。\r\n//　誰もが彼女に魅入られていた。\r\n  There was no affectation in Ichijo's voice. I could tell that she was simply speaking from the heart.\r\n\r\n  And yet, we all felt it. Every one of us.\r\n\r\n  We felt the weight of <I>majesty.</I>\r\n\r\n//　その少女は<RUBY text='カリスマ'>預言者</RUBY>だった。\r\n//　人を導く言葉の持ち主だった。\r\n\r\n//　黒瀬童子が平伏する。\r\n//　完全に、<RUBY text='あるじ'>主将</RUBY>に対する姿勢を見せて。\r\n  Kuronose lowers his head to the floor, a knight swearing fealty to heaven's own herald. His voice, when he speaks, is choked with emotion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55936,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb03/0111640b26'>\r\n//「――ならば！\r\n//　我らはただ、〝正宗の軍〟と人に呼ばれる\r\n//ことでありましょう……！」\r\n\"Then we shall be known to one and all㉓<I>only</I>㉕as those who follow Masamune!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56247,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111650a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56365,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb03/0111660b40'>\r\n//《そうだ。それでいい、御堂。\r\n//　その輝ける正義の志に人は集う》\r\n《Good, Mido. Good! They shall answer your call!》\r\n\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb03/0111670b40'>\r\n//《悪<RUBY text='・'>党</RUBY>などと云うが……\r\n//　群れ集まるのは何も邪悪どもだけの特権で\r\n//はない》\r\n《Men speak of hordes as evil things, but villains are not the only ones who can find strength in numbers.》\r\n\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb03/0111680b40'>\r\n//《正義も集い、より強き正義となるのだ！\r\n//　吾らが光となる限り！》\r\n《As the righteous gather, justice grows stronger! Our light shall lead the way!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57217,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0111690a02'>\r\n//「ああ……！」\r\n\"Yeah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57343,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0111700a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57467,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb03/0111710a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ }
+]

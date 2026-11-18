@@ -1,0 +1,742 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130010a00'>\r\n//「……はい。その池谷和男くんが行方不明に\r\n//なった時のことについてお尋ねしたいのです\r\n//が」\r\n\"Yes. I would like to ask a few questions regarding the disappearance of Iketani Kazuo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 533,
+  "en": "\r\n//【ｅｔｃ／安田さん】\r\n<voice name='ｅｔｃ／安田さん' class='その他男声' src='voice/ma01/0130020e020'>\r\n//「はー。そう言われてものー。\r\n//　ありゃいつのことだったかのぉー」\r\n\"Well, you're welcome to ask, sonny... but when was that again?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 838,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130030a00'>\r\n//「約半年前。\r\n//　興隆四一年四月一九日土曜日です」\r\n\"Approximately six months ago. Saturday, April 19th, the 41st year of Koryu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1086,
+  "en": "\r\n//【ｅｔｃ／安田さん】\r\n<voice name='ｅｔｃ／安田さん' class='その他男声' src='voice/ma01/0130040e020'>\r\n//「んあー？\r\n//　そー言われてものー。ピンとこねーのー」\r\n\"Huh? Sorry. It doesn't ring a bell.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1346,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130050b56'>\r\n//「安田のじいちゃーん！\r\n//　春の<RUBY text='やぶさめ'>流鏑馬</RUBY>の前日だよー！」\r\n\"Mister Yasuda! It was the day before the archery exhibition!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1618,
+  "en": "\r\n//【ｅｔｃ／安田さん】\r\n<voice name='ｅｔｃ／安田さん' class='その他男声' src='voice/ma01/0130060e020'>\r\n//「……おう！\r\n//　そうかそうか、流鏑馬の前の日だったの、\r\n//カズ坊がいなくなっちまったのは」\r\n\"...Oh! I remember. Young Kazuo disappeared the day before the exhibition.\"\r\n\r\n//【ｅｔｃ／安田さん】\r\n<voice name='ｅｔｃ／安田さん' class='その他男声' src='voice/ma01/0130070e020'>\r\n//「なんだぁ、あんたも最初からそう言えよ」\r\n\"Why didn't you just say so?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2196,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130080a00'>\r\n//「……失礼致しました」\r\n\"...My apologies.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2345,
+  "en": "\r\n//　翌日。\r\n//　おれたちは湊斗さんをあっさり発見していた。\r\n  We have no trouble finding Officer Minato the next day.\r\n\r\n//　あの人特有のやたら悪目立ちする気配のお陰である。\r\n//　なんとなくそれらしい空気を追っていたら一時間後\r\n//には当人を目撃。\r\n  All we had to do was follow the unique aura of misfortune emanating from his every pore. It only took us an hour.\r\n\r\n//　凄い話だった。\r\n//　おれたちが、ではない。\r\n  It's something else, all right.<K>\r\n  I don't mean our tracking skills.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2947,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130090a00'>\r\n//「…………。\r\n//　自分に近付くのは危険だと、簡潔にご説明\r\n//したはずです。説明に不備、あるいは誤解を\r\n//招く箇所があったとは思えないのですが」\r\n\"...I believe I explained clearly the risk of associating with me. I do not see how any part of my explanation could have been misconstrued.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3393,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130100b56'>\r\n//「たまたまです！」\r\n\"I was just passing by!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3542,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130110b33'>\r\n//「散歩中です」\r\n\"I was out for a walk.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3684,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130120b43'>\r\n//「自分探しの旅の途中です」\r\n\"I'm on a journey to find myself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3855,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130130b56'>\r\n//「や、そういえばこんなところで偶然ですね\r\n//湊斗さん」\r\n\"But wow, what a coincidence running into you here!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4084,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130140a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4208,
+  "en": "\r\n//　軽く額を押さえて、再び歩き出す湊斗さん。\r\n//　その後ろを少し離れてついていくおれたち。\r\n\r\n//　行く方向がたまたま同じなんだから仕方ない。\r\n//　たまたま。\r\n  Officer Minato holds a hand to his forehead for a few seconds, then resumes walking. We follow at a short distance.\r\n\r\n  We all happen to be headed in the same direction. Purely coincidence, of course.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4651,
+  "en": "\r\n//　湊斗さんは学校周辺を回っていた。\r\n//　リツだけでなくこの近辺で失踪した人全般について\r\n//調査しているようだ。昨日言った通りのことを実行中\r\n//なのだろう。\r\n  The officer moves from place to place, asking about the people who've disappeared from the neighborhood. It looks like he's really doing what he said he would.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5053,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130150a00'>\r\n//「御免下さい」\r\n\"Excuse me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5184,
+  "en": "\r\n//【ｅｔｃ／駄菓子屋さん】\r\n<voice name='ｅｔｃ／駄菓子屋さん' class='その他男声' src='voice/ma01/0130160e161'>\r\n//「うぉっ!?　なんじゃいあんたはァ！」\r\n\"Whoa!? Who the devil are you!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5425,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130170b33'>\r\n//「駄菓子屋さーん。大丈夫だからー。\r\n//　ちょっと話を聞いてあげてー」\r\n\"He's with us, mister candyman! Please listen to what he's got to say!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5694,
+  "en": "\r\n//【ｅｔｃ／駄菓子屋さん】\r\n<voice name='ｅｔｃ／駄菓子屋さん' class='その他男声' src='voice/ma01/0130180e161'>\r\n//「おう、こなっちゃんじゃないか。\r\n//　なんだ、あの子の知り合いかい。あんた」\r\n\"Oh, Kona! What, you're a friend of Kona's?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6006,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130190a00'>\r\n//「……ええ」\r\n\"...Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6131,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130200a00'>\r\n//「卒爾ながら」\r\n\"Pardon the intrusion...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6275,
+  "en": "\r\n//【ｅｔｃ／大村先生】\r\n<voice name='ｅｔｃ／大村先生' class='その他男声' src='voice/ma01/0130210e166'>\r\n//「ぬぅ!?　かなり致命的に怪しい男！\r\n//　貴様、さてはこの鬼柔道、材木座の泰三に\r\n//放たれた刺客か!!」\r\n\"My god! It's the most suspicious man I've ever met! You must be an assassin sent to slay me, Lumberjack Taizo, master of demon <br>judo!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6701,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130220b43'>\r\n//「違いますー。大村先生ー。\r\n//　その人はただの怪しい人ですー」\r\n\"Don't worry, Mr. Omura! He just㉓<I>looks</I>㉒suspicious!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6952,
+  "en": "\r\n//【ｅｔｃ／大村先生】\r\n<voice name='ｅｔｃ／大村先生' class='その他男声' src='voice/ma01/0130230e166'>\r\n//「なんじゃ、ただの怪しい男か……。\r\n//　それで、わしに何か用かの？」\r\n\"Oh. Well, in that case... can I help you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7239,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130240a00'>\r\n//「…………。\r\n//　はい。少々お伺いしたいことが――」\r\n\"...<waitVoice=1000>Yes. If I might have a few moments of your time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7482,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130250a00'>\r\n//「もし、そこの方」\r\n\"Pardon me, young lady.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7631,
+  "en": "\r\n//【ｅｔｃ／女の子】\r\n<voice name='ｅｔｃ／女の子' class='その他女声' src='voice/ma01/0130260e122'>\r\n//「うわーん！　恐い人に声かけられたー！」\r\n\"Help! A scary man is talking to me!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7866,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130270b56'>\r\n//「あー、恐くない。恐くないぞう。\r\n//　ほれ、芋飴あげるから。ちょっとこの人の\r\n//おはなし聞いてあげような？」\r\n\"Now, now. He's not as scary as he looks. Here, have a potato candy and answer the nice man's questions, okay?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8233,
+  "en": "\r\n//【ｅｔｃ／女の子】\r\n<voice name='ｅｔｃ／女の子' class='その他女声' src='voice/ma01/0130280e122'>\r\n//「わーい、ありがと雄飛にいちゃん。\r\n//　それで、なあに？　おじさん」\r\n\"Thanks, Yuhi! You're the best! So what's up, mister?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8525,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130290a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8649,
+  "en": "\r\n//　何軒の家を回っただろうか。\r\n  After the umpteenth house, Officer Minato stops in the middle of the street. So do we.\r\n\r\n//　湊斗さんが立ち止まった。\r\n//　おれたちも足を止める。\r\n\r\n//　少しだけためらう素振りをみせた後、湊斗さんは<RUBY text='きびす'>踵</RUBY>\r\n//を返してこちらへ向かってきた。\r\n//　おれの半歩前で立ち止まる。\r\n  He stands motionless for a few moments, perhaps considering his options, then turns around and walks up to me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9197,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130300a00'>\r\n//「お話があります」\r\n\"I have something I'd like to say.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9357,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130310b56'>\r\n//「実はおれもあります」\r\n\"So do I, actually.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9508,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130320a00'>\r\n//「では、お先にどうぞ」\r\n\"Please, after you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9659,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130330b56'>\r\n//「ありがとうございます」\r\n\"Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9805,
+  "en": "\r\n//　ぺこりと一礼して、息を吸う。\r\n//　それから告げた。\r\n  I bow, pause to inhale, then say―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9934,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130340b56'>\r\n//「湊斗さん、警官に向いてないスね」\r\n\"You're not really cut out for detective work, are you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10139,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130350a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10263,
+  "en": "\r\n//　あ。落ち込んだ。\r\n//　どうも自覚はあったらしい。\r\n  Wow, he looks really depressed. I guess he didn't need me to tell him that.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10429,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130360a00'>\r\n//「……そのご指摘には返す言葉を持ちません。\r\n//　自分の非才を痛感するばかりです」\r\n\"I am... unable to refute your observation. I can only lament my lack of talent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10726,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130370b43'>\r\n//「いやぁ、才能の問題ではないような」\r\n\"I don't think talent's the problem here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10920,
+  "en": "\r\n//　忠保に賛成。\r\n  I couldn't agree more.\r\n\r\n//　地元民ではない湊斗さんは捜査にも色々と難儀する\r\n//だろう、そこをフォローできれば……くらいに考えて\r\n//いたのだが。\r\n//　それどころの問題ではなかった。\r\n  We expected he might hit a few roadblocks in his investigation, seeing as he's not from around here, but it looks like there's an even bigger problem.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11363,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130380b33'>\r\n//「こう言うと自惚れてるみたいでイヤだけど、\r\n//わたしたちがいなかったら、ほとんどの人に\r\n//話聞けてないような……」\r\n\"This feels a little like bragging... but if it weren't for us, I don't think you could've questioned <br><I>anyone.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11749,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130390a00'>\r\n//「いえ。まったくもってその通りでしょう。\r\n//　それを踏まえて、お伺いします」\r\n\"Of that I have no doubt. In light of which fact, I would ask a question.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12033,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130400b56'>\r\n//「はい」\r\n\"Please.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12152,
+  "en": "\r\n//　ちょっと居住まいを正す。\r\n//　往来の真ん中だが。\r\n  Officer Minato faces us square-on, as though we were in a formal interview rather than the middle of a busy street.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12358,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130410a00'>\r\n//「新田雄飛さん。\r\n//　来栖野小夏さん。\r\n//　稲城忠保さん」\r\n\"Nitta Yuhi. Kurusuno Konatsu. Inagi Tadayasu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12586,
+  "en": "\r\n//　湊斗さんは昨日頭をぶん殴られた直後に一度聞いた\r\n//だけのはずの名前を、完璧に覚えていた。\r\n  He remembers our names perfectly, even though he only heard them once, and right after being conked on the head.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12849,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130420a00'>\r\n//「貴方がたは、飾馬律さんの捜索を中止する\r\n//つもりはないのですね？」\r\n\"Am I to understand that you have no intention of ceasing your search for Kazama Ritsu?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13135,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130430b56'>\r\n//「ありません」\r\n\"That's right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13269,
+  "en": "\r\n//　きっぱりと答える。\r\n//　この点は揺るぎなかった。\r\n  My answer is immediate. There's no backing down on this point.\r\n\r\n//　が、これで終わっては人を説得などできない。\r\n//　おれは続けるべき言葉を頭の中から探した。\r\n  But I can hardly expect to persuade him just like that. I wrack my brain for the right words.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13658,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130440b56'>\r\n//「湊斗さんが正しいのはわかります。\r\n//　でも、それでもおれは……リツを探すこと\r\n//が間違ってるとは思えなくて。それは、おれ\r\n//たちがすべきことなんじゃないかって……」\r\n\"I know what you said was right. But still, I don't believe looking for Ritsu is wrong. I just feel like it's something we have to do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14134,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130450b56'>\r\n//「……すいません。巧く言葉になんないです。\r\n//　でもおれはリツを探すために何かしたいし、\r\n//そうするべきだとも思うんです」\r\n\"...Sorry. I know I'm not doing a good job of explaining myself. But I want to help find her, no matter what.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14521,
+  "en": "\r\n//　あぁ。こんなことしか言えないのねおれって奴はァ。\r\n  Damn! Why can't I come up with anything better to say!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14669,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130460b43'>\r\n//「僕も同意見です。\r\n//　いまのが意見としての体裁を整えていたか\r\n//どうかは議論の対象になるでしょうが、それ\r\n//はともかく」\r\n\"I agree with him, never mind whether his explanation actually qualifies as such.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15026,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130470b33'>\r\n//「知性と教養の存在を根本から疑いたくなる\r\n//説明でしたけど、フィーリングとかそういう\r\n//ところでは同意できます」\r\n\"I know you're probably questioning the very concept of intelligent life right now, but I think we all feel the same way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15410,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130480b56'>\r\n//「おまえら……」\r\n\"You guys...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15545,
+  "en": "\r\n//　ほんとうにイヤな奴らだな。\r\n  I hate you guys.\r\n\r\n//　湊斗さんは黙って聞いていた。\r\n//　やがて小さく、その口が動く。\r\n  Officer Minato listens dutifully, then mulls it over for a moment before nodding to himself.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15817,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130490a00'>\r\n//「<RUBY text='くぐつ'>傀儡</RUBY>を操るは易く、士人を留めるは難し。\r\n//　全く是非もない」\r\n\"The weak heart may be saddled readily, but the stout heart is impossible to tame. Truer words...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16134,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130500b56'>\r\n//「は？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16250,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130510a00'>\r\n//「諒解しました。\r\n//　自分と同道されるのであれば今後は近接を\r\n//求めます。最前までの距離では保安の点でも\r\n//協力の点でも適切と言えません」\r\n\"Very well. If you intend to continue following me, I ask that you stay within reach. At your present distance, I cannot ensure your safety, nor can you aid my investigation with maximum efficiency.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16748,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130520b56'>\r\n//「……？　…………」\r\n\"...Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16885,
+  "en": "\r\n//　湊斗さんの言い回しは、おれには少し消化不良気味\r\n//だったが。\r\n//　それはつまり、要するに。\r\n\r\n//　<RUBY text='ＯＫ'>許可</RUBY>。\r\n  His speech patterns are a little hard for me to parse, but I think what he's basically saying is...\r\n\r\n  \"Okay.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17194,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130530b56'>\r\n//「よっしゃあ！」\r\n\"Hell yeah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17328,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130540b33'>\r\n//「あー、はしゃがないはしゃがない。\r\n//　恥ずかしいから」\r\n\"Calm down, will you? You're embarrassing yourself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17560,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130550b43'>\r\n//「はっはっはっ、まあいいじゃないか小夏」\r\n\"Haha! Let him celebrate, Konatsu.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17753,
+  "en": "\r\n//　言われるまでもなく自分で小恥ずかしいと思うほど、\r\n//おれは舞い上がっていた。\r\n//　\r\n//　嬉しい。\r\n  Believe me, I'm plenty embarrassed. But I just can't help it. \r\n\r\n//　この危なっかしいようで頼り甲斐もある風の、湊斗\r\n//景明という人と一緒にリツを探せるのが嬉しい。\r\n//　別に事態は何も進展していないのに、もうリツが目\r\n//の前にいるような気がする。\r\n  I'm ecstatic that I get to help this bumbling but trustworthy detective look for Ritsu. I know nothing has changed, but at the same time, I feel like we're already one giant step closer to finding her.\r\n\r\n//　忠保と小夏も似たような心地なのではないか。\r\n//　だから、口では何を言いながらも笑っているのだ。\r\n  Tadayasu and Konatsu probably feel the same way. Their tone is teasing, but their smiles are genuine.\r\n\r\n//　そう思う。\r\n//　おれはもう一度快哉を上げた。やれやれという顔で\r\n//二人が付き合ってくれる。\r\n  Seeing this, I raise one more celebratory shout. They exchange an exasperated glance, then join me.\r\n\r\n//　……湊斗さんは決して、笑ってはくれなかったけど。\r\n  ...Officer Minato, however, doesn't crack a smile.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19077,
+  "en": "\r\n//　それからまず向かったのは、竹林だった。\r\n  The first thing we do is head for the bamboo grove. It's the kind of place only locals know. There's nothing really special about it, so Officer Minato would have had a hard time finding it without us. \r\n\r\n//　付近の住人なら誰でも知っているが、別に何もない\r\n//単なる竹の林なので、外部から来た人間が簡単に探し\r\n//当てられるものではない。\r\n//　おれたちが先に立った。\r\n\r\n//　到着するやレーダーで観測していたとしか思えない\r\n//速度で登場した田中の爺さんも、喧嘩する相手くらい\r\n//は一応選ぶものらしい。湊斗さんが身分を明かすと、\r\n//嫌々ながらも立ち入りを認めてくれた。\r\n  The instant we set foot inside the grove, old Tanaka comes racing out to drive us off. I swear he must have radar or something in that shack of his.\r\n\r\n  But even the Lightning Emperor knows when to fall back. Once Officer Minato flashes his sunburst, he reluctantly allows us onto his property.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20178,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130560a00'>\r\n//「<RUBY text='かくしゃく'>矍鑠</RUBY>とした方です。感服しました」\r\n\"What an impressive gentleman. I've never met anyone his age so full of vigor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20442,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130570b56'>\r\n//「あれでも最近は多少おとなしくなってるん\r\n//ですよ。\r\n//　でも雷鳴の威力は相変わらずだな……まだ\r\n//耳がビリビリする」\r\n\"He's calmed down a lot lately, if you can believe it. But that Thunderclap of his hasn't changed a bit. My ears're still ringing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20842,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130580b33'>\r\n//「うぁー……わたしあれ久しぶりだったから\r\n//腰まで響いたよ」\r\n\"I'm still shaking. It's been a while since I took one head-on.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21092,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130590a00'>\r\n//「素晴らしい肺活量でした。\r\n//　あのご老人はきっと長寿を保たれることで\r\n//しょう」\r\n\"His lungs must be extraordinary. I have no doubt he'll live many years yet.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21386,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130600b43'>\r\n//「まわりの人間の寿命がそのぶん削られると\r\n//思うとどうも祝福できないんですけどねぇ」\r\n\"While shouting the rest of us into an early grave, I'd wager.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21671,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130610a00'>\r\n//「<RUBY text='いささ'>些</RUBY>か郷愁を覚えます。\r\n//　自分の母も感情が激するとあのような怒声\r\n//を発するひとでした。酒が切れたと言っては\r\n//騒ぎ、お腹が空いたと言っては泣き」\r\n\"I must say it takes me back. My mother used to shout in much the same way when her emotions ran high. For example, when she was hungry, or out of liquor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22170,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130620a00'>\r\n//「それを耳にするたび自分は安らかな心地に\r\n//なり、しばしばそのまま眠ってしまったもの\r\n//です」\r\n\"Each time, I would find myself lulled into peaceful slumber.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22467,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130630b33'>\r\n//「……だいぶ個性的な団欒風景のような……」\r\n\"That's quite the family you've got there...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22673,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130640a00'>\r\n//「いつぞや、自分が瀕死の重傷を負ったおり、\r\n//その声に命を救われたことがあるのです。\r\n//　あれはそう、家に侵入した武装盗賊と遭遇\r\n//し、幼年の自分が窮地に陥った時でした」\r\n\"Once, when I was very young, a gang of bandits broke into our home. I was gravely wounded, but my mother saved my life with that voice of hers.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23165,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130650b43'>\r\n//「なるほど。その時、お母さんが怒声一発で\r\n//泥棒を追い散らして救ってくれたんですね」\r\n\"So your mother chased off the thieves with her mighty battle cry?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23454,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130660b56'>\r\n//「それは凄いなー」\r\n\"That's pretty amazing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23603,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130670a00'>\r\n//「はい。あの時、自分はいつの間にか鼓膜が\r\n//破れて三半規管を損傷し割れたガラスが背中\r\n//に刺さり出血多量で失神していたようですが、\r\n//その程度で済んだのも母のお陰でしょう」\r\n\"Indeed. I suffered severe damage to the eardrums, such that I couldn't hear for several days, and experienced hemorrhagic shock as a result of shattered glass puncturing my back, but it was thanks to my mother that I escaped with as little injury as I did.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24211,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130680b43'>\r\n//「いい話ですねぇ」\r\n\"That's a nice story.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24358,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130690a00'>\r\n//「有難うございます」\r\n\"I appreciate you saying so.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24515,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130700b33'>\r\n//「えーと……」\r\n\"Um...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24641,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130710b56'>\r\n//「あの……それってつまり……瀕死の重傷を\r\n//負わせたのはお母さんなのでは……」\r\n\"Doesn't that mean that your mom was the one who injured you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24916,
+  "en": "\r\n//　風が運ぶ川のせせらぎを聞きながら歩く。\r\n//　竹林の中はあまり、見通しが良いとは言えない。\r\n  The wind carries the burbling of the nearby river to our ears. We walk on, scanning the area through the thick bamboo stalks.\r\n\r\n//　爺さんは外敵に備えるばかりで手入れをしていない\r\n//のか。伸び放題の竹は視界を妨げること甚だしい。\r\n//　足を使って調べることになりそうだった。\r\n  Old Tanaka must be too busy fighting off intruders to tend to the grove. It's almost impossible to see past their leafy fronds.\r\n  Looks like this is going to take some legwork.\r\n\r\n//　と思ったのだが、その矢先。\r\n  But just as I resign myself, Tadayasu lifts his arm and points.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25703,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130720b43'>\r\n//「？　あれ」\r\n\"Hey. Over there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25837,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130730b56'>\r\n//「どした？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25960,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130740b43'>\r\n//「あの、奥のほう。\r\n//　なんか荒れてない？」\r\n\"Back there. Don't the stalks look disturbed?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26168,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130750a00'>\r\n//「……確かに」\r\n\"...They do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26300,
+  "en": "\r\n//　忠保が指す方を見やって、湊斗さんも同意する。\r\n//　おれの人並みの視力ではよくわからないが……\r\n  Officer Minato follows Tadayasu's finger and nods his agreement. With my merely average eyesight, it's difficult to make out what has captured their attention.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26616,
+  "en": "\r\n//　近づいてみれば、忠保の指摘は正しかった。\r\n//　一群の竹がまとめて切り払われている。\r\n\r\n//　相撲の土俵程度の空き地が出来ていた。\r\n//　その周囲に散乱するのは、切られた竹か。\r\n\r\n  As we get closer, however, I see what Tadayasu meant. A whole clump of bamboo stalks has been cut down, forming a clearing about the size and shape of a sumo ring. The severed stalks lie scattered outside the circle.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27103,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130760b56'>\r\n//「こないだ爺さんが言ってたのはこれか」\r\n\"This must be what old Tanaka was talking about.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27307,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130770b33'>\r\n//「あぁ。竹林が荒らされたってやつ？」\r\n\"Oh, you mean about someone messing with his bamboo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27512,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130780b43'>\r\n//「そう言えばそんなこと聞いたねぇ」\r\n\"Oh yeah, he did say something like that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27703,
+  "en": "\r\n//　しかし、これをおれたちがやったというのは無理の\r\n//ある決め付けだろう。\r\n//　竹は素人目にも鮮やかな切断面で、日曜大工程度の\r\n//器材で可能なこととは思えない。\r\n  He's crazy to think we had anything to do with this. Even my untrained eye can tell that these cuts are way too smooth to have been made with regular tools.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28108,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130790b56'>\r\n//「鉈かな？」\r\n\"A nata, maybe?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28240,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130800b43'>\r\n//「斧かもねぇ。\r\n//　どっかの不良が憂さ晴らしでもしたかな？」\r\n\"Or an axe. You think some punks were working off steam?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28483,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130810b33'>\r\n//「いるの？　そんな暇人」\r\n\"I don't think anyone could be that bored.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28660,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130820b43'>\r\n//「いるよ？　暇をなめてはいけないね小夏。\r\n//　貧困と憤懣と同じように、暇と退屈も犯罪\r\n//の温床たる資格は充分なんだって昔の人が」\r\n\"Don't underestimate boredom. A wise man once said that boredom is no less a cause of crime than poverty.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29052,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130830a00'>\r\n//「違う」\r\n\"No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29167,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130840b43'>\r\n//「え？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29283,
+  "en": "\r\n//　竹の一つのそばに屈んでじっと見ていた湊斗さんが、\r\n//唐突に呟いた。\r\n//　その間も切り口から目を離さない。\r\n  Officer Minato has been crouched by a cut stalk, examining it this whole time. Now he speaks, though his eyes are still fixed on the damage.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29596,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130850a00'>\r\n//「……刃の入り方が<RUBY text='・・・・'>鋭過ぎる</RUBY>。切り口が<RUBY text='・・'>平坦</RUBY>\r\n//<RUBY text='・・・'>過ぎる</RUBY>。\r\n//　得物は間違いなく刀……それも業物の部類」\r\n\"The incision is much too smooth, and the plane is much too level. This could only have been done with a katana... and one of exceptional quality.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130860a00'>\r\n//「……地面に切り込みの跡か。\r\n//　つまり、打ち手は<RUBY text='・・・・・・・・・'>力任せに切っている</RUBY>」\r\n\"...The blade cut into the ground. Which means the wielder swung using brute force, without employing proper technique.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30435,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130870a00'>\r\n//「それがどうして、こんな鮮やかな切り口を\r\n//つくる……？」\r\n\"But in that case, how could he have made such a clean cut?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130880a00'>\r\n//「刀の利だけでは足りない……。\r\n//　打ち手は<RUBY text='・・・・・・・'>凡俗にして非凡</RUBY>」\r\n\"Even the sharpest sword would not be enough. The wielder was an amateur, yet possessed inhuman speed and strength.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31014,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130890a00'>\r\n//「武者だ」\r\n\"A musha did this.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31146,
+  "en": "\r\n//　<RUBY text='・・・'>武者だ</RUBY>。\r\n//　湊斗さんはそう、短くもはっきりと呟いた。\r\n  His tone is absolutely certain.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31307,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130900b56'>\r\n//「じゃ……じゃあ！」\r\n\"S- So...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31446,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130910b33'>\r\n//「おっちゃんが言ってた通り……\r\n//　あの夜、ここに六波羅の武者がいた」\r\n\"There was a Rokuhara musha here that night, just like the man said.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31716,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130920b43'>\r\n//「……って、ことになるのかな」\r\n\"...Looks that way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31879,
+  "en": "\r\n//　リツがこの竹林で姿を消したあの晩。\r\n//　武者がここにいた。\r\n  A musha was here the night Ritsu disappeared.\r\n\r\n//　<RUBY text='・・・・・・'>つまりここは</RUBY>、<RUBY text='・・・・・・・・・・'>リツが襲われた現場か</RUBY>!?\r\n  So this is where Ritsu was attacked!?\r\n\r\n//　慌てて周囲を見回す。\r\n//　\r\n//　何か――何かないか！\r\n//　手掛かりになるものは！\r\n  I spin around and scan the area. There's gotta be something! Some sign of her!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32428,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0130930b56'>\r\n//「足跡とか……！」\r\n\"Footprints, maybe!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32573,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130940b43'>\r\n//「……駄目だね。\r\n//　一昨日の明け方に降った雨で消されたかな」\r\n\"...No such luck. The rain two mornings ago must have washed them away.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32834,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0130950b33'>\r\n//「他にもなんかあるでしょ!?　持ち物とか」\r\n\"There has to be something! Maybe she dropped her <br>bag!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33051,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0130960b43'>\r\n//「見当たらないけど……」\r\n\"I don't see anything...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33210,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130970a00'>\r\n//「六波羅の武者ならば、技量未熟というのは\r\n//解せない。<RUBY text='ざ'>戯</RUBY>れていたか？」\r\n\"A Rokuhara musha would not make such an unpracticed strike. Could he have been toying with his prey?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33537,
+  "en": "\r\n//　端からその辺のことは諦めていたのか、湊斗さんは\r\n//動いていなかった。\r\n//　慌てるおれたちをよそに自問自答を続けている。\r\n  Officer Minato hasn't moved. He's talking to himself now, paying us no mind. Looks like he never expected there to be any physical evidence lying around.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33884,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130980a00'>\r\n//「だがそれにしても……何処から現れた？\r\n//　騎航すれば襲撃も離脱も一瞬で済む。\r\n//　しかし目立つ」\r\n\"But then where did he come from? Flying would allow for rapid attack and withdrawal, but would also draw attention.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34242,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0130990a00'>\r\n//「この近隣で爆音、轟音の確認情報は？」\r\n\"Have there been any loud noises heard in the vicinity?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34453,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0131000b56'>\r\n//「……えっ？」\r\n\"...Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34581,
+  "en": "\r\n//　数秒、気付くのが遅れた。\r\n//　今の問いはおれたちに向けられたものだ。\r\n  It takes a second to realize he was speaking to us.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34753,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0131010b56'>\r\n//「すごい音ですか？　いや、そういう話は」\r\n\"Loud noises? Not as far as I know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34947,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0131020b43'>\r\n//「聞かなかったですねぇ。\r\n//　もしそんなことがあったら、田中の爺さん\r\n//が大騒ぎしてると思うんですけど」\r\n\"No one's mentioned anything like that. I'm sure old Tanaka would have raised hell if there had been.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35299,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0131030b33'>\r\n//「他人が立てる騒音にはやかましいもんね、\r\n//あの雷帝」\r\n\"Yeah, the Lightning Emperor hates anyone else making noise.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35537,
+  "en": "\r\n//　そのせいでこの近くに住む人はうかつに子供も産め\r\n//ないという噂だ。\r\n//　嘘か真か、赤ん坊が生まれると騒がしい間は親戚の\r\n//家に居候したりもするとか。\r\n\r\n//　湊斗さんは反応を見せない。\r\n//　だが聞いてはいたようだった。\r\n  They say people around here are reluctant to have babies for fear of arousing his ire. I don't know if it's true or not, but I've heard of parents going to live with their relatives until their newborn calms down.\r\n\r\n  Officer Minato doesn't respond, but it looks like he was listening.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36157,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131040a00'>\r\n//「<RUBY text='がったり'>合当理</RUBY>を噴かしていない。\r\n//　やはり飛んではいないか」\r\n\"So, no sounds of gattari. As I thought, he did not fly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36427,
+  "en": "\r\n//　ガッタリ？\r\n\r\n//　意味がわからなかったので尋ねようとしたが、忠保\r\n//に止められる。\r\n//　邪魔をするなってことね。\r\n  Gattari? The word is unfamiliar, but Tadayasu stops me with a gesture before I can ask what it means. I guess I shouldn't interrupt Officer Minato's train of thought.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36775,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131050a00'>\r\n//「では当該武者は如何に現れ如何に去った？」\r\n\"Then how did the musha come and go?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131060a00'>\r\n//「出現時……\r\n//　最初から装甲してやって来るはずはなし。\r\n//　<RUBY text='よろいびつ'>鎧櫃</RUBY>を背負って侵入しても目立つ」\r\n\"He could not have arrived in full armor. Even if he carried his armor cased, it would have drawn attention.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131070a00'>\r\n//「<RUBY text='おんぎょう'>隠形</RUBY>に優れる<RUBY text='ツルギ'>劔冑</RUBY>を単独で潜行させ、己は\r\n//別個に侵入。内部で合流して装甲」\r\n\"Assume his tsurugi has exceptional stealth capabilities. He sent it into the grove first, then rendezvoused with it later, donned his armor...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131080a00'>\r\n//「犯行に及び」\r\n\"...committed the crime...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37895,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131090a00'>\r\n//「……そこからどうする。\r\n//　劔冑は来た時と同様に単独で離脱させれば\r\n//良い。だが現場に遺体はおろか血痕すらない\r\n//所から見るに被害者が拉致されたことは確実」\r\n\"...and then what? His tsurugi could have left alone, as it had come. However, the lack of any blood at the scene can only mean that he carried his victim out uninjured.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131100a00'>\r\n//「被害者を連れて武者は如何にこの場を離脱\r\n//する？」\r\n\"How did the musha leave while carrying his victim, yet remain unseen?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38631,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131110a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38755,
+  "en": "\r\n//　二、三分も、黙っていただろうか。\r\n//　おもむろに湊斗さんは立ち上がった。\r\n  After two, maybe three minutes of silence, Officer Minato suddenly stands and turns to us.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38972,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131120a00'>\r\n//「……まだ情報が不足している模様です。\r\n//　近隣で情報収集を行いたく思います。特に\r\n//武者を目撃したという人物、その方に会って\r\n//詳しい話を伺いたい」\r\n\"It seems that I still lack information. I would like to question the residents of this area, especially the man who saw the musha firsthand. He may know something more.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39459,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0131130b33'>\r\n//「え？　あ……はい。\r\n//　それじゃ、飲み屋通りに行かないと」\r\n\"Huh? Oh. Okay, so we should hit the bars next.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39693,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma01/0131140a00'>\r\n//「案内をお願いします」\r\n\"Please lead the way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39846,
+  "en": "\r\n//　促されるまま、小夏が前に立って歩き出す。\r\n//　その後ろに湊斗さんが、そしておれと忠保が続いた。\r\n\r\n//　……実のところおれは、状況の進展をよく理解して\r\n//いなかったわけだが。\r\n  As requested, Konatsu takes the lead. Tadayasu, Officer Minato, and I follow behind.\r\n\r\n  To be honest, I don't really understand what just happened here.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40272,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0131150b43'>\r\n//（雄飛）\r\n\"Yuhi,\"</voice> Tadayasu whispers.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40416,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0131160b56'>\r\n//（ん？）\r\n\"What?\"</voice> I whisper back.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40557,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0131170b43'>\r\n//（やぁ。あの湊斗さん、思ってたよりも凄い\r\n//のかもしれないね）\r\n\"This guy's a better detective than we thought.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40794,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0131180b56'>\r\n//（そうなのか？）\r\n\"Really?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40925,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0131190b43'>\r\n//（武者と劔冑に関する知識が深いよ。\r\n//　僕に理解できたのは、武者が空から飛んで\r\n//やって来たのなら、その爆音で周囲の住民に\r\n//気付かれないはずがないって辺りまでだけど）\r\n\"He obviously knows a lot about musha and tsurugi. At first, he was talking about how there's no way a musha could fly into the grove without the whole neighborhood hearing his engines, but that's as far as I could follow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41492,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0131200b56'>\r\n//（あ、そうか）\r\n\"Oh, that's what he meant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41638,
+  "en": "\r\n//　思い出した。\r\n//　<RUBY text='がったり'>合当理</RUBY>ってのは確か、劔冑の後背部にある飛ぶため\r\n//の器具のことだ。\r\n  Now I remember. Gattari are the back-mounted engines musha use to fly. They always produce a lot of smoke and noise.\r\n\r\n//　稼働中は轟音を立てて煙を噴く。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41984,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0131210b56'>\r\n//（じゃ、武者はどうやって？）\r\n\"So how did the musha get here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42156,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0131220b43'>\r\n//（その点についてもある程度の推測は立った\r\n//けど、まだ疑問が残る……ってことみたい。\r\n//　そこを調べたいんじゃないかな）\r\n\"I think he has an idea, but he's not sure. That's probably what he wants to check out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42518,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0131230b56'>\r\n//（聞いてみちゃまずいかな、そのへん）\r\n\"You think it'd be okay to ask him about it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42715,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0131240b43'>\r\n//（やめとこう。今も考え中みたいだし、邪魔\r\n//になるよ。\r\n//　ただ言えるのは、この人はどうやら本当に、\r\n//真相を暴く力がありそうだってこと……！）\r\n\"Let's not. You don't want to interrupt him while he's thinking. Anyway, this means he might really be able to get to the truth!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43152,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0131250b56'>\r\n//（そうか！）\r\n\"Oh yeah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43278,
+  "en": "\r\n//　自分が色々とできるぶん、他者への評価が実は結構\r\n//<RUBY text='から'>辛</RUBY>い忠保が認めるのだ。\r\n//　重さが違う。\r\n  Tadayasu's good at just about everything, so he can be a pretty strict judge of people. His approval carries a lot of weight.\r\n\r\n//　やはりこの人に目をつけて無理にでも同行したのは\r\n//正解だったらしい。\r\n//　おれたちだけで捜査をしていたら、きっと今頃も、\r\n//虚しく焦燥感を抱えているだけだったろう。\r\n  Looks like we were right to follow the officer even after he tried to shake us. If we'd gone off and done our own investigation, we'd probably just be even more frustrated than before.\r\n\r\n//　……武者がリツを拉致したのなら、六波羅との対決\r\n//という格好になるのは避けられない。\r\n//　だがそれでも、この人なら。どうにかこうにか手を\r\n//尽くして、リツを助け出してくれるんじゃないか？\r\n  If a musha took Ritsu, that means we're going to have to face Rokuhara sooner or later. And yet, I get the feeling that with this guy on our side, rescuing her might not be so impossible after all.\r\n",
+  "pt": ""
+ }
+]

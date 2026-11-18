@@ -1,0 +1,827 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0010a01'>\r\n//《……御堂……》\r\n《...Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 359,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0020a00'>\r\n//（村正？）\r\n(Muramasa?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 485,
+  "en": "\r\n//　望外の朝食を終え。\r\n//　姉妹を家に帰らせ、残していってくれた茶を啜って\r\n//一息ついたとき、哨戒に出ていた村正からの<RUBY text='れんらく'>金打声</RUBY>は\r\n//あった。\r\n  I am sipping my tea when Muramasa contacts me. Our impromptu meal is over, and the girls have gone home.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 838,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0030a00'>\r\n//（変事か）\r\n(Have you found something?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 980,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0040a01'>\r\n//《怪しい男を発見。\r\n//　足音を立てずにこっちへ来て》\r\n《A suspicious individual. Come quietly.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1206,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0050a00'>\r\n//（承知）\r\n(On my way.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1330,
+  "en": "\r\n//　弥源太老に目礼して、その場を立つ。\r\n//　老人はそれだけで察したのか、無言のままに頷きを\r\n//返してきた。\r\n  I stand and glance at Yagenta. He nods in reply, appearing to grasp my intent.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1578,
+  "en": "\r\n//　目には見えず形もない、村正との連結を追う。\r\n//　……裏手の細い山道を下り、木々の中へ踏み込んで\r\n//いる。\r\n  I follow the invisible link between me and Muramasa. It leads me down a narrow mountain trail and into the woods.\r\n\r\n  It is not long before I reach Muramasa, hidden behind a tree, and spot the person in question.\r\n\r\n//　それほど、奥まで導かれることはなかった。\r\n//　すぐに木の陰へ潜んだ村正と、その先の人影を発見\r\n//する。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2122,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0060a00'>\r\n//（あれか）\r\n(That's him?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2250,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0070a01'>\r\n//《ええ。\r\n//　それと……もうひとつ》\r\n《Yes. And he's not alone.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2438,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0080a00'>\r\n//（ん――）\r\n(Hmm?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2559,
+  "en": "\r\n//　人影はこちらへ背を向けている。\r\n//　何か、手元に書き付けている様子だった。\r\n\r\n//　その紙切れを傍らの樹木へ差し出す。\r\n//　枝の上からするりと長い腕を伸ばし、受け取ったの\r\n//は――鋼鉄の<RUBY text='マシラ'>猿</RUBY>。\r\n  The man has his back to us, and appears to be writing something.\r\n\r\n  He finishes momentarily, then raises the sheet of paper toward a nearby tree. A long arm reaches down from the branches and takes the message. I trace it back up into the leaves, and there see―a metal ape.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3160,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0090a00'>\r\n//（月山従三位！）\r\n(Gassan Jusanmi!)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3301,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0100a01'>\r\n//《猿だけに、なかなか大した隠形能力よ。私\r\n//もすぐには気付かなかった。\r\n//　けど……あの男は月山の仕手じゃない》\r\n《Its stealth capabilities are impressive, as you'd expect of a monkey. I didn't notice it at first.\r\n  However, that man isn't Gassan's master.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3719,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0110a00'>\r\n//（……ああ。\r\n//　あれは、おそらく……）\r\n(No. He's most likely...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3902,
+  "en": "\r\n//　猿はすぐさま飛んだ。木から木へと跳躍し、樹海の\r\n//奥へたちまち去ってゆく。\r\n//　男の方は筆具をしまい込むと、その場にしゃがんだ。\r\n//山歩きで緩んだ靴紐を締め直しているようだ。\r\n\r\n//　……要するに、男は代官の偵察役。\r\n//　報告をまとめて連絡役の月山に託したのだろう。\r\n  Gassan takes off toward the deep forest, bounding from tree to tree. \r\n  After putting away his writing implements, the man crouches and begins to retie his shoelaces.\r\n\r\n//　となれば――\r\n  So, this man is the prefect's advance scout, with Gassan as the message runner.\r\n\r\n  In which case―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4607,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0120a01'>\r\n//《どうする？\r\n//　月山の後をつけてみる？》\r\n《Well? Should we follow Gassan?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4810,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0130a00'>\r\n//（気付かれずに追跡することは可能か？）\r\n(Can we pursue it without being noticed?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5008,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0140a01'>\r\n//《……当然、と言えないのは悔しいけれど。\r\n//　この森は完全に向こうの庭。ただ追うだけ\r\n//でも難しいでしょうね……》\r\n《...I'd like to say yes, but it knows this forest better than we do. Tracking it will be hard enough.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0150a01'>\r\n//《隠密裏に、というのはどう考えても――》\r\n《To do so without being spotted would be...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5593,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0160a00'>\r\n//（無理、無茶、無謀か）\r\n(Out of the question.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5748,
+  "en": "\r\n//　なら仕方がない。\r\n//　月山を尾行して代官らのもとまで案内させることが\r\n//できるなら万々歳だが、尾行に気付けば月山はこちら\r\n//を<RUBY text='・・'>まき</RUBY>にかかるに決まっている。\r\n  Yes, there's a chance Gassan could lead us to the prefect and solve all our problems. But if we are detected, it will attempt to shake us.\r\n\r\n//　それに食いつけたとしても、月山にしてみれば尾行\r\n//を引き連れたまま主のもとへは戻れまい。\r\n//　つまりは<RUBY text='いたちごっこ'>鼬遊戯</RUBY>。こちらが何より惜しんでいる時間\r\n//をただ空費するだけの結果になる。\r\n  Even if we can maintain pursuit, Gassan will never return to its master with us on its tail. It will simply take us on a wild goose chase, and we will have wasted precious time.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6646,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0170a01'>\r\n//《いっそ、ここで月山を仕留める？》\r\n《We could just destroy Gassan, I suppose.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6849,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0180a00'>\r\n//（あれに追いつくのがまず問題。\r\n//　そして首尾良くいったとしても、代官らが\r\n//警戒して一層深く潜んでしまうようなことに\r\n//なれば、本末転倒も良い所だ）\r\n(We'd have to catch it first. And even if we succeed, doing so may discourage the prefect from ever showing himself, which would defeat the point.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7315,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0190a01'>\r\n//《……そうね。\r\n//　ごめんなさい。つまらないことを言った》\r\n《...You're right. Sorry. I shouldn't have bothered.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7562,
+  "en": "\r\n  I pretend not to notice the bite in Muramasa's voice.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7629,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0200a00'>\r\n//（欲はかくまい。\r\n//　あれが坑道の様子を代官に伝えてくれるの\r\n//なら、それはこちらの予定通りだ。このまま\r\n//見送るだけで充分、手出しは無用）\r\n(Let's not get greedy. We want the prefect to know what is happening at the mine. Best let the message reach him.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8047,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0210a01'>\r\n//《ええ……》\r\n《Right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8183,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0220a00'>\r\n//（だが、）\r\n(However.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8308,
+  "en": "\r\n//　視線を散らす。\r\n//周囲を確認。\r\n  I scan the area, looking for anything that could impede my footing.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8439,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0230a00'>\r\n//（斥候をこれ以上放置しておいても益はない）\r\n(We gain nothing by letting this scout continue to snoop around.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8667,
+  "en": "\r\n//　距離を測る。\r\n//　およそ一〇メートルか。やや遠い。が、数歩ばかり\r\n//気付かれずに接近することができれば、奇襲に手頃の\r\n//間合となる。\r\n  The distance is about ten meters, a little farther than I would like. But if I can approach just a few paces without being noticed, I will be in the perfect position for a surprise attack.\r\n\r\n//　男はまだ靴紐を結んでいる最中だ。得物であろう杖\r\n//は傍らへ置いている。\r\n//　絶好の機会。\r\n  The man is still tying his shoes. A cane―likely his weapon―lies on the ground beside him, harmless for the moment. I couldn't ask for a better chance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9363,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0240a00'>\r\n//（敵の戦力を減らしておくことにする。\r\n//　村正、太刀を送れ）\r\n(Best to reduce the enemy's numbers. Give me a sword.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9605,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0250a01'>\r\n//《諒解》\r\n《All right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9739,
+  "en": "\r\n//　村正の牙が一対、消失する。\r\n//　代わって右手にずしりとした重さ。\r\n\r\n//　鍔を鳴らすような遊びは控え、静かに肩へ担ぐ。\r\n//　そのまま踏み出す。一歩。\r\n\r\n//　二歩。\r\n//　三歩。\r\n//　四歩――\r\n  Two of Muramasa's fangs vanish. At the same time, a familiar weight appears in my right hand.\r\n\r\n  Taking care not to make a sound, I raise the blade above my shoulder and take the first step toward the enemy.\r\n\r\n  Then the second step.<K>\r\n  The third.<K>\r\n  The fourth―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10298,
+  "en": "\r\n//　跳んだ。\r\n//　担いだ刀を袈裟に一閃、刃を返して峰打ちにしつつ、\r\n//男の肩口へ叩き込む――\r\n  I lunge, striking the enemy's shoulder with the flat of my―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10508,
+  "en": "\r\n//　――――――――!?\r\n  What!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10561,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0260a00'>\r\n//「……っ……」\r\n\"Ugh..!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10690,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0270a01'>\r\n//《御堂!?》\r\n《Mido!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10822,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0280a00'>\r\n//「……、大事なし！\r\n//　掠り傷だ…………」\r\n\"...I'm fine! It's merely a scratch.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11020,
+  "en": "\r\n//　腿を軽く撫でられた程度。\r\n//　傷と言えるほどのものでさえない。\r\n\r\n//　が――\r\n  The counterattack only brushed my thigh. However―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11201,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0290a12'>\r\n//「……うへぇ。\r\n//　勘弁してくだせぇよ。あんた、いつの間に」\r\n\"...Damn, don't sneak up on me like that. Where the hell did you come from?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11474,
+  "en": "\r\n//　仰天した様子で目を<RUBY text='しばた'>瞬</RUBY>いている男。\r\n//　嘗て二度だけ、顔を見交わす程度の遭遇をした事が\r\n//ある――否、三度か。\r\n  My enemy blinks in surprise. I recognize his face, though this is only our third meeting―no, fourth?\r\n\r\n//　この男。\r\n//　今……<RUBY text='・・・・・・・・・・・・・・'>俺の一撃を前転して避けながら</RUBY>、<RUBY text='・・・・'>抜刀して</RUBY>、\r\n//<RUBY text='・・・・・・・'>斬りつけてきた</RUBY>……？\r\n  But there's a more pressing concern.<k>\r\n  Did this man just roll out from under my attack, draw his sword, and strike―<I>all at the same time?</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12207,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0300a01'>\r\n//《気付かれていたの……!?》\r\n《He knew we were here!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12379,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0310a00'>\r\n//（――いや）\r\n(...No.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12505,
+  "en": "\r\n//　男の足元を見る。\r\n//　右足の靴紐が解けかけ、脱げかけていた。\r\n  I glance at the man's feet. His right shoe is still untied.\r\n\r\n//　<RUBY text='・・・・・・・・・・・・・・'>気付いていなかったのだ</RUBY>。\r\n//　男は確かに不意を打たれたのだ。\r\n\r\n//　<RUBY text='しか'>而</RUBY>して――この反応！\r\n  He didn't know I was there. I took him㉒<I>completely by surprise.</I>\r\n\r\n  And yet, the speed of his reaction!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13015,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0320a00'>\r\n//「……こういう芸のできる人間はほかに一人\r\n//しか知らない。\r\n//　あれは確か三年前だったか。俺の妹が同じ\r\n//ようなことをやって見せた」\r\n\"...I know only one other capable of such devilry. Three years ago, I believe it was, that my sister performed a similar feat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13434,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0330a12'>\r\n//「……へっ、へ……」\r\n\"Heh heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13585,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0340a00'>\r\n//「お前で二人目だ。\r\n//　野木山組の雪車町一蔵」\r\n\"You are the second, Sorimachi Ichizo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13791,
+  "en": "\r\n  The gangly yakuza responds with a chilly smile.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13852,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0350a12'>\r\n//「覚えて頂いてたんで。\r\n//　そいつぁ、光栄です。警察の旦那」\r\n\"You remember me? I'm flattered, Officer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14091,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0360a00'>\r\n//「偶々だ。別段覚えようと思って覚えたわけ\r\n//でもない。\r\n//　だが今後当分は忘れないだろう」\r\n\"Merely a coincidence. I had no intention of remembering your name, though I doubt I'll ever forget it now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14430,
+  "en": "\r\n//　じりじりと間合を取ろうとする雪車町。その手には\r\n//刀――<RUBY text='・・・・'>仕込み杖</RUBY>の中身。\r\n//　追随し、間合を保つ。逃がすつもりはない……が、\r\n//焦って踏み込めば隙を晒す。\r\n  Sorimachi inches backward, trying to gain distance.\r\n\r\n  I advance to maintain the range. I have no intention of letting him escape, but rushing in will only open me to a counterattack.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14894,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0370a00'>\r\n//「随分と世話になったことでもある」\r\n\"Not to mention that I owe you a debt.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15084,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0380a12'>\r\n//「……へ。\r\n//　さぁて、あたしが旦那にそれほど大した事\r\n//を致しましたかねぇ……？」\r\n\"...Heh. Well now. I don't recall doing anything to earn your gratitude.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15388,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0390a00'>\r\n//「一昨日、空から叩き落して貰ったばかりだ。\r\n//　生憎と地獄の底までは落ち切れず、かよう\r\n//に健在だが」\r\n\"You struck me from the sky just the other day. Though as you can see, I was regrettably unable to complete my journey to hell.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15765,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0400a12'>\r\n//「へ、へ、へ……。\r\n//　お気づきでしたか」\r\n\"Heh heh heh... So you made me, huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15972,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0410a00'>\r\n//「無論の事。\r\n//　その声を聞き違えるのは難しい」\r\n\"Of course. Your voice is impossible to mistake.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16191,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0420a12'>\r\n//「よく言われます……」\r\n\"I get that a lot.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16352,
+  "en": "\r\n//　間合の<RUBY text='せめ'>鬩</RUBY>ぎ合いは膠着。\r\n//　だが、分はこちらにある。\r\n  The stalemate continues, the range between us neither opening nor closing. However, the odds favor me.\r\n\r\n//　この雪車町なる男、剣技だけを問うなら、おそらく\r\n//<RUBY text='・・'>あの</RUBY>光にも匹敵する。\r\n//　互角の状況で<RUBY text='や'>遣</RUBY>り合って、勝てるものかどうか……\r\n//それはわからない。\r\n  This man's swordsmanship clearly surpasses mine. It may even be on par with Hikaru's. I have no confidence that I can defeat him on equal terms.\r\n\r\n//　だがこの状況は互角ではなかった。\r\n//　靴紐の緩んでいる雪車町は足回りが悪い。これでは\r\n//到底、十全の技を振るうことはできないだろう。\r\n//　いずれ、こちらが有利になる。\r\n  We are not, however, on equal terms. With one shoe still untied, Sorimachi will have difficulty securing footing; and as such, will be unable to fight to the full extent of his ability. Sooner or later, the balance will tip in my favor.\r\n\r\n//　雪車町がこの状況を崩そうと思うなら、劔冑の勝負\r\n//に持ち込むことだが。\r\n//　……周囲にその姿はない。鎧櫃も見当たらない。\r\n  Should he wish to avoid that, he will attempt to initiate musha combat as soon as possible. I see no tsurugi or tsurugi case nearby, but...<K><?>",
+  "pt": ""
+ },
+ {
+  "offset": 17820,
+  "en": "\r\n//　しかし。\r\n//　山からの喧騒に混じって聞こえる、この<RUBY text='アイドリング'>唸り</RUBY>は……。\r\n what is this sound I hear faintly above the commotion at the mine? An idling engine?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18054,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0430a12'>\r\n//「困っちまいましたねぇ。\r\n//　<RUBY text='・・'>ここ</RUBY>までやるほどの義理はないんですよ、\r\n//あたしゃ。<RUBY text='タマ'>命</RUBY>賭けての斬った張ったはご勘弁\r\n//願いたいところでして……」\r\n\"Damn, what a pain in the ass. I'm not getting paid enough to stick my neck out <I>this</I>㉓far. It'd be nice if we could do without the hack 'n' slash.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18579,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0440a00'>\r\n//「こちらの事情は別。\r\n//　各個撃破の機会は逃せない。命までは無用、\r\n//だが手足を一本封じておきたい」\r\n\"I'm afraid I can't afford to waste this opportunity. While I do not require your life, I would like to relieve you of the use of at least one limb.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18974,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0450a12'>\r\n//「で、しょうねぇ。\r\n//　見逃してくれってぇのはちょっと、ムシが\r\n//良過ぎますか……」\r\n\"You would, huh? Guess I can't expect you to let me go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19261,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0460a00'>\r\n//「劔冑を使うか」\r\n\"Do you plan to equip your tsurugi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19421,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0470a12'>\r\n//「へ、へ。\r\n//　そうしたら、旦那はどうなさる？」\r\n\"Heh heh. And what if I do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19628,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0480a00'>\r\n//「俺も劔冑を使い、斬り伏せるまで」\r\n\"I will defeat you in musha combat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19815,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0490a12'>\r\n//「へへぇ。\r\n//　村正……ですか」\r\n\"Yeah? With Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19992,
+  "en": "\r\n//　彼の前で名乗った覚えのないその名を、雪車町は口\r\n//にした。\r\n//　あの乱破者から聞きでもしたのか。\r\n  Did Fuma tell him of my tsurugi? I've never spoken the name in his presence.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20229,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0500a12'>\r\n//「しかしね……\r\n//　そいつぁ、いけねぇでしょう……」\r\n\"You sure that's a good idea?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20444,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0510a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20564,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0520a12'>\r\n//「お代官は、あたしを偵察に寄越しゃあしま\r\n//したがね。確認みたいなもんで。あんたがた\r\n//が坑道を埋め潰そうとしてるってことにゃ、\r\n//もうお気付きですよ」\r\n\"The prefect sent me to check out the mine, but I'm really only here to get him the details. He already knows you're trying to collapse the thing.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0530a12'>\r\n//「そこで轟音立てて、あたしと旦那が派手に\r\n//空で遣り合い始めたらどうなります。\r\n//　あたしの加勢に来る？　まさかね……代官\r\n//殿は勿論、山の作業を潰しに行きますよ」\r\n\"What do you think'll happen if we start goin' at it topside, where everyone can see? Is he gonna come give me a hand? No way. You can bet the bank he'll go straight for the mine.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0540a12'>\r\n//「そしたら、へへ。どなたが代官殿と小太郎\r\n//爺さんの相手をするんで？」\r\n\"And just who―hehe―is gonna keep him and Kotaro from dusting all those <br>people?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21854,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0550a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21974,
+  "en": "\r\n//　この男、どこまでも巧妙……\r\n//　口舌の戦も一流か！\r\n  What guile. His tongue is as sharp as his sword!\r\n\r\n//　雪車町の状況分析は正鵠を得ている。\r\n//　今ここで騎航戦闘を繰り広げれば、まさに言われた\r\n//通りの結果を招く危険が高い。\r\n  His analysis of the situation is flawless. Should we engage in aerial combat, the risk is extremely high that it will play out exactly as he says.\r\n\r\n//　そこまで読みながら、この男が即座に装甲騎航して\r\n//逃げようとしないのは……こちらが各個撃破に固執し、\r\n//彼を屠った後で舞い戻ろうなどと甘い選択をする可能\r\n//性をも考慮しているからに違いない。\r\n  Yet despite knowing that, he did not immediately armor up and attempt to flee―<br>which can only mean that he considered the possibility that I would attempt to defeat him first before returning to defend the mine, foolish though that course would be.\r\n\r\n//　一昨日のあの時、互いを見交わしたのは一瞬のこと\r\n//に過ぎなかったが。\r\n//　雪車町の劔冑はおそらく軍用の数打。<RUBY text='あし'>速力</RUBY>の勝負で\r\n//こちらを振り切って逃げられる確証はないのだろう。\r\n  Though I saw it only for a brief instant before he struck me down, I believe that his tsurugi was a military-issue kazu'uchi. He knows that it is unlikely he'll be able to shake my pursuit.\r\n\r\n//　実際、捕捉して斬り墜とす自信はあるが……\r\n//　山を無防備にするリスクは冒せない。\r\n//　\r\n//　武者戦闘という選択肢は封じられたも同然！\r\n  I am indeed confident that I could defeat him in the air. However, I cannot risk leaving the mine undefended. Musha combat is out of the question!\r\n\r\n//　……舌先一つでこちらの決戦力を封じてのけ、<RUBY text='か'>且</RUBY>つ\r\n//その成果に驕らず慎重な手を打ち続ける。\r\n//　この男、場数の踏み方が違うらしい。\r\n  With only his words, this man has denied me my strongest weapon. And yet, he does not allow this fact to erode his caution. He has clearly navigated more than his fair share of trouble.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24235,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0560a00'>\r\n//「……委細、指摘の通り。\r\n//　だが、ならばこのまま決着をつけるまで」\r\n\"...It is as you say. In which case, I will simply defeat you here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24503,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0570a12'>\r\n//「そいつも、」\r\n\"Well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24642,
+  "en": "\r\n//　雪車町が足を動かす。\r\n//　右足――脱げかけた靴を――！\r\n  Sorimachi's right foot moves. His loose shoe! He's going to―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24804,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0580a12'>\r\n//「お許しくだせぇ」\r\n\"I'll take a rain check on <br>that!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24977,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0590a00'>\r\n//「!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25088,
+  "en": "\r\n//　唾――――\r\n//　下からと見せて上!!\r\n\r\n//　辛うじて首を傾け、視界を塞がれるのは避けたが。\r\n//　この半秒の間に、雪車町は距離を取っている！\r\n  Spit!? The shoe was just a feint!\r\n\r\n  I manage to twist my head and avoid catching it in the eye, but the half-second of immobility is all he needs to take off running.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25474,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0600a00'>\r\n//「味なっ！」\r\n\"Scoundrel!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25604,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0610a12'>\r\n//「御免なすって！」\r\n\"Thanks for the compliment!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25768,
+  "en": "\r\n//　追う。\r\n//　脚のリーチはこちらが上だ。この程度の距離ならば\r\n//充分に追いつける。あと五歩あれば――\r\n  I give chase. My legs are longer, so at this short distance, I shouldn't need more than five seconds to catch him.\r\n\r\n//　しかし。\r\n//　その五歩の前に、雪車町は<RUBY text='・・'>それ</RUBY>へ到達していた。\r\n  But before those five seconds are up, he reaches his goal―<K><?>",
+  "pt": ""
+ },
+ {
+  "offset": 26235,
+  "en": "\r\na monobike hidden between two trees!\r\n\r\n//　木の陰へ潜ませていた――<k><RUBY text='モノバイク'>単輪自動車</RUBY>！\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26385,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0620a01'>\r\n//《……劔冑!?》\r\n《A tsurugi!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26528,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0630a00'>\r\n//「劔冑だ！」\r\n\"A tsurugi!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26658,
+  "en": "\r\n//　そう。あれは劔冑。\r\n//　海軍の八八式艦載騎をベースに開発された、陸軍制\r\n//式の九〇式竜騎兵。\r\n//　待騎時にはバイクの形態をとる。\r\n  It's a Type-90, the army's version of the navy's Type-88. Because of its versatility, the Type-90 is still widely used today. The monobike is its unequipped form, chosen for ease of transportation.\r\n\r\n//　その使い勝手の良さから今なお現役の地位を保って\r\n//いる傑作だ。派生騎、後継騎も多く存在する。\r\n//　先刻からの<RUBY text='・・'>唸り</RUBY>はやはりこれだったか……！\r\n  So that's where the engine sound was coming from!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27354,
+  "en": "\r\n//　素早く跨り、アクセルを踏む雪車町。\r\n//　既にエンジンの回っている車は即座に走り出した。\r\n  Sorimachi springs into the seat and hits the accelerator. The idling bike shoots into the trees. \r\n\r\n//　林間をすり抜け、山道へ――！\r\n  He's heading for the road!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27680,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0640a01'>\r\n//《御堂！　装甲を――》\r\n《Mido! We should―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27843,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0650a00'>\r\n//「却下！」\r\n\"Not an option!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27974,
+  "en": "\r\n//　森の間の曲がりくねった細い山道というフィールド\r\n//で、高速だが小回りの利かない騎航武者と速度は劣る\r\n//が扱いのいいモノバイクの優劣ははっきりしている。\r\n//　又、相手が応じて装甲し騎航戦になっても不都合。\r\n  A tsurugi in flight can outstrip any land vehicle's speed with ease, but the monobike's greater maneuverability will grant it the advantage on these winding roads.\r\n\r\n  Moreover, he might armor in response, which would invite exactly the situation we're trying to avoid.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28562,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0660a01'>\r\n//《なら、見逃すしかないっていうの……！》\r\n《So we have to let him go!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28760,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0670a00'>\r\n//「――否」\r\n\"...No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28883,
+  "en": "\r\n//　雪車町の企図においてはそうだろう。\r\n//　確かにもはや、こちらは打つ手を封じ切られたかに\r\n//見える。雪車町の望む通り歯軋りして背を見送る以外\r\n//にないと見える。一見。\r\n\r\n//　だが、まだ――\r\n  At first glance, Sorimachi's plan would appear to have succeeded, leaving us with no choice but to watch as he vanishes into the distance.\r\n\r\n  However, there's still―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29343,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0680a00'>\r\n//「村正。\r\n//　<RUBY text='・・・・'>このまま</RUBY>追うぞ！」\r\n\"We'll pursue him㉒<I>as is!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29556,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0690a01'>\r\n//《――――諒解！》\r\n《Got it!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29702,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0700a12'>\r\n//「――――!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29835,
+  "en": "\r\n//　何か異様な気配を感じたのだろう。\r\n//　不意に振り返った雪車町は、はっきりと頬肉を引き\r\n//攣らせた。\r\n\r\n//　距離――二〇メートル弱。\r\n//　微妙に距離を増減させつつ追尾する。\r\n  Sorimachi looks over his shoulder, perhaps sensing something behind him. I can see his face contort as he realizes what it is.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30228,
+  "en": "\r\n//　山道を疾走するモノバイクを眼下に見下ろし、\r\n//　赤色の蜘蛛が樹上を渡る。\r\n\r\n//　猿飛の技は月山猿の専売特許に<RUBY text='あら'>非</RUBY>ず。\r\n//　村正蜘蛛もこの程度の芸は可能！\r\n  A crimson spider darts from tree to tree, maintaining a distance of roughly twenty meters to Sorimachi's rear.\r\n\r\n  Gassan isn't the only tsurugi capable of bounding through the forest. In spider form, Muramasa gives any monkey a run for its money!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30742,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0710a01'>\r\n//《速度を上げる！\r\n//　振り落とされないで！》\r\n《I'm going to speed up! Hang on!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30949,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0720a00'>\r\n//「承知！」\r\n\"Do it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31072,
+  "en": "\r\n//　手足に力を込め、村正の背に乗る己を固定する。\r\n//　移動の仕方が仕方だ。視界の変転は<RUBY text='めまぐる'>目紛</RUBY>しい。だが、\r\n//騎航になれた身にすればどうという程のこともない。\r\n\r\n//　標的の姿を視認し、太刀を構えて接触に備える。\r\n\r\n//　こちらを見た雪車町の顔は、前方へ戻される前に一\r\n//刹那、逡巡の色を見せていた。\r\n//　迷ったのだ。おそらく――装甲すべきか否かを。\r\n\r\n//　だが後背から迫られるこの位置関係、装甲の一瞬に\r\n//切り伏せられることも有り得ると踏んだに違いない。\r\n//　雪車町の選択はアクセル全開。このまま逃げ切る、\r\n//そのつもりだ。――ならば良し！\r\n  I put more strength into my grip, securing myself to Muramasa's back. Our method of pursuit does not permit for a stable field of vision; but then, the same could be said about standard tsurugi flight.\r\n\r\n  With my target in sight, I raise my sword and prepare to strike.\r\n\r\n  Sorimachi returns his eyes to the road, but before he does, I see a flash of indecision cross his face. My guess―he was considering whether to equip his tsurugi.\r\n\r\n  He chooses not to, likely concluding that it would present too great an opening with us already at his back. Instead, he opens his throttle and makes a break for it. Exactly what I wanted!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32532,
+  "en": "\r\n//　緩い右折から短い直線へ。\r\n//　流石にここではバイクが優った。距離がじりじりと\r\n//開く。\r\n  The right curve flattens out into a short straightaway. Here, the bike has the advantage. The distance gradually opens.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32797,
+  "en": "\r\n//　――だが道はすぐに長いカーブへ。\r\n//　バイクの速度が落ち、一方まるでお構い無しの蜘蛛\r\n//がじわりと追いすがる。\r\n  Soon, however, comes another long curve. The bike loses speed, and the spider closes in.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33067,
+  "en": "\r\n//　しかし手の届く距離まで迫る前に、またしても直線\r\n//が来る……！\r\n\r\n//　直線では先方。\r\n//　曲線では当方。\r\n//　一進一退の図式――\r\n  But before I can get within reach, another straight!\r\n\r\n  He pulls away in the straights. We close in the curves. The range shrinks and grows, but always hovers near twenty meters.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33451,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0730a01'>\r\n//《埒が明かない……！》\r\n《This isn't working!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33615,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0740a00'>\r\n//「今から明ける。\r\n//　村正、糸を飛ばせ。<RUBY text='・・・'>槍と橋</RUBY>、同時にだ」\r\n\"It's about to. Loose your threads. Spear and bridge, simultaneously!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33900,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0750a01'>\r\n//《……！　諒解！》\r\n《Got it!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34046,
+  "en": "\r\n//　鉄の蜘蛛が鉄の糸を放つ。\r\n//　幾条も――虚空を裂いて。その速度は矢にも劣らず、\r\n//山道を走破するバイクを凌ぐ。\r\n\r\n//　二〇メートルの間隙が白線で繋がれる。\r\n//　バイクの乗り手の背を貫く――\r\n  Muramasa's steel threads streak toward their target like glittering arrows, far faster than the monobike ahead.\r\n\r\n  In the blink of an eye, they fall upon Sorimachi from behind.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34518,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0760a12'>\r\n//「……ッ！」\r\n\"...Tch!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34654,
+  "en": "\r\n//　しかし、雪車町なる筋者はやはり尋常ではなかった。\r\n//　決定的なその一瞬に背後を仰ぎ見、迫り来る脅威を\r\n//認識――刹那。\r\n  However, Sorimachi is no common man. That blink of an eye is all he needs to turn and assess the threat.\r\n\r\n//　右手が翻った。\r\n//　その中にハンドルごと保持されていた仕込みの白刃\r\n//が、宙空に幾何学模様を描く。\r\n  The blade of his cane leaps from its sheath and carves a shimmering pattern in the air.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35195,
+  "en": "\r\n//　寸断。\r\n//　断線。\r\n  In a flash, every thread is cut from the sky.\r\n\r\n//　……それはもはや、悪魔的なまでの<RUBY text='ブレイドアーツ'>刀剣技芸</RUBY>。\r\n//　単輪自動車の乗り手は遂に姿勢を崩すことさえなく、\r\n//背後からの強襲を切り払って見せた。\r\n  Such swordplay can only be described as㉓<I>demonic.</I> To defend effortlessly against an attack from behind while maintaining control of a speeding bike... an impossible feat.\r\n\r\n//　有り得ない所業。\r\n//　\r\n//　だがしかし、俺は彼の剣技を光に擬していたのだ。\r\n  However, I have already recognized this man as being in Hikaru's league. The impossible is exactly what I expected!\r\n\r\n//　<RUBY text='・・・・・・・・・・・・・・・・・・・'>有り得ないことが有り得る程度は想定の内</RUBY>！\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36098,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0770a00'>\r\n//「村正――巻き込め！」\r\n\"Muramasa! Pull!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36248,
+  "en": "\r\n//　合図を送る。\r\n//　応えて、村正が糸を<RUBY text='・・・'>吸った</RUBY>。\r\n\r\n//　雪車町に切り払われた鉄糸ではない。\r\n//　バイクを越えて更に飛び、木々へ絡みついた糸を。\r\n  At my signal, Muramasa sucks in her threads―not those launched at Sorimachi, but those tied around the trees㉒<I>up ahead.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36628,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0780a12'>\r\n//「……っ、だぁ――!?」\r\n\"...Whoa! What the!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36790,
+  "en": "\r\n//　病的な男が青褪める。それ以上顔色の悪くなること\r\n//があるとして、だが。\r\n//　その顔が接近した。急速に――否。近付いているの\r\n//はこちら。\r\n\r\n//　前方に固定した糸で自らを牽引し、\r\n//　村正が宙を飛ぶ。\r\n\r\n//　その速度は糸の放出時とほぼ同等。\r\n//　<RUBY text='すなわ'>即</RUBY>ち、バイクの疾走を圧倒する――\r\n  The man's sickly pallor turns even more pale. A moment later, his face leaps into point-blank range―or rather, it is we who go to meet it.\r\n\r\n  Using the leading threads to tow ourselves in, we bound forward in one great burst of speed, more than enough to catch up to the bike!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37519,
+  "en": "\r\n//　接触の一瞬。\r\n//　ここに至って、雪車町一蔵はなお不屈だった。\r\n\r\n//　仕込み杖を再び構え、後方の敵襲を横殴りの一閃で\r\n//迎撃する。\r\n//　その速度、俺の首を狙う正確さ、正に一流の剣。\r\n\r\n//　だが――\r\n//　背後から襲われるという絶対的不利は、卓抜の剣腕\r\n//をもってしても覆し得ない！\r\n  But Sorimachi Ichizo remains unyielding.\r\n\r\n  His trick sword lashes out toward my neck. The speed and precision of his slash are masterful―but not enough, this time, to overcome the disadvantage of being attacked from behind!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38166,
+  "en": "\r\n//　俺の放った一刀が、雪車町の剣撃を打ち弾く。\r\n//　肉体ごと――乗騎ごと。\r\n\r\n//　押し崩す。\r\n//　……車輪が滑った。\r\n  My strike knocks his sword aside, taking body―and bike―with it.\r\n\r\n  I bear down, forcing him off balance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38458,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs0790a12'>\r\n//「かッ――へっ、ははァ！　畜生ォ!!」\r\n\"Gah! Heh, haha! Shit!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38643,
+  "en": "\r\n//　モノバイクが横転する。\r\n//　そのまま、山肌の斜面を――――\r\n  The vehicle flips, and with Sorimachi still on it, careens over the edge of the road.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38834,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0800a00'>\r\n//「……水音？」\r\n\"...A splash?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38969,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0810a01'>\r\n//《……川へ落ちたみたい。\r\n//　悪運の強い男ね》\r\n《Sounds like he fell in the river. Lucky guy.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39192,
+  "en": "\r\n//　村正を止め、山道に降り立って見下ろす。\r\n//　山間を流れる小川と、そこへ半身を沈ませた男の姿\r\n//があった。<RUBY text='バイク'>劔冑</RUBY>は見当たらない。周囲の痕跡から見る\r\n//に、どうも更に下方へ転がり落ちていったようだ。\r\n  I bring Muramasa to a stop and peer over the edge. Below, I see Sorimachi lying partially submerged in a small mountain river. His monobike is nowhere to be seen, but there are signs that it slid farther downhill.\r\n\r\n//　雪車町の体に酷い外傷はなかった。水場に落ちた事\r\n//でいくらか衝撃が和らげられたのだろう、この高さを\r\n//転落したにしては奇跡的なほどだった。\r\n//　村正が呆れるのも頷ける。\r\n  Sorimachi does not look seriously injured, a minor miracle considering the height from which he fell. The water must have dampened the impact somewhat. I'm inclined to agree with Muramasa's assessment of his luck.\r\n\r\n//　意識を失っているのか、身動きする様子はない。\r\n//　しかし良く見れば、右手の指先だけが何かを求める\r\n//ように這っていた。川べりの土を虚しく掻いているが。\r\n//　……少し離れた木の幹に、突き立った仕込みの刃。\r\n  He appears unconscious, though by training my eyes, I can see that the fingers of his right hand are moving, scrabbling vainly in the mud for something... presumably his cane sword, which is stuck in a tree several meters away.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40747,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0820a01'>\r\n//《どうするの？》\r\n《What do we do?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40897,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0830a00'>\r\n//「命に別状は無さそうか」\r\n\"Is he likely to survive?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41059,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0840a01'>\r\n//《ええ。あのままうっかりと寝返りを打って\r\n//溺死したりしない限りは平気でしょう。\r\n//　骨折もしていないようだけど……予告通り、\r\n//手足を何本か貰っていく？》\r\n《Yes, as long as he doesn't roll deeper and drown or something. I don't think he has any broken bones either. Should we do as planned and go relieve him of some limbs?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41565,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0850a00'>\r\n//「……いや、いい。あの様子なら打撲で数日\r\n//は動けまい。\r\n//　無力化には成功したと言って良いだろう。\r\n//これ以上は不要」\r\n\"...No. He'll have sustained enough contusions to keep him out of commission for a few days. As he's no longer an immediate threat, there's no need to pursue him further.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42010,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0860a01'>\r\n//《それもそうね》\r\n《I guess.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42154,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/019vs0870a00'>\r\n//「坑道へ戻るぞ。\r\n//　あまり長い間留守にしていたくない」\r\n\"Let's return to the mine. I don't want to leave it vulnerable for too long.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42413,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/019vs0880a01'>\r\n//《ええ》\r\n《All right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42547,
+  "en": "\r\n//　……日は間もなく天頂。\r\n//　そろそろ正午の時刻になる。\r\n  I look up at the sky. It's nearly noon.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42686,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs0890b05'>\r\n//「こら、ふなー！　待ちなさーい！」\r\n\"Funa! Get back here!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42859,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs0900b06'>\r\n//「こっちー！」\r\n\"This way!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42991,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs0910b05'>\r\n//「こっちじゃないの！\r\n//　じっちゃまが言ってたでしょっ、今お山は\r\n//危ないんだから、寄り道しないで帰らないと」\r\n\"Not that way! We're supposed to go straight home! Didn't you hear Grandpa? It's dangerous to be out on the mountain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43370,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs0920b06'>\r\n//「すごいおときこえた！」\r\n\"I heard a big noise!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43528,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs0930b05'>\r\n//「それが危ないことかもしれないんだってば\r\n//……もー！　ねーやの言うこと聞きなさい！」\r\n\"That might be what he was talking about!\r\n  Funa! Listen to your sister!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43829,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs0940b06'>\r\n//「みっけー！」\r\n\"Found it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43961,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs0950b05'>\r\n//「見っけじゃなくて――\r\n//　……え？　なに？」\r\n\"That's not the―oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44150,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs0960b06'>\r\n//「にんげん！\r\n//　おとこ！」\r\n\"It's a man!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44303,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs0970b05'>\r\n//「……え？　え？」\r\n\"Uh...\"\r\n\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs0980b05'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44555,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs0990b05'>\r\n//「きゃー！\r\n//　あわわ、大変……どうしようどうしよう」\r\n\"Ahh! Oh no! What do we do? What do we do!?\"\r\n\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs1000b05'>\r\n//「あの、あのあの、大丈夫ですか!?」\r\n\"S- Sir? Are you all right!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44949,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1010a12'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45084,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs1020b06'>\r\n//「おーい。おーい。\r\n//　いきてるー？」\r\n\"Hey! You alive?\"\r\n\r\n//◆ぺちぺち\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45277,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs1030b05'>\r\n//「ふ、ふなー！\r\n//　やめなさーい！」\r\n\"Funa! Stop that!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45447,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1040a12'>\r\n//「……っ……」\r\n\"...ngh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45588,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs1050b06'>\r\n//「おきた」\r\n\"He's up!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45713,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs1060b05'>\r\n//「え？　え？\r\n//　あ、あのー、もしもし？」\r\n\"He is!? H- Hello?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45893,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1070a12'>\r\n//「……、はっ……」\r\n\"...ha...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46039,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs1080b05'>\r\n//「ど、どうしよう？\r\n//　とりあえず川から出してあげた方がいいの\r\n//かな……」\r\n\"What now? I guess... we should get him out of the river?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46307,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs1090b06'>\r\n//「おいちゃーん。\r\n//　どしたー？」\r\n\"Hey, mister. What's wrong?\"\r\n\r\n//◆ぺちぺち\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46505,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs1100b05'>\r\n//「ふなー！」\r\n\"Funa!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46630,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1110a12'>\r\n//「……へ、へへ……」\r\n\"...heh heh heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46788,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs1120b06'>\r\n//「おいちゃん？」\r\n\"Mister?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46921,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs1130b05'>\r\n//「あ、あの大丈夫ですか？\r\n//　どうしたんですか？」\r\n\"Are you all right? What happened to you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47136,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1140a12'>\r\n//「へへ……。\r\n//　やぁ、なに……大したこっちゃありません\r\n//よ。気にしないでおくんなさいまし……」\r\n\"Heh... Just business as usual... Nothing for you to worry about.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47455,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs1150b05'>\r\n//「そ、そう言われても……\r\n//　相当えらいことになってるような」\r\n\"But this looks pretty serious...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47680,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1160a12'>\r\n//「へ、へ……\r\n//　あたしは……しがないちんぴらの、小悪党\r\n//でしてねぇ」\r\n\"Heh heh... I'm a small-time villain, y'see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47940,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs1170b05'>\r\n//「はぁ」\r\n\"Okay...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48061,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs1180b06'>\r\n//「ちんぴら……\r\n//　わるもの？」\r\n\"Villain... A bad guy?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48230,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1190a12'>\r\n//「……へい。だもんで……\r\n//　善玉の野郎に退治されちまったんでさぁ」\r\n\"Yeah, a bad guy... and I got my ass kicked by the good guy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48500,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs1200b06'>\r\n//「ふーん」\r\n\"Wow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48621,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1210a12'>\r\n//「へへ……そりゃあねぇ……世の中、こうで\r\n//なきゃあ…………。\r\n//　悪党は退治される……でないと、<RUBY text='・・・・'>どっちも</RUBY>、\r\n//張り合いってもんがないじゃありませんか」\r\n\"Heh... Now㉒<I>this</I>㉗is how the world should be... You gotta have good guys to take on the bad... else where's the fun in it all?\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1220a12'>\r\n//「へ……へへっ…………」\r\n\"Heh... heh heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49278,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/019vs1230a12'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49413,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs1240b06'>\r\n//「あ。ねたー」\r\n\"Oh, he went back to sleep.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49562,
+  "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/019vs1250b05'>\r\n//「う、うーん……何だかよくわからないけど。\r\n//放ってはおけないよね……。\r\n//　よしっ。ふな、手伝って」\r\n\"Um... I'm not sure what's going on, but we can't just leave him here... Okay! Give me a hand with him, Funa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49921,
+  "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/019vs1260b06'>\r\n//「はぁーい」\r\n\"㉑'Kay!\"\r\n",
+  "pt": ""
+ }
+]

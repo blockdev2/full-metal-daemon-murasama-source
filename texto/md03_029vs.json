@@ -1,0 +1,272 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/029vs0010a07'>\r\n//「――――――――」\r\n\"......\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/029vs0020a07'>\r\n//「は……はへ？」\r\n\"Uh... what?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 500,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/029vs0030a01'>\r\n//「……今の……まさか……」\r\n\"But... no...\"\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/029vs0040a01'>\r\n//「江ノ島の……あの時の？」\r\n\"Is that... what happened over Enoshima?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 837,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/029vs0050a08'>\r\n//「……何よ、あの化け物……」\r\n\"...Who is that monster?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1004,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/029vs0060a08'>\r\n//「茶々丸、あんた何を連れて来たのよ……！」\r\n\"Chachamaru, what have you done!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1201,
+  "en": "\r\n//　周囲の状況を確認する。\r\n//　……ほぼ、決着はつきつつあるようだ。\r\n  I scan the battlefield. It looks like we're just about finished here.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1385,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0070a00'>\r\n//「茶々丸、ぼんやりしているな。\r\n//　村正の相手をするなら、真面目にやれ」\r\n\"Stop staring like a fool, Chachamaru. Your job is to deal with Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1665,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/029vs0080a07'>\r\n//「あ……うん……」\r\n\"Uh... uh-huh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1818,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0090a00'>\r\n//「何だその目は？」\r\n\"Why do you tremble?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1966,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0100a00'>\r\n//「今更、何を怯える？\r\n//　何を驚く……」\r\n\"Have you forgotten?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0110a00'>\r\n//「俺は<RUBY text='・・・・・'>湊斗光の師</RUBY>だぞ」\r\n\"I was Hikaru's master.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2330,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/029vs0120a07'>\r\n//「そ――そうだ……ね。\r\n//　あは、はははは……」\r\n\"Oh... yeah, right. Ha, hahahaha...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2545,
+  "en": "\r\n//　丸きり小動物の目でこちらを見上げてくる茶々丸に\r\n//それ以上構わず、俺は黒瀬へ近付いた。\r\n//　武者の回復は早い。\r\n\r\n//　立ち直る前に<RUBY text='とど'>止</RUBY>めを刺しておく必要がある……。\r\n  Chachamaru keeps staring at me like a frightened rodent. I put her out of mind and approach Kuronose.\r\n\r\n  Musha recover quickly. I must finish him before―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2986,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0130a00'>\r\n//「……署長」\r\n\"...Commissioner.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3122,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0140a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3248,
+  "en": "\r\n//　彼は、俺の前に立ち塞がった。\r\n//　太刀を手にしている――劒冑を装甲する時、黒瀬が\r\n//投げ出したものだ。\r\n\r\n//　剣の本来の所有者にも、力量がおさおさ劣らぬ事は、\r\n//足取り一つ見ればわかる。\r\n//　否、見る間でもなく。湊斗光の師が湊斗景明である\r\n//なら、更にその師たる者は彼なのだ。\r\n  The commissioner moves to block my path. In his hand is the sword Kuronose was wielding before he donned his armor. From his stance, it is clear that his skill is no less than its previous master's.\r\n\r\n  But of course, I already knew that. If I was Hikaru's swordmaster, then this man was mine.\r\n\r\n//　菊池明堯。\r\n//　――人生の一時期のみ、湊斗明堯と名乗った。\r\n\r\n//　俺の養父。\r\n//　湊斗統の夫。\r\n\r\n//　そして、\r\n//　湊斗光の、<RUBY text='・・・・・・・・・'>父たり得なかった父</RUBY>。\r\n  Kikuchi Akitaka. Once upon a time, Minato Akitaka.\r\n\r\n  He was the man who adopted me.<K>\r\n  And the man who failed to be Hikaru's father.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4372,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0150a11'>\r\n//「二度目だな」\r\n\"That's the second time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4518,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0160a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4639,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0170a11'>\r\n//「お前の――その剣」\r\n\"That... <I>technique</I>㉓of yours.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4807,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0180a00'>\r\n//「ああ……そうか。\r\n//　貴方は一度、見ていたな」\r\n\"Ah... yes. You saw it once before.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0190a00'>\r\n//「あの時」\r\n\"Back then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5132,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0200a11'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5258,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0210a11'>\r\n//「あの時、お前を壊したのは私だ。\r\n//　その過ちは今更、どうしようもない……が」\r\n\"I was the one who broke you then. It's much too late to undo that mistake...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5551,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0220a11'>\r\n//「今度は……壊れゆくままにしておきたくは\r\n//ない」\r\n\"But I cannot bear to see you paying the price even now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5781,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0230a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5901,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0240a11'>\r\n//「村正の精神干渉を受けろ、景明。\r\n//　元に戻れ」\r\n\"Submit to Muramasa's treatment, Kageaki. It's time to return to your old self.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6151,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0250a00'>\r\n//「元に……？」\r\n\"My old self?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6286,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0260a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6406,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0270a00'>\r\n//「それがどういう意味なのか、わかっていて\r\n//言っているのか？\r\n//　署長……」\r\n\"Do you know what that would mean, Commissioner?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6665,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0280a00'>\r\n//「菊池明堯！」\r\n\"Kikuchi Akitaka!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6805,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0290a11'>\r\n//「……景明……」\r\n\"...Kageaki...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6944,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0300a00'>\r\n//「誰が光を愛するのだ!?」\r\n\"Who will love Hikaru then!?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0310a00'>\r\n//「俺があいつを捨ててしまったら！\r\n//　もう統様はいない……」\r\n\"If even I forsake her, who!? Mother is gone now...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7340,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0320a00'>\r\n//「そして貴方は！\r\n//　とうの昔に、光を捨てている！」\r\n\"And you! You abandoned her long ago!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7554,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0330a11'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7680,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0340a00'>\r\n//「ああ、それが悪いとは言わない。\r\n//　貴方に光への愛情を期待するのは、無理な\r\n//相談というものだろう」\r\n\"Oh, I don't blame you for that. It would be foolish to expect㉗<I>you</I> to love her.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0350a00'>\r\n//「責めはしない。\r\n//　見捨てて、何処へでも去ればいい」\r\n\"Away with you then. I care not where you go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8235,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0360a00'>\r\n//「だが……俺の邪魔をするな!!」\r\n\"But do not dare to come between us!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8416,
+  "en": "\r\n//　打ち付けた太刀は、同等の質量で阻まれた。\r\n//　鋼と鋼が食い合い、微量の鉄粉を空に撒く。\r\n\r\n//　二振りの剣を×字にした体勢で、俺と彼は凝固した。\r\n//　\r\n//　吉野御流合戦礼法――<RUBY text='はいむし'>這虫</RUBY>の形。\r\n  Our swords clash with equal force, scattering flakes of metal. And there we stand, blades joined like a cross.\r\n\r\n//　敵が剛力で押して来たならば、引き外して敵の体を\r\n//泳がせ、その隙を斬る。\r\n//　敵が後方へ退こうとしたならば、一息に押し出して\r\n//押し倒し、押し斬る。足絡みの併用が効果的だ。\r\n  Yoshino-onryu: Haimushi.<K>\r\n  If your opponent attempts to push through your defense, pull back to disrupt his balance, then strike into the opening. If he tries to retreat instead, overpower him with an unrelenting advance, ideally combined with a tripping maneuver.\r\n\r\n//　対手の進退を瞬時に見極め、即応して勝つ法。\r\n//　俺は――そして当然彼も、この術技を心得ている。\r\n  We both know what this means. The first to move will die.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9588,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0370a00'>\r\n//「俺は光を捨てない」\r\n\"I will not abandon her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9743,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0380a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9863,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0390a00'>\r\n//「俺だけは光を愛する！\r\n//　妨げる者は許さん！」\r\n\"I alone will love her! Nothing will stop me!\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0400a00'>\r\n//「誰であっても!!」\r\n\"Not even you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10212,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0410a11'>\r\n//「……景明」\r\n\"Kageaki...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10342,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0420a11'>\r\n//「それは……愛情ではない……」\r\n\"That... isn't love.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10508,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0430a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10634,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0440a11'>\r\n//「呪いだ。\r\n//　お前は、自分で自分を呪っている」\r\n\"It's a curse. You've laid a curse on yourself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10852,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0450a00'>\r\n//「黙れェ!!」\r\n\"SILENCE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10979,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/029vs0460a00'>\r\n//「!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11090,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/029vs0470a11'>\r\n//「……っ？」\r\n\"...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11215,
+  "en": "\r\n//　突如の轟音に、俺と署長は揃って飛び離れた。\r\n//　\r\n//　何だ――異変か？\r\n  We leap back simultaneously, startled by the noise.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11388,
+  "en": "\r\n//　……竜騎兵だ。\r\n//　六波羅正規の。\r\n\r\n//　今の音は着陸音だったらしい。\r\n//　余程に急いで<RUBY text='とんで'>騎航して</RUBY>きたのか、合当理が荒々しく\r\n//煙を吹いている。\r\n\r\n//　しかし、何故？\r\n//　増援？　そんなものが必要な局面ではないが……。\r\n  A Rokuhara dragoon has landed. His gattari is still smoking. He must have been in a hurry.\r\n\r\n  But why is he here? Reinforcements? Hardly necessary.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11900,
+  "en": "\r\n//【ｅｔｃ／伝令竜兵】\r\n<voice name='ｅｔｃ／伝令竜兵' class='その他男声' src='voice/md03/029vs0480e225'>\r\n//「閣下ぁっ！\r\n//　小弓中将閣下!!　堀越中将閣下!!」\r\n\"Urgent message! Urgent message for the generals!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12167,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/029vs0490a07'>\r\n//「や、ンなでっかい声で呼ばなくてもここに\r\n//いるって。\r\n//　ちっと落ち着け。深呼吸しろ」\r\n\"Cool it with the shouting. We're right here. Just take a deep breath, man.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12480,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/029vs0500a08'>\r\n//「何かあったの？」\r\n\"What is it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12620,
+  "en": "\r\n//【ｅｔｃ／伝令竜兵】\r\n<voice name='ｅｔｃ／伝令竜兵' class='その他男声' src='voice/md03/029vs0510e225'>\r\n//「至急、普陀楽へお戻り下さい！」\r\n\"Please return to Fudaraku at once!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12850,
+  "en": "\r\n//【ｅｔｃ／伝令竜兵】\r\n<voice name='ｅｔｃ／伝令竜兵' class='その他男声' src='voice/md03/029vs0520e225'>\r\n//「進駐軍がッ――\r\n//　横須賀艦隊が、相模湾の警戒線を突破して\r\n//来ました!!」\r\n\"It's GHQ! The Yokosuka Fleet has breached Sagami Bay!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13160,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/029vs0530a08'>\r\n//「――――は？」\r\n\"...What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13294,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/029vs0540a07'>\r\n//「な」\r\n\"What...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13421,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md03/029vs0550a07'>\r\n//「なにぃぃぃぃぃィィィ!?」\r\n\"THE HELL!?\"\r\n",
+  "pt": ""
+ }
+]

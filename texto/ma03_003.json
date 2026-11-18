@@ -1,0 +1,547 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030010b02'>\r\n//「入れ」\r\n\"Enter.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 358,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030020a03'>\r\n//「大鳥香奈枝中尉、並びに伍長待遇軍属永倉\r\n//さよ。ただいま着任いたしました」\r\n\"Lieutenant Kanae Otori and Provisional Corporal Sayo Nagakura, reporting for duty.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 661,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030030b03'>\r\n//「御苦労。\r\n//　俺の方も自己紹介が必要か？」\r\n\"At ease. Do I need to introduce myself?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 882,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030040a03'>\r\n//「時間が有り余っているのであれば是非とも、\r\n//課長。\r\n//　ウィロー少将閣下からはおおまかなところ\r\n//しか伺っておりませんので」\r\n\"If you have the time, sir, that would be most helpful. General Willow didn't fill us in on all of the details.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1284,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030050b03'>\r\n//「なら一応しておこうか。幸いなことに今は\r\n//ヒマだ。昨日は凄いぞ？　三時間も寝た。\r\n//　それに精力が頭髪に回ってないあの閣下殿、\r\n//本当に大まかな話しかしてないだろうしな」\r\n\"Then I suppose it can't hurt. Luckily for you, I'm not too busy at the moment. Why, I got a whole three hours of sleep last night. And I'm not surprised that His Excellency the General skimped on the details. Probably lost them with the greater part of his hair.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1916,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030060a03'>\r\n//「なんと仰っていましたかしら……\r\n//　さよ？」\r\n\"What was it he said, Sayo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2118,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0030070a04'>\r\n//「『中尉、貴官に任務を与える。マタ・ハリ\r\n//だ！　貴官はかの歴史的雌狐の役を連盟軍に\r\n//おいて担う栄誉を得た！　喜んでくれるもの\r\n//と信ずる。なお、ダンスの訓練は必要ない』」\r\n\"Lieutenant, I'm giving you a new assignment. Mata Hari! You're to play the role of that most infamous vixen here, in the AEF! I know you'll appreciate the honor. And don't worry; no need to brush up on your dancing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2688,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0030080a04'>\r\n//「以上でございます」\r\n\"That is all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2830,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030090b03'>\r\n//「……説明が足りてるとか、足りてないとか\r\n//いう以前の問題だな。核心は突いてるがね。\r\n//　それで、中尉は何と答えた？」\r\n\"...While there are more problems with that explanation than I care to address, it does strike at the heart of the matter. What was your reply, Lieutenant?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3275,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030100a03'>\r\n//「グレタ・ガルボほどにうまく演じる自信は\r\n//ございませんけれど、と」\r\n\"That I didn't think I could live up to the standard set by Greta Garbo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3555,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030110b03'>\r\n//「ふむ。そいつは大和人特有の謙遜か？\r\n//　中尉ならいい線いくと俺は思うがね。半島\r\n//の片田舎から乳牛と一緒に引っ張られてきた\r\n//バイキングの子孫なんかよりずっと魅力的だ」\r\n\"Hmm. Is that the Yamatoan humility I keep hearing about? If you ask me, you're perfect for the role. I'd pick you over a Viking farmgirl and her cow any day.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4079,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030120a03'>\r\n//「あら、お上手。うっかりとその気になって\r\n//しまいそう。わたくしったらおだてに弱くて。\r\n//　でも、おだてに乗ろうにも脚本がなくては\r\n//どうにもなりませんね？」\r\n\"My, how kind of you. It makes me want to try twice as hard. I'm so very weak to flattery. Still, I can't play the part without my lines, can I?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4562,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030130b03'>\r\n//「わかってる。順々に行こう。\r\n//　クライブ・キャノンだ。参謀第二部で資料\r\n//管理課長を務めている。だが課長とは呼ぶな。\r\n//言葉の響きがどうも肌に合わない」\r\n\"Yes, we'll come to that in due time.\r\n  I'm Clive Cannon, chief of the Data Management Bureau attached to Second Headquarters Division. Don't call me 'chief', though. I've never been a fan of how it sounds.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030140b03'>\r\n//「中佐と呼んでくれればいい。\r\n//　で、こちらは俺のサポート」\r\n\"Colonel will do. This here is my aide.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5347,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030150b02'>\r\n//「ジョージ・ガーゲット少佐だ。\r\n//　職務に関連する報告は主に私にしてもらう\r\n//ことになる。顔を合わせる機会も多くなるだ\r\n//ろう」\r\n\"Major George Gargett. Most of the time, you will be reporting directly to me. I'm afraid we'll be seeing a lot of each other.\"\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030160b02'>\r\n//「色々難しいこともあるかもしれないが――\r\n//うまくやっていきたいものだな？　中尉」\r\n\"No doubt there will be some difficulties... but we won't let that get in the way of our duty, will we, Lieutenant?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6139,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030170a03'>\r\n//「まったく同意いたします。\r\n//　どうか宜しくご指導のほどを。ガーゲット\r\n//少佐」\r\n\"Certainly not. I look forward to working with you, Major Gargett.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6429,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030180b02'>\r\n//「握手は無用だ。\r\n//　大鳥中尉。私はうまくやろうと言ったので\r\n//あって、仲良くしようと言ったのではない」\r\n\"No need to shake hands. That was an appeal to professionalism, Lieutenant, not an offer to make friends.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6812,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030190a03'>\r\n//「……あら。\r\n//　これは失礼をいたしました」\r\n\"...Oh. Please excuse my forwardness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7021,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030200b03'>\r\n//「ジョージ？」\r\n\"George...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7169,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030210b02'>\r\n//「何か問題でも？　中佐殿」\r\n\"Is there a problem, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7359,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030220b03'>\r\n//「…………まあ、こういう奴なんでな。\r\n//　あまり気にしないでやってくれ、中尉」\r\n\"...He's like this with everyone. Try not to take it personally.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7655,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030230a03'>\r\n//「ご心配なく。わたくし、まったく気にして\r\n//おりませんから。\r\n//　後で手を洗いに行く手間が省けましたもの」\r\n\"Not to worry, sir. I'm grateful to be spared the necessity of washing my hands afterward.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8008,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030240b02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8159,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030250b03'>\r\n//「ハハハハ。そうかそうか。どうやらチーム\r\n//ワークは完璧だな？　俺はとても幸せだ。\r\n//　このまま少し待っていてくれ。ウィローの\r\n//親父にサイパンへの転属願いを出してくる」\r\n\"Hahahaha! Well, looks like we're going to be a great team! I couldn't be happier.\r\n  Just wait right there while I go ask Willow for a transfer to Saipan.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8680,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030260b02'>\r\n//「大鳥中尉への説明を先にお済ませください。\r\n//中佐殿」\r\n\"Please finish explaining the lieutenant's duties first, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8946,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030270b03'>\r\n//「ああ、そうするよ少佐閣下。\r\n//　レディ？　この資料管理課についても簡単\r\n//に解説した方がいいのだろうな」\r\n\"I'll do just that, Major.\r\n  Now then, miss, shall I begin by explaining what it is we do here in the Data Management Bureau?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9344,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030280a03'>\r\n//「出来ましたら。……中佐」\r\n\"Please do... Colonel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9513,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030290b03'>\r\n//「うん？　なんだか言いにくそうだな。\r\n//　子供の頃にうっかり中佐を生で食べて腹を\r\n//壊したことでもあるのか？」\r\n\"Hmm? You seem to have some aversion to the title. Did you get food poisoning from eating raw colonel as a child?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9904,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030300a03'>\r\n//「そうですね……。\r\n//　先日まで中佐と呼んでいた人物に少々食傷\r\n//気味だったことは否めません」\r\n\"Well... I can't deny that the last fellow I called 'colonel' was a little hard on the stomach.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10244,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030310b03'>\r\n//「ああ、コブデンの阿呆か」\r\n\"Oh, that idiot Cobden.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10423,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030320b02'>\r\n//「中佐殿。いささか表現が直截的過ぎます」\r\n\"Perhaps you should exercise more decorum, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10656,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030330b03'>\r\n//「じゃあ、コブデンの教養失調症にしとこう。\r\n//　聞いているか、中尉？　実は君と前後して\r\n//奴も民政局の席を失っているんだが」\r\n\"Cobden the cognition-impaired, then.\r\n  Did you hear, Lieutenant? He lost his position in Civil Affairs just after you did.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11079,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030340a03'>\r\n//「あら。それは初耳です。\r\n//　てっきり不出来な巡察官を更迭した功績で\r\n//昇進でもされたかと思っておりましたのに」\r\n\"Oh? I hadn't heard. I was certain he would be promoted for replacing an unruly inspector.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11441,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030350b03'>\r\n//「そいつが奴の最後の仕事になった。結末は\r\n//惜しいかな、昇進ではなく左遷だが。\r\n//　今頃は横須賀の港湾基地で、新しい椅子を\r\n//痛めつけているだろうよ」\r\n\"That ended up being his last act on the job. Unfortunately for him, his reward was a transfer, not a promotion. He should be wearing out his new chair in Yokosuka right about now.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11957,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030360a03'>\r\n//「湾岸のリゾート地に赴任とはお羨ましい。\r\n//　ご栄転の理由は何なのでしょう？」\r\n\"A posting to the famous bayside resort? I'm so envious. What did he do to deserve such an honor?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12277,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030370b03'>\r\n//「収賄。\r\n//　建築企業、密輸業者、幕府の官吏といった\r\n//連中から小銭を貰って便宜を図ってやる副業\r\n//に、大変な熱意をもって励んでいたようだ」\r\n\"His side job―selling favors―was showing entirely too much success. Call it performance above and beyond. The brass thought he should <br>relax.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12746,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030380a03'>\r\n//「あらあら。\r\n//　働き過ぎが仇になるとはお気の毒なこと」\r\n\"Oh my. So working too hard㉓<I>can</I>㉓be hazardous to your health. I feel sorry for him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13029,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030390b03'>\r\n//「気の毒なのは民政局の他のお歴々だよ。\r\n//　奴のお陰でしばらくは副業を控えなくては\r\n//ならなくなった」\r\n\"I feel sorry for the rest of Civil Affairs. Now they'll have to tone down their extracurricular activities for a while.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13415,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030400b03'>\r\n//「目立たないように隠蔽する程度の心配りを\r\n//してくれれば、監査部だって余計な残業せず\r\n//に済むものをさ。基地の電話を使うか普通？\r\n//否が応でも摘発しなきゃならんだろうが」\r\n\"If he'd just managed to keep things under the table, Internal Affairs would've been happy to avoid the overtime. What kind of idiot uses the base telephone? It's like he was asking for an investigation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13984,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030410a03'>\r\n//「堂々としていて結構ではございませんか」\r\n\"At least he was upfront about it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14186,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030420b03'>\r\n//「その割りに民政局から出て行く時は堂々と\r\n//いうよりすごすごといった格好だったらしい\r\n//がな。\r\n//　話が逸れた」\r\n\"Though now he's less upfront and more up a creek.\r\n  Anyway, back to the topic at hand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14553,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030430b03'>\r\n//「中尉、我々資料管理課の担う職務は何だと\r\n//思う？」\r\n\"So, Lieutenant. What do you think we do here in Data Management?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14811,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030440a03'>\r\n//「そうですね。\r\n//　わたくしが思いますに、おそらく――」\r\n\"Well, if I had to guess, I'd say...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15037,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030450a03'>\r\n//「資料を管理するのではないでしょうか」\r\n\"Manage data, perhaps?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15224,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030460b03'>\r\n//「素晴らしい。まさに正解だよ大鳥中尉。\r\n//　君のように優秀な人材を見たのは初めてだ」\r\n\"Splendid! You got it on the first try. I've never met a soldier so quick on the uptake.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15553,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030470a03'>\r\n//「まあ、ありがとうございます」\r\n\"Oh! Thank you very much, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15736,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030480b02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15887,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030490b03'>\r\n//「ヘイ、ジョージ。\r\n//　話の輪に加わろうぜ」\r\n\"Hey, George. Feel free to join us.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16103,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030500b02'>\r\n//「はい、中佐殿。お断りします」\r\n\"I respectfully decline, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16303,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030510b03'>\r\n//「……まあ、実際そうなんだがさ。\r\n//　ただ一個抜けている」\r\n\"...So, yeah, that's exactly what we do. With one small addendum.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16570,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030520a03'>\r\n//「はい」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16695,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030530b03'>\r\n//「俺たちは情報資料を<RUBY text='・・・・'>収集して</RUBY>管理する。\r\n//　この収集の方が実はメインの業務になる。\r\n//オフィスにいつも人がいないのはそのせいだ」\r\n\"We㉓<I>collect</I>㉕data as well as manage it. This happens to be our primary duty, which is why the office is always empty.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030540b03'>\r\n//「課の名前をつける時にウィロー少将閣下は\r\n//この収集っていう要素の加味を忘れたらしく\r\n//てな。お陰で実情を知らない外部からは窓際\r\n//呼ばわりだ。まったく、迷惑してるよ」\r\n\"General Willow forgot to add the word 'collection' when he formed the department. As a result, everyone thinks we're a dumping ground for unwanted personnel. It sucks, let me tell you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17700,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030550a03'>\r\n//「……なるほど。\r\n//　それでマタ・ハリですのね」\r\n\"...Ah. That explains Mata Hari.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17910,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030560b03'>\r\n//「なかなかやり甲斐のありそうなセクション\r\n//だろう？　だが、俺の部下は奥ゆかしいやつ\r\n//ばかりでね……自分の仕事をよそに吹聴した\r\n//がらない。まあそういう気風なんだろう」\r\n\"It's quite a rewarding job, as I'm sure you've guessed. I should warn you, though. My men tend to be awfully shy. They don't like to speak of their work to outsiders. Call it a custom.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030570b03'>\r\n//「実は俺もそうなんだ。\r\n//　申しわけないが大鳥中尉、君もその気風に\r\n//従って貰う。チームワークだ。従えない場合\r\n//はそうだな、なるたけ早目に言って欲しいね」\r\n\"I'm the same way, to be honest. I apologize, Lieutenant, but I'm going to need you to follow this custom as well. Teamwork and all that. If you foresee any difficulties, please tell me now.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030580b03'>\r\n//「先程君が羨んだ元上司のもとへ部下として\r\n//返り咲けるように手配する。\r\n//　実は必要な申請書類はもう用意してあるん\r\n//だが。さて？　俺はこれをどうしたらいい？」\r\n\"I'll arrange for you to join your old CO in Yokosuka. In fact, I've already had the orders drawn up.\r\n  So, what should I do with them?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19467,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030590a03'>\r\n//「まあ、行き届いたご配慮。痛み入ります。\r\n//　でもどうかご案じなく。わたくしも奥ゆか\r\n//しさにかけては最強と自負しておりますから」\r\n\"Well, I'm most grateful for the courtesy... but there's no need for concern, sir. No one does shy better than me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19880,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030600b03'>\r\n//「オーケイ、オーケイ。なら何の問題もない。\r\n//　どうだ、ガーゲット少佐。彼女なら一流の\r\n//仕事をしてくれると思うだろう？」\r\n\"Excellent. Then we'll get along splendidly.\r\n  What do you think, Major? Am I wrong to expect great things from <br>her?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20297,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030610b02'>\r\n//「はい、中佐殿。\r\n//　小官には若干の疑念があります」\r\n\"If I may, sir, I have one small concern.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20540,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030620b03'>\r\n//「どんな？」\r\n\"Go ahead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20685,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030630b02'>\r\n//「大鳥中尉」\r\n\"Lieutenant Otori.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20847,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030640a03'>\r\n//「はい」\r\n\"Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20972,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030650b02'>\r\n//「貴官は先の巡察官任務において、大和国の\r\n//内政に対する介入を行った。\r\n//　その点に間違いはないか」\r\n\"During your last mission as an inspector, you interfered in Yamato's affairs. Is this correct?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21339,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030660a03'>\r\n//「ございません」\r\n\"It is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21478,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030670b02'>\r\n//「後悔、反省は？」\r\n\"Any regrets or reflections?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21659,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030680a03'>\r\n//「何も。\r\n//　ガーゲット少佐」\r\n\"None, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21821,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030690b02'>\r\n//「……ならば、釈明は？」\r\n\"...Then an excuse, perhaps?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22011,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030700a03'>\r\n//「<RUBY text='アンド・ソウ・オン'>以下同文</RUBY>」\r\n\"See previous response.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22208,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030710b02'>\r\n//「…………。\r\n//　中佐殿」\r\n\"...Colonel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22383,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030720b03'>\r\n//「何かまずいことでもあったかい？　少佐」\r\n\"Is something the matter, Major?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22592,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030730b02'>\r\n//「大きな問題があるように、小官には思われ\r\n//ます」\r\n\"I believe this to be a serious problem, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22836,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030740b03'>\r\n//「ああ。問題はある。\r\n//　だがそいつは中尉のことじゃない」\r\n\"I agree there's a problem, but it's not with the lieutenant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23099,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030750b03'>\r\n//「彼女のような人材を無為に遊ばせておいた\r\n//無能こそ問題だ。だから<RUBY text='・・・・・'>そんなこと</RUBY>にもなる。\r\n//　そして問題は既に片付いた。そうだろう？\r\n//そうだとも。中尉には何の問題もない」\r\n\"The problem is with the incompetent fools who failed to put her talents to good use. Idle hands are the devil's plaything, they say. But now that problem has been dealt with. There's nothing to worry about.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23708,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030760b02'>\r\n//「しかし……」\r\n\"But sir...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23866,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030770b03'>\r\n//「大鳥中尉。いや、大鳥香奈枝嬢。\r\n//　大和人としての君に訊ねる」\r\n\"Lieutenant Otori... or rather, Miss Kanae Otori. I ask your opinion as a Yamatoan.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24160,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030780b03'>\r\n//「<RUBY text='ロシア'>露帝</RUBY>と<RUBY text='ブリテン'>大英連邦</RUBY>、友人にするならどちらが\r\n//いい？」\r\n\"Russia or Great Britain. Which would you rather have as a friend?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24482,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030790a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24609,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030800b02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24760,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030810a03'>\r\n//「……白熊よりは<RUBY text='ジョン・ブル'>雄牛</RUBY>の方が付き合いやすい\r\n//のではありませんかしら？　<RUBY text='ミスター'>紳士</RUBY>」\r\n\"...I think I'd pick John Bull over the White Bear, Mister Cannon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25118,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030820b03'>\r\n//「宜しい。大いに宜しい。\r\n//　であれば大英連邦の提唱にて生まれた国際\r\n//統和共栄連盟、ひいてはその隷下にある我々\r\n//ＧＨＱと大和国は良好な関係を築けるだろう」\r\n\"Good. Very good indeed. I hope that understanding will one day lead to true friendship between our peoples.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25574,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030830b03'>\r\n//「もはや異存はないな？　ガーゲット少佐」\r\n\"Does that satisfy you, Major?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25781,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030840b02'>\r\n//「……はっ。\r\n//　中佐殿がそのように言われるのであれば」\r\n\"...Yes, sir. If you insist.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26017,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030850b03'>\r\n//「やれやれだ。\r\n//　堅苦しい上官を持つのは厄介なものだな、\r\n//中尉？　俺も堅苦しい部下を持っているから\r\n//よくわかる」\r\n\"It's tough having an uptight superior. Isn't it, Lieutenant? I happen to have just such a subordinate, so I feel your pain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26429,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030860a03'>\r\n//「ええ、キャノン中佐。\r\n//　嫌いではありませんけれどもね？」\r\n\"Perhaps, Colonel, but I'm rather fond of such men.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26676,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030870b02'>\r\n//「そうか。\r\n//　だが私は、貴官のような部下を好まない」\r\n\"Are you? I, alas, could do without a subordinate like you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26940,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030880a03'>\r\n//「とても残念です」\r\n\"I'm sorry to hear that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27099,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030890b03'>\r\n//「紳士の対応ではないな、ジョージ。\r\n//　さて、中尉。今日のところはもう下がって\r\n//構わない。だが明日から早速任務に掛かって\r\n//もらう」\r\n\"Not very gentlemanly of you, George.\r\n  Anyway, Lieutenant, that'll be all for today. Get some rest. You start first thing tomorrow.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27544,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030900a03'>\r\n//「はい。\r\n//　どのような任務でしょう」\r\n\"Yes sir. What will my mission be?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27741,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030910b03'>\r\n//「明朝、口頭で発令する。\r\n//　だが概略はこの資料に記した。明日までに\r\n//読んでおけ。読了後は軍規に従って処分する\r\n//こと」\r\n\"I'll relay your orders verbally in the morning. For now, here's a basic outline. Read it tonight, then dispose of it per regulations.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28169,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030920a03'>\r\n//「はい。\r\n//　…………こちらは？」\r\n\"Yes sir. ...And this box?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28352,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030930b03'>\r\n//「新しい階級章だ。明日からはそれをつけて\r\n//きてくれ。\r\n//　以上だ、大鳥大尉」\r\n\"Your new rank insignia. Wear them when you come in tomorrow.\r\n  Dismissed, Captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28666,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0030940a03'>\r\n//「はっ」\r\n\"Sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28791,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0030950a04'>\r\n//「失礼致します」\r\n\"Please excuse us.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28932,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030960b02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29083,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030970b03'>\r\n//「まだ何か言いたげだな？　ガーゲット少佐」\r\n\"Still unconvinced, Major?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29289,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0030980b02'>\r\n//「……キャノン中佐。\r\n//　あの大和人が信用できると本心からお考え\r\n//ですか？」\r\n\"...Sir. Do you truly believe we can trust that Yamatoan?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29585,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0030990b03'>\r\n//「大和人か。彼女は人種は大和人だがね……\r\n//大和国民ではないよ。\r\n//　<RUBY text='ハプスブルク'>二重帝国</RUBY>で国籍と軍籍を取得して連盟軍に\r\n//参入している」\r\n\"Yamatoan? She may be of Yamatoan heritage, but she's not a Yamatoan subject. She comes to us from the Empire of Habsburg, where she holds both citizenship and military rank.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30098,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0031000b02'>\r\n//「中佐、自分が言っているのはそのような事\r\n//ではなく……」\r\n\"That's not what I meant, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30339,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031010b03'>\r\n//「わかってる。\r\n//　だがこう考えてみろ、ジョージ――彼女は\r\n//果たして愚劣だろうか？」\r\n\"I know. But ask yourself this, George. Is she a fool?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30635,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0031020b02'>\r\n//「いいえ。\r\n//　黄色人種らしい陰湿な計算能力には長けて\r\n//いると思われます。だからこそ余計に――」\r\n\"No. She clearly exhibits the weasel-like cunning characteristic of the yellow races. That is precisely why I―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31016,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031030b03'>\r\n//「ならば自分、あるいは大和にとっての損得\r\n//も勘定するだろう。\r\n//　彼女の言葉を覚えているか？　ロシアの熊\r\n//よりは英国紳士。実際それはその通りだ」\r\n\"Then trust that she will act in her own best interests, if not those of Yamato as a whole. Remember what she said? Better John Bull than the White Bear. She's absolutely right.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031040b03'>\r\n//「ロシアに屈すれば農奴にされるだけなんだ\r\n//からな。中央アジアにかつて存在した諸国の\r\n//現状が証明しているように。\r\n//　六波羅幕府に至っては問題外だろう？」\r\n\"If Yamato falls to the Russian Empire, all that awaits them is a life of forced labor. One look at Central Asia is enough to tell you that. And of course, submitting to the shogunate is out of the question.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031050b03'>\r\n//「彼女はよもや、三者のうちからの恋人選び\r\n//を間違えたりはすまいよ。\r\n//　それで良しとしておこうじゃないか。後は\r\n//……そうだな」\r\n\"Believe me, she won't make a mistake choosing her bedmate. Let's be satisfied with that.\r\n  The only thing left...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32483,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0031060b02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32634,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031070b03'>\r\n//「彼女が<RUBY text='・・・・・'>賢過ぎない</RUBY>ことを願おう。\r\n//　そんなところだ」\r\n\"Is to pray that she's not㉗<I>too</I> clever.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32913,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0031080b02'>\r\n//「……やはり、自分には……」\r\n\"...Still, sir...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33098,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031090b03'>\r\n//「もう言うな。\r\n//　少佐の懸念は胸に留めておく」\r\n\"Enough. Your concerns are duly noted.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33323,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0031100b02'>\r\n//「はっ」\r\n\"Sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33466,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031110b03'>\r\n//「重要なのは駒の動きを把握して使うことだ。\r\n//<RUBY text='ポーン'>歩兵</RUBY>は前に一歩しか進めない。<RUBY text='ビショップ'>司教</RUBY>は斜めに\r\n//走る。そいつをわかっていればいい」\r\n\"The important thing is understanding how your pieces behave. As long as you remember that pawns move one space forward while bishops move diagonally, you're golden.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031120b03'>\r\n//「その意味で、彼女も、あの痩せこけた男も\r\n//全く同じことだ。\r\n//　そうじゃないか？」\r\n\"In that sense, she's no different from that skinny guy. Understand?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34295,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0031130b02'>\r\n//「……はい。\r\n//　それは理解できます」\r\n\"...Yes. That, I understand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34504,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031140b03'>\r\n//「なら、そういうことさ」\r\n\"Then let's leave it at that.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031150b03'>\r\n//「……それにしても」\r\n\"...Still.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34835,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0031160b02'>\r\n//「はい」\r\n\"Sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34978,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031170b03'>\r\n//「ウィローの太鼓腹、マタ・ハリとはよくも\r\n//言ったもんだな。\r\n//　知ってるだろう？　彼女がフランスで処刑\r\n//された時の罪状は単なるスパイじゃない」\r\n\"Mata Hari, is it? That fat bastard Willow has a way with words.\r\n  You know the story, don't you? Mata Hari wasn't executed just for being a spy.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/ma03/0031180b03'>\r\n//「<RUBY text='・・'>二重</RUBY>スパイだ。\r\n//　欧州史に名だたるかの売女は、フランスと\r\n//ドイツの双方に向けて足を開いていた」\r\n\"She was executed for being a㉓<I>double agent.</I> That most infamous of Europe's whores spread her legs for Germany and France at the same time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35883,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma03/0031190b02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ }
+]

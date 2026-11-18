@@ -1,0 +1,162 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　俗説に曰く……\r\n\r\n//　千子村正と五郎正宗は同じ師のもとで業を学んだ。\r\n//　共に天性の才を示したが、性質は全く逆であった。\r\n\r\n//　あるとき師は二人に刀を打たせ、それを川へ立てた。\r\n\r\n//　村正の刀は漂ってきた木の葉を斬り。\r\n//　正宗の刀は木の葉を斬らずに逃した。\r\n\r\n//　――刃は斬るべきを斬り斬らぬべきは斬らぬが最上。\r\n//　師はそう云い、村正ではなく正宗を賞賛した。\r\n\r\n//　…………だが。\r\n//　\r\n//　武器、刃というものの本質を正しく<RUBY text='あらわ'>顕</RUBY>していたのは、\r\n//果たしてどちらであったのだろう。\r\n  Legend tells of two smiths, Muramasa and Masamune. These two masters studied their craft together, yet while alike in skill, they were opposed in temperament.\r\n\r\n  One day, their teacher bade them each forge a sword, then stand those swords in a nearby river.\r\n\r\n  Muramasa's sword cut every leaf that floated past. Masamune's sword spared them.\r\n\r\n  The supreme blade, their teacher said, cuts only what it must. Thus, it was Masamune's sword, not Muramasa's, which passed the test that day.\r\n\r\n  ...This is a legend, and legends may at times speak the truth.\r\n\r\n  With that in mind...<K>\r\n  Which of these smiths㉓<I>truly</I> understood the Way of the Sword?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1619,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060010a14'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1740,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/mb04/0060020a15'>\r\n//《――――御堂》\r\n《...Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1894,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060030a14'>\r\n//「ん……」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2004,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060040a14'>\r\n//「……景明……」\r\n\"Kageaki...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2130,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060050a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2248,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060060a14'>\r\n//「今は、おまえに用はない。\r\n//　<RUBY text='い'>去</RUBY>ね」\r\n\"Begone. I have no business with you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2454,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060070a00'>\r\n//「そうはいかぬ」\r\n\"But I have business with you, Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2617,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060080a14'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2726,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060090a00'>\r\n//「大和は<RUBY text='おまえ'>銀星号</RUBY>という悪夢にもう飽いた。\r\n//　今宵で……幕を引かせてもらう」\r\n\"Yamato has suffered this nightmare long enough. It ends... tonight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3032,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060100a14'>\r\n//「……ほぅ……」\r\n\"...Does it now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3162,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/0060110a01'>\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3274,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/mb04/0060120a15'>\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3398,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060130a14'>\r\n//「あの狂犬が見当たらぬようだが？」\r\n\"Have you misplaced your pet?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3568,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060140a00'>\r\n//「残してきた」\r\n\"I left her behind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3707,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060150a14'>\r\n//「何故だ？」\r\n\"Why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3820,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060160a00'>\r\n//「同じ事だからだ。\r\n//　俺の手でお前を倒そうと、彼女の手でそれ\r\n//を為そうと」\r\n\"Because it makes no difference whether she kills you, or I do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4095,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060170a14'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4204,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060180a00'>\r\n//「お前が言った通りだ、銀星号。\r\n//　善悪相殺は武の宿命」\r\n\"You were right, Ginseigo. All might obeys the Law of Balance.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060190a00'>\r\n//「如何にしても――逃れようは無い」\r\n\"There is no escaping it. For anyone.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4626,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060200a14'>\r\n//「…………ふ」\r\n\"...Heh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4745,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060210a14'>\r\n//「ふふふ……ははははははは！」\r\n\"Hehehehe... HAHAHA<br>HAHAHAHA!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4912,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060220a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5030,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060230a14'>\r\n//「そう……それでいい。\r\n//　妄念から醒めたようだな、景明！」\r\n\"Good... Good! At last, you've awakened!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5248,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060240a00'>\r\n//「ああ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5364,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060250a14'>\r\n//「では戯れ合おう。\r\n//　可愛い景明、この指で慈しみながら<RUBY text='いざな'>誘</RUBY>って\r\n//やるぞ……」\r\n\"Then let us dance, my darling Kageaki. My loving touch shall lead you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5668,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060260a14'>\r\n//「武の極みへ！　高き果てへ！\r\n//　天下万民を<RUBY text='みなごろ'>鏖</RUBY>し、世界への完全勝利を以て、\r\n//<RUBY text='かみ'>至高</RUBY>の座へ登らん!!」\r\n\"Higher! Ever higher! To the pinnacle of might! The world shall burn! Mankind shall perish! And I, victorious, shall mount heaven's throne!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6099,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060270a00'>\r\n//「そんなところへは行かぬ。\r\n//　行かせもせぬ」\r\n\"There will be no throne, Ginseigo. Heaven is no place for you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6328,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060280a00'>\r\n//「俺の妄念はお前が断った。お前の妄念は俺\r\n//が断つ。血の色に腐った夢はここで終わりだ。\r\n//　銀星号――」\r\n\"You woke me from my madness. Now I shall do the same.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6633,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0060290a00'>\r\n//「お前はもう天へ昇らない。\r\n//　今日ここで、俺がお前を地へ墜とす!!」\r\n\"Your dream is steeped in blood and death. No more. My sword shall see you to hell!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6914,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060300a14'>\r\n//「吼えたな、景明！\r\n//　我が道を断つと誓うか！」\r\n\"Bold words, Kageaki! So you're here to end my dream!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7128,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060310a14'>\r\n//「ならば手心は加えまい。\r\n//　白銀の星と呼ばれし光の<RUBY text='ちから'>能力</RUBY>、その精粋を\r\n//見せてくれる――」\r\n\"So be it. I shall offer no quarter. Today, you face the true power of the Silver Star!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7466,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0060320a14'>\r\n//「冥府へ転げ落ちぬよう、命をしかと掴んで\r\n//おけ!!」\r\n\"Resist with all your might now, lest you see hell before me!\"\r\n",
+  "pt": ""
+ }
+]

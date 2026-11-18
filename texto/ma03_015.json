@@ -1,0 +1,882 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　一条の頷きから視線を外し、注意をレースに戻す。\r\n//　特に動きはない。開始直後と同様――熾烈な争いが\r\n//繰り広げられている。\r\n\r\n//　俺は暫し、その模様に見入った。\r\n  I return my attention to the circuit. As before, the racers are jockeying violently for position. I watch with no small interest.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 596,
+  "en": "\r\n//　眼下の状況は推移すれど異変なし。\r\n//　隣には一条。\r\n\r\n//　大鳥主従の姿は欠けている。\r\n//　香奈枝嬢の髪に砂が絡んだとの事で、体を洗い流し\r\n//に行った。\r\n  Several minutes pass with no significant developments on the track. Ichijo is beside me. The Otori pair are absent. The captain said that she wanted to wash the sand out of her hair.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1015,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150010a00'>\r\n//「お前はいいのか。\r\n//　オフロードコースから相当の砂塵が飛んで\r\n//きているようだが」\r\n\"Are you all right? There's quite a bit of sand and dust coming from the track.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1315,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150020a02'>\r\n//「平気です。\r\n//　こんなの、別に気になりません」\r\n\"I'm fine. It doesn't bother me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1516,
+  "en": "\r\n//　事もなげにそう云う、一条の頬や髪は所々白い。\r\n//　元が整った容貌をしているだけに、些か目立つ。\r\n\r\n//　女性なのだ。もう少し、身嗜みには気を払った方が\r\n//良いと思うが……\r\n//　物の考え方は人それぞれ。意見の押し付けは迷惑と\r\n//いうもの。\r\n\r\n//　――だが、気になる。\r\n//　他人と思えば見過ごせようが、今この少女は仮にも\r\n//自分の部下。\r\n\r\n//　保護下にある。\r\n//　そう考えると、好きにすればいいとは思い切れない\r\n//部分があった。\r\n\r\n//　……余計な世話ではあろうが。\r\n//　俺は半ば衝動的に、指を伸ばしていた。\r\n  Though she sounds unconcerned, her face and hair are dotted with patches of white sand, which stand out all the more for the fineness of her features.\r\n\r\n  I feel that a girl like her should take more care of her appearance, but that is just my opinion. It would be rude to make an issue of it.\r\n\r\n  Still, it does bother me a little. It would be easy to ignore if she were a stranger, but she is in my care, if only temporarily. I'm less inclined to overlook it knowing that I am responsible for her.\r\n\r\n  Unable to resist the impulse, I reach out and touch her hair.\r\n\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2829,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150030a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2947,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150040a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3065,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150050a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3183,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150060a02'>\r\n//「あ、あのぉ……\r\n//　湊斗さん？」\r\n\"U- Um... sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3345,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150070a00'>\r\n//「何か」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3461,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150080a02'>\r\n//「その、何を……」\r\n\"What are you doing?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3607,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150090a00'>\r\n//「砂を取っている」\r\n\"Picking the sand out of your hair.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3768,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150100a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3886,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150110a02'>\r\n//「す、す、すみませんっ！\r\n//　お手を煩わせてっ……」\r\n\"I- I'm sorry!\" Ichijo cries in dismay. \"I didn't mean to―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4121,
+  "en": "\r\n//　一条は、あわあわした。\r\n//　大体、何を考えたのか知れる。\r\n  It's clear what she's thinking.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4255,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150120a02'>\r\n//「すぐ、やりますから――」\r\n\"I'll do it myself!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4412,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150130a00'>\r\n//「違う。\r\n//　別に婉曲な催促をしたわけではない」\r\n\"That wasn't my intent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4604,
+  "en": "\r\n//　手巾を取り出し、未使用の面で頬の砂を拭う。\r\n  I take out my handkerchief and wipe her face with the clean side.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4753,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150140a00'>\r\n//「お前が気にしないのならそれでいい。\r\n//　ただ俺が気になっただけだ」\r\n\"It's fine that you don't mind. Just allow me to indulge myself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5016,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150150a02'>\r\n//「……すみません。\r\n//　見苦しい格好ですよね」\r\n\"...Sorry. I must look like a mess.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150160a02'>\r\n//「あの、すぐ洗ってきます」\r\n\"I'll go wash up!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5364,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150170a00'>\r\n//「催促ではないと言ったろう」\r\n\"I said that's not necessary.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5534,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150180a02'>\r\n//「でも……」\r\n\"But...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5658,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150190a00'>\r\n//「実際、見苦しくはない。\r\n//　お前には少し不思議な所がある」\r\n\"You don't look poorly, really. There is something about you...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150200a00'>\r\n//「汚れに外観を損なわれる事がない、とでも\r\n//云えば良いのか……\r\n//　思えばお前との遭遇は身嗜みを整えてとは\r\n//いかぬ状況が多かったが」\r\n\"It's like you have a quality that no amount of dirt can sully.\r\n  Come to think of it, our previous encounters were in circumstances that didn't lend themselves to proper grooming.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6375,
+  "en": "\r\n//　野犬と戦っていたり武者に斬られかかっていたり。\r\n  The last, she was being attacked by a musha. Before that, a wild dog.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6534,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150210a00'>\r\n//「お前はいつも綺麗に見えた」\r\n\"But I've always found you beautiful.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6712,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150220a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6836,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150230a02'>\r\n//「えっ？」\r\n\"Uh―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6956,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150240a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7074,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150250a02'>\r\n//「……!?　あ、……ぅ……」\r\n\"Huh!? Ah... uh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7229,
+  "en": "\r\n//　一条は再び、あわあわした。\r\n//　今度は何を考えたのやら。\r\n  This time, I'm not quite certain how to assess her reaction.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7392,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150260a00'>\r\n//「言わば、刀の美貌なのかもしれない。\r\n//　血と泥に塗れていようが自然で、美しい」\r\n\"In a sense, you're like a fine katana, a blade whose natural beauty is untainted by blood and grime.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150270a00'>\r\n//「お前はそれで良いと思う。一条。\r\n//　自分で気にならないなら、そのままでいろ」\r\n\"I think you're fine the way you are. If you don't mind, then don't let it bother you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8002,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150280a02'>\r\n//「…………。\r\n//　刀……」\r\n\"...A katana...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8153,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150290a02'>\r\n//「あたし、そういう風に見えますか？\r\n//　湊斗さんの眼から」\r\n\"Is that really how I seem to you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8371,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150300a00'>\r\n//「ああ。\r\n//　だから傍らにいる人間としては、<RUBY text='・・・'>手入れ</RUBY>も\r\n//したくなる」\r\n\"Yes. Which is why you could say I had the urge to 'polish' you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8662,
+  "en": "\r\n//　もしかするとこれは酷い言い草ではないのかと思い\r\n//つつ、手は休めずに繕いを続ける。\r\n//　幸い、怒り出す気配は伝わってこなかった。\r\n  Though slightly concerned that this choice of words might offend her, I continue running my fingers through her hair. Fortunately, she does not seem upset.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9026,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150310a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9144,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150320a00'>\r\n//「こうされると、生理的不快感等を覚えるか」\r\n\"Does this evoke <br>displeasure?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9339,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150330a02'>\r\n//「いいえ……」\r\n\"No...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9465,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150340a00'>\r\n//「そうか。\r\n//　なら続けるが、構わないか」\r\n\"Good. Then do you mind if I continue?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9663,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150350a02'>\r\n//「……はい。\r\n//　お願いします」\r\n\"...No. Please do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9826,
+  "en": "\r\n//　了承を得て、髪へ指先を向ける。\r\n//　やはりかなりの砂粒が絡み付いているようだった。\r\n\r\n//　一緒に髪を抜いたりせぬよう細心の注意を払いつつ、\r\n//砂を一粒一粒取り去ってゆく。\r\n//　一条はおとなしく、俺がするに任せた。\r\n  There's still plenty of sand in her hair, so I return to my work, picking out the grains one by one while taking care not to pull out any hairs along with them. Ichijo sits quietly.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10337,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150360a02'>\r\n//（かたな……\r\n//　そんな風に言われたの、初めてだけど）\r\n(A katana... That's the first time anyone's said that to <br>me.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10579,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150370a02'>\r\n//（……なんだろ。\r\n//　なんか……すっきりとして、嬉しい）\r\n(But for some reason... it feels nice.)\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150380a02'>\r\n//（父様がもし、今も生きていたら……\r\n//　やっぱり、そう言ってくれたのかな……）\r\n(If Father were still alive, would he have said the same thing?)\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150390a02'>\r\n//（そんな気がする……）\r\n(I think... maybe he would.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11218,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150400a00'>\r\n//「大体は取れたか」\r\n\"I think I got most of it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11370,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150410a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11488,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150420a00'>\r\n//「どうだ？　一条」\r\n\"Ichijo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11622,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150430a02'>\r\n//「……あっ。\r\n//　その」\r\n\"...Ah, um...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11768,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150440a02'>\r\n//「ええと……\r\n//　前の方にもう少し、付いているような気が\r\n//します」\r\n\"I... think there's still a little stuck to the front.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12019,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150450a00'>\r\n//「そうか？\r\n//　こちらに頭を向けてくれ」\r\n\"There is? Turn this way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12201,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150460a02'>\r\n//「はいっ」\r\n\"Sure!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12321,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150470a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12439,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150480a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12557,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150490a00'>\r\n//「見当たらないが……\r\n//　奥か？」\r\n\"I don't see it. Is it deeper in?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12738,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150500a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12856,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150510a00'>\r\n//「一条？」\r\n\"Ichijo?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12978,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150520a02'>\r\n//「……父様の……匂いがする……」\r\n\"...You smell like him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13148,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150530a00'>\r\n//「？」\r\n\"?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13258,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150540a03'>\r\n//「何してやがりますかそこの二名ーーーッ!!」\r\n\"WHAT THE BLEEDING JESUS IS THIS!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13462,
+  "en": "\r\n//　唐突な旋撃は。\r\n//　俺の首をきっかり九〇度、横方向へ打ち倒した。\r\n\r\n//　とても痛い。\r\n  A sudden roundhouse kick snaps my neck to a ninety degree angle.\r\n\r\n  It's quite painful.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13693,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150550a00'>\r\n//「……大尉殿」\r\n\"...Captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13825,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150560a02'>\r\n//「…………え!?\r\n//　じっ、ＧＨＱ！　てめぇいつからそこに！」\r\n\"G- GHQ!? Where did you come from!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14046,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150570a03'>\r\n//「おーおーおー。\r\n//　お約束な台詞吐いてくださいますことね！」\r\n\"Way to play dumb, little girl! I know what you were <br>doing!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14308,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150580a03'>\r\n//「てことはやっぱり状況は見ての通り！\r\n//　いちゃいちゃしてましたのねっ！　乳繰り\r\n//合ってましたのね！　揉んだり触ったりして\r\n//ましたのね！　真っ昼間っから！」\r\n\"How far did you get!? First base? No, second! Don't tell me you made it all the way to third! And in broad daylight!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14767,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150590a03'>\r\n//「わたくしがいないのをいいことにっ！」\r\n\"The second I turn my back, you're at it like rabbits!\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14988,
+  "en": "\r\n//　成程。\r\n//　そのように見えていたのか。\r\n\r\n//　一瞬前までの状況を客観的に把握してみる。\r\n//　\r\n//　…………無理はないのかもしれない。\r\n  Ah, so she thought that we were engaged in lewd conduct.\r\n\r\n  I replay the exchange with Ichijo from a third-person view.<K>\r\n  ...I suppose that I can't blame her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15362,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150600a00'>\r\n//「大尉殿。誤解です」\r\n\"Captain, this is a misunderstanding.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15528,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150610a02'>\r\n//「そっ、そうっ。誤解！\r\n//　ただ砂っ、砂を取ってもらってただけでっ」\r\n\"Y- Yeah! That's right! It was the sand! He was just picking sand out of my hair!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15808,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150620a03'>\r\n//「えーい聞こえません聞きたくありません！\r\n//　わたくしが知りたいことなどもはやひとつ\r\n//きりです！」\r\n\"I'm not listening! I'm not listening! There's only one thing I want to know!\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150630a03'>\r\n//「景明さま！」\r\n\"Kageaki!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16269,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150640a00'>\r\n//「はい」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16385,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150650a03'>\r\n//「挿れた？」\r\n\"Was it a homerun?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16529,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150660a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16647,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0150670a04'>\r\n//「お嬢さま。\r\n//　なんつーかあんた最低でございます」\r\n\"You're a real louse, Mistress, and I say that with all due respect.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16890,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150680a03'>\r\n//「だってだってっ！\r\n//　そこが核心なんですもの！　ふたりがもう\r\n//抜き差しならない関係になってしまっていた\r\n//ら、割り込む余地がないじゃないっ！」\r\n\"But that's the pressing question here! I need to know if there's still a peg to hang my coat on!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17308,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150690a03'>\r\n//「ちなみに今のは洒落ですのよ！」\r\n\"And yes, that means what you think it means!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17509,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0150700a02'>\r\n//「おまえ<RUBY text='マジ'>真</RUBY>最低だ」\r\n\"I hate you so much.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17682,
+  "en": "\r\n//　無駄に大騒ぎになった。\r\n  Is this really necessary?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17761,
+  "en": "\r\n//　何やかやの末、再び四人で競技を見守る。\r\n//　そうして、すぐの事だった。\r\n  After the madness has passed, we settle down to watch the race.\r\n\r\n  And that's when it happens.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17981,
+  "en": "\r\n//　状況の膠着を見て取って、席を立つ。\r\n//　小用のためだ。若干の尿意を覚えていた。\r\n  After several minutes pass with no significant developments on the track, I feel the urge to use the restroom.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18227,
+  "en": "\r\n//　サーキットコースに隣接したサービス区画へ向かう。\r\n//　大鳥大尉が同行した。髪に砂が絡んだので洗い流し\r\n//たいらしい。長く艶のある髪だが、それだけに不便も\r\n//多いようだ。\r\n  Excusing myself, I leave and head for the hotel adjacent to the track. Captain Otori joins me, saying that she wants to wash the sand out of her hair. I suppose that hair as long and luxurious as hers is difficult to maintain.\r\n\r\n//　多大な金が投入される装甲競技は紳士淑女の社交場\r\n//という側面も持つため、そうした贅沢といえば贅沢な\r\n//需要にも応えられるだけの施設を有する。\r\n//　大尉はホテルの一室を借用した。\r\n  Because the armor races are as much an excuse for rich corporate sponsors to rub shoulders as they are a spectator sport, it is necessary to cater to those who require a certain level of accommodations. This hotel serves that purpose.\r\n\r\n//　用便を済ませた後、その部屋へ向かう。\r\n//　……扉を見ただけで、一晩借りるための費用が推量\r\n//され<RUBY text='・・'>ない</RUBY>ような部屋だった。\r\n  After finishing my business, I head to the captain's room, intending to escort her back to the circuit.\r\n  However, I find myself too awestruck by the sheer majesty of the door to actually knock on it. If the door alone is this magnificent, how much must it cost to rent the room itself, I ponder.\r\n\r\n//　警官の収入でここを宿に選ぶなら、月のうち二九日\r\n//は野宿する必要があろう。そこが理解の限度だった。\r\n//　髪を洗う為だけにこんな部屋を借りてしまう大尉の\r\n//経済感覚は、想像するになかなか恐ろしいものがある。\r\n  The best I can manage is a vague sense that if a police officer wanted to stay one night in such a room, he would have to be willing to spend the remainder of the month on the street.\r\n\r\n  The captain's willingness to rent this room for the sake of a mere shower clearly stems from a mentality that fiscally-impaired civil servants can never hope to comprehend.\r\n  After some moments, I finally steel myself to enter.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20465,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150710a03'>\r\n//「景明さま？」\r\n\"Is that you, dear?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20613,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150720a00'>\r\n//「はい」\r\n\"It's me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20733,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150730a03'>\r\n//「どうぞー」\r\n\"Come in!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20868,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150740a03'>\r\n//「少々お待ちくださいましね。\r\n//　すぐに身を整えますから」\r\n\"Make yourself comfortable. I'll be with you in a minute.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21118,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150750a00'>\r\n//「……は」\r\n\"...All right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21246,
+  "en": "\r\n//　しどけない姿を前に、いささか息を詰める。\r\n//　湯を浴びたのか。白磁の肌が今は薄桃色に上気し、\r\n//そしてわずか一枚の布だけがその上を覆っている。\r\n\r\n//　無論そんなものでは柔肌から立ち昇る湯気を隠す事\r\n//すらできない。\r\n//　蠱惑的な匂いが脳髄を甘く刺激した。\r\n\r\n//　しかし香奈枝嬢はこれが貴顕の余裕というものか、\r\n//まったく<RUBY text='てん'>恬</RUBY>としている。\r\n  For a moment, I doubt my own eyes. The captain is standing before me, her porcelain skin, flushed from the heat of the shower, covered only by a flimsy towel.\r\n\r\n  It does nothing to hold back the steam rising from her shapely limbs. I can feel an erotic scent worming its way into my brain.\r\n\r\n  But despite her nakedness, the captain's bearing is calm―regal, even―as though to say that such concerns are beneath her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22201,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0150760a04'>\r\n//「はしたのうございますよ、お嬢さま」\r\n\"You're being immodest, Mistress.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22387,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150770a03'>\r\n//「あら、どうして？」\r\n\"Oh, am I?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22535,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150780a00'>\r\n//「失礼致しました。\r\n//　自分の方こそ、お迎えに上がるのが少々早\r\n//過ぎたようです」\r\n\"My apologies. I should have waited a little longer before coming to get you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22830,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0150790a04'>\r\n//「良いですかお嬢さま。\r\n//　妙齢の<RUBY text='にょしょう'>女性</RUBY>たるもの、殿方に肌を見られた\r\n//時は直ちに暴力衝動に支配され、攻撃を行わ\r\n//なくてはなりませぬ」\r\n\"Mistress, when a beautiful maiden such as yourself is caught in a compromising position by one of the male persuasion, she must immediately let the destructive impulse take over her body.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23348,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0150800a04'>\r\n//「この際は極めて苛烈に。\r\n//　相手の意識を奪うだけの打撃を加える必要\r\n//がありますゆえ。また方法は、素手や武器に\r\n//よる殴打よりも重量物による投擲が適切です」\r\n\"It is necessary in these situations to ensure the offender's complete loss of consciousness. A heavy thrown object is especially useful for this purpose.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23832,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0150810a04'>\r\n//「そこのブロンズ像などがよろしゅうござい\r\n//ましょう」\r\n\"Might I suggest that bronze statue by the wall?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24058,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150820a00'>\r\n//「せめてマグカップ程度にして頂けないもの\r\n//でしょうか」\r\n\"Could I request that mug instead?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24273,
+  "en": "\r\n//　奪われるものを意識だけで済ませるために。\r\n  Otherwise I might end up losing more than just consciousness.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24415,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150830a03'>\r\n//「もう、ばあやったら。\r\n//　ほかの方ならいざ知らず、景明さまとの間\r\n//にそんな他人行儀な振舞いなんていらないで\r\n//しょう？」\r\n\"Now, Sayo, this is Kageaki we're talking about. There's no need to be so formal with him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24793,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0150840a04'>\r\n//「これはこれで親愛表現なのでございますよ。\r\n//　まぁ、お嬢さまのようなアプローチの仕方\r\n//もアリではございますが」\r\n\"It's actually a gesture of affection, you know. Though I suppose your approach works just as well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25158,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150850a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25276,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150860a03'>\r\n//「ねぇ、景明さま？」\r\n\"Kageaki, dear?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25429,
+  "en": "\r\n//　細い双眸に、ふと、妖しげな輝きが灯った。\r\n//　猫を思わせるなにか。\r\n  I catch a flash of something alluring and vaguely catlike in her slitted eyes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25625,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150870a03'>\r\n//「このバスタオルの下、お知りになりたい？」\r\n\"Would you like to see what's under this towel?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25843,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150880a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25959,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150890a03'>\r\n//「ふふふ、ご無理はなさらないで。\r\n//　正直に仰ってくださったら、わたくし――」\r\n\"Hehe. No need to be shy. If you just tell me what you want, I'll―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26250,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0150900a04'>\r\n//「お嬢さま。\r\n//　脳内脚本に準拠して話を進めませぬように」\r\n\"Mistress, that script just went out the window.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26482,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150910a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26615,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150920a03'>\r\n//「あら？」\r\n\"Oh?\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150930a03'>\r\n//「……えぇと……\r\n//　景明さま？」\r\n\"Um... darling?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26906,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150940a00'>\r\n//「自分は女性を好みます。\r\n//　特に、大尉のようにお美しい方は」\r\n\"I enjoy looking at naked women, especially those as attractive as yourself.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150950a00'>\r\n//「素肌を見せて頂けるなら、喜んで拝見致し\r\n//ますが」\r\n\"If you wish to show me your body, I will be happy to avail myself of the opportunity.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27425,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0150960a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27558,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0150970a04'>\r\n//「湊斗さま……\r\n//　お会いした時よりむっつり助平であろうと\r\n//拝察しておりましたが、実はむっつりですら\r\n//なく単に助平であられたとは」\r\n\"My good sir... I suspected you for a pervert from the moment we first met, but I never imagined that you would be an㉒<I>unapologetic</I> pervert.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28000,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0150980a04'>\r\n//「侮れぬお方でございます。\r\n//　このさよ、感服仕りました」\r\n\"Most impressive, sir. This will teach me to underestimate you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28247,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0150990a00'>\r\n//「恐縮です」\r\n\"You're too kind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28381,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151000a03'>\r\n//「えぇと……その……」\r\n\"Um... hold on...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28539,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151010a04'>\r\n//「景明さま。マナーでございますよ。\r\n//　とりあえず、扉はお閉めくださいませ」\r\n\"Where are your manners, sir? Please shut the door behind you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28812,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151020a00'>\r\n//「これは、失礼致しました。\r\n//　気付きませず」\r\n\"Ah, pardon me. It completely slipped my <br>mind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29028,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151030a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29161,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151040a04'>\r\n//「さあ、どうぞ。\r\n//　お嬢さま」\r\n\"Now then, Mistress. Go on.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29333,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151050a03'>\r\n//「ど、どうぞって……」\r\n\"G- Go on...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29487,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151060a04'>\r\n//「ほほほ。如何されましたかお嬢さま。\r\n//　先程の勢いで。さっ」\r\n\"Hoho, what's wrong? Just pick up where you left off.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29730,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151070a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29863,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151080a04'>\r\n//「おやおや……\r\n//　これはどうしたことでございましょう」\r\n\"Oh? What does this silence mean?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30077,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151090a04'>\r\n//「このさよめの主人は口だけの女では決して\r\n//ないはずなのでございますが。\r\n//　……湊斗さま、おわかりになられますか？」\r\n\"My mistress certainly isn't the kind of woman who would fail to live up to her word, after all...\r\n  Do you understand the problem, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30486,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151100a00'>\r\n//「は。\r\n//　……大体のところは」\r\n\"Yes. I believe so.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30650,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151110a04'>\r\n//「さすがでございます。\r\n//　ええ……あのままお嬢さまのペースで話が\r\n//進んでいたならば、肌の一つや二つ、笑って\r\n//見せられたことでしょうが」\r\n\"Very astute of you. As you've guessed, my mistress would gladly have shown you a few glorious sights―if you had let her keep hold of the reins.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31099,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151120a04'>\r\n//「しかし何たることか、ここに至って弱点が\r\n//露呈。\r\n//　お嬢さまは、受けに回るとやたら弱かった\r\n//のでございます」\r\n\"But no, you had to go and uncover her weakness. She's really quite timid when she's not calling the shots.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31470,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151130a03'>\r\n//「ばあやーっ！」\r\n\"Sayo!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31608,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151140a04'>\r\n//「ほっほっほっ」\r\n\"Ho ho ho!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31741,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151150a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31859,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151160a03'>\r\n//「あ、あの、景明さま？\r\n//　なんと言いますかしら、ここは少しばかり\r\n//ムードに欠けるというか、乙女のトキメキを\r\n//司る第五元素『萌』が適正値以下というか」\r\n\"Um, Kageaki, dear? This is, how should I put this, rather lacking in mood―in that fifth element, 'moe,' that makes maidens swoon.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151170a03'>\r\n//「ですのでそのあの……」\r\n\"So, well, you see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32481,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151180a04'>\r\n//「逃げております。\r\n//　全力で逃げを打っておりますよ、お嬢さま」\r\n\"You're running, Mistress, like a rabbit from wolves.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32727,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151190a03'>\r\n//「にに逃げてません！\r\n//　わっ、わかりました。少々お待ちください\r\n//まし」\r\n\"I am not! F- Fine, I'll do it! Just give me a minute to prepare.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33007,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151200a03'>\r\n//「だっ、大丈夫……\r\n//　別にどってことない。どってことない」\r\n\"It's nothing... nothing...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33230,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151210a03'>\r\n//「すーはー、すーはー……\r\n//　でっ、では……」\r\n\"Inhale... Exhale...\r\n  O- Okay!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33437,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151220a00'>\r\n//「ご無礼」\r\n\"Pardon me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33562,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151230a03'>\r\n//「――はい？」\r\n\"...Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33699,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151240a00'>\r\n//「戯れが過ぎました。\r\n//　外にて待っております。身仕舞いをお続け\r\n//下さい」\r\n\"I let myself get a bit carried away. I'll wait outside while you finish dressing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33990,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151250a04'>\r\n//「は。\r\n//　すぐに済ませますゆえ」\r\n\"We'll be with you momentarily, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34174,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151260a00'>\r\n//「どうかごゆるりと。\r\n//　失礼します」\r\n\"Please take your time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34351,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151270a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34478,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151280a04'>\r\n//「さ、お嬢さま。お着替えを」\r\n\"Come, Mistress. I've put out your clothes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34662,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151290a03'>\r\n//「…………。何かしら。\r\n//　こう、途方もなく敗北感を覚えるのだけど」\r\n\"...Why do I feel so utterly defeated?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34908,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0151300a04'>\r\n//「まぁ負けておりましたし。\r\n//　お嬢さまもまだまだ未熟者でございます」\r\n\"Because you were, of course. You still have a lot to learn.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35170,
+  "en": "\r\n//◆悔しそうに\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0151310a03'>\r\n//「……くーっ」\r\n\"Waaahhh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35330,
+  "en": "\r\n//　用を済ませ、客席に戻る。\r\n//　……丁度、その時だった。\r\n  I return to the stands, having attended to my business.\r\n\r\n  That's when it happens.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35514,
+  "en": "\r\n//　レースの膠着を見て取って、俺は席を立った。\r\n//　同行者に断りを入れて、コントロールタワーの方角\r\n//へ向かう。\r\n\r\n//　村正の様子を窺うためだ。\r\n  After several minutes pass with no significant developments on the track, I excuse myself and head for the control tower.\r\n\r\n  How is Muramasa getting on?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35892,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151320a00'>\r\n//「……村正」\r\n\"...Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36022,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151330a01'>\r\n//《御堂。\r\n//　どうしたの》\r\n《Mido. What's wrong?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36188,
+  "en": "\r\n//　無論、俺の接近には気付いていただろう。\r\n//　毛筋ほどの驚きも見せず、深紅色の蜘蛛は<RUBY text='メタルエコー'>金打声</RUBY>を\r\n//送ってきた。\r\n\r\n//　仕手と劔冑は二にして一の武者。\r\n//　ひとたび<RUBY text='タテワキ'>帯刀</RUBY>の儀礼によって結び付けられたならば、\r\n//どれほどの距離もどれほどの壁も両者の繋がりを断つ\r\n//ものではない。\r\n  As expected, the metal-echo that greets me shows no hint of surprise at my approach.\r\n\r\n  Master and tsurugi are two halves of one whole. Once joined by the Tatewaki-no-Gi, no distance or barrier can sever their connection.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36893,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151340a00'>\r\n//「大した用があったわけではないが。\r\n//　少し様子を見に来た」\r\n\"Nothing. I just came to check on your progress.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37128,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151350a01'>\r\n//《そう。\r\n//　異常はなし、よ。寄生体は見当たらない。\r\n//もちろん銀星号も》\r\n《Oh. Nothing's changed. Still no sign of the infected tsurugi. Or of Ginseigo, of course.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37433,
+  "en": "\r\n//　淡々と応える村正の、頭はサーキットの方角へ向け\r\n//られている。\r\n//　だが今は、そちらを見ていない。\r\n\r\n//　そう思えた。\r\n//　別に蜘蛛の多眼を把握したのではなく。ただそんな\r\n//気がしたのだった。村正との見えざる繋がりが、俺に\r\n//何かを伝えたのかもしれない。\r\n  Muramasa's head is pointed at the racetrack, but I can tell that her attention lies elsewhere.\r\n\r\n  I'm not sure what precisely gives me this impression. It's not as though I somehow followed the gaze of her compound eyes. Perhaps something reached me through our invisible bond.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38101,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151360a00'>\r\n//「何を見ている？」\r\n\"What are you looking at?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38252,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151370a01'>\r\n//《……わかった？》\r\n《...You can tell?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38405,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151380a00'>\r\n//「別に責めてはいないがな。\r\n//　何となく、お前の気が散っているのは察せ\r\n//られた」\r\n\"I'm not chastising you. I just felt that you might be distracted in some way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38701,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151390a01'>\r\n//《ごめんなさい。\r\n//　新しい<RUBY text='の'>騎体</RUBY>が出てきたらちゃんと見ておく\r\n//から、そこは心配しないで》\r\n《Sorry. I'll check any new units that come out, so don't worry.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39028,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151400a00'>\r\n//「元々心配はしていない」\r\n\"I wasn't worried.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39181,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151410a01'>\r\n//《そう……》\r\n《...Okay.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39317,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151420a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39435,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151430a01'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39563,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151440a01'>\r\n//《……街を見ていたの》\r\n《...I was looking at the city.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39735,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151450a00'>\r\n//「鎌倉か」\r\n\"At Kamakura?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39862,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151460a01'>\r\n//《ええ。\r\n//　変わったなって、思って》\r\n《Yes. I was thinking how much it's changed.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40069,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151470a00'>\r\n//「昔にも、見たことがあるのか」\r\n\"You've seen it before?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40236,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151480a01'>\r\n//《……ええ》\r\n《...Yes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40371,
+  "en": "\r\n//　その頃は、どうだったのか――と。\r\n//　問いかけて、俺はやめた。\r\n  I think to ask what it was like back then, but ultimately decide against it.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40559,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151490a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40677,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151500a01'>\r\n//《聞かないんだ》\r\n《You're not going to ask?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40835,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151510a00'>\r\n//「何とはなしにな」\r\n\"I thought I shouldn't.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40984,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151520a01'>\r\n//《……ふふ。\r\n//　今日はやたらに、<RUBY text='・・・'>伝わる</RUBY>みたいね》\r\n《...Hehe. Things really seem to be getting across today.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41252,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151530a00'>\r\n//「ああ」\r\n\"They do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41372,
+  "en": "\r\n//　それきり、口を閉ざす。\r\n//　ただ二人、風だけを聴いた。\r\n\r\n//　――村正が人として生きた時代は、戦乱の渦中。\r\n//　その頃の鎌倉の様相は、きっと。\r\n  We fall silent. For a time, there is only the sound of the wind between us.\r\n\r\n  When Muramasa was still flesh and blood, Yamato was in the throes of civil war. Kamakura, too, was surely...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41788,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151540a00'>\r\n//「……そろそろ戻る」\r\n\"...Time for me to head back.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41946,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151550a01'>\r\n//《ええ》\r\n《Okay.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42073,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151560a00'>\r\n//「ところで、だ」\r\n\"By the way...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42210,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151570a01'>\r\n//《なに？》\r\n《Yes?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42339,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0151580a00'>\r\n//「俺はどうやって戻るべきなのだろう」\r\n\"How do I get down from here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42521,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0151600a01'>\r\n//《……そもそもどうやって登ってきたの？\r\n//　貴方》\r\n《What I want to know is how you got up here in the first place.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42766,
+  "en": "\r\n//　結局村正に手伝わせて降り、客席へ戻る。\r\n//　……丁度、その時だった。\r\n  I return to the stands with Muramasa's assistance.\r\n\r\n  That's when it happens.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42966,
+  "en": "\r\n//　一条の頷きから視線を外し、注意をレースに戻す。\r\n//　……丁度、その時だった。\r\n  I return my attention to the circuit.\r\n\r\n  That's when it happens.\r\n",
+  "pt": ""
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｃ】\r\n<voice name='ｅｔｃ／駐屯隊Ｃ' class='その他男声' src='voice/mc01/015vs0010e204'>\r\n//「――銃声に警笛？\r\n//　敵襲か!!」\r\n\"That's the alarm! We're under attack!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 448,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｄ】\r\n<voice name='ｅｔｃ／駐屯隊Ｄ' class='その他男声' src='voice/mc01/015vs0020e205'>\r\n//「出会え、出会えーーーっ!!\r\n//　何者かが門を破ったぞ!!」\r\n\"Hurry, men! They're coming from the gate!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 717,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/015vs0030a03'>\r\n//「あら、あら、あら。\r\n//　何だか大変な大騒ぎに」\r\n\"Oh my. What an unwelcoming reception.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 935,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/015vs0040a03'>\r\n//「どうしましょうどうしましょう」\r\n\"Whatever shall I do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1114,
+  "en": "\r\n//【ｅｔｃ／駐屯隊曹長】\r\n<voice name='ｅｔｃ／駐屯隊曹長' class='その他男声' src='voice/mc01/015vs0050e211'>\r\n//「――あの女か!?」\r\n\"Is she the one!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1310,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｃ】\r\n<voice name='ｅｔｃ／駐屯隊Ｃ' class='その他男声' src='voice/mc01/015vs0060e204'>\r\n//「銃を所持しております！」\r\n\"She's armed, sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1514,
+  "en": "\r\n//【ｅｔｃ／駐屯隊曹長】\r\n<voice name='ｅｔｃ／駐屯隊曹長' class='その他男声' src='voice/mc01/015vs0070e211'>\r\n//「よし、分隊横列！\r\n//　<RUBY text='て'>撃</RUBY>ぇーーーーーっ!!」\r\n\"Right! Form line! FIRE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1778,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/015vs0080a03' time=2000>\r\n//「どうしましょう？\r\n\"What shall I do?\r\n<WaitVoice=2000><?>",
+  "pt": ""
+ },
+ {
+  "offset": 1960,
+  "en": "\r\n<voice>\r\n  Oh! I know♪\"\r\n\r\n//　こうしましょう♪」\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2033,
+  "en": "\r\n//【ｅｔｃ／駐屯隊曹長】\r\n<voice name='ｅｔｃ／駐屯隊曹長' class='その他男声' src='voice/mc01/015vs0090e211'>\r\n//「……何ぃ!?」\r\n\"...What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2216,
+  "en": "\r\n//【ｅｔｃ／駐屯隊Ｃ】\r\n<voice name='ｅｔｃ／駐屯隊Ｃ' class='その他男声' src='voice/mc01/015vs0100e204'>\r\n//「えっ？\r\n//　……この距離で全弾外れ……!?」\r\n\"We―missed? How!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2445,
+  "en": "\r\n//【ｅｔｃ／駐屯隊曹長】\r\n<voice name='ｅｔｃ／駐屯隊曹長' class='その他男声' src='voice/mc01/015vs0110e211'>\r\n//「ば、馬鹿者ども！　ちゃんと狙わんか！\r\n//　弾倉交換急げぇっ!!」\r\n\"R- Reload! Aim properly, damn you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2726,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/015vs0120a03'>\r\n//「残念ながらスリーアウトでチェンジです。\r\n//　ここからはわたくしの手番」\r\n\"I'm afraid that's three outs, gentlemen. My turn at the plate.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3005,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/015vs0130a03'>\r\n//「――はい、コールド勝ち」\r\n\"And I believe that's the game.\"\r\n",
+  "pt": ""
+ }
+]

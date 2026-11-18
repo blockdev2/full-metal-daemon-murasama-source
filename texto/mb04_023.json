@@ -1,0 +1,277 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230010a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 337,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb04/0230020b40'>\r\n//《……御堂。\r\n//　東の方で、この者どもの仲間が別の軍勢と\r\n//争っておるようだ……》\r\n《Sounds of battle to the east. The rest of these jackals must have engaged some other force.》\r\n\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb04/0230030b40'>\r\n//《如何する？》\r\n《What is your will?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 786,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230040a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 904,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb04/0230050b40'>\r\n//《――むっ？》\r\n《...Hrm?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1036,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230060b26'>\r\n//「正宗殿！\r\n//　ようやくお会いでき申した」\r\n\"Masamune! We've been searching for you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1236,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230070a02'>\r\n//「……え？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1358,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230080b28'>\r\n//「町に火の手が上がっているのが見えたので、\r\n//もしやと思ったのですが……\r\n//　確かめに来て良かった」\r\n\"We saw the fire and thought that maybe... I'm glad we stopped to look.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1674,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230090a02'>\r\n//「姫さま……」\r\n\"Lady...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1802,
+  "en": "\r\n//　……岡部の桜子姫。その義弟。\r\n//　背後には更に数人の武人が続いている。\r\n  It's the Okabe siblings, with a group of armed warriors at their back.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1996,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230100b28'>\r\n//「よくぞご無事で――」\r\n\"It's good to see you again. I was worried.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2171,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230110b26'>\r\n//「いや、お待ちあれ義姉上。\r\n//　今は再会を祝している場合ではござらん」\r\n\"Wait, sister. There's no time to celebrate.\"\r\n\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230120b26'>\r\n//「正宗殿とこうして出会えた上は、すぐにも\r\n//去就を定めねば……。\r\n//　近くには六波羅のみならず進駐軍もおるの\r\n//ですぞ」\r\n\"Both Rokuhara and GHQ are active in this area. We need to decide how to proceed, and fast.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2773,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230130b28'>\r\n//「……そうですね。\r\n//　正宗様、現在の政情はご存知ですか？」\r\n\"You're right.\" She addresses me. \"Are you aware of what's happened?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3028,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230140a02'>\r\n//「……いや。たぶん何も知らない。\r\n//　ずっと銀星号を追っていたから……」\r\n\"...No. I don't think so. We've been chasing Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3287,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230150b28'>\r\n//「では手短にご説明します。\r\n//　わたくしどもは計画通り、鎌倉から舞殿宮\r\n//殿下をお救いするべく準備を整えたのですが\r\n//――」\r\n\"Then we'll explain briefly. As you know, we planned to evacuate His Highness as soon as we'd gathered our forces.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3680,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230160b28'>\r\n//「実行に移す直前、建朝寺炎上の報を受けま\r\n//した」\r\n\"But before we could, we received word that Rokuhara had burnt Kenchoji to the ground.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3938,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230170a02'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4062,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230180b26'>\r\n//「舞殿宮殿下のご生死は定かならず。\r\n//　そして奇怪なことに、建朝寺へ襲撃を仕掛\r\n//けた当の堀越公方足利茶々丸もその日を境に\r\n//行方を晦ました様子……」\r\n\"We don't know if His Highness escaped the blaze. Stranger still, the governor of Horigoe, who led the attack, has also been reported missing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4522,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230190b28'>\r\n//「ともかくもそんな情況ではどう動くもまま\r\n//ならず、潜伏して情報収集に努めていたので\r\n//すが……そうこうするうちに今度は房総半島\r\n//で銀星号事件がかつてない連続発生を始めて」\r\n\"With nowhere else to turn, we decided to lay low and gather information. But then, suddenly, Ginseigo appeared and started laying waste to Boso.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5021,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230200b26'>\r\n//「その異変に乗ずる格好で進駐軍が動き出し、\r\n//六波羅はこれを看過せず、両者は各地で衝突。\r\n//　……現今、関東一円は斯様な混沌たる情勢\r\n//の只中にござる」\r\n\"The Westerners used this as an excuse to intervene, which Rokuhara took as a declaration of war. Now they're fighting with Rokuhara elements all across Kanto.　It's chaos.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5515,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230210b28'>\r\n//「わたくしどもはせめてできる事だけはして\r\n//おこうと、宮殿下のご無事を信じて探す一方、\r\n//正宗様たちの行方も追っていたのです。\r\n//　……ここでお会いできて良かった」\r\n\"We decided that we should first determine what had happened to His Highness. And also locate you, if we could. We're very lucky to have found you here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6006,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230220b26'>\r\n//「まことに。ろくろくあてもない探索でした\r\n//からな。\r\n//　それはさておいて、今は今後の事でござる」\r\n\"Aye. We were searching nearly blind, after all.\r\n  But the question is, what now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6330,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230230b26'>\r\n//「正宗殿。我らは既に御身を頭領として仰い\r\n//でおり申す。故にご意思を承りたい。\r\n//　我らは――香取に集結せし同志一千名は、\r\n//これより<RUBY text='いずこ'>何処</RUBY>を目指すべきでござろう」\r\n\"You are Masamune's Chosen, our leader. What would you have us do? One thousand warriors await at Katori Shrine, ready to move at your call.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6836,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230240b28'>\r\n//「……今はまさしく五里霧中です。\r\n//　宮殿下の捜索を続けながら、機を窺うべき\r\n//でしょうか……？」\r\n\"I confess that we are at a loss. Should we continue our search for His Highness while we wait for an opportunity to act?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7199,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230250a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7317,
+  "en": "\r\n//　――そうか。\r\n//　そんな事になってしまっているのか。\r\n\r\n//　平穏は失われた。\r\n//　戦乱が始まったのだ。\r\n  So, that's what's been going on. The peace is over. Yamato is at war.\r\n\r\n//　多くの人間が既に死に果て、これからは更に多くが\r\n//死に続ける。\r\n//　それが誰かの故意でもたらされたものであるなら、\r\n//途方もない悪業だ。\r\n  That means this town was only the beginning. Many more will die before it's over. Tens, hundreds of thousands.\r\n\r\n  If someone deliberately paved the way for this to happen, then that person is guilty of the foulest crime.\r\n\r\n//　そして事実、それはあたしの意思がもたらしたのだ。\r\n  And indeed, someone did.\r\n\r\n  I did.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8107,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb04/0230260b40'>\r\n//《……だが。\r\n//　悔いはせず、立ち止まりもせぬ》\r\n《Even so, you will not succumb to regret. You will go on...》\r\n\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb04/0230270b40'>\r\n//《そうなのだな？　御堂……》\r\n《Won't you, Mido?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8493,
+  "en": "\r\n//　ああ。\r\n//　……そうだ。\r\n  Yes. No matter how heavy my guilt, I will go on.\r\n\r\n//　あたしは全ての罪を抱えて、この道を進み続ける。\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8676,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230280a02'>\r\n//「何も変わらない。\r\n//　親王さまがいなくなっても、あたしの――\r\n//あたし達のやることは同じだ」\r\n\"Nothing's changed. Prince or no prince, we do what we set out to do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8981,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230290b26'>\r\n//「……正宗殿」\r\n\"Then...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9109,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230300b28'>\r\n//「では……」\r\n\"You mean...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9238,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230310a02'>\r\n//「戦う」\r\n\"We fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9359,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230320a02'>\r\n//「進駐軍が侵略するなら進駐軍と戦う。\r\n//　六波羅が町を焼くなら六波羅と戦う」\r\n\"If GHQ invades, then we fight GHQ! If Rokuhara burns homes, then we fight Rokuhara!\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230330a02'>\r\n//「大和に仇為す全てが敵だ」\r\n\"We fight everyone who threatens the people of Yamato!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9838,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230340b26'>\r\n//「おお……」\r\n\"Yes...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9963,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230350a02'>\r\n//「暴君も侵略者もいらない。誰も傷つけず誰\r\n//からも奪わない人間だけが残ればいい。\r\n//　この国をそうするのが、あたし達の目指す\r\n//処だ」\r\n\"Let the tyrants and invaders flee or die. Let only the good and righteous remain, those who would never plunder or kill. That's our goal.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230360a02'>\r\n//「あたし達の……正義だ」\r\n\"That's... our justice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10545,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230370b26'>\r\n//「そのお言葉を頂きとうござった！\r\n//　家も名も失いし我ら岡部の一党……かかる\r\n//大義の為に命を擲てるのであればこそ、生き\r\n//永らえた甲斐もありまする！」\r\n\"The very words I've longed to hear! Why else have we endured the shame of defeat, if not to give our lives to this glorious cause! We are with you to the end!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11025,
+  "en": "\r\n//　黒瀬童子が吼える。\r\n//　その隣で、桜子姫も頷いた。\r\n  Kuronose thrusts his fist at the sky. Sakurako nods. Her eyes are bright.\r\n\r\n//　彼らはあたしを信頼している。\r\n//　……あたしのゆく道についてくる。\r\n  They believe in me. They will follow where I lead.\r\n\r\n//　彼らはこれから戦うだろう。あたしを信じたが為に。\r\n//　殺し、殺されるだろう。あたしの正義の為に。\r\n  They will kill and they will die. For me. For my justice.\r\n\r\n//　それは――絶対に、正しくなんかない。\r\n//　例え敵が言語道断の悪であっても、それに戦い殺す\r\n//という手段で報いる者はまた別の悪でしかないのだと、\r\n//あたしは知っている。\r\n  Nothing about that is right. Or good. Even if your enemy is a monster, to end his evil by taking his life is just another act of evil.\r\n\r\n  I know that now. I know that no matter what I believe, this isn't justice. \r\n\r\n//　決して正義たり得ないのだと知っている。\r\n//　知っていながら――その二文字を掲げて、あたしは\r\n//彼らを戦場へ<RUBY text='いざな'>誘</RUBY>うのだ。\r\n  But I will call it justice. And with justice as my banner, I will march them all to war.\r\n\r\n//　正しい事であるはずがない。\r\n//　恐ろしい過ちだ。許されない誤りだ。\r\n  This is wrong. A terrible sin.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12476,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb04/0230380b40'>\r\n//《それでも》\r\n《Even so...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12608,
+  "en": "\r\n//　それでも――――\r\n//　\r\n//　そうしてあたし達が戦った果てに。\r\n  Even so, if we fight to the end...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12749,
+  "en": "\r\n//〝正義〟を掲げて〝悪〟を討ち続ける事ができたなら。\r\n//　いつか――それは生まれ出ずるのではないか。\r\n  If we keep fighting evil and calling that justice...<K> then perhaps the lie will one day become true.\r\n\r\n//　この世には正義があるのだと、\r\n//　悪を許さぬ正義があるのだと、\r\n//　\r\n//　――誰もがそう信じた時。\r\n  When everyone believes that justice is real―that wicked deeds must carry a price―then perhaps mankind will reject evil once and for all, of its own free will, without needing demons like me to punish them.\r\n\r\n//　人々は自らの意思で、悪を捨て去るのではないか。\r\n//　綾弥一条のような者に害されるまでもなく、邪悪と\r\n//離別できるのではないか。\r\n\r\n//　そうなるなら……\r\n//　\r\n//　それは、\r\n//　争わずして人を正しく導く心の法の完成だ。\r\n  If, indeed, that comes to pass...\r\n\r\n  If people can be guided to choose the right path without the need for <br>conflict...\r\n\r\n//　<RUBY text='・・・・・・'>真実の正義だ</RUBY>。\r\n  Then true justice will at last be born into this world.\r\n\r\n//　あたしはそこへゆく。\r\n//　その場所を、目指す。\r\n  True justice. That is my dream.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14064,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230390b26'>\r\n//「では、直ちに参りましょうぞ！\r\n//　香取で同胞達が待っておりまする」\r\n\"Come then! There's no time to lose. We must rendezvous with our comrades at Katori.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14347,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230400a02'>\r\n//「うん。\r\n//　……悪いけど、少し待っててくれ」\r\n\"Yeah... Sorry. Think you could give me some time?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14563,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230410a02'>\r\n//「その前に、やらないといけないことがある\r\n//んだ」\r\n\"There's one thing I have to do first.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14773,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/mb04/0230420b26'>\r\n//「は。\r\n//　それは……？」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14913,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230430b28'>\r\n//「……」\r\n\"......\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230440b28'>\r\n//「正宗様……\r\n//　<RUBY text='・・・'>あの方</RUBY>はどうなされたのです？」\r\n\"If you don't mind my asking, what happened to your companion?\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb04/0230450b28'>\r\n//「ご一緒ではないのですか……？」\r\n\"Is he all right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15440,
+  "en": "\r\n//　応えずに、あたしは歩き出した。\r\n//　\r\n//　――その方角だと知っていた。\r\n  I turn and walk away. I can't remember if Masamune told me, or if I simply felt it somehow, but I already know where I'm going.\r\n\r\n//　正宗が示したのかもしれない。\r\n//　示されるまでもなく、わかったのかもしれない。\r\n\r\n//　あの人が来る。\r\n  I know where he will be.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15871,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230460a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15989,
+  "en": "\r\n//　捨てねばならないものがあった。\r\n//　手に取って、その形を確かめる。\r\n\r\n  I pull the hairpin from my pocket and cradle it in my hand. My fingers brush the lacquered surface, feeling out its shape.\r\n\r\n//　漆塗りの<RUBY text='たまかんざし'>玉簪</RUBY>。\r\n\r\n//　あの人から贈られたもの。\r\n  Minato Kageaki...\r\n  He gave this to me.\r\n\r\n//　湊斗景明。\r\n\r\n  Here is everything I must forsake.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16453,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230470a02'>\r\n//「……っ……」\r\n\"...ngh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16583,
+  "en": "\r\n//　記憶のすべてがそこにある。\r\n//　止め処なく溢れる想いがそこにある。\r\n  All of my memories of him are here. They rise now, called by this emblem as the moon summons the tide.\r\n\r\n//　それは決して、辛くはなかった。\r\n//　痛みはあっても、苦くはなかった。\r\n  I let them come. They do not harm me. There is pain, but it is sweet.\r\n\r\n//　今ならわかる。\r\n//　あの人も迷っていたのだと。綾弥一条と同じように。\r\n//きっとそれ以上に。\r\n  I know now that he too was lost. He had his struggle, as I had mine, though his I'm sure was greater. \r\n\r\n//　なのに、あの人はいつも全力で応えてくれた。\r\n//　あたしが<RUBY text='なじ'>詰</RUBY>っても。頼っても。問い掛けても。\r\n  But even amid that struggle, he always had strength for me. For my insults, my pleas, my questions. He answered them all, with all of his power.\r\n\r\n//　どうして、あの人を恨めるだろう。\r\n  How can I condemn this man? How can I forget our time together, which was so much shorter than it seemed?\r\n\r\n//　振り返ってみれば長くもない、あの人と共に歩んだ\r\n//日々を、どうして忘却の淵に沈めてしまえるだろう。\r\n\r\n//　今は感謝の念しか湧かないというのに。\r\n//　\r\n//　けれど、これはこの先へ持って行くことができない\r\n//ものだった。\r\n  The rage I felt toward him has vanished. Now there is only gratitude.\r\n\r\n  And that is what I must leave behind.\r\n\r\n  These memories, these thoughts, these feelings. I cannot take them with me.\r\n\r\n  They will hold me back, and I will need all of my strength to answer him as he answered me.\r\n\r\n//　この髪挿――\r\n//　この記憶、この想いは、ここへ置いてゆかねばなら\r\n//ないものだ。\r\n\r\n//　訣別のために。\r\n\r\n//　あの人が全力であたしに応えてくれたように、\r\n//　あたしも全力であの人に応えるために。\r\n\r\n  Time to say goodbye.\r\n\r\n//　別れよう。\r\n//　前へ踏みしめる一歩をためらわせる、この想いと。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18744,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230480a02'>\r\n//「――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18874,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230490a02'>\r\n//「…………ッッ！」\r\n\"Ghh...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19008,
+  "en": "\r\n//　噛み砕いた。\r\n//　粉々にして、胃の腑に落とした。\r\n  Shards of lacquer stab into my gums. I swallow them, together with everything they represent.\r\n\r\n//　捨てられない。忘れられない。\r\n//　けれど、持ってはいられない。\r\n  I㉓<I>cannot</I>㉑forget. I cannot leave them behind. But nor can I carry them with me.\r\n\r\n//　――だから、こうするしかなかった。\r\n  This is the only way.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19470,
+  "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb04/0230500b40'>\r\n//《御堂……》\r\n《Mido...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19599,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb04/0230510a02'>\r\n//「行こう。正宗」\r\n\"Come on.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19731,
+  "en": "\r\n//　あの人はもう、そこにいる。\r\n  He's there, just up ahead, waiting with silent calm.\r\n\r\n//　そこに佇んで、あたしが来るのを待っている。\r\n\r\n//　戦うために。\r\n  Waiting... for me.\r\n",
+  "pt": ""
+ }
+]

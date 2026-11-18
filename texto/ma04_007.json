@@ -1,0 +1,107 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070010a12'>\r\n//「……ええ、はい。\r\n//　一通りは様子を見てみたんですがねぇ……」\r\n\"Yes, I went and had a look around.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070020a12'>\r\n//「動きがありません。\r\n//　慌てて引き上げにかかるなんて気配もない\r\n//かわり、警備体制を強化する気配もないって\r\n//按配でして」\r\n\"Nothing's changed. Doesn't look like they're about to leave or anything, but they haven't buffed up their defenses either.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070030a12'>\r\n//「はい……。\r\n//　ちょいとばかし、あてが外れちまった格好\r\n//です」\r\n\"...Yes. It's not what I expected.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070040a12'>\r\n//「これじゃあ村正の始末は期待できませんね\r\n//……ああ、はい。そりゃもう。\r\n//　わかってます。あたしの責任です……」\r\n\"I don't think they can handle Muramasa.\r\n  ...Yes, sir, I know. It's my responsibility.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070050a12'>\r\n//「……どうにかしますよ。\r\n//　なに、高見の見物を決め込もうなんて欲を\r\n//かかなきゃ、まだ手はありますんで……」\r\n\"I'll take care of it. I was hoping I could just sit back and watch... but I still have a few cards to play.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1806,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070060a12'>\r\n//「へ、へ、へ。\r\n//　ま、そうご心配なく……」\r\n\"Heh heh heh... Don't worry. Got it covered.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2022,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070070a12'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2149,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070080a12'>\r\n//「そうそううまくはいかねぇか。\r\n//　へっへぇ……」\r\n\"Never easy, is it? Heh heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2360,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070090a12'>\r\n//「まぁ……\r\n//　それならそれで、腹を括るだけのことだぁ\r\n//な？」\r\n\"Guess I'll just have to bite the bullet. Be seeing you soon...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2623,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0070100a12'>\r\n//「……村正ァ……」\r\n\"...Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2771,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070110b02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2922,
+  "en": "\r\n//【ｅｔｃ／ＧＨＱ兵士Ａ】\r\n<voice name='ｅｔｃ／ＧＨＱ兵士Ａ' class='その他男声' src='voice/ma04/0070120e004'>\r\n//「Ｄ８号からの連絡ですか？」\r\n\"Was that Agent D8, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3145,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070130b02'>\r\n//「ああ。\r\n//　どうも、事は奴の思い通りに進んでいない\r\n//ようだな」\r\n\"Yes. It seems the mission is not going smoothly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3415,
+  "en": "\r\n//【ｅｔｃ／ＧＨＱ兵士Ａ】\r\n<voice name='ｅｔｃ／ＧＨＱ兵士Ａ' class='その他男声' src='voice/ma04/0070140e004'>\r\n//「所詮は黄色い猿です。\r\n//　口で言うことの半分も何かができるわけで\r\n//はありません」\r\n\"He's just another yellow ape, sir. I'd be surprised if he could do half of what he claims.\"\r\n\r\n//【ｅｔｃ／ＧＨＱ兵士Ａ】\r\n<voice name='ｅｔｃ／ＧＨＱ兵士Ａ' class='その他男声' src='voice/ma04/0070150e004'>\r\n//「中佐殿も何をお考えなのか……。\r\n//　あのような奴らに頼らずとも」\r\n\"What's the colonel thinking, trusting these savages?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4084,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070160b02'>\r\n//「私は、貴官の意見を求めたか？」\r\n\"Did I ask for your opinion?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4286,
+  "en": "\r\n//【ｅｔｃ／ＧＨＱ兵士Ａ】\r\n<voice name='ｅｔｃ／ＧＨＱ兵士Ａ' class='その他男声' src='voice/ma04/0070170e004'>\r\n//「……失礼致しました」\r\n\"...No, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4488,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070180b02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4633,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070190b02'>\r\n//（雪車町が失敗するなら、それはそれで構わ\r\n//ない。それで別に何を失うわけでもない。\r\n//　だが……）\r\n(We lose nothing even if Sorimachi fails. However...)\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070200b02'>\r\n//（六波羅の兵器。\r\n//　赤い武者……）\r\n(This Rokuhara weapon... the red musha...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5165,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070210b02'>\r\n//（……大鳥大尉）\r\n(And Captain Otori...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5336,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070220b02'>\r\n//（邪魔者は早めに始末するに限る。\r\n//　<RUBY text='アウァ・アメリカ'>偉大なる故郷</RUBY>のためにも）\r\n(We must eliminate㉒<I>all</I>㉔potential obstacles. Our America is too important to do any less.)\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070230b02'>\r\n//（……雪車町に……\r\n//　任せておくべきでは、ないな）\r\n(...I can't leave this to Sorimachi.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5927,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070240b02'>\r\n//「キャノン中佐に連絡。\r\n//　至急お会いしたいと伝えろ」\r\n\"Inform the colonel that I wish to see him immediately.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6187,
+  "en": "\r\n//【ｅｔｃ／ＧＨＱ兵士Ａ】\r\n<voice name='ｅｔｃ／ＧＨＱ兵士Ａ' class='その他男声' src='voice/ma04/0070250e004'>\r\n//「は」\r\n\"Yes sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6362,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070260b02'>\r\n//「もう一つ。\r\n//　資料情報<RUBY text='・・'>整理</RUBY>班に発令」\r\n\"And contact the Data Disposal Squad.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6610,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0070270b02'>\r\n//「<RUBY text='セットアップ'>出撃準備</RUBY>」\r\n\"Tell them to make ready.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6818,
+  "en": "\r\n//【ｅｔｃ／ＧＨＱ兵士Ａ】\r\n<voice name='ｅｔｃ／ＧＨＱ兵士Ａ' class='その他男声' src='voice/ma04/0070280e004'>\r\n//「……はっ！」\r\n\"...Yes sir!\"\r\n",
+  "pt": ""
+ }
+]

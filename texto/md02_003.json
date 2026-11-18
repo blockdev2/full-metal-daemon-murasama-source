@@ -1,0 +1,172 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　<RUBY text='いずのくに'>伊豆國</RUBY>、堀越御所。\r\n//　\r\n//　庭に面した一間で、朝食の卓と向き合っている。\r\n\r\n//　伊豆半島は山海の幸に恵まれていると聞くが、この\r\n//品目の多さを見るに、疑念を差し入れる余地は欠片も\r\n//無さそうであった。\r\n//　気負いのない自然な膳立てにしてこの彩りは凄い。\r\n\r\n//　空腹であり、毒飼を危ぶんでいるわけでもないのに\r\n//――寝顔を晒した後でそんな警戒は馬鹿馬鹿しい――\r\n//箸の付け所に迷ってしまう。\r\n//　皿の豊富さにこちらが気負けして、目移りするのだ。\r\n  For what my host insists is just \"your average local breakfast,\" the meal set before me boasts a stunning variety of foods, a repast that lends much credence to Izu's claim of having the richest waters and fields in Yamato.\r\n\r\n  Despite my hunger, I let my chopsticks wander. Not because I fear poison, of course―she had ample opportunity to kill me in my sleep―but because I simply cannot decide where to begin.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1330,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030010a07'>\r\n//「だからさ、あてとしては言いたいわけよ。\r\n//　鯨獲るな鯨獲るなって最近にわかに喧しい\r\n//白人ども、そもそも鯨の数を激減させたのは\r\n//てめーらじゃねえかってな」\r\n\"I've got just one thing to say to all these bleeding-heart whities whining about the whales. <I>You're</I>㉓the ones who made 'em an endangered fucking species! Amirite!?\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030020a07'>\r\n//「<RUBY text='あてら'>大和</RUBY>の捕鯨は生態系まで破壊してねぇ。\r\n//　大量に獲れるほど船も捕鯨技術も発達して\r\n//なかったし、一頭獲れば村が半年遊べるって\r\n//くらい有効に活用してたし」\r\n\"<I>We</I>㉓don't hunt so much it destroys the fucking ecosystem! Yamato never developed mass whaling! Never had the demand! Here, one'll feed a village for six months, 'cause we know what we're doing!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2401,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030030a07'>\r\n//「そもそも狭い島国の中のこったから需要が\r\n//そんなになかった。\r\n//　需要があったのは――世界中の海で獲りに\r\n//獲ってそれでも足りなかったのは、」\r\n\"Nah. The only folks who had the demand, who sailed the world in search of more whales to kill...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2816,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030040a07'>\r\n//「光源にするんで鯨油が幾らでも必要だった\r\n//てめーらだろうがぁ！\r\n//　<RUBY text='エイハブ'>片脚船長</RUBY>どもの乱獲が鯨を滅ぼしかけてん\r\n//だよっ!!」\r\n\"Was㉒<I>you</I> Captain Ahab wannabe motherfuckers! Hunting whales for lamp oil and shit! You're the ones who needed 'em!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3256,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0030050a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3380,
+  "en": "\r\n//　同意も反論も難しい話題であった。\r\n  A difficult topic.\r\n\r\n  While it's true that the West has a longer history of industrial whaling overall, Yamato did greatly expand its whaling activities during the 19th century, as our own demand for lamp oil and fertilizer grew. We've even sent fleets to the Antarctic. So it's not as though Yamato hasn't contributed to the problem.\r\n\r\n//　前代大和でも鯨油を光源、また農薬としても用いる\r\n//需要があり、相当数が獲られた。今世紀に入ってから\r\n//は南氷洋へ進出し乱獲に加担もしている。\r\n//　乱獲史の長さで欧州に及ばないのは確かだが……。\r\n\r\n//　とりあえず、鯨の佃煮に箸を伸ばす。\r\n//　旨かった。\r\n  In any case, I decide to start with the whale simmered in soy and mirin. Delicious.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4245,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030060a07'>\r\n//「それが何だオイ。\r\n//　光源需要がなくなった途端、エコロジーに\r\n//目覚めやがって」\r\n\"Oh, but take away the need for oil, and all of a sudden you <I>loooove</I> conservation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4561,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030070a07'>\r\n//「絶滅の危機だから保護しましょうだー？\r\n//　それが自分らの責任を認めて反省するって\r\n//態度ならまぁ、聞く耳もあるけどさ」\r\n\"Save the whales from extinction? Sure, we can talk about that. Soon as you own up to your share of the killing, that is.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030080a07'>\r\n//「あいつら反省なんてカケラもしてねーじゃ\r\n//ねえかっ！\r\n//　てめーの過去は棚に上げて、今のあてらの\r\n//捕鯨だけ問題にしてぎゃーすか非難しやがる」\r\n\"But do you? Hell no! You act like it's㉓<I>our</I>㉔mess to clean up, when you're the ones who really fucked the whales over.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030090a07'>\r\n//「ＮＡ・ＭＥ・Ｎ・ＮＡ!!」\r\n\"DO WE LOOK LIKE PUNK BITCHES TO YOU!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5580,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0030100a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5704,
+  "en": "\r\n//　しかしそれは感情的な部分に過ぎない。\r\n//　肝要の問題は鯨を絶滅から救うことであり、それは\r\n//確かに実行されなくてはならないだろう……。\r\n  I understand the desire for a fair apportioning of blame. However, the fact is that whales are at risk of extinction. Shouldn't we be focused on reversing that trend, even if it means swallowing our pride?\r\n\r\n//　内心でそう呟きつつ、鯨の叩きに箸を伸ばす。\r\n//　旨かった。\r\n  While considering this, I reach for the seared whale flank. Also delicious.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6300,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030110a07'>\r\n//「近頃は連中、鯨は頭のいい動物だから殺す\r\n//のは野蛮だなんて妙なことまで言ってんな。\r\n//　アホか。じゃあその鯨の知能を解析して、\r\n//コミュニケーション取ってこう言ってみろ」\r\n\"These days, you've even got people saying whales are too <I>smart</I>㉔to kill. The fuck? If they're so damn smart, why don't you try talking to 'em?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6811,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030120a07'>\r\n//「私はあなたの味方ですってな。\r\n//　賭けてもいいけど、クジラ君はツッコミの\r\n//衝動を抑えられないと思うぜ」\r\n\"Yeah, try telling 'em you're on their side. I get the feeling they'll have a thing or two to say about㉓<I>that.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7192,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0030130a00'>\r\n//「……確かに、妙な主張ではあります。\r\n//　知能が高いから殺すなというのは」\r\n\"...It does seem odd to argue that a creature's intelligence makes it ineligible for slaughter.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7495,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030140a07'>\r\n//「牛や豚は馬鹿だから食ってもいいけど鯨は\r\n//賢いからだめだってんだからな。\r\n//　何言ってんのかわかんねー」\r\n\"Right? They're basically saying it's okay to eat pork chops and steak because pigs and cows are stupid. That's pretty fucked up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7887,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0030150a00'>\r\n//「文化の違いから来る思想の違いというもの\r\n//でしょうか」\r\n\"I suppose it might be a cultural difference.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8113,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030160a07'>\r\n//「突き詰めると、人種差別思想が起因かな。\r\n//　<RUBY text='あいつら'>白人</RUBY>的には、優秀な生物はそうでない生物\r\n//よりも上等って考えは、侵略の歴史を支えて\r\n//きた馴染み深い正義なんだろ」\r\n\"You ask me, it all comes down to racism. The belief that smarter, stronger animals have more rights is what makes whites think they can conquer everyone else.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8647,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0030170a00'>\r\n//「……成程」\r\n\"...Mm,\" I answer, then take a bite of fried whale.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8814,
+  "en": "\r\n//　鯨の<RUBY text='あげもの'>揚物</RUBY>に箸を伸ばしつつ、軽く頷く。\r\n//　そればかりとは思われないにせよ、一面の真実では\r\n//あるかもしれない。揚物は旨かった。\r\n  Though I doubt that's all there is to it, she does have a point. And the fried whale is delicious.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9151,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030180a07'>\r\n//「ふん、馬鹿くせぇってーの。\r\n//　あては差別なんかしないもんね。牛も豚も\r\n//鯨も平等に食う」\r\n\"Buncha lousy hypocrites. Me? I don't discriminate. Pigs, cows, whales―I'll eat 'em all!\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030190a07'>\r\n//「イルカだって食うぞ。\r\n//　それで思い出したけど一部の大和人がまた\r\n//腹立つんだよなー。捕鯨は賛成なのにイルカ\r\n//食うって聞くと『えー』とか言いやがんの」\r\n\"Hell, I'll even eat dolphins. Which reminds me. What's up with these chucklefucks who're cool with eating whales, but lose their shit when it comes to dolphins? Yamato's full of 'em.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9991,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030200a07'>\r\n//「イルカ食って悪いかオラ！\r\n//　つーか鯨はいいけどイルカはだめとか言い\r\n//出したら捕鯨反対派と同レベルだろーが！」\r\n\"What's so special about dolphins, huh!? Those guys're no better than the whale lovers!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10353,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030210a07'>\r\n//「あてが思うに、奴らは反対派が送り込んだ\r\n//工作員だな」\r\n\"You ask me, I bet those fucks sent 'em to fuck with our heads.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10606,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0030220a00'>\r\n//「……感情として、イルカ食を受け入れ難い\r\n//のは理解できます」\r\n\"...I must admit, the thought of eating dolphins doesn't sit well with me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10870,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030230a07'>\r\n//「捕鯨反対だって感情問題やん。\r\n//　結局のところ、自分とは違う他人の文化を\r\n//どう受け止めるかって話だ」\r\n\"Yeah, well, I say it's a matter of preference. Same with whales. It's not about what <I>you</I> want. It's about respecting other cultures, <br>dig?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11279,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030240a07'>\r\n//「気に食わないからって文句つけるか？\r\n//　自分とこへ押し売りに来たってんならとも\r\n//かく、よそでやってる分には構わずにおくの\r\n//が大人の態度ってもんだろ」\r\n\"I mean, it's not like we're <I>forcing</I>㉔anyone to eat whale. We're just doing our thing, so why can't they mind their goddamn business? Like civilized folks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11775,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0030250a00'>\r\n//「他文化の尊重。\r\n//　それは全く同意できます」\r\n\"I agree that one must always take care to respect other cultures.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12007,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030260a07'>\r\n//「でしょーっ？」\r\n\"Right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12146,
+  "en": "\r\n//　うんうんと頷く堀越公方。\r\n//　\r\n//　……さて。前置きの雑談を切るには、いい頃合か。\r\n\r\n//　俺は箸を置いた。\r\n//　居住まいを正す。\r\n  The governor rewards me with a brilliant smile.\r\n\r\n  ...This seems as good a time as any.\r\n\r\n  I set down my chopsticks and turn to face my host.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12495,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030270a07'>\r\n//「あれ、もういいの？」\r\n\"Done already?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12650,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0030280a00'>\r\n//「は。充分に頂きました。\r\n//　……本題へ入りたく思うのですが、宜しい\r\n//でしょうか」\r\n\"Yes, thank you. It was quite delicious. Now if you don't mind, I would like to get down to business.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12972,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030290a07'>\r\n//「？　なに？」\r\n\"Oh? What business is that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13128,
+  "en": "\r\n//　<RUBY text='とぼ'>惚</RUBY>けるかの足利茶々丸を、俺は正面から見据えた。\r\n//　そうして息を吐き――吸い。\r\n\r\n//　心胆を定めて問う。\r\n  She flashes an impish grin.\r\n\r\n  I steel myself for the all-important question.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13406,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0030300a00'>\r\n//「銀星号は、今――ここにいるのですね？」\r\n\"Ginseigo is here, isn't she?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13594,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0030310a07'>\r\n//「今？　いないよ」\r\n\"Right now? Nope.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13746,
+  "en": "\r\n//　本題は、四秒で済んだ。\r\n  ...<wait=1000>Oh.\r\n",
+  "pt": ""
+ }
+]

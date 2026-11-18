@@ -1,0 +1,262 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0110010a01'>\r\n//「…………こんなところかしら」\r\n\"...And that's everything.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 389,
+  "en": "\r\n//　奉刀参拝の日、八幡宮で起きた出来事。\r\n//　その後、連れて行かれた伊豆堀越でのこと。\r\n//　景明と引き離され、閉じ込められ、そして救い出さ\r\n//れて<RUBY text='ここ'>建朝寺</RUBY>へ来るまでのこと――\r\n\r\n//　話すべきと思えたことは全て話した。\r\n//　相手は、\r\n  I've finally finished telling the story, beginning with the events at Hachiman Shrine and ending with my arrival here, at Kenchoji Temple.\r\n\r\n  My audience is a strange assortment of people.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 954,
+  "en": "\r\n//　景明に『署長』と呼ばれていた男、菊池明堯。\r\n//　昔は湊斗家に身を置いていたため〝村正〟について\r\n//も良く知る、景明を別とするなら私にとってこの時代\r\n//では最も馴染みのある人物のひとり。\r\n  Kikuchi Akitaka, the man Kageaki calls \"Commissioner.\" He was once joined to the Minato family, so he knows more of my line than most.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1379,
+  "en": "\r\n//　<RUBY text='まいどののみやはるひろしんのう'>舞殿宮春煕親王</RUBY>殿下。\r\n//　今上の帝の弟君だという。会うのは今日が初めてだ\r\n//けれど、景明と私の銀星号追跡を署長と二人で陰日向\r\n//に<RUBY text='たす'>援</RUBY>けてくれていたらしい。\r\n  His Imperial Highness Prince Haruhiro. The emperor's younger brother. This is my first time meeting him, but I know that he has long supported our quest to destroy Ginseigo.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1891,
+  "en": "\r\n//　そして一応の面識はある、大鳥香奈枝とその侍従。\r\n//　大和人だけれど外国の軍隊に所属して大和にいると\r\n//いう、何だか良くわからない二人。<RUBY text='じーえいちきゅー'>ＧＨＱ</RUBY>とか進駐軍\r\n//とか言っていたか……。\r\n  These two I know. Otori Kanae and her servant. A Yamatoan, but who serves the foreign army that invaded this land. Her motives are still a mystery to me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2368,
+  "en": "\r\n//　こちらも景明に付きまとっていたから知っている、\r\n//一条綾弥……もとい、<RUBY text='あやね'>綾弥</RUBY>一条。\r\n//　どんな理由からか、奇妙に複雑なものを込めた目で\r\n//ずっと私を見ている……。\r\n  The girl who follows Kageaki like a lost puppy. Ichijo Ayane―<wait=1000>wait. Ayane Ichijo.<K>\r\n  I don't know why, but she's been giving me strange looks this whole time.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2826,
+  "en": "\r\n//　最後に、<RUBY text='くろのせどうじ'>黒瀬童子</RUBY>と称する武人。\r\n//　どうも六波羅幕府に敵対する一勢力の頭目のような\r\n//立場らしい。茶々丸の館に忍び込んで窮したところを\r\n//景明と私に救われ、再びやって来て今度は私を救った。\r\n\r\n//　彼だけは銀星号について何も知らなかったらしく、\r\n//私の話を聞いてだいぶん困惑した様子を見せている。\r\n//　覆面の中で押し黙り、情報を咀嚼するふうだった。\r\n  And finally, Kuronose Doji. He supposedly leads one of the factions opposing Rokuhara. He's also the man who rescued me from Chachamaru's manor, after Kageaki and I helped him escape the same manor some days before.\r\n\r\n  Of my six listeners, he is the only one who knew nothing of Ginseigo. I can tell he's having trouble digesting my story.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3736,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110020a10'>\r\n//「……驚いたなあ……」\r\n\"Well... that's a lot to swallow.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110030a10'>\r\n//「何から驚いたらええのかわからんくらいの\r\n//心地やねえ。\r\n//　なぁ、署長」\r\n\"Not really sure where to start. Eh, Kikuchi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4162,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110040a11'>\r\n//「……はい」\r\n\"...Indeed, Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4305,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110050a10'>\r\n//「この姉ちゃんが村正の劒冑ってのは、ま、\r\n//署長から聞いてたからええとしといて。\r\n//　……ほんとはちっとも良くないけどなぁ」\r\n\"I get that you're Kageaki's Muramasa... I mean, I don't <I>get</I>㉑it, but at least Kikuchi gave me fair warning. So let's move on.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110060a10'>\r\n//「景明くんが銀星号の力で洗脳されて、幕府\r\n//側に寝返ってるやて？」\r\n\"So Ginseigo brainwashed Kageaki, and now he's working for Rokuhara?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4994,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0110070a01'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5124,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md03/0110080a04'>\r\n//「されど聞く限り、茶々丸殿と六波羅とは、\r\n//必ずしも同一視できぬようでございますな」\r\n\"Pardon me, but I got the impression that Lady Chachamaru's interests and Rokuhara's may not be precisely aligned.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5461,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md03/0110090a03'>\r\n//「そうですね。\r\n//　幕府ではなく堀越公方が銀星号と繋がって\r\n//いて、今は景明さまをも取り込んでいる……\r\n//と考えるべきでしょう」\r\n\"So did I. It sounds to me like Ginseigo is connected to the general personally, and that Kageaki has become㉓<I>their</I> ally.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5884,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0110100a02'>\r\n//「いったい何を企んでんだよ、そいつは」\r\n\"What's this general planning, anyway?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6078,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md03/0110110a04'>\r\n//「さぁて……。\r\n//　銀星号と連携して何やら大事を起こそうと\r\n//いう肚のようですが」\r\n\"Well now... If Ginseigo is involved, it must be something quite spectacular.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6373,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md03/0110120a03'>\r\n//「単純に幕府内の権力争いに利用しようとか、\r\n//進駐軍との戦争に役立てようとか、そういう\r\n//次元の話ではなさそうです。\r\n//　もっと……異質な」\r\n\"I can't imagine it's something as obvious as a coup. And I doubt it's related to the coming war either. It must be something... else.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6819,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110130a11'>\r\n//「確かに。\r\n//　四公方のほか三人――遊佐童心、今川雷蝶、\r\n//大鳥獅子吼らとて独自の野心には事欠かない\r\n//でしょうが、」\r\n\"I agree. The other three generals―Yusa Doshin, Imagawa Raicho, and Otori Shishiku―each have their own ambitions, I'm sure...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7218,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110140a11'>\r\n//「彼らのそれはまず六波羅という土台に拠る\r\n//もので、だからこそ外敵に対しては結束して\r\n//当たることもできます。\r\n//　しかし、足利茶々丸は――」\r\n\"But theirs are predicated on the shogunate's continued supremacy. That is what brings them together against external threats. Ashikaga Chachamaru, however...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7682,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110150a10'>\r\n//「そこんとこが、なんか違う感じやなァ」\r\n\"I get what you mean. She's <I>different.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7892,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110160a11'>\r\n//「はい」\r\n\"Yes, Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8023,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md03/0110170a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8156,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md03/0110180a04'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8280,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0110190b26'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8404,
+  "en": "\r\n//　申し合わせたように、皆が沈黙した。\r\n//　誰も疑問の答を出せなかったのだろう。\r\n\r\n//　足利茶々丸と銀星号の繋がりを教えた私にしてから\r\n//が、茶々丸の目的にさっぱり見当を付けられないのだ\r\n//から仕方ない。\r\n//　本当に――何を望んでいるのか。\r\n  Silence falls. No one seems to have an answer.\r\n\r\n  I'm the one who told them about Ginseigo's link to Chachamaru, but even I have no clue what that horrible girl is planning.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8943,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110200a10'>\r\n//「ああ、すまんなぁ、村正の姉ちゃん。\r\n//　こっちで勝手に盛り上がってて」\r\n\"Oh! Sorry, Muramasa. We sort of talked around you there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9214,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0110210a01'>\r\n//「いえ……」\r\n\"No...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9343,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md03/0110220a04'>\r\n//「どちらかというと、皆で盛り下がっていた\r\n//のですがねぇ」\r\n\"Not that it was the most pleasant conversation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9575,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110230a10'>\r\n//「聞いてばっかで、こっちから何にも話しと\r\n//らんかったわ。\r\n//　ええとな、こっちはこっちで色々とあって\r\n//――」\r\n\"Still, all we've done is listen to you talk. You should know what's been going on here while you were away. Let's see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9966,
+  "en": "\r\n//　宮様は署長と一緒に、奉刀参拝から今までのことを\r\n//かいつまんで説明してくれた。\r\n//　八幡宮が銀星号によって<RUBY text='・・・'>消えて</RUBY>しまったので、宮様\r\n//の居はこの建朝寺に移されたこと……。\r\n  The prince and the commissioner proceed to explain what happened while Kageaki and I were in Horigoe.\r\n\r\n//　建朝寺は幕府を牛耳る足利一門と縁深いが、それで\r\n//いて朝廷に心を寄せる僧も実は密かに多いため、宮様\r\n//を中心とする一派は以前より活発な行動がとれるよう\r\n//になったこと……。\r\n  After Ginseigo㉓<I>erased</I> Hachiman Shrine, the prince was moved here, to Kenchoji Temple. Despite Kenchoji's strong ties to the Ashikaga clan, many of the temple's monks were secret supporters of the imperial court. The prince immediately resumed operations with renewed vigor.\r\n\r\n//　その成果の一つが、幕府に反逆して滅ぼされた岡部\r\n//一族の残党との接触であり、彼らをまとめているのが\r\n//ここにいる黒瀬童子であること……。\r\n  One of his first tasks was to establish contact with the remnants of Okabe Yoritsuna's failed rebellion. As it turns out, these were led by Kurunose Doji, who had just narrowly escaped from the governor of Horigoe's mansion...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11353,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110240a10'>\r\n//「それで童子から堀越御所で妙な男に助けら\r\n//れたって話を聞いてなぁ……名前は湊斗景明\r\n//やっていうやないか。\r\n//　もうひっくり返るかと思うたえ」\r\n\"When he told me that a strange man had helped him escape, and that the man's name was Minato Kageaki... well, I nearly spit out my tea, let me tell you.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110250a10'>\r\n//「いないいない言うて探してた景明くんが、\r\n//まさかそんなとこにいるなんてなァ。\r\n//　慌てて童子にお願いして、もう一度詳しい\r\n//様子を調べに行ってもろたんよ」\r\n\"I mean, that was the last place we would've looked. As soon as I heard, I asked Doji to go back and find out what was what.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12276,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0110260a01'>\r\n//「……そうですか」\r\n\"...I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12418,
+  "en": "\r\n//　それで幽閉されていた私を発見した、ということの\r\n//ようだ。\r\n//　\r\n//　……正直、その辺りの経緯にはさほど関心なかった。\r\n\r\n//　関心があるとすれば――この先のことで。\r\n  And that's when he found me, I suppose.\r\n\r\n  To be honest, I don't really care about any of this. The only thing on my mind is what comes next.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12821,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110270a11'>\r\n//「さて。\r\n//　情報を整理したところで、今後の話です」\r\n\"Good. Now that we're all up to speed, let's talk about where we go from here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13074,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110280a10'>\r\n//「そやな。\r\n//　景明くんを助け出したげんと」\r\n\"Yeah. First things first. Let's get our man back.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13296,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110290a11'>\r\n//「いえ、宮殿下。\r\n//　そのようなことは後回しで良いでしょう」\r\n\"Actually, Your Highness,\" says the man I've heard was Kageaki's adoptive father, \"I believe we should leave that for later.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13607,
+  "en": "\r\n//　景明の養父と聞いているその男は、言い切った。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13690,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110300a10'>\r\n//「後回しって、菊池ぃ」\r\n\"Uh, Kikuchi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13844,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md03/0110310a03'>\r\n//「……まぁ……利用されているということは\r\n//差し当たって命を奪われる危険はないという\r\n//ことでもありますけれど」\r\n\"Hmm. I suppose he's in no immediate danger, at least if they're planning to use him for some purpose. Still...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14227,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md03/0110320a04'>\r\n//「何にどう利用されるのかにもよりますなァ」\r\n\"That depends largely on what they have planned.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14437,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110330a11'>\r\n//「堀越公方の目論見も気掛かりですが、幕府\r\n//全体の動きも忘れてはなりません。\r\n//　今はこちらの方が差し迫っています」\r\n\"I am concerned about the general's plans, but we mustn't lose sight of the larger picture. Dealing with Rokuhara comes first.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14832,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110340a11'>\r\n//「幕府が朝廷に働き掛けている、足利邦氏へ\r\n//の大将領宣下……。\r\n//　これが成功した時、おそらく大和の情勢は\r\n//決定的な節目を迎えます」\r\n\"Rokuhara has been pressuring the Court to declare Ashikaga Kuniuji shogun. If they are successful, Yamato will stand at a crossroads.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15260,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md03/0110350a03'>\r\n//「……ええ。\r\n//　その時機に合わせて、ＧＨＱが軍事行動を\r\n//企画しているのはほぼ疑いありません」\r\n\"...True. GHQ will almost certainly take that as their cue to invade.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15577,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md03/0110360a04'>\r\n//「決定力となる新兵器が用意されている模様\r\n//でございます」\r\n\"Supposedly, they have a new weapon that can win the war in one fell swoop.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15836,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110370a11'>\r\n//「六波羅と進駐軍。\r\n//　我々としてはどちらの勝利も望ましくない」\r\n\"But we don't want Rokuhara㉓<I>or</I>㉔GHQ to win.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16082,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110380a11'>\r\n//「無論、両者の戦争が決着せず、いたずらに\r\n//国土と国民を疲弊させてゆくのも」\r\n\"Nor do we want the war to drag on, bleeding the country and its people dry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16369,
+  "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0110390b26'>\r\n//「……今は両者を争わせるべきではない。\r\n//　従って、足利四郎への大将領宣下を妨害し\r\n//なくてはならぬ、ということか」\r\n\"The peace must continue for now. In which case, Ashikaga Kuniuji must not be named shogun.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16729,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110400a11'>\r\n//「そうです」\r\n\"Correct.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16855,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0110410a10'>\r\n//「京都と連絡を取り合って、何とかかんとか\r\n//引き伸ばしてもろうてるけどなァ……。\r\n//　いつまで続けられるかはわからんねえ」\r\n\"I've got my folks in Kyoto stalling for time, but there's no telling how much longer they can keep it up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17248,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0110420a11'>\r\n//「長くはもたないでしょう。\r\n//　今のうちに幕閣内への工作を進め――」\r\n\"Not much longer, I'm sure. We should contact our agents in Fudaraku...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17518,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0110430a01'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17648,
+  "en": "\r\n//　話は政治のことに移ってしまった。\r\n//　わかっている……この人達にとってはそれこそ重要\r\n//なのだ。\r\n  And now they're talking about politics.\r\n\r\n  This is how things are. I understand that. They can't drop everything for the life of one man.\r\n\r\n//　納得できるし、愚かだとも薄情だとも思わない。\r\n//　\r\n//　けれど。\r\n\r\n//　けれど、私は――\r\n  And yet.\r\n\r\n  And yet―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18110,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0110440a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ }
+]

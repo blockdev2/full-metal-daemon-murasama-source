@@ -1,0 +1,977 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　夜陰に乗じて江ノ島に上陸する。\r\n//　昨日と同様、しかし昨日より格段に効率良く。時刻\r\n//が正子を過ぎた頃には、既に調査の途についていた。\r\n\r\n//　闇の帳をかき分けるようにして歩く。\r\n//　昨夜の印象があるせいだろう……風景を沈める深い\r\n//暗黒は尚一層あやしく、陰秘めいて見えた。\r\n\r\n//　知らず、足取りが重く、慎重になる。\r\n  At nightfall, we set out for Enoshima. This time, there are no difficulties, and we are able to begin our search just after midnight.\r\n\r\n  We proceed through the gloom, the deep shadows seeming somehow more sinister than before. I find myself naturally assuming a slow, careful pace.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 974,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0120010a04'>\r\n//「湊斗さま。今宵の方針はどのように？」\r\n\"How shall we proceed tonight?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1160,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120020a00'>\r\n//「ひとまずは昨夜発見した怪奇な痕跡のある\r\n//場所へ向かいましょう。\r\n//　新たな異変が見つかるかもしれません」\r\n\"First, we should revisit the wasteland we discovered last night. We may find something new.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120030a00'>\r\n//「その後、研究所へ」\r\n\"After that, the research facility.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1665,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120040a02'>\r\n//「真っ直ぐ研究所へ向かった方が良くありま\r\n//せんか？　どう考えても、核心はそこですし」\r\n\"Shouldn't we head straight there? That's gotta be at the center of things, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1973,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0120050a03'>\r\n//「それはその通りですけれど、どうせ方角は\r\n//同じ。なら少し寄り道をしていっても無益で\r\n//はないでしょう。\r\n//　……そういうことではないかしら？」\r\n\"True, but since it's in the same direction, it can't hurt to make the extra stop. Is that the idea, dear?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2397,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120060a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2513,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120070a02'>\r\n//「なるほど……\r\n//　わかりました」\r\n\"Oh... Got it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2675,
+  "en": "\r\n//『漁業研究所』は島の中央からやや西へ逸れた辺りに\r\n//鎮座するという。\r\n//　少なくとも、幕府発行の地図ではそうなっている。\r\n\r\n//　それが事実と異なる表記であった場合には、自力で\r\n//所在を探さねばならないだろう。\r\n//　だからこそ確実に何かの手掛かりが残る場所は優先\r\n//して押さえておきたかった。どう役立つかわからない。\r\n\r\n//　とはいえ時間は有限にして常に不足する。\r\n//　寄り道をするのなら急ぐ必要があった。ともすれば\r\n//慎重の度を超して臆病になりかかる足に喝を入れ、音\r\n//が立たぬ程度の早足で進む。\r\n  The so-called fish hatchery is situated slightly west of the center of the island; at least, according to the Rokuhara map that we procured.\r\n\r\n  If the map turns out to be false, then we will have to find it ourselves. It therefore makes sense to begin with the anomaly of whose location we are certain. It may provide useful intel.\r\n\r\n  That said, time is still our primary obstacle. We need to reach our target as quickly as prudence allows, so I feed some spirit into my flagging legs and pick up the pace.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3922,
+  "en": "\r\n//　そうして程なく、辿り着いた。\r\n//　地面に深々と爪痕の残る奇異な空き地。枯れ果てた\r\n//木々も昨日のままだった。\r\n  Before long, we come to the blasted field with the strange furrows at its center. As before, no living thing is in sight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4222,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120080a02'>\r\n//「……どうしますか」\r\n\"...What's the plan?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4371,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0120090a03'>\r\n//「今日は踏み込みます？」\r\n\"Do we go for it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4532,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120100a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4648,
+  "en": "\r\n//　昨日は時間がなかったこともあって危険を冒すのは\r\n//避けたが、この場からの観察では知れる事にも限りが\r\n//ある。踏み込まねば情報は得られない。\r\n//　無論、慎重に手順を踏んだ上でなくてはならないが。\r\n  While I considered it prudent yesterday to avoid the risk, there is nothing more to gain by observing the field from cover. We will have to chance it tonight―<br>though only after taking every precaution, of course.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5170,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120110a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5291,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120120a01'>\r\n//《ええ……》\r\n《Here.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5424,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120130a00'>\r\n//「熱源探査を実行。\r\n//　周囲の生命反応を探せ」\r\n\"Do an infrared scan of the area. Check for life signs.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5645,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120140a01'>\r\n//《諒解》\r\n《Scanning.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5776,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120150a01'>\r\n//《……反応なし。\r\n//　何もいない……》\r\n《...There's nothing out there.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120160a01'>\r\n//《本当に何も。\r\n//　犬猫の一匹すら……》\r\n《I mean, really nothing. Not even a mouse.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6171,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120170a00'>\r\n//「そうか……」\r\n\"I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6298,
+  "en": "\r\n//　今も感じる<RUBY text='うそさむ'>薄寒</RUBY>い<RUBY text='・・・・'>無の気配</RUBY>の実在が、裏付けられた\r\n//格好だった。\r\n//　やはりこの辺りには生物がいないのだ。\r\n\r\n//　異常な暑熱そして急激な温度変化を思えば、生態系\r\n//の損傷はむしろ当然だろう。\r\n//　だがそれにしても<RUBY text='・・'>死滅</RUBY>は度が過ぎている。\r\n\r\n//　他に、何か。\r\n//　理由がある筈だ……。\r\n  So the disturbing sense of emptiness we've been feeling was on the mark. Nothing lives in this place.\r\n\r\n  Desolation of this degree can't be explained by the unnatural heat and rapid climate shifts alone.\r\n  There must be something <I>else</I>㉓at work here.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7073,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0120180a03'>\r\n//「景明さま？」\r\n\"Kageaki?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7211,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120190a00'>\r\n//「……周囲に人はいないようです。\r\n//　調査を行いましょう。可及的迅速に――」\r\n\"There's no one in the vicinity. Let's comb the area, but be as quick as you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7501,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120200a01'>\r\n//《――御堂!!》\r\n《...Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7639,
+  "en": "\r\n//　張り詰めた金打声が、俺の舌に楔を打つ。\r\n//　聞くも明らかな警告の絶叫。\r\n\r\n//　平手で同行者に静止を促し、頭上の劔冑を振り仰ぐ。\r\n  Muramasa's kinchojo cuts me off, as clear a warning as I've ever heard. I throw up a hand to bring my companions to a halt.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7967,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120210a00'>\r\n//「村正!?\r\n//　どうし――」\r\n\"Muramasa!? What's the―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8127,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120220a01'>\r\n//《高熱源反応ッ!!\r\n//　何――何なの、これ！》\r\n《High-temperature contact!\r\n  Wh- What in the world!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8352,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120230a00'>\r\n//「村正!?」\r\n\"Muramasa!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8476,
+  "en": "\r\n//　高熱源――武者か――\r\n  High temperature.\r\n  A musha!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8557,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120240a01'>\r\n//《高<RUBY text='・'>々</RUBY>度熱源反応有り！\r\n//　来る――――何かっ!!》\r\n《<I>Extremely</I>㉑high-<br>temperature contact! Something's coming!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8831,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120250a00'>\r\n//「どこだ!?」\r\n\"Where!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8955,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120260a01'>\r\n//《<RUBY text='した'>地下</RUBY>よ！》\r\n《From below!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9121,
+  "en": "\r\n//　――――地下!?\r\n  Underground!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9175,
+  "en": "\r\n//　目前の空地に、四角い<RUBY text='・・'>陥没</RUBY>が出来た――そう見えた。\r\n//　次の瞬局。\r\n\r\n//　その穴の底から、<RUBY text='・・'>それ</RUBY>は浮揚し、現れた。\r\n  The ground at the center of the blasted field seems to fall away into nothing. A moment later, <I>it</I>㉕appears, rising from the bowels of the earth like a fiend from the pits of hell.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9597,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120270a02'>\r\n//「…………か……」\r\n\"...Is that...\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120280a02'>\r\n//「……怪物……？」\r\n\"A monster...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9869,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0120290a03'>\r\n//「……あらあら」\r\n\"...Oh my.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10011,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0120300a04'>\r\n//「……まあまあ」\r\n\"Well, well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10148,
+  "en": "\r\n//　まさしく。\r\n//　怪物と呼ぶほか、ない代物だった。\r\n\r\n//　白金にも近い銀色の肌。\r\n//　人体を極端に抽象化したかのような造形。\r\n\r\n//　何よりも――\r\n//　その巨躯。\r\n\r\n//　陸に上がった鯨であった。\r\n//　総重量は何トンに達するのか、計算さえ働かない。\r\n\r\n//　そんなものが……\r\n//　<RUBY text='・・・・・'>浮いている</RUBY>。\r\n\r\n//　およそ、現実感を味わい難い光景だった。\r\n//　思考がまとまらない。何を思い、何を為せば良いの\r\n//かわからない。\r\n\r\n//　おそらく、俺だけではなかったろうが。\r\n  A monster indeed. How else to describe it? Its skin is dark silver, its shape barely humanoid.\r\n\r\n  And the㉓<I>size</I>㉓of it! It reminds me of a beached whale. I can't even begin to guess at the sheer tonnage on its frame.\r\n\r\n  Yet despite its enormity, the thing is㉓<I>floating.</I>㉑ Surely this can't be real. My thoughts are an indecipherable jumble.\r\n\r\n  And I'm not alone in this.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11233,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0120310a03'>\r\n//「……むかし西村なんとかさんという人が、\r\n//あんなものを造ったとか造らないとか……」\r\n\"I recall hearing that a fellow by the name of Nishimura built something like that...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11550,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0120320a04'>\r\n//「あれはドイツで行方不明になったと聞いて\r\n//おりましたがねぇ……」\r\n\"The rumors say that one went missing in Germany...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11797,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120330a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11921,
+  "en": "\r\n//　まともに働こうとしない頭を叱咤する。\r\n//　すべき事がある筈だ――何かある筈だ。\r\n\r\n//　危険。\r\n\r\n//　ここは見世物小屋の中ではない。\r\n//　驚愕を楽しむゆとりなどない。\r\n\r\n//　すべき事。\r\n//　すべき事が――\r\n  I struggle to restart my stalled brain. There's something... something I have to do.\r\n\r\n  Danger. This isn't a circus show. Surprise is a luxury I can't afford.\r\n\r\n  Something I have to do. But what?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12429,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120340a00'>\r\n//「……村正」\r\n\"...Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12559,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120350a01'>\r\n//《……御堂？》\r\n《...Mido?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12698,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120360a00'>\r\n//「あれは、何か……\r\n//　わかるか？」\r\n\"Can you tell what that... thing is?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12885,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120370a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120380a01'>\r\n//《……劔冑、よ。\r\n//　ちょっと……風変わりだけど》\r\n《It's... a tsurugi. Just not the usual kind.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13237,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120390a00'>\r\n//「劔冑か……」\r\n\"A tsurugi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13370,
+  "en": "\r\n//　あるいはと思ったが。\r\n//　あれは、劔冑。\r\n\r\n//　ならば。\r\n  So I was right. It's a tsurugi.\r\n\r\n  In which case...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13523,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120400a00'>\r\n//「〝卵〟の有無は」\r\n\"Any sign of an egg?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13669,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120410a01'>\r\n//《…………無し》\r\n《...None.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120420a01'>\r\n//《あれは、違う》\r\n《It's clean.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13948,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120430a00'>\r\n//「寄生体ではないか。\r\n//　無論、銀星号でもない」\r\n\"So it's not an infected tsurugi. Nor, needless to say, Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14182,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120440a01'>\r\n//《ええ》\r\n《...Right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14313,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120450a00'>\r\n//「では――ここは退くべきだ、な」\r\n\"Then the best choice is to withdraw... correct?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14508,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120460a01'>\r\n//《そうね……。\r\n//　戦う気はありませんって、言ってみる？》\r\n《Yeah... Think it'll let us go if we ask politely?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14752,
+  "en": "\r\n//　魁偉なる大劔冑は、こちらに視線――視線？――を\r\n//注いでいる。\r\n//　こちらを見ている。\r\n\r\n//　はっきりとこちらを見ている。\r\n  The behemoth is looking―<br>where are its eyes?―at us. I feel the weight of its gaze.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15038,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120470a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15162,
+  "en": "\r\n//　何か、不都合な。\r\n//　思わしからぬ事態が、生じているような。\r\n\r\n//　繋がらない。\r\n//　良く把握できない。\r\n\r\n//　迷う――戸惑う。\r\n//　<RUBY text='・・・・・・・・・・・・・・・・・・・・・・'>そんな場合でないことだけはわかっているのだが</RUBY>。\r\n  Something is happening here. Something... inconvenient. Trouble?\r\n\r\n  My mind is a fog. So I wait for it to clear, though all the while a voice seems to be saying㉓<I>there's no time.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15716,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120480a00'>\r\n//「……ッ!!」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15837,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0120490a03'>\r\n//「これは……!?」\r\n\"Ah...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15976,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120500a02'>\r\n//「熱い……\r\n//　じゃない、寒い!?」\r\n\"It's getting hot! No, cold!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16152,
+  "en": "\r\n//　生温い風が吹きつける。\r\n//　身体の芯が<RUBY text='・・・'>凍えた</RUBY>。\r\n\r\n//　何かが失われている。\r\n//　何かが奪われている。\r\n\r\n//　これは――――\r\n\r\n//　これは、攻撃だ！\r\n  A warm breeze blows past, freezing the core of my body solid.\r\n\r\n  Something is wrong. The wind is㉒<I>taking</I>㉔something from me.\r\n\r\n  This...<K>\r\n  This is a weapon!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16581,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120510a00'>\r\n//「村正ァッ!!」\r\n\"Muramasa!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16710,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120520a01'>\r\n//《――――!!》\r\n《!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16841,
+  "en": "\r\n//　飛槍のように、蜘蛛の放った鋼糸が宙を駆けた。\r\n//　銀色の巨甲に突き立つ。\r\n\r\n//　それが何程の損傷を与えたかは知れない。\r\n//　だが、奇妙な風は止んだ。\r\n\r\n//　肉体の自由が回復する。\r\n  The spider's threads streak through the night, stabbing at the silver giant like javelins.\r\n\r\n  Whether they inflict damage, I cannot say, but the strange wind dies in an instant and freedom returns to my body.\r\n\r\n  I turn to my companions and shout―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17371,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120530a00'>\r\n//「撤退しろ！」\r\n\"Run!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17496,
+  "en": "",
+  "pt": ""
+ },
+ {
+  "offset": 17504,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120540a00'>\r\n//「入り江へ――\r\n//　いや、片瀬まで戻れ！」\r\n\"Fall back to the inlet! No, to Katase!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17703,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120550a02'>\r\n//「湊斗さんは――」\r\n\"But what about you!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17850,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120560a00'>\r\n//「行けッ!!」\r\n\"Go!\"</voice> I roar. There's no time for discussion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18018,
+  "en": "\r\n//　立ち竦んだ一条の手を大鳥大尉が引き、無理矢理に\r\n//駆けさせる。\r\n//　彼女もまた走り出しながら……一度だけ、こちらへ\r\n//視線を投げて寄越した。\r\n  The captain yanks Ichijo's hand and starts her running, then takes off herself, but not before shooting me a last glance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18364,
+  "en": "\r\n//　視線を返す。\r\n//　今はこれまで。\r\n  I return her gaze for a single moment. It will have to suffice.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18494,
+  "en": "\r\n//　駆け去る背中を見送るゆとりは許されず、己の背に\r\n//消えゆく足音のみを聞く。\r\n//　そうして向き合う。\r\n\r\n//　――巨像。\r\n//　蜘蛛の反撃を浴びて怯む色もないその怪影。\r\n  With the fading footsteps at my back the only sign of their retreat, I face once more the silver giant. It appears unfazed by Muramasa's attack.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18893,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120570a01'>\r\n//《御堂！》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19023,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120580a00'>\r\n//「鬼に逢うては鬼を斬る。\r\n//　仏に逢うては仏を斬る」\r\n<center>\"Where there are demons,\r\nI slay them.\r\nWhere there are saints,\r\nI slay them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19283,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120590a00'>\r\n//「ツルギの<RUBY text='ことわり'>理</RUBY>ここに在り」\r\n<center>\"Mine is the Way of the Sword!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19489,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120600a00'>\r\n//「……さて。\r\n//　始めるぞ」\r\n\"...Let's begin.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19644,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120610a01'>\r\n//《ええ……》\r\n《...Ready.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19781,
+  "en": "\r\n//　戦わねばならない。\r\n//　少なくとも彼女らが脱出を果たすまでの間。\r\n  There's no choice. I have to fight, at least until the others have escaped.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19971,
+  "en": "\r\n//　この相手と――\r\n//　未だ嘗て<RUBY text='まみ'>見</RUBY>えたこともなく、見えることを想像だに\r\n//しなかった<RUBY text='てき'>対敵</RUBY>と。\r\n  My enemy is unlike any I have ever faced―or dared to imagine―but so be it.\r\n\r\n  To battle.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20268,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120620a00'>\r\n//「……ひとまず、昨夜の場所へ向かう」\r\n\"First, let's head to the field from last night.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20469,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120630a02'>\r\n//「変な跡があった所ですね」\r\n\"You mean where we saw those weird tracks?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20649,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120640a00'>\r\n//「ああ。\r\n//　その後、研究所だ」\r\n\"Yes. After that, we'll scout the facility.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20837,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120650a02'>\r\n//「真っ直ぐそっちへ行った方が早くないです\r\n//か？」\r\n\"Wouldn't it be faster to go there first?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21050,
+  "en": "\r\n//　核心は其処なのだろうし。\r\n//　そう言いたいのだろう一条の考えは理解できた。\r\n\r\n//　俺にも別段、異論はない。\r\n  Her line of thinking is clear. The research facility is likely at the center of whatever is happening.\r\n\r\n  But then, the two courses are not mutually exclusive.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21386,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120660a00'>\r\n//「どうせ、通り道だ。\r\n//　大した手間ではないし、何か重要な情報が\r\n//ないとも限らぬ」\r\n\"The field is on the way. It shouldn't take long, and we may learn something of use.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21691,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120670a02'>\r\n//「あ、そっか……そうですね。\r\n//　わかりました」\r\n\"Oh... right. Got it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21881,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120680a02'>\r\n//「……どうします？」\r\n\"...What's the plan?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22030,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120690a00'>\r\n//「今日は踏み込む」\r\n\"We go for it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22170,
+  "en": "\r\n//　昨日は時間がなかったこともあって危険を冒すのは\r\n//避けたが、この場からの観察では知れる事にも限りが\r\n//ある。踏み込まねば情報は得られない。\r\n//　無論、慎重に手順を踏んだ上でなくてはならないが。\r\n  While I considered it prudent yesterday to avoid the risk, there is nothing more to gain by observing the field from cover. We will have to chance it tonight―<br>though only after taking every precaution, of course.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22690,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120700a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22811,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120710a01'>\r\n//《ええ……》\r\n《Here.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22944,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120720a00'>\r\n//「熱源探査を実行。\r\n//　周囲の生命反応を探せ」\r\n\"Do an infrared scan of the area. Check for life signs.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23165,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120730a01'>\r\n//《諒解》\r\n《Scanning.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23296,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120740a01'>\r\n//《……反応なし。\r\n//　何もいない……》\r\n《...There's nothing out there.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120750a01'>\r\n//《本当に何も。\r\n//　犬猫の一匹すら……》\r\n《I mean, really nothing. Not even a mouse.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23691,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120760a00'>\r\n//「そうか……」\r\n\"I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23818,
+  "en": "\r\n//　今も感じる<RUBY text='うそさむ'>薄寒</RUBY>い<RUBY text='・・・・'>無の気配</RUBY>の実在が、裏付けられた\r\n//格好だった。\r\n//　やはりこの辺りには生物がいないのだ。\r\n\r\n//　異常な暑熱そして急激な温度変化を思えば、生態系\r\n//の損傷はむしろ当然だろう。\r\n//　だがそれにしても<RUBY text='・・'>死滅</RUBY>は度が過ぎている。\r\n\r\n//　他に、何か。\r\n//　理由がある筈だ……。\r\n  So the disturbing sense of emptiness we've been feeling was right on the mark. Nothing lives in this place.\r\n\r\n  Desolation of this degree can't be explained by the unnatural heat and rapid climate shifts alone.\r\n  There must be something <I>else</I>㉓at work here.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24599,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120770a02'>\r\n//「湊斗さん？」\r\n\"Sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24724,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120780a00'>\r\n//「……周囲に人はいないようだ。\r\n//　調査を行う。可及的迅速に――」\r\n\"There's no one in the vicinity. Let's comb the area, but be as quick as you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24999,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120790a01'>\r\n//《――御堂!!》\r\n《...Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25137,
+  "en": "\r\n//　張り詰めた金打声が、俺の舌に楔を打つ。\r\n//　聞くも明らかな警告の絶叫。\r\n\r\n//　平手で同行者に静止を促し、頭上の劔冑を振り仰ぐ。\r\n  Muramasa's kinchojo cuts me off, as clear a warning as I've ever heard. I throw up a hand to hold Ichijo back.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25452,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120800a00'>\r\n//「村正!?\r\n//　どうし――」\r\n\"Muramasa!? What's the―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25612,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120810a01'>\r\n//《高熱源反応ッ!!\r\n//　何――何なの、これ！》\r\n《High-temperature contact!\r\n  Wh- What in the world!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25837,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120820a00'>\r\n//「村正!?」\r\n\"Muramasa!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25961,
+  "en": "\r\n//　高熱源――武者か――\r\n  High-temperature.\r\n  A musha!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26042,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120830a01'>\r\n//《高<RUBY text='・'>々</RUBY>度熱源反応有り！\r\n//　来る――――何かっ!!》\r\n《<I>Extremely</I>㉑high-<br>temperature contact! Something's coming!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26316,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120840a00'>\r\n//「どこだ!?」\r\n\"Where!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26440,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120850a01'>\r\n//《<RUBY text='した'>地下</RUBY>よ！》\r\n《From below!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26606,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120860a02'>\r\n//「…………か……」\r\n\"...Is that...\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120870a02'>\r\n//「……怪物……？」\r\n\"A monster...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26878,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120880a02'>\r\n//「――――」\r\n\"......\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0120890a02'>\r\n//「えっ……と」\r\n\"What the...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27126,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120900a00'>\r\n//「……村正」\r\n\"...Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27256,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120910a01'>\r\n//《……御堂？》\r\n《...Mido?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27395,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120920a00'>\r\n//「あれは、何か……\r\n//　わかるか？」\r\n\"Can you tell what that... thing is?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27582,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120930a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27716,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120940a01'>\r\n//《……劔冑、よ。\r\n//　ちょっと……風変わりだけど》\r\n《It's... a tsurugi. Just not the usual kind.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27942,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120950a00'>\r\n//「劔冑か……」\r\n\"A tsurugi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28075,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120960a00'>\r\n//「〝卵〟の有無は」\r\n\"Any sign of an egg?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28221,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120970a01'>\r\n//《…………無し》\r\n《...None.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0120980a01'>\r\n//《あれは、違う》\r\n《It's clean.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28500,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0120990a00'>\r\n//「寄生体ではないか。\r\n//　無論、銀星号でもない」\r\n\"So it's not an infected tsurugi. Nor, needless to say, Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28734,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121000a01'>\r\n//《ええ》\r\n《...Right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28865,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121010a00'>\r\n//「では――ここは退くべきだ、な」\r\n\"Then the best choice is to withdraw... correct?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29060,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121020a01'>\r\n//《そうね……。\r\n//　戦う気はありませんって、言ってみる？》\r\n《Yeah... Think it'll let us go if we ask politely?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29304,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121030a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29428,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121040a00'>\r\n//「……ッ!!」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29549,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0121050a02'>\r\n//「熱い……\r\n//　じゃない、寒い!?」\r\n\"It's getting hot! No, cold!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29725,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121060a00'>\r\n//「村正ァッ!!」\r\n\"Muramasa!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29854,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121070a01'>\r\n//《――――!!》\r\n《!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29985,
+  "en": "\r\n//　飛槍のように、蜘蛛の放った鋼糸が宙を駆けた。\r\n//　銀色の巨甲に突き立つ。\r\n\r\n//　それが何程の損傷を与えたかは知れない。\r\n//　だが、奇妙な風は止んだ。\r\n\r\n//　肉体の自由が回復する。\r\n  The spider's threads streak through the night, stabbing at the silver giant like javelins.\r\n\r\n  Whether they inflict damage, I cannot say, but the strange wind dies in an instant and freedom returns to my body.\r\n\r\n  I turn to Ichijo and shout―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30508,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121080a00'>\r\n//「撤退しろ！」\r\n\"Run!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30633,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121090a00'>\r\n//「入り江へ――\r\n//　いや、片瀬まで戻れ！」\r\n\"Fall back to the inlet! No, to Katase!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30832,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0121100a02'>\r\n//「湊斗さんは――」\r\n\"But what about you!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30979,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121110a00'>\r\n//「行けッ!!」\r\n\"Go!\"</voice> I roar. There's no time for discussion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31147,
+  "en": "\r\n//　怒鳴る。\r\n//　問答の間などない。\r\n\r\n//　立ち竦む一条を突き飛ばし、来た方角へと追いやる。\r\n//　視線が重なった――何かを訴えてくる視線。\r\n\r\n//　\r\n//　　　　　あたしも、\r\n//　　　　　　　　　　　　　一緒に――\r\n  I shove Ichijo back in the direction we came. For an instant, our eyes meet, and in hers I see―a <I>longing.</I>\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31579,
+  "en": "\r\n//　敢えて黙殺する。\r\n//　哀しげに唇を噛んで、彼女は身を翻した。\r\n  I quash the silent plea with a glare. Ichijo bites her quivering lip, then turns and takes off running.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31791,
+  "en": "\r\n//　駆け去る背中を見送るゆとりは許されず、己の背に\r\n//消えゆく足音のみを聞く。\r\n//　そうして向き合う。\r\n\r\n//　――巨像。\r\n//　蜘蛛の反撃を浴びて怯む色もないその怪影。\r\n  With the fading footsteps at my back the only sign of her retreat, I face once more the silver giant. It appears unfazed by Muramasa's attack.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32188,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121120a01'>\r\n//《御堂！》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32318,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121130a00'>\r\n//「鬼に逢うては鬼を斬る。\r\n//　仏に逢うては仏を斬る」\r\n<center>\"Where there are demons,\r\nI slay them.\r\nWhere there are saints,\r\nI slay them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32578,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121140a00'>\r\n//「ツルギの<RUBY text='ことわり'>理</RUBY>ここに在り」\r\n<center>\"Mine is the Way of the Sword!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32784,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121150a00'>\r\n//「……さて。\r\n//　始めるぞ」\r\n\"...Let's begin.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32939,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121160a01'>\r\n//《ええ……》\r\n《...Ready.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33076,
+  "en": "\r\n//　戦わねばならない。\r\n//　少なくとも彼女が脱出を果たすまでの間。\r\n  There's no choice. I have to fight, at least until Ichijo has escaped.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33258,
+  "en": "\r\n//　この相手と――\r\n//　未だ嘗て<RUBY text='まみ'>見</RUBY>えたこともなく、見えることを想像だに\r\n//しなかった<RUBY text='てき'>対敵</RUBY>と。\r\n  My enemy is unlike any I have ever faced, or dared to imagine―but so be it.\r\n\r\n  To battle.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33554,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0121170a04'>\r\n//「湊斗さま。今宵の方針はどのように？」\r\n\"How shall we proceed tonight?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33740,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121180a00'>\r\n//「ひとまずは昨夜発見した怪奇な痕跡のある\r\n//場所へ向かいましょう。\r\n//　新たな異変が見つかるかもしれません」\r\n\"First, we should revisit the wasteland we discovered last night. We may find something new.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121190a00'>\r\n//「その後、研究所へ」\r\n\"After that, the research facility.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34245,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0121200a03'>\r\n//「そうですね。真っ直ぐ研究所へ向かった方\r\n//が話は早いのでしょうけれど。\r\n//　方角的に、大した寄り道でもありませんし」\r\n\"That seems appropriate. It would be faster to go straight there, but I suppose the field is more or less on the way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34643,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121210a00'>\r\n//「はい」\r\n\"Indeed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34762,
+  "en": "\r\n//『漁業研究所』は島の中央からやや西へ逸れた辺りに\r\n//鎮座するという。\r\n//　少なくとも、幕府発行の地図ではそうなっている。\r\n\r\n//　それが事実と異なる表記であった場合には、自力で\r\n//所在を探さねばならないだろう。\r\n//　だからこそ確実に何かの手掛かりが残る場所は優先\r\n//して押さえておきたかった。どう役立つかわからない。\r\n\r\n//　とはいえ時間は有限にして常に不足する。\r\n//　寄り道をするのなら急ぐ必要があった。ともすれば\r\n//慎重の度を越して臆病になりかかる足に喝を入れ、音\r\n//が立たぬ程度の早足で進む。\r\n  The so-called fish hatchery is situated slightly west of the center of the island; at least, according to the Rokuhara map that we procured.\r\n\r\n  If the map turns out to be false, then we'll have to find it ourselves. It therefore makes sense to begin with the anomaly of whose location we are certain. It may provide useful intel.\r\n\r\n  That said, time is still our primary obstacle. We need to reach our target as quickly as prudence allows, so I feed some spirit into my flagging legs and pick up the pace.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36007,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0121220a03'>\r\n//「今日は踏み込みます？」\r\n\"Do we go for it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36168,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121230a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36284,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121240a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36405,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121250a01'>\r\n//《ええ……》\r\n《Here.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36538,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121260a00'>\r\n//「熱源探査を実行。\r\n//　周囲の生命反応を探せ」\r\n\"Do an infrared scan of the area. Check for life signs.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36759,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121270a01'>\r\n//《諒解》\r\n《Scanning.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36890,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121280a01'>\r\n//《……反応なし。\r\n//　何もいない……》\r\n《...There's nothing out there.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121290a01'>\r\n//《本当に何も。\r\n//　犬猫の一匹すら……》\r\n《I mean, really nothing. Not even a mouse.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37285,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121300a00'>\r\n//「そうか……」\r\n\"I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37412,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0121310a03'>\r\n//「景明さま？」\r\n\"Kageaki?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37550,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121320a00'>\r\n//「……周囲に人はいないようです。\r\n//　調査を行いましょう。可及的迅速に――」\r\n\"There's no one in the vicinity. Let's comb the area, but be as quick as you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37840,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121330a01'>\r\n//《――御堂!!》\r\n《...Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37978,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121340a00'>\r\n//「村正!?\r\n//　どうし――」\r\n\"Muramasa!? What's the―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38138,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121350a01'>\r\n//《高熱源反応ッ!!\r\n//　何――何なの、これ！》\r\n《High-temperature contact!\r\n  Wh- What in the world!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38363,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121360a00'>\r\n//「村正!?」\r\n\"Muramasa!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38487,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121370a01'>\r\n//《高<RUBY text='・'>々</RUBY>度熱源反応有り！\r\n//　来る――――何かっ!!》\r\n《<I>Extremely</I>㉑high-<br>temperature contact! Something's coming!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38761,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121380a00'>\r\n//「どこだ!?」\r\n\"Where!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38885,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121390a01'>\r\n//《<RUBY text='した'>地下</RUBY>よ！》\r\n《From below!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39051,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121400a00'>\r\n//「………」\r\n\"......\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121410a00'>\r\n//「…………〝怪物〟…………」\r\n\"...A monster...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39321,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0121420a03'>\r\n//「……あらあら」\r\n\"...Oh my.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39463,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0121430a04'>\r\n//「……まあまあ」\r\n\"Well, well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39600,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0121440a03'>\r\n//「……むかし西村なんとかさんという人が、\r\n//あんなものを造ったとか造らないとか……」\r\n\"I recall hearing that a fellow by the name of Nishimura built something like that...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39917,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0121450a04'>\r\n//「あれはドイツで行方不明になったと聞いて\r\n//おりましたがねぇ……」\r\n\"The rumors say that one went missing in Germany...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40164,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121460a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40282,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121470a00'>\r\n//「……村正」\r\n\"...Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40412,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121480a01'>\r\n//《……御堂？》\r\n《...Mido?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40551,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121490a00'>\r\n//「あれは、何か……\r\n//　わかるか？」\r\n\"Can you tell what that... thing is?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40738,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121500a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121510a01'>\r\n//《……劔冑、よ。\r\n//　ちょっと……風変わりだけど》\r\n《It's... a tsurugi. Just not the usual kind.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41090,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121520a00'>\r\n//「劔冑か……」\r\n\"A tsurugi...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41223,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121530a00'>\r\n//「〝卵〟の有無は」\r\n\"Any sign of an egg?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41369,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121540a01'>\r\n//《…………無し》\r\n《...None.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121550a01'>\r\n//《あれは、違う》\r\n《It's clean.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41648,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121560a00'>\r\n//「寄生体ではないか。\r\n//　無論、銀星号でもない」\r\n\"So it's not an infected tsurugi. Nor, needless to say, Ginseigo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41882,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121570a01'>\r\n//《ええ》\r\n《...Right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42013,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121580a00'>\r\n//「では――ここは退くべきだ、な」\r\n\"Then the best choice is to withdraw... correct?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42208,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121590a01'>\r\n//《そうね……。\r\n//　戦う気はありませんって、言ってみる？》\r\n《Yeah... Think it'll let us go if we ask politely?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42452,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121600a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42576,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121610a00'>\r\n//「……ッ!!」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42697,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0121620a03'>\r\n//「これは……!?」\r\n\"Ah...!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42836,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0121630a04'>\r\n//「……<RUBY text='ドレイン'>吸収</RUBY>！\r\n//　いけませぬ、お嬢さま！」\r\n\"It's draining us! Careful, Mistress!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43066,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121640a00'>\r\n//「村正ァッ!!」\r\n\"Muramasa!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43195,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121650a01'>\r\n//《――――!!》\r\n《!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43326,
+  "en": "\r\n//　飛槍のように、蜘蛛の放った鋼糸が宙を駆けた。\r\n//　銀色の巨甲に突き立つ。\r\n\r\n//　それが何程の損傷を与えたかは知れない。\r\n//　だが、奇妙な風は止んだ。\r\n\r\n//　肉体の自由が回復する。\r\n  The spider's threads streak through the night, stabbing at the silver giant like javelins.\r\n\r\n  Whether they inflict damage, I cannot say, but the strange wind dies down in an instant, and freedom returns to my body.\r\n\r\n  I turn to my companions and shout―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43862,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121660a00'>\r\n//「撤退を！」\r\n\"Run!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43984,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121670a00'>\r\n//「入り江へ――\r\n//　いや、片瀬までお戻り下さい！」\r\n\"Fall back to the inlet! No, to Katase!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44195,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0121680a03'>\r\n//「――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44322,
+  "en": "\r\n//　大鳥大尉は返事をしなかった。\r\n//　その手間を踏むかわり、即座に飛び退る。\r\n\r\n//　ただ、踵を返す直前。\r\n//　一差しだけ、視線を投げて寄越した。\r\n  The captain does not answer, choosing to take that time to flee.\r\n\r\n  As she goes, however, she shoots one last look over her shoulder.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44681,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121690a01'>\r\n//《御堂！》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44811,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121700a00'>\r\n//「鬼に逢うては鬼を斬る。\r\n//　仏に逢うては仏を斬る」\r\n<center>\"Where there are demons,\r\nI slay them.\r\nWhere there are saints,\r\nI slay them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45071,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121710a00'>\r\n//「ツルギの<RUBY text='ことわり'>理</RUBY>ここに在り」\r\n<center>\"Mine is the Way of the Sword!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45277,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0121720a00'>\r\n//「……さて。\r\n//　始めるぞ」\r\n\"...Let's begin.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45432,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0121730a01'>\r\n//《ええ……》\r\n《...Ready.》\r\n",
+  "pt": ""
+ }
+]

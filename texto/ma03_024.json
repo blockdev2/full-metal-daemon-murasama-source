@@ -1,0 +1,642 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240010a07'>\r\n//《各騎一斉に飛び出したぁーーーッ!!\r\n//　凄まじい<RUBY text='エグゾースト・シンフォニー'>爆音交響曲</RUBY>！》\r\n《And they're off! Listen to that symphony of thunder!》\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240020a07'>\r\n//《群を成してホームストレートを駆け抜けて\r\n//ゆく！　危険だッ！　クラッシュの発生率は\r\n//今この瞬間が最も高いィィィーーーッ!!》\r\n《The pack takes to the home straight! Look out! More crashes happen here than anywhere else!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 908,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240030a07'>\r\n//《あぁーー!?\r\n//　一三番、浮いた――――》\r\n《What's this!? Number 13 is pulling up―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1121,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240040a07'>\r\n//《直撃ッ！\r\n//　接触を避けようと無理な騎首転換を行った\r\n//一三番、チーム・サワダ！　浮いてしまった！\r\n//コースアーチに激突ぅッ！》\r\n《Collision! Number 13, Team Sawada, tried to avoid the other racers, but he pulled up too hard! Straight into the arch!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1541,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240050a07'>\r\n//《直ちに救助が行われます！》\r\n《Get that man some help!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1719,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0240060a08'>\r\n//《無様ね。\r\n//　翼の扱いを知らない鳥は、落ちて当然よ》\r\n《Pathetic. That's what happens to birds who don't know how to fly.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1967,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240070a07'>\r\n//《吹き飛んだアーチの修復も手早く行われて\r\n//おります。この辺りはさすが熟練のスタッフ、\r\n//仕事に無駄がない。\r\n//　一方レースは――》\r\n《The circuit crew is already hard at work replacing the destroyed arch! Nice job, guys. That's what we pay you for! Meanwhile―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2399,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240080a07'>\r\n//《第一コーナーへ突入ッ！\r\n//　先頭はやはりか！　翔京ウルティマ！》\r\n《The pack has entered the first corner! And at the head is―no surprise here―<br>Shokyo's Ultima!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2708,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240090a07'>\r\n//《続いてヨコタン、タムラ、マツイにアソシ、\r\n//後は団子だ！\r\n//　最後尾はポリスチーム！》\r\n《Behind him are Yokotan, Tamura, Matsui, and Asoshi! The rest of the pack follows. The police team is trailing in last!》\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240100a07'>\r\n//《さぁ、この順位！\r\n//　最初のコーナーを抜けてどう変化する!?》\r\n《Keep your eyes peeled! How will the positions shift as they take the corner!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3339,
+  "en": "\r\n//　…………予想通りと言おうか。\r\n  ...I suppose this was to be expected.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3439,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240110a00'>\r\n//「足の性能が違い過ぎるな」\r\n\"We're at too great a disadvantage in speed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3621,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240120a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3755,
+  "en": "\r\n//　数打劔冑は真打劔冑に劣る。\r\n//　それは現在における常識であり、疑いない事実でも\r\n//ある。\r\n\r\n//　が、数打劔冑の<RUBY text='キャパシティ'>性能的容量</RUBY>が八しかないとしても、\r\n//その全てを速度と運動性の増強に費やした<RUBY text='レーサークルス'>競技用劔冑</RUBY>\r\n//は――一〇の容量を戦闘力と機動力に五ずつ分配して\r\n//いる真打劔冑に足の競い合いで負ける筈もない道理だ。\r\n\r\n//　この分析は余りにも数学的に過ぎようが。\r\n//　実際、力量の差はそれほどにあった。\r\n  It is an undeniable truth that kazu'uchi are inferior to shin'uchi. To put it in numeric terms, if the maximum potential of a shin'uchi is 10 \"points,\" then the maximum potential of a kazu'uchi is no more than 8.\r\n\r\n  However, a racing crux is free to devote all 8 of its points to speed and maneuverability, whereas a shin'uchi must distribute its points between mobility and combat capabilities. \r\n\r\n  Things are not quite this clear-cut in real-life situations, of course, but the fact remains that there is a marked difference in performance between Muramasa and the rest of the tsurugi on the track.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5022,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240130a01'>\r\n//《……駆けっこで勝つのが目的じゃないんで\r\n//しょ。いいじゃない、別に》\r\n《...We're not here to play this racing game, are we? What difference does it make?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5316,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240140a00'>\r\n//「その通りだが。\r\n//　余り遅れるようだと不都合が生じる」\r\n\"That's true, but we can't afford to fall too far behind either.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5561,
+  "en": "\r\n//　後方に取り残されればそれだけ、孵化が起こった時\r\n//に駆けつけるのが遅れる。\r\n//　その遅れが被害者の数を一桁増やさないとは、断言\r\n//できない。\r\n\r\n//〝卵〟覚醒の瞬間に訪れる災厄は銀星号。\r\n//　諸人を殺し、殺し尽くす天象、その複製なのだ。\r\n\r\n//　せめて下位集団の渦中に位置したいところだが……。\r\n  The farther we are from the rest of the pack, the longer it will take to respond to the egg's hatching. And when the egg hatches, the infected tsurugi will instantly become a copy of Ginseigo.\r\n\r\n  Ginseigo's mere presence causes death and destruction. Each second wasted could result in countless victims. If possible, I would like to remain within reach of at least the lower rankers.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6389,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240150a07'>\r\n//《ポリスチームがコーナーを曲がる！\r\n//　なんというかッ――堅実な騎航だ！》\r\n《The police team rounds the corner! Such... steadfast piloting!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6673,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0240160a08'>\r\n//《……なにあれ。\r\n//　劔冑の性能も騎手の力量も凡庸。見るべき\r\n//点が無いわね》\r\n《...Nothing to see there. The crux and its pilot are both clearly out of their league. Let's move on.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6990,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240170a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7124,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240180a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7248,
+  "en": "\r\n//　気のせいだろうか。\r\n//　肌に触れる甲鉄から、何かこう、刺すようなものを\r\n//感じるが……。\r\n  Is it just my imagination? I feel something <I>prickly</I> emanating from Muramasa's armor.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7488,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240190a07'>\r\n//《ウルティマがスプーンカーブを抜けるッ！\r\n//　どうやら頭一つ抜き出たッ！》\r\n《Ultima has passed the spoon curve! He's already put a full length between himself and the rest!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7805,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240200a07'>\r\n//《続く集団はスーパーハウンド、ＲＧ-一〇、\r\n//アベンジの三強！　激しい鍔迫り合い！\r\n//　マツイはやや遅れたか!?》\r\n《Behind him, Super Hound, RG-10, and Avenger are jockeying for position! Matsui has fallen behind!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8176,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0240210a08'>\r\n//《おおむね順当な展開ね。\r\n//　さあ、これからどうなるかしら……》\r\n《No surprises so far. But how long will this keep up?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8426,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0240220a02'>\r\n//「うぅ……\r\n//　湊斗さん、頑張ってー……」\r\n\"Ugh... Hang in there, sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8613,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0240230a03'>\r\n//「……とは言いましても、ねぇ。\r\n//　<RUBY text='レーサークルス'>競技用劔冑</RUBY>の足に<RUBY text='ドラコ'>軍用</RUBY>で挑むというのは」\r\n\"Sorry to burst your bubble, dear, but shouts of encouragement are little help to a dragoon going up against a track of racing cruxes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9036,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0240240a04'>\r\n//「無駄無駄無駄ァでございます。\r\n//　例えるならそう、鳥と魚の競走とでも申し\r\n//ましょうか」\r\n\"I believe the expression is 'useless, useless, useless!' It's a bit like a fish racing against birds.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9368,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0240250a02'>\r\n//「比べようがねぇだろ、それ」\r\n\"How's that supposed to work?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9538,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0240260a04'>\r\n//「つまりはそういうことでございます。\r\n//　世界が違うのですよ、綾弥さま」\r\n\"It doesn't. That's the point. Different worlds, Miss <br>Ayane.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9807,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0240270a02'>\r\n//「くそー……。\r\n//　じゃあこのままか。悔しいなぁ……」\r\n\"Shit! So Officer Minato is stuck in last place? That sucks!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10045,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0240280a03'>\r\n//「まぁま、お忘れなく。\r\n//　景明さまの――わたくしどもの目的は別に\r\n//あるんですのよ？」\r\n\"Now, now. Don't forget the real reason we're here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10332,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0240290a04'>\r\n//「はい。\r\n//　レース参加はあくまで方便でございます」\r\n\"Indeed. This race is just a means to that end.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10554,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0240300a02'>\r\n//「……そりゃ、わかってるけどさ。\r\n//　なんか見てると、こう……熱が入るんだよ」\r\n\"I know that. But watching this, it's like, I want to see him win.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10834,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0240310a04'>\r\n//「お気持ちはよくわかります。\r\n//　湊斗さまご自身がその熱に流されねば良い\r\n//のですが」\r\n\"I understand the feeling. Let's just hope he doesn't lose sight of the goal himself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11143,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0240320a03'>\r\n//「あの方なら大丈夫でしょう」\r\n\"I'm sure we have nothing to worry about.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11334,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0240330a02'>\r\n//「……見てみたい気も、ちょっとするけど。\r\n//　そういう湊斗さん」\r\n\"...I kind of want to see him get really passionate about something.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11595,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0240340a04'>\r\n//「ほっほっ。\r\n//　さようでございますね」\r\n\"Ho ho ho! But of course you do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11784,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0240350a03'>\r\n//「わかりました。お任せなさい。\r\n//　今からわたくしが愛のエナジィを送ります」\r\n\"All right, just leave it to me. I'll energize him with the power of love.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12078,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0240360a02'>\r\n//「おい。\r\n//　いきなり微妙なこと言い出してんだけど。\r\n//あんたの主人」\r\n\"Hey, I think your mistress has a screw loose.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12324,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0240370a04'>\r\n//「微妙というか、完全アウトでございますね。\r\n//　どうかほうっておいてやってくださいませ。\r\n//白く柔らかい壁に囲まれた密室の中で暮らす\r\n//方々を見るような感じで」\r\n\"More than just a screw, I fear. Let's leave her alone, shall we? Treat her like you would a fellow living in one of those nice padded rooms.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12798,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0240380a03'>\r\n//「こういう時、窮地にある男に闘志を注ぐの\r\n//は女の愛情ッ！\r\n//　燃え盛る想いが景明さまを猛り狂わせ逆転\r\n//の道を開きます！　さぁ届けわたくしの愛！」\r\n\"Sometimes a man needs a woman's love to pull him back from the edge of defeat! My passion will fill his soul and lead him to victory! LOVE BEAM, FIRE!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13273,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0240390a02'>\r\n//「ポップコーン食う？」\r\n\"Want some popcorn?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13424,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0240400a04'>\r\n//「ありがたく頂きます。\r\n//　いや、懐かしゅうございますねぇ。私めの\r\n//若い頃はこういう物もなかなか珍しく……」\r\n\"Oh, thank you. Ahh, this takes me back. Events like these were quite rare when I was your age.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13779,
+  "en": "\r\n//　Ｓ字カーブを抜ける。\r\n//　我ながら、危なげのない騎航だ。\r\n\r\n//　全く褒め言葉ではないが。\r\n//　サーキットコースにおける速度と安全を限界の一線\r\n//で両立させる<RUBY text='レーシングテクニック'>競技騎航技術</RUBY>の持ち合わせがないため、\r\n//速度を切り捨てて安全を取っているだけの話である。\r\n\r\n//　観客にしてみれば面白くもなんともあるまい。\r\n//　どうにも仕様がないので、勘弁して貰うしかないが。\r\n\r\n//　先頭からの遅れはそろそろ半周になろうとしている。\r\n//現在進行形で伸張中であり、縮まる気配はまるでない。\r\n//黄金騎は騎手も騎体も調子が良いようだ。\r\n//　どうしたものか。\r\n\r\n//　この際無理に追うのはやめ、あえて周回遅れになる\r\n//べきかもしれない。要は選手達に近接できればそれで\r\n//良いのだ。\r\n//　……根本的解決とは言い難いが。\r\n\r\n//　一時的には近付けても、また引き離されれば同じ事。\r\n//　こちらの速度が大きく劣っているという事実がある\r\n//以上、騎手達と至近距離を保つという希望はどうにも\r\n//成立しない。\r\n\r\n//　いっそ発想の転換が必要か。\r\n//　コースを無視して飛ぶなど…………？\r\n\r\n//　一手ではある。\r\n//　が――競技放棄、競技妨害とみられればそれまで、\r\n//レースから排除されてしまう。ポリスチームが蒙るで\r\n//あろう多大な迷惑も看過し得ない。\r\n\r\n//　何か良い策はないだろうか。\r\n  We round the S-curve at a leisurely pace. So far, I've managed to stay on the course―not that that's anything to be proud of.\r\n\r\n  I lack the training that allows armor racers to balance speed and control on the circuit, so I am merely sacrificing the former for the latter.\r\n\r\n  I can understand how the spectators would be disappointed, but there's nothing I can do about it. They'll just have to be satisfied with the real racers.\r\n\r\n  The top five are now almost half a lap ahead of us, and gaining. Both the golden machine and its pilot are in top form.\r\n\r\n  What to do? Should I give up on following and let them lap me? That would bring them once again within reach.\r\n\r\n  ...No, that solves nothing. They'll just pull away again shortly thereafter. As long as the difference in speed is this great, there's no hope of staying close to any of the racers.\r\n\r\n  A different approach, then. Should we leave the course and take to the sky?\r\n\r\n  That would make it easier to observe and respond, but if the referees decide that we've forfeited the race or present an obstacle to the other contestants, they'll expel us. This would likely result in considerable fallout off the track as well. I'd rather not put the police team in that position.\r\n\r\n  Is there no perfect solution?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16759,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240410a07'>\r\n//《おっ、アソシが抜きに掛かった！\r\n//　インを攻める――が、駄目だッ！》\r\n《Whoa! Asoshi dives for the inside! He's trying to pass―<br>denied!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17043,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240420a07'>\r\n//《ヨコタンのスーパーハウンドが一枚上手！\r\n//　がっちりラインを封じられては手も足も\r\n//出せず！　二位三位の変動はありません！》\r\n《Yokotan's Super Hound is too good! He's got the lane locked down tight! Second and third remain firm!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17442,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0240430a08'>\r\n//《良い攻防ね。\r\n//　……それに引き換え、最下位のあれは何\r\n//なのよ。どん臭いったら》\r\n《A fine exchange. ...Unlike anything that crux in the rear could manage, I'm sure.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17749,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0240440a08'>\r\n//《よっぽどの駄作なのね、あの<RUBY text='クルス'>劔冑</RUBY>》\r\n《Who even built that piece of junk?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17968,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240450a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18102,
+  "en": "\r\n//　……黙りこくる村正が妙に気になって仕方ない。\r\n  ...Muramasa's silence is beginning to bother me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18237,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240460a07'>\r\n//《先頭がコントロールラインを越えたっ。\r\n//　これで五周！　六周目です！》\r\n《The leaders have passed the control line! And that's the fifth lap!》\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240470a07'>\r\n//《残り一五周。そろそろ中盤戦に差し掛かり\r\n//ます。\r\n//　状況はやや膠着してきたか？》\r\n《Fifteen more to go. This brings us to the midgame, folks, and it looks like things are settling down.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18851,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0240480a08'>\r\n//《そのようね。\r\n//　翔京を筆頭にヨコタン、アソシ、タムラ、\r\n//マツイ……上位陣は順当なところで安定して\r\n//いるわ》\r\n《So it does. Shokyo in the lead, followed by Yokotan, Asoshi, Tamura, and Matsui. The top ranks look pretty stable.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19234,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240490a07'>\r\n//《一方、下位の情勢はいまだ混沌。\r\n//　激突ありコースアウトありの激しいデッド\r\n//ヒートを繰り広げています！》\r\n《The lower ranks are still locked in a dead heat! Crashes! Fouls! It's a warzone out there!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19595,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240500a07'>\r\n//《しかし、最後尾のポリスチームだけは孤立\r\n//気味だッ！　やはり予備騎での参加は無理が\r\n//あったか!?　昨日の事故が痛かった！》\r\n《But the police team is all alone in the rear! Looks like their spare just can't compete! Yesterday's accident may prove fatal at this rate!》\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240510a07'>\r\n//《それでもポリスは<RUBY text='はし'>騎航</RUBY>る！　ご来場の皆様、\r\n//血税ではありません！　彼らは皆様の税金を\r\n//浪費して参戦しているのではありませんッ！\r\n//月給です！　月給から費用を捻出しています》\r\n《They're not throwing in the towel yet, though! Don't worry, folks! It's not your tax money being pissed away out there! It all comes out of their own pockets!》\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240520a07'>\r\n//《安月給の貴重な一部、一食の食費を三〇円\r\n//から二〇円に切り詰めて貯めたお金で彼らは\r\n//駆ける！　偉いぞ警察！　頑張れポリス！\r\n//　失われた給料にかけて飛べ、<RUBY text='ホットドッグ'>串焼腸詰</RUBY>！》\r\n《To keep racing, they spend only twenty yen per meal instead of thirty! That's police spirit! Fight, police! Don't let your lost wages go to waste, Hot Dog!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21124,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240530a07'>\r\n//《いけー<RUBY text='ホットドッグ'>串焼腸詰</RUBY>！\r\n//　負けるな<RUBY text='ホットドッグ'>串焼腸詰</RUBY>！\r\n//　頑張れファイトだ<RUBY text='ホットドッグ'>串焼腸詰</RUBY>ゥーーー!!》\r\n《Go, Hot Dog! Don't let us down, Hot Dog! You can do it, Hot Dog!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21539,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240540a07'>\r\n//《うわーん！\r\n//　応援してるこっちがアホみてー！》\r\n《Wahhh! I feel like an idiot trying to cheer for them!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21778,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0240550a08'>\r\n//《ほっときゃいいでしょうがッ!?》\r\n《So forget about them!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21950,
+  "en": "\r\n//　悩むのを打ち切る。\r\n//　……やはり、そうそう虫の良い手はない。\r\n  ...Enough. Agonizing over it will get me nowhere. I should know by now that there's never a perfect solution.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22171,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240560a00'>\r\n//「村正。コースを外れるぞ。\r\n//　この際は止むを得ん」\r\n\"This isn't working. We're leaving the course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22392,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240570a01'>\r\n//《………………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22532,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240580a00'>\r\n//「上空から選手集団を把握し――――\r\n//　……村正？」\r\n\"We'll observe the racers from above and―  Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22761,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240590a01'>\r\n//《…………。\r\n//　<RUBY text='はし'>騎航</RUBY>れば……いいんでしょう……？》\r\n《...You want me to go faster?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23002,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240600a00'>\r\n//「おい？」\r\n\"Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23126,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240610a01'>\r\n//《速く飛べばいいんでしょう。\r\n//　……速く……飛べばッ!!》\r\n《Fine... You want speed? Then that's what you'll get!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23372,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240620a00'>\r\n//「応答しろ、村正。\r\n//　状況を認識しているか」\r\n\"Respond, Muramasa. Are you aware of the situation?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23589,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240630a01'>\r\n//《……ッッ》\r\n《...!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23721,
+  "en": "\r\n//　していなかった。\r\n//　いや、むしろ状況に没頭しているというべきなのか。\r\n\r\n//　村正の注意は遥か先へ集中している。\r\n//　遠い彼方を駆ける<RUBY text='レーサークルス'>競技用劔冑</RUBY>達に。\r\n  Clearly not. Or perhaps it's more accurate to say that she's <I>lost</I>㉔in it.\r\n\r\n  My tsurugi's attention is fixed far ahead, upon the racing cruxes whose dust we are eating.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24180,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240640a00'>\r\n//「村正――」\r\n\"Muramasa―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24309,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240650a01'>\r\n//《舐めるな<RUBY text='・・・'>餓鬼共</RUBY>!!\r\n//　ぺらぺらの紙細工がッ!!》\r\n《Know your place, impudent children! Flimsy toys of paper and glass!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240660a01'>\r\n//《<RUBY text='ほんもの'>真物</RUBY>の劔冑の力――\r\n//　思い知りなさい!!》\r\n《I'll show you what a㉓<I>real</I> tsurugi is made of!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24836,
+  "en": "\r\n//　おい。\r\n//　その前に。\r\n//　何をするつもりなのか、俺に思い知らせて欲しいの\r\n//だが。\r\n  Wait.<K> Hold on.<K> First tell㉓<I>me</I> what you're going to do!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25045,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240670a01'>\r\n//《<RUBY text='ながれ・まわる'>磁装・正極</RUBY>！》\r\n《I join the flows!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25238,
+  "en": "\r\n//　……<RUBY text='エンチャント'>磁気鍍装</RUBY>！\r\n//　防御障壁となる負極とは逆性の、自分自身へ向ける\r\n//正極――\r\n  Enchant Plus! Muramasa is directing magnetic energy at herself: the opposite of Enchant Minus, which forms a barrier against attacks.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25544,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240680a00'>\r\n//「冷静さを回復しろ村正。\r\n//　その手は俺も考えた」\r\n\"Come to your senses. I've already considered that tactic.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25774,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240690a01'>\r\n//《――――》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25908,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240700a00'>\r\n//「だが届かん。\r\n//　消耗だけで終わる」\r\n\"It won't work. We'll just be wasting energy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26107,
+  "en": "\r\n//　<RUBY text='エンチャント・プラス'>磁装・正極</RUBY>は甲鉄全領域を分割・複層的に磁化して\r\n//ゆく事によって生じる反発と吸着を利用し、あらゆる\r\n//駆動系を効率化する術。\r\n//　機動力の上昇も見込める。\r\n\r\n//　が、<RUBY text='シノギ'>陰義</RUBY>の必然として<RUBY text='カロリー'>熱量</RUBY>の消耗を必要とし、その\r\n//程度は効果の高さに比例する。\r\n//　劇的な効果を――レーサークルスに伍する速度など\r\n//――を望めば無論、消耗は大きく。\r\n\r\n//　持続する筈がない。そもそも、そんな真似が可能で\r\n//あるのかすら疑問だ。\r\n//　結論として、この状況では無効の一手。\r\n  Enchant Plus generates multilayered electromagnetic fields throughout Muramasa's armor, using the alternating forces of attraction and repulsion to enhance performance. An increase in speed is one of the benefits.\r\n\r\n  Use of shinogi requires calories, however, the expenditure of which is proportional to the effect. A massive boost in speed―say, enough to match a racing crux―will of course necessitate a massive drain.\r\n\r\n  Obviously the effect won't last for long, and that's if we can even achieve such acceleration in the first place. It can hardly be called a wise move under these circumstances.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27499,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240710a01'>\r\n//《――御堂。執行を》\r\n《Mido, give the command.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27662,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240720a00'>\r\n//「対話が成立していないように思える」\r\n\"It's like I'm speaking a foreign language.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27858,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240730a01'>\r\n//《私が貴方を<RUBY text='・・・'>あそこ</RUBY>へ送る！\r\n//　嘘はつかない。御堂、これが貴方の欲して\r\n//いた最善の手よ》\r\n《I will take you to them. You have my word! This is the perfect solution you were looking for!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28222,
+  "en": "\r\n//　……とてもそうは思えないが。\r\n//　脳内で計算を行う。\r\n\r\n//　このまま興奮状態の村正と言い合いを続ける場合。\r\n//　ひとまず好きにさせる場合。\r\n//　どちらがより不毛か。どちらがより<RUBY text='・・・・・・'>致命的な失敗</RUBY>か。\r\n\r\n//　さほど掛からず、結論は出た。\r\n  I hardly think so, but...\r\n  I consider my options.\r\n\r\n  Either I keep arguing with my deranged tsurugi, or I let Muramasa have her way temporarily. Which is the greater waste of time, the more fatal error?\r\n\r\n  It doesn't take long to reach the answer.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28865,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240740a00'>\r\n//「……<RUBY text='リニア・アクセル'>磁気加速</RUBY>」\r\n\"...Linear Accel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29050,
+  "en": "\r\n//　<RUBY text='コマンド・オン'>呪句実行</RUBY>。\r\n\r\n//　風が硬く、重くなる。\r\n//　速度の急上昇がもたらすものだ。\r\n\r\n//　先程までとは段違いに速い。\r\n//　………とはいえようやく、一線級レーサークルスの\r\n//一番下に引っ掛かったか、というあたりだが。\r\n\r\n//　とりあえず、前方との差の拡大は収まっている。\r\n//　他騎手のミスを待って順位を上げることも可能かも\r\n//しれない。無論、こちらはミスをしないという前提で\r\n//だ。\r\n  The air becomes hard and heavy, a sensation that comes with rapid acceleration. Our speed tops out at several times what it was before.\r\n\r\n  ...Of course, that only brings us even with the slowest of front-line racing cruxes.\r\n\r\n  Well, at least we've stopped losing ground. It may be possible to gain a few ranks, if someone makes a mistake... and assuming I don't make one first.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30028,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240750a00'>\r\n//「……これで満足か？」\r\n\"...Are you satisfied?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30182,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240760a01'>\r\n//《ここからよ》\r\n《I'm just getting started!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30338,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240770a00'>\r\n//「何？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30455,
+  "en": "\r\n//　纏う劔冑の低い呟き。\r\n//　何とはなし、不吉なものを感じ取る。\r\n\r\n//　――甲鉄が、異様な<RUBY text='・・・'>ナニカ</RUBY>を帯びた。\r\n  I feel a sense of impending doom. Something is entering my tsurugi's armor. Something㉓<I>unnatural.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30759,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240780a01'>\r\n//《天地万物に吸引の力有り。\r\n//　この作用を<RUBY text='インシン'>引辰</RUBY>、力を<RUBY text='シンキ'>辰気</RUBY>と称す――》\r\n《All things in nature are called to one another. When mastered, this force is supreme, its power limitless.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31138,
+  "en": "\r\n//　…………!?\r\n//　これは――まさか。\r\n\r\n//　まさか。\r\n  This is―no, it can't be.\r\n\r\n  It can't be!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31272,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240790a00'>\r\n//「何の真似だ!?」\r\n\"What are you doing!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31415,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240800a01'>\r\n//《<RUBY text='シンキシュウレン'>辰気収斂</RUBY>》\r\n《Graviton Charge!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31604,
+  "en": "\r\n//　甲鉄の周囲にエネルギーが満ちる。\r\n//　それは村正が性質として備える、磁力操作ではない。\r\n\r\n//　全く異なる力。\r\n//　だが良く似ている力――\r\n  The space around my tsurugi thrums with energy, and not the electromagnetic energy that Muramasa has always been able to command.\r\n\r\n  This is something entirely different.\r\n  Different, yet somehow similar.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32029,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240810a00'>\r\n//「これは……重力操作……」\r\n\"This is gravity control!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32192,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240820a01'>\r\n//《……の、亜流といったところね》\r\n《Well, close enough.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32369,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240830a00'>\r\n//「何故そのような事ができる？\r\n//　これは、」\r\n\"How is that possible? This is―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32565,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240840a00'>\r\n//「これは……\r\n//　<RUBY text='・・・'>銀星号</RUBY>の<RUBY text='ちから'>能力</RUBY>だろう！」\r\n\"This is Ginseigo's power!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32808,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240850a01'>\r\n//《〝卵〟を壊して野太刀の断片を回収した時\r\n//に<RUBY text='・・・'>おまけ</RUBY>でついてきたのよ。\r\n//　微々たるものだけれどね》\r\n《When we recovered the pieces of my nodachi, something㉓<I>extra</I> came along. It's not much compared to the real thing, though.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33224,
+  "en": "\r\n//　……〝卵〟は銀星号の力の結晶。\r\n//　今回の〝卵〟はそこに村正の力――野太刀の破片を\r\n//加えて生成されている。\r\n\r\n//　野太刀の破片が村正の元へ戻る時、混合した銀星号\r\n//の〝力〟も一緒に引き摺ってきたという事か……！\r\n  The eggs are manifestations of Ginseigo's power. This time, they were merged with the fragments of our nodachi; in other words, with Muramasa's power.\r\n\r\n  So when the pieces of the nodachi were reabsorbed into Muramasa, they brought some of Ginseigo's power with them!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33824,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240860a00'>\r\n//「扱いきれるのか？」\r\n\"Can you control it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33973,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240870a01'>\r\n//《この高度なら。たぶん、辰気は地表に近い\r\n//ほど御しやすい……はず。\r\n//　<RUBY text='かかさま'>先代</RUBY>のようにはいかないけれど……足回り\r\n//を軽くするくらいのことはできる》\r\n《At this altitude, probably. It's easier to control the fields when you're closer to the earth... I think. I can't do what Mother can, but I should be able to make us go faster.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240880a01'>\r\n//《<RUBY text='・・・'>もどき</RUBY>共に一泡吹かせるには充分よ！》\r\n《Fast enough to show these knockoffs what for!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34742,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240890a01'>\r\n//《御堂！》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34872,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240900a00'>\r\n//「――<RUBY text='グラビティ・アクセル'>辰気加速</RUBY>」\r\n\"Gravity Accel!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35061,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240910a07'>\r\n//《…………えーーーーーーーーーー!?》\r\n《WHAAAAAAAAAAAA!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35243,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0240920a08'>\r\n//《なんじゃありゃァーーーーーーー!?》\r\n《WHAT THE―!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35413,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0240930a03'>\r\n//「愛、届いたッ!?」\r\n\"My love worked!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35564,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0240940a02'>\r\n//「嘘ぉーーーーーーーーー!?」\r\n\"No way!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35712,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0240950a04'>\r\n//「ぶはッッ」\r\n//　\r\n//（→ポップコーン噴いた）\r\n<center>(´゜ω゜);*.':;:</center>\r\n \r\n                                   ↑Popcorn\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35961,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0240960a07'>\r\n//《すげー！　すごいぞホットドッグ！\r\n//　なんだかわけわかんねー加速で一気に追い\r\n//上げたぁーーーーーッ!!》\r\n《Whoa! Look at Hot Dog go! I don't know what happened, but it's taken off like a bat out of hell!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36324,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0240970a08'>\r\n//《なんでよっ！　なんであんな騎体であんな\r\n//スピードがあんな急に出るのよ！\r\n//　ありえないわっ、監視員に連絡！　なにか\r\n//おかしな器械を使ってなかったか確かめて！》\r\n《What!? How!? Where did that machine get all that speed!? Something's wrong here. Call the control tower. Make sure they're not using any illegal parts!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36819,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0240980a00'>\r\n//「村正！　速過ぎだ！\r\n//　誰がどう見てもこれは変だッ！」\r\n\"We're going too fast! Everyone can tell this isn't normal!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37059,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0240990a01'>\r\n//《ちょっと……力の制御が……\r\n//　でも追いついたんだからいいでしょ!?》\r\n《Um... I'm having a little trouble controlling it. But we caught up, didn't we!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37350,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0241000a00'>\r\n//「それはそうだがここまで異様に目立ちたく\r\n///はないっ！\r\n//　後で困るッ！」\r\n\"Yes, but now we're the center of attention! This will only cause us trouble later!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37640,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0241010a01'>\r\n//《なら、後で困っておいてっ！》\r\n《So deal with it then!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37816,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0241020a00'>\r\n//「俺は来月の<RUBY text='アーマーレース'>装甲競技</RUBY>雑誌の表紙を『謎の超\r\n//新星現る』などという月並みなコピーと一緒\r\n//に飾るつもりは毛頭ないのだ！」\r\n\"I don't want to show up on the cover of next month's Armor Racing Digest under a headline reading 'Mystery Hero Appears in a Blaze of Light!' How will I explain it to the commissioner!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38316,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0241030a01'>\r\n//《良かったじゃない子供の頃の夢が叶って！》\r\n《Not everyone gets to realize their childhood dream, you know!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38550,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0241040a00'>\r\n//「速度を落とせーーー!!」\r\n\"SLOW DOWN!\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38696,
+  "en": "\r\n//　渦巻く力に振り回<RUBY text='・・・'>されて</RUBY>いるらしい村正に叫ぶ。\r\n//　届いているのかどうか知れたものではないが。\r\n\r\n//　もはや風を感じない。\r\n//　空気はどこかへ消失していた。ここはそんな領域。\r\n\r\n//　<RUBY text='すがすが'>清々</RUBY>しい。\r\n//　素晴らしい。\r\n//　……冗談ではない。\r\n\r\n//　ここは装甲競技の中にさえ<RUBY text='・・・・'>無い世界</RUBY>だ。\r\n//　そんなところに行ってしまってどうする。\r\n\r\n//　甲鉄表面を駆け巡る力に精神の指先を伸ばす。\r\n//　村正だけでは抑えかねるのなら、こちらからも制御\r\n//するほかない。\r\n\r\n//　沸騰した滝のようなエネルギーの渦を握り締める。\r\n//　意識が白熱。脳梁が弾けた。左脳と右脳が分断され\r\n//自己が二つに割り裂かれる。\r\n\r\n//　封じる――\r\n  I roar at Muramasa to stop, but I have no way of knowing if my voice reaches through the maelstrom of power that seems to have consumed her.\r\n\r\n  I can no longer feel the wind around us. We have entered a world where even air resistance is meaningless.\r\n\r\n  It's wonderful.<K>　It's glorious.<K>\r\n  It's an utter disaster.\r\n\r\n  Not even armor racers can set foot in㉒<I>this</I>㉒domain. I didn't come here to set a new world record!\r\n\r\n  I reach out with my mind to the power coursing through my armor. If Muramasa can't control it herself, then I'll just have to help her.\r\n\r\n  I seize the raging currents of energy and bend them to my will. My brain erupts in white-hot agony, and for a moment, it feels as if my mind has ripped in two.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40410,
+  "en": "\r\n//　もう少し――\r\n  Just a little more―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40470,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0241050a07'>\r\n//《おお!?　ホットドッグ、加速が止まった！\r\n//　結局なんだったのかさっぱりわからんけど\r\n//とにかく限界に達した模様》\r\n《Oh? Hot Dog has stopped accelerating! Whatever happened, folks, it's over.》\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0241060a07'>\r\n//《安定した騎航に戻るようです》\r\n《Looks like it's leveling out.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41002,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0241070a08'>\r\n//《……それでもまだ……さっきまでの騎航に\r\n//比べると随分速いわね。\r\n//　これが本当の性能なのかしら……？》\r\n《But still, it's much faster than before. Was it holding back all this time?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41336,
+  "en": "\r\n//　重力加速を制御可能範囲内に縮小。\r\n//　姿勢安定回復。\r\n\r\n//　……ようやく落ち着いた。\r\n  I bring the gravitic acceleration down to a manageable level and restore stability.\r\n\r\n  ...Thank the gods that's over.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41597,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0241080a00'>\r\n//「このペースを維持するぞ、村正。\r\n//　もう加速は無しだ」\r\n\"Maintain this pace. No more acceleration.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41820,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0241090a01'>\r\n//《ええ……》\r\n《...Right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41957,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0241100a07'>\r\n//《やー、すごかったね。\r\n//　そういやおめー、あれに凡庸だの駄作だの\r\n//散々言ってなかったっけ？》\r\n《Damn, that was something. Who was it who called that crux a piece of junk?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42284,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0241110a08'>\r\n//《……くっ。\r\n//　わかったわよ。取り消すわよ、認めるわよ》\r\n《Fine, I take it back. I was wrong!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42507,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0241120a08'>\r\n//《あの騎体は並ではないわね。\r\n//　どうにもよくわからないところがあるけど\r\n//……》\r\n《That machine is anything but average. I still don't understand what happened...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42809,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/ma03/0241130a08'>\r\n//《あの加速は超常的で――美しくもあったわ。\r\n//　あれを見せただけでも、この決勝戦に参加\r\n//する資格はあったと言えるでしょう》\r\n《But that burst of speed just now was intense, otherworldly, and yes, beautiful. I suppose they've earned their place in my race.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43223,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0241140a07'>\r\n//《主催者サマのお言葉でした。\r\n//　良かったねー、ポリスの人！》\r\n《And there you have it from the general himself! Way to go, police team!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43498,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0241150a01'>\r\n//《ふふっ》\r\n《Hehe!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43628,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0241160a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ }
+]

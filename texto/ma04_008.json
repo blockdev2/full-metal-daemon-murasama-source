@@ -1,0 +1,1097 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　江ノ島の土を踏んだ時には既に夜も深更を回りかけ\r\n//ていた。小船を調達するのに手間取った事、船の扱い\r\n//に慣れていなかった事、などがその理由だ。\r\n//　明け方までもう数刻もないだろう。\r\n\r\n//　ひとまず今日のところは、様子見に留めておくほか\r\n//ないようだ。\r\n//　島を一巡りする余裕はおろか、幕府の研究所を観察\r\n//する時間もありそうにない。\r\n  It is already past midnight by the time we set foot on Enoshima's shore. Too much time was spent procuring a boat and learning to operate it. Now only a few hours remain until dawn, leaving no time to investigate the research facility, much less scan the whole island.\r\n\r\n  We'll have to restrict ourselves to preliminary observations for tonight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1064,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080010a03'>\r\n//「手分けしてあたります？」\r\n\"Shall we split up?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1230,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080020a00'>\r\n//「やめておきましょう。\r\n//　効率をいえばその方が望ましいのは確かで\r\n//すが、夜明けまでには撤収せねばならぬ以上、\r\n//残り時間はせいぜいがあと一、二時間」\r\n\"Let's not. While it would be more efficient, we only have one hour, two at most, before we must withdraw.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080030a00'>\r\n//「これではどのみちさしたる成果は期待でき\r\n//ません。また警邏の武者、存在不確定ながら\r\n//〝怪物〟等の危険と遭遇した場合に対処可能\r\n//な者が自分のみという点も、問題となります」\r\n\"Either way, we cannot hope to learn much in that time, and we must also consider that I am the only one capable of responding to an encounter with enemy musha or this yet-<br>unidentified 'monster.'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2205,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080040a04'>\r\n//「左様でございますねぇ……」\r\n\"Very true...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2359,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080050a02'>\r\n//「……すみません。\r\n//　戦えればこういう所で足を引っ張らなくて\r\n//済むのに」\r\n\"...Sorry. If I could fight too, I wouldn't be such a burden.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2629,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080060a00'>\r\n//「心得違いをするな。\r\n//　戦闘は元より俺の役割だ。お前や大尉殿に\r\n//期待するのは捜査の面における協力であって、\r\n//それ以外の何かではない」\r\n\"Don't misunderstand. I am counting on you and the captain, but only to assist in the investigation. Should combat be necessary, that is my role.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080070a00'>\r\n//「その期待には充分に応えられている。\r\n//　お前が気に病むことは何もない」\r\n\"You've done very well in your capacity. You have nothing to be ashamed of.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3346,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080080a02'>\r\n//「……はい」\r\n\"...I know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3474,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080090a02'>\r\n//「…………でも、あたしは…………\r\n//　もっと役に立ちたいです…………」\r\n\"But still... I want to do more...\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080100a02'>\r\n//「もっと……」\r\n\"More...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3830,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080110a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3948,
+  "en": "\r\n//　かぼそい呟きは、聞かなかったことにしておく。\r\n//　その方が良いだろうと、思ったからだ。\r\n  I pretend not to hear her whisper. Something tells me that it wasn't meant to be heard.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4183,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080120a03'>\r\n//「ふふふ聞きましたよ一条さん！」\r\n\"Hehehe! I heard that, young lady!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4373,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080130a04'>\r\n//「駄目だ空気読めてねーよこの人」\r\n\"Wasn't it just established that some things aren't meant to be heard?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4590,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080140a03'>\r\n//「つまりこう仰るのですね！\r\n//　もっと身体を張って、景明さまにご奉仕が\r\n//したいと！　まあなんて大胆な」\r\n\"You wish to service him with your body, do you? How bold!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4908,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080150a02'>\r\n//「誰がそんなエロいこと言ったか！」\r\n\"No one said anything that dirty!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5091,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080160a03'>\r\n//「あら？　あらあら？　エロいだなんてあら\r\n//そんな。\r\n//　一体なにがエロかったのかしら。どういう\r\n//解釈をなさったの？　教えてくださいなっ♪」\r\n\"Dirty? Who said anything about dirty? There must be dirty thoughts in your head, you dirty little thing, you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5516,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080170a00'>\r\n//「行動を開始します」\r\n\"Let's get moving.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5663,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080180a02'>\r\n//「はい」\r\n\"Okay.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5780,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080190a04'>\r\n//「参りましょう」\r\n\"Right behind you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5921,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080200a03'>\r\n//「……最近のわたくし、なんかやたら粗末に\r\n//されていませんかしら……」\r\n\"...I feel like everyone's ignoring me lately.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6178,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080210a04'>\r\n//「うるさいですよお嬢さま」\r\n\"Do shut up, Mistress.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6338,
+  "en": "\r\n//　正直なところ、今回の調査には何の進展も期待して\r\n//いなかった。\r\n//　雰囲気を掴めれば、明日以降の捜査を円滑に進める\r\n//のに役立とう。その程度の腹だ。\r\n\r\n//　しかし。\r\n//　島の異常の、少なくともその一端は、ものの数分で\r\n//俺たちの前に姿を現していた。\r\n  In all honesty, I expected little to come of this first excursion. Perhaps a general idea of Enoshima's condition, but that is all.\r\n\r\n  And yet, it doesn't take but a few minutes for us to hit upon one of the island's anomalies.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6947,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080220a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7065,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080230a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7192,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080240a02'>\r\n//「……あの。\r\n//　湊斗さん」\r\n\"Um... sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7342,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080250a00'>\r\n//「どうした」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7464,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080260a02'>\r\n//「何か……変じゃありませんか？」\r\n\"Don't you think something's... off?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7647,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080270a00'>\r\n//「とは」\r\n\"Such as?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7767,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080280a02'>\r\n//「……どう言えばいいんでしょう」\r\n\"How do I put it...\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080290a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8049,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080300a02'>\r\n//「ビニールハウスの中を歩いてるみたい……\r\n//な？」\r\n\"It's like we're walking through a greenhouse.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8267,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080310a00'>\r\n//「適切な評だと思う」\r\n\"An apt description.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8416,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080320a04'>\r\n//「まことに」\r\n\"Indeed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8541,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080330a02'>\r\n//「……どういうことですか？」\r\n\"...But why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8694,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080340a03'>\r\n//「動物がいませんの」\r\n\"There are no animals.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8854,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080350a02'>\r\n//「……あっ」\r\n\"...Oh!\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080360a02'>\r\n//「そうか……」\r\n\"Of course...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9103,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080370a00'>\r\n//「元々、野生動物が人間のような鈍い相手の\r\n//前にそう姿を見せるものではないが。\r\n//　それにしても、気配さえ全くないとなれば\r\n//これは異常」\r\n\"Wild animals do not normally show themselves to humans, but for there to be no trace of wildlife at all... It's unnatural.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9526,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080380a04'>\r\n//「ビニールハウスとは上手い表現でございま\r\n//したな。まるで動物という動物が駆除されて\r\n//しまったかのようで……」\r\n\"A greenhouse indeed. It's as though all the animals were driven off the island.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9869,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080390a03'>\r\n//「上陸した辺りは、そのようなことありませ\r\n//んでしたのに。\r\n//　むしろ獣も虫も豊富にいたかと」\r\n\"But it wasn't like this near where we landed. The wildlife there was <br>flourishing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10200,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080400a00'>\r\n//「海にも魚が多く見られました。情報通り。\r\n//　しかし一方、この辺りはあたかも死の世界」\r\n\"Especially the fish, as my source described. Yet here, the land is dead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10499,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080410a02'>\r\n//「植物は普通なのに、なんで……」\r\n\"Except for the trees...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10670,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080420a03'>\r\n//「いいえ。\r\n//　木々の様子も、上陸地点とは異なってきて\r\n//います」\r\n\"Actually, the plants have been looking odd since we left the inlet too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10945,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080430a04'>\r\n//「なんと、お嬢さま？」\r\n\"How so, Mistress?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11095,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080440a03'>\r\n//「月明りだけでは分かり辛いでしょうけれど。\r\n//　……枯れています。進むにつれて少しずつ」\r\n\"It may be a little hard to tell with just the moonlight to see by... but the trees here are withered. And it's getting worse the farther inland we go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11484,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080450a00'>\r\n//「……入り江の辺りでは？」\r\n\"...And by the inlet?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11643,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080460a03'>\r\n//「よく生い茂っていましたね。\r\n//　時節を思えば、おかしなほど……」\r\n\"Growing wild. Abnormally so, for this time of year.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11900,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080470a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12018,
+  "en": "\r\n//　生物の成長が異様に促進された地域と、\r\n//　反して生命の枯渇した地域。\r\n\r\n//　――何なのか。\r\n//　この<RUBY text='バランス'>均衡</RUBY>の無さは、一体。\r\n  An area where life is unnaturally abundant, and right next door, one of widespread decay.\r\n\r\n  What is causing this imbalance?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12371,
+  "en": "\r\n//　大鳥大尉の識別は誤っていなかった。\r\n\r\n//　今、目前に広がる光景。\r\n//　枯渇の根源を求めて至ったものが、これだった。\r\n  The captain's assessment was right on the mark. After several more minutes of walking, we reach the epicenter of the anomaly.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12683,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080480a00'>\r\n//「……何たる」\r\n\"What in the...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12818,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080490a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12942,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080500a03'>\r\n//「江ノ島といえば豊かな自然が売り物でした\r\n//のに」\r\n\"I thought Enoshima was known for its lush forests.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13174,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080510a04'>\r\n//「これでは……\r\n//　見る影もございませんねぇ……」\r\n\"Well... that may have to change.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13379,
+  "en": "\r\n//　枯れ果てている。\r\n//　何もかも。\r\n\r\n//　コンクリートの隙間にさえ根を張るであろう雑草が、\r\n//ここでは黄色く惨めに変色している。\r\n//　虫などは影も形もない。いわんや他の動物をや。\r\n\r\n//　土までもが、枯れていた。\r\n//　指先で摘み取ったそれがたちまちぼろぼろと崩れ、\r\n//砂となって地面へ還る。\r\n  A barren field spreads before us, a blasted wasteland devoid of life.\r\n\r\n  Even the hardy weeds are yellow and crumbling, and not a single ant can be seen, to say nothing of larger animals.\r\n\r\n  The soil, too, has lost its vitality. The small quantity I scoop up in my hands instantly turns to dry, choking dust.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14125,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080520a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14243,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080530a03'>\r\n//「幕府はここで何をやっているのでしょう？」\r\n\"What on earth is the shogunate doing here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14457,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080540a02'>\r\n//「ロクなことじゃねえだろ。\r\n//　奴らのやることにロクなことなんていっこ\r\n//もなかったが、こいつはとびっきりロクでも\r\n//なさそうだ」\r\n\"Nothing good, that's for sure. I mean, nothing they do is ever good, but this is something else.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14842,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080550a04'>\r\n//「遺憾ながら全く同感でございます。\r\n//　実にくだらなく……迷惑な何事かが行われ\r\n//ている様子」\r\n\"I'm afraid I must agree. Something truly㉗<I>foolish</I>㉓is happening here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15157,
+  "en": "\r\n//　後方の呟きを背に聞きながら、少し方向の違う事を\r\n//考える。\r\n//　幕府――幕府のみが引き起こした事であるなら良い。\r\n//いや、良くは無いが……。\r\n\r\n//　問題は――\r\n  As the ladies converse in hushed tones behind me, my thoughts run down a slightly different path.\r\n\r\n  A shogunate research project. If that's all this is, then we'll be lucky.\r\n\r\n  Well, not㉓<I>lucky.</I>㉑ In any case, the question is...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15648,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080560a00'>\r\n//（どう思う？）\r\n(What do you think?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15787,
+  "en": "\r\n//　村正に問う。\r\n//　今は陰に潜んで辺りを窺っている筈だ。\r\n  I direct the silent question at Muramasa, who is hidden nearby.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15950,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0080570a01'>\r\n//《そうね……。\r\n//　はっきりしたことは、まだなにも言えない\r\n//けれど》\r\n《Well... it's just speculation...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16193,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080580a00'>\r\n//（ああ）\r\n(Fine.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16310,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0080590a01'>\r\n//《<RUBY text='・・・・'>重力異常</RUBY>がこれを引き起こしたのだとして\r\n//も……不思議ではない、かしら。\r\n//　<RUBY text='かかさま'>銀星号</RUBY>の能力の幅は私にも計り知れない所\r\n//があるから……》\r\n《I suppose the right gravity field might be able to cause this. There's a lot I don't understand about Mother's power.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16804,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080600a00'>\r\n//（気配の方はどうだ？）\r\n(Any sign of them?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16954,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0080610a01'>\r\n//《少なくとも、今のところは》\r\n《Not here, at least.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17125,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080620a00'>\r\n//（無しか）\r\n(Nothing?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17248,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0080630a01'>\r\n//《ええ》\r\n《Nothing.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17378,
+  "en": "\r\n//　無論、まだ島内全域を回ったわけではない。\r\n//　ほんの一部だ。\r\n\r\n//　村正の言う通り、現段階では何事も明言し得ない。\r\n//　不吉の足音は――耳に痛いほど聞こえるにせよ。\r\n  So far, we have scanned only a small section of the island. As Muramasa said, it's too early to do any more than speculate.\r\n\r\n  Still... my gut tells me to remain wary.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17809,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080640a00'>\r\n//「大尉殿……」\r\n\"Captain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17938,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080650a03'>\r\n//「はい？」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18066,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080660a00'>\r\n//「この中では最も眼が利く筈。\r\n//　あそこに……何があるか、おわかりですか」\r\n\"I believe you have the best eyesight among us.\r\n  Over there... can you tell what that is?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18365,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080670a03'>\r\n//「あの……開けているあたりですか？」\r\n\"In the middle of the field?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18555,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080680a00'>\r\n//「はい。\r\n//　地面に、何か……ありませんか」\r\n\"Yes. I think there's something in the ground.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18764,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080690a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18897,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080700a02'>\r\n//「あたし、見てきましょうか？」\r\n\"Should I go look?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19059,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080710a00'>\r\n//「少し待て。あそこは視界が良過ぎる。\r\n//　あまり近寄りたくない」\r\n\"Wait. There's no cover. We should stay back.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19297,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080720a04'>\r\n//「たまたま警邏の方が通り掛かりでもしたら\r\n//一発でございます」\r\n\"If a patrol spots us, well... that could get ugly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19538,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080730a04'>\r\n//「どうぞお嬢さまにお任せください。\r\n//　こんな時しか出番のないお人ですし」\r\n\"Please allow my mistress to handle this. She has so few uses.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19808,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080740a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19941,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080750a04'>\r\n//「……突っ込み無しというのは、いと寂しい\r\n//ものでございますねぇ……」\r\n\"...I dare say that㉓<I>any</I> response would be better than none.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20211,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080760a02'>\r\n//「あんたら実は主従じゃなくて、主従ネタの\r\n//漫才コンビなのか？」\r\n\"You two are really a comedy duo, and this whole master-servant thing is just your act, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20498,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080770a00'>\r\n//「大尉。\r\n//　如何です？」\r\n\"Do you see anything, Captain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20664,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080780a03'>\r\n//「……確かに。\r\n//　何か……」\r\n\"Yes. There's something...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20841,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080790a03'>\r\n//「轍のような」\r\n\"Like grooves in the earth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20997,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080800a00'>\r\n//「轍？」\r\n\"Grooves?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21117,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080810a03'>\r\n//「深い溝があります。\r\n//　巨大な大八車を曳きでもすれば、あのよう\r\n//な跡ができるでしょうか……」\r\n\"Deep furrows, as if an enormous cart or carriage passed through.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21430,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080820a00'>\r\n//「巨大な……」\r\n\"Enormous, you say...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21571,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080830a03'>\r\n//「それも、相当に。\r\n//　あれが何かの目的で掘ったものではなく、\r\n//本当に何かが動いた痕跡だとすると、とんで\r\n//もない怪物でしょうね」\r\n\"Indeed. If it㉔<I>was</I>㉒caused by something's passage, and not dug out by hand, then we're dealing with a㉓<I>monster.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22000,
+  "en": "\r\n//　そう言って、大尉が口を噤む。\r\n//　自分自身の言葉に、想起するものがあったに違いな\r\n//かった。\r\n\r\n//　怪物――<k>\r\n//『銀色の怪物を見た』\r\n  The captain falls silent. Something in what she said must have triggered a memory.\r\n\r\n  <I>\"I saw a silver monster.\"</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22333,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0080840a04'>\r\n//「……なんと言いますやら。\r\n//　クーパー監督の映画の中に紛れ込んでしま\r\n//ったような心地がいたします」\r\n\"...It feels almost as though we've wandered onto the set of a Cooper film.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22656,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0080850a03'>\r\n//「本当に、そうね」\r\n\"I couldn't have put it better.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22822,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080860a02'>\r\n//「……何がいるんだよ。\r\n//　この島には……」\r\n\"What the hell are they hiding?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23016,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080870a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23140,
+  "en": "\r\n//　まだ何もわからない。\r\n//　何者の影も見えない。\r\n\r\n//　銀星号はここにいるのか。\r\n//　はたまた寄生体は――\r\n\r\n//　六波羅はここで何をしているのか。\r\n//　兵器とやらは実在するのか？\r\n\r\n//　――何も分からない。\r\n//　だが。\r\n\r\n//　<RUBY text='・・'>何か</RUBY>があるということだけは、もはや明らかだった。\r\n  I still have no clue as to what we are facing.\r\n\r\n  Is Ginseigo here? Is one of her infected?\r\n\r\n  What is Rokuhara doing? Does this secret weapon of theirs exist?\r\n\r\n  No answers.\r\n\r\n  However... there is <I>something</I>㉔here. That, at least, is now beyond doubt.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23843,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080880a00'>\r\n//「今回は無理をせぬことにする。\r\n//　これより一時間ほど情報収集を行い、然る\r\n//後に撤収。次の機会に備える」\r\n\"We'll take it easy this time. An hour to gather what information we can, then we withdraw to await our next chance.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24213,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080890a02'>\r\n//「片付けてしまわないんですか？」\r\n\"We're not gonna finish this tonight?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24397,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080900a00'>\r\n//「<RUBY text='・・'>何を</RUBY>片付けるべきなのかもわかっていない。\r\n//　夜明け前までに状況を把握して必要行動を\r\n//決定し完遂するのはまず不可能」\r\n\"We still don't know㉒<I>what</I> we're here to finish. It will be impossible to fully assess the situation and develop a course of action before <br>dawn.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080910a00'>\r\n//「夜明け以降も島に踏み留まって調査を続行\r\n//すれば、幕府側の人間との敵対的接触は必然\r\n//となる。こちらが地の利を欠く以上、それを\r\n//避けられるとみるのはあまりに夢想的だ」\r\n\"If we are still on the island after sunrise, we will inevitably be discovered by Rokuhara patrols, as we lack knowledge of the terrain.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080920a00'>\r\n//「必要とあれば幕府との交戦も止むを得ない\r\n//が、まだ状況もわからぬ内から鉄火場に踏み\r\n//込む軽挙は慎まねばならぬ。\r\n//　諒解したか」\r\n\"While engaging shogunate forces may eventually become necessary, it would be foolish to leap into that fire before we know what we're facing. Do you understand?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25775,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080930a02'>\r\n//「……はい。\r\n//　わかりました」\r\n\"...Yes, I understand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25942,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080940a00'>\r\n//「では行動する」\r\n\"Then let's get moving.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26088,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080950a02'>\r\n//「はいっ……あ、手分けしなくていいんです\r\n//か？　時間が少ないなら、そうした方が効率\r\n//的だと思うんですけど」\r\n\"Okay! Oh, shouldn't we split up? That would be more efficient, right? Especially since we don't have much time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26460,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080960a00'>\r\n//「確かにそうだが」\r\n\"True...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26594,
+  "en": "\r\n//　少し考える。\r\n//　だが俺は結局、首を左右した。\r\n  I consider this briefly, then shake my head.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26726,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080970a00'>\r\n//「警邏の武者、存在不確定ながら〝怪物〟等\r\n//の危険と遭遇した場合、俺がいなくては対処\r\n//ができない。\r\n//　最低限、情況が明らかになるまでは不許可」\r\n\"I'm the only one who can respond to an encounter with enemy musha or this yet-unidentified 'monster.' We'll consider that option only once the situation has become more clear.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27214,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0080980a02'>\r\n//「……すみません。\r\n//　あたしが戦えれば、こういう所で足を引っ\r\n//張らなくて済むのに」\r\n\"...Sorry. If I could fight too, I wouldn't be such a burden.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27499,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0080990a00'>\r\n//「心得違いをするな。\r\n//　戦闘は元より俺の役割だ。お前に期待する\r\n//のは捜査における協力であって、それ以外の\r\n//何かではない」\r\n\"Don't misunderstand. I am counting on you, but only to assist in the investigation. Should combat be necessary, that is my role.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081000a00'>\r\n//「その期待には充分に応えられている。\r\n//　お前が気に病むことは何もない」\r\n\"You've done very well in your capacity. You have nothing to be ashamed of.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28182,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081010a02'>\r\n//「……はい」\r\n\"...I know.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081020a02'>\r\n//「…………でも、あたしは…………\r\n//　もっと役に立ちたいです…………」\r\n\"But still... I want to do more...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28538,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081030a02'>\r\n//「もっと……」\r\n\"More...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28666,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081040a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28784,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081050a00'>\r\n//「行く」\r\n\"Let's get moving.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28913,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081060a02'>\r\n//「はい……」\r\n\"...Right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29040,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081070a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29158,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081080a02'>\r\n//「……あの。\r\n//　湊斗さん」\r\n\"Um... sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29308,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081090a00'>\r\n//「どうした」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29430,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081100a02'>\r\n//「何か……変じゃありませんか？」\r\n\"Don't you think something's... off?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29613,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081110a00'>\r\n//「とは」\r\n\"Such as?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29733,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081120a02'>\r\n//「……どう言えばいいんでしょう」\r\n\"How do I put it...\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081130a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30015,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081140a02'>\r\n//「ビニールハウスの中を歩いてるみたい……\r\n//な？」\r\n\"It's like we're walking through a greenhouse.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30233,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081150a00'>\r\n//「適切な評だと思う」\r\n\"An apt description.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30382,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081160a02'>\r\n//「……どういうことですか？」\r\n\"...But why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30535,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081170a00'>\r\n//「動物がいない」\r\n\"There are no animals.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30680,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081180a02'>\r\n//「……あっ」\r\n\"...Oh!\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081190a02'>\r\n//「そうか……」\r\n\"Of course...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30929,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081200a00'>\r\n//「元々、野生動物が人間のような鈍い相手の\r\n//前にそう姿を見せるものではないが。\r\n//　それにしても、気配さえ全くないとなれば\r\n//これは異常」\r\n\"Wild animals do not normally show themselves to humans, but for there to be no trace of wildlife at all... It's unnatural.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31352,
+  "en": "\r\n//　上陸地点周辺は、むしろ逆だった。\r\n//　人の気配に驚いて忙しく動き回る小さな物音を幾つ\r\n//も耳にしたし、芳養少年の情報を裏付ける形で、海に\r\n//は多くの魚が見られた。\r\n\r\n//　そこからまだ、何里も歩いたわけではない。\r\n//　にも拘わらぬ、この変容。\r\n  This is in stark contrast to the inlet where we came ashore. There, I heard a number of animals scurry off at our approach, and the water was teeming with fish, just as young Haya said.\r\n\r\n  We've only come a few kilometers inland, and yet...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31964,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081210a02'>\r\n//「植物は普通なのに、なんで……」\r\n\"But the trees are fine, so why...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32146,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081220a00'>\r\n//「わからん。\r\n//　あるいは植物にも夜闇では見え難い異常が\r\n//表れているのかもしれない」\r\n\"I don't know. Perhaps they too are affected in some way. It's hard to tell in this light.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32460,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081230a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32578,
+  "en": "\r\n//　……そうして行き着く。\r\n\r\n//　今、目前に広がる光景。\r\n//　枯渇の根源を求めて至ったものが、これだった。\r\n  ...She was right to wonder about the trees.\r\n\r\n  After several more minutes of walking, we reach the epicenter of the anomaly.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32873,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081240a00'>\r\n//「……何たる」\r\n\"What in the...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33008,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081250a02'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33132,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081260a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33250,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081270a02'>\r\n//「湊斗さん」\r\n\"This is...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33378,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081280a00'>\r\n//「ああ……」\r\n\"Yes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33502,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081290a02'>\r\n//「六波羅が何をやっているのかはわかんない\r\n//ですけど。でも何かやってます。\r\n//　間違いなく」\r\n\"I don't know what Rokuhara's doing, but they're definitely doing something.\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081300a02'>\r\n//「<RUBY text='・・・・・・'>ロクでもない</RUBY>何かをやってるんです」\r\n\"Something㉒<I>wrong.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34021,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081310a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34139,
+  "en": "\r\n//　後方の呻きを背に聞きながら、少し方向の違う事を\r\n//考える。\r\n//　幕府――幕府のみが引き起こした事であるなら良い。\r\n//いや、良くは無いが……。\r\n\r\n//　問題は――\r\n  As Ichijo mutters darkly behind me, my thoughts run down a slightly different path.\r\n\r\n  A shogunate research project. If that's all this is, then we'll be lucky.\r\n\r\n  Well, not㉓<I>lucky.</I>㉑ In any case, the question is...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34616,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081320a00'>\r\n//（どう思う？）\r\n(What do you think?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34755,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0081330a01'>\r\n//《そうね……。\r\n//　はっきりしたことは、まだなにも言えない\r\n//けれど》\r\n《Well... it's just speculation...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34998,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081340a00'>\r\n//（ああ）\r\n(Fine.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35115,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0081350a01'>\r\n//《<RUBY text='・・・・'>重力異常</RUBY>がこれを引き起こしたのだとして\r\n//も……不思議ではない、かしら。\r\n//　<RUBY text='かかさま'>銀星号</RUBY>の能力の幅は私にも計り知れない所\r\n//があるから……》\r\n《I suppose the right gravity field might be able to cause this. There's a lot I don't understand about Mother's power.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35609,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081360a00'>\r\n//（気配の方はどうだ？）\r\n(Any sign of them?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35759,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0081370a01'>\r\n//《少なくとも、今のところは》\r\n《Not here, at least.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35930,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081380a00'>\r\n//（無しか）\r\n(Nothing?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36053,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0081390a01'>\r\n//《ええ》\r\n《Nothing.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36183,
+  "en": "\r\n//　無論、まだ島内全域を回ったわけではない。\r\n//　ほんの一部だ。\r\n\r\n//　村正の言う通り、現段階では何事も明言し得ない。\r\n//　不吉の足音は――耳に痛いほど聞こえるにせよ。\r\n  So far, we have scanned only a small section of the island. As Muramasa said, it's too early to do any more than speculate.\r\n\r\n  Still... my gut tells me to remain wary.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36612,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081400a00'>\r\n//「一条」\r\n\"Ichijo.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36731,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081410a02'>\r\n//「はい」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36847,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081420a00'>\r\n//「あそこに何があるか見えるか。\r\n//　あの、開けている辺りだ」\r\n\"Can you see what that is? There, out in the open field.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37090,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081430a02'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37209,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081440a00'>\r\n//「地面に……何か、ないか」\r\n\"Isn't there something in the ground?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37384,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081450a02'>\r\n//「……何でしょう。\r\n//　ちょっと見てきます」\r\n\"...What could it be? I'll go take a look.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37589,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081460a00'>\r\n//「待て。あそこは遮蔽物が何もない。\r\n//　警備兵が通り掛かりでもしたら事だ」\r\n\"Wait. There's no cover. A patrol might spot you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37846,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081470a00'>\r\n//「ここからでは見えないか？」\r\n\"Can you see from here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38010,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081480a02'>\r\n//「……ちょっと。\r\n//　なんか、地面が<RUBY text='・・・・・・'>えぐれている</RUBY>のはわかるん\r\n//ですけど」\r\n\"It's like there's a... ditch or something.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38298,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081490a00'>\r\n//「俺もそこまでしかわからない。\r\n//　どうも……気になる」\r\n\"That's all I can make out too.\r\n  ...Strange.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38525,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081500a02'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38643,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081510a00'>\r\n//「俺には何か……\r\n//　重く巨大なものが落ちた跡に見える」\r\n\"It looks almost like something crashed there. Something huge and heavy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38896,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/0081520a02'>\r\n//「……〝怪物〟……」\r\n\"A monster...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39038,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081530a00'>\r\n//「ああ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39154,
+  "en": "\r\n//　――怪物。<k>\r\n//『銀色の怪物を見た』\r\n\r\n//　伝奇小説の語り口のような、そもそもの発端。\r\n//　陳腐な浮説と思えたそれが、不気味な事実の匂いを\r\n//孕んで迫りつつあるこの現状。\r\n  <I>I saw a silver monster.</I>\r\n\r\n  I recall the line that brought me to this place, the line that read like something from a science-fiction novel. What initially felt like a baseless rumor now has an ominous ring of truth.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39645,
+  "en": "\r\n//嶋：voice/ma04/0080010a03\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081540a03'>\r\n//「手分けしてあたります？」\r\n\"Shall we split up?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39842,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081550a00'>\r\n//「やめておきましょう。\r\n//　効率をいえばその方が望ましいのは確かで\r\n//すが、夜明けまでには撤収せねばならぬ以上、\r\n//残り時間はせいぜいがあと一、二時間」\r\n\"Let's not. While it would be more efficient, we only have one hour, two at most, before we must withdraw.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081560a00'>\r\n//「これではどのみちさしたる成果は期待でき\r\n//ません。また警邏の武者、存在不確定ながら\r\n//〝怪物〟等の危険と遭遇した場合に対処可能\r\n//な者が自分のみという点も、問題となります」\r\n\"Either way, we cannot hope to learn much in that time, and we must also consider that I am the only one capable of responding to an encounter with enemy musha or this yet-<br>unidentified 'monster.'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40817,
+  "en": "\r\n//嶋：チェック45\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081570a03'>\r\n//「確かにそうですね……。\r\n//　ああ、景明さまにお守り頂かなくては立ち\r\n//ゆかない、蒲柳の質たるこの身のなんと恨め\r\n//しいこと」\r\n\"True. Oh, I'm so glad you're here to protect me. Think of me as a willow branch, bending in the―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41231,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081580a04'>\r\n//「プッ」\r\n\"Pff!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41347,
+  "en": "\r\n//嶋：チェック45\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081590a03'>\r\n//「…………ばあぁやぁ？\r\n//　今のは何かしら。咳き込みでもしたの？」\r\n\"...Sayo? Are you feeling all right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41612,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081600a04'>\r\n//「や、そのようでございます。\r\n//　このさよめも良い加減、トシでございます\r\n//からなぁ……」\r\n\"Forgive me, Mistress. I seem to have a bit of a cough. Perhaps my age is finally catching up with me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41944,
+  "en": "\r\n//嶋：チェック45\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081610a03'>\r\n//「うふふ、そう。\r\n//　身体は大事にしてね、ばあや？」\r\n\"I see. Do take care of yourself. You never know what might happen.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42219,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081620a04'>\r\n//「はい、ありがとうございます。\r\n//　ところで湊斗さま」\r\n\"Thank you for your concern, Mistress.\r\n  By the way, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42455,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081630a00'>\r\n//「はい」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42571,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081640a04'>\r\n//「蒲柳の質とは儚くひ弱という意味でござい\r\n//ますよ。\r\n//　けっして図太いとか、図々しいとか、ふて\r\n//ぶてしいとかいう意味ではございません」\r\n\"To compare a lady to a willow branch is to say that she is soft and frail, not that she is coarse and shameless.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42984,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081650a00'>\r\n//「存じておりますが」\r\n\"I'm aware.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43124,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081660a04'>\r\n//「文脈的にみてなんかおかしいとか思っても\r\n//納得しておいてくださいませ」\r\n\"I'll understand if you consider my mistress's use of the phrase suspect. Still, it would be good of you to refrain from pointing it out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43466,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081670a00'>\r\n//「は」\r\n\"Very well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43585,
+  "en": "\r\n//嶋：チェック45\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081680a03'>\r\n//「パパは勇敢な戦士だった～。\r\n//　けして逃げない男だった～。\r\n//　でも致命傷は背中だった～。\r\n//　なんで、どうして、何があったのパパ～♪」\r\n\"♪ Father was a soldier most brave ♪ Never once ran, no shame to his name ♪ So please tell me, Father, if you may ♪ Why you were claimed―by a shot to the back? ♪\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44091,
+  "en": "\r\n//　正直なところ、今回の調査には何の進展も期待して\r\n//いなかった。\r\n//　雰囲気を掴めれば、明日以降の捜査を円滑に進める\r\n//のに役立とう。その程度の腹だ。\r\n\r\n//　しかし。\r\n//　島の異常の、少なくともその一端は、ものの数分で\r\n//俺たちの前に姿を現していた。\r\n  In all honesty, I expected little to come of this first excursion. Perhaps a general idea of the island's condition, but that is all.\r\n\r\n  And yet, it doesn't take but a few minutes for us to hit upon one of the island's anomalies.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44704,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081690a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44822,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081700a03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44949,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081710a04'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45067,
+  "en": "\r\n//　誰もが口数を少なくしているのは無論、隠密行動を\r\n//心がけているからだ。が。\r\n//　たとえピクニックの最中であったとしても、会話が\r\n//弾んだかどうか。\r\n\r\n//　口に出さずとも、既に誰もが気付いている事は疑い\r\n//なかった。\r\n//　この<RUBY text='・'>無</RUBY>の感触。看過するには余りにも、肌に\r\n//寒い。\r\n\r\n//　生命の気配がなかった。\r\n//　<RUBY text='・・・・・・・・'>動物がいなかった</RUBY>。\r\n\r\n//　元々、感覚の鋭敏な野生動物はそうそう人間の前に\r\n//姿を見せたりしないものではあるが。\r\n//　遠くを駆ける物音も、かすかな息遣いも、侵入者に\r\n//対する警戒の眼差しさえ――一切ないとは、果たして。\r\n\r\n//　環境が手厚く保護されていた筈の江ノ島にあって、\r\n//この体たらく。\r\n//　何事であろうか。\r\n  Our silence as we walk along is, of course, in the interests of stealth. But even if this were a picnic, I doubt there would be much cheer.\r\n\r\n  I can tell that everyone has noticed the emptiness surrounding us, the sense of unbearable cold against our skin.\r\n\r\n  There is no life. No animal life.\r\n\r\n  Wild animals do not normally show themselves to humans, but this...\r\n  I can hear no padded feet scurrying through the underbrush, nor feel wary eyes watching our every move.\r\n\r\n  This island is supposed to be a cornucopia of nature. How can this be?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46598,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081720a03'>\r\n//「……上陸した辺りは、そのようなことあり\r\n//ませんでしたのに。\r\n//　むしろ獣も虫も豊富にいたかと」\r\n\"It wasn't like this near where we landed. The wildlife there was <br>flourishing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46931,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081730a00'>\r\n//「海にも魚が多く見られました。情報通り。\r\n//　しかし一方、この辺りはあたかも死の世界」\r\n\"Especially the fish, as my source described. Yet here, the land is dead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47230,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081740a04'>\r\n//「植物は<RUBY text='まとも'>正常</RUBY>に見えますが……」\r\n\"The trees seem normal...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47429,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081750a03'>\r\n//「いいえ。\r\n//　木々の様子も、上陸地点とは異なってきて\r\n//います」\r\n\"Actually, the plants have been looking odd since we left the inlet too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47704,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081760a04'>\r\n//「なんと、お嬢さま？」\r\n\"How so, Mistress?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47854,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081770a03'>\r\n//「月明りだけでは分かり辛いでしょうけれど。\r\n//　……枯れています。進むにつれて少しずつ」\r\n\"It may be a little hard to tell with just the moonlight to see by... but the trees here are withered. And it's getting worse the farther inland we go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48243,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081780a00'>\r\n//「……入り江の辺りでは」\r\n\"...And by the inlet?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48399,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081790a03'>\r\n//「よく生い茂っていましたね。\r\n//　時節を思えば、おかしなほど……」\r\n\"Growing wild. Abnormally so, for this time of year.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48656,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081800a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48774,
+  "en": "\r\n//　大鳥大尉の識別は誤っていなかった。\r\n\r\n//　今、目前に広がる光景。\r\n//　枯渇の根源を求めて至ったものが、これだった。\r\n  The captain's assessment was right on the mark. After several more minutes of walking, we reach the epicenter of the decay.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49084,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081810a00'>\r\n//「……何たる」\r\n\"What in the...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49219,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081820a03'>\r\n//「……江ノ島といえば、豊かな自然が売り物\r\n//でしたのに」\r\n\"I thought Enoshima was known for its lush forests.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49460,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081830a04'>\r\n//「これでは……\r\n//　見る影もございませんねぇ……」\r\n\"Well... that may have to change.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49665,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081840a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49783,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081850a03'>\r\n//「幕府はここで何をやっているのでしょう？」\r\n\"What on earth is the shogunate doing here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49997,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0081860a04'>\r\n//「さて……\r\n//　実にくだらない、迷惑な何事かであろうと\r\n//は、想像がつくのですが」\r\n\"Something foolish, most certainly. Whatever it is, I doubt we'll enjoy finding <br>out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50303,
+  "en": "\r\n//　後方の呟きを背に聞きながら、少し方向の違う事を\r\n//考える。\r\n//　幕府――幕府のみが引き起こした事であるなら良い。\r\n//いや、良くは無いが……。\r\n\r\n//　問題は――\r\n  As the ladies converse in hushed tones behind me, my thoughts run down a slightly different path.\r\n\r\n  A shogunate research project... If that's all this is, then we'll be lucky.\r\n\r\n  Well, not㉓<I>lucky.</I>㉑ In any case, the question is...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50796,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081870a00'>\r\n//（どう思う？）\r\n(What do you think?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50935,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0081880a01'>\r\n//《そうね……。\r\n//　はっきりしたことは、まだなにも言えない\r\n//けれど》\r\n《Well... it's just speculation...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51178,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081890a00'>\r\n//（ああ）\r\n(Fine.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51295,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0081900a01'>\r\n//《<RUBY text='・・・・'>重力異常</RUBY>がこれを引き起こしたのだとして\r\n//も……不思議ではない、かしら。\r\n//　<RUBY text='かかさま'>銀星号</RUBY>の能力の幅は私にも計り知れない所\r\n//があるから……》\r\n《I suppose the right gravity field might be able to cause this. There's a lot I don't understand about Mother's power.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51789,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081910a00'>\r\n//（気配の方はどうだ？）\r\n(Any sign of them?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51939,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0081920a01'>\r\n//《少なくとも、今のところは》\r\n《Not here, at least.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52110,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081930a00'>\r\n//（無しか）\r\n(Nothing?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52233,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/0081940a01'>\r\n//《ええ》\r\n《Nothing.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52363,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081950a00'>\r\n//「大尉殿……」\r\n\"Captain...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52494,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081960a03'>\r\n//「はい？」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52622,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081970a00'>\r\n//「この中では最も眼が利く筈。\r\n//　あそこに……何があるか、おわかりですか」\r\n\"I believe you have the best eyesight among us.\r\n  Over there... can you tell what that is?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52921,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0081980a03'>\r\n//「あの……開けているあたりですか？」\r\n\"In the middle of the field?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53111,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0081990a00'>\r\n//「はい。\r\n//　地面に、何か……ありませんか」\r\n\"Yes. I think there's something in the ground.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53320,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0082000a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53453,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0082010a04'>\r\n//「近寄って確かめたいところですが……\r\n//　少々、視界が良過ぎますなぁ」\r\n\"A closer look would be helpful, but the field is rather too open.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53721,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0082020a00'>\r\n//「は。巡回警備の者がいない筈もないことを\r\n//思うと、迂闊には出られません。\r\n//　……如何ですか。大尉」\r\n\"Indeed. We mustn't risk discovery.\r\n  ...Captain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54019,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0082030a03'>\r\n//「……確かに。\r\n//　何か……」\r\n\"There's something...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54191,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0082040a03'>\r\n//「轍のような」\r\n\"Like grooves in the earth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54347,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0082050a00'>\r\n//「轍？」\r\n\"Grooves?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54467,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0082060a03'>\r\n//「深い溝があります。\r\n//　巨大な大八車を曳きでもすれば、あのよう\r\n//な跡ができるでしょうか……」\r\n\"Deep furrows, as though an enormous cart or carriage passed through.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54784,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0082070a00'>\r\n//「巨大な……」\r\n\"Enormous, you say...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54925,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0082080a03'>\r\n//「それも、相当に。\r\n//　あれが何かの目的で掘ったものではなく、\r\n//本当に何かが動いた痕跡だとすると、とんで\r\n//もない怪物でしょうね」\r\n\"Indeed. If it㉔<I>was</I>㉒caused by something's passage, and not dug out by hand, then we're dealing with a㉓<I>monster.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55354,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/0082090a04'>\r\n//「……なんと言いますやら。\r\n//　クーパー監督の映画の中に紛れ込んでしま\r\n//ったような心地がいたします」\r\n\"...It feels almost as though we've wandered onto the set of a Cooper film.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55677,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/0082100a03'>\r\n//「本当に、そうね」\r\n\"It really does.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55828,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/0082110a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ }
+]

@@ -1,0 +1,877 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510010e008'>\r\n//「間もなく鎌倉です！」\r\n\"We're approaching Kamakura!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 413,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510020b03'>\r\n//「そうか……。\r\n//　投下の用意は出来ているな？」\r\n\"...I see. Is the bomb ready?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 629,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510030e008'>\r\n//「はっ、問題ありません。\r\n//　当該騎体は既に爆装を終えて射出口で待機\r\n//しています」\r\n\"Yes, sir! The detonator is armored and standing by in the drop chute.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 960,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510040b03'>\r\n//「ならいい」\r\n\"Very well.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1106,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510050e008'>\r\n//「…………。\r\n//　キャノン中佐」\r\n\"...Colonel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1303,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510060b03'>\r\n//「何だ？」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1440,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510070e008'>\r\n//「我々の目的は、達成されるのでしょうか」\r\n\"Will we win, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1657,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510080b03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1793,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510090b03'>\r\n//「ああ。\r\n//　やるさ、ガーゲット中尉」\r\n\"Yes, Lieutenant Gargett. We'll win.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2001,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510100b03'>\r\n//「大和を奪り、女王と戦い、故郷を解放する。\r\n//　あの広大な大陸で待つ同胞達のために」\r\n\"We will take Yamato, rise against the queen, and free our motherland once and for all. Our comrades await on the wide plains of home.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2376,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510110e008'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2534,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510120b03'>\r\n//「そして今は亡き同胞達のために。\r\n//　ウィロー少将……それにガーゲット少佐」\r\n\"Those we've lost deserve no less. General Willow... George...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2825,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510130b03'>\r\n//「君の兄の勇敢な死に応えなくてはな、中尉」\r\n\"I will not waste your brother's sacrifice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3048,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510140e008'>\r\n//「……はい」\r\n\"...Thank you, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3224,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510150b03'>\r\n//「……ん？\r\n//　何だあれは」\r\n\"...Hmm? What's that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3402,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510160e008'>\r\n//「中佐殿、何か？」\r\n\"Is something wrong, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3593,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510170b03'>\r\n//「地上の様子が変だ。\r\n//　あれは……友軍か？」\r\n\"On the ground. Look. Are those our men?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3817,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510180b03'>\r\n//「まだ撤退していないのか!?」\r\n\"Why haven't they pulled back!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4006,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510190e008'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4170,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510200b03'>\r\n//「中尉、地上と連絡を取れ。\r\n//　至急だ！」\r\n\"Get me the ground commander! Now!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4382,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510210e008'>\r\n//「はッ」\r\n\"Aye sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4542,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510220e008'>\r\n//「中佐殿……」\r\n\"Colonel...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4713,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510230b03'>\r\n//「どうだ」\r\n\"Well?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4851,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510240e008'>\r\n//「普陀楽城周辺は混乱しています。\r\n//　……あの<RUBY text='シルヴァー'>銀星号</RUBY>が出現したらしく」\r\n\"It's chaos, sir. Code Silver has appeared above Fudaraku Castle.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5194,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510250b03'>\r\n//「何だと!?」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5335,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510260e008'>\r\n//「その影響で、我が軍の撤退は完了しており\r\n//ません。\r\n//　銀星号が原因と思われる狂乱状態の渦中に\r\n//巻き込まれています」\r\n\"Our forces are unable to complete their withdrawal. Several units have gone berserk. Code Silver is believed to be the cause.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5774,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510270b03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5916,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510280a13'>\r\n//「何を迷うのだね？\r\n//　キャノン中佐」\r\n\"Come, Colonel. What difference does it make?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6133,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510290b03'>\r\n//「教授……」\r\n\"Professor...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6281,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510300a13'>\r\n//「さ、鍛造雷弾を投下する時だ。\r\n//　発令したまえ」\r\n\"It's time to drop the bomb. Give the order.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6515,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510310b03'>\r\n//「……スラップスティックコメディをやる気\r\n//はありませんよ」\r\n\"I am not in the habit of acting the fool.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6762,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510320a13'>\r\n//「僕にもないね」\r\n\"As it so happens, neither am I.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6935,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510330b03'>\r\n//「味方の頭の上に爆弾を落とせと？」\r\n\"Yet you would have me drop the bomb on my men?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7150,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510340a13'>\r\n//「必要な犠牲だ」\r\n\"The sacrifice is <I>necessary.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7326,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510350b03'>\r\n//「必要と言い切るには、議論が足りていない\r\n//と思いますが」\r\n\"It's much too early to make that assessment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7573,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510360a13'>\r\n//「そうかな？\r\n//　試してみようか」\r\n\"Is it? Let us review the facts.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7771,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510370a13'>\r\n//「いま鍛造雷弾を使えば六波羅を撃滅できる。\r\n//　大和の民は我々に畏服し、我々は大英連邦\r\n//に挑む足場を獲得する」\r\n\"Drop the bomb now and Rokuhara is finished. Yamato will submit to your rule, and you will have a base from which to challenge the Empire.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8190,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510380a13'>\r\n//「今が好機。\r\n//　次の機会はいつやって来るかわからない」\r\n\"This is your only chance. Another may never come.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510390a13'>\r\n//「――さて。\r\n//　論議の余地があるかな？」\r\n\"...I fail to see any basis for argument.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8650,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510400b03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8792,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510410a13'>\r\n//「中佐、するべき事はわかっているはずだよ。\r\n//　無駄な時間を費やすのは止そうじゃないか」\r\n\"You know what you must do, Colonel. Every second now is a second wasted.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9112,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510420b03'>\r\n//「私はあなたと違って凡人なんです。\r\n//　そう簡単には真実とそうでないものを割り\r\n//切れませんよ」\r\n\"I am a simple man, Professor. I need time to determine what's true and what's not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9452,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510430a13'>\r\n//「普段なら悩むのもいい。納得のゆく結論が\r\n//出るまで考え抜くのもいい。\r\n//　しかし今は決断の時なのだ」\r\n\"And under any other circumstances, I would say take your time, work through your doubts, until you are wholly satisfied with the answer. But now is the moment for㉓<I>action,</I>㉗Colonel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9909,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510440a13'>\r\n//「軍人ならわかるだろう」\r\n\"Surely you see that, experienced soldier that you are.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10117,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510450b03'>\r\n//「……生憎、戦場で味方を爆撃してでも目的\r\n//達成に固執するべきなのかという問題に取り\r\n//組むのはこれが初めてでして」\r\n\"Sorry, but deciding whether a mission is important enough to massacre thousands of my own men... That's a first, even for me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10530,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510460a13'>\r\n//「地上に我々の味方などいない。\r\n//　あれは連盟軍。大英連邦の手先だよ。そう\r\n//ではないか？」\r\n\"Those are not㉒<I>your</I>㉔men. They're the queen's! Slaves of the empire! Are they not?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10873,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510470b03'>\r\n//「その中に、<RUBY text='・・'>同胞</RUBY>もいるんですよ」\r\n\"Our comrades are among them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11094,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510480a13'>\r\n//「必要な犠牲だ！\r\n//　わからないのか、君ほどの男が！」\r\n\"And they will understand! Some sacrifices are necessary! You know <br>that!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11366,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510490b03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11508,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510500a13'>\r\n//「つまり無垢な少女のパンツを脱がすことは\r\n//至上の悦楽だが、しかし、その悦楽を味わう\r\n//ためにはまず苦渋を飲んでパンツをはかせな\r\n//くてはならない！　そういうことなのだ!!」\r\n\"To strip the panties from an innocent girl is the greatest pleasure on God's green earth. But to taste that pleasure, one must first summon all of his courage and resolve... and <I>give her panties to wear!</I> It's the same, Colonel! Do you see!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12124,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510510b03'>\r\n//「ますますわからなくなりましたが」\r\n\"Thankfully, I do not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12314,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510520a13'>\r\n//「うぅぬ、手を焼かせる男だな！\r\n//　中佐、君はウィロー少将の最期をもう忘れ\r\n//去ってしまったのか!?」\r\n\"Argh! I thought better of you, man! Did Willow's death mean nothing to you!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12653,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510530b03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12789,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510540a13'>\r\n//「彼の遺言を忘れたのか！\r\n//　君に頼むと、そう言っただろう！」\r\n\"Remember his last words! He begged you to carry on his dream!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510550a13'>\r\n//「彼の悲願を踏みにじるつもりかね!?」\r\n\"Will you forsake him at the moment of truth!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13267,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510560b03'>\r\n//「ウォルフ教授」\r\n\"Professor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13419,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510570a13'>\r\n//「さあ、君のなすべきことは一つだけだ！\r\n//　直ちに命令を下すのだよ！」\r\n\"Now, Colonel, you know what you must do! Give the order! Drop the bomb!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13711,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510580a13'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13847,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510590b03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13983,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510600a13'>\r\n//「素敵なライターだね。\r\n//　でも、僕は煙草をやらないんだ」\r\n\"My, what a beautiful lighter. I've given up smoking myself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14245,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510610b03'>\r\n//「それは健康的でよろしい。\r\n//　是非そのまま、健康的な態度をとり続けて\r\n//下さい」\r\n\"A healthy choice, Professor. I hope you will continue making healthy choices, at least for the immediate future.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14594,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510620b03'>\r\n//「この素敵なライターは使い方をひとつ間違\r\n//えるだけで、大変に不健康な結果を招いてし\r\n//まうので……」\r\n\"One mistake with this lighter can have unhealthy consequences.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14923,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510630a13'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15065,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510640b03'>\r\n//「どうしても……\r\n//　そう、<RUBY text='・・・・・'>どうしても</RUBY>」\r\n\"If you're so... <I>so</I> determined... to drop that infernal bomb...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15346,
+  "en": "\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510650b03'>\r\n\"Then first, tell me why. That's a reasonable request, don't you think?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15508,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510660a13'>\r\n//「何を今更、君は言うのかな。\r\n//　すべては大英連邦の傲慢なる支配に拒絶の\r\n//鉄槌を加えるため――」\r\n\"But you already know why, Colonel. Everything I've done has been for the revolution, to oust the prideful queen from her―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15892,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510670b03'>\r\n//「教授」\r\n\"Professor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16032,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510680b03'>\r\n//「あと一度だけ、同じ質問をします。\r\n//　返答が変わらなかった場合……残念ですが、\r\n//不健康なお体になって頂きますので。どうか\r\n//慎重にお答え下さい」\r\n\"I'll ask you one more time, and if your answer doesn't change... then I'm afraid your health will take a turn for the worse. So please, consider carefully.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16521,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510690a13'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16663,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510700b03'>\r\n//「あなたは鍛造雷弾の使用にこだわってきた。\r\n//　そう、勝利ではない。戦果ではない。政治\r\n//的意義ではない……ただ雷弾を普陀楽に投下\r\n//するというその行為にのみ執心していた」\r\n\"Everything you've done has been for the bomb. Not for victory. Or conquest. Or political impact. Your sole objective, from the very beginning, was to drop the Forged Bomb on Fudaraku Castle.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510710b03'>\r\n//「そのために我々に近付いた」\r\n\"That's why you came to us in the first place.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17420,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510720a13'>\r\n//「キャノン君……どうも誤解が」\r\n\"Colonel... there's been a misunderstanding.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17626,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510730b03'>\r\n//「ウォルフ教授。\r\n//　覚えてらっしゃいますか……」\r\n\"Do you remember what you said?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17847,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510740b03'>\r\n//「開戦前の、横浜での会話を」\r\n\"Back in Yokohama, the day before we attacked.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18052,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510750a13'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18189,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510760b03'>\r\n//「いえ、<RUBY text='・・・・'>勝てない</RUBY>可能性すらあります。\r\n//　負けるとまでは言わずとも。こちらが企図\r\n//する、敵軍主力の早期撃滅を果たせない恐れ\r\n//があります」\r\n\"We may not be able to win. At least, not as quickly as we need to for the plan to work. A stalemate would be just as deadly as defeat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18678,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510770a13'>\r\n//「苦戦する、と？」\r\n\"You expect a hard fight?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18847,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510780b03'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18981,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0510790b00'>\r\n//「そうだな……」\r\n\"Hmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19129,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510800a13'>\r\n//「好都合ではないか」\r\n\"But that's perfect.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19296,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510810b03'>\r\n//「……何ですと？」\r\n\"...Excuse me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19454,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510820a13'>\r\n//「戦況が不利になったら、それを口実に鍛造\r\n//雷弾の使用許可を求めれば良いのだ。\r\n//　連盟本部も大規模な増援を派遣するより、\r\n//お手軽な方を望むだろう」\r\n\"A stalemate would give us cause to demand they release the Forged Bomb. Geneva will surely choose that over the expense of sending reinforcements.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19937,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510830b03'>\r\n//「……教授。\r\n//　少し、無謀が過ぎませんか？」\r\n\"...You're taking an awful lot on faith, don't you think?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20178,
+  "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0510840b00'>\r\n//「いや……いや！\r\n//　そう決め付けたものでもないぞ、キャノン\r\n//中佐」\r\n\"Wait... Just a moment, Colonel! We may have something here!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20456,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510850b03'>\r\n//「あなたはあの時――\r\n//　<RUBY text='・・・'>好都合</RUBY>だと言ったんです」\r\n\"You called that scenario㉓<I>perfect.</I>\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510860b03'>\r\n//「……何が好都合なんでしょうね？\r\n//　通常兵力による関東侵攻を選択した我々に\r\n//とって、最良の結末とは、作戦が順調に運び\r\n//最低限の損害で普陀楽を陥とす事です」\r\n\"But what did you mean? For us, the perfect scenario was one in which we captured Fudaraku with minimal losses. But that's not what we were talking about then.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510870b03'>\r\n//「苦戦に陥り、鍛造雷弾を使わねばならない\r\n//状況にまで追い込まれる事が、好都合である\r\n//はずがありませんよ」\r\n\"In the scenario we were discussing, our casualties would be so high, so grievous, that only the bomb could save the mission. What part of that was㉓<I>perfect?</i>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21653,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510880a13'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21807,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510890b03'>\r\n//「好都合なのは<RUBY text='・・・・・'>あなた個人</RUBY>だ。\r\n//　そうなんでしょう、教授？」\r\n\"The part where㉒<I>you</I> get to drop the bomb. Isn't that right, Professor?\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510900b03'>\r\n//「どんな理由でか鍛造雷弾を絶対に使わなく\r\n//てはならないあなたにとっては、我々の苦戦\r\n//こそ望ましい。\r\n//　そうなるよう、努力もなさいましたか？」\r\n\"You needed the bomb, so you needed a fight. A hard fight that would kill many of my men. I wonder... did you take steps to make it harder?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22588,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510910b03'>\r\n//「六波羅に情報を流すとか……」\r\n\"By leaking intel to Rokuhara, for example...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22795,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510920a13'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22937,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510930b03'>\r\n//「答えて頂きましょう。\r\n//　ウォルフ教授、あなたの目的は何です？」\r\n\"For the last time, Professor. What is your objective?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23205,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0510940a13'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23347,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510950b03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23489,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510960e008'>\r\n//「最後の審判を仰ぐためですよ。\r\n//　キャノン中佐」\r\n\"To bring the Final Judgment, Colonel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23739,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510970b03'>\r\n//「……ガーゲット中尉……」\r\n\"Lieutenant?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23907,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0510980e008'>\r\n//「迂闊な真似はなさらないでください。\r\n//　小官のライターも不健康な代物です」\r\n\"Please refrain from any sudden movements. My lighter is also of the unhealthy variety.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24245,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0510990b03'>\r\n//「君はウォルフ教授の仲間なのか」\r\n\"You're one of Wolf's?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24432,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511000e008'>\r\n//「ええ」\r\n\"That's right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24597,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511010a13'>\r\n//「真実を求める同志、といったところかな」\r\n\"I suppose you'd call him a fellow truthseeker.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24821,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511020e008'>\r\n//「……それは違いますよ。\r\n//　小官は――俺はもう、単に疲れたんです」\r\n\"Truth means little to me, Professor. I only want this to end.\"\r\n\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511030e008'>\r\n//「疲れたんですよ、キャノン中佐」\r\n\"I'm so tired of it all, Colonel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25334,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511040b03'>\r\n//「中尉……」\r\n\"Lieutenant...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25483,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511050e008'>\r\n//「大和を占領して、どうなるんです。\r\n//　次は大英連邦相手に果てしない戦争をやる\r\n//んでしょう」\r\n\"We conquer Yamato... and then what? Next, we're fighting the Empire.\"\r\n\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511060e008'>\r\n//「いつ終わるかわからない。\r\n//　勝てるかどうかもわからない、戦争」\r\n\"Who knows how long that will take? Or if we can even win.\"\r\n\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511070e008'>\r\n//「もう……うんざりなんですよ……」\r\n\"Enough. I've had my fill of war.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26329,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511080b03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26471,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511090b03'>\r\n//「だから、故郷の解放を諦めるのか？」\r\n\"You're tired of war, so you're abandoning your home?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26695,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511100b03'>\r\n//「代償は金か、それとも別の何かか、それは\r\n//知らないが。\r\n//　この怪しげな髭男に誇りと仲間を売り渡し、\r\n//のどかに余生を過ごすと？」\r\n\"I don't know what this huckster promised you, but do you really think you can sell your soul, your comrades, and live the rest of your life in peace?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27154,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511110e008'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27318,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511120b03'>\r\n//「あのジョージの弟だ。もう少し気概はある\r\n//とみていたんだがな……。\r\n//　まさか女王に本心から屈服しても構わない\r\n//と思っているとはね」\r\n\"You of all people, bending the knee... I thought George's brother would have more spine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27722,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511130e008'>\r\n//「見縊らないで欲しい。\r\n//　女王に頭を下げたりはしません」\r\n\"You misjudge me, sir. I'll never bow to the queen.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27997,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511140b03'>\r\n//「だが戦うのはやめて、どこか南の島にでも\r\n//逃げたりはするのか？」\r\n\"But you will run off to some tropical paradise, let better men do the fighting. Is that it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28303,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511150e008'>\r\n//「いいえ。\r\n//　戦いますとも」\r\n\"Oh no. I fully intend to fight.\"\r\n\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511160e008'>\r\n//「大英連邦に裁きは与えますとも」\r\n\"The Empire will receive its comeuppance.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28737,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511170b03'>\r\n//「それは素晴らしい。何百年後にだい？」\r\n\"Fantastic! When? In a hundred years?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28948,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511180e008'>\r\n//「今日のうちに」\r\n\"No, Colonel.㉓<I>Today.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29140,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511190b03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29282,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511200e008'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29440,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511210b03'>\r\n//「最後の審判とか言ったな」\r\n\"You mentioned Final Judgment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29626,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511220e008'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29782,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511230b03'>\r\n//「最近の若者のジョークには疎くてね。\r\n//　おじさんにもわかるように説明してもらえ\r\n//ないか」\r\n\"You'll have to excuse me. I'm not up on the latest slang. Mind explaining what that means?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30124,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511240e008'>\r\n//「構いませんがまず、鍛造雷弾の投下を。\r\n//　ご明察の通り、我々はそれを求めているの\r\n//です」\r\n\"I'll be happy to, sir, but only after you drop the bomb. That's why we're here, as you yourself pointed out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30506,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511250b03'>\r\n//「自分でやったらどうだ？\r\n//　見たところ上官の頭に銃を押し付ける遊び\r\n//で忙しいようだが、実は俺も学術顧問を相手\r\n//に同じ遊びの最中でね」\r\n\"Why don't you drop the bomb? As you can see, I'm a bit busy holding my gun on the chief science advisor here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30934,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511260e008'>\r\n//「中佐……！」\r\n\"Colonel!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31103,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511270a13'>\r\n//「神を呼ぶのだよ」\r\n\"We're going to summon God.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31274,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511280b03'>\r\n//「…………教授？\r\n//　何と言われました？」\r\n\"...<waitVoice=1000>What did you say?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31489,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511290a13'>\r\n//「神を呼ぶのだ。\r\n//　我々の世界に」\r\n\"We're going to summon God, Colonel. Into our world.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31710,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511300a13'>\r\n//「神の前ではあらゆる虚偽が剥ぎ取られる。\r\n//　人類はその罪を、業を……すべての真実を\r\n//さらけ出し、正にせよ負にせよ、価値を定め\r\n//られることになるだろう」\r\n\"The age of lies will come to an end. Every man's sins will be laid bare, his worth to be judged in the eyes of the Lord.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32176,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511310b03'>\r\n//「…………。\r\n//　私の知っている神様というやつは怠け者で、\r\n//なかなか人間の前には姿を見せて下さらない\r\n//はずなんですがね」\r\n\"...In my experience, God is an unreliable sort. I've never known him to make public appearances.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32570,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511320a13'>\r\n//「うむ。神はこの数千年、地底の寝室で寝て\r\n//ばかりだ。<RUBY text='たかいびき'>高鼾</RUBY>でね。\r\n//　神を大いなる父として崇め奉りたい我々に\r\n//とって、あまり理想的なお姿とはいえない」\r\n\"Very true. For the last several thousand years, God has lain abed deep underground, snoring happily away. For we who desire to witness his glory, this state of affairs is less than ideal.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33133,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511330a13'>\r\n//「そろそろシャキッとして頂こうと思うのだ。\r\n//　まずは寝床から叩き起こし、外に出て日光\r\n//を浴びてもらわねば」\r\n\"High time for our Father to rise, I say. It's been so long since he's seen the sun. But first, we must roust him from his slumber.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33542,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511340b03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33684,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511350b03'>\r\n//「誤解だといいのですが」\r\n\"I sincerely hope I'm mistaken...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33870,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511360a13'>\r\n//「うむ？」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34007,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511370b03'>\r\n//「あなたはもしかして、<RUBY text='・・・・'>実在する</RUBY>神を地上へ\r\n//降ろすと言いたいのですか？」\r\n\"But are you talking about bringing a㉓<I>real</I>㉒god here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34326,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511380a13'>\r\n//「ああ、そうだ」\r\n\"That's exactly right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34489,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511390b03'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34643,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511400a13'>\r\n//「そのために鍛造雷弾という特大の鐘を打ち\r\n//鳴らすのだよ」\r\n\"And the Forged Bomb is the bell that will wake him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34897,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511410b03'>\r\n//「申し訳ありませんが、教授。\r\n//　全く理解できません」\r\n\"I'm sorry, Professor. I don't understand a word you're saying.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35156,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511420a13'>\r\n//「人知の理解を超える所にも真実はある。\r\n//　そういうことだ」\r\n\"Quite all right, Colonel. Some truths lie beyond human understanding.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35431,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511430b03'>\r\n//「神秘主義者の常套句ですな」\r\n\"A common sentiment among cultists.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35625,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511440a13'>\r\n//「その一言で思考停止するべきではない。\r\n//　君は考え、そして認めた方がいい」\r\n\"Don't let that prejudice you. Open your eyes, open your mind, and you will come to realize the truth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35956,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511450b03'>\r\n//「はぁ。地底の神とやらを？」\r\n\"The truth. That God is sleeping underground.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36160,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511460a13'>\r\n//「うん。\r\n//　君はずっと見過ごしていたガーゲット中尉\r\n//の背信を、今ようやく事実として認めている\r\n//だろう？」\r\n\"Yes. Before this moment, would you have believed that Lieutenant Gargett would betray you? No. Yet here he is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36547,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511470a13'>\r\n//「それと同じことさ」\r\n\"It's the same thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36715,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511480b03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36857,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511490a13'>\r\n//「君は僕の知る中で最も明敏な人物の一人だ。\r\n//　ああ、ハイドリヒ君を思い出すよ……」\r\n\"You know, you remind me of Heydrich. One of the brightest men I've ever known.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37177,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511500a13'>\r\n//「しかし完璧な知性の所有者ではない。\r\n//　かの<RUBY text='ＳＳ'>親衛隊</RUBY>大将ラインハルト・ハイドリヒ\r\n//もやはり完璧ではなく、テロに斃れたように」\r\n\"But no man can be all-seeing, all-knowing. Even the leader of the Schutzstaffel could not save himself from a terrorist's bomb.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37634,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511510b03'>\r\n//「何が仰りたいので？」\r\n\"What are you trying to say?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37812,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511520a13'>\r\n//「君が気付いていない真実についてさ。\r\n//　……ガーゲット中尉だけだと思うかね？」\r\n\"We are speaking of truths beyond your understanding. Do you think the lieutenant is the only one?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38145,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511530b03'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38287,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511540a13'>\r\n//「君はＧＨＱの各部署へ新大陸独立派の仲間\r\n//を密かに送り込み、権限を掌握しただろう？\r\n//　同じことを僕がやっていたとしたら不思議\r\n//かな？」\r\n\"How did you American Dreamers take control of GHQ? By slipping your men slowly, quietly, into every nook and cranny of this vast operation. Would it surprise you to learn that I could do the same?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38805,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511550b03'>\r\n//「何ですと……」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38952,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511560a13'>\r\n//「もちろん簡単ではなかったがね。\r\n//　しかし中尉の兄――ジョージ・ガーゲット\r\n//少佐の死後は、さしもの君も足元への注意が\r\n//それまでよりおろそかになった」\r\n\"It wasn't㉓<I>easy,</I>㉗I assure you. But after the lieutenant's brother died, even you developed some cracks in your armor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39422,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511570a13'>\r\n//「その隙に<RUBY text='・・・・'>僕の仲間</RUBY>が潜り込んだ。\r\n//　君の組織の中に」\r\n\"And through those cracks, I slid㉓<I>my</I>㉑men. Into every part of your organization.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39741,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511580b03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39883,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511590a13'>\r\n//「決して多数ではないが……\r\n//　必要な時に必要な働きができる程度の数は\r\n//いる」\r\n\"Not many, but enough. Enough to do what was necessary when the time came.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40190,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511600a13'>\r\n//「<RUBY text='・・・・・・・'>この船の中にも</RUBY>」\r\n\"On this ship, for example.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40403,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511610a13'>\r\n//「今この時、必要な間だけ、船の機能を奪い\r\n//取れる程度の数は……」\r\n\"Only a handful of men... but enough to seize control for the short time needed to carry out our purpose.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40722,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511620b03'>\r\n//「…………………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40882,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511630a13'>\r\n//「さて。\r\n//　キャノン中佐」\r\n\"Now then, Colonel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41058,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511640a13'>\r\n//「僕はこれから、質問と要求をする。\r\n//　<RUBY text='イエス'>是</RUBY>か<RUBY text='ノー'>否</RUBY>で答えてもらおう」\r\n\"I will present you three statements and one question. Please reply 'yes' or 'no' to each.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41416,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511650b03'>\r\n//「……どうぞ」\r\n\"...As you wish.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41570,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511660a13'>\r\n//「君は多くの、大切なことを見落とした」\r\n\"You failed to see the truth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41773,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511670b03'>\r\n//「<RUBY text='イエス'>是</RUBY>」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41934,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511680a13'>\r\n//「君は完璧ではなかった」\r\n\"You understood nothing about me.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42120,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511690b03'>\r\n//「<RUBY text='イエス'>是</RUBY>」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42281,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511700a13'>\r\n//「君は敗北した」\r\n\"You have lost.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42437,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511710b03'>\r\n//「……<RUBY text='イエス'>是</RUBY>……」\r\n\"...Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42613,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511720a13'>\r\n//「では、我々に協力してくれるかな？」\r\n\"Then will you join us?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42807,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511730b03'>\r\n//「<RUBY text='ノー'>否</RUBY>」\r\n\"No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42964,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511740a13'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43106,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511750b03'>\r\n//「教授、私は敗者です。\r\n//　そしてあなた方は勝者ではない」\r\n\"I may have lost, Professor, but you haven't won.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43357,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511760a13'>\r\n//「何故かな？」\r\n\"Oh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43499,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511770b03'>\r\n//「単なる一般論ですよ」\r\n\"It's really very simple.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43674,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511780b03'>\r\n//「神に祈る者、神を敬う者、神を知らぬ者、\r\n//神を罵る者が勝者になった例はある。\r\n//　しかし、神に<RUBY text='・・'>縋る</RUBY>者は常に敗者だ」\r\n\"You can believe in God, pray to God, curse God, or ignore God, and still turn out a winner in the end. But a man who㉓<I>depends</I>㉓on God is always a loser.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44150,
+  "en": "\r\n//【ｅｔｃ／Ｇ中尉】\r\n<voice name='ｅｔｃ／Ｇ中尉' class='その他男声' src='voice/md04/0511790e008'>\r\n//「……っ……」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44312,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511800a13'>\r\n//「そうか……」\r\n\"I see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44459,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511810b03'>\r\n//「ウォルフ教授。\r\n//　私からも最後に一つ、構いませんか」\r\n\"If you don't mind, I've got a statement of my own.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44709,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511820b03'>\r\n//「これまでずっと言いたくてたまらなかった\r\n//ことがあって……」\r\n\"It's something I've been itching to say for a while.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44970,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511830a13'>\r\n//「何だい？」\r\n\"What is it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45117,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0511840b03'>\r\n//「この狂人が」\r\n\"You're out of your fucking mind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45288,
+  "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0511850a13'>\r\n//「<RUBY text='ヤー'>是</RUBY>」\r\n\"Ja!\"\r\n",
+  "pt": ""
+ }
+]

@@ -1,0 +1,237 @@
+[
+ {
+  "offset": 214,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0010a02'>\r\n//「と……とにかく！\r\n//　話を元に戻しますけどっ」\r\n\"A- Anyway! Back to business!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 413,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0020a00'>\r\n//「うむ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 530,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0030a02'>\r\n//「あたしたちの目的地は江ノ島でしょう？\r\n//　なら、早く行きましょう！」\r\n\"We're here to investigate the island, right? Let's get a move on already!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 807,
+  "en": "\r\n//　……そう。\r\n//　ここは江ノ島ではない。\r\n\r\n//　江ノ島の対岸、片瀬だった。\r\n//　ここに留まっていても埒は明かない。早く島へ渡り\r\n//たいという一条の意思は理解できる。\r\n\r\n//　が。\r\n//　それでも留まっているからには理由があるのだった。\r\n\r\n//　俺はそのうち、最も直接的なものから口にした。\r\n  ...Indeed, this is not Enoshima. This is Katase, on the mainland. There is nothing for us here.\r\n\r\n  That said, there are several good reasons why we have not yet crossed over. I begin with the most obvious.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1438,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0040a00'>\r\n//「渡れない」\r\n\"We can't cross.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1572,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0050a02'>\r\n//「……え？\r\n//　どうしてですか？」\r\n\"...Huh? Why not?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1738,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0060a00'>\r\n//「ここへ来るまでに調べておいた。\r\n//　今、江ノ島全域は立ち入り禁止区画に指定\r\n//されている」\r\n\"I learned on the way here that Enoshima and the surrounding ocean have been declared off-limits.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0070a00'>\r\n//「無論、発令したのは幕府だ。\r\n//　理由は不明」\r\n\"Per the shogunate's orders, of course, though they've given no reason.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2299,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0080a03'>\r\n//「情報通り、兵器研究をしているのでしたら\r\n//当然の処置ですね。\r\n//　一概には決め付けられませんけれど……」\r\n\"Just the sort of precaution you'd expect near a secret research facility. We can't be sure of anything yet, but...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2678,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/005z0090a04'>\r\n//「疑惑が強まったのは事実でございます。\r\n//　ゆめ、ご油断なさいませぬよう」\r\n\"It does lend credence to the report. We mustn't let our guard down.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2955,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0100a02'>\r\n//「じゃあ……どうするんですか？」\r\n\"So... what's the plan?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3126,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0110a00'>\r\n//「公然と渡るのが不可能であるなら、非公然\r\n//に渡るまでの事。\r\n//　その方策を探るのが、ここに留まっている\r\n//理由の第二」\r\n\"If we cannot cross to the island overtly, then we will simply have to do so covertly. The need to secure a means of doing so is the second reason we remain in Katase.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0120a00'>\r\n//「第三は情報収集。\r\n//　本来なら目的地の手前で聞き込みなどと、\r\n//迂遠なやり方は好まないのだが」\r\n\"The third is to gather intelligence. Ordinarily, I would not waste time asking questions when the target is right in front of us, but...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3936,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/005z0130a04'>\r\n//「<RUBY text='こたび'>此度</RUBY>は目的地の異常が既に明らかでござい\r\n//ますからね」\r\n\"This time, the situation is far from ordinary.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4195,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0140a00'>\r\n//「はい」\r\n\"Precisely.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4318,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0150a02'>\r\n//「……それは、そうです。\r\n//　島へ行く前に、せめて<RUBY text='・・・・'>この状況</RUBY>がどういう\r\n//ことなのか多少でも知っておかないと……」\r\n\"...I guess that makes sense. We need <I>some</I> answers before we head to the island.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4702,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0160a03'>\r\n//「何も知らずに島へ行くのは二の足を踏んで\r\n//しまいます。\r\n//　…………夏ですし」\r\n\"We don't want to go in blind. After all, it's summer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4981,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0170a00'>\r\n//「夏です」\r\n\"It is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5103,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0190a02'>\r\n//「夏だよな……」\r\n\"It's so summer...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5245,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/005z0180a04'>\r\n//「夏でございます」\r\n\"And a fine summer at that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5399,
+  "en": "\r\n//　季節は夏。\r\n//　暦は霜月。そろそろ年の瀬も近いこの頃。\r\n\r\n//　夏である筈がなかった。\r\n  The season is summer. The month, November.<K>\r\n  Something is very wrong here.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5619,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0200a00'>\r\n//「異常気象にも程があるというもの」\r\n\"I've heard of Indian summers, but this is absurd.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5820,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/005z0210a04'>\r\n//「しかも江ノ島周辺だけときては……」\r\n\"And it's only the area around Enoshima.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6014,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0220a02'>\r\n//「何でこんなあからさまに怪しい事件が全然\r\n//ニュースになってないんだ？　あたし、新聞\r\n//で読んだ覚えないぞ」\r\n\"Something this crazy should be in all the papers, but I haven't seen anything.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6351,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0230a03'>\r\n//「六波羅さまの<RUBY text='・・・'>何やら</RUBY>が原因なら、報道機関\r\n//に緘口令を布くくらい何でもないでしょう」\r\n\"If this is Rokuhara's doing, issuing a gag order would be no trouble at all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6691,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/005z0240a04'>\r\n//「疑惑濃度更に上昇でございますね」\r\n\"The plot thickens.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6861,
+  "en": "\r\n//　確かに。\r\n//　八幡宮で話を聞いた時点では、六波羅の秘匿研究と\r\n//いう点については半信半疑、むしろ首を傾げる気持ち\r\n//の方が強かった位なのだが。\r\n\r\n//　現時点では逆転している。\r\n//　幕府はあの島で何かを行っているのだ――おそらく。\r\n  It does.\r\n\r\n  I was skeptical at first about the report of a secret Rokuhara facility. Now, however, my feelings are exactly the opposite.\r\n\r\n  There's no question. The shogunate is up to something.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7411,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0250a00'>\r\n//「ではそろそろ行動を開始しましょう。\r\n//　手分けして情報収集を。主眼とすべきは島\r\n//への潜入方法、及びこの異常な熱気について」\r\n\"Let's split up and begin gathering intelligence. Our priorities are to find a means of crossing to the island and to learn the source of this unnatural heat wave.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0260a00'>\r\n//「何か質問、提案などある方？」\r\n\"Any questions or suggestions?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8026,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0270a02'>\r\n//「ありません！」\r\n\"No, sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8159,
+  "en": "\r\n//　応えつつ、一条は既に動き出していた。\r\n//　辺りを見回すや、客で賑わう海の家――ではなく、\r\n//その隣で小船を囲んで暗い顔をしている漁師の一団を\r\n//目指して歩き始める。迅速、かつ的確な行動だった。\r\n  Ichijo is at work before her answer is finished. She scans the area once, then sets her sights not on the tourists crowding the beachside shops, but on a group of grim-faced fishermen lounging by their boats nearby. A quick and prudent decision.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8707,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0280a03'>\r\n//「ひとつよろしいかしら」\r\n\"One thing, if I may.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8873,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0290a00'>\r\n//「はい。大尉」\r\n\"Please.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9002,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0300a03'>\r\n//「そろそろわたくしか一条さんか、どちらか\r\n//選んで、常に一緒に行動したりとかして関係\r\n//を深めてゆく頃合なのではないでしょうか。\r\n//　あら、でも一条さんはもういないから……」\r\n\"I think it's about time for you to choose between Ichijo and myself. You will accompany the selected heroine at all times and attempt to deepen relations with her. And since㉓<I>she's</I> already left...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9571,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0310a02'>\r\n//「やにわに何言ってんだてめぇ」\r\n\"The hell're you on about?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9742,
+  "en": "\r\n//　戻ってきた。\r\n  She's back.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9792,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/005z0320a04'>\r\n//「さあ、決断の時ですよ湊斗さま！」\r\n\"The time has come to choose, good sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9982,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0330a00'>\r\n//「却下致します。\r\n//　調査効率の悪化を招く以外に、効果が認め\r\n//られません」\r\n\"I don't see how that will do anything but negatively impact our efficiency.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10268,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0340a03'>\r\n//「そこで牽強付会なこじつけをして己の行動\r\n//を正当化するのが男の甲斐性というものです\r\n//のに！」\r\n\"A true man would find some reason―any reason―<br>to justify his lusts!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10592,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0350a02'>\r\n//「おめー実は脳味噌が癌なんじゃねえの？」\r\n\"Have you got brain cancer or something?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10792,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/005z0360a04'>\r\n//「綾弥さまっ、口が過ぎますよ！」\r\n\"Miss Ayane! That's going too far!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10974,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0370a03'>\r\n//「そうですっ。酷いことを」\r\n\"Yes! How could you say something so hurtful?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11167,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/005z0380a04'>\r\n//「お嬢さまが頭を深刻に病んでおられるのは\r\n//事実でございますが、それはそれとして、今\r\n//のご発言はわりとけっこう核心を突いていた\r\n//りするのです！」\r\n\"My mistress does indeed have a severe mental illness, but her words just now were right on the mark.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11584,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0390a03'>\r\n//「おいおい。待てよ侍従」\r\n\"Hey. Better watch your step, granny.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11766,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/005z0400a02'>\r\n//「んなわけねーだろ……。\r\n//　そりゃ一体どんな男だ」\r\n\"You're shitting me. What kind of man would do that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11994,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/005z0410a04'>\r\n//「いやいや綾弥さま。\r\n//　己に課せられた使命を果たしつつしっかり\r\n//<RUBY text='ヒロイン'>恋人</RUBY>と結ばれてこそ男児の本懐というもので\r\n//ございまして――」\r\n\"Actually, young lady, the mark of a true man is his ability to find happiness with his chosen heroine while still fulfilling his duty.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12451,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0420a03'>\r\n//「景明さまっ、わたくし唐突に芸術的インス\r\n//ピレェションを獲得しました！\r\n//　題して水着とライフル銃」\r\n\"Kageaki, dear! I've just been struck with an amazing artistic inspiration! I call it <I>Swimsuits and Rifles.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12823,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/005z0430a03'>\r\n//「半世紀後くらいにネタの切れた企画屋さん\r\n//が苦しまぎれに思いつきそうな感じの前衛劇\r\n//なんですけど、今ここで開始してもよろしい\r\n//かしら？」\r\n\"It's the sort of cutting-edge drama you'd expect a struggling producer to dredge from the ruin of his soul fifty years or so from now, but I'm ready to perform it right this very moment!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13326,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/005z0440a00'>\r\n//「自分と一切無関係の所でお願いします」\r\n\"Might I request the other side of the globe?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13528,
+  "en": "\r\n//　暦は霜月。季節は夏。\r\n//　頭の季節感も狂っていた。\r\n  The month is November. The season, summer.<K>\r\n  And some brains are clearly rotting in the heat.\r\n",
+  "pt": ""
+ }
+]

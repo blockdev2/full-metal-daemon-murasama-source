@@ -1,0 +1,267 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　一通りの処置を済ませた後、俺は幕閣首脳に事態を\r\n//伝えた。\r\n//　古河公方遊佐童心、小弓公方今川雷蝶、そして一時\r\n//帰城中であった篠川公方大鳥獅子吼が俺の報告を聞く。\r\n  Once I've addressed the situation, I deliver my report to the generals.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 545,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130010a06'>\r\n//「ふん……そうか。\r\n//　事情はわかった」\r\n\"Hmph... I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 726,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130020a06'>\r\n//「うまく処理したではないか」\r\n\"You handled it rather well, eh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 908,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130030a09'>\r\n//「うむ……」\r\n\"Mm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1031,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130040a00'>\r\n//「はっ。\r\n//　有難うございます」\r\n\"Thank you, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1192,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130050a08'>\r\n//「……そう？\r\n//　資材が消えて、別の所では横流しの報告が\r\n//あったからって、二つを結びつけるのは短絡\r\n//的過ぎない？」\r\n\"...Really? So some supplies go missing, and you link that to a random report of black market sales? Isn't that too simple?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1585,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130060a06'>\r\n//「貴様の口から短絡的などという言葉が出る\r\n//と、何やら曰く言い難い違和感があるな……」\r\n\"The day you earn the right to call someone simple is the day the sky crushes us <br>all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1909,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130070a08'>\r\n//「どうしてよッ!?」\r\n\"Excuse me!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2046,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130080a09'>\r\n//「横流しの報告とやらはでっち上げであろう」\r\n\"I doubt the report existed to begin with.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2250,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130090a08'>\r\n//「え？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2366,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130100a09'>\r\n//「違うかな、湊斗中佐」\r\n\"Am I wrong, Colonel?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2519,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130110a00'>\r\n//「御賢察の通りであります」\r\n\"No, Your Excellency.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2678,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130120a08'>\r\n//「……どういうこと？」\r\n\"...What's going on here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2835,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130130a06'>\r\n//「中佐、説明してやれ」\r\n\"Explain it to this fool.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3001,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130140a00'>\r\n//「はっ。\r\n//　事件の真相は、おそらく反幕府勢力による\r\n//妨害工作であると思われます」\r\n\"Sir. In all likelihood, the supplies were stolen by rebel agents.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3288,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130150a00'>\r\n//「会場設営の必需品を奪取するにより、工事\r\n//を――延いては式典を遅らせようという意図\r\n//でしょう。\r\n//　小細工ですが、効果は有ります」\r\n\"By targeting supplies vital to the construction effort, they hoped to delay the pavilion's completion, and by extension, the ceremony itself. A simple trick, but effective.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3755,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130160a00'>\r\n//「奪われた資材は、既に城内で処分されたと\r\n//みるのが妥当かと……。\r\n//　換金目的の窃盗でないなら、危険を冒して\r\n//外へ持ち出す意味がありませんから」\r\n\"I believe they destroyed the supplies somewhere inside the castle. If money wasn't their objective, they'd have no need to risk transporting them elsewhere.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4227,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130170a08'>\r\n//「……？\r\n//　じゃあ何？　横領の容疑で逮捕された倉庫\r\n//の管理担当は完全な冤罪で、」\r\n\"So... the man you arrested is innocent...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4490,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130180a08'>\r\n//「あんたは最初からそれを承知で牢屋送りに\r\n//したっていうの？」\r\n\"And you knew that all <br>along?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4713,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130190a00'>\r\n//「はい」\r\n\"Yes, General.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4838,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130200a08'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4974,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130210a08'>\r\n//「ああ……なるほど！\r\n//　そういうことなのね」\r\n\"Oh! Now I get it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5158,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130220a06'>\r\n//「ようやく理解したか。\r\n//　そうだ、真相を真相のまま発表してしまう\r\n//のは容易い」\r\n\"It took you long enough.\r\n  Minato understands. It would have been easy to raise the alarm.\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130230a06'>\r\n//「だが倒幕派が城内に潜み工作を行っている\r\n//などという事実が知られれば……八幡宮事件\r\n//の余韻も醒めやらぬ今、将兵を決定的に動揺\r\n//させるきっかけとなりかねん」\r\n\"But the men are already on edge after what happened at Hachiman Shrine. Announcing that we have saboteurs in our ranks could deal a severe blow to <br>morale.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5970,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130240a09'>\r\n//「横領事件ということにしておけばその心配\r\n//はない。\r\n//　むしろ厳正な処分を下すことで綱紀の引き\r\n//締めを図れる……と」\r\n\"But if the incident is a matter of corruption, there is no such risk. In fact, punishing the offender might even strengthen discipline.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6379,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130250a09'>\r\n//「いや、咄嗟によく考えたものだのう。\r\n//　おぬし、腹芸も達者ではないか」\r\n\"A fine solution, and quickly conceived. You're a clever one, aren't you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6657,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130260a00'>\r\n//「恐れ入ります」\r\n\"Not at all, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6797,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130270a08'>\r\n//「フフン、まあまあね。\r\n//　あんたみたいな男が茶々丸の下についてる\r\n//ってのも、何だか不思議な気がするけど」\r\n\"Heh, not bad. Though I have to wonder what a man like you is doing under that awful Chachamaru.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7150,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130280a06'>\r\n//「全くだな。\r\n//　詮索はせんが、一体どんな出会いをしたの\r\n//やら……」\r\n\"Indeed. I'd very much like to know what brought you two together.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7425,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130290a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7549,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130300a09'>\r\n//「して、湊斗中佐。\r\n//　この後の処理はどうするつもりかの？」\r\n\"Now then, Colonel. How will you proceed?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7777,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130310a00'>\r\n//「逮捕した倉庫管理担当は、因果を含めた上\r\n//で城外の適当な部署へ配転。\r\n//　表向きは、処刑と発表しておくのが宜しい\r\n//でしょう」\r\n\"I'll deal with the man I've arrested. I'll impress upon him the gravity of the situation, then have him transferred to some remote posting. Officially, we'll announce that he was executed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8251,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130320a09'>\r\n//「うむ……」\r\n\"Mm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8374,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130330a00'>\r\n//「そして無論、工作員の洗い出しも極秘裏に\r\n//かつ迅速に行うべきです」\r\n\"Meanwhile, of course, we should work quickly and quietly to flush out these saboteurs.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8660,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130340a09'>\r\n//「だのぉ」\r\n\"Mmhmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8783,
+  "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md03/0130350a08'>\r\n//「そちらは麿が引き受けましょう」\r\n\"I'll take care of that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8954,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130360a06'>\r\n//「資材の補填は？」\r\n\"And the missing supplies?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9115,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130370a00'>\r\n//「既に業者と連絡をつけてあります。\r\n//　多少の無理は生じますが、工期は遅らせず\r\n//に済むものと」\r\n\"I've already contacted the supplier. It will require some extra man-hours, but construction will proceed according to schedule.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9482,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130380a06'>\r\n//「結構。\r\n//　大いに結構だ、湊斗中佐」\r\n\"Good. Very good indeed, Minato.\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md03/0130390a06'>\r\n//「貴様はどうも、俺を失望させないな」\r\n\"I was right to expect great things from you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9876,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130400a00'>\r\n//「過分なお言葉です」\r\n\"You flatter me, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10026,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130410a09'>\r\n//「いやいや、わしも同じ気持ちよ。\r\n//　これは何か褒美を取らせねばなるまいのう」\r\n\"No, I agree with Shishiku. In fact, I believe this calls for a reward.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10311,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130420a00'>\r\n//「褒美？」\r\n\"A reward, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10440,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130430a09'>\r\n//「義清！」\r\n\"Yoshikiyo!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10565,
+  "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md03/0130440b21'>\r\n//「はい！」\r\n\"Here, Master!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10693,
+  "en": "\r\n//　古河公方が呼び入れたのは、ほぼ常時その側に控え\r\n//ている小姓だった。\r\n//　忠実な小犬のように素早く現れ、主の脇に畏まる。\r\n  Yoshikiyo turns out to be General Yusa's page. He appears immediately, like a loyal puppy, and kneels at his master's side.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11013,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130450a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11132,
+  "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md03/0130460b21'>\r\n//「御用でしょうか」\r\n\"How may I serve?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11275,
+  "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md03/0130470a09'>\r\n//「うむ。\r\n//　この御仁を労わってやってくれい」\r\n\"Mm. Help this fine officer relax.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11475,
+  "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md03/0130480b21'>\r\n//「はっ」\r\n\"Of course!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11597,
+  "en": "\r\n//　一礼して、彼がこちらに向き直る。\r\n//　そして、言った。\r\n  He bows to his master, then turns to me.\r\n\r\n  ...Why is he blushing?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11765,
+  "en": "\r\n//◆微妙に赤顔\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md03/0130490b21'>\r\n//「中佐殿。\r\n//　入れるのと入れられるのと、どっちがいい\r\n//ですか？」\r\n\"Colonel, sir? Would you prefer the top or the bottom?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12038,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130500a00'>\r\n//「…………………………………………………\r\n//……………………………………………………\r\n//……………………………………………………\r\n//……………………………………………結構だ」\r\n\".............................................\r\n...............................................\r\n...............................................\r\n...............................................\r\n...............................................\r\n...............................................\r\n...............................................\r\n...............................................\r\n...............................................\r\n...............................................\r\n...............................................\r\n...............................................\r\nI'm fine, thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12999,
+  "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md03/0130510b21'>\r\n//「手とか口とか、足とかでも」\r\n\"Would you like me to use my hands or mouth? I'm also quite skilled with my feet.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13221,
+  "en": "\r\n//◆大フォント\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md03/0130520a00'>\r\n//<FONT size=40>「結構だ」</FONT>\r\n<center>\"I'm fine. Thank you.\"\r\n",
+  "pt": ""
+ }
+]

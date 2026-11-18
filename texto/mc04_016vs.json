@@ -1,0 +1,132 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//◆ジ\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0010a04'>\r\n//「<RUBY text='ＴＨＥ'>鋼の人形は</RUBY>」\r\n<center>\"Behold. An iron maiden before you―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 422,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0020a04'>\r\n//「<RUBY text='ＩＲＯＮ'>裸体で</RUBY>\r\n//　肉色で」\r\n<center>\"―naked―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 607,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0030a04'>\r\n//「<RUBY text='ＭＡＩＤＥＮ'>化粧されている</RUBY>」\r\n<center>\"―rouged with blood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 804,
+  "en": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/mc04/016vs0040e195'>\r\n//「おぉっ……!?」\r\n\"Gohh...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 989,
+  "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/mc04/016vs0050e196'>\r\n//「何だ!?」\r\n\"What's happening!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1175,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0060a04'>\r\n//「……むかし、むかし……。\r\n//　<RUBY text='トランシルバニア'>森のかなたの国</RUBY>にひとりの美しい貴婦人が\r\n//おられましてな」\r\n\"Once upon a time, in a land called Transylvania, there lived a lady of surpassing beauty.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1542,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0070a04'>\r\n//「貴婦人は、無慈悲な老いによって己の美貌\r\n//が失われることを、ひどく恐れていたそうに\r\n//ございます。\r\n//　それを見かねたドゥルコなる鍛冶師が――」\r\n\"More than anything, this lady feared the loss of her beauty to the ravages of time. And so a smith by the name of Dulko―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1979,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0080a04'>\r\n//「貴婦人への崇敬、賛嘆、狂恋、想いの全て\r\n//を込めて一領の劒冑を打ち上げました。\r\n//　……その劒冑こそ」\r\n\"Forged, with all his love, all his worship and obsession, a tsurugi of exceptional nature. That tsurugi's name―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2346,
+  "en": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/mc04/016vs0090e195'>\r\n//「ガ――」\r\n\"Gah...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2522,
+  "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/mc04/016vs0100e196'>\r\n//「ギャヒィィィィィィィ!?」\r\n\"AHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2724,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0110a04'>\r\n//「これなる〝<RUBY text='バートリィ'>吸血装甲</RUBY>〟でございます」\r\n\"―is Bathory!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2930,
+  "en": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/mc04/016vs0120e195'>\r\n//「ゴア――ア、ウゥ」\r\n\"Gah... agh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3127,
+  "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/mc04/016vs0130e196'>\r\n//「ゲグッ、ヒッ、ア――」\r\n\"Geh... ahh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3328,
+  "en": "\r\n//【ｅｔｃ／大鳥兵士Ｎ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｎ' class='その他男声' src='voice/mc04/016vs0140e184'>\r\n//「………………」\r\n\"......\"\r\n\r\n//【ｅｔｃ／大鳥兵士Ｎ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｎ' class='その他男声' src='voice/mc04/016vs0150e184'>\r\n//「う……嘘、だろ？\r\n//　竜騎兵隊が……全滅？」\r\n\"Th- This isn't happening...\"\r\n\r\n//【ｅｔｃ／大鳥兵士Ｎ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｎ' class='その他男声' src='voice/mc04/016vs0160e184'>\r\n//「たった一人に……」\r\n\"She killed them all!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3948,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0170a04'>\r\n//「あら。\r\n//　そういえば……貴方が残っていましたね？\r\n//兵士さん」\r\n\"Ah. I almost forgot about you, my dear.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4184,
+  "en": "\r\n//【ｅｔｃ／大鳥兵士Ｎ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｎ' class='その他男声' src='voice/mc04/016vs0180e184'>\r\n//「ひィ!?」\r\n\"Eek!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4356,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0190a04'>\r\n//「ふふ、ご心配なく。\r\n//　今日はもう<RUBY text='・・'>満腹</RUBY>です」\r\n\"Now now. No need to be afraid. I've already drunk my fill.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4610,
+  "en": "\r\n//【ｅｔｃ／大鳥兵士Ｎ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｎ' class='その他男声' src='voice/mc04/016vs0200e184'>\r\n//「―――――――――――――――――――\r\n//――――――――――――――――――――\r\n//――――――――――――――――――――\r\n//――――――――――――――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5025,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0210a04'>\r\n//「この<RUBY text='バートリィ'>手袋</RUBY>は貴婦人のための劒冑。\r\n//　武骨無粋の<RUBY text='フルプレート'>全身装甲</RUBY>にするわけにはいかず、\r\n//このような仕立てになっています」\r\n\"Bathory, you see, was meant for a woman of breeding. A brutish suit of armor simply would not do.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0220a04'>\r\n//「当然ながら、劒冑としての能力はほぼ皆無。\r\n//　騎航はできず、体機能の強化もしてくれず、\r\n//防御力さえろくろく有りません」\r\n\"Thus, sacrifices were made. This tsurugi confers no strength, nor the power of flight. It can hardly even protect its master from attack.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5876,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0230a04'>\r\n//「けれどただひとつ、<RUBY text='アウトロウ'>陰義</RUBY>の性能だけは卓抜\r\n//するものがありまして。\r\n//　相手が武者であろうとお構いなく、甲鉄の\r\n//護りも突破して、<RUBY text='・・・・'>吸血する</RUBY>――」\r\n\"But through these sacrifices, something special was born. A lawbreaker of singular focus, strong enough to penetrate a tsurugi's armor and drain its pilot dry.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6416,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0240a04'>\r\n//「生命力を剥奪し、<RUBY text='ユーザー'>仕手</RUBY>のものとする。\r\n//　その結果、まぁ、このようになってしまう\r\n//わけなのです」\r\n\"Blood is life, and thus Bathory grants its mistress... well, you can see for yourself, I'm afraid.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6792,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0250a04'>\r\n//「あぁ私ったら、年甲斐もない姿をお見せし\r\n//て、あぁ本当にもうお恥ずかしい……」\r\n\"Oh, how embarrassing! I really should think about my age.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7069,
+  "en": "\r\n//【ｅｔｃ／大鳥兵士Ｎ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｎ' class='その他男声' src='voice/mc04/016vs0260e184'>\r\n//「――――」\r\n\"......\"\r\n\r\n//【ｅｔｃ／大鳥兵士Ｎ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｎ' class='その他男声' src='voice/mc04/016vs0270e184'>\r\n//「……は……はわわぁ……」\r\n\"Wha... wha wha wha...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7453,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0280a04'>\r\n//「…………。\r\n//　お若い方には、きっと刺激が強過ぎたので\r\n//しょうねぇ。悪いことをしてしまいました」\r\n\"...Poor boy. It must have been quite a shock.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7746,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0290a04'>\r\n//「ま、それはさておいて。\r\n//　……<RUBY text='こちら'>玄関前</RUBY>は片付いたようですね」\r\n\"In any case, my work here is done.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8003,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/016vs0300a04'>\r\n//「あとは、お嬢さま――\r\n//　どうかご存分に、おやりなさいませ」\r\n\"Now, Mistress, it's your turn. Feast... to your heart's content.\"\r\n",
+  "pt": ""
+ }
+]

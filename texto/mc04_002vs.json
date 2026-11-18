@@ -1,0 +1,172 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　正門はほとんど一瞬の内に突破した。\r\n//　門衛はやにわの<RUBY text='・・'>砲撃</RUBY>に両目を瞬かせつつ口を開ける\r\n//以外、何もできなかったようだ。\r\n\r\n//　それを指して惰弱、無警戒と<RUBY text='そし'>謗</RUBY>るのは酷だろう。\r\n  The first gate is easy. The guards, stunned by our barrage, hit the ground as we barrel past.\r\n\r\n  I am not so cruel as to blame them for failing to anticipate such an attack.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 716,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0010a04'>\r\n//「一気に抜けますよ、お嬢さま！」\r\n\"I'm gunning it, Mistress!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 891,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/002vs0020a03'>\r\n//「おーらいっ！」\r\n\"GO GO GO!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1035,
+  "en": "\r\n//　篠川の大鳥本家邸宅は実に広大であり、正門から奥\r\n//屋敷まで数キロの道のりはあるに違いない。\r\n//　しかし、この分ではそれこそあっという間だろう。\r\n  The Otori estate is vast in scale, with kilometers between the main house and the gate.<K>\r\n  I doubt it will take us three minutes to get there.\r\n\r\n//　道筋を迷わない点に不思議はなかった。俺にとって\r\n//は未知の地でも、大鳥主従にすればここは<RUBY text='ホーム'>我が家</RUBY>。\r\n//　構造を把握していて当然だ。\r\n  That my companions know the road is not surprising―<br>this is their home ground―<br>but to hit it at such speed... We have to be going a hundred and fifty kilometers per hour.\r\n\r\n//　当然で済まないのはこの速度である。\r\n//　時速一〇〇キロ――あるいは一五〇キロに迫ろうか。\r\n\r\n//　これだけの速度を出しながら然程の揺れもないのは、\r\n//見事というより、もはや異様と評するべきだった。\r\n//　<RUBY text='プリンス・ヘンリー'>往年の名車</RUBY>はまさしく風のように地を滑る。\r\n  Whatever force is keeping this grand old Prince Henry from flipping itself like a pancake, it cannot be of this earth. \r\n\r\n//　道々の警備隊も高貴なる暴走車を眺め送るばかり。\r\n//　たまに、状況判断の早い隊が行く手に展開しても、\r\n  Most of the guards can only gape, though from time to time, a squad tries to bar our passage.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2603,
+  "en": "\r\n//【ｅｔｃ／警備隊長】\r\n<voice name='ｅｔｃ／警備隊長' class='その他男声' src='voice/mc04/002vs0030e062'>\r\n//「そこの車両、停まれ！」\r\n\"Stop!\"\r\n\r\n//【ｅｔｃ／警備隊長】\r\n<voice name='ｅｔｃ／警備隊長' class='その他男声' src='voice/mc04/002vs0040e062'>\r\n//「停まらねば撃つ――って聞けよぉ!!」\r\n\"Stop or we'll―<waitVoice=2000>I SAID STOP!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3029,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/002vs0050a03'>\r\n//「スワヒリ語でお言いなさい！」\r\n\"Should've said it in Swahili, dear!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3220,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0060a04'>\r\n//「気が違う人に言葉は無駄でございますぞ、\r\n//警備の方々！」\r\n\"This'll teach you to try reasoning with a maniac!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3456,
+  "en": "\r\n//　……手本のような<RUBY text='ブリッツクリーク'>電撃戦</RUBY>の前には無益であった。\r\n//　蜘蛛の子を散らしてへたり込む警備兵らの姿を背後\r\n//に見送り、少なからぬ同情を覚えつつ呟く。\r\n  It's a blitzkrieg, straight out of Rommel's playbook. The men can do nothing but scatter like ants. I almost feel sorry for them.\r\n\r\n  And as I watch them vanish behind us, I whisper―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3913,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/002vs0070a00'>\r\n//「これは無い」\r\n\"This is absurd.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4051,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0080a04'>\r\n//「有り得ませんな」\r\n\"It's bloody lunacy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4199,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/002vs0090a03'>\r\n//「ほんとね」\r\n\"I couldn't agree more.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4350,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/002vs0100a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4476,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/002vs0110a00'>\r\n//「全員そう思っていて、何故こんな正面突破\r\n//作戦になったのでしょうか」\r\n\"Then why, if we're all of the same mind, are we staging this assault?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4750,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0120a04'>\r\n//「成り行きかと」\r\n\"It seemed the thing to do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4902,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/002vs0130a03'>\r\n//「作戦を考えているあいだに、篠川へ着いて\r\n//しまったからかしら？」\r\n\"And no one suggested a better plan before we <br>arrived.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5167,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/002vs0140a00'>\r\n//「だからと言って、そのまま突っ込む理由は\r\n//何処にも無かったのでは……」\r\n\"Perhaps we could have taken the time to prepare one?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5427,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0150a04'>\r\n//「まったくその通りでございますな。\r\n//　湊斗さま、そういう叡智はもう少し早めに\r\n//披露してくださいませんと」\r\n\"Quite right, sir. I hope you'll share your wisdom ahead of time in the future.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5765,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/002vs0160a03'>\r\n//「そうねぇ。\r\n//　もう、困った御方っ」\r\n\"Really, dear.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5944,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/002vs0170a00'>\r\n//「………………今後は留意しておきます」\r\n\"...I'll try.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6115,
+  "en": "\r\n//　何をどう留意すれば良いのやらまるでわからないが。\r\n  Though I doubt it will come to much.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6244,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0180a04'>\r\n//「ま、結果的には図に当たりましたかと。\r\n//　篠川でもたもたしていればたちまち公方府\r\n//の諜報網に引っ掛かり、先手を打たれたやも\r\n//しれませぬし――」\r\n\"Still, I believe this was for the best. The longer we delayed, the greater the risk that Shishiku's spies would find us. And besides―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6697,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0190a04'>\r\n//「婚約の儀と軍の再編を同時に進める無理が、\r\n//さしもの獅子吼殿をしても本邸の警備に粗を\r\n//生じさせてしまった模様でございます。\r\n//　でなくば、こうも容易くは参りますまい」\r\n\"And besides, all the preparations he's pushed through seem to have left some holes in security. Even Shishiku can't force his men to be everywhere at once.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7203,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/002vs0200a00'>\r\n//「……は。ところで。\r\n//　その、先程から景気良く乱発しているそれ\r\n//は一体」\r\n\"I see. By the way, what is that weapon you're wielding with such gusto?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7486,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0210a04'>\r\n//「英軍横流しの<RUBY text='ヘビーフィスト'>擲弾筒</RUBY>でございますよ」\r\n\"This? A Heavy Fist, sir. Stolen straight from Her Majesty's army.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7749,
+  "en": "\r\n//　言いながら、さよ侍従は運転の傍ら器用にその兵器\r\n//を準備して、撃ち放った。\r\n//　前方に布陣しかけていた警備兵の一団が泡を食って\r\n//散開する。\r\n  While keeping one hand firmly on the wheel, Miss Nagakura loads a grenade and fires it into another cluster of soldiers. They break and scatter, explosions at their heels.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8145,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0220a04'>\r\n//「年代物ですが、なかなか侮れぬもので」\r\n\"An older model, but still quite effective.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8346,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/002vs0230a00'>\r\n//「どうやってそんな物を」\r\n\"How in the world did you get it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8516,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0240a04'>\r\n//「さて？　さよも詳しいところは存じませぬ。\r\n//　この車と共々、手配してくださった<RUBY text='いえ'>永倉家</RUBY>\r\n//の<RUBY text='あに'>義兄</RUBY>に訊いてみませんことには……」\r\n\"I'm afraid you'd have to ask my brother. He arranged for the car and the weapons.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8938,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/002vs0250a03'>\r\n//「不思議よねー。\r\n//　こんなの何処で売ってるのかしら？」\r\n\"I do wonder where he found them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9163,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/002vs0260a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9289,
+  "en": "\r\n//　永倉家というのも、一筋縄ではいかない家のようだ。\r\n//　世評に大鳥家の<RUBY text='・・'>黒幕</RUBY>などと囁かれるのも、あながち\r\n//根も葉もなき事とは言えないらしい。\r\n  Where indeed? I'm starting to see why people whisper of House Nagakura as the power behind Otori's throne.\r\n\r\n  ...Though I suppose if I needed proof of their resourcefulness, Miss Nagakura has already offered plenty.\r\n\r\n//　……さよ侍従のこれまでの行状を思うなら、こんな\r\n//感慨は今更なのかもしれないが。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9884,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/002vs0270a04'>\r\n//「そろそろ奥屋敷でございます。\r\n//　皆様、ご用意を！」\r\n\"Make ready now! We're nearly at the manor!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10107,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/002vs0280a03'>\r\n//「ええ！」\r\n\"Wonderful!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10243,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/002vs0290a00'>\r\n//「承知」\r\n\"Ready.\"\r\n",
+  "pt": ""
+ }
+]

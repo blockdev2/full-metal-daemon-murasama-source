@@ -1,0 +1,217 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0010a01'>\r\n//《御堂、平気!?》\r\n《Are you okay!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 364,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0020a00'>\r\n//「すつっ――」\r\n\"Ss―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 492,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0030a00'>\r\n//（……少なくとも、今はな）\r\n(...Still alive, for now.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 657,
+  "en": "\r\n//　劒冑の問いに声を<RUBY text='つむ'>紡</RUBY>ぎ出して返すのは諦め、思念に\r\n//指向を持たせて送信する。\r\n//　発生通話と違い主旨が正確に汲み取られない場合も\r\n//ままあるが、今は贅沢を言っていられない。\r\n  Realizing that it's pointless to try and speak, I transmit my thoughts directly to Muramasa. This method sometimes suffers from a loss of coherence, but right now it's the only option I have.\r\n\r\n//　舌唇の痙攣は更に悪化し、殊更口を利こうとしなく\r\n//ても気を緩めるだけで狂声を発しそうな<RUBY text='あんばい'>塩梅</RUBY>だった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1332,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0040a00'>\r\n//（自由の利かない場所が次第に広がっている\r\n//ような気がする……。\r\n//　首や足腰まで動かなくなった時には、危う\r\n//かろうな）\r\n(The paralysis seems to be spreading. If it reaches my neck or my legs, we're in trouble.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1699,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0050a01'>\r\n//《そんなことになったら――》\r\n《I'll say!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1862,
+  "en": "\r\n//　墜ちるのみである。\r\n//　武者の騎航は背中の合当理を吹かすだけで成立する\r\n//ものではないのだ。\r\n  It's more than just our engine which keeps us in the air.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2074,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0060a01'>\r\n//《……くっ。\r\n//　手立てもあろうに、毒とはね！》\r\n《Kuh! Fancy weapons are one thing, but poison!?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0070a01'>\r\n//《心の底から、呆れる話よ！\r\n//　前例を探そうとしたら、蒙古襲来絵詞まで\r\n//遡っちゃうんじゃないの？》\r\n《I've never heard the like! Not since reading about the Mongol invasion.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2623,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0080a00'>\r\n//（俺も、他には聞いた覚えがない。\r\n//　毒飼いを働く武者など）\r\n(Same. The Mongols were the only musha known to use poison.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2871,
+  "en": "\r\n//　蒙古襲来――<RUBY text='いわゆる'>所謂</RUBY>元寇の折、緒戦において蒙古側の\r\n//武者は大和武者を圧倒したが、その理由は蒙古の騎体\r\n//が運動性に優れていた事、<RUBY text='フォーメーション'>編隊戦術</RUBY>に長けていた事等\r\n//の他に、毒の使用を躊躇わなかった事もあったと云う。\r\n\r\n  During the invasions of the late 13th century, Yamato's musha suffered heavy losses at the hands of the Mongol horde. This was due in large part to the Mongols' superior maneuverability and formation tactics, but it's also said that their use of poison played a major role.\r\n\r\n//　わずかな掠り傷を重傷、遂には致命傷へ至らしめる\r\n//毒はさぞ有効な兵器であったことだろう。\r\n//　……しかし、世界軍史を紐解いて総覧しても、その\r\n//使用例は決して多くないのが実情だった。\r\n  Indeed, there is no question that the ability to disable or kill with a scratch is an asset on the field of war. And yet, historically, poison has rarely been accepted as a conventional weapon.\r\n\r\n  Excepting the aforementioned Yuan Empire founded by the Mongol warlord Kublai Khan, you would have to go back to ancient history, or to some tribe of hunters cut off from civilization, to find a group of warriors who poison their weapons as a matter of course.\r\n\r\n  And where musha are concerned, you could not find another example no matter how far you looked.\r\n\r\n//　未開民族の間で狩猟に用いられた例なら無数にある。\r\n//だが仮にも文明国家の軍隊が使用した例となると、元\r\n//帝国以外は殆どが遥か遠き古代史の範疇だ。\r\n//　増して武者の使用例となると絶無である。\r\n\r\n//　それは毒という物が、<RUBY text='いつ'>何時</RUBY>の時代<RUBY text='どこ'>何処</RUBY>の国家の武者\r\n//にも必ず存在した特有の――戦場の王者としての――\r\n//美意識に、真っ向から刃向かうこと<RUBY text='はなは'>甚</RUBY>だしかったから\r\n//であろう。\r\n\r\n  Musha are the elite, the undisputed lords of war. A lord must never㉗<I>steal</I>㉒his victory like a thief in the night. This pride is a virtue that musha have always shared, regardless of period or country of origin.\r\n\r\n//　武者は衆に優れた力を持ち、故に衆の模範とならね\r\n//ばならなかった。\r\n//　その武者がどうして、毒物など用いて姑息に勝利を\r\n//盗んだりできようものか？\r\n\r\n//　そうした意識は武者の<RUBY text='プライド'>矜持</RUBY>であり、良き伝統である\r\n//筈だった。\r\n//　\r\n//　それを――かの敵騎は持ち合わせていないと<RUBY text='おぼ'>思</RUBY>しい。\r\n\r\n  But it would seem that my enemy, like the Mongols, is an exception.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5767,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0090a00'>\r\n//（<RUBY text='なじ'>詰</RUBY>ったところで埒も明かんがな……）\r\n(I doubt calling him a coward will make much difference.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6005,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0100a01'>\r\n//《そうね。それは奴を地べたへ這わせてから\r\n//にしましょう。\r\n//　今は……その、毒のことだけど》\r\n《Let's save that for when we have him on the ground. First, we need to do something about the poison.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6354,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0110a00'>\r\n//（何かわかるか）\r\n(What can you tell me?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6501,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0120a01'>\r\n//《毒の正体について？　なら皆目。\r\n//　誇りに懸けてもそんな知識は学ばなかった\r\n//もの》\r\n《Not what it is. Poison isn't something good Emishi study.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6795,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0130a00'>\r\n//（だろうな。\r\n//　だが、俺の身体の何処にどう毒が作用して\r\n//いるのかならわかる筈）\r\n(I assumed as much. But you can tell what it's doing, right?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7075,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0140a00'>\r\n//（何処だ？）\r\n(Is it attacking my nerves, or my blood?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7234,
+  "en": "\r\n//　俺とて詳しくはないが、雑学程度には嗜んでいる。\r\n//一口に毒物と言っても種類は様々だ。\r\n//　しかし症状からして臓器に作用する実質毒や、接触\r\n///した組織を破壊する腐食毒は考慮から外せるだろう。\r\n\r\n  Though I'm no expert myself, I do have a layman's knowledge. Not every poison works the same way. Some induce anaphylactic shock. Others rot the flesh.\r\n\r\n  But this isn't either of those. Judging by the symptoms, it's either a blood or a nerve toxin. If Muramasa can tell me which, I might be able to deduce the source.\r\n\r\n//　そうなると後は血を破壊して身体機能を奪う血液毒\r\n//か、神経を冒して麻痺させる神経毒か……\r\n//　そのどちらなのかがわかれば、毒名の特定もできる\r\n//かもしれない。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8094,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0150a01'>\r\n//《神経よ。\r\n//　もちろん傷口から血管を通して広がってる\r\n//んだけど、おかしくなってるのは神経のほう》\r\n《It's attacking your nerves. I mean, it's spreading through your blood, but that's where the damage is.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0160a01'>\r\n//《あと筋肉も……》\r\n《Your nerves... and your muscles.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8617,
+  "en": "\r\n//　神経毒。\r\n//　そして体の末端から異常が顕れるこの症状。\r\n\r\n//　うろ覚えの知識の中に、合致するものは――\r\n  A nerve toxin where paralysis begins at the lips and extremities.\r\n\r\n  That sounds like...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8876,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0170a00'>\r\n//（……テトロドトキシン）\r\n(...Tetrodotoxin.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9030,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0180a01'>\r\n//《てと？》\r\n《Tet-what?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9166,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0190a00'>\r\n//（いや、要するに……河豚の毒だ）\r\n(Sorry. Fugu poison.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9335,
+  "en": "\r\n//　<RUBY text='テトロドトキシン'>河豚毒</RUBY>。\r\n//　今から三十年ばかり昔、大和の田原某という博士が\r\n//初めて抽出に成功してその名を付けた。\r\n\r\n  Tetrodotoxin was named by one Dr. Tawara, who pioneered the method of extracting this poison. It was no accident that this accomplishment fell to a Yamatoan scientist. Fugu has been a delicacy in Yamato for centuries: one that people have quite literally died to experience.\r\n\r\n//　それが世界に先駆けて大和人の手で成されたのは、\r\n//偶然ではなく必然というものだろう。\r\n//　河豚は大和人には古くから馴染みの深い食材だ。\r\n\r\n//　<RUBY text='・・・・・・・・・・'>死と背中合わせの美味</RUBY>として。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10131,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0200a01'>\r\n//《つ――つまり》\r\n《But fugu poison―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10285,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0210a00'>\r\n//（このまま放置すれば、すぐに死ぬな）\r\n(Is generally fatal.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10460,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0220a01'>\r\n//《解毒しないと！》\r\n《We have to get it out!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10621,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0230a00'>\r\n//（お前の<RUBY text='ちから'>機能</RUBY>でできるか？）\r\n(Can you do that?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10808,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0240a01'>\r\n//《……多分。\r\n//　全行動を停止して、数分掛ければだけど》\r\n《I think so. But it'll take a few minutes, and you'll have to hold perfectly still.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11084,
+  "en": "\r\n//　今すぐには実行不可能、という事である。\r\n//　現状を最大限楽観的に捉えても、そんな余裕が得ら\r\n//れるとは考え難い。\r\n\r\n  Not right now, in other words.\r\n\r\n//　テトロドトキシンはいまだ人工合成の成功例が無い\r\n//物質だ。敵はおそらく実際に河豚から抽出し、通常は\r\n//経口摂取されるそれを戦闘に適するよう加工した上で\r\n//使用しているのだろう。\r\n\r\n//　そこまでするような相手が――\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11619,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0250a00'>\r\n//（〝<RUBY text='タイム'>小休止</RUBY>〟の申請に耳を傾けてくれるとも\r\n//思えん）\r\n(I doubt they'll be willing to let us call a timeout.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11879,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0260a01'>\r\n//《減らず口叩いてる場合なの？》\r\n《This is not the time to be a smartass!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12074,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0270a00'>\r\n//（症状の進行を遅らせる事はできるか？）\r\n(Can you slow the spread?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12257,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0280a01'>\r\n//《……それくらいなら。\r\n//　でも、大して長くはもたないと思う》\r\n《...Yes, but not for long.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12485,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0290a00'>\r\n//（急いでけりをつけろ、と）\r\n(So I should hurry it up.)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12650,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0300a01'>\r\n//《ええ》\r\n《Please.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12781,
+  "en": "\r\n//　時間制限が設定されたという事だ。\r\n//　いや、それは元々あったようなものだが。\r\n\r\n  From the beginning, this battle has been a race against time. That hasn't changed. What has changed is that the penalty for running out the clock is my life, not only the prince's.\r\n\r\n//　タイムオーバーのペナルティは<RUBY text='たにん'>舞殿宮</RUBY>の身命に危険\r\n//が及ぶ可能性から、自分自身の確実な死へと変わった。\r\n//　\r\n//　……話がわかり易くなって、有難い事だ。\r\n  Honestly, that makes things much simpler. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13400,
+  "en": "\r\n//　定まったかに思われた勝負の趨勢はあっさりと覆り、\r\n//俺は窮地に立たされ、敵は見るからに勢いづいている。\r\n//　体躯が一回り大きくなったようにも見えた。\r\n\r\n  The tables have turned. Now holding a comfortable advantage, my enemy charges with redoubled fury.\r\n\r\n  Perhaps it is only fear which makes them seem to swell to twice their size. Even if it is, the threat their mass and velocity pose is very real indeed.\r\n\r\n//　それは俺の心理的後退が見せた幻覚に過ぎなかった\r\n//のかもしれない。\r\n//　しかし、突撃の速度と勢威の増大は目前に差し迫る\r\n//現実だった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14100,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc01/021vs0310b33'>\r\n//《き――ぐェックァァァァルァァァァァァ!!》\r\n《GWAHHHHHHHHHHHH!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14284,
+  "en": "\r\n//　敵の狂声は遂に言葉の体裁さえ失っている。\r\n//　極度の興奮のためか、それ以外の理由によるものか、\r\n//それはわからないし知った事でもない。\r\n  The enemy's vocalizations have finally lost all meaning. I don't know whether this signifies pure feral excitement or some deeper psychic break―nor do I care. My sole concern is the enemy's blade, heavy with steel and venom. \r\n\r\n//　対処すべきは敵騎の刃だけだ。\r\n//　重厚にして毒をも含むそれを如何に凌ごう。\r\n\r\n  To survive this pass, I must defeat that blade. A strong defense would seem in order, but as they say, sometimes a strong offense serves as well, or better.\r\n\r\n//　今はひとまず攻めよりも守りに専心せねばならない。\r\n//　無論、<RUBY text='・・・・・・・・'>守るために攻める</RUBY>という発想も有ろうが……。\r\n  Either way, my options fall into two categories: the mundane, and the supernatural.\r\n\r\n//　いずれにせよ手立ては大別して二種だ。\r\n//　<RUBY text='おもてわざ'>太刀業</RUBY>か、それとも――<RUBY text='うらわざ'>裏業</RUBY>か。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15485,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 15497,
+  "en": "Counter with swordsmanship",
+  "pt": ""
+ },
+ {
+  "offset": 15531,
+  "en": "10_2",
+  "pt": ""
+ },
+ {
+  "offset": 15543,
+  "en": "Counter with shinogi",
+  "pt": ""
+ }
+]

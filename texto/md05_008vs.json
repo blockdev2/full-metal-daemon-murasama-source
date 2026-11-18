@@ -1,0 +1,692 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　その数、八騎。\r\n\r\n//　白銀の甲鉄を輝かせながら虚空に踊り、\r\n//　毒素の思念を撒き散らす。\r\n\r\n//　銀星号の複製体である。\r\n//　それは間違いない。それは、間違いないのだが。\r\n  Eight musha have appeared before us. Eight silver devils, dancing to their own maddening beat.\r\n\r\n  More copies of Ginseigo, to be sure. But clearly that is not all they are.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 654,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0010a01'>\r\n//《ただの複製じゃない……。\r\n//　この八騎は<RUBY text='おや'>銀星号</RUBY>に匹敵する力を持ってる》\r\n《These eight are different. They have power to rival their mother's.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 966,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0020a00'>\r\n//「何故だ？」\r\n\"How is that possible?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1107,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0030a01'>\r\n//《多分、何か特別な造られかたをしたのよ。\r\n//　私の力を混ぜた〝卵〟に寄生された武者は、\r\n//以前の寄生体より強かったでしょう？》\r\n《They must have done something special when they made them. Like how adding my power to the last batch of eggs made the infected stronger.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1541,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0040a01'>\r\n//《それと同じように……》\r\n《I'm not sure what they did this time, but...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1733,
+  "en": "\r\n//　あの八騎の誕生にあたっては、銀星号から何らかの\r\n//特別な細工が施されたという事か。\r\n//　\r\n//　……厄介な！\r\n  So these eight are some kind of㉓<I>elite</I>㉓copy? This is the last thing we needed!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1995,
+  "en": "\r\n//【八剣姫Ａ】\r\n<voice name='八剣姫Ａ' class='その他女声' src='voice/md05/008vs0050c00'>\r\n//《あそぶ？》\r\n《Play with me?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2153,
+  "en": "\r\n//【八剣姫Ｂ】\r\n<voice name='八剣姫Ｂ' class='その他女声' src='voice/md05/008vs0060c01'>\r\n//《おどる？》\r\n《Dance with me?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2312,
+  "en": "\r\n//【八剣姫Ｃ】\r\n<voice name='八剣姫Ｃ' class='その他女声' src='voice/md05/008vs0070c02'>\r\n//《おかす？》\r\n《Rape with me?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2470,
+  "en": "\r\n//【八剣姫Ｄ】\r\n<voice name='八剣姫Ｄ' class='その他女声' src='voice/md05/008vs0080c03'>\r\n//《ころす？》\r\n《Kill with me?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2628,
+  "en": "\r\n//【八剣姫Ｅ】\r\n<voice name='八剣姫Ｅ' class='その他女声' src='voice/md05/008vs0090c04'>\r\n//《それとも、しぬ？》\r\n《Or maybe... die with me?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2809,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0100a00'>\r\n//「……っ」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2927,
+  "en": "\r\n//　この動き。\r\n\r\n//　この――<RUBY text='わざ'>術技</RUBY>！\r\n\r\n//　吉野御流合戦礼法。\r\n//　\r\n//　……光の使うそれに、酷似している。\r\n\r\n//　こんなものまで受け継いでいるのか!?\r\n 　These moves! These <I>techniques!</I>㉑ They're using the Yoshino-onryu.\r\n\r\n  <I>Hikaru's</I>㉓Yoshino-onryu!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3293,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0110a00'>\r\n//「お前達は――」\r\n\"What㉓<I>are</I>㉓you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3443,
+  "en": "\r\n//【八剣姫Ｆ】\r\n<voice name='八剣姫Ｆ' class='その他女声' src='voice/md05/008vs0120c05'>\r\n//《わたし？》\r\n《Me?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3591,
+  "en": "\r\n//【八剣姫Ｇ】\r\n<voice name='八剣姫Ｇ' class='その他女声' src='voice/md05/008vs0130c06'>\r\n//《わたし？》\r\n《Us?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3739,
+  "en": "\r\n//【八剣姫Ａ】\r\n<voice name='八剣姫Ａ' class='その他女声' src='voice/md05/008vs0140c00'>\r\n//《わたしは、ねぇ》\r\n《We're―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3901,
+  "en": "\r\n//【八剣姫Ａ】\r\n<voice name='八剣姫Ａ' class='その他女声' src='voice/md05/008vs0150c00'>\r\n//《<RUBY text='ファイヤーボーン'>〝炎の骨〟</RUBY>！》\r\n《Fire Bone!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4107,
+  "en": "\r\n//【八剣姫Ｂ】\r\n<voice name='八剣姫Ｂ' class='その他女声' src='voice/md05/008vs0160c01'>\r\n//《<RUBY text='スターホーン'>〝星の角〟</RUBY>！》\r\n《Star Horn!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4307,
+  "en": "\r\n//【八剣姫Ｃ】\r\n<voice name='八剣姫Ｃ' class='その他女声' src='voice/md05/008vs0170c02'>\r\n//《<RUBY text='キャッツクロー'>〝猫の爪〟</RUBY>！》\r\n《Cat's Claw!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4511,
+  "en": "\r\n//【八剣姫Ｄ】\r\n<voice name='八剣姫Ｄ' class='その他女声' src='voice/md05/008vs0180c03'>\r\n//《<RUBY text='テイルバイター'>〝尾を噛むもの〟</RUBY>！》\r\n《Tail Biter!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4724,
+  "en": "\r\n//【八剣姫Ｅ】\r\n<voice name='八剣姫Ｅ' class='その他女声' src='voice/md05/008vs0190c04'>\r\n//《<RUBY text='スカルペル'>〝肉を剥ぐもの〟</RUBY>！》\r\n《Scalpel!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4928,
+  "en": "\r\n//【八剣姫Ｆ】\r\n<voice name='八剣姫Ｆ' class='その他女声' src='voice/md05/008vs0200c05'>\r\n//《<RUBY text='シンギング・デス'>〝死を唄うもの〟</RUBY>！》\r\n《Singing Death!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5147,
+  "en": "\r\n//【八剣姫Ｇ】\r\n<voice name='八剣姫Ｇ' class='その他女声' src='voice/md05/008vs0210c06'>\r\n//《<RUBY text='ストームブリンガー'>〝嵐を導くもの〟</RUBY>！》\r\n《Storm Bringer!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5369,
+  "en": "\r\n//◆このＨのみ声質と口調が大きく違う\r\n//【八剣姫Ｈ】\r\n<voice name='八剣姫Ｈ' class='その他女声' src='voice/md05/008vs0220c07'>\r\n//《<RUBY text='ディス・イズ・ジ・エンド'>〝ここが境界線〟</RUBY>！》\r\n《I am The End of All Things!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5668,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0230a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5794,
+  "en": "\r\n//　その一瞬、察するものがあった。\r\n//　……こいつらは複製ではない。\r\n\r\n//　<RUBY text='カケラ'>欠片</RUBY>だ。\r\n\r\n//　<RUBY text='ひかる'>銀星号</RUBY>が自分自身を千切って生み出し、名を与えた\r\n//<RUBY text='もの'>存在</RUBY>なのだ。\r\n\r\n//　だからこそ<RUBY text='オリジナル'>原物</RUBY>に近い。\r\n\r\n//　同じほど強く、鋭く、<RUBY text='はや'>迅</RUBY>い！\r\n  And then it comes to me. These aren't copies.\r\n\r\n  They're <I>pieces</I>㉓of Ginseigo. Pieces of Hikaru. She tore them from herself and gave them flesh and steel.\r\n\r\n  That explains why they're so much closer to the original. Why they share her power, skill, and speed!\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6542,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0240a01'>\r\n//《敵騎群、<RUBY text='ひつじ'>二一〇度</RUBY>!!》\r\n《Pursuers! Seven o'clock!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6740,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0250a00'>\r\n//「ちィ――」\r\n\"Tch!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6864,
+  "en": "\r\n//　……精鋭八騎を前面に、後方からは支援砲撃。\r\n//　意図的な連携とも思えないが、戦術上の理に適って\r\n//いる。\r\n\r\n//　戦術において優ればこそ、寡兵が大軍を打ち負かす\r\n//事も有り得るのだ。\r\n//　互角程度の作戦行動をしていては、数の差が即座に\r\n//趨勢となって表れる。\r\n\r\n//　取り込められ、揉み潰されるだろう。\r\n//　\r\n//　\r\n//　責務を果たし終えることなく。\r\n\r\n//　戦うべき相手のもとへ、辿り着くことさえなく。\r\n  And now the swarm opens fire from the rear, threatening to crush us against these mighty eight.\r\n\r\n  Regardless of whether or not it was planned, this tactic is damnably effective. If the enemy can match my capabilities, then the numerical advantage becomes decisive.\r\n\r\n  Disaster looms. The failure of my mission. I haven't even reached my true enemy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7807,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0260a00'>\r\n//（そんな最期は）\r\n(Will I die here?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7949,
+  "en": "\r\n//　そんな無責任な終わりは……\r\n  My duty unfulfilled?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8029,
+  "en": "\r\n//　誰よりも俺が、<?>\r\n  No.<K>\r\n<?>",
+  "pt": ""
+ },
+ {
+  "offset": 8083,
+  "en": "\r\n//俺に対して許さない!!\r\n  I won't allow it!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8147,
+  "en": "\r\n//　突破する。\r\n\r\n//　このまま、あの山頂へ――――\r\n  If I can just... break through...!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8268,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0270a01'>\r\n//《御堂、後ろからっ!!》\r\n《Behind us!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8422,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0280a00'>\r\n//「……っっァァアアアア!!」\r\n\"RRRRRAAAAHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8578,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0290a01'>\r\n//《――――え？》\r\n《What?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8719,
+  "en": "\r\n//　背後まで肉薄していた敵騎が、<k>\r\n//　\r\n//　……撃墜された？\r\n\r\n//　誰に？\r\n  The enemies chomping at our tail fell just before they could strike.\r\n\r\n  But who shot them down?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8938,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0300a01'>\r\n//《今の射撃…………覚えがある》\r\n《I know those arrows.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9115,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0310a00'>\r\n//「村正？」\r\n\"Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9241,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0320a01'>\r\n//《大鳥香奈枝よ》\r\n《It's Otori Kanae.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9394,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0330a00'>\r\n//「大尉だと？」\r\n\"Captain Otori?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9531,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0340a01'>\r\n//《ええ。あそこ！》\r\n《Look. Over there!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9687,
+  "en": "\r\n//　空の一角に、<RUBY text='サジタリウス'>弓騎士</RUBY>の姿があった。\r\n\r\n//　甲鉄は<RUBY text='オリハルコン'>輝彩甲鉄</RUBY>か。\r\n//　複製達とは明らかに違う輝きを誇示しつつ、<RUBY text='バレル'>翼筒</RUBY>の\r\n//排気音を鳴り響かせている。\r\n  There, behind and above the swarm. A knight wielding a mighty bow, like Sagittarius of legend.\r\n\r\n  That armor. Orichalcum? The distinctive shine of that metal sets it apart from the silver copies below.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10224,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0350a03'>\r\n//《お久しぶり、景明さま》\r\n《How nice to see you again, darling.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10410,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0360a00'>\r\n//《大鳥大尉！\r\n//　……本当に貴方でしたか》\r\n《Captain! Is it really you?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10603,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0370a03'>\r\n//《こんな美女がこの世に二人といるとお思い\r\n//ですの？》\r\n《Do you know any other women this beautiful?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10840,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0380a01'>\r\n//《顔、見えないから》\r\n《You realize we can't see you, right?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11018,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0390a00'>\r\n//《大尉が<RUBY text='クルセイダー'>武者</RUBY>であられたとは露知らず……。\r\n//　何故、劒冑をお持ちなのです？》\r\n《I had no idea you were a knight. How did you come by that tsurugi?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11341,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0400a03'>\r\n//《それは――》\r\n《Well...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11484,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0410a00'>\r\n//《は》\r\n《Yes?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11603,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0420a03'>\r\n//《乙女のヒミツです》\r\n《Would you believe I used my feminine wiles?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11791,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0430a00'>\r\n//《そうですか》\r\n《Yes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11922,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0440a03'>\r\n//《……流された……》\r\n《...Was I wrong to hope for more of a reaction?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12113,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0450a01'>\r\n//《それよりも貴方、どうしてこんなところに\r\n//いるの？\r\n//　偶然にしてはあんまり出来過ぎよ》\r\n《Forget about the tsurugi. What are㉒<I>you</I> doing here? This can't be a coincidence.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12444,
+  "en": "\r\n//　言えている。\r\n//　とてもの事、たまたま通りがかったのだという説明\r\n//で納得できるような場所ではない。\r\n  An excellent point. One does not simply㉓<I>find</I>㉒oneself on a battlefield like this one.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12706,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0460a03'>\r\n//《お二人だって気紛れでここにいらっしゃる\r\n//わけではないでしょう？》\r\n《Well, why are you two here? Not to enjoy the view, I'm sure.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12981,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0470a01'>\r\n//《……理由は同じってこと？》\r\n《You're saying our goals are the same?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13172,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0480a03'>\r\n//《お空の太陽がふたつに増えた途端、世界が\r\n//おかしくなり始めた。\r\n//　まともな頭と多少の余裕さえあれば、そこ\r\n//に因果関係があることくらい想像できます》\r\n《A second sun appears in the sky, and the world descends into chaos. It doesn't take genius to make the connection, only a little space to breathe.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13655,
+  "en": "\r\n//　そうか。\r\n//　それで香奈枝嬢も、太陽が降りた先――富士山頂を\r\n//目指して……。\r\n  Ah. So she too is headed for Fuji.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13823,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0490a03'>\r\n//《あの方も同じではありませんかしら》\r\n《Something tells me㉓<I>she'll</I> say the same thing.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14046,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0500a00'>\r\n//《あの方？》\r\n《Pardon?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14177,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0510a03'>\r\n//《ほら、あちらの。\r\n//　一条綾弥さん》\r\n《Over there. Miss Ichijo Ayane.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14377,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0520a02'>\r\n//《綾弥一条だっっっ!!》\r\n《It's AYANE ICHIJO!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14533,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0530a00'>\r\n//《……一条!?》\r\n《Ichijo!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14667,
+  "en": "\r\n//　別方角からこちらへ狙点を定めていた複製騎の群が、\r\n//墜ちてゆく。\r\n//　ただ一騎に猛襲され、薙ぎ払われ、掃討されて。\r\n\r\n//　濃藍色の、一目で古き名物と知れる劒冑。\r\n//　\r\n//　あれは――そうだ。俺はあれを、一度見ている。\r\n\r\n//　汚染されている最中の事であったが、記憶は消えて\r\n//いない。\r\n//　建朝寺で一条が装甲し、あの武者形になってみせた。\r\n\r\n//　彼女までここへ来たのか。\r\n  A second musha barrels onto the battlefield, smashing aside a squad of copies who were about to open fire.\r\n\r\n  I've seen that tsurugi before. Though I was under Ginseigo's influence at the time, I still retain those memories.\r\n\r\n  Deep blue, shining with ancient majesty. It's the same tsurugi that Ichijo summoned at Kenchoji.\r\n\r\n  So she's here too.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15573,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0540a03'>\r\n//《あら、わたくしとしたことがうっかりミス。\r\n//　ごめんなさいね、綾弥ちゃん》\r\n《Oh, I'm so sorry. You'll forgive me, won't you? Little Miss Ichijo.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15867,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0550a02'>\r\n//《なんで名字にちゃん付けするんだよ!?》\r\n《That's not any better!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16051,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0560a01'>\r\n//《貴方……私達を助けるの？》\r\n《You're... here to help us?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16231,
+  "en": "\r\n//　村正の声には驚きがあった。\r\n//　一条がここに来た事よりも、助勢した事が腑に落ち\r\n//ないらしい。\r\n  Muramasa seems surprised, and not so much by Ichijo's presence as by the thought that she would take our side.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16499,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0570a02'>\r\n//《……勘違いするなよ。\r\n//　そんなつもり、さらさら<RUBY text='ね'>無</RUBY>え》\r\n《Don't get the wrong idea. I'm not here to save you or anything like that.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16784,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0580a01'>\r\n//《どういうこと？》\r\n《Then why㉗<I>are</I>㉓you here?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16956,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0590a02'>\r\n//《へっ。\r\n//　一言で言ってやろうか――》\r\n《Heh. Simple. I'm―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17139,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0600a03'>\r\n//《貴様を倒すのはこのオレだ!!》\r\n《I'm the only one allowed to defeat you!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17337,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0610a01'>\r\n//《は？》\r\n《Huh?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17465,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0620a02'>\r\n//《違うよっ!!\r\n//　いや、大体そうだけど!!》\r\n《Wrong! Well, maybe not <I>wrong...</I> but still!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17679,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0630a00'>\r\n//《一条……？》\r\n《...Ichijo?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17816,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0640a02'>\r\n//《……湊斗さん。\r\n//　あなたには訊きたいこと、確かめたいこと\r\n//があるんです》\r\n《...There's something I need to ask you. Something I need to know.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18100,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0650a02'>\r\n//《だからまだ、死んでもらっては困ります。\r\n//　……こう言えば、あたしの言いたいこと、\r\n//もうわかるんじゃないですか？》\r\n《I can't let you die before I get my answer.\r\n  You know what I'm talking about... don't you?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18471,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0660a00'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18601,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0670a02'>\r\n//《湊斗さん――》\r\n《Sir, I―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18740,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0680a03'>\r\n//《貴様を倒すのはこのオレだ!!》\r\n《I'm the only one allowed to defeat you!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18938,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0690a02'>\r\n//《しつこい!!　黙れ!!　恥ずかしいっ!!》\r\n《Stop that! It's fucking embarrassing!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19135,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0700a00'>\r\n//《一条》\r\n《Ichijo...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19262,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0710a02'>\r\n//《……ですから、後で》\r\n《...Later. After this is over.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19430,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0720a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19566,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0730a03'>\r\n//《熱血展開も結構ですが。\r\n//　そろそろ、差し迫ってる現実に向き合いま\r\n//せんこと？》\r\n《If the two of you are done with your manly bonding ritual, perhaps we could deal with the problem at hand?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19909,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0740a02'>\r\n//《わかってら。\r\n//　あと、熱血してたのはてめぇ一人だからな》\r\n《Yeah, yeah. And hey! You're the one who was making it weird!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20163,
+  "en": "\r\n//【八剣姫Ａ】\r\n<voice name='八剣姫Ａ' class='その他女声' src='voice/md05/008vs0750c00'>\r\n//《ふえた？》\r\n《More?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20313,
+  "en": "\r\n//【八剣姫Ｂ】\r\n<voice name='八剣姫Ｂ' class='その他女声' src='voice/md05/008vs0760c01'>\r\n//《ふえた？》\r\n《More!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20463,
+  "en": "\r\n//【八剣姫Ｃ】\r\n<voice name='八剣姫Ｃ' class='その他女声' src='voice/md05/008vs0770c02'>\r\n//《ふたつ、ふえた》\r\n《Two more!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20626,
+  "en": "\r\n//【八剣姫Ｄ】\r\n<voice name='八剣姫Ｄ' class='その他女声' src='voice/md05/008vs0780c03'>\r\n//《みっつになった》\r\n《That makes three!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20797,
+  "en": "\r\n//【八剣姫Ｅ】\r\n<voice name='八剣姫Ｅ' class='その他女声' src='voice/md05/008vs0790c04'>\r\n//《さんばい！》\r\n《Three times more!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20962,
+  "en": "\r\n//【八剣姫Ｆ】\r\n<voice name='八剣姫Ｆ' class='その他女声' src='voice/md05/008vs0800c05'>\r\n//《さんばい、あそべる！》\r\n《Three times the fun!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21145,
+  "en": "\r\n//　当然であろうが、敵群に怯む様子など無かった。\r\n//　陣列も何もなく、一直線に突き進んでくる。\r\n\r\n//　ここまで到達するのはすぐだろう。\r\n  Naturally, the eight are undaunted. They charge like a pack of ravenous hyena racing to the kill. They'll be on us in a matter of moments.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21496,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0810a03'>\r\n//《どうしたものでしょうね。\r\n//　あのぴかぴか眩しい団体さんはやる気満々》\r\n《Well, this㉓<I>is</I>㉓a pickle. These ladies seem awfully eager to play.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21792,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0820a03'>\r\n//《でもこちらとしては、一刻も早く富士山へ\r\n//辿り着きたい……》\r\n《But we need to get to Fuji as quickly as possible...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22050,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0830a02'>\r\n//《まぁな。\r\n//　どう見たって本命はあっちだ》\r\n《Yeah. That's where the real action is.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22258,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0840a01'>\r\n//《策があるの？》\r\n《Got a plan?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22405,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0850a03'>\r\n//《事を割り切れば、方針は二つの内どちらか\r\n//です。\r\n//　戦力を集中するか、分けるか》\r\n《When you get right down to it, we have only two choices. Either we concentrate our forces, or divide them.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22748,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0860a02'>\r\n//《どっちがいい》\r\n《Which is better?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22894,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0870a03'>\r\n//《妥当な道を取るなら、集中でしょうね。\r\n//　わたくし達の力を合わせてこの大軍を撃破、\r\n//しかるのち富士山の上のお日様モドキも粉砕\r\n//する》\r\n《Prudence would dictate the former. We combine our strength to overcome the demonic army, then shatter their god upon the peak of Mount Fuji.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23350,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0880a03'>\r\n//《世界は平和を取り戻し、わたくし達は伝説\r\n//となり、肩を組んで笑いながら美しい朝日を\r\n//いつまでも眺める――》\r\n《Peace is restored, we are greeted as heroes, and then we join hands to gaze off into the sunset.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23722,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0890a01'>\r\n//《……いつまでも？》\r\n《...Forever?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23875,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0900a03'>\r\n//《そのうちフェードアウトして『完』の文字\r\n//が出ますからそれまでで結構です》\r\n《Not to worry, dear. Only until the credits roll.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24150,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0910a02'>\r\n//《出ねえよ。\r\n//　……まぁ、そう言われると簡単そうに聞こ\r\n//えるけど》\r\n《What credits? ...Well, I <I>guess</I>㉓that could work.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24413,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0920a02'>\r\n//《実は無理だろ》\r\n《For anyone else.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24559,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0930a00'>\r\n///《無理があるな……》\r\n《Yes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24700,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs0940a01'>\r\n//《無理だと思う》\r\n《Anyone but us.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24850,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0950a03'>\r\n//《えっ、なぜ!?\r\n//　この方針なら、勝敗はこちら三騎の団結力\r\n//次第――鋼の友情と絆を誇るわたくし達には\r\n//打って付けの作戦ですのにっ！》\r\n《What!? Why!? We have everything we need! Trust, camaraderie, a common cause! Nothing can defeat the bonds we share!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25277,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0960a03'>\r\n//《……ふぅ。強引な冗談は疲れます》\r\n《...Phew. Forcing that joke took a lot out of me.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25491,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs0970a02'>\r\n//《聞く方もな》\r\n《Imagine how it feels on this end.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25651,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs0980a03'>\r\n//《というわけで、江ノ島でほぼ実情が露呈し\r\n//ているわたくし達の結束に勝負を託すなんて\r\n//ちゃんちゃらおかしいっていうかへそで茶が\r\n//沸きますから、ここは現実的に考えましょう》\r\n《Yes, well. As we demonstrated so effectively on Enoshima, it's foolish to expect us to work together. In fact, I'd go so far as to call the idea preposterous.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26179,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs0990a00'>\r\n//《戦力を分ける……\r\n//　役割分担ですか》\r\n《So we divide our forces.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26367,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs1000a03'>\r\n//《ええ》\r\n《Yes.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26498,
+  "en": "\r\n//　分担の内容は確かめる程のこともない。\r\n//　二手に分かれ、一方はここで複製連隊を足止めし、\r\n//残り一方は富士山頂の<RUBY text='ぎょく'>玉</RUBY>を討つ。\r\n\r\n//　それ以外に考えようは無かった。\r\n//　思案の余地は、誰がどの役を担当するかの点にある。\r\n  The plan itself needs no discussion. We will split into two groups, one to keep these enemies occupied while the other deals with the god on Mount Fuji.\r\n\r\n  The question is who will perform which task.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27065,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs1010a03'>\r\n//《わかったら、お行きなさいませ。\r\n//　景明さま》\r\n《You'd best go, darling.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27273,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs1020a00'>\r\n//《……大尉？》\r\n《...Captain?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27411,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs1030a03'>\r\n//《わたくしも一条さんも、物を見る目と状況\r\n//を判断する頭は持ってましてよ。\r\n//　富士山頂で待つものと戦うに相応しいのは\r\n//誰なのか、そのくらいはわかります》\r\n《This young lady and I are smarter than you think. We know who among us is best equipped to defeat that monster.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27865,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs1040a03'>\r\n//《ねぇ？》\r\n《Don't we?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28004,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs1050a02'>\r\n//《……ちっ》\r\n《...Tch.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28135,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs1060a00'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28265,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs1070a03'>\r\n//《ここに銀星号の複製が群れをなしていると\r\n//いうことは、山頂のあれはその親玉……\r\n//　景明さまが長いこと追ってこられた相手》\r\n《With Ginseigo's copies here, it seems safe to assume that your true enemy is up there.》\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28650,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs1080a03'>\r\n//《違いまして？》\r\n《Or am I wrong?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28803,
+  "en": "\r\n//　その通りだ。\r\n//　<RUBY text='・・'>あれ</RUBY>と戦う責務は誰にも委ねられるものではない。\r\n\r\n//　しかし今、それを認めるという事は――\r\n//　二人をこの敵群の只中へ置き去るという事であり。\r\n  No. She's absolutely right. Hikaru is up there, and that makes this fight my duty. I'll not cede it to anyone.\r\n\r\n  But to admit that here is to leave these two behind to fight against hopeless odds.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29283,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs1090a02'>\r\n//《湊斗さん。\r\n//　気が進まないなら、あたしが代わります》\r\n《I can do it, if you don't want to.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29505,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs1100a00'>\r\n//《……》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29629,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs1110a01'>\r\n//《……御堂、どちらでも同じよ》\r\n《...It's risky either way, Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29817,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/008vs1120a01'>\r\n//《いえ、多分山頂のあれと戦わせる方が――》\r\n《If anything, that monster up there is probably―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30041,
+  "en": "\r\n//　わかっている。\r\n//　同じ脅威でも、脅威の程と質がほぼ把握できている\r\n//複製連隊より、全く未知の〝神〟の方が危険は大きい\r\n//であろう。\r\n  The greater danger, yes.\r\n\r\n  The swarm is a known quantity. However deadly the threat they present, at least we can see it coming. The second sun, however, is a mystery. There's no telling what it can do.\r\n\r\n//　そう思う。\r\n\r\n//　また、綾弥一条と大鳥香奈枝大尉、この二人にして\r\n//みれば今さら俺などに保護者よろしく身を案じられる\r\n//など笑止であろう。\r\n//　実際、烏滸がましい事に違いない。\r\n\r\n//　そうも思う。\r\n\r\n//　……だが。\r\n//　理屈では納得できても、理屈を超えた部分では――\r\n\r\n//　この二人を、見捨てる、という事実が……\r\n  It is safer for the captain and Ichijo to remain. And besides, I am not their guardian. They can take care of themselves, and would no doubt resent any implication to the contrary. There is no reason not to leave them behind.\r\n\r\n  And yet, at a level beyond reason, I cannot help but feel that I would be abandoning them.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31243,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs1130a00'>\r\n//《――――》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31373,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs1140a00'>\r\n//《行きます》\r\n《Keep them off me.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31514,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md05/008vs1150a02'>\r\n//《はい》\r\n《Will do.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31640,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md05/008vs1160a03'>\r\n//《お早く》\r\n《Quickly now.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31782,
+  "en": "\r\n//　味も素っ気もない一言だけの挨拶を最後に、俺達は\r\n//互いから視線を外した。\r\n//　三者三様、戦場に向き合う。\r\n\r\n//　綾弥一条。大鳥香奈枝。\r\n//　……俺は二人をこの場に残す。\r\n\r\n//　複製連隊との戦力差は、どう考えても絶望的だ。\r\n//　二人が生き残る確率は、零に近いだろう。\r\n\r\n//　それを承知の上で、行く。\r\n//　二人を見捨てる。\r\n\r\n//　……迷うべきではない。\r\n\r\n//　俺は既に見捨てているのだ。\r\n//　幾人も。幾人も。\r\n\r\n//　先刻も、一人の子供を見捨てて死なせた。\r\n\r\n//　その決断が必要なのだと信じて。\r\n\r\n//　――<RUBY text='・・・'>だから</RUBY>。\r\n//　今も、見捨てる。\r\n\r\n//　見捨てなければ。\r\n\r\n  And that is how we say our farewells―with a word, a nod, a flick of the hand. Perhaps that is all we meant to each other.\r\n\r\n  A part of me still wants to stay. Here, they are facing near-certain death. The swarm is far too large to defeat.\r\n\r\n  But no. I must leave them to that fate, just as I did the child in the village, and many others before him.\r\n\r\n  I told myself that it was necessary, that their deaths would serve the greater good. I can do no less now.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33094,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/008vs1170a00'>\r\n//「――――――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33232,
+  "en": "\r\n//　行く。\r\n\r\n//　残す言葉は何も無い。\r\n//　謝罪も感謝も、俺の口から価値ある言葉として吐き\r\n//出す事はできないのだと、痛切に知っていた。\r\n  There is nothing more to say. No words of gratitude or regret that would be worth the air I'd expend.\r\n\r\n  Onward then. To Fuji.\r\n\r\n",
+  "pt": ""
+ }
+]

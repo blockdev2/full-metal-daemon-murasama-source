@@ -1,0 +1,67 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　風が吹き<RUBY text='すさ'>荒</RUBY>ぶ。\r\n//　密集して襲う雨の圧力は、砂嵐も同然だ。\r\n\r\n//　鉄の<RUBY text='からだ'>騎体</RUBY>が木の葉のように、右へ左へ、見えざる手\r\n//の命ずるまま激しく危うく踊り狂う。\r\n//　背景を彩るつもりか、轟く雷鳴――\r\n  We emerge in the midst of a storm. Sheets of rain beat against my armor as lightning crackles all around us. I struggle to regain some measure of control amid the howling winds.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 743,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0130010a00'>\r\n//「今度は暴風雨の真ん中か！」\r\n\"Did it have to be a hurricane!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 916,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0130020a01'>\r\n//《一応断っておくけど、私が行先を選んでる\r\n//わけじゃないからねーっ！》\r\n《Don't blame me, okay!? I don't pick where we end up!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1181,
+  "en": "\r\n//　言っても詮無い苦情と、言うまでもない弁明を応酬\r\n//する俺と村正。\r\n//　無論のこと心理的余裕の表れではなく、どちらかと\r\n//いえばその反対であった。\r\n\r\n//　……もう少しましな時空間へ飛ばしてくれ。\r\n//　それが無理なら、せめてさっさと次の時空間へ連れ\r\n//出して欲しい。\r\n\r\n//　届け先のない要望を胸中で弄り回す以外、何もする\r\n//事がなかった。\r\n//　戦場の王たる武者も、自然現象にはまるで無力だ。\r\n\r\n//　早く修正力が働いてくれないものか。\r\n  I'm well aware.\r\n\r\n  Meaningless banter, though it serves to distract somewhat from the terror. Even musha, who rule the skies, are helpless against nature's fury.\r\n\r\n  If there is a will guiding this ridiculous journey, I should sorely like it to dump us somewhere more pleasant.\r\n  But clearly it does not have our comfort in mind. All we can do is wait and endure and pray for the corrective force to save us.\r\n\r\n  Any second now, I'm sure.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2266,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0130030a01'>\r\n//《御堂！\r\n//　ねえ、あれ見て！》\r\n《Mido! Look down there!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2444,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0130040a00'>\r\n//「下？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2561,
+  "en": "\r\n//　目をやる。\r\n//　そうして初めて気付いたが、下にあるのは陸地では\r\n//なく海だった。\r\n\r\n  I look down. Only then do I realize that we are above the ocean.\r\n  And there, upon the storm-tossed waves, I see a rectangular shape.\r\n\r\n//　空に負けず荒れ狂っている海面を、さほど大きくも\r\n//ない船が漂っている。<k>\r\n//　\r\n//　船…………<k>{FadeDelete('船', 1000, false);}船？\r\n  A ship?<K><?>",
+  "pt": ""
+ },
+ {
+  "offset": 3035,
+  "en": "\r\n No, a boat, but unlike any I've ever seen. Its lines are sleek, refined. The technology that built it is years, if not decades, ahead of anything I know.\r\n\r\n\r\n//　船には違いない。\r\n//　だが、あのような形状の船は見たことがない。\r\n\r\n//　俺の知るどんな船舶より、洗練された――先進的な\r\n//構造をしている。\r\n//　\r\n//　……ここは、未来か!?\r\n\r\n  If that castle was the past, could this be the future?\r\n\r\n  If so, perhaps I should take heart in this sighting, for the presence of this boat suggests that the Konjin does not destroy the world.\r\n\r\n//　先刻の古城は現在ないし過去と思えたが。\r\n//　あの船から推し量るに、この時空間は俺の時代より\r\n//やや――数年か数十年か――時間の進んでいる世界と\r\n//思しい。\r\n\r\n//　真実そうなら、何よりの事だ。\r\n//　人類世界が〝神〟に滅ぼされなかったという証左に\r\n//なる――<k>が、本当に未来なのかは知れたものではない\r\n//し、<RUBY text='・・・・・・・'>有り得ない未来</RUBY>に飛ぶ事もあるかもしれない。\r\n\r\n//　現状は既に俺の理解を脱しているのだ。\r\n\r\n  Unless, of course, this is an alternate future, one that will never come to pass. Do such things exist?\r\n\r\n  Never mind. Best focus on the problem at hand.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4435,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0130050a01'>\r\n//《あの船……沈みそうね？》\r\n《It looks like they're going down.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4617,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0130060a00'>\r\n//「そうだな……今にも」\r\n\"You're right. They don't have long.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4785,
+  "en": "\r\n//　優れた船なのだろうが、今は笹船と変わらない。\r\n//　波の暴虐にただ弄ばれている。\r\n\r\n//　助ける、という選択は脳内から排除した。\r\n//　それは確実に、この世界への深い関与となるだろう。\r\n\r\n//　手を出すべきではない。\r\n//　この時空間の事はこの時空間の人間の預かりだと、\r\n//思い捨てるしかない……。\r\n\r\n//　だが、別の観点からの考えもあった。\r\n\r\n//　暴風雨の中に留まること自体、この世界との関わり\r\n//だと言えばそうだ。\r\n//　待っている間に姿勢制御を失い、墜落する可能性も\r\n//ある。\r\n\r\n//　あの船の中に入れば、ひとまず雨風は凌げるだろう。\r\n//　あるいはそれが、最もこの時空間の事象と関わりを\r\n//持たなくて済む方法か……？\r\n\r\n//　さて、どうする。\r\n  Advanced though the boat may be, it is no match for the wrath of the storm.\r\n\r\n  Rescuing the crew is out of the question. That would surely constitute a significant impact on the timeline.\r\n\r\n  Their fate belongs to them. I mustn't get involved.\r\n\r\n  But then, given my present position, could one not say I'm㉓<I>already</I>㉔involved? The storm has me in its grip, and threatens to dash me from the sky even now.\r\n\r\n  That boat could provide some shelter from the lashing wind and rain, at least long enough for the corrective force to do its job, perhaps.\r\n\r\n  What should I do?\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6301,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 6325,
+  "en": "10_2",
+  "pt": ""
+ }
+]

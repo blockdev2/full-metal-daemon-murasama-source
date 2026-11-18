@@ -1,0 +1,387 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　何故、生きているのだろう。\r\n\r\n//　何故、歩いているのだろう。\r\n\r\n//おがみ：シナリオ修正\r\n//　ここは何処だのだろう。\r\n//　ここは何処なのだろう。\r\n\r\n//　わからない。\r\n\r\n//　何だか、わからない事ばかりだ。\r\n\r\n//　いつの間にか脳味噌が抜け落ちたらしい。\r\n\r\n//　拾いに行こうか……。\r\n  Why am I here?\r\n\r\n  Why am I㉓<I>here?</I>㉓Where even is this place?\r\n\r\n  I know so little. My brain... I must have dropped it somewhere. Perhaps I should go looking.\r\n\r\n  ...No. It's done me no good. I'm better off without it.\r\n\r\n//　いや、いい。\r\n//　どうせ大して役に立たないものだ。\r\n\r\n//　放っておけ。\r\n\r\n//　余計なものなんて無い方が軽くていい。\r\n\r\n//　そうに決まってる。\r\n\r\n//　ところで、ここは何処だ？\r\n\r\n//　見覚えがあるような無いような。\r\n\r\n//　人がいる。\r\n//　訊いてみるか。\r\n  Where am I? I feel like I should recognize the place.\r\n\r\n  Perhaps that man will tell me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1305,
+  "en": "\r\n//◆泥酔中\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100010a00'>\r\n//「失礼。\r\n//　脳味噌を探してるんですが知りませんか？」\r\n\"Pardon me... Have you seen my brain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1536,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100020e109'>\r\n//「お前ら、なんでこんな時間にうろうろして\r\n//やがるんだ？　ああァ!?\r\n//　やっぱり怪しい奴らだ……」\r\n\"Hey! What're you all doing skulking around after dark!? I knew you were up to no good!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1904,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100030e110'>\r\n//「橋を壊しただけじゃ足りないのか。\r\n//　今度は何をやるつもりだった!?」\r\n\"Spit it out! What're you planning!? Gonna knock down a house like you knocked down our bridge!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2241,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100040e227'>\r\n//「違う！\r\n//　俺達も、怪しい奴がいないか見回ってたん\r\n//だよ」\r\n\"We're keeping a lookout, just like you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2509,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0100050e228'>\r\n//「橋を壊した奴が出て来たら、捕まえようと\r\n//思って……」\r\n\"We're gonna find whoever did the bridge and turn him in to the cops!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2799,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100060e109'>\r\n//「はっ。捕まるわけねえだろ。\r\n//　犯人が犯人を捜してるんじゃなァ！」\r\n\"You? That's rich! Pretending like it wasn't you that did it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3099,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100070e227'>\r\n//「だから、本当に違うんだ！\r\n//　俺達はやってない！」\r\n\"How many times do we have to say it!? It wasn't us!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3366,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100080e110'>\r\n//「白々しい。\r\n//　お前らでなけりゃ誰がやるんだよ！」\r\n\"Well who else is there? Huh!? Tell me that!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3625,
+  "en": "\r\n//　……むう。\r\n//　何か立て込んでいるようだ。\r\n\r\n//　人は十人近くもいるが、言い合うのに忙しくて誰も\r\n//俺の話を聞いてくれない。\r\n  Damn. He's occupied. And so are the dozen or so people around him.\r\n\r\n  This won't do. I'm at a crossroads, that palmreader said. I need their help to decide whether to find my brain, or god and my five hundred yen. Without one or the other, how will I ever restore the Northern Court?\r\n\r\n\r\n//　これはいかん。\r\n//　手相によればここは人生の分岐点なのだ。\r\n\r\n//　是が非でも彼らに話を聞いて脳味噌を捨てるか神に\r\n//払った五百円を取り戻すか決めなくてはならない。\r\n\r\n//　全ては北朝復興のため……。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4405,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100090a00'>\r\n//「道をお尋ねします。\r\n//　神か、脳味噌か、涅槃か地獄へ」\r\n\"Pardon me... Could you show me the way to God, or my brain, or nirvana... or maybe hell?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4675,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100100a00'>\r\n//「ああ、自分でも結構です。\r\n//　あれです。自分探し」\r\n\"Or perhaps you could point me in the direction of myself... I'm trying, you see. To find myself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4947,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100110e227'>\r\n//「は？」\r\n\"Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5103,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0100120e228'>\r\n//「何だよあんた……\r\n//　うわっ、酒臭え！」\r\n\"Who the―holy shit! Smells like a fucking saloon!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5354,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100130a00'>\r\n//「何故でしょう。\r\n//　誰も酔ってはいないようですが」\r\n\"How odd... None of you seem drunk.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5564,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100140e110'>\r\n//「……おい。誰だよ、こんな酔っ払い連れて\r\n//来たのは」\r\n\"Hey. Who's this drunk <br>with?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5814,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100150e109'>\r\n//「知らねえって。\r\n//　勝手に寄って来たんだろ？」\r\n\"Never seen him before. I'd say he just showed up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6073,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0100160e228'>\r\n//「なぁ、あんた。\r\n//　悪いけど今、取り込み中でさ」\r\n\"Hey buddy. We're kinda busy here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6319,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100170a00'>\r\n//「そうです。取り込んでいるのです。\r\n//　自分がなぜ生きているのかわかりません」\r\n\"Yes... I'm very busy. I don't know why I'm alive.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6583,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100180a00'>\r\n//「何方かご存知ではないでしょうか？\r\n//　願わくばご教示を賜りたく」\r\n\"Do you gentlemen know? Perhaps you'd be so kind... as to point me in the right direction.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6869,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100190e110'>\r\n//「やけに丁寧な酔っ払いだな……」\r\n\"Y'know, for a drunk, he's awfully polite.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7098,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100200e109'>\r\n//「あー、こんなのはどうでもいい！\r\n//　とにかくお前ら！　橋のことを忘れる気は\r\n//ねえからな」\r\n\"Forget about him! You listening, you lot!? That bridge is on all of you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7444,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100210e227'>\r\n//「だから、俺達は――」\r\n\"It wasn't―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7629,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100220a00'>\r\n//「橋とは何ですか」\r\n\"I'm sorry... What bridge?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7781,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0100230e228'>\r\n//「いや……ほら。そこの川に落ちてるだろ。\r\n//　壊されて、渡れないんだよ」\r\n\"Huh? Oh. Can't you see? The bridge is broken.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8072,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100240a00'>\r\n//「成程。これはいけません。\r\n//　しかし自分が思うに――端を渡れないなら\r\n//フォークかスプーンを渡れば良いのではない\r\n//かと」\r\n\"That's... terrible! Have you tried using forks and spoons instead?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8418,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0100250e228'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8576,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100260e227'>\r\n//「相手するなよ……」\r\n\"Just ignore the poor bastard...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8777,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100270e110'>\r\n//「あの橋はな、俺達の生活に必要だったんだ」\r\n\"We needed that bridge to make a living!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9019,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100280e109'>\r\n//「このままで済ませてたまるか。\r\n//　弁償しやがれ！」\r\n\"This is your fault. So you're gonna pay!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9275,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100290e227'>\r\n//「弁償って……そんな」\r\n\"What!? We don't have that kind of money!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9488,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100300e109'>\r\n//「できないってんなら――」\r\n\"If you don't got the money―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9696,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100310a00'>\r\n//「フォークを」\r\n\"Pay in forks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9830,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100320e227'>\r\n//「フォーク？」\r\n\"Forks?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9997,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100330e109'>\r\n//「お前ら全員、追い出すまでだ！」\r\n\"Then we're kicking you out!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10212,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100340a00'>\r\n//「フォークで」\r\n\"With forks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10344,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100350e227'>\r\n//「フォークで!?」\r\n\"Forks!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10514,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100360e109'>\r\n//「誰と話してんだよ！\r\n//　っていうか、邪魔だからあっち行ってろ、\r\n//酔っ払い!!」\r\n\"Enough with the forks! Will you get your drunk ass lost already!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10834,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100370a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10953,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100380e109'>\r\n//「お前だよ！　きょろきょろすんなっ！」\r\n\"Yeah, that's right! I'm talking to you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11189,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100390a00'>\r\n//「自分は酔っていませんが」\r\n\"I'm not drunk.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11342,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100400e109'>\r\n//「どう見ても酔ってるよ！」\r\n\"You're totally wasted!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11543,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100410a00'>\r\n//「何と。\r\n//　自分は酔っていたのですか……」\r\n\"Oh... I'm sorry. I didn't realize.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11741,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100420a00'>\r\n//「ではもう少し、酔っ払いらしく振舞った方\r\n//が良いですね」\r\n\"Should I behave in a more drunken manner?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11967,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100430e109'>\r\n//「充分だっっ!!」\r\n\"You're good!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12142,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100440e110'>\r\n//「おい、構うなって」\r\n\"Hey, you're the one who said forget him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12352,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100450e109'>\r\n//「わかってる。\r\n//　……いいか。もう一度言っとく」\r\n\"Right, right. Listen up! This is the last time I'll say it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12624,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100460a00'>\r\n//「はい」\r\n\"Yes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12740,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100470e109'>\r\n//「お前にじゃねえよっ！」\r\n\"I wasn't talking to you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12940,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100480e110'>\r\n//「だからさ……」\r\n\"For fuck's sake...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13122,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100490e109'>\r\n//「わかってるっ！\r\n//　いいか難民ども！　弁償するか出て行くか\r\n//どっちかだ！」\r\n\"I know! Okay, you got two choices. Either pay up, or find another town to leech off of!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13462,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100500e227'>\r\n//「……勝手ばっか言いやがって！\r\n//　俺達はやってないって言ってるだろう！」\r\n\"You're crazy! It wasn't us!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13738,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100510e109'>\r\n//「知るか！\r\n//　どのみち、お前らは邪魔なんだよ！」\r\n\"Doesn't matter! Either way, we don't want you here!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14002,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100520e227'>\r\n//「何だとぉ!?」\r\n\"You think we're here 'cause we want to be!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14205,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100530a00'>\r\n//「争わないで下さい」\r\n\"Please don't fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14354,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100540e109'>\r\n//「もういいからお前はどっか行け！」\r\n\"Will you get lost already?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14571,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100550a00'>\r\n//「いいえ。\r\n//　争ってはいけません」\r\n\"Please... don't fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14745,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100560a00'>\r\n//「悪いのは自分ですから」\r\n\"This is my fault.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14898,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100570e110'>\r\n//「はぁ？」\r\n\"Say what?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15062,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100580a00'>\r\n//「貴方がたが責め合うべきではない。\r\n//　俺を責めればいい……」\r\n\"You mustn't blame each other... Blame me instead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15302,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100590a00'>\r\n//「災いを生んだのは俺だ。\r\n//　俺が悪い。俺を責めろ。俺を罰しろ」\r\n\"I'm... responsible for all of this. It was me. Punish㉓<I>me!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15562,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100600e227'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15720,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0100610e228'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15878,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100620a00'>\r\n//「そうしてくれ。\r\n//　どうされてもいい。殺してくれて構わない」\r\n\"Please... You can do what you want with me. Kill me, if that will make things better.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16154,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100630a00'>\r\n//「だから」\r\n\"Just, please...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16284,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100640a00'>\r\n//「……だからァ……」\r\n\"Please...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16423,
+  "en": "\r\n//　夜空が広がっている。\r\n  The night sky spreads above me.\r\n\r\n//　月だ。\r\n//　割れた、月だ。\r\n\r\n//　……どうしてあんな事に。\r\n  It's vast... but what happened to the moon?\r\n\r\n  Oh, that's right. Hikaru broke it. I always told her to take better care of her toys.\r\n\r\n//　そうだ。\r\n//　光が、蹴り割ってしまったのだった。\r\n\r\n//　まったくお茶目なやつだ。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16858,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100650a00'>\r\n//「ははっ」\r\n\"Haha...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16980,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0100660a00'>\r\n//「はは、ははは」\r\n\"Hahahaha...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17115,
+  "en": "\r\n//　可笑しい。\r\n//　月が割れているのだ。可笑しくて仕方ない。\r\n\r\n//　地面の上で、転がって笑う。\r\n//　腹が痛い。笑い過ぎて痛い。\r\n  I roll on the ground, clutching my sides. My belly aches with the force of my laughter. \r\n\r\n  The moon. The moon! Will you look at that?\r\n\r\n  Ahh... what a world. Right, Hikaru?\r\n\r\n  Hikaru...<K> why?\r\n\r\n  Why didn't you break me too?\r\n\r\n  Why did you leave me behind?\r\n\r\n//　ああ……可笑しい。\r\n//　でも。\r\n\r\n//　なぁ、光？\r\n\r\n//　どうしてお前は……\r\n//　俺の事も、あんな風に叩き割ってくれなかったんだ。\r\n\r\n//　どうして、俺を連れて行かなかった？\r\n\r\n//　どうして…………\r\n  Why...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17874,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100670e110'>\r\n//「……おい。\r\n//　こいつ、どうする？」\r\n\"...What do we do with him?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18095,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100680e109'>\r\n//「どうするって……知るかよ」\r\n\"How should I know?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18295,
+  "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0100690e227'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18459,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0100700e228'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18623,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100710e109'>\r\n//「……くそ。\r\n//　何だか馬鹿馬鹿しくなっちまった」\r\n\"...Tch. Now I just feel <br>stupid.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18871,
+  "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0100720e110'>\r\n//「俺もだ。\r\n//　……今日は引き上げようぜ」\r\n\"Why don't we call it a night, huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19106,
+  "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0100730e109'>\r\n//「ああ……」\r\n\"Yeah...\"\r\n",
+  "pt": ""
+ }
+]

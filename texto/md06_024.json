@@ -1,0 +1,632 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　ベンチと子供用遊具が幾つかあるきりの、本来なら\r\n//寒々しい公園である。\r\n//　しかし今日ばかりは様相を違えていた。\r\n\r\n//　地面に茣蓙、絨毯、ビニールシートが敷かれ、列を\r\n//成している。\r\n//　その上には多種多様の品々と、それを商う人々。\r\n  On most days this park is largely empty. It has little in the way of amenities.\r\n\r\n  Today, however, it is bustling.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 687,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240010a01'>\r\n//「市？」\r\n\"A market?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 814,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240020a00'>\r\n//「古物市だな」\r\n\"A flea market.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 949,
+  "en": "\r\n//　それなり以上の規模の街なら、適当な広場を使って\r\n//折々に開かれる自由市場だ。\r\n//　鎌倉でも、別段珍しい催しではない。\r\n  Rugs and plastic sheets lie spread upon the grass, each covered with its owner's wares. Such markets, while always familiar in Kamakura, have grown much more common in recent months, as the influx of refugees from across Yamato brings new buyers and sellers alike. \r\n\r\n//　だが最近の頻度の高さには、やはり時勢が絡むので\r\n//あろう。\r\n\r\n//　鎌倉に逃げ込んだ戦災難民が、当座の生活費を得る\r\n//ために持ち合わせの品々を売る。\r\n//　あるいは身一つで逃げてきた難民が、少ない所持金\r\n//で安値の品々を買い求める。\r\n\r\n  Indeed, most of those here today appear to be of that sort: both those hoping to make a few bitter coins from what they could salvage from the wreckage of their homes, and those willing to spend those few coins on what necessities they could not.\r\n\r\n//　双方の要求を満たす取引場が求められ、用意される。\r\n//　この市も、人出の多くはどちらかを目的とする難民\r\n//と<RUBY text='おぼ'>思</RUBY>しかった。\r\n\r\n//　もっとも、どちらにも属さない市民の売り手買い手\r\n//とて散見する。\r\n//　俺は戸惑い気味に辺りを見回す村正を促して、その\r\n//一つに近寄った。\r\n  Of course, the locals have a presence as well. Shaking Muramasa gently out of her surprise, I direct her attention to one such vendor sitting nearby.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2568,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240030e075'>\r\n//「はぁい、いらっしゃーい！\r\n//　お手に取ってどーぞ！」\r\n\"Come! Come! Have a look! See what strikes your fancy!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2840,
+  "en": "\r\n//　見た目は小柄だが威勢はいい、若い女性店主の声に\r\n//迎えられ、敷物の前に腰を落とす。\r\n//　扱う品は――彫刻、茶碗、壺、貴金属の細工物……。\r\n  A young woman greets us with enthusiasm. I crouch down for a better look at her wares. Pots, tea bowls, metalworks and handicrafts: clearly not a random selection of things found in a dusty shed.\r\n\r\n//　古物ではなく、骨董と呼ばねば失礼にあたりそうな\r\n//ものばかりだ。\r\n//　素人に<RUBY text='さば'>捌</RUBY>ける品とも思えない。おそらくここは本職\r\n//の骨董商の出店なのだろう。\r\n  Kamakura has many stores dealing in antiquities. One of them must have dispatched her.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3597,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240040a00'>\r\n//「ふむ……」\r\n\"Hmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3721,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240050a01'>\r\n//「……御堂、こういうの好きでしょう」\r\n\"You like this kind of thing, don't you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3920,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240060a00'>\r\n//「わかるか」\r\n\"How did you know?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4055,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240070a01'>\r\n//「何となく」\r\n\"It shows.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4188,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240080e075'>\r\n//「なんかそういうオーラが出てるっすよ」\r\n\"You have a certain aura.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4409,
+  "en": "\r\n//　何故か店主にも同意された。\r\n  Apparently.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4480,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240090a00'>\r\n//「……良い物を置いていますね」\r\n\"You have some nice pieces.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4651,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240100e075'>\r\n//「あ、わかる？　わかる？\r\n//　かーっ、嬉しくなるね、<RUBY text='ちがいのわかるおきゃくさま'>ネギしょったカモ</RUBY>\r\n//に巡り合えると！」\r\n\"Thank you, sir! I can't tell you how happy I am to have a customer <SMALL>(read: sucker)</SMALL> who appreciates fine art.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5104,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240110e075'>\r\n//「さぁ、どんどん見て下さいなっ！」\r\n\"Please, take your time!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5318,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240120a01'>\r\n//「……今なにか、変じゃなかった？\r\n//　変っていうか不穏っていうか」\r\n\"Did you hear something just now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5553,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240130a00'>\r\n//「そうか？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5676,
+  "en": "\r\n//　店主に勧められるまま、目についた品を一つ取る。\r\n//　天目茶碗――華やかな<RUBY text='いろ'>彩</RUBY>だが……。\r\n  While answering, I reach for a piece that's caught my eye. A Tenmoku tea bowl, brightly glazed.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5943,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240140e075'>\r\n//「流石だねお客さん。そいつはいいものだよ。\r\n//　裏千家の宗匠も絶賛した、丸山雅永の孔雀\r\n//天目だ」\r\n\"Excellent choice, sir. That's a Kujaku Tenmoku by Maruyama Gaei, who was praised by the Urasenke masters.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6331,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240150a00'>\r\n//「ほう……これが」\r\n\"Oh? Hmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6468,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240160e075'>\r\n//「もちろん<RUBY text='しんさくほしょう'>贋作確定</RUBY>。\r\n//　箱もあるし、蓋の裏にはちゃんと裏千家の\r\n//宗匠直筆間違い<RUBY text='なし！'>だらけ</RUBY>の箱書も」\r\n\"It's a guaranteed original. <SMALL>Or convincing forgery.</SMALL> The box carries the maker's very own signature!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6939,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240170a01'>\r\n//「……やっぱり何か……」\r\n\"No, I definitely heard something...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7116,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240180a00'>\r\n//「お値段は？」\r\n\"How much?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7246,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240190e075'>\r\n//「本当なら万って話になるんですけどねえ。\r\n//　最近は景気が悪いし、お客さんは目の高い\r\n//お人だしねえ……」\r\n\"Well, I'd normally ask for ten thousand. But since times are tough, and you're such a discerning gentleman...\"\r\n\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240200e075'>\r\n//「三千円でどうかな？」\r\n\"I'll let you have it for three!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7846,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240210a00'>\r\n//「それはお安い」\r\n\"That's a very good deal.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7994,
+  "en": "\r\n//　本物であればの話だが。\r\n//　\r\n//　後半は胸中に封印して、茶碗を元の位置に戻す。\r\n  Assuming its provenance checks out.\r\n\r\n  Smiling noncommittally, I replace the piece and turn my attention to the richly colored pot at its side.\r\n\r\n//　その隣には、味わい深い色をした壺があった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8345,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240220a00'>\r\n//「こちらは……」\r\n\"And this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8478,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240230e075'>\r\n//「信楽焼ですよ。\r\n//　へへへー、こいつも滅多にない逸品でねえ」\r\n\"Shigaraki ware! Heh heh heh! Another excellent choice.\"\r\n\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240240e075'>\r\n//「いいでしょ？　この<RUBY text='ひがきもん'>桧垣文</RUBY>」\r\n\"You see the patterns? Nice, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9007,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240250a00'>\r\n//「なかなか」\r\n\"Very.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9130,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240260e075'>\r\n//「<RUBY text='ゆう'>釉</RUBY>はないけど、そこがまた味だ」\r\n\"It's not glazed, but that has its own charm.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9389,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240270a00'>\r\n//「確かに……」\r\n\"Mm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9515,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240280e075'>\r\n//「手触りも素晴らしい。\r\n//　どうぞどうぞ、お客さん」\r\n\"Go on, give it a touch.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9754,
+  "en": "\r\n//　店主に手を掴まれ、壺まで持っていかれる。\r\n  She takes my hand and guides it to the pot.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9878,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240290a01'>\r\n//「むっ……」\r\n\"Grr...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10008,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240300e075'>\r\n//「どーですか？」\r\n\"Well?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10177,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240310a00'>\r\n//「良い肌です」\r\n\"An excellent texture.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10319,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240320e075'>\r\n//「なんかこう、官能的で……背筋にゾクゾク\r\n//くるでしょう？」\r\n\"Sends shivers up your <br>spine?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10579,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240330a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10695,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240340e075'>\r\n//「あぁー……。\r\n//　お客さんとこうしているだけで、あたしも\r\n//だんだんとおかしな気分に……」\r\n\"Oh! Such a firm grip. My tummy's all aflutter...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11017,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240350a00'>\r\n//「骨董屋さん……」\r\n\"Miss...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11151,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240360a01'>\r\n//「何の話をしてるのよっ!!」\r\n\"What are you two doing!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11319,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240370a00'>\r\n//「壺だが」\r\n\"Examining this pot.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11453,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240380e075'>\r\n//「壺ですよ？」\r\n\"What does it look like?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11637,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240390a01'>\r\n//「……そ、そう……」\r\n\"Right...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11781,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240400e075'>\r\n//「で、どうですお客さん」\r\n\"How about it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11970,
+  "en": "\r\n//　店主は俺の手を握ったまま、その甲に、つつつっと\r\n//指を這わせてきた。\r\n  Her fingers crawl slowly up the back of my hand.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12139,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240410e075'>\r\n//「ちょいとお高くつきますが、ご損はさせま\r\n//せんよ？」\r\n\"She'll cost you a little, but she's worth every penny.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12412,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240420a00'>\r\n//「いかほど？」\r\n\"How much?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12542,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240430e075'>\r\n//「お客さんの色男ぶりに負けに負けて……」\r\n\"For a big, handsome man like you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12777,
+  "en": "\r\n//　撫でるような動きで、指先が数字を描く。\r\n  With silken touch, she traces a number on my palm.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12905,
+  "en": "\r\n//◆怒\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240440a01'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13045,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240450e075'>\r\n//「こんなもんで」\r\n\"What do you say?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13225,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240460a00'>\r\n//「それは骨董屋さん、手が出ない」\r\n\"I'm afraid that's beyond my means.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13407,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240470e075'>\r\n//「やぁー困ったなー。\r\n//　こいつは江戸か、ひょっとするとそれ以前\r\n//ってぇ代物でねえ。これ以上安くはできない\r\n//んだなぁー」\r\n\"But sir, this piece is at least Edo period, maybe even older. I can't let it go for less!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13816,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240480e075'>\r\n//「ええい、でも仕方ない。\r\n//　商売にならなくなるけど、お客さんのため\r\n//……これでどうだ!?」\r\n\"Of course, if you insist... I'll be taking a loss, but what do you say to㉗<I>this?</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14177,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240490a00'>\r\n//「さて……」\r\n\"Well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14302,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240500a01'>\r\n//「……そろそろ手、離したらどうかしら……」\r\n\"...Think you could let go of his hand now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14513,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240510e075'>\r\n//「後生ですよーお客さぁん。\r\n//　あたしにも暮らしがあるんですからさー」\r\n\"Please, sir. I have to eat!\"\r\n\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240520e075'>\r\n//「ここは気持ち良くこのお値段で折り合いを\r\n//つけましょう」\r\n\"This price will make both of us happy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15038,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240530a00'>\r\n//「しかしこれは悩ましい」\r\n\"It's still a hefty sum...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15199,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240540e075'>\r\n//「そう言わずそう言わず。\r\n//　お買い上げ頂けたら……あたしお客さんの\r\n//お宅までちゃんとお届けしますよ？」\r\n\"Now, now. Tell you what. Buy the pot, and I'll deliver it personally.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15563,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240550e075'>\r\n//「ちょっとした<RUBY text='・・・・'>サービス</RUBY>もできるかも」\r\n\"I might even throw in a few... <I>extras.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15835,
+  "en": "\r\n//　何やら含みを持たせて、店主は言った。\r\n//　何故か体を寄せてくる。\r\n  She punctuates this last bit by pressing up against me. I feel like I'm missing something.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16040,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240560a01'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16182,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240570a01'>\r\n//「み<?>\r\n//・ど<?>\r\n//・う」\r\n\"M<WaitVoice=300>i<WaitVoice=600>d<WaitVoice=900>o?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16373,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240580a00'>\r\n//「村正？」\r\n\"Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16497,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240590a01'>\r\n//「その壺、欲しいの？」\r\n\"You really want that pot?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16661,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240600a00'>\r\n//「まぁ、悪くないとは思っている」\r\n\"It's a nice piece.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16827,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240610a01'>\r\n//「じゃあ、十分の一に値切って」\r\n\"Okay. Give her a tenth of what she's asking.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17022,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240620a00'>\r\n//「……いきなりか？」\r\n\"...A tenth?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17163,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240630e075'>\r\n//「おぉーいおいおいおい！\r\n//　姉さん、ちょっと耳が長いからって調子に\r\n//乗ってもらっちゃ困るねえ!!」\r\n\"Now hold it right there!\" Discarding my hand, the vendor wheels on Muramasa. \"If you think those ears of yours get you a free pass on my plot, you've got another thing coming!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17623,
+  "en": "\r\n//　俺の手を振り払い、店主は伝法調で啖呵を切った。\r\n//　小柄なのに見下ろすような目で、村正を<RUBY text='ね'>睨</RUBY>めつける。\r\n  Somehow, despite her diminutive stature, she manages to seem like she's staring down her nose at my companion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17926,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240640e075'>\r\n//「うちの品物にケチつけようってのかなっ？\r\n//それとも買い叩こうってのかなっ？\r\n//　どっちにしたってそいつをやっちゃあもう\r\n//大事なお客さんじゃあないなあ!!」\r\n\"You got some beef with what I'm selling!? Trying to take me for a sucker!? Then we're gonna have a problem!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18400,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240650a01'>\r\n//「どっちでもありません。\r\n//　正しい値段をつけてあげただけよ」\r\n\"I'm just helping you work out a fair price, that's all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18652,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240660e075'>\r\n//「いいのかいそんなこと言っちまって!?」\r\n\"Fair? You call that fair!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18874,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240670a01'>\r\n//「ふん」\r\n\"Hmph.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18997,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240680e075'>\r\n//「かーっ、北極の熊でおもしれえ！\r\n//　こうなりゃとことん勝負だ、耳がクルクル\r\n//回る姉さんよう!!」\r\n\"Fine! If that's how you want it! Looks like we're having a showdown! You're not gonna ear-spin your way outta this one!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19398,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240690a01'>\r\n//「回るかっ！」\r\n\"My ears do not spin!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19545,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240700e075'>\r\n//「じゃあひとつ教えて頂きましょう！\r\n//　この年代物の信楽壺と今のふざけた値踏み、\r\n//どういう理屈で引っ付き合わせるのか！」\r\n\"Let's hear it, then! What makes you think you can buy this antique for next to nothing!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19952,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240710a01'>\r\n//「理屈ってほどの話でもないけど」\r\n\"Honestly, I don't know much about prices...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20149,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240720e075'>\r\n//「逃げ口上は聞けないなあ！」\r\n\"You're not getting away that easy!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20365,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240730a01'>\r\n//「……年代物じゃないでしょ。これ」\r\n\"But that's not really an antique, is it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20562,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240740e075'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20726,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240750e075'>\r\n//「ど、どっ、どういうことかなっ!?\r\n//　こいつは間違いなく江戸の昔の――」\r\n\"N- Not an antique? I'll have you know this is a genuine Edo―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21033,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240760a01'>\r\n//「御堂、江戸っていつ？\r\n\"Mido, how old would that make it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21205,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240770a00'>\r\n//「百年ほど前に終わった時代だ」\r\n\"A hundred years at least.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21375,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240780a01'>\r\n//「はったり利かせ過ぎね。\r\n//　実際はその半分も無いじゃないの」\r\n\"That's quite the story. It's not even half that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21620,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240790e075'>\r\n//「姉さん、適当吹かしちゃあいけない――」\r\n\"If you think you can just make stuff up―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21862,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240800a01'>\r\n//「二二年と四ヶ月」\r\n\"Twenty-two years and four months.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22028,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240810e075'>\r\n//「……はっ？」\r\n\"...Huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22196,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240820a01'>\r\n//「二二年と四ヶ月よ。この壺が出来てから。\r\n//　貴方、これの由来を知ってるなら計算して\r\n//みなさいな」\r\n\"Twenty two years and four months. That's how old it is. Do the math, if you know who made it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22541,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240830a01'>\r\n//「ぴったり合ってるはずだから」\r\n\"I'll bet you I'm right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22715,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240840e075'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22891,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240850a00'>\r\n//「そこまでわかるのか」\r\n\"How do you know?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23040,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240860a01'>\r\n//「私を何だと思ってるの」\r\n\"What do you take me for?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23206,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240870a00'>\r\n//「骨董に目が利くとは考えた事もなかった」\r\n\"Not an expert in antiques.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23392,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240880a01'>\r\n//「それはそうだけどね。\r\n//　でも土や鉱物から出来たものなら、その<RUBY text='・'>歳</RUBY>\r\n//くらい一目でわかるってば」\r\n\"I'm not. But show me something made from dirt and rocks and you'd better believe I'll know how old it <br>is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23771,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240890e075'>\r\n//「……あぁーくそう……これだから蝦夷って\r\n//連中は……。\r\n//　商売がやり辛くってしょうがない……」\r\n\"...Damn it! This is what I hate about Emishi. Can't give an honest businesswoman a break!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24143,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240900e075'>\r\n//「もういいよぅ……その値段で持ってけ……」\r\n\"You win. The pot's yours... at her price.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24387,
+  "en": "\r\n//　すっかり<RUBY text='しお'>萎</RUBY>れた店主は引き下がり、膝を抱えて座り\r\n//始めた。\r\n//　……何だか少々哀れだ。\r\n  The woman, deflated, sinks to the ground, hugging her knees to her chest. I feel a little sorry for her.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24666,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240910a01'>\r\n//「どうする？」\r\n\"You going to take it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24814,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240920a00'>\r\n//「やめておこう。\r\n//　なら村正……ここにある品の中で一番古い\r\n//物はどれだ？」\r\n\"Actually... what's the oldest piece here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25068,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240930a01'>\r\n//「うーん……\r\n//　そこの小さくて丸いやつ」\r\n\"Uh...\" She points to a lonely corner of the mat. \"That small, roundish one.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25310,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240940a00'>\r\n//「この茶入か」\r\n\"You mean this tea caddy?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25455,
+  "en": "\r\n//　隅で埃を被っていた、文琳形のそれを取り上げる。\r\n  I pick it up. It's covered in dust.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25580,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240950e075'>\r\n//「ふ、ふふ……ピンポイントなのさぁ……。\r\n//　そいつは安っぽく見せといて、玄人が掘り\r\n//出し物ゲットォーッと大喜びの所に値を吹っ\r\n//掛けてガッカリさせる罠なんだけどね……」\r\n\"Heh... right again. That's my bait for the bargain hunters. Get 'em all excited thinking they found a deal, then hit 'em with the real price and break their spirit.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26136,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240960a01'>\r\n//「貴方、とことん性根が曲がってない？」\r\n\"And that's what you call honest business?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26340,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0240970e075'>\r\n//「耳でカスタネット打てるねーさんにはもう\r\n//逆らいませんよ……適正価格でどーぞぉ……。\r\n//　でもそれ以上の勉強はどうかご勘弁……」\r\n\"Lady, you got my number. Anything you want, it's yours for a fair price. So will you <I>please</I> buy something and go back to playing castanets with your earlobes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26836,
+  "en": "\r\n//　指先で埃を拭えば成程、色艶は名品と呼べるだけの\r\n//ものだった。\r\n//　本象牙の蓋も良い。\r\n  Wiping the dust off, I see that the ceramic indeed has the silken finish of a masterwork. The ivory lid is a splendid touch.\r\n\r\n//　蓋を取って中を覗くと、そこにも埃が積もっていた。\r\n//　払うため、息を吹き込む。\r\n  When I lift the lid, however, I find a new layer of dust lying thick within. I take a breath and blow it out.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27343,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0240980a00'>\r\n//「……けほっ」\r\n\"Cough...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27472,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0240990a01'>\r\n//「何してるの」\r\n\"That was silly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27614,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0241000a00'>\r\n//「思ったより酷かった……」\r\n\"It was worse than I thought.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27781,
+  "en": "\r\n//　顔に飛んだ埃を手で拭う。\r\n  I wipe at the dust covering my face.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27874,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0241010a01'>\r\n//「待ちなさい。\r\n//　いま拭いてあげるから……」\r\n\"Wait, let me do it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28066,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0241020a01'>\r\n//「ほら、こっち向く」\r\n\"Turn your head.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28217,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0241030a00'>\r\n//「うむ……」\r\n\"Mm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28340,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0241040a01'>\r\n//「貴方ってたまに子供っぽいことするのよね」\r\n\"You're like a big kid sometimes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28541,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0241050a00'>\r\n//「そうか？」\r\n\"Really?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28666,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0241060a01'>\r\n//「そうよっ。\r\n//　もう」\r\n\"Yes! Hmph...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28818,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0241070a01'>\r\n//「耳にまで飛んでる」\r\n\"There's even dust in your ears.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28985,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0241080a00'>\r\n//「……指を入れられるとくすぐったいんだが」\r\n\"That tickles.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29161,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0241090a01'>\r\n//「我慢する」\r\n\"There's still more to go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29310,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0241100a00'>\r\n//「逆もか？」\r\n\"The other ear too?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29446,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0241110a01'>\r\n//「もちろん。\r\n//　はい、向き変えて」\r\n\"Of course. Look that way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29629,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0241120a00'>\r\n//「ん……」\r\n\"Mm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29749,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0241130e075'>\r\n//「……あの……お客さん……。\r\n//　なんか商売の邪魔っていうか……見てると\r\n//独り身の寂しさが身に<RUBY text='こた'>堪</RUBY>えるっていうか……」\r\n\"Uh... if you two are just gonna flirt, think you could take it elsewhere?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30162,
+  "en": "\r\n//【ｅｔｃ／骨董商】\r\n<voice name='ｅｔｃ／骨董商' class='その他女声' src='voice/md06/0241140e075'>\r\n//「うっうっ……なんか涙出てきた。\r\n//　いちゃつくならあっち行けよう……」\r\n\"Ugh... It's a hard thing for a single girl to watch...\"\r\n",
+  "pt": ""
+ }
+]

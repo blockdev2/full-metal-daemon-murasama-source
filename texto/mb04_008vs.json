@@ -1,0 +1,237 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　銀星号という武者を考察する。\r\n  To defeat Ginseigo, I must first understand her. What is the nature of my enemy's power?\r\n\r\n//　その一個人を大災害たらしめるのは精神汚染能力で\r\n//ある。……これは、今は関わりない。\r\n//　その一個人を最強者たらしめるのは重力騎航能力が\r\n//まず第一である。……こちらが重要だ。\r\n  First, there is the psychic pollution: the power to warp minds. But although that is by far the greatest threat to the world, it is not relevant here.\r\n\r\n  The power that I must contend with, that has made the Silver Star invincible in combat, is that of graviton control.\r\n\r\n//　通常、武者は<RUBY text='がったり'>合当理</RUBY>（<RUBY text='バレル'>翼筒</RUBY>）によって推力を、<RUBY text='ほろ'>母衣</RUBY>\r\n//（<RUBY text='ウイング'>翼甲</RUBY>）によって揚力を獲得することで、翔飛―――\r\n//即ち<RUBY text='ネイル'>騎航</RUBY>を実現する。\r\n//　その速度は人類が有する移動手段の中で最高を極む。\r\n  Ordinarily, a musha's powers of flight derive from two factors: the engines, which provide thrust, and the wings, which provide lift. Expressed to their fullest, these allow musha to achieve speeds unrivaled by other human inventions.\r\n\r\n//　どの車輌どの艦艇どの飛行艦をも圧倒する速度の主\r\n//たる武者はつまり絶対的な交戦選択権の保持者であり、\r\n//また肉弾攻撃を主体とするため高速を破壊力に転化し\r\n//あらゆる兵器に致命的損壊を及ぼすことが可能である。\r\n  As no tank, ship, or aerial fortress can match his speed, a musha has the absolute power to decide the terms of a given engagement.\r\n  And as that speed also translates, through sword, lance, or spear, directly into destructive force, no common defense can resist a musha's strike.\r\n\r\n//　故もって武者は他の全兵科に優越し、戦場の王たる。\r\n//　銀星号が武者の中の王者たるのも、同質の理由から\r\n//だ。\r\n  Speed, therefore, is the primary reason that musha are superior to all other tools of war. And in the same way, speed is the reason that Ginseigo is supreme among musha.\r\n\r\n//　合当理と母衣を使い<RUBY text='かぜ'>空気</RUBY>を操って飛ぶ通常の武者と\r\n//違い、銀星号は空気に対してあくまで補助的な役割を\r\n//しか要求しない。\r\n//　例え空気が無くとも、銀星号は<RUBY text='と'>翔</RUBY>べる。\r\n  Unlike the near-total majority of musha, who must work with―and against―the air to achieve their legendary speed, Ginseigo treats the air as little more than an auxiliary stabilizer. She can ignore it entirely, should she choose, even fly in total vacuum.\r\n\r\n//　銀星号がその薄く輝く儚げな翼に託すものは、空気\r\n//に非ず、<RUBY text='しんき'>辰気</RUBY>――重力、万有引力である。\r\n//　自然界における最も根本的な<RUBY text='エネルギー'>力</RUBY>の一つ。\r\n  This is because the force which buoys Ginseigo's gossamer wings is not aerodynamic lift at all, but instead gravity, the universal attractor, one of the four fundamental forces that shape the natural world.\r\n\r\n//　銀星号。二世右衛門尉村正はこの力を認識し、把握\r\n//し、操作する。周囲の物体や自己の騎体から発生する\r\n//それを、仕手の<RUBY text='パワー'>熱量出力</RUBY>が許す範囲において増幅し、\r\n//減殺し、あるいは力の働く方向を変えるのだ。\r\n  Through Muramasa the Second's mystical power, Ginseigo bends this force to her will. She can strengthen it, weaken it, negate it entirely. She can adjust its vectors as she pleases.\r\n\r\n//　この原理によって為される重力騎航は通常の騎航と\r\n//全く異なる次元へ達する。\r\n//　例えば――\r\n  In practice, this means that her speed and agility outstrip even the fastest musha by several orders of magnitude.\r\n\r\n  Take the present situation.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4340,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0010a01'>\r\n//《高度一三〇〇。\r\n//　……<RUBY text='あし'>速力</RUBY>を切り崩す覚悟ならもう<RUBY text='ひととび'>一飛躍</RUBY>も\r\n//できるけど》\r\n《Altitude, 1300. We can climb higher, if you're willing to sacrifice speed.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4696,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0020a00'>\r\n//「啖呵を切って挑戦した挙句に失速して墜死\r\n//では、冗談として出来過ぎだな。\r\n//　ここで無理は要らん」\r\n\"Better not. After those boasts I made, the last thing I want is to stall out and crash.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5031,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0030a00'>\r\n//「敵騎の到達高度は？」\r\n\"Give me Ginseigo's altitude.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5194,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0040a01'>\r\n//《推定、約――{WaitKey(3000);}一二〇〇〇》\r\n《Estimating... <WaitVoice=3300>12000.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5397,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0050a00'>\r\n//「……？\r\n//　誤差はどの程度だ」\r\n\"...Are you sure? What's the margin of error?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5589,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0060a01'>\r\n//《加減一五〇〇くらいよ。おそらく》\r\n《Plus-minus 1500.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5768,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0070a00'>\r\n//「やけに低い」\r\n\"They're awfully low.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5911,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0080a01'>\r\n//《……小弓で会った時からだけれど……\r\n//　<RUBY text='かかさま'>銀星号</RUBY>の翅に、欠けがある》\r\n《...Back in Oyumi, it looked like a piece of Mother's right wing was missing.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6232,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0090a00'>\r\n//「欠け？」\r\n\"Missing?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6357,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0100a01'>\r\n//《ほんのわずか。何処かの戦いで手負ったの\r\n//かもしれない。\r\n//　それが、<RUBY text='かかさま'>銀星号</RUBY>の<RUBY text='のうりょく'>引辰制御</RUBY>を弱めていると\r\n//したら――》\r\n《Just a tiny piece. They might have taken damage somewhere. But Mother's power depends on her wings...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6810,
+  "en": "\r\n//　今の銀星号は完全な騎航能力を有していないという\r\n//事か。\r\n//　そう考えれば、納得ができる。\r\n  So this damage might explain how less than a minute into the fight, we are disadvantaged㉓<I>merely</I>㉑by a factor of ten. \r\n\r\n//　高度一二〇〇〇。所要時間は一分未満。\r\n//　こちらの約十倍の上昇力。<RUBY text='・・・・・・・・・'>銀星号にしては鈍い</RUBY>。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7273,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0110a00'>\r\n//「しかしそんな小さな傷なら、すぐに修復が\r\n//できそうなものだが……」\r\n\"If the damage is that small, why haven't they repaired <br>it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7537,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0120a01'>\r\n//《精巧な器官だから難しいのかも。\r\n//　それに、どんな劒冑にだって得手不得手が\r\n//ある》\r\n《It's harder when the part is delicate. Plus, every tsurugi has its shortcomings.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0130a01'>\r\n//《<RUBY text='かかさま'>二世</RUBY>は機動力にしても攻撃力にしても無敵\r\n//に近いけれど、甲鉄強度と再生能力はその分\r\n//犠牲にされている……決して高くない。\r\n//　完璧ではないのよ、御堂》\r\n《Mother's power and speed are unmatched, but she sacrificed durability and healing to achieve that. They're not all-powerful, Mido.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8346,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0140a00'>\r\n//「……ああ。\r\n//　そうか。そうだな」\r\n\"...You're right. Good to remember.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8534,
+  "en": "\r\n//　それが九回裏十点差を追うチームに送られる声援と\r\n//同程度の意味しか持たないのは承知の上で、頷く。\r\n//　だから無意味だと、どうして言えよう。諦めという\r\n//自滅を誘う猛毒に抗うには、そんなものでも有用だ。\r\n  I'm still looking at a ten-run deficit in the bottom of the ninth, but if it can stave off despair's sweet embrace long enough to do my job, then even a slim hope is worth clinging to.\r\n\r\n//　十倍の高度差。\r\n//　武者と武者の一騎打において、その事実がもたらす\r\n//ものは何か――\r\n  So, our enemy has a ten-to-<br>one altitude advantage. Now I must consider what that means. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9260,
+  "en": "\r\n//　高度の優越者は地球上の重力作用を味方として勢力\r\n//の強い突撃を行う。劣後者はその逆、重力を敵に回し\r\n//勢力を削がれながら迎撃する。\r\n//　勢力の強弱の程度は角度による。\r\n  In aerial combat, the musha with the altitude advantage has gravity on her side. The earth's pull adds to her momentum, and therefore her power.\r\n  For her opponent, the reverse is true. Gravity acts against him, diminishing his power.\r\n\r\n//　高度優位者の降下角と劣位者の上昇角は概算におい\r\n//て正比例の関係にあると考えられるから、この角度が\r\n//九〇度から離れるほど勢力強弱の格差は微小になり、\r\n//近付くほど勢力格差は相乗的に開いてゆくことになる。\r\n  The degree to which height plays a role in this way is determined by the angle of the engagement relative to the ground. The closer this is to ninety degrees―absolute vertical―the greater the benefit altitude provides.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10294,
+  "en": "\r\n//　そして現在、その角度は<RUBY text='・・・・・'>ほぼ九〇度</RUBY>。\r\n//　八九度ほどであろうか。水平距離と高度差によって\r\n//導かれる結果がこれ、だ。\r\n  At present, the engagement is㉓<I>nearly</I>㉑vertical. Eighty-<br>nine degrees, give or take.\r\n\r\n//　悪くない。\r\n//　銀星号が完調ならきっと八九・九度だったろう。\r\n//　\r\n//　焼け石に水、という言葉は忘却する。\r\n  A promising start. I expected eighty-nine-point-<br>nine. I'll pretend I'm unfamiliar with the proverb about emptying the ocean with a thimble.\r\n\r\n//　……いずれにしろほぼ九〇度。\r\n//　敵騎はほぼ垂直に駆け下り、自騎はほぼ垂直を駆け\r\n//上がる、この形勢は現時点で確定した。\r\n\r\n//　銀星号は重力の支援を最大限度享受し、しかもこれ\r\n//を固有能力によって拡大しつつ、成層圏から来襲する。\r\n//　運動量＝質量×速度。それはどれ程の値となるか。\r\n  In any case, the angle is nearly vertical. I must fight against gravity's full pull, while Ginseigo may turn it to her advantage, an advantage which her power will amplify greatly.\r\n\r\n  Momentum equals mass times velocity. How much momentum will an object of Ginseigo's mass acquire, accelerating with such power from well above the stratosphere?\r\n\r\n//　……その計算を途中で放棄したのは、最低でも村正\r\n//を二〇騎まとめて<RUBY text='・・・'>瓦割り</RUBY>にできるエネルギーは有ると\r\n//判明した時点で嫌気が差したから――ではない。\r\n//　解を求める意味がそも無いからだった。\r\n  I abandon my calculations shortly after determining that even twenty of me, stacked vertically, would not absorb the energy of the blow. Not because I do not care to see that number grow, but because it simply does not matter.\r\n\r\n//　エネルギーは、敵騎の甲鉄を打ち割れるだけあれば\r\n//良く、それ以上は無駄と言い切っても差し支えない。\r\n//　原形を留めぬまで騎体を粉砕するのも、首筋を数寸\r\n//裂いて頚動脈を破綻させるのも、価値は同等なのだ。\r\n  An attack needs only enough force to penetrate the target's armor. Any more than that is wasted. There is little practical difference, after all, between opening your enemy's throat and scattering his atoms to the the wind. The question is whether I will have the force to accomplish even the former.\r\n\r\n//　その点において、重力に逆行するこちらは、必要な\r\n//エネルギーを独力では獲得し難い。\r\n//　が、衝突の威力は当然ながら<RUBY text='・・・'>相対的</RUBY>に決する。\r\n  But to that, I need not be overly concerned. The energy of an impact is shared.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13158,
+  "en": "\r\n//　銀星号の急降下攻撃に必要充分な衝突力が宿るなら、\r\n//こちらの<RUBY text='カウンター'>逆撃</RUBY>も同等の衝突力を得られる理屈だ。\r\n//　敵がこちらを撃破できるように、こちらも敵を撃破\r\n//し得る。\r\n  If Ginseigo's strike carries sufficient force, then so too will my counter. We will each possess the energy required to kill the other.\r\n\r\n//　……だからといって対等ということにはならないが。\r\n//　高度差によって有利不利が分かれるのは武者戦闘の\r\n//常識であり、常識であるからには疑う余地もなかった。\r\n  This is not to say that we are equal, however. There is a reason that altitude is so vitally important in musha combat, which is that we are not simply smashing into each other like balls fired from opposing cannon.\r\n\r\n//　単に鉄の塊がぶつかり合うだけならばどちらが上で\r\n//あろうと同じ事だったろう。\r\n//　だが実際には、武者は手足を使い、武器を繰り出し\r\n//て、攻撃を行う。\r\n  A musha, when he attacks, transmits his energy to his arms and legs, and through them to his weapon. Every part of this process, every motion, is helped or hindered by gravity's effects.\r\n\r\n//　重力の加勢あるいは負荷は、その動作の全てに影響\r\n//する。必然的に、高度優位者の攻撃は鋭敏に、劣位者\r\n//の攻撃は鈍重になる。\r\n//　攻撃の精度において大きな差が顕れるのだ。\r\n  The musha with the high ground is able to transfer more energy to her weapon, and also may strike with greater precision. Her attack, in other words, is less likely to fail.\r\n\r\n  For her opponent, the opposite holds.\r\n\r\n//　高度優位者の攻撃は敵を捕捉し易く、充分な威力の\r\n//発揮もし易い。つまりは、攻撃を<RUBY text='・・・・・・・'>しくじりにくい</RUBY>。\r\n//　劣位者はその逆である。\r\n\r\n//　動体視力と反応速度の限界を試すような空の戦いに\r\n//おいてこれが極めて重要な意味を持つことは、改めて\r\n//論ずるまでもないだろう。\r\n//　<RUBY text='・・・'>衝突力</RUBY>は対等でも、<RUBY text='・・・'>攻撃力</RUBY>の差がこうして生ずる。\r\n  To say that this gap is <I>significant</I>㉑in aerial combat, where one's senses and reflexes are strained to the limit, would be grossly understating the issue.\r\n\r\n  In summary, even if our energy is equal, our ability to use it effectively is not.\r\n//　どちらの側も相手を破壊し得るという意味では同等、\r\n//しかしその成功率については差が出る。<RUBY text='エネルギー'>相対的運動力</RUBY>\r\n//の攻撃への有効利用率が違うのだと言ってもいい。\r\n//　一口にまとめればそう云う事。\r\n\r\n//　また、互いの攻撃が真っ向からぶつかり合う事態と\r\n//もなれば、話はより単純かつ明快になる。\r\n//　運動力量に優る側が劣る側を吹き飛ばし、一方的な\r\n//結果を現出させずにはおかない。\r\n  Nor can I hope to defeat her attack by meeting it head-on with my own. There, her advantage would be even more pronounced. She would smash my strike aside and land hers without issue, to unilaterally devastating effect.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16546,
+  "en": "\r\n//　それら優劣の格差が最大まで開く形勢に、今、この\r\n//現況は在る。\r\n//　自騎上昇角九〇度。敵騎降下角九〇度。\r\n\r\n//　<RUBY text='ヘッド・オン'>正面相撃</RUBY>して近接、互いに攻撃を繰り出す瞬間――\r\n//　俺は重力に阻害され動作が鈍くなる分、早い段階で\r\n//<RUBY text='・・・'>見切り</RUBY>をつけて攻撃せねばならない。\r\n//　そしてその分、銀星号は余裕をもって攻撃を行える。\r\n//　より精確に。より強力に。\r\n  The above factors are now working against me to the greatest possible degree. As always when I face off with Ginseigo, my enemy is free to strike as she pleases, while I must grapple with distance and timing just to have the slimmest hope of landing my attack.\r\n\r\n//　……俺と銀星号の勝負は、相互の術技を比較し合う\r\n//以前の段階で既にそれだけのペナルティが約束されて\r\n//いる。\r\n  Even before our techniques come into play, I am already at a severe disadvantage.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17631,
+  "en": "\r\n//　<RUBY text='わざ'>術技</RUBY>――――\r\n//\r\n//　この状形、銀星号が用いてくるそれは知れている。\r\n//　自らの通称にあやかってだろう、小彗星と名付けた\r\n//あの術技に間違いない。\r\n  And as for those techniques, I already know which my opponent will use.<K>\r\n  The one she calls \"Ladybug Comet\"―a nod, I suppose, to the name men have given her.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18053,
+  "en": "\r\n//　吉野御流合戦礼法〝<RUBY text='つきかけ'>月片</RUBY>〟、その<RUBY text='アレンジ'>崩し</RUBY>。\r\n//　過去数度に渡る<RUBY text='たちあい'>立合</RUBY>の全てにおいて銀星号はこれを\r\n//用い、文字通り俺を一蹴している。\r\n  This technique, adapted from the Yoshino-onryu's Tsukikake, has been my downfall in all of our previous engagements.\r\n\r\n//〝月片〟は敵に対して高位を奪った形勢から相撃する\r\n//に際し、直前で前転の動作を加える事で、打ち下ろし\r\n//の太刀に威力を乗せると共に相手を幻惑する技である。\r\n//　銀星号はこれに劒冑の特性を加味し――\r\n  In the Yoshino-onryu canon, Tsukikake is a technique where, striking from the high ground, you apply a forward roll to your strike, thereby: a) increasing its power, and b) disorienting the opponent.\r\n  Through her unique abilities, Ginseigo has transformed this technique into something out of myth.\r\n\r\n  She begins by ascending to near-orbital altitudes, then dives vertically upon her enemy using amplified gravity to accelerate her fall. At the last moment before impact, a fragment of time best measured in nanoseconds, she snaps a forward roll into a heel kick that could shatter a mountain.\r\n\r\n//　超高空から<RUBY text='ダイブ'>降下突撃</RUBY>、重力制御で加速しエネルギー\r\n//を高めつつ接敵、その刹那に半前転して、最大限度の\r\n//威力が乗った<RUBY text='ヒールキック'>踵落とし</RUBY>を対手に叩き込む術技とした。\r\n//　銀星号以外の何者にも為し得ぬ<RUBY text='パーソナルアート'>我流魔剣</RUBY>。\r\n\r\n  This is the sort of technique which swordsmen call \"ma'ken\"―an art which no other warrior can perform. That Ginseigo uses a kick instead of a sword makes little difference. The attack is still cataclysmic in impact, a fact to which I can personally attest.\r\n\r\n///　太刀は用いないが、その威力たるや<RUBY text='・・・'>壊滅的</RUBY>である。\r\n//　身に染みて知っている事だ。\r\n\r\n//　ただ、それほどの勢力を掛ければ、銀星号の脚とて\r\n//無事には済まぬ筈なのだが――\r\n  Although... I have to wonder how Ginseigo's own leg doesn't shatter from the force.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20404,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0150a01'>\r\n//《常理に沿えばその通りね。\r\n//　おそらく<RUBY text='かかさま'>銀星号</RUBY>は、甲鉄を一時的に右脚へ\r\n//集積させているんだと思う》\r\n《About that. I'm pretty sure they concentrate armor at the leg before impact.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20771,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0160a00'>\r\n//「…………。\r\n//　そんな真似が可能なのか？」\r\n\"...You can do that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20956,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0170a01'>\r\n//《引辰制御の応用で――多分》\r\n《Probably. With gravity.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21133,
+  "en": "\r\n//　……通常なら、物体の変形に従って質量バランスが\r\n//変移する。その逆に、<RUBY text='・・・・・・'>質量を動かす</RUBY>ことで甲鉄を変形\r\n//させているとでもいうのだろうか。\r\n//　正直な所、理解を超えている。\r\n  Using gravity to... redistribute mass? It doesn't matter. I do not need to understand the facts in order to accept them.\r\n\r\n  The facts are that Ginseigo can use her power freely, and that against it, Muramasa's mighty armor might as well be made of paper.\r\n\r\n//　だが俺の理解が及ぼうと及ぶまいと事実は事実。\r\n//　銀星号が一撃必墜の武技を苦なく扱いこなすという\r\n//事実は動かしようもない。\r\n\r\n//　村正の甲鉄をして用を為させぬ恐るべき魔芸。\r\n//　そこに隙は、<k>\r\n//　\r\n//　――考え得る限り無数にあると云えよう。\r\n  And to my enemy's inhuman might, do I have an answer?<K>\r\n  Yes. Any number of answers, in theory.\r\n\r\n//　諸流諸技に例外なく言える事だが、<RUBY text='わざ'>術技</RUBY>というもの\r\n//の<RUBY text='・・・'>必殺性</RUBY>はまず対手にとって未知である事に立脚する。\r\n//　どれほど高度な術であろうと、その内情を把握して\r\n//いれば対処法を講じられるからだ。\r\n  When speaking of a technique's effectiveness in battle, it is always assumed that the target does not know what is coming.\r\n  If he does, if he knows precisely how you will attack, then there is no reason that he should not be able to perform a lethal counter.\r\n\r\n//　例えば〝月片〟は<RUBY text='フェイント'>幻惑</RUBY>と<RUBY text='インクリース'>打撃強化</RUBY>を共に叶える吉野\r\n//御流の精髄とも称すべき技法だが、これを全て<RUBY text='わきま'>弁</RUBY>えて\r\n//いる者に繰り出したところで只の<RUBY text='サーカス'>曲芸</RUBY>である。\r\n//　目前でのどかに前転を始める敵を見過ごす法はない。\r\n  Take Tsukikake. Feint and strike in the same motion: the pinnacle of Yoshino swordsmanship. Against an enemy who expects it, however, it is nothing but a circus act. No one is going to hang there and watch as you finish your little somersault.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23450,
+  "en": "\r\n//　基礎理念を同じくする銀星号の技とてもそう。\r\n//　回っている間に動きを見切り、<RUBY text='・'>下</RUBY>へ抜け、抜けざま\r\n//に斬り捨ててしまえば良い。\r\n  Ginseigo's version has the same fundamental weakness. All I have to do is wait until she begins her turn, then dive under it and clip her with my sword in passing.\r\n\r\n//　確実に勝てる策だ。\r\n//　そして手の内を<RUBY text='さら'>曝</RUBY>け出している銀星号が、この策を\r\n//裏切ることは無い。\r\n  If I do this, then victory is mine. Guaranteed. My enemy has no conceivable escape.\r\n\r\n//　大きな<RUBY text='リード'>有利</RUBY>。\r\n//　術技比較の面においては、銀星号の<RUBY text='カード'>手札</RUBY>が最初から\r\n//露出しているという一点によって、俺の完璧な優勢が\r\n//確定している。\r\n  Thus, where technique is concerned, the advantage is entirely mine.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24432,
+  "en": "\r\n//　…………<RUBY text='しか'>然</RUBY>して。\r\n//　\r\n//　過去の対戦は俺の全敗。\r\n\r\n  And yet, every time I have faced Ginseigo, it has ended in my defeat.\r\n\r\n//　その理由は実に簡明な事だった。\r\n//\r\n//　<RUBY text='・・・・・・・・・・・・・'>絵に描いた餅で腹は満たない</RUBY>。\r\n//　必勝を約する策も実行不可能なのではまるで意味が\r\n//無い。それだけの話だ。\r\n  The㉒<I>why</I>㉑of this is quite plain. Just as you cannot eat a bowl of rice drawn on canvas, you cannot win with a plan that is impossible to execute. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25062,
+  "en": "\r\n//　――――速過ぎる。\r\n//　\r\n//　一万を超える高度からの垂直降下を重力制御で更に\r\n//加速しつつ行う時、その終端速度は理外の法外。\r\n  There's just㉓<I>no time.</I><K>\r\n  When she makes her dive, accelerating from the stratosphere, she crosses that distance faster―<I>far</I>㉑faster―<br>than a human can perceive.\r\n\r\n//　一度目の勝負は、何もできずに撃ち墜とされた。\r\n\r\n  At our first encounter, she struck me down before I could react.\r\n\r\n//　二度目の勝負では、攻撃の一瞬を見切ってくれよう\r\n//と眼を凝らした。\r\n//　そうして、何もできずに撃ち墜とされた。\r\n\r\n  At our second, I resolved to attack the moment her roll began.\r\n  She struck me down before I could react.\r\n\r\n//　三度目の勝負では、視界内に現れた瞬間に動こうと\r\n//眼を凝らした。\r\n//　そうしてやはり、何もできずに撃ち墜とされた。\r\n\r\n  At our third, I was ready to make my move the instant she entered my sight.\r\n  She struck me down before I could react.\r\n\r\n//　<RUBY text='・・・・・・・・・・・・'>気付けば叩き落されている</RUBY>。\r\n//　それが銀星号の<RUBY text='ファイティングスピード'>戦闘速度</RUBY>。\r\n\r\n  In every instance, the outcome was the same. When you see her, it is <I>already</I>㉔too late.\r\n\r\n  Such is Ginseigo's speed―<br>enough raw, uncaring might to shatter my flawless theory of battle into a million shards, and me with it. It does not matter that I know what she will do if I cannot know㉒<I>when</I>㉓she will do it.\r\n\r\n//　底の割れた相手の技の裏をかき、勝利する――\r\n//　そんな<RUBY text='シンプル'>単純</RUBY>な勝利方程式が成立しない。敵の技法が\r\n//見え透いていても、それがいつ実行されるか全くわか\r\n//らないのでは対処の仕様も無い。\r\n\r\n//　戦理において、勝利は俺のものであるべきだろう。\r\n//　しかし銀星号は身も蓋もない暴力によって戦理ごと\r\n//俺を粉砕できるのだ。\r\n\r\n//　それは、術技の限界と云うべきか。\r\n//　技とはとどのつまり、人間を相手にするもの。\r\n\r\n  And therein, I suppose, lies the limit of technique. The sword is not for fighting meteors.\r\n\r\n//　天災を想定するものではない。\r\n//　<RUBY text='・・'>隕石</RUBY>に対抗する役には立たない。\r\n\r\n//　一剣の対応限界を超えたところに敵騎は存在する。\r\n//　\r\n//　それでも尚、術技をもって破らんと志すならば――\r\n\r\n//　<RUBY text='おのれ'>自騎</RUBY>も限界を超えるに如かず。\r\n  My enemy has surpassed human limits. If I hope to defeat her anyway―<K>then so, too, must I.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27906,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0180a00'>\r\n//「村正……\r\n//　敵騎が降下を開始したら即座に知らせろ」\r\n\"...Muramasa. Let me know the instant she starts her dive.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28144,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0190a01'>\r\n//《――諒解》\r\n《Right.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28280,
+  "en": "\r\n//　劒冑の<RUBY text='レーダー'>信号探査</RUBY>は最も正確で最も迅速な探知手段だ。\r\n//　村正はごくごく微小なタイムラグ――発信した信号\r\n//が戻ってくるまでに必要な――しか要さず、銀星号の\r\n//攻撃開始を察知するだろう。\r\n  A tsurugi's radar can see much farther than any human's eyes. When the attack begins, Muramasa will perceive it in a fraction of a second, the amount of time it takes her signal to reach the target and return.\r\n\r\n//　過去の対戦では<RUBY text='め'>視覚</RUBY>を<RUBY text='たの'>恃</RUBY>んで敗れた。\r\n//　<RUBY text='みみ'>信号探査</RUBY>は有効範囲の広さという点で確実に優れる。\r\n//確実に視覚より早く情報を掴むだろう。\r\n\r\n//　……だが、それでも間に合わないと悟っている。\r\n//　おそらくは村正も。\r\n  But I know, as I'm certain does Muramasa, that even that will not be enough. Not nearly. <I>Any</I>㉔time lag, even a fraction of a second, will surely be our undoing.\r\n\r\n//　ほんの僅かな、砂粒のようなタイムラグ、それだけ\r\n//の遅れさえも致命的なのだとわかっている。\r\n//　勝つには――もっと早く知らねばならない。\r\n  In order to win, we must perceive her attack at the exact moment that it begins.<K>\r\n  No. That's still too slow.\r\n\r\n//　銀星号が、攻撃を始めるその瞬間に……\r\n//　\r\n//　否。違う。<RUBY text='・・・・'>それでも</RUBY>間に合わない。\r\n\r\n//　攻撃を始める<RUBY text='・・・・・'>よりも前に</RUBY>。\r\n//　攻撃が実現するより先に、その開始の機を知らねば\r\n//ならない。そうして初めて対応が可能になる。\r\n  We must perceive when her attack㉒<I>will</I>㉒begin, before it has even started. The only way to catch an object moving at the speed of light is to reach from outside time.\r\n\r\n//　<RUBY text='ヴェロシティ・オブ・ライト'>物理限界速度</RUBY>にも迫る突撃を破るのなら。\r\n//　<RUBY text='とき'>時間</RUBY>を越えるのが唯一の方途だ。\r\n\r\n//　<RUBY text='セン'>先</RUBY>の機、と云う。\r\n//　吉野御流においては無明の理と称する。\r\n  This is known as \"taking sen,\" or in the Yoshino-<br>onryu, \"seeing without seeing.\" It depends not on supernatural faculty, but on one's ability to observe and analyze the target. \r\n\r\n//　これは<RUBY text='いわゆる'>所謂</RUBY>超能力に類する何かを要求するものでは\r\n//決してない。\r\n//　求められるのは小石を積んで巨塔を築くかのような\r\n//精細かつ入念な観察である。\r\n\r\n//　攻撃の動作を<RUBY text='・・'>見る</RUBY>のではなく。\r\n//　攻撃の兆候を<RUBY text='・・'>読む</RUBY>のだ。\r\n  Instead of <I>actions,</I>㉒one must look for㉓<I>signs</I>―the dilating pupil, the twitching muscle―<br>that your opponent is about to attack.\r\n  Having detected such a sign, one then ideally strikes first, defeating the enemy before her attack has truly begun.\r\n\r\n//　微妙な視線の移動。あるいは筋肉の緊張。\r\n//　そういった情報から、敵の攻撃動作が実際に始まる\r\n//よりも<RUBY text='・・'>先に</RUBY>それを悟る。\r\n\r\n//　その機に押して攻め、敵の出端を打ち伏せるのが先\r\n//の機を取るという事であり吉野御流は無明の理である\r\n//が、銀星号に対してそれは成し得ない。\r\n//　あの攻撃を発動前に制するのは物理的に不可能だ。\r\n  Against Ginseigo, the ideal response is impossible. There is no way to preempt an attack that begins kilometers overhead.\r\n  But while I cannot hope to strike first, I can hope to strike㉓<I>at the same time.</I>\r\n\r\n  If I know when she will attack, even a nanosecond before it happens, then I can put my sword in her path. And that will be enough.<K>\r\n  It may kill us both... but it will be enough.\r\n\r\n//　が――発動後の対応はできる。できる筈だ。\r\n//　先の機を突いて<RUBY text='ゴノセン'>後の先</RUBY>を取る格好になろうか。降下\r\n//突撃の到来を<RUBY text='ナノ・セカンド'>十億分の一秒</RUBY>でも先に知ることがもしも\r\n//できたなら、迎撃の剣を<RUBY text='・・・・・・'>合わせられる</RUBY>。\r\n\r\n\r\n\r\n//　あるいは相討。\r\n//　しかし、斃せる。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32790,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0200a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32916,
+  "en": "\r\n//　敵騎は上空<RUBY text='はる'>遙</RUBY>か彼方。\r\n//　武者の視覚を研ぎ澄まそうが、芥子粒ほどにもその\r\n//姿を見ては取れない。\r\n  I focus on my enemy. At this distance, even with my enhanced vision, she appears as no more than a speck against the sky.\r\n\r\n//　目配りなどわからない。筋肉の動きも。\r\n//　だが、情報はそれだけではない筈だった。\r\n  I cannot see the shift of her eyes or the twitch of her muscles. But there are other ways to know her, clues so small as to beggar belief.\r\n\r\n//　肌の熱。肉の匂い。心臓の鼓動。\r\n//　そんな些少な情報が何処かに、必ず有る。\r\n  The heat of her skin. The scent of her flesh. The pulse of her beating heart.<K>\r\n  No. Deeper. I must sense her㉓<I>energy,</I>㉓her wavelength, her presence. I must㉓<I>know</I> that life is there.\r\n\r\n//　あるいはもっと微細な。\r\n//　視覚でも聴覚でも嗅覚でも触覚でも掴めず、さりな\r\n//がらその全てに訴えかける、何かが――\r\n\r\n//　<RUBY text='・・・・・・・・・・・・・・・'>そこに生命が存在するという波長</RUBY>、そんなものが。\r\n//　\r\n//　\r\n//　有る。\r\n//\r\n\r\n//　俗に気配と呼ぶのだろうそれは、今、確かに感じら\r\n//れる。\r\n//　この空の果てに。\r\n  And indeed, I grasp it, that elusive \"ki,\" though it is not so elusive here. I do not attribute this to any great power of perception, but instead to that energy's vastness, reaching out to swallow the sky.\r\n\r\n//　それは俺の感覚の鋭敏なるがゆえではない。\r\n//　逆だった。その気配の、大なるがゆえだった。\r\n//\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34647,
+  "en": "\r\n//　余りにも強大な存在の波動。\r\n//　世界を破壊しつつある魔王がそこに在るという主張。\r\n  Ginseigo is㉓<I>here,</I>㉒that presence declares―the conquering titan, the scourge of mankind. As wind precedes a storm's arrival, or tremors herald the coming eruption, this is a message that none can deny.\r\n\r\n//　台風が近付けば風が吹き、噴火が近付けば地鳴りが\r\n//聴こえるように、その気配は明然。\r\n//　一個の生命とは桁が違う。一つの天象が備える<RUBY text='けはい'>波長</RUBY>\r\n//は、誰にも看過を許さない。\r\n\r\n//　余りにも巨大過ぎて、その細かな動きや変化などは\r\n//まるで読み取れなかった。\r\n//　ただ、そこに在る、という一事実しかわからない。\r\n  To call this \"life\" would be stretching that word to include the most destructive forces of nature. It is difficult to sense anything beyond her presence. Its sheer force drowns out everything else.\r\n\r\n  At the moment, I know only that she is there.\r\n\r\n//　だがしかし、それは足掛かりになる。\r\n//　気配という波を<RUBY text='はしご'>梯子</RUBY>に使い、本来届かぬ感覚の先端\r\n//を伸ばしてゆく。\r\n  But that is a start. If I extend my feeble physical senses, if I send them clawing up that presence like a ladder... can I reach her?\r\n\r\n//　視覚――――\r\n//　聴覚――――\r\n//　嗅覚――――\r\n\r\n//　俺の形無き三本の指は、何も掴めず虚空で足掻いた。\r\n//　見えない。聴こえない。匂わない。\r\n\r\n//　駄目だ。\r\n//　この感覚では駄目だ。\r\n  No. Their shapeless fingers grasp only air. These senses will not serve me here.\r\n\r\n//　別の。\r\n//　別の――\r\n  I need something else.\r\n  Something―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36489,
+  "en": "\r\n//　敵を知るには呼吸を<RUBY text='み'>観</RUBY>る。\r\n//Don't look, boy. Feel.\r\n\r\n  Her breath, boy.\r\n  Feel her breath.\r\n\r\n//　音を聴くんじゃない。\r\n//　動きを見るんじゃない。\r\n\r\n  I don't mean the sound it makes or the way her chest rises and falls. Those things lie. She can use them to trick you.\r\n\r\n//　それでわかるのは口先の呼吸だけ。\r\n//　そんなの、その気になれば誰でも誤魔化せるだろ？\r\n\r\n//　だから、<RUBY text='・・・・'>肌の呼吸</RUBY>を読むんだ。\r\n//  You have to feel it through the skin.\r\n\r\n  But the skin, that never lies. And that's what you have to feel: her skin, through yours.\r\n\r\n//　それだけは絶対に騙せない。\r\n//　皮膚で嘘をつける奴はいないよ。\r\n\r\n//　自分の肌で、感じ取るんだ。\r\n//　相手と自分の肌は<RUBY text='かぜ'>空気</RUBY>で繋がっている。\r\n\r\n//　肌の呼吸は肌に伝わる。\r\n//　それを読み取れ。\r\n  As long as there is air between you, then your skin and hers are joined. Use that connection. Feel her breath. It will tell you if she plans to attack or defend, and if she plans to attack, then when.\r\n\r\n//　呼吸は必ず教えてくれる。\r\n//　攻めるつもりか守るつもりか。攻めて来るならいつ\r\n//来るのか。\r\n\r\n//　<RUBY text='・・・・・・・'>意は呼吸に有り</RUBY>。\r\n  <I>Breath is the mirror of intent.</I>\r\n\r\n//　……まぁ、こいつがそうかな。\r\n//　わたしなりの極意ってやつ。\r\n  ...Heh. Pretty cool, right? You don't get to be my age without learning a thing or two.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38150,
+  "en": "\r\n//　…………呼吸。\r\n//\r\n//　その極意を、嘗て実践できたためしはない。\r\n//　だが、今。この対手ならば。\r\n  ...Feel her breath. In all my many battles, against all my many opponents, I have never once accomplished this masterful feat.\r\n\r\n//　<RUBY text='ひかる'>銀星号</RUBY>ならば。\r\n  But against this opponent, against Hikaru... then perhaps.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38557,
+  "en": "\r\n//　――――呼吸――――\r\n  Feel her breath...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38626,
+  "en": "\r\n//\r\n//　み、\r\n//\r\n//　え、\r\n  Her breath...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38687,
+  "en": "\r\n//　た！\r\n\r\n  I have it!\r\n\r\n//　そこにいる。\r\n//　静かな――眠るような落ち着いた呼吸。\r\n\r\n  It's there, slow and soft, like a dreaming sigh. This means that she is still gathering her power. I still have time before she attacks.\r\n\r\n//　今はまだ、力を溜めているという事。\r\n//　まだ、襲来の時ではないという事。\r\n\r\n//　わかる。\r\n//　皮膚感覚で、確かにわかる。\r\n  Mother was right. Even at this distance, my skin and hers are joined. It's the tiniest thread, but now that I have it, it will tell me everything.\r\n\r\n//　永い距離を越え、俺と銀星号を繋いでいる一筋の糸\r\n//を確かに掴んだ。\r\n//　これが知るべき全てを教えてくれる。\r\n\r\n//　これが銀星号の呼吸。\r\n//　これが銀星号の意。\r\n  This is Ginseigo. Her breath. Her intent. I recognize it like a memory faded, but not forgotten.\r\n\r\n  Of course I know it.\r\n  Of㉓<I>course</I>㉓I do.\r\n\r\n//　間違いない。\r\n//　\r\n//　俺がこれを、取り違える筈はない。\r\n//\r\n//　把握できて当然だ。\r\n//　\r\n//　何故なら以前、俺は何よりも<RUBY text='・・'>これ</RUBY>を気に掛け、\r\n  For a year,㉓<I>this</I>㉓was my world.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39957,
+  "en": "\r\n//　毎日、\r\n//　見守って――――\r\n  Every day, I listened, hoping, praying―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40059,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/008vs0210a00'>\r\n//「――っ」\r\n\"...Ngh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40183,
+  "en": "\r\n//　芽生えかけた想念を払う。\r\n//　……惑いは、いらない。\r\n  I banish the image. I've no use for what it brings. \r\n\r\n//　決意を今更、揺るがせてはならない。\r\n//　あれは敵。敵。倒すべき敵。\r\n  Ginseigo is my enemy. My enemy, nothing more.\r\n\r\n//　敵の呼吸、そこにある意を掌握する。\r\n//　打ち勝つ為。\r\n\r\n//　この感覚に――集中する。\r\n//　この波長の変化を、待ち受ける。\r\n  I focus my senses on the wavelength I have found, straining to detect the slightest vibration.\r\n  \r\n\r\n//　この波が、<RUBY text='・・・'>揺れた</RUBY>瞬間、\r\n//　即して応ずれば勝つ。\r\n  When it comes, that will be the sign. If I act in that moment, victory is mine.\r\n\r\n//　まだだ。\r\n//　まだ来ない。\r\n  I wait.<K>\r\n  ...And wait.\r\n\r\n//　待つ。\r\n//　必ずある筈の、感覚の揺れを待つ。\r\n\r\n//　来ない。\r\n\r\n//　まだ、変化はない。\r\n  ...Nothing.<K>\r\n  Still quiet.\r\n\r\n//　まだ、静かだ。\r\n\r\n//　まだ。\r\n//　\r\n//　だが、そろそろ時は訪れるだろう……。\r\n  It's not yet the time...<K>\r\n  Not yet...<K> but soon. \r\n\r\n//　その一刹那を決して逃すまい。\r\n  And when it comes, I will not fail.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41468,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/008vs0220a14'>\r\n//「……<RUBY text='フォーリンダウン・レイディバグ'>天座失墜・小彗星</RUBY>……」\r\n\"Ladybug Comet.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41683,
+  "en": "\r\n//　\r\n//　　　　　　俺は幸福だったのだと思う。\r\n \r\n<center>\"Tell me the tales that to me were so dear\"\r\n \r\n<center>(Once, I was happy.)\r\n\r\n//　\r\n//　　　　　　　　　遠い遠い昔。\r\n \r\n \r\n<center>\"Long, long ago, long, long ago\"\r\n\r\n//　\r\n//　　　　　必要なすべてを手に入れていた。\r\n \r\n<center>\"Sing me the songs I delighted to hear\"\r\n \r\n<center>(Once, I had everything.)\r\n\r\n//　\r\n//　　　　　　　　　遠い遠い昔。\r\n \r\n \r\n<center>\"Long, long ago, long ago\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42219,
+  "en": "\r\n//◆ボイスは録らず。ノイズで。\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/008vs0230a01'>\r\n《―――――――――――――》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42412,
+  "en": "\r\n//　……………………俺は。\r\n//　\r\n//　倒された、のか。\r\n  I...\r\n\r\n  Did I... fail?\r\n",
+  "pt": ""
+ }
+]

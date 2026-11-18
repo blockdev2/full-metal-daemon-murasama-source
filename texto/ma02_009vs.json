@@ -1,0 +1,817 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　空を裂いて天頂へ駆け昇る体感、心地良いと思った\r\n//ことはない。それはむしろ肌を怯えで粟立たせた。\r\n//　底知れぬ深淵、果てなき果て、無の領域――未知。\r\n//そこへ突き進む己を知れば、冷たい畏怖が脊髄を刺す。\r\n  I have never enjoyed the sensation of rising into the sky. It fills me with a strong unease, like staring into a fathomless void. I envision myself vanishing into its maw, and a cold shiver runs up my spine.\r\n\r\n//　合当理の推力は常よりもやや低い。思うほど高度が\r\n//伸びてゆかない。いつもより、<RUBY text='・・・・'>空が鈍い</RUBY>。\r\n//　やはり熱量が足りていないようだ。それでも、なま\r\n//なかな相手には後れを取らぬ筈だが……。\r\n  The output of my gattari is lower than usual, making it difficult to gain altitude as fast as I'd like. The wind feels heavy today.\r\n\r\n  It must be the lack of calories. Still, I should be able to handle an average opponent.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1277,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0010a01'>\r\n//《……やっぱり、間違いない》\r\n《...I thought so.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1447,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0020a00'>\r\n//「どうした」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1572,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0030a01'>\r\n//《あれは寄生体よ、御堂。\r\n//　<RUBY text='かかさま'>銀星号</RUBY>と同質の気配！》\r\n《That tsurugi is infected, Mido. I'm reading Mother's signature!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1856,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0040a00'>\r\n//「……確かか」\r\n\"Are you certain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1995,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0050a01'>\r\n//《言ったでしょう。あれの匂いは漠然としか\r\n//辿れない……けれど、眼にすれば特定できる。\r\n//　あの劔冑は間違いなく卵を受け入れている。\r\n//代官と同じ。ここには二騎いたのよ、御堂！》\r\n《Like I said, even if I can't pinpoint their location, I know them when I see them. That tsurugi is infected, just like the prefect's. There were two eggs here!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2527,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0060a00'>\r\n//「大盤振る舞いだな……」\r\n\"How generous.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2678,
+  "en": "\r\n//　喜べる話ではないが。\r\n//　いや、やはり喜ばねばならないのか。不可避の難題\r\n//と、少しでも早くに出会えたと思えば。\r\n  Though it's nothing to celebrate.<K>\r\n  Or perhaps it is. When a confrontation is inevitable, best to get it out of the way as quickly as possible.\r\n\r\n//　しかしこれで、途切れていた糸は繋がった。\r\n  And now the pressing question has been answered.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3131,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0070a00'>\r\n//《――<RUBY text='せいしょう'>西湘</RUBY>の悪狼！》\r\n《Wolf of Seisho!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3318,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0080b35'>\r\n//《ほっほぉ！　良い空じゃ！\r\n//　そうは思わぬか、湊斗景明！》\r\n《Ho ho! A fine evening for battle! Don't you agree?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3571,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0090a00'>\r\n//《答えろ……銀星号を知っているな!?》\r\n《Answer me! Do you know Ginseigo!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3763,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0100b35'>\r\n//《はぁてさて――》\r\n《Well now...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3916,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0110a00'>\r\n//《韜晦無用！\r\n//　然らばこそ、この村正を知った筈！》\r\n《Enough games! There's no other way you could have recognized Muramasa!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4168,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0120b35'>\r\n//《はあっは！　如何にも左様！\r\n//　かの美姫から主のことは聞いておる！》\r\n《Ha ha! Quite right you are! The princess herself told me of your coming!》\r\n\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0130b35'>\r\n//《可愛がってやってくれと、<RUBY text='ねんご'>懇</RUBY>ろに頼まれて\r\n//しもうたわい！》\r\n《Ask me to receive you warmly, she did! How could I refuse such a heartfelt request?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4766,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0140a00'>\r\n//《何処だ！\r\n//　<RUBY text='あいつ'>銀星号</RUBY>は何処にいるッ！》\r\n《Where is she!? Where is Ginseigo!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4994,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0150b35'>\r\n//《知らんのう――\r\n//　風に乗り雲と去る、まっこと凡人にはなか\r\n//なか手の届かぬお人であったゆえ！》\r\n《I haven't a clue. She comes with the wind and vanishes like the mist. Mere mortals such as we can never hope to reach her!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5374,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0160a00'>\r\n//《……ッッ！》\r\n《...!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5505,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0170b35'>\r\n//《月の影でも探してみてはどうじゃ？\r\n//　天女の宮はきっとそこいらにあるでな――\r\n//ほっほっほっ！》\r\n《Perhaps you should try the dark side of the moon. That's where the maidens of heaven hold court, after all. Ho ho ho!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5880,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0180a00'>\r\n//《<RUBY text='ざ'>戯</RUBY>れるかッ!!》\r\n《You toy with me!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6050,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0190a00'>\r\n//「……く！」\r\n\"...Ugh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6177,
+  "en": "\r\n//　速度が――落ちる。\r\n//　瞬発力が切れた……！\r\n  Speed, dropping. My acceleration has cut out!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6307,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0200a01'>\r\n//《御堂、これまで！》\r\n《This is as high as we can go!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6478,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0210a00'>\r\n//「承知」\r\n\"Understood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6603,
+  "en": "\r\n//　背筋を煽って反転。\r\n//　激突の準備に移る――\r\n  I dive to gain speed, then pull up to meet my opponent's charge.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6752,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0220b35'>\r\n//《ほっ。どうしたどうした如何した！\r\n//　存外にだらしのない。そんなことでは到底、\r\n//月までは辿り着けぬぞ！》\r\n《Ho! So slow, so slow! What's wrong, Muramasa? You'll never reach the moon like that!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7109,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0230a00'>\r\n//《要らぬご配慮痛み入る！》\r\n《Your concern is unnecessary, but appreciated!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7299,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0240a01'>\r\n//《敵騎反転、降下体勢に移行。\r\n//　迎撃を！》\r\n《Enemy unit, coming about and descending. Enter attack vector!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7536,
+  "en": "\r\n//　村正の諜報を受けて<RUBY text='ピッチアップ'>兜角仰向</RUBY>。\r\n//　敵影が視野に入る。\r\n  At Muramasa's warning, I pull up and bring the enemy into sight.\r\n\r\n//　高度優勢は敵騎！\r\n//　圧倒的に不利な戦形から太刀合わせに入る――\r\n  The high ground is his! I'll be starting this battle on the back foot.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7913,
+  "en": "\r\n//　……下段！\r\n//　ならば<RUBY text='こちら'>当方</RUBY>の上へ抜けつつ斬り上げて来る筈。\r\n  Gedan! He intends to slash up while passing overhead.\r\n\r\n//　相手の下へ抜けつつ斬り下げたい、上段の当方とは\r\n//狙いが一致する。\r\n//　ならば勝敗を分かつは剣速のみ……！\r\n  This meshes perfectly with my plan of attack, which is to pass below while cutting down from jodan. In which case, pure speed will decide this exchange!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8422,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0250a00'>\r\n//「……っ!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8543,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0260a00'>\r\n//「ち……！」\r\n\"Tch...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8670,
+  "en": "\r\n//　寸前で――下へ抜けてきた！\r\n  At the last moment, he took my bottom!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8768,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0270a00'>\r\n//「村正！　損傷！」\r\n\"Damage report!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8911,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0280a01'>\r\n//《右脇腹を削られた！\r\n//　損傷は軽微、戦闘続行に支障なし》\r\n《It grazed our right side! Slight damage. No loss of function!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9169,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0290a00'>\r\n//「腸を掻き出されたかと思ったが……」\r\n\"It felt like it took my intestines with it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9368,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0300a01'>\r\n//《危なかったけれどね……もう少し狙われて\r\n//いたら心臓串刺しよ、今の<RUBY text='つき'>刺突</RUBY>は》\r\n《It was close. A little to the left and it would've gone straight through your heart.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9703,
+  "en": "\r\n//　心なしか、肝を冷やした声で告げてくる村正。\r\n//　その言い条が誇大でないことは骨身に沁みていた。\r\n  Muramasa sounds shaken. I know that her words are no exaggeration.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9929,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0310a00'>\r\n//《……八相とは、珍しき構を使う》\r\n《...Hasso, is it? An unusual stance.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10118,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0320b35'>\r\n//《ほっほ！　年寄りに長丁場はしんどいでの、\r\n//一合で済ませられぬかと思うたが。\r\n//　や、なかなか簡単にはゆかぬものよのう！》\r\n《Ho ho! These old bones are in no shape for a lengthy battle. I hoped to end it with one pass, but fate is not so kind.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10533,
+  "en": "\r\n//　陽気な<RUBY text='メタルエコー'>装甲通信</RUBY>が耳を打つ。\r\n//　内容に反して、声音には悔しさの片鱗もない。\r\n  His words would suggest frustration, but the tone of his kinchojo is positively cheerful.\r\n\r\n//　<RUBY text='たいそく'>体側</RUBY>に、体と平行に太刀を構える八相。\r\n//　そこから刺突を繰り出す技法は、武者合戦において\r\n//主流とはいえない。高速で飛来する武者を狙って刺し\r\n//貫く事は、斬り伏せる以上に至難の業だからだ。\r\n  The hasso stance, in which the sword is held parallel to the body and used to thrust, is rarely used in aerial combat. It is far more difficult to catch a high-speed object with a thrust than with a slash.\r\n\r\n//　しかし。\r\n//　その難を越え、剣尖が敵を捉えたならば、ただ一点\r\n//に集約された武者の金剛力は例え砲弾を嘲笑う甲鉄で\r\n//あろうとも、薄紙同然に貫通してのける！\r\n  If the thrust does land, however, then all of the musha's kinetic energy will bear on a single point―<br>enough force to punch through any armor. A perfectly executed thrust would likely prove fatal for even the sturdiest tsurugi.\r\n\r\n//　完璧な刺突を受けて耐え得る武者などおそらく皆無。\r\n//　故に、これが用いられる局面は劣勢からの起死回生\r\n//というのが定石。\r\n  For these reasons, hasso is commonly reserved for desperate situations, as a last-ditch effort to snatch victory from the jaws of defeat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12114,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0330a00'>\r\n//「それを優位の立場から用いるとは……\r\n//　人を食った戦い方をする」\r\n\"To use hasso while he has the advantage... One wonders if he's taking this seriously.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12398,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0340a01'>\r\n//《貴方とは相性が良くなさそうね》\r\n《Seems like a bad match-up for you.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12592,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0350a00'>\r\n//「かもしれん」\r\n\"Perhaps.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12723,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0360a00'>\r\n//「……だが。\r\n//　そのような事、<RUBY text='おれ'>村正</RUBY>には関係がない」\r\n\"But then, that means nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12957,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0370a01'>\r\n//《ええ。\r\n//　<RUBY text='わたし'>村正</RUBY>にはどうだっていい事よ》\r\n《True. It makes no difference to us.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13195,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0380a00'>\r\n//「――ならば。\r\n//　村正を始めよう」\r\n\"Let's do our duty, Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13377,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0390a01'>\r\n//《始めましょう、御堂》\r\n《Yes, Mido. Let's begin.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13545,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0400b35'>\r\n//《ほっほぅ！　これは驚き。\r\n//　どこぞの<RUBY text='もうろく'>耄碌</RUBY>が勇名高き村正と互角に渡り\r\n//合っておる！》\r\n《Ho ho! How shocking! To think that this dried-up old warrior would be a match for the infamous Muramasa!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13925,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0410b35'>\r\n//《いや、儂も捨てたものではないのう。\r\n//　それとも、そちらが評判倒れなのかのう？》\r\n《Looks like I've still got what it takes. Or were the rumors of your strength exaggerated?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14250,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0420a01'>\r\n//《そちらは評判通りのようね、月山。\r\n//　出羽雄峰の息吹を感じる見事な甲鉄よ……\r\n//けれど、一つ疑問がある》\r\n《You, Gassan, are just as the rumors say. A fine work, calling to mind the majestic Three Mountains of Dewa. But I do have one question.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14652,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0430b35'>\r\n//《はて何かな、蜘蛛の<RUBY text='ひめごぜ'>姫御前</RUBY>？》\r\n《What might that be, princess of spiders?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14885,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0440a01'>\r\n//《……月山鍛冶といえば平安朝末期の鬼王丸\r\n//を開祖とするはず。\r\n//　でも、その劔冑はとてもとても古い。私の\r\n//見立て違いでなければ、鬼王丸より更に昔》\r\n《As I understand it, the Gassan line began with Kiomaru in the final years of Heian. Your tsurugi, however, is very old. Even older than Kiomaru, if I'm not mistaken.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15381,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0450a01'>\r\n//《……平安前期の頃の作と見えるのだけれど。\r\n//　違って？》\r\n《...I place it as early Heian. Well?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15613,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0460b35'>\r\n//《ほっほ！　流石は天下の村正！\r\n//　如何にも明察の通り、この月山は貞観年間\r\n//に打ち上げられたもの。鬼王丸以降の月山流\r\n//とは少々系譜が異なるかの》\r\n《Ho ho! No less from the great Muramasa! As you've deduced so astutely, this Gassan was forged in the Jogan period. Its lineage differs from the Gassans of Kiomaru.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16107,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0470a01'>\r\n//《……やはりね。\r\n//　それがどうして、月山を名乗るのかしら？》\r\n《...That's what I thought. So why, then, does it bear the name Gassan?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16379,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0480b35'>\r\n//《貞観六年、出羽國月山神社の祭神が従三位\r\n//を贈られた折に打たれたものでの。\r\n//　故に月山従三位》\r\n《In the sixth year of Jogan, the god enshrined at Mount Gassan in Dewa was awarded the noble rank of Jusanmi. This tsurugi was forged in celebration of that occasion. Hence, Gassan Jusanmi.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16825,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0490b35'>\r\n//《後、天王将門公が月山と並んで出羽三山に\r\n//数えられる羽黒山へ五重塔を寄進した時その\r\n//手に渡り、更に将門公に仕えた我が家の遠祖、\r\n//<RUBY text='いぼろせきねん'>飯母呂石念</RUBY>へ下賜されたという次第よ》\r\n《Later, it passed into the hands of Lord Masakado when he erected a temple on Mount Haguro, another of Dewa's Three Mountains. Lord Masakado then gifted Gassan to his vassal, Iboro Sekinen, a distant ancestor to my clan.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17450,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0500a01'>\r\n//《……そういう事。\r\n//　なら、奥州<RUBY text='もくさ'>舞草</RUBY>鍛冶の特色が濃く残るその\r\n//<RUBY text='つくりこみ'>造込</RUBY>も納得がいく》\r\n《...I see. That would explain why it bears characteristics attributed to the smiths of Mokusa.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17843,
+  "en": "\r\n//　舞草鍛冶。劔冑の歴史において、まだ黎明の時代に\r\n//現れる名だ。\r\n//　その系統にあるということはあの劔冑、現存する中\r\n//では最古に近い部類に属するとみて違いない。\r\n  Mokusa, a name that appears in the earliest histories of tsurugi-smithing in Yamato. If that tsurugi is indeed of their line, then it must be one of the oldest tsurugi extant.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18273,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0510a01'>\r\n//《舞草鍛冶は<RUBY text='やじりづくり'>単鋭装甲CHECK</RUBY>の先駆者という意味で\r\n//画期的だった。\r\n//　彼らは初めて甲鉄の工夫による加速性上昇\r\n//という発想を持ち、しかも成功した……》\r\n《The smiths of Mokusa were pioneers in engineering. They were the first to shape armor for improved acceleration.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18751,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0520a01'>\r\n//《先程から貴方が見せている、見事な<RUBY text='あし'>速力</RUBY>。\r\n//　……正直、先人の叡智には感嘆の溜息しか\r\n//洩れてこないわね》\r\n《The remarkable speed you've demonstrated in this battle... I must admit, I am awed by the wisdom of my forebears.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19158,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0530b35'>\r\n//《ほっほっほ……そのように持ち上げられっ\r\n//ぱなしでは心苦しいのう。\r\n//　これから主らを打ち伏せねばならんという\r\n//に、何やら気が差してくるわ》\r\n《Ho ho ho... Such glowing praise! It almost makes me sorry to have to cut you down.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19565,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0540a01'>\r\n//《いいのよ、気にしないで。これから<RUBY text='・・・'>落とす</RUBY>\r\n//つもりだから。\r\n//　……彼らは速度の重要性には気付いていた。\r\n//けれど、そこまで》\r\n《Oh, you won't have to worry about that.\r\n  Yes, the Mokusa were first to realize the importance of speed, but that's as far as they got.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20026,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0550b35'>\r\n//《……うぬ？》\r\n《Hmm?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20166,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0560a01'>\r\n//《<RUBY text='かかりわざ'>空戦技術</RUBY>の体系化が始まるのは彼らの次の\r\n//時代から……。\r\n//　当時の彼らは旋回性の重要さを明確に知る\r\n//ところまでは達していなかったのよ》\r\n《It wasn't until the next age that research into aerial combat began in earnest. They never fully understood the importance of maneuverability.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20660,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0570b35'>\r\n//《……おおぅ!?》\r\n《...Ohh!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20806,
+  "en": "\r\n//　三合目の<RUBY text='ヘッドオン'>正面相撃</RUBY>。\r\n//　高度の優劣は――既に無し！\r\n  By the time we come about for the third exchange, our altitude―is equal!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21010,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0580a00'>\r\n//《<RUBY text='あし'>速力</RUBY>は備前、<RUBY text='こし'>旋回</RUBY>は関……\r\n//　劔冑に造詣あらば聞いたことはあろう》\r\n《For speed, Bizen. For handling, Seki. Anyone who's studied tsurugi knows this adage.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21354,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0590a01'>\r\n//《村正一門は美濃、関鍛冶衆の系統。\r\n//　旋回力を駆使する格闘戦で、<RUBY text='よそ'>他所</RUBY>の後塵は\r\n//拝さない！》\r\n《The Muramasa clan is of the Seki line. When it comes to gaining position in the air, I won't lose to anyone!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21738,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0600b35'>\r\n//《ぬかったわ！》\r\n《Blast!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21883,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0610a00'>\r\n//「……ふっ！」\r\n\"...Hrm!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22013,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0620b35'>\r\n//「……ぬっ！」\r\n\"Ngh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22149,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0630b35'>\r\n//「うむっ……!?」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22289,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0640a00'>\r\n//《貴様の遊びは終わりだ、相州乱破。\r\n//　この先の時間は俺が貰う》\r\n《Playtime is over, Outlaw of Soshu. From here, the advantage belongs to me.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22563,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0650b35'>\r\n//「ぐほぉっ!!」\r\n\"Gah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22698,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0660a01'>\r\n//《敵騎、左肩部に被撃。中破！》\r\n《Enemy unit, moderate damage to left shoulder!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22900,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0670a00'>\r\n//《そして俺は、<RUBY text='いくさごと'>戦事</RUBY>に遊びを持ち込むほどの\r\n//興は持たない。\r\n//　次の一合で<RUBY text='おと'>撃墜</RUBY>す》\r\n《And I am not so starved for battle as to toy with my opponents. I will finish this on the next pass.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23288,
+  "en": "\r\n//　手応えは充分。\r\n//　今一度、同一箇所に剣撃を加えれば必ず、甲鉄ごと\r\n//肉体までも斬り断てる。\r\n\r\n//　そして、そうせぬ理由はない！\r\n  That last strike went deep. One more blow in the same place will take me through his armor to the body beneath.\r\n\r\n  And there's nothing to stop me from delivering it!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23661,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0680a00'>\r\n//《参る》\r\n《It's over.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23789,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0690b35'>\r\n//《……ほっ、ほっほっほ。\r\n//　いや、これは確かに戯れが過ぎたようだの。\r\n//返す言葉もない》\r\n《...Ho ho ho ho. It seems I got a little carried away. Quite right you are.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24109,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0700b35'>\r\n//《いやいや、いくつになっても説教とは耳に\r\n//痛いものだて》\r\n《Even at my age, it still hurts to be on the receiving end of a lecture.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24380,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0710a00'>\r\n//《――――》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24510,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0720b35'>\r\n//《しかし、のう……村正よ。\r\n//　主の時間は今ここまで。ここからは再び、\r\n//儂が頂く》\r\n《But you're wrong about one thing, Muramasa. Your time ends now. I'll have my advantage back, if you don't mind.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24858,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0730a00'>\r\n//《……させぬ》\r\n《I'm afraid I do.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25001,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0740b35'>\r\n//《いやいや？》\r\n《Oh-ho?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25143,
+  "en": "\r\n//　――五合！\r\n//　騎航剣術の基本たる右上段にとり、両断を期す。\r\n\r\n//　対して、相手は太刀をだらりと下げた無構。\r\n//　そこから何をするつもりか――\r\n  The fifth exchange! I seat my blade in the right jodan and prepare to cleave my enemy in two.\r\n\r\n  Gassan, however, takes no stance. His blade dangles limply from his hands. What can he do from such a position?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25580,
+  "en": "《Regret, repentance, purification... Regret, repentance, purification...》",
+  "pt": ""
+ },
+ {
+  "offset": 25665,
+  "en": "\r\n//◆読みは「ざーんきさんげろっこんしょうじょう」\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0750b35'>\r\n//　\r\n//　　　《慙愧・懺悔・六根清浄……\r\n//　　　　慙愧・懺悔・六根清浄……》\r\n<center>《Regret, repentance, purification...\r\n<center>Regret, repentance, purification...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26051,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0760a00'>\r\n//「……何？」\r\n\"...What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26179,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0770a01'>\r\n//《えっ!?》\r\n《Huh!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26310,
+  "en": "\r\n//　消え――――――た？\r\n  He vanished?\r\n\r\n//　馬鹿な!?\r\n  Impossible!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26408,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0780a00'>\r\n//「いない……!?\r\n//　何処へ！」\r\n\"He's gone! Where did he <br>go!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26584,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0790a01'>\r\n//《待って！\r\n//　今、周囲を探査する！》\r\n《Hold on! I'm scanning the area!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26782,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0800a01'>\r\n//《――いた！\r\n//　敵騎<RUBY text='ひのえからうまのしも'>一七〇度下方</RUBY>、距離四〇〇！》\r\n《There! Enemy unit, five o'clock low, range 400!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27065,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0810a00'>\r\n//「承知！」\r\n\"Got it!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27189,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0820a00'>\r\n//「……？\r\n//　何処だ!?」\r\n\"...Where is he!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27340,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0830a01'>\r\n//《――えっ!?\r\n//　そんな……反応は確かに！》\r\n《Huh!? No way. He should be right there!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27554,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0840a00'>\r\n//「ぐあッッ!!」\r\n\"Gah!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27680,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0850a01'>\r\n//《こっ……攻撃!?\r\n//　何処から！》\r\n《W- We're hit!? Where did it come from!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27879,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0860a01'>\r\n//《こ――これは……》\r\n《No way...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28030,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0870a01'>\r\n//《どういうこと。\r\n//　私の耳が騙されている!?》\r\n《What's going on here? Something's tricking my ears!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28260,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0880a00'>\r\n//「……月山の陰義……か？」\r\n\"Is this Gassan's shinogi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28426,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0890b35'>\r\n//《ほっほっほっ》\r\n《Ho ho ho!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28574,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0900a00'>\r\n//「今の発信源は！」\r\n\"Trace that transmission!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28727,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0910a01'>\r\n//《き、<RUBY text='きのえのかみ'>七五度上方</RUBY>……》\r\n《Th- Three o'clock high!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28934,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0920a00'>\r\n//「……っ！」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29058,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs0930b35'>\r\n//《如何かな？　我が<RUBY text='キリガクレ'>霧隠</RUBY>の術は！\r\n//　口に合えば良いのだがのう！》\r\n《How do you like my Kirigakure-no-Jutsu? I hope it suits your palate!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29371,
+  "en": "\r\n//　……霧隠の術？\r\n//　姿を完全に隠してのけたというのか。\r\n\r\n//　しかも村正の<RUBY text='レーダー'>探査機能</RUBY>まで欺かれている！\r\n  Kirigakure-no-Jutsu? That's how he rendered himself invisible?\r\n\r\n  It's even fooling Muramasa's radar!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29673,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0940a00'>\r\n//「これほど強力な陰義があったのか!?」\r\n\"There are shinogi this powerful!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29861,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0950a01'>\r\n//《初耳よ！》\r\n《There can't be!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30006,
+  "en": "\r\n//　村正の<RUBY text='メタルエコー'>金打声</RUBY>は悲鳴じみていた。\r\n//　無理もないが。\r\n  Muramasa's voice is panicked, and I can hardly blame her.\r\n\r\n//　武者の陰義は理外の業。\r\n//　驚天、動地の代物が珍しくない。文字通り天を裂き\r\n//地を砕く力もかつて見たことがある。村正自身、並み\r\n//の武者からは魔神と恐れられるだけの能力を行使する。\r\n  All shinogi defy the laws of nature, and some are capable of destruction on a massive scale. I have witnessed with my own eyes their power split the sky and crack the earth. Muramasa, too, is strong enough to be feared as a demon.\r\n\r\n//　だが。\r\n//　ここまで<RUBY text='・・・'>反則的</RUBY>な能力は未だ知らなかった。\r\n  But never have I heard of a shinogi so㉒<I>unfair!</I>\r\n\r\n//　敵の姿を目視できず、探査機能さえあてにならない\r\n//ときては、そもそも勝負にならない。\r\n//　言語道断、無道の極みであった。\r\n  If one cannot see his enemy, even with radar, then he cannot defend himself, much less put up a fight. Such a shinogi defiles the very concept of a duel. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31220,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0960a00'>\r\n//「<RUBY text='クイーンズアーミー'>大英連邦騎士団</RUBY>が<RUBY text='ステルス'>隠身甲鉄</RUBY>の開発を進めて\r\n//いるとは聞いたことがあるが……」\r\n\"I've heard the Queen's Army has been developing stealth armor...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31579,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0970a01'>\r\n//《いくら舞草鍛冶が先駆的だったと言っても、\r\n//千年分は先駆け過ぎよ！》\r\n《Sure the smiths of Mokusa were ahead of their time, but a thousand years!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31868,
+  "en": "\r\n//　尤もだ。\r\n//　それに隠身装甲はあくまでも対レーダー用の技術で\r\n//あり、しかも、『探査され<RUBY text='・・・'>にくく</RUBY>する』という程度を\r\n//目標に実用化の目処をつけられている筈。\r\n  A bit hard to believe, I agree. Moreover, the stealth armor I mentioned will only be effective against radar; and even then, it will only make detection difficult, not impossible. It's certainly not capable of blocking light and generating false radar positives. At least, not as far as I know.\r\n\r\n//　視覚的な隠蔽のうえ敵の探査機能へ誤情報を飛ばす\r\n//などという超越兵器ではない。少なくとも、知られて\r\n//いる限りにおいては。\r\n//　となればやはり、あれは陰義……。\r\n  This can only be a shinogi.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32712,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs0980a01'>\r\n//《御堂！　回避して！》\r\n《Mido! Evade!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32869,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs0990a00'>\r\n//「!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32981,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1000a00'>\r\n//「……ッッ」\r\n\"Agh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33105,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1010a01'>\r\n//《敵騎攻撃、兜側面を擦過！\r\n//　危なかった……あと一瞬遅かったら、今頃\r\n//首が自由落下していたところね》\r\n《Glancing blow to helmet! That was close. If we'd been a second slower, our head would be in freefall right now.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1020a01'>\r\n//《御堂、大丈夫？》\r\n《Are you all right?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33629,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1030a00'>\r\n//「……っ、問題ない。\r\n//　それより今、どうして攻撃を察した？」\r\n\"Ugh... Affirmative. How did you detect the enemy's attack just now?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33889,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1040a01'>\r\n//《探査機能を<RUBY text='みみ'>信号探査</RUBY>から<RUBY text='はだ'>熱源探査</RUBY>へと切り\r\n//替えてみたの。\r\n//　当たりだったみたいね。敵の能力はこちら\r\n//には及ばない様子よ》\r\n《I tried switching from radar to infrared. Looks like I was right. He still has a heat signature.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34334,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1050a00'>\r\n//「そうか……\r\n//　流石に万能ではないか」\r\n\"I see. So it's not perfect, at least.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34531,
+  "en": "\r\n//　敵騎の隠身能力は視覚と通常探査からの隠蔽に限ら\r\n//れるらしい。\r\n//　ならばやりようはある――\r\n  If the enemy's shinogi can't block infrared, then maybe―\r\n\r\n//　とは、言い難い。\r\n//　圧倒的不利は依然、動かしようもなかった。\r\n  No, who am I fooling? I'm still fighting blind.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34895,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1060a00'>\r\n//「熱源探査に頼った戦闘は可能か？」\r\n\"Can we engage him using only infrared?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35086,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1070a01'>\r\n//《……それは、無理よ。\r\n//　有効範囲が狭過ぎる》\r\n《Not a chance. The effective range is too short.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35315,
+  "en": "\r\n//　そういう事。\r\n//　熱源探査は本来陸戦用の補助機能に過ぎず、空での\r\n//使用は想定されていない。その性能はあくまで空中戦\r\n//と比べれば格段に戦場が狭い陸上戦に相応のものだ。\r\n  As I thought. Infrared is meant for backup during ground engagements, where ranges are short, and is not suited to the wide-open sky.\r\n\r\n//　陸戦を主眼に置かれた劔冑であれば通常より優秀な\r\n//熱源探査を備えていることもままあるが……その点、\r\n//村正はごくオーソドックスな仕様である。\r\n//　主戦場はあくまで空、従って熱源探査を重視しない。\r\n  Tsurugi designed specifically for ground combat sometimes have more powerful scanners, but in this respect, at least, Muramasa's equipment is purely orthodox. When aerial combat is your primary concern, there are more important things to consider than infrared.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36274,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1080a01'>\r\n//《致命打を避けるのが関の山でしょうね……》\r\n《The best we can do is avoid critical damage.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36493,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1090a00'>\r\n//「無いよりは良いが……」\r\n\"It's better than nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36656,
+  "en": "\r\n//　霧隠の術とやらを破るには足りない。\r\n//　それには何か、もっと何か――\r\n  But not enough to defeat Gassan's Kirigakure-no-Jutsu. There has to be something―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36860,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1100a00'>\r\n//「……村正」\r\n\"...Muramasa.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36992,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1110a01'>\r\n//《なに？》\r\n《Yes?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37123,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1120a00'>\r\n//「奴が消えてから、既に何秒経過した？」\r\n\"How long has it been since he vanished?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37321,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1130a01'>\r\n//《……！》\r\n《!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37449,
+  "en": "\r\n//　答えはなかったが、俺の言わんとするところはすぐ\r\n//察したらしい。\r\n//　息を呑むような気配があった。\r\n  Muramasa doesn't respond, but I can tell that my meaning has gotten through.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37689,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1140a00'>\r\n//「陰義は多大な熱量を代償に発動する。\r\n//　強力なものであればあるほど消耗は激しい」\r\n\"Shinogi require a large expenditure of energy. The more powerful the shinogi, the greater the drain.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1150a00'>\r\n//「姿を消すようなふざけた術を延々と維持し\r\n//ながら、あまつさえ騎航し戦闘する……。\r\n//　必要な熱量はどれ程のものだ？」\r\n\"He's maintaining a shinogi powerful enough to render him undetectable while still engaging in aerial combat. How much energy would that require?\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38424,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1160a01'>\r\n//《……法外な桁になるはずね。\r\n//　まともな人間ならとっくに熱量欠乏で墜落、\r\n//いえ、凍死していなくてはおかしい》\r\n《...Incalculable. He should have frozen out and crashed by now. He should be a block of ice!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38791,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1170a00'>\r\n//「同意する。\r\n//　どうもこの相手には常識が通じぬようだ」\r\n\"I agree. It appears that this opponent doesn't play by the rules.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39040,
+  "en": "\r\n//　植えつけられた〝卵〟の効果とも考え難い。\r\n//　あの真改――鈴川令法も強大な陰義を駆使したが、\r\n//<RUBY text='フリーズ'>熱量欠乏</RUBY>は避けられずに墜ちていったのだ。\r\n\r\n//　果たして如何なる仕儀か。\r\n//　まったく見えてこない。まさしく五里霧中の只中に\r\n//ある心地がする。\r\n\r\n//　霧隠の術とはよくぞ言った。\r\n  Is this the work of Ginseigo's egg? No, it can't be.\r\n\r\n  While Shinkai―Suzukawa Ryobu―had his shinogi enhanced by an egg, it didn't protect him from freeze.\r\n\r\n  I haven't the slightest idea what could be at work here. It feels as though I'm wandering through a thick, expansive mist.\r\n\r\n  Exactly as the name Kirigakure―\"hidden in mist\"―would suggest.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39852,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1180a01'>\r\n//《……どうするの？》\r\n《What will you do?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40011,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1190a00'>\r\n//「奴の〝卵〟の危険性はどうだ。\r\n//　見たところ孵化は近そうだったか？」\r\n\"What's the status of his egg? Is it likely to hatch soon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40273,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1200a01'>\r\n//《いえ……そうね。\r\n//　正確にはわからないけれど、今日や明日と\r\n//いうことはないと思う》\r\n《Um... I can't be sure, but I think it's safe for the next day or two.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40582,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1210a00'>\r\n//「そうか……」\r\n\"I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40711,
+  "en": "\r\n//　ならば状況は、一つの決断を促していた。\r\n  Then there's only one answer.\r\n\r\n//　状況。\r\n\r\n//　敵騎の慮外の力。\r\n//　自己の不調。\r\n\r\n//　――勝利の見込みなし。\r\n  Situation: My enemy possesses extraordinary power. My condition is poor. No hope of victory.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41032,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1220a00'>\r\n//「この場の敗北を認める。\r\n//　戦域より離脱、後日の再戦を期す」\r\n\"This battle is lost. We will withdraw for now and reengage when we are better prepared.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41313,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1230a01'>\r\n//《……諒解！》\r\n《...Understood.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41460,
+  "en": "\r\n//　口惜しさを滲ませながら村正が応じる。\r\n\r\n//　その心持は理解できた。\r\n//　が、どうということでもない。\r\n\r\n//　<RUBY text='われら'>村正</RUBY>にとって重要事は、目的を遂げる、唯一事のみ。\r\n//　必要ならば敗退も方法として選択する。\r\n  I hear reluctance and shame in Muramasa's voice. I understand these sentiments well, but we haven't the luxury of indulging them.\r\n\r\n  The only thing that matters is our duty. We will run if we must, and fight another day.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42020,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs1240b35'>\r\n//《おやおや？\r\n//　ほっほぅ、あの村正が尻に帆を掛けておる\r\n//ぞ！　これは異なこと！》\r\n《What's this? Ho ho! Turning tail? What a surprise!》\r\n\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs1250b35'>\r\n//《まさかとは思うがこの老人と月山に、村正\r\n//ともあろう者が負けたというのかのう!?\r\n//　ほっほっほっ、そんな馬鹿な！》\r\n《The great Muramasa, defeated by an old man and his Gassan? Ho ho ho! Surely not!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42663,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1260a01'>\r\n//《……っ！》\r\n《...!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42797,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1270a00'>\r\n//《残念ではあるが御説の通り。\r\n//　交戦を継続すれば敗北は必至と判断した。\r\n//我々は撤退する》\r\n《I'm afraid that is correct. At present, defeat is inevitable. Therefore, I will withdraw.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43126,
+  "en": "\r\n//【小太郎】\r\n<voice name='小太郎' class='小太郎' src='voice/ma02/009vs1280b35'>\r\n//《おおぅ、なんと情けない！\r\n//　あのお方が聞いたら何というやら！　何と\r\n//いって嘆くやら！　きっとこう云うのだろう\r\n//のぉ――景明、それで届くつもりか、と！》\r\n《Oh, how pitiful! The princess would surely weep if she could see you now! What would she say, I wonder. Perhaps something along the lines of... <I>Do you expect to reach me like that, Kageaki!?</I>》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43669,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1290a00'>\r\n//《……く！》\r\n《...Ngh!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43800,
+  "en": "\r\n//　聞くな。\r\n//　重要なことは唯一つ――目的を遂げること！\r\n  Ignore him. Focus on the mission! The mission is everything!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43960,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1300a00'>\r\n//《村正――降下！》\r\n《Muramasa... prepare to dive!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44121,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1310a01'>\r\n//《諒解……！》\r\n《Understood!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44265,
+  "en": "\r\n//　兜角を下げ、速度を上げる。\r\n//　……風が<RUBY text='・・・・'>硬くなる</RUBY>。\r\n  I drop pitch and pick up speed, the wind growing harder around me as I descend.\r\n\r\n//　敵騎は速力重視の単鋭装甲。\r\n//　振り切れるかどうかは難しいところだが――やって\r\n//みるしかない。\r\n  The enemy is built for speed. It will be difficult to shake him, but there's no other choice.\r\n\r\n//　後方から追いすがって致命打を与えることは困難だ。\r\n//　武者の甲鉄は頑強至極、正面衝突の衝撃力があって\r\n//初めて斬り破ることが可能となる。\r\n  Fortunately, it is even more difficult to deal a critical blow to a fleeing enemy. Only with a head-on collision is it possible to breach a musha's armor with one blow.\r\n\r\n//　それに地表へ近付けば攻撃は危険さを増す。\r\n//　敵の上方から降下攻撃を仕掛けたはいいがそのまま\r\n//地表へ激突、という結果になりかねないからだ。\r\n  In addition, it is dangerous to attack a low-flying enemy from above. If you build up too much speed during the dive, you could easily plow into the ground.\r\n\r\n//　一撃二撃、食らうことは覚悟しておかねばならない。\r\n//　だが焦って手を誤らねば、過度の損害を被ることは\r\n//ない、筈――\r\n  I will likely take one or two attacks, but as long as I don't panic, I should be able to avoid serious―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45761,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1320a01'>\r\n//《……御堂ッッ!!》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45904,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1330a00'>\r\n//「!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46016,
+  "en": "\r\n//　な――――\r\n//　新手ッ!?\r\n  Another enemy!?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46085,
+  "en": "《Mind if I cut in?》",
+  "pt": ""
+ },
+ {
+  "offset": 46116,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/009vs1340a12'>\r\n//　\r\n//　　　　　《……お邪魔しますよ》\r\n<center>《Mind if I cut in?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46311,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/009vs1350a01'>\r\n//《なんて……不覚！\r\n//　<RUBY text='みみ'>通常探査</RUBY>を断っていたから……見過ごした\r\n//……！》\r\n《No! I forgot to switch back to radar! How could I be so careless!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46623,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/009vs1360a00'>\r\n//「く……おおっ!!」\r\n\"Kuh... OHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46766,
+  "en": "\r\n//　姿勢――制御！\r\n//　せめて……軟着陸を――――\r\n  Control... restored! Now if I can just... land softly...!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46911,
+  "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/009vs1370a12'>\r\n//「……クヒッ」\r\n\"...Hehe!\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma02/009vs1380a12'>\r\n//「クヒヒヒヒヒヒヒヒ……」\r\n\"Hehehehehehehehe!\"\r\n",
+  "pt": ""
+ }
+]

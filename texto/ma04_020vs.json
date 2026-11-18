@@ -1,0 +1,997 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma04/020vs0010a02'>\r\n//「――あ――」\r\n\"Uh―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 343,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma04/020vs0020a03'>\r\n//「……あれは」\r\n\"That's―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 484,
+  "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma04/020vs0030a04'>\r\n//「――装甲を！\r\n//　お嬢さま、お早く！」\r\n\"Your armor, Mistress! Quickly!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 674,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs0040a01'>\r\n//《あっ……》\r\n《Uh―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 809,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0050b02'>\r\n//「何？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 955,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0060a00'>\r\n//「――――!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1078,
+  "en": "\r\n//　瞬時。\r\n//　誰もが空を見上げた。\r\n\r\n//　――見よ、と。\r\n//　何者かの絶対的な命令を聞いたかのように。\r\n\r\n//　そして見る。\r\n//　その星を。\r\n  BEHOLD, a voice seems to ring from the heavens. Powerless to resist, all look to the sky.\r\n\r\n  And there we see it.<K>\r\n  The silver star. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1430,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0070a14'>\r\n//「……うぅむ。\r\n//　少しばかり、力が乗り過ぎたようだ」\r\n\"Hmm... I might have put a little too much into that one.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0080a14'>\r\n//「江ノ島が<RUBY text='・・・・・'>無くなって</RUBY>しまったぞ」\r\n\"Enoshima's been wiped off the map.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1861,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/ma04/020vs0090a15'>\r\n//《……御堂》\r\n《...Mido.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/ma04/020vs0100a15'>\r\n//《あそこだ》\r\n《Over there.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2156,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0110a14'>\r\n//「うん？」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2268,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/ma04/020vs0120a15'>\r\n//《<RUBY text='・・'>半島</RUBY>になっている》\r\n《You made it a peninsula.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2473,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0130a14'>\r\n//「おお。\r\n//　本当だ！」\r\n\"Oh! So I did!\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0140a14'>\r\n//「綺麗に飛んだものだな。\r\n//　あれは浮島だったのか」\r\n\"But what a smooth transition. I didn't know it was a floating island.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2843,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/ma04/020vs0150a15'>\r\n//《違うぞ。多分》\r\n《That seems unlikely.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3011,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0160a14'>\r\n//「ともあれ無事で何より。\r\n//　あのように景観の美しい島をなくしてしま\r\n//っては惜しいものな！」\r\n\"Well, I'm glad it's all right. Wouldn't want to lose such beautiful scenery!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3317,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/ma04/020vs0170a15'>\r\n//《……その意味では、もう、台無しだが》\r\n《...How much of it is left, I wonder.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3534,
+  "en": "\r\n//　……奇妙としか言いようもない話だが。\r\n//　振動、あるいは衝撃というものは、余り感じること\r\n//がなかった。\r\n\r\n//　覚えたものは、周囲の全てが一瞬にして消え去った\r\n//かのような、凄まじい喪失感――\r\n//　そしてその一瞬が過ぎた後の、<RUBY text='・・・・・・・・・'>しかし何も変わって</RUBY>\r\n//<RUBY text='・・・'>いない</RUBY>という、感覚と現実の甚だしい乖離。\r\n\r\n//　最後に。\r\n//　鎌倉周辺なら何処でも眺められる六波羅の普陀楽城\r\n//が、さっきより<RUBY text='・・・・・・'>近付いている</RUBY>ということから……\r\n\r\n//　……『事実』が理解されて……\r\n  Strange as it may seem, there is no sensation of impact or movement. There is only a feeling of tremendous loss, as though the entire world has vanished in an instant, followed by the jarringly incongruent realization that nothing about my immediate surroundings has changed.\r\n\r\n  But then I look in the direction of land, and discover that the lights of Fudaraku Castle, visible at night from anywhere in the region, are㉗<I>closer</I>㉑than before.\r\n\r\n  The truth hits me―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4787,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0180a00'>\r\n//「――ひ――」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4914,
+  "en": "\r\n//　畏怖のあまり、俺は失禁しかけた。\r\n  ―and I nearly soil myself in terror.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5021,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs0190a01'>\r\n//《………………\r\n//　あ……あ》\r\n《...Uh...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs0200a01'>\r\n//《あの……これは……\r\n//　<RUBY text='・・・・・'>達磨落とし</RUBY>のようなことになったのかしら\r\n//……？》\r\n《Did the world just... move out from under us?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs0210a01'>\r\n//《……この島が……》\r\n《Or...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5618,
+  "en": "\r\n//　村正の<RUBY text='こえ'>金打声</RUBY>も上擦っている。\r\n//　自分で言っている事を、自分で理解していない……\r\n//そう知れる声音。\r\n  Muramasa's voice is strained, as though she herself does not believe what she's saying.\r\n\r\n//　――そんな、馬鹿な。\r\n//　\r\n//　口にせずとも、俺と劔冑の思いは同じだった。\r\n  My thoughts and hers are one. <I>Preposterous.</I>\r\n\r\n//　おそらくこれは、<RUBY text='・・'>あれ</RUBY>の固有技能である重力制御に\r\n//よって実現した現象なのだろう、が……\r\n//　推測が及ぶのはそこまでで、具体的な部分はまるで\r\n//想像もつかなかった。\r\n  I know intellectually that this must be a manifestation of the gravity control that is my enemy's unique power, but that is the limit of my understanding. For the life of me, I cannot begin to comprehend㉓<I>how</I>㉔it was done.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6577,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0220b02'>\r\n//《……何だ。\r\n//　今、何が起きた？》\r\n《...What happened?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6779,
+  "en": "\r\n//　こちらは理解していないらしい、ガーゲット少佐。\r\n//　狐に化かされた心地ででもいるのか。ぽかんとした\r\n//表情が窺える素振りで、ままならぬ巨躯の首を巡らし\r\n//辺りを見回している。\r\n  Major Gargett does not have the benefit of even my meager knowledge. I can imagine the blank expression on his face as the giant's head swivels, looking for answers.\r\n\r\n//　配下の兵も同様なのであろう。\r\n//　指揮官の問いに答えられる者はなく、指揮官と同じ\r\n//事をせずにいられる者もいない。\r\n  None are forthcoming until, like me, his gaze alights on Fudaraku Castle―<I>larger than before―</I>and stops there, frozen.\r\n\r\n//　やがて、少佐の座す巨騎が一点を向いて固まる。\r\n//　俺と同じ。<RUBY text='・・・・・'>妙に大きな</RUBY>普陀楽城。\r\n\r\n//　……半秒後に、彼は求めた答えを得ることになるだ\r\n//ろう。\r\n//　彼の部下は、もうあと数秒ほど遅れるだろう。\r\n\r\n//　つまり――\r\n//　そこには最後の平安があったのだ。\r\n\r\n//　何が来たのかも知らず、何が起きたのかも知らず、\r\n//怯えず狂わず壊れずにいられる。\r\n//　貴重な時間。\r\n\r\n//　もはや還らぬ刻。\r\n//　最後の――最後の。\r\n  It will take him only a second to arrive at the truth. His men, similarly disoriented, will need a few seconds more.\r\n\r\n  These, then, are their last moments of peace on this earth.\r\n\r\n  Soon they will know what has descended from the sky. They will know what it has done, and what it will do.\r\n\r\n  And then they will know true fear.\r\n\r\n  The last moments of blessed ignorance before...<K> before―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8552,
+  "en": "\r\n//　――来た。\r\n//　心を犯す、銀の猛毒。\r\n  It comes. The silver venom that twists men's souls.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8676,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0230b02'>\r\n//《……何？\r\n//　…………<RUBY text='メタルエコー'>装甲通信</RUBY>……？》\r\n《...What? A metal-echo?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8928,
+  "en": "\r\n//　吠え声が上がった。\r\n\r\n//　人のものではない。\r\n//　知性持たぬ、<RUBY text='けだもの'>獣</RUBY>の。\r\n\r\n//　殺意を謳う。\r\n//　悪意を謳う。\r\n//　害意を謳う。\r\n\r\n//　そこに不純物は何もない。\r\n//　人がましい一切がない。\r\n\r\n//　かくも透き通った<RUBY text='まがき'>凶</RUBY>の唄、決して人には歌えぬもの。\r\n//　だからそれは人ではなかった。\r\n\r\n//　二本足で立ち、皮膚を鉄の毛皮で覆い、器械の牙を\r\n//持つ獣。\r\n//　彼らは獣だった。\r\n\r\n//　ＧＨＱの特殊部隊は、獣の群れと化していた。\r\n  Someone howls. No, some <I>thing.</I>\r\n\r\n  This is not the voice of a man, but of a creature without reason or conscience. It sings of violence, of bloodshed and malice.\r\n\r\n  Soon it is joined by ten, twenty, and more, to form a chorus of the jubilant damned. There are no impurities in their song, nothing㉓<I>human</I>㉗to taint its perfection. They are beasts now, nothing more―<br>two-legged, steel-skinned, and wielding tongues of flame.\r\n\r\n  Such is the fate of this GHQ unit and its mission.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10100,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0240b02'>\r\n//《何を……っ、\r\n//　何をしている!?》\r\n《What―  What are you doing!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10313,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0250b02'>\r\n//《やめんか!!\r\n//　やめろ！　仲間だ！》\r\n《Stand down! Stand down, I say!》\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0260b02'>\r\n//《わからないのか!?\r\n//　<RUBY text='・・・・・・・・・・・'>そこにいるのは同胞だぞ</RUBY>!!》\r\n《Can't you see!? Those are your comrades!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10820,
+  "en": "\r\n//　彼らは、猛る。\r\n//　手当たり次第に、暴れ狂う。\r\n  The feast begins. All are predators. All are prey.\r\n\r\n//　ある歩兵は、同僚の群れに機関銃を乱射した。\r\n//　そして、背後から戦車に踏み潰された。\r\n  A soldier empties his rifle into a clump of fellow infantry, filling the air with a mist of blood, then a tank crushes him beneath its treads.\r\n\r\n//　その戦車は前方の同型機に主砲を向けた。\r\n//　しかし、弾を撃ち出す前に砲口へ手榴弾を投げ入れ\r\n//られ、轟火を噴いて爆砕した。\r\n  The tank rolls on, uncaring, and sets its sights on another of its kind; but before it can loose its deadly shell, a grenade tossed down its barrel shreds it from within.\r\n\r\n//　狙われていた戦車は終始構う様子なく、空へ砲弾を\r\n//撒き散らし続けている。\r\n//　機動性の高い武者にそうそう命中するものではない\r\n//――が、遂に一発が<RUBY text='ワーウルフ'>Ｓ-一四</RUBY>の翼を撃ち抜いた。\r\n  The other tank, meanwhile, fires into the sky. The airborne dragoons are not easy targets, but finally, one goes down in flames.\r\n\r\n//　天空から一騎が転げ落ち、仲間は彼の悲劇を茫然と\r\n//眺めやる。\r\n//　彼らは獣になっていなかった。\r\n  The unlucky pilot's comrades look on in shocked silence. They have not become beasts.\r\n\r\n\r\n//　金剛の甲鉄で守られた武者達だけが……\r\n//　この小世界で、丸裸の人間の脆弱さを味わっていた。\r\n  They are protected by their tsurugi, by their cruxes of adamant. As the world unravels rapidly around them, they alone bear witness to the fragility of the unarmored.\r\n\r\n//　虚しい叱咤を繰り返すガーゲット少佐は、その中で\r\n//最も冷静さを保っていた一人だと言えるだろう。\r\n//　だからこそ、異色で――獣には<RUBY text='・・'>好餌</RUBY>と見えたのか。\r\n  The major, with his futile entreaties, is the only one among them who still has the presence of mind to act. Perhaps this makes him a particularly enticing morsel.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12993,
+  "en": "\r\n//　じろり、じろりと、獣らの血走った眼が嘗ての上官\r\n//を舐める。\r\n//　申し合わせたように、一様に。\r\n  As one, the beasts turn their savage, bloodshot eyes upon the man who was their leader.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13238,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0270b02'>\r\n//《ッ!?\r\n//　貴官ら――》\r\n《Men! You―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13415,
+  "en": "\r\n//　彼は何を言おうとしたのか。\r\n//　彼が信じていたものの一つ、尊い何かの崩壊に直面\r\n//して、どんな言葉で防ぎ止めようとしたのか。\r\n  I have no way of knowing what he tries to say, what words he thinks will prevent the collapse of that which he holds most dear.\r\n\r\n//　あくまでも人としての、彼の気高い試みは、しかし\r\n//機会さえ与えられなかった。\r\n//　せめてもの慰めは、どのみち無意味であったという\r\n//事だ。\r\n  But whatever it is, his last, noble attempt is denied its chance. Perhaps this is a kind of mercy. It was always doomed to failure.\r\n\r\n//　何を言おうと変わらない。\r\n//　何を言おうと、獣には意味を為さないのだから。\r\n\r\n//　変わりようがない。\r\n//　拳と刃と鉛弾の返答は。\r\n  Words, after all, cannot sway the heart of a beast. Their language is fist and fire, blade and blood.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14389,
+  "en": "\r\n//　……乱打を浴びる。\r\n//　怪物が――ガーゲット少佐が。\r\n  Gunfire envelops the major's machine, the shots wild, haphazard, but lacking no malice.\r\n\r\n//　先刻彼なりの表現で、貴重な存在であると言明した\r\n//人々から牙を突き立てられるなか。\r\n//　その胸には何が去来するのか。\r\n  I can only imagine how he must feel, taking fire from men whom he, in his own way, clearly treasured.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14857,
+  "en": "\r\n//　分厚い甲鉄は通常弾など苦もなく跳ね返している。\r\n//　\r\n//　だが<RUBY text='・・'>無傷</RUBY>ではないのだろう。決して。\r\n  Not one of the bullets hammering against him has the power to pierce his armor, but I know that they are far from harmless.\r\n\r\n//　巨騎の沈黙の中に、俺は遣り場のない怨嗟を聴いた。\r\n//　誰にとも、何処へとも、向けられぬ憤懣。\r\n  From within the steel giant issues a wordless cry of grief and rage, a naked blade that has no target.\r\n\r\n//　いや――\r\n  No target... save one.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15460,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0280b02'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15617,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0290b02'>\r\n//《……貴様……か……》\r\n《<I>You.</I>》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15794,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0300a00'>\r\n//「……！」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15915,
+  "en": "\r\n//　<RUBY text='ぎん'>銀</RUBY>。\r\n//　<RUBY text='ぎん'>白銀</RUBY>。\r\n//　<RUBY text='ぎん'>純銀鋼</RUBY>。\r\n  Silver! Silver! Most fabled of metals!\r\n\r\n//　月の欠片と信じられし<RUBY text='かね'>金属</RUBY>。\r\n//　魔力有ると畏れられし金属。\r\n//　狂気導くと忌避されし金属。\r\n  Fragment of the moon. Vessel of unearthly might. Herald of chaos and madness.\r\n\r\n//　それは古代の、素朴な人々の信仰。\r\n//　近代実証主義という凶暴な剣が、引き裂き絶命させ\r\n//てしまったもの。\r\n  Once regarded as a conduit for the supernatural, the apostles of modern science have since rejected that belief as a superstition of the foolish and ignorant.\r\n\r\n//　無知と蒙昧が見せた幻想と――\r\n//　\r\n//　しかし、果たして無知蒙昧はどちらであったのか。\r\n  But to whom do those labels truly belong?\r\n\r\n//　<RUBY text='ぎん'>白銀</RUBY>は今ここに在る。\r\n\r\n  Look! There it shines! A silver musha is before us, in its visage the beauty of a harvest moon, in its armor the majesty of peerless might, and in its gaze the light of unchained madness.\r\n\r\n//　月の美貌を、\r\n//　魔の武威を、\r\n//　狂気の光を、\r\n\r\n//　全て備えて。\r\n//　白銀の武者は此処にいる。\r\n\r\n//　ならばどうして疑えよう。\r\n//　銀の信仰を捨てられよう。\r\n  How, then, can we not share in the awe and terror that once gripped men's souls?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17424,
+  "en": "\r\n//　銀星号！\r\n//　この光輝が今、此処に在る！\r\n  Ginseigo! The Silver Star has come!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17538,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0310b02'>\r\n//《貴様が――\r\n//　貴様が！》\r\n《You! YOU!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17720,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0320b02'>\r\n//《〝<RUBY text='シルヴァー'>銀星号</RUBY>〟か!!\r\n//　我が同胞を、壊したのか!!》\r\n《You're Code Silver!? You drove my men insane!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18003,
+  "en": "\r\n//　ＧＨＱ将校であれば当然、銀星号事件の詳細は聞き\r\n//知っていたのだろう。\r\n//　その異様なばかりの内容とこの現状を合致させたに\r\n//違いない。\r\n\r\n//　真実を衝く叫びに、当の銀星号は鷹揚に頷いた。\r\n//　――そう。彼女はいつも、誰のどんな言葉でもなお\r\n//ざりにはしない。\r\n  The musha in question meets his roar with an indulgent nod. All words, I recall, are equal to her, all questions deserving a sincere reply.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18540,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0330a14'>\r\n//「<RUBY text='うむ'>肯</RUBY>。\r\n//　自ら称した覚えはないが、たしかにおれは\r\n//<RUBY text='ぎん'>白銀</RUBY>の名で呼ばれる者に他ならぬ」\r\n\"Indeed. Though the name was not of my choosing, there is no denying that I am the Silver.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0340a14'>\r\n//「同胞とは、彼らのことか。\r\n//　そうだ。<RUBY text='・・・・・・'>いらんものを</RUBY>、<RUBY text='・・・・・・'>消し飛ばした</RUBY>」\r\n\"And I assume these are your men? Then yes. I am responsible for relieving them of their burden.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19259,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0350b02'>\r\n//《要らんもの……!?》\r\n《What burden!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19434,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0360a14'>\r\n//「〝倫理〟」\r\n\"Morality.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0370a14'>\r\n//「人が自らの手足に填めた枷。\r\n//　これを、取り払ってやったのだ」\r\n\"The chain that men forged to bind their own limbs. I have freed them from it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19810,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0380b02'>\r\n//《何故!!》\r\n《Why!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19962,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0390a14'>\r\n//「それが、この<RUBY text='ヒカル'>光</RUBY>の道を阻むゆえに。\r\n//　打破し、破壊し、壊滅させねばならぬ」\r\n\"Because it is an obstacle in my path. I must scour all trace of it from the earth.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20279,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0400b02'>\r\n//《……貴様は……》\r\n《You...!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20446,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0410a14'>\r\n//「〝倫理〟……\r\n//　そして倫理に基づいて構成された〝社会〟」\r\n\"Morality is my enemy, as is the society founded upon it.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0420a14'>\r\n//「延いてはつまり〝人の世界〟」\r\n\"Which is to say the world of man entire.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0430a14'>\r\n//「すべて砕く。\r\n//　この光の手で打ち滅ぼす」\r\n\"I shall destroy it. Utterly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21030,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0440b02'>\r\n//《貴様は――狂っているのか！》\r\n《You're mad!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21219,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0450a14'>\r\n//「否！\r\n//　おれは理性の命じるところに従っている」\r\n\"Nay! I act only as my reason dictates!\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0460a14'>\r\n//「疑うなら、この光の雄図を聞け！\r\n//　江ノ島の面積が約十分の四平方キロ」\r\n\"If you doubt me, then listen, and tremble in awe at my flawless logic!\r\n  Enoshima has a surface area of approximately point-<br>four square kilometers.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21766,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0470b02'>\r\n//《……何だと？》\r\n《...What?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21931,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0480a14'>\r\n//「地球上の陸地総面積約一億五千万平方キロ。\r\n//　これを割り算すると」\r\n\"The earth has a total land area of approximately one hundred fifty million square kilometers.\r\n  Divide this by the area of Enoshima, and you get―\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0490a14'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0500a14'>\r\n//「……村正？」\r\n\"...Muramasa?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22499,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/ma04/020vs0510a15'>\r\n//《三億七千五百万》\r\n《Three hundred and seventy-five million.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22689,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0520a14'>\r\n//「そう！\r\n//　世界は江ノ島三億七千五百万個分」\r\n\"Correct! The world is three hundred seventy-five million times the size of Enoshima!\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0530a14'>\r\n//「つまり計算上、さっきの江ノ島キック三億\r\n//七千五百万回で世界は光の武力に屈服する！\r\n//　どうだ。違うか」\r\n\"The conclusion is obvious. Another three hundred seventy-five million Enoshima Kicks like the one just now, and the entire world will bow to my might! See? Flawless!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23338,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0540b02'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23495,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0550b02'>\r\n//《こ……この……\r\n//　気狂いめ……！》\r\n《You... raving lunatic!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23705,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0560a14'>\r\n//「むう。こんな単純な話がなぜわからん。\r\n//　英国人は数字に弱いのか？」\r\n\"Hmm. It seems awfully simple to me. Are Englishmen just bad at <br>math?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23973,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/ma04/020vs0570a15'>\r\n//《人のこと言えんぞ御堂。\r\n//　それにそういう問題ではないと思う》\r\n《No worse than you are, Mido. Besides, I doubt that is his problem.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24257,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0580a14'>\r\n//「もしかして彼は失われたムー大陸とか信じ\r\n//ている人なのか？\r\n//　まだ地底帝国がある、と？」\r\n\"Do you think he's one of those people who still believe in lost Atlantis? Or that there are lizardmen living in the center of the earth?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24620,
+  "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/ma04/020vs0590a15'>\r\n//《いや。そうでもなく。\r\n//　非現実的な話を大真面目に語る人間を見た\r\n//時、大概の人間は彼のような反応をするもの\r\n//だ。御堂》\r\n《That's not it either, Mido. Most people, when faced with someone who speaks of the impossible with such aplomb, would react in a similar manner.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25068,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0600a14'>\r\n//「……非現実的？\r\n//　何を馬鹿な」\r\n\"...Impossible? Don't be absurd.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0610a14'>\r\n//「<RUBY text='・・・'>やるぞ</RUBY>？\r\n//　おれは」\r\n\"What's to stop me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25408,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0620a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25534,
+  "en": "\r\n//　光。\r\n  Hikaru.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25568,
+  "en": "\r\n//　光。\r\n//　俺の――――<k>いもうと。\r\n  Hikaru.<K>\r\n  My―<K>sister.\r\n\r\n//　度重なる劇変に疲れ切った<RUBY text='こころ'>精神</RUBY>は、周囲で繰り広げ\r\n//られる<RUBY text='サバト'>饗宴</RUBY>にも揺れ動くことがない。\r\n//　それでも、想う――そこにいる彼女を。\r\n  Dizzying change after dizzying change has left my heart exhausted and numb. Yet still, it reaches out―out to Hikaru.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26043,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0630a00'>\r\n//「光……」\r\n\"Hikaru...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26169,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0640a14'>\r\n//「うん」\r\n\"Mm.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26277,
+  "en": "\r\n//　思わず口をついた、胸中の名。\r\n//　すぐさまくるりと、彼女はこちらに顔を向けた。\r\n\r\n//　続く言葉はない。\r\n//　銀の姿を見つめる。\r\n\r\n//　過去の面影はそこに無かった。\r\n//　何一つ――\r\n\r\n//　彼女もこちらを見つめていたのか。\r\n//　暫し黙った後、嬉しげな所作で頷いた。\r\n  A barely audible whisper, uttered unthinking, but she turns to face me at the sound of her name.\r\n\r\n  Not knowing what else to say, I stare at the silver musha in silence, but find no trace―none whatsoever―of the Hikaru I once knew.\r\n\r\n  She is appraising me too, it seems. After a short pause, she nods to herself, as if pleased by what she sees.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27022,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0650a14'>\r\n//「苦痛。\r\n//　煩悶。\r\n//　懊悩」\r\n\"Pain, grief, desperation...\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0660a14'>\r\n//「<RUBY text='しか'>而</RUBY>して未だ、折れぬ意思」\r\n\"Yet beneath it all, your will remains strong.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0670a14'>\r\n//「上々だ！\r\n//　こちらへ近付いてきているぞ、景明」\r\n\"Excellent, Kageaki! You're coming along nicely!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27587,
+  "en": "\r\n//　――この二年。\r\n//　彼女が俺に対して意味のある言葉を投げかけたのは、\r\n//今が初めてではないかと思う。\r\n\r\n//　なのに、わからなかった。\r\n//　彼女が何を言っているのか。何を言いたいのか。\r\n\r\n//　やはり――\r\n//　やはり、そうなのだ。\r\n\r\n//　あれは違うのだ。\r\n//　<RUBY text='・・・・・'>光ではない</RUBY>のだ。\r\n\r\n//　妹は、もう……\r\n//　失われてしまったのだ。\r\n  In two years, this may be the first time she has spoken a sentence to me.\r\n  And yet, the words are meaningless. Her thoughts are opaque, unknowable.\r\n\r\n  ...I was right. Gods be damned, I was right. The creature before me is not Hikaru.\r\n\r\n  My sister... is gone.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28367,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0680a00'>\r\n//「どうして……」\r\n\"Why...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28499,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0690a14'>\r\n//「ん？」\r\n\"Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28608,
+  "en": "\r\n//　俺はこの上ない愚問を発した。\r\n  I find myself asking the most foolish of questions.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28722,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0700a00'>\r\n//「どうして、狂った」\r\n\"What did this to you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28875,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0710a14'>\r\n//「おまえまでそんなことを言うのか」\r\n\"Kageaki...\" she sighs, her tone wounded. \"Even you think me insane?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29086,
+  "en": "\r\n//　拗ねたような声。\r\n\r\n//　そこに狂気の自覚など露ほどもない。\r\n//　……当然だ。<RUBY text='・・・・・'>だからこそ</RUBY>狂っているのだ。\r\n\r\n//　こんな問いには意味がない。わかっている。\r\n//　それでも未練が、俺に言葉を続けさせた。\r\n  She seems wholly unaware of her insanity. Of course. That is what㉓<I>makes</I>㉓her insane.\r\n\r\n  I know that these questions are futile. I know what to expect.\r\n  But my pain, my regret, will not let me stay silent.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29642,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0720a00'>\r\n//「<RUBY text='・・・・'>呪われた</RUBY>からか？\r\n//　そうなのか？」\r\n\"Was it the curse? Was that <br>it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29866,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0730a14'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0740a14'>\r\n//「狂ってなどいないよ……\r\n//　景明」\r\n\"I'm as sane as ever, <br>Kageaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30153,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0750a00'>\r\n//「狂っている。\r\n//　狂っているではないか！」\r\n\"As sane as ever? How can you say that!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30358,
+  "en": "\r\n//　俺はＧＨＱの兵士ら――だったもの――を指差した。\r\n  I thrust my finger at the GHQ soldiers―at the beasts who㉔<I>were</I>㉓GHQ soldiers.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30539,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0760a00'>\r\n//「彼らを見ろ！\r\n//　お前の放つ<RUBY text='・'>波</RUBY>を浴びてああなった！」\r\n\"Look at what happens to those touched by your power!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30796,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0770a00'>\r\n//「お前が狂っているから、お前と心を重ねた\r\n//彼らも狂ってしまったのだ！\r\n//　そうだろう!?」\r\n\"Joining minds with you has driven them to slaughter their allies! And you call yourself sane!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31122,
+  "en": "\r\n//　俺の指を追って、銀の眼差しが地上をさすらう。\r\n//　……阿鼻叫喚の巷。\r\n\r\n//　視線がわずかに細まった。\r\n//　それは、会心の態。\r\n  The silver demon follows my finger, her gaze taking in the hell she created.\r\n\r\n  Then her eyes seem to narrow, expressing <I>satisfaction.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31465,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0780a14'>\r\n//「……〝布武〟……」\r\n\"The Law of Might.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31605,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs0790a00'>\r\n//「何？」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31724,
+  "en": "\r\n//　……布武？\r\n  The Law... of Might?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31780,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0800a14'>\r\n//「しかし、確かに解せないところはある」\r\n\"But you're right. It does strike me as odd.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0810a14'>\r\n//「なぜ誰も彼もが知性を失うのか？\r\n//　なぜ光のようにはいられないのか？」\r\n\"Why do they all become as beasts? Why don't they retain their reason, as I do?\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0820a14'>\r\n//「それほどに飢えていたのだろうか……\r\n//　人は常日頃、そこまで<RUBY text='とうそう'>斗争</RUBY>の<RUBY text='さが'>性</RUBY>を抑圧しな\r\n//がら生きているものなのか？　<RUBY text='・・・・・・'>光とは違って</RUBY>」\r\n\"Is their hunger so strong? Do men truly spend their whole lives suppressing their nature, as I do㉓<I>not?</I>\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0830a14'>\r\n//「だから」\r\n\"Is that why...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32836,
+  "en": "\r\n//　銀星号は、右手の人差し指と親指で輪を作った。\r\n//　それを一人の兵士に向ける。\r\n  Ginseigo makes a circle with her right thumb and forefinger, then aims it at a nearby soldier.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33063,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0840a14'>\r\n//「少し弾いただけで」\r\n\"If you just... flick them a little...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33223,
+  "en": "\r\n//　指を弾く。\r\n  She makes the motion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33280,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0850a14'>\r\n//「こうなってしまうのか？」\r\n\"You get this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33425,
+  "en": "\r\n//　――その指先から、見えぬ何かが飛ばされたのか。\r\n//　兵士の身体が跳ね上がった。\r\n\r\n//　常識では考えられない跳躍。\r\n//　口をつく奇声。\r\n  The soldier's body leaps into the air, as if propelled by some invisible force.\r\n\r\n  The height of his jump is inhuman, as is the howl that bursts from his throat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33800,
+  "en": "\r\n//　彼は怪物に取り付いた。\r\n//　搭乗者の少佐が収納されている辺り、分厚い甲鉄の\r\n//<RUBY text='おうとつ'>凹凸</RUBY>をつかみ、血色の眼光を突き刺す。\r\n  The thing that was a man lands on the giant, and clinging to its armor, aims his bloodshot eyes at the machine's cockpit.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34142,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0860b02'>\r\n//《……ケヴェック！》\r\n《Kevick!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34312,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0870b02'>\r\n//《ケヴェック上等兵!!》\r\n《Private Kevick!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34492,
+  "en": "\r\n//　名を呼ばわれて。\r\n//　その兵士は笑った。\r\n\r\n//　そう見えたのだ。\r\n//　犬歯を剥き出しにした顔が。\r\n\r\n//　彼は、そのまま、上体を煽り、\r\n//　反動をつけて、\r\n  The soldier grins at the sound of his name―or rather, bares his teeth in what seems a grin―then leans back, rears his head―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34858,
+  "en": "\r\n//　顔面を甲鉄に投げつけ。\r\n//　――噛み付いた。\r\n  ―and lunges, <I>biting</I>㉑into the giant's hide.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34996,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0880b02'>\r\n//《……うっ……》\r\n《Kuh...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35159,
+  "en": "\r\n//　傷もつく筈がない。\r\n//　それでも齧る。\r\n\r\n//　己の歯を砕き散らしながら。\r\n//　喜悦じみた吠え声を上げ、歯が立たない甲鉄を齧り\r\n//続ける。\r\n\r\n//　――地獄の餓鬼の<RUBY text='さま'>様</RUBY>に似ていた。\r\n  His teeth shatter. Blood runs down his jaw. But still he keeps gnawing, howling all the while.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35550,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0890b02'>\r\n//《う……》\r\n《Ah...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35703,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0900b02'>\r\n//《うあああァァァァァァッ!!》\r\n《AHHHHHHHHHHH!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35890,
+  "en": "\r\n//　兵士の身体が粉微塵に砕け散る。\r\n//　それでも巨騎の斉射は止まない。\r\n\r\n//　兵士のいたあたりに、何かが張り付いている。\r\n//　……顎だ。食いついた顎だけが残って、怪物の甲鉄\r\n//を飾っている。\r\n  Private Kevick's body bursts like a melon, but the giant continues to fire.\r\n\r\n  Beside the cockpit dangles the man's severed jaw, stuck to a handhold like a grisly trophy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36353,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0910b02'>\r\n//《アアアアアアアアアアアア!!\r\n//　貴様ァァァァァァァァァァァァァ!!》\r\n《AHHHHHHHHHHHH!\r\n  YOU FIEND!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36612,
+  "en": "\r\n//　音程を外した憎悪の叫びが、弾幕と共に空を塗る。\r\n//　既に正気ではなかったのかもしれない。だが狙点は\r\n//正確だった。銀影を目掛け、無数の針が飛ぶ。\r\n  With a roar of pure hate, the major trains all his cannons on the silver tsurugi. Perhaps his sanity has already fled; his aim, however, is beyond reproach. A thousand bullets find their mark.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37037,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0920a14'>\r\n//「ふっ――」\r\n\"Heh―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37154,
+  "en": "\r\n//　銀星号の細い手が、再び<RUBY text='・・・'>指打ち</RUBY>の形をつくった。\r\n//　そして、消える。\r\n\r\n//　いや――\r\n//　<RUBY text='はし'>疾</RUBY>る。\r\n  Ginseigo's hand assumes once more the flicking position, and then her index finger vanishes.\r\n\r\n  No. It only㉔<I>seems</I>㉗to vanish.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37503,
+  "en": "\r\n//　到底、眼に留めることなどできない速度で駆け巡る\r\n//銀星号の指先。\r\n//　その一閃ごとに鳴る乾いた音。\r\n\r\n//　確認できる事実はそれのみ。\r\n//　否、あともう一つ。\r\n\r\n//　銃弾は一発たりと、銀星号の甲鉄に着弾していない。\r\n//　ガーゲット少佐は撃ち続け、狙いは正確であり続け\r\n//ているというのに、だ。\r\n  It lashes out again and again, far faster than the human eye can follow, and the night shivers with the sound of sharp pings.\r\n\r\n  That is all that my senses can perceive.<K>\r\n  No, one thing more.\r\n\r\n  Not one bullet reaches Ginseigo's armor, though the major's fire is unceasing and his aim remains true.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38249,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0930a14'>\r\n//「なんとも不器用な指遣いであることよ！\r\n//　<RUBY text='クルセイダー'>騎士</RUBY>、乙女の柔肌に触れたいと望むなら、\r\n//もそっと丁寧にしなくてはならぬ」\r\n\"Clumsy, sir knight!\" the silver musha says with a merry laugh. \"A maiden's fair skin requires a softer touch.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0940a14'>\r\n//「これではどんな娘も<RUBY text='なび'>靡</RUBY>くまい。\r\n//　平手打ちを食うのが落ちであろうよ！」\r\n\"Such fumbling fingers will win you no hearts, I'm afraid. A slap to the face will be your only reward!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38983,
+  "en": "\r\n//　銀月の武者が<RUBY text='らんまん'>爛漫</RUBY>に笑う。\r\n\r\n//　……あれは、何だ。\r\n//　弾丸を指先で打ち返しているのか。\r\n  Is she deflecting the bullets... with her㉓<I>finger?</I>\r\n\r\n//　……………………。\r\n//  ............\r\n\r\n//　自分で言っておいて、信じられない。\r\n//　信じたくはない。\r\n\r\n//　だが目前の光景から類推される真実は他になかった。\r\n  My mind rebels against the notion, but there's no other explanation.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39520,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs0950b02'>\r\n//《お――\r\n//　おおおおアアアアア!!》\r\n《AHH! AHHHHHHHHHH!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39721,
+  "en": "\r\n//　巨獣が回頭し、一際不穏な砲門が首を伸ばす。\r\n//　肌の粟立つような唸りが、夜風を乱す。\r\n\r\n//　……あれを撃つ気か。\r\n\r\n//　弾を使わず、標的を焼き尽くす魔砲。\r\n//　あれは――銀星号と云えど、躱しようがない――？\r\n\r\n//　その脅威を知ってか知らずか。\r\n//　銀星号は何やら不興げに、むぅ、と吐息した。\r\n  The giant turns and bears its main gun, which comes to life with a blood-chilling roar.\r\n\r\n  So next is the beam that took most of my limbs, a weapon with no visible projectile that burns its targets to a cinder.\r\n\r\n  It is a force to be reckoned with, even for Ginseigo, but she doesn't seem to understand the threat it presents.\r\n  ...Or does she?\r\n\r\n  Either way, she is㉓<I>not</I> amused.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40556,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0960a14'>\r\n//「――慮外者。\r\n//　乙女に向かって、許しも得ず、そんな無粋\r\n//な代物を突きつけるとは何事か」\r\n\"Beast! How dare you reveal your unmentionables to a lady without permission?\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0970a14'>\r\n//「光に対する狼藉は高いぞ！」\r\n\"You will pay dearly for this disrespect!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41026,
+  "en": "\r\n//　あるいは警告であったのかもしれないそれを、少佐\r\n//は聞き入れなかった。\r\n//　聴こえてもいなかったのだろう。\r\n  If this is meant to be a warning, then it goes unheeded. I doubt a word of it reaches the major's ears.\r\n\r\n//　剣呑な唸りが極限に達する。\r\n//　不可思議なる死の呪術が完成に至る。\r\n  The cannon's roar peaks. A moment more, and it will loose its terrible power.\r\n\r\n//　銀星号は不動。\r\n//　未知の脅威に対して、備えは何もなく――\r\n  Yet even facing a weapon whose nature she cannot know, Ginseigo makes no move to defend or retreat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41689,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0980a14'>\r\n//「ふん……？\r\n//　何だ。<RUBY text='・・・・・'>そんなもの</RUBY>か」\r\n\"Hmm? Oh, is that all?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41894,
+  "en": "\r\n//　<RUBY text='シキ'>死気</RUBY>が飛ぶ。\r\n//　身体の前で両腕を×字に交差して、銀星号がそれを\r\n//受ける。\r\n  The wave of energy swallows Ginseigo, who meets it with arms crossed before her.\r\n\r\n//　そのまま動かず――\r\n//　数瞬、凍った時が流れて。\r\n  For several seconds, nothing moves. Time itself seems to have frozen.\r\n\r\n//　……死んだ？\r\n\r\n//　その一語が脳裏を過ぎった。\r\n//　そう思ったから、<RUBY text='・・・・'>ではなく</RUBY>。\r\n  ...Is she dead?<K>\r\n  The question plays through my mind, but not because I believe it to be so.\r\n\r\n//　そう思えなかったから。\r\n//　否定するために、そう考えたのだ。\r\n  Quite the opposite, in fact. The question's purpose is to be denied.\r\n\r\n//　事実。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42724,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs0990a14'>\r\n//「<RUBY text='・'>波</RUBY>を送って内から壊す。\r\n//　なるほど。良く出来てはいるが」\r\n\"Waves that destroy your enemy from within. A finely crafted weapon, yes.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs1000a14'>\r\n//「要は<RUBY text='・・・'>裏当て</RUBY>ではないか……\r\n//　この程度の打法、返すのは造作もない」\r\n\"But really just a variation on the vibrating palm. To counter such a blow is child's play.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs1010a14'>\r\n//「こう――」\r\n\"Observe.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43417,
+  "en": "\r\n//　ふっと、銀色武者が両腕を開く。\r\n//　目の覚めるような鋭い動き。\r\n  With a crisp, smooth motion, the silver musha spreads her arms.\r\n\r\n//　その刹那、怪物の砲が<RUBY text='・・・'>溶けた</RUBY>。\r\n  And right before my eyes, the giant's cannon㉓<I>melts.</I>\r\n\r\n//　砲だけではない。\r\n//　周辺の装甲がごっそりと――火にあてられた氷よろ\r\n//しく、曲線的な形で削られている。\r\n  The destruction doesn't stop there. The armor surrounding the cannon, too, sloughs away like ice beneath a blowtorch, sending sheets of molten slag crashing to the ground.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44073,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs1020a14'>\r\n//「波を返してやれば、ほら、斯様――\r\n//　未熟な拳を使った腕は、自ら砕けることに\r\n//なる」\r\n\"Reflect the waves like so, and there you have it. The untrained fist is shattered by its own power. This is why you don't use techniques that are beyond you.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs1030a14'>\r\n//「な？」\r\n\"Right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44554,
+  "en": "\r\n//　兜の奥で片目を瞑り、最後の一語は俺に投げる。\r\n//　……同意など求められたところで、返す言葉という\r\n//ものがないが。\r\n  This last is directed to me with a wink. Am I supposed to...㉓<I>agree</I>㉓with her?\r\n\r\n//　全く理解の及ばない攻防だった。\r\n//　あの砲器は結局どんな代物であったのか――そして\r\n//銀星号は如何にしてそれを破ったのか。\r\n  How can I, when I haven't the faintest idea what she did or how? I'm still not certain what that weapon even was.\r\n\r\n//　まるでわからない。\r\n\r\n//　つまりは<RUBY text='・・'>これ</RUBY>が俺と<RUBY text='あれ'>銀星号</RUBY>の間にある差か。\r\n  So㉒<I>this</I>㉗is the chasm that separates us.\r\n\r\n//　想像の翼も届かぬ果ての果て。\r\n//　別次元の別世界。\r\n  From where I'm standing, she might as well be on another planet, in another galaxy―no, farther, farther than my feeble imagination can take me.\r\n\r\n//　そんな処にあの白銀はいるのだ。\r\n//　天地の隔たりより、更に遠い。\r\n  I am a man, chained to the earth, and Ginseigo a child of the uttermost stars.\r\n\r\n//　――――行き着けるのか？\r\n//　俺は……\r\n  Will I ever reach her?\r\n\r\n  Is it even possible?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45879,
+  "en": "\r\n//◆ボイス「サー・ジョージ!?」\r\n//【ｅｔｃ／ＧＨＱ竜騎兵Ａ】\r\n<voice name='ｅｔｃ／ＧＨＱ竜騎兵Ａ' class='その他男声' src='voice/ma04/020vs1040e006'>\r\n//「ガーゲット卿!?」\r\n\"Sir George!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46128,
+  "en": "\r\n//【ｅｔｃ／ＧＨＱ竜騎兵Ｂ】\r\n<voice name='ｅｔｃ／ＧＨＱ竜騎兵Ｂ' class='その他男声' src='voice/ma04/020vs1050e007'>\r\n//「くそ、殺してやる――」\r\n\"You fucking monster!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46350,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs1060a14'>\r\n//「うん？　新手か……。\r\n//　乱雑に群れを成してとは、また無作法な」\r\n\"What's this? A group of latecomers all rushing in at once?\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs1070a14'>\r\n//「<RUBY text='レディ'>淑女</RUBY>に<RUBY text='ダンス'>舞</RUBY>を申し込むなら、<RUBY text='・・・・'>順番待ち</RUBY>くらい\r\n//するものぞ。\r\n//　しかし良かろう」\r\n\"Such impatience is most unbecoming. If you wish to ask a lady to dance, you should at least have the courtesy to wait your turn. But no matter.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs1080a14'>\r\n//「狩猟民族に作法を云々しても始まらぬ！\r\n//　参れ、光が相手して遣わす！」\r\n\"I'll not seek to teach manners to barbarians! <br>Come! Hikaru shall lead for this number!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47313,
+  "en": "\r\n//　……<RUBY text='しばい'>演劇</RUBY>は、次の場面に移った。\r\n//　上空を飛遊していた竜騎兵隊が次々と降下し、上官\r\n//を打ち伏せた敵騎を襲う。\r\n  And so the comedy enters its next act, as brave dragoons descend from the sky to punish the demon who wounded their lord.\r\n\r\n//　迎え撃つ銀星号。\r\n//　繰り広げられる戦闘――\r\n  Ginseigo rises to meet them, and battle is joined.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47773,
+  "en": "\r\n//　……それが本当に戦闘と呼ぶに値するものであった\r\n//かは、疑問の余地を有した。\r\n//　銀星号は見るも明らかに<RUBY text='・・・・・'>戯れている</RUBY>。\r\n  Though I have to wonder. Can what follows truly be called a battle? Ginseigo is clearly㉔<I>toying</I>㉑with her opponents.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48125,
+  "en": "\r\n//　<RUBY text='クロスファイア'>十字銃火</RUBY>の間隙を縫い、必殺の剣閃を指であしらい、\r\n//楽しげに踊る。\r\n//　そう――踊っている。\r\n  They throw up a cage of crisscrossing fire, but she darts through gaps that hardly exist. They close and strike with their swords from all sides, but she bats them away with playful sweeps of her fingers.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48526,
+  "en": "\r\n//　文字通りに。\r\n//　銀星号の駆ける軌道が、常に美しい文様を描くなら、\r\n//他にどう解釈できるというのか。\r\n  She is dancing. Yes, dancing. How else to describe the beauty and grace with which she flits across the sky?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48801,
+  "en": "\r\n//　俺は呆然と<RUBY text='みと'>見蕩</RUBY>れた。\r\n//　観客席に、棒立ちになって。\r\n  I watch, entranced, unable to move from my spectator's seat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48985,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1090a01'>\r\n//《……!!》\r\n《...!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49115,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1100a01'>\r\n//《御堂！\r\n//　いけない――こんな場合じゃない》\r\n《Mido! We have a problem!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1110a01'>\r\n//《<RUBY text='・・・・・・'>数が減ってる</RUBY>……！》\r\n《There are people missing!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49519,
+  "en": "\r\n//　数が減ってる？\r\n//　数――\r\n  People? What people?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49597,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1120a01'>\r\n//《御堂ッ！》\r\n《Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49732,
+  "en": "\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49747,
+  "en": "\r\n//　――!!\r\n\r\n//　その刹那、ようやく意識が醒めた。\r\n//　銀星号の出現以来、衝撃に麻痺し切っていた脳髄が\r\n//急速に動き出す。\r\n  My brain finally awakens to Muramasa's cry, the processes that were paralyzed by Ginseigo's arrival spinning once more to full speed.\r\n\r\n//　狂っていた兵士たちの数が<RUBY text='・・・・'>足りない</RUBY>。\r\n//　それは無論、凄惨な同士討ちの結果でもある。\r\n  There are fewer soldiers than before, too few to be explained by the carnage alone.\r\n\r\n  I should count twice as many men and tanks. Where did the rest go?\r\n\r\n//　だがそれを加えても足りない。\r\n//　この倍はいた筈だ。車両も歩兵も。何処へ消えた？\r\n\r\n//　何処へ…………<k>\r\n//　まさか。\r\n  Where did they―<K>\r\n  No!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50602,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1130a00'>\r\n//「<RUBY text='・・・'>目の前</RUBY>の片瀬へ向かったのか!?」\r\n\"They're headed for Katase!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50808,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1140a01'>\r\n//《可能性はある……\r\n//　あれが<RUBY text='・'>獣</RUBY>で、<RUBY text='・'>餌</RUBY>を求めているとすれば》\r\n《If they're animals, and they're hungry for prey―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51106,
+  "en": "\r\n//　本能的に、人の多い場所を目指したとも――\r\n//　考え得るのか！\r\n  ―then their instinct might lead them to the town on the shore!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51279,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1150a01'>\r\n//《止めないと！》\r\n《We have to stop them!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51436,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1160a00'>\r\n//「あ――」\r\n\"Ri―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51558,
+  "en": "\r\n//　あ、と応答しかけて。\r\n//　俺の思考が停止する。\r\n  I begin to reply, but something brings me crashing to a halt.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51707,
+  "en": "\r\n//　狂乱の渦の中で、一際暴れ猛っているもの。\r\n//　怪物――ガーゲット少佐。\r\n  I look to the center of the chaos, a storm of rage and despair unto itself―the giant piloted by Major Gargett.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51943,
+  "en": "\r\n//　半壊しながらも尚、上空の銀騎を狙い、砲撃を続け\r\n//ている。\r\n//　\r\n//　――あの中には、<RUBY text='・・'>彼ら</RUBY>が。\r\n  Even with half his armor gone, he continues to fire at the silver shape in the sky.\r\n\r\n  What is keeping the monster moving?㉒<I>They</I>㉕are. Deep in the monster's bowels, those children are still being used as fuel.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52346,
+  "en": "\r\n//　それに、この場の地獄……\r\n//　心を壊され、仲間と食い合う進駐軍の兵士ら……\r\n\r\n//　彼らを救うには、銀星号を止めるほかなく――\r\n  And then there are the others to think about, the deranged soldiers feasting on their comrades in this hellish place.\r\n\r\n  If I wish to save them, then the only way is to defeat Ginseigo.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52735,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1170a01'>\r\n//《どうするの!?》\r\n《What do we do!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52885,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1180a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53011,
+  "en": "\r\n//　どうする。\r\n//　どうすれば良いかは――わかっている。\r\n  What do I do?\r\n\r\n//　<RUBY text='いちどき'>一時</RUBY>に全てを片付けることはできない。\r\n//　ここにはもはや<RUBY text='おれ'>村正</RUBY>しかいないのだ。\r\n  I can't solve every problem at once, not with Muramasa as my only asset.\r\n\r\n//　恃むべき味方はこの場にいない。\r\n//　そもそも今、無事でいるか――いや。その点は信じ\r\n//られる。生き延びる力がある筈だ。だからこそ、この\r\n//危険な道程へ巻き込む事も<RUBY text='がえ'>肯</RUBY>んじたのだから。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53678,
+  "en": "\r\n  Ichijo is nowhere to be seen. I don't even know if she's still alive―no, she has to be. I allowed her to come on this dangerous mission because I knew that she could be expected to survive.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 53883,
+  "en": "\r\n  My comrades are nowhere to be seen. I don't even know if they're still alive―no, they have to be. I allowed them to come on this dangerous mission because I knew that they could be expected to survive.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54100,
+  "en": "\r\n//　俺は目前の状況と俺のみの力で戦おう。\r\n//　それには優先順位をつけるしかない。\r\n  In any case, I have only my own strength to command. I'll have to prioritize.\r\n\r\n//　……<RUBY text='・・・・'>優先順位</RUBY>！\r\n//　その烏滸がましさは何とした事であろう。\r\n  <I>Prioritize!</I> Few concepts are more foul with lives at stake.\r\n\r\n//　だが明らかな真実が一つだけあるのだ。\r\n//　こうしている間にも<RUBY text='・・・'>無駄に</RUBY>死んでゆくという！\r\n  But alas, there is only one truth in this place. People are dying even now. Dying for nothing!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54768,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1190a00'>\r\n//「まず怪物を始末する！\r\n//　次いで狂った兵団！\r\n//　最後に、最も手間取るであろう銀星号！」\r\n\"First, we finish the Rokuhara giant! Then the soldiers who made for the land bridge! Ginseigo is last; she'll take the most time!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55130,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1200a00'>\r\n//「以上、方針！」\r\n\"Objections!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55268,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1210a01'>\r\n//《諒解！》\r\n《None!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55400,
+  "en": "\r\n//　即座、村正が合当理を吹き鳴らす。\r\n//　全身を煽る飛躍の衝動。\r\n  Muramasa ignites her gattari. My body quakes as we start to rise, but the vibrations are weak! We have too little power! Will we even be able to fly!?\r\n\r\n//　……<RUBY text='パワー'>出力</RUBY>が不足している！\r\n//　これでどこまで動けるか……！\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55783,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs1220a14'>\r\n//「来るか……\r\n//　景明」\r\n\"Are you ready, Kageaki?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 55933,
+  "en": "\r\n//　銀星号がこちらを見ていた。\r\n//　剣林弾雨の下を悠々と散策しながら。\r\n  Ginseigo looks down upon us and speaks, calmly eluding blades and bullets all the while.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56139,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma04/020vs1230a14'>\r\n//「待ちきれなくなる頃だと思っていたぞ。\r\n//　良し――今日はおまえに<RUBY text='・・・・'>いいもの</RUBY>を贈ろう」\r\n\"It took you long enough.\r\n  Hmm... I know! You deserve a reward!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56453,
+  "en": "\r\n//　言うや、その銀影は包囲網の中央から消え失せた。\r\n//　忽然と、噴煙も残さず。\r\n  An instant later, Ginseigo vanishes from the dragoons' encirclement.\r\n\r\n//　魔術を使ったわけではない。\r\n//　騎航によって脱出したに過ぎない。\r\n  This is no magic, I know, but simple flight―flight whose transcendent speed and agility make it impossible for the human eye to follow. The GHQ musha barely keep from colliding with each other in surprise.\r\n\r\n//　だがその加速性、旋回性が異常極まるために、常人\r\n//の眼には消えたようにしか見えないのだ。\r\n//　進駐軍の武者は<RUBY text='うろた'>狼狽</RUBY>え、愕然としている。\r\n\r\n//　<RUBY text='じゅうりょく'>辰気</RUBY>を操る銀星号なればこその超常機動。\r\n//　――それが、<RUBY text='く'>襲来</RUBY>る！\r\n  This act of seeming teleportation is made possible by Ginseigo's command over gravity, and now that terrible, invisible gale is coming for me!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57510,
+  "en": "\r\n//　俺は身構えた。\r\n//　余りにも<RUBY text='はかな'>儚</RUBY>い抵抗だと知りながらに。\r\n  I ready myself as best I can, knowing as I do that the effort is futile. I fully expect that when next the silver musha becomes visible, I will find myself scattered in bloody chunks across the ground.\r\n\r\n//　次にあの銀色を見た瞬間、この身体が割れていたと\r\n//しても、不条理を嘆くには値しないのだ。\r\n\r\n\r\n//　しかし、そうはならなかった。\r\n  My expectations are betrayed.\r\n\r\n//　白銀の武者が姿を現したのは、嵐の中心。\r\n//　巨怪の頭上。\r\n  Ginseigo appears at the center of the storm, above the Rokuhara behemoth's head.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58241,
+  "en": "\r\n//　そんな所へ優美に腰掛け、彼女は片手を掲げる。\r\n//　指の間に、現れる――光明。\r\n  She perches elegantly atop its crown, then raises her hand before her. Between her fingers forms a perfect, incandescent sphere.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58502,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1240a01'>\r\n//《〝卵〟!!》\r\n《An egg!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58638,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1250a00'>\r\n//「何だと!?」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58763,
+  "en": "\r\n//　止める間もない。\r\n  There's no time to react.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 58833,
+  "en": "\r\n//　光の球を握り締め、銀星号がその手を怪物の甲鉄に\r\n//突き入れる。\r\n//　力を篭めたとも見えぬのに、肘までが沈んだ。\r\n  Before I can do more than cry out in alarm, Ginseigo thrusts the glowing sphere into the giant's armor. Her arm appears to meet no resistance, sinking to the elbow as if dipped in water.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59201,
+  "en": "\r\n//　のたうつ巨獣。\r\n//　軽やかな笑声を上げて、銀騎がそこから飛び立って\r\n//ゆく。\r\n  The giant tries to shake her off, but the silver demon laughs gaily and returns to the sky.\r\n\r\n//　憤激を尚更に煽られたか、怪物は鈍足を馳せて追い\r\n//つけもせぬ敵を追った。砲火を浴びせる。\r\n//　ろくに視線もやらぬまま、銀星号が躱す。待ち受け\r\n//ていた竜騎兵をもするりと避け、暗空へ舞う――\r\n  Further enraged, if such a thing is possible, the major gives chase as best he can. A vain effort, of course. Ginseigo does not even look back as she dodges his fire, slips past the waiting dragoons, and dives into the black of the night.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 59950,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1260a01'>\r\n//《御堂！\r\n//　いけない！》\r\n《This is bad, Mido!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1270a01'>\r\n//《あの〝卵〟はもう孵化直前！\r\n//　<RUBY text='・・・・・・・'>こないだのやつ</RUBY>と同じよ！　今すぐに止め\r\n//ないと！》\r\n《That egg is ready to hatch, just like the one from before! You have to stop it㉓<I>now!</I>》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60480,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1280a00'>\r\n//「ッ!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60594,
+  "en": "\r\n//　村正の声を理解した刹那、返答の間も俺は惜しんだ。\r\n  The moment Muramasa's words reach my ears, I blast off into the sky.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 60755,
+  "en": "\r\n//　夜空に輝く銀影を追い、足掻く、半死の巨獣騎。\r\n//　それを更に追って飛ぶ。\r\n  The half-dead giant is still ascending, clawing its way toward the silver star shining high above.\r\n\r\n//　虫の止まるような速度でしかない標的の、その後姿\r\n//が視界の中で大きさを<RUBY text='・・・・'>増さない</RUBY>。\r\n//　こちらも同等程度の速度しか出せていないのだ。\r\n  I follow after, but though the enemy's speed is negligible for a tsurugi, I am unable to close the distance for several seconds. My damage is severe.\r\n\r\n//　それでも近付き、狙いを定める。\r\n//　太刀を担ぐ。\r\n  But eventually, I get within range. The major seems unaware of my presence, allowing me to strike with impunity. I raise my blade and set my sights on the point that I believe most vulnerable.\r\n\r\n//　怪物はこちらに全く注意を払っていなかった。\r\n//　追いつきさえすれば隙を取るのは容易く、俺は振り\r\n//かぶった刃を一点へ向けた。\r\n\r\n\r\n//　<RUBY text='ほろ'>翼甲</RUBY>。\r\n  His wings.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 61893,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs1290b02'>\r\n//《ぬおぉっ!!》\r\n《Guh!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62050,
+  "en": "\r\n//　怪物の姿勢が致命的に傾斜する。\r\n//　あやうい均衡の上に成立していた騎航が崩れるや、\r\n//巨躯は万有引力の手に屈して地上への道を辿った。\r\n  Its stability fatally compromised, the beast succumbs to the pull of the earth.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62344,
+  "en": "\r\n//　半ば埋まるようにして、怪奇な劔冑が座礁する。\r\n//　もう飛び立てはしないだろう――試させるつもりも\r\n//ない。\r\n  It plows into the ground with a tremendous boom, burying itself deep in the dirt. It won't be flying again any time soon―not that I mean to let it try.\r\n\r\n//　俺は<RUBY text='いびつ'>歪</RUBY>なオブジェの上空を襲った。\r\n//　一秒を惜しむ。一瞬を惜しむ。\r\n  I fall upon the twisted giant from above, desperate for every fraction of a second.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 62896,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs1300b02'>\r\n//《邪魔をするなぁ!!》\r\n《Out of my way!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63072,
+  "en": "\r\n//　騎士が吠えた。\r\n//　なお残る無数の銃砲が俺を指す。\r\n\r\n//　避けている暇はない。\r\n//　撃たれている暇もない。\r\n\r\n//　ままならぬ翼で飛ぶことがもどかしい。\r\n//　俺は自由落下に身を任せた。\r\n  Now the furious knight turns his cannons upon me. I have no time to evade his fire, and a single hit could finish me off.\r\n\r\n  So I do what any sane man would do: I cut my engine and drop from the sky.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63555,
+  "en": "\r\n//　太刀を構える。\r\n//　この一身全てを鏃と成す。\r\n\r\n//　穿つ――――\r\n  I seat my blade point-down toward the foe, my body the hammer, my sword the nail.\r\n\r\n  My target: the gash that my railgun carved into its chest.\r\n\r\n  Contact.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 63826,
+  "en": "\r\n//　既に深々と刻まれていた、甲鉄の亀裂を狙った一撃\r\n//は、完全に貫通し、斬り断って、怪物の身体を二つに\r\n//割った。\r\n//　勢い余り、肩甲で地表を打つ。\r\n  My sword plunges into the gaping hole and punches through to the other side, snapping the giant's body in two like a twig. The excess energy of the dive nearly cracks my head open on the ground.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64251,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1310a00'>\r\n//「……ッ。\r\n//　仕留めたか!?」\r\n\"Kuh... Is it over!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64414,
+  "en": "\r\n//　衝撃に暗転しかける意識を引き戻して、見やる。\r\n//　残骸……すぐ手近に、四角い箱。\r\n\r\n//　檻。\r\n//　――その中の子ら。\r\n  I shake my head clear and scan the wreckage. Between the two halves of the beast... is a steel cage.\r\n\r\n  And inside the cage―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64730,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1320a00'>\r\n//「芳養さん！」\r\n\"Mr. Haya!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64862,
+  "en": "\r\n//　…………\r\n  No response.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 64907,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1330a00'>\r\n//「芳養さん!?」\r\n\"Can you hear me!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65046,
+  "en": "\r\n//【芳養】\r\n<voice name='芳養' class='芳養' src='voice/ma04/020vs1340b48'>\r\n//「………………あ……」\r\n\"...ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65189,
+  "en": "\r\n//　かすかに目蓋が上がる。\r\n//　瞳は曇っていた。俺を見てはいない。だが。\r\n  His eyes open slightly to reveal lightless pupils, but though he doesn't appear to see me, recognition gradually dawns on his face.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65441,
+  "en": "\r\n//【芳養】\r\n<voice name='芳養' class='芳養' src='voice/ma04/020vs1350b48'>\r\n//「……湊斗さん……？」\r\n\"...Officer Minato?\"\r\n\r\n//【芳養】\r\n<voice name='芳養' class='芳養' src='voice/ma04/020vs1360b48'>\r\n//「湊斗さん……\r\n//　そこに……いるの？」\r\n\"Is... that you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65761,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1370a00'>\r\n//「はい！」\r\n\"Yes!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 65882,
+  "en": "\r\n//【芳養】\r\n<voice name='芳養' class='芳養' src='voice/ma04/020vs1380b48'>\r\n//「……あー……\r\n//　なんか……安心した……」\r\n\"Oh... well... that's great...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66077,
+  "en": "\r\n//　生きている。\r\n//　その周りで、彼の弟妹も弱々しく呻き、身じろぎを\r\n//していた。\r\n  He's alive. And his siblings, though dazed, are too.\r\n\r\n//　……生きている！　助けられた！\r\n//　\r\n//　脳天から肛門まで突き抜けるような安堵感に、俺は\r\n//思わず膝をついた。\r\n  They're alive! They're safe! Relief floods my body, bringing me to my knees.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66511,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1390a01'>\r\n//《御堂ッ！》\r\n《Mido!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1400a01'>\r\n//《まだよ!!》\r\n《It's still active!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66785,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1410a00'>\r\n//「何!?」\r\n\"What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 66904,
+  "en": "\r\n//　慌てて顔を上げる。\r\n\r\n//　――まだ!?\r\n  Still active!?\r\n\r\n//　愕然として、俺は怪物を見た。\r\n//　いや――あれは、死んでいる。\r\n  I leap to my feet and turn to the monster, but no, it's as dead as can be.\r\n\r\n//　間違いない。この二年の経験から断定できる。\r\n//　この劔冑は只の鉄屑と化したと。\r\n  If these two years have taught me anything, it's how to recognize a dead tsurugi. There's no mistake. This one is scrap.\r\n\r\n//　なら、〝卵〟も共に滅びた筈――\r\n  Which means the egg should have been destroyed as well.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67528,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/020vs1420a01'>\r\n//《<RUBY text='・・・・・・・'>こっちじゃない</RUBY>！\r\n//〝卵〟を植えられたのは、中の武者の方っ！》\r\n《We got the wrong tsurugi! The egg was implanted in the <I>smaller</I>㉑one!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67852,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1430a00'>\r\n//「!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 67963,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs1440b02'>\r\n//「ルゥオオオオオッ!!」\r\n\"OHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 68134,
+  "en": "\r\n//　理解と敵意の訪れは同時。\r\n//　絶叫と斬撃も同瞬だった。\r\n  Understanding and malice, fierce roar and mighty sword―all strike at the exact same time.\r\n\r\n//　危うくも受け止める。\r\n//　襲撃者と視線を合わせる。\r\n  I barely manage to block the slash, but doing so puts me face to face with my attacker.\r\n\r\n//　進駐軍の将校。\r\n//　美々しい劔冑に身を包んだ騎士。\r\n  The GHQ officer, the knight in shining armor.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 68629,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1450a00'>\r\n//「ガーゲット少佐!!」\r\n\"Major Gargett!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 68774,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs1460b02'>\r\n//「蛮族どもがぁ！\r\n//　蛮族どもがぁッ!!」\r\n\"Damn you! Damn you!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 68979,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs1470b02'>\r\n//「よくも、よくも私の同胞を――\r\n//　こんな異境の僻地で！」\r\n\"You filthy savages! My men weren't meant to die here! Not in this godforsaken <br>place!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69281,
+  "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs1480b02'>\r\n//「幾人死んでしまったのだ!?\r\n//　ああ……」\r\n\"How many have you killed!? My men! My comrades!\"\r\n\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/020vs1490b02'>\r\n//「母なる大陸のため、<RUBY text='きた'>来</RUBY>る聖戦を共に戦う筈\r\n//だった彼らが！\r\n//　ああ！　ああああああァ!!」\r\n\"They were to fight at my side in glorious battle! The last holy war to free our motherland! But now―ahh! AHHHHHHHHHHHH!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 69916,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/020vs1500a00'>\r\n//「……ッ」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 70034,
+  "en": "\r\n//　逆恨みだと、言い捨てても良かったのだろう。\r\n//　彼らは無辜の市民としてここにいたのではない。俺\r\n//を討つため、戦うために、ここへ来ていたのだから。\r\n\r\n//　しかし少佐の怒りは本物だった。\r\n//　悲しみも。\r\n\r\n//　涙も。\r\n  I could call his blame misplaced, were I so inclined. He and his men are not innocents in this. They attacked me. They fought as soldiers.\r\n\r\n  But be that as it may, his anger is real. So too is his sorrow.\r\n\r\n  ...So too are his tears.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 70601,
+  "en": "\r\n//　一刀一刀に、憤怒が乗る。\r\n//　その一閃に、悲痛が宿る。\r\n  His every slash is fueled by hate; his every thrust, by grief immeasurable.\r\n\r\n//　無機質な鉄面の奥からこぼれる雫は、血の色をして\r\n//地面に<RUBY text='したた'>滴</RUBY>る。\r\n  From the eyes of his mask flow rivers of red, as if his crux were weeping with him.\r\n\r\n//　その全てを、<K>\r\n//　\r\n//　黙殺して。\r\n  And I...<K> ignore it all.\r\n\r\n//　心を鎧戸で閉ざし。\r\n//　一切、何も省みず――\r\n  Locking my heart in unfeeling stone, I ready my blade, set my feet―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 71228,
+  "en": "\r\n//　俺は――\r\n//　ジョージ・ガーゲット少佐を殺した。\r\n  ―and cut George Gargett down where he stands.\r\n",
+  "pt": ""
+ }
+]

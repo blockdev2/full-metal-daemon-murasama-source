@@ -1,0 +1,757 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030020a10'>\r\n//「やぁ、よう来てくれたね景明くん。\r\n//　この間はご苦労さん。署長から聞いてるえ。\r\n//またえらい迷惑掛けてもうたねえ」\r\n\"Hey, kid. Thanks for coming. And thanks for taking care of that business on the island. I heard from the chief. Sounds like it was rough.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 631,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030030a00'>\r\n//「はっ。\r\n//　身に余る御言葉なれど、先日の件は宮殿下\r\n//の御忠告を無下にせしこの身が自ら招いた事。\r\n//どうか御気遣いは無用に願います」\r\n\"I would not have been in danger, Your Highness, had I not spurned your warning. Which, it turned out, was entirely justified.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1051,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030040a00'>\r\n//「しかも、肝心なる銀星号はまたしても取り\r\n//逃がし、未だ跳梁を許している始末。\r\n//　面目次第もございません」\r\n\"Moreover, I failed in my mission. Ginseigo remains a threat to all. As such, though it pains me, I cannot in good conscience accept Your Highness's gratitude.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1467,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030050a10'>\r\n//「ま、そう言わんで。\r\n//　六波羅の危険な兵器はぶっ壊した、ＧＨＱ\r\n//の陰謀の裏も取れた。それで景明くんも無事\r\n//に帰ってきた」\r\n\"Now, now. None of that. You busted up Rokuhara's secret weapon, uncovered GHQ's plot,㉓<I>and</I>㉔made it home safe.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1878,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030060a10'>\r\n//「なら、良しとしとこうやないか」\r\n\"Let's call that a win. Yeah?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2063,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030070a00'>\r\n//「……はっ」\r\n\"Yes, Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2200,
+  "en": "\r\n//　御簾の奥からの宥め声に、一礼を返す。\r\n//　八幡宮別当、<RUBY text='まいどののみやはるひろしんのう'>舞殿宮春煕親王</RUBY>と対面するのもこれで\r\n//三度目。やんごとない身分には相応しからぬ気さくな\r\n//物言いにも、流石に戸惑うことはなくなっていた。\r\n\r\n//　江ノ島の一件から<RUBY text='はや'>早</RUBY>一週間余りが経つ。\r\n//　負傷と疲労もほぼ癒え――<RUBY text='ニッカリ'>青江</RUBY>の襲来のお陰でやや\r\n//後退はしたが――宮に対して礼を尽くすに障りはない。\r\n\r\n//　それが懸案だったという事もなかろうが、俺の様子\r\n//に注意深い視線を注いでいた署長はその目を外すと、\r\n//親王の御座に向き直った。\r\n//　伺う風で、一声を掛ける。\r\n  I bow deeply to the screen. Three meetings with the prince, and already I am inured to his entirely un-princelike demeanor.\r\n\r\n  In the corner of my eye, I catch the commissioner's gaze. It seems probing. Nearly two weeks have passed since the Enoshima incident, and though I was forced to deal with Aoe in the interim, my spirit and body have largely recovered. He can't be concerned that I'll break down in audience.\r\n\r\n  In which case...\r\n\r\n  He turns to face the dais.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3553,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030080a11'>\r\n//「……殿下」\r\n\"Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3685,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030090a10'>\r\n//「うん……」\r\n\"...Yeah.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030100a10'>\r\n//「景明くんな」\r\n\"Got a few minutes, kid?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3965,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030110a00'>\r\n//「はい」\r\n\"Of course, Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4102,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030120a10'>\r\n//「今日来てもろたんは、今後の事をちょっと\r\n//話したくてな。\r\n//　……<RUBY text='ちこ'>近</RUBY>う」\r\n\"I was hoping we could talk about what happens next. ...Scooch closer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4414,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030130a00'>\r\n//「は」\r\n\"At once.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4531,
+  "en": "\r\n//　膝行して、心持ち前へ出る。\r\n  I slide my knees a pace forward.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4623,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030140a10'>\r\n//「もそっと」\r\n\"Closer.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4757,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030150a00'>\r\n//「は……」\r\n\"...By your leave.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4889,
+  "en": "\r\n//　命じられるまま、更に傍へ。\r\n//　御簾の脇に控えた署長と、膝を触れ合わさんばかり\r\n//になる。\r\n  I do as ordered. My knees draw even with the commissioner's, close enough to reach out and touch the screen.\r\n\r\n//　何事だろうか。\r\n//　今後についてということだが……俺に関する限り、\r\n//これまでと何も変わらない。\r\n  What could His Highness wish to discuss? Future <br>plans? But my course is set.\r\n\r\n  One egg still remains. I must kill the last infected, restore Muramasa's nodachi, and finally, kill the source, Ginseigo.\r\n\r\n//〝卵〟は少なくともあと一個――我が村正から奪った\r\n//力を封じたものが――存在する。\r\n//　何よりその母体、銀星号が健在である。\r\n\r\n//　この二つを撃破せねばならない。\r\n//　そうしてようやく、俺は戦いを終え……只の犯罪者\r\n//として裁かれることが叶う。\r\n  Once that is done and my duty complete, I can at last stand trial for the murders I've committed.\r\n\r\n//　あと二騎。\r\n//　あと二騎――――と、その影で<RUBY text='・・・・'>もう二人</RUBY>。\r\n\r\n//　二人の<RUBY text='てき'>悪</RUBY>と、\r\n//　二人の<RUBY text='みかた'>善</RUBY>を。\r\n//　……俺は、殺さなくてはならない。\r\n  Two more. Two more enemies...<K> and two innocents to pay for them.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6327,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030160a00'>\r\n//「……っ」\r\n\"...Kuh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6449,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030170a11'>\r\n//「景明？」\r\n\"Kageaki?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6572,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030180a00'>\r\n//「……申し訳ありません。\r\n//　少し……疲れが」\r\n\"I apologize, Your Highness. I'm... a little tired.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030190a00'>\r\n//「疲れが……」\r\n\"That's all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6913,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030200a10'>\r\n//「そらあかん。少し休むとええ。\r\n//　話は急ぎなんやけど、一分一秒を争うって\r\n//もんでもないしね」\r\n\"Well geez, kid, get some rest. Then we'll talk. We are a little pressed for time, but it doesn't gotta be right this second.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030210a10'>\r\n//「な、署長」\r\n\"Right, Chief?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7418,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030220a11'>\r\n//「は……」\r\n\"...As you say.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7547,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030230a00'>\r\n//「いえ。\r\n//　どうか、お気遣いなきよう」\r\n\"No, Your Highness. It's nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7737,
+  "en": "\r\n//　奥歯を噛んで、両眼を見開く。\r\n//　有り得ぬ醜態を晒した己を、渾身の悪意で侮蔑する。\r\n  I clench my molars and peel back my eyelids, summoning all of my hatred and disgust to drive the weakness from my flesh.\r\n\r\n  <i>Tired?</I>㉓Exhaustion is a luxury. I lost that right when I took it from others, when I ensured that they would never again feel its kiss.\r\n  If any cell in my body still knows shame, I will not succumb to it now.\r\n\r\n//　……疲れ？\r\n//　馬鹿な。そんな<RUBY text='・・・'>愉しみ</RUBY>に浸っていられる身か。\r\n\r\n//　この手で、疲れさえ味わえない境涯へと叩き落した\r\n//人々に、何と詫びる。\r\n//　如何なる厚顔さをもって、そんな弱音を口にできた\r\n//のか。\r\n\r\n//　信じ難くも情けない。\r\n//　……だが、つまりはそれだけ、<RUBY text='・・'>がた</RUBY>が来てしまって\r\n//いるという事なのか。\r\n\r\n//　虚勢を張るのも限界という事なのか……\r\n//　\r\n//　\r\n//　――――気付けばまた、甘い考えを弄んでいる。\r\n\r\n  ...After a moment, the faintness passes. Still, that was close. Too close.\r\n\r\n  I am pushing myself harder than I know. Perhaps I should be careful...<K>\r\n  Stop. You're doing it again.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9065,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030240a00'>\r\n//「申し訳ありません。見苦しい振舞いを御目\r\n//に掛けました。\r\n//　どうぞ、御話の続きを」\r\n\"Once again, Your Highness, I apologize for my lack of decorum. Please, proceed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9369,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030250a10'>\r\n//「ええんか……？」\r\n\"You sure?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9514,
+  "en": "\r\n//　親王の小声には躊躇いがあったが、言った通り急ぎ\r\n//であるからなのだろう。すぐ、思い切るような頷きの\r\n//気配が続いた。\r\n//　そして、ずず、と衣擦れの音。\r\n  The prince hesitates, but only for a moment. He did say the matter was pressing.\r\n\r\n//　御簾の向こうで、親王もこちらへ近寄ったらしい。\r\n  I hear a rustle behind the curtain, and his silhouette grows larger.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9984,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030260a10'>\r\n//「景明くん」\r\n\"Listen up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10121,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030270a00'>\r\n//「はっ」\r\n\"Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10247,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030280a10'>\r\n//「わしはな……このまま大和を六波羅の好き\r\n//にさせておきたくない。\r\n//　進駐軍、つまるとこ<RUBY text='ブリテン'>大英連邦</RUBY>の属国なんて\r\n//のもまっぴら御免や思うてる」\r\n\"I don't want Rokuhara running this country, and I don't want Britain taking over either. It needs to stop.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10702,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030290a00'>\r\n//「……は」\r\n\"Your Highness?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10831,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030300a10'>\r\n//「本当はもっと穏やかに<RUBY text='・・'>こと</RUBY>を進めたかった」\r\n\"I hoped we could do things quietly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11065,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030310a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11183,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030320a10'>\r\n//「けどどうやら、そうも言うてられん……。\r\n//　ＧＨＱがあんな乱暴な手まで打ってきてる\r\n//ようじゃねえ……」\r\n\"But this business with GHQ. If they're already playing that rough, it changes things.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11532,
+  "en": "\r\n//　六波羅の悪政を黙過し、更には雪車町一蔵のような\r\n//工作員を駆使して「大和武者の暴行」を仕組み。対比\r\n//的に進駐軍を英雄化する。\r\n//　確かに、乱暴といえばこれほど乱暴なやり口もない。\r\n  Turn a blind eye to Rokuhara's tyranny, incite Yamatoan musha to slaughter their countrymen, then step in to rescue Yamato from the monsters you created.\r\n  Yes, you might call that playing rough.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12013,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030330a10'>\r\n//「それで、な。\r\n//　こっちも、ひとつ思い切った手を打とうか\r\n//……そう考えてるんよ」\r\n\"I'm thinking... we might need to start playing rough too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12301,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030340a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12419,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030350a11'>\r\n//「大和を巡る抗争を将棋に例えるなら、その\r\n//盤を引っくり返してしまいかねない危険な手\r\n//だ。正直、懸念は拭えない。\r\n//　だが……情勢は差し迫っている。おそらく」\r\n\"We're talking about a move that could flip the board entirely.\r\n  I won't lie. The risks are enormous, but I fear we're out of time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12885,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030360a11'>\r\n//「……我々が期待するほどの時間は与えられ\r\n//ないだろう。にも拘わらずただ座視するなら、\r\n//それは大和の未来を<RUBY text='なげう'>擲</RUBY>つことを意味する……。\r\n//　いや、切り開かねばならん。生存の道は」\r\n\"Matters are progressing much faster than we expected. If we don't act now, our fate belongs to <I>them.</I> \r\n  This is Yamato's last chance for survival, Kageaki. We must take it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13453,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030370a00'>\r\n//「……署長……」\r\n\"Sir...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13583,
+  "en": "\r\n//　呟きの音量で、呼ぶ。\r\n//　それは先を促す為だったのか、制止の為だったのか、\r\n//自分でも判じかねた。\r\n\r\n//　なにやら迂回している署長の言葉が、最終的に何処\r\n//へ行き着くのか、悟らずに済むほど俺も鈍感ではいら\r\n//れなかった。\r\n  Am I bidding him continue? Pleading that he stop? I am not so dim that I cannot see where the commissioner's circumlocutions must lead.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14058,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030380a11'>\r\n//「敵の勢力は強大を極める。\r\n//　対するに、我々は弱小そのものだ」\r\n\"The enemy is too strong, and we are too few.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14296,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030390a11'>\r\n//「だが……戦いようはある」\r\n\"However... there are ways we can fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14474,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030400a00'>\r\n//「常套手段ですか」\r\n\"Standard practices.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14620,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030410a11'>\r\n//「ああ。\r\n//　<RUBY text='・・・・'>常套手段</RUBY>だ」\r\n\"Precisely.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14800,
+  "en": "\r\n//　<RUBY text='テロリズム'>弱小勢力の常套手段</RUBY>。\r\n//　警察職にある人間として決して認められぬであろう\r\n//その行為を、しかし署長は黙示した。\r\n  Standard practices for an inferior force besieged.<K>\r\n  Guerilla warfare. Sabotage. <I>Assassination.</I>\r\n\r\n  Not methods an officer of the law should espouse, but espouse them he does―if not in so many words.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15233,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030420a00'>\r\n//「……そこまで追い詰められていると……」\r\n\"Is it so hopeless?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15411,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030430a11'>\r\n//「<RUBY text='・・・'>本当に</RUBY>追い詰められるまでもう時間がない、\r\n//という意味だがな」\r\n\"This is our last chance to keep hope alive.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15678,
+  "en": "\r\n//　死刑判決を下されてしまえばそれで最後。執行まで\r\n//何年あろうともはや死の運命は覆せない、という事か。\r\n//　……否定はできなかった。\r\n  I take his meaning. Once sentence is passed, your fate is sealed. You must act <I>before</I>㉓the gavel falls.\r\n\r\n  He's not wrong.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16022,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030440a00'>\r\n//「標的は……」\r\n\"Your target?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16155,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030450a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16273,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030460a00'>\r\n//「進駐軍である筈がない。\r\n//　仮に首尾よく進駐軍の首脳を壊滅させられ\r\n//たとしても、代わりの将校団が国連本部から\r\n//派遣されてくるだけの事」\r\n\"Not GHQ. Their command structure is flexible. New leaders will be sent.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16648,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030470a00'>\r\n//「むしろ、進駐軍を慌てさせ、急進的行動に\r\n//駆り立てる……完全な逆効果。\r\n//　であれば」\r\n\"You will only agitate them, perhaps trigger an invasion, the very thing you hope to avoid. In which case...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16983,
+  "en": "\r\n//　親王も署長も、何も言ってはこない。\r\n//　しかし、その沈黙――否定しないという事実こそが\r\n//返答であろう。\r\n  Neither man speaks. Their silence is enough.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17200,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030480a00'>\r\n//「……狙うはもう一方」\r\n\"Your target is Rokuhara.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17357,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030490a10'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17484,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030500a00'>\r\n//「<RUBY text='ギョク'>玉</RUBY>を？」\r\n\"You mean to take their <br>king.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17661,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030510a10'>\r\n//「そうなるねえ」\r\n\"Not much else we can do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17818,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030520a00'>\r\n//「それで、大和は救われましょうか」\r\n\"Will that truly save <br>Yamato?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18001,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030530a10'>\r\n//「玉を取ったら勝ちってわけにはいかんけど。\r\n//現実は将棋と違うしねえ。\r\n//　ただ、流れは大きう変わるえ」\r\n\"You're right. Taking their king doesn't mean victory for us. This ain't a game of shogi, unfortunately. But it will open up possibilities.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18400,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030540a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18518,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030550a11'>\r\n//「景明。\r\n//　鎌倉幕府以来の政治的伝統を知っているだ\r\n//ろう」\r\n\"Ever since the twelfth century and the founding of the Kamakura shogunate, politics in this country have operated under certain assumptions.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18847,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030560a00'>\r\n//「……権威と権力の分離ですか？」\r\n\"...The division of spiritual and temporal authority?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19047,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030570a11'>\r\n//「そうだ。\r\n//　鎌倉幕府は大和全土に支配権を樹立するに\r\n//あたって、旧来の支配者、つまり朝廷を攻め\r\n//滅ぼすという手法は取らなかった」\r\n\"Exactly. New dynasties exterminate their predecessors. That has been the rule throughout most of the world for nearly all of recorded history. But when Yoritomo established his dominion over Yamato, he left the imperial court intact.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030580a11'>\r\n//「他国ならそうしていて当然だったのだがな。\r\n//　過去において藤原政権や平氏政権の前例が\r\n//あり、その形を継承することが誰もに望まれ\r\n//たのだろう……」\r\n\"There was precedent. During their time in power, the Fujiwara and Heike clans also co-existed with the court.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19995,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030590a11'>\r\n//「だが藤原氏や平氏が朝廷権力と密着したの\r\n//に対して、源氏は朝廷から距離を取った。\r\n//　朝廷は京都に据え置いたまま、東の鎌倉に\r\n//新たな都を造った。政権と朝廷を分離した」\r\n\"But while they did so by tying themselves to the court―through marriage, through alliance―the Genji chose instead to divorce themselves, to move their seat of power east, to Kamakura, while leaving the emperor behind in Kyoto.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030600a11'>\r\n//「自らの政権を朝廷に承認させる形式をとる\r\n//事で、朝廷の権威を保障しつつそれを支配の\r\n//大義名分に利用し……\r\n//　その一方、朝廷の政治介入は排したのだ」\r\n\"By having the court appoint him shogun, Yoritomo gained legitimacy in the eyes of Yamato's people, and by establishing a new capital away from the court, he all but eliminated its actual power. All it took was a guarantee that the emperor would remain Yamato's spiritual leader.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21166,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030610a11'>\r\n//「この<RUBY text='・・・・・'>良い所取り</RUBY>の手法は以後も延々と継承\r\n//されている。\r\n//　ごく短期の例外的な時代を除いて、現在に\r\n//至るまで」\r\n\"It was a singularly advantageous arrangement for Yoritomo and his successors, an arrangement that, save for a few brief moments in history, has continued to this day.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030620a11'>\r\n//「六波羅でさえこの伝統は破れなかった。\r\n//　権威と権力の二重構造は既に大和に根付い\r\n//ている。これを無理矢理に覆すより、利用し\r\n//た方が遥かに利益は大きいからだ……」\r\n\"In this, even Rokuhara has bowed to tradition. Even Moriuji, for all his naked ambition, recognized the court's value as the font of moral authority. The emperor is that deeply rooted in our psyche.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22166,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030630a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22284,
+  "en": "\r\n//　教科書的な解説である。\r\n//　だが勿論、歴史教師の真似事をするところに署長の\r\n//目的があるわけではないだろう。\r\n  Assuming that the commissioner does not intend this to be a history lesson, he will soon be coming to the point.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22575,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030640a11'>\r\n//「……鍵はそこにある。\r\n//　つまり大和の政権は、支配力を確立するに\r\n//あたって必ず朝廷の支持を必要とするのだ」\r\n\"And therein lies the key. In Yamato, in order to establish his legitimacy, a ruler must have the approval of the court.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22955,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030650a11'>\r\n//「既に支配を確立<RUBY text='・・'>した</RUBY>政権にとって、朝廷は\r\n//用の済んだ神輿に過ぎない。\r\n//　後は他の者に利用されないよう、静かに蔵\r\n//の中へ納まってくれていればそれでいい」\r\n\"In this sense, the court is like a god. A ruler who has already established his legitimacy wants it sitting quietly inside its shrine, where no one else may use <br>it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23478,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030660a11'>\r\n//「だが、これから支配を確立<RUBY text='・・'>する</RUBY>政権は神輿\r\n//を蔵へ眠らせておくわけにはいかん。\r\n//　神輿を担ぎ出して練り歩き、その威光で、\r\n//人々の頭を下げさせなくてはならない」\r\n\"A ruler whose legitimacy is in question, however, does not have that luxury. That is the time to trot out the palanquin, to raise the god high and march it through the streets, to make all who doubt you bow to its <br>majesty.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24068,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030670a00'>\r\n//「……。\r\n//　もし、その神輿に意思があり、何かしらの\r\n//欲求もあるならば――」\r\n\"And if that god has a will, and demands of its own...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24334,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030680a11'>\r\n//「そうだ。\r\n//　神輿に頼りたい者としては、聞く耳持たず\r\n//ともゆくまい？」\r\n\"Then offerings must be made.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24569,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030690a00'>\r\n//「……その為の玉取り……」\r\n\"Reset the board...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24726,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030700a11'>\r\n//「今、六波羅の支配は確固たる。\r\n//　だが、その支配の頂点を失わせしめたなら\r\n//……」\r\n\"Rokuhara seems unassailable. But in reality, its stability rests on the shoulders of Ashikaga Moriuji.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030710a11'>\r\n//「六波羅幕府は足利護氏という傑物の豪腕で\r\n//まとめられている面が強い。\r\n//　何者が後継者として立つにしろ、前代ほど\r\n//の腕力を発揮するには時間が掛かる」\r\n\"None of his possible successors can command the same authority. If they want it, they will need to fight for it.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030720a11'>\r\n//「となれば当然、取りこぼすものも多くある\r\n//だろうな」\r\n\"And much may slip through the cracks.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25684,
+  "en": "\r\n//　大将領足利護氏がいなくなれば、六波羅の支配体制\r\n//には亀裂が入る。\r\n//　四公方を中心とした派閥が表面化し、対立を始める\r\n//事になろう。\r\n\r\n//　――その対立に付け込む。\r\n//　いずれかの派閥に接近し、舞殿宮の存在が象徴する\r\n//朝廷権威を利用<RUBY text='・・・'>させる</RUBY>。\r\n\r\n//　そして見返りに政治的発言力を獲得する。\r\n//　要はそういう展望か……。\r\n  If the shogun dies and the shogunate fractures, the four Kanto generals will pick up the pieces.\r\n\r\n  But they are not one mind. There will be conflict over who assumes the mantle, and in that conflict, an opportunity to remind them how useful the court can be.\r\n\r\n  The prince plans to offer legitimacy―to which of the four, I cannot guess―and in exchange, demand a voice in Yamato's destiny.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26594,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030730a00'>\r\n//「しかし、幕府の動揺をＧＨＱが見過ごすで\r\n//しょうか」\r\n\"But I wonder. Will GHQ stand idly by?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26810,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030740a10'>\r\n//「見過ごしてはくれんやろう。\r\n//　けど、最悪の事態にはそうそうならんえ」\r\n\"Not idly. But I don't think they'll attack.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27068,
+  "en": "\r\n//　六波羅幕府の動揺を好機ととらえ、進駐軍が攻撃を\r\n//仕掛ける――\r\n//　それは無いと、親王は請け合った。\r\n  The shogun's death would seem the perfect opportunity for GHQ to seize control, yet the prince believes they'll pass it by?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27358,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030750a10'>\r\n//「元々、進駐軍は幕府が怖くて手を控えてる\r\n//わけやないし。\r\n//　占領した後で国民の反発を買わんように、\r\n//色々工作して機会を計ってるんやろう？」\r\n\"I mean, why haven't they already? Not cause they're scared. They just want to make sure everyone's on their side when they do. That's the idea with the tsurugi stuff, right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27850,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030760a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27966,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030770a10'>\r\n//「てことは、『悪くて強い幕府』のイメージ\r\n//がグラついたら、ＧＨＱの作戦は後退する。\r\n//　弱い幕府を潰してもろても国民に有難がる\r\n//義理はないからねえ」\r\n\"Right. So if it looks like the thing might collapse on its own, I say there's even less chance they'll attack. Can't look like heroes beating up a cripple.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28452,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030780a00'>\r\n//「……成程。\r\n//　ＧＨＱが動き出すとすれば、幕府の動揺が\r\n//収まり再び苛烈な圧政を開始した場合か、」\r\n\"...I believe I understand. GHQ will only attack if a new shogun is invested and continues Moriuji's policies...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28809,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030790a11'>\r\n//「もしくは対立が衝突になり、内戦の勃発に\r\n//至った場合だな。\r\n//　そうなってはもはや大和国民は進駐軍の力\r\n//による安定を望むほかなくなるだろう」\r\n\"Or if the conflict erupts into civil war. At that point, they <I>will</I>㉒be our last hope of keeping this country from burning to the ground.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29263,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030800a00'>\r\n//「当然、ＧＨＱはそのようにすべく策動する\r\n//でしょう」\r\n\"So of course, they'll try to ensure that's what happens.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29498,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030810a10'>\r\n//「難儀な戦いになるな。\r\n//　けどま、勝算はある……」\r\n\"Yep. We ain't gonna have an easy time of things. But at least we'll have a㉓<I>chance.</I>\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030820a10'>\r\n//「『悪の六波羅』のイメージを護氏と一緒に\r\n//捨てさせて、もうすこし緩やかな統治をする\r\n//幕府に造り替えさせる。\r\n//　税を下げて、軍も縮小してね」\r\n\"First we get rid of the badguy-in-chief. Then we give Rokuhara a makeover, say. Get the next shogun to lower taxes, shrink the army, stuff like that.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030830a10'>\r\n//「新しい幕府を国民が受け入れたら、こっち\r\n//の勝ちえ。\r\n//　進駐軍の出る幕は<RUBY text='の'>無</RUBY>うなるわ」\r\n\"If people stop hating the shogunate, GHQ can't lift a finger. That's how we win this thing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30578,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030840a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30702,
+  "en": "\r\n//　言うほど簡単な事だとはとても思えない。\r\n//　が、親王はそれを承知の上で勝算有りと言っている\r\n//のだろう。\r\n\r\n//　親王の政治力は未知数だが、少なくとも思考能力は\r\n//明晰であり、また鎌倉における皇族代表という複雑な\r\n//役割を大過なくこなしてきた実績もある。\r\n//　俺ごときが敢えて口にすべき苦言は無かった。\r\n\r\n//　疑問を差し挟むべき点は別にあった。\r\n  Easier said than done, but the prince knows that. He is no fool, and though he remains untested as a policy maker, the fact that he has survived Kamakura's treacherous climate despite the difficulties inherent in his position speaks to no small political acumen.\r\n\r\n  If he believes that he can preempt GHQ and guide Yamato to stability, then I am in no position to argue.\r\n\r\n  I do, however, have other concerns.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31633,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030850a00'>\r\n//「……しかし。\r\n//　足利護氏という玉を取る、そんな詰み筋が\r\n//あるものでしょうか」\r\n\"If I may, Your Highness. You intend to take the enemy's king. But does the board state truly allow such a move?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31963,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030860a11'>\r\n//「矢倉囲いの敵陣にと金一枚で切り込むよう\r\n//なものか」\r\n\"You mean, can we break his Yagura defense with only a single gold general?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32216,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030870a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 32332,
+  "en": "\r\n//　相手は大和武家の棟梁。\r\n//　百万騎を号する軍兵の頂点に立つ男なのだ。\r\n\r\n//　三六五日、普陀楽城の天守閣で軍勢に十重二十重と\r\n//囲まれて過ごしているわけでもなかろうが……。\r\n//　何処へ行く時でも、厩衆や奉公衆と呼ばれる精鋭の\r\n//親衛隊が傍らに付くという。\r\n\r\n//　<RUBY text='なまなか'>生半</RUBY>な事で首級を挙げられるとは考えにくい。\r\n  We speak of the man to whom every warrior in Yamato owes fealty, a general who commands one million soldiers. His keep at Fudaraku is impenetrable, and even outside its walls, he is never without his personal guard.\r\n\r\n  It would take an army to break through his defenses, and the prince does not have an army.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33136,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030880a10'>\r\n//「その詰み筋が開くんよ。\r\n//　近々行われる奉刀参拝は知ってるやろ」\r\n\"He's gonna give us the opening we need. You know about the pilgrimage happening next week?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33432,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030890a00'>\r\n//「は……。\r\n//　源氏の長が八幡宮に参詣し、今年一年間の\r\n//武運を感謝すると共に来年の武運を祈念する\r\n//ため、太刀を奉納する儀礼であるとか」\r\n\"Yes. As I understand it, each year, the lord of the Genji offers a sacred sword to Hachiman Shrine to pray for continued fortune in war.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33869,
+  "en": "\r\n//　衆人環視の中大々的に行われるような類の祭儀では\r\n//ないので、俺はそれ以上の事を知らないし、無論見た\r\n//こともない。\r\n//　それなりに重要な行事なのだろうとは想像がつくが。\r\n  My knowledge on the subject ends there. The ceremony is not a public affair, though I gather that it is a tradition of some importance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34271,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030900a10'>\r\n//「そう。\r\n//　でな、奉納する刀は二<RUBY text='ふり'>口</RUBY>」\r\n\"Right. What you don't know is it's actually㉒<I>two</I> swords.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030910a10'>\r\n//「地上と地下に、一口ずつ」\r\n\"One up here... and one down there.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34700,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030920a00'>\r\n//「……地下？」\r\n\"...Down there?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34835,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030930a10'>\r\n//「八幡宮の祭殿は二つあるんえ。初めて聞く\r\n//やろう。\r\n//　表の祭殿の奥にある裏参道を潜ってくとね、\r\n//かなーり深いとこにもう一つ」\r\n\"There's a second shrine here, deep underground. You get there through a hidden passage in the back of the main shrine. Pretty cool, right?\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030940a10'>\r\n//「こいつは秘中の秘やけど。\r\n//　よそで言うたらあかんえ」\r\n\"Don't tell anyone, though. It's supposed to be a secret.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35510,
+  "en": "\r\n//　……城砦構造か。\r\n\r\n//　社寺は土地の人々にとって心の拠り所。\r\n//　そのため古くは、兵難のおり城に代わる拠点として\r\n//働けるよう、防衛設備が整えられる事もあったと云う。\r\n\r\n//　日光東照宮などはその最たる例であろう。\r\n//　陽明門で名高いかの社は、徳川家が窮地に落ち江戸\r\n//城退転となった場合に備える最終拠点でもあったのだ\r\n//と、一説に伝えられている。\r\n\r\n//　東照宮が徳川一門の守り神であったように、八幡宮\r\n//は源氏の氏神。\r\n//　古今東西の城砦に定番の地下構造を擁していても、\r\n//驚くべきではないのかもしれない。\r\n  I see. Shrines and temples have always been places of refuge. In times of war, that has sometimes meant serving as a place for soldiers to regroup. Some, I have read, were even constructed with features to support this role.\r\n\r\n  The most famous of these is Nikko Tosho-gu, one of the shrines dedicated to Tokugawa Ieyasu. Though known primarily for its magnificent gate, many scholars believe that it was also intended as a final bastion, should the Tokugawa clan come to disaster and Edo Castle fall.\r\n\r\n  And just as Ieyasu was guardian of the Tokugawa, so Hachiman is for the Genji. That his shrine would have features more befitting a fortress comes as no surprise.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36935,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030950a10'>\r\n//「で、な。\r\n//　地下の祭殿への奉刀は、<RUBY text='もりうじ'>源氏長者</RUBY>と介添え\r\n//の神官だけで行わなあかん」\r\n\"Here's the best part. During the ceremony in the lower shrine, Moriuji's gonna be alone with the priests.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37304,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030960a00'>\r\n//「……それは」\r\n\"...Alone?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37434,
+  "en": "\r\n//　余りに都合が良すぎないか。\r\n  That seems entirely too convenient.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37529,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0030970a10'>\r\n//「八幡太郎義家が<RUBY text='げんじのちょうじゃ'>源氏長者</RUBY>名代として最初の\r\n//奉刀を執り行って以来の伝統や。\r\n//　不都合があるいうても、おいそれと変えら\r\n//れるもんやない」\r\n\"It's tradition, going all the way back to Yoshiie, the 'son of Hachiman' himself. Can't change it at this point, even if it is an 'accident' waiting to happen.\"\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38048,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0030980a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38166,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0030990a11'>\r\n//「言いたい事はわかる。\r\n//　そんな露骨な好機を、向こうが警戒しない\r\n//わけがないと云うのだろう」\r\n\"I know what you're thinking. A chance this obvious. They'll have taken precautions.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38489,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031000a00'>\r\n//「それもありますが……」\r\n\"That is㉗<I>one</I>㉓concern...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38658,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031010a11'>\r\n//「無論、警戒はしている。\r\n//　これまでも大将領は慣例通り単身の奉刀を\r\n//行っているが、決して無防備ではなかった」\r\n\"Well, you're right. We've observed his retinue during previous pilgrimages, and they're certainly earning their keep.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031020a11'>\r\n//「八幡宮内は元より周辺一帯に直属の武者衆\r\n//による警備網を敷き、不審なものは犬猫一匹\r\n//通さぬ厳戒の中で儀式を済ませている。\r\n//　しかも、大将領自身も劒冑を離さない……」\r\n\"This entire area will be under lockdown. Nothing will get past the musha patrols, not even the smallest insect. And of course, the shogun himself will have his tsurugi close at hand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39562,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031030a10'>\r\n//「儀式の前に当然祭殿の中は徹底調査される\r\n//から、予め刺客を潜ませとくのも無理。\r\n//　どうにかこうにかうまく誤魔化したとして\r\n//も、武者の護氏を仕留められるのは武者だけ」\r\n\"Immediately prior to the ceremony, musha will sweep the lower shrine. Even if we somehow got an assassin past their scans, only another musha can hope to kill the shogun.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031040a10'>\r\n//「鎌倉に六波羅と敵対する武者なんておらん\r\n//から、結局のとこどうにもならん。\r\n//　……とま、こういうことなんやけど。今の\r\n//わしらなら、どっちもどうにかなってまう」\r\n\"And Kamakura ain't exactly bursting at the seams with musha looking to take on Rokuhara. Sounds hopeless, right? And yeah, it would be... but we just so happen to have a solution to both problems.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031050a10'>\r\n//「刺客を送り込むのは簡単やね。介添え人を\r\n//装わせればええ話や。\r\n//　んで、武者の護氏は……<RUBY text='・・・・'>同じ武者</RUBY>で倒せる。\r\n//いるはずのない、八幡宮の武者でな」\r\n\"Getting our man in. That's the easy part. We'll dress him up as a priest. And as for the musha bit, well... we've got a musha of our own, one nobody knows exists.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41139,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031060a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41263,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031070a11'>\r\n//「事が成功裡に終わった後は、地下祭殿から\r\n//飛び出して一息に市外まで逃散する。\r\n//　これは不意を打てば可能だろう」\r\n\"Once it's done, the assassin will break out through the enemy lines and disappear. They won't expect an attack from inside the cordon.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031080a11'>\r\n//「警備の兵は、大将領の遺体と……\r\n//　何者かに襲われて気絶し装束を奪われた、\r\n//<RUBY text='・・・'>本物の</RUBY>介添え人を発見することしかできない」\r\n\"When they race to the shogun's side, they will find only his body... and one unconscious priest, missing his raiments.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42083,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031090a10'>\r\n//「残る問題は……\r\n//　偽の介添え人にどうやって劒冑を隠し持た\r\n//せるか、そのくらいやねえ」\r\n\"The only question, really, is how to sneak in a tsurugi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 42379,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031100a00'>\r\n//「……では、その後の事を」\r\n\"...And㉓<I>after,</I>㉒Your Highness?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031110a00'>\r\n//「どのように取り繕おうとも、八幡宮で足利\r\n//護氏が討たれたなら、その容疑はまず宮殿下\r\n//に掛かります。\r\n//　問答無用の報復を受ける恐れもあるかと」\r\n\"However you disguise the truth, if the shogun is assassinated at Hachiman Shrine, they will come to Your Highness for answers. And if they decide that you are guilty, then evidence or no...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43051,
+  "en": "\r\n//　朝廷に弓引くは、大和の者にとって最大の罪の一つ。\r\n//　そう安易には決断できまいが……しかし六波羅なら、\r\n//やらぬとは言い切れない。\r\n  It is a grave matter to kill a prince. Under most regimes, I would not fear for his safety. But Rokuhara is not most regimes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43388,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031120a10'>\r\n//「そこはまぁ、平気やろ。\r\n//　六波羅がアリバイを用意してくれるしねえ」\r\n\"Oh, I'll be fine. They're gonna give me an alibi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43649,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031130a00'>\r\n//「……？」\r\n\"An... alibi?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 43776,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031140a11'>\r\n//「宮殿下から刺客を送られても、六波羅には\r\n//報復を加える力がある。\r\n//　しかし、そんな潰し合いをしたところで、\r\n//幕府が得るものは何もない」\r\n\"Rokuhara has nothing to gain from open war with the court. They would prefer to <I>prevent</I>㉑His Highness from doing anything that might demand a response.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031150a11'>\r\n//「未然に防げればそれに越した事はないのだ。\r\n//　……だから奉刀参拝の間は宮殿下を人質に\r\n//取る」\r\n\"That is why they will hold him as a hostage for the duration of the ceremony.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44548,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031160a00'>\r\n//「人質？」\r\n\"...Pardon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 44673,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031170a10'>\r\n//「奉刀参拝の当日、わしは普陀楽に置いとか\r\n//れるんよ。\r\n//　京都の朝廷が寄越してくる奉幣使の接待っ\r\n//ちゅう名目で」\r\n\"While the shogun's here, I'll be there, at Fudaraku, playing host to the envoy my brother sends from Kyoto.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45057,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031180a00'>\r\n//「……八幡宮別当であられる宮殿下と奉幣使\r\n//が、祭礼に参加しないのですか？」\r\n\"Then neither Your Highness nor the emperor's envoy will be presiding over the ceremonies?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 45358,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031190a10'>\r\n//「そう。\r\n//　どちらも代理の者を派遣する」\r\n\"Right. Our seconds'll take care of that.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031200a10'>\r\n//「わしは参拝が終わるまで奉幣使さんと二人、\r\n//普陀楽城で茶ぁ飲んでないとあかん。\r\n//　周りを兵隊にびっしり囲まれてな……」\r\n\"Meanwhile, the two of us'll be sipping tea at the castle... surrounded by soldiers just <I>itching</I>㉔for an excuse.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031210a10'>\r\n//「つまらんことしたらすぐにその首落とす、\r\n//ってみんな眼で言うてるんえ。\r\n//　おお、恐ぁ」\r\n\"No, really. You can see it in their eyes. One wrong move, off comes the old head! Brr! Gives me the shivers.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46307,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031220a00'>\r\n//「………………。\r\n//　いや、それは。つまり」\r\n\"But, Your Highness, if that's true...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031230a00'>\r\n//「暗殺などすれば最後、宮殿下の御身が忽ち\r\n//危うくなるという事では？」\r\n\"Then what will prevent them from claiming your life the moment word reaches Fudaraku?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46788,
+  "en": "\r\n//　確かに、アリバイ的な効果もあるだろうが……。\r\n  As an alibi, it hardly meets the criteria.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 46917,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031240a10'>\r\n//「ところが、そうは限らん……。\r\n//　そこが<RUBY text='まつりごと'>政治</RUBY>の妙なとこやけど」\r\n\"See, that's the funny thing about politics.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 47199,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031250a11'>\r\n//「大将領護氏が健在な間の宮殿下と、失われ\r\n//た後の宮殿下とでは、意味が異なる。\r\n//　護氏の失墜は、六波羅の権能の動揺を意味\r\n//せずにはおかないからだ」\r\n\"As we touched on before, Moriuji's death will change what His Highness means to Rokuhara. There will be doubt, confusion, and conflict in the aftermath.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031260a11'>\r\n//「暗殺に八幡宮側が関与した確固たる証拠で\r\n//もあれば別だが……\r\n//　それ無しに宮殿下の粛清など行えば、動揺\r\n//は致命的なまでに加速するだろう」\r\n\"If they execute His Highness without proof of his complicity, the situation will become that much harder to control.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031270a11'>\r\n//「その程度の計算もできぬ者が、護氏亡き後\r\n//の権力を握る四公方の中にいるとは思えん」\r\n\"I don't believe any of the generals will make that mistake.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48360,
+  "en": "\r\n//　…………つまり。\r\n//　六波羅は親王の不穏な挙を掣肘するべく人質に取る。\r\n//が、親王が実際に行動を起こし、成功してしまったら、\r\n//簡単には始末できなくなる――という事か。\r\n  So... Rokuhara takes the prince hostage as insurance, to threaten his life if he attempts a coup. But if he attempts a coup anyway and <I>succeeds,</I>㉒they can't follow through on their threat.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48823,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031280a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 48947,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031290a00'>\r\n//「全くもって、妙な話です」\r\n\"Yes... I suppose it is rather 'funny.'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49127,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031300a10'>\r\n//「歯に衣着せんでもええよ。\r\n//　アホみたいな話やて思うてるやろ？」\r\n\"C'mon, kid. You can say what you think. It's a shitshow, am I right?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49401,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031310a00'>\r\n//「……は……」\r\n\"Your Highness...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 49538,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031320a10'>\r\n//「実際、アホな話や。\r\n//　このアホ臭さに六波羅が気付いてないとも\r\n//思えんけど」\r\n\"Well, it is. And they know it is. You'd think they might shovel a little harder.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031330a10'>\r\n//「結局、驕りがあるってことなんやろなァ。\r\n//　わしみたいな間抜けにどうかされるわけが\r\n//ないって思うてるから、手の打ちようも甘く\r\n//なるんや……」\r\n\"Hubris, that's all. They think I'm just an old fool. Can't blame 'em for letting their guard down.\"\r\n \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50258,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031340a10'>\r\n//「ほほ」\r\n\"Ho ho!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50385,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031350a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50503,
+  "en": "\r\n//　だとすれば。\r\n//　六波羅にその驕りを植えつけたのは――他ならぬ、\r\n  Hubris, but who planted that seed? Who nurtured it? Who―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50676,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031360a11'>\r\n//「景明？」\r\n\"What's wrong?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50804,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031370a00'>\r\n//「いえ」\r\n\"Nothing, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 50929,
+  "en": "\r\n//　……ふと、底なしの沼を覗き見た心地がした。\r\n//　首筋の湿りを拭う。\r\n\r\n//　政治の世界の在り様は、俺などの理解を超える。\r\n//　これ以上、追及するべきではなさそうだった。\r\n  I wipe the sweat from the back of my neck, feeling as though I've peered into a yawning chasm.\r\n\r\n  Once again, I am reminded that politics is not a world I'll ever understand. Best defer to the prince on this.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51402,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031380a10'>\r\n//「くだくだしぃ話になってもうたなぁ。\r\n//　ま、いわんとするとこはわかって貰えたと\r\n//思う」\r\n\"Anyway. The topic kinda ran away from us there, but I think you get the drift, yeah?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51726,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031390a00'>\r\n//「……はっ」\r\n\"...Yes, Your Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 51866,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031400a10'>\r\n//「決断の時や」\r\n\"Time to decide.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52011,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031410a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52129,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031420a10'>\r\n//「大和の歴史の流れを変えるために……決断\r\n//する時が来たんや。景明くん。\r\n//　今しかない……今、動かないとならん」\r\n\"This is our last chance to change the direction we're headed. It's now or never, kid. Now or never.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52504,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031430a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52628,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031440a11'>\r\n//「……景明」\r\n\"Kageaki...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52756,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031450a10'>\r\n//「どやろ……？」\r\n\"How 'bout it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 52902,
+  "en": "\r\n//　今まで、敢えて考えることを避けてきた問題。\r\n//　だが最早、直面するしかなかった。\r\n\r\n//　<RUBY text='・・・・・・・・・・・'>誰がそれを実行するのか</RUBY>。\r\n\r\n//　……わかりきっている。\r\n//　忌々しいまでに。\r\n\r\n//　首謀者と共謀者以外に、こんな話を打ち明けられる\r\n//者がいるなら、それは実行犯でしか有り得ない。\r\n//　そしてこの二人が、権謀術数についての意見をわざ\r\n//わざ俺などに求める筈はなかった。\r\n\r\n//　いま問われているのは俺の意見ではなく。\r\n//　俺の、意思だ。\r\n\r\n//　――足利護氏をこの手で殺せるか否か。\r\n  And now we come to it, the question I've been avoiding since this conversation began.\r\n\r\n  Who will assassinate Ashikaga Moriuji?\r\n\r\n  But of course, I already know the answer. It sits like a stone in my gut.\r\n\r\n  They would not divulge their plan to anyone who was not meant to be involved, and there is only one part of a plan like this where I could be of service.\r\n\r\n  They did not summon me to ask for my opinion. They summoned me to ask for my sword.\r\n\r\n  To ask㉓<I>me</I>㉗to kill the shogun.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54148,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031460a00'>\r\n//「……っ……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 54275,
+  "en": "\r\n//　膝の上へ置いた手が、小刻みに震えている。\r\n//　無様にも。だが、いかに抑えようとしてみても思い\r\n//のままにならない。\r\n\r\n//　殺人の考えを弄ぶ限り、この震えは止めようが無い。\r\n\r\n//　……理解は可能だ。\r\n//　納得もできる。\r\n\r\n//　元帥大将の死は歴史の<RUBY text='ターニングポイント'>転回点</RUBY>になり得るだろう。\r\n//　親王の舵取りよろしきを得れば、大和の「良き未来」\r\n//へ繋がりもするだろう。\r\n\r\n//　一方、手をつかねて事態の推移をひた見守るばかり\r\n//であれば……\r\n//　ＧＨＱが大和の完全占領を成し遂げるか、あるいは\r\n//六波羅がその駆逐に成功し専制支配を磐石にするか。\r\n\r\n//　どちらにしても、余り心楽しい未来図ではない。\r\n\r\n//　今が機だと云う、親王の考えはわかる。\r\n//　おそらく――正しい。\r\n\r\n//　大和国の、<RUBY text='・・・・・'>比較的幸福</RUBY>をもって正とするなら、親王\r\n//がきっと正しい。\r\n//　そう認めることは、できるのだ。\r\n\r\n//　だが。\r\n  My hands are shaking. I clench my fists upon my knees, but fail to stop the tremors. His Highness and the commissioner do me the kindness of pretending not to notice.\r\n\r\n  It is the thought of murder which has unmanned me, as it must and always has.\r\n\r\n  I understand the prince's reasons. I even accept them. On its present course, Yamato can arrive at one of only two destinations―<br>submission to Rokuhara, or submission to the West. Neither is likely to offer much hope or comfort to her beleaguered people.\r\n\r\n  The shogun's death will change this course, the prince says, and with his hand on the tiller, a brighter future may await.\r\n\r\n  I do not doubt that he is right. Nor do I doubt that he is㉓<I>in</I>㉓the right, if right means doing what is best for Yamato.\r\n\r\n  Even so...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56279,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0031470a00'>\r\n//（殺すのか……）\r\n(Can I kill him?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56418,
+  "en": "\r\n//　銀星号とは何の関係も無いところで。\r\n//　勝手に<RUBY text='・・・・・・・'>命の価値を計り</RUBY>。\r\n\r\n//　一人の人間を、要らぬ、と決めつけ。\r\n//　殺し。\r\n\r\n//　――そして更にもう一人、殺す。\r\n  The shogun has no connection to Ginseigo. Will I take it upon myself to judge him all the same? To declare him㉔<I>worthless,</I>㉒claim his <br>life...<K> then with my return stroke, claim one more?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 56903,
+  "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/0031480a10'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57030,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/0031490a11'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 57148,
+  "en": "\r\n//　返答を急かす様子が無いのは有難かった。\r\n//　それはおそらく、二人ともが、俺にやらせようとし\r\n//ている事の意味を痛感しているからだろう。\r\n\r\n//　この身は呪われし村正。\r\n//　敵を斬り、返す刃で友をも斬る。\r\n\r\n//　護氏を斬れば、あと一人誰かを斬らねばならない。\r\n//　誰か……\r\n//\r\n  They are giving me time to consider the proposal, because they know what accepting it will mean.\r\n\r\n  I wield cursed Muramasa, the sword which slays friend and enemy both.\r\n\r\n  If I choose to slay the shogun, then someone㉓<I>else</I> must pay the price.\r\n\r\n  Someone... else.\r\n",
+  "pt": ""
+ }
+]

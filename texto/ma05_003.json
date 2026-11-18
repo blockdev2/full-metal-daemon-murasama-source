@@ -1,0 +1,432 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030010a14'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 328,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030020a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 452,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030030b46'>\r\n//「……あー、我が子たちよ。\r\n//　キミらなんで、箸を持ったままぴくりとも\r\n//せず見つめ合っとんのかね？」\r\n\"...Um, my beloved children? Why have you been staring at each other with your chopsticks in the air for the last five minutes?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 818,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030040a00'>\r\n//「いえ……」\r\n\"Well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 943,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030050a14'>\r\n//「別に何でもありません。母上。\r\n//　どうかお気になさらず」\r\n\"It's nothing, Mother. Pay us no mind.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1156,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030060b46'>\r\n//「すいません。すっごく気になります。\r\n//　気になって、わたしまでごはん食べられま\r\n//せん」\r\n\"Sorry, but it's really bothering me. I can't eat like this.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1437,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030070a00'>\r\n//「御迷惑を」\r\n\"I apologize for the inconvenience.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1589,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030080b46'>\r\n//「おまえはどしたの、景明」\r\n\"What's wrong with you, <br>boy?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1750,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030090a00'>\r\n//「は……\r\n//　その、光の視線が……先程から」\r\n\"It's just... Hikaru's stare...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1944,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030100a14'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2059,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030110b46'>\r\n//「……一挙手一投足を逃さねぇーって目だな。\r\n//　血を分けた娘ながら野獣にしか見えん」\r\n\"...You're right. Them's the eyes of a predator tracking your every move. And I thought I gave birth to a human, not a hawk.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2397,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030120b46'>\r\n//「おーい。そこの花も恥らうお年頃な少女ー。\r\n//　その暗黒闘気は一体なんなんだよ」\r\n\"Hey there, tender maiden. What's with the aura of darkness?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2665,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030130a14'>\r\n//「何でもないと言っているでしょう。\r\n//　構わず、さっさと豚のように食らって牛の\r\n//ように寝て下さい」\r\n\"I said it's none of your concern. Please return to your hoglike eating ritual and leave us in peace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3002,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030140b46' time=3700>\r\n//「……ますます食えないだろ。\r\n\"...Now I've really lost my appetite.\r\n<WaitVoice=3700><?>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3201,
+  "en": "\r\n//　ん？　あー……もしかして、そういうこと\r\n//か？」\r\n<voice>\r\n  Hmm... Oh! I get it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3322,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030150a00'>\r\n//「統様？」\r\n\"Pardon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3444,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030160b46'>\r\n//「いやね。\r\n//　今日、久しぶりにこの子が料理を手伝って、\r\n//その――」\r\n\"Truth is, I had a little help cooking today's―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3684,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030170a14'>\r\n//「……母上。\r\n//　食卓での口はお喋りではなく、食事のため\r\n//にあるものです」\r\n\"...Mother. The dinner table is a place for eating, not talking.\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030180a14'>\r\n//「無駄口は慎まれたが宜しい」\r\n\"Please refrain from idle chatter.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4106,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030190b46'>\r\n//「ひっ、ひぃ……！\r\n//　かっ、かっ、景明っ、わた、わたしの首っ、\r\n//ちゃっ、ちゃんと……つ……ついてるっ？」\r\n\"K- Kageaki! I- Is my h- head still attached?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4399,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030200a00'>\r\n//「はい。無事です。\r\n//　流石は統様……今の一撃をよくぞ躱されま\r\n//した。往年の<RUBY text='はがねみこ'>鋼鉄巫女</RUBY>は未だ健在のご様子」\r\n\"Yes. That was a most impressive evasion. I see the famous Iron Shrine Maiden is still in top form.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4788,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030210b46'>\r\n//「そんな感心してなくていいから息子よ！\r\n//　もう少しこっちへ寄りなさい。そんでまた\r\n//あの芝刈機みたいな手刀が飛んできたら母を\r\n//守るように。何度も避けられるかあんなの！」\r\n\"Stop being impressed and get over here! I need you close so you can protect me the next time she tries to mulch my head with her knife-hand. I can't dodge her forever!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5298,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030220a00'>\r\n//「……申し訳ありません。無理です。\r\n//　自分にはそもそも指先が見えませんでした」\r\n\"...Forgive me. I'm afraid I won't be of much use. I couldn't even see her move.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5595,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030230b46'>\r\n//「ひぃぃぃぃ……\r\n//　なんでこんな恐ろしいナマモノになっちゃ\r\n//ったんだこの娘はぁ……」\r\n\"Heeeee...! How did my daughter become such a terror?\"\r\n\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030240b46'>\r\n//「母さん、家庭内暴力の恐怖に屈しそうです。\r\n//　ＤＶってこーいうのか？」\r\n\"This must be what it's like to have an abusive husband... Every moment lived in fear!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6140,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030250a14'>\r\n//「景明。\r\n//　二人きりの食卓だからといって、変に気を\r\n//遣う必要はない。早く食べるといい」\r\n\"Kageaki. I know it's just the two of us, but that's no reason to be shy. Eat up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6442,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030260a00'>\r\n//「二人？」\r\n\"Just the two of us?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6576,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030270b46'>\r\n//「あれ……わたしハブられてる……」\r\n\"Um... what happened to <br>me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6748,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030280a14'>\r\n//「二人だ。\r\n//　もし、<RUBY text='・・・・・'>いもしない</RUBY>三人目がどうしても気に\r\n//なるのなら言え。質量保存の法則を無視して\r\n//でも、この宇宙から完全に抹消してやろう」\r\n\"Yes, just the two of us. Let me know if the nonexistent third person at this table bothers you. I'll erase all trace of her from the universe, if I have to ignore conservation of mass to do <br>it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7279,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030290b46'>\r\n//「すみません。もう黙って食べます。\r\n//　わたしいませんから……母さんここにいま\r\n//せんから……」\r\n\"Sorry, I'll be good. I'll eat quietly. I'm not here. Mommy's not here...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7582,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030300a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7700,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030310a14'>\r\n//「さあ、景明」\r\n\"Come.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7817,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030320a00'>\r\n//「うむ……」\r\n\"All right...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7947,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030330a14'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8062,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030340a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8186,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030350a14'>\r\n//「景明。迷い箸は行儀が悪いぞ」\r\n\"Hovering is very poor manners.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8352,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030360a00'>\r\n//「俺もやりたくてやっているわけではないの\r\n//だが」\r\n\"I'm not doing it because I want to...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8562,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030370b46'>\r\n//「何か取ろうとするたびに視線の十文字槍が\r\n//突き刺さるからああなってんだろ……」\r\n\"It's because you're hitting him with the optic equivalent of a spear thrust every time he reaches for something.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8883,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030380a14'>\r\n//「何やら煩い虫ケラがいるな？　潰すか」\r\n\"There seems to be a rather noisy insect in the room. Shall I squash it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9102,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030390b46'>\r\n//「母親に対する言葉じゃない……」\r\n\"But... I'm your㉓<I>mother!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9273,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030400a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9391,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030410b46'>\r\n//「あー、景明。\r\n//　このままだと飯が冷めていく一方だからな。\r\n//とりあえず、その煮魚から食え」\r\n\"Um, Kageaki? Dinner'll get cold if this keeps up, so why don't you just start with that boiled fish there?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9725,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030420a00'>\r\n//「煮魚？」\r\n\"Fish?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9845,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030430b46'>\r\n//「それ」\r\n\"That one.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9957,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030440a00'>\r\n//「……あ。煮魚でしたか。\r\n//　形崩れして、原形を留めていないので何か\r\n//全くわかりませんでした」\r\n\"...Oh, so that's what that is. It's so misshapen I couldn't identify it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10269,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030450b46'>\r\n//「どあー！\r\n//　今のは矛先違うんじゃないか娘よ！」\r\n\"Whoaaaaa! Why are you going after㉓<I>me!?</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10480,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030460a14'>\r\n//「黙れ、母上」\r\n\"Be silent, Mother.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10610,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030470b46'>\r\n//「うわーん！　こんな殺伐とした親子関係は\r\n//いやだー！　もう実家に帰るぅー！」\r\n\"Waaahhhh! Bonding with my daughter isn't supposed to be this dangerous! I'm going back to my parents' place!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10924,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030480a00'>\r\n//「ここです」\r\n\"That would be here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11061,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030490b46'>\r\n//「逃げ場ねぇー！」\r\n\"There's nowhere to run!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11202,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030500a14'>\r\n//「景明」\r\n\"Kageaki.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11313,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030510a00'>\r\n//「う、うむ。\r\n//　では頂きます」\r\n\"R- Right. I'll give it a try.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11488,
+  "en": "",
+  "pt": ""
+ },
+ {
+  "offset": 11496,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030520a00'>\r\n//「……ん？」\r\n\"...Hmm?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11621,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030530a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11745,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030540a00'>\r\n//「おや……うむ。\r\n//　見てくれは良くないが……この煮魚」\r\n\"Oh? Well, it may not look like much...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11965,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030550a14'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12074,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030560a00'>\r\n//「旨い。\r\n//　いつもの味付けとは少し違うが……これは\r\n//これで、なかなか」\r\n\"But this fish is good. It tastes a little different than usual... but not bad at all.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12366,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030570a14'>\r\n//「そうか！」\r\n\"Really!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12483,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030580b46'>\r\n//「え？　ほんとか景明？\r\n//　無理するなよ。駄目そうだったら戻しても\r\n//いいぞ。こんなこともあろうかと思ってほら、\r\n//母さんちゃんと桶をここに」\r\n\"Are you sure? Don't force yourself, okay? I won't think any less of you if you have to barf it up. I even brought a bucket for you just in―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12922,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030590a00'>\r\n//「……？\r\n//　統様は何処へ行かれた？」\r\n\"...Where did Mother go?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13100,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030600a14'>\r\n//「手洗いではないか。\r\n//　気にしてやるな」\r\n\"To the toilet, perhaps. I'm sure she's fine.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13296,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030610a00'>\r\n//「今の、どぼーんという音は……\r\n//　あたかも豪快に吹っ飛ばされた人間が裏の\r\n//沢へ落ちたかのような……」\r\n\"That splash just now... I think it was the sound of someone falling into the pond out back.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13639,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030620a14'>\r\n//「蛙か何かだろう。\r\n//　さ、気にせず食え」\r\n\"It must have been a frog. Now come, dig in.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13834,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030630a00'>\r\n//「うむ……」\r\n\"Very well...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13964,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030640a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14088,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030650a00'>\r\n//「うん。やはり良い味だ。\r\n//　少し変わっているが、そこがまた面白い」\r\n\"It really is good. A bit unorthodox, but that makes it unique.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14350,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030660a14'>\r\n//「そうかそうか……」\r\n\"I see!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14477,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030670a00'>\r\n//「有難う、光」\r\n\"Thank you, Hikaru.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14616,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030680a14'>\r\n//「……」\r\n\"......\"\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030690a14'>\r\n//「な、なんだ？\r\n//　唐突に」\r\n\"Wh- Why are you thanking me?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14876,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030700a00'>\r\n//「お前が作ったのだろう？」\r\n\"You made this, didn't you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15041,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030710a14'>\r\n//「……わかるのか？」\r\n\"...You can tell?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15178,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030720a00'>\r\n//「ああ。\r\n//　統様の<RUBY text='・・'>気配</RUBY>が無かったからな。この皿だけ\r\n//は」\r\n\"Of course. This dish was the only one that didn't feel like Mother's.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15460,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030730a14'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15575,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030740a00'>\r\n//「味をみて、違うと確信した」\r\n\"And the taste made me certain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15747,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030750a14'>\r\n//「だが……食べもせぬうちにそれがわかった\r\n//のか」\r\n\"But still, you knew before you even tried it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15956,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030760a00'>\r\n//「ああ。\r\n//　統様の気配の有無は、何となくだがわかる」\r\n\"Yes. I can somehow tell what does and doesn't have her touch.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16196,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030770a14'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16305,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030780a00'>\r\n//「さて。早いところ食べ終えてしまおう。\r\n//　このままだと本当に冷める」\r\n\"Come on, let's eat. Otherwise it really will get cold.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030790a00'>\r\n//「光、お前も」\r\n\"You too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16683,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030800a14'>\r\n//「ああ……」\r\n\"Right...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16800,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030810a00'>\r\n//「どうした」\r\n\"What's wrong?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16931,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030820a14'>\r\n//「いや、何でもない！\r\n//　食う！」\r\n\"N- Nothing! Let's eat!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17093,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030830a14'>\r\n//「む……うむ。この味か。\r\n//　この味が景明の好みなのだな？」\r\n\"Hmm... I see. So this what you like?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17308,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030840a00'>\r\n//「そうだな……五月蝿いことを言えば、もう\r\n//少し締まった味付けの方が好みだが」\r\n\"Well... if I were going to be picky, I'd prefer a slightly more subdued flavor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17602,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030850a14'>\r\n//「締まった味付け……難しいことを云う。\r\n//　詳しく教えてくれ」\r\n\"Subdued... I'm not sure what that means. Can you explain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17841,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0030860a00'>\r\n//「うむ。つまり――」\r\n\"Well, you see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17987,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0030870a14'>\r\n//「ふむふむ――」\r\n\"Hmm...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18108,
+  "en": "\r\n//【統】\r\n<voice name='統' class='統' src='voice/ma05/0030880b46'>\r\n//「……子供たちよー。\r\n//　その和やかで幸福な団欒は、母の尊い犠牲\r\n//の上に成り立ってることを忘れるんじゃない\r\n//ぞー……」\r\n\"Children? Don't forget this happy little meal is founded on your mother's noble sacrifice...\"\r\n",
+  "pt": ""
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0050010a00'>\r\n//「……どういうつもりですか？」\r\n\"...Why did you do that?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 381,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0050020a11'>\r\n//「面倒を押し付ける格好になったのは認める」\r\n\"I know that it looks like I'm passing you the burden.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 597,
+  "en": "\r\n//　親王の御前を辞して、八幡宮の境内。\r\n//　支度を済ませてくるという香奈枝嬢を待ちがてら、\r\n//署長と小声で話し合う。\r\n  While waiting outside for the captain to get her things and join us, the commissioner and I engage in whispered discussion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 905,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0050030a11'>\r\n//「だが、そうした理由がわからないわけでは\r\n//あるまい？」\r\n\"But you understand why this was necessary, don't <br>you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1144,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0050040a00'>\r\n//「それは流石に。\r\n//　身辺へ置いておきたくないというのは理解\r\n//できます」\r\n\"Of course. You don't want her close to His Highness.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1403,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0050050a11'>\r\n//「ああ。\r\n//　連盟軍将校で大和人。信用するには不可解\r\n//な部分が多過ぎる」\r\n\"That's right. A Yamatoan GHQ officer... She presents too many mysteries to be trusted.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0050060a11'>\r\n//「しかも<RUBY text='・・'>大鳥</RUBY>だ」\r\n\"And she's an㉗<I>Otori.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1867,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0050070a00'>\r\n//「……はい」\r\n\"...Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1992,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0050080a11'>\r\n//「先刻の発言も真意は奈辺にあるやら。\r\n//　彼女というスピーカーを通したＧＨＱから\r\n//の通告だとも考えられる」\r\n\"Her words just now could mean anything. If she speaks for GHQ, then that may have been a warning or a threat.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2359,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0050090a00'>\r\n//「そうでしょうか。\r\n//　真意の所在はともかくとして、あれは彼女\r\n//自身の言葉であったと自分には思えました」\r\n\"I do not believe that to be the case. Whatever her true intent, I feel that her words were her own.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2713,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0050100a11'>\r\n//「……ほう。\r\n//　彼女との付き合いはお前の方が長い。お前\r\n//がそう言うなら、そうなのかもしれないが」\r\n\"...Oh? You've known her the longest. If that's your opinion, maybe it's true.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3036,
+  "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/ma03/0050110a11'>\r\n//「聞いておくか。\r\n//　お前の眼から見て、彼女は信頼を置くに値\r\n//する人間か？」\r\n\"Tell me. Do you think she can be trusted?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3290,
+  "en": "10_1",
+  "pt": ""
+ },
+ {
+  "offset": 3313,
+  "en": "10_2",
+  "pt": ""
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【ｅｔｃ／方面将軍】\r\n<voice name='ｅｔｃ／方面将軍' class='その他男声' src='voice/md04/0180010e252'>\r\n//「捕虜の移送を急げ！\r\n//　物資の確認もだ！」\r\n\"Get those prisoners loaded! I want that supply dump built on the <br>double!\"\r\n\r\n//【ｅｔｃ／方面将軍】\r\n<voice name='ｅｔｃ／方面将軍' class='その他男声' src='voice/md04/0180020e252'>\r\n//「篠川軍の来襲に備えねばならん！」\r\n\"Sasagawa won't catch㉗<I>us</I>㉓unprepared!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 734,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ａ】\r\n<voice name='ｅｔｃ／警邏隊Ａ' class='その他男声' src='voice/md04/0180030e063'>\r\n//《地上は慌しいな》\r\n《Looks like the groundpounders aren't getting a break.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 964,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｂ】\r\n<voice name='ｅｔｃ／警邏隊Ｂ' class='その他男声' src='voice/md04/0180040e064'>\r\n//《将軍様は生真面目でいらっしゃる。\r\n//　休む間も惜しんで防衛態勢を整えるつもり\r\n//のようだ》\r\n《The CO wants the defenses restored on the double, in case Sasagawa tries to take Koga back.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1339,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｃ】\r\n<voice name='ｅｔｃ／警邏隊Ｃ' class='その他男声' src='voice/md04/0180050e065'>\r\n//《付き合わされる方はたまらん》\r\n《Man, what a hardass.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1554,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ａ】\r\n<voice name='ｅｔｃ／警邏隊Ａ' class='その他男声' src='voice/md04/0180060e063'>\r\n//《篠川の指揮官にまともな頭があれば、今頃\r\n//は白旗の準備を始めているだろう。\r\n//　攻めてくる気力などあるものか》\r\n《If Sasagawa's CO has any brains at all, he's dusting off the white flag right now. No way in hell they try an attack.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1985,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｂ】\r\n<voice name='ｅｔｃ／警邏隊Ｂ' class='その他男声' src='voice/md04/0180070e064'>\r\n//《全くだな……》\r\n《I'm with you there.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2178,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｃ】\r\n<voice name='ｅｔｃ／警邏隊Ｃ' class='その他男声' src='voice/md04/0180080e065'>\r\n//《むっ？》\r\n《Hmm?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2347,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｂ】\r\n<voice name='ｅｔｃ／警邏隊Ｂ' class='その他男声' src='voice/md04/0180090e064'>\r\n//《<RUBY text='アンノウン'>未確認騎</RUBY>発見。\r\n//　……敵騎だな》\r\n《Unidentified contacts. Gotta be theirs.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2624,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ａ】\r\n<voice name='ｅｔｃ／警邏隊Ａ' class='その他男声' src='voice/md04/0180100e063'>\r\n//《おいおい。予想がさっそく外れたぞ。\r\n//　篠川の指揮官は狂人か？》\r\n《Seriously? Is their CO nuts?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2899,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｃ】\r\n<voice name='ｅｔｃ／警邏隊Ｃ' class='その他男声' src='voice/md04/0180110e065'>\r\n//《いや、あれは偵察騎だろう。\r\n//　数も少ない……》\r\n《Nah, probably just scouting us. There aren't enough for an attack.》\r\n\r\n//【ｅｔｃ／警邏隊Ｃ】\r\n<voice name='ｅｔｃ／警邏隊Ｃ' class='その他男声' src='voice/md04/0180120e065'>\r\n//《古河の状況を確かめに来たんだ》\r\n《Guess they want to see if there's a chance.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3421,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｂ】\r\n<voice name='ｅｔｃ／警邏隊Ｂ' class='その他男声' src='voice/md04/0180130e064'>\r\n//《なるほど。諦めの悪い奴らだ。\r\n//　……隊長、どうします？》\r\n《Heh. Sounds like their CO's a hardass too. What orders, cap?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3719,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ａ】\r\n<voice name='ｅｔｃ／警邏隊Ａ' class='その他男声' src='voice/md04/0180140e063'>\r\n//《帰してやりましょう。\r\n//　現実を教えるのはいいプレゼントです》\r\n《Let's send 'em home, sir. Their boss could use a wake-up call.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4025,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｃ】\r\n<voice name='ｅｔｃ／警邏隊Ｃ' class='その他男声' src='voice/md04/0180150e065'>\r\n//《違いない》\r\n《Bet they thank us for it later.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4224,
+  "en": "\r\n//【ｅｔｃ／警邏隊長】\r\n<voice name='ｅｔｃ／警邏隊長' class='その他男声' src='voice/md04/0180160e066'>\r\n//《うむ……\r\n//　だが、融通の利かない将軍に怠慢を責めら\r\n//れても敵わん》\r\n《That would be rather sporting, wouldn't it? Still... I just know the general will ride my ass for 'slacking' if we let them go.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4605,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｂ】\r\n<voice name='ｅｔｃ／警邏隊Ｂ' class='その他男声' src='voice/md04/0180170e064'>\r\n//《ならやっちまいますか。\r\n//　位置はこっちの優勢です》\r\n《Should we wipe 'em out, then? We've got the high ground.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4890,
+  "en": "\r\n//【ｅｔｃ／警邏隊長】\r\n<voice name='ｅｔｃ／警邏隊長' class='その他男声' src='voice/md04/0180180e066'>\r\n//《そうだな……よし。\r\n//　一騎だけ残す》\r\n《...Right, here's the plan. We'll let one escape to report back.》\r\n\r\n//【ｅｔｃ／警邏隊長】\r\n<voice name='ｅｔｃ／警邏隊長' class='その他男声' src='voice/md04/0180190e066'>\r\n//《他は狩れ》\r\n《The rest are ours.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5339,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ａ】\r\n<voice name='ｅｔｃ／警邏隊Ａ' class='その他男声' src='voice/md04/0180200e063'>\r\n//《了解》\r\n《Yes sir!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5509,
+  "en": "\r\n//【ｅｔｃ／警邏隊Ｂ】\r\n<voice name='ｅｔｃ／警邏隊Ｂ' class='その他男声' src='voice/md04/0180210e064'>\r\n//《はは……兎狩りだ！》\r\n《Woo-hoo! It's rabbit season, boys!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5726,
+  "en": "\r\n//【ｅｔｃ／零零式Ａ】\r\n<voice name='ｅｔｃ／零零式Ａ' class='その他男声' src='voice/md04/0180220e301'>\r\n//《先行小隊より<RUBY text='マテンコウ'>摩天蛟</RUBY>。\r\n//　進駐軍の竜騎兵を発見した。指示を乞う》\r\n《Outrider to Matenko. Enemy dragoons in sight. Requesting orders.》\r\n\r\n//【ｅｔｃ／零零式Ａ】\r\n<voice name='ｅｔｃ／零零式Ａ' class='その他男声' src='voice/md04/0180230e301'>\r\n//《――――》\r\n《......》\r\n\r\n//【ｅｔｃ／零零式Ａ】\r\n<voice name='ｅｔｃ／零零式Ａ' class='その他男声' src='voice/md04/0180240e301'>\r\n//《了解》\r\n《Understood, Matenko.》\r\n\r\n//【ｅｔｃ／零零式Ａ】\r\n<voice name='ｅｔｃ／零零式Ａ' class='その他男声' src='voice/md04/0180250e301'>\r\n//《一騎たりとも帰さない》\r\n《No survivors.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6604,
+  "en": "\r\n//【ｅｔｃ／方面将軍】\r\n<voice name='ｅｔｃ／方面将軍' class='その他男声' src='voice/md04/0180260e252'>\r\n//「何？\r\n//　警邏の竜騎兵小隊が一つ、音信途絶だと？\r\n//全騎か？」\r\n\"What do you mean they're not responding? Are you saying we've lost an entire patrol?\"\r\n\r\n//【ｅｔｃ／方面将軍】\r\n<voice name='ｅｔｃ／方面将軍' class='その他男声' src='voice/md04/0180270e252'>\r\n//「……敵の大軍に襲われて連絡を寄越す間も\r\n//なく全滅した、はずはないな。\r\n//　もしそうなら他の警邏隊が動静をつかんで\r\n//いないのは不自然だ」\r\n\"That can't be right. We would've heard something. Even if their comms were jammed, another patrol would've seen the fighting. That leaves...\"\r\n\r\n//【ｅｔｃ／方面将軍】\r\n<voice name='ｅｔｃ／方面将軍' class='その他男声' src='voice/md04/0180280e252'>\r\n//「くっ、ということは単なる職務怠慢か！\r\n//　少し勝つとすぐだらけおって、これだから\r\n//馬鹿は度し難い……！」\r\n\"Slackers! I knew it! One victory and they all start stroking their cocks. Well not in㉗<I>this</I>㉓man's army, by God!\"\r\n",
+  "pt": ""
+ }
+]

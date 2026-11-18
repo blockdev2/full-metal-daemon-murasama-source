@@ -1,0 +1,237 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　焦ろうがのんびりしていようが時間は普通に流れる\r\n//し、学校は普通にあるし、授業は普通に行われる。\r\n  Time rolls on, not giving two shits about my worries. We still have school, and that means class.\r\n\r\n//　正直、授業なんかまともに聞いていられる気分では\r\n//なかったが、この状況でさぼったりすれば騒ぎを助長\r\n//してしまう。\r\n//　リツを探しに行くと断っても通るわけがない。\r\n  This is the last place I want to be sitting, but for us to cut now would only make things worse. It's not like we can use our investigation as an excuse.\r\n\r\n//　学校と、特にご厄介になっている来栖野家に迷惑を\r\n//掛けることは避けたかった。\r\n//　遠縁の孤児に過ぎないおれの面倒をみてくれている\r\n//おじさんおばさんを心配させるわけにはいかない。\r\n  I don't want to cause trouble, especially not for Konatsu's parents, who were kind enough to look after me, an orphan, even though I'm only a distant relation.\r\n\r\n//　……実の両親に育てられている身なら、こういう時\r\n//はむしろ、頼ろうとするのだろうか？\r\n//　などとちらりと考えたが、わからなかった。事故で\r\n//死んだ（と聞く）両親のことは顔も覚えていない。\r\n  ...If I'd been raised by my real parents, would I have felt free to ask them for help now?\r\n\r\n  The thought crosses my mind, but it carries no weight. I don't even remember their faces. All I know is what I was told, that they were killed in an accident.\r\n\r\n//　何にせよおれは最善の手段、放課後を待っての行動\r\n//を選ぶしかなかった。\r\n//　授業は……同じような心境だろうに責務を果たして\r\n//いる鈴川には申し訳ないが、聞き流させてもらう。\r\n  So all I can do is wait for the closing bell to ring. There's no way I can pay attention to class like this, though I kind of feel bad for ignoring Suzukawa, who's probably just as frustrated as we are.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2316,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080010b57'>\r\n//「……歴史を古代、中世、近世、近代、現代\r\n//のように区分けすることを時代区分という」\r\n\"History is divided into five periods: classical, medieval, early modern, modern, and contemporary.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080020b57'>\r\n//「前回まで学んでいたのが近代。\r\n//　今日から現代に入るが……」\r\n\"Last class, we finished up to modern. Today we'll begin contemporary history, but first...\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080030b57'>\r\n//「近代、現代の区分には諸説ある。\r\n//　その一つは新型劔冑の誕生をもって現代の\r\n//始まりとするものだ」\r\n\"There are several opinions as to where to place the divide between modern and contemporary. One of these holds that the contemporary period began with the birth of a new kind of tsurugi.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080040b57'>\r\n//「上古の時代から今に至るまで、<RUBY text='ツルギ'>劔冑</RUBY>は常に\r\n//最強の兵器だった。着用した人間の身体能力\r\n//を飛躍的に向上させ、空を自在に駆けさせる\r\n//……これに勝る武器は未だない」\r\n\"Since the dawn of history, tsurugi have been mankind's ultimate weapon. The warrior who wields one gains superhuman strength and speed, and even the ability to fly. There is no greater power.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080050b57'>\r\n//「陸上では戦車、空では飛行艦が有力な兵器\r\n//として注目されているが……いずれも単純な\r\n//戦闘力ではまだまだ劔冑に及ばないというの\r\n//が実情だ」\r\n\"While tanks and airships have many advantages, neither are yet capable of matching tsurugi in pure combat effectiveness.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080060b57'>\r\n//「<RUBY text='ＨＶＡＰ'>高速徹甲弾</RUBY>を始め、劔冑の撃墜を目指した\r\n//兵器の研究もされている。我が国でも戦時中、\r\n//<RUBY text='レールガン'>電磁加速砲</RUBY>計画などが一時期脚光を浴びたな。\r\n//　しかし実用に達した例はほとんどない」\r\n\"There have, of course, been attempts to develop anti-tsurugi weapons. For example, the HVAP―High-<br>Velocity Armor-Piercing―<br>shell has been much touted of late, and during the war, a lot of money went into developing a practical railgun. However, these have had little success.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080070b57'>\r\n//「劔冑を打倒できる兵器は無く、劔冑に打倒\r\n//されない兵器も無し。\r\n//　そのつもりになれば、劔冑を使う者は一人\r\n//で完全武装の歩兵百人を駆逐する事ができる」\r\n\"The tsurugi is all but invincible, the unchallenged king of the battlefield. Should he so desire, the wielder of a tsurugi can slaughter a hundred fully-armed infantry with ease.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5500,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080080b57'>\r\n//「……いや。それどころか。\r\n//　中には、<RUBY text='・'>町</RUBY>をただ一人で壊滅させてしまう\r\n//者さえいるようだ」\r\n\"...And that's the least of what they can do. There are even tsurugi capable of destroying entire㉗<i>cities.</i>\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080090b57'>\r\n//「その種の伝説なら何処の国にもあるが……\r\n//　こんな話を、昔の御伽噺ではなく、現実的\r\n//な脅威として受け止めなくてはならない我々\r\n//大和国民は……残念ながら、非常に不運だな」\r\n\"In the rest of the world, such tsurugi are spoken of as distant legends... but we of Yamato know them as an imminent, inescapable reality. We are, I'm afraid to say, extraordinarily unlucky.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6408,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0080100b56'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6526,
+  "en": "\r\n//　窓際に座る何人かが、ふと空を見上げた。\r\n//　夕立を危惧するように。あるいはそれ以外の何かを\r\n//危惧するように。\r\n  A few students sitting by the window look up to the sky, as if anticipating a sudden spat of rain―or something else, perhaps.\r\n\r\n//　……幸い、何もないようだった。\r\n//　<RUBY text='・・・'>白銀色</RUBY>のものは、何も。\r\n  Thankfully, there's nothing there.<k>\r\n  Nothing silver.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7019,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080110b57'>\r\n//「劔冑はそれだけの力を持っている。\r\n//　その劔冑の使い手を<RUBY text='むしゃ'>武者</RUBY>という」\r\n\"Such is the power of tsurugi. The warriors who wield them are called musha.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080120b57'>\r\n//「近代以前、武者は一握りの上級士族だけに\r\n//限られていたが……高野、それはなぜだ？」\r\n\"From ancient times up through the modern period, only members of high-<br>ranking warrior houses could become musha. Takano, why was this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7681,
+  "en": "\r\n//【ｅｔｃ／高野】\r\n<voice name='ｅｔｃ／高野' class='その他男声' src='voice/ma01/0080130e074'>\r\n//「劔冑が貴重品だったからです」\r\n\"Because tsurugi were very valuable.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7895,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080140b57'>\r\n//「なぜ貴重品だった？」\r\n\"And why were they so valuable?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8058,
+  "en": "\r\n//【ｅｔｃ／高野】\r\n<voice name='ｅｔｃ／高野' class='その他男声' src='voice/ma01/0080150e074'>\r\n//「鍛冶師一人につきひとつしか造れなかった\r\n//からです」\r\n\"Because a blacksmith could only make one tsurugi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8320,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080160b57'>\r\n//「そうだ。劔冑鍛冶は生涯<RUBY text='ひとうち'>一打</RUBY>。\r\n//　なぜなら、劔冑を完成させるには鍛冶師が\r\n//自分の身魂を鎧に打ち込まなくてはならない\r\n//……これを『<RUBY text='しんがね'>心鉄</RUBY>を通す』という」\r\n\"Correct. A smith can create only one tsurugi. This is because the smith must forge his own body and soul into the armor. The result of this process is known as shingane, and it is what forms the tsurugi's core.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080170b57'>\r\n//「そうすることで初めて、劔冑は最強の武器\r\n//としての力を得……その力を使い手の意思に\r\n//応じて制御するための頭脳も備える。\r\n//　心鉄を通さなければただの上出来な鎧だ」\r\n\"Only with true shingane does a tsurugi acquire strength to surpass all other weapons and the intelligence needed to answer its master's will. Without shingane, it is merely a fine suit of armor.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080180b57'>\r\n//「つまり、劔冑を一領造るには鍛冶師が命を\r\n//一つ捧げなくてはならないわけだ。\r\n//　貴重品なのは当然だな」\r\n\"To create one tsurugi, therefore, costs the life of one smith. It's no wonder that they were prized so highly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9804,
+  "en": "\r\n//【ｅｔｃ／吉田】\r\n<voice name='ｅｔｃ／吉田' class='その他男声' src='voice/ma01/0080190e046'>\r\n//「先生っ」\r\n\"Mr. Suzukawa!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9966,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080200b57'>\r\n//「どうした、吉田」\r\n\"What is it, Yoshida?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10113,
+  "en": "\r\n//【ｅｔｃ／吉田】\r\n<voice name='ｅｔｃ／吉田' class='その他男声' src='voice/ma01/0080210e046'>\r\n//「劔冑を造った鍛冶師は死ぬんですか？」\r\n\"Does the smith die?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10323,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080220b57'>\r\n//「……難しい質問だな。\r\n//　鍛冶師の心魂は劔冑の<RUBY text='ＯＳ'>統御機能</RUBY>として残る\r\n//わけだから、生きているという見方もできる」\r\n\"A difficult question. The smith's soul becomes the mind of the tsurugi―the operating system, if you will―so it can be said that he lives in some form.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10768,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080230b57'>\r\n//「だがそれはあくまで、劔冑の部品としての\r\n//精神……というか、精神の<RUBY text='・・・・・'>ようなもの</RUBY>だ。\r\n//　人間らしさはほぼ無くしている。使用者の\r\n//命令に応えるだけで、自発的行動はしない」\r\n\"However, that consciousness is only a part of the tsurugi, with the greater part of the smith's humanity lost in the forging. It only obeys its master's orders, and cannot act of its own volition.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080240b57'>\r\n//「そうではない劔冑が<RUBY text='かつ'>嘗</RUBY>てあったという人も\r\n//いるが、伝説の彼方の話だ。\r\n//　現代には残っていないだろう」\r\n\"Some say there were once tsurugi with wills of their own, but those are stories from long ago. It's doubtful whether any such tsurugi remain to this day.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080250b57'>\r\n//「さて。\r\n//　そういうわけで、近代まで、武者は非常に\r\n//数少なかった」\r\n\"Let's move on. So, for the reasons just mentioned, there were very few musha before the modern age. This was true all over the world.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080260b57'>\r\n//「世界共通のこの事情が劇的に変化するのは\r\n//国紀二五四九年……<RUBY text='ハプスブルク'>二重帝国</RUBY>の兵器メーカー、\r\n//ゼグラー社が世界で初めて、鍛冶師の生命を\r\n//消費せずに劔冑を完成させた時のことだ」\r\n\"Everything changed, however, in 2549, when the Segler Corporation, a Habsburg weapons manufacturer, succeeded in creating a tsurugi without sacrificing the life of a smith.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12654,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080270b57'>\r\n//「これに先立つ二五四四年。\r\n//　何があったか知っている者？」\r\n\"Who knows what significant event happened five years prior, in 2544?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12910,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0080280b43'>\r\n//「はい」\r\n\"Here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13027,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080290b57'>\r\n//「稲城」\r\n\"Inagi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13145,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0080300b43'>\r\n//「<RUBY text='ブリテン'>大英連邦</RUBY>のフォレット教授が研究していた\r\n//<RUBY text='ミラー'>多重複写</RUBY>法による<RUBY text='クローン'>生体複製</RUBY>技術開発が頓挫、\r\n//研究成果をゼグラー社に売却しました」\r\n\"Britain's Doctor Folett abandoned his research into human cloning and sold the results to the Segler Corporation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13636,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080310b57'>\r\n//「成果とは具体的に？」\r\n\"And what were those <br>results?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13801,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0080320b43'>\r\n//「<RUBY text='コピーボディ'>複製人体</RUBY>の完成です。\r\n//　ただこれは、免疫問題を克服できなかった\r\n//ため、期待されていた医療面での有効活用は\r\n//不可能と断定されました」\r\n\"He had succeeded in cloning human bodies, but was unable to solve the problem of hosts rejecting cloned organs. Hence his technology could not be applied to medicine, as he'd hoped.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14322,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080330b57'>\r\n//「そう。\r\n//　だがゼグラー社のアルブリヒト博士はこの\r\n//技術を劔冑の製造工程に転用することを思い\r\n//ついたわけだ」\r\n\"Correct. Segler's Doctor Albrecht, however, thought to apply Folett's technology to the creation of tsurugi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14695,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080340b57'>\r\n//「劔冑は能力の源泉とするため、そして能力\r\n//を制御する知能とするために、鍛冶師自身の\r\n//心身を必要とする」\r\n\"The smith's sacrifice gives the tsurugi its power, as well as the thinking processes needed to control that power. Both are required for it to function.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080350b57'>\r\n//「それを博士は前者を複製人体、後者を機械\r\n//式の<RUBY text='ＣＰＵ'>演算装置</RUBY>と<RUBY text='プログラム'>命令系</RUBY>で代用することに成功」\r\n\"Doctor Albrecht was able to fill the first requirement by using cloned human bodies, and the second with the addition of a computer module.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080360b57'>\r\n//「量産可能な全く新しい劔冑を誕生させた」\r\n\"And thus mass-produced tsurugi were born.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15719,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080370b57'>\r\n//「この新型の劔冑は性能面では旧来の劔冑に\r\n//大きく劣ったが――」\r\n\"Compared to traditional tsurugi, these mass-produced models are nowhere near as powerful.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080380b57'>\r\n//「例えば旧型の劔冑でも上物に属するものは、\r\n//使用者に装甲されていない状態でも、指示を\r\n//受けて独立行動する能力を有する。\r\n//　この時の形状は移動に役立つ馬が最も多い」\r\n\"For example, some of the finest tsurugi can carry out orders even while separated from their musha. These tsurugi often take forms that are conducive to travel. Horses are particularly common.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080390b57'>\r\n//「新型の劔冑にこんな真似は無理だ。\r\n//　しかしそれでも充分な能力を発揮したし、」\r\n\"Mass-produced tsurugi lack such versatility. That said, their strength is still formidable.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080400b57'>\r\n//「何よりも貴重な技術者である鍛冶師を消費\r\n//せずに済むことが、各国の軍事関係者をして\r\n//驚倒させた」\r\n\"And they do not demand a sacrifice of skilled craftsmen. It was this, most of all, that captivated the world's militaries.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080410b57'>\r\n//「かくして世界中の国々は争ってこの新兵器\r\n//を採用……技術を取り入れ、量産し、改良を\r\n//重ねた」\r\n\"An arms race began, followed by two world wars and numerous lesser conflicts. These new tsurugi were deployed in great number, and through countless battles were tested, modified, and improved.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080420b57'>\r\n//「いまでは性能においても旧型に迫るところ\r\n//まで来ている、と言う者も多い。\r\n//　<RUBY text='レーサークルス'>競技用劔冑</RUBY>などという派生まで登場した」\r\n\"Some say that mass-<br>produced tsurugi are beginning to rival the abilities of their predecessors. In addition, there are now offshoots such as racing cruxes.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080430b57'>\r\n//「一方、新型の劔冑の普及に反比例して旧型\r\n//の劔冑は急速に造られなくなり……\r\n//　まあ当たり前だな」\r\n\"The production of traditional tsurugi, on the other hand, swiftly declined as mass-produced tsurugi became more common. This should come as no surprise.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080440b57'>\r\n//「技術が散逸して、現在ではもう、<RUBY text='ドワーフ'>蝦夷種族</RUBY>\r\n//の鍛冶師の中でも限られた者の間にしか鍛造\r\n//法が伝わっていないといわれる」\r\n\"Much knowledge was lost. Today, it is said, only a handful of dwarven clans still pass down the ancient methods.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080450b57'>\r\n//「今、戦場の主役は新型の劔冑だ。\r\n//　旧型の劔冑を使うのは由緒ある家系出身の\r\n//将校くらいしかいない」\r\n\"Now, warfare is waged primarily by mass-produced tsurugi. Only officers from distinguished families have the privilege of wielding traditional tsurugi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19276,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080460b57'>\r\n//「ここで少し用語の整理をしておこう。\r\n//　ちゃんと聞いとけ？　赤点を取りたいなら\r\n//いいけどな」\r\n\"Let's review terminology, shall we? Make sure you get this down. Well, unless you don't mind failing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19617,
+  "en": "\r\n//　うわ危ねぇ。\r\n//　また寝るところだった。\r\n  Whoa, that was close. I was just about to pass out.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19747,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080470b57'>\r\n//「超能を持つ鎧を<RUBY text='ツルギ'>劔冑</RUBY>、使う<RUBY text='さむらい'>士</RUBY>を<RUBY text='むしゃ'>武者</RUBY>という。\r\n//これはいいな。\r\n//　劔冑は二種類、新型と旧型があり……大和\r\n//では前者を<RUBY text='かずうち'>数打</RUBY>、後者を<RUBY text='しんうち'>真打</RUBY>と一般にいう」\r\n\"Tsurugi are suits of armor possessing supernatural powers. The warriors who wield them are called musha. You all have this much memorized, I hope. Now then, there are two types of tsurugi: mass-produced and traditional. In Yamato, the former are called kazu'uchi and the latter shin'uchi.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080480b57'>\r\n//「西洋では<RUBY text='レッドクルス'>新式劔冑</RUBY>と<RUBY text='ブラッドクルス'>旧式劔冑</RUBY>なんて呼び方\r\n//をするな」\r\n\"In the West, they are red cruxes and blood cruxes, respectively.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080490b57'>\r\n//「そして武者は、軍事専門用語では竜騎兵と\r\n//呼ぶ訳だが。狭い意味では前者を<RUBY text='シンウチ'>真打劔冑</RUBY>の\r\n//使い手、後者を<RUBY text='カズウチ'>数打劔冑</RUBY>の使い手という意味\r\n//で用いるので注意するように」\r\n\"In the military, musha are known as dragoons. More specifically, a musha is the pilot of a shin'uchi while a dragoon is the pilot of a kazu'uchi. Be careful not to mix them up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21394,
+  "en": "\r\n//　新型＝数打→竜騎兵\r\n//　旧型＝真打→武者\r\n//　\r\n//　…………ね。ほいほいっと。\r\n<center>Mass-produced = kazu'uchi → dragoon\r\n \r\n<center>Traditional = shin'uchi\r\n<center>→ musha\r\n\r\n  Heh, piece of cake.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21649,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0080500b56'>\r\n//（竜騎兵……武者、か）\r\n(Dragoon... Musha...)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21801,
+  "en": "\r\n//　ほんの一昔前まで、英雄や勇士の代名詞だった。\r\n//　誰よりも強い力を持ち、誰よりも厳しい規律に従う。\r\n//常に市民の盾となり、外敵の前に立ちはだかる、国家\r\n//の守護者……。\r\n  I remember when those words were synonymous with \"hero.\" Musha were the defenders of peace and justice, the shields of the innocent and powerless, stronger than anyone yet bound by the strictest of moral codes.\r\n\r\n//　男なら誰しも一度は憧れるような。\r\n//　武者とはそういう存在だった。\r\n  All boys worshipped musha and dreamt of joining their ranks. I was no different.\r\n\r\n//　……ほんの少し前までは。\r\n  That all changed, however.\r\n\r\n//　今は。<k>\r\n//　武者といえば、<RUBY text='・・・・・'>あの六波羅</RUBY>。\r\n  Now, musha means <I>Rokuhara.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22683,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080510b57'>\r\n//「話を近代と現代の区分に戻すぞ。\r\n//　つまり竜騎兵の登場をもって現代の皮切り\r\n//とする説があるわけだが、その理由はわかる\r\n//か？　大川」\r\n\"Returning to our original topic, the rise of dragoons is often used to mark the beginning of the contemporary age. Okawa, why is this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23115,
+  "en": "\r\n//【ｅｔｃ／大川】\r\n<voice name='ｅｔｃ／大川' class='その他女声' src='voice/ma01/0080520e162'>\r\n//「わかりません！」\r\n\"Dunno!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23282,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080530b57'>\r\n//「元気があってよろしい。立ってろ。\r\n//　じゃあ劔冑博士の稲城」\r\n\"A fine answer. Stay standing. All right, let's ask our resident tsurugi expert. <br>Inagi!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23563,
+  "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0080540b43'>\r\n//「それまで権力者の占有物だった最強兵器が、\r\n//市民階級の手にも渡るようになったからです」\r\n\"Before, tsurugi were monopolized by those in power. But now the ultimate weapon was available even to regular citizens.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23912,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080550b57'>\r\n//「そうだ。\r\n//　新技術の誕生によって劔冑の数量が爆発的\r\n//に増え――」\r\n\"Correct. With the birth of this new technology, the production of tsurugi increased dramatically.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080560b57'>\r\n//「と言っても十領造るだけで国家予算レベル\r\n//の検討が必要になる、依然として希少な品で\r\n//あることに変わりはないんだがな。\r\n//　あくまでそれ以前との比較の話だ」\r\n\"Of course, this is only relatively speaking. To create even ten kazu'uchi still requires the resources of a nation, so they remain a valuable commodity.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080570b57'>\r\n//「劔冑の数量が増えると、使い手を士族階級\r\n//だけでまかなうわけにもいかなくなった。\r\n//　足りない分はどうする？　そう、平民だ」\r\n\"The warrior class alone was unable to meet the new demand for tsurugi pilots. How was the military to make up the difference? With commoners.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080580b57'>\r\n//「それまで軍においては脇役でしかなかった\r\n//平民層出身者が劔冑を与えられ、竜騎兵部隊\r\n//を構成してゆく。\r\n//　そうして力を持てば当然、発言力も増す」\r\n\"The common folk, who before had only an auxiliary role in the military, were given tsurugi and made dragoons. As their power increased, so did their political clout.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080590b57'>\r\n//「大和国軍における竜騎兵部隊の誕生が興隆\r\n//二年、選挙法から財産制限が撤廃されたのが\r\n//興隆十年……国紀二五六九年。この間わずか\r\n//八年というのは偶然でも何でもない」\r\n\"Yamato's first unit of dragoons was formed in the second year of Koryu, and property requirements for voting were abolished in the tenth. It is no coincidence that this change occurred only eight years after farmers were given tsurugi.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080600b57'>\r\n//「銃が民主主義を生んだという言葉があるが、\r\n//ならば育て上げたのは新型劔冑というわけだ。\r\n//　竜騎兵の登場をもって現代とするのはこの\r\n//考え方に由来する」\r\n\"It is said that the gun birthed democracy. In which case, the kazu'uchi is what raised it to adulthood. This is the reason many scholars use the advent of dragoons to mark the turning of an <br>age.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26661,
+  "en": "\r\n//　なんだか殺伐とした歴史観だな。\r\n//　兵器の進歩が歴史全体を変えていくなんて……確か\r\n//にそういう見方もあるんだろうけど。\r\n  Pretty grim, if you ask me. I don't like to think that history is shaped by the development of weapons... though I can see why people do think that way.\r\n\r\n//　その視点だと、次はどんな兵器の登場で新しい歴史\r\n//が始まるのだか。\r\n//　きっとロクなもんじゃないだろうなぁ。\r\n  If that's true, I suppose the next age will begin with another new weapon. I wonder what it'll be.<K>\r\n  On second thought, I don't want to know.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27326,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080610b57'>\r\n//「さて、では現代史だが……次回にするか」\r\n\"Now then, contemporary history... I suppose we'll start on that next time.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080620b57'>\r\n//「今日は概略だけ説明して終わろう」\r\n\"For today, I'll leave you with a brief overview.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27751,
+  "en": "\r\n//　よっし。\r\n//　今日の授業はこれで最後。後は掃除だけすればリツ\r\n//探しに行ける。\r\n  Yes! This is our last class today. After cleanup, we'll finally be able to look for Ritsu.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27975,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080630b57'>\r\n//「民主主義あるいは民族主義の成長は大国の\r\n//植民地支配に対する被支配地域の反発を生み、\r\n//各地で抵抗運動が盛んになる」\r\n\"The Western powers grew ever more imperialistic, leading to frequent conflicts with native peoples who resented the occupation of their land.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080640b57'>\r\n//「これを受ける格好で大和は人種差別思想の\r\n//撤廃を国際社会に訴え、アジアの盟主として\r\n//の地位を確立しようと図ったが、大英連邦を\r\n//始め白人諸国の反発を買う」\r\n\"Seeing this, Yamato first sought a diplomatic solution, petitioning the international community for a repudiation of the racist philosophies that enabled imperialist expansion. Yamato hoped in this to position itself as the leader of a pan-Asian alliance. However, this earned the ire of the white supremacist nations led by Great Britain.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080650b57'>\r\n//「ロシアの南下は和露戦争によっても結局は\r\n//止められず、大和はこれに対抗する形で大陸\r\n//進出を推進」\r\n\"Our early victories against Russia were ultimately insufficient to deter its southward expansion. Yamato's next step was to move troops into Han.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080660b57'>\r\n//「このことが大英連邦を更に警戒させ、大戦\r\n//へとつながっていく……」\r\n\"This further antagonized Britain, setting the stage for the Second World War.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080670b57'>\r\n//「国内では竜騎兵の誕生により、武者統括の\r\n//組織であった<RUBY text='りくえふ'>六衛府</RUBY>が勢力を拡大。\r\n//　大戦突入に先立って陸軍・海軍と並ぶ国軍\r\n//組織を形成、竜軍と称して首都圏を統監した」\r\n\"The rise of dragoons had allowed the Rikue-fu, the organization that governed Yamato's musha, to greatly expand its power and authority. With war approaching, they formed a new branch of the military, called the Dragon Army, and, in the name of national defense, assumed authority over the capital.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080680b57'>\r\n//「……六波羅幕府の誕生だ」\r\n\"Thus the Rokuhara shogunate was born.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080690b57'>\r\n//「そして大戦。欧州、アジア、その他の地域\r\n//でも戦争の火蓋が切って落とされた。\r\n//　大和軍は大陸と南洋へ進出し、序盤は連戦\r\n//連勝、アジア統一も間近かと思われた」\r\n\"The war began shortly thereafter, with nations the world over taking part. Yamato advanced to the west and south, winning victory after victory, until the dream of a unified Asia seemed all but certain.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080700b57'>\r\n//「が、大英連邦は新大陸駐留軍を太平洋方面\r\n//へ向け、大和軍を迎撃させた。\r\n//　更には国際連盟を動かし――」\r\n\"But then Great Britain deployed its North American garrison to check Yamato's advance. They also manipulated the League of Nations into―\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080710b57'>\r\n//「国際統和共栄連盟は国家間問題の平和的な\r\n//解決を目的として創られた組織だが、実質、\r\n//大英連邦とその衛星国家による協賛会でしか\r\n//ないのは皆も知っている通りだ」\r\n\"A brief point. As I'm sure you all know, while the League of Nations nominally exists to help resolve international disputes peacefully, it is in reality little more than a partisan forum for the British Empire and its satellite states.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080720b57'>\r\n//「大英連邦は連盟の決議を得て<RUBY text='ＵＮＦ'>連盟軍</RUBY>を編成。\r\n//　戦力の中心はあくまでも自前の新大陸軍で、\r\n//そう増強されたわけでもないが、これにより\r\n//補給の不安が解消されたことの意味は大きい」\r\n\"Anyway. Britain obtained permission from the League to establish the Allied Expeditionary Force―or AEF. Although they did not receive significant reinforcements―the bulk of the army was still made up of troops pulled from North America―this alliance allowed Britain to fight with virtually unlimited supplies. An enormous advantage.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080730b57'>\r\n//「一方、資源に恵まれず、他国からの支援も\r\n//ない大和側は、速戦即決の意図を挫かれると\r\n//後が続かなかった。\r\n//　戦線は膠着し……」\r\n\"Yamato has always lacked the natural resources necessary to maintain a large army. Without the support of other nations, we were unable to continue the blitzkrieg offensives that had proven so effective early in the campaign. The war quickly drew to a standstill...\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080740b57'>\r\n//「やがて大和軍は押し戻され、占領地を失い、\r\n//遂には本土決戦を迎える。\r\n//　敗勢はなおも続き、九州、中国と侵略され\r\n//……しかしまだ、六波羅軍は健在だった」\r\n\"And then, slowly but surely, Yamatoan forces were driven from the territories they'd claimed, pushed back across the Pacific to the home islands, there to mount a desperate defense against the might of the West. Defeat preceded defeat. Kyushu fell, and then Chugoku, but Rokuhara alone remained strong.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080750b57'>\r\n//「誰もが、六波羅さえ出撃すれば状勢は覆る\r\n//と信じていた……。\r\n//　そして六波羅は」\r\n\"Everyone believed that Yamato would yet prevail, if only Rokuhara would take the field. And then...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34220,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080760b57'>\r\n//「大和史上に前例のない、歴史的決断を下す」\r\n\"Rokuhara made a truly historic decision.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34423,
+  "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0080770b56'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34547,
+  "en": "\r\n//　絶妙な皮肉だった。\r\n  Suzukawa, master of irony.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34621,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080780b57'>\r\n//「<RUBY text='・・・・・・・・'>六波羅は裏切った</RUBY>」\r\n\"They㉒<i>betrayed</i>㉔us!\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080790b57'>\r\n//「祖国を見捨て、連盟軍に降伏した。\r\n//　その尖兵となって、大和を制圧した。町を\r\n//焼き、市民を殺し、逆らう全てを滅ぼした」\r\n\"They abandoned Yamato and surrendered to the invaders, then returned as Britain's vanguard to conquer their homeland. They burned villages, slaughtered civilians. They annihilated everything that stood in their way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35310,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080800b57'>\r\n//「かくして大戦は終わり、大和は一応の主権\r\n//を保障されながらも、連盟の<RUBY text='ＧＨＱ'>進駐軍司令部</RUBY>の\r\n//管理下に置かれ……六波羅は寝返りの褒美に\r\n//その下で大和の統治権を獲得する」\r\n\"And so the war ended. Although Yamato was allowed to maintain some semblance of sovereignty, we were placed under the purview of General Headquarters―GHQ―and its garrison of Western troops. As reward for their betrayal, Rokuhara was granted rule over Yamato, the prize they had desired all along.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080810b57'>\r\n//「時に、興隆三五年。国紀二五九四年。外暦\r\n//一九三四年。\r\n//　……今から六年前のことだ」\r\n\"The year was Koryu 35, 2594 by the imperial calendar and 1934 by the Western... in other words, six years ago.\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080820b57'>\r\n//「そうだ。\r\n//　あれからまだ、<RUBY text='・・・・'>六年しか</RUBY>経っていないのだ」\r\n\"It may be hard to believe, but it's true. Only six years have passed since then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36597,
+  "en": "\r\n//　…………。\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36639,
+  "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0080830b57'>\r\n//「……以上だ。次回からはこの流れを順々に\r\n//追っていく。\r\n//　では日直」\r\n\"...That's all for today. Next time, we'll cover these events in detail.\r\n  Who's on duty today?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 36938,
+  "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0080840b33'>\r\n//「きりーつ」\r\n\"Stand!\"\r\n",
+  "pt": ""
+ }
+]

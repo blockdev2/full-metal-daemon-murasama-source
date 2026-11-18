@@ -1,0 +1,287 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　難民――つまり戦災からの庇護を求めて鎌倉へ流入\r\n//した人々の多くは、火除地とされていた空地や公園に\r\n//住居を構えている。\r\n//　当然だが、その環境は良いものではない。\r\n  We find them clustered around the parks and firebreaks lining the opposite bank: the refugees, fleeing the war that rages to north and south.\r\n\r\n  As expected, conditions are poor. Only a handful live in anything that resembles a structure. Most have tents; many have less. The fears of disease are not without merit. \r\n\r\n\r\n//　<RUBY text='バラック'>掘っ立て小屋</RUBY>ならむしろ上等。大半はテントないし\r\n//テントとも呼べないような代物だった。\r\n//　病気を流行らせたという噂が立つのも、仕方のない\r\n//面はある。\r\n//　……さて、どうしたものか。\r\n  All right. Now that I'm here, how do I proceed?\r\n\r\n//　二人の男を追うようにして下流の橋――確かに遠く\r\n//不便だった――を渡り、難民居住地へ来てはみたが。\r\n//　そこらの人を適当に捕まえて話を聞く、という空気\r\n//ではない。\r\n\r\n//　人はいるのだろうが、姿を見せてくれなかった。\r\n//　息を潜めてこちらを窺う気配である。\r\n  Though I am at present the focus of at least a half-dozen pairs of eyes, I cannot see any of the people to whom they presumably belong. Clearly they do not trust strangers.\r\n\r\n  While I can hardly begrudge them that in light of the recent tensions, it does make my prospects for conversation rather dim.\r\n\r\n//　どうも酷く警戒されているようだ。\r\n//　旧来住民との間柄が良くなく、衝突も発生している\r\n//現状では無理からぬ態度だが……といって、このまま\r\n//見合っていても埒は明かない。\r\n\r\n//　こちらから呼び掛けてみるか？\r\n//　この空気ではかえって警戒を深めさせる結果になり\r\n//かねないが、しかし――\r\n  Should I call out, hoping for a response? That might have the opposite effect...\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2349,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140010e228'>\r\n//「あれ……あんた」\r\n\"Hey. Aren't you...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2534,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140020a00'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2653,
+  "en": "\r\n//　家屋の陰から若い男が一人、顔を覗かせた。\r\n//　俺を見た後、記憶を探るように一度首を傾げ、再び\r\n//こちらへ目をやる。\r\n  A young man steps out from the shadow of a hovel. He looks away for a moment, as if searching his memories, then―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2956,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140030e228'>\r\n//「ゆうべの酔っ払いじゃないか」\r\n\"Yeah! You're that drunk from last night!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3181,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140040a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3305,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0140050a01'>\r\n//「……貴方、昨日の夜は随分と面白いことに\r\n//なってたみたいね」\r\n\"Sounds like you had all kinds of fun.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3539,
+  "en": "\r\n//　先刻と全く同じ声の掛けられ方に、背後からやけに\r\n//痛い視線と言葉が突き刺さっていたが、気付かぬ風を\r\n//取り繕っておく。\r\n//　ともあれ、これは奇貨だった。\r\n  I pretend not to hear the bite in Muramasa's voice or feel her stare on my back. This is the chance I was hoping for.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3899,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140060a00'>\r\n//「その節はお騒がせしました」\r\n\"Allow me to apologize.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4063,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140070e228'>\r\n//「いや……いいよ。\r\n//　あんたのお陰で助かった気もするしさ」\r\n\"Don't sweat it. Actually, I think we owe you one.\"\r\n\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140080e228'>\r\n//「それで、なんでこんな所に来たんだ？」\r\n\"So what brings you here?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4553,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140090a00'>\r\n//「少々、お伺いしたい事があり――」\r\n\"I was hoping you might answer some questions. I'm―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4756,
+  "en": "\r\n//　言いかけて、逡巡する。\r\n//　話を聞くには聞くなりの立場を示さねばならないが\r\n//……彼に対して警官という名乗りは有効だろうか？\r\n  I pause, realizing that introductions in this case might prove problematic. What will he do when I reveal that I am affiliated with the police? Not welcome me with open arms, I'm sure.\r\n\r\n//　おそらく単純に好意では迎えられまい。\r\n//　とはいえ、警察を自称しないのであれば俺の立場は\r\n//昨日の酔漢のままである。まともに相手をして貰える\r\n//とは思えなかった。\r\n  Even so, I suspect that position will be preferable to \"drunkard.\"\r\n\r\n\r\n//　……止む無し。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5491,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140100a00'>\r\n//「失礼、自分は警察に属している者です」\r\n\"I work for the Kamakura Police Department.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5690,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140110e228'>\r\n//「……警察!?」\r\n\"...You're a cop!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5867,
+  "en": "\r\n//　案の定だった。\r\n//　若い男の表情が露骨に引き攣り、周囲の押し殺した\r\n//気配も<RUBY text='・・・'>ざわり</RUBY>と波立つ。\r\n  As expected, the man draws back in fear, echoes of which ripple through the neighborhood.\r\n\r\n//　法制上、正規の鎌倉市民とは言えない彼らにとって、\r\n//警察は保護者ではないのだ。\r\n//　むしろ逆だろう――その点の危惧を拭うため、俺は\r\n//すぐ言葉を継いだ。\r\n  To these people, who are not truly residents of Kamakura, a police officer in their midst is a sign of upheaval. I move quickly to set their minds at ease.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6533,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140120a00'>\r\n//「御安心下さい。\r\n//　立ち退きの勧告に来たのではありません」\r\n\"Please don't worry. I'm not here to ask anyone to leave.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6777,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140130e228'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6935,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140140a00'>\r\n//「貴方がたの状況を調査するために参ったの\r\n//です。\r\n//　宜しければ、お話を伺いたいのですが」\r\n\"I'd merely like to understand your situation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7214,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140150e228'>\r\n//「……聞いてどうする？」\r\n\"And what happens when you do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7419,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140160a00'>\r\n//「詳しい事を知るまでは、何とも」\r\n\"I won't know until then.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7591,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140170e228'>\r\n//「結局は追い出しに掛かるんじゃないか？」\r\n\"So you might kick us out anyway.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7823,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140180a00'>\r\n//「否定はできません」\r\n\"I can't deny that might happen.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7984,
+  "en": "\r\n//　巧言を弄んでも自分の胸が苦しくなるだけだ。\r\n//　俺は正直なところを答えた。\r\n  Lying won't help. The military or the police might indeed take such measures, shortsighted though they would be.\r\n\r\n//　実際、軍あるいは警察がそうした短絡的措置で難民\r\n//問題の解決を図る事は充分に有り得る。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8362,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140190e228'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8520,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140200a00'>\r\n//「……しかし、自分はそうならぬ方が良いと\r\n//考えています。\r\n//　自分の力量は高が知れていますが……それ\r\n//でも何かできる事はあるかもしれません」\r\n\"But I don't want that either. While I can make no guarantees, I intend to do whatever I can to help.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8930,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140210a00'>\r\n//「御協力を頂けないでしょうか」\r\n\"Can I hope for your cooperation?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9107,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140220e228'>\r\n//「…………。\r\n//　まぁ、話くらいなら」\r\n\"...I guess I can answer some questions.\"\r\n\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140230e228'>\r\n//「別にそれで俺達の生活がこれ以上悪くなる\r\n//わけじゃないしな……」\r\n\"Won't make things worse than they already are.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9616,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140240a00'>\r\n//「有難うございます」\r\n\"Thank you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9756,
+  "en": "\r\n//　消極的な同意だったが、ともかく俺は頭を下げた。\r\n  I bow. It's a start.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9866,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140250a00'>\r\n//「貴方がたは、どちらから？」\r\n\"Where are the people here from?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10039,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140260e228'>\r\n//「そりゃ、色々だよ。\r\n//　俺は駿河だけど、他にも遠江とか尾張とか」\r\n\"All over, man. I'm from Suruga, but we've got folks from Totomi, Owari, you name it.\"\r\n\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140270e228'>\r\n//「でも大半は東海地方だな。\r\n//　もっと遠くから来た奴もいることはいるが、\r\n//多くはない」\r\n\"I'd say most of us are from the Tokai area, though.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10671,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140280a00'>\r\n//「……成程」\r\n\"I see...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10797,
+  "en": "\r\n//　つまりこの難民キャンプは、近畿東海で展開される\r\n//今川雷蝶と足利<RUBY text='ゆきつら'>幸行</RUBY>の抗争に逐われた人々の集まりか。\r\n//　六波羅の主権を競う激闘で住処を奪われ、鎌倉まで\r\n//逃げ延びてきたというわけだ。\r\n\r\n//　彼らにはもはや帰る所も行く所も無いだろう。\r\n  So these particular refugees were driven from the south, where Imagawa Raicho and his uncle, Ashikaga Yukitsura, are fighting over who will lead Rokuhara.\r\n\r\n  From what I've heard of the conflict, they're lucky to have survived.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11424,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140290a00'>\r\n//「当面、鎌倉で暮らす事を御希望なのですね」\r\n\"And I assume you'd like to stay in Kamakura until the war is over?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11653,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140300e228'>\r\n//「他にどうしようもないからな……」\r\n\"Nowhere else to go.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11863,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140310a00'>\r\n//「何か不自由されている事は？」\r\n\"Do you need anything?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12029,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140320e228'>\r\n//「不自由？\r\n//　家と、食い物と、働き口が足りないくらい\r\n//だよ」\r\n\"Need?\" He shrugs. \"Food, shelter, work. You know.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12310,
+  "en": "\r\n//　肩をすくめて、答える男。\r\n//　訊く必要も無くもがなの事ではあった。\r\n  I do. In short, they have the same problems as the rest of Kamakura, only worse, and these are not problems I can fix. It will take a stable nation armed with vision and will.\r\n\r\n//　要するに、正規の市民の間でも広がっている問題が\r\n//彼らにはより深刻な問題として存在するという事だ。\r\n//　……この解決は俺の能力の及ぶところではなかった。\r\n//将来的な行政に期待するほかない。\r\n\r\n//　俺にできるのは、もっと小さな事だろう。\r\n  Still, perhaps I can help on a smaller scale.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13005,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140330a00'>\r\n//「旧来の住民との間にトラブルがあるという\r\n//話も聞いていますが」\r\n\"I'm told that you've had problems with the locals?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13249,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140340e228'>\r\n//「ああ……俺達は歓迎されてないからな。\r\n//　あれこれと揉め事は起きてるよ」\r\n\"Yeah... We're not exactly welcome. They're always coming to us with some <br>beef.\"\r\n\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140350e228'>\r\n//「実を言えば、<RUBY text='あいつら'>住民側</RUBY>の気持ちはわかる。\r\n//　自分の町にいきなり薄汚い格好した連中が\r\n//大勢なだれ込んできたら、誰だって嫌な気分\r\n//になるだろうさ」\r\n\"I mean, I get it. I wouldn't want a bunch of strangers mucking up my town either.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14039,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140360a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14157,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140370e228'>\r\n//「けど俺達は他に行き場が無くてここに来た\r\n//んだ。\r\n//　出ていけと言われても、そうですかと頷け\r\n//やしない」\r\n\"But like I said, we've got nowhere else to go. They can't expect us to pack up and leave.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14542,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140380a00'>\r\n//「ええ」\r\n\"I understand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14667,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140390e228'>\r\n//「どうにか……受け入れて欲しいんだが」\r\n\"Think you can make㉗<I>them</I> understand?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14908,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140400a00'>\r\n//「何やら、関係を決定的に悪化させる事件が\r\n//あったとか」\r\n\"I believe a recent incident has exacerbated the <br>problem?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15150,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140410e228'>\r\n//「橋のことだな？」\r\n\"You mean the bridge?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15337,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140420a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15453,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140430e228'>\r\n//「あいつらは俺達が壊したって言ってる。\r\n//　でも、やるわけがない……」\r\n\"They think we did it. That's crazy!\"\r\n\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140440e228'>\r\n//「ここの誰にそんな元気があるってんだ」\r\n\"Who here's got that kinda energy? We're starving.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15969,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140450a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16087,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140460e228'>\r\n//「しかも何の得にもならないじゃないか。\r\n//　馬鹿げてるよ」\r\n\"And what would be the point, anyway?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16348,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140470a00'>\r\n//「では、貴方は何者の犯行だと思われます？」\r\n\"Do you have any idea who might have done it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16555,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140480e228'>\r\n//「さあなぁ。\r\n//　どこかの悪たれの悪戯じゃないのか？」\r\n\"Nah. Some shithead having a laugh?\"\r\n\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140490e228'>\r\n//「でなければ……考えたくはないが……\r\n//　住民側が俺達を追い出す口実作りに自分で\r\n//壊した、なんてことも――」\r\n\"Otherwise... I hate that I'm saying this, but maybe some of the locals, you know... thought it'd make a good excuse.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17217,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140500a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17335,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140510e228'>\r\n//「……ふぅ。\r\n//　俺も馬鹿なこと言ってるな」\r\n\"Yeah, I know. Now who's talking crazy?\"\r\n\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140520e228'>\r\n//「でも、有り得ないとは思えないんだ。\r\n//　向こうが俺達を疑うのもわかるよ……要は\r\n//今の俺と同じ気持ちなんだろう」\r\n\"But I can't get it outta my head. I guess this is how they feel, huh?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17945,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0140530a00'>\r\n//「……そうですね。おそらく」\r\n\"...Yes, it probably is.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18110,
+  "en": "\r\n//【ｅｔｃ／難民Ｂ】\r\n<voice name='ｅｔｃ／難民Ｂ' class='その他男声' src='voice/md06/0140540e228'>\r\n//「やれやれ、だ」\r\n\"Heh. What can you do?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18295,
+  "en": "\r\n//　視線を逸らして、彼は苦笑した。\r\n//　疲れ切った笑みだった。\r\n  He looks away with a small, tired smile.\r\n\r\n  Yes... what indeed?\r\n",
+  "pt": ""
+ }
+]

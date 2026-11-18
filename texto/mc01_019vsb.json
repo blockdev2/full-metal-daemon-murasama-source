@@ -1,0 +1,42 @@
+[
+ {
+  "offset": 216,
+  "en": "\r\n//　間合に入るその直前、俺は合当理に半瞬だけ過剰な\r\n//熱量を通した。\r\n//　速力の段階が一段跳ね上がる。ほんの寸秒、太刀打\r\n//の間への到達が早まる。\r\n  A split-second before contact, I overcharge my engine just enough to gain a momentary but significant burst of speed.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 561,
+  "en": "\r\n//　結果、敵騎の斧がまだ動きさえせぬ内に村正の太刀\r\n//は目標を捉えていた。\r\n//　敵手のお株を奪う小技だが、こちらとて熱量分配に\r\n//細心の意を凝らせばこの程度の芸は可能！\r\n  The enemy is unable to react to my sudden closing of the range, just as I was the first time they did it to us. My energy supply may not be as versatile as theirs, but I have the training to make it work.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1026,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/019vs0030a00'>\r\n//「……ちぃ」\r\n\"...Damn.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1154,
+  "en": "\r\n//　しかし手応えはやはり硬い。\r\n//　下段からの斬り上げでは破れないか!?\r\n  My strike, unfortunately, has little effect. Does gedan simply lack the strength to penetrate their armor?\r\n\r\n//　いや、それでも中の人間に衝撃は伝わっている筈。\r\n//　幾度も重ねれば効いてくるだろう。そして敵を殺す\r\n//わけにはいかない<RUBY text='こちら'>村正</RUBY>にしてみれば、微弱なダメージ\r\n//を重ねてゆく戦法はむしろ安全策だとも云い得る。\r\n  Don't panic. Even if that is the case, the shock of repeated impacts should wear the pilot down. I just need to keep this up until they're forced to break off contact: the ideal result, given that I can't afford to kill them.\r\n\r\n  In that sense, the strength of their armor works to my advantage.<K>\r\n  And that's not all.\r\n\r\n//　それに――\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2060,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/019vs0040a01'>\r\n//《上には来ない……》\r\n《...Nothing?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/019vs0050a00'>\r\n//「と、見ていいようだ」\r\n\"Nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2356,
+  "en": "\r\n//　敵騎の〝見えざる手〟は<RUBY text='・'>下</RUBY>に潜ってきた相手だけを\r\n//狙うものとどうやら断定できる――か。\r\n//　であればその意味でも、上へ斬り抜ける下段の攻め\r\n//が安全無難という事になる。\r\n  It appears they can't hit us with that weapon as long as we're above them.\r\n\r\n  Gedan, then, is the safest course of action.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2771,
+  "en": "\r\n  That seals it. They can't hit us with that weapon as long as we're above them.\r\n\r\n  Gedan, then, is the safest course of action.\r\n",
+  "pt": ""
+ }
+]

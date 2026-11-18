@@ -1,0 +1,497 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　俺が四郎邦氏の使者を名乗って岡部桜子への面会を\r\n//申し入れると、京極家の人間は面食らったようだった。\r\n//　事を大きくしたくない邦氏の意向も伝え、兎も角も\r\n//通しては貰ったが、このまま何もなくでは済むまい。\r\n\r\n//　それでも足利邦氏本人がやにわに現れるよりはまし\r\n//であったろうし、まさか忍び込むわけにもいかぬのだ\r\n//から、これは已む無き仕儀というものだが。\r\n//　邦氏にはそれとない追及の手が向く事になりそうだ。\r\n\r\n//　尤も、彼は承知しているだろう。\r\n//　その上で、望んだ筈なのだ。\r\n  When I arrive at the Kyogoku manor and announce myself―a servant of Lord Kuniuji, here for Lady Sakurako―the woman at the gate is predictably shocked. I impress upon her the lord's desire for discretion, knowing as I do that it will not be honored.\r\n\r\n  Yes, this was the only logical choice, but while it is certainly better than the shogun-apparent arriving himself with all his retinue in tow―to say nothing of attempting a secret rendezvous―I have little doubt that young Lord Kuniuji will soon be asked a number of uncomfortable questions.\r\n\r\n  Of course, he knew that this would happen, and sent me all the same.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1557,
+  "en": "\r\n//　奥まった一室へ通されると、そこでは桜子姫が深く\r\n//礼をして待っていた。\r\n//　上座にあたる場所は空けられている。\r\n\r\n//　……今の俺は曲がりなりにも左近衛大将の名代なの\r\n//だから、当然の扱いではあった。\r\n//　が、居心地の悪さは何ともし難い。\r\n  After a few minutes, I am shown into a well-appointed room toward the rear of the estate. Lady Sakurako is already there, prostrate, and the place of honor is open.\r\n\r\n  At present, I am technically Lord Kuniuji's representative. It is only natural that I be received in this matter.\r\n  That knowledge does not make me feel any less like a man wearing someone else's skin.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2293,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130010a00'>\r\n//「姫」\r\n\"My lady,\"</voice> I call softly as soon as the door closes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2460,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130020b28'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2579,
+  "en": "\r\n//　背後の戸が閉められたのを確認した上で、低く呼び\r\n//掛ける。\r\n//　きょとんと<RUBY text='おもて'>面</RUBY>を上げる姫と、俺の視線が重なった。\r\n\r\n//　暫時の空白。\r\n  She looks up, confused, and our eyes meet.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2860,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130030b28'>\r\n//「あら……まぁ」\r\n\"Oh... my.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2993,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130040a00'>\r\n//「どうも、御縁があります様子」\r\n\"Our paths seem destined to cross.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3171,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130050b28'>\r\n//「本当に。\r\n//　でも、これはどういう……？」\r\n\"They do. But why...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3354,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130060a00'>\r\n//「御不審は当然と存じます」\r\n\"You must find this quite strange.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3526,
+  "en": "\r\n//　自分で自分を顧みても困惑が拭えない程だ。\r\n  So do I.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3615,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130070a00'>\r\n//「簡単に説明させて頂きますと――」\r\n\"I should start from the beginning.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3800,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130080b28'>\r\n//「とりあえず、お茶でも淹れましょうか。\r\n//　あっ、どうぞお続け下さい」\r\n\"I think I'll put on some tea.\r\n  Ah, do continue.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4052,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130090a00'>\r\n//「お構いなく。\r\n//　では」\r\n\"Thank you. As it turns out...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4218,
+  "en": "\r\n//　適当に座って、俺は邦氏との奇縁を手短に説明した。\r\n//　妙といえば随分と妙な話であった筈だが、あの高貴\r\n//な少年が蹴球を嗜む様は彼女も目撃していたので理解\r\n//させるに難は無かった。\r\n\r\n//　話しつつ、視線を流して部屋の様子を観察する。\r\n//　別に鉄格子で囲われている事はないし、窓が明かり\r\n//取りの小窓だけなどという事もない。\r\n\r\n//　普通の部屋だった。\r\n//　ここが彼女の居室ではないにしても、部屋に慣れた\r\n//様子からして居住空間の一部であるのは確かと思える。\r\n//となると、姫の環境はそう厳しいものでも無さそうだ。\r\n\r\n//　先日の通り、散歩なども許されているらしい。\r\n//　\r\n//　……だがこの緩やかな待遇は、決して彼女の心身の\r\n//健康を思いやっての事ではないだろう。\r\n\r\n//　六波羅は桜子姫と反幕勢力との接触を警戒している。\r\n//なればこそこの普陀楽に置いたのだ。\r\n//　しかし一方で期待もしている筈だ――両者が接触し\r\n//行動を起こせば、一網打尽だと。\r\n\r\n//　桜子の身辺を手薄にしてもさして問題はない。<RUBY text='・・'>結局</RUBY>\r\n//<RUBY text='・・・・'>のところ</RUBY>、この城内から脱出するなど不可能だからだ。\r\n//　必要もない厳戒態勢を捨て、大魚を誘い出す釣り餌\r\n//としている。全く、六波羅はいちいち狡猾であった。\r\n  While the lady works, I briefly relate the story of how I came to be in that courtyard with the heir to Rokuhara. It is a thoroughly fantastic tale, one that I would not for a moment expect her to believe had she herself not seen the young lord at play.\r\n\r\n  I also take this opportunity to assess the room. Given Lady Sakurako's apparent familiarity with its amenities, this is likely one of her assigned chambers, though probably not the one where she sleeps.\r\n\r\n  And yet, the room is perfectly ordinary. No bars on the doors, no soldiers in the garden. It would appear that she is kept rather comfortable. She even has some freedom to wander the castle, if our first encounter is any indication.\r\n\r\n  Perhaps such leniency should be surprising. And yet, something tells me that Rokuhara does not at all have her comfort in mind.\r\n\r\n  What was it that Chief Iwata said? They brought her here to keep her out of rebel hands.\r\n\r\n  That may be true, but I suspect that they also want those rebels to make the attempt to free her. After all, what better way to expose them?\r\n\r\n  Rokuhara's logic is simple. They don't㉓<I>need</I>㉔to keep her under guard. Either way, there is no escaping this castle.\r\n  Save the expense, then. Make her bait instead, and when the time comes, catch them㉗<I>all.</I>\r\n\r\n  A cunning lot. Damnably so.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7155,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130100b28'>\r\n//「そうですか……。\r\n//　それで、あの時」\r\n\"I see. So that's why...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7336,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130110a00'>\r\n//「はい。\r\n//　我ながら、出過ぎた振舞いをしたものです」\r\n\"Yes. Believe me, I am well aware that I overstepped my bounds.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7577,
+  "en": "\r\n//　彼女自身はその辺りを諒解しているのか――\r\n//　笑顔を作ってみせても隠せぬ目元の疲れを見れば、\r\n//聞くまでもなかった。\r\n\r\n//　饗された茶を啜る。\r\n//　心地良い苦味が今は切ない。\r\n  The exhaustion behind her answering smile tells me that she wholeheartedly agrees.\r\n\r\n  I sip my tea. The bitter taste spreads on my tongue―<br>pleasant, and tinged with melancholy.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8033,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130120a00'>\r\n//「……ともあれ、その件で殿下の知遇を賜り。\r\n//　<RUBY text='こたび'>今度</RUBY>こうして、使者の役目を与えられたと\r\n//いう次第です」\r\n\"Be that as it may,\" I continue, setting the bowl down, \"I seem to have earned Lord Kuniuji's esteem. Enough, at least, for him to trust me with a message.\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8470,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130130b28'>\r\n//「使者……」\r\n\"A message...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8600,
+  "en": "\r\n//　桜子姫の視線がそちらへ動く。\r\n//　今初めて気付いたのではないだろう。\r\n\r\n//　携えてきた、一鉢の花。\r\n//　俺はそれを改めて取り上げ、姫の前へ据えた。\r\n  She looks at the object beside me for the first time, though she must have noticed it before.\r\n\r\n  A cluster of flowers arranged in a vase. I pick it up and set it between us.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9008,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130140a00'>\r\n//「邦氏殿下より、姫へ」\r\n\"From His Grace Lord Kuniuji, by his will, a token of―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9196,
+  "en": "\r\n//　ふと、口上が途切れる。\r\n//　下賜の品……と続けるつもりだったのだが。\r\n\r\n//　礼則の上ではそれで正しい。\r\n//　が、あの少年の真意を伝えていないような気がした。\r\n//　\r\n//　半瞬迷ったすえ、より単純な言葉に修正する。\r\n  I stop. There is protocol for these matters, but protocol is not what will transmit His Grace's intent.\r\n\r\n  After a moment, I settle on a simpler description.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9680,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130150a00'>\r\n//「贈り物でございます」\r\n\"A gift, my lady.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9829,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130160b28'>\r\n//「これを……？\r\n//　あの方が？」\r\n\"He picked these?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9991,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130170a00'>\r\n//「はっ」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10107,
+  "en": "\r\n//　紫色の花だ。\r\n//　一見すると<RUBY text='すみれ'>菫</RUBY>に似ているが、葉や茎の形状が違う。\r\n\r\n//　大和ではまだ、余り馴染みのないものかもしれない。\r\n//　解説を加えようと口を開きかけたところで、桜子姫\r\n//が小首を傾げて呟いた。\r\n  The purple flowers resemble sumire―<br>violets―until one notices differences in the shape of petal and stem.\r\n\r\n  This breed is not well-known in Yamato. I lean forward, thinking to explain, but the lady preempts me with a curious tilt of her head.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10698,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130180b28'>\r\n//「<RUBY text='アラセイトウ'>紫羅欄花</RUBY>……？」\r\n\"...Matthiola?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10877,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130190a00'>\r\n//「御明察」\r\n\"I'm impressed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11006,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130200b28'>\r\n//「写真でしか見たことがありませんでした。\r\n//　本物はこんな色をしていますのね……」\r\n\"I've only seen photographs. I had no idea they were purple...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11288,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130210a00'>\r\n//「赤や白の種もあると聞き及びます」\r\n\"I'm told they also come in red and white.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11480,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130220b28'>\r\n//「そう……」\r\n\"Ah...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11603,
+  "en": "\r\n//　紫羅欄花。洋名をストック。\r\n//　南欧原産で、古くは薬用にもされたらしい。\r\n\r\n//　匂いは強い方だろう。\r\n//　<RUBY text='む'>噎</RUBY>せ返る程ではないが、余り鼻を近づけると酔って\r\n//しまいそうだ。\r\n  A species native to the south of Europe, matthiola―<br>also known as \"stock\"―was prized in antiquity for its medicinal qualities.\r\n\r\n  Like many medicinal plants, it has a strong smell. Not suffocating, but heady if inhaled too deeply.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12133,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130230b28'>\r\n//「この花が咲くのは……春先ではありません\r\n//でした？」\r\n\"As I recall... these only bloom in early spring.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12360,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130240a00'>\r\n//「はい。\r\n//　これは城内の職人が育てた早咲きです」\r\n\"Correct. These are a special strain grown in the castle.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12589,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130250b28'>\r\n//「そんなものが……」\r\n\"Why these?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12729,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130260a00'>\r\n//「邦氏殿下の<RUBY text='おおははぎみ'>御祖母君</RUBY>、<RUBY text='ようとくいん'>養徳院</RUBY>様がこの花を\r\n//いたく好まれているとか」\r\n\"It seems that Lord Kuniuji's grandmother, the lady of Yotoku Temple, has a particular fondness for this species.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13119,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130270b28'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13238,
+  "en": "\r\n//　岡部桜子は不思議そうな顔をした。\r\n  A question flickers in her eyes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13339,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130280b28'>\r\n//「殿下が好まれて、育てさせたものではない\r\n//のですね？」\r\n\"Then these are not from His Grace's own garden?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13568,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130290a00'>\r\n//「は。\r\n//　姫にお贈りする為、養徳院様に乞うて貰い\r\n//受けてこられたようです」\r\n\"No. He convinced the grand matron to part with them for this occasion.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13851,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130300b28'>\r\n//「わざわざ、この花を選んで」\r\n\"He wanted these flowers...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14019,
+  "en": "\r\n//　紫の花弁を見詰める。\r\n//　何か、記憶を掘り起こしているふうであった。\r\n\r\n//　俺は黙して待った。\r\n//　こちらから賢しらに舌を動かす必要はない。\r\n  She falls silent, her gaze brushing the petals. I sense that she is searching her memories.\r\n\r\n  I wait quietly. She does not need my assistance.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14388,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130310b28'>\r\n//「……確か、紫羅欄花の花言葉は……」\r\n\"Matthiola are said to symbolize...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14576,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130320a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14694,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130330b28'>\r\n//「永遠の美しさ。愛着。幸福……」\r\n\"Eternal beauty... attachment... happiness...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14886,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130340a00'>\r\n//「他に、未来へ進む力、思いやり……\r\n//　などもございますとか」\r\n\"Yes, as well as compassion... and hope for the future.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15131,
+  "en": "\r\n//　花言葉などというものは国によって、文化によって\r\n//様々だ。\r\n//　それらが混淆し、現在では大抵の花は複数の異なる\r\n//意味を持つ。\r\n  Flowers vary in their significance by culture. In modern times, this has led to individual flowers having a wide range of possible meanings.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15475,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130350b28'>\r\n//「……未来へ進む力。\r\n//　思いやり……」\r\n\"Hope for the future... Compassion...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15669,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130360a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15787,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130370b28'>\r\n//「それが、殿下からわたくしへの下さり物」\r\n\"A message, sent by his own hand...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15981,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130380a00'>\r\n//「はっ……」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16103,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130390b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16221,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130400a00'>\r\n//「厚かましいと、お思いになられますか」\r\n\"Do you think him presumptuous?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16408,
+  "en": "\r\n//　不躾であろう一言を、敢えて投げる。\r\n//　家亡き姫の整った眼が、驚きを示して<RUBY text='みは'>瞠</RUBY>られた――\r\n//だがそれも数秒の事。\r\n\r\n//　彼女の脳裏には、先日の一条の発言があったのかも\r\n//しれない。\r\n  Her almond eyes widen―<br>the question is frightfully indelicate―but the surprise lasts for only a moment, then fades.\r\n\r\n  Perhaps she has recalled Ichijo's display.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16884,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130410b28'>\r\n//「ええ」\r\n\"I do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17001,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130420a00'>\r\n//「至極当然の事と存じます」\r\n\"I cannot fault that.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17160,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130430b28'>\r\n//「勝者は……頭を下げて和を願い、<RUBY text='いくばく'>幾許</RUBY>かの\r\n//矜持を失っても、残るものはまだ多く有りま\r\n//しょう。\r\n//　しかし敗者は……」\r\n\"For the victor, it is easy to seek reconciliation. He loses his pride, but still has his victory. But we...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17574,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130440b28'>\r\n//「戦った、という矜持以外に何も無いのです。\r\n//　これを失えば、もう何も残りません」\r\n\"We have only our pride. Without it, we are nothing.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17846,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130450a00'>\r\n//「理解できます」\r\n\"I understand.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17983,
+  "en": "\r\n//　本心から、俺は首肯した。\r\n//　全く、姫の心情には納得のゆかぬ部分がない。\r\n  Truly. It is the warrior's Way.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18141,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130460b28'>\r\n//「ならば……」\r\n\"Then you understand that I cannot...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18298,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130470a00'>\r\n//「殿下もそれは、御承知の上です」\r\n\"So does His Grace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18464,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130480b28'>\r\n//「殿下が？」\r\n\"Then why?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18591,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130490a00'>\r\n//「憂慮しておられました。\r\n//　これは自分の勝手ではないか、と」\r\n\"He was terribly afraid, my lady. Afraid that it was arrogance which drove him.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18860,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130500b28'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18984,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130510a00'>\r\n//「それでも殿下は自分を遣わす御決断を下さ\r\n//れました。\r\n//　その御心中を、忖度する事が許されるので\r\n//あれば――」\r\n\"And still, he chose to send me to you. If I might offer my most humble estimation...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130520a00'>\r\n//「おそらく殿下は、勝者たる足利一門の家長\r\n//としてではなく。\r\n//　姫と同じ所に在る者としてこの花をお贈り\r\n//したかったのではないかと、愚考致します」\r\n\"Then I submit that he did so not as the lord of Ashikaga... but as a person, living beneath the same sky.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19746,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130530b28'>\r\n//「同じ所……？」\r\n\"The... same sky?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19886,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130540a00'>\r\n//「紫羅欄花の花言葉には、〝同情〟もござい\r\n//ます」\r\n\"This flower has one more meaning―sympathy.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20103,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130550b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20221,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130560a00'>\r\n//「聞きようによっては耳障りのよろしくない\r\n////言葉ですが。殿下は<RUBY text='こうざ'>高座</RUBY>から手を差し伸べて\r\n//いるのではなく、姫の隣に立っているのだと、\r\n//どうか御理解頂けませぬか」\r\n\"It is not a word that is always pleasing to the ear. However, I ask that you try to see him not reaching down from atop his throne―<br>but walking toward you, to stand by your side.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20770,
+  "en": "\r\n//　突拍子もないと言えば、実に突拍子もない言い草だ。\r\n//　足利の御曹司と岡部の遺女とでは、わざわざ比べる\r\n//のも馬鹿馬鹿しいほど立場が違い過ぎる。\r\n\r\n//　だが桜子姫は、少なくとも一言のもとに退けはしな\r\n//かった。\r\n//　紫羅欄花に目を落とし、沈思の様子を見せている。\r\n\r\n//　先日の、ほんの擦れ違いのような出会いを思い起こ\r\n//しているのだろうか……。\r\n//　姫の瞳の中に、少年の上気した頬を見たような気が\r\n//した。\r\n  It is a tall order, to say the least. Nothing I say can change the fact that there exists a vast gulf of power between them.\r\n\r\n  But the lady does not dismiss me out of hand. She gazes at the flowers, thinking.\r\n\r\n  Is she remembering what she saw in the courtyard that day? For an instant, I seem to glimpse a boy's flushed cheeks reflected in her eyes.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21732,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130570b28'>\r\n//「……改さん」\r\n\"...If I may.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21865,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130580a00'>\r\n//「はっ」\r\n\"Of course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21987,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130590b28'>\r\n//「邦氏殿下は、どのような御方でしょうか」\r\n\"What is he like? His Grace.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22174,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130600a00'>\r\n//「……自分も、あれこれと語れる程には存じ\r\n//上げません。先日――姫も居合わされました\r\n//あの折と、今日こちらへ参ります前にお会い\r\n//したのとが、面識の全てであります故」\r\n\"I know him little better than you do, my lady. Aside from the encounter in the courtyard, which you witnessed, we've only spoken once, and that was this morning.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22681,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130610b28'>\r\n//「そうですか……」\r\n\"Oh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22813,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130620a00'>\r\n//「ただ。\r\n//　そればかりの縁故しかない自分を、姫への\r\n//使者として立てられた」\r\n\"But even though he hardly knows me... he gave㉓<I>me</I>㉓this task.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23096,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130630a00'>\r\n//「……立てねばならなかった。\r\n//　そういうお立場の方ではございます」\r\n\"There was nobody else he could ask.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23331,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130640b28'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23449,
+  "en": "\r\n//　更に言葉を費やすのは避けた。\r\n//　事実以外は語りたくなかったからだ。俺は姫を丸め\r\n//込むために来たのではない。\r\n\r\n//　あの少年の姿と影に、思うところはもっと多くある。\r\n//　だがそれは、俺の口から姫の耳に吹き込んでも、何\r\n//の意味もない事だろう。\r\n\r\n//　姫が自ずと知ってこそ真実となる。\r\n//　そして、それは――遠い道程でもないようだった。\r\n  I have said all that is proper―the facts, and nothing more.\r\n\r\n  There is more that could be said, of course. I have my own thoughts regarding the boy, his present and potential.\r\n\r\n  But they have no place here. My purpose is not to win her over. She must reach the truth herself for it to have any meaning.\r\n\r\n  It does not take long.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24296,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130650b28'>\r\n//「……寂しい方なのでしょうか」\r\n\"Do you think he's lonely?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24466,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130660a00'>\r\n//「玉座は一人で坐すものなれば……\r\n//　傍らに人がおらぬは、道理かと」\r\n\"A throne may seat only one, my lady. There is no space beside him for another.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24744,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130670b28'>\r\n//「……思いやり。\r\n//　同情。\r\n//　未来へ進む力……」\r\n\"Compassion... sympathy... hope for the future.\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130680b28'>\r\n//「孤独で肌寒い道のりなら、せめて<RUBY text='とも'>侶</RUBY>を得て\r\n//歩もうと……。\r\n//　そうお望みなのかしら」\r\n\"The roads we walk are cold and dark, so let us at least walk them together... Is that what His Grace desires?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25317,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130690a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25435,
+  "en": "\r\n//　返答は、頭を下げるのみに留めた。\r\n\r\n//　簡単な事ではあるまい。\r\n//　例え二人がそれを望んでも、周囲が果たして許すか\r\n//どうか――いや、到底許されまい。\r\n\r\n//　あるいは一人でゆく以上に困難な道ともなり得る。\r\n//　だが……それでも敢えて、寄り添う事を選ぶなら。\r\n\r\n//　寂しくはない。\r\n//　一人でいるよりも。少しだけ――肌の寒さは和らぐ\r\n//だろう。\r\n  I bow my head in solemn reply.\r\n\r\n  To walk together... It will not be easy. The powers-<br>that-be will surely punish them for it.\r\n\r\n  But if they choose to join hands even so... then at least they will not be alone.\r\n  The world will be just a little less cold.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26214,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130700b28'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26338,
+  "en": "\r\n//　岡部の姫は何を想うのか。\r\n//　やはり、我が家を滅ぼした本人が何を……との念が\r\n//先に立つのかもしれない。\r\n\r\n//　だとしても、俺に説得の方策はなかった。\r\n//　\r\n//　しかし。ほんの一度とはいえ、彼女は邦氏に会って\r\n//いる。\r\n\r\n//　あの時。\r\n//　足利四郎という少年の真像の一端に姫が触れていた\r\n//ならば……\r\n  I cannot see the lady's thoughts. Perhaps she still thinks of him as her enemy.\r\n\r\n  If so, there is nothing I can do.\r\n\r\n  But is it so? She saw him there in the courtyard.\r\n\r\n  She touched, for a moment, a part of his soul.\r\n\r\n  Surely...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27029,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130710b28'>\r\n//「改さん。\r\n//　殿下に、伝言をお願いできますかしら」\r\n\"Will you take His Grace a message?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27239,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130720a00'>\r\n//「はっ。承ります」\r\n\"Of course.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27376,
+  "en": "\r\n//　何だか丸きりメッセンジャーになってしまっている\r\n//が仕方がない。\r\n//　これで事が喧嘩沙汰であったら最悪だが。\r\n  It seems that I'm destined to be a go-between. So be it. At least they're not having a fight.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27648,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130730b28'>\r\n//「普陀楽の日々は岩の上で<RUBY text='やす'>寝</RUBY>む心地……」\r\n\"㉑'It is cold here, like sleeping atop a flat stone.'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27889,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130740a00'>\r\n//「――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28007,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130750b28'>\r\n//「わたくしの身を思いやってくださるのなら。\r\n//　どうか苔の衣をお貸し下さい、と」\r\n\"㉑'If you wish to warm me, I would welcome a robe of moss.'㉑\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28288,
+  "en": "\r\n//　……………………。\r\n\r\n//　その時、俺はどんな面相になったのか。\r\n//　そこに鏡など無かったので知る由はない。\r\n\r\n//　姫にくすりと笑われてしまう顔ではあったようだが。\r\n//　……苔の衣。粗末な衣という意味だ……<k>が。この場\r\n//合は…………\r\n  Without a mirror, I have no way of knowing the expression that seizes my face at that moment. I can only guess, from the lady's muffled giggle, that it is very amusing indeed.\r\n\r\n  \"A robe of moss.\"\r\n  This is a euphemism for the sort of threadbare clothing that an itinerant monk might wear.\r\n\r\n  In this case, however, the phrase calls to mind...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28993,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130760b28'>\r\n//「よろしくて？」\r\n\"Word for word, if you please.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29146,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130770a00'>\r\n//「……姫。\r\n//　殿下はまだ、その、お若く……」\r\n\"My lady, His Grace is still quite young...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29355,
+  "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0130780b28'>\r\n//「このくらいはしても、<RUBY text='ばち'>罰</RUBY>は当たりませんで\r\n//しょう？」\r\n\"I can't be blamed for having a little fun, can I?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29610,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0130790a00'>\r\n//「はぁ……」\r\n\"I... suppose not.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29745,
+  "en": "\r\n//　何ともはや。\r\n//　意外に…………この姫君。\r\n\r\n//　悪戯好きだ。\r\n  I feel a stab of pity for the boy.<K>\r\n  The lady, it turns out, has an impish streak.\r\n",
+  "pt": ""
+ }
+]

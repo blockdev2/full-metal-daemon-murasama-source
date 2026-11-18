@@ -1,0 +1,322 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0010a01'>\r\n//《……頭を押さえられた！》\r\n《He's above us!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 380,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0020a00'>\r\n//「高度優勢は先方か。\r\n//　あの甲鉄が備える独特の光彩、やはり伊達\r\n//ではなかったらしい」\r\n\"He has the weight advantage. I expected as much from the look of his armor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 685,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0030a01'>\r\n//《<RUBY text='わか'>解析</RUBY>るの？》\r\n《Care to explain?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 861,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0040a00'>\r\n//「あれは<RUBY text='オリハルコン'>輝彩甲鉄</RUBY>だ」\r\n\"It's orichalcum.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1048,
+  "en": "\r\n//　西洋鍛鉄術に極上の三種有り。\r\n//　<RUBY text='ミスリル'>聖銀甲鉄</RUBY>、<RUBY text='アダマンタイト'>玉宝甲鉄</RUBY>、<RUBY text='オリハルコン'>輝彩甲鉄</RUBY>と云う。\r\n  In the West, there are three metals said to represent the pinnacle of the crux-smith's craft.\r\n\r\n//　聖銀甲鉄は聖別の<RUBY text='はがね'>鋼金</RUBY>にして、魔を祓う力を持つと\r\n//される。\r\n//　玉宝甲鉄は堅牢無比、巨象はおろか城に踏まれよう\r\n//とも形を変えぬと伝説に謳われる。\r\n\r\n//　そして輝彩甲鉄は――\r\n  Blessed mithril, the demon's bane.<K>\r\n  Jeweled adamantite, which no blade can pierce.<K>\r\n  And last, shining orichalcum.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1797,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0050a00'>\r\n//「劒冑が羽衣に思えるほどの軽量なのだとか。\r\n//　その為、<RUBY text='・・・・・'>立ち上がり</RUBY>が異常に鋭い」\r\n\"They say it's like wearing a robe of pure light. No metal I know of carries a lower ratio of weight to armor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2162,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0060a01'>\r\n//《緒戦の<RUBY text='うわて'>上位置</RUBY>は約束されたようなものって\r\n//わけね。\r\n//　……なかなかやるじゃない》\r\n《So it just about guarantees they'll start every battle with the high ground. Impressive.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0070a01'>\r\n//《けど、重量が軽いことには短所もある！》\r\n《But cutting weight has its drawbacks too, Mido. Don't forget!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2739,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0080a00'>\r\n//「ああ」\r\n\"Indeed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2860,
+  "en": "\r\n//　負けん気を起こす村正に首肯しておく。\r\n//　皆まで聞かず、言わんとするところは察せられた。\r\n\r\n//　突進力をそのまま打撃力に転化する武者にとって、\r\n//体重の軽さは剣撃の威力の軽さでもある。\r\n//　敵騎の<RUBY text='ロングソード'>長剣</RUBY>が一撃必殺を成すのは難しかろう。\r\n  In the air, a tsurugi's striking force depends on velocity and mass.\r\n\r\n//　高所から攻め下りてくる対手を迎え撃たねばならぬ\r\n//この形勢、必ずしも俺の決定的な不利ではない。\r\n  Though my opponent does have the altitude advantage, his lighter frame means that he'll still have trouble getting through with that longsword of his.\r\n\r\n  This fight is by no means lost. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3667,
+  "en": "\r\n//　……尤も。\r\n//　それも、敵が格闘戦で勝負する限りにおいての話だ。\r\n  Of course, that only applies as long as my enemy uses his sword.\r\n\r\n//　飛び道具には騎体重量の多寡など関わりない。\r\n//　敵騎が長剣ではなくあの大型の<RUBY text='クロスボウ'>石弓</RUBY>を用いてくるの\r\n//なら、軽量の不利は何も無かった。\r\n  His crossbow, on the other hand, doesn't care how little he weighs.\r\n\r\n//　武者弓は並みの銃砲火器など比較にもならぬ威力を\r\n//持つ。太刀の一撃に優りこそすれ劣りはしない。\r\n//　弓にも長弓、短弓ほか各種あるが、わけても石弓の\r\n//破壊力は特筆すべきものがあると伝え聞く。\r\n  Historically, no weapon on earth has been as feared as the musha's bow. Where the ability to kill at range is concerned, only the most modern weapons can even begin to compare. \r\n\r\n  The crossbow, in particular, though it never saw much use in Yamato, possesses unparalleled penetrative force. The tensile strength present in the kind of string that only a musha can wind means that its bolt, properly rifled, can breach even the ultra-thick armor plate covering a tsurugi's chest.\r\n\r\n//　大和では発達しなかった武装であるが、武者の剛力\r\n//に機械の補助を加えて初めて巻上げが可能となる強弦\r\n//からの<RUBY text='ボルト'>回転矢</RUBY>は、分厚い胸部甲鉄すら容易に貫通する\r\n//という。\r\n\r\n//　高威力の反面、連射が利かないため、敵騎も濫用は\r\n//せず使い所を選んでくるものと考えられるが……。\r\n//　あの武器への対処を第一に考えるなら、空戦の誘い\r\n//に応じるべきではなかったろう。\r\n  The tradeoff is that crossbows take much longer to reload, so he'll have to be careful about when he uses it. Still, considering the danger that weapon presents, it would have been safer for me to stay on the ground, where the forest might have provided some cover.\r\n\r\n//　遮蔽物のない空中よりも、地上で山林に潜んで戦う\r\n//方がこちらにとっての都合は良かった。\r\n//　\r\n//　<RUBY text='・・・・'>別の都合</RUBY>がなかったら、そうしていたところだ。\r\n\r\n//　地上に留まるこちらに対して、敵が戦意を持続させ\r\n//てくれれば良いが、あっさり気を変えて大鳥大尉の方\r\n//へ向かう可能性もある。……そうなった場合、出足で\r\n//遅れるこちらが追いつける見込みはない。\r\n  And indeed I would have, if I could have been certain that my enemy would continue the engagement even after I declined to follow him into the sky. \r\n\r\n  There was, however, a chance that he would fly for the manor instead, in which case I would have been hard-pressed to catch him, starting as I would have from the ground.\r\n\r\n//　それでは困るのだ。\r\n//　敵騎の変心に備えるなら、こちらは戦術的な不利を\r\n//承知の上で空に上がり、機動力を確保しておくほかに\r\n//選ぶ道が無かった。\r\n  Given that I cannot afford to let him near the manor, I am forced to fight on a field which favors my enemy. Perhaps this is why he came after me first, because he knew that my concern for the captain would hobble me.\r\n\r\n//　あの騎士がまず俺から狙ってきたのは、こうやって\r\n//大鳥大尉を一種の足枷として利用する意図あっての事\r\n//なのかもしれない。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7240,
+  "en": "\r\n//　ひとまず、対敵は石弓の使用を控える肚のようだ。\r\n//　長剣を抜き、<RUBY text='ダイブ'>降撃</RUBY>して来る。\r\n  My enemy dives, sword poised to strike. As expected, he intends to hold his bow in reserve. He knows that if it misses, he won't get another chance.\r\n\r\n//　外してしまえば後がない兵器だけに、やはり決定的\r\n//な局面まで出し惜しむつもりなのであろう。\r\n//　剣でこちらを弱らせ、動きを止めてから――か。\r\n\r\n//　ならば、その企図を挫いてくれる。\r\n  He'll attempt to cripple us first, then deal the finishing blow.\r\n\r\n  So be it. We'll turn his plan to our advantage.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7947,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0090a00'>\r\n//「剣の勝負で優り、追い詰めて、あの石弓を\r\n//撃たせる」\r\n\"We'll start by taking control of the melee. Back him into a corner, force him to take his shot.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8223,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0100a01'>\r\n//《それを防いで仕留める。\r\n//　……諒解！》\r\n《Then get past it and finish him before he reloads. Got it!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0110a01'>\r\n//《飛び道具に頼る武者なんて所詮、邪道よ。\r\n//　そこのところを教えてあげないとね！》\r\n《Now let's show this barbarian how a real musha fights!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8733,
+  "en": "\r\n//　敵騎は右手に長剣、左手に石弓を構えているが――\r\n//　あれは盾でもあるのか？\r\n  As the enemy approaches, I realize that his bow may serve another purpose.\r\n  That shape, the way he's holding it. Could it also be a shield?\r\n\r\n//　盾も石弓と同様、大和の武の世界では軽んじられて\r\n//きたものだ。\r\n//　どう使ってくるのか、俺には今ひとつ操法の見当が\r\n//付けられなかった。\r\n\r\n  My knowledge of Western martial techniques is sadly lacking. Although I fought George Gargett on Enoshima, his weapon―a two-handed greatsword―was similar enough to my own that I could predict how he would attack.\r\n\r\n//　西洋剣術との対戦経験は少ない。\r\n//　江ノ島において、ジョージ・ガーゲット少佐と剣を\r\n//交えてはいるが――彼の得物は両手持ちの大剣であり、\r\n//大和の武者刀法とそう大きく異なる部分はなかった。\r\n\r\n//　剣と盾を同時に操る術は未知の領域だ。\r\n//　\r\n//　つまり、憶測を巡らせても仕方がない。\r\n\r\n//　敵の手の内が読めない時は下手に策を弄したりせず、\r\n//正攻法で押すのが堅実である。\r\n//　盾で防ぎ、剣で斬ってくるのはわかっているのだ。\r\n//ならばこちらは一刀で敵の攻守を打ち砕けば済む話。\r\n  The pairing of sword and shield is entirely alien to my experience. In such situations, the safest course is to stick to the fundamentals of combat.\r\n\r\n  I know that he will use his shield to defend and his sword to attack. I just need to make sure that my own attack addresses both.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10415,
+  "en": "\r\n//　太刀を上段にとる。\r\n//　<RUBY text='ピッチ'>兜角</RUBY>を下げて敵騎の腹へ入りつつ、斬り下ろす――\r\n  I assume jodan and drop my pitch, preparing for a strike at my enemy's belly.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10646,
+  "en": "\r\n//　――それに反応し、対手が盾を掲げたと見えた刹那。\r\n//　\r\n//　俺は太刀を下段に回し、兜角を引き上げ、敵騎の背\r\n//へ抜けながら斬り上げの一刀を放った。\r\n  He positions his shield to defend. Immediately, I pull up and shift my sword low, now angling for his back.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10987,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/033vs0120a03'>\r\n//「!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11107,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0130a00'>\r\n//「……ぬぅ！」\r\n\"Ngh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11234,
+  "en": "\r\n//　敵手の対応は明敏を極めた。\r\n//　堅牢な甲鉄盾に、俺の太刀はがちりと食い止められ\r\n//ている――\r\n  The knight reacts with startling speed. A screech echoes across the sky as my sword meets the metal of his shield.\r\n\r\n//　こちらの<RUBY text='フェイント'>偽攻</RUBY>を見切ったのだ。\r\n//　しかし、流石に防ぐのみで手一杯だったらしい。\r\n\r\n//　長剣が俺に振り下ろされる様子はなく、\r\n  But though my feint was unsuccessful, it appears to have taken all that my enemy has to defend. His sword remains steady, with no sign of a counter―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11880,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0140a01'>\r\n//《胸部甲鉄に損傷！\r\n//　危ない……一発で破られかけたっ》\r\n《Ventral armor damaged! That was close. He almost got through!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12135,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0150a00'>\r\n//「<RUBY text='つき'>刺突</RUBY>か!!」\r\n\"So that's his game!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12300,
+  "en": "\r\n//　幾つかの理解を一言に込めて吐き出す。\r\n  A thrust. I should have known. \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12406,
+  "en": "\r\n//　斬撃が線で甲鉄を断つのに対し、刺突は点で甲鉄を\r\n//貫く。\r\n//　一点に集約される<RUBY text='エネルギー'>力</RUBY>の程は斬撃の比ではなく、ただ\r\n//一撃で甲鉄を突破する事も不可能としない。\r\n  Unlike a slash, which distributes force along the cutting edge of the sword, a thrust concentrates all its power upon a single point. This means that even a lightly massed musha can breach his enemy's armor with a single well-placed thrust.\r\n\r\n//　対手のような軽量の騎体においてすら。\r\n//　\r\n//　しかし一方、<RUBY text='・'>点</RUBY>攻撃である刺突は余程の手練を<RUBY text='もつ'>以</RUBY>て\r\n//しても容易には高速騎航する武者を捕捉できない。\r\n\r\n//　大和の武者刀法が、一部流派を除いて刺突の有効性\r\n//を高く評価しないのはその為であるが……。\r\n//　その欠点を、敵の剣術は盾との組み合わせによって\r\n//克服していた。\r\n  But landing a thrust in the air, well-placed or otherwise, is a difficult task for even the most experienced swordsmen. This is why most Yamatoan schools treat it as unreliable, a technique of last resort.\r\n\r\n  The ideal situation would be one where you can hold your thrust until the opponent is so close that missing is impossible. In practice, however, this would usually mean forgoing defense, which makes it a good way to get yourself killed whether you land the thrust or not.\r\n\r\n  The Western knight's shield solves this problem nicely. The shield defends, leaving his sword free to thrust at the optimal moment.\r\n\r\n//　即ち相手の攻撃に対する防御を盾に任せる事で、剣\r\n//は標的が懐に入るまで待機させておける。\r\n//　必中の間合になったところで、刺突を繰り出す事が\r\n//できるのだ。\r\n\r\n//　同じ事を太刀しか持たない武者がやれば、待ち構え\r\n//ている間に斬られて終わるか、良くて相討ちだろう。\r\n//　まさしくこれは、盾と長剣という武装における最も\r\n//効率的な運用法の一つであるに違いなかった。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14595,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0160a00'>\r\n//「こういうものか……」\r\n\"Fascinating.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14742,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0170a01'>\r\n//《感心するのはいいけど。\r\n//　やられっぱなしは御免よ》\r\n《It's nice that you find this stimulating and all, but tell me you're still in it to win.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15021,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0180a00'>\r\n//「無論だ。\r\n//　そんなつもりは毛頭ない」\r\n\"Of course. Defeat is not an option.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15216,
+  "en": "\r\n//　この一戦は、断じて譲れぬ勝負。\r\n\r\n//　大鳥大尉のもとに、この危険な刺客を送り出すわけ\r\n//にはいかないのだ。\r\n//　彼女は湊斗景明にとって、他の誰にも代えられない\r\n//存在。\r\n  Not with Captain Otori's life at stake. I must protect her, for she alone will give me the death I deserve.\r\n\r\n//　守り抜かねばならぬ。\r\n//　俺を正しく殺す<RUBY text='ひと'>女性</RUBY>なのだから。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15705,
+  "en": "\r\n  But as my engine carves a trail of smoke across the winter sky, I find myself asking―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15806,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0190a00'>\r\n//（そう――か？）\r\n(Is that why I'm fighting?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15957,
+  "en": "\r\n//　風を切り、冬空を駆けながら。\r\n//　脳裏にふと自問が過ぎる。\r\n\r\n//　誰かを守る為に戦う。\r\n  To save a life? Is my motivation truly so pure?\r\n\r\n  And if it is... is that㉓<I>right?</I>\r\n\r\n//　俺は本当に、そのような真摯な想いに<RUBY text='よ'>拠</RUBY>って戦って\r\n//いるのだろうか。\r\n//　いや――そんな想いを抱いて戦って、良いのだろう\r\n//か？\r\n\r\n//　何かを守ろうとして戦った事は、過去にもあった。\r\n//　そうしてしかし、守り通せたものが一つでもあった\r\n//ろうか？\r\n  I have fought to protect others before. But have I ever once succeeded?\r\n\r\n  My mother died. The Haya children died. How can I say that my sword has the power to shield another from harm?\r\n\r\n//　養母は守れなかった。\r\n\r\n//　江ノ島でも、芳養少年と兄弟達を守れなかった。\r\n\r\n//　湊斗景明の剣に何かを守る力などあるのだろうか。\r\n//　無い、だろう。\r\n\r\n//　もし有るのなら……\r\n//　どうして、つい先日にも、養父をみすみす死なせて\r\n//しまったのか。\r\n  If it did...<K> then surely I could have saved my father that day.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17198,
+  "en": "\r\n//　――――そうだ。\r\n\r\n//　湊斗景明の剣は、誰かを守る為の剣に<RUBY text='あら'>非</RUBY>ず。\r\n//　誰かを殺す為の剣。\r\n  But no, mine is not a sword that saves lives. Regardless of what I might wish it to be, the㉗<I>truth</I>㉓is clear.\r\n\r\n//　俺自身の志向など、どうでも良い。\r\n//　<RUBY text='・・・・・'>事実として</RUBY>、そうであったのだ。\r\n\r\n//　ならば――今も。\r\n//　必勝を期すなら、そうすべきではないのか。\r\n\r\n//　殺すのだ。\r\n\r\n//　ただ、殺すのだ。\r\n\r\n//　理由は充分。\r\n//　あれは養父の仇。\r\n\r\n//　思い出せ……。\r\n//　目の前で明堯様を失う、あの悪夢の瞬間、俺は約束\r\n//した筈ではなかったか。\r\n\r\n//　<RUBY text='おのれ'>自分</RUBY>と、<RUBY text='かれ'>仇敵</RUBY>と、運命とに。\r\n//　必ず殺す、と。\r\n\r\n//　復讐すると。\r\n  So be it then. Know yourself, the great strategist said. If I truly wish to defeat this foe, then I must embrace my sole strength, and fight to kill.\r\n\r\n  Fortunately, I do not want for motivation. That awful scene is seared into my eyes: this same knight's arrow in my father's heart.\r\n\r\n  I swore an oath then to avenge him. The time has come to make good.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18516,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0200a01'>\r\n//《……御堂？》\r\n《...Mido?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18657,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0210a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18783,
+  "en": "\r\n//　太刀打の間合に臨む。\r\n//　敵騎はやはり、盾で防ぎ剣で突く<RUBY text='フォーム'>構</RUBY>だ。\r\n  The second pass. My enemy holds his stance. He means to once again block with his shield, then come for a thrust with his sword.\r\n\r\n//　攻守の均衡が取れた優良の戦形。\r\n//　容易には崩し難い。\r\n\r\n//　だがそれなら、死力を奮って崩せば良いのだ。\r\n  I'm not surprised. It's a solid tactic: balanced, with no clear vulnerabilities.\r\n  I'll have to㉓<I>make</I>㉓one if I hope to win―no matter the risk that requires.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19391,
+  "en": "\r\n//　武者刀法の正調、右上段に太刀をとる。\r\n//　そうして進突。\r\n\r\n//　最終距離に入る一瞬、構を切り替える。\r\n//　下段へ回し、敵騎の背面へ抜けつつの斬り上げ。\r\n  I rise in jodan, then switch to gedan just before entering range. This places me on course to strike as I pass to my enemy's back.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19760,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/033vs0220a03'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19895,
+  "en": "\r\n//　刹那、敵は警戒の気配を漲らせた。\r\n//　当然だろう……こちらは一度破られた手管を再び、\r\n//そのままに用いようとしているのだ。\r\n  Instantly, the air crackles with tension. My enemy is on high alert, and no wonder: I have not altered my approach from our first exchange, despite its failure there.\r\n\r\n//　凡夫ならば油断するところでも、見るからに修羅場\r\n//ずれしたこの対手にとっては正逆の局面に他なるまい。\r\n//　下方へ回した盾の防御は堅固かつ柔軟、力押しにも\r\n//変幻の術にも対応する様子を見せている。\r\n  A less seasoned combatant might take this to mean that I am a fool. This one, however, does not underestimate me. He keeps his shield low, but ready to shift in response to the course my sword takes.\r\n\r\n//　――しかし、無意味だ。\r\n  His caution will not avail him.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20835,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/033vs0230a03'>\r\n//「……？」\r\n\"...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20965,
+  "en": "\r\n//　敵の警戒の中に、困惑の波紋が広がる。\r\n//　……この刹那。如何なる衝撃も、その盾を襲っては\r\n//いない。\r\n  Now a ripple of confusion disturbs my enemy's readiness. At this moment, he is wondering why no impact has touched his shield.\r\n\r\n//　俺は斬り上げの一閃を、放つ――と見せるに留めた。\r\n//　斬り込まず、太刀を左片手に持ち替えだけしておく。\r\n//　右腕が空く。\r\n  The answer is simple. I have not attacked. Instead, I have shifted my sword to a left-handed grip, leaving my right empty.\r\n\r\n  Why? Despite the question hanging in the air, my opponent does not hesitate. He thrusts, with impeccable timing and aim, directly at the point that his previous thrust damaged.\r\n\r\n//　……敵騎は逡巡を抱いたとしても、動作に反映させ\r\n//なかった。\r\n//　迷いなき鋭さで、長剣の刺突を繰り出してくる。\r\n\r\n//　狙いは恐ろしいほどに正確。\r\n//　先の一合で抉った箇所を再び刺し、今度こそ貫通を\r\n//期す――<k>が、今回はこちらに<RUBY text='・'>盾</RUBY>が控えている。\r\n  My blood chills. If this strike connects, it will surely end my life.<K>\r\n  This time, however, I have a shield of my own to defend me.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22278,
+  "en": "\r\n//　左手の太刀で防御。\r\n//　そうして、\r\n\r\n//　俺は<RUBY text='・・'>右腕</RUBY>を振り込んだ。\r\n  With my left hand, I parry his thrust.<K>\r\n  And with my right―\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22482,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/033vs0240a03'>\r\n//「!!」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22602,
+  "en": "\r\n//　吉野御流合戦礼法。\r\n//　当身の七段目、<RUBY text='ユメマクラ'>夢枕</RUBY>。\r\n　　I go for the kill.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22745,
+  "en": "\r\n//　敵騎と交差する瞬間、鉤状に曲げた腕を相手の顔面\r\n//に引っ掛け――\r\n//　彼我の運動エネルギーを以て、敵騎の頚骨を潰す術。\r\n\r\n//　<RUBY text='き'>極</RUBY>まれば最後。\r\n//　決して醒めない夢の底へ、沈みゆく。\r\n  My plan is a simple one: hook my arm around his neck and use the force of our collision to shatter his spine. Executed successfully, this technique guarantees your enemy a one-way trip into a neverending dream.<K>\r\n  Yoshino-onryu: Yume-<br>makura.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23299,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0250a00'>\r\n//「――チ」\r\n\"Tch!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23420,
+  "en": "\r\n//　完全に意表を突いたつもりだったが……\r\n//　敵手の即応力は卓抜するものがある。\r\n\r\n//　文字通り間髪の差で、首を沈み込ませ、俺の右腕を\r\n//やり過ごしていた。\r\n//　兜を擦る所まで迫ったらしい。腕の内側に、僅かな\r\n//衝撃の余韻が残っている。\r\n\r\n//　あと一歩。\r\n//　いや半歩の所で、捉え損ねた。\r\n  I was certain that I'd taken him by surprise―however, my enemy's reflexes prove much faster than I anticipated. He ducks my arm at the last possible instant, leaving only the barest sensation of impact to tell me that I clipped his helmet.\r\n\r\n  I was so close.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24113,
+  "en": "\r\n//◆喉で笑う\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/033vs0260a03'>\r\n//「……ッ、……ッッ」\r\n\"...heh...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24282,
+  "en": "\r\n//　気のせいか。\r\n//　……耳孔を打つものがある。\r\n\r\n//　裂空の界域に、低い笑声が渡っている。\r\n\r\n//　侮蔑ではない。玩弄でもない。\r\n//　それは、喜悦の、\r\n  Is my mind playing tricks on me? I seem to hear laughter, though no voice should be able to reach me across the steel-torn sky.\r\n\r\n  It is soft and low, a sound not of malice or scorn―but of joy.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24711,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0270a00'>\r\n//「次は仕留める……」\r\n\"Next pass, you die.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24862,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0280a01'>\r\n//《……御堂》\r\n《Mido...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24999,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0290a00'>\r\n//「敵情」\r\n\"Give me his status.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25132,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0300a01'>\r\n//《…………。\r\n//　<RUBY text='ひのえからうまのかみ'>一七〇度上方</RUBY>、距離六二〇》\r\n《...<WaitVoice=1000>Five o'clock high, range 620.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25407,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0310a01'>\r\n//《反転――》\r\n《He's coming about! Probably means to―》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25576,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0320a01'>\r\n//《!!　あれは》\r\n《Wait!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25713,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0330a00'>\r\n//「……む」\r\n\"...Ngh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25837,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/033vs0340a01'>\r\n//《御堂、敵騎が！》\r\n《Mido, look!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25987,
+  "en": "\r\n//　指摘されるまでもなく見えていたし、意味も知れて\r\n//いた。\r\n//　しかし、その<RUBY text='・・'>意図</RUBY>は簡明ではなかった。\r\n  Yes, it is clear what the enemy is doing. What isn't clear at all is㉒<I>why.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26260,
+  "en": "\r\n//　対敵の戦形が変貌している。\r\n\r\n//　剣を納め――構えるは<RUBY text='クロスボウ'>石弓</RUBY>。\r\n//　鋭利な<RUBY text='やじり'>鏃</RUBY>が俺に狙点を合わせつつある。\r\n\r\n//　<RUBY text='アーチャー'>弓箭兵</RUBY>にとって、それは全く不思議がるに及ばない、\r\n//正調の行為であると云えばその通りだ。\r\n//　\r\n//　が――おかしいのは<RUBY text='タイミング'>時機</RUBY>。\r\n\r\n  I am staring down the tip of my enemy's bolt. His sword is sheathed, and his bow is aimed squarely at my forehead.\r\n\r\n  Considering that I face an archer, this in itself is no surprise.\r\n  The problem is the timing. Why㉗<I>now?</I>㉗It's much too soon.\r\n\r\n//　早過ぎる。\r\n\r\n//　こちらはまだ、損傷らしい損傷を受けていない。\r\n//　熱量の消耗にしても軽微なところだ。\r\n  I have taken no damage, and my heat reserves are full. My ability to maneuver is therefore undiminished.\r\n  The enemy knows this, yet he means to fire?\r\n\r\n//　つまり、<RUBY text='あし'>速力</RUBY>は損なわれていない。\r\n//　健在なる機動性能をもって、最大限度の回避能力を\r\n//発揮し得る。\r\n\r\n//　その事実は敵にもわかっている筈だ。\r\n//　なのに何故、いま撃つのか。\r\n\r\n//　敵騎の弓は速射性に秀でた狩猟弓などではない。\r\n//　対極の、殺傷力を高めて連射性能を犠牲にした、弦\r\n//の巻上げが必要となる石弓である。\r\n\r\n//　濃密な短時間の内に終結する武者の戦闘において、\r\n//これを射撃する機会は如何にしても限られるだろう。\r\n//　おそらく一度きり。二度目は果たして有るか無きか。\r\n\r\n//　であれば、必中必殺の勝機まで温存して当たり前。\r\n//　余程の愚劣者でもわかる道理だ。\r\n\r\n//　その道理に、敵は背こうとしている。\r\n//　何故？\r\n  I would understand if he had a rapid-fire weapon like a shortbow, but this knight's crossbow is precisely the opposite. It was designed for power, not speed, with a heavy string that must be rewound after every shot.\r\n\r\n  In musha combat, where any given second could be your last, it is madness to expect more than one opportunity to fire such a weapon.\r\n\r\n  That being the case, the wise strategy is obvious: hold your shot until it has the best possible chance of landing.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28734,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0350a00'>\r\n//（焦った、とでもいうのか）\r\n(Did he panic?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28888,
+  "en": "\r\n//　あれしきの事で。\r\n//　敗死の予感に怯え、動揺し、なりふり構わず勝負を\r\n//決めにきた――と？\r\n\r\n//　……とてもの事に、そんな小胆とは思えない。\r\n  He doesn't seem like the sort to let a single near miss unnerve him so severely.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29192,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0360a00'>\r\n//（なら？）\r\n(Then... what?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29322,
+  "en": "\r\n//　どうして。\r\n//　\r\n//　\r\n//　…………いや。\r\n  ...No. This is fruitless. It doesn't matter now.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29448,
+  "en": "\r\n//　俺は思考の泥沼から自分自身を引き抜いた。\r\n//　射撃に備え、速力の確保を開始する。\r\n\r\n//　敵の意図するところが奈辺にあれ、こちらにとって\r\n//これは好機だ。\r\n//　相手の切札を浪費させるチャンス。\r\n\r\n//　掴み損ねてはなるまい。\r\n//　この一矢を回避すれば、趨勢は大きく傾く。\r\n\r\n//　敵騎が再び剣に持ち替え、構え直すその間に、満を\r\n//持して襲う事ができる。\r\n//　その状況に至ったなら、勝ちは決まったようなもの\r\n//だ。\r\n\r\n//　ＧＨＱの刺客はここで墜ちる。\r\n//　養父の仇はここで潰える。\r\n\r\n//　香奈枝嬢のもとに辿り着くことなく。\r\n  Whatever my enemy's intentions, there is only one correct response. I must do everything in my power to evade the coming shot.\r\n\r\n  The crossbow is his deadliest weapon; force him to waste it and the battle is won. The time it takes him to ready his sword will be all that I need to end it.\r\n\r\n  Thus this knight, my father's killer, will fall, and Captain Otori will live.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30582,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/033vs0370a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 30708,
+  "en": "\r\n//　瞬きを禁じて、俺は敵影を見据えた。\r\n//　充満しゆく殺意が解き放たれる、その一刹那を計り\r\n//知る為に。\r\n\r\n//　輝彩甲鉄の騎士もまた、俺を見詰めていた。\r\n//　俺の心臓か、喉笛か、あるいは脳髄を……<RUBY text='いっせん'>一箭</RUBY>にて\r\n//穿つ為に。\r\n  I peel my eyelids back into my skull, determined to seize the fatal moment that my enemy's hatred is unleashed.\r\n\r\n  I sense that he is doing the same: watching me, looking for the perfect target.\r\n\r\n  Will it be my throat, my eye, my crown? Will it be my beating heart?\r\n\r\n  I will have the answer shortly.\r\n",
+  "pt": ""
+ }
+]

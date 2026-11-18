@@ -1,0 +1,112 @@
+[
+ {
+  "offset": 217,
+  "en": "\r\n　\r\n \r\n \r\n \r\n \r\n<center><VALUE='mc02_時間'>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 275,
+  "en": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/031ti0010e142'>\r\n//「キャノン中佐！」\r\n\"Colonel, sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 457,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0020b03'>\r\n//「どうだった？」\r\n\"Report.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 608,
+  "en": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/031ti0030e142'>\r\n//「後部ブロックの倉庫です。\r\n//　敵騎はそこから壁を破り、船内に侵入した\r\n//模様！」\r\n\"The enemy dragoon is aboard, sir! He appears to have entered through the aft storeroom.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 956,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0040b03'>\r\n//「やっぱ侵入されてたか。\r\n//　……どこのどなた様だい？　あと一歩って\r\n//ところで」\r\n\"So we㉒<I>were</I>㉓boarded. Who is it? Who's trying to spoil our party?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1269,
+  "en": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/031ti0050e142'>\r\n//「やはり、六波羅の者では」\r\n\"Most likely Rokuhara, sir.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1476,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0060b03'>\r\n//「一騎だけでか？\r\n//　……絶対に有り得ない話じゃあないが」\r\n\"Would they send one man? I suppose it's possible...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1732,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0070b03'>\r\n//（それより、可能性があるとすれば、\r\n//　――<RUBY text='・・・'>あっち</RUBY>かねぇ……？）\r\n(But if I were a betting man, I'd put my money on㉓<I>him.</I>)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2038,
+  "en": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/031ti0080e142'>\r\n//「中佐、ご指示を！」\r\n\"What are your orders, sir?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2236,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0090b03'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2374,
+  "en": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/031ti0100e142'>\r\n//「後部ブロックに増援を回しますか？」\r\n\"Should we send reinforcements?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2600,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0110b03'>\r\n//「――いや」\r\n\"...No.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2744,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0120b03'>\r\n//「今は投下準備を急げ。\r\n//　艦内兵力はその防衛に集中」\r\n\"Send everyone to guard the device. And make sure we're ready for the drop.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3017,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0130b03'>\r\n//「侵入者の制圧はそっちのカタがついてから\r\n//でいい。\r\n//　俺が直接向かう」\r\n\"Afterward, I'll take care of our guest myself.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3290,
+  "en": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/031ti0140e142'>\r\n//「了解！」\r\n\"Aye, sir!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3456,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031ti0150a00'>\r\n//「……今のは……」\r\n\"Was that...?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3597,
+  "en": "\r\n//　遠い――しかし、<RUBY text='・・'>深い</RUBY>爆鳴。\r\n//　おそらくは、途轍もなく大規模の。\r\n\r\n//　……まさか。\r\n  A tremor rocks the ship: distant, but I feel it in my bones.\r\n\r\n  That was no ordinary explosion.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3863,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031ti0160a00'>\r\n//「真逆」\r\n\"No...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3982,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0170b03'>\r\n//「ああ。そのまさか、だ。\r\n//　――村正君」\r\n\"I'm afraid so.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4177,
+  "en": "\r\n//　……愕然と忘我していた俺は、\r\n//　\r\n//　我が身を襲う一瞬の変転に対して、何の抵抗も為し\r\n//得なかった。\r\n  When the moment comes, my defenses are down, subsumed in a moment of blank disbelief. Something sharp, too sharp, slips through where my helmet meets my shoulder.\r\n\r\n  My vision blurs. I am already dead. And as I sink into darkness, I hear a familiar voice.\r\n\r\n//　首筋へ潜り込む鋭利な――鋭利に過ぎる何か。\r\n//　眩む視界。\r\n\r\n//　<RUBY text='・・・・・・・・・・'>気付けば殺されていた</RUBY>。\r\n//　消え沈みゆく意識の中、覚えのある声を遠く聴く。\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4865,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0180b03'>\r\n//「やっちまってからこんなこと言うのはただ\r\n//の偽善だってわかってるんだがな……。\r\n//　まぁ、今さら偽善者であることを否定した\r\n//って仕方ない。言わせてもらおう」\r\n\"I suppose saying this will make me a hypocrite... but it's too late for that anyway, so I'll go ahead and say it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5332,
+  "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/031ti0190b03'>\r\n//「すまない、大和人。\r\n//　……そしてさようなら、湊斗景明。せめて\r\n//安らかな夢をな」\r\n\"I'm sorry, man of Yamato, for what I had to do. And goodbye, Minato Kageaki. I hope your dreams, at least, are peaceful.\"\r\n",
+  "pt": ""
+ }
+]

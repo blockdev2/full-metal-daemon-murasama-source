@@ -1,0 +1,452 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//　一丈四方の密室を脱し、<RUBY text='そら'>虚空</RUBY>へ抜ける。\r\n//　閉塞から無限への急激な転移。\r\n\r\n//　解放を肌に味わい、置き捨てた牢獄を眼下にして、\r\n//合当理に給熱――速力を引き上げる。\r\n//　基地警備の竜騎兵がどれほど勤勉な<RUBY text='たち'>質</RUBY>であっても、\r\n//<RUBY text='・・'>内側</RUBY>からの強襲突破に対する反応は遅れる筈だった。\r\n\r\n//　無用の足踏みをしなければ振り切れるだろう。\r\n  I burst from my cell and take to the sky. The transition from captivity to freedom is jarring. As my prison falls away beneath me, I feed heat to my engine, boosting my speed. \r\n\r\n  The dragoons on patrol, diligent though they may be, will not be prepared for a target suddenly appearing inside the base. I should have no trouble breaking through, provided I waste no time.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1148,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0270010a01'>\r\n//《……それで御堂。\r\n//　結局、何がどうなったの？》\r\n《...Well? Care to tell me what's going on?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1372,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270020a00'>\r\n//「ああ――」\r\n\"Right...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1498,
+  "en": "\r\n//　俺は要点を<RUBY text='か'>掻</RUBY>い<RUBY text='つま'>摘</RUBY>んで劒冑に伝達した。\r\n//　これから為すべき事の確認も兼ね、俺自身、記憶を\r\n//反芻しながら。\r\n  Now that we're out of immediate danger, I suppose I should explain, if concisely. It can't hurt to remind myself how we got here, either.\r\n\r\n  I begin.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1876,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270030a03'>\r\n//「一一月二九日午前七時四五分……\r\n//　ここ横浜基地から<RUBY text='エアシップ'>飛行艦</RUBY>が一隻、訓練航行\r\n//の名目で出撃します」\r\n\"At 0745 hours on the 29th of November, an airship will depart Yokohama base. Ostensibly, for a training exercise.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2280,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270040a03'>\r\n//「この予定は既に幕府へ通達がされています\r\n//から、迎撃されることはありません。\r\n//　もちろん、万一の空襲に備えて警戒態勢は\r\n//布かれるでしょうが……」\r\n\"The shogunate has already been made aware of its flight plan, so they'll leave it alone, though I'm sure they'll keep an eye on it just in case.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2752,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270050a00'>\r\n//「飛行艦の型は？」\r\n\"What class of airship?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2901,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270060a03'>\r\n//「ヴィッカース・メイフライ<RUBY text='マークフォー・シー'>四式Ｃ型</RUBY>。\r\n//　飛行艦の中では快速ですが、そのぶん小型\r\n//です」\r\n\"A Vickers Mayfly Mark 4C. Fast, but small for an airship.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3246,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270070a00'>\r\n//「……収容可能な竜騎兵はせいぜい二十騎。\r\n//　その程度の戦力では例え普陀楽への奇襲を\r\n//成功させても、損害らしい損害など与えられ\r\n//ない」\r\n\"I believe those carry, at most, twenty dragoons. Even if they reach Fudaraku airspace, that isn't enough to do real damage.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3670,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270080a00'>\r\n//「これは自明の理です。\r\n//　六波羅の警戒は形ばかりになるでしょう」\r\n\"If Rokuhara does shadow it, it will be with minimal <br>forces.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3930,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270090a03'>\r\n//「ええ。おそらくは。\r\n//　当日、普陀楽には翌日に大将領宣下式典を\r\n//控えて幕閣首脳が参集しているはずですから、\r\n//やや警戒も強まるとは思いますけれど――」\r\n\"Quite. They may send a few extra units, given that Rokuhara's leadership will be there for the ceremony, but they won't treat it as a credible threat.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270100a03'>\r\n//「あくまで形式の域は出ないでしょうね。\r\n//　訓練飛行を装って要人暗殺<RUBY text='オア'>／</RUBY>拉致コース、\r\n//なんて子供騙しにもほどがありますし」\r\n\"It's not as though they're going to sail in and snatch the next shogun from his bedchambers. That sort of thing only happens in dime novels.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4861,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270110a00'>\r\n//「同感です」\r\n\"Indeed.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4986,
+  "en": "\r\n//　たかだか二十騎ばかりがそんな雑な手法で仕掛けて\r\n//成功する筈はない。\r\n//　仮に防空隊が襲撃者を素通しにしたとしても、地上\r\n//の要人らにはそれぞれの警護団が付いているのだ。\r\n\r\n//　故に――\r\n//　二九日当日、六波羅は飛行艦が現れるや否や即座に\r\n//強襲して撃墜するという極めて無法かつ<RUBY text='・・'>適切</RUBY>な対処を\r\n//行うことは決してないだろう。\r\n\r\n//　危険空域まで踏み入る敵艦を、欠伸交じりに彼らは\r\n//見過ごす……。\r\n  Even assuming the air patrols let the ship waltz by, every person of importance will have at least a company of musha guarding them. Twenty dragoons simply isn't enough to accomplish any conceivable mission.\r\n\r\n  And that is why, when the airship appears on their radar, Rokuhara will not take the unwarranted―and ultimately correct―step of blowing it out of the sky. They will watch, stifling yawns, as it approaches their airspace...\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6044,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270120a03'>\r\n//「横浜から普陀楽城までは約二〇キロ。\r\n//　ヴィッカース級の巡航速度で……三〇分も\r\n//あれば到達できる計算です」\r\n\"From Yokohama to Fudaraku is approximately twenty kilometers. At cruising speed, a Vickers 4C can make that in about thirty minutes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6446,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270130a00'>\r\n//「しかし……それは直進した場合です、大尉。\r\n//　六波羅の注意を最大限減らす為、飛行艦は\r\n//迂回路を取るのではありますまいか？」\r\n\"But that's only if they fly straight. If they want to keep Rokuhara in the dark for as long as possible, won't they take a more circuitous <br>route?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6880,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270140a03'>\r\n//「それが、そうもいかないらしくて。\r\n//　問題の爆弾の安全性に関しては、キャノン\r\n//中佐も完全な信頼は持てずにいるご様子なの\r\n//です」\r\n\"I'm sure the colonel would like to. But apparently, he has some doubts as to the stability of their new <br>weapon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7296,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270150a03'>\r\n//「作戦所要時間は短縮したいお考え」\r\n\"He intends to get it over with as quickly as possible.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7510,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270160a00'>\r\n//「……成程。\r\n//　ではそうする一方、爆撃に竜騎兵ではなく、\r\n//わざわざ足の鈍い飛行艦を用いるのも」\r\n\"I see. Then wouldn't it make sense to entrust the weapon to a dragoon? They're far faster than any airship.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7860,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270170a03'>\r\n//「同じ理由ですね……。\r\n//　なるたけ安定した環境で爆弾を運用したい、\r\n//と」\r\n\"Same reason. He wants to ensure the most stable environment possible.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8148,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270180a03'>\r\n//「無意味な所で暴発させて、鎌倉市民に特大\r\n//の花火をプレゼントしても仕方ありません。\r\n//　普陀楽城と数十万の軍兵を一撃で<RUBY text='・・'>滅却</RUBY>する\r\n//ために用意された爆弾なんですから」\r\n\"The last thing he wants is for the bomb to go off somewhere unintended, such as over Kamakura. It is, after all, a weapon that will <I>erase</I>㉓Fudaraku from the map, together with the several hundred thousand soldiers in attendance.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8763,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270190a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8887,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270200a03'>\r\n//「まだ、信じられませんか？」\r\n\"You still don't believe it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9065,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270210a00'>\r\n//「なかなか……俄かには」\r\n\"It is... a tall order.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9223,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270220a00'>\r\n//「……<RUBY text='フォージド・ボム'>鍛造雷弾</RUBY>……。\r\n//　人間大の重量規模で、ＴＮＴ火薬一万トン\r\n//相当の爆破力？」\r\n\"A man-sized bomb which carries the destructive force of ten thousand tons of dynamite...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9578,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270230a03'>\r\n//「冗談にしか聞こえませんねー」\r\n\"It does sound rather far-fetched, doesn't it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9777,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270240a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9893,
+  "en": "\r\n//　全く笑わずに俺は頷いた。\r\n//　笑い飛ばせるものなら笑い飛ばしたかったのだが。\r\n\r\n//　香奈枝嬢もそれは同じだろう。\r\n  My response is humorless. This is no laughing matter, as the captain, I'm sure, is aware.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10166,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270250a03'>\r\n//「一体どういう原理でそんなトンデモ兵器が\r\n//実現したのかまでは調べがつきませんでした。\r\n//　ただ、昨日今日の発明ではなく……かなり\r\n//長期に渡って研究がされていたようで」\r\n\"I'm afraid I couldn't find out how the thing is supposed to work. All I know is that it's been the subject of concerted research for some time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10667,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270260a03'>\r\n//「そもそもの発端は、かのウォルフ氏による\r\n//爆弾の素材となる物質の発見なのだとか」\r\n\"It began when Wolf discovered the necessary ingredient.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10952,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270270a00'>\r\n//「……彼が」\r\n\"...He discovered it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11090,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270280a03'>\r\n//「インド北西部の<RUBY text='マウンド・オブ・ザ・デッド'>〝死者の丘陵〟遺跡</RUBY>で発掘\r\n//したそうです。\r\n//　その、<RUBY text='プルートニアノア'>冥府鉱</RUBY>と名付けた重金属を」\r\n\"It's called 'plutonium.' Supposedly, he found it in Western India, near the ruins of Mohenjo-daro.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11542,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270290a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11660,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270300a03'>\r\n//「まっ、謂れはともかく。\r\n//　徹頭徹尾ただひたすらに迷惑千万きわまる\r\n//シロモノが大和に持ち込まれてしまっている\r\n//ことは事実です」\r\n\"In any case, the one thing I know is that this piece of hell itself is here, in Yamato, at this very moment.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12069,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270310a03'>\r\n//「それとも景明さま。\r\n//　暇を持て余したわたくしが景明さまをから\r\n//かって笑うために一芝居打っているとお考え\r\n//になる？」\r\n\"Or do you think me so cruel as to tease you about a thing like this?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12423,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270320a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12547,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270330a00'>\r\n//「それはそれで、ごくスムーズに納得が可能\r\n//なのですが」\r\n\"I could very easily believe that, actually.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12772,
+  "en": "\r\n//　過去の言動を振り返るに。\r\n  Experience has taught me well.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12859,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270340a03'>\r\n//「……狼少年の悲哀……」\r\n\"The girl who cried wolf...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13030,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270350a00'>\r\n//「置いておきましょう。\r\n//　して大尉殿、具体的な爆撃手順については\r\n//掴んでおいでですか」\r\n\"Let's set that aside for now. Do you know how they'll deliver the bomb?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13332,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270360a03'>\r\n//「推測交じりになりますが」\r\n\"If an educated guess will do.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13509,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270370a00'>\r\n//「お願いします」\r\n\"Please.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13640,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270380a03'>\r\n//「想定されている爆弾の破壊規模から考えて、\r\n//飛行艦が実際の投下まで行うとは思えません」\r\n\"Given the effect this bomb is expected to have, it's unlikely they would drop it directly from the airship.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13986,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270390a03'>\r\n//「低高度で投下すれば爆発に巻き込まれます。\r\n//　といって高高度からの投下では命中精度に\r\n//信頼を置けません」\r\n\"High-altitude bomb drops are not generally accurate. But descend low enough to guarantee a hit, and they risk blowing themselves up together with their target.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14412,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270400a00'>\r\n//「確かに……」\r\n\"I see.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14539,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270410a03'>\r\n//「最終的にはやはり<RUBY text='ドラグーン'>竜騎兵</RUBY>を頼ることになる\r\n//でしょう。\r\n//　それも足の速い――かつ、普陀楽の防空隊\r\n//に<RUBY text='・・・・・・'>捕捉されない</RUBY>能力を備えた騎体……」\r\n\"I expect that they'll wait until they've gotten in close, then use a dragoon. One fast―and㉓<I>quiet―</I>enough to make it through the air defenses.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15077,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270420a00'>\r\n//「では、噂の」\r\n\"You mean―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15209,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270430a03'>\r\n//「ＳＴ-〇九――<RUBY text='ステルスドラコ'>隠形竜騎兵</RUBY>が初の実戦投入、\r\n//という運びになるのではありませんかしら。\r\n//　軍事史的にいろいろと意義の大きな作戦に\r\n//なって、結構ですこと」\r\n\"The ST-9. The world's first stealth dragoon. I'd be very surprised if they didn't intend for this to be its debut. Ahh, what a day for military history.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15738,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270440a00'>\r\n//「完成していたのですか？\r\n//　しかも、大和進駐軍に配備されていると？」\r\n\"It's complete? The AEF actually has them?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15982,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270450a03'>\r\n//「ええ、景明さま。これは確実な情報です。\r\n//　最終運用評価試験まで終えたＳＴ-〇九の\r\n//<RUBY text='・・'>部隊</RUBY>が、<RUBY text='ここ'>横浜基地</RUBY>には待機していましてよ？」\r\n\"Yes, darling. There's no question there. A full㉒<I>wing</I> of ST-9s has been assigned to Yokohama.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16435,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270460a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16553,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270470a03'>\r\n//「それもこれもキャノン中佐の手腕……\r\n//　と申し上げたら、尻尾をお巻きになる？」\r\n\"If I told you this was all Colonel Cannon's doing... would you turn tail and run?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16861,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270480a00'>\r\n//「巻けるものなら巻きたいとは切に思います」\r\n\"If only I could.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17040,
+  "en": "\r\n//　大尉から聞いた話によれば、親王と養父はキャノン\r\n//中佐を向こうに回しての対局に<RUBY text='・・・・・'>指し負けた</RUBY>とも言える\r\n//らしい。\r\n//　それもしかし、むべなるかな。\r\n  According to Captain Otori, the colonel was behind the prince's downfall―and by extension, my father's. Obviously, he is not a man whom I can hope to outplay.\r\n\r\n//　湊斗景明が挑むには荷の勝ち過ぎる相手のようだ。\r\n//　勝機が有るとすれば……彼はおそらくこちらの事を\r\n//さして気に掛けていない、その油断を狙うくらいか。\r\n\r\n//　情けない話ではある。\r\n  My one chance is that he does not seem to consider me a threat at present. Pathetic, but it will do.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17840,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270490a00'>\r\n//「来世は尻尾のある動物に生まれましょう」\r\n\"I pray that in my next life, I have a tail to turn.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18051,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270500a03'>\r\n//「可愛がって差し上げましてよ。\r\n//　飛行艦は爆発の影響を受けないぎりぎりの\r\n//所まで近付いて、反転」\r\n\"Oh, I'd so love to keep you as a pet!\r\n  The Mayfly will advance to minimum safe distance, upon which it will reverse course and launch a single ST-9 from its rear catapult.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18479,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270510a03'>\r\n//「その直前、<RUBY text='カタパルト'>射出口</RUBY>から爆装したＳＴ-〇九\r\n//が出撃。\r\n//　俊足に物を言わせて立ちどころに普陀楽城\r\n//上空へ到達」\r\n\"The ST-9 is fast and all but invisible to radar. It will slip past Fudaraku's aerial defenses and deploy the Forged Bomb.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18905,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270520a03'>\r\n//「<RUBY text='フォージド・ボム'>鍛造雷弾</RUBY>を投下、そのまま速度を維持して\r\n//危険空域から離脱。\r\n//　爆弾は――地面に落ちるまでは待たない」\r\n\"After delivering the payload, the dragoon will maintain course, evacuating the blast zone with all possible speed. As for the bomb itself, it will never reach the ground.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19384,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270530a03'>\r\n//「空中の適切な位置で爆発。\r\n//　普陀楽城は外周部分だけ残して消滅。勿論、\r\n//邦氏殿下の大将領宣下式典のために集まって\r\n//いた将兵も完全鏖殺」\r\n\"A timed airburst. Fudaraku will vanish, together with all the shogunate officers and armies present.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19797,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270540a03'>\r\n//「六波羅は事実上滅亡。\r\n//　大和は主権国家の具体的根拠である軍事力\r\n//を喪失して、大英連邦の従属国に成り下がり\r\n//ます」\r\n\"Thus Rokuhara will fall, and Yamato, having lost the only power to defend its sovereignty, will have no choice but to accept British rule.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20218,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270550a00'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20348,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270560a00'>\r\n//「阻止するには」\r\n\"How do we stop it?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20490,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270570a03'>\r\n//「まず、景明さまのお考えをどうぞ」\r\n\"First, I'd like to hear your ideas.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20685,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270580a00'>\r\n//「今直ちに行動を起こし、問題の爆弾を奪取、\r\n//解体もしくは回収不可能な場所へ投棄」\r\n\"We make our move now. Secure the bomb and disable or dispose of it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20973,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270590a03'>\r\n//「非現実的です。\r\n//　鍛造雷弾の保管場所は見当が付いています\r\n//が、警備が厳しく、こちらの戦力で突破でき\r\n//るとは考えられません」\r\n\"Not possible. I believe I know where the bomb is stored, but security is too tight. We don't have the firepower.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21383,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270600a00'>\r\n//「運搬手段、<RUBY text='ヴィッカース'>飛行艦</RUBY>を破壊」\r\n\"Destroy the airship. Stop them from delivering it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21611,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270610a03'>\r\n//「飛行艦なら他にもありましてよ。\r\n//　……全部叩き壊して回ります？」\r\n\"There are other ships. Do you think we can get them all?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21876,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270620a00'>\r\n//「六波羅へ作戦を密告」\r\n\"Inform Rokuhara.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22025,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270630a03'>\r\n//「やって損はないかもしれませんが、向こう\r\n//が話を鵜呑みにして必要な防御措置をとると\r\n//いう保証はまったくありませんね」\r\n\"I suppose it can't hurt. But there's no guarantee they'll believe us, is there?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22389,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270640a00'>\r\n//「……キャノン中佐の暗殺――いや、拘束」\r\n\"...Assassinate―no, detain Colonel Cannon.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22592,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270650a03'>\r\n//「無意味です。\r\n//　作戦立案は中佐の独創であっても、実行は\r\n//誰にだってできますもの。別の将校が代理で\r\n//指揮を執るだけです」\r\n\"It won't matter. The plan is his, but he's not an essential part of it. Someone else will just take over.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22989,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270660a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23113,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270670a03'>\r\n//「他にはいかが？」\r\n\"Anything else?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23263,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270680a00'>\r\n//「既に大尉殿の肚はお決まりの様子」\r\n\"I suspect you've already made your decision.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23458,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270690a03'>\r\n//「はい、実は。\r\n//　ちょっと意地悪でしたかしら」\r\n\"Oh, should I have told you? But that would have spoiled the fun.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23701,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270700a00'>\r\n//「水際阻止――と？」\r\n\"You plan to stop them in the air.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23864,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270710a03'>\r\n//「秘密作戦の性質上、動員兵力はごく小規模\r\n//に留めざるを得ない……。\r\n//　小型の飛行艦が一隻、それに搭乗する兵員\r\n//が数十人、これで全てのはずです」\r\n\"Given the secret nature of the operation, the bomb can have only a limited escort. One small airship, a few dozen men.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270720a03'>\r\n//「さよを含めても総勢三人のわたくしたちが\r\n//勝利するには、この小部隊が空で孤立無援に\r\n//なる作戦行動中を狙うしかありません」\r\n\"For the three of us―that includes Sayo―to have a chance of stopping them, we must make our move while they are in transit, cut off from any reinforcements.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24749,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270730a00'>\r\n//「道理」\r\n\"That makes sense.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24878,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270740a03'>\r\n//「わたくしとさよはあらかじめ飛行艦に潜り\r\n//込んでおくことにしましょう。\r\n//　景明さまは鎌倉へ航行する船を途上で襲い、\r\n//突入してくださいませ」\r\n\"Sayo and I will sneak aboard the ship before launch. I'd like you to stage an attack from the air.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270750a03'>\r\n//「劒冑は使えるように取り計らっておきます」\r\n\"I'll ensure that your tsurugi is available to you.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25509,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270760a00'>\r\n//「成程……。\r\n//　内と外から挟撃し、撹乱する」\r\n\"I see. Attack from two angles. Disorient them.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25722,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270770a03'>\r\n//「ええ。そうして爆弾を奪って解体するか、\r\n//相模湾へ投棄というあたりで。\r\n//　うかつに投棄もできない程どちくしょうな\r\n//代物だった場合には……仕方ありませんから」\r\n\"Yes. Once we have the bomb, we can either attempt to disable it, or drop it in Sagami Bay. If there's no way to do either of those things safely...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26215,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270780a03'>\r\n//「二人で絶海の無人島にでも行って、そこで\r\n//爆発させてしまいましょうか♪\r\n//　若い命はあえなく散り、けれど二人の愛は\r\n//永遠に。天空を貫く火柱は悲恋の<RUBY text='モニュメント'>記念碑</RUBY>――」\r\n\"Well, then we'll just have to detonate it on some deserted island, won't we? Ah! Our young lives may fade to ash, but our love will last forever! Let this pillar of flame be a monument to our―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26794,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270790a00'>\r\n//「諒解です」\r\n\"As you wish.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26924,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270800a03'>\r\n//「……はい？」\r\n\"...Pardon?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27064,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270810a00'>\r\n//「貴方がそれを望まれるなら、自分に異存は\r\n//ありません。\r\n//　御供致します」\r\n\"If that is your decision, I will obey. We die together.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27329,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270820a03'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27462,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270830a00'>\r\n//「大尉殿？」\r\n\"Captain?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27588,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270840a03'>\r\n//「い、いえ。\r\n//　……こほ」\r\n\"O- Oh, it's nothing. ...Ahem.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27766,
+  "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0270850a03'>\r\n//「まぁ、そこまでせずとも済むでしょう。\r\n//　幕府を一発で掃討できるような機会は限ら\r\n//れます。宣下式典が終わるまで爆弾を確保し\r\n//ていられれば、ひとまず危機は去るかと」\r\n\"Honestly, I don't believe that will be necessary. The colonel only has one chance to cut off Rokuhara's head. If we can secure the bomb until after the ceremony, that should be enough.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28305,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0270860a00'>\r\n//「は……」\r\n\"Understood.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28431,
+  "en": "\r\n//　\r\n//　　　　　　　　　午前七時四九分\r\n \r\n \r\n \r\n \r\n \r\n<center>07:49\r\n",
+  "pt": ""
+ }
+]

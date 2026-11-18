@@ -1,0 +1,712 @@
+[
+ {
+  "offset": 215,
+  "en": "\r\n//　自由を取り戻す。\r\n//　だがその代償の激痛は、再び脳髄を焼いた。\r\n  I'm free, but it cost me. The pain sears my brainstem.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 381,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0010a00'>\r\n//「……っっ……！」\r\n\"Guh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 514,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0020a01'>\r\n//《待って！》\r\n《Hold on!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 652,
+  "en": "\r\n//　村正が左腕の甲鉄を復元、同時に肩の治癒を始める。\r\n//　肉体の方は簡単に復元できない。この戦闘の最中は\r\n//左腕を動かせないだろう。\r\n\r\n//　しかし痛みは和らぎつつあった。\r\n  Muramasa restores my armor, then goes to work on my injured arm. Restoring full function will take some time, so I'll be down an arm for the rest of the fight―but at least the pain begins to subside.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1118,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0030a00'>\r\n//「……仕切り直しだ」\r\n\"...Round two.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1263,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0040a01'>\r\n//《ええ》\r\n《Ready!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1393,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0050a07'>\r\n//「いや、『ええ』じゃねーだろーがぁ！」\r\n\"<I>Ready!?</I>㉓Is that all you've got to say!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1609,
+  "en": "\r\n//　我に返ったらしい茶々丸が、激昂の様子で荒い声を\r\n//上げる。\r\n//　険しい視線がこちらへ向けられていた。\r\n\r\n//　対象は俺ではないようだ。\r\n  Having recovered from her shock, Chachamaru glares at us with fury in her eyes.<K>\r\n  Or rather, at Muramasa.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1930,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0060a07'>\r\n//「てめぇ村正……\r\n//　仕手の体を壊してどうする!?　命令された\r\n//ってやらねえだろ普通！」\r\n\"Are you completely fucking insane!? Breaking your master's arm! You're not supposed to do shit like that, even if he tells you to!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2298,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0070a07'>\r\n//「それでも劒冑か!!」\r\n\"And you call yourself a tsurugi!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2471,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0080a01'>\r\n//《劒冑よ》\r\n《I do.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2603,
+  "en": "\r\n//　村正は糸屑程度の怯みも見せなかった。\r\n  Muramasa weathers her rage unflinching.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2717,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0090a01'>\r\n//《私は御堂の<RUBY text='・・・'>保護者</RUBY>じゃない。\r\n//　戦って勝つための相棒なの》\r\n《I'm not his guardian. I'm his partner. I'm here to help him win.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0100a01'>\r\n//《勝つために守るし、勝つためなら傷付ける\r\n//ことだってある》\r\n《Sometimes that means protecting him. Sometimes, that means hurting him.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3274,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0110a07'>\r\n//「邪道だろ」\r\n\"That's㉒<I>wrong!</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3425,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0120a00'>\r\n//「いや、正道だ」\r\n\"No. She's right.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3567,
+  "en": "\r\n//　足元のものを拾い上げながら、口を挟む。\r\n//　……どうやら跳んだ位置が良かったようだ。\r\n\r\n//　脇差である。\r\n//　手放してしまった唯一の武装を、俺は取り戻した。\r\n  I crouch to pick up something from the ground.<K>\r\n  My wakizashi. So I still have some luck left.\r\n\r\n  Armed once again, I face Chachamaru.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3955,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0130a00'>\r\n//「俺の劒冑はそれで正しい」\r\n\"That is how my tsurugi must be.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4127,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0140a07'>\r\n//「……お兄さんも難儀なお人やね。\r\n//　どうしてそんなのを認めちまうかなぁ」\r\n\"Man, why do you have to be such a hardass? Don't <I>encourage</I> her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4417,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0150a07'>\r\n//「切ない気分ですよ」\r\n\"How am I supposed to feel?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4584,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0160a00'>\r\n//「そう言われても返しようがないが。\r\n//　仕手と劒冑の縁が結ばれるからには、相応\r\n//の理由があったという事なのだろうよ」\r\n\"While it's not my intent to make you uncomfortable... all I can say is that when a master and tsurugi are joined, it's for good reason.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4994,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0170a07'>\r\n//「……はは。\r\n//　その逆をいえば、<RUBY text='・・・・・・・'>結ばれなかった</RUBY>ことにも\r\n//理由はあるってことか」\r\n\"Haha... I guess that means when they㉗<I>aren't</I>㉑joined, it's for good reason too.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5354,
+  "en": "\r\n//　低く笑いながら。\r\n//　悔しげに、茶々丸は唇を噛んだ。\r\n  Chachamaru bites her lip.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5476,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0180a07'>\r\n//「どうしたもんかな。\r\n//　劒冑はイカレてるし、お兄さんは頑固者」\r\n\"Well, this is a pickle, all right. Your tsurugi's batshit crazy, and you're as stubborn as they come.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5782,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0190a07'>\r\n//「これじゃその気がなくたって命の取り合い\r\n//になっちまうねぇ……」\r\n\"If we keep going at it, one of us is gonna end up dead.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6045,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0200a00'>\r\n//「……それを厭うなら道を開けてくれ」\r\n\"If that's not what you want, then allow us to pass.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6252,
+  "en": "\r\n//　無益を承知で頼む。\r\n//　返答はやはり、首を左右に振る動作だけだった。\r\n  As expected, Chachamaru shakes her head.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6413,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0210a07'>\r\n//「仕方ないな。\r\n//　<RUBY text='・・・'>こいつ</RUBY>で眠ってもらおう」\r\n\"Only one thing left.㉗<I>This</I> oughta put your lights out.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6680,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0220a00'>\r\n//「む……」\r\n\"What?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6802,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0230a01'>\r\n//《御堂、敵騎の熱量が変動してる！\r\n//　これは――》\r\n《Heat signature rising, Mido! You know what that means!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7041,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0240a00'>\r\n//「陰義か!?」\r\n\"Shinogi!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7169,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0250a01'>\r\n//《おそらく！》\r\n《I'd bet my life on it!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7324,
+  "en": "\r\n//　発動前に制するには――遅いか？\r\n//　距離はやや遠く、一歩では届かない。\r\n\r\n//　待ち受けるしかないようだ。\r\n//　術を見極め、その上で防ぐ。\r\n\r\n//　武者の秘中の秘技たる陰義は法外不測、どんな現象\r\n//でも起こり得る――しかしどんな現象が起きても対処\r\n//せねばならない。\r\n//　鬼が出るか蛇が出るか。俺は心胆を据えた。\r\n  Can I stop her from using it? No. It's too late. I'll need more than a single motion to reach her.\r\n\r\n  It looks like we're doing this the hard way. I'll meet her shinogi head-on.\r\n\r\n  Shinogi defy the laws of nature. Her power could be literally anything. Still, I must find some way to overcome it, or else all is lost.\r\n\r\n  I ready myself, determined not to succumb.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8162,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0260a07'>\r\n//「そう警戒しなくていいよ。\r\n//　大した術じゃないんだ……」\r\n\"Relax, brother. I can't do much...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8392,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0270a07'>\r\n//「単に感覚を共有するだけ」\r\n\"Just share my senses.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8563,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0280a00'>\r\n//「……感覚を……？」\r\n\"Your... senses?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8710,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0290a07'>\r\n//「お兄さんは覚えがあるはずだよ。\r\n//　もう何度かやって見せてる」\r\n\"Not ringing a bell? I've given you a taste, once or twice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8973,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0300a07'>\r\n//「ただし」\r\n\"This time, though...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9119,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0310a07'>\r\n//「今回は<RUBY text='・・・・'>加減なし</RUBY>」\r\n\"You're getting it㉓<I>all.</I>\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0320a07'>\r\n//「足利茶々丸の世界をそのまま捧げる」\r\n\"My world. The full Chachamaru experience.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9519,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0330a00'>\r\n//「――――」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9643,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0340a07'>\r\n//「行くよ……」\r\n\"Here it comes...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9791,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0350a07'>\r\n//　　　　　　「<RUBY text='キャッスル・オブ・ハウリング'>咆哮の城塞</RUBY>」\r\n<center>\"CASTLE OF HOWLING!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10030,
+  "en": "\r\n//　…………何だ？\r\n\r\n//　何か――\r\n//　奥深くから、<RUBY text='・・・・'>ひたひた</RUBY>と。迫り、押し寄せてくる、\r\n//これ。\r\n  ...What?<K>\r\n  Something rises from deep in my gut,<K> surging toward the surface like a volcanic tide.\r\n\r\n  What...<K>㉓<I>is</I>㉓this?\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10356,
+  "en": "\r\n//　……人の声。\r\n//　無数に、幾重にも聴こえてくる。\r\n\r\n//　いや……姿も？\r\n//　無数の人々の影……。\r\n\r\n//　これは聴覚？\r\n//　それとも視覚？\r\n\r\n//　――――<RUBY text='・・'>信号</RUBY>？\r\n  Voices. Too many to count, crushed into an indecipherable jumble.\r\n\r\n  No. Wait. There are images too. Silhouettes moving amid the static.\r\n\r\n  Is this sound? Sight? Some sort of <I>signal?</I>\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10821,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0360a00'>\r\n//「あがッ――」\r\n\"Argh!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10949,
+  "en": "\r\n//　情報！\r\n//　情報だ！\r\n\r\n//　<RUBY text='・・・・・・'>氾濫する情報</RUBY>！\r\n\r\n//　余りにも多過ぎる。\r\n//　多大な音が、多大な光が、その全てが明確な意味を\r\n//持って俺のもとへ殺到してくる！\r\n\r\n//　こんなもの……俺の脳は許容できない!!\r\n  No! This is <I>information!</I> A flood of data beating against me!\r\n\r\n  There's too much. More than my brain can process. A million points of sound and light, each with its own distinct meaning.\r\n\r\n  Meaning! I'm drowning in it!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11519,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0370a00'>\r\n//「―――――――――――――――――――\r\n//――――――――――――――――――――\r\n//――――――――――――――――――――\r\n//――――――――――――――――――――」\r\n\"                                                 \"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11925,
+  "en": "\r\n//　溢れ返る、\r\n//　溢れ返る、\r\n//　\r\n//　情報。情報。情報。情報。情報。\r\n\r\n//　これが――茶々丸の世界――――？\r\n  An unending torrent of data, raw and unfiltered, churning in my skull.\r\n\r\n  <I>This</I>㉓is Chachamaru's <br>world!?\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12218,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0380a01'>\r\n//《……これは……》\r\n《It's like...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0390a01'>\r\n//《人の感覚と、劒冑の感覚が……\r\n//　<RUBY text='・・'>混線</RUBY>している？》\r\n《A tsurugi's senses... and a human's senses... all jumbled together?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12643,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0400a07'>\r\n//「そうさ」\r\n\"You got it.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12780,
+  "en": "\r\n//　輪唱、群像の中、足利茶々丸という一個体も喋って\r\n//いた。\r\n  Amid the thunder, amid the deluge, the data point labeled \"Chachamaru\" speaks.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12961,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0410a07'>\r\n//「これがヒトで在り劒冑で在るあての宿業。\r\n//　ヒトの感覚に基づいて、劒冑の感覚機能が\r\n//情報を収集し、肉の脳に叩き込む」\r\n\"This is the curse I was born with, forged with. My tsurugi senses gather data, convert it to a form my human mind can understand, and inject it directly into my brain.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13415,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0420a07'>\r\n//「結果がこの<RUBY text='・・・・'>情報洪水</RUBY>。\r\n//　……お兄さん？　もう溺死しちゃってない\r\n//だろうね？」\r\n\"This flood is how I see the world. How you doing, big bro? A bit short of breath?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13759,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0430a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13885,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0440a07'>\r\n//「まだあるんだよ。\r\n//　ヒトと劒冑の複合感覚は、ヒトにも劒冑に\r\n//も感じ取れないものまでつかみ取る……」\r\n\"Well, don't get too comfortable. There's more. See, having these combined senses lets me pick up on things that regular people <I>and</I>㉒tsurugi miss.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14301,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0450a07'>\r\n//「その最たるものが」\r\n\"And the worst of 'em...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14465,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0460a07'>\r\n//「こいつだ」\r\n\"...is this.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14605,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0470a01'>\r\n《　　　》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0480a01'>\r\n《　　　　　　　　　　　　　》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14861,
+  "en": "\r\n//　これは\r\n\r\n//　そうだ\r\n//　　　　　　緑龍会の集会の場で、聴かされた\r\n\r\n//　あの声\r\n\r\n//　違う\r\n\r\n//　違う　　　違う\r\n//　　　　違う　　　違う　　　　　　違う\r\n//違う　　　違う違う違う違う違う違う\r\n\r\n//　あんなものそよ風だった\r\n\r\n//　これは\r\n\r\n//　桁が　　　　次元が\r\n  this is\r\n\r\n  yes\r\n\r\n  i've heard it before<K>\r\n　　　　　　that night, at the meeting in that dark hotel\r\n\r\n  the same voice\r\n\r\n  the same<K>\r\n \r\n                                      no\r\n\r\n  no　　　no\r\n　　　　no　　　no　　　　　　no\r\nno　　　nononoNOnoNONONONONO\r\n\r\n  NOT THE SAME\r\n\r\n  that was nothing\r\n\r\n  a breath\r\n\r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n                                     a kiss\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15675,
+  "en": "\r\n//　あ\r\n//　　　　　　　　　　　　　　アア\r\n\r\n\r\n\r\n//　　　　　　　　　　　　　　　　　　これが\r\n\r\n//　　　　　　　　　　　本当の\r\n\r\n//　\r\n//　\r\n//　\r\n//　　　　　　　　　　　　　　　　　　神\r\n　ah\r\n　　　　　　　　　　　　　　AHH\r\n\r\n　\r\n　\r\n　　　　　　　　　　　　　　　　　　is that\r\n\r\n　　　　　　　　　　　you\r\n\r\n　\r\n　\r\n　\r\n　　　　　　　　　　　　　　　　　　God?\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16200,
+  "en": "\r\n//　…………黒。\r\n\r\n//　暗い。\r\n//　冷たい。\r\n  ...Darkness.\r\n\r\n  Black...<K> and cold.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16315,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0490a00'>\r\n//（何だ……？）\r\n(Where...?)\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16447,
+  "en": "\r\n//　散り散りになった意識の断片が集まり。\r\n//　百億年ほどの時を掛けて、自分が地面に突っ伏して\r\n//いるという事実を認識した。\r\n\r\n//　両腕を突いて、体を持ち上げる。\r\n  As the pieces of my shattered soul knit themselves together, I realize that ten million years have passed as I lay here upon the dirt.\r\n\r\n  I push myself up, and take stock of this new world.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 16888,
+  "en": "\r\n//　……意識を失っていた時間は、どうやら思っていた\r\n//よりは幾らか短かったらしい。\r\n//　周辺の光景が未知の文明のそれに置き換わっている\r\n//ようなことはなく、相変わらずの普陀楽城である。\r\n\r\n//　茶々丸もそのままの姿で、立っていた。\r\n//　驚きを込めて、俺を見詰めている。\r\n  ...Perhaps my internal clock was a bit out of sync.<K>\r\n  Instead of finding myself the prisoner of a distant civilization, I come to in the courtyard of Fudaraku Castle, exactly where I was before I lost consciousness.\r\n\r\n  Chachamaru is staring at me, her expression one of mild shock.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17578,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0500a07'>\r\n//「……予想以上にタフだねー、お兄さん。\r\n//　今ので潰れないとは思わなかった」\r\n\"You're tougher than I thought. I was sure that'd do you in.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17860,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0510a00'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 17998,
+  "en": "\r\n//　言い返そうとして、言葉が出ない。\r\n//　まだ何か、うまく<RUBY text='・・・・・・・'>繋がっていない</RUBY>様子だった。\r\n  I try to speak, but my mouth won't comply. It seems I'm still not fully <I>reconnected.</I>\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18270,
+  "en": "\r\n//　……村正も同じか。\r\n\r\n//　<RUBY text='ＯＳ'>統御機能</RUBY>が完全に崩壊しかねない程の衝撃を受けた\r\n//らしい。\r\n//　幸いにもそうはならず、復旧に向かっているが……。\r\n\r\n//　これが騎航中の事でなかったのも幸いだった。\r\n//　もしそうであったら、墜落は免れなかったろう。\r\n  Muramasa is in a similar state. The shock must have overloaded her systems. \r\n  Fortunately, she is recovering, and there doesn't appear to be serious damage.\r\n\r\n  We're lucky we weren't flying when this happened. That could have ended very badly.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 18910,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0520a00'>\r\n//「茶々丸」\r\n\"Chachamaru...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19040,
+  "en": "\r\n//　ようやく、言葉が出る。\r\n  I finally manage to get the words out.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19132,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0530a00'>\r\n//「お前は……<RUBY text='おまえたち'>緑龍会</RUBY>は……\r\n//　あれを地上に引き出そうというのか」\r\n\"Is㉗<I>that</I>㉑what you... what the Green Dragon Society... are trying to unearth?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19450,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0540a00'>\r\n//「あの――」\r\n\"That―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 19577,
+  "en": "\r\n//　神？\r\n//　魔神？\r\n//　金属塊？\r\n//　自然現象？\r\n  God?<K>\r\n  Monster?<K>\r\n  Lump of metal?\r\n\r\n//　どう表現すれば良いのかわからない。\r\n//  \r\n//　ただ――\r\n  I don't know what to call it, but I do know what it <I>is.</I>\r\n\r\n//　あれは巨大であった。\r\n//　あれは強大であった。\r\n//　あれは膨大であった。\r\n//　あれは遠大であった。\r\n//\r\n//　あれは動力であった。\r\n//　あれは活力であった。\r\n//　あれは暴力であった。\r\n//　あれは威力であった。\r\n\r\n//　途方もない途轍もない力、力、力、ただ力。\r\n//　ただ<RUBY text='・・・・'>大きな力</RUBY>であった。\r\n\r\n  A mass of seething,<K> raging,<K> churning,<K> frothing,<K> howling<K> <I>power.</I>\r\n\r\n  Power. That's all.\r\n\r\n  Unimaginable power.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20435,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0550a00'>\r\n//「あんなものを！」\r\n\"You want to bring it㉓<I>here!?</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 20600,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0560a07'>\r\n//「うん。\r\n//　あのカタマリを引っ張り出す」\r\n\"Yeah. That's right. We're gonna bring it here.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0570a07'>\r\n//「……そうしないとあいつは黙らねえ……」\r\n\"That's the only way it'll ever shut up.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21020,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0580a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21146,
+  "en": "\r\n//　駄目だ。\r\n\r\n//　それは、駄目だ。\r\n//　\r\n//　<RUBY text='・・・・・'>世界が滅ぶ</RUBY>。\r\n\r\n//　本当に滅ぼされる。\r\n\r\n//　あんなものが地上に現れ、活動したなら！\r\n  They can't.\r\n\r\n  They㉓<I>can't!</I>\r\n\r\n  The world will end. There's no doubt in my mind.\r\n\r\n  If that thing comes to life on the surface, we're doomed!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21536,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0590a01'>\r\n//《……御堂……》\r\n《Mido...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21679,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0600a00'>\r\n//「回復したか」\r\n\"You've recovered?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 21819,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0610a01'>\r\n//《ええ。\r\n//　……さっきの、あれが》\r\n《Yes... But what was that just now?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22017,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0620a00'>\r\n//「神とやらだ」\r\n\"The god you heard us mention.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22169,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0630a01'>\r\n//《与太話じゃないのね……》\r\n《So it wasn't just crazy talk...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22351,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0640a00'>\r\n//「今からでも与太話にして欲しいがな」\r\n\"I'm starting to wish it had been.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22540,
+  "en": "\r\n//　俺も村正も、<RUBY text='・・'>感知</RUBY>してしまった。\r\n//　地下に潜むあの存在。あの脅威を。\r\n\r\n//　あれを知って――どうして一笑に付する事ができる\r\n//だろう。\r\n  Having felt what we did, we no longer have the luxury of incredulity.\r\n\r\n  That thing is real, and a threat to all life.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 22902,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0650a01'>\r\n//《あんなものを自由にするわけにはいかない》\r\n《We can't let it get free.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23102,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0660a07'>\r\n//「罰当たりなこと言うんじゃねーよ。\r\n//　ありゃ、<RUBY text='・・・・・'>おめーらの</RUBY>神様だろうが」\r\n\"Hey. Watch your fucking mouth. It's㉒<I>your</I>㉑god we're talkin' about here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23436,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0670a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0680a01'>\r\n//《こ、金神さま？》\r\n《You mean... the Konjin!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 23727,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0690a07'>\r\n//「ウォルフの推論が当たってればだけどな。\r\n//　あれが劒冑の起源」\r\n\"If Wolf's thesis is right, then yeah. That's the origin of all tsurugi.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24003,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0700a07'>\r\n//「天界から火を盗んだプロメテウス。\r\n//　太陽を削り取るヴィシュヴァカルマン。\r\n//　天帝に挑んで敗れ、地に埋められた<RUBY text='しゆう'>蚩尤</RUBY>。\r\n//　<RUBY text='そら'>宇宙</RUBY>よりの<RUBY text='まれびと'>客人</RUBY>、金神魔王尊」\r\n\"That's Prometheus, who stole fire from Olympus. Vishvakarman, who carved out the Sun. Chiyou, imprisoned beneath a mountain for all time. Kumara, who came from a distant star.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24604,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0710a07'>\r\n//「遠い昔に天から落ちてきた、鍛冶の祖神だ」\r\n\"The God of Metal, God of Smiths, who fell to Earth long, long ago.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 24844,
+  "en": "\r\n//　記憶に触れる。\r\n//　あの――劒冑夢想論と題された論文か。\r\n  Her words recall the paper I read, the one entitled \"A Fantasy of Cruxes.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25021,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0720a01'>\r\n//《……そうだとしても。\r\n//　崇めはしたって、この<RUBY text='うつしよ'>現世</RUBY>に連れて来よう\r\n//なんて考えるもんですか》\r\n《...Fine. It's a god. So worship it, then! But don't go dragging it into our world!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25385,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0730a07'>\r\n//「神がそれを望んでいてもか？」\r\n\"Even if that's what your god wants?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 25576,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0740a01'>\r\n//《<RUBY text='・・・'>祟り神</RUBY>の言いなりになったって誰も幸せに\r\n//ならないでしょうが！\r\n//　お供えをして、鎮まって下さいってお願い\r\n//すればいいのよ！》\r\n《You're not supposed to do what㉒<I>wrathful</I>㉒gods want! You make your offerings, say your prayers, and beg the god to leave you alone!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26047,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0750a07'>\r\n//「都合のいい話だなオイ。\r\n//　ま、信仰もヒトが発明したもんなんだから\r\n//ヒトに都合良く出来てるのは当たり前だ」\r\n\"That's awfully convenient, don't you think? But religion's a human invention, I guess. Of course you'd say that kind of stuff works.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26451,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0760a07'>\r\n//「神が<RUBY text='・・'>実在</RUBY>さえしなけりゃ、それで通ったん\r\n//だがな」\r\n\"And hey, maybe it does... when the gods aren't <I>real.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26724,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0770a01'>\r\n//《…………》\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 26860,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0780a07'>\r\n//「アレにはお祈りを聴く耳もなけりゃ供物を\r\n//食う口もない。\r\n//　鎮める方法なんて一つきり……」\r\n\"But he doesn't care about your㉓<I>offerings.</I>㉑ He ain't listenin' to your㉓<I>prayers.</I> There's only one way to appease this god.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27248,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0790a07'>\r\n//「望む通りにしてやるしかねえんだよ」\r\n\"<I>Give him what he wants.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27443,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0800a00'>\r\n//「茶々丸……」\r\n\"Chachamaru...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27579,
+  "en": "\r\n//　そうしなければ。\r\n//　お前は、<RUBY text='・・'>あれ</RUBY>から解放されない……？\r\n  Is that the only way you will ever be free?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27752,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0810a01'>\r\n//《……また!!》\r\n《She's doing it again!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 27905,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0820a07'>\r\n//「お兄さんがいくらしぶとくても、その劒冑\r\n//がどこまで鈍感でも、もう一度あれを聴けば\r\n//落ちるだろ。\r\n//　だから、そうする」\r\n\"You're tough, and your tsurugi's got a head like a brick, but even you can't handle it twice.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28289,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0830a07'>\r\n//「下手に抗わない方が多分楽だよ、お兄さん」\r\n\"You should relax, big bro. It's easier that way.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28511,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0840a00'>\r\n//「く……！」\r\n\"...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 28635,
+  "en": "\r\n//　兎も角も――ここで倒されてはならない。\r\n//　失われるものが余りにも多く大きく重過ぎる。\r\n\r\n//　瞬時の判断で、俺は脇差を鞘に納めた。\r\n//　そして体内の熱量を掻き集める。\r\n  Right now, I must focus on defeating her shinogi. Far too much is at stake to falter here.\r\n\r\n  There's only one choice left. I sheathe my wakizashi and summon my energy.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29070,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0850a01'>\r\n//《御堂!?》\r\n《Mido!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29202,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0860a00'>\r\n//「<RUBY text='レールガン'>電磁擲刀</RUBY>！\r\n//　やれるな、村正!?」\r\n\"A railgun, Muramasa! Can you do it!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29427,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0870a01'>\r\n//《――――諒解！》\r\n《Of course!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 29576,
+  "en": "\r\n//　未だ足腰が立たず、斬り掛かる事のできない現状で\r\n//は、これが唯一の方途だった。\r\n//　電磁刀術の第三法。鞘に納めた脇差を、磁気反発を\r\n//利用して<RUBY text='・・'>射出</RUBY>する。\r\n\r\n//　何者であれ回避は不可能。\r\n//　いや一度だけ、超常の速度まで到達した騎体に回避\r\n//された経験があるが――あの真似を茶々丸が成し得る\r\n//とは思えない。通常は反応すら無理だ。\r\n\r\n//　狙うは足元。\r\n//　直撃させねば致命傷になる事はない。しかし着弾の\r\n//衝撃波は甲鉄の守護をもってしても完全には防ぎ切れ\r\n//ないであろう。\r\n\r\n//　それなりの<RUBY text='ダメージ'>損傷</RUBY>は受けるはず。\r\n//　その隙にこの場を突破し、天守閣へ向かうのだ。\r\n  My balance has not recovered fully. I won't be able to stop her with a conventional attack.\r\n\r\n  Instead, I will use my own shinogi, harnessing the force of magnetic repulsion to launch my sword from its sheath like a bolt of lightning.\r\n\r\n  Nothing on earth can evade this strike.<K>\r\n  ...No. I suppose one thing has, one enemy whose speed transcended even light. But Chachamaru can hardly be capable of <I>that.</I>\r\n\r\n  I will aim for the ground in front of her. A direct hit could too easily prove fatal. Fortunately, the shockwave from a near impact should still be enough to put her out of commission, at least until we get away.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31100,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0880a07'>\r\n//「……そう来るかぁ……」\r\n\"So that's your play...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31269,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0890a00'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 31395,
+  "en": "\r\n//　今、勝敗を定めるのは術を組み立てる早さだ。\r\n//　先に完成させた者が勝つ。\r\n  And now it all comes down to speed. Which of us will get our shinogi off first?\r\n\r\n//　俺が熱量を作り村正がそれを磁力に変換、その磁力\r\n//を俺が扱い村正がその補助をする――工程は最上最速\r\n//を極めなくてはならない。\r\n//　だが精緻さも重要だ。\r\n\r\n//　多大な<RUBY text='エネルギー'>力量</RUBY>を生じさせ運用するこの術式、制御法を\r\n//しくじれば血管破裂程度では済まない。\r\n//　巧遅ではなく拙速でもなく、巧かつ速を突き詰める。\r\n\r\n//　左腕の動きがままならないのはやはり負担だった。\r\n//　言わば<RUBY text='・・'>砲身</RUBY>である鞘をうまく支えられない……抜刀\r\n//そして投擲を確実にこなせるか、若干の不安がある。\r\n\r\n//　それでもやらねばならない、が、\r\n  I produce heat from my core; Muramasa collects it and converts it into power. We must complete this process with all possible haste, but without sacrificing precision.\r\n\r\n  The forces we harness are not to be trifled with. If I lose control for even an instant, ruptured arteries will be the least of my problems.\r\n\r\n  It must be fast. It must be perfect. Anything less will kill us both.\r\n\r\n  My escape from Chachamaru's headlock is coming back to haunt me. I need my left arm to position my sheath: to aim the cannon, in other words, as well as to light the fuse. I fear it may not be up to the task.\r\n\r\n  So be it. I'll have to make do.\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33039,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0900a01'>\r\n《......》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33153,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0910a00'>\r\n//「――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33273,
+  "en": "\r\n//　礼を述べる手間は省いた。\r\n//　今は無用の事だ。\r\n\r\n//　左手の不安は、これでほぼ無い。\r\n//　掌と鞘が磁力で接合されている――握力不足の補い\r\n//になる。\r\n\r\n//　後は陰義を完成させるのみ！\r\n  Without prompting, Muramasa uses her power to fix my left hand magnetically to the sheath. I'll thank her later. Now is not the time.\r\n\r\n  This takes care of the aiming problem. All that's left...<K> is the charge!\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33771,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0920a07'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 33906,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0930a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34032,
+  "en": "\r\n//　俺の方が、<k>\r\n//　\r\n//　早い――――――か!!\r\n  Advantage―<K>mine!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34134,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0940a00'>\r\n//「<RUBY text='レールガン'>電磁擲刀</RUBY>――」\r\n\"Railgun―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34306,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0950a00'>\r\n//「<RUBY text='カシリ'>呪</RUBY>」\r\n\"Kashiri!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34455,
+  "en": "\r\n//　……術は完全な形で行使された。\r\n//　敵騎の陰義は襲って来ない。\r\n\r\n//　つまりは――企図を遂げた。\r\n  There's no sign of my enemy's shinogi taking hold. The plan would appear to have worked.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34703,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0960a00'>\r\n//「……ぬっ!?」\r\n\"...What!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 34834,
+  "en": "\r\n//　茶々丸がいない。\r\n\r\n//　まさか、直撃した……？\r\n//　いや、だとしても破片も残さず消え失せるのは妙だ。\r\n\r\n//　茶々丸が立っていた地点には、電磁擲刀の着弾跡で\r\n//あろう、いびつな<RUBY text='すりばち'>擂鉢</RUBY>状の穴が出来ているのみ。\r\n//　他には何もない。\r\n\r\n//　……何処に行った？\r\n  Chachamaru is <I>gone.</I>\r\n\r\n  Did I kill her?<K>\r\n  No. Even a direct hit wouldn't have㉒<I>vaporized</I>㉒her. And there on the ground, right where I intended, is the elongated crater formed by my sword. Chachamaru alone is missing.\r\n\r\n  Where did she―\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35509,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs0970a01'>\r\n//《あそこ！》\r\n《Over there!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35650,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs0980a00'>\r\n//「！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 35762,
+  "en": "\r\n//　村正の示した方角へ兜を向ける。\r\n//　そこに――いた。着弾の瞬間に跳躍したのだろうか、\r\n//大きく距離を置いて立っている。\r\n\r\n//　……どういう意図であろう。\r\n\r\n//　陰義の勝負をやめ、直前に退避した。\r\n//　それはわかる。わかるが。\r\n\r\n//　何の益がある？\r\n\r\n//　確かにこちらは電磁擲刀を無駄撃ちした格好だ。\r\n//　とはいえ茶々丸も術を完成寸前まで練り上げていた。\r\n//そこから陰義を放棄しても、既に消費した熱量を取り\r\n//戻せるものではない。\r\n\r\n//　つまり消耗はお互い様。\r\n//　戦力比は全く変移していない。\r\n\r\n//　茶々丸の行動は本当に無意味……\r\n//　としか思えない、が……<k>…………？\r\n  I turn my head. There she is, even farther away than before. She must have leapt away at the moment of impact.\r\n\r\n  Why would she do that: abandon her chance to finish me off? She would have made that decision before it was clear whose attack would land first.\r\n\r\n  Yes, she has forced me to waste my shinogi, but she herself had built hers nearly to completion. That energy wouldn't return just because she decided not to use it.\r\n\r\n  This exchange has drained us equally. The balance of power remains the same.\r\n\r\n  So Chachamaru's actions are meaningless...<K>\r\n  Aren't they?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37183,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs0990a07'>\r\n//「あての勝ちかな」\r\n\"Looks like I win.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37338,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs1000a00'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37458,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs1010a07'>\r\n//「悪知恵勝負じゃ分が悪かったね、お兄さん。\r\n//　こちとら堀越公方足利茶々丸」\r\n\"You'll never out-bastard Ashikaga Chachamaru. Didn't anyone tell you?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 37750,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/048vs1020a07'>\r\n//「<RUBY text='・・'>裏技</RUBY>はお手の物ですよ。\r\n//　……じゃっ」\r\n\"I've always got another card up my sleeve. Buh-bye!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38000,
+  "en": "\r\n//　言い捨てて、茶々丸は駆け去ろうとする。\r\n//　踵を返し、俺に背を向けて。\r\n\r\n//　逃げる……？\r\n  Chachamaru turns and breaks into a run.\r\n\r\n  She's... fleeing?\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38213,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs1030a00'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38339,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs1040a00'>\r\n//「――ちッ――」\r\n\"Tch!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 38469,
+  "en": "\r\n//　違う!!\r\n\r\n//　図られた。\r\n//　完璧に騙された。\r\n\r\n//　茶々丸は無理を押してまで俺と決戦する必要はない。\r\n//　時間が過ぎ去り、鍛造雷弾を積んだ船が普陀楽上空\r\n//へ現れればそれで勝利を得られる――\r\n\r\n//　そこまでは俺も承知していた。\r\n//　だから一か八かの陰義勝負を避けた事にも実は納得\r\n//ができなくはなかった……無難に時間を稼げればそれ\r\n//で良かったのだと。余りに消極的だとは思うものの。\r\n\r\n//　だが違った。\r\n\r\n//　もう一つある事に気付かなかった。\r\n\r\n//　茶々丸は俺を倒す事と時間を稼ぐ事の他にもう一つ、\r\n//<RUBY text='・・・'>勝ち筋</RUBY>を持っている！\r\n  Damn! She tricked me! Played me for a fool!\r\n\r\n  I always knew that she had two ways to win. The first was to neutralize me directly: kill me or render me unconscious. But although that method was the most obvious, it also carried the most risk. Safer to simply run out the clock, to keep us busy until the bomb dropped.\r\n\r\n  Part of me assumed that was what she was doing when she chose to avoid the clash of shinogi. She must have been trying to drag out the fight, rather than risk it all on one showdown. A plausible choice, if less aggressive than I'd expect.\r\n\r\n  But I was mistaken. I had missed something vital.\r\n\r\n  She had a㉗<I>third</I>㉒path to victory all along!\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 39953,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs1050a00'>\r\n//「殺す気だ」\r\n\"She's going to kill him!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40097,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs1060a01'>\r\n//《……え？　誰を？》\r\n《Huh? Who!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40249,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs1070a00'>\r\n//「足利邦氏をだ！\r\n//　彼が死ねば、鍛造雷弾投下を阻止する方法\r\n//は無くなる！」\r\n\"Ashikaga Kuniuji! If he dies, there's no way to stop the bomb!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40526,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/048vs1080a01'>\r\n//《……あ……！》\r\n《Ah!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40665,
+  "en": "\r\n//　茶々丸の行く手には天守閣。\r\n//　間違いない。\r\n\r\n//　追わねば！\r\n  She's heading for the keep. We have to stop her!\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40822,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs1090a00'>\r\n//「ッ……!?」\r\n\"!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 40943,
+  "en": "\r\n//　足が崩れる。\r\n//　力が――入らない。\r\n\r\n//　茶々丸の陰義の余韻がまだ残っているのか。\r\n//　それに加えて、電磁擲刀による熱量の消耗が響いて\r\n//いる……!?\r\n\r\n//　これが狙いだったのか!!\r\n//　全ては茶々丸の計算の内か!!\r\n  My knees buckle. My legs won't support me.\r\n\r\n  In addition to the damage from Chachamaru's shinogi, charging up my counterattack has left me severely short of heat.\r\n\r\n  Was this her aim all along!? Was even this a part of her plan!?\r\n\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 41501,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/048vs1100a00'>\r\n//「くっ……おおお!!」\r\n\"Kuh... OHHHH!\"\r\n",
+  "pt": ""
+ }
+]

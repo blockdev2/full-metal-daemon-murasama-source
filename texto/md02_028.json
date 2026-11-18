@@ -1,0 +1,27 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//\tSetFwC('cg/fw/fw茶々丸_通常a.png');\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0280010a07'>\r\n//「何も起きねぇーーーーーーーーーーっ!!」\r\n\"FUCKING SAY SOMETHING!!!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 450,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0280020a14'>\r\n//「実は予想していたが、全く予想の通りとは\r\n//かえって恐れ入ったぞ景明!!」\r\n\"I suspected this might happen, but WELL DONE, KAGEAKI, for following the script to the letter!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 740,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0280030a07'>\r\n//「なんかもう勝てる気しないっす。\r\n//　御姫、次はどうするの？」\r\n\"I'm really starting to doubt our odds here. What's your next idea?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1006,
+  "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0280040a14'>\r\n//「うむ……\r\n//　景明に行動の自由を与え過ぎたことが誤り\r\n//だったのかもしれん」\r\n\"Hmm... I think our mistake was giving Kageaki too much freedom.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1273,
+  "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0280050a07'>\r\n//「つーと？」\r\n\"So...?\"\r\n",
+  "pt": ""
+ }
+]

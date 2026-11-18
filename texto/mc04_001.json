@@ -1,0 +1,357 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010010a06'>\r\n//「邦氏殿下。花枝様。\r\n//　間もなく刻限でございます」\r\n\"My lord. My lady. It's almost time.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 433,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010020b49'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 551,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010030b18'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 669,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010040a06'>\r\n//「どうぞ、お支度を」\r\n\"Please make yourselves ready.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 837,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010050b49'>\r\n//「うむ……」\r\n\"I...\"\r\n\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010060b49'>\r\n//「……」\r\n\"......\"\r\n\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010070b49'>\r\n//「いや、だが……\r\n//　獅子吼よ」\r\n\"Shishiku... I don't...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1229,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010080a06'>\r\n//「殿下。\r\n//　この度の婚約の意義は、既に幾度もご説明\r\n//致しました通り」\r\n\"Your Grace. I've explained the need for this betrothal.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1497,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010090a06'>\r\n//「鎌倉奪還の為、避けられぬ<RUBY text='きざはし'>階</RUBY>でございます」\r\n\"It is the first step toward retaking Kamakura.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1748,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010100b49'>\r\n//「それは……わかっている。\r\n//　わかっているが、」\r\n\"I understand that. It's <br>only...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1956,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010110a06'>\r\n//「おわかりならば、従われませ。\r\n//　殿下は六波羅の――大和の命運を担うべく\r\n//生まれつかれた御方」\r\n\"Then do as I suggest, Your Grace. You were born with a sacred duty to Rokuhara. To Yamato.\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010120a06'>\r\n//「されば己一個の意思などお捨てあれ。\r\n//　何事を決めるにも、偏に国家の利害のみを\r\n//考慮されれば宜しゅうございます」\r\n\"Everything you do must be for the good of the nation. Your own desires are irrelevant.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2655,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010130b49'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2779,
+  "en": "\r\n//【ｅｔｃ／女官】\r\n<voice name='ｅｔｃ／女官' class='その他女声' src='voice/mc04/0010140e123'>\r\n//「し、獅子吼殿。お言葉が過ぎましょうぞ！」\r\n\"General, you go too far!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3000,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010150a06'>\r\n//「……<RUBY text='・・・'>過ぎる</RUBY>？\r\n//　何が過ぎている」\r\n\"...Too far? Too far㉓<I>how,</I> pray tell.\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010160a06'>\r\n//「俺は現実をお話ししているだけだ、<RUBY text='つぼね'>局</RUBY>。\r\n//　それとも貴様は、俺の言葉に嘘偽りが少し\r\n//でもあったと云うのか」\r\n\"I merely speak the truth. Or do you call me a liar?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3575,
+  "en": "\r\n//【ｅｔｃ／女官】\r\n<voice name='ｅｔｃ／女官' class='その他女声' src='voice/mc04/0010170e123'>\r\n//「そ……そうは申しませぬが――」\r\n\"N- No. I would never―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3780,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010180a06'>\r\n//「そうは申さぬ？\r\n//　では俺の言葉が正しいと知りつつ、それを\r\n//曲げて殿下に伝えさせようとしたのか」\r\n\"No? Then you㉓<I>want</I>㉑me to lie, to bend the truth for our lord's ears.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4113,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010190a06'>\r\n//「君側の奸」\r\n\"Traitor.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4248,
+  "en": "\r\n//【ｅｔｃ／女官】\r\n<voice name='ｅｔｃ／女官' class='その他女声' src='voice/mc04/0010200e123'>\r\n//「なっ」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4395,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010210a06'>\r\n//「殿下の御側に侍る資格なし。\r\n//　除けろ」\r\n\"His Grace has ill need of your kind. Remove her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4613,
+  "en": "\r\n//【ｅｔｃ／大鳥兵士Ａ】\r\n<voice name='ｅｔｃ／大鳥兵士Ａ' class='その他男声' src='voice/mc04/0010220e171'>\r\n//「はッ」\r\n\"At once.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4785,
+  "en": "\r\n//【ｅｔｃ／女官】\r\n<voice name='ｅｔｃ／女官' class='その他女声' src='voice/mc04/0010230e123'>\r\n//「で、殿下ぁ！」\r\n\"M- My lord!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4954,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010240b49'>\r\n//「ま――待て！」\r\n\"Shishiku!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5087,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010250a06'>\r\n//「殿下」\r\n\"<I>Your Grace.</I>\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5226,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010260b49'>\r\n//「……っ！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5345,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010270a06'>\r\n//「繰り返し申し上げます。\r\n//　現実をご説明致します」\r\n\"Once again, allow me to explain the realities of your situation.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 5594,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010280a06'>\r\n//「<RUBY text='・・・・'>足利邦氏</RUBY>など、何の価値もない。\r\n//　価値があるのは<RUBY text='げんじのちょうじゃ'>源氏長者</RUBY>であり、竜軍元帥\r\n//であり、<RUBY text='しょうさんみりくえたいしょうりょう'>正三位六衛大将領</RUBY>」\r\n\"Ashikaga Kuniuji is worth <I>nothing.</I>㉔ What Yamato requires is the lord of the Genji, the Rikue Shogun, the supreme commander of the Dragon Army.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6162,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010290a06'>\r\n//「……宜しいか。\r\n//　これより後は何事をなさるにも、この理を\r\n//わきまえられませ」\r\n\"...Do you understand, Your Grace? Then I ask that you conduct yourself <br>accordingly.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6477,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010300b49'>\r\n//「………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6607,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010310a06'>\r\n//「殿下。\r\n//　御命令を」\r\n\"Your orders, my lord.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6771,
+  "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mc04/0010320b49'>\r\n//「……支度をして参る。\r\n//　しばし待て」\r\n\"...I must prepare for the ceremony. Wait here.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 6975,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010330a06'>\r\n//「はッ！」\r\n\"My lord!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7107,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010340b18'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7225,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010350a06'>\r\n//「花枝様も、お願い致します」\r\n\"My lady. If you'd care to make yourself ready...\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7424,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010360b18'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7542,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010370a06'>\r\n//「何か？」\r\n\"Is something the matter?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7690,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010380b18'>\r\n//「<RUBY text='いぬ'>狗畜</RUBY>」\r\n\"Mongrel.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7837,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010390a06'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 7970,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010400a06'>\r\n//「お言葉、承りました。\r\n//　ではお支度を」\r\n\"As you say. Now, if you'll―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8169,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010410b18'>\r\n//「蒙昧」\r\n\"Fool.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8286,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010420a06'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8413,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010430a06'>\r\n//「お気が済まれましたら、どうか控えの間へ。\r\n//　係りの者が花枝様をお待ちしております」\r\n\"If you're finished, your attendants are waiting next door. There's a great deal to―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8734,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010440b18'>\r\n//「うんこ」\r\n\"Bullshit.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 8858,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010450a06'>\r\n//「……………………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9003,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010460b18'>\r\n//「お前の言葉なんてうんこにしか聞こえんわ。\r\n//　うんこうんこうんこうんこうんこうんこ」\r\n\"All I'm hearing outta you is bullshit.<waitVoice=3750> Bullshit bullshit bullshit bullshit bullshit bullshit!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9339,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010470a06'>\r\n//「――<RUBY text='ライアー'>食わせ者め</RUBY>」\r\n\"Demon child!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9520,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010480b18'>\r\n//「……ぐっ……」\r\n\"Guh...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 9651,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010490a06'>\r\n//「貴方様のその、下劣な品性だけは遂に叩き\r\n//直して差し上げられなかった。\r\n//　<RUBY text='せんじょうもの'>僭上者</RUBY>の血は争えぬということか。貴方の\r\n//姉君もそうであられた」\r\n\"I see that not even the best tutors can make a human out of a beast. It must be the kinslayer's blood in you. Your sister was the same.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10144,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010500a06'>\r\n//「<RUBY text='・・・・・'>こんな代物</RUBY>を大君の后に擬さねばならんと\r\n//は……大鳥千年の恥に他ならぬ。\r\n//　全てはこの獅子吼の力が足りなかった故」\r\n\"To think that㉓<I>this</I>㉓is to be my lord's bride... The shame of Otori. My greatest failure.\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010510a06'>\r\n//「どうかお許しあれ、花枝様」\r\n\"Forgive your worthless servant, my lady.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10743,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010520b18'>\r\n//「くっ……ぁ」\r\n\"Kuh...!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 10871,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010530a06'>\r\n//「事が成った暁には……\r\n//　今度こそ、念入りに調教を施し――多少は\r\n//人がましくして差し上げましょう程に」\r\n\"But it's not too late. After the war is won, I'll take personal charge of your <I>education.</I>\" \r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11232,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010540b18'>\r\n//「……っの……！\r\n//　はな、せっ……変態！」\r\n\"Let me㉓<I>go,</I>㉒you sick fuck!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11432,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010550a06'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11559,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010560a06'>\r\n//「ッ！」\r\n\"!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11681,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010570b18'>\r\n//「……ぺっ。\r\n//　狗畜野郎は血も不味い。最低だ」\r\n\"Peh! Even your blood tastes like shit. Dog shit.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 11899,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010580a06'>\r\n//「狗畜すら、無闇に人を噛みはせぬものを。\r\n//　貴方様の性根はよくよく捻じ曲がっている\r\n//らしい」\r\n\"Most dogs know not to bite the hand that feeds them. What does that make you, I wonder.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12235,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010590a06'>\r\n//「だが見限りはせぬ。\r\n//　雄飛様を戴く望みが潰えた以上、大鳥家の\r\n//主は貴方しかいないのだ」\r\n\"But whatever else you are, you're still the last Otori.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12533,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010600b18'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 12651,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010610a06'>\r\n//「いずれは邦氏殿下との間に生まれし御子を\r\n//貰い受けるとしても、<RUBY text='・・'>繋ぎ</RUBY>が要る……。\r\n//　せめてそのくらいは務まるよう矯正させて\r\n//頂く故、覚悟しておかれよ」\r\n\"You can still give Yamato a full-blooded Genji heir... which duty, at least, I intend to make certain you perform adequately. I hope you're ready, Lady Hanae.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13170,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010620b18'>\r\n//「覚悟ならお前がしとけや！\r\n//　いつまでもその首、胴体にくっついてると\r\n//思うなよ」\r\n\"I hope㉒<I>you're</I>㉓ready, fuckface! Don't think I won't see your filthy head roll!\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13480,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010630a06'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13607,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010640b18'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13725,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010650a06'>\r\n//「花枝様をお連れしろ」\r\n\"Prepare her.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 13879,
+  "en": "\r\n//【ｅｔｃ／大鳥兵士Ｂ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｂ' class='その他男声' src='voice/mc04/0010660e172'>\r\n//「は――はッ！」\r\n\"Y- Yes sir!\"\r\n\r\n//【ｅｔｃ／大鳥兵士Ｂ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｂ' class='その他男声' src='voice/mc04/0010670e172'>\r\n//「では御館様、こちらへ……」\r\n\"This way, my lady.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14270,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010680b18'>\r\n//「……」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14388,
+  "en": "\r\n//【ｅｔｃ／大鳥兵士Ｂ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｂ' class='その他男声' src='voice/mc04/0010690e172'>\r\n//「な……何だぁ!?」\r\n\"W- What was that!?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14584,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010700b18'>\r\n//「……爆発……？」\r\n\"...Explosions?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14725,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010710a06'>\r\n//「――――」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 14858,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010720a06'>\r\n//「榴弾砲……だと？」\r\n\"Grenades?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15006,
+  "en": "mc04/0010730e173",
+  "pt": ""
+ },
+ {
+  "offset": 15054,
+  "en": "TO ARMS!",
+  "pt": ""
+ },
+ {
+  "offset": 15099,
+  "en": "WE'RE UNDER ATTACK!",
+  "pt": ""
+ },
+ {
+  "offset": 15126,
+  "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0010740b18'>\r\n//「…………」\r\n\"......\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 15250,
+  "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0010750a06'>\r\n//「……ッッ!!」\r\n\"!\"\r\n",
+  "pt": ""
+ }
+]

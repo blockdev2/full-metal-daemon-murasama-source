@@ -1,0 +1,97 @@
+[
+ {
+  "offset": 218,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/020vs0120a00'>\r\n//「……くっ」\r\n\"...Ngh.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 345,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0130a01'>\r\n//《ちょっと御堂。\r\n//　これじゃ危険よ》\r\n《Um, Mido? Should we be heading into the sun?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 556,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/020vs0140a00'>\r\n//「違う。\r\n//　こうしなくては危険なのだ」\r\n\"It's the only safe direction.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 745,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0150a01'>\r\n//《？　…………あっ。\r\n//　そうね。忘れてた》\r\n《The only... oh, right!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0160a01'>\r\n//《あのぶっといやつ！》\r\n《They've got that thing!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1103,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/020vs0170a00'>\r\n//「敵騎は高速徹甲弾を隠し持っている。\r\n//　ただ逃げては、あれの良い的だ」\r\n\"An HVAP cannon. That weapon can down us with a single shot.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1370,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/020vs0180a00'>\r\n//「背後から撃ち抜かれ、その一発で沈む」\r\n\"And our back will make an excellent target.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1572,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/020vs0190a00'>\r\n//「だが――」\r\n\"However―\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1702,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0200a01'>\r\n//《こうして太陽に向かって<RUBY text='と'>騎航</RUBY>べば、照準を\r\n//合わせにくい。\r\n//　……なるほどね》\r\n《If the sun's in front of us, they'll have a harder time aiming. Makes sense.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2030,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/020vs0210a00'>\r\n//「このまま逃げられそうか？」\r\n\"Are we gaining distance?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2198,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0220a01'>\r\n//《待って》\r\n《One second.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2336,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0230a01'>\r\n//《敵騎、後方五五〇。\r\n//　……なかなか、簡単にはいかないみたいね》\r\n《Range, 550. They're keeping up.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2576,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/020vs0240a00'>\r\n//「速いな……」\r\n\"Problematic.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2711,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0250a01'>\r\n//《向こうは熱量が単純計算で四人分だもの。\r\n//　騎体重量を差し引いてもお釣りがくるんで\r\n//しょ》\r\n《They do have four times the fuel. That's enough to make up for the extra weight and then some.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0260a01'>\r\n//《どうするの？\r\n//　上や側面に回られたら、太陽も関係ないし\r\n//……》\r\n《What's the plan? We'll lose the sun if they get around us...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3316,
+  "en": "\r\n//　振り切れなかったか。\r\n//　しかし、それは予測の範疇。\r\n  So we couldn't shake them. All right. This wasn't unexpected.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3474,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/020vs0270a00'>\r\n//「こちらの体調は回復したな？」\r\n\"Has my condition <br>improved?\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3651,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0280a01'>\r\n//《ええ。\r\n//　熱管理、血流状況、共にさっきよりも改善\r\n//してる》\r\n《Yes. Heat reserves and bloodflow are back to normal levels.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0290a01'>\r\n//《戦闘続行に支障無しよ》\r\n《We're good to fight, Mido!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4080,
+  "en": "\r\n//　不調の原因は、熱量の消耗よりも身体機能の齟齬が\r\n//大きかった。\r\n//　前者は充分な休息を取らねば回復しないが、後者は\r\n//乱れた心身を鎮静させるのみで復旧し得る。\r\n\r\n//　短い戦闘離脱時間を使い、俺はそれに成功していた。\r\n  The energy paucity that endangered us earlier in the fight was not because my heat supply was low, but because my ability to distribute it was disrupted.\r\n\r\n  All I needed was time to restore equilibrium―time that my brief flight from the battle has afforded me in spades.\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4687,
+  "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/020vs0300a00'>\r\n//「ならば反転、応戦する」\r\n\"We turn and fight.\"\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4843,
+  "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/020vs0310a01'>\r\n//《諒解！\r\n//　今度こそ、決着をつけてやりましょう》\r\n《Got it! Let's finish this already!》\r\n",
+  "pt": ""
+ }
+]

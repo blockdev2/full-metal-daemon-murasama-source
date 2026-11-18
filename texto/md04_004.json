@@ -1,0 +1,72 @@
+[
+ {
+  "offset": 213,
+  "en": "\r\n//【ｅｔｃ／監視塔】\r\n<voice name='ｅｔｃ／監視塔' class='その他女声' src='voice/md04/0040010e037'>\r\n//《<RUBY text='てんだいさん'>天台山</RUBY>監視塔より防空本部！\r\n//　未確認飛行物体接近！》\r\n《This is Mount Tendai to Air Defense Headquarters! Unidentified contact on approach!》\r\n\r\n//【ｅｔｃ／監視塔】\r\n<voice name='ｅｔｃ／監視塔' class='その他女声' src='voice/md04/0040020e037'>\r\n//《退去勧告には反応なし。\r\n//　適切な対処を乞う！》\r\n《Contact is unresponsive to hails. Requesting immediate intercept!》\r\n\r\n//【ｅｔｃ／監視塔】\r\n<voice name='ｅｔｃ／監視塔' class='その他女声' src='voice/md04/0040030e037'>\r\n//《波長から物体は飛行艦と推定される。\r\n//　防空本部、対処を乞う！》\r\n《We believe the contact is an enemy airship! Say again, requesting immediate intercept!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1154,
+  "en": "\r\n//【ｅｔｃ／防空隊Ａ】\r\n<voice name='ｅｔｃ／防空隊Ａ' class='その他男声' src='voice/md04/0040040e256'>\r\n//《隊長、二時の方向です！》\r\n《There, sir! Two o'clock!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1367,
+  "en": "\r\n//【ｅｔｃ／防空隊長】\r\n<voice name='ｅｔｃ／防空隊長' class='その他男声' src='voice/md04/0040050e258'>\r\n//《……あれか》\r\n《...I see it.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1550,
+  "en": "\r\n//【ｅｔｃ／防空隊Ａ】\r\n<voice name='ｅｔｃ／防空隊Ａ' class='その他男声' src='voice/md04/0040060e256'>\r\n//《――〝<RUBY text='ガレーキープ'>空の要塞</RUBY>〟!!》\r\n《That's a Galley Keep aerial fortress!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 1808,
+  "en": "\r\n//【ｅｔｃ／防空隊Ｂ】\r\n<voice name='ｅｔｃ／防空隊Ｂ' class='その他男声' src='voice/md04/0040070e257'>\r\n//《こ、これが世界最大の飛行艦か……》\r\n《There's no larger class of airship in the world...》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2062,
+  "en": "\r\n//【ｅｔｃ／防空隊長】\r\n<voice name='ｅｔｃ／防空隊長' class='その他男声' src='voice/md04/0040080e258'>\r\n//《ＧＨＱめ。本気だな。\r\n//　本気で六波羅を潰しに来やがった》\r\n《These bastards are serious. They really mean to wipe us out.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2360,
+  "en": "\r\n//【ｅｔｃ／防空隊Ｂ】\r\n<voice name='ｅｔｃ／防空隊Ｂ' class='その他男声' src='voice/md04/0040090e257'>\r\n//《どうしますか、隊長!?》\r\n《What's the plan, sir?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2566,
+  "en": "\r\n//【ｅｔｃ／防空隊長】\r\n<voice name='ｅｔｃ／防空隊長' class='その他男声' src='voice/md04/0040100e258'>\r\n//《敵騎はあれだけか？》\r\n《Any other contacts?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 2768,
+  "en": "\r\n//【ｅｔｃ／防空隊Ａ】\r\n<voice name='ｅｔｃ／防空隊Ａ' class='その他男声' src='voice/md04/0040110e256'>\r\n//《はッ、一隻のみです。\r\n//　付近に他の反応はありません》\r\n《No, sir. Radar is clear.》\r\n\r\n//【ｅｔｃ／防空隊Ａ】\r\n<voice name='ｅｔｃ／防空隊Ａ' class='その他男声' src='voice/md04/0040120e256'>\r\n//《……もっとも、あいつの腹に竜騎兵の群れ\r\n//が詰まっていないとは思えませんが》\r\n《...Though I bet that thing is just full of dragoons.》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 3333,
+  "en": "\r\n//【ｅｔｃ／防空隊長】\r\n<voice name='ｅｔｃ／防空隊長' class='その他男声' src='voice/md04/0040130e258'>\r\n//《まともに戦うのは無謀だな。\r\n//　しかし、あんなものを普陀楽城に近づける\r\n//わけにはいかん》\r\n《Going toe-to-toe with that monster is risky... but we can't let it through to Fudaraku airspace.》\r\n\r\n//【ｅｔｃ／防空隊長】\r\n<voice name='ｅｔｃ／防空隊長' class='その他男声' src='voice/md04/0040140e258'>\r\n//《一撃離脱の繰り返しで足を止めるぞ。\r\n//　増援が来るまで何としても粘れ！》\r\n《We'll fight a delaying action here. Hit and run only. Hold out until reinforcements arrive!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4055,
+  "en": "\r\n//【ｅｔｃ／防空隊Ｂ】\r\n<voice name='ｅｔｃ／防空隊Ｂ' class='その他男声' src='voice/md04/0040150e257'>\r\n//《了解！》\r\n《Aye sir!》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4228,
+  "en": "\r\n//【ｅｔｃ／防空隊長】\r\n<voice name='ｅｔｃ／防空隊長' class='その他男声' src='voice/md04/0040160e258'>\r\n//《――――何ッッ!?》\r\n《What!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4413,
+  "en": "\r\n//【ｅｔｃ／防空隊Ａ】\r\n<voice name='ｅｔｃ／防空隊Ａ' class='その他男声' src='voice/md04/0040170e256'>\r\n//《こっ……こいつら、何処から!?》\r\n《Where did they come from!?》\r\n",
+  "pt": ""
+ },
+ {
+  "offset": 4636,
+  "en": "\r\n//【ｅｔｃ／防空隊長】\r\n<voice name='ｅｔｃ／防空隊長' class='その他男声' src='voice/md04/0040180e258'>\r\n//《こいつ――糞、あれかッッ》\r\n《Damn! They're fucking―》\r\n\r\n//【ｅｔｃ／防空隊長】\r\n<voice name='ｅｔｃ／防空隊長' class='その他男声' src='voice/md04/0040190e258'>\r\n//《<RUBY text='ステルスドラコ'>隠形竜騎兵</RUBY>!!》\r\n《Stealth dragoons!》\r\n",
+  "pt": ""
+ }
+]
