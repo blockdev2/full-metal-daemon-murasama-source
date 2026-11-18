@@ -112,7 +112,8 @@ class OpenCodeTranslator:
     def _run(self, system: str, prompt: str) -> tuple[int, str, str]:
         req = self.workdir / 'request.md'
         req.write_text(f'{system}\n\n---\n\n{prompt}\n', encoding='utf-8')
-        p = subprocess.run([self.cli, 'run', '-m', self.model, '--archived', '--format', 'json',
+        # --standalone: private server per call, so the OpenCode app does not need to be open
+        p = subprocess.run([self.cli, 'run', '--standalone', '-m', self.model, '--archived', '--format', 'json',
                             '--file', str(req), INSTRUCTION],
                            cwd=self.workdir, capture_output=True, text=True, encoding='utf-8', errors='replace',
                            timeout=self.timeout, stdin=subprocess.DEVNULL, creationflags=_NO_WINDOW)

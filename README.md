@@ -185,7 +185,7 @@ Choose the provider in Settings (`s`). The **Model** list loads from the chosen 
 | **Google Gemini** | An API key | The free tier is very limited, around 20 requests/day on Flash and 500/day on Flash-Lite |
 | **OpenCode** | [OpenCode](https://opencode.ai) installed and signed in | Uses OpenCode's models, including the free ones such as `opencode/deepseek-v4.1-flash-free` |
 
-OpenCode's free models may only be used through OpenCode itself. The tool therefore drives your local `opencode` CLI (`opencode run`) and does not call the API directly. Each request goes in a temp file attached with `--file`. The CLI runs in an empty private folder, so the agent never sees your files. The CLI is found on `PATH`, or in the OpenCode desktop app's `resources\opencode-cli.exe`, or at the path you set in Settings. Free OpenCode models are offered for a limited time, and each has its own data-retention terms (see opencode.ai/docs/zen).
+OpenCode's free models may only be used through OpenCode itself. The tool therefore drives your local `opencode` CLI (`opencode run`) and does not call the API directly. Each request goes in a temp file attached with `--file`. The CLI runs in an empty private folder, so the agent never sees your files. It runs with `--standalone`, so the OpenCode app does not need to be open; it only has to be signed in once. The CLI is found on `PATH`, or in the OpenCode desktop app's `resources\opencode-cli.exe`, or at the path you set in Settings. Free OpenCode models are offered for a limited time, and each has its own data-retention terms (see opencode.ai/docs/zen).
 
 **Which OpenCode model is billed where.** The model's prefix decides who pays, and the Model list labels each one:
 
