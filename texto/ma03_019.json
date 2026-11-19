@@ -2,42 +2,42 @@
  {
   "offset": 213,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190010a00'>\r\n//「……如何ですか？」\r\n\"How does it look?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190010a00'>\r\n//「……如何ですか？」\r\n\"Como está?\"\r\n"
  },
  {
   "offset": 360,
   "en": "\r\n//【ｅｔｃ／メカ】\r\n<voice name='ｅｔｃ／メカ' class='その他男声' src='voice/ma03/0190020e018'>\r\n//「どうにもならんね。\r\n//　タムラさんに持っていって修理して貰わん\r\n//ことには……ここじゃあどうしようもない」\r\n\"It's shot,\" replies the mechanic who was inspecting the damaged Hot Bolt. His answer is about what I expected. \"We'd need a Tamura repair crew to fix this.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／メカ】\r\n<voice name='ｅｔｃ／メカ' class='その他男声' src='voice/ma03/0190020e018'>\r\n//「どうにもならんね。\r\n//　タムラさんに持っていって修理して貰わん\r\n//ことには……ここじゃあどうしようもない」\r\n\"Está destruído\", responde o mecânico que examinava o Hot Bolt danificado. A resposta dele era mais ou menos o que eu esperava. \"Precisaríamos de uma equipe de reparos da Tamura para consertar isso.\"\r\n"
  },
  {
   "offset": 807,
   "en": "\r\n//　ポリスチームのガレージ。\r\n//　破損した騎体――ホットボルトをいじり回していた\r\n//メカニックの返答は、予想と違っていなかった。\r\n\r\n//　周囲には弛緩した様子のレーサー始めスタッフ達。\r\n//　署長から捜査の関係でチームに紛れ込ませていると\r\n//いう話が伝わっているのだろう、俺達に対する不審の\r\n//視線はない。\r\n\r\n//　いや、本当に不審な人物だったとしても、今の彼ら\r\n//にそんな活力があるかどうか。\r\n//　記録をじりじりと伸ばし、一一位に到達、更に上を\r\n//狙い――結果はクラッシュ。\r\n\r\n//　手が届いていた明日の決勝レースを取り落とし、皆、\r\n//徒労感に首まで浸っている様子だった。\r\n//　飯食ったら片付けて引き上げる、とリーダーらしき\r\n//人物が言うのにたるんだ声で応えている。\r\n\r\n//　しかし、これは少々困った事になった。\r\n//　ポリスチームの不運には同情する。が、それはそれ\r\n//だけの事に過ぎない。問題は別にある。\r\n\r\n//　結局、本予選で寄生体を特定する事はできなかった。\r\n//　であれば、まだ使われていない予備騎の中にいるか\r\n//……<RUBY text='ないし'>乃至</RUBY>は何らかの方法で村正の眼を誤魔化している\r\n//と考えられる。\r\n\r\n//　後者は有り得ないと村正は云うが。\r\n//　先日<RUBY text='まみ'>見</RUBY>えた乱破武者――姿を隠し探査機能まで欺瞞\r\n//した怪物にしても、出会うまではまさかそんなものが\r\n//実在するとは思わなかったのだ。\r\n\r\n//　だが巧妙な詐術があの異怪を実現させた。\r\n//　同じような事がまた起きていないという保証は何処\r\n//にも無い。\r\n\r\n//　……村正にしてみれば、銀星号を討つべくして在る\r\n//己が、敵の存在を見定めることすらできないなどとは\r\n//決して認められる話ではないのであろうが。\r\n//　精神論に拘泥しても仕方がない。\r\n\r\n//　しかしひとまずは、まだ確認していない劔冑を疑う\r\n//べきだろう。金銭的に余裕あるチームはアクシデント\r\n//に備えて予備の騎体、予備の騎手を用意する。\r\n//　その中に〝卵〟を持つ者がいても不思議ではない。\r\n\r\n//　そちらの調査を行うためには、ここでポリスチーム\r\n//に帰られてしまうと不都合なのだった。\r\n//　サーキット内に居残る理由が無くなってしまう。\r\n  Around us, the other team members mill about purposelessly. No one seems suspicious of us. They'll have heard from the commissioner that we're here on an investigation.\r\n\r\n  Even if we were complete strangers, though, I doubt anyone could work up the willpower to throw us out. Not after climbing to eleventh place only to get greedy and lose their chance to compete in tomorrow's final.\r\n\r\n  An air of dejection permeates the garage. The team leader announces that they'll be leaving after they eat, to which the crew responds listlessly.\r\n\r\n  This presents something of a problem. A personal one, though I do sympathize with the team's loss.\r\n\r\n  We have not yet located the infected tsurugi, which means that it must be among the spare machines that have not run on the track. Otherwise, I can only assume that the enemy is somehow concealing its true nature from Muramasa.\r\n\r\n  Muramasa assures me that this is impossible. But then, that's what I would have said about an invisible, undetectable tsurugi before I faced Fuma Kotaro the other day.\r\n\r\n  That villainous creature successfully pulled the wool over our eyes. There is no guarantee that our current opponent is any less resourceful.\r\n\r\n  Muramasa will never admit, of course, that she might fail to recognize the very enemy she was forged to destroy, but we don't have the luxury of indulging her pride.\r\n\r\n  That said, for now it does seem appropriate to prioritize any tsurugi that we haven't checked. Teams with a surplus of funding usually have a spare crux and racer on hand in case of accidents. The egg might well be found with one of these pairs.\r\n\r\n  If the police team leaves now, it will throw a wrench in our plans. We need them to justify our presence here.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ポリスチームのガレージ。\r\n//　破損した騎体――ホットボルトをいじり回していた\r\n//メカニックの返答は、予想と違っていなかった。\r\n\r\n//　周囲には弛緩した様子のレーサー始めスタッフ達。\r\n//　署長から捜査の関係でチームに紛れ込ませていると\r\n//いう話が伝わっているのだろう、俺達に対する不審の\r\n//視線はない。\r\n\r\n//　いや、本当に不審な人物だったとしても、今の彼ら\r\n//にそんな活力があるかどうか。\r\n//　記録をじりじりと伸ばし、一一位に到達、更に上を\r\n//狙い――結果はクラッシュ。\r\n\r\n//　手が届いていた明日の決勝レースを取り落とし、皆、\r\n//徒労感に首まで浸っている様子だった。\r\n//　飯食ったら片付けて引き上げる、とリーダーらしき\r\n//人物が言うのにたるんだ声で応えている。\r\n\r\n//　しかし、これは少々困った事になった。\r\n//　ポリスチームの不運には同情する。が、それはそれ\r\n//だけの事に過ぎない。問題は別にある。\r\n\r\n//　結局、本予選で寄生体を特定する事はできなかった。\r\n//　であれば、まだ使われていない予備騎の中にいるか\r\n//……<RUBY text='ないし'>乃至</RUBY>は何らかの方法で村正の眼を誤魔化している\r\n//と考えられる。\r\n\r\n//　後者は有り得ないと村正は云うが。\r\n//　先日<RUBY text='まみ'>見</RUBY>えた乱破武者――姿を隠し探査機能まで欺瞞\r\n//した怪物にしても、出会うまではまさかそんなものが\r\n//実在するとは思わなかったのだ。\r\n\r\n//　だが巧妙な詐術があの異怪を実現させた。\r\n//　同じような事がまた起きていないという保証は何処\r\n//にも無い。\r\n\r\n//　……村正にしてみれば、銀星号を討つべくして在る\r\n//己が、敵の存在を見定めることすらできないなどとは\r\n//決して認められる話ではないのであろうが。\r\n//　精神論に拘泥しても仕方がない。\r\n\r\n//　しかしひとまずは、まだ確認していない劔冑を疑う\r\n//べきだろう。金銭的に余裕あるチームはアクシデント\r\n//に備えて予備の騎体、予備の騎手を用意する。\r\n//　その中に〝卵〟を持つ者がいても不思議ではない。\r\n\r\n//　そちらの調査を行うためには、ここでポリスチーム\r\n//に帰られてしまうと不都合なのだった。\r\n//　サーキット内に居残る理由が無くなってしまう。\r\n  Ao nosso redor, os outros membros da equipe vagam sem propósito. Ninguém parece desconfiar de nós. Devem ter ouvido do comissário que estamos aqui em investigação.\r\n\r\n  Mesmo que fôssemos completos estranhos, duvido que alguém tivesse ânimo para nos expulsar. Não depois de subirem ao décimo primeiro lugar só para, na ganância, perderem a chance de disputar a final de amanhã.\r\n\r\n  Um ar de abatimento permeia a garagem. O líder da equipe anuncia que vão sair depois de comer, e a equipe responde sem entusiasmo.\r\n\r\n  Isso representa um certo problema. Um problema pessoal, embora eu de fato lamente a derrota da equipe.\r\n\r\n  Ainda não localizamos o tsurugi infectado, o que significa que ele deve estar entre as máquinas reservas que não correram na pista. Caso contrário, só posso supor que o inimigo esteja de algum modo ocultando sua verdadeira natureza de Muramasa.\r\n\r\n  Muramasa me garante que isso é impossível. Mas foi exatamente o que eu teria dito sobre um tsurugi invisível e indetectável antes de enfrentar Fuma Kotaro outro dia.\r\n\r\n  Aquela criatura vil conseguiu nos enganar completamente. Não há garantia de que nosso atual oponente seja menos engenhoso.\r\n\r\n  Muramasa jamais admitirá, é claro, que possa falhar em reconhecer justamente o inimigo para cuja destruição foi forjada, mas não temos o luxo de alimentar seu orgulho.\r\n\r\n  Dito isso, por ora parece apropriado priorizar qualquer tsurugi que ainda não verificamos. Equipes com recursos de sobra costumam ter um crux e um piloto reservas à mão em caso de acidentes. Pode muito bem ser que o ovo esteja com um desses pares.\r\n\r\n  Se a equipe da polícia sair agora, isso vai atrapalhar nossos planos. Precisamos deles para justificar nossa presença aqui.\r\n"
  },
  {
   "offset": 5222,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190030a00'>\r\n//「……<RUBY text='Ｔクルス'>練習騎</RUBY>で参戦、という選択肢は無いの\r\n//ですか？」\r\n\"Could you participate in a training crux?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190030a00'>\r\n//「……<RUBY text='Ｔクルス'>練習騎</RUBY>で参戦、という選択肢は無いの\r\n//ですか？」\r\n\"Seria possível participar com um crux de treino?\"\r\n"
  },
  {
   "offset": 5475,
   "en": "\r\n//【ｅｔｃ／メカ】\r\n<voice name='ｅｔｃ／メカ' class='その他男声' src='voice/ma03/0190040e018'>\r\n//「いやあ、持ってきてないよ。\r\n//　うちの練習騎ったら、あれだもの。タムラ\r\n//<RUBY text='アーマー・チャンプ'>の甲王</RUBY>。あんな骨董品、いくらなんでもこの\r\n//大会には出せないでしょ」\r\n\"We didn't bring ours. It's a Tamura Armor Champ, for gods' sakes. No way we can send an antique like that out on the track.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／メカ】\r\n<voice name='ｅｔｃ／メカ' class='その他男声' src='voice/ma03/0190040e018'>\r\n//「いやあ、持ってきてないよ。\r\n//　うちの練習騎ったら、あれだもの。タムラ\r\n//<RUBY text='アーマー・チャンプ'>の甲王</RUBY>。あんな骨董品、いくらなんでもこの\r\n//大会には出せないでしょ」\r\n\"Ah, não trouxemos o nosso. Nosso crux de treino é aquilo, né. Um Tamura Armor Champ, pelo amor de Deus. Não tem como colocar uma antiguidade dessas na pista.\"\r\n"
  },
  {
   "offset": 5990,
   "en": "\r\n//　……戦前の騎体だ。\r\n//　確かに出せない。客の笑いを取りたいなら兎も角。\r\n//その時代の騎体で今も戦えるものと言ったら、翔京の\r\n//傑作<RUBY text='スコルピオ'>蠍星</RUBY>くらいがせいぜいだろう。\r\n  True. A machine of that vintage would serve only to draw the crowd's laughter. Shokyo's Scorpio―widely regarded as a masterpiece―<br>is about the only crux from that era that could still put up a fight.\r\n\r\n//　こうなると、ポリスチームの撤退は避けられそうに\r\n//ない。理由を作って明日まで残るよう頼む事もできる\r\n//が、レースの通念として敗者は速やかに去るのが潔く、\r\n//いつまでも往生際悪く選手<RUBY text='づら'>面</RUBY>で残るのは醜態とされる。\r\n\r\n//　スタッフ達は良い顔をしないだろう。\r\n//　別の方法を探るべきなのかもしれない。\r\n  It looks like the police team has no choice but to leave. I could ask them to come up with a reason to stay, but they wouldn't appreciate that. Defeated teams are traditionally expected to make a graceful exit.\r\n\r\n  I'll have to find another way.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……戦前の騎体だ。\r\n//　確かに出せない。客の笑いを取りたいなら兎も角。\r\n//その時代の騎体で今も戦えるものと言ったら、翔京の\r\n//傑作<RUBY text='スコルピオ'>蠍星</RUBY>くらいがせいぜいだろう。\r\n  Verdade. Uma máquina daquela época só serviria para arrancar risadas do público. O Scorpio de Shokyo ― amplamente considerado uma obra-prima ― é praticamente o único crux daquela era que ainda conseguiria lutar.\r\n\r\n//　こうなると、ポリスチームの撤退は避けられそうに\r\n//ない。理由を作って明日まで残るよう頼む事もできる\r\n//が、レースの通念として敗者は速やかに去るのが潔く、\r\n//いつまでも往生際悪く選手<RUBY text='づら'>面</RUBY>で残るのは醜態とされる。\r\n\r\n//　スタッフ達は良い顔をしないだろう。\r\n//　別の方法を探るべきなのかもしれない。\r\n  Parece que a equipe da polícia não tem escolha senão partir. Eu poderia pedir que arranjassem um motivo para ficar, mas eles não gostariam disso. Por tradição, espera-se que equipes derrotadas se retirem com dignidade.\r\n\r\n  Vou ter que encontrar outro caminho.\r\n"
  },
  {
   "offset": 7194,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190050a02'>\r\n//「湊斗さん、食事調達してきましたっ」\r\n\"I brought food, sir!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190050a02'>\r\n//「湊斗さん、食事調達してきましたっ」\r\n\"Trouxe comida, senhor!\"\r\n"
  },
  {
   "offset": 7368,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190060a00'>\r\n//「有難う」\r\n\"Thank you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190060a00'>\r\n//「有難う」\r\n\"Obrigado.\"\r\n"
  },
  {
   "offset": 7493,
@@ -47,12 +47,12 @@
  {
   "offset": 7624,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190080a03'>\r\n//「あら、ご苦労さま。\r\n//　お茶まであるなんて行き届いたこと」\r\n\"Oh, wonderful. You even brought tea.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190080a03'>\r\n//「あら、ご苦労さま。\r\n//　お茶まであるなんて行き届いたこと」\r\n\"Ora, que maravilha. Você até trouxe chá.\"\r\n"
  },
  {
   "offset": 7857,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190090a04'>\r\n//「細やかな気配りでございます。\r\n//　流石は綾弥さま」\r\n\"Very thoughtful of you, young lady.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190090a04'>\r\n//「細やかな気配りでございます。\r\n//　流石は綾弥さま」\r\n\"Muito atenciosa da sua parte, mocinha.\"\r\n"
  },
  {
   "offset": 8068,
@@ -62,172 +62,172 @@
  {
   "offset": 8345,
   "en": "\r\n//　一条が用意したのは握り飯とパックの緑茶だった。\r\n//　売店で買って来たのだろう。彩りはないが食べ易い。\r\n//この際はそれが有り難かった。成程、彼女は気配りが\r\n//できている。\r\n\r\n//　後で経費で落としておこう。\r\n//　そう思いながら、握り飯を一つ手に取る。\r\n  Ichijo hands us onigiri and canned tea, which I assume came from the racetrack's store. It's hardly a feast, but it's quick and simple, exactly what we need right now. Thoughtful indeed.\r\n\r\n  I'll expense it later, I decide while unwrapping one of the onigiri.\r\n",
-  "pt": ""
+  "pt": "\r\n//　一条が用意したのは握り飯とパックの緑茶だった。\r\n//　売店で買って来たのだろう。彩りはないが食べ易い。\r\n//この際はそれが有り難かった。成程、彼女は気配りが\r\n//できている。\r\n\r\n//　後で経費で落としておこう。\r\n//　そう思いながら、握り飯を一つ手に取る。\r\n  Ichijo nos entrega onigiri e chá em lata, que suponho terem vindo da loja do autódromo. Não é exatamente um banquete, mas é rápido e simples, exatamente o que precisamos agora. Atenciosa, de fato.\r\n\r\n  Vou lançar isso como despesa depois, decido enquanto desembrulho um dos onigiri.\r\n"
  },
  {
   "offset": 8984,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190110a02'>\r\n//「そういやなんか、変な連中がいたな」\r\n\"By the way, there were some strange men roaming the hallways.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190110a02'>\r\n//「そういやなんか、変な連中がいたな」\r\n\"A propósito, tinha uns caras estranhos rondando os corredores.\"\r\n"
  },
  {
   "offset": 9199,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190120a04'>\r\n//「変？」\r\n\"Strange?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190120a04'>\r\n//「変？」\r\n\"Estranhos?\"\r\n"
  },
  {
   "offset": 9319,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190130a03'>\r\n//「というと、ストリーキング集団ですかしら」\r\n\"You mean like streakers?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190130a03'>\r\n//「というと、ストリーキング集団ですかしら」\r\n\"Quer dizer, tipo os streakers?\"\r\n"
  },
  {
   "offset": 9515,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190140a04'>\r\n//「それは迷惑でございますねぇ……」\r\n\"That㉒<I>would</I>㉒be troubling.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190140a04'>\r\n//「それは迷惑でございますねぇ……」\r\n\"Isso㉒<I>seria</I>㉒bastante incômodo, não é...\"\r\n"
  },
  {
   "offset": 9701,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190150a02'>\r\n//「そーいう方向じゃない。\r\n//　なんか、物騒っつーか……殺気立った奴ら\r\n//がその辺をうろうろしてて」\r\n\"That's not what I mean by strange. They seemed kinda dangerous, like they were out for blood.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190150a02'>\r\n//「そーいう方向じゃない。\r\n//　なんか、物騒っつーか……殺気立った奴ら\r\n//がその辺をうろうろしてて」\r\n\"Não é esse tipo de estranho. Eles pareciam meio perigosos, como se estivessem querendo sangue.\"\r\n"
  },
  {
   "offset": 10037,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190160a02'>\r\n//「でも、態度は何気なさそうなんだよな。\r\n//　それが余計に怪しいっつーか」\r\n\"But they seemed almost... casual about it, like it was business as usual. Part of why I thought they were suspicious.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190160a02'>\r\n//「でも、態度は何気なさそうなんだよな。\r\n//　それが余計に怪しいっつーか」\r\n\"Mas eles pareciam quase... tranquilos, como se fosse coisa de rotina. Foi em parte por isso que achei suspeito.\"\r\n"
  },
  {
   "offset": 10360,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190170a03'>\r\n//「気にしすぎではありませんの？\r\n//　今はレースの最中なんですもの。参加者は\r\n//誰しも殺気立ってましてよ」\r\n\"Are you sure you're not overthinking it? We're in the middle of a Grand Prix. Just about everyone's out for blood.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190170a03'>\r\n//「気にしすぎではありませんの？\r\n//　今はレースの最中なんですもの。参加者は\r\n//誰しも殺気立ってましてよ」\r\n\"Tem certeza de que não está pensando demais? Estamos no meio de um Grand Prix. Praticamente todo mundo está querendo sangue.\"\r\n"
  },
  {
   "offset": 10735,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190180a02'>\r\n//「うーん……\r\n//　まぁ、そうなんだろうけどさ」\r\n\"Hmm... I mean, I guess you have a point.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190180a02'>\r\n//「うーん……\r\n//　まぁ、そうなんだろうけどさ」\r\n\"Hmm... Quer dizer, acho que você tem razão.\"\r\n"
  },
  {
   "offset": 10942,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190190a04'>\r\n//「敗退したチームが勝ち残ったチームに嫌が\r\n//らせでもしようとしているのかもしれません。\r\n//　何とも情けない話でございますが、これが\r\n//有り得ない話でも珍しい話でもなく」\r\n\"A defeated team might be looking to cause trouble for one of their victorious rivals. It's rather pathetic, but it happens.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190190a04'>\r\n//「敗退したチームが勝ち残ったチームに嫌が\r\n//らせでもしようとしているのかもしれません。\r\n//　何とも情けない話でございますが、これが\r\n//有り得ない話でも珍しい話でもなく」\r\n\"Talvez uma equipe derrotada esteja querendo arrumar confusão com algum rival vitorioso. É bem patético, mas acontece.\"\r\n"
  },
  {
   "offset": 11411,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190200a03'>\r\n//「でも、大和ではあまり聞きませんねー……\r\n//国民性の違いというものでしょうか。\r\n//　それはさておき、景明さま」\r\n\"Not so much in Yamato, though. Must be a cultural thing.\r\n  Anyway, dear.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190200a03'>\r\n//「でも、大和ではあまり聞きませんねー……\r\n//国民性の違いというものでしょうか。\r\n//　それはさておき、景明さま」\r\n\"Mas em Yamato não se ouve muito isso... Deve ser diferença de mentalidade nacional.\r\n  Enfim, meu caro.\"\r\n"
  },
  {
   "offset": 11754,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190210a00'>\r\n//「はい、大尉殿」\r\n\"Yes, Captain?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190210a00'>\r\n//「はい、大尉殿」\r\n\"Sim, Capitã?\"\r\n"
  },
  {
   "offset": 11891,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190220a03'>\r\n//「これからどうなさいますの？」\r\n\"What do we do now?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190220a03'>\r\n//「これからどうなさいますの？」\r\n\"O que faremos agora?\"\r\n"
  },
  {
   "offset": 12063,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190230a00'>\r\n//「自分もそれを考えていたところでした」\r\n\"I was just considering that very question.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190230a00'>\r\n//「自分もそれを考えていたところでした」\r\n\"Eu estava justamente pensando nisso.\"\r\n"
  },
  {
   "offset": 12262,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190240a02'>\r\n//「あたしたち、ポリスチームの人間ってこと\r\n//になってるんですよね。\r\n//　この人たちが帰ると、あたしたちがここに\r\n//いる理由もなくなっちゃうわけですか」\r\n\"We're supposed to be police team members, right? If they leave, don't we lose our reason to stay?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190240a02'>\r\n//「あたしたち、ポリスチームの人間ってこと\r\n//になってるんですよね。\r\n//　この人たちが帰ると、あたしたちがここに\r\n//いる理由もなくなっちゃうわけですか」\r\n\"Nós deveríamos ser membros da equipe da polícia, certo? Se eles forem embora, não perdemos o motivo de ficar?\"\r\n"
  },
  {
   "offset": 12678,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190250a00'>\r\n//「そういう事になる。\r\n//　事前に想定はしていた事態だ。が……今日\r\n//中に標的を発見して今日中に決着をつければ\r\n//良いだけの話だと考えていた」\r\n\"Exactly. I knew this might happen, but I was also optimistic that we would locate the target today and be done with it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190250a00'>\r\n//「そういう事になる。\r\n//　事前に想定はしていた事態だ。が……今日\r\n//中に標的を発見して今日中に決着をつければ\r\n//良いだけの話だと考えていた」\r\n\"Exatamente. Eu sabia que isso poderia acontecer, mas também estava otimista de que localizaríamos o alvo hoje e acabaríamos com isso.\"\r\n"
  },
  {
   "offset": 13101,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190260a00'>\r\n//「この目論見は既に崩壊している。不覚にも、\r\n//本予選が終了した現時点においていまだ敵の\r\n//特定に至っていない。\r\n//　決着には今夜中を、或いは明日まで要する」\r\n\"That turned out to be an unrealistic expectation. Much to my surprise, the preliminary has ended without any sign of the enemy. We will need tonight, and possibly tomorrow, to complete the mission.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190270a00'>\r\n//「従ってもう暫く、この参加者専用の区画に\r\n//留まる為の名目が必要だ」\r\n\"It will be necessary for us to retain access to the racers' quarter.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190260a00'>\r\n//「この目論見は既に崩壊している。不覚にも、\r\n//本予選が終了した現時点においていまだ敵の\r\n//特定に至っていない。\r\n//　決着には今夜中を、或いは明日まで要する」\r\n\"Essa expectativa se mostrou irrealista. Para minha surpresa, a eliminatória terminou sem qualquer sinal do inimigo. Precisaremos desta noite, e talvez de amanhã, para concluir a missão.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190270a00'>\r\n//「従ってもう暫く、この参加者専用の区画に\r\n//留まる為の名目が必要だ」\r\n\"Será necessário mantermos o acesso à área reservada aos participantes.\"\r\n"
  },
  {
   "offset": 13886,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190280a03'>\r\n//「意外に難題ではないかしら。\r\n//　決勝前ともなれば皆さんピリピリしていら\r\n//っしゃるでしょうし、そうなるといい加減な\r\n//嘘は通用しそうにありません」\r\n\"That might be difficult. Everyone's going to be on edge for the final. I doubt we can just bluff our way through.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190280a03'>\r\n//「意外に難題ではないかしら。\r\n//　決勝前ともなれば皆さんピリピリしていら\r\n//っしゃるでしょうし、そうなるといい加減な\r\n//嘘は通用しそうにありません」\r\n\"Isso pode ser difícil. Todos vão estar tensos para a final. Duvido que possamos simplesmente blefar.\"\r\n"
  },
  {
   "offset": 14324,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190290a04'>\r\n//「スタッフをよく観察して、あわよくば予備\r\n//用の劔冑まで見せて頂こうというのですから、\r\n//ねぇ。\r\n//　れっきとした立場が欲しい所でございます」\r\n\"Especially if we are to observe their staff and even ask to see their spare cruxes. We'll need a solid background.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190290a04'>\r\n//「スタッフをよく観察して、あわよくば予備\r\n//用の劔冑まで見せて頂こうというのですから、\r\n//ねぇ。\r\n//　れっきとした立場が欲しい所でございます」\r\n\"Especialmente se pretendemos observar a equipe e até pedir para ver os cruxes reservas. Vamos precisar de uma posição sólida.\"\r\n"
  },
  {
   "offset": 14745,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190300a00'>\r\n//「全くに。\r\n//　その意味でポリスチームの人間という立場\r\n//は理想的だったのですが……」\r\n\"Yes. Affiliating ourselves with the police team was the ideal solution.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190300a00'>\r\n//「全くに。\r\n//　その意味でポリスチームの人間という立場\r\n//は理想的だったのですが……」\r\n\"Sem dúvida. Nesse sentido, a posição de membros da equipe da polícia era ideal...\"\r\n"
  },
  {
   "offset": 15041,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190310a00'>\r\n//「参加者なので行動はほぼ自由。\r\n//　加えるに優勝を狙える強豪というわけでも\r\n//なく、他のチームの警戒心もさほどには刺激\r\n//しません」\r\n\"As participants, we have nearly unrestricted freedom of movement, and as we are not contenders for the crown, other teams don't consider us a threat.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190310a00'>\r\n//「参加者なので行動はほぼ自由。\r\n//　加えるに優勝を狙える強豪というわけでも\r\n//なく、他のチームの警戒心もさほどには刺激\r\n//しません」\r\n\"Como participantes, temos liberdade de movimento quase irrestrita e, como não somos candidatos ao título, as outras equipes não nos veem como ameaça.\"\r\n"
  },
  {
   "offset": 15482,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190320a04'>\r\n//「まこと、その通りでございますね。\r\n//　どうにかして、ここな警察の方々に明日の\r\n//決勝へ参戦して頂く方法はないものでしょう\r\n//か」\r\n\"It would be a shame to give that up. Is there no way to ensure that the police team competes in tomorrow's <br>final?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190320a04'>\r\n//「まこと、その通りでございますね。\r\n//　どうにかして、ここな警察の方々に明日の\r\n//決勝へ参戦して頂く方法はないものでしょう\r\n//か」\r\n\"Seria uma pena abrir mão disso. Não haveria algum modo de garantir que a equipe da polícia dispute a final de amanhã?\"\r\n"
  },
  {
   "offset": 15888,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190330a02'>\r\n//「……気合と根性と、あと努力と友情でなん\r\n//とかしてもらう？」\r\n\"Can this be solved with spirit, guts, hard work, and friendship?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190330a02'>\r\n//「……気合と根性と、あと努力と友情でなん\r\n//とかしてもらう？」\r\n\"E se a gente resolver isso na base do espírito, da garra, do esforço e da amizade?\"\r\n"
  },
  {
   "offset": 16143,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190340a00'>\r\n//「現実的ではないな。\r\n//　却下」\r\n\"Not likely. Let's try a more realistic approach.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190340a00'>\r\n//「現実的ではないな。\r\n//　却下」\r\n\"Não é realista. Rejeitado.\"\r\n"
  },
  {
   "offset": 16337,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190350a03'>\r\n//「困りましたね……」\r\n\"Quite the dilemma...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0190350a03'>\r\n//「困りましたね……」\r\n\"Que dilema...\"\r\n"
  },
  {
   "offset": 16496,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190360a07'>\r\n//「なーに、簡単簡単。\r\n//　お兄さんが出ればいいんだにゃー」\r\n\"Nah, it's simple!㉓<I>You</I> compete!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190360a07'>\r\n//「なーに、簡単簡単。\r\n//　お兄さんが出ればいいんだにゃー」\r\n\"Nada disso, é simples!㉓<I>Você</I> é que devia competir!\"\r\n"
  },
  {
   "offset": 16729,
   "en": "\r\n//　突然の声に振り返ると、そこには印象的な少年――\r\n//いや、少女か――の佇む姿。\r\n//　にこにこと上機嫌で俺の顔を覗き込んでいる。\r\n\r\n//　周囲のスタッフから視線が集まる。\r\n//　が、声は上がらない。\r\n\r\n//　少女の肩の貴賓証は彼らの立場上無視できるもので\r\n//はない筈だが、余りに急のことでどう対応したものか\r\n//わからないのだろう。\r\n//　少女本人に気にした様子はない。\r\n  I turn to see a striking boy―<br>no, girl―grinning up at me.\r\n\r\n  The crew members stare at the newcomer, but no one says a word. The VIP badge on her shoulder demands some sort of welcome, but they have yet to recover from the shock of her arrival. She doesn't seem to mind.\r\n",
-  "pt": ""
+  "pt": "\r\n//　突然の声に振り返ると、そこには印象的な少年――\r\n//いや、少女か――の佇む姿。\r\n//　にこにこと上機嫌で俺の顔を覗き込んでいる。\r\n\r\n//　周囲のスタッフから視線が集まる。\r\n//　が、声は上がらない。\r\n\r\n//　少女の肩の貴賓証は彼らの立場上無視できるもので\r\n//はない筈だが、余りに急のことでどう対応したものか\r\n//わからないのだろう。\r\n//　少女本人に気にした様子はない。\r\n  Viro-me ao ouvir a voz repentina e vejo um garoto marcante ― não, uma garota ― sorrindo para mim.\r\n\r\n  Os membros da equipe encaram a recém-chegada, mas ninguém diz uma palavra. O distintivo de convidado VIP em seu ombro exige algum tipo de recepção, mas eles ainda não se recuperaram do choque da chegada. Ela não parece se importar.\r\n"
  },
  {
   "offset": 17545,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190370a00'>\r\n//「――ライガーさん。\r\n//　今晩は。またお会いできた事を嬉しく思い\r\n//ます」\r\n\"Miss Liger. It's a pleasure to see you again.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190370a00'>\r\n//「――ライガーさん。\r\n//　今晩は。またお会いできた事を嬉しく思い\r\n//ます」\r\n\"Senhorita Liger. É um prazer revê-la.\"\r\n"
  },
  {
   "offset": 17797,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190380a07'>\r\n//「はーい、こんばんは、お兄さん。あなたの\r\n//ライガーですよー。\r\n//　赤い糸がどーとかこーとか的にまた会って\r\n//しまいましたねー？」\r\n\"That's right, big bro! It's me, your favorite Liger. What a coincidence meeting you here. We must have one of those red string things going on.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190380a07'>\r\n//「はーい、こんばんは、お兄さん。あなたの\r\n//ライガーですよー。\r\n//　赤い糸がどーとかこーとか的にまた会って\r\n//しまいましたねー？」\r\n\"Isso mesmo, mano! Sou eu, a sua Liger favorita. Que coincidência te encontrar aqui. A gente deve ter algum daqueles negócios de fio vermelho.\"\r\n"
  },
  {
   "offset": 18238,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190390a00'>\r\n//「……失礼。\r\n//　来賓の方とお見受け致しますが、ご紹介を\r\n//頂いても宜しくありましょうか」\r\n\"We're honored to have a VIP visit our garage. If you don't mind, could we please have your name?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190400a00'>\r\n//「自分は湊斗景明と申します」\r\n\"I am Minato Kageaki.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190390a00'>\r\n//「……失礼。\r\n//　来賓の方とお見受け致しますが、ご紹介を\r\n//頂いても宜しくありましょうか」\r\n\"É uma honra receber a visita de uma convidada VIP em nossa garagem. Se não se importar, poderia nos dizer seu nome?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190400a00'>\r\n//「自分は湊斗景明と申します」\r\n\"Eu sou Minato Kageaki.\"\r\n"
  },
  {
   "offset": 18719,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190410a07'>\r\n//「うむ、苦しゅうない。\r\n//　あちしは<RUBY text='ダンガンライガー'>弾丸雷虎</RUBY>を名乗るしがない荒野の\r\n//放浪者といった風情の者である」\r\n\"No need for formalities. I'm Bullet Liger. You could say I'm a wanderer in this wasteland we call life.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190410a07'>\r\n//「うむ、苦しゅうない。\r\n//　あちしは<RUBY text='ダンガンライガー'>弾丸雷虎</RUBY>を名乗るしがない荒野の\r\n//放浪者といった風情の者である」\r\n\"Não precisa de formalidades. Eu sou a Bullet Liger. Digamos que sou uma andarilha neste deserto que chamamos de vida.\"\r\n"
  },
  {
   "offset": 19122,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190420a07'>\r\n//「ライガーと呼ぶがよい！」\r\n\"You may call me Liger!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190420a07'>\r\n//「ライガーと呼ぶがよい！」\r\n\"Pode me chamar de Liger!\"\r\n"
  },
  {
   "offset": 19292,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190430a00'>\r\n//「諒解しました。\r\n//　ライガーさん」\r\n\"A pleasure to meet you, Miss Liger.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190430a00'>\r\n//「諒解しました。\r\n//　ライガーさん」\r\n\"É um prazer conhecê-la, senhorita Liger.\"\r\n"
  },
  {
   "offset": 19479,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190440a02'>\r\n//「らいがー？」\r\n\"Liger?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190440a02'>\r\n//「らいがー？」\r\n\"Liger?\"\r\n"
  },
  {
   "offset": 19606,
@@ -242,267 +242,267 @@
  {
   "offset": 19875,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190470a07'>\r\n//「おうおうおう。そっちはお兄さんのツレか。\r\n//　じゃああんたらにも改めまして自己紹介を」\r\n\"Oh-ho? You three must be his lackeys. Lemme get your names too.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190470a07'>\r\n//「おうおうおう。そっちはお兄さんのツレか。\r\n//　じゃああんたらにも改めまして自己紹介を」\r\n\"Ora, ora. Então vocês três devem ser os capangas do mano. Deixa eu saber seus nomes também.\"\r\n"
  },
  {
   "offset": 20177,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190480a02'>\r\n//「あ？　ああ……。\r\n//　あたしは――」\r\n\"Huh? Oh, right. I'm―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190480a02'>\r\n//「あ？　ああ……。\r\n//　あたしは――」\r\n\"Hã? Ah, é... Eu sou ―\"\r\n"
  },
  {
   "offset": 20354,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190490a07'>\r\n//「と思ったけどまぁいいやたりーし。\r\n//　ぶっちゃけマイ視点だと君らまとめてその\r\n//他大勢、一パック三〇円くらいの商品なので\r\n//かなり本気でどうでも良い」\r\n\"Actually, forget it. From where I'm standing, the rest of you are bargain bin tier. Y'know, about thirty yen a pack. So you'll have to excuse me if I don't give a rat's ass who you are or aren't.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190490a07'>\r\n//「と思ったけどまぁいいやたりーし。\r\n//　ぶっちゃけマイ視点だと君らまとめてその\r\n//他大勢、一パック三〇円くらいの商品なので\r\n//かなり本気でどうでも良い」\r\n\"Na verdade, deixa pra lá. Do meu ponto de vista, vocês todos são categoria de liquidação. Tipo, uns trinta ienes o pacote. Então me desculpem se eu não dou a mínima para quem vocês são ou deixam de ser.\"\r\n"
  },
  {
   "offset": 20880,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190500a07'>\r\n//「というわけで、本題に入りまーす」\r\n\"Moving on!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190500a07'>\r\n//「というわけで、本題に入りまーす」\r\n\"Então, vamos ao que interessa!\"\r\n"
  },
  {
   "offset": 21050,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190510a02'>\r\n//「……湊斗さん。\r\n//　やにわにすっげえムカつきます。こいつ」\r\n\"Sir, I think I'm about to burst a blood vessel.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190510a02'>\r\n//「……湊斗さん。\r\n//　やにわにすっげえムカつきます。こいつ」\r\n\"Senhor, acho que vou estourar uma veia.\"\r\n"
  },
  {
   "offset": 21285,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190520a00'>\r\n//「我慢しろ」\r\n\"Contain yourself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190520a00'>\r\n//「我慢しろ」\r\n\"Contenha-se.\"\r\n"
  },
  {
   "offset": 21420,
   "en": "\r\n//　としか言いようがない。\r\n  What else can I say?\r\n",
-  "pt": ""
+  "pt": "\r\n//　としか言いようがない。\r\n  O que mais eu poderia dizer?\r\n"
  },
  {
   "offset": 21494,
   "en": "\r\n//　ライガー女史はつかつかと、破損した騎体のもとへ\r\n//歩いてゆく。気圧された風で退くメカニックには全く\r\n//構わず、甲鉄へ手を触れさせた。\r\n//　軽く叩いてから、耳を押し当てる。\r\n  Liger strides up to the damaged crux. The mechanic scurries to get out of her way, but she pays him no mind.\r\n\r\n  She places her hand on the armor, then raps it once with her knuckles and presses her ear against the fuselage.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ライガー女史はつかつかと、破損した騎体のもとへ\r\n//歩いてゆく。気圧された風で退くメカニックには全く\r\n//構わず、甲鉄へ手を触れさせた。\r\n//　軽く叩いてから、耳を押し当てる。\r\n  Liger avança a passos largos até o crux danificado. O mecânico se apressa em sair do caminho dela, mas ela não lhe dá a menor atenção.\r\n\r\n  Ela põe a mão sobre a blindagem, bate uma vez com os nós dos dedos e encosta o ouvido na fuselagem.\r\n"
  },
  {
   "offset": 21989,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190530a07'>\r\n//「ああ、駄目だねこりゃ」\r\n\"Yeah, he's done for.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190530a07'>\r\n//「ああ、駄目だねこりゃ」\r\n\"É, esse aí já era.\"\r\n"
  },
  {
   "offset": 22154,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190540a00'>\r\n//「お分かりですか」\r\n\"You can tell?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190540a00'>\r\n//「お分かりですか」\r\n\"Você consegue perceber?\"\r\n"
  },
  {
   "offset": 22294,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190550a07'>\r\n//「サスがやられてる。\r\n//　あとシャフトがひん曲がってて、駆動系の\r\n//ギヤが一個脱落。デフも割れたな」\r\n\"The suspension is shot. You've also got a bent driveshaft, a loose gear, and a cracked differential.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190550a07'>\r\n//「サスがやられてる。\r\n//　あとシャフトがひん曲がってて、駆動系の\r\n//ギヤが一個脱落。デフも割れたな」\r\n\"A suspensão foi pro espaço. Tem também um eixo de transmissão torto, uma engrenagem solta e um diferencial rachado.\"\r\n"
  },
  {
   "offset": 22649,
   "en": "\r\n//　メカニックが絶句した。\r\n//　………無理もない。少女の指摘は先刻、彼がチーム\r\n//リーダーに提出し俺も覗かせて貰った被害状況報告を\r\n//端的に要約したも同然。\r\n\r\n//　熟練のメカニックと同じ結論に、一瞬で。\r\n  The mechanic gapes, and no wonder. She just summed up the very report that he made a few minutes ago.\r\n\r\n  This girl needed only a second to reach the same conclusion as a seasoned professional.\r\n",
-  "pt": ""
+  "pt": "\r\n//　メカニックが絶句した。\r\n//　………無理もない。少女の指摘は先刻、彼がチーム\r\n//リーダーに提出し俺も覗かせて貰った被害状況報告を\r\n//端的に要約したも同然。\r\n\r\n//　熟練のメカニックと同じ結論に、一瞬で。\r\n  O mecânico fica boquiaberto, e não é para menos. Ela acabou de resumir exatamente o relatório que ele entregara alguns minutos antes.\r\n\r\n  Essa garota precisou de apenas um segundo para chegar à mesma conclusão que um profissional experiente.\r\n"
  },
  {
   "offset": 23152,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190560a00'>\r\n//「……ご慧眼です。\r\n//　我々も先程、メーカー修理に出さねばどう\r\n//にもなるまいと結論しておりました」\r\n\"...You are most perceptive. We were just discussing how we'll need to send it to the maker for repairs.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190560a00'>\r\n//「……ご慧眼です。\r\n//　我々も先程、メーカー修理に出さねばどう\r\n//にもなるまいと結論しておりました」\r\n\"...Sua percepção é notável. Estávamos justamente concluindo que teremos de enviá-lo ao fabricante para reparos.\"\r\n"
  },
  {
   "offset": 23501,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190570a07'>\r\n//「うんにゃ。\r\n//　出しても駄目だよ」\r\n\"Sorry. That's not gonna cut it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190570a07'>\r\n//「うんにゃ。\r\n//　出しても駄目だよ」\r\n\"Sinto muito. Mas isso não vai resolver.\"\r\n"
  },
  {
   "offset": 23693,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190580a00'>\r\n//「……とは？」\r\n\"What do you mean?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190580a00'>\r\n//「……とは？」\r\n\"Como assim?\"\r\n"
  },
  {
   "offset": 23831,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190590a07'>\r\n//「中枢の<RUBY text='フレーム'>骨格</RUBY>が歪んでる。\r\n//　これはどう頑張っても直せない」\r\n\"The central frame is warped. There's no way to fix it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190590a07'>\r\n//「中枢の<RUBY text='フレーム'>骨格</RUBY>が歪んでる。\r\n//　これはどう頑張っても直せない」\r\n\"A estrutura central está empenada. Não há como consertar.\"\r\n"
  },
  {
   "offset": 24115,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190600a07'>\r\n//「……もうトシなのさ。\r\n//　これ、レーサークルスとしてはありえねー\r\n//くらい大事に大事に長く長く使い続けてきた\r\n//んだろ？」\r\n\"His age just caught up with him. I can tell he's been in service for a goddamn eternity. Y'all really took good care of him, huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190600a07'>\r\n//「……もうトシなのさ。\r\n//　これ、レーサークルスとしてはありえねー\r\n//くらい大事に大事に長く長く使い続けてきた\r\n//んだろ？」\r\n\"A idade finalmente o alcançou. Dá pra ver que ele está em serviço há uma eternidade dos infernos. Vocês cuidaram muito bem dele, hein?\"\r\n"
  },
  {
   "offset": 24533,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190610a00'>\r\n//「そこまでおわかりになるのですか？\r\n//　触れただけで……」\r\n\"You can tell that from a single touch?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190610a00'>\r\n//「そこまでおわかりになるのですか？\r\n//　触れただけで……」\r\n\"Você consegue perceber isso só de tocar?\"\r\n"
  },
  {
   "offset": 24756,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190620a07'>\r\n//「ライガーですから。\r\n//　や、触っただけじゃわからんけどね。<RUBY text='・'>音</RUBY>を\r\n//聞けば大体のとこは<RUBY text='・・・'>見えて</RUBY>しまうのです」\r\n\"What's a Liger for?\r\n  Actually, I can't tell much with just a touch. If I㉓<I>listen,</I> though, I can㉓<i>see</I>㉓just about anything.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190620a07'>\r\n//「ライガーですから。\r\n//　や、触っただけじゃわからんけどね。<RUBY text='・'>音</RUBY>を\r\n//聞けば大体のとこは<RUBY text='・・・'>見えて</RUBY>しまうのです」\r\n\"Pra que serve uma Liger?\"\r\n  \"Na verdade, não dá pra perceber muita coisa só com o toque. Mas se eu㉓<I>escutar,</I> consigo㉓<i>ver</I>㉓quase tudo.\"\r\n"
  },
  {
   "offset": 25215,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190630a00'>\r\n//「音……？」\r\n\"...Listen?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190630a00'>\r\n//「音……？」\r\n\"...Escutar?\"\r\n"
  },
  {
   "offset": 25343,
   "en": "\r\n//　随分と、不思議な話を聞いているように思える。\r\n//　近くで会話を耳に挟んでいる人々も狐につままれた\r\n//表情だ。\r\n  I'm not sure what to make of this statement. The crew members within earshot also appear thoroughly confused.\r\n",
-  "pt": ""
+  "pt": "\r\n//　随分と、不思議な話を聞いているように思える。\r\n//　近くで会話を耳に挟んでいる人々も狐につままれた\r\n//表情だ。\r\n  Não sei bem o que pensar dessa afirmação. Os membros da equipe que ouvem a conversa também parecem completamente confusos.\r\n"
  },
  {
   "offset": 25631,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190640a07'>\r\n//「つーわけでさ、こいつもう休ませてやって\r\n//くんない？\r\n//　これ以上無理に使うと背骨がボキッといっ\r\n//ちゃうから」\r\n\"So let the old guy rest, will ya? Push him any harder and he's gonna snap in half.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190640a07'>\r\n//「つーわけでさ、こいつもう休ませてやって\r\n//くんない？\r\n//　これ以上無理に使うと背骨がボキッといっ\r\n//ちゃうから」\r\n\"Então deixa o velho descansar, tá? Se forçar mais, ele vai quebrar no meio.\"\r\n"
  },
  {
   "offset": 25987,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190650a00'>\r\n//「は……」\r\n\"I see...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190650a00'>\r\n//「は……」\r\n\"Entendo...\"\r\n"
  },
  {
   "offset": 26110,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190660a07'>\r\n//「お疲れ、兄弟」\r\n\"Sleep well, brother.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190660a07'>\r\n//「お疲れ、兄弟」\r\n\"Durma bem, irmão.\"\r\n"
  },
  {
   "offset": 26263,
   "en": "\r\n//　兜に軽く口付けして、そこから離れる少女。\r\n//　唖然としているメカニックらを置き去りにこちらへ\r\n//戻ってくる。\r\n  She plants a soft kiss on the crux's helmet, then walks back to us, leaving the flabbergasted crewmen behind.\r\n",
-  "pt": ""
+  "pt": "\r\n//　兜に軽く口付けして、そこから離れる少女。\r\n//　唖然としているメカニックらを置き去りにこちらへ\r\n//戻ってくる。\r\n  Ela dá um beijo leve no elmo do crux e depois volta até nós, deixando para trás os mecânicos atônitos.\r\n"
  },
  {
   "offset": 26551,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190670a07'>\r\n//「お兄さん」\r\n\"Anyway, big bro.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190670a07'>\r\n//「お兄さん」\r\n\"Enfim, mano.\"\r\n"
  },
  {
   "offset": 26694,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190680a00'>\r\n//「はい」\r\n\"Yes?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190680a00'>\r\n//「はい」\r\n\"Sim?\"\r\n"
  },
  {
   "offset": 26810,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190690a07'>\r\n//「あての言いたいことはわかってると思う」\r\n\"I think you know what I'm getting at.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190690a07'>\r\n//「あての言いたいことはわかってると思う」\r\n\"Acho que você sabe aonde eu quero chegar.\"\r\n"
  },
  {
   "offset": 27016,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190700a00'>\r\n//「わかりません」\r\n\"I'm afraid not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190700a00'>\r\n//「わかりません」\r\n\"Receio que não.\"\r\n"
  },
  {
   "offset": 27155,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190710a07'>\r\n//「よろしい。ヒトは常に自分の知性に対して\r\n//謙虚でなくてはならないのだ。\r\n//　その謙虚さを持つ人間だけが、契約金〇円\r\n//という売り文句に騙されなくて済むゆえに」\r\n\"That's good. You should never put too much faith in your own intelligence. A man who thinks himself foolish will never exercise poor judgment just because they told him 'no signup <br>fee.'㉑\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190710a07'>\r\n//「よろしい。ヒトは常に自分の知性に対して\r\n//謙虚でなくてはならないのだ。\r\n//　その謙虚さを持つ人間だけが、契約金〇円\r\n//という売り文句に騙されなくて済むゆえに」\r\n\"Isso é bom. Nunca se deve confiar demais na própria inteligência. Só o homem que se reconhece tolo jamais fará um julgamento ruim só porque lhe disseram 'sem taxa de adesão.'㉑\"\r\n"
  },
  {
   "offset": 27690,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190720a07'>\r\n//「つまりお兄さんは月々の使用料や解約手数\r\n//料をちゃんと確認するだけの慎重さを示した\r\n//といえよう。\r\n//　これはあてにとって大変喜ばしい事である」\r\n\"In other words, you've just proven yourself careful enough to check the monthly usage and cancellation fees before signing. This pleases me immensely.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190720a07'>\r\n//「つまりお兄さんは月々の使用料や解約手数\r\n//料をちゃんと確認するだけの慎重さを示した\r\n//といえよう。\r\n//　これはあてにとって大変喜ばしい事である」\r\n\"Em outras palavras, você acaba de provar que é cuidadoso o bastante para verificar a taxa de uso mensal e a multa de cancelamento antes de assinar. Isso me agrada imensamente.\"\r\n"
  },
  {
   "offset": 28162,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190730a00'>\r\n//「恐縮です」\r\n\"I'm honored.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190730a00'>\r\n//「恐縮です」\r\n\"Fico lisonjeado.\"\r\n"
  },
  {
   "offset": 28292,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190740a02'>\r\n//「……通じ合ってるのか？　この会話」\r\n\"...Are they making sense to each other?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0190740a02'>\r\n//「……通じ合ってるのか？　この会話」\r\n\"...Eles estão se entendendo?\"\r\n"
  },
  {
   "offset": 28485,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190750a04'>\r\n//「当のご本人がたが気にしていないのなら、\r\n//まあ問題はないのではありますまいかと」\r\n\"Well, they seem content to carry on this way. Let's not butt in.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0190750a04'>\r\n//「当のご本人がたが気にしていないのなら、\r\n//まあ問題はないのではありますまいかと」\r\n\"Bem, eles parecem satisfeitos em continuar assim. Melhor não nos intrometermos.\"\r\n"
  },
  {
   "offset": 28770,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190760a07'>\r\n//「だが戦士よ！\r\n//　その謙虚さを臆病さにつなげることなかれ。\r\n//何故なら好奇心は猫を殺し寂しさはウサギを\r\n//殺し臆病さはライオンを殺す」\r\n\"And yet, warrior! Let not your modesty lead you into cowardice! Remember that while curiosity killed the cat and loneliness the rabbit, it was cowardice that slew the lion!\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190770a07'>\r\n//「緑色の都でもらえる一〇〇％勇気汁でどう\r\n//にかなる問題ではない！　あれはプラシーボ！\r\n//つーか本物だったらもっと駄目だ多分法的に。\r\n//　よってあては告げねばならぬ。湊斗景明！」\r\n\"This is not a problem that can be solved with the 100% liquid courage you can find in the Emerald City. That's just a placebo! Besides, if it were real, we'd have a serious drug problem on our hands! So heed my words, Minato Kageaki!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190760a07'>\r\n//「だが戦士よ！\r\n//　その謙虚さを臆病さにつなげることなかれ。\r\n//何故なら好奇心は猫を殺し寂しさはウサギを\r\n//殺し臆病さはライオンを殺す」\r\n\"Mas escute, guerreiro! Não deixe que sua modéstia o leve à covardia! Lembre-se: a curiosidade matou o gato e a solidão matou o coelho, mas foi a covardia que matou o leão!\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190770a07'>\r\n//「緑色の都でもらえる一〇〇％勇気汁でどう\r\n//にかなる問題ではない！　あれはプラシーボ！\r\n//つーか本物だったらもっと駄目だ多分法的に。\r\n//　よってあては告げねばならぬ。湊斗景明！」\r\n\"Não é um problema que se resolva com a coragem líquida 100% que se encontra na Cidade Esmeralda. Aquilo é só um placebo! E, sinceramente, se fosse de verdade, provavelmente teríamos um sério problema de drogas nas mãos. Portanto, preciso lhe dizer, Minato Kageaki!\"\r\n"
  },
  {
   "offset": 29844,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190780a00'>\r\n//「はい」\r\n\"All right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190780a00'>\r\n//「はい」\r\n\"Tudo bem.\"\r\n"
  },
  {
   "offset": 29966,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190790a07'>\r\n//「運命の時は来た!!」\r\n\"The moment of fate has come!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190790a07'>\r\n//「運命の時は来た!!」\r\n\"Chegou o momento do destino!\"\r\n"
  },
  {
   "offset": 30132,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190800a00'>\r\n//「は」\r\n\"I see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190800a00'>\r\n//「は」\r\n\"Entendo.\"\r\n"
  },
  {
   "offset": 30247,
   "en": "\r\n//　運命が来たらしい。\r\n  Earlier than I expected.\r\n",
-  "pt": ""
+  "pt": "\r\n//　運命が来たらしい。\r\n  Mais cedo do que eu esperava.\r\n"
  },
  {
   "offset": 30319,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190810a07'>\r\n//「今こそ戦いの荒海へ乗り出すべし！\r\n//　必要な<RUBY text='チカラ'>劔冑</RUBY>はあてが用意する！」\r\n\"It's time you took to the storm-tossed seas of battle! I will grant you the means to realize your destiny!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190810a07'>\r\n//「今こそ戦いの荒海へ乗り出すべし！\r\n//　必要な<RUBY text='チカラ'>劔冑</RUBY>はあてが用意する！」\r\n\"Chegou a hora de você se lançar ao mar tempestuoso da batalha! Eu lhe darei os meios para realizar seu destino!\"\r\n"
  },
  {
   "offset": 30667,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190820a00'>\r\n//「ちから？」\r\n\"Realize my destiny?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190820a00'>\r\n//「ちから？」\r\n\"Realizar meu destino?\"\r\n"
  },
  {
   "offset": 30804,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190830a07'>\r\n//「そっちの声だけ聞いてどーするの。\r\n//　魂言語は<RUBY text='サラウンド'>多重音声</RUBY>だったりすることが多い\r\n//からちゃんと全部聞きなさい。今のは劔冑と\r\n//書いてチカラと読む感じの表現なのです」\r\n\"I mean I'll give you a tsurugi, ya big dummy. Haven't you ever heard of a figure of speech?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190830a07'>\r\n//「そっちの声だけ聞いてどーするの。\r\n//　魂言語は<RUBY text='サラウンド'>多重音声</RUBY>だったりすることが多い\r\n//からちゃんと全部聞きなさい。今のは劔冑と\r\n//書いてチカラと読む感じの表現なのです」\r\n\"Quero dizer que vou te dar um tsurugi, seu grandessíssimo idiota. Nunca ouviu falar em força de expressão?\"\r\n"
  },
  {
   "offset": 31280,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190840a00'>\r\n//「成程。\r\n//　つまり、どういう事ですか」\r\n\"Understood. So... what are you saying, exactly?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190840a00'>\r\n//「成程。\r\n//　つまり、どういう事ですか」\r\n\"Entendi. Então... o que exatamente você está dizendo?\"\r\n"
  },
  {
   "offset": 31485,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190850a07'>\r\n//「レース出ない？」\r\n\"Wanna race?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190850a07'>\r\n//「レース出ない？」\r\n\"Quer correr?\"\r\n"
  },
  {
   "offset": 31632,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190860a00'>\r\n//「はぁ」\r\n\"Ah.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190860a00'>\r\n//「はぁ」\r\n\"Ah.\"\r\n"
  },
  {
   "offset": 31747,
   "en": "\r\n//　……そこで冒頭の発言に戻るわけか。\r\n  So that's what she was getting at.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……そこで冒頭の発言に戻るわけか。\r\n  Então era a isso que ela queria chegar.\r\n"
  },
  {
   "offset": 31853,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190870a07'>\r\n//「あてが劔冑を用意する。\r\n//　お兄さんがそれを使って出場する」\r\n\"I'll provide the tsurugi. You use it to race.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190880a07'>\r\n//「そーすればポリスチームはリタイヤせんで\r\n//済むってことですね」\r\n\"That way, the police team won't have to retire.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190870a07'>\r\n//「あてが劔冑を用意する。\r\n//　お兄さんがそれを使って出場する」\r\n\"Eu forneço o tsurugi. Você usa ele para correr.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190880a07'>\r\n//「そーすればポリスチームはリタイヤせんで\r\n//済むってことですね」\r\n\"Assim a equipe da polícia não precisa se retirar.\"\r\n"
  },
  {
   "offset": 32340,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190890a00'>\r\n//「……疑問が多々ありますが、まず一つ。\r\n//　正規の騎手を差し置いて自分が出る理由が\r\n//ありません」\r\n\"...I see several problems with this scenario. First, there is no reason for me to fly instead of the team's designated racer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190890a00'>\r\n//「……疑問が多々ありますが、まず一つ。\r\n//　正規の騎手を差し置いて自分が出る理由が\r\n//ありません」\r\n\"...Vejo vários problemas nessa ideia. Primeiro, não há motivo para eu pilotar no lugar do piloto oficial da equipe.\"\r\n"
  },
  {
   "offset": 32708,
   "en": "\r\n//　ポリスチームの騎手は今日参戦して事故を起こした\r\n//彼、一人だけだ。\r\n//　しかし健在である。\r\n\r\n//　多少の怪我は負ったものの、劔冑に比べれば無傷に\r\n//等しい。\r\n  The police team only has one pilot, the same one who crashed in the preliminary. His injuries, while not negligible, are nothing compared to the damage sustained by his tsurugi. He can still race.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ポリスチームの騎手は今日参戦して事故を起こした\r\n//彼、一人だけだ。\r\n//　しかし健在である。\r\n\r\n//　多少の怪我は負ったものの、劔冑に比べれば無傷に\r\n//等しい。\r\n  A equipe da polícia tem só um piloto, o mesmo que caiu nas preliminares. Seus ferimentos, embora não sejam desprezíveis, não são nada comparados aos danos sofridos por seu tsurugi. Ele ainda pode correr.\r\n"
  },
  {
   "offset": 33150,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190900a07'>\r\n//「怪我人は寝かせとく方向でどうよ。\r\n//　だいたい、万全の<RUBY text='ハシリ'>騎航</RUBY>ができる状態じゃあ\r\n//ないんでない？　体は平気でも中身はわから\r\n//ないよ？　事故った直後のレーサーってのは」\r\n\"You wanna send a wounded man out on the track? And like, even if his injuries are nothing serious, he still might not be in any shape to race, y'know? Pilots tend to be a little shaky after they've had a crash.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190900a07'>\r\n//「怪我人は寝かせとく方向でどうよ。\r\n//　だいたい、万全の<RUBY text='ハシリ'>騎航</RUBY>ができる状態じゃあ\r\n//ないんでない？　体は平気でも中身はわから\r\n//ないよ？　事故った直後のレーサーってのは」\r\n\"Você quer mandar um ferido para a pista? E tipo, mesmo que os ferimentos não sejam graves, ele pode não estar em condições de correr, sabe? Pilotos costumam ficar meio abalados depois de uma batida.\"\r\n"
  },
  {
   "offset": 33745,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190910a00'>\r\n//「それは……確かにそうです。\r\n//　しかしそもそも<RUBY text='レーサー'>騎手</RUBY>ではない自分よりは」\r\n\"Well... that's true. But I'm not even an armor racer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190910a00'>\r\n//「それは……確かにそうです。\r\n//　しかしそもそも<RUBY text='レーサー'>騎手</RUBY>ではない自分よりは」\r\n\"Bem... isso é verdade. Mas eu nem sou um corredor de armadura.\"\r\n"
  },
  {
   "offset": 34037,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190920a07'>\r\n//「あれ？　お兄さんレーサーじゃないのん？\r\n//　あてはてっきりポリスのセカンドレーサー\r\n//だとばっかり思ってたんだけど」\r\n\"Oh, you're not? I was sure you were the team's backup.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190920a07'>\r\n//「あれ？　お兄さんレーサーじゃないのん？\r\n//　あてはてっきりポリスのセカンドレーサー\r\n//だとばっかり思ってたんだけど」\r\n\"Ah, não é? Eu tinha certeza de que você era o reserva da equipe.\"\r\n"
  },
  {
   "offset": 34373,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190930a07'>\r\n//「その筋肉の付きかた。\r\n//　水泳選手によく似たバランスで、要所要所\r\n//の<RUBY text='・・'>太さ</RUBY>がちょっと違う……」\r\n\"It's the shape of your body. You've got a build like a swimmer, with muscle in just the right places.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190940a07'>\r\n//「劔冑使いにしか見えねんだけどにゃー？」\r\n\"You sure look like a tsurugi pilot to lil' ol' me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190930a07'>\r\n//「その筋肉の付きかた。\r\n//　水泳選手によく似たバランスで、要所要所\r\n//の<RUBY text='・・'>太さ</RUBY>がちょっと違う……」\r\n\"É o formato do seu corpo. Você tem uma estrutura de nadador, com músculos exatamente nos lugares certos.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190940a07'>\r\n//「劔冑使いにしか見えねんだけどにゃー？」\r\n\"Para esta pequena aqui, você tem toda a cara de um piloto de tsurugi.\"\r\n"
  },
  {
   "offset": 34961,
@@ -512,92 +512,92 @@
  {
   "offset": 35079,
   "en": "\r\n//　ホットボルトの故障具合を瞬間で見抜いた少女だ。\r\n//　劔冑という特殊な道具を扱う人間の、確かにあるの\r\n//であろう特徴を看破できても不思議がるには値しない。\r\n\r\n//　俺が騎手ではないのはただの事実だが……\r\n//　迂闊に否定して、じゃあ何故？　などと探られては\r\n//墓穴を掘る。\r\n\r\n//　慎重な受け答えが必要だ。\r\n  It's not surprising that she would be familiar with the peculiar physical attributes that tsurugi pilots possess, given that she has just demonstrated an intimate familiarity with tsurugi themselves.\r\n\r\n  I merely spoke the truth about my not being a racer... but it would be foolish to deny it further. How would I then explain sharing those attributes?\r\n\r\n  I must proceed with caution here.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ホットボルトの故障具合を瞬間で見抜いた少女だ。\r\n//　劔冑という特殊な道具を扱う人間の、確かにあるの\r\n//であろう特徴を看破できても不思議がるには値しない。\r\n\r\n//　俺が騎手ではないのはただの事実だが……\r\n//　迂闊に否定して、じゃあ何故？　などと探られては\r\n//墓穴を掘る。\r\n\r\n//　慎重な受け答えが必要だ。\r\n  Não é de surpreender que ela conheça os atributos físicos peculiares que os pilotos de tsurugi possuem, já que acabou de demonstrar familiaridade íntima com os próprios tsurugi.\r\n\r\n  Eu apenas disse a verdade ao afirmar que não sou corredor... mas seria tolice negar mais. Como eu explicaria então possuir esses mesmos atributos?\r\n\r\n  Preciso agir com cautela aqui.\r\n"
  },
  {
   "offset": 35926,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190960a00'>\r\n//「……レーサーではありませんが。\r\n//　過去にその真似事のようなことをしていた\r\n//経験はあります」\r\n\"...I'm not a racer, but I have had experience flying racing cruxes in the past.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190960a00'>\r\n//「……レーサーではありませんが。\r\n//　過去にその真似事のようなことをしていた\r\n//経験はあります」\r\n\"...Não sou corredor, mas já tive experiência pilotando cruxes de corrida no passado.\"\r\n"
  },
  {
   "offset": 36245,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190970a07'>\r\n//「ほうほう。つーと、どっかの会社でテスト\r\n//ユーザーでもやってた？」\r\n\"Oh? So you were a test pilot or something?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0190970a07'>\r\n//「ほうほう。つーと、どっかの会社でテスト\r\n//ユーザーでもやってた？」\r\n\"Ah? Então você era piloto de teste ou algo assim?\"\r\n"
  },
  {
   "offset": 36496,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190980a00'>\r\n//「はい。\r\n//　甲府のとある企業がレースへの参入を企画\r\n//した際に雇われて……結局、その企業の経営\r\n//悪化で企画は頓挫したのですが」\r\n\"Yes. I was hired by a company in Kofu that was planning its racing debut. Unfortunately, they were forced to abandon those plans after falling on hard times.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190990a00'>\r\n//「小規模のレースになら数度、参加しました」\r\n\"I was able to participate in a few minor races before things went south.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190980a00'>\r\n//「はい。\r\n//　甲府のとある企業がレースへの参入を企画\r\n//した際に雇われて……結局、その企業の経営\r\n//悪化で企画は頓挫したのですが」\r\n\"Sim. Fui contratado por uma empresa de Kofu que planejava sua estreia nas corridas. Infelizmente, foram forçados a abandonar esses planos depois de enfrentar dificuldades financeiras.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0190990a00'>\r\n//「小規模のレースになら数度、参加しました」\r\n\"Consegui participar de algumas corridas menores antes de tudo desandar.\"\r\n"
  },
  {
   "offset": 37169,
   "en": "\r\n//　……完全な嘘ではない。多分に脚色はしているが。\r\n//　今と同じように銀星号の痕跡を追っていた昨年の夏、\r\n//調査のため、テストユーザー募集に応募する形である\r\n//企業へ潜入したという事は――確かに、あった。\r\n  This is not a lie, though I have embellished it somewhat. In the summer of last year, my pursuit of Ginseigo led me to infiltrate just such a company as a test pilot.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……完全な嘘ではない。多分に脚色はしているが。\r\n//　今と同じように銀星号の痕跡を追っていた昨年の夏、\r\n//調査のため、テストユーザー募集に応募する形である\r\n//企業へ潜入したという事は――確かに、あった。\r\n  Isso não é mentira, embora eu tenha embelezado um pouco. No verão do ano passado, minha perseguição ao Ginseigo me levou a me infiltrar numa empresa dessas como piloto de teste.\r\n"
  },
  {
   "offset": 37650,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191000a07'>\r\n//「なんだ。\r\n//　んじゃ何も問題ないね」\r\n\"So there's no problem.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191000a07'>\r\n//「なんだ。\r\n//　んじゃ何も問題ないね」\r\n\"Então não há problema nenhum.\"\r\n"
  },
  {
   "offset": 37836,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191010a00'>\r\n//「いえ非常に多く存在します。\r\n//　まず劔冑が――」\r\n\"There are many problems. First, our tsurugi is―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191010a00'>\r\n//「いえ非常に多く存在します。\r\n//　まず劔冑が――」\r\n\"Há muitos problemas. Primeiro, nosso tsurugi é―\"\r\n"
  },
  {
   "offset": 38058,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191020a07'>\r\n//「あてが用意するってばさ。\r\n//　個人的に造らせたサンダーボルトの<RUBY text='ハイチューン'>上位騎</RUBY>、\r\n//その名も〝<RUBY text='テラ・ブリンガー'>恐怖の運び屋</RUBY>〟。四翼ダンパーに\r\n//フルベア仕様の、健気に成長した可愛い子よ」\r\n\"I said I'd take care of that. I've got a Thunderbolt I tuned myself. Name's Terror Bringer. 4W dambers and full bearings. You couldn't ask for a sweeter ride.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191020a07'>\r\n//「あてが用意するってばさ。\r\n//　個人的に造らせたサンダーボルトの<RUBY text='ハイチューン'>上位騎</RUBY>、\r\n//その名も〝<RUBY text='テラ・ブリンガー'>恐怖の運び屋</RUBY>〟。四翼ダンパーに\r\n//フルベア仕様の、健気に成長した可愛い子よ」\r\n\"Eu disse que cuido disso. Tenho um Thunderbolt que eu mesma ajustei. O nome é Terror Bringer. Amortecedores 4W e rolamentos completos. Não dá para pedir uma máquina mais doce.\"\r\n"
  },
  {
   "offset": 38646,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191030a07'>\r\n//「……あのアベンジとかいう無茶苦茶な新型\r\n//さえ出てこなけりゃ、タムラの主役になって\r\n//いたかもしれないんですよ？」\r\n\"If not for that crazy Avenger thing stealing the show, she might've been Tamura's ace-in-the-hole.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191030a07'>\r\n//「……あのアベンジとかいう無茶苦茶な新型\r\n//さえ出てこなけりゃ、タムラの主役になって\r\n//いたかもしれないんですよ？」\r\n\"Se não fosse aquela loucura do Avenger roubando a cena, ela poderia ter sido o ás na manga de Tamura.\"\r\n"
  },
  {
   "offset": 39023,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191040a00'>\r\n//「はぁ」\r\n\"I see...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191040a00'>\r\n//「はぁ」\r\n\"Entendo...\"\r\n"
  },
  {
   "offset": 39143,
   "en": "\r\n//　なんだか複雑そうだ。\r\n  She seems to have mixed feelings about it.\r\n",
-  "pt": ""
+  "pt": "\r\n//　なんだか複雑そうだ。\r\n  Parece que ela tem sentimentos ambíguos sobre isso.\r\n"
  },
  {
   "offset": 39236,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191050a07'>\r\n//「そいつを貸し出すからさ。\r\n//　これでいいでしょ？」\r\n\"I'll lend it to you. Problem solved.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191050a07'>\r\n//「そいつを貸し出すからさ。\r\n//　これでいいでしょ？」\r\n\"Vou te emprestar. Problema resolvido.\"\r\n"
  },
  {
   "offset": 39457,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191060a00'>\r\n//「しかし、自分には保証金を支払う能力が」\r\n\"But I haven't the means to pay for insurance.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191060a00'>\r\n//「しかし、自分には保証金を支払う能力が」\r\n\"Mas não tenho como pagar o seguro.\"\r\n"
  },
  {
   "offset": 39662,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191070a07'>\r\n//「いらないいらない。そんなの。\r\n//　好きに使って、好きにぶっ壊してくれりゃ\r\n//いいから」\r\n\"Eh, don't sweat it. You can use it, break it, it's all good.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191070a07'>\r\n//「いらないいらない。そんなの。\r\n//　好きに使って、好きにぶっ壊してくれりゃ\r\n//いいから」\r\n\"Ah, não se preocupe com isso. Use como quiser, quebre como quiser, tá tudo bem.\"\r\n"
  },
  {
   "offset": 39959,
   "en": "\r\n//　……札束の海にライターで火をつけるような事を、\r\n//少女はあっさりと告げた。\r\n//　どうやら家は相当な資産家であるらしい。\r\n  ...She speaks of setting fire to a veritable ocean of money.\r\n  Her family must be quite wealthy.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……札束の海にライターで火をつけるような事を、\r\n//少女はあっさりと告げた。\r\n//　どうやら家は相当な資産家であるらしい。\r\n  ...Ela fala de atear fogo a um verdadeiro oceano de dinheiro.\r\n  A família dela deve ser bastante rica.\r\n"
  },
  {
   "offset": 40250,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191080a00'>\r\n//「そもそも自分は騎手として登録されており\r\n//ませんので……」\r\n\"And I'm not even registered as a racer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191080a00'>\r\n//「そもそも自分は騎手として登録されており\r\n//ませんので……」\r\n\"E eu nem sequer estou registrado como corredor.\"\r\n"
  },
  {
   "offset": 40477,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191090a07'>\r\n//「どうにかするよ。\r\n//　今夜のうちに」\r\n\"I'll take care of that tonight.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191090a07'>\r\n//「どうにかするよ。\r\n//　今夜のうちに」\r\n\"Eu resolvo isso hoje à noite.\"\r\n"
  },
  {
   "offset": 40672,
   "en": "\r\n//　……横車を押すというよりもターボジェットで吹き\r\n//飛ばすような事を、少女はあっさりと告げた。\r\n//　どうやら家は相当な権力者でもあるらしい。\r\n  ...She speaks of imposing her will upon the racing commission with all the grace and subtlety of a sledgehammer.\r\n  Her family must be quite influential, as well.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……横車を押すというよりもターボジェットで吹き\r\n//飛ばすような事を、少女はあっさりと告げた。\r\n//　どうやら家は相当な権力者でもあるらしい。\r\n  ...Ela fala de impor sua vontade à comissão de corridas com toda a graça e sutileza de uma marreta.\r\n  A família dela também deve ser bastante influente.\r\n"
  },
  {
   "offset": 41058,
@@ -607,37 +607,37 @@
  {
   "offset": 41182,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191110a07'>\r\n//「万事オッケー？」\r\n\"We good?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191110a07'>\r\n//「万事オッケー？」\r\n\"Tudo certo?\"\r\n"
  },
  {
   "offset": 41326,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0191120a03'>\r\n//「お待ちくださいまし。\r\n//　わたくしからも少々、構いませんかしら」\r\n\"A moment, please. I have a question if you don't mind.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0191120a03'>\r\n//「お待ちくださいまし。\r\n//　わたくしからも少々、構いませんかしら」\r\n\"Um momento, por favor. Poderia me permitir uma pequena pergunta?\"\r\n"
  },
  {
   "offset": 41586,
   "en": "\r\n//　返す言葉に窮した俺に代わって、少女に相対したの\r\n//は大鳥大尉だった。\r\n//　何処とはなし、微妙なものを漂わせた表情。距離の\r\n//取り方も微妙だった。何かを間に挟むようなスタンス。\r\n  Captain Otori speaks up just as I am searching for a reply. There is something strange about her expression, and about the distance she keeps from Liger―as though she were trying to put an invisible barrier between them.\r\n\r\n//　……そういえば、少女が現れて以来、大尉は沈黙を\r\n//通していた。\r\n//　不自然なほど。\r\n  Come to think of it, she hasn't said a word since the girl appeared. Such pronounced reticence is unlike her.\r\n",
-  "pt": ""
+  "pt": "\r\n//　返す言葉に窮した俺に代わって、少女に相対したの\r\n//は大鳥大尉だった。\r\n//　何処とはなし、微妙なものを漂わせた表情。距離の\r\n//取り方も微妙だった。何かを間に挟むようなスタンス。\r\n  A capitã Otori se pronuncia bem quando eu procuro uma resposta. Há algo estranho em sua expressão, e na distância que ela mantém de Liger―como se tentasse erguer uma barreira invisível entre as duas.\r\n\r\n//　……そういえば、少女が現れて以来、大尉は沈黙を\r\n//通していた。\r\n//　不自然なほど。\r\n  Pensando bem, ela não disse uma palavra desde que a garota apareceu. Um silêncio tão acentuado não é próprio dela.\r\n"
  },
  {
   "offset": 42325,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191130a07'>\r\n//「なにかな？\r\n//　まったく面識のないおねーさん」\r\n\"What might that be, lady I've never seen before in my life?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191130a07'>\r\n//「なにかな？\r\n//　まったく面識のないおねーさん」\r\n\"E o que seria, senhora que eu nunca vi na vida?\"\r\n"
  },
  {
   "offset": 42563,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0191140a03'>\r\n//「……ごく簡単なことです。ライガーさん。\r\n//　どうして、そこまで肩入れなさいますの？\r\n//<RUBY text='・・・・'>あなたが</RUBY>」\r\n\"A simple question, Miss Liger. Why would㉔<I>you</I> go so far to help us?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0191140a03'>\r\n//「……ごく簡単なことです。ライガーさん。\r\n//　どうして、そこまで肩入れなさいますの？\r\n//<RUBY text='・・・・'>あなたが</RUBY>」\r\n\"Uma pergunta simples, senhorita Liger. Por que㉔<I>você</I> iria tão longe para nos ajudar?\"\r\n"
  },
  {
   "offset": 42923,
   "en": "\r\n//　質問もまた、微妙なものを孕んでいた――特に最後\r\n//の一語に込められたアクセントが――と感じたのは、\r\n//錯覚だろうか。\r\n  Is it just my imagination that her question, too, seems to carry certain overtones?\r\n\r\n//　少なくとも、少女は何も窺わせなかった。\r\n//　その微妙さに応えるようなものは何も。\r\n  Either way, the girl shows no sign that she has detected any veiled meaning in the captain's words.\r\n",
-  "pt": ""
+  "pt": "\r\n//　質問もまた、微妙なものを孕んでいた――特に最後\r\n//の一語に込められたアクセントが――と感じたのは、\r\n//錯覚だろうか。\r\n  É só impressão minha que a pergunta dela também parece carregar certas entrelinhas?\r\n\r\n//　少なくとも、少女は何も窺わせなかった。\r\n//　その微妙さに応えるようなものは何も。\r\n  De todo modo, a garota não demonstra ter detectado qualquer sentido velado nas palavras da capitã.\r\n"
  },
  {
   "offset": 43427,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191150a07'>\r\n//「そりゃ、ポリスチームにリタイヤされたく\r\n//ないから。\r\n//　決まってんじゃん？」\r\n\"Because I don't want the police team to retire, of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191150a07'>\r\n//「そりゃ、ポリスチームにリタイヤされたく\r\n//ないから。\r\n//　決まってんじゃん？」\r\n\"Porque eu não quero que a equipe da polícia se retire, ora essa.\"\r\n"
  },
  {
   "offset": 43710,
@@ -647,17 +647,17 @@
  {
   "offset": 43837,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191170a07'>\r\n//「この大会、翔京とタムラの争いが、つまり\r\n//は装甲競技賭博化推進派と反対派の争いだっ\r\n//つーことについては、今更くだくだしい説明\r\n//なんていらんよね？」\r\n\"This race is a showdown between Shokyo and Tamura. In other words, between those for and against legalized gambling. But you know that already, don't you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191170a07'>\r\n//「この大会、翔京とタムラの争いが、つまり\r\n//は装甲競技賭博化推進派と反対派の争いだっ\r\n//つーことについては、今更くだくだしい説明\r\n//なんていらんよね？」\r\n\"Esta corrida é um confronto entre Shokyo e Tamura. Em outras palavras, entre os a favor e os contra a legalização das apostas. Mas você já sabe disso, não sabe?\"\r\n"
  },
  {
   "offset": 44322,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191180a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191180a00'>\r\n//「はい」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 44438,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191190a07'>\r\n//「で、あては反対派。\r\n//　あての<RUBY text='・・'>周り</RUBY>には賛成派の連中もいるけどね。\r\n//ま、知ったこっちゃーない」\r\n\"Well, I'm against. Can't say the same for some of my colleagues, but the hell with 'em, right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191190a07'>\r\n//「で、あては反対派。\r\n//　あての<RUBY text='・・'>周り</RUBY>には賛成派の連中もいるけどね。\r\n//ま、知ったこっちゃーない」\r\n\"Bem, eu sou contra. Não posso dizer o mesmo de alguns colegas meus, mas que se danem, né?\"\r\n"
  },
  {
   "offset": 44808,
@@ -667,17 +667,17 @@
  {
   "offset": 44935,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191210a07'>\r\n//「せっかくのレースをカネ臭いもんにしたく\r\n//ないこっちとしちゃあ、反対派に勝ってもら\r\n//わんと困るわけでありますよ。\r\n//　ところが決勝進出二〇チームを見てみると」\r\n\"I don't want armor racing to be all about the money. Which means I need an 'against' team to win.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191210a07'>\r\n//「せっかくのレースをカネ臭いもんにしたく\r\n//ないこっちとしちゃあ、反対派に勝ってもら\r\n//わんと困るわけでありますよ。\r\n//　ところが決勝進出二〇チームを見てみると」\r\n\"Eu não quero que as corridas de armadura sejam só uma questão de dinheiro. O que significa que preciso que uma equipe 'contra' vença.\"\r\n"
  },
  {
   "offset": 45378,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191220a07'>\r\n//「反対派って呼べるのは二位のタムラと一一\r\n//位のポリスだけ。後はみーんな推進派か、で\r\n//なけりゃ中立。\r\n//　これでポリスまで抜けたら完全孤立だ」\r\n\"Unfortunately, out of the twenty teams in tomorrow's final, only Tamura in second place and the police team in eleventh are openly against. Everyone else is either for or neutral. Cops can't support gambling, of course, so that makes you Tamura's only ally.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191220a07'>\r\n//「反対派って呼べるのは二位のタムラと一一\r\n//位のポリスだけ。後はみーんな推進派か、で\r\n//なけりゃ中立。\r\n//　これでポリスまで抜けたら完全孤立だ」\r\n\"Infelizmente, das vinte equipes na final de amanhã, só Tamura, em segundo lugar, e a equipe da polícia, em décimo primeiro, são declaradamente contra. Todo o resto é a favor ou neutro. A polícia não pode apoiar o jogo, é claro, então isso faz de vocês o único aliado de Tamura.\"\r\n"
  },
  {
   "offset": 45954,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191230a07'>\r\n//「立場上、賭博化に賛成するわけにゃぁいか\r\n//ない警察だけがタムラの唯一の味方だったっ\r\n//てーのにさ。\r\n//　テコ入れしたくもなろうってもんでしょ？」\r\n\"So if you drop out, that leaves them all alone out there. You can see why I'd want to give you a hand.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191230a07'>\r\n//「立場上、賭博化に賛成するわけにゃぁいか\r\n//ない警察だけがタムラの唯一の味方だったっ\r\n//てーのにさ。\r\n//　テコ入れしたくもなろうってもんでしょ？」\r\n\"Então, se vocês desistirem, eles ficam sozinhos lá. Dá pra ver por que eu quero dar uma força.\"\r\n"
  },
  {
   "offset": 46378,
@@ -687,7 +687,7 @@
  {
   "offset": 46502,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0191250a02'>\r\n//「なんでさ。\r\n//　要はタムラがトップを取ればいいんだろ？\r\n//仲間がいるかどうかなんて、そんなに重要な\r\n//ことか？」\r\n\"Why? All you need is for Tamura to win, right? What difference does it make who else is out there with them?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0191250a02'>\r\n//「なんでさ。\r\n//　要はタムラがトップを取ればいいんだろ？\r\n//仲間がいるかどうかなんて、そんなに重要な\r\n//ことか？」\r\n\"Por quê? Basta que Tamura vença, certo? Que diferença faz quem mais está lá com eles?\"\r\n"
  },
  {
   "offset": 46875,
@@ -697,206 +697,206 @@
  {
   "offset": 47008,
   "en": "\r\n//　少女は両手の掌を肩の高さで天井へ向けた後、首の\r\n//左右運動をし、最後にフフンと笑った。\r\n//　視線は斜め三〇度ほどの角度で一条を刺している。\r\n  Liger lifts her hands to the height of her shoulders, palms held facing the ceiling, before proceeding to shake her head back and forth. She finishes off with a snort and a condescending gaze from a thirty-degree up-angle.\r\n",
-  "pt": ""
+  "pt": "\r\n//　少女は両手の掌を肩の高さで天井へ向けた後、首の\r\n//左右運動をし、最後にフフンと笑った。\r\n//　視線は斜め三〇度ほどの角度で一条を刺している。\r\n  Liger ergue as mãos na altura dos ombros, com as palmas voltadas para o teto, e então começa a balançar a cabeça de um lado para o outro. Termina com um bufado e um olhar condescendente, de baixo para cima, num ângulo de trinta graus.\r\n"
  },
  {
   "offset": 47454,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0191270a02'>\r\n//「湊斗さん。\r\n//　あたし、こいつと同じ天の下で生きていく\r\n//自信がありません」\r\n\"Sir, I don't think this planet is big enough for the both of us.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0191270a02'>\r\n//「湊斗さん。\r\n//　あたし、こいつと同じ天の下で生きていく\r\n//自信がありません」\r\n\"Senhor, acho que este planeta não é grande o bastante para nós dois.\"\r\n"
  },
  {
   "offset": 47731,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191280a00'>\r\n//「耐えろ」\r\n\"Quell your anger.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191280a00'>\r\n//「耐えろ」\r\n\"Contenha sua ira.\"\r\n"
  },
  {
   "offset": 47863,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191290a00'>\r\n//「……レースは個人競技だが、それは栄誉を\r\n//受けるのが首位ただ一騎だけだからであって、\r\n//その点を度外視すれば集団戦にしてしまう事\r\n//も可能だ」\r\n\"Racing is an individual sport in the sense that only one competitor may claim the prize. If you set that aside, however, it is possible to make it a team sport of sorts.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191290a00'>\r\n//「……レースは個人競技だが、それは栄誉を\r\n//受けるのが首位ただ一騎だけだからであって、\r\n//その点を度外視すれば集団戦にしてしまう事\r\n//も可能だ」\r\n\"A corrida é um esporte individual no sentido de que apenas um competidor pode reivindicar o prêmio. Se deixarmos isso de lado, porém, é possível transformá-la numa espécie de esporte de equipe.\"\r\n"
  },
  {
   "offset": 48342,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191300a00'>\r\n//「例えば。\r\n//　ライバルとなり得る騎体を仲間に囲ませて\r\n//動きを封じ、その間に自分は悠々とトップを\r\n//奪う――というように」\r\n\"For example, you can have your allies surround a rival and impede his movements, thereby eliminating any threat to your lead.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191300a00'>\r\n//「例えば。\r\n//　ライバルとなり得る騎体を仲間に囲ませて\r\n//動きを封じ、その間に自分は悠々とトップを\r\n//奪う――というように」\r\n\"Por exemplo, você pode fazer com que seus aliados cerquem um rival e impeçam seus movimentos, eliminando assim qualquer ameaça à sua liderança.\"\r\n"
  },
  {
   "offset": 48747,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0191310a02'>\r\n//「……それって、反則にならないんですか？」\r\n\"Isn't that against the rules?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0191310a02'>\r\n//「……それって、反則にならないんですか？」\r\n\"Isso não é contra as regras?\"\r\n"
  },
  {
   "offset": 48939,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191320a00'>\r\n//「無論、露骨な騎航妨害は反則になる。\r\n//　だがそれは露骨でなければ良いということ\r\n//でもあるし……」\r\n\"Of course, any obvious interference is illegal, but there are ways to make it not obvious.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191330a00'>\r\n//「そもそも自分の勝敗を無視してしまえるの\r\n//なら反則でも何でも躊躇う理由はない。\r\n//　極端な話、タムラの騎体を攻撃・破壊して\r\n//退場。残った翔京が勝つ、という手さえある」\r\n\"And moreover, a racer who has no intention of winning has no need to worry about breaking the rules. It is even possible that a Shokyo ally might deliberately attack Tamura's machine. They would be disqualified, but Shokyo would be free to claim the championship.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191320a00'>\r\n//「無論、露骨な騎航妨害は反則になる。\r\n//　だがそれは露骨でなければ良いということ\r\n//でもあるし……」\r\n\"É claro que qualquer interferência evidente é ilegal, mas há maneiras de torná-la não tão evidente.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191330a00'>\r\n//「そもそも自分の勝敗を無視してしまえるの\r\n//なら反則でも何でも躊躇う理由はない。\r\n//　極端な話、タムラの騎体を攻撃・破壊して\r\n//退場。残った翔京が勝つ、という手さえある」\r\n\"Além disso, um corredor que não tem intenção de vencer não precisa se preocupar em quebrar as regras. É até possível que um aliado de Shokyo ataque deliberadamente a máquina de Tamura. Seria desqualificado, mas Shokyo ficaria livre para levar o campeonato.\"\r\n"
  },
  {
   "offset": 49879,
   "en": "\r\n//　……勝利自体が目的ではなく、勝利によって賭博化\r\n//への客の賛同を得る事が目的である以上、そこまでの\r\n//暴挙はできないだろうが。\r\n//　もう少し穏やかな妨害なら充分に有り得る。\r\n  They probably won't go that far, not when their objective is to secure the approval of the fans. Still, less violent sorts of interference are definitely a possibility.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……勝利自体が目的ではなく、勝利によって賭博化\r\n//への客の賛同を得る事が目的である以上、そこまでの\r\n//暴挙はできないだろうが。\r\n//　もう少し穏やかな妨害なら充分に有り得る。\r\n  Provavelmente não irão tão longe, não quando seu objetivo é conquistar a aprovação dos fãs. Ainda assim, formas menos violentas de interferência são definitivamente uma possibilidade.\r\n"
  },
  {
   "offset": 50320,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191340a07'>\r\n//「そんな時、タムラに一騎でも味方がいれば\r\n//だいぶ違うってわけ」\r\n\"If Shokyo does decide to play dirty, having even one racer on Tamura's side will make a big difference.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191350a07'>\r\n//「そしてもしそいつが<RUBY text='バイタリティ'>盛風力</RUBY>の持ち主なら、\r\n//雑魚共を一手に引き受けて、タムラのハンデ\r\n//を帳消しにしちゃったりさえするかもしれん\r\n//ね」\r\n\"And if that racer happens to be something of a badass, he might be able to keep the bad guys busy all by himself. That would cancel out Tamura's handicap.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191340a07'>\r\n//「そんな時、タムラに一騎でも味方がいれば\r\n//だいぶ違うってわけ」\r\n\"Se Shokyo decidir jogar sujo, ter até mesmo um corredor do lado de Tamura fará uma grande diferença.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191350a07'>\r\n//「そしてもしそいつが<RUBY text='バイタリティ'>盛風力</RUBY>の持ち主なら、\r\n//雑魚共を一手に引き受けて、タムラのハンデ\r\n//を帳消しにしちゃったりさえするかもしれん\r\n//ね」\r\n\"E se esse corredor por acaso for meio durão, pode ser capaz de manter os caras maus ocupados sozinho. Isso anularia a desvantagem de Tamura.\"\r\n"
  },
  {
   "offset": 51118,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191360a00'>\r\n//「つまりは、それを期待されているのですか」\r\n\"So that's the role expected of me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191360a00'>\r\n//「つまりは、それを期待されているのですか」\r\n\"Então é esse o papel que esperam de mim?\"\r\n"
  },
  {
   "offset": 51315,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191370a07'>\r\n//「できるっしょ？　お兄さんなら」\r\n\"I'm sure you can handle it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191370a07'>\r\n//「できるっしょ？　お兄さんなら」\r\n\"Tenho certeza de que você dá conta.\"\r\n"
  },
  {
   "offset": 51499,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191380a00'>\r\n//「だいぶん買いかぶられているように思えて\r\n//なりません」\r\n\"I worry that your faith in me is misplaced.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191380a00'>\r\n//「だいぶん買いかぶられているように思えて\r\n//なりません」\r\n\"Receio que sua confiança em mim seja infundada.\"\r\n"
  },
  {
   "offset": 51724,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191390a07'>\r\n//「そっかな？」\r\n\"We'll see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191390a07'>\r\n//「そっかな？」\r\n\"Veremos.\"\r\n"
  },
  {
   "offset": 51864,
   "en": "\r\n//　太陽は月よりも地球に近いと言われた人間のような\r\n//顔をして、少女は笑っている。\r\n//　……出会って間もないこの少女が、俺にそこまでの\r\n//信頼を抱く理由は全くもって不明不可解。\r\n  The girl smiles, as though I just claimed that the sun revolves around the earth.\r\n\r\n  We've only just met. For the life of me, I cannot fathom why she trusts me so.\r\n\r\n//　しかし既に、俺の思考は一方向にほぼ固まっていた。\r\n//　協力者達の表情を視線のひと撫でで窺ってみる。\r\n  That aside, however, I'm already fairly certain what my answer will be. I scan the faces of my companions.\r\n\r\n//　一条は、この相手は気に食わないが申し出には納得\r\n//ができる、という様子だ。\r\n//　翔京――六波羅に挑むタムラにやはり心が寄るのだ\r\n//ろう。\r\n  Ichijo, despite her clear dislike of the girl, appears to have at least accepted her reasoning. I'm not surprised that Ichijo's sympathies would lie with Tamura in their challenge against Shokyo and its Rokuhara backers.\r\n\r\n//　大鳥主従はポーカーフェイス。いつものように。\r\n  The Otori pair's expressions are unreadable, but this comes as no great shock.\r\n",
-  "pt": ""
+  "pt": "\r\n//　太陽は月よりも地球に近いと言われた人間のような\r\n//顔をして、少女は笑っている。\r\n//　……出会って間もないこの少女が、俺にそこまでの\r\n//信頼を抱く理由は全くもって不明不可解。\r\n  A garota sorri, como se eu tivesse acabado de afirmar que o sol gira em torno da Terra.\r\n\r\n  Acabamos de nos conhecer. Por mais que tente, não consigo compreender por que ela confia tanto em mim.\r\n\r\n//　しかし既に、俺の思考は一方向にほぼ固まっていた。\r\n//　協力者達の表情を視線のひと撫でで窺ってみる。\r\n  Deixando isso de lado, porém, já tenho bastante certeza de qual será minha resposta. Examino os rostos dos meus companheiros.\r\n\r\n//　一条は、この相手は気に食わないが申し出には納得\r\n//ができる、という様子だ。\r\n//　翔京――六波羅に挑むタムラにやはり心が寄るのだ\r\n//ろう。\r\n  Ichijo, apesar de sua clara antipatia pela garota, parece ter ao menos aceitado seu raciocínio. Não me surpreende que as simpatias de Ichijo estejam com Tamura no desafio contra Shokyo e seus apoiadores do Rokuhara.\r\n\r\n//　大鳥主従はポーカーフェイス。いつものように。\r\n  As expressões do par Otori são ilegíveis, mas isso não é grande surpresa.\r\n"
  },
  {
   "offset": 53154,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191400a00'>\r\n//「率直に申し上げて、興味がまるでないわけ\r\n//ではありません。\r\n//　自分も少年期に<RUBY text='アーマーレーサー'>装甲騎手</RUBY>を夢見た事があり\r\n//ますから」\r\n\"I would be lying if I said I weren't interested. In my youth, I dreamt of becoming a racer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191400a00'>\r\n//「率直に申し上げて、興味がまるでないわけ\r\n//ではありません。\r\n//　自分も少年期に<RUBY text='アーマーレーサー'>装甲騎手</RUBY>を夢見た事があり\r\n//ますから」\r\n\"Eu estaria mentindo se dissesse que não tenho interesse. Na juventude, sonhei em me tornar um corredor.\"\r\n"
  },
  {
   "offset": 53561,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191410a07'>\r\n//「うむうむ。\r\n//　男の子ならかくあるべし」\r\n\"As all healthy boys do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191410a07'>\r\n//「うむうむ。\r\n//　男の子ならかくあるべし」\r\n\"Como todos os garotos saudáveis fazem.\"\r\n"
  },
  {
   "offset": 53754,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191420a00'>\r\n//「しかし、自分の身体能力がレースに耐える\r\n//状態にあるかどうか、疑問です。\r\n//　その点は体を動かしてみて確かめる必要が\r\n//あります」\r\n\"That said, I'm uncertain whether my body is in any condition to withstand the stress of racing. I will have to practice before I can make my decision.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191420a00'>\r\n//「しかし、自分の身体能力がレースに耐える\r\n//状態にあるかどうか、疑問です。\r\n//　その点は体を動かしてみて確かめる必要が\r\n//あります」\r\n\"Dito isso, não tenho certeza se meu corpo está em condições de suportar o esforço de uma corrida. Terei de praticar antes de tomar uma decisão.\"\r\n"
  },
  {
   "offset": 54196,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191430a00'>\r\n//「如何でしょうか。\r\n//　明日の朝、御返事をするという事では」\r\n\"Will you accept my answer tomorrow morning?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191430a00'>\r\n//「如何でしょうか。\r\n//　明日の朝、御返事をするという事では」\r\n\"A senhorita aceitaria minha resposta amanhã pela manhã?\"\r\n"
  },
  {
   "offset": 54427,
   "en": "\r\n//　……一条が眼を瞬き、大鳥大尉が軽く首肯する。\r\n//　俺の真意は通じている様子だった。\r\n  Ichijo blinks at this, and the captain gives a barely perceptible nod. They seem to have grasped my intent.\r\n\r\n//　少女の話に乗る姿勢を見せておけば、ポリスチーム\r\n//の撤退はなく、行動の自由は確保される。\r\n//　寄生体の捜索を行いたいこちらにとって好都合な事\r\n//この上ない。\r\n  If I show a willingness to accept her offer, it will give the police team a reason to remain, thereby securing our freedom to investigate for the rest of the day.\r\n\r\n//　そして今夜のうちに事の始末をつけ、朝になったら、\r\n//ライガー女史には辞退を申し入れる。\r\n//　このように進めば、まさしく理想的だ。\r\n  Ideally, we will sniff out the infected tsurugi tonight. Then I can simply inform Liger tomorrow morning that I have regretfully decided to decline.\r\n\r\n//　……少女に対して、些か不実である事は否めないが。\r\n//　しかしサーキットコースは一種の聖域。素人が足を\r\n//踏み入れて良い場所とは、どうにも考えられない。\r\n  It would feel rather like betraying the girl's trust, but the circuit is sacred. An amateur such as myself has no place there.\r\n\r\n//　だが、最悪の事態として、俺はそれも考慮の範疇に\r\n//入れていた。\r\n//　つまり、今夜中に寄生体を発見できなかった場合。\r\n  I am willing to violate that taboo, however, if the worst-case scenario―<br>namely, that we fail to uncover the egg tonight―<br>becomes a reality.\r\n\r\n//　その場合は、寄生体が何らかの手段で村正の感覚を\r\n//騙しているというあれの認めたがらない可能性が濃厚\r\n//になる。\r\n//　となれば残る手立ては水際作戦のみ。\r\n  Despite Muramasa's objections, we will have no choice but to assume that the enemy has somehow defeated her scanning. In which case, the only option left will be to wait for it to reveal itself.\r\n\r\n//　標的はやはり決勝参加騎の中に潜んでいるだろう。\r\n//『力』を求める意思から彼らが近いことは疑えない。\r\n//　自ら選手となって彼らの渦中へ入り、〝卵〟が覚醒\r\n//するその瞬間に襲い、打ち断つ。\r\n  The enemy in this scenario is likely to be among the racers participating in the final, as originally expected. They have the most reason to desire power. I will enter as a racer, place myself in their midst, and strike at the moment the egg hatches.\r\n\r\n//　村正の感覚によれば、〝卵〟の孵化はおそらく明日\r\n//の内。観客席から暢気に様子を窺ってはいられない。\r\n//　<RUBY text='・・'>災害</RUBY>勃発予想地点の最短距離にて待機するに如かず。\r\n  Muramasa believes that this will occur some time tomorrow. I will want to be as close to ground zero as possible, not watching idly from the stands.\r\n\r\n//　数多の観客が集うであろう決勝戦のサーキット場の\r\n//只中で<RUBY text='・・・・・・・・・'>銀星号を起こされる</RUBY>など、およそあってはなら\r\n//ない事。\r\n//　一秒一瞬でも事態を長く続けさせてはならない。\r\n  It would be catastrophic were a copy of Ginseigo to appear in the crowded stadium. There won't be a moment to waste.\r\n\r\n//　その点も踏まえて、俺の返答はおそらく最善に近い\r\n//と思える。\r\n//　だがあくまでも、俺の側の都合だ。\r\n  My answer covers both possibilities, making it the ideal solution. For me, that is.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……一条が眼を瞬き、大鳥大尉が軽く首肯する。\r\n//　俺の真意は通じている様子だった。\r\n  Ichijo pisca os olhos diante disso, e o capitão faz um aceno quase imperceptível. Parecem ter compreendido minha intenção.\r\n\r\n//　少女の話に乗る姿勢を見せておけば、ポリスチーム\r\n//の撤退はなく、行動の自由は確保される。\r\n//　寄生体の捜索を行いたいこちらにとって好都合な事\r\n//この上ない。\r\n  Se eu demonstrar disposição para aceitar a oferta dela, isso dará à equipe da polícia um motivo para permanecer, garantindo assim nossa liberdade para investigar pelo resto do dia.\r\n\r\n//　そして今夜のうちに事の始末をつけ、朝になったら、\r\n//ライガー女史には辞退を申し入れる。\r\n//　このように進めば、まさしく理想的だ。\r\n  O ideal é que descubramos o tsurugi infectado esta noite. Aí posso simplesmente informar a Liger, amanhã de manhã, que, com pesar, decidi recusar.\r\n\r\n//　……少女に対して、些か不実である事は否めないが。\r\n//　しかしサーキットコースは一種の聖域。素人が足を\r\n//踏み入れて良い場所とは、どうにも考えられない。\r\n  Seria como trair a confiança da garota, mas o circuito é um lugar sagrado. Um amador como eu não tem lugar ali.\r\n\r\n//　だが、最悪の事態として、俺はそれも考慮の範疇に\r\n//入れていた。\r\n//　つまり、今夜中に寄生体を発見できなかった場合。\r\n  Estou disposto a violar esse tabu, porém, se o pior cenário―a saber, não conseguirmos desenterrar o ovo esta noite―se concretizar.\r\n\r\n//　その場合は、寄生体が何らかの手段で村正の感覚を\r\n//騙しているというあれの認めたがらない可能性が濃厚\r\n//になる。\r\n//　となれば残る手立ては水際作戦のみ。\r\n  Apesar das objeções de Muramasa, não teremos escolha senão supor que o inimigo de algum modo derrotou seu escaneamento. Nesse caso, a única opção restante será esperar que ele se revele.\r\n\r\n//　標的はやはり決勝参加騎の中に潜んでいるだろう。\r\n//『力』を求める意思から彼らが近いことは疑えない。\r\n//　自ら選手となって彼らの渦中へ入り、〝卵〟が覚醒\r\n//するその瞬間に襲い、打ち断つ。\r\n  O inimigo, nesse cenário, provavelmente está entre os corredores que participam da final, como se esperava de início. São eles que têm mais motivos para desejar poder. Vou entrar como corredor, colocar-me no meio deles e atacar no momento em que o ovo eclodir.\r\n\r\n//　村正の感覚によれば、〝卵〟の孵化はおそらく明日\r\n//の内。観客席から暢気に様子を窺ってはいられない。\r\n//　<RUBY text='・・'>災害</RUBY>勃発予想地点の最短距離にて待機するに如かず。\r\n  Muramasa acredita que isso ocorrerá em algum momento amanhã. Vou querer estar o mais perto possível do ponto zero, e não observando ociosamente das arquibancadas.\r\n\r\n//　数多の観客が集うであろう決勝戦のサーキット場の\r\n//只中で<RUBY text='・・・・・・・・・'>銀星号を起こされる</RUBY>など、およそあってはなら\r\n//ない事。\r\n//　一秒一瞬でも事態を長く続けさせてはならない。\r\n  Seria catastrófico se uma cópia de Ginseigo aparecesse no estádio lotado. Não haverá um instante a perder.\r\n\r\n//　その点も踏まえて、俺の返答はおそらく最善に近い\r\n//と思える。\r\n//　だがあくまでも、俺の側の都合だ。\r\n  Minha resposta cobre as duas possibilidades, o que a torna a solução ideal. Para mim, pelo menos.\r\n"
  },
  {
   "offset": 58139,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191440a00'>\r\n//「……我ながら、御厚意に付け込むような虫\r\n//の良い申し条。\r\n//　恥ずかしい限りです」\r\n\"I feel that I'm taking advantage of your goodwill. I apologize.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191440a00'>\r\n//「……我ながら、御厚意に付け込むような虫\r\n//の良い申し条。\r\n//　恥ずかしい限りです」\r\n\"Sinto que estou me aproveitando da sua boa vontade. Peço desculpas.\"\r\n"
  },
  {
   "offset": 58424,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191450a07'>\r\n//「いや、いいよー。\r\n//　じゃあ明日までに決めといてね。こっちは\r\n//手続きだけしちゃっとくから」\r\n\"Nah, it's cool. So let me know tomorrow. I'll take care of the registration in the meanwhile.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191450a07'>\r\n//「いや、いいよー。\r\n//　じゃあ明日までに決めといてね。こっちは\r\n//手続きだけしちゃっとくから」\r\n\"Nah, tranquilo. Então me avisa amanhã. Vou cuidar da inscrição enquanto isso.\"\r\n"
  },
  {
   "offset": 58763,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191460a00'>\r\n//「…………。\r\n//　宜しいのですか？」\r\n\"Are you certain?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191460a00'>\r\n//「…………。\r\n//　宜しいのですか？」\r\n\"Tem certeza?\"\r\n"
  },
  {
   "offset": 58931,
   "en": "\r\n//　ごり押しで参加を認めさせた騎手がやっぱり出ない、\r\n//などという事になっては立場を失うと思うのだが。\r\n//　少女はあっけらかんと笑っている。……大物なのか、\r\n//それとも傍若無人なのか。\r\n  If she pushes my entry through and I drop out at the last minute, won't it put her in a difficult position?\r\n\r\n  She grins, evidently unperturbed by that possibility. Can she actually get away with it, or does she just not care?\r\n",
-  "pt": ""
+  "pt": "\r\n//　ごり押しで参加を認めさせた騎手がやっぱり出ない、\r\n//などという事になっては立場を失うと思うのだが。\r\n//　少女はあっけらかんと笑っている。……大物なのか、\r\n//それとも傍若無人なのか。\r\n  Se ela forçar minha inscrição e eu desistir de última hora, isso não a colocaria numa posição difícil?\r\n\r\n  Ela dá um sorriso largo, evidentemente sem se perturbar com essa possibilidade. Ela realmente pode fazer isso sem consequências, ou simplesmente não se importa?\r\n"
  },
  {
   "offset": 59444,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191470a07'>\r\n//「のーぷろぶれむ。\r\n//　<RUBY text='クルス'>劔冑</RUBY>はすぐにこっち持って来させるからさ。\r\n//とりあえず装甲してみてよ。もしも合わない\r\n//ようだったら別の用意するし」\r\n\"No prob! Anyway, I'll have my crux sent over, so try it out. If you don't like it, I can get you another one.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191470a07'>\r\n//「のーぷろぶれむ。\r\n//　<RUBY text='クルス'>劔冑</RUBY>はすぐにこっち持って来させるからさ。\r\n//とりあえず装甲してみてよ。もしも合わない\r\n//ようだったら別の用意するし」\r\n\"Sem problema! De todo modo, vou mandar trazer meu crux, então experimente. Se não gostar, consigo outro pra você.\"\r\n"
  },
  {
   "offset": 59896,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191480a00'>\r\n//「いえ。\r\n//　その点に関しましてはご厚意だけ頂きます」\r\n\"The offer is greatly appreciated, but that won't be necessary.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191480a00'>\r\n//「いえ。\r\n//　その点に関しましてはご厚意だけ頂きます」\r\n\"Agradeço muito a oferta, mas não será necessário.\"\r\n"
  },
  {
   "offset": 60137,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191490a07'>\r\n//「ほぇ？　どーすんの？」\r\n\"Huh? What're you gonna use?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191490a07'>\r\n//「ほぇ？　どーすんの？」\r\n\"Hã? E você vai usar o quê?\"\r\n"
  },
  {
   "offset": 60309,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191500a00'>\r\n//「自前の<RUBY text='レーサークルス'>競技用劔冑</RUBY>で臨みます。\r\n//　参戦する場合には」\r\n\"I'll enter in my own racing crux. If I decide to participate.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191500a00'>\r\n//「自前の<RUBY text='レーサークルス'>競技用劔冑</RUBY>で臨みます。\r\n//　参戦する場合には」\r\n\"Vou competir com meu próprio crux de corrida. Se eu decidir participar.\"\r\n"
  },
  {
   "offset": 60591,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191510a07'>\r\n//「あるの？」\r\n\"You've got one?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191510a07'>\r\n//「あるの？」\r\n\"Você tem um?\"\r\n"
  },
  {
   "offset": 60733,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191520a00'>\r\n//「以前に手に入れたものが、一応。\r\n//　かなりの老朽騎ですが……やはり少しでも\r\n//慣れた品を使った方が良いと思われますので」\r\n\"It came into my hands after my stint as a test pilot. It's an old model, but I would prefer to use something I'm a little familiar with.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191520a00'>\r\n//「以前に手に入れたものが、一応。\r\n//　かなりの老朽騎ですが……やはり少しでも\r\n//慣れた品を使った方が良いと思われますので」\r\n\"Veio parar em minhas mãos depois do meu período como piloto de testes. É um modelo antigo, mas prefiro usar algo com que eu esteja um pouco familiarizado.\"\r\n"
  },
  {
   "offset": 61148,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191530a00'>\r\n//「差し障りがなければ、それでお願いしたく」\r\n\"If you don't mind.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191530a00'>\r\n//「差し障りがなければ、それでお願いしたく」\r\n\"Se não se importar.\"\r\n"
  },
  {
   "offset": 61329,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191540a07'>\r\n//「ん、んー。まあ仕方ないかな。\r\n//　そういうことなら……」\r\n\"Hmm... well, if you say so.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191540a07'>\r\n//「ん、んー。まあ仕方ないかな。\r\n//　そういうことなら……」\r\n\"Hmm... bem, se você diz.\"\r\n"
  },
  {
   "offset": 61550,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191550a07'>\r\n//「哀れなり<RUBY text='テラ・ブリンガー'>運び屋</RUBY>。こうしてまたもや脚光を\r\n//浴びる機会は奪われたのであった。\r\n//　……なんでテラって付くとこうなのかなー。\r\n//〝<RUBY text='コンクァラー'>征服者</RUBY>〟も完全に時期外れだったし……」\r\n\"Alas, poor Terror Bringer. Once again, you're denied the spotlight. Why does this always happen when you add 'Terror' to something's name? I thought about 'Conqueror,' but that seemed a little dated...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191550a07'>\r\n//「哀れなり<RUBY text='テラ・ブリンガー'>運び屋</RUBY>。こうしてまたもや脚光を\r\n//浴びる機会は奪われたのであった。\r\n//　……なんでテラって付くとこうなのかなー。\r\n//〝<RUBY text='コンクァラー'>征服者</RUBY>〟も完全に時期外れだったし……」\r\n\"Ai de ti, pobre Terror Bringer. Mais uma vez, você foi privado dos holofotes. Por que isso sempre acontece quando se coloca 'Terror' no nome de alguma coisa? Pensei em 'Conqueror', mas parecia meio fora de época...\"\r\n"
  },
  {
   "offset": 62187,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191560a00'>\r\n//「申し訳ありません。\r\n//　折角お気遣い頂きながら」\r\n\"My apologies. I'm sure it means a lot to you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191560a00'>\r\n//「申し訳ありません。\r\n//　折角お気遣い頂きながら」\r\n\"Minhas desculpas. Tenho certeza de que isso significa muito para você.\"\r\n"
  },
  {
   "offset": 62405,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191570a07'>\r\n//「や、いいけど。\r\n//　じゃあ明日の朝にまた来るのでー」\r\n\"Don't sweat it. So I'll be back first thing tomorrow.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/ma03/0191570a07'>\r\n//「や、いいけど。\r\n//　じゃあ明日の朝にまた来るのでー」\r\n\"Deixa pra lá. Então volto amanhã bem cedo.\"\r\n"
  },
  {
   "offset": 62646,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191580a00'>\r\n//「はい。御足労をお掛けしました。\r\n//　良い夜をお過ごし下さい」\r\n\"Thank you for going to the trouble. Have a good night.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191580a00'>\r\n//「はい。御足労をお掛けしました。\r\n//　良い夜をお過ごし下さい」\r\n\"Obrigado pelo incômodo. Tenha uma boa noite.\"\r\n"
  },
  {
   "offset": 62891,
   "en": "\r\n//　手を振って立ち去る少女を、一礼して見送る。\r\n//　頭を上げると彼女は既にいなかった。出現も退去も\r\n//俄か雨よろしくあっさりしている。\r\n\r\n//　まさに俄か雨に降られた格好で、ガレージの中には\r\n//ぽかんとした空気が流れていた。\r\n//　各人が理性を回復し、今の話について整理するには、\r\n//若干待つ必要がありそうだ。\r\n  The girl waves, and I bow farewell. When I lift my head, she is gone, vanished as suddenly as she came.\r\n\r\n  The garage is silent. Everyone looks baffled, as though the victims of a sudden squall. It will take them some time to process what just happened.\r\n",
-  "pt": ""
+  "pt": "\r\n//　手を振って立ち去る少女を、一礼して見送る。\r\n//　頭を上げると彼女は既にいなかった。出現も退去も\r\n//俄か雨よろしくあっさりしている。\r\n\r\n//　まさに俄か雨に降られた格好で、ガレージの中には\r\n//ぽかんとした空気が流れていた。\r\n//　各人が理性を回復し、今の話について整理するには、\r\n//若干待つ必要がありそうだ。\r\n  A garota acena, e eu me despeço com uma reverência. Quando levanto a cabeça, ela já sumiu, desaparecida tão de repente quanto chegou.\r\n\r\n  A garagem está em silêncio. Todos parecem atordoados, como vítimas de uma chuva repentina. Vai levar um tempo até assimilarem o que acabou de acontecer.\r\n"
  },
  {
   "offset": 63607,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0191590a01'>\r\n//《……うまい具合に話が転がった、ってこと\r\n//でいいのかしら》\r\n《I suppose this is what they call having good fortune fall into your lap.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0191590a01'>\r\n//《……うまい具合に話が転がった、ってこと\r\n//でいいのかしら》\r\n《Suponho que seja isso que chamam de sorte cair no colo.》\r\n"
  },
  {
   "offset": 63877,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191600a00'>\r\n//（そう言って良いだろう。いささか旨すぎて\r\n//不審の念を覚えないわけではないが。\r\n//　話は全て聞いていたか？）\r\n(That seems appropriate. It does feel a little too good to be true, but we're out of options. Did you hear the whole conversation?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191600a00'>\r\n//（そう言って良いだろう。いささか旨すぎて\r\n//不審の念を覚えないわけではないが。\r\n//　話は全て聞いていたか？）\r\n(Pode-se dizer que sim. É bom demais para ser verdade, mas não temos escolha. Você ouviu toda a conversa?)\r\n"
  },
  {
   "offset": 64264,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0191610a01'>\r\n//《おおむねは。\r\n//　それにしても……初耳ね。貴方が<RUBY text='まがいもの'>競技用</RUBY>を\r\n//持っていたなんて》\r\n《Enough. ...By the way, you never told me you had one of those knockoffs. Why the big secret?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0191610a01'>\r\n//《おおむねは。\r\n//　それにしても……初耳ね。貴方が<RUBY text='まがいもの'>競技用</RUBY>を\r\n//持っていたなんて》\r\n《O suficiente. ...A propósito, você nunca me contou que tinha uma dessas imitações. Por que tanto segredo?》\r\n"
  },
  {
   "offset": 64618,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191620a00'>\r\n//（あるわけなかろう）\r\n(Obviously I was lying.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0191620a00'>\r\n//（あるわけなかろう）\r\n(Obviamente eu estava mentindo.)\r\n"
  },
  {
   "offset": 64770,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0191630a01'>\r\n//《…………えっ？》\r\n《...Huh?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0191630a01'>\r\n//《…………えっ？》\r\n《...Hã?》\r\n"
  }
 ]

@@ -2,62 +2,62 @@
  {
   "offset": 213,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160010e083'>\r\n//「準備できたか？」\r\n\"You set to go?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160010e083'>\r\n//「準備できたか？」\r\n\"Tudo pronto pra sair?\"\r\n"
  },
  {
   "offset": 394,
   "en": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160020e084'>\r\n//「もうちょっと待て。\r\n//　<RUBY text='ホイ'>自走砲</RUBY>の整備がまだ終わってない」\r\n\"Hold on. Still got repairs to do on the Ho-I's main gun.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160020e084'>\r\n//「もうちょっと待て。\r\n//　<RUBY text='ホイ'>自走砲</RUBY>の整備がまだ終わってない」\r\n\"Calma aí. Ainda falta terminar o conserto do canhão principal do Ho-I.\"\r\n"
  },
  {
   "offset": 702,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160030e083'>\r\n//「いらねえだろ？　そんなの」\r\n\"Come on. It's not like we're gonna need it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160030e083'>\r\n//「いらねえだろ？　そんなの」\r\n\"Qual é. Nem vamos precisar disso.\"\r\n"
  },
  {
   "offset": 927,
   "en": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160040e084'>\r\n//「いらねえけど。\r\n//　ずいぶん長いこと使ってないからな。試し\r\n//撃ちしといてもいいんじゃねえ？」\r\n\"Yeah, but it's been a while since we fired it off. Might as well try it on something.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160040e084'>\r\n//「いらねえけど。\r\n//　ずいぶん長いこと使ってないからな。試し\r\n//撃ちしといてもいいんじゃねえ？」\r\n\"É, mas faz tempo que a gente não dispara essa coisa. Bem que a gente podia testar em alguma coisa.\"\r\n"
  },
  {
   "offset": 1292,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160050e083'>\r\n//「それもそうか。\r\n//　まぁいいけど、早くしろよな。見つかると\r\n//面倒だ」\r\n\"I guess. Hurry it up, though. We gotta be outta here before she finds out.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160050e083'>\r\n//「それもそうか。\r\n//　まぁいいけど、早くしろよな。見つかると\r\n//面倒だ」\r\n\"Acho que sim. Mas apressa logo. A gente tem que sumir daqui antes que ela descubra.\"\r\n"
  },
  {
   "offset": 1610,
   "en": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160060e084'>\r\n//「おう」\r\n\"Got it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160060e084'>\r\n//「おう」\r\n\"Beleza.\"\r\n"
  },
  {
   "offset": 1769,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160070b31'>\r\n//「お待ちなさい」\r\n\"Hold it right there.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160070b31'>\r\n//「お待ちなさい」\r\n\"Parados aí.\"\r\n"
  },
  {
   "offset": 1916,
   "en": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160080e084'>\r\n//「うぇっ……」\r\n\"...Shit.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160080e084'>\r\n//「うぇっ……」\r\n\"...Merda.\"\r\n"
  },
  {
   "offset": 2085,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160090b31'>\r\n//「誰に、何を見られると面倒なの？\r\n//　おまえ達」\r\n\"Before who finds out what, exactly?\"\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160090b31'>\r\n//「誰に、何を見られると面倒なの？\r\n//　おまえ達」\r\n\"Descobrir o quê, e por quem, exatamente?\"\r\n\r\n"
  },
  {
   "offset": 2295,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160100e083'>\r\n//「いや、別に……」\r\n\"Nothing...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160100e083'>\r\n//「いや、別に……」\r\n\"Nada...\"\r\n"
  },
  {
   "offset": 2472,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160110b31'>\r\n//「銃に、車両に……\r\n//　自走砲ですって？」\r\n\"Rifles, flatbeds... and even the Ho-I?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160110b31'>\r\n//「銃に、車両に……\r\n//　自走砲ですって？」\r\n\"Fuzis, caminhões... e até o Ho-I?\"\r\n"
  },
  {
   "offset": 2674,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160120b31'>\r\n//「そんなものまで持ち出して、何をしようと\r\n//言うの？\r\n//　畑仕事の役には立ちそうもないわね？」\r\n\"What exactly were you planning to do with all this? You don't need artillery to plow a field.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160120b31'>\r\n//「そんなものまで持ち出して、何をしようと\r\n//言うの？\r\n//　畑仕事の役には立ちそうもないわね？」\r\n\"O que exatamente vocês pretendiam fazer com tudo isso? Não se precisa de artilharia pra arar um campo.\"\r\n"
  },
  {
   "offset": 3007,
@@ -67,7 +67,7 @@
  {
   "offset": 3165,
   "en": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0160140e085'>\r\n//「おぉい、まだかよお前ら！\r\n//　早くしないと御館に――<?>\r\n//げぇっ！」\r\n\"Hey, you guys ready yet!? I think I saw her headed this―<WaitVoice=5000> whoa!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0160140e085'>\r\n//「おぉい、まだかよお前ら！\r\n//　早くしないと御館に――<?>\r\n//げぇっ！」\r\n\"Ei, vocês ainda não terminaram!? Se demorarem, a chefe vai chegar aqui—<WaitVoice=5000> eita!\"\r\n"
  },
  {
   "offset": 3486,
@@ -77,37 +77,37 @@
  {
   "offset": 3607,
   "en": "\r\n//【ｅｔｃ／山賊Ｆ】\r\n<voice name='ｅｔｃ／山賊Ｆ' class='その他男声' src='voice/ma05/0160160e086'>\r\n//「あちゃ……」\r\n\"Oh shit...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｆ】\r\n<voice name='ｅｔｃ／山賊Ｆ' class='その他男声' src='voice/ma05/0160160e086'>\r\n//「あちゃ……」\r\n\"Ih, merda...\"\r\n"
  },
  {
   "offset": 3778,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160170b31'>\r\n//「ひぃふぅみ……ぞろぞろと、まぁ。\r\n//　ますますもって剣呑だこと」\r\n\"One, two, three... and more on the way, it looks like. Something tells me you're not all going for a walk.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160170b31'>\r\n//「ひぃふぅみ……ぞろぞろと、まぁ。\r\n//　ますますもって剣呑だこと」\r\n\"Um, dois, três... e parece que vem mais gente por aí. Alguma coisa me diz que vocês não vão todos passear.\"\r\n"
  },
  {
   "offset": 4084,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160180b31'>\r\n//「そろそろ説明を貰おうかしら。\r\n//　群れをなして、武装して、何処へ何をしに\r\n//行くつもりだったの？」\r\n\"So let's hear it. Where were you taking these weapons, and what were you planning to do when you got there?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160180b31'>\r\n//「そろそろ説明を貰おうかしら。\r\n//　群れをなして、武装して、何処へ何をしに\r\n//行くつもりだったの？」\r\n\"Então, quero uma explicação. Aonde vocês iam levar essas armas, e o que pretendiam fazer quando chegassem lá?\"\r\n"
  },
  {
   "offset": 4440,
   "en": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0160190e085'>\r\n//「……や……その、ま。\r\n//　ちょっと、食料の調達にでも」\r\n\"Well... we just, you know... thought we should get some food.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0160190e085'>\r\n//「……や……その、ま。\r\n//　ちょっと、食料の調達にでも」\r\n\"Bem... a gente só, sabe... pensou em conseguir um pouco de comida.\"\r\n"
  },
  {
   "offset": 4723,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160200e083'>\r\n//「ぼちぼち蓄えが少なくなってきたんで……」\r\n\"We're getting kind of low on supplies...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160200e083'>\r\n//「ぼちぼち蓄えが少なくなってきたんで……」\r\n\"Nossas reservas estavam ficando meio baixas...\"\r\n"
  },
  {
   "offset": 4966,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160210b31'>\r\n//「言ったでしょう。\r\n//　必要な物資は、アタシが町に掛け合って手\r\n//に入れてきます」\r\n\"I already told you that I'll negotiate with the townsfolk for whatever we need.\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160220b31'>\r\n//「けれどそれは、田畑の開発をいくらかでも\r\n//進めてから。\r\n//　我々が取り決め通りに働かないのに、町が\r\n//取り決めを守ってくれるわけがないでしょう」\r\n\"But that comes only㉒<I>after</I> we've started work on the fields. How can we expect them to hold up their end unless we hold up ours?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160210b31'>\r\n//「言ったでしょう。\r\n//　必要な物資は、アタシが町に掛け合って手\r\n//に入れてきます」\r\n\"Eu já disse que vou negociar com o pessoal da cidade tudo o que precisarmos.\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160220b31'>\r\n//「けれどそれは、田畑の開発をいくらかでも\r\n//進めてから。\r\n//　我々が取り決め通りに働かないのに、町が\r\n//取り決めを守ってくれるわけがないでしょう」\r\n\"Mas isso só vem ㉒<I>depois</I> de começarmos o trabalho nos campos. Como é que podemos esperar que eles cumpram a parte deles se não cumprimos a nossa?\"\r\n"
  },
  {
   "offset": 5711,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160230b31'>\r\n//「我々は物乞いではないのです」\r\n\"We're not beggars.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160230b31'>\r\n//「我々は物乞いではないのです」\r\n\"Não somos mendigos.\"\r\n"
  },
  {
   "offset": 5877,
@@ -122,97 +122,97 @@
  {
   "offset": 6205,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160260b31'>\r\n//「……うんざり、という顔ね」\r\n\"...You look like you're tired of hearing this.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160260b31'>\r\n//「……うんざり、という顔ね」\r\n\"...Você está com cara de quem se cansou de ouvir isso.\"\r\n"
  },
  {
   "offset": 6396,
   "en": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160270e084'>\r\n//「いえ……」\r\n\"No...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160270e084'>\r\n//「いえ……」\r\n\"Não...\"\r\n"
  },
  {
   "offset": 6559,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160280b31'>\r\n//「アタシもうんざりよ。\r\n//　同じ話をもう何回したのだか」\r\n\"Well,㉓<I>I'm</I>㉒tired of repeating myself over and over again.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160280b31'>\r\n//「アタシもうんざりよ。\r\n//　同じ話をもう何回したのだか」\r\n\"Pois bem,㉓<I>eu</I>㉒ estou cansada de repetir a mesma coisa sem parar.\"\r\n"
  },
  {
   "offset": 6811,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160290b31'>\r\n//「でも、おまえ達がまだ理解できないという\r\n//なら仕方ありません。\r\n//　いいこと――」\r\n\"But if that's what it takes for you to understand, so be it. Listen up, men. If we―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160290b31'>\r\n//「でも、おまえ達がまだ理解できないという\r\n//なら仕方ありません。\r\n//　いいこと――」\r\n\"Mas se é isso que vocês precisam pra entender, então que seja. Escutem bem, homens. Se a gente—\"\r\n"
  },
  {
   "offset": 7121,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160300b32'>\r\n//「いいよ。\r\n//　うんざりだよ、姉さん」\r\n\"Don't bother, sis. We really are tired of hearing it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160300b32'>\r\n//「いいよ。\r\n//　うんざりだよ、姉さん」\r\n\"Pode parar, mana. A gente está mesmo cansado de ouvir isso.\"\r\n"
  },
  {
   "offset": 7338,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160310b31'>\r\n//「……一磨」\r\n\"...Kazuma.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160310b31'>\r\n//「……一磨」\r\n\"...Kazuma.\"\r\n"
  },
  {
   "offset": 7469,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160320b32'>\r\n//「一体どうしちゃったのさ、姉さん。\r\n//　おかしいよ？　最近」\r\n\"What happened to you? You've been acting strange since you got back.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160320b32'>\r\n//「一体どうしちゃったのさ、姉さん。\r\n//　おかしいよ？　最近」\r\n\"O que aconteceu com você, mana? Você anda estranha desde que voltou.\"\r\n"
  },
  {
   "offset": 7734,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160330b31'>\r\n//「おかしくなどありません。\r\n//　アタシはいつも通りよ」\r\n\"Nonsense. I'm the same as always.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160330b31'>\r\n//「おかしくなどありません。\r\n//　アタシはいつも通りよ」\r\n\"Bobagem. Eu estou como sempre.\"\r\n"
  },
  {
   "offset": 7949,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160340b32'>\r\n//「そう？」\r\n\"Really?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160340b32'>\r\n//「そう？」\r\n\"Sério?\"\r\n"
  },
  {
   "offset": 8080,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160350b31'>\r\n//「ええ。\r\n//　方針を変更しただけ」\r\n\"Yes. I've merely changed our course of action.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160350b31'>\r\n//「ええ。\r\n//　方針を変更しただけ」\r\n\"Sim. Eu apenas mudei o nosso rumo.\"\r\n"
  },
  {
   "offset": 8278,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160360b32'>\r\n//「湊斗って男に負けたから？」\r\n\"Because you lost to that Minato guy?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160360b32'>\r\n//「湊斗って男に負けたから？」\r\n\"Foi porque você perdeu praquele sujeito, o Minato?\"\r\n"
  },
  {
   "offset": 8465,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160370b31'>\r\n//「……そうよ」\r\n\"...That's right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160370b31'>\r\n//「……そうよ」\r\n\"...Foi.\"\r\n"
  },
  {
   "offset": 8605,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160380b32'>\r\n//「なんで？\r\n//　どうだっていいじゃん、そんなこと」\r\n\"So what? That shouldn't make a difference.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160380b32'>\r\n//「なんで？\r\n//　どうだっていいじゃん、そんなこと」\r\n\"E daí? Isso não muda nada.\"\r\n"
  },
  {
   "offset": 8829,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160390b31'>\r\n//「……アタシはこの中で一番強い。\r\n//　そうでしょう」\r\n\"I'm the strongest fighter here, aren't I?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160390b31'>\r\n//「……アタシはこの中で一番強い。\r\n//　そうでしょう」\r\n\"...Entre nós, eu sou a mais forte. Não é?\"\r\n"
  },
  {
   "offset": 9049,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160400b32'>\r\n//「うん」\r\n\"Yeah.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160400b32'>\r\n//「うん」\r\n\"É.\"\r\n"
  },
  {
   "offset": 9175,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160410b31'>\r\n//「そのアタシに、あの男は勝った。\r\n//　そんな男があの町にいた」\r\n\"But he beat me in a fair fight. There was a warrior in that town stronger than me.\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160420b31'>\r\n//「それがどうだっていいと？」\r\n\"And you say that doesn't make a difference?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160410b31'>\r\n//「そのアタシに、あの男は勝った。\r\n//　そんな男があの町にいた」\r\n\"Mas aquele homem me venceu num combate justo. Havia um guerreiro naquela cidade mais forte do que eu.\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160420b31'>\r\n//「それがどうだっていいと？」\r\n\"E você diz que isso não muda nada?\"\r\n"
  },
  {
   "offset": 9631,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160430b32'>\r\n//「うん」\r\n\"Nope.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160430b32'>\r\n//「うん」\r\n\"Não.\"\r\n"
  },
  {
   "offset": 9757,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160440b31'>\r\n//「どうして？\r\n//　あなた、自分なら勝てるつもり？」\r\n\"Why not? Do you think㉔<I>you</I> could defeat him?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160440b31'>\r\n//「どうして？\r\n//　あなた、自分なら勝てるつもり？」\r\n\"Por que não? Acha que ㉔<I>você</I> conseguiria vencê-lo?\"\r\n"
  },
  {
   "offset": 9985,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160450b32'>\r\n//「勝てるよ？\r\n//　だって、<RUBY text='ねえさん'>敵将</RUBY>を殺しもしなけりゃ人質にも\r\n//しないで逃がしちゃった、大甘の甘ちゃんで\r\n//しょ？　そいつ」\r\n\"Sure. I mean, you're our leader, but he didn't kill you. He didn't even take you hostage! He's just a big <br>softie.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160450b32'>\r\n//「勝てるよ？\r\n//　だって、<RUBY text='ねえさん'>敵将</RUBY>を殺しもしなけりゃ人質にも\r\n//しないで逃がしちゃった、大甘の甘ちゃんで\r\n//しょ？　そいつ」\r\n\"Claro. Quer dizer, você é a nossa líder, mas ele não te matou. Nem te fez de refém! O cara é um grandessíssimo coração mole.\"\r\n"
  },
  {
   "offset": 10418,
@@ -222,7 +222,7 @@
  {
   "offset": 10539,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160470b32'>\r\n//「多少は腕があったって、ただの馬鹿じゃん。\r\n//　闇討ちに掛ければ簡単に始末できるよ」\r\n\"So what if he's got skills? Get him while he's sleeping. Piece of cake.\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160480b32'>\r\n//「残るのは、そんな馬鹿を使って僕らをどう\r\n//にかしようとした町の腑抜け連中だけ。\r\n//　今まで通り、山賊やっていけるよ」\r\n\"Then all that's left'll be a town full of cowards who thought they could hide behind his skirts. We can go right back to being bandits, and no one'll stop us.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160470b32'>\r\n//「多少は腕があったって、ただの馬鹿じゃん。\r\n//　闇討ちに掛ければ簡単に始末できるよ」\r\n\"E daí que ele sabe lutar? A gente pega ele dormindo. Moleza.\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160480b32'>\r\n//「残るのは、そんな馬鹿を使って僕らをどう\r\n//にかしようとした町の腑抜け連中だけ。\r\n//　今まで通り、山賊やっていけるよ」\r\n\"Depois é só a cidade cheia de covardes que pensavam que podiam se esconder atrás dele. A gente pode voltar a ser bandidos como antes, e ninguém vai nos parar.\"\r\n"
  },
  {
   "offset": 11275,
@@ -232,52 +232,52 @@
  {
   "offset": 11402,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160500b32'>\r\n//「でしょ？　姉さん」\r\n\"Right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160500b32'>\r\n//「でしょ？　姉さん」\r\n\"Não é?\"\r\n"
  },
  {
   "offset": 11547,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160510b31'>\r\n//「……そうかもしれない。\r\n//　でも、そのことはきっかけに過ぎないの」\r\n\"...Maybe you're right. But sooner or later, this had to happen.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160510b31'>\r\n//「……そうかもしれない。\r\n//　でも、そのことはきっかけに過ぎないの」\r\n\"...Talvez você tenha razão. Mas, mais cedo ou mais tarde, isso tinha que acontecer.\"\r\n"
  },
  {
   "offset": 11813,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160520b31'>\r\n//「どのみち、山賊稼業を続けていたって先は\r\n//なかった。\r\n//　幕府がいつまでも放っておいてくれるわけ\r\n//がないもの」\r\n\"We can't live as bandits forever. The shogunate will come for us.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160520b31'>\r\n//「どのみち、山賊稼業を続けていたって先は\r\n//なかった。\r\n//　幕府がいつまでも放っておいてくれるわけ\r\n//がないもの」\r\n\"Não podemos viver como bandidos para sempre. O Xogunato vai vir atrás de nós.\"\r\n"
  },
  {
   "offset": 12146,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160530b31'>\r\n//「いずれ討伐される。\r\n//　それよりは、町の中に溶け込んで、時機を\r\n//待った方が賢明よ。そうじゃない？」\r\n\"If we want to survive, our only choice is to blend in and wait for it all to blow over. Understand?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160530b31'>\r\n//「いずれ討伐される。\r\n//　それよりは、町の中に溶け込んで、時機を\r\n//待った方が賢明よ。そうじゃない？」\r\n\"Se quisermos sobreviver, nossa única escolha é nos misturar e esperar que tudo passe. Entende?\"\r\n"
  },
  {
   "offset": 12497,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160540b32'>\r\n//「そうかな？\r\n//　他にもやりようはあると思うけど」\r\n\"Really? I think we've got more choices than that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160540b32'>\r\n//「そうかな？\r\n//　他にもやりようはあると思うけど」\r\n\"É mesmo? Acho que temos mais opções que isso.\"\r\n"
  },
  {
   "offset": 12728,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160550b31'>\r\n//「……言ってごらんなさい」\r\n\"...Such as?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160550b31'>\r\n//「……言ってごらんなさい」\r\n\"...Como, por exemplo?\"\r\n"
  },
  {
   "offset": 12881,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160560b32'>\r\n//「大陸に渡るとかさ。\r\n//　金さえ積めば密航船くらい調達できるよ」\r\n\"We could head over to the continent, for starters. There's smugglers who'll take you for the right price.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160560b32'>\r\n//「大陸に渡るとかさ。\r\n//　金さえ積めば密航船くらい調達できるよ」\r\n\"Podíamos ir para o continente, para começar. Há contrabandistas que te levam pelo preço certo.\"\r\n"
  },
  {
   "offset": 13189,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160570b31'>\r\n//「……その金を、どこから持ってくるの」\r\n\"And where do you plan to get the money?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160570b31'>\r\n//「……その金を、どこから持ってくるの」\r\n\"E onde você pretende conseguir o dinheiro?\"\r\n"
  },
  {
   "offset": 13388,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160580b32'>\r\n//「この町でかき集めればいいじゃん？\r\n//　足りなければ……そーだね。人間も捕まえ\r\n//ようよ」\r\n\"The town. Where else? If they don't have enough... I know! We take a few of them with us.\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160590b32'>\r\n//「それで、<RUBY text='・・・'>奴隷船</RUBY>に便乗させてもらえばいい。\r\n//　今、そういうの結構あるらしいよ？　需要\r\n//と供給が揃ってるから」\r\n\"We can trade them for passage on a slave ship. I hear there're a lot of those these days.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160580b32'>\r\n//「この町でかき集めればいいじゃん？\r\n//　足りなければ……そーだね。人間も捕まえ\r\n//ようよ」\r\n\"A cidade. Onde mais? Se não tiverem o suficiente... Já sei! Levamos alguns deles conosco.\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160590b32'>\r\n//「それで、<RUBY text='・・・'>奴隷船</RUBY>に便乗させてもらえばいい。\r\n//　今、そういうの結構あるらしいよ？　需要\r\n//と供給が揃ってるから」\r\n\"Podemos trocá-los por passagem num navio negreiro. Ouvi dizer que há muitos desses hoje em dia.\"\r\n"
  },
  {
   "offset": 14101,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160600b32'>\r\n//「大陸の都市では働き手が不足してて、国内\r\n//では貧乏な家が子供を持て余してる。\r\n//　奴隷商人は繁盛してるみたい。そいつらに\r\n//さ、<RUBY text='・・'>商品</RUBY>をくれてやればきっと割引価格で」\r\n\"They got these big factories over there that need lots of people. And here, you've got all these poor families with too many kids. The slave trade's doing great. So if we offer them some merchandise, I'm sure they'll cut us a deal on―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160600b32'>\r\n//「大陸の都市では働き手が不足してて、国内\r\n//では貧乏な家が子供を持て余してる。\r\n//　奴隷商人は繁盛してるみたい。そいつらに\r\n//さ、<RUBY text='・・'>商品</RUBY>をくれてやればきっと割引価格で」\r\n\"Lá tem essas fábricas grandes que precisam de um monte de gente. E aqui, você tem um monte de famílias pobres com filhos demais. O comércio de escravos tá indo muito bem. Então, se a gente oferecer uma mercadoria pra eles, aposto que eles vão fazer um desconto pra gente em―\"\r\n"
  },
  {
   "offset": 14716,
@@ -287,12 +287,12 @@
  {
   "offset": 14843,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160620b31'>\r\n//「恥をお知りなさい！\r\n//　おまえは家名に泥を塗るつもりですか！」\r\n\"You should be ashamed! Are you trying to drag our name through the mud!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160620b31'>\r\n//「恥をお知りなさい！\r\n//　おまえは家名に泥を塗るつもりですか！」\r\n\"Devia ter vergonha! Está tentando arrastar o nome da nossa família pela lama!?\"\r\n"
  },
  {
   "offset": 15112,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160630b32'>\r\n//「……何さ。\r\n//　この間までの山賊と別に大して変わんない\r\n//じゃん」\r\n\"...Come on! It's hardly any different than what we've been doing!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160630b32'>\r\n//「……何さ。\r\n//　この間までの山賊と別に大して変わんない\r\n//じゃん」\r\n\"...Qual é! Não é muito diferente do que a gente já vem fazendo!\"\r\n"
  },
  {
   "offset": 15384,
@@ -302,17 +302,17 @@
  {
   "offset": 15505,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160650b32'>\r\n//「違う？」\r\n\"Right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160650b32'>\r\n//「違う？」\r\n\"Não é?\"\r\n"
  },
  {
   "offset": 15635,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160660b31'>\r\n//「ええ。そうね。\r\n//　大した違いはないわね」\r\n\"Yes, you're right. It's hardly any different.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160660b31'>\r\n//「ええ。そうね。\r\n//　大した違いはないわね」\r\n\"Sim, você tem razão. Não é muito diferente.\"\r\n"
  },
  {
   "offset": 15847,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160670b31'>\r\n//「程度の問題よ。\r\n//　でも……その<RUBY text='・・・・'>程度の差</RUBY>は無視できません！」\r\n\"But that㉓<I>hardly</I>㉕crosses the line!\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160680b31'>\r\n//「卑し過ぎます」\r\n\"We would be lower than low!\"\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160670b31'>\r\n//「程度の問題よ。\r\n//　でも……その<RUBY text='・・・・'>程度の差</RUBY>は無視できません！」\r\n\"Mas isso ㉓<I>mal</I>㉕ passa dos limites!\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160680b31'>\r\n//「卑し過ぎます」\r\n\"Seríamos o mais baixo dos baixos!\"\r\n\r\n"
  },
  {
   "offset": 16266,
@@ -322,52 +322,52 @@
  {
   "offset": 16393,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160700e083'>\r\n//「……ま、それでも。\r\n//　土いじりよりはマシかなぁ？」\r\n\"...Still, it beats plowing a field.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160700e083'>\r\n//「……ま、それでも。\r\n//　土いじりよりはマシかなぁ？」\r\n\"...Mesmo assim, é melhor que arar um campo.\"\r\n"
  },
  {
   "offset": 16647,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160710b31'>\r\n//「おまえ……」\r\n\"What was that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160710b31'>\r\n//「おまえ……」\r\n\"O que foi que você disse?\"\r\n"
  },
  {
   "offset": 16785,
   "en": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160720e084'>\r\n//「どっちが性に合うかっていえば……\r\n//　御舎弟の方ですかねぇ……」\r\n\"I've gotta say... the young master's plan is a little more my style.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160720e084'>\r\n//「どっちが性に合うかっていえば……\r\n//　御舎弟の方ですかねぇ……」\r\n\"Devo dizer... o plano do jovem senhor é mais o meu estilo.\"\r\n"
  },
  {
   "offset": 17090,
   "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0160730e080'>\r\n//「……口が過ぎるぞ」\r\n\"...Watch your tongue.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0160730e080'>\r\n//「……口が過ぎるぞ」\r\n\"...Cuidado com a língua.\"\r\n"
  },
  {
   "offset": 17281,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160740e083'>\r\n//「けっ」\r\n\"Keh.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160740e083'>\r\n//「けっ」\r\n\"Tsc.\"\r\n"
  },
  {
   "offset": 17437,
   "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0160750e082'>\r\n//「御館の命令に従って、間違いがあったこと\r\n//はねえだろ。\r\n//　今度もそうすりゃいいじゃねえか」\r\n\"We've always followed our lady's orders, and she's never led us astray before.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0160750e082'>\r\n//「御館の命令に従って、間違いがあったこと\r\n//はねえだろ。\r\n//　今度もそうすりゃいいじゃねえか」\r\n\"Sempre seguimos as ordens da nossa senhora, e ela nunca nos levou pelo caminho errado.\"\r\n"
  },
  {
   "offset": 17792,
   "en": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0160760e085'>\r\n//「間違えてからじゃ、遅ぇんだよ」\r\n\"It'll be too late once she does!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0160760e085'>\r\n//「間違えてからじゃ、遅ぇんだよ」\r\n\"Vai ser tarde demais quando ela errar!\"\r\n"
  },
  {
   "offset": 18012,
   "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0160770e080'>\r\n//「おい……」\r\n\"Fucking cool it...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0160770e080'>\r\n//「おい……」\r\n\"Porra, dá um tempo...\"\r\n"
  },
  {
   "offset": 18188,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160780b31'>\r\n//「もう結構。\r\n//　おまえ達と議論する気はありません」\r\n\"Enough. I'm not here to argue with you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160780b31'>\r\n//「もう結構。\r\n//　おまえ達と議論する気はありません」\r\n\"Chega. Não estou aqui para discutir com vocês.\"\r\n"
  },
  {
   "offset": 18406,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160790b31'>\r\n//「命令に従いなさい。\r\n//　解散ッ！　武器を蔵へ戻して、作業に戻れ」\r\n\"This is an order. You're all dismissed! Stow those weapons and return to your posts!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160790b31'>\r\n//「命令に従いなさい。\r\n//　解散ッ！　武器を蔵へ戻して、作業に戻れ」\r\n\"Isto é uma ordem. Todos dispensados! Guardem essas armas e voltem aos seus postos!\"\r\n"
  },
  {
   "offset": 18690,
@@ -382,22 +382,22 @@
  {
   "offset": 19018,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160820b31'>\r\n//「……おまえ達。\r\n//　アタシの言うことが聞けないというの？」\r\n\"...You refuse to follow my orders?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160820b31'>\r\n//「……おまえ達。\r\n//　アタシの言うことが聞けないというの？」\r\n\"...Vocês se recusam a seguir minhas ordens?\"\r\n"
  },
  {
   "offset": 19243,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160830b32'>\r\n//「聞くわけないじゃん。\r\n//　何言ってんのさ、姉さん」\r\n\"What're you talking about? Of course they do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160830b32'>\r\n//「聞くわけないじゃん。\r\n//　何言ってんのさ、姉さん」\r\n\"Do que você está falando? Claro que não obedecem.\"\r\n"
  },
  {
   "offset": 19473,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160840b31'>\r\n//「一磨？」\r\n\"Kazuma?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160840b31'>\r\n//「一磨？」\r\n\"Kazuma?\"\r\n"
  },
  {
   "offset": 19598,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160850b32'>\r\n//「大体、頭領面するのやめてよね。\r\n//　姉さんはもう、<RUBY text='・・'>隠居</RUBY>なんだからさ」\r\n\"Seriously, you've gotta stop acting like you're still in charge. You retired, didn't you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160850b32'>\r\n//「大体、頭領面するのやめてよね。\r\n//　姉さんはもう、<RUBY text='・・'>隠居</RUBY>なんだからさ」\r\n\"Sério, você precisa parar de agir como se ainda mandasse. Você se aposentou, não foi?\"\r\n"
  },
  {
   "offset": 19926,
@@ -407,12 +407,12 @@
  {
   "offset": 20042,
   "en": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160870e084'>\r\n//「へへ……\r\n//　そういや、そうでしたね」\r\n\"Heh... Oh yeah, that's right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0160870e084'>\r\n//「へへ……\r\n//　そういや、そうでしたね」\r\n\"Heh... Ah, é mesmo, é verdade.\"\r\n"
  },
  {
   "offset": 20269,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160880e083'>\r\n//「身内は余計な口出しをしないもんだとか、\r\n//聞いた気がするよなぁー。確か」\r\n\"Now that you mention it, I remember hearing something about how retirees should stay out of family business.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160880e083'>\r\n//「身内は余計な口出しをしないもんだとか、\r\n//聞いた気がするよなぁー。確か」\r\n\"Falando nisso, lembro de ter ouvido algo sobre como aposentados devem ficar fora dos assuntos da família.\"\r\n"
  },
  {
   "offset": 20626,
@@ -422,57 +422,57 @@
  {
   "offset": 20753,
   "en": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0160900e085'>\r\n//「……<RUBY text='・・'>御館</RUBY>。\r\n//　どうぞ、御命令を」\r\n\"So what are your orders, <I>milord?</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0160900e085'>\r\n//「……<RUBY text='・・'>御館</RUBY>。\r\n//　どうぞ、御命令を」\r\n\"Então, quais são as suas ordens, <I>meu senhor?</I>\"\r\n"
  },
  {
   "offset": 21011,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160910b32'>\r\n//「うん。\r\n//　じゃ、みんなで町に行こっか」\r\n\"Right, everyone. Let's head for the town!\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160920b32'>\r\n//「もちろん完全武装でね」\r\n\"And don't forget the big guns.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160910b32'>\r\n//「うん。\r\n//　じゃ、みんなで町に行こっか」\r\n\"Certo, pessoal. Vamos para a cidade!\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160920b32'>\r\n//「もちろん完全武装でね」\r\n\"E não esqueçam as armas pesadas.\"\r\n"
  },
  {
   "offset": 21389,
   "en": "\r\n//【ｅｔｃ／山賊Ｆ】\r\n<voice name='ｅｔｃ／山賊Ｆ' class='その他男声' src='voice/ma05/0160930e086'>\r\n//「了解！」\r\n\"Yes sir!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｆ】\r\n<voice name='ｅｔｃ／山賊Ｆ' class='その他男声' src='voice/ma05/0160930e086'>\r\n//「了解！」\r\n\"Sim, senhor!\"\r\n"
  },
  {
   "offset": 21552,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160940e083'>\r\n//「はっはぁーーー!!」\r\n\"Whoohoo!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0160940e083'>\r\n//「はっはぁーーー!!」\r\n\"Uhuuu!\"\r\n"
  },
  {
   "offset": 21729,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160950b32'>\r\n//「…………。\r\n//　何のつもり？　姉さん」\r\n\"...What are you doing, sis?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160950b32'>\r\n//「…………。\r\n//　何のつもり？　姉さん」\r\n\"...O que você está fazendo, irmã?\"\r\n"
  },
  {
   "offset": 21923,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160960b32'>\r\n//「邪魔だよ。\r\n//　どいてよ」\r\n\"You're blocking the road. Come on.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160960b32'>\r\n//「邪魔だよ。\r\n//　どいてよ」\r\n\"Você está bloqueando o caminho. Vamos logo.\"\r\n"
  },
  {
   "offset": 22106,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160970b31'>\r\n//「……通しません」\r\n\"...I'm not budging.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160970b31'>\r\n//「……通しません」\r\n\"...Não vou sair daqui.\"\r\n"
  },
  {
   "offset": 22255,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160980b32'>\r\n//「なんで？」\r\n\"Why?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0160980b32'>\r\n//「なんで？」\r\n\"Por quê?\"\r\n"
  },
  {
   "offset": 22386,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160990b31'>\r\n//「部下はアタシが抑えると約束したの。\r\n//　言葉で無理なら……力ずくでもそうする」\r\n\"I promised to keep my men in check. If words won't work... then I'll have to do it by force.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0160990b31'>\r\n//「部下はアタシが抑えると約束したの。\r\n//　言葉で無理なら……力ずくでもそうする」\r\n\"Prometi manter meus homens sob controle. Se palavras não bastarem... então terei que fazer isso à força.\"\r\n"
  },
  {
   "offset": 22699,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161000b32'>\r\n//「ちょっと。\r\n//　本気？」\r\n\"Wait. Seriously?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161000b32'>\r\n//「ちょっと。\r\n//　本気？」\r\n\"Espera. Falando sério?\"\r\n"
  },
  {
   "offset": 22861,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0161010b31'>\r\n//「冗談で太刀を抜けなんて、アタシは一度で\r\n//も教えた？」\r\n\"When did I ever teach you to draw your sword as a <br>joke?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0161010b31'>\r\n//「冗談で太刀を抜けなんて、アタシは一度で\r\n//も教えた？」\r\n\"Quando foi que eu te ensinei a sacar a espada de brincadeira?\"\r\n"
  },
  {
   "offset": 23105,
@@ -482,32 +482,32 @@
  {
   "offset": 23232,
   "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0161030e082'>\r\n//「ご、御舎弟。\r\n//　どうかこの場は、御館の言う通りに……」\r\n\"Y- Young master! We'd better do as our lady says!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0161030e082'>\r\n//「ご、御舎弟。\r\n//　どうかこの場は、御館の言う通りに……」\r\n\"J-Jovem senhor! É melhor fazermos o que a senhora diz!\"\r\n"
  },
  {
   "offset": 23506,
   "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0161040e080'>\r\n//「お前らも退けよ！\r\n//　とにかく、一度武器を置けっ！」\r\n\"Everyone, put down your weapons! Let's all just calm down!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0161040e080'>\r\n//「お前らも退けよ！\r\n//　とにかく、一度武器を置けっ！」\r\n\"Todo mundo, abaixem as armas! Vamos todos nos acalmar!\"\r\n"
  },
  {
   "offset": 23783,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161050b32'>\r\n//「もういい」\r\n\"...I'm done with this shit.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161050b32'>\r\n//「もういい」\r\n\"...Cansei dessa merda.\"\r\n"
  },
  {
   "offset": 23937,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161060b32'>\r\n//「――尽忠報国」\r\n<center>\"My life for the Empire.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161060b32'>\r\n//「――尽忠報国」\r\n<center>\"Minha vida pelo Império.\"\r\n"
  },
  {
   "offset": 24101,
   "en": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0161070e080'>\r\n//「御舎弟――!?」\r\n\"Young master!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ａ】\r\n<voice name='ｅｔｃ／山賊Ａ' class='その他男声' src='voice/ma05/0161070e080'>\r\n//「御舎弟――!?」\r\n\"Jovem senhor!?\"\r\n"
  },
  {
   "offset": 24278,
   "en": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0161080e082'>\r\n//「な、あっ」\r\n\"Agh―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｂ】\r\n<voice name='ｅｔｃ／山賊Ｂ' class='その他男声' src='voice/ma05/0161080e082'>\r\n//「な、あっ」\r\n\"Agh―\"\r\n"
  },
  {
   "offset": 24442,
@@ -517,17 +517,17 @@
  {
   "offset": 24566,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161100b32'>\r\n//「この劒冑はもう僕のだよ。\r\n//　そうだよね？　姉さん」\r\n\"This tsurugi is mine now. You ceded it to me, remember?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161100b32'>\r\n//「この劒冑はもう僕のだよ。\r\n//　そうだよね？　姉さん」\r\n\"Este tsurugi agora é meu. Você o cedeu para mim, lembra?\"\r\n"
  },
  {
   "offset": 24809,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0161110b31'>\r\n//「一磨!!」\r\n\"Kazuma!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0161110b31'>\r\n//「一磨!!」\r\n\"Kazuma!\"\r\n"
  },
  {
   "offset": 24933,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0161120b31'>\r\n//「……っ……」\r\n\"...Kuh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/ma05/0161120b31'>\r\n//「……っ……」\r\n\"...Kuh...\"\r\n"
  },
  {
   "offset": 25066,
@@ -542,71 +542,71 @@
  {
   "offset": 25382,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161150b32'>\r\n//「ねえ」\r\n\"Hey.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161150b32'>\r\n//「ねえ」\r\n\"Ei.\"\r\n"
  },
  {
   "offset": 25507,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0161160e083'>\r\n//「は――\r\n//　はいッ!?」\r\n\"Y- Yes!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0161160e083'>\r\n//「は――\r\n//　はいッ!?」\r\n\"S- Sim!?\"\r\n"
  },
  {
   "offset": 25688,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161170b32'>\r\n//「姉さんてさ。\r\n//　結構、<RUBY text='・・・'>いい値</RUBY>で売れそうな気がしない？」\r\n\"I'm thinking... wouldn't she fetch a good price at market?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161170b32'>\r\n//「姉さんてさ。\r\n//　結構、<RUBY text='・・・'>いい値</RUBY>で売れそうな気がしない？」\r\n\"Estou pensando... ela não renderia um bom preço no mercado?\"\r\n"
  },
  {
   "offset": 25970,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0161180e083'>\r\n//「は……」\r\n\"Um...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0161180e083'>\r\n//「は……」\r\n\"Hum...\"\r\n"
  },
  {
   "offset": 26130,
   "en": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0161190e084'>\r\n//「……はぁ」\r\n\"I... guess?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0161190e084'>\r\n//「……はぁ」\r\n\"Eu... acho?\"\r\n"
  },
  {
   "offset": 26299,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161200b32'>\r\n//「でも多分姉さん、男を知らないと思うんだ\r\n//よね。\r\n//　それじゃ価値半減だよ」\r\n\"But I don't think she's ever had a man. They only pay half price for virgins, you know.\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161210b32'>\r\n//「だからさ。\r\n//　お前たち、教えてやってよ」\r\n\"So why don't you break her in?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161200b32'>\r\n//「でも多分姉さん、男を知らないと思うんだ\r\n//よね。\r\n//　それじゃ価値半減だよ」\r\n\"Mas acho que ela nunca conheceu um homem. Só pagam metade do preço por virgens, sabia?\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161210b32'>\r\n//「だからさ。\r\n//　お前たち、教えてやってよ」\r\n\"Então por que vocês não a desbravam?\"\r\n"
  },
  {
   "offset": 26803,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0161220e083'>\r\n//「……はっ？」\r\n\"...Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0161220e083'>\r\n//「……はっ？」\r\n\"...Hã?\"\r\n"
  },
  {
   "offset": 26971,
   "en": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0161230e085'>\r\n//「えーっと。\r\n//　……いいんですかい？」\r\n\"Um... you sure?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0161230e085'>\r\n//「えーっと。\r\n//　……いいんですかい？」\r\n\"Hum... tem certeza?\"\r\n"
  },
  {
   "offset": 27184,
   "en": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161240b32'>\r\n//「いいよ。\r\n//　っていうか、命令」\r\n\"Sure, I'm sure. Make it an order.\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161250b32'>\r\n//「やっちゃって。\r\n//　溜まってるんでしょ？」\r\n\"Fuck her. I'm sure you've been wanting some action.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161240b32'>\r\n//「いいよ。\r\n//　っていうか、命令」\r\n\"Claro, tenho certeza. Faça disso uma ordem.\"\r\n\r\n//【首領弟】\r\n<voice name='首領弟' class='首領弟' src='voice/ma05/0161250b32'>\r\n//「やっちゃって。\r\n//　溜まってるんでしょ？」\r\n\"Fodam ela. Aposto que vocês andam querendo ação.\"\r\n"
  },
  {
   "offset": 27591,
   "en": "\r\n//【ｅｔｃ／山賊Ｆ】\r\n<voice name='ｅｔｃ／山賊Ｆ' class='その他男声' src='voice/ma05/0161260e086'>\r\n//「……そりゃまあ」\r\n\"Well...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｆ】\r\n<voice name='ｅｔｃ／山賊Ｆ' class='その他男声' src='voice/ma05/0161260e086'>\r\n//「……そりゃまあ」\r\n\"Bem...\"\r\n"
  },
  {
   "offset": 27765,
   "en": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0161270e085'>\r\n//「ねぇ……」\r\n\"I guess...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｅ】\r\n<voice name='ｅｔｃ／山賊Ｅ' class='その他男声' src='voice/ma05/0161270e085'>\r\n//「ねぇ……」\r\n\"Acho que...\"\r\n"
  },
  {
   "offset": 27933,
   "en": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0161280e083'>\r\n//「……まっ、御命令とあらば」\r\n\"...It㉓<I>is</I>㉗an order.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｃ】\r\n<voice name='ｅｔｃ／山賊Ｃ' class='その他男声' src='voice/ma05/0161280e083'>\r\n//「……まっ、御命令とあらば」\r\n\"Isso㉓<I>é</I>㉗uma ordem.\"\r\n"
  },
  {
   "offset": 28144,
   "en": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0161290e084'>\r\n//「やっちまいますか」\r\n\"Better get started.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｄ】\r\n<voice name='ｅｔｃ／山賊Ｄ' class='その他男声' src='voice/ma05/0161290e084'>\r\n//「やっちまいますか」\r\n\"Melhor começar.\"\r\n"
  },
  {
   "offset": 28333,
   "en": "\r\n//【ｅｔｃ／山賊Ｆ】\r\n<voice name='ｅｔｃ／山賊Ｆ' class='その他男声' src='voice/ma05/0161300e086'>\r\n//「やっちまおうや。\r\n//　遠慮なく」\r\n\"Sounds good to me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／山賊Ｆ】\r\n<voice name='ｅｔｃ／山賊Ｆ' class='その他男声' src='voice/ma05/0161300e086'>\r\n//「やっちまおうや。\r\n//　遠慮なく」\r\n\"Por mim, tudo bem.\"\r\n"
  }
 ]

@@ -2,37 +2,37 @@
  {
   "offset": 213,
   "en": "\r\n//　いーろーはーにーほーへーとぉ……\r\n  Though once the flowers bloomed so bright...\r\n",
-  "pt": ""
+  "pt": "\r\n//　いーろーはーにーほーへーとぉ……\r\n  Iro wa nioe do...\r\n"
  },
  {
   "offset": 326,
   "en": "\r\n//　ちぃーりーぬーるーを\r\n//　わーかーよーたーれーそ……\r\n  Now only shades remain...<K>\r\n  And though I hold their memory dear...\r\n",
-  "pt": ""
+  "pt": "\r\n//　ちぃーりーぬーるーを\r\n//　わーかーよーたーれーそ……\r\n  Apenas sombras restam...<K>\r\n  E embora eu guarde sua memória com carinho...\r\n"
  },
  {
   "offset": 493,
   "en": "\r\n//　つぅーねぇーなーらぁーむ……\r\n  Nothing is the same...\r\n",
-  "pt": ""
+  "pt": "\r\n//　つぅーねぇーなーらぁーむ……\r\n  Nada é o mesmo...\r\n"
  },
  {
   "offset": 578,
   "en": "\r\n//　うーゐーのーおーくーやーま……\r\n//　けーふーこーえーてー……\r\n  If I could cross the mountains and leave this fleeting world behind...\r\n",
-  "pt": ""
+  "pt": "\r\n//　うーゐーのーおーくーやーま……\r\n//　けーふーこーえーてー……\r\n  Se eu pudesse atravessar as montanhas e deixar este mundo efêmero para trás...\r\n"
  },
  {
   "offset": 757,
   "en": "\r\n//　あぁーさーきーゆーめーみーし……\r\n//　ゑーひーもーせーすぅ……\r\n  No more would I drown my sorrows...<K>\r\n  Nor dream of gentle lies...\r\n",
-  "pt": ""
+  "pt": "\r\n//　あぁーさーきーゆーめーみーし……\r\n//　ゑーひーもーせーすぅ……\r\n  Não mais afogaria minhas mágoas...<K>\r\n  Nem sonharia com mentiras gentis...\r\n"
  },
  {
   "offset": 938,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100010a00'>\r\n//（浅き夢見し……\r\n//　酔ひもせず……）\r\n(No more would I drown my sorrows...\r\n Nor dream of gentle lies...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100010a00'>\r\n//（浅き夢見し……\r\n//　酔ひもせず……）\r\n(Não mais afogaria minhas mágoas...\r\n Nem sonharia com mentiras gentis...)\r\n"
  },
  {
   "offset": 1158,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100020a00'>\r\n//（酔ひも……せず…………）\r\n(Nor dream... of gentle... lies...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100020a00'>\r\n//（酔ひも……せず…………）\r\n(Nem sonhar... com gentis... mentiras...)\r\n"
  },
  {
   "offset": 1330,
@@ -42,7 +42,7 @@
  {
   "offset": 1454,
   "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100040b06'>\r\n//「あっ。おきたー！」\r\n\"Ah! He's awake!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100040b06'>\r\n//「あっ。おきたー！」\r\n\"Ah! Ele acordou!\"\r\n"
  },
  {
   "offset": 1599,
@@ -52,92 +52,92 @@
  {
   "offset": 1723,
   "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100060b06'>\r\n//「じっちゃー！\r\n//　にーやがおきたよぉー！」\r\n\"Grandpa! He's awake!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100060b06'>\r\n//「じっちゃー！\r\n//　にーやがおきたよぉー！」\r\n\"Vovô! O moço acordou!\"\r\n"
  },
  {
   "offset": 1907,
   "en": "\r\n//　……家の中だ。\r\n//　どこかの百姓家だろうか。\r\n  I awaken in an unfamiliar house. Perhaps the home of a local farmer?\r\n\r\n//　見覚えのない床の上、見覚えのない布団の中に寝か\r\n//されている。\r\n//　<RUBY text='ありてい'>有体</RUBY>に言って、ひどく硬い。だが温かくはあった。\r\n  The floor beneath my back is hard, but the futon around me is warm.\r\n\r\n//　己の全身を知覚する。\r\n//　……胸に包帯を巻かれているようだ。ややきつめに\r\n//締めてある。打撲傷ではなく、おそらく激しい出血を\r\n//した際の巻き方。\r\n  After examining my environment, I shift my attention to my body. A bandage is wrapped around my chest, too tightly to be for a bruise. This sort of wrapping is used for heavy bleeding.\r\n\r\n//　さて。\r\n//　そのような負傷をいつ、何処で――\r\n  So... when did I suffer such a wound?\r\n",
-  "pt": ""
+  "pt": "\r\n//　……家の中だ。\r\n//　どこかの百姓家だろうか。\r\n  Desperto em uma casa desconhecida. Talvez o lar de algum camponês local?\r\n\r\n//　見覚えのない床の上、見覚えのない布団の中に寝か\r\n//されている。\r\n//　<RUBY text='ありてい'>有体</RUBY>に言って、ひどく硬い。だが温かくはあった。\r\n  O chão sob as minhas costas é duro, mas o futon ao meu redor está quente.\r\n\r\n//　己の全身を知覚する。\r\n//　……胸に包帯を巻かれているようだ。ややきつめに\r\n//締めてある。打撲傷ではなく、おそらく激しい出血を\r\n//した際の巻き方。\r\n  Depois de examinar o ambiente, volto a atenção para o meu corpo. Há uma bandagem enrolada no meu peito, apertada demais para ser de uma contusão. Esse tipo de enfaixamento é usado em hemorragias graves.\r\n\r\n//　さて。\r\n//　そのような負傷をいつ、何処で――\r\n  Então... quando sofri um ferimento desses?\r\n"
  },
  {
   "offset": 2861,
   "en": "\r\n//　…………。\r\n//　思い出した。\r\n  ...Now I remember.\r\n\r\n//　そう、俺は――<RUBY text='お'>墜落</RUBY>ちたのだ。\r\n//　確か……山の斜面へ……。\r\n  I crashed. The last thing I saw was the mountain rushing up to meet me.\r\n",
-  "pt": ""
+  "pt": "\r\n//　…………。\r\n//　思い出した。\r\n  ...Lembro agora.\r\n\r\n//　そう、俺は――<RUBY text='お'>墜落</RUBY>ちたのだ。\r\n//　確か……山の斜面へ……。\r\n  Caí. A última coisa que vi foi a montanha vindo ao meu encontro.\r\n"
  },
  {
   "offset": 3133,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100070a00'>\r\n//「……ッ！」\r\n\"Agh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100070a00'>\r\n//「……ッ！」\r\n\"Aaai!\"\r\n"
  },
  {
   "offset": 3255,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100080b05'>\r\n//「わっ、駄目ですよ。まだ起きられません。\r\n//　そのまま寝ていてください」\r\n\"Ah! Please don't move. You mustn't get up yet.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100080b05'>\r\n//「わっ、駄目ですよ。まだ起きられません。\r\n//　そのまま寝ていてください」\r\n\"Ah! Por favor, não se mova. Você ainda não pode se levantar.\"\r\n"
  },
  {
   "offset": 3507,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100090a00'>\r\n//「つぅ……」\r\n\"Ugh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100090a00'>\r\n//「つぅ……」\r\n\"Urgh...\"\r\n"
  },
  {
   "offset": 3631,
   "en": "\r\n//　体内を走り抜けた稲妻に呻きをこぼしながら、声の\r\n//聞こえてきた方へ首をめぐらす。\r\n//　年の頃は二桁始めか。少女がひとり、座っていた。\r\n//手には布巾、傍らには水の入った<RUBY text='たらい'>盥</RUBY>を置いている。\r\n  While fighting the pain, I look toward the voice to see a girl, perhaps in her early teens, kneeling by my pillow. In her hands is a washrag, which she wets from the pail of water beside her.\r\n\r\n//　その肌は褐色。\r\n//　両耳は細く尖っていた。\r\n  Her skin is dark, and her ears pointed.\r\n",
-  "pt": ""
+  "pt": "\r\n//　体内を走り抜けた稲妻に呻きをこぼしながら、声の\r\n//聞こえてきた方へ首をめぐらす。\r\n//　年の頃は二桁始めか。少女がひとり、座っていた。\r\n//手には布巾、傍らには水の入った<RUBY text='たらい'>盥</RUBY>を置いている。\r\n  Enquanto luto contra a dor, viro o rosto para a voz e vejo uma garota, talvez no começo da adolescência, ajoelhada ao lado do meu travesseiro. Nas mãos, um pano, que ela molha no balde de água ao lado.\r\n\r\n//　その肌は褐色。\r\n//　両耳は細く尖っていた。\r\n  A pele dela é escura, e as orelhas, pontudas.\r\n"
  },
  {
   "offset": 4253,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100100a00'>\r\n//「……蝦夷の方ですか」\r\n\"...An Emishi?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100100a00'>\r\n//「……蝦夷の方ですか」\r\n\"...Uma Emishi?\"\r\n"
  },
  {
   "offset": 4399,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100110b05'>\r\n//「え？　えと……はい」\r\n\"Huh? Oh... yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100110b05'>\r\n//「え？　えと……はい」\r\n\"Hã? Ah... sim.\"\r\n"
  },
  {
   "offset": 4547,
   "en": "\r\n//　綺麗な風貌をしている。\r\n//　種族的な特徴だろう。彫りが深い一方で、細やかな\r\n//造形。良い意味で彫像的な美しさがあった。\r\n\r\n//　繊細な指先が、今はおろおろと、布巾を弄んでいる。\r\n  The girl is fetching, with the angular features characteristic of her race. The lines of her face are sharp, but delicate, giving her a certain sculpture-like beauty.\r\n\r\n  Her long, slender fingers fiddle with the damp cloth.\r\n",
-  "pt": ""
+  "pt": "\r\n//　綺麗な風貌をしている。\r\n//　種族的な特徴だろう。彫りが深い一方で、細やかな\r\n//造形。良い意味で彫像的な美しさがあった。\r\n\r\n//　繊細な指先が、今はおろおろと、布巾を弄んでいる。\r\n  A garota é bela, com os traços angulosos característicos de sua raça. As linhas do rosto são afiadas, porém delicadas, dando-lhe uma beleza quase escultural.\r\n\r\n  Seus dedos longos e finos brincam nervosos com o pano úmido.\r\n"
  },
  {
   "offset": 5047,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100120b05'>\r\n//「あ、あのぅ……」\r\n\"U- Um...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100120b05'>\r\n//「あ、あのぅ……」\r\n\"H-Hum...\"\r\n"
  },
  {
   "offset": 5182,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100130a00'>\r\n//「はい」\r\n\"Yes?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100130a00'>\r\n//「はい」\r\n\"Sim?\"\r\n"
  },
  {
   "offset": 5298,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100140b05'>\r\n//「汗を拭いた方がいいと思うんですけど……\r\n//　その、か、構いませんか？」\r\n\"I was going to wipe the sweat off... D- Do you mind?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100140b05'>\r\n//「汗を拭いた方がいいと思うんですけど……\r\n//　その、か、構いませんか？」\r\n\"Eu ia limpar o suor... V-Você se importa?\"\r\n"
  },
  {
   "offset": 5556,
   "en": "\r\n//　確かに、全身が汗ばんでいる。\r\n//　拭いてもらえるのなら有難い。こちらには厭う理由\r\n//などある筈も――\r\n  Now that she mentions it, I notice that my skin is indeed soaked with sweat. Why would I mind?\r\n",
-  "pt": ""
+  "pt": "\r\n//　確かに、全身が汗ばんでいる。\r\n//　拭いてもらえるのなら有難い。こちらには厭う理由\r\n//などある筈も――\r\n  Agora que ela menciona, percebo que estou encharcado de suor. Por que eu me importaria?\r\n"
  },
  {
   "offset": 5817,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100150a00'>\r\n//（……ああ。成程）\r\n(...Ah, of course.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100150a00'>\r\n//（……ああ。成程）\r\n(...Ah, claro.)\r\n"
  },
  {
   "offset": 5961,
   "en": "\r\n//　俺は少女の心情を察した。\r\n  The reason for her hesitation is clear.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺は少女の心情を察した。\r\n  Compreendo o motivo da hesitação dela.\r\n"
  },
  {
   "offset": 6057,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100160a00'>\r\n//「失礼。うら若い女性にご造作をおかけする\r\n//ようなことではありませんでした。\r\n//　布巾をお貸し下さい。お見苦しい体に柔手\r\n//を触れて頂くには及びません」\r\n\"My apologies. Please pass me the washrag. I would not ask a maiden such as yourself to touch my unsightly body.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100160a00'>\r\n//「失礼。うら若い女性にご造作をおかけする\r\n//ようなことではありませんでした。\r\n//　布巾をお貸し下さい。お見苦しい体に柔手\r\n//を触れて頂くには及びません」\r\n\"Minhas desculpas. Por favor, me passe o pano. Eu não pediria que uma donzela como você tocasse meu corpo disforme.\"\r\n"
  },
  {
   "offset": 6490,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100170b05'>\r\n//「え!?　あああ、いえ、違いますっ」\r\n\"Huh!? Ahh! Th- That's not what I meant!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100170b05'>\r\n//「え!?　あああ、いえ、違いますっ」\r\n\"Hã!? Ahh! N-Não é isso que eu quis dizer!\"\r\n"
  },
  {
   "offset": 6679,
@@ -147,202 +147,202 @@
  {
   "offset": 6798,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100190b05'>\r\n//「そうじゃなくて……\r\n//　その、<RUBY text='あて'>自分</RUBY>、蝦夷ですから。触られると、\r\n//ほら……」\r\n\"It's... well, I'm an Emishi, so I thought you might be worried about, you know...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100190b05'>\r\n//「そうじゃなくて……\r\n//　その、<RUBY text='あて'>自分</RUBY>、蝦夷ですから。触られると、\r\n//ほら……」\r\n\"É que... bom, eu sou Emishi, então pensei que você pudesse ficar preocupado com, sabe...\"\r\n"
  },
  {
   "offset": 7119,
   "en": "\r\n//　けがれる、とか。\r\n//　尻蕾になった少女の声は、最後にそう言ったように\r\n//思えた。\r\n  <I>...defilement,</I> she seems to finish, though the word is barely audible.\r\n\r\n  ...Ah.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　けがれる、とか。\r\n//　尻蕾になった少女の声は、最後にそう言ったように\r\n//思えた。\r\n  <I>...contaminação,</I> ela parece concluir, embora a palavra saia quase inaudível.\r\n\r\n  ...Ah.\r\n\r\n"
  },
  {
   "offset": 7347,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100200a00'>\r\n//「宜しくお願いします」\r\n\"If you'd be so kind.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100200a00'>\r\n//「宜しくお願いします」\r\n\"Se não se importar.\"\r\n"
  },
  {
   "offset": 7500,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100210b05'>\r\n//「あっ、はっ、はい……」\r\n\"Ah! O- Of course!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100210b05'>\r\n//「あっ、はっ、はい……」\r\n\"Ah! C-Claro!\"\r\n"
  },
  {
   "offset": 7653,
   "en": "\r\n//　慌てた手付きで、少女は濡らした布巾を一度絞ると、\r\n//こちらの額に当ててきてくれる。\r\n//　ひやりとする感触が心地良かった。\r\n  As though only just remembering the rag in her hands, she wrings it out hastily and presses it to my forehead. The damp cloth is cool against my skin.\r\n",
-  "pt": ""
+  "pt": "\r\n//　慌てた手付きで、少女は濡らした布巾を一度絞ると、\r\n//こちらの額に当ててきてくれる。\r\n//　ひやりとする感触が心地良かった。\r\n  Como se só então se lembrasse do pano nas mãos, ela o torce às pressas e o pressiona contra minha testa. O tecido úmido é fresco contra minha pele.\r\n"
  },
  {
   "offset": 8000,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100220a01'>\r\n//《……御堂。加減はどう》\r\n《...Mido. How do you feel?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100220a01'>\r\n//《……御堂。加減はどう》\r\n《...Mido. Como se sente?》\r\n"
  },
  {
   "offset": 8171,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100230a00'>\r\n//（<RUBY text='おまえ'>村正</RUBY>か。悪くはない）\r\n(Muramasa. My condition is fair.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100230a00'>\r\n//（<RUBY text='おまえ'>村正</RUBY>か。悪くはない）\r\n(Muramasa. Minhas condições são razoáveis.)\r\n"
  },
  {
   "offset": 8365,
   "en": "\r\n//　視線を動かす。\r\n//　部屋の隅に深紅色の蜘蛛が蹲っていた。異様な光景\r\n//ではある――が、ここが蝦夷の住居ならば、妖怪推参\r\n//なりと騒がれることはよもやないだろう。\r\n  I shift my gaze to a corner of the room, where a giant crimson spider sits watching us. The sight is highly bizarre, but as this is an Emishi home, I probably don't have to worry about anyone mistaking my tsurugi for a storybook monster.\r\n\r\n//　実際、甲斐甲斐しく汗を拭いてくれている少女は、\r\n//そちらを気にした風でもない。\r\n  As expected, the girl appears unperturbed by Muramasa's presence.\r\n",
-  "pt": ""
+  "pt": "\r\n//　視線を動かす。\r\n//　部屋の隅に深紅色の蜘蛛が蹲っていた。異様な光景\r\n//ではある――が、ここが蝦夷の住居ならば、妖怪推参\r\n//なりと騒がれることはよもやないだろう。\r\n  Desvio o olhar para um canto do quarto, onde uma aranha carmesim enorme nos observa. A visão é deveras bizarra, mas, sendo esta uma casa Emishi, provavelmente não preciso temer que alguém confunda minha tsurugi com um monstro de conto de fadas.\r\n\r\n//　実際、甲斐甲斐しく汗を拭いてくれている少女は、\r\n//そちらを気にした風でもない。\r\n  Como esperado, a garota parece impassível diante da presença de Muramasa.\r\n"
  },
  {
   "offset": 9050,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100240a00'>\r\n//（……少なくとも、袈裟懸けに斬られて墜落\r\n//したにしては。\r\n//　あの後の経過を教えて欲しい）\r\n(...At least, considering that I crashed after nearly being cut in half. What's happened since?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100240a00'>\r\n//（……少なくとも、袈裟懸けに斬られて墜落\r\n//したにしては。\r\n//　あの後の経過を教えて欲しい）\r\n(...Ao menos, considerando que caí depois de quase ser cortado ao meio. O que aconteceu desde então?)\r\n"
  },
  {
   "offset": 9378,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100250a01'>\r\n//《重傷の貴方を村まで連れて行こうとしたの\r\n//だけれど。私も動けなくて。\r\n//　難儀していたら、蝦夷の老人がやって来て\r\n//助けてくれたのよ》\r\n《I tried to carry you back to the village, but my damage was too severe. I only managed a few meters, but then an Emishi elder came and rescued us.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100250a01'>\r\n//《重傷の貴方を村まで連れて行こうとしたの\r\n//だけれど。私も動けなくて。\r\n//　難儀していたら、蝦夷の老人がやって来て\r\n//助けてくれたのよ》\r\n《Tentei levar você gravemente ferido até a vila, mas eu também estava incapaz de me mover. Quando as coisas estavam difíceis, um velho Emishi apareceu e nos ajudou.》\r\n"
  },
  {
   "offset": 9832,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100260a00'>\r\n//（老人……）\r\n(An elder?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100260a00'>\r\n//（老人……）\r\n(Um velho...)\r\n"
  },
  {
   "offset": 9959,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100270a01'>\r\n//《この家の主。\r\n//　ちなみに、ここは例のお山の中》\r\n《The master of this house. We're on the mountain, by the way.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100270a01'>\r\n//《この家の主。\r\n//　ちなみに、ここは例のお山の中》\r\n《O dono desta casa. Aliás, estamos naquela montanha.》\r\n"
  },
  {
   "offset": 10202,
   "en": "\r\n//　そう聞いて、脳内で幾つかの断片が組み合わさる。\r\n//　――村長の話。山に住む、祟り神を祀る蝦夷の一族。\r\n  Pieces snap together in my mind. The mayor spoke of an Emishi tribe on the mountain, one charged with keeping a wrathful god sealed.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そう聞いて、脳内で幾つかの断片が組み合わさる。\r\n//　――村長の話。山に住む、祟り神を祀る蝦夷の一族。\r\n  As peças se encaixam na minha mente. O que o prefeito disse: uma tribo Emishi que vive na montanha, encarregada de selar um deus irado.\r\n"
  },
  {
   "offset": 10503,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100280a00'>\r\n//（成程……）\r\n(I see.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100280a00'>\r\n//（成程……）\r\n(Entendo.)\r\n"
  },
  {
   "offset": 10627,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100290a01'>\r\n//《話せることはこのくらい。時間的にはまだ\r\n//大して経ってないのよ。三、四時間っていう\r\n//ところ。\r\n//　詳しい状況は貴方から訊いてみて》\r\n《That's about it. It's only been about three or four hours since the crash. You can ask them for the details.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100290a01'>\r\n//《話せることはこのくらい。時間的にはまだ\r\n//大して経ってないのよ。三、四時間っていう\r\n//ところ。\r\n//　詳しい状況は貴方から訊いてみて》\r\n《É mais ou menos isso. Faz só umas três ou quatro horas desde a queda. Você pode perguntar os detalhes a eles.》\r\n"
  },
  {
   "offset": 11040,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100300a00'>\r\n//（お前の損傷程度は？）\r\n(What's your condition?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100300a00'>\r\n//（お前の損傷程度は？）\r\n(Qual é o seu estado?)\r\n"
  },
  {
   "offset": 11195,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100310a01'>\r\n//《悪くはないかしらね。袈裟懸けに斬られて\r\n//墜落したにしては。\r\n//　これから回復に専念する……後はよろしく》\r\n《Not bad, considering I crashed after nearly being cut in half. I'm going to focus on repairing the damage, so you take care of things here.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100310a01'>\r\n//《悪くはないかしらね。袈裟懸けに斬られて\r\n//墜落したにしては。\r\n//　これから回復に専念する……後はよろしく》\r\n《Nada mal, considerando que caí depois de quase ser cortado ao meio. Vou me concentrar em me recuperar... o resto fica com você》\r\n"
  },
  {
   "offset": 11602,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100320a00'>\r\n//（承知した）\r\n(Understood.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100320a00'>\r\n//（承知した）\r\n(Entendido.)\r\n"
  },
  {
   "offset": 11731,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100330b05'>\r\n//「あ……そちらの蜘蛛の人、お武家様の劔冑\r\n//ですよね。心配していたんですよ。\r\n//　あの、蜘蛛さん。こちらのかた、起きられ\r\n//ましたよ……？」\r\n\"Ah... The lady spider over there―your tsurugi, right?―she was worried about you.\r\n  Um, miss spider? Your warrior is awake.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100330b05'>\r\n//「あ……そちらの蜘蛛の人、お武家様の劔冑\r\n//ですよね。心配していたんですよ。\r\n//　あの、蜘蛛さん。こちらのかた、起きられ\r\n//ましたよ……？」\r\n\"Ah... A senhora aranha ali―seu tsurugi, certo?―ela estava preocupada com você.\r\n  Hã, senhorita aranha? Seu guerreiro acordou.\"\r\n"
  },
  {
   "offset": 12162,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100340b05'>\r\n//「……あぅ。答えてくれない……。\r\n//　さっきまではこう、頭にぴりぴりくる声で\r\n//話してくれたのに」\r\n\"Oh... she's not answering. Before you woke, she spoke to us in a voice that felt sort of tingly in my head.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100340b05'>\r\n//「……あぅ。答えてくれない……。\r\n//　さっきまではこう、頭にぴりぴりくる声で\r\n//話してくれたのに」\r\n\"Ah... ela não está respondendo. Antes de você acordar, ela falava com a gente com uma voz que dava uma espécie de formigamento na cabeça.\"\r\n"
  },
  {
   "offset": 12512,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100350a00'>\r\n//「申し訳ありません。\r\n//　劔冑にとって、己の仕手や別の武者はとも\r\n//かく、普通の方と声を交わし合うのはとても\r\n//億劫なことのようなのです」\r\n\"I beg your pardon. Except in extraordinary circumstances, tsurugi are reluctant to communicate with anyone other than musha.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100360a00'>\r\n//「他意は何もありません。\r\n//　自分が起きたので後の対応はこちらへ任せ、\r\n//休息をとっているだけです。非礼の段は自分\r\n//からお詫び致します」\r\n\"Nothing is meant by it. My tsurugi is simply resting now that I've woken. Allow me to apologize for the offense.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100350a00'>\r\n//「申し訳ありません。\r\n//　劔冑にとって、己の仕手や別の武者はとも\r\n//かく、普通の方と声を交わし合うのはとても\r\n//億劫なことのようなのです」\r\n\"Peço desculpas. Para os tsurugi, salvo em circunstâncias extraordinárias, é muito penoso conversar com qualquer pessoa que não seja seu portador ou outro musha.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100360a00'>\r\n//「他意は何もありません。\r\n//　自分が起きたので後の対応はこちらへ任せ、\r\n//休息をとっているだけです。非礼の段は自分\r\n//からお詫び致します」\r\n\"Não há nada de pessoal nisso. Meu tsurugi está apenas descansando agora que acordei. Permita-me pedir desculpas pela ofensa.\"\r\n"
  },
  {
   "offset": 13342,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100370b05'>\r\n//「わ、いえいえ、そんな！　非礼だなんて。\r\n//　ちょっと残念だっただけですからっ」\r\n\"Ah! I- I'm not offended or anything! I was just a little disappointed, that's all!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100370b05'>\r\n//「わ、いえいえ、そんな！　非礼だなんて。\r\n//　ちょっと残念だっただけですからっ」\r\n\"Ah! N-não estou ofendida nem nada! Só fiquei um pouco decepcionada, é tudo!\"\r\n"
  },
  {
   "offset": 13642,
   "en": "\r\n//　赤面して、手をわたわたさせる少女。\r\n//　ちなみにその手は布巾をつかんでいて、包帯が巻か\r\n//れた俺の胸の上に置かれていたりする。\r\n  The girl blushes furiously and wrings her hands, hands which happen to be wiping my wounded chest.\r\n\r\n//　少々痛い。\r\n  It's fairly painful.\r\n",
-  "pt": ""
+  "pt": "\r\n//　赤面して、手をわたわたさせる少女。\r\n//　ちなみにその手は布巾をつかんでいて、包帯が巻か\r\n//れた俺の胸の上に置かれていたりする。\r\n  A garota cora e fica atrapalhada com as mãos, mãos que por acaso estão limpando meu peito ferido.\r\n\r\n//　少々痛い。\r\n  Dói um pouco.\r\n"
  },
  {
   "offset": 13994,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100380b55'>\r\n//「……何をやっとる。ふき」\r\n\"...Fuki. What are you <br>doing?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100380b55'>\r\n//「……何をやっとる。ふき」\r\n\"...Fuki. O que você está fazendo?\"\r\n"
  },
  {
   "offset": 14174,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100390b05'>\r\n//「え？　はぅあっ!!\r\n//　ごごっ、ごめんなさーい！」\r\n\"Huh!? Ahhhh! I'm sorry! I'm sorry!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100390b05'>\r\n//「え？　はぅあっ!!\r\n//　ごごっ、ごめんなさーい！」\r\n\"Hã!? Aaah!! D-desculpe! Desculpe!\"\r\n"
  },
  {
   "offset": 14380,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100400a00'>\r\n//「いえ。問題ありませんから」\r\n\"Please don't be. It's nothing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100400a00'>\r\n//「いえ。問題ありませんから」\r\n\"Por favor, não. Não foi nada.\"\r\n"
  },
  {
   "offset": 14552,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100410b55'>\r\n//「ふき、それは置け。\r\n//　そろそろ包帯を巻き直す。棚から新しいの\r\n//を出してこい」\r\n\"Put that down. It's time to change his bandages. Go fetch a fresh roll from the shelf.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100410b55'>\r\n//「ふき、それは置け。\r\n//　そろそろ包帯を巻き直す。棚から新しいの\r\n//を出してこい」\r\n\"Fuki, deixe isso aí. Está na hora de trocar as ataduras. Vá pegar um rolo novo na prateleira.\"\r\n"
  },
  {
   "offset": 14866,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100420b05'>\r\n//「は、はい。じっちゃま」\r\n\"Y- Yes, Grandpa!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100420b05'>\r\n//「は、はい。じっちゃま」\r\n\"S-sim, vovô!\"\r\n"
  },
  {
   "offset": 15018,
   "en": "\r\n//　少女が立ち上がり、箪笥に駆け寄る。\r\n//　代わって腰を下ろした男性は、物静かな眼でこちら\r\n//の全身を眺めてきた。その背中に張り付くようにして、\r\n//歳はもう三、四つ下だろう、別の娘が顔を出している。\r\n\r\n//　視線が合うと、はにかんだ笑顔。\r\n//　……いささか、対応に戸惑う。\r\n  She leaps to her feet and rushes to the cabinet. The man takes her place beside me. Peering out from behind his back is a second girl, about three or four years younger than the first.\r\n\r\n  Our eyes meet, and she smiles shyly. ...How should I respond?\r\n",
-  "pt": ""
+  "pt": "\r\n//　少女が立ち上がり、箪笥に駆け寄る。\r\n//　代わって腰を下ろした男性は、物静かな眼でこちら\r\n//の全身を眺めてきた。その背中に張り付くようにして、\r\n//歳はもう三、四つ下だろう、別の娘が顔を出している。\r\n\r\n//　視線が合うと、はにかんだ笑顔。\r\n//　……いささか、対応に戸惑う。\r\n  Ela se levanta de um salto e corre para o armário. O homem toma o lugar dela ao meu lado. Espiando por trás das costas dele, há uma segunda garota, cerca de três ou quatro anos mais nova que a primeira.\r\n\r\n  Nossos olhos se encontram, e ela sorri timidamente. ...Como devo responder?\r\n"
  },
  {
   "offset": 15678,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100430b55'>\r\n//「お加減は如何かな。御堂」\r\n\"How are you feeling, Mido?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100430b55'>\r\n//「お加減は如何かな。御堂」\r\n\"Como está se sentindo, Mido?\"\r\n"
  },
  {
   "offset": 15852,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100440a00'>\r\n//「……お陰をもちまして。\r\n//　一命をお救い頂いたようです」\r\n\"I am still alive. Thanks to you, I've been told.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100440a00'>\r\n//「……お陰をもちまして。\r\n//　一命をお救い頂いたようです」\r\n\"...Graças ao senhor. Ao que parece, salvaram minha vida.\"\r\n"
  },
  {
   "offset": 16085,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100450b55'>\r\n//「なに、<RUBY text='なれ'>貴公</RUBY>は自分で自分を救っておったよ。\r\n//　<RUBY text='うて'>己</RUBY>がしたのはここへ寝かせて包帯を巻いた\r\n//だけに過ぎん。しかし……」\r\n\"Hardly. You saved yourself. All I did was bandage you up and lie you down. Let's see...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100450b55'>\r\n//「なに、<RUBY text='なれ'>貴公</RUBY>は自分で自分を救っておったよ。\r\n//　<RUBY text='うて'>己</RUBY>がしたのはここへ寝かせて包帯を巻いた\r\n//だけに過ぎん。しかし……」\r\n\"Que nada. Foi o senhor que se salvou. Tudo o que fiz foi enfaixá-lo e deitá-lo aqui. Vejamos...\"\r\n"
  },
  {
   "offset": 16505,
   "en": "\r\n//　男性の手が包帯を解く。\r\n//　数箇所、傷口に包帯の張り付いていた所が引き剥が\r\n//されて痛みを発した。が、さほどの出血はない。\r\n//　傷口の惨さに比べての話だが。\r\n  The man proceeds to unwrap my bandages. When he pulls off the gauze, there is pain, but very little blood; at least, when compared to the ugliness of the scars.\r\n",
-  "pt": ""
+  "pt": "\r\n//　男性の手が包帯を解く。\r\n//　数箇所、傷口に包帯の張り付いていた所が引き剥が\r\n//されて痛みを発した。が、さほどの出血はない。\r\n//　傷口の惨さに比べての話だが。\r\n  O homem começa a desenrolar minhas ataduras. Quando ele puxa a gaze, sinto dor, mas muito pouco sangue; ao menos, em comparação com a feiura das cicatrizes.\r\n"
  },
  {
   "offset": 16914,
   "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100460b06'>\r\n//「おーっ」\r\n\"Wooow!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100460b06'>\r\n//「おーっ」\r\n\"Uauuu!\"\r\n"
  },
  {
   "offset": 17035,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100470b55'>\r\n//「……見よ。\r\n//　ここへ連れて来た時は骨が覗いておったが\r\n//な。既に肉が盛り上がり、傷を覆っている。\r\n//　まこと、武者の回復力は凄まじい」\r\n\"As I thought. When I brought you here, your arm had been slashed to the bone. But look, the wound has already closed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100470b55'>\r\n//「……見よ。\r\n//　ここへ連れて来た時は骨が覗いておったが\r\n//な。既に肉が盛り上がり、傷を覆っている。\r\n//　まこと、武者の回復力は凄まじい」\r\n\"Como eu pensava. Quando o trouxe aqui, seu braço estava cortado até o osso. Mas veja, a ferida já fechou.\"\r\n"
  },
  {
   "offset": 17462,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100480b05'>\r\n//「ど、どうして……？」\r\n\"But how?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100480b05'>\r\n//「ど、どうして……？」\r\n\"M-mas como...?\"\r\n"
  },
  {
   "offset": 17603,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100490b55'>\r\n//「これが紛い物にあらざる劔冑の力。\r\n//　鍛冶師の身魂を宿す真の劔冑はなまなかな\r\n//ことでは破壊されぬ。少々の欠損なら自力で\r\n//容易く復元してのける」\r\n\"This is the power of a shin'uchi. It is very difficult to destroy a tsurugi into which has been forged the body and soul of a smith. Given time, the armor is able to recover from almost any damage.\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100500b55'>\r\n//「そして、<RUBY text='タテワキ'>帯刀</RUBY>の儀によって結縁した武者と\r\n//劔冑は常に一体……。\r\n//　復元の力は武者の肉体にも及ぶのだ。この\r\n//ようにな」\r\n\"And once joined by the Tatewaki-no-Gi, a musha and his tsurugi are one. This power extends to him as <br>well.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100490b55'>\r\n//「これが紛い物にあらざる劔冑の力。\r\n//　鍛冶師の身魂を宿す真の劔冑はなまなかな\r\n//ことでは破壊されぬ。少々の欠損なら自力で\r\n//容易く復元してのける」\r\n\"Este é o poder de um tsurugi que não é falso. É muito difícil destruir um tsurugi verdadeiro, no qual foram forjados o corpo e a alma de um ferreiro. Com o tempo, a armadura consegue se recuperar de quase qualquer dano.\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100500b55'>\r\n//「そして、<RUBY text='タテワキ'>帯刀</RUBY>の儀によって結縁した武者と\r\n//劔冑は常に一体……。\r\n//　復元の力は武者の肉体にも及ぶのだ。この\r\n//ようにな」\r\n\"E, uma vez unidos pelo Tatewaki-no-Gi, um musha e seu tsurugi são um só. Esse poder se estende a ele também.\"\r\n"
  },
  {
   "offset": 18546,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100510b05'>\r\n//「そうなんだ……。\r\n//　すごい……」\r\n\"Really? Wow...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100510b05'>\r\n//「そうなんだ……。\r\n//　すごい……」\r\n\"Sério? Uau...\"\r\n"
  },
  {
   "offset": 18712,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100520a00'>\r\n//「さりながら。\r\n//　貴方がたがお助けくださらなければ、回復\r\n//するより前に命を絶たれていたことでしょう。\r\n//やはり御礼は申し上げねばなりません」\r\n\"Be that as it may, if not for your assistance, I would have been killed before I could recover. Please accept my thanks.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100520a00'>\r\n//「さりながら。\r\n//　貴方がたがお助けくださらなければ、回復\r\n//するより前に命を絶たれていたことでしょう。\r\n//やはり御礼は申し上げねばなりません」\r\n\"Seja como for, se não fosse pela ajuda de vocês, eu teria sido morto antes de poder me recuperar. Por favor, aceitem meus agradecimentos.\"\r\n"
  },
  {
   "offset": 19142,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100530b55'>\r\n//「なれは代官だのその取巻きだのに殺される\r\n//ような<RUBY text='ほし'>天命</RUBY>ではないよ。\r\n//　それに御堂、うては当然のことをしている\r\n//に過ぎん」\r\n\"It was simply not your fate to be slain by the prefect or his henchmen. Besides, Mido, I did only what anyone in my position would.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100530b55'>\r\n//「なれは代官だのその取巻きだのに殺される\r\n//ような<RUBY text='ほし'>天命</RUBY>ではないよ。\r\n//　それに御堂、うては当然のことをしている\r\n//に過ぎん」\r\n\"Não era o seu destino ser morto pelo prefeito ou pelos capangas dele. Além disso, Mido, eu só fiz o que qualquer um na minha posição faria.\"\r\n"
  },
  {
   "offset": 19589,
@@ -352,17 +352,17 @@
  {
   "offset": 19707,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100550b55'>\r\n//「なれが山の作業場であの馬鹿者を止めてく\r\n//れた折、うてもその場におった。\r\n//　我が村の救い主が倒れているのを見掛けて、\r\n//何もせぬ法があろうか」\r\n\"I was there when you stopped that fool at the mine. Do you expect me to abandon the man who will save our village?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100550b55'>\r\n//「なれが山の作業場であの馬鹿者を止めてく\r\n//れた折、うてもその場におった。\r\n//　我が村の救い主が倒れているのを見掛けて、\r\n//何もせぬ法があろうか」\r\n\"Eu estava lá quando você deteve aquele idiota na mina. Como quer que eu abandone o homem que vai salvar nossa vila?\"\r\n"
  },
  {
   "offset": 20143,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100560a00'>\r\n//「それは一身上の都合でした事。\r\n//　救いなどと考えられては身が縮みます」\r\n\"My actions are purely selfish. It shames me that you think me your savior.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100560a00'>\r\n//「それは一身上の都合でした事。\r\n//　救いなどと考えられては身が縮みます」\r\n\"O que fiz foi por motivos puramente pessoais. Envergonha-me que me considere um salvador.\"\r\n"
  },
  {
   "offset": 20423,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100570b55'>\r\n//「だとしても助けられれば感謝はするもの。\r\n//　当然のことであろう？」\r\n\"Whatever your motives, the fact is that you helped us. Gratitude is the natural response, no?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100570b55'>\r\n//「だとしても助けられれば感謝はするもの。\r\n//　当然のことであろう？」\r\n\"Sejam quais forem seus motivos, o fato é que nos ajudou. A gratidão é a resposta natural, não é?\"\r\n"
  },
  {
   "offset": 20725,
@@ -372,97 +372,97 @@
  {
   "offset": 20843,
   "en": "\r\n//　なんだか自分がただ強情を張っている未熟な若造に\r\n//しか思えなくなってきた。\r\n//　人生経験の差を感じる。\r\n  I'm starting to feel like a foolish youth too proud to accept his elder's wisdom.\r\n",
-  "pt": ""
+  "pt": "\r\n//　なんだか自分がただ強情を張っている未熟な若造に\r\n//しか思えなくなってきた。\r\n//　人生経験の差を感じる。\r\n  Estou começando a me sentir como um jovem tolo, orgulhoso demais para aceitar a sabedoria de um ancião.\r\n"
  },
  {
   "offset": 21094,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100590a00'>\r\n///「御老人……失礼。\r\n//　そのようにお見受けしたのですが、もしや\r\n//見込み違いということは」\r\n\"Elder... Pardon, shall I call you elder? Or do I mistake your age?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100590a00'>\r\n///「御老人……失礼。\r\n//　そのようにお見受けしたのですが、もしや\r\n//見込み違いということは」\r\n\"Ancião... Perdão. Devo chamá-lo de ancião? Ou estou enganado quanto à sua idade?\"\r\n"
  },
  {
   "offset": 21392,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100600b55'>\r\n//「ないよ、お若い方。\r\n//　歳はもう五十を数えた。蝦夷としては老人\r\n//も老人、長老などと呼ばれる頃合かな」\r\n\"You do not, young one. I have already passed my fiftieth year. I am an old man among my people, old enough to be clan elder, if this were an Emishi village.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100600b55'>\r\n//「ないよ、お若い方。\r\n//　歳はもう五十を数えた。蝦夷としては老人\r\n//も老人、長老などと呼ばれる頃合かな」\r\n\"Não está, jovem. Já passei dos cinquenta anos. Sou um velho entre meu povo, velho o bastante para ser chamado de ancião do clã, se esta fosse uma vila Emishi.\"\r\n"
  },
  {
   "offset": 21809,
   "en": "\r\n//　やはり、か。\r\n//　不老の蝦夷種族らしく、外見上はいいところ壮年に\r\n//しか達していない。しかし動作の端々にある重さと、\r\n//御堂という呼び方が実際の歳を窺わせた。\r\n  It is difficult to judge the exact age of Emishi, as they do not age visibly at the same rate most people do. However, my assessment was correct. The man before me appears in his early forties at most, but the slight stiffness of his movements led me to believe that he was older than he seemed, as did his usage of \"Mido\" when addressing me.\r\n\r\n//　御堂とはもう用いる者も多くはない、武者に対する\r\n//古風な敬称。\r\n//　かつて宮中の武者溜りが釈天堂という建物にあった\r\n//ことを由来とする。\r\n  Mido―\"honored of the hall\"―is an ancient honorific for musha, dating back to a time when the emperor's musha were headquartered in a building called the Shakaten-do, or Hall of Deva Sakra. It is rarely used anymore.\r\n",
-  "pt": ""
+  "pt": "\r\n//　やはり、か。\r\n//　不老の蝦夷種族らしく、外見上はいいところ壮年に\r\n//しか達していない。しかし動作の端々にある重さと、\r\n//御堂という呼び方が実際の歳を窺わせた。\r\n  É difícil julgar a idade exata dos Emishi, pois eles não envelhecem visivelmente no mesmo ritmo que a maioria das pessoas. No entanto, minha avaliação estava correta. O homem à minha frente parece ter no máximo quarenta e poucos anos, mas a leve rigidez de seus movimentos me levou a crer que era mais velho do que aparentava, assim como o uso de \"Mido\" ao se dirigir a mim.\r\n\r\n//　御堂とはもう用いる者も多くはない、武者に対する\r\n//古風な敬称。\r\n//　かつて宮中の武者溜りが釈天堂という建物にあった\r\n//ことを由来とする。\r\n  Mido―\"honrado do salão\"―é um honorífico antigo para musha, que remonta à época em que os musha do imperador tinham seu quartel em um edifício chamado Shakaten-do, o Salão de Deva Sakra. Hoje é raramente usado.\r\n"
  },
  {
   "offset": 22833,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100610a00'>\r\n//「では、御老人。\r\n//　貴方はやはり、この山で祭祀を行っておら\r\n//れるというご一族の」\r\n\"Then, elder, are you of the tribe that maintains the shrine on this mountain?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100610a00'>\r\n//「では、御老人。\r\n//　貴方はやはり、この山で祭祀を行っておら\r\n//れるというご一族の」\r\n\"Então, ancião, o senhor é da tribo que mantém o santuário nesta montanha?\"\r\n"
  },
  {
   "offset": 23132,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100620b55'>\r\n//「村長にでも聞いたか。\r\n//　その一族の最後の末裔がここにおる三人よ」\r\n\"I suppose you heard about it from the mayor? Yes, we three are the last descendants of that tribe.\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100630b55'>\r\n//「うては弥源太。\r\n//　こやつらは孫で、大きい方がふき、小さい\r\n//方がふなと申す」\r\n\"I am called Yagenta, and these are my granddaughters. The older one is Fuki; the younger, Funa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100620b55'>\r\n//「村長にでも聞いたか。\r\n//　その一族の最後の末裔がここにおる三人よ」\r\n\"Suponho que tenha ouvido isso do prefeito? Sim, nós três somos os últimos descendentes dessa tribo.\"\r\n\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100630b55'>\r\n//「うては弥源太。\r\n//　こやつらは孫で、大きい方がふき、小さい\r\n//方がふなと申す」\r\n\"Eu me chamo Yagenta, e estas são minhas netas. A mais velha é Fuki; a mais nova, Funa.\"\r\n"
  },
  {
   "offset": 23751,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100640a00'>\r\n//「申し遅れました。\r\n//　鎌倉警察署の湊斗景明です」\r\n\"Forgive me for not introducing myself. I am Minato Kageaki of the Kamakura Police Department.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100640a00'>\r\n//「申し遅れました。\r\n//　鎌倉警察署の湊斗景明です」\r\n\"Perdoe-me por não ter me apresentado. Sou Minato Kageaki, do Departamento de Polícia de Kamakura.\"\r\n"
  },
  {
   "offset": 24017,
   "en": "\r\n//　頭を下げる。\r\n//　……新しい包帯を巻かれながらでは、充分な礼儀を\r\n//尽くすわけにもいかなかったが。\r\n  Unable to bow properly while he is applying new bandages, I settle for lowering my head.\r\n\r\n//　老人は軽く顎を引きだけして応えた。\r\n//　孫の方を見ると、上の娘は恐縮した風で何度も礼を\r\n//し、下の娘はまた笑顔を向けてきている。\r\n//　妹の方が堂々としているようで、少し可笑しい。\r\n  The old man replies with a slight nod. Behind him, the older granddaughter is bowing repeatedly, her head nearly touching the floor each time, while the younger just gives me another smile. The younger sister shows more confidence than the elder, the contrast between the two somewhat comical.\r\n",
-  "pt": ""
+  "pt": "\r\n//　頭を下げる。\r\n//　……新しい包帯を巻かれながらでは、充分な礼儀を\r\n//尽くすわけにもいかなかったが。\r\n  Sem conseguir me curvar adequadamente enquanto ele aplica novas ataduras, limito-me a abaixar a cabeça.\r\n\r\n//　老人は軽く顎を引きだけして応えた。\r\n//　孫の方を見ると、上の娘は恐縮した風で何度も礼を\r\n//し、下の娘はまた笑顔を向けてきている。\r\n//　妹の方が堂々としているようで、少し可笑しい。\r\n  O velho responde com um leve aceno. Atrás dele, a neta mais velha se curva repetidamente, a cabeça quase tocando o chão a cada vez, enquanto a mais nova apenas me dá outro sorriso. A irmã mais nova mostra mais confiança que a mais velha, e o contraste entre as duas é um tanto cômico.\r\n"
  },
  {
   "offset": 24836,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100650b55'>\r\n//「警察の人であったか」\r\n\"So you're a police officer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100650b55'>\r\n//「警察の人であったか」\r\n\"Então o senhor é policial.\"\r\n"
  },
  {
   "offset": 25005,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100660a00'>\r\n//「御協力に感謝致します。\r\n//　この御礼は後日必ず……」\r\n\"Thank you again for your assistance. I will be certain to repay you at a later date.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100660a00'>\r\n//「御協力に感謝致します。\r\n//　この御礼は後日必ず……」\r\n\"Agradeço mais uma vez pela ajuda. Farei questão de retribuir em outra ocasião.\"\r\n"
  },
  {
   "offset": 25268,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100670a00'>\r\n//「今日のところは、そろそろ失礼させて頂き\r\n//ます」\r\n\"For today, however, I shall be taking my leave.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100670a00'>\r\n//「今日のところは、そろそろ失礼させて頂き\r\n//ます」\r\n\"No entanto, por hoje, tomarei a liberdade de me retirar.\"\r\n"
  },
  {
   "offset": 25488,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100680b05'>\r\n//「えっ!?\r\n//　そんな……無理ですよ！」\r\n\"What!? But it's too soon!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100680b05'>\r\n//「えっ!?\r\n//　そんな……無理ですよ！」\r\n\"O quê!? Mas é cedo demais!\"\r\n"
  },
  {
   "offset": 25667,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100690b55'>\r\n//「……さっきは回復が早いと褒めたがな。\r\n//　流石に一晩は動けんだろうよ。無理をして\r\n//動けばまた傷口が開くぞ」\r\n\"As exceptional as your healing abilities are, it'll be another several hours before you can move without reopening your wounds.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100690b55'>\r\n//「……さっきは回復が早いと褒めたがな。\r\n//　流石に一晩は動けんだろうよ。無理をして\r\n//動けばまた傷口が開くぞ」\r\n\"Por mais excepcionais que sejam suas habilidades de cura, ainda levará várias horas até que possa se mover sem reabrir os ferimentos.\"\r\n"
  },
  {
   "offset": 26064,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100700a00'>\r\n//「しかし、ご迷惑は掛けられません。\r\n//　自分がここに留まれば、この図体で場所を\r\n//塞ぐのみならず――」\r\n\"Still, I cannot cause you further trouble. Not only am I taking up precious space, but―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100700a00'>\r\n//「しかし、ご迷惑は掛けられません。\r\n//　自分がここに留まれば、この図体で場所を\r\n//塞ぐのみならず――」\r\n\"Ainda assim, não posso causar-lhes mais transtornos. Não só estou ocupando um espaço precioso, como―\"\r\n"
  },
  {
   "offset": 26402,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100710b55'>\r\n//「代官どものことを案じておるのか？\r\n//　なるほど……やはりその傷はやつらと一戦\r\n//交えた結果か。それで追手が来るかもしれぬ\r\n//と言うのだな」\r\n\"You're worried about the prefect and his men? I see. So it was they who wounded you, as I thought. And now you fear that they might follow you here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100710b55'>\r\n//「代官どものことを案じておるのか？\r\n//　なるほど……やはりその傷はやつらと一戦\r\n//交えた結果か。それで追手が来るかもしれぬ\r\n//と言うのだな」\r\n\"Está preocupado com o prefeito e seus homens? Entendo. Então foram eles que o feriram, como eu imaginava. E agora teme que possam segui-lo até aqui.\"\r\n"
  },
  {
   "offset": 26863,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100720a00'>\r\n//「まさしく」\r\n\"Precisely.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100720a00'>\r\n//「まさしく」\r\n\"Exatamente.\"\r\n"
  },
  {
   "offset": 26991,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100730b55'>\r\n//「だがそれは無用の心配。\r\n//　ここでなれを追い出したところで、やつら\r\n//の迷惑が迷惑でなくなるものか」\r\n\"Then you have no reason to worry. Casting you out now will not eliminate the threat they pose to us, will it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100730b55'>\r\n//「だがそれは無用の心配。\r\n//　ここでなれを追い出したところで、やつら\r\n//の迷惑が迷惑でなくなるものか」\r\n\"Então não tem por que se preocupar. Expulsá-lo agora não vai eliminar a ameaça que eles representam para nós, vai?\"\r\n"
  },
  {
   "offset": 27358,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100740a00'>\r\n//「それは……」\r\n\"Well...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100740a00'>\r\n//「それは……」\r\n\"Bem...\"\r\n"
  },
  {
   "offset": 27486,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100750b55'>\r\n//「やつらはいる限り村の迷惑よ。\r\n//　一身上の都合だろうが何だろうが、御堂、\r\n//なれがやつらを成敗するというのなら、なれ\r\n//を助けることは村の利益に適う」\r\n\"As long as they exist, they threaten the entire village. I do not care whether your goals are purely selfish, Mido. If you intend to dispose of those villains, then helping you is in our best interests.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100750b55'>\r\n//「やつらはいる限り村の迷惑よ。\r\n//　一身上の都合だろうが何だろうが、御堂、\r\n//なれがやつらを成敗するというのなら、なれ\r\n//を助けることは村の利益に適う」\r\n\"Enquanto existirem, eles ameaçam a vila inteira. Não me importa se seus objetivos são puramente egoístas, Mido. Se pretende eliminar esses vilões, então ajudá-lo é do nosso interesse.\"\r\n"
  },
  {
   "offset": 28019,
@@ -472,57 +472,57 @@
  {
   "offset": 28137,
   "en": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100770b55'>\r\n//「丸一日はここで休んでゆけ。\r\n//　なれならば、おそらくそれで全快しよう」\r\n\"Rest here one more day. That should be enough for you to fully recover.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【弥源太】\r\n<voice name='弥源太' class='弥源太' src='voice/ma02/0100770b55'>\r\n//「丸一日はここで休んでゆけ。\r\n//　なれならば、おそらくそれで全快しよう」\r\n\"Descanse aqui mais um dia. Isso deve bastar para que se recupere por completo.\"\r\n"
  },
  {
   "offset": 28423,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100780b05'>\r\n//「そうしてください。\r\n//　あては難しいことはわかりませんけど……\r\n//こんな大怪我をしている人が出ていくなんて、\r\n//そんなの駄目です」\r\n\"Yes, please stay. All this talk of battles is beyond me, but I know we mustn't let an injured man leave.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100780b05'>\r\n//「そうしてください。\r\n//　あては難しいことはわかりませんけど……\r\n//こんな大怪我をしている人が出ていくなんて、\r\n//そんなの駄目です」\r\n\"Sim, por favor, fique. Toda essa conversa de batalhas está além do meu entendimento, mas sei que não podemos deixar um homem ferido partir.\"\r\n"
  },
  {
   "offset": 28819,
   "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100790b06'>\r\n//「んーっ？\r\n//　ねーや、にーやはどうしたの？」\r\n\"Huh? Is the big man going somewhere?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100790b06'>\r\n//「んーっ？\r\n//　ねーや、にーやはどうしたの？」\r\n\"Hã? O homem grande vai a algum lugar?\"\r\n"
  },
  {
   "offset": 29022,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100800b05'>\r\n//「にーや、おうちに帰りたいんだって」\r\n\"He wants to go home, Funa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100800b05'>\r\n//「にーや、おうちに帰りたいんだって」\r\n\"Ele quer ir para casa, Funa.\"\r\n"
  },
  {
   "offset": 29202,
   "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100810b06'>\r\n//「えーっ、そんなのやだ！\r\n//　もっといてほしい……」\r\n\"Huh!? Don't go, mister! I wanna talk more!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100810b06'>\r\n//「えーっ、そんなのやだ！\r\n//　もっといてほしい……」\r\n\"Hã!? Não vá, senhor! Quero conversar mais!\"\r\n"
  },
  {
   "offset": 29420,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100820b05'>\r\n//「そうよねっ。\r\n//　ほら、お武家様。ふなもこう言ってます」\r\n\"So do I. Look, noble samurai. Funa is begging.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100820b05'>\r\n//「そうよねっ。\r\n//　ほら、お武家様。ふなもこう言ってます」\r\n\"Eu também. Veja, nobre samurai. A Funa está implorando.\"\r\n"
  },
  {
   "offset": 29651,
   "en": "\r\n//　言われても。\r\n//　……しかし、これを振り切って行くことはできそう\r\n//になかった。\r\n  I still feel that I should leave... but that doesn't appear to be an option.\r\n\r\n//　それに弥源太老人の言う通り、今無理を押して出て\r\n//いく選択にはどうも利もなければ理もないらしい。\r\n//　ここは厚意に甘えておくのが賢明だろうか。\r\n  And as Yagenta says, leaving before my injuries have fully healed would be neither practical nor prudent. I suppose the wise choice is to accept their hospitality.\r\n",
-  "pt": ""
+  "pt": "\r\n//　言われても。\r\n//　……しかし、これを振り切って行くことはできそう\r\n//になかった。\r\n  Ainda sinto que deveria partir... mas isso não parece ser uma opção.\r\n\r\n//　それに弥源太老人の言う通り、今無理を押して出て\r\n//いく選択にはどうも利もなければ理もないらしい。\r\n//　ここは厚意に甘えておくのが賢明だろうか。\r\n  E, como diz o velho Yagenta, partir antes que meus ferimentos estejam completamente curados não seria nem prático nem prudente. Suponho que a escolha sábia seja aceitar a hospitalidade deles.\r\n"
  },
  {
   "offset": 30249,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100830a00'>\r\n//「……わかりました。\r\n//　ご厄介をおかけします」\r\n\"...Very well. Please allow me to impose a while longer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0100830a00'>\r\n//「……わかりました。\r\n//　ご厄介をおかけします」\r\n\"...Muito bem. Permita-me abusar por mais um tempo.\"\r\n"
  },
  {
   "offset": 30474,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100840a01'>\r\n//《よろしく》\r\n《Same here.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma02/0100840a01'>\r\n//《よろしく》\r\n《Igualmente.》\r\n"
  },
  {
   "offset": 30612,
   "en": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100850b05'>\r\n//「わっ、ぴりぴりきたー！」\r\n\"Ah, the tingly voice!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふき】\r\n<voice name='ふき' class='ふき' src='voice/ma02/0100850b05'>\r\n//「わっ、ぴりぴりきたー！」\r\n\"Ah, a voz formigante!\"\r\n"
  },
  {
   "offset": 30772,
   "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100860b06'>\r\n//「ぴりぴりー！」\r\n\"Tingly!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/0100860b06'>\r\n//「ぴりぴりー！」\r\n\"Formigante!\"\r\n"
  },
  {
   "offset": 30903,

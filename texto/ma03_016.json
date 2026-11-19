@@ -2,97 +2,97 @@
  {
   "offset": 213,
   "en": "\r\n//　拡声器を通したアナウンスが新たなチームの参戦を\r\n//伝える。\r\n//　そして、コース上に姿を現す騎体。\r\n  An announcement over the loudspeakers heralds the arrival of a new team.\r\n\r\n//　――翔京兵商ワークスチーム〝三城七騎衆〟\r\n \r\n \r\n \r\n \r\n \r\n<center>Team: Shokyo Weapons Systems, \"The Seven Knights of Sanjo\"\r\n \r\n",
-  "pt": ""
+  "pt": "\r\n//　拡声器を通したアナウンスが新たなチームの参戦を\r\n//伝える。\r\n//　そして、コース上に姿を現す騎体。\r\n  Um aviso pelos alto-falantes anuncia a chegada de uma nova equipe.\r\n\r\n//　――翔京兵商ワークスチーム〝三城七騎衆〟\r\n \r\n \r\n \r\n \r\n \r\n<center>Equipe: Shokyo Weapons Systems, \"Os Sete Cavaleiros de Sanjo\"\r\n \r\n"
  },
  {
   "offset": 601,
   "en": "\r\n//　それは名騎アプティマに似ていた。\r\n//　その改良騎ダガーアプティマにも似ていた。\r\n//　派生騎パルチザンにも似ていた。\r\n\r\n//　だが、そのどれとも違った。\r\n//　……黄金色の翼。\r\n  The machine that appears resembles the original Optima, its successor the Dagger Optima, and its offshoot the Partisan.\r\n\r\n  But it is none of those―as its mighty golden wings attest.\r\n",
-  "pt": ""
+  "pt": "\r\n//　それは名騎アプティマに似ていた。\r\n//　その改良騎ダガーアプティマにも似ていた。\r\n//　派生騎パルチザンにも似ていた。\r\n\r\n//　だが、そのどれとも違った。\r\n//　……黄金色の翼。\r\n  A máquina que surge lembra a Optima original, sua sucessora Dagger Optima e seu derivado Partisan.\r\n\r\n  Mas não é nenhuma delas — como atestam suas poderosas asas douradas.\r\n"
  },
  {
   "offset": 1053,
   "en": "\r\n//　――<RUBY text='レーサー'>騎手</RUBY>　<RUBY text='くるま'>来馬</RUBY><RUBY text='ごう'>豪</RUBY>\r\n \r\n \r\n \r\n \r\n \r\n<center>Racer: Kuruma Go\r\n \r\n",
-  "pt": ""
+  "pt": "\r\n//　――<RUBY text='レーサー'>騎手</RUBY>　<RUBY text='くるま'>来馬</RUBY><RUBY text='ごう'>豪</RUBY>\r\n \r\n \r\n \r\n \r\n \r\n<center>Piloto: Kuruma Go\r\n \r\n"
  },
  {
   "offset": 1228,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160010a00'>\r\n//「やはりチェーンドライブで来たか……\r\n//　しかし」\r\n\"Chain drive, as expected. However...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160010a00'>\r\n//「やはりチェーンドライブで来たか……\r\n//　しかし」\r\n\"Transmissão por corrente, como esperado. Porém...\"\r\n"
  },
  {
   "offset": 1437,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160020a04'>\r\n//「あの甲鉄――\r\n//　あれは和鉄ではございませんな」\r\n\"That armor. It's not Yamatoan steel, is it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160020a04'>\r\n//「あの甲鉄――\r\n//　あれは和鉄ではございませんな」\r\n\"Essa armadura. Não é aço de Yamato, não é?\"\r\n"
  },
  {
   "offset": 1653,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160030a03'>\r\n//「ええ、間違いありません。\r\n//　……ユーツ鋼です。全身、すべて」\r\n\"No. There's no mistaking it. ...Wootz steel. The whole machine is wootz steel.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160030a03'>\r\n//「ええ、間違いありません。\r\n//　……ユーツ鋼です。全身、すべて」\r\n\"Não. Não há como errar. ...Aço wootz. A máquina inteira é aço wootz.\"\r\n"
  },
  {
   "offset": 1934,
   "en": "\r\n//　――騎体名〝<RUBY text='ウルティマ・シュール'>　理想　</RUBY>〟\r\n \r\n \r\n \r\n \r\n \r\n<center>Crux: \"Ultima Thule\"\r\n \r\n",
-  "pt": ""
+  "pt": "\r\n//　――騎体名〝<RUBY text='ウルティマ・シュール'>　理想　</RUBY>〟\r\n \r\n \r\n \r\n \r\n \r\n<center>Crux: \"Ultima Thule\"\r\n \r\n"
  },
  {
   "offset": 2083,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160040a02'>\r\n//「ユーツ鋼って……聞いたことあるけど。\r\n//　インドの鉄だろ？　確か、すっげえ高い」\r\n\"Wootz steel... I've heard of it. Isn't it that really expensive Indian steel?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160040a02'>\r\n//「ユーツ鋼って……聞いたことあるけど。\r\n//　インドの鉄だろ？　確か、すっげえ高い」\r\n\"Aço wootz... já ouvi falar. Não é aquele aço indiano caríssimo?\"\r\n"
  },
  {
   "offset": 2381,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160050a03'>\r\n//「ええ。生産量がごく少ないのです。\r\n//　けれど重量比強度に優れるユーツ鋼は――\r\n//競技用劔冑の材料としてまさに理想的」\r\n\"Yes. It's only smelted in very small quantities, but the extraordinary strength-to-<br>weight ratio makes it ideal for racing cruxes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160050a03'>\r\n//「ええ。生産量がごく少ないのです。\r\n//　けれど重量比強度に優れるユーツ鋼は――\r\n//競技用劔冑の材料としてまさに理想的」\r\n\"Sim. Ele é produzido em quantidades muito pequenas, mas a extraordinária relação resistência-peso o torna ideal para cruxes de corrida.\"\r\n"
  },
  {
   "offset": 2796,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160060a04'>\r\n//「これまではごく一部のハイエンドモデルが\r\n//翼などの重要箇所にだけ用いておりました。\r\n//　……その最高級鋼材を、よもや、ここまで\r\n//惜しみなく投入して劔冑を造るとは……」\r\n\"It's not unusual for high-end models to use it in the wings and other critical parts, but building an entire machine from it is absolutely unheard of. The mind boggles to consider the expense.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160060a04'>\r\n//「これまではごく一部のハイエンドモデルが\r\n//翼などの重要箇所にだけ用いておりました。\r\n//　……その最高級鋼材を、よもや、ここまで\r\n//惜しみなく投入して劔冑を造るとは……」\r\n\"Não é incomum que modelos de alto padrão o usem nas asas e em outras partes críticas, mas construir uma máquina inteira com ele é algo absolutamente inédito. É de pasmar só de pensar no custo.\"\r\n"
  },
  {
   "offset": 3337,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160070a02'>\r\n//「どうなるんだ？」\r\n\"So what will this do for the crux?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160070a02'>\r\n//「どうなるんだ？」\r\n\"E o que isso faz pelo crux?\"\r\n"
  },
  {
   "offset": 3498,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160080a00'>\r\n//「すぐにわかる。\r\n//　サーキットを見ろ」\r\n\"We'll soon see. Look.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160080a00'>\r\n//「すぐにわかる。\r\n//　サーキットを見ろ」\r\n\"Logo veremos. Olhe.\"\r\n"
  },
  {
   "offset": 3677,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160090a02'>\r\n//「え――」\r\n\"Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160090a02'>\r\n//「え――」\r\n\"Hã?\"\r\n"
  },
  {
   "offset": 3796,
   "en": "\r\n//　異様な光景がそこにあった。\r\n//　黄金翼の騎士が、ストレートを駆けている。\r\n\r\n//　その速さは付近を走る数騎とほぼ同等。\r\n//　あるいはやや劣るか。\r\n//　だが、おおむね変わらない程度の速度で――\r\n\r\n//　<RUBY text='と'>騎航</RUBY>んでいる。\r\n//　<RUBY text='・・・'>一周目</RUBY>、<RUBY text='・・・・・・'>スタート直後</RUBY>の騎体が。\r\n  Something extraordinary is unfolding on the track.\r\n\r\n  The golden-winged crux is flying down the straight. Its speed is no greater than that of the surrounding racers.\r\n\r\n  However... it is flying,<K> at competitive speed,<K>㉒<I>within seconds of takeoff.</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　異様な光景がそこにあった。\r\n//　黄金翼の騎士が、ストレートを駆けている。\r\n\r\n//　その速さは付近を走る数騎とほぼ同等。\r\n//　あるいはやや劣るか。\r\n//　だが、おおむね変わらない程度の速度で――\r\n\r\n//　<RUBY text='と'>騎航</RUBY>んでいる。\r\n//　<RUBY text='・・・'>一周目</RUBY>、<RUBY text='・・・・・・'>スタート直後</RUBY>の騎体が。\r\n  Algo extraordinário está se desenrolando na pista.\r\n\r\n  O crux de asas douradas voa pela reta. Sua velocidade não é maior que a dos corredores ao redor.\r\n\r\n  No entanto... ele está voando,<K> em velocidade competitiva,<K>㉒<I>poucos segundos após a largada.</I>\r\n"
  },
  {
   "offset": 4527,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160100a02'>\r\n//「……どういうことです？　これ」\r\n\"...What does this mean?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160100a02'>\r\n//「……どういうことです？　これ」\r\n\"...O que isso significa?\"\r\n"
  },
  {
   "offset": 4698,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160110a00'>\r\n//「怪物がいる、という事だ。\r\n//　無論、慣らし運転を充分にこなしていたの\r\n//だろうが……それにしても」\r\n\"That a monster has joined the race. I imagine the pilot has had a great deal of practice, but still.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160110a00'>\r\n//「怪物がいる、という事だ。\r\n//　無論、慣らし運転を充分にこなしていたの\r\n//だろうが……それにしても」\r\n\"Que um monstro entrou na corrida. Imagino que o piloto tenha treinado muito, mas ainda assim.\"\r\n"
  },
  {
   "offset": 5044,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160120a04'>\r\n//「異常、という他はない加速性でございます。\r\n//　完全ユーツ鋼製という特徴がもたらす常識\r\n//外の軽量さで<RUBY text='・・'>あれ</RUBY>を実現しているのでありま\r\n//しょうが……」\r\n\"My word, such rapid acceleration. This makes the benefits of an all-wootz frame readily apparent, <br>I say.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160120a04'>\r\n//「異常、という他はない加速性でございます。\r\n//　完全ユーツ鋼製という特徴がもたらす常識\r\n//外の軽量さで<RUBY text='・・'>あれ</RUBY>を実現しているのでありま\r\n//しょうが……」\r\n\"Minha nossa, que aceleração. Isso deixa bem evidentes as vantagens de uma estrutura inteiramente de wootz, eu diria.\"\r\n"
  },
  {
   "offset": 5495,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160130a03'>\r\n//「あの加速性は決勝レースで真価を発揮する\r\n//はず。スタート直後の乱戦をあの威力で切り\r\n//抜けて、後はひたすらトップを<RUBY text='はし'>騎航</RUBY>り続ける\r\n//のでしょう……ね」\r\n\"We'll see its true worth tomorrow, during the final race. With acceleration like that, it'll be able to break from the pack right out of the starting grid and take the top position unchallenged.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160130a03'>\r\n//「あの加速性は決勝レースで真価を発揮する\r\n//はず。スタート直後の乱戦をあの威力で切り\r\n//抜けて、後はひたすらトップを<RUBY text='はし'>騎航</RUBY>り続ける\r\n//のでしょう……ね」\r\n\"Veremos seu verdadeiro valor amanhã, na corrida final. Com uma aceleração dessas, ele vai conseguir se desgarrar do pelotão logo na largada e assumir a liderança sem contestação.\"\r\n"
  },
  {
   "offset": 6044,
   "en": "\r\n//　それぞれに、呆れる以外にないという表情で感想を\r\n//呟く俺ほか三名。\r\n//　いや、俺達だけではなかった。観客らも熱狂を忘れ、\r\n//ただただ唖然として、疾駆する金色を見つめている。\r\n  We watch, speechless. And we're not alone. The cheering spectators have fallen silent, every one of them entranced by the golden machine.\r\n\r\n//　魅入られたように。\r\n//　サーキット場としておよそ考えられない静寂の中を、\r\n//翔京の〝理想〟――ウルティマ・シュールは王者その\r\n//ものの傲岸ぶりで駆け続ける。\r\n  Amid this unnatural silence, Shokyo's Ultima Thule―<br>their \"ideal\"―dominates the track with the majesty of a king.\r\n\r\n//　二周、三周……\r\n//　周回を経るにつれ、いよいよその異様な本性は露わ\r\n//になる。\r\n  Two. Three. As the laps mount up, the machine's terrifying power begins to reveal itself.\r\n\r\n//　五周目ラップ、一分二六秒八九。\r\n//　六周目ラップ、一分二六秒四四。\r\n//　七周目ラップ――\r\n  Lap 5, 1:26:89.<K>\r\n  Lap 6, 1:26:44.<K>\r\n  Lap 7―\r\n",
-  "pt": ""
+  "pt": "\r\n//　それぞれに、呆れる以外にないという表情で感想を\r\n//呟く俺ほか三名。\r\n//　いや、俺達だけではなかった。観客らも熱狂を忘れ、\r\n//ただただ唖然として、疾駆する金色を見つめている。\r\n  Observamos, sem palavras. E não estamos sozinhos. Os espectadores que torciam silenciaram, todos eles enfeitiçados pela máquina dourada.\r\n\r\n//　魅入られたように。\r\n//　サーキット場としておよそ考えられない静寂の中を、\r\n//翔京の〝理想〟――ウルティマ・シュールは王者その\r\n//ものの傲岸ぶりで駆け続ける。\r\n  Em meio a esse silêncio antinatural, a Ultima Thule de Shokyo — seu \"ideal\" — domina a pista com a majestade de um rei.\r\n\r\n//　二周、三周……\r\n//　周回を経るにつれ、いよいよその異様な本性は露わ\r\n//になる。\r\n  Duas. Três. À medida que as voltas se acumulam, o poder aterrorizante da máquina começa a se revelar.\r\n\r\n//　五周目ラップ、一分二六秒八九。\r\n//　六周目ラップ、一分二六秒四四。\r\n//　七周目ラップ――\r\n  Volta 5, 1:26:89.<K>\r\n  Volta 6, 1:26:44.<K>\r\n  Volta 7 —\r\n"
  },
  {
   "offset": 7223,
@@ -102,157 +102,157 @@
  {
   "offset": 7367,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160150a02'>\r\n//「まだ走ってるけど……\r\n//　まだ記録は伸びるってことか……？」\r\n\"It's still flying. How low is the time going to get?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160150a02'>\r\n//「まだ走ってるけど……\r\n//　まだ記録は伸びるってことか……？」\r\n\"Ele ainda está voando. Até onde o tempo vai baixar?\"\r\n"
  },
  {
   "offset": 7610,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160160a03'>\r\n//「……さよ。\r\n//　さっきのスーパーハウンドの記録はどうで\r\n//したかしら……？」\r\n\"Sayo, what was that Super Hound's time?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160160a03'>\r\n//「……さよ。\r\n//　さっきのスーパーハウンドの記録はどうで\r\n//したかしら……？」\r\n\"Sayo, qual foi o tempo daquele Super Hound?\"\r\n"
  },
  {
   "offset": 7871,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160170a04'>\r\n//「……一分二七秒一九でありましたかと。\r\n//　実に、一秒近い差でございますね」\r\n\"...1:27:19. A difference of almost one whole second.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160170a04'>\r\n//「……一分二七秒一九でありましたかと。\r\n//　実に、一秒近い差でございますね」\r\n\"...1:27:19. Uma diferença de quase um segundo inteiro.\"\r\n"
  },
  {
   "offset": 8135,
   "en": "\r\n//　周回時間で一秒差。\r\n//　アーマーレースという競技、この鎌倉サーキットと\r\n//いう舞台においては、圧倒的と言っても良い程の差だ。\r\n  One second. In armor racing, that is an eternity.\r\n\r\n//　それが――\r\n//　海外レーサーの手によってではあるが世界を制した\r\n//こともある横森鍛造の<RUBY text='スーパーハウンド'>超越猟犬</RUBY>との間に。\r\n  And that is the gap that exists between Ultima Thule and Yokotan's Super Hound, the machine that―though in the hands of a European pilot―once conquered the world.\r\n\r\n//　見れば、一度は退いたヨコタンワークスが再び騎体\r\n//を引っ張り出してコース上に現れている。\r\n//　……無駄だろうに。しかも意味がない。予選でウル\r\n//ティマに勝とうが負けようがそれで勝負は決まらない。\r\n  I see movement in the pit. Yokotan's crew is scrambling to get their racer back on the track. ...It's hopeless. And meaningless, moreover. Defeating Shokyo in the preliminary won't accomplish anything.\r\n\r\n//　明日の上位を確保している以上、後は敵の観察だけ\r\n//しておけばいいのだ。\r\n//　が、そう思いつつも――俺はヨコタンの心情を理解\r\n//できるような気がしていた。\r\n  They should just sit back and observe their rivals, now that their entry in tomorrow's race is assured. Logic aside, however, I understand how the Yokotan team must feel.\r\n\r\n//　混乱しているのだ。\r\n//　おそらくは、まともな判断ができなくなるほど。\r\n  They must be panicking. Even if they are allies in the gambling dispute, I doubt Shokyo told them about their new design. Perhaps Yokotan was hoping to steal the crown and take control of the sport once gambling was legalized.\r\n\r\n//　ギャンブル化推進派の同胞とはいえ、おそらくこの\r\n//騎体のことまでは知らされていなかったのだろう。\r\n//　あわよくば勝利を奪い、賭博化後の主導権を握る気\r\n//でいたのかもしれない。\r\n\r\n//　そしてそんな夢想がはかなく砕かれたことを、まだ\r\n//認められずにいる――\r\n  They can't accept that their dream has been dashed to pieces.\r\n",
-  "pt": ""
+  "pt": "\r\n//　周回時間で一秒差。\r\n//　アーマーレースという競技、この鎌倉サーキットと\r\n//いう舞台においては、圧倒的と言っても良い程の差だ。\r\n  Um segundo. Nas corridas de armadura, isso é uma eternidade.\r\n\r\n//　それが――\r\n//　海外レーサーの手によってではあるが世界を制した\r\n//こともある横森鍛造の<RUBY text='スーパーハウンド'>超越猟犬</RUBY>との間に。\r\n  E essa é a diferença entre a Ultima Thule e o Super Hound da Yokotan, a máquina que — embora nas mãos de um piloto europeu — um dia conquistou o mundo.\r\n\r\n//　見れば、一度は退いたヨコタンワークスが再び騎体\r\n//を引っ張り出してコース上に現れている。\r\n//　……無駄だろうに。しかも意味がない。予選でウル\r\n//ティマに勝とうが負けようがそれで勝負は決まらない。\r\n  Vejo movimento no pit. A equipe da Yokotan se apressa para colocar seu corredor de volta na pista. ...É inútil. E sem sentido, além disso. Vencer a Shokyo na eliminatória não vai servir de nada.\r\n\r\n//　明日の上位を確保している以上、後は敵の観察だけ\r\n//しておけばいいのだ。\r\n//　が、そう思いつつも――俺はヨコタンの心情を理解\r\n//できるような気がしていた。\r\n  Deveriam apenas ficar de fora e observar os rivais, agora que sua vaga na corrida de amanhã está garantida. Mas, deixando a lógica de lado, acho que entendo como a equipe da Yokotan deve estar se sentindo.\r\n\r\n//　混乱しているのだ。\r\n//　おそらくは、まともな判断ができなくなるほど。\r\n  Devem estar em pânico. Mesmo sendo aliados na questão das apostas, duvido que a Shokyo lhes tenha contado sobre o novo projeto. Talvez a Yokotan esperasse roubar a coroa e assumir o controle do esporte quando as apostas fossem legalizadas.\r\n\r\n//　ギャンブル化推進派の同胞とはいえ、おそらくこの\r\n//騎体のことまでは知らされていなかったのだろう。\r\n//　あわよくば勝利を奪い、賭博化後の主導権を握る気\r\n//でいたのかもしれない。\r\n\r\n//　そしてそんな夢想がはかなく砕かれたことを、まだ\r\n//認められずにいる――\r\n  Não conseguem aceitar que seu sonho foi despedaçado.\r\n"
  },
  {
   "offset": 10447,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160180a02'>\r\n//「……荒っぽい<RUBY text='はしり'>騎航</RUBY>ですね」\r\n\"...The Yokotan racer looks kind of unsteady.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160180a02'>\r\n//「……荒っぽい<RUBY text='はしり'>騎航</RUBY>ですね」\r\n\"...O corredor da Yokotan parece meio instável.\"\r\n"
  },
  {
   "offset": 10660,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160190a00'>\r\n//「ああ。あれは早く退かせた方がいい。\r\n//　事故を起こすだけだ」\r\n\"Yes. He should get off the course before he crashes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160190a00'>\r\n//「ああ。あれは早く退かせた方がいい。\r\n//　事故を起こすだけだ」\r\n\"Sim. Ele deveria sair da pista antes de bater.\"\r\n"
  },
  {
   "offset": 10903,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160200a03'>\r\n//「翔京が下がっていきます……」\r\n\"Shokyo is pulling off.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160200a03'>\r\n//「翔京が下がっていきます……」\r\n\"A Shokyo está se retirando.\"\r\n"
  },
  {
   "offset": 11079,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160210a04'>\r\n//「一三周で切り上げたようでございますね。\r\n//　記録は……」\r\n\"The thirteenth lap, was it? Let's see the time...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160210a04'>\r\n//「一三周で切り上げたようでございますね。\r\n//　記録は……」\r\n\"A décima terceira volta, foi? Vejamos o tempo...\"\r\n"
  },
  {
   "offset": 11313,
   "en": "\r\n//　そこで初めて、観客席は喧騒を取り戻した。\r\n//　誰もが表示板に目を向けている。\r\n  Here, the familiar din of the crowd finally returns. Cries of amazement go up from the stands as everyone looks to the scoreboard.\r\n\r\n//　――一分二五秒九七。\r\n//　俺の記憶に誤りが無いなら、それは鎌倉サーキット\r\n//の落成式に招かれた欧州のトップレーサー達の記録に\r\n//肉薄するレベルの数値だった。\r\n  1:25:97.\r\n  If memory serves, that score is within less than a second of the record set by the reigning world champion when he was invited from Europe for the Kamakura Circuit's opening ceremonies.\r\n\r\n//　現時点において、二位はヨコタンワークス。\r\n//　……二位以下に一秒以上の差で首位。\r\n  Shokyo's team has taken the lead, and with more than a full second separating them from the rest of the competition.\r\n\r\n//　誰かの呟きが耳に入った。<k>\r\n//　\r\n//　――明日の決勝なんて、やる意味ねえじゃんか。\r\n  <I>Might as well give them the cup now,</I>㉓I hear someone in the crowd mutter.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そこで初めて、観客席は喧騒を取り戻した。\r\n//　誰もが表示板に目を向けている。\r\n  Aqui, o burburinho familiar da multidão finalmente retorna. Gritos de espanto sobem das arquibancadas enquanto todos olham para o placar.\r\n\r\n//　――一分二五秒九七。\r\n//　俺の記憶に誤りが無いなら、それは鎌倉サーキット\r\n//の落成式に招かれた欧州のトップレーサー達の記録に\r\n//肉薄するレベルの数値だった。\r\n  1:25:97.\r\n  Se a memória não me falha, esse tempo está a menos de um segundo do recorde estabelecido pelo atual campeão mundial quando foi convidado da Europa para a cerimônia de inauguração do Circuito de Kamakura.\r\n\r\n//　現時点において、二位はヨコタンワークス。\r\n//　……二位以下に一秒以上の差で首位。\r\n  A equipe da Shokyo assumiu a liderança, com mais de um segundo inteiro de vantagem sobre o resto da concorrência.\r\n\r\n//　誰かの呟きが耳に入った。<k>\r\n//　\r\n//　――明日の決勝なんて、やる意味ねえじゃんか。\r\n  <I>Bem que já podiam entregar a taça,</I>㉓ ouço alguém na multidão murmurar.\r\n"
  },
  {
   "offset": 12474,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160220a03'>\r\n//「ですねぇ……」\r\n\"Might as well...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160220a03'>\r\n//「ですねぇ……」\r\n\"Bem que podiam...\"\r\n"
  },
  {
   "offset": 12623,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160230a04'>\r\n//「はぁ。これでは」\r\n\"Yes. With that time...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160230a04'>\r\n//「はぁ。これでは」\r\n\"Sim. Com esse tempo...\"\r\n"
  },
  {
   "offset": 12772,
   "en": "\r\n//　同じ声を聞いていたのだろう。大鳥主従が顔を見合\r\n//わせている。\r\n//　一条は、口惜しそうにしていた。\r\n  The Otori pair seems of the same opinion. Ichijo, meanwhile, frowns bitterly.\r\n",
-  "pt": ""
+  "pt": "\r\n//　同じ声を聞いていたのだろう。大鳥主従が顔を見合\r\n//わせている。\r\n//　一条は、口惜しそうにしていた。\r\n  O par de Otori parece ter a mesma opinião. Ichijo, por sua vez, franze a testa com amargura.\r\n"
  },
  {
   "offset": 13013,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160240a02'>\r\n//「ちっ。なんだよ。\r\n//　金で勝ったようなもんじゃねぇか……」\r\n\"Tch, what's the big deal? It's like they bought the damn race.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160240a02'>\r\n//「ちっ。なんだよ。\r\n//　金で勝ったようなもんじゃねぇか……」\r\n\"Tch, qual é o problema? É como se tivessem comprado a maldita corrida.\"\r\n"
  },
  {
   "offset": 13263,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160250a00'>\r\n//「そうだな。\r\n//　だがレースはそういうものだ」\r\n\"True, but that's part of the sport.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160250a00'>\r\n//「そうだな。\r\n//　だがレースはそういうものだ」\r\n\"É verdade, mas isso faz parte do esporte.\"\r\n"
  },
  {
   "offset": 13465,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160260a00'>\r\n//「金と。そして技術と、運と……\r\n//　それらの総合力で勝敗が決する」\r\n\"It's a combination of luck, skill, and money that decides the victor.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160260a00'>\r\n//「金と。そして技術と、運と……\r\n//　それらの総合力で勝敗が決する」\r\n\"É a combinação de sorte, habilidade e dinheiro que decide o vencedor.\"\r\n"
  },
  {
   "offset": 13731,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160270a00'>\r\n//「どれか一つが抜きん出ていれば、他の面で\r\n//劣っていても勝つ事ができる。\r\n//　資金面の優位は特に有効である場合が多い」\r\n\"If you have a significant advantage in one of those areas, it is still possible to win even if your showings in the other two are merely average. A financial advantage tends to be particularly effective.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160270a00'>\r\n//「どれか一つが抜きん出ていれば、他の面で\r\n//劣っていても勝つ事ができる。\r\n//　資金面の優位は特に有効である場合が多い」\r\n\"Se você tem uma vantagem significativa em uma dessas áreas, ainda é possível vencer mesmo que seu desempenho nas outras duas seja apenas mediano. Uma vantagem financeira costuma ser especialmente eficaz.\"\r\n"
  },
  {
   "offset": 14207,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160280a02'>\r\n//「……すいません、湊斗さん。\r\n//　あたし、やっぱりこの競技はあまり好きに\r\n//なれないかも」\r\n\"...I'm sorry, sir. I don't think armor racing is for me after all.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160280a02'>\r\n//「……すいません、湊斗さん。\r\n//　あたし、やっぱりこの競技はあまり好きに\r\n//なれないかも」\r\n\"...Desculpe, senhor. Acho que corrida de armadura não é para mim, afinal.\"\r\n"
  },
  {
   "offset": 14504,
   "en": "\r\n//　申し訳なさそうな声に、俺は答えるのはやめた。\r\n//　無理もないことだと思った。\r\n\r\n//　ウルティマという騎体の強さには、見る者へ狂熱を\r\n//導くと同時に――いま一条が直視したレースの実情を\r\n//知らしめて、心中のどこかに憮然たるものを抱かせる\r\n//ようなところがあった。\r\n\r\n//　俺自身も、そう感じている。\r\n//　凄いものだとは思うが、素直に賞賛はし難い。\r\n  I can't blame her. While the strength of Shokyo's Ultima is indeed awesome to behold, it also serves as a reminder of one of the disappointing realities of this sport.\r\n\r\n  I feel much as Ichijo does right now. The Ultima is impressive, but I can't bring myself to respect it.\r\n",
-  "pt": ""
+  "pt": "\r\n//　申し訳なさそうな声に、俺は答えるのはやめた。\r\n//　無理もないことだと思った。\r\n\r\n//　ウルティマという騎体の強さには、見る者へ狂熱を\r\n//導くと同時に――いま一条が直視したレースの実情を\r\n//知らしめて、心中のどこかに憮然たるものを抱かせる\r\n//ようなところがあった。\r\n\r\n//　俺自身も、そう感じている。\r\n//　凄いものだとは思うが、素直に賞賛はし難い。\r\n  Não posso culpá-la. Embora a força da Ultima da Shokyo seja de fato impressionante de se ver, ela também serve para lembrar uma das realidades decepcionantes deste esporte.\r\n\r\n  Sinto quase o mesmo que Ichijo agora. A Ultima é impressionante, mas não consigo chegar a respeitá-la.\r\n"
  },
  {
   "offset": 15298,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160290a03'>\r\n//「騎手の力量も相当なものではありますけど、\r\n//ね……。\r\n//　あれだけの加速力を有する騎体、つまりは\r\n//じゃじゃ馬を乗りこなしているのですから」\r\n\"Not that the pilot's skill is anything to scoff at. Flying a machine that fast is like riding a wild horse.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160290a03'>\r\n//「騎手の力量も相当なものではありますけど、\r\n//ね……。\r\n//　あれだけの加速力を有する騎体、つまりは\r\n//じゃじゃ馬を乗りこなしているのですから」\r\n\"Não que a habilidade do piloto seja algo desprezível. Pilotar uma máquina tão rápida é como montar um cavalo selvagem.\"\r\n"
  },
  {
   "offset": 15721,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160300a04'>\r\n//「来馬豪、とかいう名でしたか。\r\n//　はて、あまり聞いたことがございませんが\r\n//……」\r\n\"Kuruma Go, was it? I haven't heard the name.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160300a04'>\r\n//「来馬豪、とかいう名でしたか。\r\n//　はて、あまり聞いたことがございませんが\r\n//……」\r\n\"Kuruma Go, era esse o nome? Nunca ouvi falar.\"\r\n"
  },
  {
   "offset": 15987,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160310a00'>\r\n//「草レースでは知られた男です。\r\n//　レーサー養成団体『蛙の穴』を一人で叩き\r\n//潰したほか、非公式に海外へ渡航して欧州の\r\n//選手と戦ったこともあるとか」\r\n\"He's known in underground racing circles. They say he singlehandedly defeated the entire Kawazu-no-Ana racing school, and even went overseas to battle European racers unofficially.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160310a00'>\r\n//「草レースでは知られた男です。\r\n//　レーサー養成団体『蛙の穴』を一人で叩き\r\n//潰したほか、非公式に海外へ渡航して欧州の\r\n//選手と戦ったこともあるとか」\r\n\"Ele é conhecido nos circuitos clandestinos. Dizem que ele sozinho derrotou toda a escola de pilotos Kawazu-no-Ana e que até foi para o exterior enfrentar corredores europeus extraoficialmente.\"\r\n"
  },
  {
   "offset": 16486,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160320a03'>\r\n//「……また、怪しげな経歴ですこと」\r\n\"That's a little hard to <br>believe.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160320a03'>\r\n//「……また、怪しげな経歴ですこと」\r\n\"Isso é um pouco difícil de acreditar.\"\r\n"
  },
  {
   "offset": 16682,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160330a00'>\r\n//「実力は確かに一級品です」\r\n\"But there's no denying that his skill is top class.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160330a00'>\r\n//「実力は確かに一級品です」\r\n\"Mas não há como negar que a habilidade dele é de primeira classe.\"\r\n"
  },
  {
   "offset": 16872,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160340a02'>\r\n//「だったら、あんな金ピカの騎体なんか使わ\r\n//ないで実力で勝負すりゃいいのに……」\r\n\"Then he should just race fair-and-square, instead of relying on that flashy golden hotrod.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160340a02'>\r\n//「だったら、あんな金ピカの騎体なんか使わ\r\n//ないで実力で勝負すりゃいいのに……」\r\n\"Então ele deveria simplesmente correr limpo, em vez de contar com aquele possante dourado espalhafatoso.\"\r\n"
  },
  {
   "offset": 17180,
   "en": "\r\n//　優秀な騎体を得ることも実力の内に違いない。\r\n//　だが、それも口にはせずにおく。\r\n  The ability to acquire a powerful machine is itself one facet of skill, but I know that Ichijo doesn't want to hear that.\r\n\r\n//　一条の胸中にあるらしい落胆を、俺もどうやら共有\r\n//していた。\r\n//　自覚していた以上に、タムラの勝利を期待する念は\r\n//強かったようだ。翔京の圧勝に苦いものを禁じ得ない。\r\n  In any case, I seem to share her disappointment. I must have desired Tamura's victory more than I myself knew; and now, having beheld Shokyo's power, I cannot help but feel a certain hopelessness.\r\n\r\n//　一心に部品を磨いていた、少女の姿を思い出す。\r\n//　これは父の心血だと告げた、その言葉を思い出す。\r\n  I remember the girl polishing that ball bearing as though it were her father's own flesh and blood―which, to her, it was.\r\n\r\n//　……翔京には翔京なりの正当性があるに違いないの\r\n//だ。六波羅と組んでいるからといって、彼らまでもが\r\n//悪の権化だという理屈はない。\r\n//　その程度のことはわかる。\r\n  No doubt Shokyo has its reasons for what they do, reasons no less justifiable than Tamura's. Just because they're linked to Rokuhara doesn't mean they're evil.\r\n\r\n//　それでもやはり――\r\n//　心理の素直な表層は、タムラにこそ勝って欲しいと\r\n//願っていた。\r\n  But if I am to be honest with myself, I must admit that I want to see Tamura win.\r\n\r\n//　…………。<k>\r\n//　\r\n//　そういえば。\r\n  ...Speaking of which.\r\n",
-  "pt": ""
+  "pt": "\r\n//　優秀な騎体を得ることも実力の内に違いない。\r\n//　だが、それも口にはせずにおく。\r\n  A capacidade de obter uma máquina poderosa é, por si só, um aspecto da habilidade, mas sei que Ichijo não quer ouvir isso.\r\n\r\n//　一条の胸中にあるらしい落胆を、俺もどうやら共有\r\n//していた。\r\n//　自覚していた以上に、タムラの勝利を期待する念は\r\n//強かったようだ。翔京の圧勝に苦いものを禁じ得ない。\r\n  De qualquer forma, parece que compartilho da decepção dela. Eu devia desejar a vitória da Tamura mais do que eu mesmo sabia; e agora, tendo contemplado o poder da Shokyo, não consigo deixar de sentir uma certa desolação.\r\n\r\n//　一心に部品を磨いていた、少女の姿を思い出す。\r\n//　これは父の心血だと告げた、その言葉を思い出す。\r\n  Lembro-me da garota polindo aquele rolamento como se fosse a própria carne e o sangue do pai — o que, para ela, de fato era.\r\n\r\n//　……翔京には翔京なりの正当性があるに違いないの\r\n//だ。六波羅と組んでいるからといって、彼らまでもが\r\n//悪の権化だという理屈はない。\r\n//　その程度のことはわかる。\r\n  Sem dúvida a Shokyo tem suas razões para o que faz, razões não menos justificáveis que as da Tamura. O fato de estarem ligados a Rokuhara não significa que sejam maus.\r\n\r\n//　それでもやはり――\r\n//　心理の素直な表層は、タムラにこそ勝って欲しいと\r\n//願っていた。\r\n  Mas, para ser honesto comigo mesmo, devo admitir que quero ver a Tamura vencer.\r\n\r\n//　…………。<k>\r\n//　\r\n//　そういえば。\r\n  ...Falando nisso.\r\n"
  },
  {
   "offset": 18876,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160350a00'>\r\n//「タムラはどうしたのでしょうか」\r\n\"Where is Tamura?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160350a00'>\r\n//「タムラはどうしたのでしょうか」\r\n\"Onde está a Tamura?\"\r\n"
  },
  {
   "offset": 19040,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160360a04'>\r\n//「そろそろ出て来るようでございますよ。\r\n//　ピットからスタッフが」\r\n\"It looks like they're about to start. I can see their crew coming out on the track.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160360a04'>\r\n//「そろそろ出て来るようでございますよ。\r\n//　ピットからスタッフが」\r\n\"Parece que estão prestes a começar. Consigo ver a equipe deles saindo para a pista.\"\r\n"
  },
  {
   "offset": 19320,
   "en": "\r\n//　老侍従に言われて見れば、慣れ親しむタムラのロゴ\r\n//を背負った作業員がスタート周辺を慌しく動き回って\r\n//いるところだった。\r\n//　皇路氏らしき姿もある。帽子を深く被っているが。\r\n  Following Miss Nagakura's gaze, I see crewmen wearing the familiar Tamura logo working busily near the start line. One of them looks like Oji Suguru, though with the hat covering his face, it's impossible to be sure.\r\n\r\n//　アナウンスが響いた。\r\n//　最後の大物の登場を知って、観客達がざわめく――\r\n//何とはなし、お義理めいた気配を漂わせながら。\r\n  As the loudspeakers announce the last major competitor, the spectators once again lift their voices in welcome.\r\n  The cheering feels forced, however, like they're only doing it because they must.\r\n\r\n//　仕方もない。誰もが既に勝負は見えたと感じている。\r\n//　翔京と長年に渡って争ってきた宿敵の登場にも、今\r\n//一つ盛り上がり切れない。そんなある種つまらなげな\r\n//空気が形成されてしまっていた。\r\n  As far as the crowd is concerned, the race is already over. Even Shokyo's longtime rival can't excite them now.\r\n\r\n//　――田村甲業ワークスチーム〝<RUBY text='タムラ・ファイティング・ファクトリー'>　Ｔ・Ｆ・Ｆ　</RUBY>〟\r\n \r\n \r\n \r\n \r\n \r\n<center>Team: Tamura Armorworks, \"The Tamura Fighting Factory\"\r\n \r\n\r\n//　空虚な、<RUBY text='よせ'>寄席</RUBY>の<RUBY text='サクラ'>湧かせ役</RUBY>が無駄に奮闘しているかの\r\n//ような肌寒い歓声の下、タムラワークスは出撃準備を\r\n//整える。\r\n//　その整然たる働きぶりさえ、今は物悲しさを増す。\r\n  The sight of the team working amid the halfhearted applause is, quite frankly, pitiful, like watching a once-legendary boxer struggle just to stay in the fight.\r\n",
-  "pt": ""
+  "pt": "\r\n//　老侍従に言われて見れば、慣れ親しむタムラのロゴ\r\n//を背負った作業員がスタート周辺を慌しく動き回って\r\n//いるところだった。\r\n//　皇路氏らしき姿もある。帽子を深く被っているが。\r\n  Seguindo o olhar da senhorita Nagakura, vejo operários com o familiar logotipo da Tamura trabalhando atarefados perto da linha de largada. Um deles parece ser Oji Suguru, embora, com o chapéu cobrindo o rosto, seja impossível ter certeza.\r\n\r\n//　アナウンスが響いた。\r\n//　最後の大物の登場を知って、観客達がざわめく――\r\n//何とはなし、お義理めいた気配を漂わせながら。\r\n  Quando os alto-falantes anunciam o último grande competidor, os espectadores mais uma vez erguem a voz em saudação.\r\n  O entusiasmo, porém, soa forçado, como se todos o fizessem apenas por obrigação.\r\n\r\n//　仕方もない。誰もが既に勝負は見えたと感じている。\r\n//　翔京と長年に渡って争ってきた宿敵の登場にも、今\r\n//一つ盛り上がり切れない。そんなある種つまらなげな\r\n//空気が形成されてしまっていた。\r\n  Para a multidão, a corrida já acabou. Nem mesmo o rival de longa data da Shokyo consegue empolgá-los agora.\r\n\r\n//　――田村甲業ワークスチーム〝<RUBY text='タムラ・ファイティング・ファクトリー'>　Ｔ・Ｆ・Ｆ　</RUBY>〟\r\n \r\n \r\n \r\n \r\n \r\n<center>Equipe: Tamura Armorworks, \"The Tamura Fighting Factory\"\r\n \r\n\r\n//　空虚な、<RUBY text='よせ'>寄席</RUBY>の<RUBY text='サクラ'>湧かせ役</RUBY>が無駄に奮闘しているかの\r\n//ような肌寒い歓声の下、タムラワークスは出撃準備を\r\n//整える。\r\n//　その整然たる働きぶりさえ、今は物悲しさを増す。\r\n  A visão da equipe trabalhando em meio aos aplausos sem convicção é, francamente, lamentável, como ver um boxeador outrora lendário lutando apenas para continuar na luta.\r\n"
  },
  {
   "offset": 21290,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160370a03'>\r\n//「登場が少し遅いですね。\r\n//　セッティングに手間取っていたのかしら？」\r\n\"They're later than expected. Did they have trouble with the final tuning?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160370a03'>\r\n//「登場が少し遅いですね。\r\n//　セッティングに手間取っていたのかしら？」\r\n\"Estão mais atrasados do que o esperado. Será que tiveram problemas com o ajuste final?\"\r\n"
  },
  {
   "offset": 21575,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160380a04'>\r\n//「どうでしょう。\r\n//　予選で翔京と張り合う愚を知り、避けたの\r\n//かもしれませぬな」\r\n\"Maybe they realized that it would be foolish to go head-to-head with Shokyo in the preliminary.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160380a04'>\r\n//「どうでしょう。\r\n//　予選で翔京と張り合う愚を知り、避けたの\r\n//かもしれませぬな」\r\n\"Talvez tenham percebido que seria tolice disputar de igual para igual com a Shokyo nas eliminatórias.\"\r\n"
  },
  {
   "offset": 21889,
   "en": "\r\n//　スタッフの平静な様子を見るに、永倉侍従の言の方\r\n//が説得力を有すると思えた。\r\n//　であればその判断は正しい。あんな魔物と共に騎航\r\n//したところで得るものは何も無いだろう。\r\n\r\n//　自分より速い走者と共に走ると記録が伸びることが\r\n//多い、とは云うが。\r\n//　限度というものがある。兎と亀が競走すれば、普通\r\n//の亀は途中で馬鹿馬鹿しさに支配されるに違いない。\r\n  Judging by the calm with which the crew goes about its tasks, Miss Nagakura's assessment is likely correct. In which case, Tamura made the right decision. It would indeed have been foolish to go head-to-head with that monster today.\r\n\r\n  Some pilots say that they fly faster when they have a strong opponent to race against. Still, there has to be a limit. If a tortoise and a hare go to the track, the tortoise isn't suddenly going to find the inner strength necessary to match the hare.\r\n\r\n//　――騎手　皇路操\r\n \r\n \r\n \r\n \r\n \r\n<center>Racer: Oji Misao\r\n \r\n\r\n//　瞬間、それまでとは違う、本物の歓声が上がる。\r\n//　皇路操はいわゆるカリスマを備えたレーサーだった。\r\n//普段の静かな物腰、相反して苛烈な騎航、その両者が\r\n//カクテルされて独特の魅力を形作っている。\r\n  Suddenly the cheering takes on genuine enthusiasm. Misao is something of an idol among Yamatoan racing fans, with many drawn to the unique imbalance between her reserved demeanor and aggressive racing style. Older fans like myself also see in her the return of a childhood hero.\r\n\r\n//　彼女の姿にかつての英雄の面影を想う者も多い。\r\n//　世代の違いを問わず、二代目の皇路は絶大な人気を\r\n//誇っていた。\r\n\r\n//　……しかしそのカリスマへ捧げられるべき声援も、\r\n//今日ばかりは本人の登場を待たずして色褪せてゆく。\r\n//　一瞬の沸騰は一瞬で終わり、観客はすぐに、自分ら\r\n//のヒロインが勝利から遥か遠いことを思い出していた。\r\n  Yet even her fame is not enough to carry this crowd for long. The cheering dies down as, one by one, the fans remember just how far from victory their heroine is.\r\n\r\n//　まばらになってゆくさざめきと拍手を浴びながら、\r\n//雲間から差す薄い日差しのように彼女は現れる。\r\n//　父が創り出した劔冑を纏って。\r\n  And then she appears, armored and ready, emerging into the fading echoes of her applause like a feeble ray of sunlight between thick clouds.\r\n\r\n  At last, her father's creation is revealed.\r\n\r\n//　――騎体名……\r\n \r\n \r\n \r\n \r\n \r\n<center>Crux:\r\n \r\n\r\n//　その、\r\n//　刹那。\r\n",
-  "pt": ""
+  "pt": "\r\n//　スタッフの平静な様子を見るに、永倉侍従の言の方\r\n//が説得力を有すると思えた。\r\n//　であればその判断は正しい。あんな魔物と共に騎航\r\n//したところで得るものは何も無いだろう。\r\n\r\n//　自分より速い走者と共に走ると記録が伸びることが\r\n//多い、とは云うが。\r\n//　限度というものがある。兎と亀が競走すれば、普通\r\n//の亀は途中で馬鹿馬鹿しさに支配されるに違いない。\r\n  A julgar pela calma com que a equipe executa suas tarefas, a avaliação da senhorita Nagakura provavelmente está correta. Nesse caso, a Tamura tomou a decisão certa. De fato, teria sido tolice enfrentar aquele monstro hoje.\r\n\r\n  Alguns pilotos dizem que voam mais rápido quando têm um oponente forte contra quem correr. Ainda assim, é preciso haver um limite. Se uma tartaruga e uma lebre vão à pista, a tartaruga não vai de repente encontrar a força interior necessária para igualar a lebre.\r\n\r\n//　――騎手　皇路操\r\n \r\n \r\n \r\n \r\n \r\n<center>Piloto: Oji Misao\r\n \r\n\r\n//　瞬間、それまでとは違う、本物の歓声が上がる。\r\n//　皇路操はいわゆるカリスマを備えたレーサーだった。\r\n//普段の静かな物腰、相反して苛烈な騎航、その両者が\r\n//カクテルされて独特の魅力を形作っている。\r\n  De repente, os aplausos ganham um entusiasmo genuíno. Misao é uma espécie de ídolo entre os fãs de corrida de Yamato, e muitos se sentem atraídos pelo contraste único entre seu jeito reservado e seu estilo agressivo de pilotar. Fãs mais velhos como eu também veem nela o retorno de um herói de infância.\r\n\r\n//　彼女の姿にかつての英雄の面影を想う者も多い。\r\n//　世代の違いを問わず、二代目の皇路は絶大な人気を\r\n//誇っていた。\r\n\r\n//　……しかしそのカリスマへ捧げられるべき声援も、\r\n//今日ばかりは本人の登場を待たずして色褪せてゆく。\r\n//　一瞬の沸騰は一瞬で終わり、観客はすぐに、自分ら\r\n//のヒロインが勝利から遥か遠いことを思い出していた。\r\n  Contudo, nem mesmo a fama dela é suficiente para manter esta plateia animada por muito tempo. Os aplausos diminuem à medida que, um a um, os fãs se lembram de quão longe da vitória está sua heroína.\r\n\r\n//　まばらになってゆくさざめきと拍手を浴びながら、\r\n//雲間から差す薄い日差しのように彼女は現れる。\r\n//　父が創り出した劔冑を纏って。\r\n  E então ela aparece, blindada e pronta, surgindo entre os ecos moribundos de seus aplausos, como um raio tênue de sol entre nuvens espessas.\r\n\r\n  Por fim, a criação de seu pai é revelada.\r\n\r\n//　――騎体名……\r\n \r\n \r\n \r\n \r\n \r\n<center>Crux:\r\n \r\n\r\n//　その、\r\n//　刹那。\r\n"
  },
  {
   "offset": 24696,
@@ -267,82 +267,82 @@
  {
   "offset": 24953,
   "en": "\r\n//　サーキット内の。\r\n//　あらゆる光が固定され、あらゆる風が流れを止めた。\r\n  At that moment, the world seems to stop turning.\r\n\r\n//　あらゆる思考が、同じ方向を指した。\r\n//　停止した世界で、誰もが音のない声で、ただ一言を\r\n//主張していた。\r\n  All thoughts arrive at a single point, and in this instant of frozen time, each and every person mouths the same voiceless question.\r\n\r\n//　――あれは、何だ。\r\n//　――あれは、何だ。\r\n//　――あれは、何だ。\r\n//\r\n//　<RUBY text='・・・'>あれは</RUBY>、<RUBY text='・・'>何だ</RUBY>!?\r\n  What㉓<I>is</I>㉒that!?\r\n",
-  "pt": ""
+  "pt": "\r\n//　サーキット内の。\r\n//　あらゆる光が固定され、あらゆる風が流れを止めた。\r\n  Naquele instante, o mundo parece parar de girar.\r\n\r\n//　あらゆる思考が、同じ方向を指した。\r\n//　停止した世界で、誰もが音のない声で、ただ一言を\r\n//主張していた。\r\n  Todos os pensamentos convergem para um único ponto e, neste instante de tempo congelado, cada pessoa formula em silêncio a mesma pergunta.\r\n\r\n//　――あれは、何だ。\r\n//　――あれは、何だ。\r\n//　――あれは、何だ。\r\n//\r\n//　<RUBY text='・・・'>あれは</RUBY>、<RUBY text='・・'>何だ</RUBY>!?\r\n  O que㉓<I>é</I>㉒isso!?\r\n"
  },
  {
   "offset": 25643,
   "en": "\r\n//　それは嘗て、どのような企業も、どのようなチーム\r\n//も、造り上げた<RUBY text='ためし'>例</RUBY>のないカタチをしていた。\r\n//　全く前例の無い、<RUBY text='レーサークルス'>競技用劔冑</RUBY>。\r\n  It is unlike any racing crux that has ever existed, private or corporate, Eastern or Western.\r\n\r\n//　劔冑？\r\n//　これは、劔冑か？\r\n  A tsurugi?㉒<I>That's</I>㉓a tsurugi?\r\n\r\n//　奇形。\r\n//　歪んだ姿。\r\n//　凝視すれば、平衡感覚を失いかねない程に。\r\n  Its appearance is twisted, unnatural. Staring at it, I feel like the earth starts to tilt beneath my feet.\r\n\r\n//　狂っている。\r\n//　この造形は、狂っている。\r\n  Madness.<K>\r\n  The man who built this is mad. \r\n\r\n//　この形を造り上げた人間は心を病んでいる。\r\n//　間違いなく、脳神経系の大切な<RUBY text='ネジ'>螺子</RUBY>を一本、外して\r\n//しまっている。\r\n\r\n//　頬を掻き毟りたい、そんな狂躁さえ呼び起こされる。\r\n//　そして、それと糸一筋で危うく均衡を取っているか\r\n//のような、感慨――\r\n  I want to pinch my cheek to see if I'm dreaming. And yet, at the same time, another thought rises to form a precarious balance within me.\r\n\r\n//　美しい。\r\n//　いたたまれぬほどに、美しい。\r\n  Beautiful.<K>\r\n  The machine is heart-<br>wrenchingly beautiful.\r\n\r\n//　円周率を無理矢理解き明かして形容したかのような\r\n//流線型のフォルム。\r\n//　そこにメタリックブルーのカラーリングが重なれば、\r\n//それは無限の海であり果てなき空だ。\r\n  Its form is sleek and curved: what might emerge, perhaps, were a deranged mathematician to express pi in tsurugi form. Add to that the metallic blue paint, and you have a machine that calls to mind the fathomless sea and the infinite sky.\r\n\r\n//　異界の美。\r\n//　あってはならないもの。\r\n//　禁忌の芸巧。\r\n\r\n//　今――\r\n//　そんな代物が、サーキットに立っている。\r\n  Was it truly fashioned by the hands of men? Its beauty seems almost㉓<I>profane,</I>㉒the product of some strange world governed by unknown laws.\r\n\r\n  Yet here it stands, in ours.\r\n\r\n//　――騎体名<k>〝<RUBY text='アベンジ'>逆襲</RUBY>〟\r\n \r\n \r\n \r\n \r\n \r\n           Crux:<K> \"Avenger\"\r\n \r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　それは嘗て、どのような企業も、どのようなチーム\r\n//も、造り上げた<RUBY text='ためし'>例</RUBY>のないカタチをしていた。\r\n//　全く前例の無い、<RUBY text='レーサークルス'>競技用劔冑</RUBY>。\r\n  É diferente de qualquer crux de corrida que já existiu, particular ou corporativo, do Oriente ou do Ocidente.\r\n\r\n//　劔冑？\r\n//　これは、劔冑か？\r\n  Um tsurugi?㉒<I>Isso</I>㉓é um tsurugi?\r\n\r\n//　奇形。\r\n//　歪んだ姿。\r\n//　凝視すれば、平衡感覚を失いかねない程に。\r\n  Sua aparência é distorcida, antinatural. Ao encará-lo, sinto como se a terra começasse a se inclinar sob meus pés.\r\n\r\n//　狂っている。\r\n//　この造形は、狂っている。\r\n  Loucura.<K>\r\n  O homem que construiu isto é louco.\r\n\r\n//　この形を造り上げた人間は心を病んでいる。\r\n//　間違いなく、脳神経系の大切な<RUBY text='ネジ'>螺子</RUBY>を一本、外して\r\n//しまっている。\r\n\r\n//　頬を掻き毟りたい、そんな狂躁さえ呼び起こされる。\r\n//　そして、それと糸一筋で危うく均衡を取っているか\r\n//のような、感慨――\r\n  Quero beliscar a minha bochecha para ver se estou sonhando. E, no entanto, ao mesmo tempo, outro pensamento surge e estabelece um equilíbrio precário dentro de mim.\r\n\r\n//　美しい。\r\n//　いたたまれぬほどに、美しい。\r\n  Belo.<K>\r\n  A máquina é de uma beleza que parte o coração.\r\n\r\n//　円周率を無理矢理解き明かして形容したかのような\r\n//流線型のフォルム。\r\n//　そこにメタリックブルーのカラーリングが重なれば、\r\n//それは無限の海であり果てなき空だ。\r\n  Sua forma é esguia e curva: algo que poderia emergir, talvez, se um matemático insano expressasse o pi na forma de um tsurugi. Some a isso a pintura azul metálica, e você tem uma máquina que faz lembrar o mar insondável e o céu infinito.\r\n\r\n//　異界の美。\r\n//　あってはならないもの。\r\n//　禁忌の芸巧。\r\n\r\n//　今――\r\n//　そんな代物が、サーキットに立っている。\r\n  Será que foi realmente moldada pelas mãos dos homens? Sua beleza parece quase㉓<I>profana,</I>㉒o produto de algum mundo estranho regido por leis desconhecidas.\r\n\r\n  E, no entanto, aqui está ela, no nosso mundo.\r\n\r\n//　――騎体名<k>〝<RUBY text='アベンジ'>逆襲</RUBY>〟\r\n \r\n \r\n \r\n \r\n \r\n           Crux:<K> \"Avenger\"\r\n \r\n\r\n"
  },
  {
   "offset": 28068,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160410a02'>\r\n//「なっ……\r\n//　なんなんですかっ、あれ！」\r\n\"Wha―  What is that!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160410a02'>\r\n//「なっ……\r\n//　なんなんですかっ、あれ！」\r\n\"O quê...? O que é aquilo!?\"\r\n"
  },
  {
   "offset": 28251,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160420a00'>\r\n//「わ――わからん」\r\n\"I... have no idea!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160420a00'>\r\n//「わ――わからん」\r\n\"Eu... não faço ideia!\"\r\n"
  },
  {
   "offset": 28396,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160430a03'>\r\n//「あれは……本当にタムラの騎体なのかしら。\r\n//　ホットボルトの系統とは全く、根本の構想\r\n//からして違うとしか考えられません」\r\n\"Is that truly a Tamura model? It looks like it was based on completely different principles than the Hot Bolt line.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160430a03'>\r\n//「あれは……本当にタムラの騎体なのかしら。\r\n//　ホットボルトの系統とは全く、根本の構想\r\n//からして違うとしか考えられません」\r\n\"Aquilo é mesmo um modelo Tamura? Parece ter sido baseado em princípios completamente diferentes da linha Hot Bolt.\"\r\n"
  },
  {
   "offset": 28802,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160440a04'>\r\n//「ホットボルトからスーパーボルト、チャク\r\n//ラム、そしてサンダーボルトと、積み重ねて\r\n//きた技術財産をほとんど無視しておりますね。\r\n//　……あれは本当に<RUBY text='はし'>騎航</RUBY>るのでしょうか？」\r\n\"Tamura spent decades perfecting their design philosophy, from Hot Bolt to Super Bolt, Chakram, and Thunderbolt... but this design throws all that work out the window. Will it really fly?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160440a04'>\r\n//「ホットボルトからスーパーボルト、チャク\r\n//ラム、そしてサンダーボルトと、積み重ねて\r\n//きた技術財産をほとんど無視しておりますね。\r\n//　……あれは本当に<RUBY text='はし'>騎航</RUBY>るのでしょうか？」\r\n\"A Tamura passou décadas aperfeiçoando sua filosofia de design, do Hot Bolt ao Super Bolt, Chakram e Thunderbolt... mas este projeto joga todo esse trabalho pela janela. Será que ele realmente vai voar?\"\r\n"
  },
  {
   "offset": 29370,
   "en": "\r\n//【皇路】\r\n<voice name='皇路' class='その他男声' src='voice/ma03/0160450b24'>\r\n//「どうでしょう？\r\n//　タムラ始まって以来の駄作になるかもしれ\r\n//ません。その可能性はあります。すでにそう\r\n//声高に言っている者も社内にはいますよ」\r\n\"Heh, I wonder. It might just be the biggest piece of junk we've ever produced. At least, that's what much of the company thinks.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【皇路】\r\n<voice name='皇路' class='その他男声' src='voice/ma03/0160450b24'>\r\n//「どうでしょう？\r\n//　タムラ始まって以来の駄作になるかもしれ\r\n//ません。その可能性はあります。すでにそう\r\n//声高に言っている者も社内にはいますよ」\r\n\"Heh, quem sabe. Pode muito bem ser a maior porcaria que já produzimos. Pelo menos é o que boa parte da empresa pensa.\"\r\n"
  },
  {
   "offset": 29820,
   "en": "\r\n//　さよ侍従の疑問に、昨日聞かされた話が重なる。\r\n//　……今。現物を前にしてみれば、それは当然という\r\n//ほかなく。\r\n  Now that I see his design firsthand, I cannot help but sympathize with his detractors. Surely no sane man could fathom the purpose of this machine.\r\n\r\n//　こんな発想に、常人がついていける筈もない。\r\n",
-  "pt": ""
+  "pt": "\r\n//　さよ侍従の疑問に、昨日聞かされた話が重なる。\r\n//　……今。現物を前にしてみれば、それは当然という\r\n//ほかなく。\r\n  Agora que vejo o projeto dele de perto, não posso deixar de simpatizar com seus detratores. Certamente nenhum homem em sã consciência conseguiria compreender o propósito desta máquina.\r\n\r\n//　こんな発想に、常人がついていける筈もない。\r\n"
  },
  {
   "offset": 30221,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160460a00'>\r\n//「…………。\r\n//　発想」\r\n\"The purpose...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160460a00'>\r\n//「…………。\r\n//　発想」\r\n\"O propósito...\"\r\n"
  },
  {
   "offset": 30369,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160470a03'>\r\n//「景明さま？」\r\n\"Pardon?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160470a03'>\r\n//「景明さま？」\r\n\"Perdão?\"\r\n"
  },
  {
   "offset": 30506,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160480a00'>\r\n//「あの騎体はまさしく異様です。他に言葉が\r\n//見つかりません。\r\n//　しかし、強烈な思想性を感じます」\r\n\"There's no question that machine is unnatural―<br>monstrous, even. However, I feel a definite purpose behind its design.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160490a00'>\r\n//「素人が出鱈目に組んだだけなのであれば、\r\n//ああはならないでしょう」\r\n\"A machine that was thrown together haphazardly would not look like that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160480a00'>\r\n//「あの騎体はまさしく異様です。他に言葉が\r\n//見つかりません。\r\n//　しかし、強烈な思想性を感じます」\r\n\"Não há dúvida de que aquela máquina é antinatural — monstruosa, até. No entanto, sinto um propósito definido por trás de seu projeto.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160490a00'>\r\n//「素人が出鱈目に組んだだけなのであれば、\r\n//ああはならないでしょう」\r\n\"Uma máquina montada de qualquer jeito não teria esse aspecto.\"\r\n"
  },
  {
   "offset": 31135,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160500a04'>\r\n//「……同感でございます。\r\n//　何と申しましょうか。あの騎体はあれだけ\r\n//常識を無視したデザインを為されているにも\r\n//拘わらず、<RUBY text='・・・・'>まとまり</RUBY>があると……」\r\n\"I must agree. However it may appear, there does seem to be, how shall I put this, a method to its madness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160500a04'>\r\n//「……同感でございます。\r\n//　何と申しましょうか。あの騎体はあれだけ\r\n//常識を無視したデザインを為されているにも\r\n//拘わらず、<RUBY text='・・・・'>まとまり</RUBY>があると……」\r\n\"Concordo. Por mais estranha que pareça, parece haver, como direi, um método em sua loucura.\"\r\n"
  },
  {
   "offset": 31590,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160510a00'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160510a00'>\r\n//「ええ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 31706,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160520a03'>\r\n//「そうですね……。\r\n//　あの姿には明確で攻撃的な表現――激しい\r\n//主張があるようにわたくしにも見えます」\r\n\"I know what you mean. It feels like it's trying to make a statement... and a very aggressive statement, at <br>that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160520a03'>\r\n//「そうですね……。\r\n//　あの姿には明確で攻撃的な表現――激しい\r\n//主張があるようにわたくしにも見えます」\r\n\"Sei o que quer dizer. Parece que ela está tentando fazer uma declaração... e uma declaração bem agressiva, por sinal.\"\r\n"
  },
  {
   "offset": 32083,
   "en": "\r\n//　そうでなくては、あの美しさは有り得ない。\r\n//　あれは例えば、風雨に削られた岩山が数千年かけて\r\n//達成する無想の美とは全く違う。\r\n//　その対極だ。\r\n  There is no other way to explain its beauty.\r\n  It is not the natural splendor of a mountaintop, honed by aeons of wind and rain. No, it is quite the opposite.\r\n\r\n//　己の力を過信し盲信した彫刻家が変哲もない石塊を\r\n//削り、削り続け、原形を失うまでに変貌を遂げさせ、\r\n//遂に妄想を実現して輝く宝石に造り変えてしまったと\r\n//でもいうような――横暴極まる美術。\r\n  It is as though a sculptor, consumed by blind faith in his own ability, took a lump of dull gray rock and hammered, carved, and chiseled until, by some miracle, he transformed it into a shining gemstone, the embodiment of his mad vision. It is art, driven by a singular purpose. A singular <I>obsession.</I>\r\n\r\n//　あれは、そういったものだ。\r\n//　そこには確かな思想が――<RUBY text='・・'>妄想</RUBY>がある。\r\n",
-  "pt": ""
+  "pt": "\r\n//　そうでなくては、あの美しさは有り得ない。\r\n//　あれは例えば、風雨に削られた岩山が数千年かけて\r\n//達成する無想の美とは全く違う。\r\n//　その対極だ。\r\n  Não há outra maneira de explicar sua beleza.\r\n  Não é o esplendor natural de um pico de montanha, lapidado por éons de vento e chuva. Não, é exatamente o oposto.\r\n\r\n//　己の力を過信し盲信した彫刻家が変哲もない石塊を\r\n//削り、削り続け、原形を失うまでに変貌を遂げさせ、\r\n//遂に妄想を実現して輝く宝石に造り変えてしまったと\r\n//でもいうような――横暴極まる美術。\r\n  É como se um escultor, consumido por uma fé cega na própria habilidade, pegasse um bloco de pedra cinzenta e opaca e martelasse, esculpisse e cinzelasse até que, por algum milagre, o transformasse numa gema brilhante, a encarnação de sua visão insana. É arte, movida por um propósito singular. Uma <I>obsessão</I> singular.\r\n\r\n//　あれは、そういったものだ。\r\n//　そこには確かな思想が――<RUBY text='・・'>妄想</RUBY>がある。\r\n"
  },
  {
   "offset": 33205,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160530a02'>\r\n//「その主張は……\r\n//　どういう……？」\r\n\"But what is it trying to say?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160530a02'>\r\n//「その主張は……\r\n//　どういう……？」\r\n\"Mas o que ela está tentando dizer?\"\r\n"
  },
  {
   "offset": 33389,
@@ -352,12 +352,12 @@
  {
   "offset": 33507,
   "en": "\r\n//　問われても、答えようはない。\r\n//　<RUBY text='はしり'>騎航</RUBY>を見てみなくては。\r\n\r\n//　眼下の戦場で、それが始まろうとしている――\r\n  There is no way to answer without seeing it fly. I direct my attention to the racetrack, where Avenger is about to begin its run.\r\n",
-  "pt": ""
+  "pt": "\r\n//　問われても、答えようはない。\r\n//　<RUBY text='はしり'>騎航</RUBY>を見てみなくては。\r\n\r\n//　眼下の戦場で、それが始まろうとしている――\r\n  Não há como responder sem vê-la voar. Volto minha atenção para a pista, onde Avenger está prestes a iniciar sua corrida.\r\n"
  },
  {
   "offset": 33841,
   "en": "\r\n//　……滑り出しは<RUBY text='ゆるゆる'>緩々</RUBY>と。\r\n//　ホームストレートを静穏に、青の騎体が流れてゆく。\r\n\r\n//　平凡な加速。\r\n//　平凡な速度に達して、コーナーへ。\r\n\r\n//　第一コーナーは大したカーブではない。\r\n//　さほど速度を殺さずとも、安定して曲がり切れる。\r\n  The blue machine takes off from the starting line and glides quietly down the home straight.\r\n\r\n  It accelerates at a perfectly average rate and enters the first corner at a perfectly normal speed. This corner is fairly shallow. It should not require much deceleration.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……滑り出しは<RUBY text='ゆるゆる'>緩々</RUBY>と。\r\n//　ホームストレートを静穏に、青の騎体が流れてゆく。\r\n\r\n//　平凡な加速。\r\n//　平凡な速度に達して、コーナーへ。\r\n\r\n//　第一コーナーは大したカーブではない。\r\n//　さほど速度を殺さずとも、安定して曲がり切れる。\r\n  A máquina azul parte da linha de largada e desliza silenciosamente pela reta principal.\r\n\r\n  Ela acelera a um ritmo perfeitamente mediano e entra na primeira curva a uma velocidade perfeitamente normal. Essa curva é bastante suave. Não deve exigir muita desaceleração.\r\n"
  },
  {
   "offset": 34497,
@@ -372,92 +372,92 @@
  {
   "offset": 34750,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160570a04'>\r\n//「……はて……」\r\n\"...Well.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160570a04'>\r\n//「……はて……」\r\n\"...Bem.\"\r\n"
  },
  {
   "offset": 34882,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160580a02'>\r\n//「ん？\r\n//　今なんか、<RUBY text='・・・・'>ばたばた</RUBY>してなかったか？」\r\n\"Hmm? Doesn't it seem kinda... wobbly?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160580a02'>\r\n//「ん？\r\n//　今なんか、<RUBY text='・・・・'>ばたばた</RUBY>してなかったか？」\r\n\"Hmm? Não parece meio... instável?\"\r\n"
  },
  {
   "offset": 35122,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160590a03'>\r\n//「え、ええ……。\r\n//　まだ騎体に慣れていないのかもしれません」\r\n\"Indeed... Maybe she's just not used to the machine.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160590a03'>\r\n//「え、ええ……。\r\n//　まだ騎体に慣れていないのかもしれません」\r\n\"De fato... Talvez ela ainda não esteja acostumada com a máquina.\"\r\n"
  },
  {
   "offset": 35373,
   "en": "\r\n//　短い直線を抜け、緩いカーブをこなして進む。\r\n//　速度は出ていないが、一周目であればおかしいこと\r\n//とは言えない。先の翔京が異常だったのだ。\r\n\r\n//　長いバンク。\r\n//　ゆったりと曲がってゆく。\r\n  After another short straight, Avenger makes the second curve at an easy speed. This is not unusual for a first lap. If it seems slow, that is only because Shokyo's Ultima was too fast.\r\n\r\n  Next is a long bank turn. She takes it gently.\r\n",
-  "pt": ""
+  "pt": "\r\n//　短い直線を抜け、緩いカーブをこなして進む。\r\n//　速度は出ていないが、一周目であればおかしいこと\r\n//とは言えない。先の翔京が異常だったのだ。\r\n\r\n//　長いバンク。\r\n//　ゆったりと曲がってゆく。\r\n  Depois de outra reta curta, Avenger faz a segunda curva a uma velocidade tranquila. Isso não é incomum numa primeira volta. Se parece lento, é só porque a Ultima de Shokyo foi rápida demais.\r\n\r\n  A seguir vem uma longa curva inclinada. Ela a faz com suavidade.\r\n"
  },
  {
   "offset": 35903,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160600a03'>\r\n//「攻めませんね」\r\n\"She's not hitting the corners at all.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160600a03'>\r\n//「攻めませんね」\r\n\"Ela não está atacando as curvas nem um pouco.\"\r\n"
  },
  {
   "offset": 36073,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160610a04'>\r\n//「まあ、一周目でございますし」\r\n\"It's still the first lap.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160610a04'>\r\n//「まあ、一周目でございますし」\r\n\"Ainda é a primeira volta.\"\r\n"
  },
  {
   "offset": 36243,
   "en": "\r\n//　外見に反して目を引くところのない騎航。\r\n//　観客席には拍子抜けのような空気と、本気を出すで\r\n//あろう後の周回に期待する空気とが混ぜこぜになって\r\n//広がりつつあった。\r\n\r\n//　その空気にあてられたせいか。\r\n//　俺は本来の目的を思い出していた。\r\n  So far, the machine has done nothing to live up to its outrageous design. In the crowd, disappointment wars with anticipation of what might come in the next lap.\r\n\r\n  As my own amazement recedes, I recall my true purpose here.\r\n",
-  "pt": ""
+  "pt": "\r\n//　外見に反して目を引くところのない騎航。\r\n//　観客席には拍子抜けのような空気と、本気を出すで\r\n//あろう後の周回に期待する空気とが混ぜこぜになって\r\n//広がりつつあった。\r\n\r\n//　その空気にあてられたせいか。\r\n//　俺は本来の目的を思い出していた。\r\n  Até agora, a máquina não fez nada que corresponda ao seu projeto ultrajante. Na multidão, a decepção luta contra a expectativa do que pode vir na próxima volta.\r\n\r\n  À medida que meu próprio espanto diminui, lembro-me do meu verdadeiro propósito aqui.\r\n"
  },
  {
   "offset": 36836,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160620a00'>\r\n//「村正。\r\n//　あれは――」\r\n\"Muramasa, is that―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160620a00'>\r\n//「村正。\r\n//　あれは――」\r\n\"Muramasa, aquilo é―\"\r\n"
  },
  {
   "offset": 36993,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0160630a01'>\r\n//《違う》\r\n《No.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0160630a01'>\r\n//《違う》\r\n《Não.》\r\n"
  },
  {
   "offset": 37118,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160640a00'>\r\n//「…………。\r\n//　確かか？」\r\n\"...Are you certain?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160640a00'>\r\n//「…………。\r\n//　確かか？」\r\n\"...Tem certeza?\"\r\n"
  },
  {
   "offset": 37277,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0160650a01'>\r\n//《怪しい部分は何もなし。\r\n//　相変わらず銀星号の気配は感じるけれど、\r\n//あれとは関わりないようね》\r\n《There's nothing. I still sense Ginseigo's signature in the area, but it's not coming from that tsurugi.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0160650a01'>\r\n//《怪しい部分は何もなし。\r\n//　相変わらず銀星号の気配は感じるけれど、\r\n//あれとは関わりないようね》\r\n《Não há nada. Ainda sinto a assinatura de Ginseigo na área, mas não vem daquela tsurugi.》\r\n"
  },
  {
   "offset": 37633,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160660a00'>\r\n//「……そうか」\r\n\"...Understood.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160660a00'>\r\n//「……そうか」\r\n\"...Entendido.\"\r\n"
  },
  {
   "offset": 37768,
   "en": "\r\n//　実の所、意外だった。\r\n//　直感的に、あれしかあるまいと俺は思い込んでいた\r\n//からだ。\r\n\r\n//　あの設計の底に覗く<RUBY text='たぎ'>滾</RUBY>るような熱意。\r\n//　いかにも銀星号が目をつけそうに思えるのだが……。\r\n  To be honest, this comes as something of a shock. Instinct was telling me that it had to be that machine. The mad passion evident at the core of its design seems like exactly the sort of thing that would interest Ginseigo.\r\n \r\n",
-  "pt": ""
+  "pt": "\r\n//　実の所、意外だった。\r\n//　直感的に、あれしかあるまいと俺は思い込んでいた\r\n//からだ。\r\n\r\n//　あの設計の底に覗く<RUBY text='たぎ'>滾</RUBY>るような熱意。\r\n//　いかにも銀星号が目をつけそうに思えるのだが……。\r\n  Para ser sincero, isso é um tanto chocante. Meu instinto dizia que tinha de ser aquela máquina. A paixão insana evidente no âmago de seu projeto parece exatamente o tipo de coisa que interessaria a Ginseigo.\r\n \r\n"
  },
  {
   "offset": 38302,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160670a00'>\r\n//「では、ウルティマはどうだった。\r\n//　黄金色の翼を持っていた騎体だ」\r\n\"Then what about Ultima? The machine with golden wings that came out earlier.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160670a00'>\r\n//「では、ウルティマはどうだった。\r\n//　黄金色の翼を持っていた騎体だ」\r\n\"Então e a Ultima? A máquina com asas douradas que apareceu antes.\"\r\n"
  },
  {
   "offset": 38578,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0160680a01'>\r\n//《同じく何もなし、よ。\r\n//　今日これまでに見たものは全部、白》\r\n《The same. Every machine that's been out today is clean.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0160690a01'>\r\n//《これからまだ出てくるの？》\r\n《Will there be more?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0160680a01'>\r\n//《同じく何もなし、よ。\r\n//　今日これまでに見たものは全部、白》\r\n《O mesmo. Todas as máquinas que apareceram hoje estão limpas.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma03/0160690a01'>\r\n//《これからまだ出てくるの？》\r\n《Ainda vão aparecer mais?》\r\n"
  },
  {
   "offset": 38997,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160700a00'>\r\n//「いや。\r\n//　そろそろ打ち止めの筈だが」\r\n\"No, this should be it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma03/0160700a00'>\r\n//「いや。\r\n//　そろそろ打ち止めの筈だが」\r\n\"Não, acho que isso é tudo.\"\r\n"
  },
  {
   "offset": 39177,
   "en": "\r\n//　……どういう事だ？\r\n//　タムラでも翔京でもない。それ以外の騎体でもない？\r\n  What does this mean? It's not Tamura, not Shokyo, and not any of the other racers?\r\n\r\n//　コースに目を戻す。\r\n//　本予選参加騎はすべてここにいる、あるいはいたと\r\n//思える。おそらく確かだ。一番最後に登場したものが、\r\n//あの、注目を集める青い騎体だった筈――\r\n  I scan the course. Every machine participating in the preliminary is there, or was there earlier. I'm certain that Tamura is the last of the teams.\r\n\r\n  In which case―\r\n",
-  "pt": ""
+  "pt": "\r\n//　……どういう事だ？\r\n//　タムラでも翔京でもない。それ以外の騎体でもない？\r\n  O que isso significa? Não é Tamura, não é Shokyo, e não é nenhuma das outras competidoras?\r\n\r\n//　コースに目を戻す。\r\n//　本予選参加騎はすべてここにいる、あるいはいたと\r\n//思える。おそらく確かだ。一番最後に登場したものが、\r\n//あの、注目を集める青い騎体だった筈――\r\n  Passo os olhos pela pista. Todas as máquinas que participam da preliminar estão ali, ou estiveram antes. Tenho certeza de que Tamura é a última das equipes.\r\n\r\n  Nesse caso―\r\n"
  },
  {
   "offset": 39811,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160710a02'>\r\n//「跳ねたっ!?」\r\n\"It bounced!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/ma03/0160710a02'>\r\n//「跳ねたっ!?」\r\n\"Ela pulou!?\"\r\n"
  },
  {
   "offset": 39943,
@@ -467,17 +467,17 @@
  {
   "offset": 40056,
   "en": "\r\n//　思わずして目を剥く。\r\n//　アベンジを再び視界に収めた、まさにその瞬間。\r\n  I gape in astonishment at what I just witnessed. All question of the egg's whereabouts has fled my mind.\r\n\r\n//　ヘアピンカーブを曲がるタムラ騎は<RUBY text='・・・・・'>跳ねていた</RUBY>。\r\n//　速度と旋回がもたらす空力抵抗に押し負ける格好で\r\n//――\r\n  Upon entering the first hairpin, Tamura's Avenger did indeed appear to㉓<I>bounce,</i> a phenomenon that occurs when a machine is unable to overcome the wind resistance generated by the speed of its turn.\r\n\r\n//　騎体後部が跳ね上がっている。\r\n//　……喜劇じみた横流れ。カーブの曲線に全く沿って\r\n//いない。少なからぬロス。\r\n  Rather than cling to the inner curve, the tsurugi was pushed to the outside edge of the track, its tail end sticking up in the air like a drunken dancer.\r\n\r\n//　皇路卓が誇った技術など見る影もない。\r\n//　無惨なコーナーリングだった。\r\n  A significant time loss. Such clumsy cornering bears no trace of the technique that made Oji Suguru a legend.\r\n",
-  "pt": ""
+  "pt": "\r\n//　思わずして目を剥く。\r\n//　アベンジを再び視界に収めた、まさにその瞬間。\r\n  Fico boquiaberto de espanto com o que acabei de presenciar. Qualquer dúvida sobre o paradeiro do ovo sumiu da minha mente.\r\n\r\n//　ヘアピンカーブを曲がるタムラ騎は<RUBY text='・・・・・'>跳ねていた</RUBY>。\r\n//　速度と旋回がもたらす空力抵抗に押し負ける格好で\r\n//――\r\n  Ao entrar na primeira curva fechada, o Avenger de Tamura de fato pareceu㉓<I>quicar,</i> um fenômeno que ocorre quando uma máquina não consegue vencer a resistência do ar gerada pela velocidade de sua curva.\r\n\r\n//　騎体後部が跳ね上がっている。\r\n//　……喜劇じみた横流れ。カーブの曲線に全く沿って\r\n//いない。少なからぬロス。\r\n  Em vez de se agarrar à curva interna, o tsurugi foi empurrado para a borda externa da pista, com a traseira erguida no ar como uma dançarina bêbada.\r\n\r\n//　皇路卓が誇った技術など見る影もない。\r\n//　無惨なコーナーリングだった。\r\n  Uma perda de tempo considerável. Uma curva tão desajeitada não traz nenhum vestígio da técnica que fez de Oji Suguru uma lenda.\r\n"
  },
  {
   "offset": 41239,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160730a04'>\r\n//「アンダーステアかと思えば……」\r\n\"At first I was worried that she was understeering...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/0160730a04'>\r\n//「アンダーステアかと思えば……」\r\n\"No começo, achei que ela estivesse subesterçando...\"\r\n"
  },
  {
   "offset": 41439,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160740a03'>\r\n//「リバースオーバーでしたね。\r\n//　……よくあのまま横転しなかったもの、と\r\n//は思いますけれど」\r\n\"But she actually oversteered. I'm honestly impressed that the machine didn't flip over.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/0160740a03'>\r\n//「リバースオーバーでしたね。\r\n//　……よくあのまま横転しなかったもの、と\r\n//は思いますけれど」\r\n\"Mas na verdade foi sobresterço. Sinceramente, fico impressionada que a máquina não tenha capotado.\"\r\n"
  },
  {
   "offset": 41772,
@@ -487,6 +487,6 @@
  {
   "offset": 41890,
   "en": "\r\n//　昨日皇路親子と会話を交わした身として、口に出す\r\n//のは憚られたものの。\r\n//　胸中には呟かずにいられない。\r\n  A piece of junk.<K>\r\n  I cannot help but judge it so, though I keep the thought to myself out of respect for the Oji pair.\r\n\r\n//　酷い騎体だ。\r\n\r\n//　周囲でも落胆の声が上がっている。\r\n//　翔京ウルティマの傍若無人な騎航に対抗できる唯一\r\n//の可能性をタムラの新型騎に見ていた人間は、きっと\r\n//少なくなかったのだろう。\r\n  Groans and shouts of dismay can be heard from the crowd. No doubt more than a few fans hoped that Tamura's new design would be able to challenge Shokyo's.\r\n\r\n//　今日の見るべきものは見尽くした、そう顔に書いて\r\n//席を立つ客の姿もちらほらとあった。\r\n//　貴賓席の方には特に多い。\r\n  Here and there, spectators rise from their seats, frustration plain on their faces. Though the guests in the VIP section are particularly quick to make their departure, the same sentiment is slowly spreading through the entire stadium: there's nothing more to see here today.\r\n",
-  "pt": ""
+  "pt": "\r\n//　昨日皇路親子と会話を交わした身として、口に出す\r\n//のは憚られたものの。\r\n//　胸中には呟かずにいられない。\r\n  Um amontoado de sucata.<K>\r\n  Não consigo deixar de julgá-la assim, embora guarde o pensamento para mim por respeito ao casal Oji.\r\n\r\n//　酷い騎体だ。\r\n\r\n//　周囲でも落胆の声が上がっている。\r\n//　翔京ウルティマの傍若無人な騎航に対抗できる唯一\r\n//の可能性をタムラの新型騎に見ていた人間は、きっと\r\n//少なくなかったのだろう。\r\n  Gemidos e gritos de desânimo podem ser ouvidos na multidão. Sem dúvida, mais de alguns fãs esperavam que o novo projeto de Tamura fosse capaz de desafiar o de Shokyo.\r\n\r\n//　今日の見るべきものは見尽くした、そう顔に書いて\r\n//席を立つ客の姿もちらほらとあった。\r\n//　貴賓席の方には特に多い。\r\n  Aqui e ali, espectadores se levantam de seus assentos, a frustração estampada no rosto. Embora os convidados da seção VIP sejam especialmente rápidos em partir, o mesmo sentimento se espalha lentamente por todo o estádio: não há mais nada para ver aqui hoje.\r\n"
  }
 ]

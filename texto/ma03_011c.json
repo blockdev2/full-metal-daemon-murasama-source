@@ -2,87 +2,87 @@
  {
   "offset": 214,
   "en": "\r\n//　……？\r\n//　子供の泣き声が、何処からか聞こえてくる。\r\n\r\n//　反響して位置をつかみ辛いが……。\r\n//　こちらか？\r\n  I hear a child crying. The sound echoes in the narrow corridor, making it difficult to tell where exactly it's coming from.\r\n\r\n  ...This way?\r\n",
-  "pt": ""
+  "pt": "\r\n//　……？\r\n//　子供の泣き声が、何処からか聞こえてくる。\r\n\r\n//　反響して位置をつかみ辛いが……。\r\n//　こちらか？\r\n  Ouço uma criança chorando. O som ecoa pelo corredor estreito, tornando difícil saber exatamente de onde vem.\r\n\r\n  …Por aqui?\r\n"
  },
  {
   "offset": 531,
   "en": "\r\n//　いた。\r\n//　泣きじゃくる子供と――大鳥大尉？\r\n\r\n//　子供は六、七歳と見える。\r\n//　腰を落として視線の高さを合わせ、大尉は彼に問い\r\n//かけていた。\r\n  I turn the corner to find a sobbing boy of perhaps six or seven. Next to him is... Captain Otori?\r\n",
-  "pt": ""
+  "pt": "\r\n//　いた。\r\n//　泣きじゃくる子供と――大鳥大尉？\r\n\r\n//　子供は六、七歳と見える。\r\n//　腰を落として視線の高さを合わせ、大尉は彼に問い\r\n//かけていた。\r\n  Dobro a esquina e encontro um menino soluçando, de talvez seis ou sete anos. Ao lado dele está… a Capitã Otori?\r\n"
  },
  {
   "offset": 856,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0010a03'>\r\n//「もしもし、あなた。\r\n//　いったいどうなさったの？」\r\n\"Hello there,\" the captain says, lowering herself to the boy's eye level. \"What seems to be the matter?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0010a03'>\r\n//「もしもし、あなた。\r\n//　いったいどうなさったの？」\r\n— Olá — diz a capitã, abaixando-se até a altura dos olhos do menino. — O que aconteceu?\r\n"
  },
  {
   "offset": 1144,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0020e279'>\r\n//「えぅ……うー。\r\n//　ひぐっ……」\r\n\"Ughh... ughhh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0020e279'>\r\n//「えぅ……うー。\r\n//　ひぐっ……」\r\n— Uhh… uhhh…\r\n"
  },
  {
   "offset": 1344,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0030a03'>\r\n//「どうなさったの？」\r\n\"What's wrong?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0030a03'>\r\n//「どうなさったの？」\r\n— O que foi?\r\n"
  },
  {
   "offset": 1497,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0040e279'>\r\n//「ひぅ……うぅー。おかーさん……」\r\n\"...Mommy...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0040e279'>\r\n//「ひぅ……うぅー。おかーさん……」\r\n— …Mamãe…\r\n"
  },
  {
   "offset": 1694,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0050a03'>\r\n//「お母さまが？」\r\n\"Your mother?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0050a03'>\r\n//「お母さまが？」\r\n— Sua mãe?\r\n"
  },
  {
   "offset": 1840,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0060e279'>\r\n//「へくっ……\r\n//　えぅ……どこぉ……」\r\n\"...Where's my mommy...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0060e279'>\r\n//「へくっ……\r\n//　えぅ……どこぉ……」\r\n— …Onde está a mamãe…\r\n"
  },
  {
   "offset": 2052,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0070a03'>\r\n//「お母さまが、いないの？」\r\n\"You can't find your <br>mother?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0070a03'>\r\n//「お母さまが、いないの？」\r\n— Não consegue encontrar<br>a mamãe?\r\n"
  },
  {
   "offset": 2232,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0080e279'>\r\n//「……えぅー……」\r\n\"...Eughh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0080e279'>\r\n//「……えぅー……」\r\n— …Ehh…\r\n"
  },
  {
   "offset": 2405,
   "en": "\r\n//　対話が成立していない。\r\n//　香奈枝嬢はしきりに声をかけているが、子供は泣く\r\n//のに夢中だ。\r\n\r\n//　大尉の袖口をきっちりと掴んで離さずにいるから、\r\n//存在を認識しているのは確かだが。\r\n//　さよ侍従は背後に控え、口を挟まずにいる。\r\n  It appears the boy would rather cry than speak, though his hand clutching the captain's sleeve shows that he is at least aware of her presence. Miss Nagakura, meanwhile, watches in silence.\r\n",
-  "pt": ""
+  "pt": "\r\n//　対話が成立していない。\r\n//　香奈枝嬢はしきりに声をかけているが、子供は泣く\r\n//のに夢中だ。\r\n\r\n//　大尉の袖口をきっちりと掴んで離さずにいるから、\r\n//存在を認識しているのは確かだが。\r\n//　さよ侍従は背後に控え、口を挟まずにいる。\r\n  Parece que o menino prefere chorar a falar, embora a mão que aperta a manga da capitã mostre que ele ao menos tem consciência da presença dela. A Srta. Nagakura, enquanto isso, observa em silêncio.\r\n"
  },
  {
   "offset": 2943,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0090a03'>\r\n//「お母さまが何処にいるかわからないのね？」\r\n\"You can't find your mother. Is that right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0090a03'>\r\n//「お母さまが何処にいるかわからないのね？」\r\n— Não consegue encontrar sua mãe. É isso?\r\n"
  },
  {
   "offset": 3158,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0100e279'>\r\n//「うー……ぅぐぅ。ぐす……」\r\n\"...Ughhhh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0100e279'>\r\n//「うー……ぅぐぅ。ぐす……」\r\n— …Uhhhh…\r\n"
  },
  {
   "offset": 3347,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0110a03'>\r\n//「…………。\r\n//　あなたのお名前は？」\r\n\"...<WaitVoice=1500>What's your name?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0110a03'>\r\n//「…………。\r\n//　あなたのお名前は？」\r\n— …<WaitVoice=1500>Qual é o seu nome?\r\n"
  },
  {
   "offset": 3548,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0120e279'>\r\n//「ひぐ……えぅ。\r\n//　さがしてよぉ……」\r\n\"...Find mommy...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0120e279'>\r\n//「ひぐ……えぅ。\r\n//　さがしてよぉ……」\r\n— …Acha a mamãe…\r\n"
  },
  {
   "offset": 3757,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0130a03'>\r\n//「…………。\r\n//　お名前は？」\r\n\"...Your name?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0130a03'>\r\n//「…………。\r\n//　お名前は？」\r\n— …Seu nome?\r\n"
  },
  {
   "offset": 3923,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0140e279'>\r\n//「……びぃー！」\r\n\"Waahh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0140e279'>\r\n//「……びぃー！」\r\n— Uaaah!\r\n"
  },
  {
   "offset": 4088,
@@ -92,22 +92,22 @@
  {
   "offset": 4222,
   "en": "\r\n//　数秒、沈黙の後。\r\n//　大尉の行動はあっさりしたものだった。\r\n  After a few seconds of silence, the captain shakes the boy off and stands.\r\n",
-  "pt": ""
+  "pt": "\r\n//　数秒、沈黙の後。\r\n//　大尉の行動はあっさりしたものだった。\r\n  Após alguns segundos de silêncio, a capitã se desvencilha do menino e se levanta.\r\n"
  },
  {
   "offset": 4402,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0160a03'>\r\n//「行きましょう、さよ」\r\n\"Let's go, Sayo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0160a03'>\r\n//「行きましょう、さよ」\r\n— Vamos, Sayo.\r\n"
  },
  {
   "offset": 4560,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/011c0170a04'>\r\n//「はい」\r\n\"Of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/011c0170a04'>\r\n//「はい」\r\n— Pois não.\r\n"
  },
  {
   "offset": 4683,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0180e279'>\r\n//「……？\r\n//　えぅぅーー!!」\r\n\"...? Waaahhhh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0180e279'>\r\n//「……？\r\n//　えぅぅーー!!」\r\n— …? Uaaaah!!\r\n"
  },
  {
   "offset": 4871,
@@ -122,22 +122,22 @@
  {
   "offset": 5118,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0210e279'>\r\n//「まってー……\r\n//　おかーさん……さがして……」\r\n\"Wait... Find mommy...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0210e279'>\r\n//「まってー……\r\n//　おかーさん……さがして……」\r\n— Espera… Acha a mamãe…\r\n"
  },
  {
   "offset": 5344,
   "en": "\r\n//　立ち去ろうとする大尉の後を追い、子供がスカート\r\n//の裾をつかもうとする。\r\n//　だが、触れられない。大尉は軽く身を翻し、小さな\r\n//手を躱していた。\r\n\r\n//　つんのめって、子供が転びかける。\r\n  The boy runs after the captain and tries to grab her skirt, but she steps nimbly out of the way. The boy stumbles, nearly toppling over.\r\n",
-  "pt": ""
+  "pt": "\r\n//　立ち去ろうとする大尉の後を追い、子供がスカート\r\n//の裾をつかもうとする。\r\n//　だが、触れられない。大尉は軽く身を翻し、小さな\r\n//手を躱していた。\r\n\r\n//　つんのめって、子供が転びかける。\r\n  O menino corre atrás da capitã e tenta agarrar a saia dela, mas ela se desvia com agilidade. O menino tropeça e quase cai.\r\n"
  },
  {
   "offset": 5768,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0220e279'>\r\n//「……あぅー……」\r\n\"...Augh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0220e279'>\r\n//「……あぅー……」\r\n— …Ahh…\r\n"
  },
  {
   "offset": 5940,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0230a03'>\r\n//「おなまえ、は？\r\n//　お母さまがあなたに付けて下さったお名前。\r\n//ちゃんとあるでしょう？」\r\n\"What's your name? You remember the name your mother gave you, right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0230a03'>\r\n//「おなまえ、は？\r\n//　お母さまがあなたに付けて下さったお名前。\r\n//ちゃんとあるでしょう？」\r\n— Qual é o seu nome? Você lembra o nome que sua mãe lhe deu, não lembra?\r\n"
  },
  {
   "offset": 6249,
@@ -152,42 +152,42 @@
  {
   "offset": 6530,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0260e279'>\r\n//「……ひらた……かずき……」\r\n\"Hirata... Kazuki...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0260e279'>\r\n//「……ひらた……かずき……」\r\n— Hirata… Kazuki…\r\n"
  },
  {
   "offset": 6726,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0270a03'>\r\n//「承りました」\r\n\"All right then.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0270a03'>\r\n//「承りました」\r\n— Entendido.\r\n"
  },
  {
   "offset": 6872,
   "en": "\r\n//　美しくターンを切って、大尉が子供のもとへ戻る。\r\n//　両手を差し伸べて、抱き上げた。\r\n  The captain spins around in one graceful motion and returns to the boy's side, then helps him to his feet.\r\n",
-  "pt": ""
+  "pt": "\r\n//　美しくターンを切って、大尉が子供のもとへ戻る。\r\n//　両手を差し伸べて、抱き上げた。\r\n  A capitã dá um giro gracioso e volta ao lado do menino, então o ajuda a se levantar.\r\n"
  },
  {
   "offset": 7120,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0280a03'>\r\n//「お母さまと、はぐれてしまったのね」\r\n\"You got separated from your mother?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0280a03'>\r\n//「お母さまと、はぐれてしまったのね」\r\n— Você se separou da sua mãe?\r\n"
  },
  {
   "offset": 7319,
   "en": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0290e279'>\r\n//「うん……」\r\n\"Yeah...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／迷子】\r\n<voice name='ｅｔｃ／迷子' class='その他男声' src='voice/ma03/011c0290e279'>\r\n//「うん……」\r\n— Aham…\r\n"
  },
  {
   "offset": 7479,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0300a03'>\r\n//「わかりました。探して差し上げます。\r\n//　さよ、あなたは大会本部の方に。わたくし\r\n//は客席を見てまいります」\r\n\"Then we'll help you find her. Sayo, you go to the office. I'll take a look around the stands.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma03/011c0300a03'>\r\n//「わかりました。探して差し上げます。\r\n//　さよ、あなたは大会本部の方に。わたくし\r\n//は客席を見てまいります」\r\n— Então vamos ajudar você a encontrá-la. Sayo, vá até a organização. Eu vou dar uma olhada nas arquibancadas.\r\n"
  },
  {
   "offset": 7840,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/011c0310a04'>\r\n//「かしこまりました」\r\n\"Very good, Mistress.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma03/011c0310a04'>\r\n//「かしこまりました」\r\n— Como quiser, senhorita.\r\n"
  },
  {
   "offset": 7991,
   "en": "\r\n//　短い言葉で分担を決め、きびきびと動き始める二人。\r\n//　たちまち姿が見えなくなる。\r\n\r\n//　あの分ならきっと、すぐに母親を見つけ出すだろう。\r\n  Without further ado, the two set to their respective tasks. In a moment, they have vanished from sight.\r\n\r\n  No doubt the child and his mother will be reunited soon.\r\n",
-  "pt": ""
+  "pt": "\r\n//　短い言葉で分担を決め、きびきびと動き始める二人。\r\n//　たちまち姿が見えなくなる。\r\n\r\n//　あの分ならきっと、すぐに母親を見つけ出すだろう。\r\n  Sem mais delongas, as duas partem para suas tarefas. Em um instante, somem de vista.\r\n\r\n  Sem dúvida, logo o menino e a mãe estarão reunidos.\r\n"
  },
  {
   "offset": 8376,
@@ -197,6 +197,6 @@
  {
   "offset": 8501,
   "en": "\r\n//　……出てゆくタイミングがつかめなかったが。\r\n//　むしろそれで良かったのか。俺がいても、あのよう\r\n//には振舞えなかったに違いない。\r\n  I missed the chance to make my presence known, but perhaps that is for the best. I could never have handled the situation so deftly.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……出てゆくタイミングがつかめなかったが。\r\n//　むしろそれで良かったのか。俺がいても、あのよう\r\n//には振舞えなかったに違いない。\r\n  Perdi a chance de anunciar minha presença, mas talvez tenha sido melhor assim. Eu nunca conseguiria lidar com a situação com tanta destreza.\r\n"
  }
 ]

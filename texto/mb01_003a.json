@@ -2,41 +2,41 @@
  {
   "offset": 214,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0010a10'>\r\n//「香奈枝さんがうまくやってくれたんやろか\r\n//……？」\r\n\"Did Kanae pull it off?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0010a10'>\r\n//「香奈枝さんがうまくやってくれたんやろか\r\n//……？」\r\n\"Será que a Kanae conseguiu? ..........?\"\r\n"
  },
  {
   "offset": 422,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003a0020a11'>\r\n//「それにしては、あれきり私の元にも連絡が\r\n//全く無いというのは不審です。\r\n//　ＧＨＱへの探りも入れてみましたが……」\r\n\"I'm... concerned, Your Highness. There's been no word from her since the ceremony. \r\n  I checked with our contacts in GHQ...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003a0020a11'>\r\n//「それにしては、あれきり私の元にも連絡が\r\n//全く無いというのは不審です。\r\n//　ＧＨＱへの探りも入れてみましたが……」\r\n\"Estou... preocupado, Vossa Alteza. Não tivemos nenhuma palavra dela desde a cerimônia. \r\n  \"Também procurei nossos contatos no GHQ...\"\r\n"
  },
  {
   "offset": 817,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0030a10'>\r\n//「どうやった？」\r\n\"And?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0030a10'>\r\n//「どうやった？」\r\n\"E então?\"\r\n"
  },
  {
   "offset": 955,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003a0040a11'>\r\n//「……行方不明。失踪と見做し、大鳥大尉の\r\n//足取りを追っているようです。\r\n//　つまりこちらと同じですが……向こうでは、\r\n//こちらの関与を疑っています」\r\n\"They say she's missing. Her superiors are livid. They've begun an investigation, and think we might have played a role.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003a0040a11'>\r\n//「……行方不明。失踪と見做し、大鳥大尉の\r\n//足取りを追っているようです。\r\n//　つまりこちらと同じですが……向こうでは、\r\n//こちらの関与を疑っています」\r\n\"Dizem que ela está desaparecida. Seus superiores estão furiosos. Começaram uma investigação e acham que podemos ter tido participação.\"\r\n"
  },
  {
   "offset": 1394,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0050a10'>\r\n//「……そら、そやろな。\r\n//　八幡宮付やったわけやし」\r\n\"Makes sense. She was assigned here.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0060a10'>\r\n//「しゃあけど、そうなると……\r\n//　どういうことやろう？」\r\n\"Really, though. What happened?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0050a10'>\r\n//「……そら、そやろな。\r\n//　八幡宮付やったわけやし」\r\n\"Faz sentido. Ela estava lotada aqui.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0060a10'>\r\n//「しゃあけど、そうなると……\r\n//　どういうことやろう？」\r\n\"Mas então... o que será que aconteceu?\"\r\n"
  },
  {
   "offset": 1829,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003a0070a11'>\r\n//「現状では……\r\n//　大尉も護氏も、<RUBY text='・・・・・・・・'>八幡宮ごと消えた</RUBY>、としか」\r\n\"At present, all we know is that the captain has vanished, together with Moriuji... and Hachiman Shrine.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003a0070a11'>\r\n//「現状では……\r\n//　大尉も護氏も、<RUBY text='・・・・・・・・'>八幡宮ごと消えた</RUBY>、としか」\r\n\"No momento... tudo o que sabemos é que a capitã sumiu, junto com Moriuji... e com o Santuário Hachiman.\"\r\n"
  },
  {
   "offset": 2166,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0080a10'>\r\n//「考えられんか」\r\n\"That's it, huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003a0080a10'>\r\n//「考えられんか」\r\n\"É só isso, então?\"\r\n"
  },
  {
   "offset": 2315,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003a0090a11'>\r\n//「はい……」\r\n\"I'm afraid so, Your <br>Highness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003a0090a11'>\r\n//「はい……」\r\n\"Receio que sim, Vossa Alteza.\"\r\n"
  }
 ]

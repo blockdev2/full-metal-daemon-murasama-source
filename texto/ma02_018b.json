@@ -2,7 +2,7 @@
  {
   "offset": 214,
   "en": "\r\n//　……それはもはや握り飯ではなかった。\r\n//　ただの米塊だった。\r\n\r\n//　球体とさえ言えない形状。\r\n//　ところどころに張り付いた塩の大粒。\r\n//　握る力が足りなかったのか、表面は崩れかけている。\r\n\r\n//　そして。\r\n//　間違いなく、必死につくられた握り飯。\r\n\r\n//　それを両手でつかんで、口へ運ぶ。\r\n  The onigiri I choose is hardly recognizable as such. It is simply a giant ball of rice, more lumpy than spherical, with large grains of salt visible here and there. It begins to crumble at my touch, suggesting that not enough strength was put into the packing.\r\n\r\n  However, I do not doubt that it was made with sincere effort.\r\n\r\n  Holding it in both hands, I take a large bite.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……それはもはや握り飯ではなかった。\r\n//　ただの米塊だった。\r\n\r\n//　球体とさえ言えない形状。\r\n//　ところどころに張り付いた塩の大粒。\r\n//　握る力が足りなかったのか、表面は崩れかけている。\r\n\r\n//　そして。\r\n//　間違いなく、必死につくられた握り飯。\r\n\r\n//　それを両手でつかんで、口へ運ぶ。\r\n  O onigiri que escolho dificilmente pode ser reconhecido como tal. É simplesmente uma enorme bola de arroz, mais disforme do que esférica, com grandes grãos de sal visíveis aqui e ali. Ele começa a se desfazer ao meu toque, sugerindo que não se pôs força suficiente ao moldá-lo.\r\n\r\n  No entanto, não duvido de que foi feito com esforço sincero.\r\n\r\n  Segurando-o com as duas mãos, dou uma boa mordida.\r\n"
  },
  {
   "offset": 1023,
@@ -17,41 +17,41 @@
  {
   "offset": 1261,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/018b0030a00'>\r\n//「……美味しい。\r\n//　良い握り飯です」\r\n\"...Delicious. A fine onigiri.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/018b0030a00'>\r\n//「……美味しい。\r\n//　良い握り飯です」\r\n\"...Delicioso. Um belo onigiri.\"\r\n"
  },
  {
   "offset": 1446,
   "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/018b0040b06'>\r\n//「わーい！」\r\n\"Yay!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/018b0040b06'>\r\n//「わーい！」\r\n\"Eba!\"\r\n"
  },
  {
   "offset": 1569,
   "en": "\r\n//　歓声をあげて、ふなが俺に飛びつく。\r\n//　不意のことで、わずかによろけた。\r\n  Funa leaps up and throws her arms around my neck. I stagger slightly under the unexpected weight.\r\n",
-  "pt": ""
+  "pt": "\r\n//　歓声をあげて、ふなが俺に飛びつく。\r\n//　不意のことで、わずかによろけた。\r\n  Funa dá um salto e me abraça pelo pescoço. Pego de surpresa, cambaleio um pouco.\r\n"
  },
  {
   "offset": 1793,
   "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/018b0050b06'>\r\n//「それ、ふながつくった！」\r\n\"I made that!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/018b0050b06'>\r\n//「それ、ふながつくった！」\r\n\"Fui eu que fiz isso!\"\r\n"
  },
  {
   "offset": 1945,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/018b0060a00'>\r\n//「そうでしたか。\r\n//　有難うございます」\r\n\"Did you? Thank you very much.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/018b0060a00'>\r\n//「そうでしたか。\r\n//　有難うございます」\r\n\"Foi você? Muito obrigado.\"\r\n"
  },
  {
   "offset": 2133,
   "en": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/018b0070b06'>\r\n//「もっとたべて！」\r\n\"Eat more!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ふな】\r\n<voice name='ふな' class='ふな' src='voice/ma02/018b0070b06'>\r\n//「もっとたべて！」\r\n\"Come mais!\"\r\n"
  },
  {
   "offset": 2270,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/018b0080a00'>\r\n//「はい。\r\n//　頂きます」\r\n\"Gladly.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/018b0080a00'>\r\n//「はい。\r\n//　頂きます」\r\n\"Com prazer.\"\r\n"
  },
  {
   "offset": 2412,
   "en": "\r\n//　……そうして俺は暫し、温かな時間を過ごした。\r\n  And for a few fleeting moments, my heart is at ease.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……そうして俺は暫し、温かな時間を過ごした。\r\n  E assim, por alguns breves instantes, meu coração ficou em paz.\r\n"
  }
 ]

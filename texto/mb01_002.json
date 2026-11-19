@@ -2,37 +2,37 @@
  {
   "offset": 213,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020010a02'>\r\n//「……嘘だ」\r\n\"...You're lying.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020010a02'>\r\n//「……嘘だ」\r\n\"...Está mentindo.\"\r\n"
  },
  {
   "offset": 347,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020020a12'>\r\n//「くへ……」\r\n\"Heh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020020a12'>\r\n//「くへ……」\r\n\"Heh!\"\r\n"
  },
  {
   "offset": 478,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020030a02'>\r\n//「嘘だ、嘘だ、嘘だ……ッ！\r\n//　あの人が罪のない人間まで殺して回ってる\r\n//だと!?」\r\n\"You expect me to believe that shit!? That he's killing innocents!? Kids!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020030a02'>\r\n//「嘘だ、嘘だ、嘘だ……ッ！\r\n//　あの人が罪のない人間まで殺して回ってる\r\n//だと!?」\r\n\"Você quer que eu acredite nessa merda!? Que ele está matando gente inocente!? Crianças!?\"\r\n"
  },
  {
   "offset": 769,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020040a02'>\r\n//「てめえよくも、そんないい加減な事を――」\r\n\"I should cut your lying tongue out, you son of a―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020040a02'>\r\n//「てめえよくも、そんないい加減な事を――」\r\n\"Eu devia arrancar essa sua língua mentirosa, seu filho da―\"\r\n"
  },
  {
   "offset": 983,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020050a12'>\r\n//「訊いてみりゃあ、いいんですよ」\r\n\"Ask him, then.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020050a12'>\r\n//「訊いてみりゃあ、いいんですよ」\r\n\"Então pergunte a ele.\"\r\n"
  },
  {
   "offset": 1154,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020060a02'>\r\n//「何ぃ？」\r\n\"The fuck you say!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0020060a02'>\r\n//「何ぃ？」\r\n\"Que porra você disse!?\"\r\n"
  },
  {
   "offset": 1287,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020070a12'>\r\n//「本人に訊けばいいんですよ……嬢。\r\n//　あいつぁきっと、嘘は言わない……」\r\n\"Ask him if it's true. He'll tell.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020080a12'>\r\n//「嬢のようなお人に、面と向かって訊かれち\r\n//まったら……多分、ねぇ。\r\n//　正直に答えてくれますよ……」\r\n\"If it's you, he'll tell you <I>everything.</I>㉑ I'd bet my last yen on it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020070a12'>\r\n//「本人に訊けばいいんですよ……嬢。\r\n//　あいつぁきっと、嘘は言わない……」\r\n\"Pergunte a ele se é verdade. Ele vai contar.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020080a12'>\r\n//「嬢のようなお人に、面と向かって訊かれち\r\n//まったら……多分、ねぇ。\r\n//　正直に答えてくれますよ……」\r\n\"Se for você, ele vai contar <I>tudo.</I>㉑ Eu apostaria meu último iene nisso.\"\r\n"
  },
  {
   "offset": 1864,
@@ -42,7 +42,7 @@
  {
   "offset": 1988,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020100a12'>\r\n//「へ、へっ……\r\n//　ヘェヘヘヘヘヘヘヘヘヘ……！」\r\n\"Hehe...<waitVoice=1000> HEHEHEHEHEHE!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/mb01/0020100a12'>\r\n//「へ、へっ……\r\n//　ヘェヘヘヘヘヘヘヘヘヘ……！」\r\n\"Hehe...<waitVoice=1000> HEHEHEHEHEHE!\"\r\n"
  },
  {
   "offset": 2207,

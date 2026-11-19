@@ -2,12 +2,12 @@
  {
   "offset": 213,
   "en": "\r\n//　一夜明けて、雨は再び降り出していた。\r\n//　黒灰色の雲にとって鎌倉上空は余程に居心地が良い\r\n//ものらしい。立ち退いたのは夜の間だけで、今はまた\r\n//どっかりと腰を据えている。\r\n\r\n//　傘の端から滴る水玉が手の甲にも触れ、それが酷く\r\n//冷たかった。\r\n  Dawn comes with a fresh smattering of rain. Though the stormclouds departed some time last night, they have since returned to subject us once more to their fury. I suppose they must find it comfortable here.\r\n\r\n  My umbrella is heavy. A stream trickles from the brim, drops falling cold upon the back of my hand.\r\n",
-  "pt": ""
+  "pt": "\r\n//　一夜明けて、雨は再び降り出していた。\r\n//　黒灰色の雲にとって鎌倉上空は余程に居心地が良い\r\n//ものらしい。立ち退いたのは夜の間だけで、今はまた\r\n//どっかりと腰を据えている。\r\n\r\n//　傘の端から滴る水玉が手の甲にも触れ、それが酷く\r\n//冷たかった。\r\n  O amanhecer chega com um novo chuvisco. Embora as nuvens de tempestade tenham partido em algum momento da noite passada, desde então voltaram para nos submeter mais uma vez à sua fúria. Suponho que devam achar isto aqui confortável.\r\n\r\n  Meu guarda-chuva está pesado. Um fio d'água escorre da aba, gotas caindo frias sobre as costas da minha mão.\r\n"
  },
  {
   "offset": 895,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110010a01'>\r\n//《御堂。\r\n//　やらねばならないことは、わかっているで\r\n//しょう》\r\n《Mido. You know what we have to do.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110010a01'>\r\n//《御堂。\r\n//　やらねばならないことは、わかっているで\r\n//しょう》\r\n《Mido. Você sabe o que temos de fazer.》\r\n"
  },
  {
   "offset": 1131,
@@ -17,62 +17,62 @@
  {
   "offset": 1249,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110030a01'>\r\n//《私たちには使命がある》\r\n《We have a duty.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110030a01'>\r\n//《私たちには使命がある》\r\n《Temos um dever.》\r\n"
  },
  {
   "offset": 1410,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110040a00'>\r\n//「ああ……」\r\n\"...Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110040a00'>\r\n//「ああ……」\r\n\"...Sim.\"\r\n"
  },
  {
   "offset": 1535,
   "en": "\r\n//　――銀星号を、止めねばならない。\r\n  To defeat Ginseigo.\r\n",
-  "pt": ""
+  "pt": "\r\n//　――銀星号を、止めねばならない。\r\n  Derrotar Ginseigo.\r\n"
  },
  {
   "offset": 1623,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110050a01'>\r\n//《その妨げになるなら……\r\n//　振り払うまでよ》\r\n《We can't let anything stop us.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110060a01'>\r\n//《何物であれ》\r\n《...Anything.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110050a01'>\r\n//《その妨げになるなら……\r\n//　振り払うまでよ》\r\n《Não podemos deixar que nada nos detenha.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110060a01'>\r\n//《何物であれ》\r\n《...Nada.》\r\n"
  },
  {
   "offset": 1965,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110070a00'>\r\n//「わかっている」\r\n\"I know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110070a00'>\r\n//「わかっている」\r\n\"Eu sei.\"\r\n"
  },
  {
   "offset": 2096,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110080a01'>\r\n//《……御堂……》\r\n《Mido...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110080a01'>\r\n//《……御堂……》\r\n《Mido...》\r\n"
  },
  {
   "offset": 2237,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110090a00'>\r\n//「わかっている……」\r\n\"...I know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110090a00'>\r\n//「わかっている……」\r\n\"...Eu sei...\"\r\n"
  },
  {
   "offset": 2377,
   "en": "\r\n//　村正との問答は昨夜半、幾百幾千と繰り返した自問\r\n//の焼き直しに過ぎなかった。\r\n//　わかっている――己のすべきはわかっている。\r\n\r\n//　町に、村に、あるいはそれ以外の人の集まりの中に、\r\n//忽然と現れて殲滅する……<RUBY text='テンペスト'>殺戮天象</RUBY>。銀星号。\r\n//　現代大和の悪夢。終わらせるのは俺の役目だ。\r\n\r\n//　俺にしかできないのだから。\r\n//　<RUBY text='はは'>養母</RUBY>に託された願いなのだから。\r\n//　あれは、俺の妹なのだから。\r\n\r\n//　俺が、やらねばならない。\r\n//　何を踏み越えてでも。\r\n\r\n//　これまでそうしてきたように。\r\n//　この二年間、幾つもの生命を鉄靴の下に踏み<RUBY text='しだ'>拉</RUBY>いて\r\n//きたのと同じように。\r\n\r\n//　これからも。\r\n//　今日も。\r\n\r\n//　円往寺で待つ、綾弥一条も――\r\n  This is perhaps the thousandth time we've repeated this exchange in the hours since Muramasa returned. Nothing has changed. My duty remains clear.\r\n\r\n  The people of Yamato are living a nightmare. They know, even if none will dare speak of it, that at any moment, the silver star might burn their village or town to ash. Ginseigo is a plague, and it falls to me to end it.\r\n\r\n  Why me?\r\n\r\n  Because it was my mother's last request.\r\n\r\n  Because no one else can.\r\n\r\n  ...Because she is my sister.\r\n\r\n  My path is already littered with corpses. I have killed many in the name of duty.\r\n\r\n  Today is no different. I must go on, even if the next body I climb over... is hers.\r\n",
-  "pt": ""
+  "pt": "\r\n//　村正との問答は昨夜半、幾百幾千と繰り返した自問\r\n//の焼き直しに過ぎなかった。\r\n//　わかっている――己のすべきはわかっている。\r\n\r\n//　町に、村に、あるいはそれ以外の人の集まりの中に、\r\n//忽然と現れて殲滅する……<RUBY text='テンペスト'>殺戮天象</RUBY>。銀星号。\r\n//　現代大和の悪夢。終わらせるのは俺の役目だ。\r\n\r\n//　俺にしかできないのだから。\r\n//　<RUBY text='はは'>養母</RUBY>に託された願いなのだから。\r\n//　あれは、俺の妹なのだから。\r\n\r\n//　俺が、やらねばならない。\r\n//　何を踏み越えてでも。\r\n\r\n//　これまでそうしてきたように。\r\n//　この二年間、幾つもの生命を鉄靴の下に踏み<RUBY text='しだ'>拉</RUBY>いて\r\n//きたのと同じように。\r\n\r\n//　これからも。\r\n//　今日も。\r\n\r\n//　円往寺で待つ、綾弥一条も――\r\n  Esta é talvez a milésima vez que repetimos essa troca nas horas desde que Muramasa voltou. Nada mudou. Meu dever continua claro.\r\n\r\n  O povo de Yamato vive um pesadelo. Sabem, mesmo que ninguém ouse falar disso, que a qualquer momento a estrela prateada pode reduzir sua vila ou cidade a cinzas. Ginseigo é uma praga, e cabe a mim acabar com ela.\r\n\r\n  Por que eu?\r\n\r\n  Porque foi o último pedido da minha mãe.\r\n\r\n  Porque ninguém mais pode.\r\n\r\n  ...Porque ela é minha irmã.\r\n\r\n  Meu caminho já está coberto de cadáveres. Matei muitos em nome do dever.\r\n\r\n  Hoje não é diferente. Preciso seguir em frente, mesmo que o próximo corpo sobre o qual eu suba... seja o dela.\r\n"
  },
  {
   "offset": 4045,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0110100a02'>\r\n//「湊斗景明。\r\n//　あたしはあんたを許さない」\r\n\"You deserve to die, Minato Kageaki!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0110100a02'>\r\n//「湊斗景明。\r\n//　あたしはあんたを許さない」\r\n\"Você merece morrer, Minato Kageaki!\"\r\n"
  },
  {
   "offset": 4244,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0110110a02'>\r\n//「あんたを殺す」\r\n\"And I'm the one who's gonna kill you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb01/0110110a02'>\r\n//「あんたを殺す」\r\n\"E sou eu que vou te matar.\"\r\n"
  },
  {
   "offset": 4405,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110120a00'>\r\n//「……ッ」\r\n\"...kuh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110120a00'>\r\n//「……ッ」\r\n\"...Nh...\"\r\n"
  },
  {
   "offset": 4529,
   "en": "\r\n//　膝を打つ痛みで、我に帰る。\r\n//　気付かぬ間に水溜りへ踏み込み、足を滑らせていた。\r\n\r\n//　散った水面が、路上で跪く男の姿を映す。\r\n//　無様な絵図だった。\r\n  A sharp impact against my knee snaps me back to the present.\r\n\r\n  I am kneeling in a puddle, my pant leg soaked with water. I must have slipped while I was distracted.\r\n\r\n  I see myself reflected in the water and feel an upwelling of scorn.\r\n",
-  "pt": ""
+  "pt": "\r\n//　膝を打つ痛みで、我に帰る。\r\n//　気付かぬ間に水溜りへ踏み込み、足を滑らせていた。\r\n\r\n//　散った水面が、路上で跪く男の姿を映す。\r\n//　無様な絵図だった。\r\n  Um impacto agudo contra meu joelho me traz de volta ao presente.\r\n\r\n  Estou ajoelhado numa poça, a barra da calça encharcada. Devo ter escorregado enquanto estava distraído.\r\n\r\n  Vejo meu reflexo na água e sinto um desprezo brotar dentro de mim.\r\n"
  },
  {
   "offset": 5008,
@@ -87,32 +87,32 @@
  {
   "offset": 5254,
   "en": "\r\n//　付近を潜行する劒冑から送られてくる、無言の視線\r\n//が煩わしい。\r\n//　それでも黙殺して、立ち上がる。\r\n\r\n//　慣れ親しむ肉体は、<RUBY text='やたら'>矢鱈</RUBY>と重かった。\r\n//　気を緩めれば膝が笑い出す程に。\r\n\r\n//　体重ではない重みが何処かに懸かっているようでも\r\n//ある。\r\n//　何処か――頭蓋の中か、心臓の奥か、それ以外か。\r\n\r\n//　<RUBY text='こころ'>精神</RUBY>が負荷を掛けている。\r\n//　四肢に軋みを上げさせている。\r\n\r\n//　綾弥一条と戦う。\r\n//　その意思が、重い。\r\n\r\n//　あの少女は許さないと宣言したのだ。\r\n//　湊斗景明を――彼が犯してきた罪業を。許さないと\r\n//告げたのだ。\r\n\r\n//　断罪。\r\n\r\n//　<RUBY text='おれ'>被告</RUBY>は、同意する。\r\n//　その通り――到底、許されざる罪だ。\r\n\r\n//　許されてはならない罪だ。\r\n\r\n//　ならば、どうして……\r\n//　俺は抗わねばならないのか。\r\n\r\n//　抗うなどという真似が、許されるのか。\r\n\r\n//　否。\r\n//　許されない筈だ。\r\n\r\n//　この手で剥奪した命を、\r\n//　この指で咲かせた血華を、\r\n\r\n//　忘れないのならば……\r\n//　どうして、裁きに抗おう。\r\n\r\n//　受け入れるべきではないのか。\r\n\r\n//　<RUBY text='さばき'>断罪</RUBY>の正当を認めるならば、\r\n//　刑吏の刃に身を委ねるべきではないのか……\r\n\r\n//　そう。\r\n//　それが、当然の筈だ。\r\n\r\n//　今までは俺を裁く者が現れなかっただけだ。\r\n//　見逃されてきただけだ。\r\n\r\n//　今はいる。\r\n//　天秤と鎌を持つ、判事にして処刑人たる者が訪れて\r\n//いる。\r\n\r\n//　ならば――\r\n  My tsurugi, hidden nearby, says nothing. She does not need to. Her stare conveys more than enough.\r\n  Ignoring it, I stand and resume my march.\r\n\r\n  Progress is slow. My body resists, as if it were not entirely my own.\r\n\r\n  Something―some force―is gripping my limbs, holding them back as they struggle to advance.\r\n\r\n  I know what it is. It comes from within, from some place in my gut, or my head, or my heart.\r\n\r\n  My spirit is rebelling at the thought of what I must do.\r\n\r\n  Whatever Ichijo was to me before is irrelevant. Now she is only one thing. My judge.\r\n\r\n  She has heard my confession, weighed my crimes, and pronounced them―and me―deserving of death.\r\n\r\n  And to her verdict, I say㉒<I>yes.</I> My crimes are unforgivable. I do deserve to die.\r\n\r\n  How then can I now reject that fate? What gives me the right?\r\n\r\n  If I truly believe that my victims had worth, that the blood on my hands must carry a price, then should I not submit to her judgment and lay my own head upon the block?\r\n\r\n  This has never before been a question. Of the few who know the depth of my crimes, not one has ever called me to account.\r\n\r\n  Now one has. She has passed sentence, with the will and the means to carry it out. Is it not my duty to yield?\r\n",
-  "pt": ""
+  "pt": "\r\n//　付近を潜行する劒冑から送られてくる、無言の視線\r\n//が煩わしい。\r\n//　それでも黙殺して、立ち上がる。\r\n\r\n//　慣れ親しむ肉体は、<RUBY text='やたら'>矢鱈</RUBY>と重かった。\r\n//　気を緩めれば膝が笑い出す程に。\r\n\r\n//　体重ではない重みが何処かに懸かっているようでも\r\n//ある。\r\n//　何処か――頭蓋の中か、心臓の奥か、それ以外か。\r\n\r\n//　<RUBY text='こころ'>精神</RUBY>が負荷を掛けている。\r\n//　四肢に軋みを上げさせている。\r\n\r\n//　綾弥一条と戦う。\r\n//　その意思が、重い。\r\n\r\n//　あの少女は許さないと宣言したのだ。\r\n//　湊斗景明を――彼が犯してきた罪業を。許さないと\r\n//告げたのだ。\r\n\r\n//　断罪。\r\n\r\n//　<RUBY text='おれ'>被告</RUBY>は、同意する。\r\n//　その通り――到底、許されざる罪だ。\r\n\r\n//　許されてはならない罪だ。\r\n\r\n//　ならば、どうして……\r\n//　俺は抗わねばならないのか。\r\n\r\n//　抗うなどという真似が、許されるのか。\r\n\r\n//　否。\r\n//　許されない筈だ。\r\n\r\n//　この手で剥奪した命を、\r\n//　この指で咲かせた血華を、\r\n\r\n//　忘れないのならば……\r\n//　どうして、裁きに抗おう。\r\n\r\n//　受け入れるべきではないのか。\r\n\r\n//　<RUBY text='さばき'>断罪</RUBY>の正当を認めるならば、\r\n//　刑吏の刃に身を委ねるべきではないのか……\r\n\r\n//　そう。\r\n//　それが、当然の筈だ。\r\n\r\n//　今までは俺を裁く者が現れなかっただけだ。\r\n//　見逃されてきただけだ。\r\n\r\n//　今はいる。\r\n//　天秤と鎌を持つ、判事にして処刑人たる者が訪れて\r\n//いる。\r\n\r\n//　ならば――\r\n  Minha tsurugi, oculta ali perto, não diz nada. Ela não precisa. Seu olhar diz muito mais.\r\n  Ignorando-a, levanto-me e retomo minha marcha.\r\n\r\n  O avanço é lento. Meu corpo resiste, como se não fosse inteiramente meu.\r\n\r\n  Algo — alguma força — agarra meus membros e os retém enquanto lutam para avançar.\r\n\r\n  Sei o que é. Vem de dentro, de algum lugar no meu estômago, na minha cabeça ou no meu coração.\r\n\r\n  Meu espírito se rebela à ideia do que preciso fazer.\r\n\r\n  O que quer que Ichijo fosse para mim antes é irrelevante. Agora ela é só uma coisa. Minha juíza.\r\n\r\n  Ela ouviu minha confissão, pesou meus crimes e os declarou — e a mim — merecedores de morte.\r\n\r\n  E à sentença dela, eu digo㉒<I>sim.</I> Meus crimes são imperdoáveis. Eu mereço morrer.\r\n\r\n  Como posso, então, agora rejeitar esse destino? Que direito me resta?\r\n\r\n  Se eu realmente acredito que minhas vítimas tinham valor, que o sangue em minhas mãos tem um preço, não deveria eu me submeter ao julgamento dela e deitar minha própria cabeça no cepo?\r\n\r\n  Isso nunca foi uma questão antes. Dos poucos que sabem a extensão dos meus crimes, nenhum jamais me chamou a prestar contas.\r\n\r\n  Agora uma pessoa o fez. Ela pronunciou a sentença, com a vontade e os meios de executá-la. Não é meu dever ceder?\r\n"
  },
  {
   "offset": 8368,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110150a01'>\r\n//《……御堂》\r\n《Mido...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110150a01'>\r\n//《……御堂》\r\n《Mido...》\r\n"
  },
  {
   "offset": 8503,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110160a00'>\r\n//「……わかっている」\r\n\"I know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110160a00'>\r\n//「……わかっている」\r\n\"...Eu sei.\"\r\n"
  },
  {
   "offset": 8640,
   "en": "\r\n//　問答の繰り返し。\r\n\r\n//　俺に、安逸への逃避は許されない。\r\n//　罪を認め、刑に服し、一命を捧げれば楽になれよう\r\n//――だが、まだその時ではない。\r\n\r\n//　使命を果たし終えた後でなくては、俺にはそうする\r\n//資格が無い。\r\n\r\n//　わかっているのだ。\r\n//　わかっているのだ。\r\n\r\n//　しかし――思う。\r\n//　それは、罪からの逃避ではないのかと。\r\n\r\n//　やらねばならぬ事があるのは誰も同じだ。\r\n//　生きとし生けるもの全てが、生きて果たすべき使命\r\n//を持っている。\r\n\r\n//　しかし誰もが不死ではいられない。\r\n//　誰もが未練を抱えて死んでゆく。\r\n\r\n//　そう思えば、使命など、死を避けるに値する理由と\r\n//言えようか。\r\n//　言えまい。\r\n\r\n//　この世のあらゆる死者のように――俺に殺され不意\r\n//に未来を奪われた人々のように、\r\n//　俺もまた無念を抱え、ここでもがき苦しんで死んで\r\n//ゆくべきではないのか。\r\n\r\n//　それこそが正しい帰結ではないのか……\r\n  One thousand and one.\r\n\r\n  No. Of course I cannot yield. That would be an㉓<I>abrogation</I> of duty, a cowardly flight from unspeakable pain.\r\n\r\n  To hang for my crimes. What a㉓<I>relief</I>㉕that would be. I would know that all is right with the world.\r\n\r\n  But I have no right to peace, not while my true duty remains unfulfilled.\r\n\r\n  I know.\r\n\r\n  I know...\r\n\r\n  And yet―<K>\r\n  Why is duty an excuse?\r\n\r\n <I>Every</I>㉑person has a duty. All life has a purpose that calls it to live.\r\n\r\n  And yet, no one is immortal. Everyone leaves something undone.\r\n\r\n  Why should I be any different? Why should I warrant a reprieve?\r\n\r\n  To die as my victims did, burdened, wishing that I could do more...<K>\r\n  Is㉗<I>that</I>㉑not the suffering I deserve?\r\n",
-  "pt": ""
+  "pt": "\r\n//　問答の繰り返し。\r\n\r\n//　俺に、安逸への逃避は許されない。\r\n//　罪を認め、刑に服し、一命を捧げれば楽になれよう\r\n//――だが、まだその時ではない。\r\n\r\n//　使命を果たし終えた後でなくては、俺にはそうする\r\n//資格が無い。\r\n\r\n//　わかっているのだ。\r\n//　わかっているのだ。\r\n\r\n//　しかし――思う。\r\n//　それは、罪からの逃避ではないのかと。\r\n\r\n//　やらねばならぬ事があるのは誰も同じだ。\r\n//　生きとし生けるもの全てが、生きて果たすべき使命\r\n//を持っている。\r\n\r\n//　しかし誰もが不死ではいられない。\r\n//　誰もが未練を抱えて死んでゆく。\r\n\r\n//　そう思えば、使命など、死を避けるに値する理由と\r\n//言えようか。\r\n//　言えまい。\r\n\r\n//　この世のあらゆる死者のように――俺に殺され不意\r\n//に未来を奪われた人々のように、\r\n//　俺もまた無念を抱え、ここでもがき苦しんで死んで\r\n//ゆくべきではないのか。\r\n\r\n//　それこそが正しい帰結ではないのか……\r\n  Mil e um.\r\n\r\n  Não. Claro que não posso ceder. Isso seria uma㉓<I>abjuração</I> do dever, uma fuga covarde da dor indescritível.\r\n\r\n  Morrer enforcado por meus crimes. Que㉓<I>alívio</I>㉕seria isso. Eu saberia que tudo está certo no mundo.\r\n\r\n  Mas não tenho direito à paz, não enquanto meu verdadeiro dever permanecer por cumprir.\r\n\r\n  Eu sei.\r\n\r\n  Eu sei...\r\n\r\n  E ainda assim―<K>\r\n  Por que o dever é uma desculpa?\r\n\r\n <I>Toda</I>㉑pessoa tem um dever. Toda vida tem um propósito que a chama a viver.\r\n\r\n  E, no entanto, ninguém é imortal. Todos deixam algo por fazer.\r\n\r\n  Por que eu seria diferente? Por que eu mereceria uma trégua?\r\n\r\n  Morrer como minhas vítimas morreram, carregado de pesar, desejando poder fazer mais...<K>\r\n  Não é㉗<I>esse</I>㉑o sofrimento que mereço?\r\n"
  },
  {
   "offset": 10590,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110170a01'>\r\n//《御堂。\r\n//　私たちが銀星号を倒さなければ――》\r\n《Mido. If we don't stop Ginseigo―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb01/0110170a01'>\r\n//《御堂。\r\n//　私たちが銀星号を倒さなければ――》\r\n《Mido. Se não detivermos Ginseigo―》\r\n"
  },
  {
   "offset": 10804,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110180a00'>\r\n//「何度言わせるつもりだ。\r\n//　<RUBY text='・・・・・・'>わかっている</RUBY>」\r\n\"How many times must I say it? <I>I know.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110180a00'>\r\n//「何度言わせるつもりだ。\r\n//　<RUBY text='・・・・・・'>わかっている</RUBY>」\r\n\"Quantas vezes vou precisar dizer? <I>Eu sei.</I>\"\r\n"
  },
  {
   "offset": 11051,
@@ -122,22 +122,22 @@
  {
   "offset": 11179,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110200a00'>\r\n//「もう黙っていろ……」\r\n\"Now be silent.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb01/0110200a00'>\r\n//「もう黙っていろ……」\r\n\"Agora fique em silêncio.\"\r\n"
  },
  {
   "offset": 11326,
   "en": "\r\n//　言われるまでもない。\r\n//　俺が、俺に課せられた使命を投げ出すなら……失わ\r\n//れるものは俺一人の生命では済まない。\r\n  I do not need her to tell me the answer. It is evident, as it has always been.\r\n\r\n  If I die without fulfilling my duty, the suffering will not be mine alone.\r\n",
-  "pt": ""
+  "pt": "\r\n//　言われるまでもない。\r\n//　俺が、俺に課せられた使命を投げ出すなら……失わ\r\n//れるものは俺一人の生命では済まない。\r\n  Não preciso que ela me diga a resposta. É evidente, como sempre foi.\r\n\r\n  Se eu morrer sem cumprir meu dever, o sofrimento não será só meu.\r\n"
  },
  {
   "offset": 11669,
   "en": "\r\n//　銀星号は殺し続けるだろう。\r\n//　人々を狂わせ……〝卵〟を撒き、分身を育てて。\r\n\r\n//　歴史は未曾有の災厄として、その名を記録する。\r\n//　……そうさせてはならない。\r\n  Ginseigo will keep killing, and driving men to slaughter, and laying her eggs, which will hatch and kill more. Death and destruction on a scale the world has never seen.\r\n\r\n  I cannot let that happen.\r\n",
-  "pt": ""
+  "pt": "\r\n//　銀星号は殺し続けるだろう。\r\n//　人々を狂わせ……〝卵〟を撒き、分身を育てて。\r\n\r\n//　歴史は未曾有の災厄として、その名を記録する。\r\n//　……そうさせてはならない。\r\n  Ginseigo continuará matando, levando homens à matança e pondo seus ovos, que eclodirão e matarão mais. Morte e destruição numa escala que o mundo nunca viu.\r\n\r\n  Não posso permitir que isso aconteça.\r\n"
  },
  {
   "offset": 12123,
   "en": "\r\n//　俺が止めるのだ。\r\n//　既にして被害は甚大だが、せめてこれ以上は、犠牲\r\n//者の列を続けさせぬために。\r\n\r\n//　……だが。\r\n//　そうするからには、今日――綾弥一条と戦い。\r\n\r\n//　その正当なる断罪を跳ね除け。\r\n//　打ち倒し、踏み越えて、俺は……行かねば。\r\n  Nothing can shorten the roll of the dead, but at least―at <I>least―</I>I can strive to keep it from growing any longer.\r\n\r\n  ...Any longer than necessary.\r\n\r\n  For that, I must face Ayane Ichijo, reject her righteous verdict... and add her name to the tally.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺が止めるのだ。\r\n//　既にして被害は甚大だが、せめてこれ以上は、犠牲\r\n//者の列を続けさせぬために。\r\n\r\n//　……だが。\r\n//　そうするからには、今日――綾弥一条と戦い。\r\n\r\n//　その正当なる断罪を跳ね除け。\r\n//　打ち倒し、踏み越えて、俺は……行かねば。\r\n  Nada pode encurtar a lista dos mortos, mas ao menos — ao <I>menos</I> — posso me esforçar para que ela não cresça mais.\r\n\r\n  ...Mais do que o necessário.\r\n\r\n  Para isso, preciso enfrentar Ayane Ichijo, rejeitar seu veredicto justo... e acrescentar o nome dela à lista.\r\n"
  },
  {
   "offset": 12761,
@@ -147,6 +147,6 @@
  {
   "offset": 12885,
   "en": "\r\n//　出口は見えない。\r\n//　思考は堂々巡りを繰り返すばかりだった。\r\n\r\n//　そして時間は無限ではなかった。\r\n//　<RUBY text='こぶくろざか'>巨福呂坂</RUBY>を越える。\r\n\r\n//　円往寺はもう、すぐ<RUBY text='そこ'>其処</RUBY>にあった。\r\n  My thoughts run in circles. No way out.\r\n\r\n  And no more time to find one. I have passed Kobukurozaka Pass.\r\n\r\n  Ennoji is just ahead.\r\n",
-  "pt": ""
+  "pt": "\r\n//　出口は見えない。\r\n//　思考は堂々巡りを繰り返すばかりだった。\r\n\r\n//　そして時間は無限ではなかった。\r\n//　<RUBY text='こぶくろざか'>巨福呂坂</RUBY>を越える。\r\n\r\n//　円往寺はもう、すぐ<RUBY text='そこ'>其処</RUBY>にあった。\r\n  Meus pensamentos giram em círculos. Nenhuma saída.\r\n\r\n  E não há mais tempo para encontrar uma. Atravessei o passo de Kobukurozaka.\r\n\r\n  Ennoji está logo à frente.\r\n"
  }
 ]

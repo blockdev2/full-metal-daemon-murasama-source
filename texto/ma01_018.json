@@ -2,217 +2,217 @@
  {
   "offset": 213,
   "en": "\r\n//　木々の狭間の向こうに、<RUBY text='ひら'>拓</RUBY>かれた山棚が見える。\r\n//　その奥には――老朽した木造の平屋。\r\n  Through the trees, we can see a level shelf jutting out from the mountain. And there, in the middle of the clearing, stands a dilapidated wooden structure.\r\n",
-  "pt": ""
+  "pt": "\r\n//　木々の狭間の向こうに、<RUBY text='ひら'>拓</RUBY>かれた山棚が見える。\r\n//　その奥には――老朽した木造の平屋。\r\n  Entre as árvores, dá para ver uma plataforma plana se projetando da montanha. E ali, no meio da clareira, há uma construção de madeira em ruínas.\r\n"
  },
  {
   "offset": 540,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180010b56'>\r\n//「立ち入り禁止区画って書いてあるな……」\r\n\"There's a 'no trespassing' sign.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180010b56'>\r\n//「立ち入り禁止区画って書いてあるな……」\r\n\"Tem uma placa de 'proibido entrar'.\"\r\n"
  },
  {
   "offset": 732,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180020b43'>\r\n//「それにしては警備員もいないね」\r\n\"But I don't see any guards.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180020b43'>\r\n//「それにしては警備員もいないね」\r\n\"Mas, pensando bem, não tem nenhum vigia.\"\r\n"
  },
  {
   "offset": 907,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180030b33'>\r\n//「警備なんかしなくたって、こんなとこ誰も\r\n//わざわざ来ないでしょ。普通」\r\n\"It's not like anyone's gonna come all the way out here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180030b33'>\r\n//「警備なんかしなくたって、こんなとこ誰も\r\n//わざわざ来ないでしょ。普通」\r\n\"Ninguém vai se dar ao trabalho de vir até um lugar desses. Normal.\"\r\n"
  },
  {
   "offset": 1168,
   "en": "\r\n//　だろうな。\r\n//　ここまで来るには道なき道――というか<RUBY text='・・'>昔は</RUBY>ちゃん\r\n//とした道があったらしい場所――を、えんえん進んで\r\n//こなくてはならなかったのだ。\r\n  True. To reach this place, we had to trek up steep mountain paths, the remnants of what were once functioning roads.\r\n\r\n//　ハイキングコースにこんな選択をする物好きもそう\r\n//いまい。\r\n  I can't imagine anyone hiking all this way for fun.\r\n",
-  "pt": ""
+  "pt": "\r\n//　だろうな。\r\n//　ここまで来るには道なき道――というか<RUBY text='・・'>昔は</RUBY>ちゃん\r\n//とした道があったらしい場所――を、えんえん進んで\r\n//こなくてはならなかったのだ。\r\n  Verdade. Para chegar aqui, tivemos que subir por trilhas íngremes, os restos do que um dia foram estradas de verdade.\r\n\r\n//　ハイキングコースにこんな選択をする物好きもそう\r\n//いまい。\r\n  Não imagino ninguém fazendo trilha até aqui por diversão.\r\n"
  },
  {
   "offset": 1694,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180040b56'>\r\n//「先生、ここなんですか？」\r\n\"Is this the place?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180040b56'>\r\n//「先生、ここなんですか？」\r\n\"É aqui, professor?\"\r\n"
  },
  {
   "offset": 1851,
   "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180050b57'>\r\n//「ああ。\r\n//　あっちに」\r\n\"Yes. It's over there.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180050b57'>\r\n//「ああ。\r\n//　あっちに」\r\n\"Sim. É ali.\"\r\n"
  },
  {
   "offset": 2006,
   "en": "\r\n//　と、鈴川は山裾の方角を指差した。\r\n  He points at the face of the mountain.\r\n",
-  "pt": ""
+  "pt": "\r\n//　と、鈴川は山裾の方角を指差した。\r\n  Ele aponta para a encosta da montanha.\r\n"
  },
  {
   "offset": 2113,
   "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180060b57'>\r\n//「竹林にあったのと同じような、地下水脈が\r\n//地表に現れている場所がある」\r\n\"There's a crack where the underground river meets the surface, just like in the bamboo grove.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180060b57'>\r\n//「竹林にあったのと同じような、地下水脈が\r\n//地表に現れている場所がある」\r\n\"Há uma fenda onde o rio subterrâneo aflora à superfície, igual ao que havia no bambuzal.\"\r\n"
  },
  {
   "offset": 2412,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180070b56'>\r\n//「はぁ」\r\n\"Huh.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180070b56'>\r\n//「はぁ」\r\n\"Hã.\"\r\n"
  },
  {
   "offset": 2528,
   "en": "\r\n//　そう言われても、おれには何も見えなかったが。\r\n//　しかし確かに、耳を澄ますと水の流れと思しき音が\r\n//聞こえてくる。\r\n  I can't see anything from here... though if I strain to listen, I catch a faint sound that could be running water.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そう言われても、おれには何も見えなかったが。\r\n//　しかし確かに、耳を澄ますと水の流れと思しき音が\r\n//聞こえてくる。\r\n  Não consigo ver nada daqui... mas, se eu prestar atenção, ouço um som fraco que pode ser de água correndo.\r\n"
  },
  {
   "offset": 2830,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180080b56'>\r\n//「んで……あの建物は一体？」\r\n\"Okay... so what's that building?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180080b56'>\r\n//「んで……あの建物は一体？」\r\n\"Então... o que é aquele prédio?\"\r\n"
  },
  {
   "offset": 3004,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180090b43'>\r\n//「学校みたいに見えますけど」\r\n\"It looks kind of like a <br>school.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180090b43'>\r\n//「学校みたいに見えますけど」\r\n\"Parece uma escola.\"\r\n"
  },
  {
   "offset": 3181,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180100b33'>\r\n//「それにしては小さくない？」\r\n\"Isn't it a little small?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180100b33'>\r\n//「それにしては小さくない？」\r\n\"Não é meio pequena demais?\"\r\n"
  },
  {
   "offset": 3347,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180110b56'>\r\n//「だな。長屋じゃないのか？」\r\n\"Yeah. You sure it's not a regular house?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180110b56'>\r\n//「だな。長屋じゃないのか？」\r\n\"É. Certeza que não é só uma casa comum?\"\r\n"
  },
  {
   "offset": 3529,
   "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180120b57'>\r\n//「いや、稲城の言う通りだ。\r\n//　校舎だよ。<RUBY text='・・・・・・'>うちの学校の</RUBY>校舎だ」\r\n\"No, Inagi's right. It's a school. Our school.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180120b57'>\r\n//「いや、稲城の言う通りだ。\r\n//　校舎だよ。<RUBY text='・・・・・・'>うちの学校の</RUBY>校舎だ」\r\n\"Não, o Inagi está certo. É uma escola. A nossa escola.\"\r\n"
  },
  {
   "offset": 3804,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180130b56'>\r\n//「へ!?　そうなんですか？」\r\n\"Huh!? Really?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180130b56'>\r\n//「へ!?　そうなんですか？」\r\n\"Hã!? É mesmo?\"\r\n"
  },
  {
   "offset": 3955,
   "en": "\r\n//　聞いたことがないぞ。\r\n  I've never heard of this place.\r\n",
-  "pt": ""
+  "pt": "\r\n//　聞いたことがないぞ。\r\n  Nunca ouvi falar disso.\r\n"
  },
  {
   "offset": 4037,
   "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180140b57'>\r\n//「……ずっと昔の話だがな。\r\n//　今の場所に移転する前はここにあったんだ」\r\n\"...Or it was, a long time ago, before the school moved to where it is now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180140b57'>\r\n//「……ずっと昔の話だがな。\r\n//　今の場所に移転する前はここにあったんだ」\r\n\"...Ou era, há muito tempo, antes de a escola se mudar para onde está hoje.\"\r\n"
  },
  {
   "offset": 4317,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180150b56'>\r\n//「あ、なるほど」\r\n\"Oh.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180150b56'>\r\n//「あ、なるほど」\r\n\"Ah.\"\r\n"
  },
  {
   "offset": 4444,
   "en": "\r\n//◆真剣顔\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180160b43'>\r\n//「そういえば以前そんな話をどっかで小耳に\r\n//はさんだような気が」\r\n\"I remember hearing something about that...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆真剣顔\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180160b43'>\r\n//「そういえば以前そんな話をどっかで小耳に\r\n//はさんだような気が」\r\n\"Agora que penso, acho que já ouvi algo assim em algum lugar...\"\r\n"
  },
  {
   "offset": 4696,
   "en": "\r\n//◆韜晦顔\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180170b43'>\r\n//「全然しない」\r\n\"...or not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆韜晦顔\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180170b43'>\r\n//「全然しない」\r\n\"...ou não.\"\r\n"
  },
  {
   "offset": 4843,
   "en": "\r\n//◆かわゆく。うぃんく？\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180180b33'>\r\n//「なら言うな☆」\r\n\"Then keep it to yourself☆\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆かわゆく。うぃんく？\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180180b33'>\r\n//「なら言うな☆」\r\n\"Então não fala mais nada☆\"\r\n"
  },
  {
   "offset": 5031,
   "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180190b57'>\r\n//「先生が子供の頃の話だからな。\r\n//　知らなくて当然だ」\r\n\"This was back when I was a student myself, so I'm not surprised you don't know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180190b57'>\r\n//「先生が子供の頃の話だからな。\r\n//　知らなくて当然だ」\r\n\"Isso foi quando eu ainda era estudante, então não é de estranhar que vocês não saibam.\"\r\n"
  },
  {
   "offset": 5289,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180200b56'>\r\n//「よく今まで残ってましたね」\r\n\"I can't believe it's still standing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180200b56'>\r\n//「よく今まで残ってましたね」\r\n\"Nem acredito que ainda esteja de pé.\"\r\n"
  },
  {
   "offset": 5467,
   "en": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180210b57'>\r\n//「経費は掛かるが利益のない撤去作業を誰も\r\n//やりたがらなかったというだけのことだろう。\r\n//　もう皆、ここに校舎があることなど忘れた。\r\n//だからずっとこのままだ」\r\n\"I'm sure no one wanted to pay to have it demolished when there was nothing to put in its place. Everyone's forgotten about it. It'll just stand here like this, abandoned...\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180220b57'>\r\n//「いつか自然に崩れ落ちるまで」\r\n\"...until nature finally reclaims it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180210b57'>\r\n//「経費は掛かるが利益のない撤去作業を誰も\r\n//やりたがらなかったというだけのことだろう。\r\n//　もう皆、ここに校舎があることなど忘れた。\r\n//だからずっとこのままだ」\r\n\"Imagino que ninguém quisesse gastar dinheiro para demolir algo sem nada para colocar no lugar. Todo mundo já esqueceu que ele existe. Vai continuar aqui assim, abandonado...\"\r\n\r\n//【鈴川】\r\n<voice name='鈴川' class='鈴川' src='voice/ma01/0180220b57'>\r\n//「いつか自然に崩れ落ちるまで」\r\n\"...até a natureza finalmente o consumir.\"\r\n"
  },
  {
   "offset": 6146,
   "en": "\r\n//　それを良しとしているのか、悪しとしているのか、\r\n//鈴川の表情から判別することはできなかった。\r\n//　感情を示す色彩はあった――が、おれがそれを読み\r\n//解く前に鈴川は再び歩き出していた。\r\n  From Suzukawa's expression, it's hard to tell how he feels about the ruin of his old school. There is emotion there... but before I can discern its nature, he starts down the hill to the derelict building.\r\n\r\n//　廃校舎へ向かって。\r\n",
-  "pt": ""
+  "pt": "\r\n//　それを良しとしているのか、悪しとしているのか、\r\n//鈴川の表情から判別することはできなかった。\r\n//　感情を示す色彩はあった――が、おれがそれを読み\r\n//解く前に鈴川は再び歩き出していた。\r\n  É difícil dizer pela expressão de Suzukawa se ele vê aquilo como algo bom ou ruim. Há emoção ali... mas, antes que eu consiga decifrá-la, ele já volta a caminhar. Em direção ao prédio abandonado.\r\n\r\n//　廃校舎へ向かって。\r\n"
  },
  {
   "offset": 6675,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180230b56'>\r\n//「……いっ？\r\n//　あの、ちょっと先生、危ないっスよ!?」\r\n\"Wait! Isn't it dangerous!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180230b56'>\r\n//「……いっ？\r\n//　あの、ちょっと先生、危ないっスよ!?」\r\n\"Espera...! Professor, assim é perigoso!\"\r\n"
  },
  {
   "offset": 6879,
   "en": "\r\n//　放置されてもう長いのだ。\r\n//　いつ屋根が落ちるやら知れたものではない。だから\r\n//立ち入り禁止なのだろうし――<k>いや。それもそうだが、\r\n//そういう問題じゃない。\r\n  The building has been abandoned for decades. The roof might collapse at any moment, which is probably why this \"no trespassing\" sign is here.<K>\r\n  But that is only a minor concern.\r\n\r\n//　鈴川の読みが的を射ていれば、ここは犯人の用いる\r\n//犯行拠点なのかもしれないのだ。\r\n//　まさかここで寝泊りしているということはあるまい\r\n//が……そんな可能性とて捨て切れたものでもなかろう。\r\n  If Suzukawa's guess is right, then the kidnapper is using this building to store his victims. I doubt he lives here, but you never know.\r\n\r\n//　無造作に踏み込むのが賢いとは思えなかった。\r\n//　しかし鈴川はおれの制止に構わず、建物へ近づいて\r\n//いく。\r\n  Either way, waltzing in unprepared can't be the smartest plan. Suzukawa, however, ignores my warning and approaches the building.\r\n\r\n//　残った三人、顔を見合わせる。\r\n//　逡巡と困惑が共通して在った。\r\n  The three of us exchange worried looks.\r\n\r\n//　やがて、忠保がひとつ肩をすくめ、鈴川の後を追う。\r\n//　一歩遅れて、おれと小夏も続いた。\r\n  After a few seconds, though, Tadayasu shrugs and heads after Suzukawa. Konatsu and I follow close behind.\r\n\r\n//　……ここまで来たら、もう腹を決めるしかないか。\r\n  Guess there's no turning back now.\r\n",
-  "pt": ""
+  "pt": "\r\n//　放置されてもう長いのだ。\r\n//　いつ屋根が落ちるやら知れたものではない。だから\r\n//立ち入り禁止なのだろうし――<k>いや。それもそうだが、\r\n//そういう問題じゃない。\r\n  O prédio está abandonado há décadas. O telhado pode desabar a qualquer momento, e é provavelmente por isso que essa placa de \"proibido entrar\" está aqui.<K>\r\n  Mas isso é só uma preocupação menor.\r\n\r\n//　鈴川の読みが的を射ていれば、ここは犯人の用いる\r\n//犯行拠点なのかもしれないのだ。\r\n//　まさかここで寝泊りしているということはあるまい\r\n//が……そんな可能性とて捨て切れたものでもなかろう。\r\n  Se o palpite de Suzukawa estiver certo, o sequestrador pode estar usando este prédio para guardar suas vítimas. Duvido que ele more aqui, mas nunca se sabe.\r\n\r\n//　無造作に踏み込むのが賢いとは思えなかった。\r\n//　しかし鈴川はおれの制止に構わず、建物へ近づいて\r\n//いく。\r\n  De qualquer forma, entrar assim sem cuidado não me parece a ideia mais inteligente. Suzukawa, porém, ignora meu aviso e se aproxima do prédio.\r\n\r\n//　残った三人、顔を見合わせる。\r\n//　逡巡と困惑が共通して在った。\r\n  Os três que ficaram se entreolham.\r\n\r\n//　やがて、忠保がひとつ肩をすくめ、鈴川の後を追う。\r\n//　一歩遅れて、おれと小夏も続いた。\r\n  Depois de alguns segundos, Tadayasu dá de ombros e segue Suzukawa. Konatsu e eu vamos logo atrás.\r\n\r\n//　……ここまで来たら、もう腹を決めるしかないか。\r\n  Acho que agora não tem mais volta.\r\n"
  },
  {
   "offset": 8532,
   "en": "\r\n//　埃の匂い。\r\n//　黴の匂い。\r\n//　朽ちた木材の乾いた匂い。\r\n  Upon setting foot inside the old school, the smell of dust, mold, and rotting timbers surrounds me.\r\n\r\n//　そこまでは覚悟していた。\r\n//　そういうものだとわかっていた。\r\n  These, I was prepared for. They're what you always get when you enter an old, unused building.\r\n\r\n//　だが。\r\n//　それら全ての匂いを押し潰し、圧倒的な存在を誇る、\r\n//この<RUBY text='す'>饐</RUBY>えた臭気は――果たして、何なのか。\r\n  But this㉓<I>stench</I>―this rotten, pervasive stink that drowns out all the others. What is it?\r\n\r\n//　似たような匂いを知ってはいた。\r\n//　ごく身近な匂いだ。\r\n//　家庭で。学校で。あるいは路上で。\r\n  I've smelled its like before, and often. At home, at school, sometimes by the roadside.\r\n\r\n//　室内の薄暗さに、少しずつ眼が慣れてくる。\r\n  Little by little, my eyes grow accustomed to the dim light.\r\n",
-  "pt": ""
+  "pt": "\r\n//　埃の匂い。\r\n//　黴の匂い。\r\n//　朽ちた木材の乾いた匂い。\r\n  Ao pôr os pés dentro da antiga escola, o cheiro de poeira, mofo e madeira apodrecida me envolve.\r\n\r\n//　そこまでは覚悟していた。\r\n//　そういうものだとわかっていた。\r\n  Isso eu já esperava. É o que sempre se sente ao entrar num prédio velho e abandonado.\r\n\r\n//　だが。\r\n//　それら全ての匂いを押し潰し、圧倒的な存在を誇る、\r\n//この<RUBY text='す'>饐</RUBY>えた臭気は――果たして、何なのか。\r\n  Mas este㉓<I>fedor</I>―este cheiro pútrido e dominante que sufoca todos os outros. O que é?\r\n\r\n//　似たような匂いを知ってはいた。\r\n//　ごく身近な匂いだ。\r\n//　家庭で。学校で。あるいは路上で。\r\n  Eu já senti algo parecido antes, e muitas vezes. Em casa, na escola, às vezes na beira da estrada.\r\n\r\n//　室内の薄暗さに、少しずつ眼が慣れてくる。\r\n  Aos poucos, meus olhos se acostumam com a penumbra.\r\n"
  },
  {
   "offset": 9581,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180240b56'>\r\n//「……教室？」\r\n\"...A classroom?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180240b56'>\r\n//「……教室？」\r\n\"...Uma sala de aula?\"\r\n"
  },
  {
   "offset": 9717,
   "en": "\r\n//　そんな風に見えた。\r\n  That's how the room appears.\r\n\r\n//　廃棄される際に持ち出されたのか、椅子も机も何も\r\n//無かったが。\r\n//　しかしそれさえあれば、今でも学び舎としての体裁\r\n//は辛うじて整えられるように思える。\r\n  There are no chairs or desks―they were probably taken when the school was closed―but if there were, this room could pass as a functional, if decrepit, classroom.\r\n\r\n//　鈴川の姿は見えない。\r\n//　まさかその代役ではあるまいが、大きな箱が四つ、\r\n//教壇のあるべき辺りには並んでいる。\r\n  I don't see Suzukawa anywhere, but there are four large boxes sitting where the lectern would be, as though to fill in for our teacher.\r\n\r\n//　どうもそこから匂うようだった。\r\n//　複雑な要素が絡み合った、この<RUBY text='・・・・・'>ゴミ捨て場</RUBY>のそれに\r\n//良く似た匂いは。\r\n  The stench seems to be coming from there. It's the smell of many different things rotting―like a landfill, maybe.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そんな風に見えた。\r\n  É o que parece.\r\n\r\n//　廃棄される際に持ち出されたのか、椅子も机も何も\r\n//無かったが。\r\n//　しかしそれさえあれば、今でも学び舎としての体裁\r\n//は辛うじて整えられるように思える。\r\n  Não há cadeiras nem carteiras ― provavelmente foram levadas quando a escola fechou ― mas, se houvesse, daria para o lugar passar por uma sala de aula precária, porém funcional.\r\n\r\n//　鈴川の姿は見えない。\r\n//　まさかその代役ではあるまいが、大きな箱が四つ、\r\n//教壇のあるべき辺りには並んでいる。\r\n  Não vejo Suzukawa em lugar nenhum, mas há quatro caixas grandes onde deveria estar a mesa do professor, como se o substituíssem.\r\n\r\n//　どうもそこから匂うようだった。\r\n//　複雑な要素が絡み合った、この<RUBY text='・・・・・'>ゴミ捨て場</RUBY>のそれに\r\n//良く似た匂いは。\r\n  Parece que o fedor vem de lá. É o cheiro de muitas coisas diferentes apodrecendo ― de um lixão, talvez.\r\n"
  },
  {
   "offset": 10815,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180250b43'>\r\n//「なんだろうねぇ……あれ」\r\n\"What are those?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180250b43'>\r\n//「なんだろうねぇ……あれ」\r\n\"O que são aquelas coisas?\"\r\n"
  },
  {
   "offset": 10969,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180260b33'>\r\n//「ゴミ箱かな」\r\n\"Trash boxes?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180260b33'>\r\n//「ゴミ箱かな」\r\n\"Caixas de lixo?\"\r\n"
  },
  {
   "offset": 11102,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180270b56'>\r\n//「始末してけよ……そんくらい」\r\n\"They could've at least thrown them out.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180270b56'>\r\n//「始末してけよ……そんくらい」\r\n\"Bem que podiam ter se livrado disso... pelo menos.\"\r\n"
  },
  {
   "offset": 11286,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180280b43'>\r\n//「うーん、水の匂いが混じってるような気も\r\n//するけど」\r\n\"Hmm... I think I smell water, too.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180280b43'>\r\n//「うーん、水の匂いが混じってるような気も\r\n//するけど」\r\n\"Hmm... acho que também tem cheiro de água.\"\r\n"
  },
  {
   "offset": 11499,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180290b33'>\r\n//「じゃあ水槽？」\r\n\"Water tanks?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180290b33'>\r\n//「じゃあ水槽？」\r\n\"Tanques de água?\"\r\n"
  },
  {
   "offset": 11635,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180300b56'>\r\n//「金魚でも飼ってたのか？」\r\n\"Were they keeping goldfish or something?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180300b56'>\r\n//「金魚でも飼ってたのか？」\r\n\"Eles criavam peixinhos dourados ou algo assim?\"\r\n"
  },
  {
   "offset": 11814,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180310b43'>\r\n//「さてねぇ。\r\n//　まぁ、開けてみればわかると思うよ」\r\n\"Who knows? I guess we'll find out when we open <br>them.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180310b43'>\r\n//「さてねぇ。\r\n//　まぁ、開けてみればわかると思うよ」\r\n\"Sei lá. Acho que vamos descobrir quando abrirmos.\"\r\n"
  },
  {
   "offset": 12046,
   "en": "\r\n//　そんなことは言われるまでもない。\r\n//　全員それがイヤだから、ここでああだこうだと言い\r\n//合ってるんだろうに。\r\n  No shit. We're standing here chatting because we don't <I>want</I>㉑to see what's inside.\r\n\r\n//　匂いは悪いが物は良い、なんてのはくさやとチーズ\r\n//とドリアンくらいのものだ。\r\n//　悪臭の根源は大概、人間にとって嬉しくもなんとも\r\n//ない代物と決まっている。\r\n  The only good things that smell bad are cut grass, cheese, and durians. By and large, anything that stinks is likely to be unpleasant.\r\n\r\n//　といって、鈴川もいない、うかつに歩き回りたくも\r\n//ないという状況では、その臭気の元を確認する以外に\r\n//これといって前向きな行動選択もなかった。\r\n//　ただ突っ立って待つのも落ち着かない話。\r\n  But with Suzukawa elsewhere and wandering around a poor idea, investigating the smell is our only proactive option. Just standing here isn't going to make us feel any better.\r\n\r\n//　……あー、仕方ねえ。\r\n  Fine, I'll take one for the team!\r\n",
-  "pt": ""
+  "pt": "\r\n//　そんなことは言われるまでもない。\r\n//　全員それがイヤだから、ここでああだこうだと言い\r\n//合ってるんだろうに。\r\n  Claro. Estamos aqui conversando justamente porque não <I>queremos</I>㉑ver o que tem dentro.\r\n\r\n//　匂いは悪いが物は良い、なんてのはくさやとチーズ\r\n//とドリアンくらいのものだ。\r\n//　悪臭の根源は大概、人間にとって嬉しくもなんとも\r\n//ない代物と決まっている。\r\n  As únicas coisas boas que cheiram mal são grama cortada, queijo e durião. No geral, tudo o que fede costuma ser desagradável.\r\n\r\n//　といって、鈴川もいない、うかつに歩き回りたくも\r\n//ないという状況では、その臭気の元を確認する以外に\r\n//これといって前向きな行動選択もなかった。\r\n//　ただ突っ立って待つのも落ち着かない話。\r\n  Mas, com Suzukawa fora de vista e com pouca vontade de sair andando por aí, investigar o cheiro é a única atitude positiva que nos resta. Ficar parado aqui não vai nos deixar mais tranquilos.\r\n\r\n//　……あー、仕方ねえ。\r\n  ...Ah, que seja. Vou lá eu.\r\n"
  },
  {
   "offset": 13226,
   "en": "\r\n//　おれは恐る恐るに、箱の方へと近づいた。\r\n//　ネズミの群れとか飛び出してきたらヤだなぁと思い\r\n//つつ。\r\n  I creep up to the row of boxes, half expecting a horde of rats or something to burst out the second I approach.\r\n\r\n\r\n//　箱はプラスチック製。\r\n//　別に鍵などは掛かっておらず、ただ上から蓋を被せ\r\n//てあるだけのようだった。\r\n  The boxes are plastic, the covers unlocked. Looks like they'll lift right off.\r\n\r\n//　簡単に開けられそうだ。\r\n//　嬉しくねぇ。\r\n  Shit.\r\n\r\n//　ちょいちょい、と側面を指でつついてみる。\r\n  I tap the side of one box timidly.\r\n",
-  "pt": ""
+  "pt": "\r\n//　おれは恐る恐るに、箱の方へと近づいた。\r\n//　ネズミの群れとか飛び出してきたらヤだなぁと思い\r\n//つつ。\r\n  Eu me aproximo da fileira de caixas, meio esperando que um bando de ratos ou alguma coisa assim saia correndo no segundo em que eu chegar perto.\r\n\r\n\r\n//　箱はプラスチック製。\r\n//　別に鍵などは掛かっておらず、ただ上から蓋を被せ\r\n//てあるだけのようだった。\r\n  As caixas são de plástico, as tampas soltas. Parece que dá pra tirar sem esforço.\r\n\r\n//　簡単に開けられそうだ。\r\n//　嬉しくねぇ。\r\n  Merda.\r\n\r\n//　ちょいちょい、と側面を指でつついてみる。\r\n  Toco a lateral de uma caixa com a ponta dos dedos, sem jeito.\r\n"
  },
  {
   "offset": 13926,
   "en": "\r\n//　かすかにチャポンという音がした。\r\n//　どうやら忠保の鼻は確かだったらしい。\r\n  I hear a soft sloshing. Tadayasu's nose was right on the money.\r\n\r\n//　縁に手をかける。\r\n//　一度深呼吸し、息を止めて、おれは蓋を開け放った。\r\n  I set my fingers under the lid. Then I take a deep breath, hold it, and throw the box open.\r\n",
-  "pt": ""
+  "pt": "\r\n//　かすかにチャポンという音がした。\r\n//　どうやら忠保の鼻は確かだったらしい。\r\n  Ouço um barulhinho de água. O nariz de Tadayasu estava certinho.\r\n\r\n//　縁に手をかける。\r\n//　一度深呼吸し、息を止めて、おれは蓋を開け放った。\r\n  Enfio os dedos sob a tampa. Então respiro fundo, seguro a respiração e escancaro a caixa.\r\n"
  },
  {
   "offset": 14326,
   "en": "\r\n//　……箱の中身はおよそ、おれの予測とはかけ離れて\r\n//いた。\r\n  Inside, I find just about the last thing I expected.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……箱の中身はおよそ、おれの予測とはかけ離れて\r\n//いた。\r\n  Lá dentro, encontro quase a última coisa que eu esperava.\r\n"
  },
  {
   "offset": 14481,
@@ -222,52 +222,52 @@
  {
   "offset": 14605,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180330b43'>\r\n//「雄飛？」\r\n\"Yuhi?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180330b43'>\r\n//「雄飛？」\r\n\"Yuhi?\"\r\n"
  },
  {
   "offset": 14725,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180340b33'>\r\n//「……何なの？」\r\n\"What is it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180340b33'>\r\n//「……何なの？」\r\n\"O que é?\"\r\n"
  },
  {
   "offset": 14860,
   "en": "\r\n//　おれと同じように危険物を想像して備えていたのだ\r\n//ろう、鼻を押さえつつ、二人が口々に問う。\r\n//　おれは見たままを告げるしかなかった。\r\n  Konatsu and Tadayasu are pinching their noses, ready for whatever horrible thing I might uncover. Sorry to disappoint them.\r\n",
-  "pt": ""
+  "pt": "\r\n//　おれと同じように危険物を想像して備えていたのだ\r\n//ろう、鼻を押さえつつ、二人が口々に問う。\r\n//　おれは見たままを告げるしかなかった。\r\n  Konatsu e Tadayasu estão apertando o nariz, prontos para qualquer coisa horrível que eu venha a encontrar. Desculpa decepcioná-los.\r\n"
  },
  {
   "offset": 15198,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180350b56'>\r\n//「……花だ」\r\n\"...Flowers.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180350b56'>\r\n//「……花だ」\r\n\"...Flores.\"\r\n"
  },
  {
   "offset": 15327,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180360b43'>\r\n//「はぁ？」\r\n\"Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/ma01/0180360b43'>\r\n//「はぁ？」\r\n\"Hã?\"\r\n"
  },
  {
   "offset": 15446,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180370b56'>\r\n//「だから、花……」\r\n\"It's flowers.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180370b56'>\r\n//「だから、花……」\r\n\"São flores.\"\r\n"
  },
  {
   "offset": 15586,
   "en": "\r\n//　花だった。\r\n//　箱一杯の花。\r\n\r\n//　……なんでやねん。\r\n\r\n//　箱は水で満たされ、その水面一面を花弁が覆い尽く\r\n//している。色は紫。珍しくもないよく見かける花。\r\n//　<RUBY text='コスモス'>秋桜</RUBY>だ。\r\n  A box of flowers. The hell?\r\n\r\n  The box is full to the brim with water, and flower petals cover the surface. The flowers are purple: cosmos, the sort you can find growing anywhere.\r\n",
-  "pt": ""
+  "pt": "\r\n//　花だった。\r\n//　箱一杯の花。\r\n\r\n//　……なんでやねん。\r\n\r\n//　箱は水で満たされ、その水面一面を花弁が覆い尽く\r\n//している。色は紫。珍しくもないよく見かける花。\r\n//　<RUBY text='コスモス'>秋桜</RUBY>だ。\r\n  Uma caixa de flores. Que porra é essa?\r\n\r\n  A caixa está cheia até a borda de água, e as pétalas cobrem toda a superfície. As flores são roxas: cosmos, do tipo que cresce em qualquer lugar.\r\n"
  },
  {
   "offset": 16067,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180380b33'>\r\n//「花って。\r\n//　なんでそんなのがわざわざ箱に納まってる\r\n//のよ」\r\n\"Flowers? Why would someone stuff flowers in a box?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/ma01/0180380b33'>\r\n//「花って。\r\n//　なんでそんなのがわざわざ箱に納まってる\r\n//のよ」\r\n\"Flores? Por que alguém enfiaria flores numa caixa?\"\r\n"
  },
  {
   "offset": 16309,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180390b56'>\r\n//「おれが聞きたい」\r\n\"That's what I wanna know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180390b56'>\r\n//「おれが聞きたい」\r\n\"É o que eu queria saber.\"\r\n"
  },
  {
   "offset": 16461,
   "en": "\r\n//　半信半疑なのか、まだ鼻を覆う手はどかさないまま、\r\n//二人が寄ってくる。\r\n//　おれはそろそろ、息が<RUBY text='も'>保</RUBY>たなくなってきていた。\r\n  They approach, still pinching their noses as if they don't believe me. I've just about reached the limit of holding my breath.\r\n\r\n//　慎重に、呼吸を再開する。\r\n  I inhale, slowly and carefully.\r\n\r\n//　……最初に感じたのは薬品臭。\r\n//　ただの水ではないのだろうか？\r\n  The first thing I smell is some kind of chemical. This isn't just regular water?\r\n\r\n//　そして――\r\n  And then―\r\n",
-  "pt": ""
+  "pt": "\r\n//　半信半疑なのか、まだ鼻を覆う手はどかさないまま、\r\n//二人が寄ってくる。\r\n//　おれはそろそろ、息が<RUBY text='も'>保</RUBY>たなくなってきていた。\r\n  Elas se aproximam, ainda apertando o nariz, como se não acreditassem em mim. Eu já estou quase no limite de prender a respiração.\r\n\r\n//　慎重に、呼吸を再開する。\r\n  Inspiro, devagar e com cuidado.\r\n\r\n//　……最初に感じたのは薬品臭。\r\n//　ただの水ではないのだろうか？\r\n  A primeira coisa que sinto é um cheiro de produto químico. Isso não é água comum?\r\n\r\n//　そして――\r\n  E então―\r\n"
  },
  {
   "offset": 17111,
@@ -277,17 +277,17 @@
  {
   "offset": 17220,
   "en": "\r\n//　危うく。\r\n//　おれはその場で卒倒しかけた。\r\n  I nearly pass out right there.\r\n\r\n//　なんだ!?\r\n//　<RUBY text='・・・・・・・・'>なんだこの匂いは</RUBY>。\r\n  What the― \r\n  What the hell is this smell!?\r\n\r\n//　悪臭……いや。\r\n//　そんなもんじゃない。\r\n//　<RUBY text='・・・・・・・・・'>そんなものではない</RUBY>。\r\n  It stinks to high heaven. No, worse than that. How can I describe it!?\r\n\r\n//　暴力。\r\n//　臭気の暴力。殴打的臭気。\r\n  It is violence―pure, olfactory violence―<br>assaulting my nostrils like a physical blow.\r\n\r\n//　<RUBY text='・・・・・・・'>あまりの悪臭に</RUBY>、<RUBY text='・・・・・・・・・・'>認識が一瞬遅れたほど</RUBY>。\r\n//　そうと気付かず沸騰したやかんに触れた時のように。\r\n  The stench is so terrible, so unimaginably putrid, that for an instant my mind was unable to register it, just like when you touch a boiling kettle and it takes a second to scream.\r\n\r\n//　こんな匂いは知らない。\r\n//　いや知っている……。\r\n//　\r\n//　どっちだ!?\r\n  I've never smelled anything like this before.<K>\r\n  No... I have.<k>\r\n  Which is it!?\r\n\r\n//　……この匂いは知らないが、<RUBY text='・・・・'>こうなる</RUBY>匂いは知って\r\n//いる。\r\n  I don't know this smell, but I know what it <I>means.</I>\r\n\r\n//　それは。\r\n//　それは。\r\n  It means...<K>\r\n  It means―\r\n\r\n//　臭気はおれの脳まで揺らしていたのか。\r\n//　視界が傾き、たたらを踏む。\r\n  The stench must have shorted out my brain. The world tilts beneath my feet.\r\n",
-  "pt": ""
+  "pt": "\r\n//　危うく。\r\n//　おれはその場で卒倒しかけた。\r\n  Quase desmaio ali mesmo.\r\n\r\n//　なんだ!?\r\n//　<RUBY text='・・・・・・・・'>なんだこの匂いは</RUBY>。\r\n  Mas que― \r\n  Que porra de cheiro é esse!?\r\n\r\n//　悪臭……いや。\r\n//　そんなもんじゃない。\r\n//　<RUBY text='・・・・・・・・・'>そんなものではない</RUBY>。\r\n  Fede horrores. Não, pior que isso. Como é que eu descrevo!?\r\n\r\n//　暴力。\r\n//　臭気の暴力。殴打的臭気。\r\n  É violência ― pura violência olfativa ― atacando minhas narinas como um golpe físico.\r\n\r\n//　<RUBY text='・・・・・・・'>あまりの悪臭に</RUBY>、<RUBY text='・・・・・・・・・・'>認識が一瞬遅れたほど</RUBY>。\r\n//　そうと気付かず沸騰したやかんに触れた時のように。\r\n  O fedor é tão terrível, tão inimaginavelmente pútrido, que por um instante minha mente não conseguiu registrá-lo, como quando você encosta numa chaleira fervendo e demora um segundo pra gritar.\r\n\r\n//　こんな匂いは知らない。\r\n//　いや知っている……。\r\n//　\r\n//　どっちだ!?\r\n  Nunca senti nada parecido antes.<K>\r\n  Não... já senti.<k>\r\n  Qual é que é!?\r\n\r\n//　……この匂いは知らないが、<RUBY text='・・・・'>こうなる</RUBY>匂いは知って\r\n//いる。\r\n  Não conheço esse cheiro, mas sei o que ele <I>significa.</I>\r\n\r\n//　それは。\r\n//　それは。\r\n  Significa...<K>\r\n  Significa―\r\n\r\n//　臭気はおれの脳まで揺らしていたのか。\r\n//　視界が傾き、たたらを踏む。\r\n  O fedor deve ter fritado meu cérebro. O mundo se inclina sob os meus pés.\r\n"
  },
  {
   "offset": 18927,
   "en": "\r\n//　バランスを崩したおれの体が支えを求めて、箱の縁\r\n//を片手でつかんだ。\r\n//　しかし場所が悪かったらしい。その瞬間箱はくるり\r\n//と回り、中身を床に投げ出した。\r\n  My falling body flails for purchase, and my hand catches the edge of the box. It topples, spilling its contents across the floor.\r\n",
-  "pt": ""
+  "pt": "\r\n//　バランスを崩したおれの体が支えを求めて、箱の縁\r\n//を片手でつかんだ。\r\n//　しかし場所が悪かったらしい。その瞬間箱はくるり\r\n//と回り、中身を床に投げ出した。\r\n  Meu corpo, perdendo o equilíbrio, tateia em busca de apoio, e minha mão agarra a borda da caixa. Ela tomba, derramando o conteúdo pelo chão.\r\n"
  },
  {
   "offset": 19302,
   "en": "\r\n//　転がり出る。\r\n//　転がり出てくる。\r\n  It comes like a tidal wave, washing over me.\r\n\r\n//　それは何だ。\r\n//　花。\r\n//　水。\r\n  What is that?\r\n  Flowers.\r\n  Water.\r\n\r\n//　そしてそれ以外。\r\n//　それは何だ。\r\n  And something else.\r\n  What is that?\r\n\r\n//　せ<k>\r\n//　\r\n//　　　　　　　　制服\r\n  A<k>\r\n　\r\n　　　　　　　　uniform\r\n\r\n//　制服だ。制服。うちの学校の制服。女子用の。\r\n//　見覚えがある。あるに決まってる。いや、そういう\r\n//意味じゃない。\r\n  A uniform. A school uniform. Our school. Girl's uniform.\r\n  I recognize it. Of course. It's from our school.\r\n  That's not why.\r\n\r\n//　あと、鞄、<k>\r\n//　\r\n//　　　　　　　　　鞄がある、\r\n  And then, a bag<k>\r\n　\r\n　　　　　　　　　a schoolbag\r\n\r\n//　ちゃらりと鳴った、<k>\r\n//途中で切れてる、<k>\r\n//　　　　　　　　　　　　　　　　　　　　イルカ\r\n  And hanging from the strap<k>\r\n \r\nis part of a<k>\r\n \r\n　　　　　　　　　　　　　　　　　　　　dolphin\r\n",
-  "pt": ""
+  "pt": "\r\n//　転がり出る。\r\n//　転がり出てくる。\r\n  Vem como uma onda, me cobrindo por completo.\r\n\r\n//　それは何だ。\r\n//　花。\r\n//　水。\r\n  O que é isso?\r\n  Flores.\r\n  Água.\r\n\r\n//　そしてそれ以外。\r\n//　それは何だ。\r\n  E outra coisa.\r\n  O que é isso?\r\n\r\n//　せ<k>\r\n//　\r\n//　　　　　　　　制服\r\n  Um<k>\r\n　\r\n　　　　　　　　uniforme\r\n\r\n//　制服だ。制服。うちの学校の制服。女子用の。\r\n//　見覚えがある。あるに決まってる。いや、そういう\r\n//意味じゃない。\r\n  Um uniforme. Uniforme escolar. Da nossa escola. Uniforme feminino.\r\n  Eu reconheço. Claro que reconheço. É da nossa escola.\r\n  Não é por isso.\r\n\r\n//　あと、鞄、<k>\r\n//　\r\n//　　　　　　　　　鞄がある、\r\n  E então, uma bolsa<k>\r\n　\r\n　　　　　　　　　uma mochila escolar\r\n\r\n//　ちゃらりと鳴った、<k>\r\n//途中で切れてる、<k>\r\n//　　　　　　　　　　　　　　　　　　　　イルカ\r\n  E pendurado na alça<k>\r\n \r\ntem parte de um<k>\r\n \r\n　　　　　　　　　　　　　　　　　　　　golfinho\r\n"
  },
  {
   "offset": 20427,
@@ -297,21 +297,21 @@
  {
   "offset": 20608,
   "en": "\r\n//　小夏がなんか叫んでいる。\r\n//　ああああうるせぇ。考えの邪魔だろ。みろ今まで何\r\n//考えてたんだったか忘れちまったろーが！\r\n  Konatsu is shouting something. Shut up, will you! Can't you see I'm trying to think!?\r\n\r\n//　ええとなんだっけなんだっけか。\r\n//　そう制服。制服と鞄。\r\n//　あと何だ。あと見えるものはなんだ。\r\n  Where was I? Right. A uniform. A uniform and a schoolbag. And then what? What else is there?\r\n\r\n//　制服の隙間に何か見えるじゃないか。\r\n//　何だそれ。\r\n  There's something inside the uniform. What is that?\r\n\r\n//　ああくそ誰だよ。おれの目の前で手をぶんぶん振り\r\n//回している奴は。邪魔だろうが。\r\n//　忠保か？　違うか。あいつは床にへたり込んでいや\r\n//がる。何やってんだ。ケツ汚れるぞ。\r\n  Shit! Who's the asshole waving his hands in my face!? I'm trying to see here!\r\n\r\n  Tadayasu? No. He's sitting on the floor over there. The hell're you doing? You're gonna get your ass dirty.\r\n\r\n//　ああくそ見えねえ。\r\n//　誰の手だよ！\r\n  I can't see, dammit! Whose hands are these!?\r\n\r\n//　なんだおれの手か。\r\n  Oh. They're my hands.\r\n\r\n//　邪魔だ、どけ。\r\n//　おれは何があるのか見たいんだ。\r\n  Out of the way, hands. I'm trying to see here.\r\n\r\n//　だからおれの首！　勝手によそを向くんじゃねえ！\r\n//　ちゃんと見ろよ。\r\n  Now you're fucking with me too, neck!? Stop turning away! Look at it, man!\r\n\r\n//　何がある。\r\n//　何があるんだ。\r\n  There's something there. What is it?\r\n\r\n//　制服。\r\n//　その中身。\r\n  A uniform. And inside the uniform―\r\n",
-  "pt": ""
+  "pt": "\r\n//　小夏がなんか叫んでいる。\r\n//　ああああうるせぇ。考えの邪魔だろ。みろ今まで何\r\n//考えてたんだったか忘れちまったろーが！\r\n  Konatsu está gritando alguma coisa. Cala a boca, porra! Não tá vendo que eu tô tentando pensar!?\r\n\r\n//　ええとなんだっけなんだっけか。\r\n//　そう制服。制服と鞄。\r\n//　あと何だ。あと見えるものはなんだ。\r\n  Onde eu estava? Certo. Um uniforme. Um uniforme e uma mochila. E depois o quê? O que mais tem aí?\r\n\r\n//　制服の隙間に何か見えるじゃないか。\r\n//　何だそれ。\r\n  Tem alguma coisa dentro do uniforme. O que é isso?\r\n\r\n//　ああくそ誰だよ。おれの目の前で手をぶんぶん振り\r\n//回している奴は。邪魔だろうが。\r\n//　忠保か？　違うか。あいつは床にへたり込んでいや\r\n//がる。何やってんだ。ケツ汚れるぞ。\r\n  Merda! Quem é o babaca que tá acenando com as mãos na minha cara!? Eu tô tentando ver aqui!\r\n\r\n  Tadayasu? Não. Ele tá sentado no chão ali. Que porra você tá fazendo? Vai sujar a bunda.\r\n\r\n//　ああくそ見えねえ。\r\n//　誰の手だよ！\r\n  Não consigo ver, porra! De quem são essas mãos!?\r\n\r\n//　なんだおれの手か。\r\n  Ah. São as minhas mãos.\r\n\r\n//　邪魔だ、どけ。\r\n//　おれは何があるのか見たいんだ。\r\n  Sai da frente, mãos. Eu tô tentando ver aqui.\r\n\r\n//　だからおれの首！　勝手によそを向くんじゃねえ！\r\n//　ちゃんと見ろよ。\r\n  Agora você também tá me sacaneando, pescoço!? Para de virar pro lado! Olha lá, cara!\r\n\r\n//　何がある。\r\n//　何があるんだ。\r\n  Tem alguma coisa ali. O que é?\r\n\r\n//　制服。\r\n//　その中身。\r\n  Um uniforme. E dentro do uniforme―\r\n"
  },
  {
   "offset": 22382,
   "en": "\r\n//　今度はそこにびしゃりと何かが引っ掛けられた。\r\n//　<RUBY text='ゲロ'>吐瀉</RUBY>かよ！　誰だよ！　いい加減にしろよなオイ。\r\n  Something splashes across the thing. Is this puke!? Who did this!? Get ahold of yourself!\r\n\r\n//　でもなんか見た目あんまり変わらねえ。\r\n//　反吐をかけられたその何かも、反吐と大差ない物体\r\n//だった。\r\n  The puke doesn't change how it looks much, though. It was pretty nasty to begin with.\r\n\r\n//　それは黒かったり、\r\n//　白かったり、\r\n//　ピンクだったり、\r\n//　一番多いのは濃い灰色か、\r\n  All black and pink and white―and gray. There's an awful lot of gray.\r\n\r\n//　そんなややこしい色合いをしたもので、\r\n//　そしてその形は、\r\n  But despite all the colors,\r\n\r\n//　見覚えが　あって、\r\n  I     recognize      it\r\n\r\n//　まだ　　<RUBY text='スガタ'>原型</RUBY>を　　　　留めていて\r\n  It still\r\n                              has \r\n              the same\r\n                                         shape\r\n\r\n//　だからわかった\r\n  So I can tell\r\n\r\n//　それは　　　　人で\r\n  It's\r\n \r\n                    a person\r\n\r\n//　知っている人で\r\n  A person I know\r\n\r\n//　とても良く知っている人で\r\n\r\n//　とてもあいたかったひとで\r\n\r\n//　さがしていた\r\n  I've been looking for you\r\n\r\n//　よかっ　た\r\n  There   you are\r\n\r\n//　やっとみつけた　だいじな　ひと\r\n\r\n\r\n//　おまえ　だろ？\r\n  It's     you     right?\r\n\r\n//　そうだろ\r\n  Right?\r\n\r\n//　なあ\r\n//\r\n//　　　　　　　　リ\r\n//　　　　　　　　　　　　　　　　　　　ツ\r\n//　　？\r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n                Say something\r\n\r\n \r\n \r\n \r\n \r\n \r\n　　　　　　　　Ri\r\n　　　　　　　　　　　　　　　　　　　tsu\r\n",
-  "pt": ""
+  "pt": "\r\n//　今度はそこにびしゃりと何かが引っ掛けられた。\r\n//　<RUBY text='ゲロ'>吐瀉</RUBY>かよ！　誰だよ！　いい加減にしろよなオイ。\r\n  Alguma coisa respinga em cima daquilo. Isso é vômito!? Quem fez isso!? Se controle!\r\n\r\n//　でもなんか見た目あんまり変わらねえ。\r\n//　反吐をかけられたその何かも、反吐と大差ない物体\r\n//だった。\r\n  Mas o vômito não muda muito a aparência. Já era bem nojento desde o começo.\r\n\r\n//　それは黒かったり、\r\n//　白かったり、\r\n//　ピンクだったり、\r\n//　一番多いのは濃い灰色か、\r\n  Tudo preto, rosa e branco ― e cinza. Tem cinza demais.\r\n\r\n//　そんなややこしい色合いをしたもので、\r\n//　そしてその形は、\r\n  Mas apesar de todas as cores,\r\n\r\n//　見覚えが　あって、\r\n  Eu     reconheço      aquilo\r\n\r\n//　まだ　　<RUBY text='スガタ'>原型</RUBY>を　　　　留めていて\r\n  Ainda\r\n                              tem \r\n              a mesma\r\n                                         forma\r\n\r\n//　だからわかった\r\n  Então eu consigo saber\r\n\r\n//　それは　　　　人で\r\n  É\r\n \r\n                    uma pessoa\r\n\r\n//　知っている人で\r\n  Uma pessoa que eu conheço\r\n\r\n//　とても良く知っている人で\r\n\r\n//　とてもあいたかったひとで\r\n\r\n//　さがしていた\r\n  Eu estava te procurando\r\n\r\n//　よかっ　た\r\n  Achei   você\r\n\r\n//　やっとみつけた　だいじな　ひと\r\n\r\n\r\n//　おまえ　だろ？\r\n  É     você     né?\r\n\r\n//　そうだろ\r\n  Né?\r\n\r\n//　なあ\r\n//\r\n//　　　　　　　　リ\r\n//　　　　　　　　　　　　　　　　　　　ツ\r\n//　　？\r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n \r\n                Diz alguma coisa\r\n\r\n \r\n \r\n \r\n \r\n \r\n　　　　　　　　Ri\r\n　　　　　　　　　　　　　　　　　　　tsu\r\n"
  },
  {
   "offset": 24316,
   "en": "\r\n//　\r\n//　　　　　　　　　　頭<k>の<k>な<k>い、<k>\r\n//　　　　　　　　　　い<k>る<k>か<k>。\r\n　\r\n \r\n \r\n \r\n \r\n    The dolphin<k> has<k> no<k> head.\r\n",
-  "pt": ""
+  "pt": "\r\n//　\r\n//　　　　　　　　　　頭<k>の<k>な<k>い、<k>\r\n//　　　　　　　　　　い<k>る<k>か<k>。\r\n　\r\n \r\n \r\n \r\n \r\n    O golfinho<k> não<k> tem<k> cabeça.\r\n"
  },
  {
   "offset": 24505,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180420b56'>\r\n//「ぎゃああああああああああああああああ!!」\r\n\"AAAAHHHHHHHHHHHH!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/ma01/0180420b56'>\r\n//「ぎゃああああああああああああああああ!!」\r\n\"AAAAAAAAAAAAAAAAH!!\"\r\n"
  }
 ]

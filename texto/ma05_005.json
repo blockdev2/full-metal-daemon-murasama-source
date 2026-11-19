@@ -2,97 +2,97 @@
  {
   "offset": 213,
   "en": "\r\n//【ｅｔｃ／光の後輩】\r\n<voice name='ｅｔｃ／光の後輩' class='その他女声' src='voice/ma05/0050010e070'>\r\n//「光さまっ！\r\n//　あの、この手紙を受け取ってくださ」\r\n\"M- My lady! Please read this letter I wro―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の後輩】\r\n<voice name='ｅｔｃ／光の後輩' class='その他女声' src='voice/ma05/0050010e070'>\r\n//「光さまっ！\r\n//　あの、この手紙を受け取ってくださ」\r\nMinha... Minha senhora! Por favor, leia esta carta que eu escre―\r\n"
  },
  {
   "offset": 479,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050020a14'>\r\n//「<RUBY text='タイ'>体位</RUBY>が曲がっておるわ!!」\r\n\"Your heart is as crooked as your tie!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050020a14'>\r\n//「<RUBY text='タイ'>体位</RUBY>が曲がっておるわ!!」\r\nA senhora tem o coração tão torto quanto a gravata!\r\n"
  },
  {
   "offset": 672,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050030a00'>\r\n//「……今のは？」\r\n\"...What was that just now?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050030a00'>\r\n//「……今のは？」\r\n...O que foi isso agora?\r\n"
  },
  {
   "offset": 822,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050040a14' time=5800>\r\n//「知らん。この光を冥府魔道に引き込もうと\r\n//図る邪教の輩であろう。\r\n\"Probably one of those fiends who've been trying to lure me into their cult of depravity.\r\n<WaitVoice=5800><?>\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050040a14' time=5800>\r\n//「知らん。この光を冥府魔道に引き込もうと\r\n//図る邪教の輩であろう。\r\nProvavelmente um daqueles facínoras que vivem tentando me atrair para o culto da depravação.\r\n<WaitVoice=5800><?>\r\n"
  },
  {
   "offset": 1128,
   "en": "\r\n//　あんな誘惑には断じて屈さぬから安心する\r\n//がいい、景明」\r\n<voice>\r\n  But I won't give in to their temptations! You can rest easy.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//　あんな誘惑には断じて屈さぬから安心する\r\n//がいい、景明」\r\n<voice>\r\n  Mas eu não vou ceder às tentações deles! Pode ficar tranquilo.\r\n"
  },
  {
   "offset": 1301,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050050a00'>\r\n//「うむ。\r\n//　……なぜ俺が安心するのか良くわからんが」\r\n\"All right. Though I'm not sure what that has to do with me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050050a00'>\r\n//「うむ。\r\n//　……なぜ俺が安心するのか良くわからんが」\r\nCerto. Embora eu não saiba bem o que isso tem a ver comigo.\r\n"
  },
  {
   "offset": 1539,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050060e071'>\r\n//「あ、光サマと兄君だ。\r\n//　おはよー」\r\n\"Well, if it isn't the gallant Prince Hikaru and her brother! Morning!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050060e071'>\r\n//「あ、光サマと兄君だ。\r\n//　おはよー」\r\nOra, se não é o valente Príncipe Hikaru e o irmão dela! Bom dia!\r\n"
  },
  {
   "offset": 1809,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050070a00'>\r\n//「お早うございます」\r\n\"Good morning.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050070a00'>\r\n//「お早うございます」\r\nBom dia.\r\n"
  },
  {
   "offset": 1952,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050080a14'>\r\n//「おはよう。\r\n//　サマ言うな」\r\n\"Morning. Stop calling me that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050080a14'>\r\n//「おはよう。\r\n//　サマ言うな」\r\nBom dia. Pare de me chamar assim.\r\n"
  },
  {
   "offset": 2116,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050090e071'>\r\n//「今の子、新顔だよね。\r\n//　これで何人目？　あんたのせいで白い花の\r\n//修羅道に堕ちちゃったのは」\r\n\"That girl was new, wasn't she? How many now have you driven onto the path of lilies and blood?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050090e071'>\r\n//「今の子、新顔だよね。\r\n//　これで何人目？　あんたのせいで白い花の\r\n//修羅道に堕ちちゃったのは」\r\nEssa garota era nova, não era? Quantas agora você já levou para o caminho dos lírios e do sangue?\r\n"
  },
  {
   "offset": 2496,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050100a14'>\r\n//「いちいち数えてるか、そんなもの。\r\n//　あと、おれが原因のような言い方をやめろ」\r\n\"How the devil should I know? And don't say that like it's my fault.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050100a14'>\r\n//「いちいち数えてるか、そんなもの。\r\n//　あと、おれが原因のような言い方をやめろ」\r\nComo diabo eu vou saber? E pare de falar como se a culpa fosse minha.\r\n"
  },
  {
   "offset": 2772,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050110e071'>\r\n//「原因がどっちかと言えば、それはあんたの\r\n//方だと思うけどなぁ……」\r\n\"But it is your fault, when you think about it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050110e071'>\r\n//「原因がどっちかと言えば、それはあんたの\r\n//方だと思うけどなぁ……」\r\nMas, pensando bem, a culpa é sua.\r\n"
  },
  {
   "offset": 3064,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050120a14'>\r\n//「納得がいかぬ。\r\n//　おれの何が悪いというのだ」\r\n\"Impossible. What have I done to warrant blame?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050120a14'>\r\n//「納得がいかぬ。\r\n//　おれの何が悪いというのだ」\r\nImpossível. O que eu fiz para merecer culpa?\r\n"
  },
  {
   "offset": 3271,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050130e071'>\r\n//「何がってその喋りが……\r\n//　や、そんな端的な問題じゃないなぁ」\r\n\"Well, there's the way you talk, like some kinda samurai... but it's not really any one thing.\"\r\n\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050140e071'>\r\n//「あんたの全存在が問題」\r\n\"It's㉓<I>everything!</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050130e071'>\r\n//「何がってその喋りが……\r\n//　や、そんな端的な問題じゃないなぁ」\r\nBem, tem o seu jeito de falar, como um samurai... mas não é bem uma coisa só.\r\n\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050140e071'>\r\n//「あんたの全存在が問題」\r\nÉ㉓<I>tudo!</I>\r\n"
  },
  {
   "offset": 3803,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050150a14'>\r\n//「どうしようもないじゃないか」\r\n\"So it's hopeless.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050150a14'>\r\n//「どうしようもないじゃないか」\r\nEntão não tem jeito.\r\n"
  },
  {
   "offset": 3956,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050160e071'>\r\n//「でも、そうだし。\r\n//　ねぇ」\r\n\"Well, yeah. Right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050160e071'>\r\n//「でも、そうだし。\r\n//　ねぇ」\r\nBem, é. Né?\r\n"
  },
  {
   "offset": 4163,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050170a00'>\r\n//「はぁ」\r\n\"Uh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050170a00'>\r\n//「はぁ」\r\nAh...\r\n"
  },
  {
   "offset": 4280,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050180a14'>\r\n//「景明に同意を求めるな！」\r\n\"Don't drag Kageaki into <br>this!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050180a14'>\r\n//「景明に同意を求めるな！」\r\nNão meta o Kageaki nisso!\r\n"
  },
  {
   "offset": 4443,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050190e071'>\r\n//「あんたはフェロモンを発してんのよ。\r\n//　夢見がちな女の子を惹きつけてしまうよう\r\n//な……」\r\n\"You exude these pheromones that make impressionable young girls want to throw themselves at you.\"\r\n\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050200e071'>\r\n//「あたしも時々感じるし、それ」\r\n\"I feel it too, sometimes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050190e071'>\r\n//「あんたはフェロモンを発してんのよ。\r\n//　夢見がちな女の子を惹きつけてしまうよう\r\n//な……」\r\nVocê exala esses feromônios que fazem garotas sonhadoras se atirarem em você.\r\n\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050200e071'>\r\n//「あたしも時々感じるし、それ」\r\nEu também sinto isso, às vezes.\r\n"
  },
  {
   "offset": 5027,
@@ -102,27 +102,27 @@
  {
   "offset": 5136,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050220e071'>\r\n//「距離を置かないように。\r\n//　大丈夫大丈夫。安心して」\r\n\"Why are you inching away like that? Don't worry! You're safe with me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050220e071'>\r\n//「距離を置かないように。\r\n//　大丈夫大丈夫。安心して」\r\nPor que está se afastando assim? Não se preocupe! Você está a salvo comigo.\r\n"
  },
  {
   "offset": 5430,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050230e071'>\r\n//「あたしはお兄さん狙いだから」\r\n\"I'm after your brother here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050230e071'>\r\n//「あたしはお兄さん狙いだから」\r\nEu estou atrás do seu irmão aqui.\r\n"
  },
  {
   "offset": 5649,
   "en": "\r\n//　ぎゅっ。\r\n  <I>Glomp.</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　ぎゅっ。\r\n  <I>Agarra.</I>\r\n"
  },
  {
   "offset": 5695,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050240a00'>\r\n//「あの」\r\n\"Um...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050240a00'>\r\n//「あの」\r\nHã...\r\n"
  },
  {
   "offset": 5812,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050250e071'>\r\n//「お兄さーん。\r\n//　若い女の子は好きですかー？」\r\n\"You like younger girls, don't you,㉓<I>dear brother?</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050250e071'>\r\n//「お兄さーん。\r\n//　若い女の子は好きですかー？」\r\nVocê gosta de garotas mais novas, não gosta,㉓<I>querido irmão?</I>\r\n"
  },
  {
   "offset": 6085,
@@ -132,36 +132,36 @@
  {
   "offset": 6189,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050270e071'>\r\n//「なんの！\r\n//　正確な攻撃は、来るとわかっていれば避ける\r\n//のも容易いかもしれない！」\r\n\"Hah! It's easy to dodge an attack you know is coming! At least, I read that in a manga once!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050270e071'>\r\n//「なんの！\r\n//　正確な攻撃は、来るとわかっていれば避ける\r\n//のも容易いかもしれない！」\r\nHá! É fácil desviar de um ataque que você sabe que vem vindo! Pelo menos, foi o que li num mangá uma vez!\r\n"
  },
  {
   "offset": 6552,
   "en": "\r\n//◆読み方注意\r\n//◆「～そのからだとくにくびのしたふくぶのうえの～」\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050280a14'>\r\n//「勝ち誇るのは三十秒後まで生き延びてからに\r\n//しておけ<RUBY text='アフェンダー'>罪人</RUBY>！\r\n//　景明を誘惑したその身体特に首の下腹部の上\r\n//の忌々しい物体究極許さぬ!!」\r\n\"See if you're still alive thirty seconds from now! I'll tear you to shreds for tempting Kageaki, starting with those foul devices between your neck and abdomen!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆読み方注意\r\n//◆「～そのからだとくにくびのしたふくぶのうえの～」\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050280a14'>\r\n//「勝ち誇るのは三十秒後まで生き延びてからに\r\n//しておけ<RUBY text='アフェンダー'>罪人</RUBY>！\r\n//　景明を誘惑したその身体特に首の下腹部の上\r\n//の忌々しい物体究極許さぬ!!」\r\nVeja se ainda estará viva daqui a trinta segundos! Vou te estraçalhar por tentar seduzir o Kageaki, começando por esses objetos repugnantes entre o seu pescoço e o seu abdômen!\r\n"
  },
  {
   "offset": 7143,
   "en": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050290e071'>\r\n//「はっはー！\r\n//　ここまでおいでってなもんだー！」\r\n\"Haha! Catch me if you can!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／光の友人】\r\n<voice name='ｅｔｃ／光の友人' class='その他女声' src='voice/ma05/0050290e071'>\r\n//「はっはー！\r\n//　ここまでおいでってなもんだー！」\r\nHaha! Me pegue se puder!\r\n"
  },
  {
   "offset": 7388,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050300a14'>\r\n//「貴様ぁ！　逃すか！\r\n//　景明、ではここで。いってきます！」\r\n\"Get back here, wretch!\r\n  I'm off, Kageaki. Farewell!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050300a14'>\r\n//「貴様ぁ！　逃すか！\r\n//　景明、ではここで。いってきます！」\r\nVolte aqui, desgraçada!\r\n  Estou indo, Kageaki. Até mais!\r\n"
  },
  {
   "offset": 7620,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050310a00'>\r\n//「行ってくるように。\r\n//　走るのは良いが、車には注意する事」\r\n\"Have a good day at school. If you must run, at least watch for traffic.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050310a00'>\r\n//「行ってくるように。\r\n//　走るのは良いが、車には注意する事」\r\nTenha um bom dia na escola. Se precisar correr, ao menos fique atenta ao trânsito.\r\n"
  },
  {
   "offset": 7879,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050320a14'>\r\n//「諒解！」\r\n\"Understood!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/ma05/0050320a14'>\r\n//「諒解！」\r\nEntendido!\r\n"
  },
  {
   "offset": 7996,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050330a00'>\r\n//「……<RUBY text='はやがけ'>長足術</RUBY>まで使わなくとも。\r\n//　相手は陸上部か？　いい勝負だな……」\r\n\"...Surely the hayagake running technique is overkill. Is her friend on the track team? Not a bad match-up.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma05/0050330a00'>\r\n//「……<RUBY text='はやがけ'>長足術</RUBY>まで使わなくとも。\r\n//　相手は陸上部か？　いい勝負だな……」\r\n...Certamente não precisa usar a técnica de corrida hayagake. A amiga dela está no clube de atletismo? Não é um mau confronto.\r\n"
  }
 ]

@@ -2,51 +2,51 @@
  {
   "offset": 215,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/018vs0010a01'>\r\n//《敵騎、捕捉！》\r\n《Target in sight!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/018vs0010a01'>\r\n//《敵騎、捕捉！》\r\n《Alvo à vista!》\r\n"
  },
  {
   "offset": 367,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/018vs0020a00'>\r\n//「応！」\r\n\"Affirmative!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/018vs0020a00'>\r\n//「応！」\r\n\"Confirmado!\"\r\n"
  },
  {
   "offset": 493,
   "en": "\r\n//　馳せ参ず。\r\n//　余りにも遅きに失し、あるいは、間に合わなかった\r\n//のではないか――という疑念さえ<RUBY text='よ'>過</RUBY>ぎるも。\r\n  I fly like the wind, the creature once more looming large before me. Fear that I am too late gnaws at me, but I banish it from my mind. I can only fight for every last second and hope that will be enough.\r\n\r\n//　今は迷いを抱くべからず。\r\n//　時に残余があるを信じ、一瞬一毫を惜しんで駆ける。\r\n",
-  "pt": ""
+  "pt": "\r\n//　馳せ参ず。\r\n//　余りにも遅きに失し、あるいは、間に合わなかった\r\n//のではないか――という疑念さえ<RUBY text='よ'>過</RUBY>ぎるも。\r\n  Avanço como o vento, a criatura mais uma vez imponente diante de mim. O medo de chegar tarde demais me corrói, mas eu o expulso da mente. Só me resta lutar por cada último segundo e esperar que isso baste.\r\n\r\n//　今は迷いを抱くべからず。\r\n//　時に残余があるを信じ、一瞬一毫を惜しんで駆ける。\r\n"
  },
  {
   "offset": 1021,
   "en": "\r\n//　敵の巨躯は正面に有り。\r\n//　地表にあって今は不動。\r\n\r\n//　直前、何事があったのか、かの怪鬼は騎航を乱して\r\n//不時着している。\r\n//　いま漸う、動き出そうとする気配がある。\r\n\r\n//　何処からも攻撃を受けたようには見えなかったが。\r\n//　――そんな思索も後で良し。\r\n  The enemy is on the ground, seemingly immobile. Did something happen to force it to land? It does not appear to be damaged.\r\n\r\n  But I'll worry about that later. I can tell that it's moments from resuming flight!\r\n",
-  "pt": ""
+  "pt": "\r\n//　敵の巨躯は正面に有り。\r\n//　地表にあって今は不動。\r\n\r\n//　直前、何事があったのか、かの怪鬼は騎航を乱して\r\n//不時着している。\r\n//　いま漸う、動き出そうとする気配がある。\r\n\r\n//　何処からも攻撃を受けたようには見えなかったが。\r\n//　――そんな思索も後で良し。\r\n  O inimigo está no solo, aparentemente imóvel. Algo teria acontecido para forçá-lo a pousar? Não parece estar danificado.\r\n\r\n  Mas vou me preocupar com isso depois. Percebo que ele está a instantes de retomar o voo!\r\n"
  },
  {
   "offset": 1621,
   "en": "\r\n//　ひた進む。\r\n  I charge.\r\n\r\n//　劔冑の探査機能か、あるいは仕手の直感か、\r\n//　察したらしい巨大な武者は予想以上に素早い動きで、\r\n//こちらへ主攻正面を転換する。\r\n  Whether it's his instincts or his instruments that warn him, I cannot say, but the titan's pilot responds to my approach far quicker than I anticipated.\r\n\r\n//　砲門群が向く――\r\n//　火を噴き放つ。\r\n  Its cannons turn and spit flame.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ひた進む。\r\n  Eu avanço.\r\n\r\n//　劔冑の探査機能か、あるいは仕手の直感か、\r\n//　察したらしい巨大な武者は予想以上に素早い動きで、\r\n//こちらへ主攻正面を転換する。\r\n  Se é o instinto ou os instrumentos que o alertam, não sei dizer, mas o piloto do titã reage à minha aproximação muito mais rápido do que eu previa.\r\n\r\n//　砲門群が向く――\r\n//　火を噴き放つ。\r\n  Seus canhões se voltam e cospem fogo.\r\n"
  },
  {
   "offset": 2113,
   "en": "\r\n//　委細構わず突き進む。\r\n//　構うだけの余力もない。\r\n  A wall of lead appears to block me, but I charge on, caring not. I have no energy left to evade.\r\n\r\n//　鋼の粒が甲鉄を削り、続く粒が更に削る。\r\n//　卓抜した射撃技量の成し遂げる集中弾が鉄壁を破り\r\n//脆弱な肉に到達するまで、あと何秒が要るのであろう。\r\n  The bullets tear at my armor, a focused barrage that attests to the pilot's skill. I know that I have only a few seconds before they break through to the soft flesh beneath.\r\n\r\n//　そんな危惧が刹那ひらめき、\r\n//　そのまま忘れる。\r\n  A vision of death flares up in my mind, but I banish it and press onward, onward, my every faculty trained on my target, my one chance to bring this beast low.\r\n\r\n//　今は行け。\r\n//　ただ前へ進め。\r\n\r\n//　記憶したその一点。\r\n//　偉容を崩し得る唯一の急所。\r\n\r\n//　仕手の搭乗位置。\r\n//　其処を目掛け。\r\n\r\n//　進む。\r\n  Its cockpit, location burned into my mind, seems to glow like a beacon drawing me in.\r\n\r\n  Just a little more.\r\n",
-  "pt": ""
+  "pt": "\r\n//　委細構わず突き進む。\r\n//　構うだけの余力もない。\r\n  Uma parede de chumbo parece me bloquear, mas avanço mesmo assim, sem me importar. Não me resta energia para desviar.\r\n\r\n//　鋼の粒が甲鉄を削り、続く粒が更に削る。\r\n//　卓抜した射撃技量の成し遂げる集中弾が鉄壁を破り\r\n//脆弱な肉に到達するまで、あと何秒が要るのであろう。\r\n  As balas rasgam minha armadura, uma barragem concentrada que atesta a perícia do piloto. Sei que tenho apenas alguns segundos antes que atravessem até a carne mole por baixo.\r\n\r\n//　そんな危惧が刹那ひらめき、\r\n//　そのまま忘れる。\r\n  Uma visão da morte relampeja em minha mente, mas eu a expulso e sigo em frente, em frente, todas as minhas faculdades voltadas para meu alvo, minha única chance de derrubar esta fera.\r\n\r\n//　今は行け。\r\n//　ただ前へ進め。\r\n\r\n//　記憶したその一点。\r\n//　偉容を崩し得る唯一の急所。\r\n\r\n//　仕手の搭乗位置。\r\n//　其処を目掛け。\r\n\r\n//　進む。\r\n  Seu cockpit, com a localização gravada em minha mente, parece brilhar como um farol que me atrai.\r\n\r\n  Só mais um pouco.\r\n"
  },
  {
   "offset": 3267,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/018vs0030a01'>\r\n//《――御堂！》\r\n《Mido!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/ma04/018vs0030a01'>\r\n//《――御堂！》\r\n《Mido!》\r\n"
  },
  {
   "offset": 3405,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/018vs0040a00'>\r\n//「参る」\r\n\"This ends now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/018vs0040a00'>\r\n//「参る」\r\n\"Isto acaba agora.\"\r\n"
  },
  {
   "offset": 3533,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/018vs0050a00'>\r\n//《吉野御流合戦礼法〝迅雷〟が崩し……》\r\n《Yoshino-onryu Kassen Reiho, adapted from Jinrai―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/018vs0050a00'>\r\n//《吉野御流合戦礼法〝迅雷〟が崩し……》\r\n《Yoshino-onryu Kassen Reiho, adaptado de Jinrai―》\r\n"
  },
  {
   "offset": 3746,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/018vs0060a00'>\r\n//《<RUBY text='レールガン'>電磁抜刀</RUBY>――――〝<RUBY text='マガツ'>禍</RUBY>〟》\r\n《Railgun: Magatsu!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma04/018vs0060a00'>\r\n//《<RUBY text='レールガン'>電磁抜刀</RUBY>――――〝<RUBY text='マガツ'>禍</RUBY>〟》\r\n《Railgun: Magatsu!》\r\n"
  }
 ]

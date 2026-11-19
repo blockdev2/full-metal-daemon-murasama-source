@@ -2,17 +2,17 @@
  {
   "offset": 214,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003b0010a10'>\r\n//「まさか、景明くんが……」\r\n\"You think the kid...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003b0010a10'>\r\n//「まさか、景明くんが……」\r\n\"Você acha que o garoto...\"\r\n"
  },
  {
   "offset": 383,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003b0020a11'>\r\n//「いえ。それはありません。\r\n//　既に確認を取りました。奉刀参拝の当日、\r\n//景明は私の役宅から出ておりません」\r\n\"No, Your Highness. I've confirmed it. He never left my residence on the day of the ceremony.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003b0020a11'>\r\n//「いえ。それはありません。\r\n//　既に確認を取りました。奉刀参拝の当日、\r\n//景明は私の役宅から出ておりません」\r\n\"Não, Vossa Alteza. Eu já confirmei. Ele não saiu da minha residência no dia da cerimônia.\"\r\n"
  },
  {
   "offset": 734,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003b0030a10'>\r\n//「……じゃあ。\r\n//　どういうことやろう？」\r\n\"Okay... So?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003b0030a10'>\r\n//「……じゃあ。\r\n//　どういうことやろう？」\r\n\"Certo... E então?\"\r\n"
  },
  {
   "offset": 916,
@@ -22,16 +22,16 @@
  {
   "offset": 1035,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003b0050a11'>\r\n//「現状では……\r\n//　足利護氏が<RUBY text='・・・・・・・・・・'>八幡宮もろとも消えた</RUBY>、という\r\n//事実以外に」\r\n\"At present, all we know is that Moriuji has vanished... together with Hachiman Shrine.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003b0050a11'>\r\n//「現状では……\r\n//　足利護氏が<RUBY text='・・・・・・・・・・'>八幡宮もろとも消えた</RUBY>、という\r\n//事実以外に」\r\n\"No momento, tudo o que sabemos é que Moriuji desapareceu... junto com o Santuário Hachiman.\"\r\n"
  },
  {
   "offset": 1380,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003b0060a10'>\r\n//「何にも言えんか」\r\n\"That's it, huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/mb01/003b0060a10'>\r\n//「何にも言えんか」\r\n\"É só isso, é?\"\r\n"
  },
  {
   "offset": 1532,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003b0070a11'>\r\n//「はい……」\r\n\"I'm afraid so, Your <br>Highness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/mb01/003b0070a11'>\r\n//「はい……」\r\n\"Receio que sim, Vossa Alteza.\"\r\n"
  }
 ]

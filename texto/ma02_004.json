@@ -2,77 +2,77 @@
  {
   "offset": 213,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040010a00'>\r\n//「鎌倉警察署の湊斗景明です。\r\n//　先程の行為は一身上の都合による振舞い、\r\n//差し出た真似とお咎めなくば重畳。感謝など\r\n//して頂くには及びません」\r\n\"Minato Kageaki, of the Kamakura Police Department. I acted for purely selfish reasons, so there is no need to thank me. It's more than enough that you have not blamed me for interfering in your affairs.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040010a00'>\r\n//「鎌倉警察署の湊斗景明です。\r\n//　先程の行為は一身上の都合による振舞い、\r\n//差し出た真似とお咎めなくば重畳。感謝など\r\n//して頂くには及びません」\r\n“Minato Kageaki, da Delegacia de Polícia de Kamakura. Agi por motivos puramente pessoais, portanto não há por que me agradecer. Já me basta que não me censure por ter me intrometido em seus assuntos.”\r\n"
  },
  {
   "offset": 725,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040020a03'>\r\n//「あら、あら。そんなご謙遜はなさらないで。\r\n//　命を救っておきながら感謝はするななんて、\r\n//それではわたくし、恩知らずの恥知らず者に\r\n//なるしかありませんもの。ねえ、ばあや？」\r\n\"Oh my. Please don't be so modest. If you don't let me thank you for saving my life, that makes me an ingrate. Right, Sayo?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040020a03'>\r\n//「あら、あら。そんなご謙遜はなさらないで。\r\n//　命を救っておきながら感謝はするななんて、\r\n//それではわたくし、恩知らずの恥知らず者に\r\n//なるしかありませんもの。ねえ、ばあや？」\r\n“Ora, ora. Não seja tão modesto. Se não me deixar agradecer por ter salvado minha vida, isso me torna uma ingrata. Não é, Sayo?”\r\n"
  },
  {
   "offset": 1214,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040030a04'>\r\n//「はい。まったくでございます。\r\n//　湊斗さま、大恩ある方とはいえお嬢さまを\r\n//忘恩無恥の輩に貶めるが如きはどうかご遠慮\r\n//願わしゅう存じます」\r\n\"Quite right, Mistress. I know we owe you a great debt, sir, but I must ask that you refrain from forcing my mistress to bear such shame.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040030a04'>\r\n//「はい。まったくでございます。\r\n//　湊斗さま、大恩ある方とはいえお嬢さまを\r\n//忘恩無恥の輩に貶めるが如きはどうかご遠慮\r\n//願わしゅう存じます」\r\n“Perfeitamente, senhora. Sei que lhe devemos uma grande dívida, senhor, mas peço que se abstenha de obrigar minha senhora a carregar tamanha vergonha.”\r\n"
  },
  {
   "offset": 1657,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040040a00'>\r\n//「そのような<RUBY text='つもり'>意図</RUBY>は決して。\r\n//　しかし無礼を申しました。お詫び致します」\r\n\"That was not my intent. However, your point is well taken. I apologize for my rudeness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040040a00'>\r\n//「そのような<RUBY text='つもり'>意図</RUBY>は決して。\r\n//　しかし無礼を申しました。お詫び致します」\r\n“Essa jamais foi minha intenção. No entanto, sua observação é justa. Peço desculpas por minha falta de delicadeza.”\r\n"
  },
  {
   "offset": 1980,
   "en": "\r\n//　……なるほど。\r\n//　確かに、彼女の立場から見ればそういう話か。\r\n  Yes, I suppose that is how she would see it.\r\n\r\n//　彼女に果たして助けが必要だったのか、その点には\r\n//一抹の疑念があるとしても。あの時の彼女の振舞いを\r\n//今にして思い返せば、竜騎兵を相手取っても何らかの\r\n//方法で切り抜ける自信はあったように思える。\r\n  I have some doubt as to whether she even needed my assistance. Judging by her confidence during the confrontation, it seems safe to assume that she had some plan for handling the dragoon and his men.\r\n\r\n//　だがそうとしても、礼節を知る人間であれば、与え\r\n//られた援助を無用と決め付けることに恥を覚えずには\r\n//いられまい。礼にて返すべし、その心情は理解が及ぶ。\r\n//　心中で頷きながら、俺は頭を下げた。\r\n  Even so, I can understand how someone who values courtesy would be ashamed to dismiss help freely given as unnecessary. Were I in her position, I would likely feel the same.\r\n\r\n\r\n\r\n//　女性と老婦が顔を見合わせ、くすくすと笑う。\r\n//　二人にすれば俺のこんな態度も可笑しいのだろうか。\r\n  I bow in apology. Seeing this, the women look at each other and laugh softly. Is my conduct amusing in some way?\r\n\r\n//　――暴兵の手から村人の窮地を救っていたこの女性。\r\n//　俺に言わせれば、彼女が俺に感謝すべき理由は<RUBY text='・・'>本当</RUBY>\r\n//<RUBY text='・・・・・'>に全く無い</RUBY>のだが、それは当人の知る由もない事だ。\r\n  In my humble opinion, this woman who saved the village from Rokuhara's violence has㉓<I>absolutely no reason whatsoever</I>㉔to thank me. But of course, she has no way of knowing that.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……なるほど。\r\n//　確かに、彼女の立場から見ればそういう話か。\r\n  Sim, é assim que ela deve enxergar a situação.\r\n\r\n//　彼女に果たして助けが必要だったのか、その点には\r\n//一抹の疑念があるとしても。あの時の彼女の振舞いを\r\n//今にして思い返せば、竜騎兵を相手取っても何らかの\r\n//方法で切り抜ける自信はあったように思える。\r\n  Tenho certa dúvida se ela sequer precisava da minha ajuda. A julgar pela confiança que demonstrou durante o confronto, é razoável supor que tivesse algum plano para lidar com o dragão e seus homens.\r\n\r\n//　だがそうとしても、礼節を知る人間であれば、与え\r\n//られた援助を無用と決め付けることに恥を覚えずには\r\n//いられまい。礼にて返すべし、その心情は理解が及ぶ。\r\n//　心中で頷きながら、俺は頭を下げた。\r\n  Mesmo assim, compreendo que alguém que preza a cortesia se envergonharia de descartar como inútil uma ajuda oferecida de bom grado. Se eu estivesse em seu lugar, provavelmente sentiria o mesmo.\r\n\r\n\r\n\r\n//　女性と老婦が顔を見合わせ、くすくすと笑う。\r\n//　二人にすれば俺のこんな態度も可笑しいのだろうか。\r\n  Curvo-me em desculpas. Ao ver isso, as mulheres se entreolham e riem baixinho. Será que minha atitude tem algo de engraçado?\r\n\r\n//　――暴兵の手から村人の窮地を救っていたこの女性。\r\n//　俺に言わせれば、彼女が俺に感謝すべき理由は<RUBY text='・・'>本当</RUBY>\r\n//<RUBY text='・・・・・'>に全く無い</RUBY>のだが、それは当人の知る由もない事だ。\r\n  Na minha humilde opinião, esta mulher que salvou o vilarejo da violência de Rokuhara não tem㉓<I>absolutamente motivo algum</I>㉔para me agradecer. Mas, é claro, ela não tem como saber disso.\r\n"
  },
  {
   "offset": 3861,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040050a03'>\r\n//「あらいけない。申し遅れました。\r\n//　ＧＨＱ民政局の、大鳥香奈枝です。恩人に\r\n//先に名乗らせてしまって、こちらこそ無礼を\r\n//お詫びしなくてはなりませんね」\r\n\"Oh, where are my manners? I am Otori Kanae, with the GHQ Civil Affairs Bureau. It is I who must apologize for forcing my savior to introduce himself first.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040050a03'>\r\n//「あらいけない。申し遅れました。\r\n//　ＧＨＱ民政局の、大鳥香奈枝です。恩人に\r\n//先に名乗らせてしまって、こちらこそ無礼を\r\n//お詫びしなくてはなりませんね」\r\n“Ah, que falta de educação a minha. Sou Otori Kanae, do Departamento de Assuntos Civis da GHQ. Sou eu quem deve me desculpar por ter obrigado meu salvador a se apresentar primeiro.”\r\n"
  },
  {
   "offset": 4350,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040060a04'>\r\n//「あ、これはさよがうっかりしておりました。\r\n//村長どのには既に挨拶を済ませていたもので\r\n//……どうかお許しを、湊斗さま。\r\n//　私めは香奈枝の侍従、永倉でございます」\r\n\"Entirely my fault. We'd already introduced ourselves to the mayor, so I thought... Please forgive me. I am Nagakura Sayo, Miss Kanae's humble servant.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040060a04'>\r\n//「あ、これはさよがうっかりしておりました。\r\n//村長どのには既に挨拶を済ませていたもので\r\n//……どうかお許しを、湊斗さま。\r\n//　私めは香奈枝の侍従、永倉でございます」\r\n“Foi inteiramente culpa minha. Já havíamos nos apresentado ao prefeito, então pensei... Por favor, perdoe-me. Sou Nagakura Sayo, humilde serva da senhorita Kanae.”\r\n"
  },
  {
   "offset": 4840,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040070a00'>\r\n//「ご丁寧に。\r\n//　大鳥中尉殿。永倉侍従殿」\r\n\"A pleasure to meet you, Lieutenant Otori, Miss Nagakura.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040070a00'>\r\n//「ご丁寧に。\r\n//　大鳥中尉殿。永倉侍従殿」\r\n“Muito prazer em conhecê-las, tenente Otori, senhorita Nagakura.”\r\n"
  },
  {
   "offset": 5057,
   "en": "\r\n//　各々に向かって一度ずつ礼を返す。\r\n//　女性――大鳥中尉の階級は襟章を見て確認した。\r\n  I bow once to each woman. The lieutenant's rank I gleaned from a look at her collar.\r\n",
-  "pt": ""
+  "pt": "\r\n//　各々に向かって一度ずつ礼を返す。\r\n//　女性――大鳥中尉の階級は襟章を見て確認した。\r\n  Faço uma reverência para cada uma delas. Quanto à patente da tenente, deduzi-a ao olhar a gola de seu uniforme.\r\n"
  },
  {
   "offset": 5283,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040080a00'>\r\n//（しかし……<RUBY text='・・'>大鳥</RUBY>？）\r\n(...<I>Otori?</I>)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040080a00'>\r\n//（しかし……<RUBY text='・・'>大鳥</RUBY>？）\r\n(...<I>Otori?</I>)\r\n"
  },
  {
   "offset": 5456,
   "en": "\r\n//　なかなかもって容易ならない姓だ。\r\n//　しかし、こちらから藪をつつくのは賢明と言い難い\r\n//だろう。ひとまずは聞き流しておくべきと思えた。\r\n  Not a name you often hear in casual conversation.\r\n  However, it would be unwise to pursue the obvious suspicion. I decide to let it pass for now.\r\n",
-  "pt": ""
+  "pt": "\r\n//　なかなかもって容易ならない姓だ。\r\n//　しかし、こちらから藪をつつくのは賢明と言い難い\r\n//だろう。ひとまずは聞き流しておくべきと思えた。\r\n  Não é um sobrenome que se ouça com frequência em conversas casuais.\r\n  Contudo, não seria sensato seguir essa suspeita óbvia. Decido deixar isso passar por ora.\r\n"
  },
  {
   "offset": 5820,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040090a03'>\r\n//「湊斗さまは警察の方なのですね」\r\n\"So you're a police officer?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040090a03'>\r\n//「湊斗さまは警察の方なのですね」\r\n“Então o senhor é policial?”\r\n"
  },
  {
   "offset": 6004,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040100a00'>\r\n//「はい。\r\n//　仔細あって、公式の身分は持ちませんが」\r\n\"Yes, though for various reasons, I do not hold official status.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040100a00'>\r\n//「はい。\r\n//　仔細あって、公式の身分は持ちませんが」\r\n“Sim, embora, por vários motivos, eu não tenha posição oficial.”\r\n"
  },
  {
   "offset": 6243,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040110a03'>\r\n//「あら、やっぱりそうなんですの？\r\n//　寡聞ながら、警察局に武者を擁する部門が\r\n//あるとは耳にしたことがなくて……その辺り、\r\n//詳しくお尋ねしては失礼ですかしら？」\r\n\"Oh, so I was right? I thought that might be the case, since I've never heard of the police keeping musha on call... not that I'm an expert on such matters. Would it be rude of me to inquire further?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040110a03'>\r\n//「あら、やっぱりそうなんですの？\r\n//　寡聞ながら、警察局に武者を擁する部門が\r\n//あるとは耳にしたことがなくて……その辺り、\r\n//詳しくお尋ねしては失礼ですかしら？」\r\n“Ah, então eu estava certa? Imaginei que fosse o caso, já que nunca ouvi falar de policiais mantendo musha à disposição... embora eu não seja especialista no assunto. Seria indelicado da minha parte perguntar mais?”\r\n"
  },
  {
   "offset": 6787,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040120a00'>\r\n//「至極当然の疑問と存じます。\r\n//　しかし、御遠慮頂ければ幸いです」\r\n\"It is a perfectly reasonable line of inquiry. However, your restraint would be greatly appreciated.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040120a00'>\r\n//「至極当然の疑問と存じます。\r\n//　しかし、御遠慮頂ければ幸いです」\r\n“É uma pergunta perfeitamente razoável. No entanto, eu agradeceria muito se a senhora se abstivesse.”\r\n"
  },
  {
   "offset": 7083,
@@ -82,352 +82,352 @@
  {
   "offset": 7210,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040140a00'>\r\n//「大和の武者はなべて六波羅の指揮下に。\r\n//　どうか、そういう事にしておいて頂きたく。\r\n//色々と障りがあります故」\r\n\"There are no Yamatoan musha outside Rokuhara's command. Please leave it at that. Otherwise I may encounter significant difficulties carrying out my mission.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040140a00'>\r\n//「大和の武者はなべて六波羅の指揮下に。\r\n//　どうか、そういう事にしておいて頂きたく。\r\n//色々と障りがあります故」\r\n“Não há musha de Yamato fora do comando de Rokuhara. Por favor, que fique por isso. Caso contrário, posso enfrentar sérias dificuldades no cumprimento da minha missão.”\r\n"
  },
  {
   "offset": 7630,
   "en": "\r\n//　最初から警察などと名乗らなければ面倒もなかった\r\n//のかもしれない。が、どうせこのあと村で捜査活動を\r\n//する際には警察の名で行わざるを得ないのだ。\r\n//　身元不明の外来者では誰も協力などしない。\r\n  It might have been easier just to keep my police ties a secret. Either way, though, I'll have to identify myself as a police officer during my investigation. No one will cooperate with a complete stranger.\r\n\r\n//　となれば当然この中尉の耳にも入るだろう。\r\n//　無用の不審を買わないためにはここで名乗っておか\r\n//ねばならなかった。その上で、話せない事は話せない\r\n//とこれも正直に告げるしかない。\r\n  And of course, it will get back to the lieutenant once I do. Identifying myself now is the best way to avoid courting needless suspicion. For the same reason, I must be honest about what I can and cannot reveal.\r\n\r\n//　それで不興を被るなら、やむ無しというものだった。\r\n  If that earns me her disapproval, so be it.\r\n",
-  "pt": ""
+  "pt": "\r\n//　最初から警察などと名乗らなければ面倒もなかった\r\n//のかもしれない。が、どうせこのあと村で捜査活動を\r\n//する際には警察の名で行わざるを得ないのだ。\r\n//　身元不明の外来者では誰も協力などしない。\r\n  Talvez tivesse sido mais fácil manter em segredo meus vínculos com a polícia. De qualquer forma, porém, terei de me identificar como policial durante a investigação. Ninguém colabora com um completo estranho.\r\n\r\n//　となれば当然この中尉の耳にも入るだろう。\r\n//　無用の不審を買わないためにはここで名乗っておか\r\n//ねばならなかった。その上で、話せない事は話せない\r\n//とこれも正直に告げるしかない。\r\n  E, é claro, isso chegará aos ouvidos da tenente assim que eu o fizer. Identificar-me agora é a melhor maneira de evitar suspeitas desnecessárias. Pelo mesmo motivo, preciso ser sincero sobre o que posso e o que não posso revelar.\r\n\r\n//　それで不興を被るなら、やむ無しというものだった。\r\n  Se isso me rende a desaprovação dela, que assim seja.\r\n"
  },
  {
   "offset": 8748,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040150a04'>\r\n//「お嬢さま……」\r\n\"Mistress...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040150a04'>\r\n//「お嬢さま……」\r\n“Senhora...”\r\n"
  },
  {
   "offset": 8883,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040160a03'>\r\n//「……承知致しました。不躾な質問をお許し\r\n//下さいまし。\r\n//　先程この村で武者同士の戦闘がありました。\r\n//しかしあなたとは無関係」\r\n\"...I understand. Please forgive my thoughtless question. There was a battle between two musha in this village, but you were not involved.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040160a03'>\r\n//「……承知致しました。不躾な質問をお許し\r\n//下さいまし。\r\n//　先程この村で武者同士の戦闘がありました。\r\n//しかしあなたとは無関係」\r\n“...Compreendo. Perdoe minha pergunta indiscreta. Houve uma batalha entre dois musha neste vilarejo, mas o senhor não estava envolvido.”\r\n"
  },
  {
   "offset": 9318,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040170a03'>\r\n//「それでよろしくて？」\r\n\"Will that do?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040170a03'>\r\n//「それでよろしくて？」\r\n“Assim está bem?”\r\n"
  },
  {
   "offset": 9473,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040180a00'>\r\n//「はい。\r\n//　御配慮に感謝します」\r\n\"Yes. Thank you for your consideration.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040180a00'>\r\n//「はい。\r\n//　御配慮に感謝します」\r\n“Sim. Agradeço sua consideração.”\r\n"
  },
  {
   "offset": 9660,
   "en": "\r\n//　少なくとも表面上、大鳥中尉は気分を損じた風では\r\n//なかった。\r\n//　永倉侍従の方は視線にいささかの厳しさを含ませて\r\n//いたが。\r\n  Lieutenant Otori does not seem offended by my reticence, at least on the surface... though the look Miss Nagakura gives me is sharper than before.\r\n",
-  "pt": ""
+  "pt": "\r\n//　少なくとも表面上、大鳥中尉は気分を損じた風では\r\n//なかった。\r\n//　永倉侍従の方は視線にいささかの厳しさを含ませて\r\n//いたが。\r\n  A tenente Otori não parece ofendida com minha reserva, ao menos na superfície... embora o olhar que a senhorita Nagakura me dirige seja mais severo que antes.\r\n"
  },
  {
   "offset": 10007,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040190a03'>\r\n//「鎌倉署から来られたということですけれど、\r\n//この村の駐在の方ではありませんのね？」\r\n\"You said that you're from the Kamakura department. So you're not stationed in this village?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040190a03'>\r\n//「鎌倉署から来られたということですけれど、\r\n//この村の駐在の方ではありませんのね？」\r\n“O senhor disse que vem da delegacia de Kamakura. Então não está lotado neste vilarejo?”\r\n"
  },
  {
   "offset": 10331,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040200a00'>\r\n//「はい。ここへは捜査のため参りました」\r\n\"Correct. I'm here to conduct an investigation.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040200a00'>\r\n//「はい。ここへは捜査のため参りました」\r\n“Correto. Estou aqui para conduzir uma investigação.”\r\n"
  },
  {
   "offset": 10534,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040210a03'>\r\n//「それもお尋ねしない方がよろしいかしら」\r\n\"Should I refrain from asking about that, too?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040210a03'>\r\n//「それもお尋ねしない方がよろしいかしら」\r\n“Devo me abster de perguntar sobre isso também?”\r\n"
  },
  {
   "offset": 10748,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040220a00'>\r\n//「いえ、こちらは差し支えありません」\r\n\"No, this presents no difficulties.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040220a00'>\r\n//「いえ、こちらは差し支えありません」\r\n“Não, isso não apresenta problemas.”\r\n"
  },
  {
   "offset": 10936,
   "en": "\r\n//　無論、吹聴して回られては困るが。\r\n//　この人々ならば心配はいらないだろう。\r\n  It could be troublesome if it starts getting around, but I don't think I have to worry about that with her.\r\n",
-  "pt": ""
+  "pt": "\r\n//　無論、吹聴して回られては困るが。\r\n//　この人々ならば心配はいらないだろう。\r\n  Poderia ser problemático se isso começasse a se espalhar, mas não creio que precise me preocupar com isso no caso dela.\r\n"
  },
  {
   "offset": 11173,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040230a00'>\r\n//「自分の任務は銀星号事件の捜査です」\r\n\"My mission is to locate and stop Ginseigo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040230a00'>\r\n//「自分の任務は銀星号事件の捜査です」\r\n“Minha missão é localizar e deter Ginseigo.”\r\n"
  },
  {
   "offset": 11369,
   "en": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040240e160'>\r\n//「……は？　何ですと!?」\r\n\"What? Ginseigo!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040240e160'>\r\n//「……は？　何ですと!?」\r\n“O quê? Ginseigo!?”\r\n"
  },
  {
   "offset": 11554,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040250a03'>\r\n//「ぎんせいごう……銀星号。\r\n//　さよ。それは、確か……」\r\n\"Ginseigo... the Silver Star... Sayo, is that...?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040250a03'>\r\n//「ぎんせいごう……銀星号。\r\n//　さよ。それは、確か……」\r\n“Ginseigo... a Estrela de Prata... Sayo, isso não é...?”\r\n"
  },
  {
   "offset": 11793,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040260a04'>\r\n//「はい。近年、関東を中心に大活躍中と聞く\r\n//無差別殺戮犯のことかと」\r\n\"Yes, I believe that is what they call the musha whose indiscriminate massacres have terrorized Kanto of <br>late.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040260a04'>\r\n//「はい。近年、関東を中心に大活躍中と聞く\r\n//無差別殺戮犯のことかと」\r\n“Sim, creio que é assim que chamam o musha cujos massacres indiscriminados têm aterrorizado Kanto ultimamente.”\r\n"
  },
  {
   "offset": 12106,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040270a03'>\r\n//「そうよね。\r\n//　あら、まあ……それは大変な……」\r\n\"Yes, of course. Oh my. How terrifying.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040270a03'>\r\n//「そうよね。\r\n//　あら、まあ……それは大変な……」\r\n“Sim, claro. Ora, meu Deus. Que terrível.”\r\n"
  },
  {
   "offset": 12326,
   "en": "\r\n//　……？\r\n\r\n//　大鳥主従の反応はやや鈍かった。話の輪から退いて\r\n//いた格好の村長は愕然とこちらを凝視しているという\r\n//のに、だ。\r\n//　巷の風説を思えば村長の反応の方が自然といえる。\r\n  The GHQ pair's reaction seems a little flat, especially in contrast to the mayor, who is staring at me in shock. Considering Ginseigo's reputation, one can say that the mayor's reaction is more natural.\r\n\r\n//　単に物に動じない質なのかもしれないが……\r\n//　あるいはこの二人、大和に来たのが最近のことなの\r\n//だろうか。ＧＨＱの人間である以上、不思議ではない。\r\n  The two women may just have nerves of steel... or perhaps they were gone from Yamato until recently. That would not be surprising, given their affiliation.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……？\r\n\r\n//　大鳥主従の反応はやや鈍かった。話の輪から退いて\r\n//いた格好の村長は愕然とこちらを凝視しているという\r\n//のに、だ。\r\n//　巷の風説を思えば村長の反応の方が自然といえる。\r\n  A reação do par da GHQ parece um tanto apática, sobretudo em contraste com o prefeito, que me encara em choque. Considerando a reputação de Ginseigo, pode-se dizer que a reação do prefeito é mais natural.\r\n\r\n//　単に物に動じない質なのかもしれないが……\r\n//　あるいはこの二人、大和に来たのが最近のことなの\r\n//だろうか。ＧＨＱの人間である以上、不思議ではない。\r\n  As duas mulheres podem simplesmente ter nervos de aço... ou talvez estivessem fora de Yamato até recentemente. Isso não seria surpreendente, dada sua afiliação.\r\n"
  },
  {
   "offset": 13190,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040280a04'>\r\n//「なるほど、それで劔冑……とと、失礼を」\r\n\"I see. So that's why you have a tsurugi―ah, pardon me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040280a04'>\r\n//「なるほど、それで劔冑……とと、失礼を」\r\n“Entendo. Então é por isso que o senhor tem um tsurugi—ah, perdoe-me.”\r\n"
  },
  {
   "offset": 13406,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040290a03'>\r\n//「ではまさか、あのお代官……ええと、長坂\r\n//大尉？　が、その銀星号の正体なのですか？」\r\n\"So that prefect―Captain Nagasaka?―is Ginseigo? That's difficult to believe.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040290a03'>\r\n//「ではまさか、あのお代官……ええと、長坂\r\n//大尉？　が、その銀星号の正体なのですか？」\r\n“Então aquele intendente—capitão Nagasaka?—é o Ginseigo? Isso é difícil de acreditar.”\r\n"
  },
  {
   "offset": 13721,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040300a00'>\r\n//「それは違います。\r\n//　しかし彼には、銀星号と接触を持ち、ある\r\n//種の協力関係を取り結んだ嫌疑があるのです。\r\n//そのため制圧を試みました」\r\n\"He is not. However, I suspect that he has entered into a sort of partnership with Ginseigo. That is why I attempted to neutralize him.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040300a00'>\r\n//「それは違います。\r\n//　しかし彼には、銀星号と接触を持ち、ある\r\n//種の協力関係を取り結んだ嫌疑があるのです。\r\n//そのため制圧を試みました」\r\n“Ele não é. Contudo, suspeito que ele tenha estabelecido uma espécie de parceria com Ginseigo. Por isso tentei neutralizá-lo.”\r\n"
  },
  {
   "offset": 14156,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040310a00'>\r\n//「不覚にも逃走を許してしまいましたが。\r\n//　後程、追跡を行うつもりです」\r\n\"I failed to prevent his escape, but I intend to begin my pursuit shortly.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040310a00'>\r\n//「不覚にも逃走を許してしまいましたが。\r\n//　後程、追跡を行うつもりです」\r\n“Falhei em impedir sua fuga, mas pretendo iniciar a perseguição em breve.”\r\n"
  },
  {
   "offset": 14435,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040320a03'>\r\n//「はぁ。そういうことですの……」\r\n\"Oh... I see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040320a03'>\r\n//「はぁ。そういうことですの……」\r\n“Ah... entendo.”\r\n"
  },
  {
   "offset": 14604,
   "en": "\r\n//　俯くようにして口を閉ざす大鳥香奈枝。\r\n//　老侍従も同様、こちらの説明を咀嚼する様子。\r\n  Lieutenant Otori falls silent and lowers her gaze. Her companion, too, appears to be digesting my explanation.\r\n\r\n//　村長は色々と聞きたくてたまらぬ風だったが、とり\r\n//あえず、今すぐ銀星号が降ってくるとかいう次元の話\r\n//ではないとわかったせいだろう。自制してくれていた。\r\n//　助かる。聞かれても、これ以上のことは説明し難い。\r\n  I can tell that the mayor has many questions of his own. But he refrains for now, probably understanding that I don't mean Ginseigo is about to appear in his village right this moment. I am grateful for this, as any further questions would be difficult to answer.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俯くようにして口を閉ざす大鳥香奈枝。\r\n//　老侍従も同様、こちらの説明を咀嚼する様子。\r\n  A tenente Otori cala-se e baixa o olhar. Sua companheira também parece digerir minha explicação.\r\n\r\n//　村長は色々と聞きたくてたまらぬ風だったが、とり\r\n//あえず、今すぐ銀星号が降ってくるとかいう次元の話\r\n//ではないとわかったせいだろう。自制してくれていた。\r\n//　助かる。聞かれても、これ以上のことは説明し難い。\r\n  Percebo que o prefeito tem muitas perguntas. Mas ele se contém por ora, provavelmente por entender que não quero dizer que Ginseigo aparecerá em seu vilarejo neste exato momento. Sou grato por isso, pois quaisquer outras perguntas seriam difíceis de responder.\r\n"
  },
  {
   "offset": 15438,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040330a03'>\r\n//「おおむね、諒解致しました。湊斗さま。\r\n//　わたくしも許される範囲で協力させて頂き\r\n//ます」\r\n\"I believe I understand your position. If you will allow, I would like to be of assistance however I may.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040330a03'>\r\n//「おおむね、諒解致しました。湊斗さま。\r\n//　わたくしも許される範囲で協力させて頂き\r\n//ます」\r\n“Creio que compreendo sua posição. Se me permitir, gostaria de ajudar no que estiver ao meu alcance.”\r\n"
  },
  {
   "offset": 15785,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040340a00'>\r\n//「有難きご厚意。感謝に堪えません」\r\n\"Thank you for the offer. I am in your debt.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040340a00'>\r\n//「有難きご厚意。感謝に堪えません」\r\n“Agradeço a oferta. Fico em dívida com a senhora.”\r\n"
  },
  {
   "offset": 15979,
   "en": "\r\n//　とはいうものの。\r\n//　できれば、協力を仰ぐことなどなく済ませたい。\r\n  That said, I would prefer to finish this mission without requesting her aid.\r\n\r\n//　……こちらのそんな内心を読み取ったかのように、\r\n//薄紅色の口元が微笑った。\r\n  ...Her soft pink lips curve into a smile. She must have discerned my reluctance.\r\n",
-  "pt": ""
+  "pt": "\r\n//　とはいうものの。\r\n//　できれば、協力を仰ぐことなどなく済ませたい。\r\n  Dito isso, eu preferiria concluir esta missão sem pedir a ajuda dela.\r\n\r\n//　……こちらのそんな内心を読み取ったかのように、\r\n//薄紅色の口元が微笑った。\r\n  ...Seus lábios de um rosa suave se curvam num sorriso. Ela deve ter percebido minha relutância.\r\n"
  },
  {
   "offset": 16375,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040350a03'>\r\n//「どうか遠慮はなさらないで下さいましね。\r\n//　わたくしの職務にも関わることですから」\r\n\"Please don't hesitate to ask. It concerns my duties as <br>well.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040350a03'>\r\n//「どうか遠慮はなさらないで下さいましね。\r\n//　わたくしの職務にも関わることですから」\r\n“Por favor, não hesite em pedir. Afinal, isso também diz respeito às minhas funções.”\r\n"
  },
  {
   "offset": 16672,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040360a00'>\r\n//「……失礼、中尉殿。\r\n//　貴方の職務をお伺いします」\r\n\"If I may, Lieutenant, I would like to know what those duties entail.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040360a00'>\r\n//「……失礼、中尉殿。\r\n//　貴方の職務をお伺いします」\r\n“Se me permite, tenente, gostaria de saber no que consistem essas funções.”\r\n"
  },
  {
   "offset": 16916,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040370a03'>\r\n//「先ほどの、わたくしとお代官のやり取りは\r\n//お聞きになりませんでした？」\r\n\"Were you not listening to my conversation with the prefect?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040370a03'>\r\n//「先ほどの、わたくしとお代官のやり取りは\r\n//お聞きになりませんでした？」\r\n“O senhor não estava ouvindo minha conversa com o intendente?”\r\n"
  },
  {
   "offset": 17190,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040380a00'>\r\n//「近くには居りましたが、詳しくは……」\r\n\"I was nearby, but I didn't catch all the details.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040380a00'>\r\n//「近くには居りましたが、詳しくは……」\r\n“Eu estava por perto, mas não ouvi todos os detalhes...”\r\n"
  },
  {
   "offset": 17396,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040390a03'>\r\n//「わたくしは民政局から巡察官としてこの村\r\n//に派遣された者ですの。\r\n//　人々の生活の実情を把握し、問題があれば\r\n//改善に努めるのが職務になります」\r\n\"I was sent by Civil Affairs to inspect this village. My duties are to ascertain the condition and treatment of Yamato's civilians and take measures to correct any problems that I find.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040390a03'>\r\n//「わたくしは民政局から巡察官としてこの村\r\n//に派遣された者ですの。\r\n//　人々の生活の実情を把握し、問題があれば\r\n//改善に努めるのが職務になります」\r\n“Fui enviada pelo Departamento de Assuntos Civis para inspecionar este vilarejo. Minhas funções são verificar as condições e o tratamento dos civis de Yamato e tomar medidas para corrigir quaisquer problemas que encontrar.”\r\n"
  },
  {
   "offset": 17902,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040400a00'>\r\n//「巡察官……」\r\n\"An inspector...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040400a00'>\r\n//「巡察官……」\r\n“Uma inspetora...”\r\n"
  },
  {
   "offset": 18038,
   "en": "\r\n//　そういった制度がＧＨＱにあることは知っていた。\r\n//　なるほど、大鳥中尉が六波羅兵に対して取った処置\r\n//はその職責に合致する。\r\n  I have heard of this system, and the lieutenant's execution of those Rokuhara soldiers would indeed seem to conform to its stated purpose.\r\n\r\n//　しかし。\r\n  However...\r\n",
-  "pt": ""
+  "pt": "\r\n//　そういった制度がＧＨＱにあることは知っていた。\r\n//　なるほど、大鳥中尉が六波羅兵に対して取った処置\r\n//はその職責に合致する。\r\n  Eu já ouvira falar desse sistema, e a execução daqueles soldados de Rokuhara pela tenente de fato parece condizer com seu propósito declarado.\r\n\r\n//　しかし。\r\n  Contudo...\r\n"
  },
  {
   "offset": 18414,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040410a00'>\r\n//「率直な物言いをお許し頂ければ」\r\n\"If I might be permitted a blunt opinion.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040410a00'>\r\n//「率直な物言いをお許し頂ければ」\r\n“Se me permite uma opinião franca.”\r\n"
  },
  {
   "offset": 18602,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040420a03'>\r\n//「どうぞ」\r\n\"Please.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040420a03'>\r\n//「どうぞ」\r\n“Pois não.”\r\n"
  },
  {
   "offset": 18733,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040430a00'>\r\n//「その制度が実効的に機能しているとは思い\r\n//ませんでした。単に体面を保つ都合上、設置\r\n//してあるだけのものかと」\r\n\"I did not believe that system to be functional. It is my understanding that it exists simply to lend credence to GHQ's claim of protecting Yamatoan interests, and holds no real power.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040430a00'>\r\n//「その制度が実効的に機能しているとは思い\r\n//ませんでした。単に体面を保つ都合上、設置\r\n//してあるだけのものかと」\r\n“Eu não acreditava que esse sistema fosse funcional. Entendo que ele existe apenas para dar credibilidade à alegação da GHQ de proteger os interesses de Yamato, e não tem poder real.”\r\n"
  },
  {
   "offset": 19180,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040440a03'>\r\n//「あら、本当に率直な。\r\n//　でもそれはお互い様ではなくて？　お巡り\r\n//さん」\r\n\"My, very blunt indeed. But couldn't the same be said of you, Officer?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040440a03'>\r\n//「あら、本当に率直な。\r\n//　でもそれはお互い様ではなくて？　お巡り\r\n//さん」\r\n“Ora, realmente franco. Mas o mesmo não se aplicaria ao senhor, policial?”\r\n"
  },
  {
   "offset": 19468,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040450a00'>\r\n//「確かに」\r\n\"An excellent point.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040450a00'>\r\n//「確かに」\r\n“Um ótimo argumento.”\r\n"
  },
  {
   "offset": 19602,
   "en": "\r\n//　有名無実は警察局の代名詞だ。あるいはその逆だ。\r\n//　銀星号事件の捜査などといって活動している自分は\r\n//相当おかしく見えるに違いない。\r\n  These days, \"failure\" is a perfectly acceptable synonym for \"police officer\"―or do I have that backward? An officer actively working to put an end to the Ginseigo massacres must seem very strange indeed.\r\n",
-  "pt": ""
+  "pt": "\r\n//　有名無実は警察局の代名詞だ。あるいはその逆だ。\r\n//　銀星号事件の捜査などといって活動している自分は\r\n//相当おかしく見えるに違いない。\r\n  Hoje em dia, “fracasso” é um sinônimo perfeitamente aceitável de “policial” — ou seria o contrário? Um policial trabalhando ativamente para pôr fim aos massacres de Ginseigo deve parecer muito estranho, de fato.\r\n"
  },
  {
   "offset": 20022,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040460a03'>\r\n//「何もしない、何も見ない、何も聞かない。\r\n//それが巡察官の慣行かもしれませんが……。\r\n//　<RUBY text='・・・・・'>何もするな</RUBY>とは指示されていませんもの。\r\n//何かしても咎められる筋合いはなし」\r\n\"See nothing, hear nothing, do nothing. That may be how most inspectors conduct themselves, but I haven't been㉒<I>ordered</I>㉔not to take action. No one can fault me for carrying out my mission.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040470a03'>\r\n//「ね、さよ」\r\n\"Right, Sayo?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040460a03'>\r\n//「何もしない、何も見ない、何も聞かない。\r\n//それが巡察官の慣行かもしれませんが……。\r\n//　<RUBY text='・・・・・'>何もするな</RUBY>とは指示されていませんもの。\r\n//何かしても咎められる筋合いはなし」\r\n“Ver nada, ouvir nada, fazer nada. Talvez seja assim que a maioria dos inspetores age, mas não me ㉒<I>ordenaram</I>㉔ a não fazer nada. Ninguém pode me censurar por cumprir minha missão.”\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040470a03'>\r\n//「ね、さよ」\r\n“Não é, Sayo?”\r\n"
  },
  {
   "offset": 20738,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040480a04'>\r\n//「はい」\r\n\"Right, Mistress.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040480a04'>\r\n//「はい」\r\n“Sim, senhora.”\r\n"
  },
  {
   "offset": 20866,
   "en": "\r\n//　……成程。\r\n  ...I see.\r\n\r\n//　大和の内政は六波羅へ事実上委任、がＧＨＱの方針\r\n//であることを知らないわけではないだろう。\r\n//　どうやらこう見えてなかなか反骨心がCHECK旺盛な人物の\r\n//ようだ。……あるいは別の何か、か。\r\n  It would appear that Lieutenant Otori has a bit of a rebellious streak. Or perhaps some㉓<I>other</I>㉔sort of streak.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……成程。\r\n  ...Entendo.\r\n\r\n//　大和の内政は六波羅へ事実上委任、がＧＨＱの方針\r\n//であることを知らないわけではないだろう。\r\n//　どうやらこう見えてなかなか反骨心がCHECK旺盛な人物の\r\n//ようだ。……あるいは別の何か、か。\r\n  Parece que a tenente Otori tem um certo veio rebelde. Ou talvez algum ㉓<I>outro</I>㉔ tipo de veio.\r\n"
  },
  {
   "offset": 21313,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040490a03'>\r\n//「とはいえ、わたくしの活動が司令部に知ら\r\n//れればすぐに召還されてしまうでしょう。\r\n//　その後であのお代官さまが戻ってくれば、\r\n//村は結局元通り」\r\n\"That said, I will certainly be recalled as soon as my superiors learn what I've done. If the prefect returns after my departure, then the village is back to square one.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040490a03'>\r\n//「とはいえ、わたくしの活動が司令部に知ら\r\n//れればすぐに召還されてしまうでしょう。\r\n//　その後であのお代官さまが戻ってくれば、\r\n//村は結局元通り」\r\n“Dito isso, certamente serei chamada de volta assim que meus superiores souberem o que fiz. Se o intendente voltar depois da minha partida, o vilarejo volta à estaca zero.”\r\n"
  },
  {
   "offset": 21803,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040500a00'>\r\n//「そういえば、代官の部下は？」\r\n\"Speaking of which, what has been done with the prefect's men?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040500a00'>\r\n//「そういえば、代官の部下は？」\r\n“A propósito, o que foi feito dos homens do intendente?”\r\n"
  },
  {
   "offset": 22009,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040510a04'>\r\n//「武装解除の上で監禁しております。\r\n//　あの連中を鏖殺してしまえば多少、代官殿\r\n//もやりにくくなるでしょうけれどもねぇ」\r\n\"We've stripped them of their weapons and locked them in a vacant house. Personally, I think simply slaughtering them would throw a wrench in the prefect's plans...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040510a04'>\r\n//「武装解除の上で監禁しております。\r\n//　あの連中を鏖殺してしまえば多少、代官殿\r\n//もやりにくくなるでしょうけれどもねぇ」\r\n“Desarmamo-los e os trancamos numa casa vazia. Pessoalmente, acho que simplesmente massacrá-los atrapalharia os planos do intendente...”\r\n"
  },
  {
   "offset": 22448,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040520a03'>\r\n//「現行犯でないと処刑は難しくてよ、ばあや。\r\n//　といって、監獄に送りつけても一泊二日で\r\n//帰ってくるでしょうし」\r\n\"It's difficult to justify executing prisoners, Sayo. Still, if we send them off to jail, they'll just be back in a day or two.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040520a03'>\r\n//「現行犯でないと処刑は難しくてよ、ばあや。\r\n//　といって、監獄に送りつけても一泊二日で\r\n//帰ってくるでしょうし」\r\n“É difícil justificar a execução de prisioneiros, Sayo. E, mesmo se os mandarmos para a cadeia, estarão de volta em um ou dois dias.”\r\n"
  },
  {
   "offset": 22847,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040530a04'>\r\n//「<RUBY text='・・'>事故</RUBY>は如何でございましょう？」\r\n\"What about an unfortunate accident?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040530a04'>\r\n//「<RUBY text='・・'>事故</RUBY>は如何でございましょう？」\r\n“E um acidente infeliz?”\r\n"
  },
  {
   "offset": 23057,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040540a03'>\r\n//「監禁していた家屋が不幸な火災で？\r\n//　責任問題が村に行き着く可能性を考えると、\r\n//どうかしら」\r\n\"The house catching fire, for instance? I'm worried that Rokuhara will blame the village.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040540a03'>\r\n//「監禁していた家屋が不幸な火災で？\r\n//　責任問題が村に行き着く可能性を考えると、\r\n//どうかしら」\r\n“A casa pegando fogo, por exemplo? Preocupa-me que Rokuhara culpe o vilarejo.”\r\n"
  },
  {
   "offset": 23394,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040550a04'>\r\n//「空から隕石が降ってきたのであれば、これ\r\n//はどうにも仕様がございますまい」\r\n\"No one can hold the villagers responsible for the odd meteor strike, can they?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040550a04'>\r\n//「空から隕石が降ってきたのであれば、これ\r\n//はどうにも仕様がございますまい」\r\n“Ninguém pode responsabilizar os aldeões por uma queda de meteoro, pode?”\r\n"
  },
  {
   "offset": 23684,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040560a03'>\r\n//「そうねえ」\r\n\"That's true...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040560a03'>\r\n//「そうねえ」\r\n“É verdade...”\r\n"
  },
  {
   "offset": 23825,
   "en": "\r\n//　何やら会話が不穏になってきた。\r\n//　全く平然と話しているところからして単なる口遊び\r\n//だとは思うが。いや。どうだろう。\r\n  The conversation has taken a turn for the sinister, though judging by their casual tone, it's probably just a poor attempt at humor. ...Probably.\r\n",
-  "pt": ""
+  "pt": "\r\n//　何やら会話が不穏になってきた。\r\n//　全く平然と話しているところからして単なる口遊び\r\n//だとは思うが。いや。どうだろう。\r\n  A conversa tomou um rumo sinistro, embora, pelo tom casual delas, provavelmente seja só uma piada de mau gosto. ...Provavelmente.\r\n"
  },
  {
   "offset": 24164,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040570a03'>\r\n//「まあ、それはさておいて。\r\n//　事が厄介になる前に首領格を潰してしまえ\r\n//れば、万事は丸く解決なのです、湊斗さま」\r\n\"We can think about that later. Best if we eliminate the leader, yes?\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040580a03'>\r\n//「わたくしもあなたもお代官を捕えたい。\r\n//　目的は一致、協力は当然と思われません？」\r\n\"So you see, Officer, we both need to capture the prefect. Since our goals are the same, it's only logical that we cooperate. No?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040570a03'>\r\n//「まあ、それはさておいて。\r\n//　事が厄介になる前に首領格を潰してしまえ\r\n//れば、万事は丸く解決なのです、湊斗さま」\r\n“Podemos pensar nisso depois. O melhor é eliminar o líder, não?”\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040580a03'>\r\n//「わたくしもあなたもお代官を捕えたい。\r\n//　目的は一致、協力は当然と思われません？」\r\n“Então veja, policial, ambos precisamos capturar o intendente. Já que nossos objetivos são os mesmos, é lógico que cooperemos. Não concorda?”\r\n"
  },
  {
   "offset": 24861,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040590a00'>\r\n//「問題が一点。\r\n//　別の代官が赴任してきて、また同じことに\r\n//なるとも考えられます」\r\n\"One problem. If a new prefect is assigned, won't he just continue in the same vein?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040590a00'>\r\n//「問題が一点。\r\n//　別の代官が赴任してきて、また同じことに\r\n//なるとも考えられます」\r\n“Um problema. Se um novo intendente for designado, não continuará fazendo o mesmo?”\r\n"
  },
  {
   "offset": 25166,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040600a03'>\r\n//「長坂大尉は採鉱事業を黙認させるために、\r\n//民政局へポケットマネーをばら撒いたご様子。\r\n//　幕命による事業なら彼個人がそんな真似を\r\n//する必要はありません。つまり、これは独走」\r\n\"I've learned that Captain Nagasaka has been funneling money to Civil Affairs in exchange for their tacit approval of his mining operation. That wouldn't be necessary if the shogunate had ordered it. We can conclude that he is acting entirely on his own.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040600a03'>\r\n//「長坂大尉は採鉱事業を黙認させるために、\r\n//民政局へポケットマネーをばら撒いたご様子。\r\n//　幕命による事業なら彼個人がそんな真似を\r\n//する必要はありません。つまり、これは独走」\r\n“Soube que o capitão Nagasaka vem canalizando dinheiro para o Departamento de Assuntos Civis em troca de sua aprovação tácita à sua operação de mineração. Isso não seria necessário se o xogunato tivesse ordenado a operação. Podemos concluir que ele age inteiramente por conta própria.”\r\n"
  },
  {
   "offset": 25786,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040610a04'>\r\n//「この事業の収益を武器に出世階段を登って\r\n//ゆく腹なのでしょうねぇ。むしろ事業が軌道\r\n//に乗るまでは幕府の介入を避けたいはず。\r\n//　上前をはねられるだけでございますから」\r\n\"He most likely intends to use the profits from his mine to climb the ranks. In which case, he will want to keep its existence a secret until it shows results. Otherwise his superiors will claim the greater share of the <br>earnings.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040610a04'>\r\n//「この事業の収益を武器に出世階段を登って\r\n//ゆく腹なのでしょうねぇ。むしろ事業が軌道\r\n//に乗るまでは幕府の介入を避けたいはず。\r\n//　上前をはねられるだけでございますから」\r\n“Ele provavelmente pretende usar os lucros da mina para subir na hierarquia. Nesse caso, vai querer manter sua existência em segredo até que dê resultados. Caso contrário, seus superiores ficarão com a maior parte dos lucros.”\r\n"
  },
  {
   "offset": 26367,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040620a00'>\r\n//「納得です。\r\n//　村としても代官がいなくなり、採鉱事業が\r\n//中止となれば最善。そう考えて支障はありま\r\n//せんか？」\r\n\"Sounds logical. Is it safe to assume that the village, too, would prefer to have the prefect gone and the mining operation halted?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040620a00'>\r\n//「納得です。\r\n//　村としても代官がいなくなり、採鉱事業が\r\n//中止となれば最善。そう考えて支障はありま\r\n//せんか？」\r\n“Faz sentido. É seguro assumir que o vilarejo também preferiria ver o intendente fora e a operação de mineração encerrada?”\r\n"
  },
  {
   "offset": 26762,
   "en": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040630e160'>\r\n//「はい、はい！　願ってもないことでござい\r\n//ます。どうかどうか、宜しくお頼み致します。\r\n//　ただ……」\r\n\"Yes. Yes! We would be eternally grateful! <br>However...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040630e160'>\r\n//「はい、はい！　願ってもないことでござい\r\n//ます。どうかどうか、宜しくお頼み致します。\r\n//　ただ……」\r\n“Sim. Sim! Seríamos eternamente gratos! No entanto...”\r\n"
  },
  {
   "offset": 27101,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040640a00'>\r\n//「はい」\r\n\"Yes?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040640a00'>\r\n//「はい」\r\n“Sim?”\r\n"
  },
  {
   "offset": 27217,
   "en": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040650e160'>\r\n//「代官の部下のことですが。\r\n//　今のところ、すべてが捕まっているという\r\n//わけではなく……もしかすると、残りが代官\r\n//と合流しているかもしれません」\r\n\"About the prefect's men. There are still a few who haven't been captured. He might already have joined up with them.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040650e160'>\r\n//「代官の部下のことですが。\r\n//　今のところ、すべてが捕まっているという\r\n//わけではなく……もしかすると、残りが代官\r\n//と合流しているかもしれません」\r\n“Sobre os homens do intendente. Ainda há alguns que não foram capturados. Ele pode já ter se juntado a eles.”\r\n"
  },
  {
   "offset": 27683,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040660a04'>\r\n//「ま。これはしたり。\r\n//　見逃しがございましたか」\r\n\"Well, how shocking. We missed some, did we?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/ma02/0040660a04'>\r\n//「ま。これはしたり。\r\n//　見逃しがございましたか」\r\n“Ora, que chocante. Deixamos alguns escapar, foi?”\r\n"
  },
  {
   "offset": 27899,
   "en": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040670e160'>\r\n//「正規の兵士はあれで全員だと思います。\r\n//　しかし先程も申しました、怪しげな連中が\r\n//……代官の用心棒の」\r\n\"I think you got all the regular soldiers, but there're still the prefect's mercenaries... those strange folks I mentioned earlier.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040670e160'>\r\n//「正規の兵士はあれで全員だと思います。\r\n//　しかし先程も申しました、怪しげな連中が\r\n//……代官の用心棒の」\r\n“Acho que todos os soldados regulares foram capturados, mas ainda restam os mercenários do intendente... aquelas pessoas estranhas que mencionei antes.”\r\n"
  },
  {
   "offset": 28318,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040680a03'>\r\n//「あら。\r\n//　いけない、うっかり忘れていました」\r\n\"Oh no. I completely forgot.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040680a03'>\r\n//「あら。\r\n//　いけない、うっかり忘れていました」\r\n“Ah, não. Esqueci completamente.”\r\n"
  },
  {
   "offset": 28524,
   "en": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040690e160'>\r\n//「奴らは今日は朝からどこかへ出掛けたよう\r\n//でして。悪運が強いと申しますか……それで\r\n//巡察官さまとは出くわさずに済んだようで」\r\n\"They were away from the village this morning. I suppose they were lucky not to have run into the inspector.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040690e160'>\r\n//「奴らは今日は朝からどこかへ出掛けたよう\r\n//でして。悪運が強いと申しますか……それで\r\n//巡察官さまとは出くわさずに済んだようで」\r\n“Eles saíram do vilarejo esta manhã. Diria que tiveram sorte de não cruzar com a inspetora.”\r\n"
  },
  {
   "offset": 28953,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040700a00'>\r\n//「諒解しました。\r\n//　念頭に置いておきます」\r\n\"Understood. I will take every precaution.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040700a00'>\r\n//「諒解しました。\r\n//　念頭に置いておきます」\r\n“Entendido. Tomarei todas as precauções.”\r\n"
  },
  {
   "offset": 29158,
   "en": "\r\n//　敵は単独とは限らないということだ。\r\n//　少々、厄介な事態になるかもしれない。\r\n  So the enemy may not be alone. Things could get complicated.\r\n\r\n//　だがいつもの事といえば、それだけの事。\r\n//　気には留めても、気に病むほどの大事ではない。\r\n  But then, things are always complicated. While I must exercise caution, it's nothing to be particularly anxious about.\r\n",
-  "pt": ""
+  "pt": "\r\n//　敵は単独とは限らないということだ。\r\n//　少々、厄介な事態になるかもしれない。\r\n  Então o inimigo pode não estar sozinho. A situação pode se complicar.\r\n\r\n//　だがいつもの事といえば、それだけの事。\r\n//　気には留めても、気に病むほどの大事ではない。\r\n  Mas, pensando bem, as coisas sempre se complicam. Devo tomar cuidado, mas não é nada com que eu precise me preocupar.\r\n"
  },
  {
   "offset": 29612,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040710a00'>\r\n//「では、大鳥巡察官殿。\r\n//　これより自分は任務を再開したく思います\r\n//が、行動の自由を認めて頂けるでしょうか」\r\n\"If I may be excused, Lieutenant, I would like to return to my mission. Do I have your approval to act as I see fit?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040710a00'>\r\n//「では、大鳥巡察官殿。\r\n//　これより自分は任務を再開したく思います\r\n//が、行動の自由を認めて頂けるでしょうか」\r\n“Se me permite, tenente, eu gostaria de retomar minha missão. Tenho sua permissão para agir como julgar necessário?”\r\n"
  },
  {
   "offset": 29988,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040720a03'>\r\n//「もちろんです。\r\n//　わたくしはしばらく、ここへご厄介になり\r\n//ます。支援が必要でしたらその都度、ご連絡\r\n//を下さいまし」\r\n\"Of course. I will take advantage of the mayor's accommodations a little while longer. Should you have need of assistance, please contact me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/ma02/0040720a03'>\r\n//「もちろんです。\r\n//　わたくしはしばらく、ここへご厄介になり\r\n//ます。支援が必要でしたらその都度、ご連絡\r\n//を下さいまし」\r\n“Certamente. Vou me hospedar mais um pouco na casa do prefeito. Caso precise de assistência, por favor, entre em contato comigo.”\r\n"
  },
  {
   "offset": 30414,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040730a00'>\r\n//「恐縮です。\r\n//　それでは失礼します。村長殿、お邪魔致し\r\n//ました」\r\n\"Much appreciated. I'll take my leave now. Mayor, thank you for your hospitality.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/ma02/0040730a00'>\r\n//「恐縮です。\r\n//　それでは失礼します。村長殿、お邪魔致し\r\n//ました」\r\n“Muito grato. Então me retiro. Prefeito, desculpe a intrusão.”\r\n"
  },
  {
   "offset": 30692,
   "en": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040740e160'>\r\n//「いえいえ！\r\n//　何のお構いもできませず……」\r\n\"Not at all! I wish I could've offered more in the way of refreshments.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／村長】\r\n<voice name='ｅｔｃ／村長' class='その他男声' src='voice/ma02/0040740e160'>\r\n//「いえいえ！\r\n//　何のお構いもできませず……」\r\n“De jeito nenhum! Só lamento não ter podido oferecer mais...”\r\n"
  },
  {
   "offset": 30963,

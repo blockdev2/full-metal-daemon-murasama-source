@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//　来た道を戻るその途上。\r\n//　ふと、地元民の囁き合いを耳にした。\r\n\r\n//　――また人がいなくなった。<k>\r\n//　\r\n//　今度は、芳養の家の餓鬼どもだ――\r\n  On the way back to our lodgings, I overhear some of the locals talking.\r\n\r\n  <I>Another family's gone missing.<K>\r\n  <I>This time, it's the Haya kids.</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　来た道を戻るその途上。\r\n//　ふと、地元民の囁き合いを耳にした。\r\n\r\n//　――また人がいなくなった。<k>\r\n//　\r\n//　今度は、芳養の家の餓鬼どもだ――\r\n  No caminho de volta ao nosso alojamento, ouço alguns moradores conversando.\r\n\r\n  <I>Outra família desapareceu.<K>\r\n  <I>Desta vez, foram os filhos dos Haya.</I>\r\n"
  },
  {
   "offset": 592,
@@ -12,7 +12,7 @@
  {
   "offset": 714,
   "en": "\r\n//【ｅｔｃ／警備員】\r\n<voice name='ｅｔｃ／警備員' class='その他男声' src='voice/ma04/0110020e061'>\r\n//「お待ち下さい！\r\n//　ここは幕府直轄の施設です！　進駐軍の方\r\n//であっても無許可での立ち入りは認められて\r\n//おりません！」\r\n\"Stop! This is a shogunate facility! Even GHQ can't enter without permission!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／警備員】\r\n<voice name='ｅｔｃ／警備員' class='その他男声' src='voice/ma04/0110020e061'>\r\n//「お待ち下さい！\r\n//　ここは幕府直轄の施設です！　進駐軍の方\r\n//であっても無許可での立ち入りは認められて\r\n//おりません！」\r\n\"Pare! Esta é uma instalação do Xogunato! Nem mesmo a GHQ pode entrar sem permissão!\"\r\n"
  },
  {
   "offset": 1107,
@@ -22,177 +22,177 @@
  {
   "offset": 1252,
   "en": "\r\n//【ｅｔｃ／警備員】\r\n<voice name='ｅｔｃ／警備員' class='その他男声' src='voice/ma04/0110040e061'>\r\n//「ちょっ……\r\n//　だから、待てって――」\r\n\"Wait! I said sto―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／警備員】\r\n<voice name='ｅｔｃ／警備員' class='その他男声' src='voice/ma04/0110040e061'>\r\n//「ちょっ……\r\n//　だから、待てって――」\r\n\"Espe—! Eu disse para pa―\"\r\n"
  },
  {
   "offset": 1469,
   "en": "\r\n//【ｅｔｃ／警備員】\r\n<voice name='ｅｔｃ／警備員' class='その他男声' src='voice/ma04/0110050e061'>\r\n//「ぐべッッ!?」\r\n\"Gweh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／警備員】\r\n<voice name='ｅｔｃ／警備員' class='その他男声' src='voice/ma04/0110050e061'>\r\n//「ぐべッッ!?」\r\n\"Gueh!\"\r\n"
  },
  {
   "offset": 1634,
   "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0110060b02'>\r\n//「触れるな、劣等！」\r\n\"Keep your filthy hands off me, savage!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0110060b02'>\r\n//「触れるな、劣等！」\r\n\"Não encoste em mim, sua escória!\"\r\n"
  },
  {
   "offset": 1829,
   "en": "\r\n//【ｅｔｃ／研究員】\r\n<voice name='ｅｔｃ／研究員' class='その他男声' src='voice/ma04/0110070e068'>\r\n//「所長！」\r\n\"Chief!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／研究員】\r\n<voice name='ｅｔｃ／研究員' class='その他男声' src='voice/ma04/0110070e068'>\r\n//「所長！」\r\n\"Chefe!\"\r\n"
  },
  {
   "offset": 1990,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110080b22'>\r\n//「なんだぁこの騒ぎは!?\r\n//　どいつもこいつもお味噌が腐って手当たり\r\n//次第にファックし始めたのかぁっ!?」\r\n\"What the fuck is going on here!? Did everyone go nuts and start an orgy or something!?\"\r\n\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110090b22'>\r\n//「俺も入れろ!!」\r\n\"Let me in on the action!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110080b22'>\r\n//「なんだぁこの騒ぎは!?\r\n//　どいつもこいつもお味噌が腐って手当たり\r\n//次第にファックし始めたのかぁっ!?」\r\n\"Que porra está acontecendo aqui!? Todo mundo enlouqueceu e começou uma orgia ou algo assim!?\"\r\n\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110090b22'>\r\n//「俺も入れろ!!」\r\n\"Deixa eu entrar nessa também!\"\r\n"
  },
  {
   "offset": 2501,
   "en": "\r\n//【ｅｔｃ／研究員】\r\n<voice name='ｅｔｃ／研究員' class='その他男声' src='voice/ma04/0110100e068'>\r\n//「違いますっ！\r\n//　ＧＨＱの将校が押し込んできました。研究\r\n//を開示せよと……！」\r\n\"No, Chief! A GHQ officer is here demanding to see our research!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／研究員】\r\n<voice name='ｅｔｃ／研究員' class='その他男声' src='voice/ma04/0110100e068'>\r\n//「違いますっ！\r\n//　ＧＨＱの将校が押し込んできました。研究\r\n//を開示せよと……！」\r\n\"Não, Chefe! Um oficial da GHQ invadiu exigindo ver nossa pesquisa!\"\r\n"
  },
  {
   "offset": 2823,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110110b22'>\r\n//「な――にィィィィィ!?」\r\n\"The㉓<I>fuck!?</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110110b22'>\r\n//「な――にィィィィィ!?」\r\n\"Que㉓<I>porra!?</I>\"\r\n"
  },
  {
   "offset": 2995,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0110120a12'>\r\n//「……へっへぇ。\r\n//　こいつぁいい。話がいきなり簡単になっち\r\n//まった」\r\n\"Heh heh! This simplifies things.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0110120a12'>\r\n//「……へっへぇ。\r\n//　こいつぁいい。話がいきなり簡単になっち\r\n//まった」\r\n\"Heh heh! Isso simplifica as coisas.\"\r\n"
  },
  {
   "offset": 3240,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0110130a12'>\r\n//「お気の短い少佐殿が、こう動いてくださる\r\n//んなら……\r\n//　あたしはやりたいことだけやってりゃいい\r\n//ってことだぁねぇ？」\r\n\"If the major's too impatient to let me handle it... I guess I'm free to do as I please.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0110140a12'>\r\n//「へ、へ、へ……！」\r\n\"Heh heh heh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0110130a12'>\r\n//「お気の短い少佐殿が、こう動いてくださる\r\n//んなら……\r\n//　あたしはやりたいことだけやってりゃいい\r\n//ってことだぁねぇ？」\r\n\"Se o major está impaciente demais para me deixar cuidar disso... acho que estou livre para fazer o que quiser.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/ma04/0110140a12'>\r\n//「へ、へ、へ……！」\r\n\"He, he, he!\"\r\n"
  },
  {
   "offset": 3756,
   "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/ma04/0110150b21'>\r\n//「入道様。\r\n//　江ノ島より連絡です」\r\n\"Master, there's a call from Enoshima.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/ma04/0110150b21'>\r\n//「入道様。\r\n//　江ノ島より連絡です」\r\n\"Mestre, há uma ligação de Enoshima.\"\r\n"
  },
  {
   "offset": 3945,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110160a09'>\r\n//「おう。\r\n//　来たか、来たか……」\r\n\"Oh! I was starting to worry.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110160a09'>\r\n//「おう。\r\n//　来たか、来たか……」\r\n\"Oh! Já estava começando a me preocupar.\"\r\n"
  },
  {
   "offset": 4122,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110170b22'>\r\n//《もーしもしもし!?\r\n//　遊佐中将!?》\r\n《Hey! Anyone there!? General!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110170b22'>\r\n//《もーしもしもし!?\r\n//　遊佐中将!?》\r\n《Alô! Tem alguém aí!? General!?》\r\n"
  },
  {
   "offset": 4323,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110180a09'>\r\n//「や、や。これは所長殿。\r\n//　いつもながら元気が良いのう」\r\n\"Chief. It's been some time. I'm glad to hear you in such high spirits.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110190a09'>\r\n//「どうだな、研究の方は――」\r\n\"How goes the research?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110180a09'>\r\n//「や、や。これは所長殿。\r\n//　いつもながら元気が良いのう」\r\n\"Chefe. Faz um tempo. Fico contente em ouvi-lo tão animado.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110190a09'>\r\n//「どうだな、研究の方は――」\r\n\"Como vai a pesquisa?\"\r\n"
  },
  {
   "offset": 4734,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110200b22'>\r\n//《それどころじゃねえっすよぉぉぉーーー!!\r\n//　ＧＨＱのファッキンタコどもがなんか群れ\r\n//なしてこっち来てんですけどぉーー!!》\r\n《Fuck that, sir! Those GHQ fuck nuggets are all up in my shit!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110200b22'>\r\n//《それどころじゃねえっすよぉぉぉーーー!!\r\n//　ＧＨＱのファッキンタコどもがなんか群れ\r\n//なしてこっち来てんですけどぉーー!!》\r\n《Que se dane, senhor! Aqueles bostas da GHQ estão todos em cima de mim!》\r\n"
  },
  {
   "offset": 5097,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110210b22'>\r\n//《これ一体どういうことぉぉーーーーーー!?》\r\n《What the fuck is going on!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110210b22'>\r\n//《これ一体どういうことぉぉーーーーーー!?》\r\n《Que porra está acontecendo!?》\r\n"
  },
  {
   "offset": 5308,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110220a09'>\r\n//「ほうほう……」\r\n\"I see...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110220a09'>\r\n//「ほうほう……」\r\n\"Entendo...\"\r\n"
  },
  {
   "offset": 5440,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110230b22'>\r\n//《俺の研究よこせって！　ざけろボケ殺すぞ\r\n//糞が。俺の大事な大事なハニーにてめーらの\r\n//フニャチン突っ込む気かよ！　白人はでけぇ\r\n//だけでパウァァが足りねえよ！　でしょー!?》\r\n《Hand over my research!? No fucking way, you fucking fucks! Like I'm gonna let you stick your limp dicks in my old lady!? You white boys may have the size, but you've got no power! Know what I'm saying!?》\r\n\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110240b22'>\r\n//《そんなんでハニーがオルガするわけねーだ\r\n//ろーがぁ！　イかねえよ！　身のほど知れよ\r\n//白豚野郎！　せめて黒人連れて来いっつーの！\r\n//だから閣下ぁ、そこんとこひとつよろしく！》\r\n《No way my girl's gonna cum like that! No white pigfucker's gonna satisfy her! Bring a black cock if you wanna pay tribute, right!? You getting me, General!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110230b22'>\r\n//《俺の研究よこせって！　ざけろボケ殺すぞ\r\n//糞が。俺の大事な大事なハニーにてめーらの\r\n//フニャチン突っ込む気かよ！　白人はでけぇ\r\n//だけでパウァァが足りねえよ！　でしょー!?》\r\n《Entregar minha pesquisa!? Nem fodendo, seus fodidos! Acha que eu vou deixar vocês enfiarem esses paus broxas na minha dona!? Vocês branquelos podem ter tamanho, mas não têm potência nenhuma! Tá me entendendo!?》\r\n\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110240b22'>\r\n//《そんなんでハニーがオルガするわけねーだ\r\n//ろーがぁ！　イかねえよ！　身のほど知れよ\r\n//白豚野郎！　せめて黒人連れて来いっつーの！\r\n//だから閣下ぁ、そこんとこひとつよろしく！》\r\n《Não tem como a minha garota gozar assim! Nenhum porco branco filho da puta vai satisfazer ela! Tragam um pau de negro se quiserem homenagear, tá!? Entendeu, General!?》\r\n"
  },
  {
   "offset": 6546,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110250a09'>\r\n//「うむ？」\r\n\"I'm afraid not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110250a09'>\r\n//「うむ？」\r\n\"Receio que não.\"\r\n"
  },
  {
   "offset": 6676,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110260b22'>\r\n//《軍隊連れてこっち来てー！　あいつら俺の\r\n//言うこと全然聞かねーの。脳天どつかねーと\r\n//駄目だわこれ。しばらくは警備隊で持ち堪え\r\n//とくから、その間にヘルプ。超ヘルプミーッ》\r\n《Send the cavalry! These fucks aren't listening to me. They need more holes I can ram this rod of mine into! I'll hold 'em with my men as long as I can, so help! Help, motherfucker!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110260b22'>\r\n//《軍隊連れてこっち来てー！　あいつら俺の\r\n//言うこと全然聞かねーの。脳天どつかねーと\r\n//駄目だわこれ。しばらくは警備隊で持ち堪え\r\n//とくから、その間にヘルプ。超ヘルプミーッ》\r\n《Manda a cavalaria! Esses desgraçados não estão me ouvindo. Eles precisam de mais buracos pra eu enfiar essa vara! Vou segurar eles com meus homens o quanto der, então ajuda! Ajuda, porra!》\r\n"
  },
  {
   "offset": 7233,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110270a09'>\r\n//「ふむ……ま。\r\n//　そういうわけにも、いくまいなぁ……」\r\n\"Well... unfortunately, that's not an option.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110270a09'>\r\n//「ふむ……ま。\r\n//　そういうわけにも、いくまいなぁ……」\r\n\"Bem... infelizmente, isso não é uma opção.\"\r\n"
  },
  {
   "offset": 7459,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110280b22'>\r\n//《……へっ？\r\n//　あんですと？》\r\n《...'scuse me?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110280b22'>\r\n//《……へっ？\r\n//　あんですと？》\r\n《...como é?》\r\n"
  },
  {
   "offset": 7640,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110290a09'>\r\n//「進駐軍と揉め事を起こすわけにはゆかぬよ、\r\n//所長。\r\n//　おぬしの苦境は察するが……事には軽重と\r\n//いうものがあるでのう？」\r\n\"We can't risk an incident with the Westerners, Chief. I sympathize with your distress, but I have to consider the big picture.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110290a09'>\r\n//「進駐軍と揉め事を起こすわけにはゆかぬよ、\r\n//所長。\r\n//　おぬしの苦境は察するが……事には軽重と\r\n//いうものがあるでのう？」\r\n\"Não podemos arriscar um incidente com as forças de ocupação, Chefe. Eu compreendo sua aflição, mas tenho que considerar o quadro geral.\"\r\n"
  },
  {
   "offset": 8046,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110300b22'>\r\n//《おい。\r\n//　いや、ちょっと待てよハゲ》\r\n《Hey. Wait just a goddamn minute, baldy.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110300b22'>\r\n//《おい。\r\n//　いや、ちょっと待てよハゲ》\r\n《Ei. Espera um maldito minuto aí, careca.》\r\n"
  },
  {
   "offset": 8265,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110310a09'>\r\n//「ここは耐え難きを耐え、忍び難きを忍び、\r\n//ＧＨＱの要望に従うほかあるまいて。\r\n//　臥薪嘗胆。石の上にも三年の意気ぞ。所長、\r\n//ここは我慢の一手で参ろうよ」\r\n\"I'm afraid you'll have to bite the bullet, as it were, and acquiesce to their demands. Remember the patience of Bodhidharma, who spent nine years gazing at a wall in order to gain admittance to a temple. Now is the time to follow his example.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110310a09'>\r\n//「ここは耐え難きを耐え、忍び難きを忍び、\r\n//ＧＨＱの要望に従うほかあるまいて。\r\n//　臥薪嘗胆。石の上にも三年の意気ぞ。所長、\r\n//ここは我慢の一手で参ろうよ」\r\n\"Receio que tenha que engolir o sapo e ceder às exigências deles. Lembre-se da paciência de Bodhidharma, que passou nove anos encarando uma parede para conseguir admissão num templo. Agora é a hora de seguir o exemplo dele.\"\r\n"
  },
  {
   "offset": 8835,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110320b22'>\r\n//《ざけんなおいこら腐れ坊主。\r\n//　てめームケ過ぎた亀頭みてえなアタマして\r\n//やがるくせに、そんなんアリか？　俺の研究\r\n//取られちまってもいーのかよっ!?》\r\n《Are you out of your fucking mind!? Is that giant cock you call a skull completely empty!? You need my research!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110320b22'>\r\n//《ざけんなおいこら腐れ坊主。\r\n//　てめームケ過ぎた亀頭みてえなアタマして\r\n//やがるくせに、そんなんアリか？　俺の研究\r\n//取られちまってもいーのかよっ!?》\r\n《Você perdeu a porra do juízo!? Essa cabeça de pau gigante que você chama de crânio está completamente vazia!? Você precisa da minha pesquisa!》\r\n"
  },
  {
   "offset": 9289,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110330a09'>\r\n//「惜しい、惜しいのう！\r\n//　だが仕方あるまいのう」\r\n\"A terrible price indeed! But one that must be paid.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110330a09'>\r\n//「惜しい、惜しいのう！\r\n//　だが仕方あるまいのう」\r\n\"Um preço terrível, sem dúvida! Mas que precisa ser pago.\"\r\n"
  },
  {
   "offset": 9513,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110340b22'>\r\n//《あるまくねぇよぉぉぉーーーーーっ!!》\r\n《You ain't the one fucking paying it!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110340b22'>\r\n//《あるまくねぇよぉぉぉーーーーーっ!!》\r\n《Você não é quem vai pagar essa porra!》\r\n"
  },
  {
   "offset": 9727,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110350a09'>\r\n//「ふゥ」\r\n\"Hmm.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110350a09'>\r\n//「ふゥ」\r\n\"Hmm.\"\r\n"
  },
  {
   "offset": 9843,
   "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/ma04/0110360b21'>\r\n//「入道様。\r\n//　お茶でも、お淹れ致しましょうか」\r\n\"Master, shall I prepare tea?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/ma04/0110360b21'>\r\n//「入道様。\r\n//　お茶でも、お淹れ致しましょうか」\r\n\"Mestre, devo preparar um chá?\"\r\n"
  },
  {
   "offset": 10041,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110370a09'>\r\n//「貰おうかの。\r\n//　しかし、<RUBY text='よしきよ'>義清</RUBY>……」\r\n\"A splendid suggestion.\r\n  ...By the way, Yoshikiyo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110370a09'>\r\n//「貰おうかの。\r\n//　しかし、<RUBY text='よしきよ'>義清</RUBY>……」\r\n\"Uma sugestão esplêndida.\"\r\n  \"...A propósito, Yoshikiyo.\"\r\n"
  },
  {
   "offset": 10280,
   "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/ma04/0110380b21'>\r\n//「はい？」\r\n\"Yes, Master?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/ma04/0110380b21'>\r\n//「はい？」\r\n\"Sim, Mestre?\"\r\n"
  },
  {
   "offset": 10407,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110390a09'>\r\n//「今日は、良い日和だのう」\r\n\"Today is a fine day, is it not?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/ma04/0110390a09'>\r\n//「今日は、良い日和だのう」\r\n\"Hoje é um belo dia, não é?\"\r\n"
  },
  {
   "offset": 10577,
   "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/ma04/0110400b21'>\r\n//「……はっ。\r\n//　気持ちよく晴れておりまする」\r\n\"Yes, Master. The clear air is most refreshing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/ma04/0110400b21'>\r\n//「……はっ。\r\n//　気持ちよく晴れておりまする」\r\n\"Sim, Mestre. O ar limpo é deveras revigorante.\"\r\n"
  },
  {
   "offset": 10790,
   "en": "\r\n//【ｅｔｃ／研究員】\r\n<voice name='ｅｔｃ／研究員' class='その他男声' src='voice/ma04/0110410e068'>\r\n//「……所長……」\r\n\"Chief...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／研究員】\r\n<voice name='ｅｔｃ／研究員' class='その他男声' src='voice/ma04/0110410e068'>\r\n//「……所長……」\r\n\"Chefe...\"\r\n"
  },
  {
   "offset": 10962,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110420b22'>\r\n//「……切りやがった……。\r\n//　あの禿公方、俺を切り捨てやがった……」\r\n\"...He hung up on me. That bald fuck hung up on me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110420b22'>\r\n//「……切りやがった……。\r\n//　あの禿公方、俺を切り捨てやがった……」\r\n\"...Ele desligou na minha cara. Aquele careca filho da puta desligou na minha cara.\"\r\n"
  },
  {
   "offset": 11230,
@@ -202,11 +202,11 @@
  {
   "offset": 11394,
   "en": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0110440b02'>\r\n//「――貴様が、ここの責任者か」\r\n\"Are you the one in charge of this cesspit?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ガーゲット】\r\n<voice name='ガーゲット' class='ガーゲット' src='voice/ma04/0110440b02'>\r\n//「――貴様が、ここの責任者か」\r\n\"É você o responsável por este chiqueiro?\"\r\n"
  },
  {
   "offset": 11608,
   "en": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110450b22'>\r\n//「…………豚野郎ォ」\r\n\"Motherfucker...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【研究所長】\r\n<voice name='研究所長' class='研究所長' src='voice/ma04/0110450b22'>\r\n//「…………豚野郎ォ」\r\n\"Filho da puta...\"\r\n"
  }
 ]
