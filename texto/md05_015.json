@@ -2,22 +2,22 @@
  {
   "offset": 213,
   "en": "\r\n//　静かであった。\r\n//　小波の打ち寄せる音のほかに、耳を煩わせるものは\r\n//何もない。\r\n  We find ourselves on a sandy beach. It is dark and quiet, the only sound the lapping of waves against the shore.\r\n\r\n//　いつかの夜、どこかの浜辺。\r\n//　妖しい気配も、逆巻く風も、炎の猛りも、ここには\r\n//なかった。穏やかな世界だった。\r\n  No roaring flames. No howling wind. No chilling presence from which to flee. Here, there is only peace.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　静かであった。\r\n//　小波の打ち寄せる音のほかに、耳を煩わせるものは\r\n//何もない。\r\n  Estamos numa praia de areia. Está escuro e silencioso; o único som é o das ondas lambendo a costa.\r\n\r\n//　いつかの夜、どこかの浜辺。\r\n//　妖しい気配も、逆巻く風も、炎の猛りも、ここには\r\n//なかった。穏やかな世界だった。\r\n  Nenhuma chama rugidora. Nenhum vento uivante. Nenhuma presença gélida da qual fugir. Aqui, há apenas paz.\r\n\r\n"
  },
  {
   "offset": 744,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150010a00'>\r\n//「……まだか。\r\n//　しかし、一息つけるな」\r\n\"Not home... but at least we can rest.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150010a00'>\r\n//「……まだか。\r\n//　しかし、一息つけるな」\r\n\"Não é casa... mas pelo menos podemos descansar.\"\r\n"
  },
  {
   "offset": 942,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150020a01'>\r\n//《そうね。\r\n//　それに時間はともかくとして、ここは大和\r\n//みたいだし》\r\n《Yes. And though it's not our time, it is Yamato.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150020a01'>\r\n//《そうね。\r\n//　それに時間はともかくとして、ここは大和\r\n//みたいだし》\r\n《Sim. E embora não seja a nossa época, é Yamato.》\r\n"
  },
  {
   "offset": 1201,
   "en": "\r\n//　村正の見解に、首肯する。\r\n//　これは大和の海だ。おそらく太平洋側。\r\n  She's right. This is Yamato's shoreline. Somewhere on the Pacific, if I'm not mistaken.\r\n\r\n//　空を見れば、星空の様相もその仮定を裏付ける。\r\n//　慣れ親しんだ星座が見え、月も――\r\n  I look up. Ah, yes. The constellations are in their proper place, and the moon―\r\n\r\n  The moon...\r\n",
-  "pt": ""
+  "pt": "\r\n//　村正の見解に、首肯する。\r\n//　これは大和の海だ。おそらく太平洋側。\r\n  Ela tem razão. Esta é a costa de Yamato. Em algum lugar do Pacífico, se não me engano.\r\n\r\n//　空を見れば、星空の様相もその仮定を裏付ける。\r\n//　慣れ親しんだ星座が見え、月も――\r\n  Olho para cima. Ah, sim. As constelações estão em seus devidos lugares, e a lua―\r\n\r\n  A lua...\r\n"
  },
  {
   "offset": 1638,
@@ -27,72 +27,72 @@
  {
   "offset": 1774,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150040a01'>\r\n//《？　どうしたの？》\r\n《Hmm? What's wrong?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150040a01'>\r\n//《？　どうしたの？》\r\n《Hã? O que foi?》\r\n"
  },
  {
   "offset": 1932,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150050a00'>\r\n//「月が」\r\n\"The moon.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150050a00'>\r\n//「月が」\r\n\"A lua.\"\r\n"
  },
  {
   "offset": 2053,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150060a01'>\r\n//《月？》\r\n《The moon?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150060a01'>\r\n//《月？》\r\n《A lua?》\r\n"
  },
  {
   "offset": 2184,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150070a00'>\r\n//「……割れている」\r\n\"...It's broken.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150070a00'>\r\n//「……割れている」\r\n\"...Está quebrada.\"\r\n"
  },
  {
   "offset": 2326,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150080a01'>\r\n//《は？\r\n//　……ちょっと、突拍子もないこと言わない\r\n//でよ》\r\n《Huh? Come on. Don't be silly.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150090a01'>\r\n//《落ち着きなさい。\r\n//　月は満ち欠けするけど、割れたりなんて》\r\n《The moon waxes and wanes. It doesn't...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150080a01'>\r\n//《は？\r\n//　……ちょっと、突拍子もないこと言わない\r\n//でよ》\r\n《Hã? Ora. Não diga bobagem.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150090a01'>\r\n//《落ち着きなさい。\r\n//　月は満ち欠けするけど、割れたりなんて》\r\n《A lua cresce e mingua. Ela não...》\r\n"
  },
  {
   "offset": 2783,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150100a01'>\r\n//《にゃがーーーーーー!?》\r\n《GAHHHHHHHHHHHHHH!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150100a01'>\r\n//《にゃがーーーーーー!?》\r\n《GAAAAAHHHHHHHHHH!》\r\n"
  },
  {
   "offset": 2945,
   "en": "\r\n//　割れていた。\r\n//　何度見ても。錯覚と決め込んで見直しても。\r\n  Indeed. This is no illusion, no matter how hard I try to convince myself that it must be.\r\n\r\n//　地球の至宝、美しき衛星は完全に割れて砕けていた。\r\n  The moon, Earth's constant companion, lies shattered in countless glittering fragments, like a plate of fine china dropped on the floor.\r\n\r\n//　満月……なのだろう。本当なら。\r\n//　それが、床に落とした皿の如き惨状を呈している。\r\n\r\n//　……月の誕生についての一説を思い出した。\r\n//　地球周辺に漂っていた物質が引力の影響で集積し、\r\n//やがて月を形成したのだと云う――\r\n  How is this possible?\r\n\r\n  No... Could we be witnessing the moon's formation? But that would mean...\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　割れていた。\r\n//　何度見ても。錯覚と決め込んで見直しても。\r\n  De fato. Não é ilusão, por mais que eu tente me convencer do contrário.\r\n\r\n//　地球の至宝、美しき衛星は完全に割れて砕けていた。\r\n  A lua, companheira constante da Terra, está despedaçada em incontáveis fragmentos cintilantes, como um prato de porcelana fina caído no chão.\r\n\r\n//　満月……なのだろう。本当なら。\r\n//　それが、床に落とした皿の如き惨状を呈している。\r\n\r\n//　……月の誕生についての一説を思い出した。\r\n//　地球周辺に漂っていた物質が引力の影響で集積し、\r\n//やがて月を形成したのだと云う――\r\n  Como isso é possível?\r\n\r\n  Não... Será que estamos testemunhando a formação da lua? Mas isso significaria...\r\n\r\n"
  },
  {
   "offset": 3794,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150110a01'>\r\n//《ちょっ、なっ、ながにゃんでつつつつき》\r\n《Whabuimthmoitbrbrbr!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150110a01'>\r\n//《ちょっ、なっ、ながにゃんでつつつつき》\r\n《Guablimthmoitbrbrbr!》\r\n"
  },
  {
   "offset": 3984,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150120a00'>\r\n//「落ち着け」\r\n\"Calm down.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150120a00'>\r\n//「落ち着け」\r\n\"Acalme-se.\"\r\n"
  },
  {
   "offset": 4112,
   "en": "\r\n//　錯乱して異界の言語を喋り始めた村正を遮る。\r\n  I interrupt Muramasa before she accidentally summons an eldritch horror.\r\n",
-  "pt": ""
+  "pt": "\r\n//　錯乱して異界の言語を喋り始めた村正を遮る。\r\n  Interrompo Muramasa antes que ela, sem querer, invoque uma aberração de outro mundo.\r\n"
  },
  {
   "offset": 4268,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150130a00'>\r\n//「ここが数万年……どころではないか……\r\n//　数億年以上昔の地球上という可能性はある\r\n//か？」\r\n\"Is there any way we wound up billions of years in the past?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150130a00'>\r\n//「ここが数万年……どころではないか……\r\n//　数億年以上昔の地球上という可能性はある\r\n//か？」\r\n\"Tem como termos ido parar bilhões de anos no passado?\"\r\n"
  },
  {
   "offset": 4561,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150140a01'>\r\n//《え？\r\n//　えーっと……》\r\n《B- Billions? Um...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150140a01'>\r\n//《え？\r\n//　えーっと……》\r\n《B- Bilhões? Hum...》\r\n"
  },
  {
   "offset": 4726,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150150a01'>\r\n//《だいたい数百年の枠の中で動いていたはず\r\n//だし、それはないと思うけど……。\r\n//　周りも、そんな風には見えないし》\r\n《I don't think so... Shouldn't be more than a few centuries in either direction. Besides, wouldn't things look really different?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150150a01'>\r\n//《だいたい数百年の枠の中で動いていたはず\r\n//だし、それはないと思うけど……。\r\n//　周りも、そんな風には見えないし》\r\n《Acho que não... Não deve passar de alguns séculos em qualquer direção. Além disso, as coisas não pareceriam bem diferentes?》\r\n"
  },
  {
   "offset": 5130,
   "en": "\r\n//　同意できる。\r\n//　月が生まれたのは、確か――<k>地球とほぼ同時と聞く。\r\n//そうなると数億年前ですらない、数十億年前だ。\r\n  An excellent point. I've read that the earth and moon were born at nearly the same time. If this were truly four billion years in the past, the environment would be unrecognizable, surely.\r\n\r\n//　とてもではないが、ここがそんな太古の地球上とは\r\n//思えない。\r\n\r\n//　すると……どういう事なのか。\r\n\r\n//　ここが月の生成過程にあたる時代ではないなら。\r\n  Not the past, then. The future? At some point in the next few hundred years, something happens to shatter the moon?\r\n\r\n//　……未来？\r\n//　将来、月は何らかの理由で割れるのか？\r\n\r\n//　人類の月面開発が未曾有の大失敗を犯すのだろうか。\r\n//　あるいは異星人との決戦場に――？\r\n  But what could do something like that? War over the first lunar settlement? An invading extraterrestrial force?\r\n",
-  "pt": ""
+  "pt": "\r\n//　同意できる。\r\n//　月が生まれたのは、確か――<k>地球とほぼ同時と聞く。\r\n//そうなると数億年前ですらない、数十億年前だ。\r\n  Um argumento excelente. Li que a Terra e a lua nasceram quase ao mesmo tempo. Se estivéssemos realmente quatro bilhões de anos no passado, o ambiente seria irreconhecível, sem dúvida.\r\n\r\n//　とてもではないが、ここがそんな太古の地球上とは\r\n//思えない。\r\n\r\n//　すると……どういう事なのか。\r\n\r\n//　ここが月の生成過程にあたる時代ではないなら。\r\n  Então não é o passado. O futuro? Em algum momento dos próximos séculos, algo acontece para partir a lua?\r\n\r\n//　……未来？\r\n//　将来、月は何らかの理由で割れるのか？\r\n\r\n//　人類の月面開発が未曾有の大失敗を犯すのだろうか。\r\n//　あるいは異星人との決戦場に――？\r\n  Mas o que poderia fazer algo assim? Uma guerra pelo primeiro assentamento lunar? Uma força extraterrestre invasora?\r\n"
  },
  {
   "offset": 6187,
@@ -107,22 +107,22 @@
  {
   "offset": 6445,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150180a01'>\r\n//《あっ》\r\n《Oh!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150180a01'>\r\n//《あっ》\r\n《Ah!》\r\n"
  },
  {
   "offset": 6570,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150190a00'>\r\n//「……む？」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150190a00'>\r\n//「……む？」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 6693,
   "en": "\r\n//　村正は混乱が尾を引き、俺は頭がＳＦ方向へ進んで\r\n//いたせいだろう、それに気付くのが遅れた。\r\n//　\r\n//　人がいる。\r\n  In our confusion, we failed to notice that we weren't alone. A short distance away, a lone figure is walking down the beach, moving away from us with slow, steady stride.\r\n\r\n//　足跡を点々と残しつつ、歩いてゆく影。\r\n//　俺から見えるのは後姿であり、暗くもあって、良く\r\n//判然としないが――どうやら女性か。\r\n  A woman, though in the darkness and with her back to us, it is difficult to make out any details.\r\n\r\n//　彼女は離れていこうとしていた。\r\n//　しかし、何かを感じたのだろう。\r\n\r\n//　不意にこちらへ、振り返る。\r\n//　まずい――と思ったが、どうにもできなかった。\r\n\r\n//　幾許かの距離を置いて対面する。\r\n  Suddenly she stops. Perhaps she sensed our presence. Before I can think to react, she wheels and fixes me with her stare.\r\n\r\n  What am I supposed to do? I freeze, and for a moment we look into each other's eyes.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　村正は混乱が尾を引き、俺は頭がＳＦ方向へ進んで\r\n//いたせいだろう、それに気付くのが遅れた。\r\n//　\r\n//　人がいる。\r\n  Em nossa confusão, não percebemos que não estávamos sozinhos. A pouca distância, uma figura solitária caminha pela praia, afastando-se de nós com passos lentos e firmes.\r\n\r\n//　足跡を点々と残しつつ、歩いてゆく影。\r\n//　俺から見えるのは後姿であり、暗くもあって、良く\r\n//判然としないが――どうやら女性か。\r\n  Uma mulher, embora, na escuridão e de costas para nós, seja difícil distinguir qualquer detalhe.\r\n\r\n//　彼女は離れていこうとしていた。\r\n//　しかし、何かを感じたのだろう。\r\n\r\n//　不意にこちらへ、振り返る。\r\n//　まずい――と思ったが、どうにもできなかった。\r\n\r\n//　幾許かの距離を置いて対面する。\r\n  De repente, ela para. Talvez tenha sentido nossa presença. Antes que eu possa pensar em reagir, ela se vira e crava o olhar em mim.\r\n\r\n  O que devo fazer? Fico paralisado e, por um momento, nossos olhares se encontram.\r\n\r\n"
  },
  {
   "offset": 7839,
   "en": "\r\n//　……知らない女性だ。\r\n\r\n//　俺は彼女に出会った事はない。\r\n//　それは断定を下せる。が……何か、記憶を刺激する\r\n//ものがあった。\r\n\r\n//　全貌には覚えがないのに、部分部分が引っ掛かる。\r\n//　例えば、あの双眸――\r\n  I've never seen her before in my life. Of this I am certain.\r\n\r\n  And yet, though as a whole her aspect is unknown to me, parts of her I find strikingly familiar. In particular, those eyes.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……知らない女性だ。\r\n\r\n//　俺は彼女に出会った事はない。\r\n//　それは断定を下せる。が……何か、記憶を刺激する\r\n//ものがあった。\r\n\r\n//　全貌には覚えがないのに、部分部分が引っ掛かる。\r\n//　例えば、あの双眸――\r\n  Nunca a vi antes na vida. Disso tenho certeza.\r\n\r\n  E, no entanto, embora seu conjunto me seja desconhecido, há partes dela que me soam estranhamente familiares. Em especial, aqueles olhos.\r\n"
  },
  {
   "offset": 8346,
@@ -132,12 +132,12 @@
  {
   "offset": 8470,
   "en": "\r\n//　忽然と現れた武者――だろう、彼女にすれば――を\r\n//見て、そこには動揺の片鱗も湧かなかった。\r\n//　この景色のようにただ静かで、\r\n//　ほんの小さく波立っている。\r\n  Her expression betrays no hint of surprise, even though to her it must seem that I appeared out of thin air.\r\n\r\n  Her gaze is quiet, calm, like the night around us, but at the same time somehow distant, as if she is gazing into the past, or perhaps into the depths of her own heart.\r\n\r\n//　遠い過去を見る眼差しだった。\r\n//　あるいは、己の心を見詰める眼。\r\n\r\n//　彼女は何も言わず、俺も、何一つ口にできなかった。\r\n  She says nothing, and I know not what to say. A moment passes in silence.\r\n",
-  "pt": ""
+  "pt": "\r\n//　忽然と現れた武者――だろう、彼女にすれば――を\r\n//見て、そこには動揺の片鱗も湧かなかった。\r\n//　この景色のようにただ静かで、\r\n//　ほんの小さく波立っている。\r\n  Sua expressão não trai nenhum sinal de surpresa, embora, para ela, eu deva ter surgido do nada.\r\n\r\n  Seu olhar é quieto, calmo como a noite ao nosso redor, mas ao mesmo tempo de algum modo distante, como se contemplasse o passado, ou talvez as profundezas do próprio coração.\r\n\r\n//　遠い過去を見る眼差しだった。\r\n//　あるいは、己の心を見詰める眼。\r\n\r\n//　彼女は何も言わず、俺も、何一つ口にできなかった。\r\n  Ela não diz nada, e eu não sei o que dizer. Um momento passa em silêncio.\r\n"
  },
  {
   "offset": 9262,
   "en": "\r\n//　数秒だけ止まったその足取りが、再び前方へ向かう。\r\n//　歩き去ってゆく。\r\n//　\r\n//　真っ直ぐに。\r\n  And then she turns and resumes her march. Her path is unbending, straight as a line.\r\n\r\n//　彼女はもう止まる事も、振り返る事もなかった。\r\n\r\n  I watch until she fades from sight, but never once does she slow her stride or turn to face me again.\r\n",
-  "pt": ""
+  "pt": "\r\n//　数秒だけ止まったその足取りが、再び前方へ向かう。\r\n//　歩き去ってゆく。\r\n//　\r\n//　真っ直ぐに。\r\n  E então ela se vira e retoma a caminhada. Seu trajeto é inflexível, reto como uma linha.\r\n\r\n//　彼女はもう止まる事も、振り返る事もなかった。\r\n\r\n  Eu a observo até sumir de vista, mas nem uma vez ela diminui o passo ou se vira para encarar-me de novo.\r\n"
  },
  {
   "offset": 9684,
@@ -147,41 +147,41 @@
  {
   "offset": 9802,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150220a01'>\r\n//《御堂》\r\n《Mido.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150220a01'>\r\n//《御堂》\r\n《Mido.》\r\n"
  },
  {
   "offset": 9929,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150230a00'>\r\n//「ああ」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150230a00'>\r\n//「ああ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 10045,
   "en": "\r\n//　時空間の歪みが生じている。\r\n//　ここからも無事、抜け出せるようだ。\r\n  I feel the now familiar pull. Our sojourn in this time is coming to an end.\r\n",
-  "pt": ""
+  "pt": "\r\n//　時空間の歪みが生じている。\r\n//　ここからも無事、抜け出せるようだ。\r\n  Sinto o agora familiar puxão. Nossa estada neste tempo está chegando ao fim.\r\n"
  },
  {
   "offset": 10238,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150240a01'>\r\n//《今の、誰？》\r\n《Who was that?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150240a01'>\r\n//《今の、誰？》\r\n《Quem era aquela?》\r\n"
  },
  {
   "offset": 10382,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150250a00'>\r\n//「知らない」\r\n\"I don't know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150250a00'>\r\n//「知らない」\r\n\"Não sei.\"\r\n"
  },
  {
   "offset": 10513,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150260a01'>\r\n//《……本当？》\r\n《...Are you sure?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150260a01'>\r\n//《……本当？》\r\n《...Tem certeza?》\r\n"
  },
  {
   "offset": 10660,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150270a00'>\r\n//「なぜ疑う」\r\n\"Why wouldn't I be?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0150270a00'>\r\n//「なぜ疑う」\r\n\"Por que eu não teria?\"\r\n"
  },
  {
   "offset": 10796,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150280a01'>\r\n//《……まぁいいけど。\r\n//　それより、気をつけて》\r\n《...If you say so. Anyway, get ready.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150290a01'>\r\n//《多分、これで元に――》\r\n《I think this is it.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150280a01'>\r\n//《……まぁいいけど。\r\n//　それより、気をつけて》\r\n《...Se você diz. Enfim, prepare-se.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0150290a01'>\r\n//《多分、これで元に――》\r\n《Acho que é agora.》\r\n"
  }
 ]

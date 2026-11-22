@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//　外に出た。\r\n//　見るところ、ここは鎌倉市の中心部からやや外れた\r\n//辺りのようだ。\r\n  We step outside, where I realize that we're in a suburb of Kamakura. The streets are only lightly paved, and lined with squat houses packed tightly.\r\n\r\n//　余り舗装の行き届いていない道に沿って、小振りの\r\n//家々が<RUBY text='のき'>軒</RUBY>を並べている。\r\n",
-  "pt": ""
+  "pt": "\r\n//　外に出た。\r\n//　見るところ、ここは鎌倉市の中心部からやや外れた\r\n//辺りのようだ。\r\n  Saímos para fora, e percebo que estamos num subúrbio de Kamakura. As ruas são pouco pavimentadas e ladeadas por casas baixinhas, apertadas umas contra as outras.\r\n\r\n//　余り舗装の行き届いていない道に沿って、小振りの\r\n//家々が<RUBY text='のき'>軒</RUBY>を並べている。\r\n"
  },
  {
   "offset": 640,
@@ -17,12 +17,12 @@
  {
   "offset": 894,
   "en": "\r\n//　……気詰まりだ。\r\n//　まだ一言も、言葉を交わしていない。\r\n  The air is thick. Neither of us speaks. Muramasa perhaps does not feel that she needs to.\r\n\r\n//　村正としては、含むところがあるのだろう。当たり\r\n//前だ。\r\n//　俺としては、昨晩の醜態を思い起こすにつけ、口が\r\n//重くなるばかりだった。当たり前だが。\r\n  She is right. Her silence is enough, whereas I find my tongue weighed down by the memory of last night's debacle.\r\n\r\n  I know that I should apologize and probably never stop... but where do I begin?\r\n\r\n\r\n//　どうしたものだろう。\r\n//　平謝りに謝るしかないのはわかっているのだが……。\r\n",
-  "pt": ""
+  "pt": "\r\n//　……気詰まりだ。\r\n//　まだ一言も、言葉を交わしていない。\r\n  O ar está pesado. Nenhum de nós fala. Talvez Muramasa sinta que não precisa.\r\n\r\n//　村正としては、含むところがあるのだろう。当たり\r\n//前だ。\r\n//　俺としては、昨晩の醜態を思い起こすにつけ、口が\r\n//重くなるばかりだった。当たり前だが。\r\n  Ela tem razão. O silêncio dela basta, enquanto minha língua pesa com a lembrança do vexame da noite passada.\r\n\r\n  Sei que deveria me desculpar e provavelmente nunca parar... mas por onde começo?\r\n\r\n\r\n//　どうしたものだろう。\r\n//　平謝りに謝るしかないのはわかっているのだが……。\r\n"
  },
  {
   "offset": 1633,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120030a01'>\r\n//「ねえ」\r\n\"Mido?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120030a01'>\r\n//「ねえ」\r\n\"Mido?\"\r\n"
  },
  {
   "offset": 1756,
@@ -32,7 +32,7 @@
  {
   "offset": 1875,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120050a01'>\r\n//「少し……元気になった？」\r\n\"Are you... feeling better?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120050a01'>\r\n//「少し……元気になった？」\r\n\"Você está... se sentindo melhor?\"\r\n"
  },
  {
   "offset": 2046,
@@ -42,12 +42,12 @@
  {
   "offset": 2170,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120070a00'>\r\n//「ああ。\r\n//　かもしれん……」\r\n\"...Yes. Perhaps.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120070a00'>\r\n//「ああ。\r\n//　かもしれん……」\r\n\"...Sim. Talvez.\"\r\n"
  },
  {
   "offset": 2329,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120080a01'>\r\n//「そう……」\r\n\"I'm glad.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120080a01'>\r\n//「そう……」\r\n\"Que bom.\"\r\n"
  },
  {
   "offset": 2462,
@@ -62,17 +62,17 @@
  {
   "offset": 2704,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120110a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120110a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n"
  },
  {
   "offset": 2825,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120120a01'>\r\n//「なに？」\r\n\"Hmm?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120120a01'>\r\n//「なに？」\r\n\"Hmm?\"\r\n"
  },
  {
   "offset": 2950,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120130a00'>\r\n//「……昨日の事だが」\r\n\"About last night...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120130a00'>\r\n//「……昨日の事だが」\r\n\"Sobre a noite passada...\"\r\n"
  },
  {
   "offset": 3099,
@@ -82,17 +82,17 @@
  {
   "offset": 3224,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120150a01'>\r\n//「え、ええ」\r\n\"Y- Yes?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120150a01'>\r\n//「え、ええ」\r\n\"S- Sim?\"\r\n"
  },
  {
   "offset": 3355,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120160a00'>\r\n//「……あぁ、その……」\r\n\"I... well...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120160a00'>\r\n//「……あぁ、その……」\r\n\"Eu... bem...\"\r\n"
  },
  {
   "offset": 3500,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120170a00'>\r\n//「済まなかった」\r\n\"I'm sorry.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120170a00'>\r\n//「済まなかった」\r\n\"Me desculpe.\"\r\n"
  },
  {
   "offset": 3634,
@@ -102,42 +102,42 @@
  {
   "offset": 3758,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120190a00'>\r\n//「謝って済む事でもないが……」\r\n\"I won't ask you to forgive me...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120190a00'>\r\n//「謝って済む事でもないが……」\r\n\"Não vou pedir que me perdoe...\"\r\n"
  },
  {
   "offset": 3935,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120200a01'>\r\n//「……いいのよ、別に。\r\n//　気にしないで」\r\n\"Y- You don't have to! It's fine.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120200a01'>\r\n//「……いいのよ、別に。\r\n//　気にしないで」\r\n\"V- Você não precisa! Está tudo bem.\"\r\n"
  },
  {
   "offset": 4134,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120210a00'>\r\n//「そうもいくまい」\r\n\"That's not what I would call it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120210a00'>\r\n//「そうもいくまい」\r\n\"Não é bem assim.\"\r\n"
  },
  {
   "offset": 4293,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120220a01'>\r\n//「……私は……」\r\n\"Mido...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120220a01'>\r\n//「……私は……」\r\n\"Mido...\"\r\n"
  },
  {
   "offset": 4430,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120230a01'>\r\n//「わ、私はね。\r\n//　貴方が望むのであれば、」\r\n\"If... that's what you want from me...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120230a01'>\r\n//「わ、私はね。\r\n//　貴方が望むのであれば、」\r\n\"Se... é isso que você quer de mim...\"\r\n"
  },
  {
   "offset": 4637,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120240a00'>\r\n//「ともかく、約束する。\r\n//　馬鹿な振舞いはあれきりだ」\r\n\"It was a fluke. Temporary insanity.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120240a00'>\r\n//「ともかく、約束する。\r\n//　馬鹿な振舞いはあれきりだ」\r\n\"Foi um deslize. Loucura passageira.\"\r\n"
  },
  {
   "offset": 4851,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120250a01'>\r\n//「…………え？」\r\n\"...What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120250a01'>\r\n//「…………え？」\r\n\"...O quê?\"\r\n"
  },
  {
   "offset": 4989,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120260a00'>\r\n//「あんな真似はもう二度としない」\r\n\"It will never happen again.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120260a00'>\r\n//「あんな真似はもう二度としない」\r\n\"Nunca mais vai acontecer.\"\r\n"
  },
  {
   "offset": 5164,
@@ -147,122 +147,122 @@
  {
   "offset": 5294,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120280a01'>\r\n//「そ……そぅぉ……」\r\n\"<I>Oh.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120280a01'>\r\n//「そ……そぅぉ……」\r\n\"<I>Ah.</I>\"\r\n"
  },
  {
   "offset": 5440,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120290a00'>\r\n//「絶対にだ」\r\n\"I promise.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120290a00'>\r\n//「絶対にだ」\r\n\"Eu prometo.\"\r\n"
  },
  {
   "offset": 5568,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120300a01'>\r\n//「ふ、ふぅん？」\r\n\"<I>Really.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120300a01'>\r\n//「ふ、ふぅん？」\r\n\"<I>Sério.</I>\"\r\n"
  },
  {
   "offset": 5712,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120310a00'>\r\n//「天地に誓おう」\r\n\"I swear it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120310a00'>\r\n//「天地に誓おう」\r\n\"Eu juro.\"\r\n"
  },
  {
   "offset": 5847,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120320a01'>\r\n//「うふふふふふふふふふふふふふ」\r\n\"Hehehehehehehe...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120320a01'>\r\n//「うふふふふふふふふふふふふふ」\r\n\"Hehehehehehehe...\"\r\n"
  },
  {
   "offset": 6018,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120330a00'>\r\n//「……村正？」\r\n\"...Muramasa?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120330a00'>\r\n//「……村正？」\r\n\"...Muramasa?\"\r\n"
  },
  {
   "offset": 6151,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120340a01'>\r\n//「なぁに？」\r\n\"<I>Yes?</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120340a01'>\r\n//「なぁに？」\r\n\"<I>Sim?</I>\"\r\n"
  },
  {
   "offset": 6286,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120350a00'>\r\n//「やはり……怒っているか？」\r\n\"You're... angry? Of course you are.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120350a00'>\r\n//「やはり……怒っているか？」\r\n\"Você está... com raiva? Claro que está.\"\r\n"
  },
  {
   "offset": 6463,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120360a01'>\r\n//「ど、どうして？」\r\n\"I'm not㉓<I>angry.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120360a01'>\r\n//「ど、どうして？」\r\n\"Não estou㉓<I>com raiva.</I>\"\r\n"
  },
  {
   "offset": 6619,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120370a00'>\r\n//「いや、何となく……」\r\n\"You don't have to―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120370a00'>\r\n//「いや、何となく……」\r\n\"Você não precisa―\"\r\n"
  },
  {
   "offset": 6772,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120380a01'>\r\n//「私の、どこが、怒ってるのかしら？\r\n//　こんなに、とっても、笑顔でしょう？」\r\n\"<I>Excuse me.</I>㉑ I'm smiling, aren't I? What part of this smile says angry?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120380a01'>\r\n//「私の、どこが、怒ってるのかしら？\r\n//　こんなに、とっても、笑顔でしょう？」\r\n\"<I>Com licença.</I>㉑ Estou sorrindo, não estou? Que parte deste sorriso diz que estou com raiva?\"\r\n"
  },
  {
   "offset": 7069,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120390a00'>\r\n//「そ、そうだな」\r\n\"Ah. True.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120390a00'>\r\n//「そ、そうだな」\r\n\"Ah. É verdade.\"\r\n"
  },
  {
   "offset": 7202,
   "en": "\r\n//　仁王像の口周辺だけ恵比寿様と取り替えたような、\r\n//素晴らしい笑顔ではある。\r\n  She is indeed smiling, like a benevolent goddess. The sort who has a penchant for storms.\r\n",
-  "pt": ""
+  "pt": "\r\n//　仁王像の口周辺だけ恵比寿様と取り替えたような、\r\n//素晴らしい笑顔ではある。\r\n  Ela está mesmo sorrindo, como uma deusa benevolente. Do tipo que tem um fraco por tempestades.\r\n"
  },
  {
   "offset": 7421,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120400a00'>\r\n//「き……気のせいだったか？」\r\n\"So... I'm imagining it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120400a00'>\r\n//「き……気のせいだったか？」\r\n\"Então... é impressão minha?\"\r\n"
  },
  {
   "offset": 7586,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120410a01'>\r\n//「そ、そぉよ。\r\n//　気のせいよぅ？」\r\n\"Well, how else do you explain it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120410a01'>\r\n//「そ、そぉよ。\r\n//　気のせいよぅ？」\r\n\"Bem, de que outra forma você explica?\"\r\n"
  },
  {
   "offset": 7777,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120420a00'>\r\n//「なら……良いのだが……」\r\n\"All right then...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120420a00'>\r\n//「なら……良いのだが……」\r\n\"Está bem, então...\"\r\n"
  },
  {
   "offset": 7933,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120430a01'>\r\n//「ふっ、ふふふ。\r\n//　御堂ったら、変なこと言って」\r\n\"Oh Mido. You can be so silly sometimes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120430a01'>\r\n//「ふっ、ふふふ。\r\n//　御堂ったら、変なこと言って」\r\n\"Ah, Mido. Você pode ser tão bobo às vezes.\"\r\n"
  },
  {
   "offset": 8151,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120440a00'>\r\n//「あ、ああ……済まん」\r\n\"Y- Yes. Of course. You're right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120440a00'>\r\n//「あ、ああ……済まん」\r\n\"S- Sim. Claro. Você tem razão.\"\r\n"
  },
  {
   "offset": 8316,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120450a01'>\r\n//「ふふ、ふふふふふふふふふふ」\r\n\"Hehehehehe...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120450a01'>\r\n//「ふふ、ふふふふふふふふふふ」\r\n\"Hehehehehe...\"\r\n"
  },
  {
   "offset": 8480,
   "en": "\r\n//　ここは何処だ。\r\n//　北極海か。\r\n\r\n//　温暖湿潤気候の国とも思えないこの寒気は一体どこ\r\n//から吹いてきているのだ？\r\n//　これも異常気象だろうか。\r\n  Where am I? The north <br>pole? A frigid wind is blowing.\r\n\r\n  The weather㉓<I>has</I>㉓been schizophrenic lately...\r\n",
-  "pt": ""
+  "pt": "\r\n//　ここは何処だ。\r\n//　北極海か。\r\n\r\n//　温暖湿潤気候の国とも思えないこの寒気は一体どこ\r\n//から吹いてきているのだ？\r\n//　これも異常気象だろうか。\r\n  Onde estou? No Pólo Norte? Um vento gélido está soprando.\r\n\r\n  O clima㉓<I>tem</I>㉓estado esquizofrênico ultimamente...\r\n"
  },
  {
   "offset": 8823,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120460a01'>\r\n//「……はぁ。もぉ」\r\n\"...hah...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120460a01'>\r\n//「……はぁ。もぉ」\r\n\"...hah...\"\r\n"
  },
  {
   "offset": 8965,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120470a01'>\r\n//「いいから帰りましょ、御堂。\r\n//　別に用事はないんでしょう？」\r\n\"Can we go home now? I don't imagine we have pressing business here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0120470a01'>\r\n//「いいから帰りましょ、御堂。\r\n//　別に用事はないんでしょう？」\r\n\"Podemos ir para casa agora? Imagino que não tenhamos negócios urgentes aqui.\"\r\n"
  },
  {
   "offset": 9229,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120480a00'>\r\n//「あぁ……いや」\r\n\"Oh. Actually...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120480a00'>\r\n//「あぁ……いや」\r\n\"Ah. Na verdade...\"\r\n"
  },
  {
   "offset": 9368,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120490a00'>\r\n//「少し、やってみたい事がある」\r\n\"There are a few things I'd like to do first.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0120490a00'>\r\n//「少し、やってみたい事がある」\r\n\"Há algumas coisas que eu gostaria de fazer primeiro.\"\r\n"
  },
  {
   "offset": 9557,
@@ -272,6 +272,6 @@
  {
   "offset": 9673,
   "en": "\r\n//　まずは小さな恩人のために食事を調達。\r\n//　それから――\r\n  First, we need to see that my little savior is properly fed.\r\n\r\n  And after that...\r\n",
-  "pt": ""
+  "pt": "\r\n//　まずは小さな恩人のために食事を調達。\r\n//　それから――\r\n  Primeiro, precisamos garantir que minha pequena salvadora receba uma refeição decente.\r\n\r\n  E depois disso...\r\n"
  }
 ]

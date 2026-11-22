@@ -12,12 +12,12 @@
  {
   "offset": 470,
   "en": "\r\n//　石を手放して、立ち上がる。\r\n//　俺が離れても、雪車町は倒れたまま、こちらを見て\r\n//いた。\r\n  I let go of the rock and rise to my feet. Sorimachi lies there, looking at me.\r\n\r\n//　踵を返す。\r\n  I turn to go. \r\n",
-  "pt": ""
+  "pt": "\r\n//　石を手放して、立ち上がる。\r\n//　俺が離れても、雪車町は倒れたまま、こちらを見て\r\n//いた。\r\n  Solto a pedra e me ponho de pé. Sorimachi continua caído, olhando para mim.\r\n\r\n//　踵を返す。\r\n  Dou meia-volta para ir embora.\r\n"
  },
  {
   "offset": 739,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340030a12'>\r\n//「待ちな……」\r\n\"Hold it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340030a12'>\r\n//「待ちな……」\r\n\"Espere aí.\"\r\n"
  },
  {
   "offset": 877,
@@ -27,37 +27,37 @@
  {
   "offset": 995,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340050a12'>\r\n//「なんで、<RUBY text='や'>殺</RUBY>らねえ」\r\n\"Why don't you finish the job?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340050a12'>\r\n//「なんで、<RUBY text='や'>殺</RUBY>らねえ」\r\n\"Por que não termina o serviço?\"\r\n"
  },
  {
   "offset": 1187,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0340060a00'>\r\n//「殺せない」\r\n\"I can't.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0340060a00'>\r\n//「殺せない」\r\n\"Não consigo.\"\r\n"
  },
  {
   "offset": 1313,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340070a12'>\r\n//「俺が、憎くねえのかよ」\r\n\"What, you㉓<I>forgive</I>㉓me? That it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340070a12'>\r\n//「俺が、憎くねえのかよ」\r\n\"O quê, você㉓<I>me perdoa</I>㉓? É isso?\"\r\n"
  },
  {
   "offset": 1499,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0340080a00'>\r\n//「憎い」\r\n\"Never.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0340080a00'>\r\n//「憎い」\r\n\"Nunca.\"\r\n"
  },
  {
   "offset": 1617,
   "en": "\r\n//　心魂からの憎悪を呟く。\r\n  My voice is thick with hate.\r\n",
-  "pt": ""
+  "pt": "\r\n//　心魂からの憎悪を呟く。\r\n  Minha voz está carregada de ódio.\r\n"
  },
  {
   "offset": 1699,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340090a12'>\r\n//「だったら、なんでだ？」\r\n\"So finish it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340090a12'>\r\n//「だったら、なんでだ？」\r\n\"Então termine.\"\r\n"
  },
  {
   "offset": 1857,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0340100a00'>\r\n//「……復讐だけでは、殺せない」\r\n\"No. I won't kill for revenge.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0340100a00'>\r\n//「……復讐だけでは、殺せない」\r\n\"Não. Não vou matar por vingança.\"\r\n"
  },
  {
   "offset": 2031,
@@ -67,17 +67,17 @@
  {
   "offset": 2164,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0340120a00'>\r\n//「俺は……\r\n//　憎しみで、人を殺す事はできない……」\r\n\"I won't kill to satisfy my hate.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0340120a00'>\r\n//「俺は……\r\n//　憎しみで、人を殺す事はできない……」\r\n\"Não vou matar para satisfazer meu ódio.\"\r\n"
  },
  {
   "offset": 2372,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340130a12'>\r\n//「……そうかぃ……」\r\n\"...Yeah?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340130a12'>\r\n//「……そうかぃ……」\r\n\"...Ah, é?\"\r\n"
  },
  {
   "offset": 2519,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340140a12'>\r\n//「なら、これからどうするんだ？」\r\n\"So what now?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340140a12'>\r\n//「なら、これからどうするんだ？」\r\n\"E agora?\"\r\n"
  },
  {
   "offset": 2688,
@@ -87,12 +87,12 @@
  {
   "offset": 2812,
   "en": "\r\n//　これから。\r\n//　俺は、どうするのか。\r\n\r\n//　復讐を拒絶して、\r\n//　湊斗景明は何をするのか。\r\n  What now?\r\n\r\n  What will I do, having forsaken vengeance?\r\n",
-  "pt": ""
+  "pt": "\r\n//　これから。\r\n//　俺は、どうするのか。\r\n\r\n//　復讐を拒絶して、\r\n//　湊斗景明は何をするのか。\r\n  E agora?\r\n\r\n  O que farei, tendo renunciado à vingança?\r\n"
  },
  {
   "offset": 3018,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340160a12'>\r\n//「逃げるつもりだったろう。\r\n//　駅で、俺が邪魔しなけりゃア」\r\n\"You were planning to disappear, weren't you? Before I got in the way.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340160a12'>\r\n//「逃げるつもりだったろう。\r\n//　駅で、俺が邪魔しなけりゃア」\r\n\"Você pretendia desaparecer, não pretendia? Antes que eu atrapalhasse.\"\r\n"
  },
  {
   "offset": 3284,
@@ -102,12 +102,12 @@
  {
   "offset": 3402,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340180a12'>\r\n//「逃げるか？\r\n//　自分のやったこと全部、置き捨てて……」\r\n\"Is that what you're gonna do? Run? From all the shit you've done?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0340180a12'>\r\n//「逃げるか？\r\n//　自分のやったこと全部、置き捨てて……」\r\n\"É isso que você vai fazer? Fugir? De toda a merda que você fez?\"\r\n"
  },
  {
   "offset": 3658,
   "en": "\r\n//　一切、全てを忘れて。\r\n//　独り、何処かへ。\r\n  Yes... I could run. Far, far away, to a place where no one knows me. A place where I can forget.\r\n\r\n//　それとも――――\r\n  I can run.\r\n\r\n  Or―\r\n",
-  "pt": ""
+  "pt": "\r\n//　一切、全てを忘れて。\r\n//　独り、何処かへ。\r\n  Sim... eu poderia fugir. Para bem longe, para um lugar onde ninguém me conhece. Um lugar onde eu possa esquecer.\r\n\r\n//　それとも――――\r\n  Eu posso fugir.\r\n\r\n  Ou―\r\n"
  },
  {
   "offset": 3894,
@@ -122,6 +122,6 @@
  {
   "offset": 3929,
   "en": "Stay on the path",
-  "pt": ""
+  "pt": "Continuar no caminho"
  }
 ]

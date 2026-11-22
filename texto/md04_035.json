@@ -2,76 +2,76 @@
  {
   "offset": 213,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350010a10'>\r\n//「どうやった、署長？」\r\n\"What's the word, Chief?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350010a10'>\r\n//「どうやった、署長？」\r\n\"E aí, chefe? Alguma novidade?\"\r\n"
  },
  {
   "offset": 378,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350020a11'>\r\n//「間違いありません。\r\n//　進駐軍は撤退に向けて準備しています」\r\n\"It's confirmed, Your Highness. GHQ is indeed preparing to withdraw.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350020a11'>\r\n//「間違いありません。\r\n//　進駐軍は撤退に向けて準備しています」\r\n\"Está confirmado, Vossa Alteza. O GHQ está mesmo se preparando para se retirar.\"\r\n"
  },
  {
   "offset": 636,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350030a10'>\r\n//「なら、さっきの香奈枝さんの話は」\r\n\"So Miss Kanae's offer...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350030a10'>\r\n//「なら、さっきの香奈枝さんの話は」\r\n\"Então a proposta da senhorita Kanae...\"\r\n"
  },
  {
   "offset": 820,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350040a11'>\r\n//「はい。\r\n//　信じてよろしいかと」\r\n\"Can be trusted? I believe so.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350040a11'>\r\n//「はい。\r\n//　信じてよろしいかと」\r\n\"Pode ser confiável? Creio que sim.\"\r\n"
  },
  {
   "offset": 998,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350050a10'>\r\n//「……はぁ……。\r\n//　えらいことやねぇ」\r\n\"...Damn. What a mess.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350060a10'>\r\n//「大和を本当に欲しがってたんは、大英連邦\r\n//やのうて、新大陸の独立派……？」\r\n\"So these American Dreamers were calling the shots? They're the ones who wanted this war?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350050a10'>\r\n//「……はぁ……。\r\n//　えらいことやねぇ」\r\n\"...Droga. Que confusão.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350060a10'>\r\n//「大和を本当に欲しがってたんは、大英連邦\r\n//やのうて、新大陸の独立派……？」\r\n\"Então eram esses Sonhadores Americanos que davam as cartas? Foram eles que quiseram esta guerra?\"\r\n"
  },
  {
   "offset": 1487,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350070a11'>\r\n//「聞けば納得できる話ですが。\r\n//　……確かに意外でした」\r\n\"It fits what we know, Your Highness. But I agree, it is a surprise.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350070a11'>\r\n//「聞けば納得できる話ですが。\r\n//　……確かに意外でした」\r\n\"Faz sentido com o que sabemos, Vossa Alteza. Mas concordo, é uma surpresa.\"\r\n"
  },
  {
   "offset": 1736,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350080a10'>\r\n//「ほんまにね……」\r\n\"Yeah...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350080a10'>\r\n//「ほんまにね……」\r\n\"Pois é...\"\r\n"
  },
  {
   "offset": 1879,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350090a11'>\r\n//「大鳥大尉も大した方です」\r\n\"I must say, I'm impressed with Captain Otori's performance.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350090a11'>\r\n//「大鳥大尉も大した方です」\r\n\"Devo dizer que fiquei impressionado com a atuação da capitã Otori.\"\r\n"
  },
  {
   "offset": 2077,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350100a10'>\r\n//「お？　なんや、珍しいこと言うなぁ。\r\n//　さては惚れたか？」\r\n\"Oh? Praise ain't like you, Chief. Don't tell me you're fallin' for her.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350100a10'>\r\n//「お？　なんや、珍しいこと言うなぁ。\r\n//　さては惚れたか？」\r\n\"Ora? Elogios não combinam com você, chefe. Não me diga que se apaixonou por ela.\"\r\n"
  },
  {
   "offset": 2345,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350110a11'>\r\n//「ご冗談を。\r\n//　そんな気は起こしたくとも起こせぬ身の上\r\n//です」\r\n\"Your Highness jests. Even if I had such feelings, I could not act on them.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350110a11'>\r\n//「ご冗談を。\r\n//　そんな気は起こしたくとも起こせぬ身の上\r\n//です」\r\n\"Vossa Alteza brinca. Mesmo que eu tivesse tais sentimentos, não poderia dar vazão a eles.\"\r\n"
  },
  {
   "offset": 2614,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350120a11'>\r\n//「宮殿下はご存知でしょう」\r\n\"As Your Highness knows better than most.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350120a11'>\r\n//「宮殿下はご存知でしょう」\r\n\"Como Vossa Alteza sabe melhor do que ninguém.\"\r\n"
  },
  {
   "offset": 2793,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350130a10'>\r\n//「あ……そやったね。\r\n//　すまん。うっかりしてたえ」\r\n\"Oh... right. Sorry. Didn't mean anything by it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350130a10'>\r\n//「あ……そやったね。\r\n//　すまん。うっかりしてたえ」\r\n\"Ah... é verdade. Desculpa. Não foi minha intenção.\"\r\n"
  },
  {
   "offset": 3025,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350140a11'>\r\n//「いえ。\r\n//　……とにかく、これで全て終わります」\r\n\"Quite all right, Your Highness. Now if all goes well, the war will end by nightfall.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350140a11'>\r\n//「いえ。\r\n//　……とにかく、これで全て終わります」\r\n\"Tudo bem, Vossa Alteza. Agora, se tudo correr bem, a guerra terminará ao anoitecer.\"\r\n"
  },
  {
   "offset": 3282,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350150a11'>\r\n//「終わりにできます」\r\n\"For better or worse, it㉒<I>will</I> end.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0350150a11'>\r\n//「終わりにできます」\r\n\"Para o bem ou para o mal, isso㉒<I>vai</I> terminar.\"\r\n"
  },
  {
   "offset": 3454,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350160a10'>\r\n//「そうやねえ。\r\n//　この戦争」\r\n\"You're right. It'll end.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350170a10'>\r\n//「とにかく、終わるわ……」\r\n\"...That's what counts.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350160a10'>\r\n//「そうやねえ。\r\n//　この戦争」\r\n\"É verdade. Vai terminar.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0350170a10'>\r\n//「とにかく、終わるわ……」\r\n\"...É o que importa.\"\r\n"
  }
 ]

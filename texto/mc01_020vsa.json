@@ -2,7 +2,7 @@
  {
   "offset": 216,
   "en": "\r\n//　……そのような卑劣な武器など！\r\n//　満身の力をもって受け止め、刃先を届かせねば良い\r\n//だけの事――\r\n  A coward's weapon. My strength will keep it at bay!\r\n",
-  "pt": ""
+  "pt": "\r\n//　……そのような卑劣な武器など！\r\n//　満身の力をもって受け止め、刃先を届かせねば良い\r\n//だけの事――\r\n  Uma arma de covarde. Minha força bastará para detê-la!\r\n"
  },
  {
   "offset": 431,
@@ -12,16 +12,16 @@
  {
   "offset": 552,
   "en": "\r\n//　しまった！\r\n//　指が痙攣して――<k>力が、全く――――！\r\n  My arms! They―won't move!\r\n",
-  "pt": ""
+  "pt": "\r\n//　しまった！\r\n//　指が痙攣して――<k>力が、全く――――！\r\n  Meus braços! Eles―não se movem!\r\n"
  },
  {
   "offset": 679,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc01/020vs0150b33'>\r\n//《あはははははははははははっ！\r\n//　やった！　あいつを殺したよっ！》\r\n《HAHAHAHAHAHAHA! I DID IT! I KILLED HIM!》\r\n\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc01/020vs0160b33'>\r\n//《だから――だから……\r\n//　……ねえ…………》\r\n《...Did you see?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc01/020vs0150b33'>\r\n//《あはははははははははははっ！\r\n//　やった！　あいつを殺したよっ！》\r\n《HAHAHAHAHAHAHA! CONSEGUI! MATEI ELE!》\r\n\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc01/020vs0160b33'>\r\n//《だから――だから……\r\n//　……ねえ…………》\r\n《...Você viu?》\r\n"
  },
  {
   "offset": 1104,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc01/020vs0170b33'>\r\n//《……よろこんで……くれ、る……？》\r\n《Is this... what you... wanted...?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc01/020vs0170b33'>\r\n//《……よろこんで……くれ、る……？》\r\n《É isto... o que você... queria...?》\r\n"
  }
 ]

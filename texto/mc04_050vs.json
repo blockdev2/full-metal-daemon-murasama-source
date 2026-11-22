@@ -2,46 +2,46 @@
  {
   "offset": 215,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0010a14'>\r\n//　……むぅ。\r\n//　なるほど、厄介な状況だ。\r\n\"Hmm... quite the conundrum you have here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0010a14'>\r\n//　……むぅ。\r\n//　なるほど、厄介な状況だ。\r\nHmm... que situação complicada a sua.\r\n"
  },
  {
   "offset": 410,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0020a14'>\r\n//　過去の対戦にヒントを求めるのは有効だろ\r\n//う。だが問題は、その方法が<RUBY text='・・・・・・・'>お前に実行でき</RUBY>\r\n//<RUBY text='・'>る</RUBY>ものでなければ意味がないという点だ。\r\n\"I agree that your past experiences likely hold the answer. However, bear in mind that the answer must be one you can use.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0020a14'>\r\n//　過去の対戦にヒントを求めるのは有効だろ\r\n//う。だが問題は、その方法が<RUBY text='・・・・・・・'>お前に実行でき</RUBY>\r\n//<RUBY text='・'>る</RUBY>ものでなければ意味がないという点だ。\r\nConcordo que suas experiências passadas provavelmente contêm a resposta. No entanto, lembre-se de que a resposta precisa ser algo que você consiga usar.\r\n"
  },
  {
   "offset": 875,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0030a14'>\r\n//　姿隠しの術を持たないお前が、姿隠しの術\r\n//でお前を苦しめた敵のことを参考にしても、\r\n//この場合はまるで徒労……そう思わないか。\r\n\"For example, you can't turn yourself invisible. It doesn't make much sense then, does it, to ask what someone who could would do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0030a14'>\r\n//　姿隠しの術を持たないお前が、姿隠しの術\r\n//でお前を苦しめた敵のことを参考にしても、\r\n//この場合はまるで徒労……そう思わないか。\r\nPor exemplo, você não consegue ficar invisível. Então não faz muito sentido perguntar o que alguém capaz disso faria, não é?\r\n"
  },
  {
   "offset": 1285,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0040a14'>\r\n//　どうだ？\r\n//　選択肢が限られてきただろう？\r\n\"Understand? This should narrow down your options.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0040a14'>\r\n//　どうだ？\r\n//　選択肢が限られてきただろう？\r\nEntende? Isso deve limitar bastante suas opções.\r\n"
  },
  {
   "offset": 1491,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0050a14'>\r\n//　苦戦しているな。\r\n\"Still struggling, are we?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0050a14'>\r\n//　苦戦しているな。\r\nAinda está penando, pelo visto?\r\n"
  },
  {
   "offset": 1636,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0060a14'>\r\n//　おれとしても助言が難しい。\r\n//　一般論くらいしか言えそうにないが……\r\n//　まぁ、一応聞いてゆけ。\r\n\"I wish I could be of more help. Unfortunately, the best I can do is dispense some common wisdom.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0060a14'>\r\n//　おれとしても助言が難しい。\r\n//　一般論くらいしか言えそうにないが……\r\n//　まぁ、一応聞いてゆけ。\r\nGostaria de poder ajudar mais. Infelizmente, o melhor que posso fazer é oferecer alguns conselhos genéricos.\r\n"
  },
  {
   "offset": 1968,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0070a14'>\r\n//　最強の武器を持つ者は、往々にして、それ\r\n//が命取りとなるものだ。\r\n\"An invincible weapon has a way of causing its master's downfall.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0070a14'>\r\n//　最強の武器を持つ者は、往々にして、それ\r\n//が命取りとなるものだ。\r\nUma arma invencível costuma acabar sendo a perdição de seu dono.\r\n"
  },
  {
   "offset": 2222,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0080a14'>\r\n//　その武器に頼り切りであったばかりに、失っ\r\n//た途端、何もできなくなってしまったり。\r\n//　あるいは……最強の武器を敵に<RUBY text='・・'>逆用</RUBY>されて\r\n//しまったり、な。\r\n\"Depend on it too much, and you won't know what to do if you ever lose it. And even if you're careful, there's always a chance that someone might find a way to use it against you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0080a14'>\r\n//　その武器に頼り切りであったばかりに、失っ\r\n//た途端、何もできなくなってしまったり。\r\n//　あるいは……最強の武器を敵に<RUBY text='・・'>逆用</RUBY>されて\r\n//しまったり、な。\r\nDependa demais dela e, se um dia perdê-la, não saberá o que fazer. E mesmo que tome cuidado, sempre há a chance de alguém encontrar um jeito de usá-la contra você.\r\n"
  },
  {
   "offset": 2736,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0090a14'>\r\n//　良くある話だろう？\r\n//　…………むぅ。\r\n//　なんだか自分の言葉が耳に痛いな。\r\n\"Happens all the time, right? ...Hmm. I feel like I should have thought of this sooner.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mc04/050vs0090a14'>\r\n//　良くある話だろう？\r\n//　…………むぅ。\r\n//　なんだか自分の言葉が耳に痛いな。\r\nAcontece o tempo todo, não? ...Hmm. Sinto que deveria ter pensado nisso antes.\r\n"
  }
 ]

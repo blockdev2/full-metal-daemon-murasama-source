@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//　雪車町一蔵。そういう名だった。\r\n//　青白い風貌のその男を、奇妙な箱に押し込められた\r\n//格好から見上げる。\r\n\r\n//　岩の上に腰掛けて、男は表情なく物思う様子だった。\r\n//　こちらには視線も、言葉も投げない。\r\n  I look up at the pale-faced man―Sorimachi, that's his name―from inside the box where he placed me.\r\n\r\n  He is sitting on a rock, staring into the distance. His expression is pensive. He has not spoken once.\r\n",
-  "pt": ""
+  "pt": "\r\n//　雪車町一蔵。そういう名だった。\r\n//　青白い風貌のその男を、奇妙な箱に押し込められた\r\n//格好から見上げる。\r\n\r\n//　岩の上に腰掛けて、男は表情なく物思う様子だった。\r\n//　こちらには視線も、言葉も投げない。\r\n  Olho para o homem de rosto pálido — Sorimachi, é esse o nome dele — de dentro da caixa onde ele me colocou.\r\n\r\n  Ele está sentado numa pedra, olhando para o horizonte. Sua expressão é pensativa. Ele não disse uma palavra sequer.\r\n"
  },
  {
   "offset": 735,
@@ -12,32 +12,32 @@
  {
   "offset": 869,
   "en": "\r\n//　損傷は、致命的なものとはならず済んだ。\r\n//　すぐ本来の<RUBY text='すがた'>蜘蛛形</RUBY>に戻ったのが功を奏したのだろう、\r\n//再生が迅速に進み、今はもう半ば快復している。\r\n  The damage from his attack was not fatal. Returning to my true form helped; repairs have proceeded rapidly, and now I am nearly recovered.\r\n\r\n  Of course, I am not out of danger. This box he put me in while I was incapacitated has rendered me helpless. Should he wish to destroy me, he can at his leisure.\r\n\r\n  The question is what does he want?\r\n\r\n//　もっとも機能停止に陥っている間に拘束され、今も\r\n//動けないのだから、やはり致命的な状態と考えるべき\r\n//なのかもしれない。\r\n//　男が破壊する気になれば、それまでだ。\r\n\r\n//　しかし……どういうつもりなのか。\r\n//　こちらから口を利いてやる義理はなく、意地のよう\r\n//に黙っていたが。向こうも口を開かないのでは事情が\r\n//まるで理解できない。\r\n  Until now, pride has prevented me from attempting to communicate with my kidnapper. But I need information, and it does not seem that he's going to volunteer any.\r\n\r\n  So be it. Though this box prevents me from transmitting long-range, he should be able to hear me.\r\n\r\n\r\n\r\n//　仕方もなかった。\r\n//　男に向かって、<RUBY text='きんちょうじょう'>金打声</RUBY>を送る――<k>この箱が如何なる\r\n//仕組みでか信号を妨害するため、景明との連絡は取れ\r\n//ないのだが、この至近距離なら届くだろう。\r\n",
-  "pt": ""
+  "pt": "\r\n//　損傷は、致命的なものとはならず済んだ。\r\n//　すぐ本来の<RUBY text='すがた'>蜘蛛形</RUBY>に戻ったのが功を奏したのだろう、\r\n//再生が迅速に進み、今はもう半ば快復している。\r\n  Os danos do ataque dele não foram fatais. Voltar à minha forma verdadeira ajudou; os reparos avançaram depressa, e agora estou quase recuperada.\r\n\r\n  Claro, ainda não estou fora de perigo. Esta caixa em que ele me colocou enquanto eu estava incapacitada me deixou indefesa. Se ele quiser me destruir, pode fazê-lo quando bem entender.\r\n\r\n  A questão é: o que ele quer?\r\n\r\n//　もっとも機能停止に陥っている間に拘束され、今も\r\n//動けないのだから、やはり致命的な状態と考えるべき\r\n//なのかもしれない。\r\n//　男が破壊する気になれば、それまでだ。\r\n\r\n//　しかし……どういうつもりなのか。\r\n//　こちらから口を利いてやる義理はなく、意地のよう\r\n//に黙っていたが。向こうも口を開かないのでは事情が\r\n//まるで理解できない。\r\n  Até agora, o orgulho me impediu de tentar me comunicar com meu sequestrador. Mas preciso de informações, e não parece que ele vá oferecer nenhuma.\r\n\r\n  Que assim seja. Embora esta caixa me impeça de transmitir a longas distâncias, ele deve conseguir me ouvir.\r\n\r\n\r\n\r\n//　仕方もなかった。\r\n//　男に向かって、<RUBY text='きんちょうじょう'>金打声</RUBY>を送る――<k>この箱が如何なる\r\n//仕組みでか信号を妨害するため、景明との連絡は取れ\r\n//ないのだが、この至近距離なら届くだろう。\r\n"
  },
  {
   "offset": 2530,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320020a01'>\r\n//《ねえ、貴方》\r\n《Hey.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320020a01'>\r\n//《ねえ、貴方》\r\n《Ei.》\r\n"
  },
  {
   "offset": 2665,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320030a12'>\r\n//「……はァい。\r\n//　花摘みですか……？」\r\n\"...Hmm? Need to water the lilies?\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320040a12'>\r\n//「申し訳ありゃァせんが、そいつは我慢して\r\n//くんなさい」\r\n\"Sorry. You're gonna have to hold it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320030a12'>\r\n//「……はァい。\r\n//　花摘みですか……？」\r\n\"...Hmm? Precisa regar as flores?\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320040a12'>\r\n//「申し訳ありゃァせんが、そいつは我慢して\r\n//くんなさい」\r\n\"Desculpe. Vai ter que segurar.\"\r\n"
  },
  {
   "offset": 3084,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320050a01'>\r\n//《……違います。\r\n//　そんなのするわけないでしょう、劒冑が》\r\n《...Hold what? I'm a tsurugi.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320050a01'>\r\n//《……違います。\r\n//　そんなのするわけないでしょう、劒冑が》\r\n《...Segurar o quê? Eu sou uma tsurugi.》\r\n"
  },
  {
   "offset": 3310,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320060a12'>\r\n//「へ、へ、ヘェ……！\r\n//　そうでしたかね。失礼しました」\r\n\"Heh heh heh... Right. I forgot.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320060a12'>\r\n//「へ、へ、ヘェ……！\r\n//　そうでしたかね。失礼しました」\r\n\"He, he, he... Ah, é mesmo. Esqueci.\"\r\n"
  },
  {
   "offset": 3532,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320070a12'>\r\n//「なんせ、<RUBY text='・・・・'>いけてる</RUBY>お姿の方が頭に残ってる\r\n//もんでしてねェ。\r\n//　村正の姐さん……」\r\n\"Seems I got the㉗<I>tasty</I> version of you stuck in my head. Neat trick there, by the way. Eh, Muramasa?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320070a12'>\r\n//「なんせ、<RUBY text='・・・・'>いけてる</RUBY>お姿の方が頭に残ってる\r\n//もんでしてねェ。\r\n//　村正の姐さん……」\r\n\"Parece que a versão㉗<I>gostosa</I> de você ficou grudada na minha cabeça. Belo truque, aliás. Hein, Muramasa?\"\r\n"
  },
  {
   "offset": 3903,
@@ -47,32 +47,32 @@
  {
   "offset": 4037,
   "en": "\r\n//　……そういえば、この男。\r\n//　私が蝦夷から蜘蛛の形に戻った時、全く動じる様子\r\n//がなかった。\r\n\r\n//　つまり最初から私を劒冑の村正と知って襲ってきた\r\n//……？\r\n  Come to think of it, he wasn't surprised when I reverted to spider form. He already knew I was a tsurugi. How?\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　……そういえば、この男。\r\n//　私が蝦夷から蜘蛛の形に戻った時、全く動じる様子\r\n//がなかった。\r\n\r\n//　つまり最初から私を劒冑の村正と知って襲ってきた\r\n//……？\r\n  Pensando bem, ele não se surpreendeu quando voltei à forma de aranha. Já sabia que eu era uma tsurugi. Como?\r\n\r\n"
  },
  {
   "offset": 4395,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320090a01'>\r\n//《貴方の前に蝦夷の姿で出たことはなかった\r\n//と思うけれど……》\r\n《You never saw my Emishi form before today...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320090a01'>\r\n//《貴方の前に蝦夷の姿で出たことはなかった\r\n//と思うけれど……》\r\n《Você nunca me viu na forma Emishi antes de hoje...》\r\n"
  },
  {
   "offset": 4640,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320100a12'>\r\n//「前にいましたさァ。\r\n//　姐さんからは後ろでしたが、ねェ」\r\n\"I did, actually. Though only from behind.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320100a12'>\r\n//「前にいましたさァ。\r\n//　姐さんからは後ろでしたが、ねェ」\r\n\"Na verdade, vi. Mas só por trás.\"\r\n"
  },
  {
   "offset": 4875,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320110a01'>\r\n//《…………。\r\n//　それ、<RUBY text='つけ'>尾行し</RUBY>てたってことよね》\r\n《You were watching us...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320110a01'>\r\n//《…………。\r\n//　それ、<RUBY text='つけ'>尾行し</RUBY>てたってことよね》\r\n《Você estava nos observando...》\r\n"
  },
  {
   "offset": 5105,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320120a12'>\r\n//「へッ、へへ……！\r\n//　まぁ、ここ一週間ばかり」\r\n\"Heh heh heh... Yeah, for about a week now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320120a12'>\r\n//「へッ、へへ……！\r\n//　まぁ、ここ一週間ばかり」\r\n\"He, he, he... É, já faz mais ou menos uma semana.\"\r\n"
  },
  {
   "offset": 5326,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320130a12'>\r\n//「奉刀参拝からの<RUBY text='・・・・'>ごたごた</RUBY>のせいであんたと\r\n//野郎を長いこと見失っちまってましたが……\r\n//　ようやく探し出せたもんで」\r\n\"Lost track of you two after Hachiman Shrine. Took me a while to pick up the trail.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320130a12'>\r\n//「奉刀参拝からの<RUBY text='・・・・'>ごたごた</RUBY>のせいであんたと\r\n//野郎を長いこと見失っちまってましたが……\r\n//　ようやく探し出せたもんで」\r\n\"Perdi vocês dois de vista depois do Santuário Hachiman. Levei um tempinho para pegar o rastro de novo.\"\r\n"
  },
  {
   "offset": 5720,
@@ -82,22 +82,22 @@
  {
   "offset": 5848,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320150a12'>\r\n//「驚きましたねェ。野郎のそばに蝦夷のいい\r\n//女がついてると思えば、そいつが村正、村正\r\n//って呼ばれてる。\r\n//　まさかこんな芸達者な劒冑があるたァ……」\r\n\"Imagine my surprise when I find him shacked up with an Emishi broad, one he keeps calling Muramasa. Thought he'd lost his marbles at first.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320150a12'>\r\n//「驚きましたねェ。野郎のそばに蝦夷のいい\r\n//女がついてると思えば、そいつが村正、村正\r\n//って呼ばれてる。\r\n//　まさかこんな芸達者な劒冑があるたァ……」\r\n\"Imagine minha surpresa quando descubro que ele está amigado com uma Emishi dessas, que ele vive chamando de Muramasa. No começo, achei que ele tinha perdido o juízo.\"\r\n"
  },
  {
   "offset": 6315,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320160a01'>\r\n//《何を考えているの？》\r\n《What do you want?》 \r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320160a01'>\r\n//《何を考えているの？》\r\n《O que você quer?》\r\n"
  },
  {
   "offset": 6476,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320170a12'>\r\n//「はァい？」\r\n\"Sorry?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320170a12'>\r\n//「はァい？」\r\n\"Como?\"\r\n"
  },
  {
   "offset": 6609,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320180a01'>\r\n//《江ノ島で負けたのにも懲りず私達を探して、\r\n//付け回して、私を襲って攫って……。\r\n//　貴方は何が望みなの》\r\n《It wasn't enough that we beat you over Enoshima? You had to hunt us down and take me. Why?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320180a01'>\r\n//《江ノ島で負けたのにも懲りず私達を探して、\r\n//付け回して、私を襲って攫って……。\r\n//　貴方は何が望みなの》\r\n《Não bastou que nós te vencêssemos em Enoshima? Você teve que nos caçar e me levar. Por quê?》\r\n"
  },
  {
   "offset": 6964,
@@ -107,27 +107,27 @@
  {
   "offset": 7097,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320200a01'>\r\n//《……復讐？\r\n//　ふきと、ふなの》\r\n《...Is it revenge? For Fuki and Funa?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320200a01'>\r\n//《……復讐？\r\n//　ふきと、ふなの》\r\n《...É vingança? Por Fuki e Funa?》\r\n"
  },
  {
   "offset": 7292,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320210a12'>\r\n//「……？\r\n//　誰ですか、そりゃあ」\r\n\"...Who?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320210a12'>\r\n//「……？\r\n//　誰ですか、そりゃあ」\r\n\"...Quem?\"\r\n"
  },
  {
   "offset": 7457,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320220a01'>\r\n//《蝦夷の姉妹よ。\r\n//　あの村にいた――》\r\n《The Emishi girls! The ones we killed in that village.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320220a01'>\r\n//《蝦夷の姉妹よ。\r\n//　あの村にいた――》\r\n《As garotas Emishi! As que matamos naquela vila.》\r\n"
  },
  {
   "offset": 7678,
   "en": "\r\n//　江ノ島で太刀打したおり、確かにこの男は彼女らの\r\n//ことを口にしていたはず……。\r\n  I remember. During our battle, he spoke as if fighting for them.\r\n",
-  "pt": ""
+  "pt": "\r\n//　江ノ島で太刀打したおり、確かにこの男は彼女らの\r\n//ことを口にしていたはず……。\r\n  Eu me lembro. Durante nossa batalha, ele falou como se estivesse lutando por elas.\r\n"
  },
  {
   "offset": 7878,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320230a12'>\r\n//「あぁ……。\r\n//　そんな名前でしたかァ」\r\n\"Oh. Is that what they were called...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320230a12'>\r\n//「あぁ……。\r\n//　そんな名前でしたかァ」\r\n\"Ah. Era assim que elas se chamavam...\"\r\n"
  },
  {
   "offset": 8081,
@@ -137,52 +137,52 @@
  {
   "offset": 8210,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320250a12'>\r\n//「復讐……。\r\n//　へ、へ、復讐ねえ？」\r\n\"So you think I'm here for payback. Heh... heh heh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320250a12'>\r\n//「復讐……。\r\n//　へ、へ、復讐ねえ？」\r\n\"Então você acha que eu vim me vingar. He... he, he...\"\r\n"
  },
  {
   "offset": 8426,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320260a12'>\r\n//「どんな復讐ですかねえ。\r\n//　獲物をかっさらわれたんで、その仕返し、\r\n//ってことになりますかねえ！」\r\n\"Yeah, guess that could be my excuse. You did jack my score.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320260a12'>\r\n//「どんな復讐ですかねえ。\r\n//　獲物をかっさらわれたんで、その仕返し、\r\n//ってことになりますかねえ！」\r\n\"É, acho que essa pode ser minha desculpa. Você roubou minha presa.\"\r\n"
  },
  {
   "offset": 8740,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320270a01'>\r\n//《獲物？》\r\n《Your score?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320270a01'>\r\n//《獲物？》\r\n《Sua presa?》\r\n"
  },
  {
   "offset": 8876,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320280a12'>\r\n//「はい。\r\n//　どう見てもちんぴらって<RUBY text='なり'>風体</RUBY>の男を拾って、\r\n//家に上げちまうお人好しの姉妹です……絵に\r\n//描いたような<RUBY text='・・'>カモ</RUBY>ってやつで」\r\n\"Yeah. A couple girls too dumb to leave a punk like me lying in the river? Who'd take him home like a lost puppy?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320280a12'>\r\n//「はい。\r\n//　どう見てもちんぴらって<RUBY text='なり'>風体</RUBY>の男を拾って、\r\n//家に上げちまうお人好しの姉妹です……絵に\r\n//描いたような<RUBY text='・・'>カモ</RUBY>ってやつで」\r\n\"É. Duas garotas burras demais para deixar um vagabundo como eu largado no rio? Capazes de levar um cara desses para casa como um cachorrinho perdido?\"\r\n"
  },
  {
   "offset": 9340,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320290a12'>\r\n//「食い放題、<RUBY text='むし'>毟</RUBY>り放題でさァ。\r\n//　どうしてやろうかって夢を膨らませていた\r\n//ところにあんたらが現れて、ぜぇんぶ御破算\r\n//にされちまいましたがねェ……！」\r\n\"I'd have had my way with 'em! Plucked those two bare! But no, you and the officer had to do 'em in.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320290a12'>\r\n//「食い放題、<RUBY text='むし'>毟</RUBY>り放題でさァ。\r\n//　どうしてやろうかって夢を膨らませていた\r\n//ところにあんたらが現れて、ぜぇんぶ御破算\r\n//にされちまいましたがねェ……！」\r\n\"Eu ia fazer o que quisesse com elas! Depenar as duas até o osso! Mas não, você e o oficial tinham que matá-las.\"\r\n"
  },
  {
   "offset": 9797,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320300a01'>\r\n//《……何よそれ。\r\n//　そんなの、復讐なんて言える筋でもないで\r\n//しょう！》\r\n《What? And you think you have the right to avenge them!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320300a01'>\r\n//《……何よそれ。\r\n//　そんなの、復讐なんて言える筋でもないで\r\n//しょう！》\r\n《O quê? E você acha que tem o direito de vingá-las?!》\r\n"
  },
  {
   "offset": 10069,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320310a12'>\r\n//「仰る通りで……」\r\n\"Did I say that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320310a12'>\r\n//「仰る通りで……」\r\n\"Foi o que eu disse?\"\r\n"
  },
  {
   "offset": 10220,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320320a01'>\r\n//《ふざけているの？》\r\n《What's your game?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320320a01'>\r\n//《ふざけているの？》\r\n《O que você está tramando?》\r\n"
  },
  {
   "offset": 10377,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320330a12'>\r\n//「いぃえぇ……」\r\n\"No game.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320330a12'>\r\n//「いぃえぇ……」\r\n\"Nada disso.\"\r\n"
  },
  {
   "offset": 10518,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320340a01'>\r\n//《…………。\r\n//　理由らしい理由が無いのなら、御堂を――\r\n//景明を苦しめるのはやめて》\r\n《...I get that you hate my master. But can't you just leave him alone?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320350a01'>\r\n//《何をする気か知らないけれど、貴方があの\r\n//人に悪意を抱いているのはわかる》\r\n《Let him be, if you don't have a reason to torment him!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320340a01'>\r\n//《…………。\r\n//　理由らしい理由が無いのなら、御堂を――\r\n//景明を苦しめるのはやめて》\r\n《...Eu entendo que você odeia meu mestre. Mas não consegue simplesmente deixá-lo em paz?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320350a01'>\r\n//《何をする気か知らないけれど、貴方があの\r\n//人に悪意を抱いているのはわかる》\r\n《Deixe-o em paz, se você não tem motivo para atormentá-lo!》\r\n"
  },
  {
   "offset": 11090,
@@ -192,47 +192,47 @@
  {
   "offset": 11217,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320370a01'>\r\n//《貴方は何も知らない。\r\n//　あの人はもう充分に苦しんだ……今も苦し\r\n//んでいる》\r\n《You don't know what he's been through. He's suffered enough. He's still suffering.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320370a01'>\r\n//《貴方は何も知らない。\r\n//　あの人はもう充分に苦しんだ……今も苦し\r\n//んでいる》\r\n《Você não sabe pelo que ele passou. Ele já sofreu o suficiente. Ele ainda está sofrendo.》\r\n"
  },
  {
   "offset": 11525,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320380a01'>\r\n//《村正の<RUBY text='な'>銘</RUBY>が背負う罪を貴方が問いたいなら、\r\n//私になさい。\r\n//　御堂には手出ししないで……》\r\n《Punish me, if you need to punish someone for the sins of my line. But leave him out of it!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320390a01'>\r\n//《私はもう……あの人を解放したい……》\r\n《I... just want him to be㉓<I>free.</I>》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320380a01'>\r\n//《村正の<RUBY text='な'>銘</RUBY>が背負う罪を貴方が問いたいなら、\r\n//私になさい。\r\n//　御堂には手出ししないで……》\r\n《Puna-me, se precisar punir alguém pelos pecados da minha linhagem. Mas deixe-o fora disso!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320390a01'>\r\n//《私はもう……あの人を解放したい……》\r\n《Eu... só quero que ele seja㉓<I>livre.</I>》\r\n"
  },
  {
   "offset": 12081,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320400a12'>\r\n//「…………。\r\n//　ご説の通り、あたしはあんたと野郎が何を\r\n//してきたかなんて詳しくは知りません……」\r\n\"...You're right. I ain't got a clue what you've been through.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320400a12'>\r\n//「…………。\r\n//　ご説の通り、あたしはあんたと野郎が何を\r\n//してきたかなんて詳しくは知りません……」\r\n\"...Você tem razão. Não tenho a menor ideia pelo que vocês passaram.\"\r\n"
  },
  {
   "offset": 12397,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320410a12'>\r\n//「知ったこっちゃないんでねェ。\r\n//　あたしにとって大事なのは、いっこだけで」\r\n\"Don't care, either. From where I stand, there's only one thing that matters.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320410a12'>\r\n//「知ったこっちゃないんでねェ。\r\n//　あたしにとって大事なのは、いっこだけで」\r\n\"Nem me importo. Pra mim, só tem uma coisa que importa.\"\r\n"
  },
  {
   "offset": 12694,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320420a01'>\r\n//《なに……？》\r\n《...What?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320420a01'>\r\n//《なに……？》\r\n《...O quê?》\r\n"
  },
  {
   "offset": 12833,
   "en": "\r\n//嶋：修正（変わちゃ）【090930】\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320430a12'>\r\n//「どんなことがあったにしろ、正味のところ、\r\n//野郎は<RUBY text='・・・・'>ちぃとも</RUBY>変わっちゃいねえってことです\r\n//よ……」\r\n\"That when you get right down to it, after all's said and done, he hasn't changed a <br>bit.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320440a12'>\r\n//「あいつは……あの時のまんまだァ」\r\n\"He's still the same half-<br>assed piece of shit he was that night on the mountain.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//嶋：修正（変わちゃ）【090930】\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320430a12'>\r\n//「どんなことがあったにしろ、正味のところ、\r\n//野郎は<RUBY text='・・・・'>ちぃとも</RUBY>変わっちゃいねえってことです\r\n//よ……」\r\n\"Que, no fundo, depois de tudo, ele não mudou nada.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320440a12'>\r\n//「あいつは……あの時のまんまだァ」\r\n\"Ele continua sendo o mesmo merda meia-boca que era naquela noite na montanha.\"\r\n"
  },
  {
   "offset": 13493,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320450a01'>\r\n//《……あの時……？》\r\n《What?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320450a01'>\r\n//《……あの時……？》\r\n《O quê?》\r\n"
  },
  {
   "offset": 13638,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320460a12'>\r\n//「姐さん、あんたも見ていたはずです。\r\n//　あの山で、蝦夷の餓鬼を殺した時――」\r\n\"You were there. You saw it too. When he killed those girls, that son of a bitch...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320460a12'>\r\n//「姐さん、あんたも見ていたはずです。\r\n//　あの山で、蝦夷の餓鬼を殺した時――」\r\n\"Você estava lá. Você também viu. Quando ele matou aquelas garotas, aquele filho da puta...\"\r\n"
  },
  {
   "offset": 13944,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320470a12'>\r\n//「野郎は……泣いてやがった」\r\n\"That son of a bitch was crying.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320470a12'>\r\n//「野郎は……泣いてやがった」\r\n\"Aquele filho da puta estava chorando.\"\r\n"
  },
  {
   "offset": 14126,
@@ -242,52 +242,52 @@
  {
   "offset": 14260,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320490a12'>\r\n//「そいつがね……」\r\n\"And that...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320490a12'>\r\n//「そいつがね……」\r\n\"E ele...\"\r\n"
  },
  {
   "offset": 14407,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320500a12'>\r\n//「そいつが……どうしても、ねェ……」\r\n\"<I>That,</I>㉗my spider friend... well...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320500a12'>\r\n//「そいつが……どうしても、ねェ……」\r\n\"<I>Isso,</I>㉗meu amigo aranha... bom...\"\r\n"
  },
  {
   "offset": 14612,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320510a01'>\r\n//《……貴方は……》\r\n《Are you...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320510a01'>\r\n//《……貴方は……》\r\n《Você é...》\r\n"
  },
  {
   "offset": 14759,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320520a12'>\r\n//「へ、へ。\r\n//　さぁて」\r\n\"Heh heh... Anyway.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320520a12'>\r\n//「へ、へ。\r\n//　さぁて」\r\n\"Heh heh... Enfim.\"\r\n"
  },
  {
   "offset": 14920,
   "en": "\r\n//　急に、男は口調を変えた。\r\n//　爬虫類じみた笑みを広げて、見下ろしてくる。\r\n  The man's tone suddenly changes. He looks down at me with a lizard's smile.\r\n",
-  "pt": ""
+  "pt": "\r\n//　急に、男は口調を変えた。\r\n//　爬虫類じみた笑みを広げて、見下ろしてくる。\r\n  O tom do homem muda de repente. Ele olha pra mim de cima com um sorriso de réptil.\r\n"
  },
  {
   "offset": 15122,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320530a12'>\r\n//「村正の姐さん。\r\n//　あんたは、あの野郎を解放したいんですか」\r\n\"You say you want to set him free. That so?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320530a12'>\r\n//「村正の姐さん。\r\n//　あんたは、あの野郎を解放したいんですか」\r\n\"Você diz que quer libertar ele. É isso mesmo?\"\r\n"
  },
  {
   "offset": 15364,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320540a01'>\r\n//《……ええ》\r\n《...Yes.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320540a01'>\r\n//《……ええ》\r\n《...Sim.》\r\n"
  },
  {
   "offset": 15499,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320550a12'>\r\n//「そうですかァ。\r\n//　だったら、話は簡単だァ……」\r\n\"Glad to hear it! See, I got just the trick.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320550a12'>\r\n//「そうですかァ。\r\n//　だったら、話は簡単だァ……」\r\n\"Fico feliz em ouvir isso! Sabe, eu tenho justamente o truque.\"\r\n"
  },
  {
   "offset": 15724,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320560a01'>\r\n//《えっ？》\r\n《You... what?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0320560a01'>\r\n//《えっ？》\r\n《Você... o quê?》\r\n"
  },
  {
   "offset": 15861,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320570a12'>\r\n//「あんたが、<RUBY text='・・・'>いなく</RUBY>なりゃあいい。\r\n//　そうでしょう」\r\n\"All we need... is to get rid of you. Ain't that right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320570a12'>\r\n//「あんたが、<RUBY text='・・・'>いなく</RUBY>なりゃあいい。\r\n//　そうでしょう」\r\n\"Só precisamos... nos livrar de você. Não é isso?\"\r\n"
  },
  {
   "offset": 16130,
@@ -297,11 +297,11 @@
  {
   "offset": 16264,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320590a12'>\r\n//「ねェ？」\r\n\"Ain't it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/0320590a12'>\r\n//「ねェ？」\r\n\"Não é?\"\r\n"
  },
  {
   "offset": 16397,
   "en": "\r\n//　言って。\r\n//　男は無造作に仕込みの刃を抜き放ち――\r\n\r\n//　振り下ろした。\r\n  The next thing I see is the flash of steel as the man draws his sword―and strikes.\r\n",
-  "pt": ""
+  "pt": "\r\n//　言って。\r\n//　男は無造作に仕込みの刃を抜き放ち――\r\n\r\n//　振り下ろした。\r\n  A próxima coisa que vejo é o brilho do aço quando o homem saca sua espada―e ataca.\r\n"
  }
 ]

@@ -2,107 +2,107 @@
  {
   "offset": 213,
   "en": "\r\n//　……ここか。\r\n  This must be the place.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……ここか。\r\n  Deve ser aqui.\r\n"
  },
  {
   "offset": 275,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0130010a01'>\r\n//「橋？」\r\n\"A bridge?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0130010a01'>\r\n//「橋？」\r\n\"Uma ponte?\"\r\n"
  },
  {
   "offset": 402,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130020a00'>\r\n//「の、名残りだな」\r\n\"What's left of one.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130020a00'>\r\n//「の、名残りだな」\r\n\"O que restou de uma.\"\r\n"
  },
  {
   "offset": 548,
   "en": "\r\n//　幅は然程でもないが、深さがありそうな川のほとり。\r\n//　そこに立って、事実を確認する。\r\n  The river looks deep, if not terribly wide. The bridge would have been necessary to cross it. \r\n\r\n//　粗末ながら有用な木橋が、嘗てここに架かっていた\r\n//のだろう。\r\n//　今は何の役にも立たない木組が両岸に残るばかりだ\r\n//が。\r\n  From what I can tell, it was a simple affair. A few pieces of wood remain on each bank to mark where it stood.\r\n\r\n\r\n//　昨晩、言い合いの中に分け入った時……詳細は思い\r\n//出せないが、確かに橋という単語を何度も聴いた。\r\n//　橋を壊したとか、どうとか。\r\n  How the bridge came to be lost, I do not know. The only thing I recall from last night's encounter is that two groups of men were fighting over who was to blame.\r\n\r\n  Now, where to start?\r\n\r\n\r\n//　これの事に違いない。\r\n//　この橋が原因で、昨夜の人々は敵意も露わに争って\r\n//いた様子だった。\r\n",
-  "pt": ""
+  "pt": "\r\n//　幅は然程でもないが、深さがありそうな川のほとり。\r\n//　そこに立って、事実を確認する。\r\n  O rio parece fundo, ainda que não seja muito largo. A ponte deve ter sido necessária para atravessá-lo. \r\n\r\n//　粗末ながら有用な木橋が、嘗てここに架かっていた\r\n//のだろう。\r\n//　今は何の役にも立たない木組が両岸に残るばかりだ\r\n//が。\r\n  Pelo que posso ver, era algo simples. Restam alguns pedaços de madeira em cada margem, marcando onde ela ficava.\r\n\r\n\r\n//　昨晩、言い合いの中に分け入った時……詳細は思い\r\n//出せないが、確かに橋という単語を何度も聴いた。\r\n//　橋を壊したとか、どうとか。\r\n  Como a ponte se perdeu, eu não sei. A única coisa que lembro do encontro da noite passada é que dois grupos de homens brigavam para decidir de quem era a culpa.\r\n\r\n  Agora, por onde começar?\r\n\r\n\r\n//　これの事に違いない。\r\n//　この橋が原因で、昨夜の人々は敵意も露わに争って\r\n//いた様子だった。\r\n"
  },
  {
   "offset": 1619,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130030e109'>\r\n//「……ん？\r\n//　おい、あれ昨日の酔っ払いじゃねえか」\r\n\"...Huh? Hey, it's that drunk.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130030e109'>\r\n//「……ん？\r\n//　おい、あれ昨日の酔っ払いじゃねえか」\r\n\"...Hã? Ei, não é aquele bêbado de ontem?\"\r\n"
  },
  {
   "offset": 1864,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130040e110'>\r\n//「本当だ。\r\n//　今日は朝から女連れかよ」\r\n\"Yeah, and he's got a girl this time.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130040e110'>\r\n//「本当だ。\r\n//　今日は朝から女連れかよ」\r\n\"É mesmo. E hoje veio com uma garota.\"\r\n"
  },
  {
   "offset": 2098,
   "en": "\r\n//　声に振り返ると、付近の住民と<RUBY text='おぼ'>思</RUBY>しい二人の男性が\r\n//いた。\r\n//　仕事に向かうところなのだろう、作業着姿である。\r\n  I turn to see two men wearing overalls: locals on their way to work. Though their faces are unfamiliar, they clearly recognize me. They must have been involved in the altercation last night.\r\n\r\n\r\n//　こちらに覚えは無いが、あちらは俺を見知っている\r\n//ようだ。\r\n//　\r\n//　……という事は、あの言い争いの中にいた人間か？\r\n\r\n//　俺は村正をそこへ残して、二人に歩み寄った。\r\n  I signal Muramasa to stay where she is, then approach the two.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　声に振り返ると、付近の住民と<RUBY text='おぼ'>思</RUBY>しい二人の男性が\r\n//いた。\r\n//　仕事に向かうところなのだろう、作業着姿である。\r\n  Viro-me para a voz e vejo dois homens com roupas de trabalho, provavelmente moradores da vizinhança. Seus rostos não me são familiares, mas eles claramente me reconhecem. Devem ter estado envolvidos na discussão de ontem à noite.\r\n\r\n\r\n//　こちらに覚えは無いが、あちらは俺を見知っている\r\n//ようだ。\r\n//　\r\n//　……という事は、あの言い争いの中にいた人間か？\r\n\r\n//　俺は村正をそこへ残して、二人に歩み寄った。\r\n  Faço sinal para Muramasa ficar onde está e me aproximo dos dois.\r\n\r\n"
  },
  {
   "offset": 2813,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130050a00'>\r\n//「お早うございます。\r\n//　昨晩は御迷惑をお掛けしました」\r\n\"Good morning. I apologize for my conduct last evening.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130050a00'>\r\n//「お早うございます。\r\n//　昨晩は御迷惑をお掛けしました」\r\n\"Bom dia. Peço desculpas pela minha conduta na noite passada.\"\r\n"
  },
  {
   "offset": 3049,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130060e109'>\r\n//「……今日は素面らしいな」\r\n\"...Guess he's sober.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130060e109'>\r\n//「……今日は素面らしいな」\r\n\"...Parece que hoje está sóbrio.\"\r\n"
  },
  {
   "offset": 3248,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130070e110'>\r\n//「そうか？\r\n//　昨日も口ぶりだけはまともだったぞ、この\r\n//兄ちゃん」\r\n\"How can you tell? He was polite when hammered too.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130070e110'>\r\n//「そうか？\r\n//　昨日も口ぶりだけはまともだったぞ、この\r\n//兄ちゃん」\r\n\"É? Ontem também falava direito, esse moço.\"\r\n"
  },
  {
   "offset": 3536,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130080a00'>\r\n//「いえ、どうか御安心を。\r\n//　あのような無礼はもう致しません」\r\n\"I assure you, what happened last night will never happen again.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130080a00'>\r\n//「いえ、どうか御安心を。\r\n//　あのような無礼はもう致しません」\r\n\"Não, fiquem tranquilos. Aquela grosseria não se repetirá.\"\r\n"
  },
  {
   "offset": 3790,
   "en": "\r\n//　と言っても、何をしたのか未だに思い出せていない\r\n//のだが。\r\n  Not that I remember what that was.\r\n",
-  "pt": ""
+  "pt": "\r\n//　と言っても、何をしたのか未だに思い出せていない\r\n//のだが。\r\n  Ainda que eu não me lembre do que foi.\r\n"
  },
  {
   "offset": 3930,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130090a00'>\r\n//「実は少々、お尋ねしたいのですが。\r\n//　お時間を頂いても宜しいでしょうか」\r\n\"I was hoping you might have a moment for some questions.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130090a00'>\r\n//「実は少々、お尋ねしたいのですが。\r\n//　お時間を頂いても宜しいでしょうか」\r\n\"Na verdade, eu gostaria de lhes fazer algumas perguntas. Podem me dar um momento?\"\r\n"
  },
  {
   "offset": 4195,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130100e109'>\r\n//「あんた誰だよ？」\r\n\"Who are you anyway?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130100e109'>\r\n//「あんた誰だよ？」\r\n\"Quem é você, afinal?\"\r\n"
  },
  {
   "offset": 4381,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130110a00'>\r\n//「失礼しました。\r\n//　自分は鎌倉警察署長の下で働く、湊斗景明\r\n//という者です」\r\n\"Ah, pardon me. I'm Minato Kageaki. I work for the Commissioner of Police.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130110a00'>\r\n//「失礼しました。\r\n//　自分は鎌倉警察署長の下で働く、湊斗景明\r\n//という者です」\r\n\"Perdão pela falta de apresentação. Sou Minato Kageaki. Trabalho sob as ordens do comissário de polícia de Kamakura.\"\r\n"
  },
  {
   "offset": 4667,
   "en": "\r\n//　久しく口にしていなかった自己紹介をする。\r\n  It feels like forever since I introduced myself thus.\r\n",
-  "pt": ""
+  "pt": "\r\n//　久しく口にしていなかった自己紹介をする。\r\n  Faz muito tempo que não me apresentava assim.\r\n"
  },
  {
   "offset": 4801,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130120e110'>\r\n//「警官か？」\r\n\"You're a cop?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130120e110'>\r\n//「警官か？」\r\n\"Você é policial?\"\r\n"
  },
  {
   "offset": 4972,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130130a00'>\r\n//「その一種とお考え下さい。\r\n//　今は……非番のようなものですが」\r\n\"Of a sort. ...Though I'm currently off-duty.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130130a00'>\r\n//「その一種とお考え下さい。\r\n//　今は……非番のようなものですが」\r\n\"Pode-se dizer que sim. ...Embora no momento eu esteja de folga, por assim dizer.\"\r\n"
  },
  {
   "offset": 5210,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130140e109'>\r\n//「警官ならさ、あいつらどうにかしてくれよ」\r\n\"If you're a cop, then do something about those sons of bitches!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130140e109'>\r\n//「警官ならさ、あいつらどうにかしてくれよ」\r\n\"Se é policial, então faça alguma coisa com aqueles desgraçados!\"\r\n"
  },
  {
   "offset": 5476,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130150a00'>\r\n//「あいつら？」\r\n\"I'm sorry. To whom are you referring?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130150a00'>\r\n//「あいつら？」\r\n\"Desculpe. A quem se refere?\"\r\n"
  },
  {
   "offset": 5634,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130160e109'>\r\n//「難民どもさ！」\r\n\"The goddamn refugees!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130160e109'>\r\n//「難民どもさ！」\r\n\"Aos malditos refugiados!\"\r\n"
  },
  {
   "offset": 5819,
@@ -112,32 +112,32 @@
  {
   "offset": 5937,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130180e109'>\r\n//「北から西から、ぞろぞろ鎌倉に来やがって。\r\n//　他に行く所ねえのかよ」\r\n\"More of 'em come in every day. What, they got nowhere else to go?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130180e109'>\r\n//「北から西から、ぞろぞろ鎌倉に来やがって。\r\n//　他に行く所ねえのかよ」\r\n\"Do norte, do oeste, todos vêm para Kamakura às pencas. Não têm outro lugar para ir?\"\r\n"
  },
  {
   "offset": 6245,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130190e110'>\r\n//「関東じゃ、鎌倉が一番マシみたいだからな」\r\n\"They say Kamakura's the safest place in Kanto now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130190e110'>\r\n//「関東じゃ、鎌倉が一番マシみたいだからな」\r\n\"Dizem que, em Kanto, Kamakura é o lugar menos ruim agora.\"\r\n"
  },
  {
   "offset": 6498,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130200e109'>\r\n//「来るのは仕方ねえにしても……\r\n//　元から住んでた俺らに迷惑掛けるなっての\r\n//さ！」\r\n\"Fine! I'm not saying don't come. I'm saying don't make trouble for us! Right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130200e109'>\r\n//「来るのは仕方ねえにしても……\r\n//　元から住んでた俺らに迷惑掛けるなっての\r\n//さ！」\r\n\"Tudo bem! Não estou dizendo que não podem vir. Estou dizendo que não criem problemas para nós! Certo?\"\r\n"
  },
  {
   "offset": 6837,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130210e110'>\r\n//「ああ」\r\n\"Right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130210e110'>\r\n//「ああ」\r\n\"Certo.\"\r\n"
  },
  {
   "offset": 6995,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130220e109'>\r\n//「食い物は減るし、水は汚れるしよ。\r\n//　臭いったらねえし……病気まで持ち込んだ\r\n//奴もいるらしいじゃねえか」\r\n\"They eat our food. They shit in our water. They stink up the place, and they make our kids sick!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130220e109'>\r\n//「食い物は減るし、水は汚れるしよ。\r\n//　臭いったらねえし……病気まで持ち込んだ\r\n//奴もいるらしいじゃねえか」\r\n\"Eles comem a nossa comida. Defecam na nossa água. Fedem o lugar todo, e fazem nossos filhos adoecerem!\"\r\n"
  },
  {
   "offset": 7389,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130230e110'>\r\n//「噂は聞くな。\r\n//　どっかで赤痢が広がり出したとか」\r\n\"Yeah, you hear there's dysentery goin' round?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130230e110'>\r\n//「噂は聞くな。\r\n//　どっかで赤痢が広がり出したとか」\r\n\"É, ouvi falar que tem disenteria se espalhando por aí?\"\r\n"
  },
  {
   "offset": 7650,
@@ -147,52 +147,52 @@
  {
   "offset": 7774,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130250e109'>\r\n//「くそっ。\r\n//　ろくでもねえ！」\r\n\"I've had it! They can all go to hell!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130250e109'>\r\n//「くそっ。\r\n//　ろくでもねえ！」\r\n\"Já estou farto! Que todos vão para o inferno!\"\r\n"
  },
  {
   "offset": 7997,
   "en": "\r\n//　男性の一方は、声がかなり大きい。\r\n//　洗濯中の主婦や、置き抜けの青年など、周辺の住民\r\n//から視線を集めつつあった。\r\n  The larger man's shouting has begun to draw attention, but for all the looks he receives, few carry reproach.\r\n\r\n//　しかしその中に、非難の色は薄い。\r\n//　賛同の意思を寄せるものが大半だった。\r\n\r\n//　人口の急増で生活環境が悪化したため、旧来の住民\r\n//はみな強い不満を抱いている……そういう事か。\r\n//　公的機関に余力があれば適切な措置も期待できるが、\r\n//今は望むべくもない。\r\n\r\n  From what I gather, it seems that an influx of refugees has made life difficult for the people who live here. Their frustration is understandable, which makes the problem an even trickier one.\r\n\r\n  Normally the government would step in to offer relief, but with the war going on...\r\n\r\n//　これは中々、厄介な問題のようだ。\r\n",
-  "pt": ""
+  "pt": "\r\n//　男性の一方は、声がかなり大きい。\r\n//　洗濯中の主婦や、置き抜けの青年など、周辺の住民\r\n//から視線を集めつつあった。\r\n  Os gritos do homem mais alto começam a chamar atenção, mas, entre os olhares que recebe, poucos carregam reprovação.\r\n\r\n//　しかしその中に、非難の色は薄い。\r\n//　賛同の意思を寄せるものが大半だった。\r\n\r\n//　人口の急増で生活環境が悪化したため、旧来の住民\r\n//はみな強い不満を抱いている……そういう事か。\r\n//　公的機関に余力があれば適切な措置も期待できるが、\r\n//今は望むべくもない。\r\n\r\n  Pelo que entendo, parece que a chegada de refugiados tornou a vida difícil para quem mora aqui. A frustração deles é compreensível, o que torna o problema ainda mais delicado.\r\n\r\n  Normalmente o governo interviria para oferecer ajuda, mas com a guerra em andamento...\r\n\r\n//　これは中々、厄介な問題のようだ。\r\n"
  },
  {
   "offset": 9017,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130260a00'>\r\n//「ところで、この橋ですが」\r\n\"May I ask about the bridge?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130260a00'>\r\n//「ところで、この橋ですが」\r\n\"A propósito, sobre esta ponte...\"\r\n"
  },
  {
   "offset": 9183,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130270e109'>\r\n//「あぁ……\r\n//　そいつも、奴らのせいさ」\r\n\"Yeah. That's their fault too.\"\r\n\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130280e109'>\r\n//「街中へ行くのに使う橋だってのに。\r\n//　これを壊されちまったせいで、あっち側に\r\n//仕事場のある奴はみんな、ずっと下流の別の\r\n//橋を渡っていかなきゃならなくなった」\r\n\"We used to take the bridge into the city for work. Now we've gotta take another bridge farther downstream.\"\r\n\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130290e109'>\r\n//「すげえ遠回りなんだぜ？」\r\n\"A hell of a hike.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130270e109'>\r\n//「あぁ……\r\n//　そいつも、奴らのせいさ」\r\n\"É. Isso também é culpa deles.\"\r\n\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130280e109'>\r\n//「街中へ行くのに使う橋だってのに。\r\n//　これを壊されちまったせいで、あっち側に\r\n//仕事場のある奴はみんな、ずっと下流の別の\r\n//橋を渡っていかなきゃならなくなった」\r\n\"Era a ponte que a gente usava para ir à cidade trabalhar. Agora temos que pegar outra ponte rio abaixo.\"\r\n\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130290e109'>\r\n//「すげえ遠回りなんだぜ？」\r\n\"É um caminho do inferno.\"\r\n"
  },
  {
   "offset": 10073,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130300e110'>\r\n//「馬鹿馬鹿しいよな……」\r\n\"It's bullshit!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130300e110'>\r\n//「馬鹿馬鹿しいよな……」\r\n\"É um absurdo!\"\r\n"
  },
  {
   "offset": 10263,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130310a00'>\r\n//「難民の人々がこれを壊したのですか？」\r\n\"How do you know it was them?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130310a00'>\r\n//「難民の人々がこれを壊したのですか？」\r\n\"Como vocês sabem que foram eles?\"\r\n"
  },
  {
   "offset": 10448,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130320e110'>\r\n//「風や増水で壊れたようには見えないだろ？」\r\n\"Does it look like a storm did this?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130320e110'>\r\n//「風や増水で壊れたようには見えないだろ？」\r\n\"Isso parece coisa de tempestade ou enchente?\"\r\n"
  },
  {
   "offset": 10686,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130330a00'>\r\n//「確かに。\r\n//　しかし、難民の犯行という証拠は？」\r\n\"I see your point. But is there evidence pointing to the refugees?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130330a00'>\r\n//「確かに。\r\n//　しかし、難民の犯行という証拠は？」\r\n\"Entendo o que querem dizer. Mas há provas que apontem para os refugiados?\"\r\n"
  },
  {
   "offset": 10924,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130340e109'>\r\n//「証拠は……ねえさ。\r\n//　けどよ、他に誰がやるってんだ」\r\n\"Evidence? Well... no. But who the hell else is there?\"\r\n\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130350e109'>\r\n//「あいつら、俺達がちょくちょく苦情を言い\r\n//に行くのが嫌で、橋を壊したに決まってる。\r\n//　難民どもが住んでるのも川向こうだからな」\r\n\"I bet they thought it'd get us outta their hair, seeing as they all live on the other side. Like we were gonna let this go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130340e109'>\r\n//「証拠は……ねえさ。\r\n//　けどよ、他に誰がやるってんだ」\r\n\"Provas? Bem... não. Mas quem mais faria isso?\"\r\n\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130350e109'>\r\n//「あいつら、俺達がちょくちょく苦情を言い\r\n//に行くのが嫌で、橋を壊したに決まってる。\r\n//　難民どもが住んでるのも川向こうだからな」\r\n\"Aposto que acharam que assim a gente sairia do pé deles, já que todos moram do outro lado do rio. Como se fôssemos deixar isso passar.\"\r\n"
  },
  {
   "offset": 11645,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130360e110'>\r\n//「あいつら全員が、橋さえ無ければ文句言わ\r\n//れないなんて考える馬鹿だとは思わねえけど。\r\n//　古い橋だったからな。そういう馬鹿が一人\r\n//でもいれば、簡単に落とせるんだ」\r\n\"Not sayin' they were㉗<I>all</I>㉒in on it. I mean, you'd have to be stupid. But it was an old bridge. It wouldn't take more than one or two.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130360e110'>\r\n//「あいつら全員が、橋さえ無ければ文句言わ\r\n//れないなんて考える馬鹿だとは思わねえけど。\r\n//　古い橋だったからな。そういう馬鹿が一人\r\n//でもいれば、簡単に落とせるんだ」\r\n\"Não tô dizendo que <I>todos</I> estavam nisso. Digo, teria que ser burro. Mas era uma ponte velha. Não precisava mais que um ou dois.\"\r\n"
  },
  {
   "offset": 12171,
@@ -202,71 +202,71 @@
  {
   "offset": 12295,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130380e109'>\r\n//「お巡り、どうにかしてくれよ」\r\n\"You gotta help us, Officer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130380e109'>\r\n//「お巡り、どうにかしてくれよ」\r\n\"Você tem que nos ajudar, policial.\"\r\n"
  },
  {
   "offset": 12507,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130390a00'>\r\n//「そうですね。\r\n//　事態を確かめ、善処したく思います」\r\n\"You're right. I'll assess the situation, see what I can do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130390a00'>\r\n//「そうですね。\r\n//　事態を確かめ、善処したく思います」\r\n\"É verdade. Vou avaliar a situação e ver o que posso fazer.\"\r\n"
  },
  {
   "offset": 12745,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130400e110'>\r\n//「善処ね。\r\n//　お役人の善処はアテにならないからなぁ」\r\n\"He'll see what he can do. Like that ever amounted to anything.\"\r\n\r\n<FW img=''>\r\n  The two men shake their heads, then turn and walk away.\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130400e110'>\r\n//「善処ね。\r\n//　お役人の善処はアテにならないからなぁ」\r\n\"Vai ver o que pode fazer. Como se isso já tivesse servido de alguma coisa.\"\r\n\r\n<FW img=''>\r\n  Os dois homens balançam a cabeça e vão embora.\r\n"
  },
  {
   "offset": 13100,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130410e109'>\r\n//「やっぱり、<RUBY text='・'>筋</RUBY>の連中に頼むか？」\r\n\"We might have to take㉗<I>their</I> offer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130410e109'>\r\n//「やっぱり、<RUBY text='・'>筋</RUBY>の連中に頼むか？」\r\n\"Talvez tenhamos que aceitar㉗<I>a oferta deles</I>.\"\r\n"
  },
  {
   "offset": 13355,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130420e110'>\r\n//「この辺りの見回りを請け負ってくれるって\r\n//話か」\r\n\"You mean those guys who said they'd give us <br>protection?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130420e110'>\r\n//「この辺りの見回りを請け負ってくれるって\r\n//話か」\r\n\"Quer dizer aqueles caras que disseram que iam nos dar proteção?\"\r\n"
  },
  {
   "offset": 13627,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130430e109'>\r\n//「それだけじゃねえ。\r\n//　難民どもの追い出しも、相談に乗るってさ」\r\n\"And take care of our refugee problem, <br>remember?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130430e109'>\r\n//「それだけじゃねえ。\r\n//　難民どもの追い出しも、相談に乗るってさ」\r\n\"E cuidar do nosso problema com os refugiados, lembra?\"\r\n"
  },
  {
   "offset": 13915,
   "en": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130440e110'>\r\n//「でもよ、みかじめ料を聞いただろ？\r\n//　どうやって毎月、それだけの金を出すんだ」\r\n\"What about the money, though? They want us to pay every month.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ｂ】\r\n<voice name='ｅｔｃ／住民Ｂ' class='その他男声' src='voice/md06/0130440e110'>\r\n//「でもよ、みかじめ料を聞いただろ？\r\n//　どうやって毎月、それだけの金を出すんだ」\r\n\"Mas e o dinheiro? Eles querem que a gente pague todo mês.\"\r\n"
  },
  {
   "offset": 14235,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130450e109'>\r\n//「そこがな……。\r\n//　あいつら、こっちの足元を見てやがるから」\r\n\"Yeah... Everyone wants a goddamn piece.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0130450e109'>\r\n//「そこがな……。\r\n//　あいつら、こっちの足元を見てやがるから」\r\n\"É... Todo mundo quer uma maldita fatia.\"\r\n"
  },
  {
   "offset": 14505,
   "en": "\r\n//　二人は俺に興味を無くしたらしく、深刻げに談義し\r\n//ながら行ってしまった。\r\n//　下流の橋というのへ向かうのだろう。\r\n\r\n//　入れ替わりに、村正が近寄ってくる。\r\n  As they head off down the riverbank, conversing in low tones, Muramasa returns to my side.\r\n",
-  "pt": ""
+  "pt": "\r\n//　二人は俺に興味を無くしたらしく、深刻げに談義し\r\n//ながら行ってしまった。\r\n//　下流の橋というのへ向かうのだろう。\r\n\r\n//　入れ替わりに、村正が近寄ってくる。\r\n  Enquanto eles se afastam pela margem do rio, conversando em voz baixa, Muramasa volta para o meu lado.\r\n"
  },
  {
   "offset": 14840,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0130460a01'>\r\n//「……やってみたいことっていうのは、この\r\n//橋の建て直し？」\r\n\"This is what you wanted to do? Repair the bridge?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0130460a01'>\r\n//「……やってみたいことっていうのは、この\r\n//橋の建て直し？」\r\n\"Era isso que você queria fazer? Reconstruir a ponte?\"\r\n"
  },
  {
   "offset": 15083,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130470a00'>\r\n//「少し違うな」\r\n\"Not precisely.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130470a00'>\r\n//「少し違うな」\r\n\"Não exatamente.\"\r\n"
  },
  {
   "offset": 15218,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0130480a01'>\r\n//「じゃあ何を？」\r\n\"What, then?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0130480a01'>\r\n//「じゃあ何を？」\r\n\"Então o quê?\"\r\n"
  },
  {
   "offset": 15359,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130490a00'>\r\n//「差し当たっては――」\r\n\"Well, first...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0130490a00'>\r\n//「差し当たっては――」\r\n\"Bem, antes de mais nada...\"\r\n"
  },
  {
   "offset": 15506,
   "en": "\r\n//　もう一方の当事者の所へ、話を聞きに行くとしよう。\r\n  First, I need to hear from the other side.\r\n",
-  "pt": ""
+  "pt": "\r\n//　もう一方の当事者の所へ、話を聞きに行くとしよう。\r\n  \"Primeiro, preciso ouvir o outro lado.\"\r\n"
  }
 ]

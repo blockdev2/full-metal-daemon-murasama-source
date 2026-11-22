@@ -2,17 +2,17 @@
  {
   "offset": 213,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070010b16'>\r\n//「村正どの……」\r\n\"Muramasa...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070010b16'>\r\n//「村正どの……」\r\nMuramasa...\r\n"
  },
  {
   "offset": 348,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070020b30'>\r\n//「……浦夢殿か。\r\n//　傷に障る、もう休まれよ」\r\n\"...Uramu. You should be resting.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070020b30'>\r\n//「……浦夢殿か。\r\n//　傷に障る、もう休まれよ」\r\n...Uramu. Deveria estar descansando.\r\n"
  },
  {
   "offset": 565,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070030b16'>\r\n//「私は平気です。\r\n//　村正どのこそ、お体を大事に」\r\n\"I am fine. It is you who should rest.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070040b16'>\r\n//「お酒の飲み過ぎ、体の毒です」\r\n\"Too much sake will damage your health.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070030b16'>\r\n//「私は平気です。\r\n//　村正どのこそ、お体を大事に」\r\nEstou bem. É o senhor quem deveria descansar.\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070040b16'>\r\n//「お酒の飲み過ぎ、体の毒です」\r\nBeber saquê em excesso é veneno para o corpo.\r\n"
  },
  {
   "offset": 950,
@@ -22,47 +22,47 @@
  {
   "offset": 1093,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070060b16'>\r\n//「北朝が、憎いですか」\r\n\"Do you... hate the North?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070060b16'>\r\n//「北朝が、憎いですか」\r\nO senhor... odeia o Norte?\r\n"
  },
  {
   "offset": 1251,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070070b30'>\r\n//「憎い……」\r\n\"Aye...\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070080b30'>\r\n//「何という……卑劣な……！\r\n//　外道め……賊どもめ」\r\n\"They are scum... vile, inhuman scum... the lot of them...\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070090b30'>\r\n//「許せぬ……！」\r\n\"They should all be put to the sword!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070070b30'>\r\n//「憎い……」\r\nSim...\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070080b30'>\r\n//「何という……卑劣な……！\r\n//　外道め……賊どもめ」\r\nEles são escória... escória vil, desumana... todos eles...\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070090b30'>\r\n//「許せぬ……！」\r\nTodos deveriam ser passados à espada!\r\n"
  },
  {
   "offset": 1806,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070100b16'>\r\n//「けれど、南朝も同じです」\r\n\"But the South is no <br>different.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070100b16'>\r\n//「けれど、南朝も同じです」\r\nMas o Sul não é diferente.\r\n"
  },
  {
   "offset": 1979,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070110b30'>\r\n//「な、何を!?」\r\n\"Wha―  What are you saying!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070110b30'>\r\n//「な、何を!?」\r\nO qu— O que está dizendo!?\r\n"
  },
  {
   "offset": 2146,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070120b16'>\r\n//「同じくらい汚いこと、たくさんしてます。\r\n//　いえ、もっと卑怯なことも……」\r\n\"The Southern Court has done many things just as vile, just as inhuman... if not more so.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070120b16'>\r\n//「同じくらい汚いこと、たくさんしてます。\r\n//　いえ、もっと卑怯なことも……」\r\nA Corte do Sul fez muitas coisas igualmente vis, igualmente desumanas... se não piores.\r\n"
  },
  {
   "offset": 2446,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070130b30'>\r\n//「馬鹿なっ！」\r\n\"Nonsense!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070130b30'>\r\n//「馬鹿なっ！」\r\nAbsurdo!\r\n"
  },
  {
   "offset": 2594,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070140b16'>\r\n//「本当です。\r\n//　私、南朝の陰の働きに関わること多かった\r\n//ので、良く知っています」\r\n\"But it's true. I spent many years as a secret advisor to Yoshino. I saw what went on behind closed doors.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070150b16'>\r\n//「陰謀の犠牲になった人、とても多いです。\r\n//　そのほとんどは、何の罪もない、無力な民\r\n//たちでした」\r\n\"Many people fell prey to the court's machinations. Most were peasants who had committed no sin.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070140b16'>\r\n//「本当です。\r\n//　私、南朝の陰の働きに関わること多かった\r\n//ので、良く知っています」\r\nMas é verdade. Passei muitos anos aconselhando Yoshino em segredo. Vi o que acontecia a portas fechadas.\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070150b16'>\r\n//「陰謀の犠牲になった人、とても多いです。\r\n//　そのほとんどは、何の罪もない、無力な民\r\n//たちでした」\r\nMuitas pessoas caíram nas tramoias da corte. A maioria eram camponeses que não haviam cometido pecado algum.\r\n"
  },
  {
   "offset": 3254,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070160b30'>\r\n//………」\r\n\"......\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070170b30'>\r\n//「まさか……有り得ぬ。\r\n//　楠木様たちが、そのような真似をなさる筈\r\n//が……」\r\n\"No... Lord Kusunoki would never condone such villainy.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070160b30'>\r\n//………」\r\n\"......\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070170b30'>\r\n//「まさか……有り得ぬ。\r\n//　楠木様たちが、そのような真似をなさる筈\r\n//が……」\r\nNão... Lorde Kusunoki jamais toleraria tamanha vilania.\r\n"
  },
  {
   "offset": 3667,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070180b16'>\r\n//「吉野の方々、悪い人ではありません。\r\n//　皆、立派な方たちです」\r\n\"The lords of Yoshino are not evil men. They are all warriors worthy of respect.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070190b16'>\r\n//「けれど、前にも言いました。\r\n//　今は時代が悪いのです」\r\n\"As I said before, the world is to blame.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070200b16'>\r\n//「善き人々が、悪しき事をする世なのです」\r\n\"This is an age where good men are driven to evil <br>means.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070180b16'>\r\n//「吉野の方々、悪い人ではありません。\r\n//　皆、立派な方たちです」\r\nOs senhores de Yoshino não são homens maus. Todos são guerreiros dignos de respeito.\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070190b16'>\r\n//「けれど、前にも言いました。\r\n//　今は時代が悪いのです」\r\nComo eu disse antes, a culpa é do mundo.\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070200b16'>\r\n//「善き人々が、悪しき事をする世なのです」\r\nEsta é uma era em que homens bons são levados a meios maus.\r\n"
  },
  {
   "offset": 4365,
@@ -72,7 +72,7 @@
  {
   "offset": 4507,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070220b30'>\r\n//「では、うてはどうすれば良いのだ……」\r\n\"...What am I to do now?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070220b30'>\r\n//「では、うてはどうすれば良いのだ……」\r\n...O que devo fazer agora?\r\n"
  },
  {
   "offset": 4705,
@@ -82,22 +82,22 @@
  {
   "offset": 4823,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070240b30'>\r\n//「誰が味方なのかわからぬ。\r\n//　誰が敵なのかもわからぬ」\r\n\"Who is my enemy? Whom shall I serve?\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070250b30'>\r\n//「何が正しいのかわからぬ。\r\n//　何が誤りなのかもわからぬ」\r\n\"Which path is right? Which path is wrong?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070240b30'>\r\n//「誰が味方なのかわからぬ。\r\n//　誰が敵なのかもわからぬ」\r\nQuem é meu inimigo? A quem devo servir?\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070250b30'>\r\n//「何が正しいのかわからぬ。\r\n//　何が誤りなのかもわからぬ」\r\nQual caminho é o certo? Qual é o errado?\r\n"
  },
  {
   "offset": 5295,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070260b30'>\r\n//「何を信じれば良いのかわからぬ……！」\r\n\"Tell me, Uramu... What can I believe in!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070260b30'>\r\n//「何を信じれば良いのかわからぬ……！」\r\nDiga-me, Uramu... Em que posso acreditar!?\r\n"
  },
  {
   "offset": 5511,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070270b16'>\r\n//「村正どの……」\r\n\"Muramasa...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070270b16'>\r\n//「村正どの……」\r\nMuramasa...\r\n"
  },
  {
   "offset": 5646,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070280b30'>\r\n//「うては……\r\n//　何のために……劒冑を打つのだ……」\r\n\"For what purpose... am I to forge my tsurugi?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070280b30'>\r\n//「うては……\r\n//　何のために……劒冑を打つのだ……」\r\nCom que propósito... forjo meus tsurugi?\r\n"
  },
  {
   "offset": 5885,
@@ -107,17 +107,17 @@
  {
   "offset": 6003,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070300b16'>\r\n//「悪しき世を正すため……\r\n//　そうではないですか？」\r\n\"To return this world to its rightful shape... no?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070300b16'>\r\n//「悪しき世を正すため……\r\n//　そうではないですか？」\r\nPara devolver a este mundo sua forma correta... não é?\r\n"
  },
  {
   "offset": 6228,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070310b30'>\r\n//「その道筋がわからんのだ！\r\n//　南朝の大義さえ信じられぬとあっては……」\r\n\"But㉓<I>how!?</I> That is what I cannot see! If even Yoshino's virtue is in question, then...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070310b30'>\r\n//「その道筋がわからんのだ！\r\n//　南朝の大義さえ信じられぬとあっては……」\r\nMas㉓<I>como!?</I> É isso que não consigo enxergar! Se até a virtude de Yoshino está em questão, então...\r\n"
  },
  {
   "offset": 6546,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070320b16'>\r\n//「村正どの。\r\n//　今からする話を、よく聞いてください」\r\n\"Muramasa. Please listen well to what I am about to say.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070330b16'>\r\n//「あなたにお教えしなくてはならないこと、\r\n//実はあと一つ残っていました。\r\n//　それを、これからお話しします」\r\n\"One thing remains. One thing that I must teach you. Now is the time to impart my final knowledge.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070320b16'>\r\n//「村正どの。\r\n//　今からする話を、よく聞いてください」\r\nMuramasa. Por favor, ouça bem o que tenho a lhe dizer.\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070330b16'>\r\n//「あなたにお教えしなくてはならないこと、\r\n//実はあと一つ残っていました。\r\n//　それを、これからお話しします」\r\nResta uma coisa. Uma coisa que preciso lhe ensinar. Chegou a hora de transmitir meu derradeiro conhecimento.\r\n"
  },
  {
   "offset": 7127,
@@ -127,42 +127,42 @@
  {
   "offset": 7264,
   "en": "\r\n//◆ボイスは「ニコラフラメル」をなるたけナチュラルに\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070350b16'>\r\n//「私の本当の名前……\r\n//　<RUBY text='・・・・・・・'>にこやふらめう</RUBY>、云います」\r\n\"My true name... is Nicolas Flamel.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆ボイスは「ニコラフラメル」をなるたけナチュラルに\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070350b16'>\r\n//「私の本当の名前……\r\n//　<RUBY text='・・・・・・・'>にこやふらめう</RUBY>、云います」\r\nMeu verdadeiro nome... é Nicolas Flamel.\r\n"
  },
  {
   "offset": 7595,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070360b30'>\r\n//「にこ……？」\r\n\"Nico...?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070360b30'>\r\n//「にこ……？」\r\nNico...?\r\n"
  },
  {
   "offset": 7742,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070370b16'>\r\n//「呼びにくいでしょう。浦夢で構いません。\r\n//　私の生まれた国とこの大和は、言葉が全く\r\n//違うのです」\r\n\"Hard to pronounce, isn't it? Uramu will do. The language of my homeland is nothing like that of Yamato.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070380b16'>\r\n//「遠く遠く、離れていますから」\r\n\"It is, after all, far, far from here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070370b16'>\r\n//「呼びにくいでしょう。浦夢で構いません。\r\n//　私の生まれた国とこの大和は、言葉が全く\r\n//違うのです」\r\nDifícil de pronunciar, não é? Pode me chamar de Uramu. A língua da minha terra não tem nada a ver com a de Yamato.\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070380b16'>\r\n//「遠く遠く、離れていますから」\r\nAfinal, fica muito, muito longe daqui.\r\n"
  },
  {
   "offset": 8265,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070390b30'>\r\n//「……浦夢殿は、天竺のお人だったのか？」\r\n\"...You come from Tenjiku?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070390b30'>\r\n//「……浦夢殿は、天竺のお人だったのか？」\r\n...O senhor vem de Tenjiku?\r\n"
  },
  {
   "offset": 8468,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070400b16'>\r\n//「いいえ。\r\n//　天竺の、更にずっと向こうです」\r\n\"No. From a land beyond even Tenjiku.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070400b16'>\r\n//「いいえ。\r\n//　天竺の、更にずっと向こうです」\r\nNão. De uma terra muito além de Tenjiku.\r\n"
  },
  {
   "offset": 8671,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070410b30'>\r\n//「西方浄土より参られたと……？」\r\n\"...The Far Western <br>Paradise?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070410b30'>\r\n//「西方浄土より参られたと……？」\r\n...O Paraíso do Extremo Ocidente?\r\n"
  },
  {
   "offset": 8869,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070420b16'>\r\n//「そうですね……西の果ての国です。\r\n//　けれど、浄土ではありません」\r\n\"Far to the west it is... but not a paradise.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070420b16'>\r\n//「そうですね……西の果ての国です。\r\n//　けれど、浄土ではありません」\r\nLonge, a oeste, de fato... mas não é um paraíso.\r\n"
  },
  {
   "offset": 9113,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070430b16'>\r\n//「私の生まれた国、戦争ばかりでした。\r\n//　今の大和と同じです」\r\n\"The country I called home was rife with war, just as Yamato is today.\"\r\n\r\n//嶋：修正（私、）【090930】\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070440b16'>\r\n//「だから私は、平和な楽園を求めて、旅に出ま\r\n//した」\r\n\"So I set out on a journey to find a land of everlasting peace.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070430b16'>\r\n//「私の生まれた国、戦争ばかりでした。\r\n//　今の大和と同じです」\r\nO país que eu chamava de lar vivia em guerra, como Yamato hoje.\r\n\r\n//嶋：修正（私、）【090930】\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070440b16'>\r\n//「だから私は、平和な楽園を求めて、旅に出ま\r\n//した」\r\nPor isso parti em jornada à procura de uma terra de paz eterna.\r\n"
  },
  {
   "offset": 9643,
@@ -172,47 +172,47 @@
  {
   "offset": 9779,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070460b16'>\r\n//「でもそんな国、何処にもありませんでした。\r\n//　どの国も短い平和と長い争いを繰り返して\r\n//いました」\r\n\"Alas, no such paradise existed. Wherever my travels took me, the only peace I found was in those brief intervals of silence between long periods of war.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070470b16'>\r\n//「私は平和な世界を探して彷徨うより、世界\r\n//を平和にする方法を求めるべきだと、考える\r\n//ようになりました。\r\n//　そうして……あなたに出会ったのです」\r\n\"I realized then that if I desired a peaceful world, I would have to create it myself. And that... is when I met you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070460b16'>\r\n//「でもそんな国、何処にもありませんでした。\r\n//　どの国も短い平和と長い争いを繰り返して\r\n//いました」\r\nInfelizmente, esse paraíso não existia. Onde quer que eu fosse, a única paz que encontrava eram os breves intervalos de silêncio entre longos períodos de guerra.\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070470b16'>\r\n//「私は平和な世界を探して彷徨うより、世界\r\n//を平和にする方法を求めるべきだと、考える\r\n//ようになりました。\r\n//　そうして……あなたに出会ったのです」\r\nPercebi então que, se desejava um mundo pacífico, teria de criá-lo com as próprias mãos. E foi então... que encontrei o senhor.\r\n"
  },
  {
   "offset": 10601,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070480b30'>\r\n//「……うては一介の鍛冶師。\r\n//　しかも今は、道を見失っている」\r\n\"...I am but a humble smith, and one who has lost sight of his Way.\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070490b30'>\r\n//「浦夢殿の力にはなれぬ」\r\n\"I cannot help you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070480b30'>\r\n//「……うては一介の鍛冶師。\r\n//　しかも今は、道を見失っている」\r\n...Não passo de um humilde ferreiro, e que perdeu de vista o seu Caminho.\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070490b30'>\r\n//「浦夢殿の力にはなれぬ」\r\nNão posso ajudar o senhor.\r\n"
  },
  {
   "offset": 11040,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070500b16'>\r\n//「いいえ。\r\n//　そんなあなたでなくてはいけません」\r\n\"Not so. You are the only one who can help me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070500b16'>\r\n//「いいえ。\r\n//　そんなあなたでなくてはいけません」\r\nNão é assim. O senhor é o único que pode me ajudar.\r\n"
  },
  {
   "offset": 11258,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070510b16'>\r\n//「劒冑こそ神の子……。\r\n//　奇跡の欠片を宿す聖別の者です」\r\n\"Tsurugi are the children of God, sacred vessels of His miraculous power.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070520b16'>\r\n//「最も貴き劒冑の生誕が、人の原罪を<RUBY text='そそ'>雪</RUBY>ぐ。\r\n//　神は万民を赦し、地を楽園にするでしょう」\r\n\"When the purest, noblest tsurugi is born, then mankind will be forgiven its original sin. The Lord will shower His blessings upon us, and there will be peace on earth at last.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070510b16'>\r\n//「劒冑こそ神の子……。\r\n//　奇跡の欠片を宿す聖別の者です」\r\nOs tsurugi são filhos de Deus... vasos sagrados do Seu poder miraculoso.\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070520b16'>\r\n//「最も貴き劒冑の生誕が、人の原罪を<RUBY text='そそ'>雪</RUBY>ぐ。\r\n//　神は万民を赦し、地を楽園にするでしょう」\r\nQuando nascer o tsurugi mais puro e nobre, a humanidade será perdoada do pecado original. O Senhor derramará Suas bênçãos sobre nós, e enfim haverá paz na terra.\r\n"
  },
  {
   "offset": 11936,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070530b16'>\r\n//「そう……。\r\n//　正しき心を持つ鍛冶師が、真理を求めて鎚\r\n//を振るう時、苦しみの時代は終わりを告げる\r\n//に違いないのです！」\r\n\"Only a smith possessed of clear sight, wielding his hammer in the service of Truth, can bring an end to humanity's suffering!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070530b16'>\r\n//「そう……。\r\n//　正しき心を持つ鍛冶師が、真理を求めて鎚\r\n//を振るう時、苦しみの時代は終わりを告げる\r\n//に違いないのです！」\r\nSomente um ferreiro de visão clara, brandindo seu martelo a serviço da Verdade, pode pôr fim ao sofrimento da humanidade!\r\n"
  },
  {
   "offset": 12341,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070540b30'>\r\n//「……？\r\n//　済まぬが、わからぬ……」\r\n\"Forgive me... I do not understand.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070540b30'>\r\n//「……？\r\n//　済まぬが、わからぬ……」\r\nPerdoe-me... não compreendo.\r\n"
  },
  {
   "offset": 12548,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070550b30'>\r\n//「うてには……真理など……」\r\n\"Truth? Such wisdom is beyond me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070550b30'>\r\n//「うてには……真理など……」\r\nVerdade? Essa sabedoria está além de mim.\r\n"
  },
  {
   "offset": 12740,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070560b16'>\r\n//「それをお教えします。\r\n//　村正どの、どうか聞いてください」\r\n\"I shall teach it to you. Please listen.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070560b16'>\r\n//「それをお教えします。\r\n//　村正どの、どうか聞いてください」\r\nEu lhe ensinarei. Por favor, ouça.\r\n"
  },
  {
   "offset": 12967,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070570b16'>\r\n//「そして私の<RUBY text='ゆめ'>理想</RUBY>を叶えてください……」\r\n\"Listen... and make my dream come true.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070570b16'>\r\n//「そして私の<RUBY text='ゆめ'>理想</RUBY>を叶えてください……」\r\nOuça... e realize o meu sonho.\r\n"
  },
  {
   "offset": 13189,
@@ -222,17 +222,17 @@
  {
   "offset": 13331,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070590b16'>\r\n//「遠い昔……\r\n//　<RUBY text='・・・・・'>ぐらえきあ</RUBY>に、<RUBY text='・・・・・・・'>えんぺどくれす</RUBY>という賢者\r\n//がいました」\r\n\"Long ago, in a land called Greece, there was a philosopher by the name of Empedocles.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070600b16'>\r\n//「宇宙の<RUBY text='ことわり'>理</RUBY>を解いた人物です。\r\n//　人間の歴史上、真の叡智の持ち主と呼べる\r\n//のは彼一人しかいません」\r\n\"It was he who unraveled the mysteries of the cosmos. No man in human history has been closer to true wisdom.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070590b16'>\r\n//「遠い昔……\r\n//　<RUBY text='・・・・・'>ぐらえきあ</RUBY>に、<RUBY text='・・・・・・・'>えんぺどくれす</RUBY>という賢者\r\n//がいました」\r\nHá muito tempo, numa terra chamada Grécia, viveu um filósofo chamado Empédocles.\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070600b16'>\r\n//「宇宙の<RUBY text='ことわり'>理</RUBY>を解いた人物です。\r\n//　人間の歴史上、真の叡智の持ち主と呼べる\r\n//のは彼一人しかいません」\r\nFoi ele quem desvendou os mistérios do cosmos. Nenhum homem na história da humanidade chegou mais perto da verdadeira sabedoria.\r\n"
  },
  {
   "offset": 14077,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070610b30'>\r\n//「宇宙の……？\r\n//　それは以前にお伺いした、あの話のことで\r\n//あろうか」\r\n\"The mysteries of the cosmos? Do you mean what you spoke of before?\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070620b30'>\r\n//「この世には磁気、辰気、創気の三つの<RUBY text='ちから'>源気</RUBY>\r\n//があるという――」\r\n\"Magnetism, gravity, and the nuclear force... the three powers that govern all things in nature?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070610b30'>\r\n//「宇宙の……？\r\n//　それは以前にお伺いした、あの話のことで\r\n//あろうか」\r\nOs mistérios do cosmos? O senhor quer dizer o que falou antes?\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070620b30'>\r\n//「この世には磁気、辰気、創気の三つの<RUBY text='ちから'>源気</RUBY>\r\n//があるという――」\r\nMagnetismo, gravidade e a força nuclear... os três poderes que governam tudo na natureza?\r\n"
  },
  {
   "offset": 14691,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070630b16'>\r\n//「それは、えんぺどくれすの考えを私なりに\r\n//進めてみたものです。\r\n//　<RUBY text='・・'>物理</RUBY>には近付いているはずですが……<RUBY text='・・'>真理</RUBY>\r\n//からは離れてしまいました」\r\n\"That is my own theory, based on Empedocles's teachings. It more accurately explains the material world, but I fear that it has strayed from the truth.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070630b16'>\r\n//「それは、えんぺどくれすの考えを私なりに\r\n//進めてみたものです。\r\n//　<RUBY text='・・'>物理</RUBY>には近付いているはずですが……<RUBY text='・・'>真理</RUBY>\r\n//からは離れてしまいました」\r\nEssa é uma teoria minha, baseada nos ensinamentos de Empédocles. Ela explica com mais precisão o mundo material, mas temo que tenha se afastado da verdade.\r\n"
  },
  {
   "offset": 15196,
@@ -242,67 +242,67 @@
  {
   "offset": 15333,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070650b16'>\r\n//「彼はこう言いました。\r\n//　世界は四種の元素と二種の力で構成されて\r\n//いる……」\r\n\"Empedocles posited that the world is comprised of four elements and two forces.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070660b16'>\r\n//「〝地〟〝陽〟〝海〟〝空〟の四つが〝愛〟\r\n//の力で結びつき、また〝争い〟の力で別れる\r\n//ことによって、世の万象が顕れる。\r\n//　そう説いたのです」\r\n\"Earth, Fire, Wind, and Water are bound together by Love and divided from each other by Strife. The interaction of these elements and forces is responsible for all the phenomena found in the universe.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070670b16'>\r\n//「例えば人間は、四種類の元素がほぼ均等に\r\n//〝愛〟で結ばれることから生まれます。\r\n//　そして〝愛〟よりも強い〝争い〟の力――\r\n//怪我や病気――に襲われると死にます」\r\n\"Human beings, for example, are born when equal quantities of all four elements are joined by the force of Love.\r\n  Strife, however, is stronger than Love, and when it strikes in the form of injury or illness, the elements are divided and we die.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070650b16'>\r\n//「彼はこう言いました。\r\n//　世界は四種の元素と二種の力で構成されて\r\n//いる……」\r\n\"Empédocles afirmou que o mundo é composto de quatro elementos e duas forças.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070660b16'>\r\n//「〝地〟〝陽〟〝海〟〝空〟の四つが〝愛〟\r\n//の力で結びつき、また〝争い〟の力で別れる\r\n//ことによって、世の万象が顕れる。\r\n//　そう説いたのです」\r\n\"Terra, Fogo, Vento e Água são unidos pelo Amor e separados uns dos outros pela Discórdia. A interação desses elementos e forças é responsável por todos os fenômenos do universo.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070670b16'>\r\n//「例えば人間は、四種類の元素がほぼ均等に\r\n//〝愛〟で結ばれることから生まれます。\r\n//　そして〝愛〟よりも強い〝争い〟の力――\r\n//怪我や病気――に襲われると死にます」\r\n\"Os seres humanos, por exemplo, nascem quando quantidades iguais dos quatro elementos são unidas pela força do Amor.\r\n  A Discórdia, porém, é mais forte que o Amor, e quando ataca na forma de ferimentos ou doenças, os elementos se separam e morremos.\"\r\n"
  },
  {
   "offset": 16706,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070680b30'>\r\n//「ふむ……」\r\n\"Hmm...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070680b30'>\r\n//「ふむ……」\r\n\"Hmm...\"\r\n"
  },
  {
   "offset": 16848,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070690b16'>\r\n//「この理論で、世のあらゆる物事が説明でき\r\n//ます」\r\n\"Everything in the world can be explained with this <br>theory.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070690b16'>\r\n//「この理論で、世のあらゆる物事が説明でき\r\n//ます」\r\n\"Tudo no mundo pode ser explicado com esta teoria.\"\r\n"
  },
  {
   "offset": 17083,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070700b30'>\r\n//「ならば浦夢殿、正義とはいかなるものか？\r\n//　また、邪悪とは？」\r\n\"Then what is justice? What is injustice?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070700b30'>\r\n//「ならば浦夢殿、正義とはいかなるものか？\r\n//　また、邪悪とは？」\r\n\"Então o que é a justiça? E o que é a injustiça?\"\r\n"
  },
  {
   "offset": 17335,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070710b16'>\r\n//「正義と邪悪。\r\n//　善と悪ですか」\r\n\"Justice and injustice... in other words, good and evil?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070710b16'>\r\n//「正義と邪悪。\r\n//　善と悪ですか」\r\n\"Justiça e injustiça... em outras palavras, o bem e o mal?\"\r\n"
  },
  {
   "offset": 17539,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070720b30'>\r\n//「うむ。\r\n//　是非とも教えて頂きたい」\r\n\"Yes. I beg you! Tell me where to find them!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070720b30'>\r\n//「うむ。\r\n//　是非とも教えて頂きたい」\r\n\"Sim. Eu lhe imploro! Diga-me onde encontrá-los!\"\r\n"
  },
  {
   "offset": 17755,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070730b16'>\r\n//「……ありません」\r\n\"...Nowhere.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070730b16'>\r\n//「……ありません」\r\n\"...Em lugar nenhum.\"\r\n"
  },
  {
   "offset": 17893,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070740b30'>\r\n//「何？」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070740b30'>\r\n//「何？」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 18028,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070750b16'>\r\n//「そんなものは、存在しないのです」\r\n\"They do not exist.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070750b16'>\r\n//「そんなものは、存在しないのです」\r\n\"Eles não existem.\"\r\n"
  },
  {
   "offset": 18197,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070760b30'>\r\n//「な、無いはずはなかろう！」\r\n\"But... they must!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070760b30'>\r\n//「な、無いはずはなかろう！」\r\n\"Mas... eles devem existir!\"\r\n"
  },
  {
   "offset": 18374,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070770b16'>\r\n//「……そうですね。\r\n//　実質は何もありませんが、単なる物の見方\r\n//としてなら、あるとも言えます」\r\n\"...To be more precise, they do not exist in any absolute form. Depending on your point of view, however, you can find good or evil anywhere you look.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070770b16'>\r\n//「……そうですね。\r\n//　実質は何もありませんが、単なる物の見方\r\n//としてなら、あるとも言えます」\r\n\"...Para ser mais preciso, eles não existem de forma absoluta. Dependendo do seu ponto de vista, porém, é possível encontrar o bem ou o mal em qualquer lugar.\"\r\n"
  },
  {
   "offset": 18763,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070780b30'>\r\n//「見方？」\r\n\"Point of view?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070780b30'>\r\n//「見方？」\r\n\"Ponto de vista?\"\r\n"
  },
  {
   "offset": 18910,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070790b16'>\r\n//「村正どの。\r\n//　今、私はここに一つの世界を作りました」\r\n\"Take this flask.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070800b16'>\r\n//「<RUBY text='・・・・'>ふらすこ</RUBY>に塩と水を入れてかき混ぜ、蓋を\r\n//しました。\r\n//　この閉じた世界には、塩水と空気しかあり\r\n//ません」\r\n\"By mixing salt and water inside and plugging the mouth, I have created a single self-contained world. In this world, there is only salt water and air.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070790b16'>\r\n//「村正どの。\r\n//　今、私はここに一つの世界を作りました」\r\n\"Pegue este frasco.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070800b16'>\r\n//「<RUBY text='・・・・'>ふらすこ</RUBY>に塩と水を入れてかき混ぜ、蓋を\r\n//しました。\r\n//　この閉じた世界には、塩水と空気しかあり\r\n//ません」\r\n\"Ao misturar sal e água em seu interior e tapar a boca, criei um único mundo fechado em si mesmo. Nesse mundo, há apenas água salgada e ar.\"\r\n"
  },
  {
   "offset": 19542,
@@ -312,22 +312,22 @@
  {
   "offset": 19678,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070820b16'>\r\n//「これを、下から火で熱すると」\r\n\"If I heat this flask over a flame...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070820b16'>\r\n//「これを、下から火で熱すると」\r\n\"Se eu aquecer este frasco sobre uma chama...\"\r\n"
  },
  {
   "offset": 19859,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070830b16'>\r\n//「〝争い〟の力が働きます。\r\n//　結ばれていた塩と水が別れ、水は水蒸気と\r\n//なって空気と混ざり、塩は結晶に戻ります」\r\n\"Strife takes effect, breaking the bonds that held water and salt together. The water rises into the air as steam, and the salt returns to its crystalline form.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070830b16'>\r\n//「〝争い〟の力が働きます。\r\n//　結ばれていた塩と水が別れ、水は水蒸気と\r\n//なって空気と混ざり、塩は結晶に戻ります」\r\n\"A Discórdia entra em ação, rompendo os laços que mantinham água e sal unidos. A água sobe para o ar como vapor, e o sal retorna à sua forma cristalina.\"\r\n"
  },
  {
   "offset": 20285,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070840b30'>\r\n//「うむ……」\r\n\"Indeed...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070840b30'>\r\n//「うむ……」\r\n\"Com efeito...\"\r\n"
  },
  {
   "offset": 20430,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070850b16'>\r\n//「さて。\r\n//　善と悪は、何処にあったでしょうか……」\r\n\"So. Where in this exchange can good and evil be found?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070850b16'>\r\n//「さて。\r\n//　善と悪は、何処にあったでしょうか……」\r\n\"Então. Onde, nessa transformação, pode-se encontrar o bem e o mal?\"\r\n"
  },
  {
   "offset": 20660,
@@ -337,42 +337,42 @@
  {
   "offset": 20796,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070870b16'>\r\n//「我々の世界に置き換えて、考えてみてくだ\r\n//さい」\r\n\"Try thinking of it in terms of our world.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070870b16'>\r\n//「我々の世界に置き換えて、考えてみてくだ\r\n//さい」\r\n\"Tente pensar nisso em termos do nosso mundo.\"\r\n"
  },
  {
   "offset": 21010,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070880b30'>\r\n//「……塩と水を引き離した〝争い〟の力……\r\n//　火が、悪なのであろうか？」\r\n\"So... the flame, the force that tore salt and water apart... is evil?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070880b30'>\r\n//「……塩と水を引き離した〝争い〟の力……\r\n//　火が、悪なのであろうか？」\r\n\"Então... a chama, a força que separou o sal e a água... seria o mal?\"\r\n"
  },
  {
   "offset": 21303,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070890b16'>\r\n//「そうですね。\r\n//　人のつながり、絆は尊いものです。これを\r\n//引き離すのは罪悪だといえるでしょう……」\r\n\"Perhaps it is. The bonds between people are sacred. Any force that destroys them may indeed be called evil.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070890b16'>\r\n//「そうですね。\r\n//　人のつながり、絆は尊いものです。これを\r\n//引き離すのは罪悪だといえるでしょう……」\r\n\"Talvez seja. Os laços entre as pessoas são sagrados. Toda força que os destrói pode, de fato, ser chamada de mal.\"\r\n"
  },
  {
   "offset": 21659,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070900b30'>\r\n//「塩と水を塩水にしていた〝愛〟が正義で、\r\n//引き離した火が邪悪か……」\r\n\"So the Love that bound salt and water is just... and the fire that divided them is unjust...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070900b30'>\r\n//「塩と水を塩水にしていた〝愛〟が正義で、\r\n//引き離した火が邪悪か……」\r\n\"Então o Amor que unia sal e água é justo... e o fogo que os separou é injusto...\"\r\n"
  },
  {
   "offset": 21972,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070910b16'>\r\n//「しかし村正どの。\r\n//　よく見てください」\r\n\"But look closer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070910b16'>\r\n//「しかし村正どの。\r\n//　よく見てください」\r\n\"Mas olhe com mais atenção.\"\r\n"
  },
  {
   "offset": 22149,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070920b16'>\r\n//「塩と水は別れましたが、新たに水と空気が\r\n//混ざり合い、<RUBY text='もや'>靄</RUBY>が生まれています」\r\n\"The salt and water were indeed divided, but now the water has mixed with the air to form mist.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070920b16'>\r\n//「塩と水は別れましたが、新たに水と空気が\r\n//混ざり合い、<RUBY text='もや'>靄</RUBY>が生まれています」\r\n\"O sal e a água de fato se separaram, mas agora a água se misturou ao ar e formou uma névoa.\"\r\n"
  },
  {
   "offset": 22482,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070930b30'>\r\n//「……むぅ？」\r\n\"...Muh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0070930b30'>\r\n//「……むぅ？」\r\n\"...Muh?\"\r\n"
  },
  {
   "offset": 22628,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070940b16'>\r\n//「水と空気の間に〝愛〟が働いたのです。\r\n//　ということは……火は善でもあったのです」\r\n\"Love has bound water and air together... in which case, the fire must have been a force of good.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070940b16'>\r\n//「水と空気の間に〝愛〟が働いたのです。\r\n//　ということは……火は善でもあったのです」\r\n\"O Amor agiu entre a água e o ar... nesse caso, o fogo também era uma força do bem.\"\r\n"
  },
  {
   "offset": 22948,
@@ -382,12 +382,12 @@
  {
   "offset": 23090,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070960b16'>\r\n//「今度はこの世界を冷やしてみましょうか」\r\n\"Now, let us try cooling this world down.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070960b16'>\r\n//「今度はこの世界を冷やしてみましょうか」\r\n\"Agora, vamos tentar resfriar este mundo.\"\r\n"
  },
  {
   "offset": 23290,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070970b16'>\r\n//「靄を冷やすと……\r\n//　水は水滴となって落ちます」\r\n\"As the mist cools, the water condenses into droplets.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070980b16'>\r\n//「水滴は塩を溶かし、再び塩水になります」\r\n\"These fall to the bottom of the flask, where they dissolve the salt to again create salt water.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070970b16'>\r\n//「靄を冷やすと……\r\n//　水は水滴となって落ちます」\r\n\"Quando a névoa esfria, a água se condensa em gotas.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0070980b16'>\r\n//「水滴は塩を溶かし、再び塩水になります」\r\n\"Estas caem no fundo do frasco, onde dissolvem o sal e formam novamente água salgada.\"\r\n"
  },
  {
   "offset": 23763,
@@ -397,32 +397,32 @@
  {
   "offset": 23899,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071000b16'>\r\n//「塩水を生んだのですから、冷やしたのは善\r\n//の行いですね。\r\n//　しかし靄を分解してしまったので、悪でも\r\n//あります」\r\n\"Salt and water were bound by Love, so cooling the flask was an act of good. The mist, however, was divided by Strife, so it was also an act of evil.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071000b16'>\r\n//「塩水を生んだのですから、冷やしたのは善\r\n//の行いですね。\r\n//　しかし靄を分解してしまったので、悪でも\r\n//あります」\r\n\"Sal e água foram unidos pelo Amor, então resfriar o frasco foi um ato de bem. A névoa, porém, foi dividida pela Discórdia, então também foi um ato de mal.\"\r\n"
  },
  {
   "offset": 24315,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071010b30'>\r\n//「ぬ……むぅ」\r\n\"Nuh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071010b30'>\r\n//「ぬ……むぅ」\r\n\"Nh...\"\r\n"
  },
  {
   "offset": 24460,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071020b16'>\r\n//「村正どの。わかりましたか」\r\n\"Do you understand what I am trying to say?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071020b16'>\r\n//「村正どの。わかりましたか」\r\n\"Entende o que estou tentando dizer?\"\r\n"
  },
  {
   "offset": 24644,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071030b16'>\r\n//「善と悪は――」\r\n\"Good and evil―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071030b16'>\r\n//「善と悪は――」\r\n\"O bem e o mal são―\"\r\n"
  },
  {
   "offset": 24784,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071040b30'>\r\n//「……<RUBY text='・・'>裏表</RUBY>でしかない、と？」\r\n\"―are but㉓<I>two sides of the same coin!?</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071040b30'>\r\n//「……<RUBY text='・・'>裏表</RUBY>でしかない、と？」\r\n\"―não passam de㉓<I>duas faces da mesma moeda!?</I>\"\r\n"
  },
  {
   "offset": 25019,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071050b16'>\r\n//「そうです。\r\n//　ある行いを、特定の視点から見た時に善と\r\n//呼び、逆方向から見た時は悪と呼ぶ」\r\n\"Precisely. Any act, when viewed from a certain angle, can be considered good―and when viewed from another, evil.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071060b16'>\r\n//「それだけのことに過ぎないのです」\r\n\"The only difference is your own perspective.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071050b16'>\r\n//「そうです。\r\n//　ある行いを、特定の視点から見た時に善と\r\n//呼び、逆方向から見た時は悪と呼ぶ」\r\n\"Exatamente. Qualquer ato, visto de um certo ângulo, pode ser considerado bom―e, visto de outro, mau.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071060b16'>\r\n//「それだけのことに過ぎないのです」\r\n\"A única diferença é o seu próprio ponto de vista.\"\r\n"
  },
  {
   "offset": 25557,
@@ -432,17 +432,17 @@
  {
   "offset": 25699,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071080b16'>\r\n//「しかし人々は、この善悪をさも重大なもの\r\n//であるかのように扱っています。\r\n//　無意識に――あるいは意識的に」\r\n\"And yet, whether consciously or unconsciously, human beings treat this question of good and evil as if it were the most important thing in the world.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071080b16'>\r\n//「しかし人々は、この善悪をさも重大なもの\r\n//であるかのように扱っています。\r\n//　無意識に――あるいは意識的に」\r\n\"E, no entanto, consciente ou inconscientemente, os seres humanos tratam essa questão do bem e do mal como se fosse a coisa mais importante do mundo.\"\r\n"
  },
  {
   "offset": 26109,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071090b30'>\r\n//「何故……？」\r\n\"Why!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071090b30'>\r\n//「何故……？」\r\n\"Por quê!?\"\r\n"
  },
  {
   "offset": 26253,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071100b16'>\r\n//「自分の利益になる〝愛〟を肯定し、自分の\r\n//損失になる〝争い〟を否定するためです」\r\n\"To venerate the Love that serves their needs and condemn the Strife that does not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071100b16'>\r\n//「自分の利益になる〝愛〟を肯定し、自分の\r\n//損失になる〝争い〟を否定するためです」\r\n\"Para venerar o Amor que atende às suas necessidades e condenar a Discórdia que não as atende.\"\r\n"
  },
  {
   "offset": 26556,
@@ -452,17 +452,17 @@
  {
   "offset": 26692,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071120b16'>\r\n//「この独善こそ、人の心を縛る悪魔の呪い」\r\n\"This self-righteousness is Satan's curse upon the souls of mankind.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071120b16'>\r\n//「この独善こそ、人の心を縛る悪魔の呪い」\r\n\"Essa presunção é a maldição de Satã sobre as almas da humanidade.\"\r\n"
  },
  {
   "offset": 26919,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071130b16'>\r\n//「村正どの……もうおわかりでしょう。\r\n//　どうして平和は永く続かないのか？\r\n//　どうして戦争は繰り返されるのか？」\r\n\"Now you understand why war never ends, why peace does not last.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071130b16'>\r\n//「村正どの……もうおわかりでしょう。\r\n//　どうして平和は永く続かないのか？\r\n//　どうして戦争は繰り返されるのか？」\r\n\"Agora você entende por que a guerra nunca acaba, por que a paz não dura.\"\r\n"
  },
  {
   "offset": 27249,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071140b16'>\r\n//「それは――\r\n//　水は水だけの愛を、空気は空気だけの愛を、\r\n//塩は塩だけの愛を求めるからです！」\r\n\"Ten thousand years of Strife... all because salt, water, and air each pursue only their own form of Love, their own brand of justice!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071140b16'>\r\n//「それは――\r\n//　水は水だけの愛を、空気は空気だけの愛を、\r\n//塩は塩だけの愛を求めるからです！」\r\n\"Dez mil anos de Discórdia... tudo porque sal, água e ar buscam apenas a sua própria forma de Amor, a sua própria marca de justiça!\"\r\n"
  },
  {
   "offset": 27622,
@@ -472,77 +472,77 @@
  {
   "offset": 27764,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071160b16'>\r\n//「村正どの……」\r\n\"Muramasa...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071160b16'>\r\n//「村正どの……」\r\n\"Muramasa...\"\r\n"
  },
  {
   "offset": 27899,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071170b30'>\r\n//「ならば」\r\n\"So if the world is to be made right...\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071180b30'>\r\n//「世界を正すには」\r\n\"Then the only way...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071170b30'>\r\n//「ならば」\r\n\"Então, se o mundo deve ser corrigido...\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071180b30'>\r\n//「世界を正すには」\r\n\"Então o único meio...\"\r\n"
  },
  {
   "offset": 28227,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071190b16'>\r\n//「〝独善〟を滅ぼすのです！」\r\n\"Is to destroy man's self-righteousness!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071200b16'>\r\n//「えんぺどくれすの見つけた真理を、人々に\r\n//知らしめてください」\r\n\"The people of this world must know the truth that Empedocles discovered!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071210b16'>\r\n//「彼らを呪いから解き放つのです！\r\n//　自分だけの愛に囚われて争い合う呪いから」\r\n\"You shall free them from their curse, from the selfish love that dooms them to conflict!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071220b16'>\r\n//「そんな奇跡を成し得るものは……劒冑しか\r\n//ありません。\r\n//　あなたが、神の劒冑を造るのです！」\r\n\"Tsurugi are the key. Only the mightiest tsurugi, infused with God's Will, can accomplish this miracle!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071190b16'>\r\n//「〝独善〟を滅ぼすのです！」\r\n\"É destruir a presunção do homem!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071200b16'>\r\n//「えんぺどくれすの見つけた真理を、人々に\r\n//知らしめてください」\r\n\"As pessoas deste mundo precisam conhecer a verdade que Empédocles descobriu!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071210b16'>\r\n//「彼らを呪いから解き放つのです！\r\n//　自分だけの愛に囚われて争い合う呪いから」\r\n\"Você vai libertá-los da maldição, do amor egoísta que os condena ao conflito!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071220b16'>\r\n//「そんな奇跡を成し得るものは……劒冑しか\r\n//ありません。\r\n//　あなたが、神の劒冑を造るのです！」\r\n\"Os tsurugi são a chave. Somente o tsurugi supremo, imbuído da Vontade de Deus, pode realizar esse milagre!\"\r\n"
  },
  {
   "offset": 29295,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071230b30'>\r\n//「…………。\r\n//　できようか……？」\r\n\"...Is such a thing possible?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071230b30'>\r\n//「…………。\r\n//　できようか……？」\r\n\"...Será que isso é possível?\"\r\n"
  },
  {
   "offset": 29493,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071240b30'>\r\n//「この村正に……そこまでの大業が……」\r\n\"Can a mere smith such as I... do the work of gods?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071240b30'>\r\n//「この村正に……そこまでの大業が……」\r\n\"Um simples ferreiro como eu... pode fazer o trabalho dos deuses?\"\r\n"
  },
  {
   "offset": 29718,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071250b16'>\r\n//「できます！」\r\n\"Yes!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071260b16'>\r\n//「あなたには技があります。\r\n//　知識は、私が教えました」\r\n\"You already have the skill, as well as the knowledge that I've given you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071250b16'>\r\n//「できます！」\r\n\"Sim!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071260b16'>\r\n//「あなたには技があります。\r\n//　知識は、私が教えました」\r\n\"Você já tem a técnica, assim como o conhecimento que eu lhe dei.\"\r\n"
  },
  {
   "offset": 30090,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071270b16'>\r\n//「そして力は、ここに――」\r\n\"All that remains... is the power!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071270b16'>\r\n//「そして力は、ここに――」\r\n\"Só falta... o poder!\"\r\n"
  },
  {
   "offset": 30262,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071280b30'>\r\n//「これは？\r\n//　<RUBY text='すいそう'>水晶</RUBY>……いや違う……!?」\r\n\"Is this... a crystal? No... what!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071280b30'>\r\n//「これは？\r\n//　<RUBY text='すいそう'>水晶</RUBY>……いや違う……!?」\r\n\"Isto é... um cristal? Não... o que é isso!?\"\r\n"
  },
  {
   "offset": 30504,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071290b30'>\r\n//「……わ、わからぬ！\r\n//　馬鹿なっ、蝦夷の知らぬ鉱物など!!」\r\n\"What... <I>is</I>㉓this!? A metal I've never seen before!? Impossible!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071290b30'>\r\n//「……わ、わからぬ！\r\n//　馬鹿なっ、蝦夷の知らぬ鉱物など!!」\r\n\"O que... <I>é</I>㉓ isto!? Um metal que nunca vi antes!? Impossível!\"\r\n"
  },
  {
   "offset": 30780,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071300b16'>\r\n//「知らないのは当然です。\r\n//　これはおそらく、地上に一つきりしかない\r\n//もの……」\r\n\"It is no surprise that even an Emishi would not recognize it. This stone is the only one of its kind.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071300b16'>\r\n//「知らないのは当然です。\r\n//　これはおそらく、地上に一つきりしかない\r\n//もの……」\r\n\"Não é de surpreender que nem mesmo um Emishi o reconheça. Esta pedra é única em seu tipo.\"\r\n"
  },
  {
   "offset": 31100,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071310b16'>\r\n//「<RUBY text='らぴす・さぎー'>聖骸断片</RUBY>。\r\n//　神の血肉です」\r\n\"The Philosopher's Stone, made from the flesh of God Himself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071310b16'>\r\n//「<RUBY text='らぴす・さぎー'>聖骸断片</RUBY>。\r\n//　神の血肉です」\r\n\"A Pedra Filosofal, feita da carne do próprio Deus.\"\r\n"
  },
  {
   "offset": 31348,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071320b30'>\r\n//「……神……!?\r\n//　いや、わかる！　確かにこれは――途方も\r\n//なきものだ!!」\r\n\"The flesh of God!? Yes... I see it! This stone holds a terrible power!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071320b30'>\r\n//「……神……!?\r\n//　いや、わかる！　確かにこれは――途方も\r\n//なきものだ!!」\r\n\"A carne de Deus!? Sim... eu vejo! Esta pedra guarda um poder terrível!\"\r\n"
  },
  {
   "offset": 31644,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071330b16'>\r\n//「はい。\r\n//　この石は人を不死にするほどの力を持って\r\n//います」\r\n\"Indeed. It can even make men immortal.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071330b16'>\r\n//「はい。\r\n//　この石は人を不死にするほどの力を持って\r\n//います」\r\n\"Exato. Ela pode até tornar os homens imortais.\"\r\n"
  },
  {
   "offset": 31874,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071340b16'>\r\n//「このように……」\r\n\"Behold...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071340b16'>\r\n//「このように……」\r\n\"Contemple...\"\r\n"
  },
  {
   "offset": 32010,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071350b30'>\r\n//「う、浦夢殿……\r\n//　その体は!?」\r\n\"Y- Your body!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071350b30'>\r\n//「う、浦夢殿……\r\n//　その体は!?」\r\n\"S-Seu corpo!\"\r\n"
  },
  {
   "offset": 32189,
@@ -552,56 +552,56 @@
  {
   "offset": 32307,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071370b30'>\r\n//「この石と……同じ？」\r\n\"It's... the same as this stone?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071370b30'>\r\n//「この石と……同じ？」\r\n\"É... igual a esta pedra?\"\r\n"
  },
  {
   "offset": 32489,
   "en": "\r\n//嶋：修正「この石」【090930】\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071380b16'>\r\n//「ええ。\r\n//　この石を手に入れてから、私は歳を取らず\r\n//……そして体は次第に、このように変わって\r\n//いきました」\r\n\"Yes. From the day I laid hands on this stone, my body ceased to grow older. Instead, it has slowly changed into what you see before you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//嶋：修正「この石」【090930】\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071380b16'>\r\n//「ええ。\r\n//　この石を手に入れてから、私は歳を取らず\r\n//……そして体は次第に、このように変わって\r\n//いきました」\r\n\"Sim. Desde o dia em que pus as mãos nesta pedra, meu corpo parou de envelhecer. Em vez disso, ele foi mudando lentamente até ficar como você vê agora.\"\r\n"
  },
  {
   "offset": 32930,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071390b16'>\r\n//「全身が変わる前に、あなたに会えて……\r\n//　全てを伝えることができて、良かった」\r\n\"I am truly grateful to the fates for bringing us together, and for allowing me to pass on my knowledge... before the stone consumes me utterly.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071400b16'>\r\n//「私は……\r\n//　神より授かった使命を、果たせたようです」\r\n\"At long last... I have fulfilled the purpose for which God created me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071390b16'>\r\n//「全身が変わる前に、あなたに会えて……\r\n//　全てを伝えることができて、良かった」\r\n\"É uma verdadeira bênção do destino que tenhamos nos encontrado, e que eu tenha podido transmitir tudo o que sei... antes que a pedra me consuma por completo.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071400b16'>\r\n//「私は……\r\n//　神より授かった使命を、果たせたようです」\r\n\"Enfim... cumpri o propósito para o qual Deus me criou.\"\r\n"
  },
  {
   "offset": 33535,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071410b30'>\r\n//「浦夢殿！」\r\n\"Uramu!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071410b30'>\r\n//「浦夢殿！」\r\n\"Uramu!\"\r\n"
  },
  {
   "offset": 33677,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071420b16'>\r\n//「……長く……\r\n//　あまりにも長く、生きました……」\r\n\"I have lived so long... so very long...\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071430b16'>\r\n//「ようやく眠れます……」\r\n\"Now... I can finally rest.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071420b16'>\r\n//「……長く……\r\n//　あまりにも長く、生きました……」\r\n\"Vivi por tanto tempo... por tempo demais...\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071430b16'>\r\n//「ようやく眠れます……」\r\n\"Agora... finalmente posso descansar.\"\r\n"
  },
  {
   "offset": 34046,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071440b30'>\r\n//「いかぬ！\r\n//　これか――この石を」\r\n\"No! Of course! This stone will save you!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071440b30'>\r\n//「いかぬ！\r\n//　これか――この石を」\r\n\"Não! Claro! Esta pedra vai te salvar!\"\r\n"
  },
  {
   "offset": 34256,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071450b16'>\r\n//「いけません。\r\n//　それはあなたが使うのです」\r\n\"Keep it! It is for you to use.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071460b16'>\r\n//「至高の劒冑を造るために」\r\n\"Use it to forge the ultimate tsurugi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071450b16'>\r\n//「いけません。\r\n//　それはあなたが使うのです」\r\n\"Fique com ela! É você quem deve usá-la.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071460b16'>\r\n//「至高の劒冑を造るために」\r\n\"Use-a para forjar o tsurugi supremo.\"\r\n"
  },
  {
   "offset": 34621,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071470b30'>\r\n//「し、しかし」\r\n\"B- But...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071470b30'>\r\n//「し、しかし」\r\n\"M-Mas...\"\r\n"
  },
  {
   "offset": 34769,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071480b16'>\r\n//「お願いします。\r\n//　あなたに全て……託します」\r\n\"Please, Muramasa... it's up to you now.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071490b16'>\r\n//「人を独善から解き放つのです」\r\n\"Cure humanity of the illness that has plagued it for so long.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071500b16'>\r\n//「一人の愛ではなく、全員の愛を……\r\n///　争いを起こさず、万物を分け隔てなく結び\r\n//つける、普遍の愛を求める道へ――いざなう\r\n//のです！」\r\n\"Lead people from the darkness of selfish love... to pure love, God's love... unconditional... and all-encompassing!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071510b16'>\r\n//「神の――愛を……！\r\n//　この世界に、どうか!!」\r\n\"May the world know... <I>Agape!</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071480b16'>\r\n//「お願いします。\r\n//　あなたに全て……託します」\r\n\"Por favor, Muramasa... agora tudo depende de você.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071490b16'>\r\n//「人を独善から解き放つのです」\r\n\"Cure a humanidade da doença que a aflige há tanto tempo.\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071500b16'>\r\n//「一人の愛ではなく、全員の愛を……\r\n///　争いを起こさず、万物を分け隔てなく結び\r\n//つける、普遍の愛を求める道へ――いざなう\r\n//のです！」\r\n\"Conduza as pessoas das trevas do amor egoísta... ao amor puro, ao amor de Deus... incondicional... e que abrange todas as coisas!\"\r\n\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0071510b16'>\r\n//「神の――愛を……！\r\n//　この世界に、どうか!!」\r\n\"Que o mundo conheça... o <I>Agape!</I>\"\r\n"
  },
  {
   "offset": 35778,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071520b30'>\r\n//「う、浦夢殿……」\r\n\"Uramu...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071520b30'>\r\n//「う、浦夢殿……」\r\n\"Uramu...\"\r\n"
  },
  {
   "offset": 35931,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071530b30'>\r\n//「浦夢殿ぉぉぉっっ!!」\r\n\"URAMU!!!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0071530b30'>\r\n//「浦夢殿ぉぉぉっっ!!」\r\n\"URAMU!!!\"\r\n"
  }
 ]

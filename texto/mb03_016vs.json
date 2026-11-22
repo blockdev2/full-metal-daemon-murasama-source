@@ -2,57 +2,57 @@
  {
   "offset": 215,
   "en": "\r\n//　召喚するまでもなく、二領の劒冑が飛び入ってくる。\r\n//　<RUBY text='ムラマサ'>紅蜘蛛</RUBY>は天窓を抜けて。<RUBY text='マサムネ'>天牛虫</RUBY>は容赦なくガラスを\r\n//叩き割り。\r\n\r\n//　いつでも戦闘に移行できる態勢が整った。\r\n  Our tsurugi appear without need of command―<br>Muramasa, through a gap in the ceiling; Masamune, by smashing straight through a window. In a heartbeat, we are ready for battle.\r\n",
-  "pt": ""
+  "pt": "\r\n//　召喚するまでもなく、二領の劒冑が飛び入ってくる。\r\n//　<RUBY text='ムラマサ'>紅蜘蛛</RUBY>は天窓を抜けて。<RUBY text='マサムネ'>天牛虫</RUBY>は容赦なくガラスを\r\n//叩き割り。\r\n\r\n//　いつでも戦闘に移行できる態勢が整った。\r\n  Nossos tsurugi surgem sem que seja preciso dar a ordem―Muramasa, por uma abertura no teto; Masamune, estilhaçando uma janela. Num piscar de olhos, estamos prontos para a batalha.\r\n"
  },
  {
   "offset": 713,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0010b15'>\r\n//「やはり武者か。\r\n//　童心入道を討ったのは、貴様らだな」\r\n\"Musha. As we thought. You must be the ones who killed Yusa Doshin.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0010b15'>\r\n//「やはり武者か。\r\n//　童心入道を討ったのは、貴様らだな」\r\n\"Musha. Como imaginávamos. Vocês devem ser os que mataram Yusa Doshin.\"\r\n"
  },
  {
   "offset": 972,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0020a00'>\r\n//「やはり？\r\n//　……成程。そういうことか」\r\n\"You were expecting us?\r\n  ...Ah. I see it now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0020a00'>\r\n//「やはり？\r\n//　……成程。そういうことか」\r\n\"Vocês já esperavam por nós?\r\n  ...Ah. Agora entendo.\"\r\n"
  },
  {
   "offset": 1181,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0030a02'>\r\n//「？　どういう？」\r\n\"See what?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0030a02'>\r\n//「？　どういう？」\r\n\"Entender o quê?\"\r\n"
  },
  {
   "offset": 1319,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0040a00'>\r\n//「こんな罠を仕掛けられた理由だ。\r\n//　あの工作員……岩田と言ったか。彼女が俺\r\n//達の風貌その他の情報を小弓へ伝えていたの\r\n//だろう」\r\n\"How they knew to lay this trap. That woman who helped us at Fudaraku, Iwata. She must have given Oyumi our descriptions.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0040a00'>\r\n//「こんな罠を仕掛けられた理由だ。\r\n//　あの工作員……岩田と言ったか。彼女が俺\r\n//達の風貌その他の情報を小弓へ伝えていたの\r\n//だろう」\r\n\"Como souberam montar esta armadilha. Aquela mulher que nos ajudou em Fudaraku, Iwata. Ela deve ter dado nossas descrições a Oyumi.\"\r\n"
  },
  {
   "offset": 1733,
   "en": "\r\n//　だから劒冑を見るまでこちらが武者であることには\r\n//確証を持てなかったのだ。そう推測はできても。\r\n//　あの工作員は俺と一条が劒冑を所持するという情報\r\n//だけは報告する暇が無かった筈であるから。\r\n  That explains why they weren't certain we were musha. Iwata died before she could make that report.\r\n",
-  "pt": ""
+  "pt": "\r\n//　だから劒冑を見るまでこちらが武者であることには\r\n//確証を持てなかったのだ。そう推測はできても。\r\n//　あの工作員は俺と一条が劒冑を所持するという情報\r\n//だけは報告する暇が無かった筈であるから。\r\n  Isso explica por que não tinham certeza de que éramos musha. Iwata morreu antes que pudesse fazer esse relatório.\r\n"
  },
  {
   "offset": 2132,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0050a00'>\r\n//「……些か見通しが甘かったか。\r\n//　こうなる事は予測していて然るべきだった」\r\n\"We should have expected they might know our faces.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0050a00'>\r\n//「……些か見通しが甘かったか。\r\n//　こうなる事は予測していて然るべきだった」\r\n\"Deveríamos ter previsto que talvez conhecessem nossos rostos.\"\r\n"
  },
  {
   "offset": 2396,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0060a02'>\r\n//「顔を隠すとか、考えもしませんでしたね」\r\n\"Yeah, we've been walking around like it's nothing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0060a02'>\r\n//「顔を隠すとか、考えもしませんでしたね」\r\n\"É, andamos por aí como se nada fosse.\"\r\n"
  },
  {
   "offset": 2608,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0070b15'>\r\n//「……ふっ。\r\n//　惚けるなよ？　親王の手駒ども」\r\n\"You can't fool us, rebel scum. We know you showed yourselves deliberately.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0070b15'>\r\n//「……ふっ。\r\n//　惚けるなよ？　親王の手駒ども」\r\n\"Não nos enganem, escória rebelde. Sabemos que se mostraram de propósito.\"\r\n"
  },
  {
   "offset": 2863,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0080a00'>\r\n//「何？」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0080a00'>\r\n//「何？」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 2982,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0090b15'>\r\n//「貴様たちが堂々と小弓へ近付いてきた理由\r\n//くらいは読めている。\r\n//　――陽動だ」\r\n\"Why else would you walk out in the open like that? You're a diversion.\"\r\n\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0100b15'>\r\n//「貴様らが我が軍を引き付けている間に主力\r\n//で公方府を衝く……そういうことだろう？\r\n//　単純かつ有効な戦術だ。こちらが引っ掛か\r\n//っていれば、の話だがな」\r\n\"While the army runs off to deal with you, your main force will attack our base. A simple plan, but effective. <I>Assuming</I>㉔your enemy falls for it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0090b15'>\r\n//「貴様たちが堂々と小弓へ近付いてきた理由\r\n//くらいは読めている。\r\n//　――陽動だ」\r\n\"Por que outra razão vocês se exporiam assim? Vocês são uma distração.\"\r\n\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0100b15'>\r\n//「貴様らが我が軍を引き付けている間に主力\r\n//で公方府を衝く……そういうことだろう？\r\n//　単純かつ有効な戦術だ。こちらが引っ掛か\r\n//っていれば、の話だがな」\r\n\"Enquanto o exército sai para cuidar de vocês, sua força principal atacará nossa base. Um plano simples, mas eficaz. <I>Supondo</I>㉔ que o inimigo caia nessa.\"\r\n"
  },
  {
   "offset": 3762,
@@ -67,127 +67,127 @@
  {
   "offset": 4002,
   "en": "\r\n//　成程。\r\n//　相手にすれば、そう考えられるのか。\r\n\r\n//　確かに、わずか二騎で総大将の首を取りに来た、と\r\n//考えるよりは現実味がある。\r\n//　彼らがこちらの戦力規模を過大評価しているとなれ\r\n//ば尚のこと、そうとしか見られまい。\r\n  I see. A perfectly logical assumption, given that they believe His Highness to command a force far larger than he actually does. It's certainly more believable than the truth of our mission.\r\n",
-  "pt": ""
+  "pt": "\r\n//　成程。\r\n//　相手にすれば、そう考えられるのか。\r\n\r\n//　確かに、わずか二騎で総大将の首を取りに来た、と\r\n//考えるよりは現実味がある。\r\n//　彼らがこちらの戦力規模を過大評価しているとなれ\r\n//ば尚のこと、そうとしか見られまい。\r\n  Entendo. Uma suposição perfeitamente lógica, considerando que acreditam que Sua Alteza comande uma força muito maior do que de fato comanda. É certamente mais crível do que a verdade da nossa missão.\r\n"
  },
  {
   "offset": 4532,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0130b15'>\r\n//「その手には乗らん。\r\n//　軍は動かさんよ。貴様らは我々だけで始末\r\n//する！」\r\n\"But you underestimated us. No armies are coming. We'll deal with you ourselves!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0130b15'>\r\n//「その手には乗らん。\r\n//　軍は動かさんよ。貴様らは我々だけで始末\r\n//する！」\r\n\"Mas vocês nos subestimaram. Nenhum exército virá. Nós mesmos cuidaremos de vocês!\"\r\n"
  },
  {
   "offset": 4832,
   "en": "\r\n//　店の奥から、既に装甲を遂げた竜騎兵が次々と躍り\r\n//出て来る。\r\n//　その数――八騎。\r\n\r\n//　いや、一騎が鎧櫃を抱えている。\r\n//　ウェイトレスの分か？　ならば九騎！\r\n  With startling speed, a squad of armored dragoons bursts from the kitchen.\r\n\r\n  I count eight. No, one is holding a tsurugi case. It must be for the waitress. Nine!\r\n",
-  "pt": ""
+  "pt": "\r\n//　店の奥から、既に装甲を遂げた竜騎兵が次々と躍り\r\n//出て来る。\r\n//　その数――八騎。\r\n\r\n//　いや、一騎が鎧櫃を抱えている。\r\n//　ウェイトレスの分か？　ならば九騎！\r\n  Com velocidade espantosa, um esquadrão de dragões blindados irrompe da cozinha.\r\n\r\n  São oito. Não, um deles carrega um estojo de tsurugi. Deve ser para a garçonete. Nove!\r\n"
  },
  {
   "offset": 5248,
   "en": "\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/016vs0140e112'>\r\n//「我らは闇の掃除人」\r\n\"With swords in hand, we stalk the shadows―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/016vs0140e112'>\r\n//「我らは闇の掃除人」\r\n\"Com espadas em punho, rondamos as sombras―\"\r\n"
  },
  {
   "offset": 5464,
   "en": "\r\n//【ｅｔｃ／十傑Ｃ】\r\n<voice name='ｅｔｃ／十傑Ｃ' class='その他男声' src='voice/mb03/016vs0150e113'>\r\n//「美しき雷蝶様のため。\r\n//　御道を清め整える」\r\n\"―that our magnificent lord may walk in pure light.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｃ】\r\n<voice name='ｅｔｃ／十傑Ｃ' class='その他男声' src='voice/mb03/016vs0150e113'>\r\n//「美しき雷蝶様のため。\r\n//　御道を清め整える」\r\n\"―para que nosso magnífico senhor caminhe na luz pura.\"\r\n"
  },
  {
   "offset": 5725,
   "en": "\r\n//【ｅｔｃ／十傑Ｄ】\r\n<voice name='ｅｔｃ／十傑Ｄ' class='その他男声' src='voice/mb03/016vs0160e114'>\r\n//「汚れた犬は追い払い」\r\n\"Where filth and vermin intrude on his path―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｄ】\r\n<voice name='ｅｔｃ／十傑Ｄ' class='その他男声' src='voice/mb03/016vs0160e114'>\r\n//「汚れた犬は追い払い」\r\n\"Onde a imundície e os vermes invadem seu caminho―\"\r\n"
  },
  {
   "offset": 5945,
   "en": "\r\n//【ｅｔｃ／十傑Ｅ】\r\n<voice name='ｅｔｃ／十傑Ｅ' class='その他男声' src='voice/mb03/016vs0170e115'>\r\n//「邪魔な<RUBY text='いしくれ'>石塊</RUBY>は取り除けようぞ」\r\n\"―there we shall gather to sweep them aside!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｅ】\r\n<voice name='ｅｔｃ／十傑Ｅ' class='その他男声' src='voice/mb03/016vs0170e115'>\r\n//「邪魔な<RUBY text='いしくれ'>石塊</RUBY>は取り除けようぞ」\r\n\"―ali nos reuniremos para varrê-los do caminho!\"\r\n"
  },
  {
   "offset": 6210,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0180b15'>\r\n//「人呼んで小弓十傑。\r\n//　憚りながら推して参る！」\r\n\"Witness the Ten Heroes of Oyumi! Against our might, no villain can stand!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0180b15'>\r\n//「人呼んで小弓十傑。\r\n//　憚りながら推して参る！」\r\n\"Contemplem os Dez Heróis de Oyumi! Diante do nosso poder, nenhum vilão resiste!\"\r\n"
  },
  {
   "offset": 6467,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0190a00'>\r\n//「十傑……」\r\n\"<I>Ten</I> heroes...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0190a00'>\r\n//「十傑……」\r\n\"<I>Dez</I> heróis...\"\r\n"
  },
  {
   "offset": 6607,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0200a02'>\r\n//「……一人足りなくねーか」\r\n\"You leave someone behind?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0200a02'>\r\n//「……一人足りなくねーか」\r\n\"Vocês deixaram alguém para trás?\"\r\n"
  },
  {
   "offset": 6773,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0210b15'>\r\n//「ここにおらぬ一人は、既に果てた……。\r\n//　先日、貴様らの手によってな」\r\n\"The last of our number has fallen... slain by your hand at Kenchoji Temple.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0210b15'>\r\n//「ここにおらぬ一人は、既に果てた……。\r\n//　先日、貴様らの手によってな」\r\n\"O último dos nossos já caiu... morto pela mão de vocês no Templo Kenchoji.\"\r\n"
  },
  {
   "offset": 7065,
   "en": "\r\n//【ｅｔｃ／十傑Ｃ】\r\n<voice name='ｅｔｃ／十傑Ｃ' class='その他男声' src='voice/mb03/016vs0220e113'>\r\n//「フッ。だが図に乗るなよ。\r\n//　奴の実力は我々の中で最も下だったのだ」\r\n\"But do not think to judge us based on his failure. He was the weakest of us by far.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｃ】\r\n<voice name='ｅｔｃ／十傑Ｃ' class='その他男声' src='voice/mb03/016vs0220e113'>\r\n//「フッ。だが図に乗るなよ。\r\n//　奴の実力は我々の中で最も下だったのだ」\r\n\"Mas não pensem em nos julgar pelo fracasso dele. Ele era, de longe, o mais fraco de nós.\"\r\n"
  },
  {
   "offset": 7393,
   "en": "\r\n//【ｅｔｃ／十傑Ｅ】\r\n<voice name='ｅｔｃ／十傑Ｅ' class='その他男声' src='voice/mb03/016vs0230e115'>\r\n//「我らこそ真の小弓十傑よ。\r\n//　本物の力を味わわせてやろう！」\r\n\"We are the true heroes of Oyumi! You will regret the day you betrayed our lord!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｅ】\r\n<voice name='ｅｔｃ／十傑Ｅ' class='その他男声' src='voice/mb03/016vs0230e115'>\r\n//「我らこそ真の小弓十傑よ。\r\n//　本物の力を味わわせてやろう！」\r\n\"Nós somos os verdadeiros heróis de Oyumi! Vocês se arrependerão do dia em que traíram nosso senhor!\"\r\n"
  },
  {
   "offset": 7705,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0240a02'>\r\n//「……何だか知らねーけど、わかった。\r\n//　要はぶっ倒していいってことだな」\r\n\"...Uh-huh. I get it. You're here for an asskicking.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0240a02'>\r\n//「……何だか知らねーけど、わかった。\r\n//　要はぶっ倒していいってことだな」\r\n\"...Aham. Entendi. Vocês vieram levar uma surra.\"\r\n"
  },
  {
   "offset": 7967,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0250a02'>\r\n//「正宗！」\r\n\"Happy to oblige. Masamune!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0250a02'>\r\n//「正宗！」\r\n\"Com prazer. Masamune!\"\r\n"
  },
  {
   "offset": 8110,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb03/016vs0260b40'>\r\n//《応！》\r\n《To battle!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb03/016vs0260b40'>\r\n//《応！》\r\n《À batalha!》\r\n"
  },
  {
   "offset": 8238,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0270a02'>\r\n//「世に鬼あれば鬼を断つ。\r\n//　世に悪あれば悪を断つ」\r\n<center>\"Where there are demons,\r\nI slay them.\r\nWhere there is evil,\r\nI smite it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0270a02'>\r\n//「世に鬼あれば鬼を断つ。\r\n//　世に悪あれば悪を断つ」\r\n<center>\"Onde há demônios,\r\neu os abato.\r\nOnde há o mal,\r\neu o aniquilo.\"\r\n"
  },
  {
   "offset": 8496,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0280a02'>\r\n//「ツルギの<RUBY text='ことわり'>理</RUBY>ここに在り」\r\n<center>\"Mine is the Way of the Sword!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0280a02'>\r\n//「ツルギの<RUBY text='ことわり'>理</RUBY>ここに在り」\r\n<center>\"É meu o Caminho da Espada!\"\r\n"
  },
  {
   "offset": 8704,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0290a00'>\r\n//「……村正」\r\n\"...Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0290a00'>\r\n//「……村正」\r\n\"...Muramasa.\"\r\n"
  },
  {
   "offset": 8836,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb03/016vs0300a01'>\r\n//《ええ》\r\n《Ready.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb03/016vs0300a01'>\r\n//《ええ》\r\n《Pronta.》\r\n"
  },
  {
   "offset": 8966,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0310a00'>\r\n//「鬼に逢うては鬼を斬る。\r\n//　仏に逢うては仏を斬る」\r\n<center>\"Where there are demons,\r\nI slay them.\r\nWhere there are saints,\r\nI slay them.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0310a00'>\r\n//「鬼に逢うては鬼を斬る。\r\n//　仏に逢うては仏を斬る」\r\n<center>\"Onde há demônios,\r\neu os abato.\r\nOnde há santos,\r\neu os abato.\"\r\n"
  },
  {
   "offset": 9228,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0320a00'>\r\n//「ツルギの理ここに在り」\r\n<center>\"Mine is the Way of the Sword!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0320a00'>\r\n//「ツルギの理ここに在り」\r\n<center>\"É meu o Caminho da Espada!\"\r\n"
  },
  {
   "offset": 9403,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0330b15'>\r\n//「ほう……なかなかの武者ぶりだ。\r\n//　舞殿宮が先手として送り込んできただけは\r\n//ある……」\r\n\"Oh-ho... Such mighty armor. I see why the prince chose you for this mission.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0330b15'>\r\n//「ほう……なかなかの武者ぶりだ。\r\n//　舞殿宮が先手として送り込んできただけは\r\n//ある……」\r\n\"Ora, ora... Que armadura formidável. Vejo por que o príncipe os escolheu para esta missão.\"\r\n"
  },
  {
   "offset": 9721,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0340b15'>\r\n//「だが所詮二騎。\r\n//　それで我らに勝てるつもりか？」\r\n\"But I count two of you and nine of us. It seems the odds are in our favor.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0340b15'>\r\n//「だが所詮二騎。\r\n//　それで我らに勝てるつもりか？」\r\n\"Mas são dois de vocês contra nove de nós. A vantagem parece estar do nosso lado.\"\r\n"
  },
  {
   "offset": 9982,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0350a02'>\r\n//「つもりじゃ、悪いかよ」\r\n\"You think?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0350a02'>\r\n//「つもりじゃ、悪いかよ」\r\n\"Você acha?\"\r\n"
  },
  {
   "offset": 10130,
@@ -197,62 +197,62 @@
  {
   "offset": 10250,
   "en": "\r\n//　一条の自信は完全だ。\r\n//　俺は、そこまでの勝算を持てなかったにせよ。\r\n  While I do not share Ichijo's total confidence, I agree that the situation does not warrant despair.\r\n",
-  "pt": ""
+  "pt": "\r\n//　一条の自信は完全だ。\r\n//　俺は、そこまでの勝算を持てなかったにせよ。\r\n  Embora eu não compartilhe da confiança total de Ichijo, concordo que a situação não justifica desespero.\r\n"
  },
  {
   "offset": 10471,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0370a00'>\r\n//（やってやれない勝負ではない）\r\n(We have a chance.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0370a00'>\r\n//（やってやれない勝負ではない）\r\n(Temos chance.)\r\n"
  },
  {
   "offset": 10635,
   "en": "\r\n//　障害物の多い屋内は寡勢を利する。\r\n//　それに、何も殲滅戦を挑む必要はない。数騎を戦闘\r\n//不能にして敵の士気を挫き、その隙をついて脱出する、\r\n//それで良いのだ。\r\n  This space, with its many obstacles, will work to our advantage, as will the fact that we need only to escape, rather than to defeat the enemy force entire. If we fight smart, break their morale...\r\n\r\n//　やり方を間違えなければそう難しくはない筈。\r\n",
-  "pt": ""
+  "pt": "\r\n//　障害物の多い屋内は寡勢を利する。\r\n//　それに、何も殲滅戦を挑む必要はない。数騎を戦闘\r\n//不能にして敵の士気を挫き、その隙をついて脱出する、\r\n//それで良いのだ。\r\n  Este espaço, com seus muitos obstáculos, jogará a nosso favor, assim como o fato de precisarmos apenas escapar, e não derrotar toda a força inimiga. Se lutarmos com inteligência e quebrarmos o moral deles...\r\n\r\n//　やり方を間違えなければそう難しくはない筈。\r\n"
  },
  {
   "offset": 11156,
   "en": "\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/016vs0380e112'>\r\n//「ふん。\r\n//　無謀な奴だ。若さゆえと思えば可愛いが」\r\n\"Hmph. Bold and foolish. The very picture of youth.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/016vs0380e112'>\r\n//「ふん。\r\n//　無謀な奴だ。若さゆえと思えば可愛いが」\r\n\"Hmph. Ousados e tolos. O próprio retrato da juventude.\"\r\n"
  },
  {
   "offset": 11424,
   "en": "\r\n//【ｅｔｃ／十傑Ｃ】\r\n<voice name='ｅｔｃ／十傑Ｃ' class='その他男声' src='voice/mb03/016vs0390e113'>\r\n//「我らはその逆よ。\r\n//　謀計を尽くし、勝算の上になお勝算を積み\r\n//上げて戦う」\r\n\"We have turned our backs on the bright flame of reckless glory. Plans within plans, until victory is <br>assured.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｃ】\r\n<voice name='ｅｔｃ／十傑Ｃ' class='その他男声' src='voice/mb03/016vs0390e113'>\r\n//「我らはその逆よ。\r\n//　謀計を尽くし、勝算の上になお勝算を積み\r\n//上げて戦う」\r\n\"Viramos as costas à chama brilhante da glória imprudente. Planos dentro de planos, até que a vitória esteja garantida.\"\r\n"
  },
  {
   "offset": 11792,
   "en": "\r\n//【ｅｔｃ／十傑Ｄ】\r\n<voice name='ｅｔｃ／十傑Ｄ' class='その他男声' src='voice/mb03/016vs0400e114'>\r\n//「それが小弓十傑の最強たる所以」\r\n\"And thus, we are invincible!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｄ】\r\n<voice name='ｅｔｃ／十傑Ｄ' class='その他男声' src='voice/mb03/016vs0400e114'>\r\n//「それが小弓十傑の最強たる所以」\r\n\"E é por isso que somos invencíveis!\"\r\n"
  },
  {
   "offset": 12010,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0410a02'>\r\n//「なに言ってやがる。そいつが失敗したから、\r\n//こういう格好になったんだろうが。\r\n//　御託は止めて、さっさと掛かって来な」\r\n\"Yeah? What plan? The one you fucked up? Cut the shit and bring it already.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0410a02'>\r\n//「なに言ってやがる。そいつが失敗したから、\r\n//こういう格好になったんだろうが。\r\n//　御託は止めて、さっさと掛かって来な」\r\n\"É? Que plano? Aquele que vocês ferraram? Deixa de conversa fiada e vem logo.\"\r\n"
  },
  {
   "offset": 12362,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0420b15'>\r\n//「くっくっく……！\r\n//　失敗？　失敗だと」\r\n\"Hehehe... I see. You think the plan failed.\"\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0420b15'>\r\n//「くっくっく……！\r\n//　失敗？　失敗だと」\r\n\"Hehehe... Entendi. Vocês acham que o plano falhou.\"\r\n\r\n"
  },
  {
   "offset": 12579,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0430b15'>\r\n//「まだ何も失敗してなどいない。\r\n//　まぁ確かに、貴様らがその茶に口をつけて\r\n//くれていたら事は手早く片付いたろうが」\r\n\"You couldn't be more wrong. Oh, the tea would have made things easier, to be sure...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0430b15'>\r\n//「まだ何も失敗してなどいない。\r\n//　まぁ確かに、貴様らがその茶に口をつけて\r\n//くれていたら事は手早く片付いたろうが」\r\n\"Vocês não poderiam estar mais enganados. Ah, o chá teria facilitado as coisas, sem dúvida...\"\r\n"
  },
  {
   "offset": 12944,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0440a00'>\r\n//「毒か……」\r\n\"Poison...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0440a00'>\r\n//「毒か……」\r\n\"Veneno...\"\r\n"
  },
  {
   "offset": 13073,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0450b15'>\r\n//「元々期待はしていなかった。\r\n//　策は――これからだ」\r\n\"But that was never the㉓<i>real</I> plan. The real plan―starts now!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0450b15'>\r\n//「元々期待はしていなかった。\r\n//　策は――これからだ」\r\n\"Mas esse nunca foi o㉓<i>verdadeiro</I> plano. O plano de verdade―começa agora!\"\r\n"
  },
  {
   "offset": 13333,
   "en": "\r\n//　ぱちん、と女が指を弾く。\r\n//　合図だったのだろう。端にいた一騎が厨房へ続く扉\r\n//に手を掛け、開いた。\r\n\r\n//　そして何かを引き摺り出す。\r\n//　何か――\r\n\r\n//　縄で縛られた――幾つかの――\r\n//　\r\n//　それは、\r\n  At the snap of her fingers, the dragoon closest to the kitchen opens the door and drags something out.\r\n\r\n  Something―\r\n  <I>Three</I> somethings. <I>Bound.</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　ぱちん、と女が指を弾く。\r\n//　合図だったのだろう。端にいた一騎が厨房へ続く扉\r\n//に手を掛け、開いた。\r\n\r\n//　そして何かを引き摺り出す。\r\n//　何か――\r\n\r\n//　縄で縛られた――幾つかの――\r\n//　\r\n//　それは、\r\n  Ao estalar dos dedos dela, o cavaleiro-dragão mais próximo da cozinha abre a porta e arrasta algo para fora.\r\n\r\n  Alguma coisa―\r\n  <I>Três</I> coisas. <I>Amarradas.</I>\r\n"
  },
  {
   "offset": 13806,
@@ -262,22 +262,22 @@
  {
   "offset": 13932,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0470a02'>\r\n//「てめえら」\r\n\"You piece of shit.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0470a02'>\r\n//「てめえら」\r\n\"Seus filhos da puta.\"\r\n"
  },
  {
   "offset": 14070,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0480b15'>\r\n//「……ふふふ……」\r\n\"Hehehe...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0480b15'>\r\n//「……ふふふ……」\r\n\"Hehehe...\"\r\n"
  },
  {
   "offset": 14217,
   "en": "\r\n//　人間だった。三人。\r\n//　壮年の男性と、同じ頃の女性、そして男児。\r\n\r\n//　三人とも、怯え切った眼差しで自分達以外の全てを\r\n//見詰めている。\r\n//　声はない。猿轡を噛まされていた。\r\n  The objects are people. A man and woman of middle age, and a boy no older than ten.\r\n\r\n  Their eyes are wide and full of terror as they take in this tableau. Not one of them speaks. Their mouths are gagged.\r\n",
-  "pt": ""
+  "pt": "\r\n//　人間だった。三人。\r\n//　壮年の男性と、同じ頃の女性、そして男児。\r\n\r\n//　三人とも、怯え切った眼差しで自分達以外の全てを\r\n//見詰めている。\r\n//　声はない。猿轡を噛まされていた。\r\n  Os objetos são pessoas. Um homem e uma mulher de meia-idade, e um menino de no máximo dez anos.\r\n\r\n  Os olhos deles estão arregalados e cheios de terror enquanto contemplam esse quadro. Nenhum deles fala. Suas bocas estão amordaçadas.\r\n"
  },
  {
   "offset": 14696,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0490b15'>\r\n//「この店の、本来の持ち主だよ」\r\n\"It turns out that this restaurant was a㉓<I>family</I> establishment.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0490b15'>\r\n//「この店の、本来の持ち主だよ」\r\n\"Acontece que este restaurante era um㉓<I>empreendimento familiar</I>.\"\r\n"
  },
  {
   "offset": 14922,
@@ -287,32 +287,32 @@
  {
   "offset": 15042,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0510a02'>\r\n//「今すぐ、放せ」\r\n\"Let them go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0510a02'>\r\n//「今すぐ、放せ」\r\n\"Solta eles.\"\r\n"
  },
  {
   "offset": 15180,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0520b15'>\r\n//「……くくっ。\r\n//　岩田の報告にあった通りだな」\r\n\"Heh. Iwata was right.\"\r\n\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0530b15'>\r\n//「無関係の者など、気にしなければそれまで\r\n//だろうに……。\r\n//　そうはいかぬ、か？　綾弥一条」\r\n\"What are they to you? You should just let them die. But you can't, can you? Ayane Ichijo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0520b15'>\r\n//「……くくっ。\r\n//　岩田の報告にあった通りだな」\r\n\"Heh. Iwata estava certo.\"\r\n\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0530b15'>\r\n//「無関係の者など、気にしなければそれまで\r\n//だろうに……。\r\n//　そうはいかぬ、か？　綾弥一条」\r\n\"O que eles são para você? Você deveria simplesmente deixá-los morrer. Mas não consegue, né? Ayane Ichijo.\"\r\n"
  },
  {
   "offset": 15711,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0540a02'>\r\n//「……放せ、って言ってんだ」\r\n\"I said... let them go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0540a02'>\r\n//「……放せ、って言ってんだ」\r\n\"Eu disse... solta eles.\"\r\n"
  },
  {
   "offset": 15877,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0550a00'>\r\n//「一条」\r\n\"Ichijo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0550a00'>\r\n//「一条」\r\n\"Ichijo.\"\r\n"
  },
  {
   "offset": 15998,
   "en": "\r\n//　肩の上へ手を置く。押し留めるように。\r\n//　怒りは当然だ。しかし――ここは怒りに任せて行動\r\n//して良い局面ではない。\r\n\r\n//　慎重に機を窺わねば……\r\n  I grip her shoulder. This is not the time to act in anger, justified though it may be.\r\n",
-  "pt": ""
+  "pt": "\r\n//　肩の上へ手を置く。押し留めるように。\r\n//　怒りは当然だ。しかし――ここは怒りに任せて行動\r\n//して良い局面ではない。\r\n\r\n//　慎重に機を窺わねば……\r\n  Aperto o ombro dela. Este não é o momento de agir por raiva, por mais justificada que seja.\r\n"
  },
  {
   "offset": 16314,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0560b15'>\r\n//「男の方は物分りが良いようだな。\r\n//　ふむ」\r\n\"Hmm... It seems that your friend understands his position.\"\r\n\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0570b15'>\r\n//「人質もちゃんと己の立場をわきまえている。\r\n//　そうなると……一人だけか」\r\n\"So do these wonderfully obedient hostages. That just leaves you...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0560b15'>\r\n//「男の方は物分りが良いようだな。\r\n//　ふむ」\r\n\"Hmm... Parece que seu amigo entende a posição dele.\"\r\n\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0570b15'>\r\n//「人質もちゃんと己の立場をわきまえている。\r\n//　そうなると……一人だけか」\r\n\"Assim como estes reféns maravilhosamente obedientes. Então só sobra você...\"\r\n"
  },
  {
   "offset": 16825,
@@ -322,17 +322,17 @@
  {
   "offset": 16945,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0590b15'>\r\n//「しかし一人でも馬鹿がいると、話はうまく\r\n//まとまらん。仕方ないな……。\r\n//　気は進まんが。なに、人質は三人いるのだ」\r\n\"One fool, but that's all it takes. Such a shame. I hoped that this wouldn't be necessary... but we kept <I>three</I>㉓hostages for a reason.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0590b15'>\r\n//「しかし一人でも馬鹿がいると、話はうまく\r\n//まとまらん。仕方ないな……。\r\n//　気は進まんが。なに、人質は三人いるのだ」\r\n\"Um tolo, mas é tudo o que basta. Que pena. Eu esperava que isso não fosse necessário... mas mantivemos <I>três</I>㉓reféns por um motivo.\"\r\n"
  },
  {
   "offset": 17370,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0600b15'>\r\n//「なァ？」\r\n\"Didn't we?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0600b15'>\r\n//「なァ？」\r\n\"Não foi mesmo?\"\r\n"
  },
  {
   "offset": 17506,
   "en": "\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/016vs0610e112'>\r\n//「うむ――」\r\n\"Aye!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｂ】\r\n<voice name='ｅｔｃ／十傑Ｂ' class='その他男声' src='voice/mb03/016vs0610e112'>\r\n//「うむ――」\r\n\"Sim!\"\r\n"
  },
  {
   "offset": 17670,
@@ -342,12 +342,12 @@
  {
   "offset": 17781,
   "en": "\r\n//　止める暇はなかった。\r\n  It happens too fast.\r\n",
-  "pt": ""
+  "pt": "\r\n//　止める暇はなかった。\r\n  Acontece rápido demais.\r\n"
  },
  {
   "offset": 17852,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0630a02'>\r\n//「――てめ――」\r\n\"Motherfu―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0630a02'>\r\n//「――てめ――」\r\n\"Filho da―\"\r\n"
  },
  {
   "offset": 17989,
@@ -357,7 +357,7 @@
  {
   "offset": 18118,
   "en": "\r\n//　竜騎兵が、太刀を一薙ぎし……\r\n//　束縛された子供が全ての動きを止める。\r\n  There is a flash of steel across the boy's throat, and for a moment, the air itself seems to freeze.\r\n\r\n//　数瞬。\r\n//　空気が凝固した。\r\n\r\n//　血が――\r\n//　男児の首筋から血が溢れる。\r\n  In stillness and silence, we watch as a bright red line appears upon his skin.\r\n//　一筋――\r\n//　二筋――\r\n//　三筋――\r\n\r\n//　そこまで。\r\n//　糸ほどの太さの血流が数条、現れただけだった。\r\n  A trickle of blood slides down to his collar.<K>\r\n  A second joins it.<K>\r\n  A third.<K>\r\n  The blood stops.\r\n\r\n//　傷は……深くない。\r\n  The boy... is still whole. \r\n",
-  "pt": ""
+  "pt": "\r\n//　竜騎兵が、太刀を一薙ぎし……\r\n//　束縛された子供が全ての動きを止める。\r\n  Há um lampejo de aço na garganta do menino e, por um instante, o próprio ar parece congelar.\r\n\r\n//　数瞬。\r\n//　空気が凝固した。\r\n\r\n//　血が――\r\n//　男児の首筋から血が溢れる。\r\n  Em imobilidade e silêncio, vemos uma linha vermelho-viva surgir em sua pele.\r\n//　一筋――\r\n//　二筋――\r\n//　三筋――\r\n\r\n//　そこまで。\r\n//　糸ほどの太さの血流が数条、現れただけだった。\r\n  Um fio de sangue escorre até a gola dele.<K>\r\n  Um segundo se junta a ele.<K>\r\n  Um terceiro.<K>\r\n  O sangue para.\r\n\r\n//　傷は……深くない。\r\n  O menino... ainda está inteiro.\r\n"
  },
  {
   "offset": 18873,
@@ -367,47 +367,47 @@
  {
   "offset": 18999,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0660b15'>\r\n//「<RUBY text='・・・・・・・'>人質は三人いる</RUBY>。\r\n//　意味は通じたな？」\r\n\"Three hostages.\r\n  Understand?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0660b15'>\r\n//「<RUBY text='・・・・・・・'>人質は三人いる</RUBY>。\r\n//　意味は通じたな？」\r\n\"Três reféns.\r\n  Entendeu?\"\r\n"
  },
  {
   "offset": 19243,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0670b15'>\r\n//「一人くらいはいつでも殺せるということだ」\r\n\"We can afford to be rough with one or two.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0670b15'>\r\n//「一人くらいはいつでも殺せるということだ」\r\n\"Podemos nos dar ao luxo de maltratar um ou dois.\"\r\n"
  },
  {
   "offset": 19459,
   "en": "\r\n//　ぼろぼろと、泣き声も出せない子供の両目から涙の\r\n//粒がこぼれ落ちた。\r\n//　両親であろう男女がもがき出す。\r\n  Tears well in the gagged boy's eyes. Ignoring him, the dragoons grab his struggling parents and force them to the floor, a blade against each one's neck.\r\n\r\n//　子供は放置され、男女は背中を踏みつけられた。\r\n//　そして<RUBY text='そろ'>揃</RUBY>って、首筋に改めて刃を当てられる。\r\n",
-  "pt": ""
+  "pt": "\r\n//　ぼろぼろと、泣き声も出せない子供の両目から涙の\r\n//粒がこぼれ落ちた。\r\n//　両親であろう男女がもがき出す。\r\n  Lágrimas brotam nos olhos do menino amordaçado. Ignorando-o, os cavaleiros-dragão agarram os pais que se debatem e os forçam ao chão, com uma lâmina contra o pescoço de cada um.\r\n\r\n//　子供は放置され、男女は背中を踏みつけられた。\r\n//　そして<RUBY text='そろ'>揃</RUBY>って、首筋に改めて刃を当てられる。\r\n"
  },
  {
   "offset": 19957,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0680b15'>\r\n//「理解が得られたところで、話を進めよう。\r\n//　我々は貴様ら二人の命が欲しい」\r\n\"Now that we understand each other, let's talk business. I want your heads.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0680b15'>\r\n//「理解が得られたところで、話を進めよう。\r\n//　我々は貴様ら二人の命が欲しい」\r\n\"Agora que nos entendemos, vamos ao que interessa. Eu quero as cabeças de vocês.\"\r\n"
  },
  {
   "offset": 20254,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0690b15'>\r\n//「くれ」\r\n\"Give them to me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0690b15'>\r\n//「くれ」\r\n\"Entreguem-nas para mim.\"\r\n"
  },
  {
   "offset": 20393,
   "en": "\r\n//　酷く横着に、女は言った。\r\n//　お陰で誤解の余地も無い。\r\n  The woman's demand leaves no room for misunderstanding. She wants us to kill each other and save her men the trouble.\r\n\r\n//　俺と一条で首を<RUBY text='は'>刎</RUBY>ね合えということか。\r\n\r\n//　……どうする。\r\n//　考えるまでもなく、受け入れようのない要求だ。\r\n\r\n//　しかし断るに断れない。\r\n//　拒否を意味する返答をすればその瞬間、少なくとも\r\n//人質の一人は殺される。\r\n  What now? Obviously, we cannot give her what she wants. But at the same time, we cannot refuse her―or even attempt to negotiate―<br>without it costing at least one hostage their life. She'll still have two more to threaten us with.\r\n\r\n//　言葉に注意して、交渉するべきだ。\r\n//　いや……それすら危険だが。交渉の意思表明に対し\r\n//て、最も高い確率で予測される相手の返答は、やはり\r\n//人質一名の殺害による拒絶だ。\r\n\r\n//　そうしても敵の手元にはなお二人の人質が残る。\r\n//　脅迫を続けるに不足はない数だ。\r\n//　\r\n//　三名の人質。何と巧妙な。\r\n\r\n//　受け入れるしかないのだろうか。\r\n//　二人が死んで三人が助かるなら、悪くない計算では\r\n//ある。\r\n  Have we already lost? Her plan would seem foolproof, and two lives to save three seems a fair bargain.\r\n\r\n//　だが一条は死なせられない。\r\n//　俺は、最悪……一条に後事を託し、首をくれてやっ\r\n//ても良い、が……\r\n  But no, I cannot let Ichijo die. Perhaps, if I offer my head up freely, I can somehow buy her a chance to escape.\r\n\r\n//　――いや。\r\n//　それでは、銀星号を――\r\n  But... if I die, then what of Ginseigo?\r\n",
-  "pt": ""
+  "pt": "\r\n//　酷く横着に、女は言った。\r\n//　お陰で誤解の余地も無い。\r\n  A exigência da mulher não deixa margem para mal-entendidos. Ela quer que nos matemuns ao outro e poupemos o trabalho aos homens dela.\r\n\r\n//　俺と一条で首を<RUBY text='は'>刎</RUBY>ね合えということか。\r\n\r\n//　……どうする。\r\n//　考えるまでもなく、受け入れようのない要求だ。\r\n\r\n//　しかし断るに断れない。\r\n//　拒否を意味する返答をすればその瞬間、少なくとも\r\n//人質の一人は殺される。\r\n  E agora? Obviamente, não podemos dar a ela o que quer. Mas, ao mesmo tempo, não podemos recusar―nem sequer tentar negociar―sem que isso custe a vida de pelo menos um refém. Ela ainda terá outros dois para nos ameaçar.\r\n\r\n//　言葉に注意して、交渉するべきだ。\r\n//　いや……それすら危険だが。交渉の意思表明に対し\r\n//て、最も高い確率で予測される相手の返答は、やはり\r\n//人質一名の殺害による拒絶だ。\r\n\r\n//　そうしても敵の手元にはなお二人の人質が残る。\r\n//　脅迫を続けるに不足はない数だ。\r\n//　\r\n//　三名の人質。何と巧妙な。\r\n\r\n//　受け入れるしかないのだろうか。\r\n//　二人が死んで三人が助かるなら、悪くない計算では\r\n//ある。\r\n  Já perdemos? O plano dela parece infalível, e duas vidas para salvar três parece uma troca justa.\r\n\r\n//　だが一条は死なせられない。\r\n//　俺は、最悪……一条に後事を託し、首をくれてやっ\r\n//ても良い、が……\r\n  Mas não, não posso deixar Ichijo morrer. Talvez, se eu oferecer minha cabeça de livre vontade, eu consiga de algum modo comprar uma chance de fuga para ela.\r\n\r\n//　――いや。\r\n//　それでは、銀星号を――\r\n  Mas... se eu morrer, e quanto a Ginseigo?\r\n"
  },
  {
   "offset": 22251,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0700b15'>\r\n//「悩んでいるな、湊斗景明」\r\n\"You seem troubled,\"</voice> the woman says with a smile.\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0700b15'>\r\n//「悩んでいるな、湊斗景明」\r\n\"Você parece preocupado,\"</voice> diz a mulher, sorrindo.\r\n"
  },
  {
   "offset": 22456,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0710a00'>\r\n//「……お陰をもって。\r\n//　実に難問だ」\r\n\"...Yes. You present a difficult problem.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0710a00'>\r\n//「……お陰をもって。\r\n//　実に難問だ」\r\n\"...Sim. Você me apresenta um problema difícil.\"\r\n"
  },
  {
   "offset": 22653,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0720b15'>\r\n//「そうか？　簡単だろう。\r\n//　一瞬で我々を全員倒すというのはどうだ」\r\n\"Oh? I see an easy solution. You just have to kill all nine of us at once.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0720b15'>\r\n//「そうか？　簡単だろう。\r\n//　一瞬で我々を全員倒すというのはどうだ」\r\n\"Ah? Eu vejo uma solução fácil. Basta matar todos os nove de uma vez.\"\r\n"
  },
  {
   "offset": 22937,
@@ -417,12 +417,12 @@
  {
   "offset": 23057,
   "en": "\r\n//　くく、ふふ、と竜騎兵らが含み笑う。\r\n//　無論――そんな真似は不可能だ。\r\n  The dragoons chuckle, a low, chilling sound. Of course, what the woman suggests is impossible.\r\n\r\n//　<RUBY text='レールガン'>電磁撃刀</RUBY>をもってしても、確実に仕留められるのは\r\n//せいぜいが二、三騎。\r\n//　仮に全員を殺傷範囲に納められても、その時は人質\r\n//まで巻き込むことになる。\r\n  From this position, a single stroke of my railgun might reach, at most, a third of their number. Even if I could somehow place all nine of them within its arc, that arc would include the hostages as well.\r\n\r\n//　……どうにもならない。\r\n//　なりようがない。\r\n  There's nothing I can do.\r\n",
-  "pt": ""
+  "pt": "\r\n//　くく、ふふ、と竜騎兵らが含み笑う。\r\n//　無論――そんな真似は不可能だ。\r\n  Os cavaleiros-dragão riem baixinho, um som grave e arrepiante. Claro, o que a mulher sugere é impossível.\r\n\r\n//　<RUBY text='レールガン'>電磁撃刀</RUBY>をもってしても、確実に仕留められるのは\r\n//せいぜいが二、三騎。\r\n//　仮に全員を殺傷範囲に納められても、その時は人質\r\n//まで巻き込むことになる。\r\n  Desta posição, um único golpe do meu railgun pode alcançar, no máximo, um terço deles. Mesmo se eu conseguisse de algum modo colocar todos os nove dentro do arco, esse arco incluiria também os reféns.\r\n\r\n//　……どうにもならない。\r\n//　なりようがない。\r\n  Não há nada que eu possa fazer.\r\n"
  },
  {
   "offset": 23849,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0740b15'>\r\n///「さて。\r\n//　そろそろ結論を出して貰おうか」\r\n\"Now, I think it's time we heard your decision.\"\r\n\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0750b15'>\r\n//「無言は拒否と見なすから、そのつもりでな」\r\n\"Be aware that silence will indicate refusal.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0740b15'>\r\n///「さて。\r\n//　そろそろ結論を出して貰おうか」\r\n\"Bem, acho que está na hora de ouvirmos a decisão de vocês.\"\r\n\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0750b15'>\r\n//「無言は拒否と見なすから、そのつもりでな」\r\n\"Estejam cientes de que o silêncio será considerado recusa.\"\r\n"
  },
  {
   "offset": 24281,
@@ -432,47 +432,47 @@
  {
   "offset": 24401,
   "en": "\r\n//　それでも、返答のしようはない。\r\n//　だが沈黙は続けられない。\r\n\r\n//　どうすれば……\r\n  I have to say something. But what?\r\n",
-  "pt": ""
+  "pt": "\r\n//　それでも、返答のしようはない。\r\n//　だが沈黙は続けられない。\r\n\r\n//　どうすれば……\r\n  Preciso dizer alguma coisa. Mas o quê?\r\n"
  },
  {
   "offset": 24574,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0770a02'>\r\n//「わかった」\r\n\"Fine.\"\r\n\r\n<FW img=''>\r\n  It is Ichijo who answers, her voice as confident as ever.\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0770a02'>\r\n//「わかった」\r\n\"Certo.\"\r\n\r\n<FW img=''>\r\n  É Ichijo quem responde, com a voz tão confiante como sempre.\r\n"
  },
  {
   "offset": 24775,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0780a00'>\r\n//「一条……」\r\n\"Ichijo...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0780a00'>\r\n//「一条……」\r\n\"Ichijo...\"\r\n"
  },
  {
   "offset": 24904,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0790a02'>\r\n//「お前らの言う通りにする」\r\n\"We'll do it your way.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0790a02'>\r\n//「お前らの言う通りにする」\r\n\"Vamos fazer do jeito de vocês.\"\r\n"
  },
  {
   "offset": 25066,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0800b15'>\r\n//「ほう。\r\n//　思ったより素直じゃないか……」\r\n\"Oh? Not quite what I expected...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0800b15'>\r\n//「ほう。\r\n//　思ったより素直じゃないか……」\r\n\"Ah? Não é bem o que eu esperava...\"\r\n"
  },
  {
   "offset": 25273,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0810b15'>\r\n//「では早速やってもらおう」\r\n\"Get on with it, then.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0810b15'>\r\n//「では早速やってもらおう」\r\n\"Então vamos direto ao assunto.\"\r\n"
  },
  {
   "offset": 25444,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0820a02'>\r\n//「ああ。\r\n//　……湊斗さん」\r\n\"Yeah. ...Sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0820a02'>\r\n//「ああ。\r\n//　……湊斗さん」\r\n\"Sim. ...Senhor.\"\r\n"
  },
  {
   "offset": 25599,
   "en": "\r\n//　一条が俺を見上げる。\r\n//　俺もその瞳を覗いた。\r\n  She turns to me. Her eyes are absent despair. Instead, I see only absolute faith.\r\n\r\n//　そこに、悲哀は存在しない。\r\n//　<RUBY text='まった'>全</RUBY>き信頼だけがある。\r\n",
-  "pt": ""
+  "pt": "\r\n//　一条が俺を見上げる。\r\n//　俺もその瞳を覗いた。\r\n  Ela ergue os olhos para mim. Eu também mergulho naquele olhar. Ali não existe desesperança. Há apenas fé absoluta.\r\n\r\n//　そこに、悲哀は存在しない。\r\n//　<RUBY text='まった'>全</RUBY>き信頼だけがある。\r\n"
  },
  {
   "offset": 25883,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0830a02'>\r\n//「一瞬だけ、あいつらを止めてください」\r\n\"Hold them for me,\" she says. \"One second.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0830a02'>\r\n//「一瞬だけ、あいつらを止めてください」\r\n\"Segure-os para mim\", ela diz. \"Por um segundo.\"\r\n"
  },
  {
   "offset": 26083,
@@ -482,37 +482,37 @@
  {
   "offset": 26203,
   "en": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0850b15'>\r\n//「なに……」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【稲田】\r\n<voice name='稲田' class='その他女声' src='voice/mb03/016vs0850b15'>\r\n//「なに……」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 26337,
   "en": "\r\n//　一条の真意について、考えるのは止めた。\r\n//　\r\n//　<RUBY text='・・・・・・・'>賽は投げられた</RUBY>のだと、理解したからだ。\r\n//　――一瞬だけ、やつらを止める。\r\n//　\r\n//　その要求のみ把握し。\r\n  Realizing instantly that the die has been cast, I abandon any question as to Ichijo's intent.\r\n\r\n//　実行手段について考察。\r\n//　\r\n//　……決定。劒冑へ意思疎通。\r\n  I have my task: hold the enemy. That leaves how.\r\n\r\n  There's only one way. I drop my body and press my hands to the floor―first the right, then the left.\r\n\r\n//　腰を沈め、床へ右手をついた。\r\n\r\n  The order reaches Muramasa at the speed of thought.\r\n",
-  "pt": ""
+  "pt": "\r\n//　一条の真意について、考えるのは止めた。\r\n//　\r\n//　<RUBY text='・・・・・・・'>賽は投げられた</RUBY>のだと、理解したからだ。\r\n//　――一瞬だけ、やつらを止める。\r\n//　\r\n//　その要求のみ把握し。\r\n  Percebendo na hora que a sorte estava lançada, abandono qualquer dúvida sobre a intenção de Ichijo.\r\n\r\n//　実行手段について考察。\r\n//　\r\n//　……決定。劒冑へ意思疎通。\r\n  Tenho minha tarefa: deter o inimigo. Resta saber como.\r\n\r\n  Só há um jeito. Eu abaixo o corpo e pressiono as mãos no chão—primeiro a direita, depois a esquerda.\r\n\r\n//　腰を沈め、床へ右手をついた。\r\n\r\n  A ordem chega à Muramasa na velocidade do pensamento.\r\n"
  },
  {
   "offset": 27080,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0860a00'>\r\n//「<RUBY text='エンチャント・プラス'>磁装・正極</RUBY>――」\r\n\"Enchant: Plus.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0860a00'>\r\n//「<RUBY text='エンチャント・プラス'>磁装・正極</RUBY>――」\r\n\"Enchant: Plus.\"\r\n"
  },
  {
   "offset": 27274,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb03/016vs0870a01'>\r\n//《〝ながれ・まわる〟――》\r\n《I join the flows.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb03/016vs0870a01'>\r\n//《〝ながれ・まわる〟――》\r\n《Eu me junto aos fluxos.》\r\n"
  },
  {
   "offset": 27442,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0880a00'>\r\n//「――<RUBY text='エンチャント・マイナス'>磁装・負極</RUBY>」\r\n\"Enchant: Minus.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/016vs0880a00'>\r\n//「――<RUBY text='エンチャント・マイナス'>磁装・負極</RUBY>」\r\n\"Enchant: Minus.\"\r\n"
  },
  {
   "offset": 27640,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb03/016vs0890a01'>\r\n//《――〝ながれ・かえる〟》\r\n《I part the flows.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb03/016vs0890a01'>\r\n//《――〝ながれ・かえる〟》\r\n《Eu separo os fluxos.》\r\n"
  },
  {
   "offset": 27808,
   "en": "\r\n//　正極と負極。\r\n//　二つの磁流。\r\n\r\n//　それは竜騎兵らの踏む床へ広がり。\r\n//　足から這い上がり。\r\n\r\n//　全身を包んで。\r\n//　<RUBY text='・・・・・・'>動きを止めた</RUBY>。\r\n  The magnetic energy races across the floor, entering the dragoons through the soles of their feet.\r\n\r\n  In the blink of an eye, <I>everything</I>㉔stops.\r\n",
-  "pt": ""
+  "pt": "\r\n//　正極と負極。\r\n//　二つの磁流。\r\n\r\n//　それは竜騎兵らの踏む床へ広がり。\r\n//　足から這い上がり。\r\n\r\n//　全身を包んで。\r\n//　<RUBY text='・・・・・・'>動きを止めた</RUBY>。\r\n  A energia magnética corre pelo chão, entrando nos dragões pela sola dos pés.\r\n\r\n  Num piscar de olhos, <I>tudo</I>㉔para.\r\n"
  },
  {
   "offset": 28214,
@@ -522,32 +522,32 @@
  {
   "offset": 28341,
   "en": "\r\n//【ｅｔｃ／十傑Ｃ】\r\n<voice name='ｅｔｃ／十傑Ｃ' class='その他男声' src='voice/mb03/016vs0910e113'>\r\n//「ごっ――」\r\n\"Guh―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／十傑Ｃ】\r\n<voice name='ｅｔｃ／十傑Ｃ' class='その他男声' src='voice/mb03/016vs0910e113'>\r\n//「ごっ――」\r\n\"Guh―\"\r\n"
  },
  {
   "offset": 28507,
   "en": "\r\n//　自己の内部へ施し、騎体動作を高速化する磁装正極。\r\n//　自己の外皮へ施し、攻撃を防ぐ障壁を張る磁装負極。\r\n  In addition to the railgun, Muramasa's shinogi has two major applications: Enchant Plus, where magnetic fields are distributed internally to improve speed and mobility, and Enchant Minus, where these fields are applied externally to defend against enemy action.\r\n\r\n//　この二術を同時に施された対象は、\r\n//　磁力的に<RUBY text='・・・・・'>完全な安定</RUBY>を迎えてしまい、一切、身動き\r\n//がとれなくなる。\r\n  Under normal circumstances, we would never use these powers simultaneously. To do so creates equilibrium between the internal and external forces, rendering the beneficiary thereof utterly incapable of movement.\r\n\r\n//　こちらの敵対行動に反応して即座に人質の首を薙ぐ\r\n//筈だった刃は……<k>今、ぴくりとも動かない。\r\n  Before me, the Oyumi dragoons stand petrified, blades quivering millimeters from the hostages' skin.\r\n\r\n  This peace will not last for more than a heartbeat. It is hard enough to maintain these powers when I am their sole target. \r\n\r\n//　だが――この状態を保てるのは本当に一瞬である。\r\n//　本来は自己一体のみを対象とし、それでも長時間の\r\n//維持は難しい術を、これだけ広範囲に広げているのだ。\r\n\r\n//　一呼吸にも満たない一瞬で、この膠着は終わる。\r\n//　\r\n//　\r\n//　彼女が俺に求めたものは、それで全てだった。\r\n  One heartbeat. That is all I can manage, but that is all Ichijo asked.\r\n\r\n//　それで充分だったから。\r\n//　勝利するために。\r\n  And if that is all she asked, then that is all she needs to win. \r\n",
-  "pt": ""
+  "pt": "\r\n//　自己の内部へ施し、騎体動作を高速化する磁装正極。\r\n//　自己の外皮へ施し、攻撃を防ぐ障壁を張る磁装負極。\r\n  Além do canhão de trilho, o shinogi da Muramasa tem duas aplicações principais: Enchant Plus, em que campos magnéticos são distribuídos internamente para melhorar velocidade e mobilidade, e Enchant Minus, em que esses campos são aplicados externamente para se defender da ação inimiga.\r\n\r\n//　この二術を同時に施された対象は、\r\n//　磁力的に<RUBY text='・・・・・'>完全な安定</RUBY>を迎えてしまい、一切、身動き\r\n//がとれなくなる。\r\n  Em circunstâncias normais, jamais usaríamos esses poderes simultaneamente. Fazê-lo cria um equilíbrio entre as forças interna e externa, tornando quem os recebe totalmente incapaz de se mover.\r\n\r\n//　こちらの敵対行動に反応して即座に人質の首を薙ぐ\r\n//筈だった刃は……<k>今、ぴくりとも動かない。\r\n  Diante de mim, os dragões de Oyumi estão petrificados, as lâminas tremendo a milímetros da pele dos reféns.\r\n\r\n  Essa paz não durará mais que uma batida do coração. Já é difícil o bastante manter esses poderes quando sou o único alvo. \r\n\r\n//　だが――この状態を保てるのは本当に一瞬である。\r\n//　本来は自己一体のみを対象とし、それでも長時間の\r\n//維持は難しい術を、これだけ広範囲に広げているのだ。\r\n\r\n//　一呼吸にも満たない一瞬で、この膠着は終わる。\r\n//　\r\n//　\r\n//　彼女が俺に求めたものは、それで全てだった。\r\n  Uma batida do coração. É tudo o que consigo, mas é tudo o que Ichijo pediu.\r\n\r\n//　それで充分だったから。\r\n//　勝利するために。\r\n  E se é só isso que ela pediu, então é só disso que ela precisa para vencer. \r\n"
  },
  {
   "offset": 30339,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0920a02'>\r\n//「正宗七機巧――――」\r\n\"The Fifth Justice―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0920a02'>\r\n//「正宗七機巧――――」\r\n\"A Quinta Justiça―\"\r\n"
  },
  {
   "offset": 30494,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb03/016vs0930b40'>\r\n//《無弦・十征矢》\r\n《MUGEN: ARROWS OF JUDGMENT!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb03/016vs0930b40'>\r\n//《無弦・十征矢》\r\n《MUGEN: FLECHAS DO JULGAMENTO!》\r\n"
  },
  {
   "offset": 30650,
   "en": "\r\n//　……飛んだものは、指だ。\r\n//　正宗の――両手の。\r\n  Fingers.<K> Masamune's. Ichijo's.<K> Like arrows loosed from ten mighty bows, they strike with immaculate precision.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……飛んだものは、指だ。\r\n//　正宗の――両手の。\r\n  Dedos.<K> De Masamune. De Ichijo.<K> Como flechas disparadas de dez arcos poderosos, eles atingem com precisão impecável.\r\n"
  },
  {
   "offset": 30857,
   "en": "\r\n//　それが強弓より放たれた矢と化して九騎の竜騎兵を\r\n//貫いた。\r\n//　九騎全ての急所を穿った。一瞬にして。\r\n  Nose, throat, eyes―killing blows all.\r\n\r\n  And in the space of one heartbeat, nine become none.\r\n",
-  "pt": ""
+  "pt": "\r\n//　それが強弓より放たれた矢と化して九騎の竜騎兵を\r\n//貫いた。\r\n//　九騎全ての急所を穿った。一瞬にして。\r\n  Nariz, garganta, olhos―todos golpes fatais.\r\n\r\n  E no espaço de uma batida do coração, nove se tornam nenhum.\r\n"
  },
  {
   "offset": 31121,
@@ -557,6 +557,6 @@
  {
   "offset": 31268,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0950a02'>\r\n//「一瞬で全員倒せばいい。\r\n//　……てめぇの言った通りだったな」\r\n\"You were right. It was easy.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/016vs0950a02'>\r\n//「一瞬で全員倒せばいい。\r\n//　……てめぇの言った通りだったな」\r\n\"Você estava certo. Foi fácil.\"\r\n"
  }
 ]

@@ -2,52 +2,52 @@
  {
   "offset": 213,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0360010e109'>\r\n//「おい、てめぇら作業はどうしたんだよ!?」\r\n\"Hey! Get off your asses!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0360010e109'>\r\n//「おい、てめぇら作業はどうしたんだよ!?」\r\n\"Ei! Vocês! Por que pararam de trabalhar?!\"\r\n"
  },
  {
   "offset": 436,
   "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0360020e227'>\r\n//「……はァ？」\r\n\"Huh? What do you want?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0360020e227'>\r\n//「……はァ？」\r\n\"...Hã? O que você quer?\"\r\n"
  },
  {
   "offset": 619,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0360030e109'>\r\n//「橋だよ、さっさと完成させろ！」\r\n\"You're supposed to be building that bridge!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0360030e109'>\r\n//「橋だよ、さっさと完成させろ！」\r\n\"A ponte, porra! Terminem ela logo!\"\r\n"
  },
  {
   "offset": 850,
   "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0360040e227'>\r\n//「知るか！\r\n//　お前らで勝手にやれ！」\r\n\"Do it yourself, you want it that bad!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0360040e227'>\r\n//「知るか！\r\n//　お前らで勝手にやれ！」\r\n\"Faça você mesmo, se está com tanta pressa!\"\r\n"
  },
  {
   "offset": 1082,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0360050e109'>\r\n//「何ぃ!?」\r\n\"What'd you say!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0360050e109'>\r\n//「何ぃ!?」\r\n\"O quê!?\"\r\n"
  },
  {
   "offset": 1252,
   "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360060b34'>\r\n//「だめっ」\r\n\"No!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360060b34'>\r\n//「だめっ」\r\n\"Não!\"\r\n"
  },
  {
   "offset": 1376,
   "en": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0360070e227'>\r\n//「……あ？」\r\n\"...Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／難民Ａ】\r\n<voice name='ｅｔｃ／難民Ａ' class='その他男声' src='voice/md06/0360070e227'>\r\n//「……あ？」\r\n\"...Hã?\"\r\n"
  },
  {
   "offset": 1541,
   "en": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0360080e109'>\r\n//「<RUBY text='ひかりぼう'>光坊</RUBY>？」\r\n\"Hikari?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／住民Ａ】\r\n<voice name='ｅｔｃ／住民Ａ' class='その他男声' src='voice/md06/0360080e109'>\r\n//「<RUBY text='ひかりぼう'>光坊</RUBY>？」\r\n\"Hikari?\"\r\n"
  },
  {
   "offset": 1739,
   "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360090b34'>\r\n//「けんか、だめ」\r\n\"No fighting!\"\r\n\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360100b34'>\r\n//「わを……」\r\n\"Peas... Peace...\"\r\n\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360110b34'>\r\n//「わをもって」\r\n\"Peace is...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360090b34'>\r\n//「けんか、だめ」\r\n\"Briga, não.\"\r\n\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360100b34'>\r\n//「わを……」\r\n\"Pa... Paz...\"\r\n\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360110b34'>\r\n//「わをもって」\r\n\"Com a paz...\"\r\n"
  },
  {
   "offset": 2143,
   "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360120b34'>\r\n//「……えっと……」\r\n\"Um...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360120b34'>\r\n//「……えっと……」\r\n\"...Hum...\"\r\n"
  },
  {
   "offset": 2281,
@@ -62,16 +62,16 @@
  {
   "offset": 2605,
   "en": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360150b34'>\r\n//「うん」\r\n\"Oh yeah!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【小光】\r\n<voice name='小光' class='コヒカリ' src='voice/md06/0360150b34'>\r\n//「うん」\r\n\"Isso!\"\r\n"
  },
  {
   "offset": 2731,
   "en": "md06/0360160b34",
-  "pt": ""
+  "pt": "md06/0360160b34"
  },
  {
   "offset": 2778,
   "en": "<center>Peace is the noblest pursuit!</center>",
-  "pt": ""
+  "pt": "<center>A paz é a mais nobre das buscas!</center>"
  }
 ]

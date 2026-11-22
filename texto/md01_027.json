@@ -2,12 +2,12 @@
  {
   "offset": 213,
   "en": "\r\n//　通路は不意に終わり、広々とした空間が現れた。\r\n//　奥には、地上のそれと良く似た祭殿。\r\n  The passage opens into a spacious underground chamber. The lower shrine.\r\n\r\n//　下宮である。\r\n\r\n//　……ここまで来てしまった。\r\n//　もはや決断せねばならない。\r\n  We're here. My decision can wait no longer.\r\n",
-  "pt": ""
+  "pt": "\r\n//　通路は不意に終わり、広々とした空間が現れた。\r\n//　奥には、地上のそれと良く似た祭殿。\r\n  A passagem termina de repente, e uma ampla câmara subterrânea se revela. O santuário inferior.\r\n\r\n//　下宮である。\r\n\r\n//　……ここまで来てしまった。\r\n//　もはや決断せねばならない。\r\n  Chegamos. Minha decisão não pode mais esperar.\r\n"
  },
  {
   "offset": 598,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270010a05'>\r\n//「神々は、<RUBY text='ネノクニ'>地底界</RUBY>に住まう。\r\n//　そんな神話もあるそうだ」\r\n\"Some myths tell of gods who live beneath the earth.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270010a05'>\r\n//「神々は、<RUBY text='ネノクニ'>地底界</RUBY>に住まう。\r\n//　そんな神話もあるそうだ」\r\n\"Alguns mitos contam de deuses que vivem sob a terra.\"\r\n"
  },
  {
   "offset": 864,
@@ -17,12 +17,12 @@
  {
   "offset": 989,
   "en": "\r\n//　やおら、大将領が口を開いた。\r\n//　独言ではないのなら、俺達に向けた言葉となろう。\r\n  Suddenly, the shogun speaks. If not to himself, then the words must be directed at me.\r\n",
-  "pt": ""
+  "pt": "\r\n//　やおら、大将領が口を開いた。\r\n//　独言ではないのなら、俺達に向けた言葉となろう。\r\n  De repente, o xogum fala. Se não é consigo mesmo, então as palavras devem ser dirigidas a mim.\r\n"
  },
  {
   "offset": 1214,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270030a05'>\r\n//「金色の神は地の底に眠り……\r\n//　いつか招きの時が来たならば、我らの世へ\r\n//現れると」\r\n\"The golden god who sleeps in his underground kingdom will one day rise to shine his light on the world.\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270040a05'>\r\n//「蝦夷どもの信仰であったかな」\r\n\"That is what the Emishi believe, I am told.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270030a05'>\r\n//「金色の神は地の底に眠り……\r\n//　いつか招きの時が来たならば、我らの世へ\r\n//現れると」\r\n\"O deus dourado que dorme em seu reino subterrâneo um dia se erguerá para lançar sua luz sobre o mundo.\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270040a05'>\r\n//「蝦夷どもの信仰であったかな」\r\n\"É o que os Emishi creem, ao que me dizem.\"\r\n"
  },
  {
   "offset": 1722,
@@ -32,32 +32,32 @@
  {
   "offset": 1852,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270060a05'>\r\n//「どう思う」\r\n\"What do you make of this?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270060a05'>\r\n//「どう思う」\r\n\"O que acha disso?\"\r\n"
  },
  {
   "offset": 1995,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270070a00'>\r\n//「……はっ？」\r\n\"...Pardon, Your Grace?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270070a00'>\r\n//「……はっ？」\r\n\"...Perdão, Vossa Senhoria?\"\r\n"
  },
  {
   "offset": 2138,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270080a05'>\r\n//「地の底に神在りとする信仰よ。\r\n//　かような祭殿がわざわざ地下に建てられて\r\n//あるを見れば……荒唐無稽な伝承もあながち\r\n//笑い捨てにしたものではないやもしれぬ」\r\n\"The belief that there are gods sleeping under our feet. I thought it nonsense myself, but someone saw fit to build this shrine underground. Perhaps there is something to it after all.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270080a05'>\r\n//「地の底に神在りとする信仰よ。\r\n//　かような祭殿がわざわざ地下に建てられて\r\n//あるを見れば……荒唐無稽な伝承もあながち\r\n//笑い捨てにしたものではないやもしれぬ」\r\n\"A crença de que há deuses dormindo sob nossos pés. Eu mesmo a considerava um disparate, mas alguém achou por bem construir este santuário no subsolo. Talvez haja algo nela, afinal.\"\r\n"
  },
  {
   "offset": 2655,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270090a05'>\r\n//「そう思わぬか」\r\n\"Don't you agree?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270090a05'>\r\n//「そう思わぬか」\r\n\"Não vos parece?\"\r\n"
  },
  {
   "offset": 2795,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270100a00'>\r\n//「はっ。\r\n//　御意にございます」\r\n\"It is as you say, Your Grace.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270100a00'>\r\n//「はっ。\r\n//　御意にございます」\r\n\"É como dizeis, Vossa Senhoria.\"\r\n"
  },
  {
   "offset": 2970,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270110a05'>\r\n//「ふっふふ……」\r\n\"Heh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270110a05'>\r\n//「ふっふふ……」\r\n\"Heh...\"\r\n"
  },
  {
   "offset": 3100,
@@ -67,72 +67,72 @@
  {
   "offset": 3219,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270130a05'>\r\n//「貴様はこの社の神官ではないか。\r\n//　素人考えを諾々と<RUBY text='い'>容</RUBY>れ、一言も申さずでは、\r\n//立場に関わろう」\r\n\"You are a priest here, are you not? Should it not be a matter of pride to correct the misunderstandings of we laypeople?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270130a05'>\r\n//「貴様はこの社の神官ではないか。\r\n//　素人考えを諾々と<RUBY text='い'>容</RUBY>れ、一言も申さずでは、\r\n//立場に関わろう」\r\n\"Você não é o sacerdote deste santuário? Não deveria ser motivo de orgulho corrigir os equívocos de nós, os leigos?\"\r\n"
  },
  {
   "offset": 3606,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270140a00'>\r\n//「……畏れ入ります」\r\n\"Not at all, Your Grace.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270140a00'>\r\n//「……畏れ入ります」\r\n\"De modo algum, Vossa Senhoria.\"\r\n"
  },
  {
   "offset": 3759,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270150a05'>\r\n//「意見あらば、言うてみよ」\r\n\"I would hear your opinion on the matter, if you have one.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270150a05'>\r\n//「意見あらば、言うてみよ」\r\n\"Gostaria de ouvir sua opinião sobre o assunto, se tiver alguma.\"\r\n"
  },
  {
   "offset": 3955,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270160a00'>\r\n//「…………では。\r\n//　お許しを得まして」\r\n\"...Then, by your leave.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270160a00'>\r\n//「…………では。\r\n//　お許しを得まして」\r\n\"...Então, com vossa licença.\"\r\n"
  },
  {
   "offset": 4136,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270170a05'>\r\n//「うむ」\r\n\"Proceed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270170a05'>\r\n//「うむ」\r\n\"Prossiga.\"\r\n"
  },
  {
   "offset": 4256,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270180a00'>\r\n//「一説によりますれば、八幡神の原本は渡来\r\n//の神であり……\r\n//　従って、新しき国を求める人々の守護神と\r\n//いう性格が存在するとか」\r\n\"One theory states that Hachiman came to Yamato from beyond the sea. Hence, in some aspects, he appears as the guardian of travelers in search of a home.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270180a00'>\r\n//「一説によりますれば、八幡神の原本は渡来\r\n//の神であり……\r\n//　従って、新しき国を求める人々の守護神と\r\n//いう性格が存在するとか」\r\n\"Uma teoria afirma que Hachiman veio a Yamato de além-mar. Por isso, em certos aspectos, ele surge como o guardião dos viajantes em busca de um lar.\"\r\n"
  },
  {
   "offset": 4697,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270190a05'>\r\n//「ほう……」\r\n\"Oh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270190a05'>\r\n//「ほう……」\r\n\"Oh?\"\r\n"
  },
  {
   "offset": 4818,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270200a00'>\r\n//「その八幡信仰が、かような形で表現された\r\n//……とも考えられますかと」\r\n\"I humbly submit that this shrine was built to express this belief.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270200a00'>\r\n//「その八幡信仰が、かような形で表現された\r\n//……とも考えられますかと」\r\n\"Atrevo-me a sugerir, humildemente, que este santuário foi construído para expressar essa crença.\"\r\n"
  },
  {
   "offset": 5087,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270210a05'>\r\n//「地下という異空間に造られた下宮は、八幡\r\n//神がもたらす新世界を象徴するもの。\r\n//　そういう事か」\r\n\"So the underground shrine symbolizes the new world to which Hachiman leads his followers. Is that it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270210a05'>\r\n//「地下という異空間に造られた下宮は、八幡\r\n//神がもたらす新世界を象徴するもの。\r\n//　そういう事か」\r\n\"Então o santuário subterrâneo simboliza o novo mundo para o qual Hachiman conduz seus seguidores. É isso?\"\r\n"
  },
  {
   "offset": 5431,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270220a00'>\r\n//「御意」\r\n\"As you say, Your Grace.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270220a00'>\r\n//「御意」\r\n\"Como dizeis, Vossa Senhoria.\"\r\n"
  },
  {
   "offset": 5566,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270230a05'>\r\n//「流石に本職。\r\n//　良く存じておるのう」\r\n\"Impressive. I can see that you're devoted to your duties.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270230a05'>\r\n//「流石に本職。\r\n//　良く存じておるのう」\r\n\"Impressionante. Vejo que você leva a sério seus deveres.\"\r\n"
  },
  {
   "offset": 5781,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270240a00'>\r\n//「御前にて浅学をひけらかし、汗顔の至りで\r\n//ございます」\r\n\"I can only hope that my meager learning has provided Your Grace with a satisfactory answer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270240a00'>\r\n//「御前にて浅学をひけらかし、汗顔の至りで\r\n//ございます」\r\n\"Só me resta esperar que minha escassa erudição tenha dado a Vossa Senhoria uma resposta satisfatória.\"\r\n"
  },
  {
   "offset": 6054,
   "en": "\r\n//　こんな事もあろうかと、八幡宮に関連する一通りの\r\n//知識を仕込んでおいた甲斐があった。\r\n//　一夜漬け学習も馬鹿にならないものだ。\r\n  That was close. Good thing I spent the last few nights studying.<K>\r\n  I think I made it out all right.\r\n\r\n//　一瞬、肝の冷える場面であったが……\r\n//　どうにか凌いだ、か？\r\n",
-  "pt": ""
+  "pt": "\r\n//　こんな事もあろうかと、八幡宮に関連する一通りの\r\n//知識を仕込んでおいた甲斐があった。\r\n//　一夜漬け学習も馬鹿にならないものだ。\r\n  Essa foi por pouco. Ainda bem que passei as últimas noites estudando.<K>\r\n  Acho que consegui me sair bem.\r\n\r\n//　一瞬、肝の冷える場面であったが……\r\n//　どうにか凌いだ、か？\r\n"
  },
  {
   "offset": 6460,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270250a05'>\r\n//「抜かったな」\r\n\"You're no priest.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270250a05'>\r\n//「抜かったな」\r\n\"Você não é sacerdote nenhum.\"\r\n"
  },
  {
   "offset": 6598,
@@ -142,17 +142,17 @@
  {
   "offset": 6722,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270270a05'>\r\n//「口答えめいた真似をするべきではなかった。\r\n//　本物の神官であれば、予がいかに水を向け\r\n//ようとただ縮こまるばかりで一言も無かった\r\n//だろうよ」\r\n\"A true priest would never have given his opinion. No matter how sincerely I courted his wisdom, he would have done nothing but grovel and simper.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270270a05'>\r\n//「口答えめいた真似をするべきではなかった。\r\n//　本物の神官であれば、予がいかに水を向け\r\n//ようとただ縮こまるばかりで一言も無かった\r\n//だろうよ」\r\n\"Um sacerdote de verdade jamais teria dado sua opinião. Por mais que eu buscasse com insistência a sabedoria dele, ele não faria nada além de se encolher e bajular.\"\r\n"
  },
  {
   "offset": 7177,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270280a00'>\r\n//「……ご無礼を――」\r\n\"My apologies, Your Grace―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270280a00'>\r\n//「……ご無礼を――」\r\n\"Minhas desculpas, Vossa Senhoria―\"\r\n"
  },
  {
   "offset": 7334,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270290a05'>\r\n//「それよりも致命的な失敗は、ここへ降りる\r\n//までの歩き方……\r\n//　距離の取り方であろうな」\r\n\"You've made another, more damning mistake... and that is the distance at which you've been walking.\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270300a05'>\r\n//「神官如きが、予の<RUBY text='・・・'>斬り間</RUBY>を把握して自然と\r\n//外すなどという振舞いをいたす筈がないわ」\r\n\"What kind of priest would make certain to stay just out of reach of my sword?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270290a05'>\r\n//「それよりも致命的な失敗は、ここへ降りる\r\n//までの歩き方……\r\n//　距離の取り方であろうな」\r\n\"Você cometeu outro erro, bem mais condenatório... e é a distância que vem mantendo ao caminhar.\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270300a05'>\r\n//「神官如きが、予の<RUBY text='・・・'>斬り間</RUBY>を把握して自然と\r\n//外すなどという振舞いをいたす筈がないわ」\r\n\"Que espécie de sacerdote tomaria o cuidado de se manter sempre fora do alcance da minha espada?\"\r\n"
  },
  {
   "offset": 7987,
@@ -162,12 +162,12 @@
  {
   "offset": 8096,
   "en": "\r\n//　……しまった！\r\n//　身に染み付いた癖が出ていたのか!?\r\n  No! I let my training show!?\r\n\r\n//　何たる甘さか。\r\n//　暗殺の是非に気を囚われて、そんな危険は考慮すら\r\n//しなかった。\r\n  Fool! I was so wrapped up in my thoughts that I failed to consider the possibility.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……しまった！\r\n//　身に染み付いた癖が出ていたのか!?\r\n  Não! Deixei meus treinos transparecerem!?\r\n\r\n//　何たる甘さか。\r\n//　暗殺の是非に気を囚われて、そんな危険は考慮すら\r\n//しなかった。\r\n  Idiota! Eu estava tão absorto em meus pensamentos que nem cheguei a considerar essa possibilidade.\r\n"
  },
  {
   "offset": 8435,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270320a05'>\r\n//「舞殿宮の下にも貴様のような武人がいたか」\r\n\"So the prince still has warriors under his command.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270320a05'>\r\n//「舞殿宮の下にも貴様のような武人がいたか」\r\n\"Então o príncipe ainda tem guerreiros sob seu comando.\"\r\n"
  },
  {
   "offset": 8649,
@@ -177,7 +177,7 @@
  {
   "offset": 8767,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270340a05'>\r\n//「刺客の任を受けたは忠義からか？\r\n//　それとも褒賞に釣られたか？」\r\n\"Did you undertake this mission out of loyalty, then? Or did he promise you'd be richly rewarded?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270340a05'>\r\n//「刺客の任を受けたは忠義からか？\r\n//　それとも褒賞に釣られたか？」\r\n\"Então você aceitou esta missão por lealdade? Ou ele prometeu que você seria ricamente recompensado?\"\r\n"
  },
  {
   "offset": 9060,
@@ -187,32 +187,32 @@
  {
   "offset": 9178,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270360a05'>\r\n//「今更だんまりを決め込んでも遅かろう。\r\n//　何か囀ってみよ」\r\n\"It's much too late to play the mute. Come, amuse me with some banter.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270360a05'>\r\n//「今更だんまりを決め込んでも遅かろう。\r\n//　何か囀ってみよ」\r\n\"É tarde demais para bancar o mudo. Vamos, tagarele algo para me divertir.\"\r\n"
  },
  {
   "offset": 9435,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270370a00'>\r\n//「……ならば。\r\n//　六衛大将領殿下にお尋ねする」\r\n\"...In that case, I would ask a question of the Rikue Shogun, ruler of Yamato.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270370a00'>\r\n//「……ならば。\r\n//　六衛大将領殿下にお尋ねする」\r\n\"...Nesse caso, farei uma pergunta ao Xogum Rikue, soberano de Yamato.\"\r\n"
  },
  {
   "offset": 9682,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270380a05'>\r\n//「ほゥ？\r\n//　刺客が、予に問いを投げるか」\r\n\"Oh? Are questions your weapon then, assassin?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270380a05'>\r\n//「ほゥ？\r\n//　刺客が、予に問いを投げるか」\r\n\"Oh? Então perguntas são a sua arma, assassino?\"\r\n"
  },
  {
   "offset": 9888,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270390a00'>\r\n//「王将たる者には、相手が何人であろうとも\r\n//答えねばならぬ問いが一つきりある」\r\n\"There is one question that all who rule must answer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270390a00'>\r\n//「王将たる者には、相手が何人であろうとも\r\n//答えねばならぬ問いが一つきりある」\r\n\"Há uma única pergunta que todo aquele que governa precisa responder.\"\r\n"
  },
  {
   "offset": 10155,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270400a05'>\r\n//「云うが良い」\r\n\"Speak it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270400a05'>\r\n//「云うが良い」\r\n\"Fale.\"\r\n"
  },
  {
   "offset": 10285,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270410a00'>\r\n//「貴方は如何なる王者か」\r\n\"What manner of lord are you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270410a00'>\r\n//「貴方は如何なる王者か」\r\n\"Que espécie de soberano sois vós?\"\r\n"
  },
  {
   "offset": 10449,
@@ -222,12 +222,12 @@
  {
   "offset": 10573,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270430a00'>\r\n//「この大和を如何にされる存念か。\r\n//　<RUBY text='くにたみ'>国民</RUBY>を如何にされる存念か」\r\n\"Why have you claimed dominion over Yamato? To where will you lead this nation and its people?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270440a00'>\r\n//「貴方は如何なる王なのか。\r\n//　……御答を賜りたい」\r\n\"For what purpose will you wield your power? I would hear your answer, Ashikaga Moriuji.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270430a00'>\r\n//「この大和を如何にされる存念か。\r\n//　<RUBY text='くにたみ'>国民</RUBY>を如何にされる存念か」\r\n\"Por que reivindicastes o domínio sobre Yamato? Para onde conduzireis esta nação e seu povo?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270440a00'>\r\n//「貴方は如何なる王なのか。\r\n//　……御答を賜りたい」\r\n\"Com que propósito exercereis vosso poder? Desejo ouvir vossa resposta, Ashikaga Moriuji.\"\r\n"
  },
  {
   "offset": 11148,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270450a05'>\r\n//「ふっ、ふ」\r\n\"Heh heh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270450a05'>\r\n//「ふっ、ふ」\r\n\"Heh heh...\"\r\n"
  },
  {
   "offset": 11276,
@@ -237,77 +237,77 @@
  {
   "offset": 11394,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270470a05'>\r\n//「生憎であったな、刺客。\r\n//　予はその問いに答を持たぬ」\r\n\"I'm sorry to disappoint you, assassin. I have no answer to your question.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270470a05'>\r\n//「生憎であったな、刺客。\r\n//　予はその問いに答を持たぬ」\r\n\"Sinto desapontá-lo, assassino. Não tenho resposta para a sua pergunta.\"\r\n"
  },
  {
   "offset": 11649,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270480a00'>\r\n//「何と？」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270480a00'>\r\n//「何と？」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 11769,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270490a05'>\r\n//「予は<RUBY text='ひとえ'>偏</RUBY>に覇者」\r\n\"I am naught but a conqueror.\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270500a05'>\r\n//「全てを奪い、征服し、従える……。\r\n//　それが足利護氏よ」\r\n\"Battle, plunder, subjugation. That is the whole of Ashikaga Moriuji.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270490a05'>\r\n//「予は<RUBY text='ひとえ'>偏</RUBY>に覇者」\r\n\"Não sou senão um conquistador.\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270500a05'>\r\n//「全てを奪い、征服し、従える……。\r\n//　それが足利護氏よ」\r\n\"Batalha, pilhagem, subjugação. Isso é tudo o que há em Ashikaga Moriuji.\"\r\n"
  },
  {
   "offset": 12196,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270510a00'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270520a00'>\r\n//「では貴方は……<RUBY text='・・・'>統べる</RUBY>だけが目的だという\r\n//のか。\r\n//　治めることに関心はないと？」\r\n\"Then... you want㉓<I>only</I>㉑to rule? Governance means nothing to you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270510a00'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270520a00'>\r\n//「では貴方は……<RUBY text='・・・'>統べる</RUBY>だけが目的だという\r\n//のか。\r\n//　治めることに関心はないと？」\r\n\"Então... quereis㉓<I>apenas</I>㉑dominar? Governar não significa nada para vós?\"\r\n"
  },
  {
   "offset": 12638,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270530a05'>\r\n//「皆無、とは云わぬが。\r\n//　征服を進める手段よの……所詮」\r\n\"Not nothing, no... but ultimately, it is just another tool to further my conquest.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270530a05'>\r\n//「皆無、とは云わぬが。\r\n//　征服を進める手段よの……所詮」\r\n\"Não diria que nada... mas, no fim, é apenas mais uma ferramenta para avançar minha conquista.\"\r\n"
  },
  {
   "offset": 12905,
   "en": "\r\n//　逆転している。\r\n  And now I understand. This man has it㉓<I>backwards.</I> Instead of desiring power to lead his people, he leads only to acquire more power!\r\n\r\n//　この男は治政を行うために支配を望むのではない。\r\n//　支配を完成する手段として政治を行うのだ……！\r\n",
-  "pt": ""
+  "pt": "\r\n//　逆転している。\r\n  \"Agora entendo. Este homem tem tudo㉓<I>ao contrário.</I> Em vez de desejar o poder para conduzir seu povo, ele conduz apenas para conquistar mais poder!\"\r\n\r\n//　この男は治政を行うために支配を望むのではない。\r\n//　支配を完成する手段として政治を行うのだ……！\r\n"
  },
  {
   "offset": 13238,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270540a00'>\r\n//「ならば貴方の目的は既に達成されていると\r\n//いうことか」\r\n\"Then haven't you already accomplished your goal?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270540a00'>\r\n//「ならば貴方の目的は既に達成されていると\r\n//いうことか」\r\n\"Então não tendes já alcançado vosso objetivo?\"\r\n"
  },
  {
   "offset": 13468,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270550a05'>\r\n//「ふん……世迷言を云う。\r\n//　予が満足している筈はなかろう」\r\n\"Hmph. You expect me to be satisfied with this state of affairs?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270550a05'>\r\n//「ふん……世迷言を云う。\r\n//　予が満足している筈はなかろう」\r\n\"Hmph. Espera que eu me contente com as coisas como estão?\"\r\n"
  },
  {
   "offset": 13719,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270560a05'>\r\n//「今の大和には、六波羅の旗を仰がぬ奴輩が\r\n//白昼堂々と闊歩しておるではないか」\r\n\"There are still those in Yamato who live free of my rule!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270560a05'>\r\n//「今の大和には、六波羅の旗を仰がぬ奴輩が\r\n//白昼堂々と闊歩しておるではないか」\r\n\"Ainda há em Yamato quem viva livre do meu jugo!\"\r\n"
  },
  {
   "offset": 13991,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270570a00'>\r\n//「……進駐軍？」\r\n\"...The Allies?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270570a00'>\r\n//「……進駐軍？」\r\n\"...Os Aliados?\"\r\n"
  },
  {
   "offset": 14129,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270580a05'>\r\n//「奴らを駆逐せぬ限り、予の覇業は成らぬ」\r\n\"My conquest is not complete until the last of them is purged.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270580a05'>\r\n//「奴らを駆逐せぬ限り、予の覇業は成らぬ」\r\n\"Minha conquista não estará completa enquanto o último deles não for expurgado.\"\r\n"
  },
  {
   "offset": 14350,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270590a00'>\r\n//「いずれ戦端を開くと……」\r\n\"But if you go to war again with the West...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270590a00'>\r\n//「いずれ戦端を開くと……」\r\n\"Mas se entrardes em guerra outra vez contra o Ocidente...\"\r\n"
  },
  {
   "offset": 14532,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270600a05'>\r\n//「いずれ、などと気の長いことは云わぬ。\r\n//　すぐにもだ」\r\n\"If? Don't be absurd. We㉒<I>will</I> go to war, and soon.\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270610a05'>\r\n//「これ以上、予の庭で白豚どもを肥え太らせ\r\n//ておくものか。\r\n//　海の向こうの畜舎へ送り返してくれる」\r\n\"I will not suffer those white-skinned swine growing fat off my land any longer. I will drive them back across the sea!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270600a05'>\r\n//「いずれ、などと気の長いことは云わぬ。\r\n//　すぐにもだ」\r\n\"Se? Não diga absurdos. Nós㉒<I>iremos</I> à guerra, e em breve.\"\r\n\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270610a05'>\r\n//「これ以上、予の庭で白豚どもを肥え太らせ\r\n//ておくものか。\r\n//　海の向こうの畜舎へ送り返してくれる」\r\n\"Não vou tolerar por mais tempo que esses porcos de pele branca engordem na minha terra. Vou expulsá-los de volta para além do mar!\"\r\n"
  },
  {
   "offset": 15128,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270620a00'>\r\n//「勝算が立ちますまい」\r\n\"You cannot win.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270620a00'>\r\n//「勝算が立ちますまい」\r\n\"Não podereis vencer.\"\r\n"
  },
  {
   "offset": 15276,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270630a05'>\r\n//「予は勝つ」\r\n\"I shall.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270630a05'>\r\n//「予は勝つ」\r\n\"Vencerei.\"\r\n"
  },
  {
   "offset": 15402,
@@ -317,32 +317,32 @@
  {
   "offset": 15520,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270650a05'>\r\n//「六年前とは違う。あの時は如何にしようと\r\n//勝つ目が無かった。\r\n//　だから恭順の道を選んだ」\r\n\"Six years ago, there was indeed no hope of victory. That is why I chose to bend the knee.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270650a05'>\r\n//「六年前とは違う。あの時は如何にしようと\r\n//勝つ目が無かった。\r\n//　だから恭順の道を選んだ」\r\n\"Seis anos atrás, de fato não havia esperança de vitória. Foi por isso que escolhi dobrar o joelho.\"\r\n"
  },
  {
   "offset": 15843,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270660a05'>\r\n//「しかし今の六波羅は昔日のそれではない。\r\n//　今度は勝てる……国土は荒れ、民の半分は\r\n//犠牲となるやもしれんが、必ず勝つ！」\r\n\"But Rokuhara is stronger now. This time, things will be different. Cities may burn, and half the people of Yamato may perish, but victory will be mine!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270660a05'>\r\n//「しかし今の六波羅は昔日のそれではない。\r\n//　今度は勝てる……国土は荒れ、民の半分は\r\n//犠牲となるやもしれんが、必ず勝つ！」\r\n\"Mas Rokuhara é mais forte agora. Desta vez, as coisas serão diferentes. Cidades podem arder, e metade do povo de Yamato pode perecer, mas a vitória será minha!\"\r\n"
  },
  {
   "offset": 16276,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270670a00'>\r\n//「……馬鹿な」\r\n\"...Madness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270670a00'>\r\n//「……馬鹿な」\r\n\"...Loucura.\"\r\n"
  },
  {
   "offset": 16408,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270680a05'>\r\n//「ふん……？」\r\n\"Oh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270680a05'>\r\n//「ふん……？」\r\n\"Oh?\"\r\n"
  },
  {
   "offset": 16532,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270690a00'>\r\n//「民の半分？\r\n//　そこまでの犠牲を払っての勝利など、何の\r\n//意味もない！」\r\n\"Half the population of Yamato? What meaning is there in such a victory!?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270700a00'>\r\n//「例え進駐軍を撤退せしめても、大和は自ら\r\n//崩壊する……」\r\n\"Even if you force the Allies to retreat, Yamato will collapse under the weight of its own dead!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270690a00'>\r\n//「民の半分？\r\n//　そこまでの犠牲を払っての勝利など、何の\r\n//意味もない！」\r\n\"Metade do povo de Yamato? Que sentido tem uma vitória assim?!\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270700a00'>\r\n//「例え進駐軍を撤退せしめても、大和は自ら\r\n//崩壊する……」\r\n\"Mesmo que forceis os Aliados a recuar, Yamato desmoronará sob o peso dos próprios mortos!\"\r\n"
  },
  {
   "offset": 17083,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270710a05'>\r\n//「で、あろうのぅ」\r\n\"No doubt.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270710a05'>\r\n//「で、あろうのぅ」\r\n\"Sem dúvida.\"\r\n"
  },
  {
   "offset": 17219,
@@ -352,17 +352,17 @@
  {
   "offset": 17335,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270730a05'>\r\n//「構わぬ」\r\n\"I care not!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270730a05'>\r\n//「構わぬ」\r\n\"Pouco me importa!\"\r\n"
  },
  {
   "offset": 17461,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270740a00'>\r\n//「何も残らぬ勝利をあえて欲する――と？」\r\n\"You―<I>want</I>㉑your victory to leave nothing behind?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270740a00'>\r\n//「何も残らぬ勝利をあえて欲する――と？」\r\n\"Vós... <I>quereis</I>㉑que vossa vitória nada deixe para trás?\"\r\n"
  },
  {
   "offset": 17678,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270750a05'>\r\n//「残るとも。\r\n//　予が大和を制覇したという事実はな」\r\n\"One thing will remain. The everlasting truth that I, Ashikaga Moriuji, conquered Yamato.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270750a05'>\r\n//「残るとも。\r\n//　予が大和を制覇したという事実はな」\r\n\"Uma coisa restará. A verdade eterna de que eu, Ashikaga Moriuji, conquistei Yamato.\"\r\n"
  },
  {
   "offset": 17942,
@@ -372,26 +372,26 @@
  {
   "offset": 18066,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270770a05'>\r\n//「その後の事に興味は無い」\r\n\"What happens afterward is of no concern to me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270770a05'>\r\n//「その後の事に興味は無い」\r\n\"O que acontecer depois não me importa.\"\r\n"
  },
  {
   "offset": 18251,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270780a00'>\r\n//「大将領……\r\n//　貴方は……それだけのために」\r\n\"You... would start a war just to...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0270780a00'>\r\n//「大将領……\r\n//　貴方は……それだけのために」\r\n\"Vós... começaríeis uma guerra só para...\"\r\n"
  },
  {
   "offset": 18453,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270790a05'>\r\n//「さて。\r\n//　下らぬ時を過ごしたな」\r\n\"Now then. I've wasted enough time with you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270790a05'>\r\n//「さて。\r\n//　下らぬ時を過ごしたな」\r\n\"Bem. Já perdi tempo demais contigo.\"\r\n"
  },
  {
   "offset": 18648,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270800a05'>\r\n//「冥途の土産を、ちと弾み過ぎたか。\r\n//　まあ良いわ……ついでにもう一つ、栄誉を\r\n//くれてやろう」\r\n\"Shishiku always says I'm too kind to my enemies. Well, no matter. Here's one more honor to take with you to the grave.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270800a05'>\r\n//「冥途の土産を、ちと弾み過ぎたか。\r\n//　まあ良いわ……ついでにもう一つ、栄誉を\r\n//くれてやろう」\r\n\"Shishiku sempre diz que sou bondoso demais com meus inimigos. Bem, não importa. Eis mais uma honra para levar contigo ao túmulo.\"\r\n"
  },
  {
   "offset": 19006,
   "en": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270810a05'>\r\n//「<RUBY text='ヒゲキリ'>鬚切</RUBY>！」\r\n\"Higekiri!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【護氏】\r\n<voice name='護氏' class='護氏' src='voice/md01/0270810a05'>\r\n//「<RUBY text='ヒゲキリ'>鬚切</RUBY>！」\r\n\"Higekiri!\"\r\n"
  }
 ]

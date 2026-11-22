@@ -2,17 +2,17 @@
  {
   "offset": 213,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090010a00'>\r\n//「……ご帰国は、父の<RUBY text='あだうち'>仇討</RUBY>のため？」\r\n\"You came back to avenge your father?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090010a00'>\r\n//「……ご帰国は、父の<RUBY text='あだうち'>仇討</RUBY>のため？」\r\n\"Você voltou para vingar seu pai?\"\r\n"
  },
  {
   "offset": 433,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090020a03'>\r\n//「……そうですね。\r\n//　その気も無いと言えば嘘になりますけれど」\r\n\"Well... not exactly. True, I would like to make Shishiku pay.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090020a03'>\r\n//「……そうですね。\r\n//　その気も無いと言えば嘘になりますけれど」\r\n\"Bem... não exatamente. É verdade que eu gostaria de fazer Shishiku pagar.\"\r\n"
  },
  {
   "offset": 697,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090030a03'>\r\n//「獅子吼への復讐しかやることが無いなら、\r\n//この国へ戻ることはなかったでしょう」\r\n\"But if that had been my sole motivation, I doubt I would have bothered.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090030a03'>\r\n//「獅子吼への復讐しかやることが無いなら、\r\n//この国へ戻ることはなかったでしょう」\r\n\"Mas se essa fosse minha única motivação, duvido que eu tivesse me dado ao trabalho.\"\r\n"
  },
  {
   "offset": 995,
@@ -22,87 +22,87 @@
  {
   "offset": 1113,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090050a03'>\r\n//「大和に帰ってきた理由は二つあるのです」\r\n\"I had two reasons for returning to Yamato.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090060a03'>\r\n//「一つは……<RUBY text='ノーブル'>貴顕</RUBY>の血統に連なる者としての\r\n//責務を果たすため。\r\n//　我々は民衆を守る代価として彼らから糧を\r\n//得ていたのですから」\r\n\"The first was simple duty. As one born to a noble house, I have an obligation to protect those who support us with their toil.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090070a03'>\r\n//「大和がかつてない危難の中にある時、遠い\r\n//国から暢気に眺めているわけには参りません。\r\n//　わたくしには<RUBY text='くにたみ'>国民</RUBY>を救うために為すべきを\r\n//為す義務があります」\r\n\"I am not willing to watch from afar while other nations carve Yamato up like a roast on a platter. I must do what I can to ensure the best possible future for its people.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090050a03'>\r\n//「大和に帰ってきた理由は二つあるのです」\r\n\"Eu tinha dois motivos para voltar a Yamato.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090060a03'>\r\n//「一つは……<RUBY text='ノーブル'>貴顕</RUBY>の血統に連なる者としての\r\n//責務を果たすため。\r\n//　我々は民衆を守る代価として彼らから糧を\r\n//得ていたのですから」\r\n\"O primeiro era simples dever. Como alguém nascida em uma casa nobre, tenho a obrigação de proteger aqueles que nos sustentam com seu trabalho.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090070a03'>\r\n//「大和がかつてない危難の中にある時、遠い\r\n//国から暢気に眺めているわけには参りません。\r\n//　わたくしには<RUBY text='くにたみ'>国民</RUBY>を救うために為すべきを\r\n//為す義務があります」\r\n\"Não estou disposta a observar de longe enquanto outras nações dividem Yamato como um assado em uma travessa. Preciso fazer o que puder para garantir o melhor futuro possível para seu povo.\"\r\n"
  },
  {
   "offset": 2302,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090080a04'>\r\n//「まさに、まさに」\r\n\"Well said, Mistress.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090080a04'>\r\n//「まさに、まさに」\r\n\"Muito bem dito, minha senhora.\"\r\n"
  },
  {
   "offset": 2449,
   "en": "\r\n//　俺も無言で頷きを返した。\r\n//　そういうものだ――本来の、正しい貴族階級とは。\r\n//古代における誕生から時を経るにつれ、次第に義務は\r\n//忘れ去られ権利ばかりが強められてしまったが。\r\n  I nod my agreement. Though much has changed in modern times, the noble―<br>which is to say warrior―<br>class exists to defend the powerless. That is their primary value to society, though throughout history, too many noble houses have pursued power for its own sake.\r\n\r\n//　大鳥家が長く続いたのは、代々の人間がこの香奈枝\r\n//嬢のように貴種の本分を忘れぬよう心懸けたせいでも\r\n//あるのだろうか……。\r\n  Perhaps part of the reason for House Otori's success is that they never forgot this truth.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺も無言で頷きを返した。\r\n//　そういうものだ――本来の、正しい貴族階級とは。\r\n//古代における誕生から時を経るにつれ、次第に義務は\r\n//忘れ去られ権利ばかりが強められてしまったが。\r\n  Concordo com um aceno silencioso. Embora muita coisa tenha mudado nos tempos modernos, a classe nobre — ou seja, a dos guerreiros — existe para defender os fracos. Esse é seu valor primordial para a sociedade, embora, ao longo da história, muitas casas nobres tenham buscado o poder por si só.\r\n\r\n//　大鳥家が長く続いたのは、代々の人間がこの香奈枝\r\n//嬢のように貴種の本分を忘れぬよう心懸けたせいでも\r\n//あるのだろうか……。\r\n  Talvez parte da razão do sucesso da Casa Otori seja o fato de que nunca esqueceram essa verdade.\r\n"
  },
  {
   "offset": 3280,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090090a03'>\r\n//「……そして、もう一つ。\r\n//　家族を守るため」\r\n\"The other reason I came back was for my family.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090090a03'>\r\n//「……そして、もう一つ。\r\n//　家族を守るため」\r\n\"O outro motivo pelo qual voltei foi minha família.\"\r\n"
  },
  {
   "offset": 3503,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090100a00'>\r\n//「妹君……ですか」\r\n\"Your sister, was it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090100a00'>\r\n//「妹君……ですか」\r\n\"Sua irmã, então?\"\r\n"
  },
  {
   "offset": 3650,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090110a03'>\r\n//「ええ。\r\n//　花枝――わたくしの最後の肉親です」\r\n\"Yes, Hanae. She's the only one left.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090110a03'>\r\n//「ええ。\r\n//　花枝――わたくしの最後の肉親です」\r\n\"Sim, Hanae. É a única que me resta.\"\r\n"
  },
  {
   "offset": 3865,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090120a04'>\r\n//「お嬢さまとは七つ違いであらせられますな」\r\n\"Seven years apart, was it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090120a04'>\r\n//「お嬢さまとは七つ違いであらせられますな」\r\n\"Sete anos de diferença, não é?\"\r\n"
  },
  {
   "offset": 4054,
   "en": "\r\n//　結構、離れている。\r\n//　成程……だから余計に心配なのか。\r\n  A significant gap. I suppose it must add to her worry.\r\n",
-  "pt": ""
+  "pt": "\r\n//　結構、離れている。\r\n//　成程……だから余計に心配なのか。\r\n  Uma diferença considerável. Imagino que isso só aumente a preocupação dela.\r\n"
  },
  {
   "offset": 4211,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090130a03'>\r\n//「まぁ実際のところ、あの子のことはわりと\r\n//ついでというか、かなりどーでもよろしいの\r\n//ですけど」\r\n\"Though honestly, I couldn't be㉓<I>less</I> worried about her.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090130a03'>\r\n//「まぁ実際のところ、あの子のことはわりと\r\n//ついでというか、かなりどーでもよろしいの\r\n//ですけど」\r\n\"Embora, para ser sincera, eu não poderia estar㉓<I>menos</I> preocupada com ela.\"\r\n"
  },
  {
   "offset": 4526,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090140a00'>\r\n//「は？」\r\n\"...I'm sorry?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090140a00'>\r\n//「は？」\r\n\"...Perdão?\"\r\n"
  },
  {
   "offset": 4651,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090150a04'>\r\n//「左様でございますねぇ。\r\n//　お嬢さまのご留学前の時点で、姉妹喧嘩の\r\n//勝敗は五分五分に迫っていたと記憶しており\r\n//ますし」\r\n\"Come to think of it, you two were always at each other's throats. I believe the record stood about even at the time you left for Habsburg.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090150a04'>\r\n//「左様でございますねぇ。\r\n//　お嬢さまのご留学前の時点で、姉妹喧嘩の\r\n//勝敗は五分五分に迫っていたと記憶しており\r\n//ますし」\r\n\"Agora que penso nisso, vocês duas viviam às turras. Creio que o placar estava praticamente empatado quando a senhora partiu para Habsburg.\"\r\n"
  },
  {
   "offset": 5069,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090160a03'>\r\n//「取っ組み合いで勝っても最後に落とし穴に\r\n//はまっているのはわたくしだったりするのよ\r\n//ねぇ……」\r\n\"Yes. I lost count of the times I'd beat her at fisticuffs only to wind up falling into some trap or other.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090160a03'>\r\n//「取っ組み合いで勝っても最後に落とし穴に\r\n//はまっているのはわたくしだったりするのよ\r\n//ねぇ……」\r\n\"Sim. Perdi a conta das vezes em que eu a venci na porrada só para acabar caindo em alguma armadilha ou outra.\"\r\n"
  },
  {
   "offset": 5427,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090170a04'>\r\n//「悪辣な策謀に長けた、末恐ろしい姫さまで\r\n//ございました」\r\n\"She was a schemer, that one. Sure to make some unlucky gentleman gray in the head one day.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090170a04'>\r\n//「悪辣な策謀に長けた、末恐ろしい姫さまで\r\n//ございました」\r\n\"Ela era uma conspiradora, aquela ali. Certamente fará algum pobre coitado ficar grisalho de preocupação um dia.\"\r\n"
  },
  {
   "offset": 5702,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090180a03'>\r\n//「そうそう。\r\n//　わたくしとはもう似ても似つかぬ」\r\n\"I can only imagine where she got it from.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090180a03'>\r\n//「そうそう。\r\n//　わたくしとはもう似ても似つかぬ」\r\n\"Imagino de onde ela tirou isso.\"\r\n"
  },
  {
   "offset": 5925,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090190a04'>\r\n//「悪虐な暴力に長けたお嬢さまとは嫌になる\r\n//ほど血の繋がりを感じさせましたなァ。\r\n//　一体何の呪いであのお優しい旦那様と奥方\r\n//様からこんな地獄チック姉妹が生まれたやら」\r\n\"Given your penchant for wanton cruelty, Mistress, there's no doubt in my mind that you two are related. The real question is what curse decreed that these devil children should be born to such nice parents.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090190a04'>\r\n//「悪虐な暴力に長けたお嬢さまとは嫌になる\r\n//ほど血の繋がりを感じさせましたなァ。\r\n//　一体何の呪いであのお優しい旦那様と奥方\r\n//様からこんな地獄チック姉妹が生まれたやら」\r\n\"Considerando seu pendor para a crueldade gratuita, senhora, não tenho dúvida de que vocês duas são parentes. A verdadeira questão é que maldição decretou que essas crianças diabólicas nascessem de pais tão bondosos.\"\r\n"
  },
  {
   "offset": 6480,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090200a04'>\r\n//「実は橋の下から拾われてきたのでしょうか」\r\n\"Perhaps they found you under a bridge.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090200a04'>\r\n//「実は橋の下から拾われてきたのでしょうか」\r\n\"Talvez tenham encontrado vocês debaixo de uma ponte.\"\r\n"
  },
  {
   "offset": 6681,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090210a03'>\r\n//「ねえばあや、前から訊きたかったのだけど、\r\n//あなた主従関係っていうものを何だと思って\r\n//いて？」\r\n\"You know, Sayo. I've been meaning to ask. Just who do you think pays your bills?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090210a03'>\r\n//「ねえばあや、前から訊きたかったのだけど、\r\n//あなた主従関係っていうものを何だと思って\r\n//いて？」\r\n\"Sabe, Sayo, já faz tempo que quero perguntar. Quem você acha que paga suas contas?\"\r\n"
  },
  {
   "offset": 7013,
@@ -112,32 +112,32 @@
  {
   "offset": 7131,
   "en": "\r\n//　どんな妹御なのだか。\r\n  I gather the captain's relationship with her sister is complicated.\r\n",
-  "pt": ""
+  "pt": "\r\n//　どんな妹御なのだか。\r\n  Pelo visto, a relação da capitã com a irmã é complicada.\r\n"
  },
  {
   "offset": 7249,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090230a04'>\r\n//「要するにでございますね。\r\n//　現在は傀儡当主に甘んじているとしても、\r\n//いつまでもそのままでいるとは到底思えない\r\n//ような御方でありまして」\r\n\"The point, sir, is that she's not the sort of young lady who will allow herself to be used as a puppet forever.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090230a04'>\r\n//「要するにでございますね。\r\n//　現在は傀儡当主に甘んじているとしても、\r\n//いつまでもそのままでいるとは到底思えない\r\n//ような御方でありまして」\r\n\"O ponto, senhor, é que ela não é o tipo de jovem que permitirá ser usada como fantoche para sempre.\"\r\n"
  },
  {
   "offset": 7667,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090240a00'>\r\n//「はァ」\r\n\"Ah.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090240a00'>\r\n//「はァ」\r\n\"Ah.\"\r\n"
  },
  {
   "offset": 7782,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090250a03'>\r\n//「誰かの助けなどなくとも、あと数年の時間\r\n//があれば獅子吼を排除して名実そろった当主\r\n//になるでしょうね。……さっき仇討の為なら\r\n//帰らなかったと言ったのはそういうことです」\r\n\"Even without my help, in a few years she'll supplant Shishiku and become head of the clan in fact as well as name. That's why I said I wouldn't have returned if revenge were my sole motivation.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090250a03'>\r\n//「誰かの助けなどなくとも、あと数年の時間\r\n//があれば獅子吼を排除して名実そろった当主\r\n//になるでしょうね。……さっき仇討の為なら\r\n//帰らなかったと言ったのはそういうことです」\r\n\"Mesmo sem minha ajuda, em alguns anos ela suplantará Shishiku e se tornará chefe do clã de fato e de direito. É por isso que eu disse que não teria voltado se a vingança fosse minha única motivação.\"\r\n"
  },
  {
   "offset": 8339,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090260a03'>\r\n//「わたくしが出しゃばるより妹に任せておい\r\n//た方がずっとスマートに、まわりへの迷惑も\r\n//最小限で片付くんですもの。\r\n//　それがわかっていては何もできません」\r\n\"Our revenge will go much more smoothly if I leave it in her capable hands. There'll be less collateral damage too, I'm sure.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090260a03'>\r\n//「わたくしが出しゃばるより妹に任せておい\r\n//た方がずっとスマートに、まわりへの迷惑も\r\n//最小限で片付くんですもの。\r\n//　それがわかっていては何もできません」\r\n\"Nossa vingança correrá muito mais tranquilamente se eu a deixar em suas mãos capazes. Também haverá menos danos colaterais, tenho certeza.\"\r\n"
  },
  {
   "offset": 8800,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090270a04'>\r\n//「獅子吼殿にもその方が辛いでしょうなァ。\r\n//　花枝さまは真の残虐さを備えた御方、あっ\r\n//さり殺すよりも生かしておいて延々と苦しめ\r\n//続ける方法を採られるに違いありませぬゆえ」\r\n\"Oh yes. And by the time she's through with him, Shishiku will wish that it had been you with your rifle. Lady Hanae is quite adept at tormenting her victims.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090270a04'>\r\n//「獅子吼殿にもその方が辛いでしょうなァ。\r\n//　花枝さまは真の残虐さを備えた御方、あっ\r\n//さり殺すよりも生かしておいて延々と苦しめ\r\n//続ける方法を採られるに違いありませぬゆえ」\r\n\"Ah, sim. E quando ela terminar com ele, Shishiku desejará que tivesse sido você com seu rifle. A jovem Hanae é bastante hábil em atormentar suas vítimas.\"\r\n"
  },
  {
   "offset": 9312,
@@ -147,72 +147,72 @@
  {
   "offset": 9430,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090290a03'>\r\n//「そういう妹なんです。\r\n//　……だから、わたくしが守りたかったのは\r\n//あの子よりも……もう一人のほう」\r\n\"Sisters, right? So it wasn't her I came back for. It was our cousin.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090290a03'>\r\n//「そういう妹なんです。\r\n//　……だから、わたくしが守りたかったのは\r\n//あの子よりも……もう一人のほう」\r\n\"Irmãs, não é? Então não foi por ela que voltei. Foi por nosso primo.\"\r\n"
  },
  {
   "offset": 9756,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090300a03'>\r\n//「わたくしと花枝の従兄弟。\r\n//　獅子吼が血眼で求めた大鳥本家正統の嫡子。\r\n//　……そちらなのです」\r\n\"The true heir to House Otori. The one Shishiku was so desperate to find.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090300a03'>\r\n//「わたくしと花枝の従兄弟。\r\n//　獅子吼が血眼で求めた大鳥本家正統の嫡子。\r\n//　……そちらなのです」\r\n\"O verdadeiro herdeiro da Casa Otori. Aquele que Shishiku tanto se desesperava para encontrar.\"\r\n"
  },
  {
   "offset": 10080,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090310a00'>\r\n//「……？\r\n//　しかし」\r\n\"Your cousin? But I <br>thought...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090310a00'>\r\n//「……？\r\n//　しかし」\r\n\"Seu primo? Mas eu pensei...\"\r\n"
  },
  {
   "offset": 10244,
   "en": "\r\n//　話を聞く限り、その伯父の嫡男というのは香奈枝ら\r\n//姉妹の政敵にあたるのではないか。\r\n//　それを……守る？\r\n  From what I heard, it sounded like their uncle was their enemy. Why would she protect his son?\r\n",
-  "pt": ""
+  "pt": "\r\n//　話を聞く限り、その伯父の嫡男というのは香奈枝ら\r\n//姉妹の政敵にあたるのではないか。\r\n//　それを……守る？\r\n  Pelo que ouvi, parecia que o tio delas era seu inimigo. Por que ela protegeria o filho dele?\r\n"
  },
  {
   "offset": 10511,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090320a04'>\r\n//「政治的事情だけが人間関係の全てではござ\r\n//いませんよ、湊斗さま」\r\n\"Politics aren't everything, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090320a04'>\r\n//「政治的事情だけが人間関係の全てではござ\r\n//いませんよ、湊斗さま」\r\n\"Política não é tudo, senhor.\"\r\n"
  },
  {
   "offset": 10740,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090330a00'>\r\n//「……は」\r\n\"...Of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090330a00'>\r\n//「……は」\r\n\"...Claro.\"\r\n"
  },
  {
   "offset": 10868,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090340a03'>\r\n//「親同士の関係は複雑でしたけれど、子供は\r\n//また別だったということです。\r\n//　わたくしも花枝も、従兄弟のことはとても\r\n//好きでした」\r\n\"Our fathers may have been at odds, but we were children. We didn't care. We loved him, Hanae and I both.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090340a03'>\r\n//「親同士の関係は複雑でしたけれど、子供は\r\n//また別だったということです。\r\n//　わたくしも花枝も、従兄弟のことはとても\r\n//好きでした」\r\n\"Nossos pais podiam estar em desacordo, mas nós éramos crianças. Não nos importávamos. Nós o amávamos, Hanae e eu.\"\r\n"
  },
  {
   "offset": 11273,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090350a03'>\r\n//「あの小さな男の子を抱っこすると、何だか\r\n//幸せな心地になれて……。\r\n//　花枝もそうだったから、今日はどっちが彼\r\n//を抱くのかでまた喧嘩になって」\r\n\"I've never felt more at peace than when I cradled him in my arms. Every day, we would fight over whose turn it was to hold him...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090350a03'>\r\n//「あの小さな男の子を抱っこすると、何だか\r\n//幸せな心地になれて……。\r\n//　花枝もそうだったから、今日はどっちが彼\r\n//を抱くのかでまた喧嘩になって」\r\n\"Nunca me senti tão em paz quanto quando o embalava em meus braços. Todos os dias, brigávamos por causa de quem seria a vez de segurá-lo...\"\r\n"
  },
  {
   "offset": 11724,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090360a03'>\r\n//「花枝は許嫁として。わたくしは将来の義姉\r\n//として……。\r\n//　あの子を<RUBY text='かいな'>腕</RUBY>に入れる権利は自分にあるんだ\r\n//と言い張って、譲らなかったものです」\r\n\"They were betrothed, you know, he and Hanae. I was so looking forward to the day he would call me sister.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090360a03'>\r\n//「花枝は許嫁として。わたくしは将来の義姉\r\n//として……。\r\n//　あの子を<RUBY text='かいな'>腕</RUBY>に入れる権利は自分にあるんだ\r\n//と言い張って、譲らなかったものです」\r\n\"Eles estavam prometidos, sabe, ele e Hanae. Eu ansiava tanto pelo dia em que ele me chamaria de irmã.\"\r\n"
  },
  {
   "offset": 12172,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090370a00'>\r\n//「……そうでしたか」\r\n\"...I see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090370a00'>\r\n//「……そうでしたか」\r\n\"...Entendo.\"\r\n"
  },
  {
   "offset": 12311,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090380a00'>\r\n//「では、守りたかったというのは」\r\n\"When you speak of protecting him...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090380a00'>\r\n//「では、守りたかったというのは」\r\n\"Quando você fala em protegê-lo...\"\r\n"
  },
  {
   "offset": 12494,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090390a03'>\r\n//「彼は大鳥一門の遠縁にあたる家庭で平穏に\r\n//暮らしていました。何も知らず。\r\n//　どう考えても……大鳥の当主なんかに祭り\r\n//上げられるよりそのままの方が幸せでした」\r\n\"During the coup, one of Uncle's vassals entrusted him to the family of a distant relation. He was raised as any normal child would have been, and taught nothing of his heritage. Inheriting the Otori name would have destroyed that life. It was clear to me where his happiness lay.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090390a03'>\r\n//「彼は大鳥一門の遠縁にあたる家庭で平穏に\r\n//暮らしていました。何も知らず。\r\n//　どう考えても……大鳥の当主なんかに祭り\r\n//上げられるよりそのままの方が幸せでした」\r\n\"Durante o golpe, um dos vassalos do tio o confiou à família de um parente distante. Ele foi criado como qualquer criança normal, e nada lhe ensinaram sobre sua origem. Herdar o nome Otori teria destruído essa vida. Para mim, estava claro onde residia a felicidade dele.\"\r\n"
  },
  {
   "offset": 13119,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090400a03'>\r\n//「それでも、彼自身が当主たろうと望むなら\r\n//いい。けれど獅子吼はきっと彼の自発的意思\r\n//などに拘泥しない。拒まれれば腕ずくで奪う。\r\n//　わたくしはその時、彼を救うつもりでした」\r\n\"Perhaps, if he had chosen that path for himself... but Shishiku would not have given him the choice.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090410a03'>\r\n//「彼の幸福を守るため。\r\n//　花枝が用済みの道具として処分されるのを\r\n//防ぐため。\r\n//　……わたくしはそうしようと思っていた」\r\n\"To protect his happiness―<br>and to protect my sister, who would have been disposed of once he was found―I pledged to keep him safe.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090400a03'>\r\n//「それでも、彼自身が当主たろうと望むなら\r\n//いい。けれど獅子吼はきっと彼の自発的意思\r\n//などに拘泥しない。拒まれれば腕ずくで奪う。\r\n//　わたくしはその時、彼を救うつもりでした」\r\n\"Talvez, se ele tivesse escolhido esse caminho por conta própria... mas Shishiku não lhe daria escolha.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090410a03'>\r\n//「彼の幸福を守るため。\r\n//　花枝が用済みの道具として処分されるのを\r\n//防ぐため。\r\n//　……わたくしはそうしようと思っていた」\r\n\"Para proteger sua felicidade — e para proteger minha irmã, que teria sido descartada assim que ele fosse encontrado —, prometi mantê-lo a salvo.\"\r\n"
  },
  {
   "offset": 14003,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090420a03'>\r\n//「なのに……\r\n//　何もできなかった」\r\n\"...And I failed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090420a03'>\r\n//「なのに……\r\n//　何もできなかった」\r\n\"...E eu falhei.\"\r\n"
  },
  {
   "offset": 14180,
@@ -222,22 +222,22 @@
  {
   "offset": 14304,
   "en": "\r\n//　唐突に現れた艶やかなる朱の<RUBY text='いろ'>彩</RUBY>に――\r\n//　目を奪われる。\r\n  From the corner of Captain Otori's perfect mouth, a trickle of blood reaches toward her chin. She must have bitten through her lip.\r\n\r\n//　大鳥香奈枝の、良く整った口唇の端から、血が一筋\r\n//滴っていた。\r\n//　唇の内側か、頬の裏か……どこかを噛み切ったよう\r\n//だった。\r\n\r\n//　悲痛というものを、彼女はいま舐めている。\r\n  From experience, I know that the pain is but an echo of what is in her heart.\r\n",
-  "pt": ""
+  "pt": "\r\n//　唐突に現れた艶やかなる朱の<RUBY text='いろ'>彩</RUBY>に――\r\n//　目を奪われる。\r\n  \"Do canto da boca perfeita da Capitã Otori, um fio de sangue escorre em direção ao queixo. Ela deve ter mordido o lábio.\"\r\n\r\n//　大鳥香奈枝の、良く整った口唇の端から、血が一筋\r\n//滴っていた。\r\n//　唇の内側か、頬の裏か……どこかを噛み切ったよう\r\n//だった。\r\n\r\n//　悲痛というものを、彼女はいま舐めている。\r\n  \"Por experiência, sei que a dor não passa de um eco do que vai em seu coração.\"\r\n"
  },
  {
   "offset": 14904,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090440a00'>\r\n//「何故……」\r\n\"Why...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090440a00'>\r\n//「何故……」\r\n\"Por quê...\"\r\n"
  },
  {
   "offset": 15028,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090450a03'>\r\n//「何故？」\r\n\"Why?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090450a03'>\r\n//「何故？」\r\n\"Por quê?\"\r\n"
  },
  {
   "offset": 15156,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090460a04'>\r\n//「何故、ですと？」\r\n\"Why, you ask?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090460a04'>\r\n//「何故、ですと？」\r\n\"Por quê, pergunta o senhor?\"\r\n"
  },
  {
   "offset": 15296,
@@ -247,37 +247,37 @@
  {
   "offset": 15420,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090480a03'>\r\n//「景明さま。\r\n//　よろしくて……」\r\n\"Listen carefully now, dear...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090490a03'>\r\n//「その男の子は」\r\n\"Our cousin...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090500a03'>\r\n//「わたくしたちが愛していたその子は、ね」\r\n\"This boy we loved so dearly...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090510a03'>\r\n//「名を」\r\n\"His name...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090480a03'>\r\n//「景明さま。\r\n//　よろしくて……」\r\n\"Ouça com atenção agora, querido...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090490a03'>\r\n//「その男の子は」\r\n\"Nosso primo...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090500a03'>\r\n//「わたくしたちが愛していたその子は、ね」\r\n\"Este menino que amávamos tanto...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090510a03'>\r\n//「名を」\r\n\"O nome dele...\"\r\n"
  },
  {
   "offset": 16060,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090520a03'>\r\n//「雄飛、というのです」\r\n\"...was Yuhi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090520a03'>\r\n//「雄飛、というのです」\r\n\"...era Yuhi.\"\r\n"
  },
  {
   "offset": 16214,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0090530b56'>\r\n//「おい！　そこの――<RUBY text='くらぐら'>暗々</RUBY>とした悪党ッ！」\r\n\"Hey! You―evil-looking evildoer!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0090530b56'>\r\n//「おい！　そこの――<RUBY text='くらぐら'>暗々</RUBY>とした悪党ッ！」\r\n\"Ei! Você aí ― vilão de aparência maligna!\"\r\n"
  },
  {
   "offset": 16440,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0090540b56'>\r\n//「……すいません。巧く言葉になんないです。\r\n//　でもおれはリツを探すために何かしたいし、\r\n//そうするべきだとも思うんです」\r\n\"I know what you said was right. But still, I don't believe looking for Ritsu is wrong. I just feel like it's something we have to do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0090540b56'>\r\n//「……すいません。巧く言葉になんないです。\r\n//　でもおれはリツを探すために何かしたいし、\r\n//そうするべきだとも思うんです」\r\n\"Sei que o que você disse estava certo. Mas ainda assim, não acredito que procurar Ritsu seja errado. Só sinto que é algo que precisamos fazer.\"\r\n"
  },
  {
   "offset": 16852,
   "en": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0090550b56'>\r\n//「信じるよ。\r\n//　この世には村正っていう名の、正義の味方\r\n//がいるってことを」\r\n\"I'll believe that there's a real hero in this world, and his name is Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雄飛】\r\n<voice name='雄飛' class='雄飛' src='voice/mc02/0090550b56'>\r\n//「信じるよ。\r\n//　この世には村正っていう名の、正義の味方\r\n//がいるってことを」\r\n\"Vou acreditar que existe um herói de verdade neste mundo, e que o nome dele é Muramasa.\"\r\n"
  },
  {
   "offset": 17143,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090560a03'>\r\n//「彼は死んでしまった。\r\n//　ええ……死んでしまったのです」\r\n\"He died. Suddenly. Without any warning. I looked away for a moment, and he was gone.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090570a03'>\r\n//「わたくしにも、花枝にも……獅子吼にも、\r\n//まったく関係のないところで。\r\n//　唐突に――死んでしまいました」\r\n\"The Otori succession had nothing to do with it. He was simply in the wrong place at the wrong time.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090560a03'>\r\n//「彼は死んでしまった。\r\n//　ええ……死んでしまったのです」\r\n\"Ele morreu. De repente. Sem qualquer aviso. Desviei o olhar por um instante, e ele se foi.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090570a03'>\r\n//「わたくしにも、花枝にも……獅子吼にも、\r\n//まったく関係のないところで。\r\n//　唐突に――死んでしまいました」\r\n\"A sucessão Otori não teve nada a ver com isso. Ele simplesmente estava no lugar errado, na hora errada.\"\r\n"
  },
  {
   "offset": 17779,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090580a03'>\r\n//「それは誰よりも景明さまがご存知でしょう？\r\n//　ねえ……？」\r\n\"But you know that better than anyone. Don't you, <br>dear?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090580a03'>\r\n//「それは誰よりも景明さまがご存知でしょう？\r\n//　ねえ……？」\r\n\"Mas você sabe disso melhor que ninguém. Não sabe, querido?\"\r\n"
  },
  {
   "offset": 18034,
@@ -287,17 +287,17 @@
  {
   "offset": 18158,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090600a04'>\r\n//「知らぬはずはありませぬな……。\r\n//　<RUBY text='・・'>村正</RUBY>殿」\r\n\"Indeed you do. After all, you bear the curse of Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090600a04'>\r\n//「知らぬはずはありませぬな……。\r\n//　<RUBY text='・・'>村正</RUBY>殿」\r\n\"De fato, sabe. Afinal, o senhor carrega a maldição de Muramasa.\"\r\n"
  },
  {
   "offset": 18409,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090610a04'>\r\n//「まことに失礼ながら、色々調べさせて頂き\r\n//ました。\r\n//　何より……江ノ島で、貴方さまと雪車町殿\r\n//のお話を不作法にも<RUBY text='・・・・・'>盗み聴いて</RUBY>しまいまして」\r\n\"You'll have to forgive us. We did some digging into the legends surrounding that name. We also took the liberty of listening in on your conversation with that Sorimachi fellow over Enoshima.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090610a04'>\r\n//「まことに失礼ながら、色々調べさせて頂き\r\n//ました。\r\n//　何より……江ノ島で、貴方さまと雪車町殿\r\n//のお話を不作法にも<RUBY text='・・・・・'>盗み聴いて</RUBY>しまいまして」\r\n\"O senhor terá de nos perdoar. Fizemos algumas investigações sobre as lendas em torno desse nome. Também tomamos a liberdade de escutar às escondidas a sua conversa com aquele sujeito Sorimachi em Enoshima.\"\r\n"
  },
  {
   "offset": 18942,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090620a04'>\r\n//「悪人を斬るたび善人をも斬らねば収まらぬ\r\n//とは、難儀な劒冑をお使いでございますな」\r\n\"One friend for one enemy... a heavy price this tsurugi of yours demands.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090620a04'>\r\n//「悪人を斬るたび善人をも斬らねば収まらぬ\r\n//とは、難儀な劒冑をお使いでございますな」\r\n\"Um amigo por um inimigo... um preço pesado que este seu tsurugi exige.\"\r\n"
  },
  {
   "offset": 19238,
@@ -307,32 +307,32 @@
  {
   "offset": 19374,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090640a03'>\r\n//「そんな劒冑でも使わなくてはならなかった\r\n//のですね。\r\n//　銀星号――あの魔物がもたらす<RUBY text='わざわい'>禍</RUBY>を止める\r\n//ために」\r\n\"But you have no choice, do you? It's the only way to stop Ginseigo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090640a03'>\r\n//「そんな劒冑でも使わなくてはならなかった\r\n//のですね。\r\n//　銀星号――あの魔物がもたらす<RUBY text='わざわい'>禍</RUBY>を止める\r\n//ために」\r\n\"Mas você não tem escolha, não é? É a única maneira de deter Ginseigo.\"\r\n"
  },
  {
   "offset": 19742,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090650a03'>\r\n//「……何ということなのでしょう。\r\n//　お察し致します、景明さま」\r\n\"You poor man. I can only imagine what it's like.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090660a03'>\r\n//「銀星号の〝卵〟を受けた者は斬らねばなら\r\n//ない。斬るほかにない。\r\n//　放っておけば第二の銀星号になってしまう\r\n//のだから……どうにも、斬るしかありません」\r\n\"These eggs... these infected who spread Ginseigo's madness...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090670a03'>\r\n//「けれど、斬れば……\r\n//　もう一人、何の罪もない人を斬らなくては\r\n//ならなくなる」\r\n\"If you kill them, you must kill an innocent too...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090650a03'>\r\n//「……何ということなのでしょう。\r\n//　お察し致します、景明さま」\r\n\"Pobre homem. Só posso imaginar como deve ser.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090660a03'>\r\n//「銀星号の〝卵〟を受けた者は斬らねばなら\r\n//ない。斬るほかにない。\r\n//　放っておけば第二の銀星号になってしまう\r\n//のだから……どうにも、斬るしかありません」\r\n\"Esses ovos... esses infectados que espalham a loucura de Ginseigo...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090670a03'>\r\n//「けれど、斬れば……\r\n//　もう一人、何の罪もない人を斬らなくては\r\n//ならなくなる」\r\n\"Se você os matar, também terá de matar um inocente...\"\r\n"
  },
  {
   "offset": 20653,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090680a03'>\r\n//「それでも無数の人々の命には替えられない。\r\n//　だから、あなたは……斬った。無辜の人を」\r\n\"But if you spare them, then countless more will die. So you pay the price. You kill those you care for.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090680a03'>\r\n//「それでも無数の人々の命には替えられない。\r\n//　だから、あなたは……斬った。無辜の人を」\r\n\"Mas se poupá-los, incontáveis outras pessoas morrerão. Então você paga o preço. Mata aqueles de quem gosta.\"\r\n"
  },
  {
   "offset": 20995,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090690a03'>\r\n//「さぞお辛かったことでしょう。\r\n//　お苦しかったことでしょう……」\r\n\"It must be... so hard...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090690a03'>\r\n//「さぞお辛かったことでしょう。\r\n//　お苦しかったことでしょう……」\r\n\"Deve ser... tão difícil...\"\r\n"
  },
  {
   "offset": 21225,
   "en": "\r\n//　呆然とするばかりの俺に、差し伸べられる白い指先。\r\n//　それは俺の頬へ触れ、ついと撫でた。\r\n\r\n//　官能的なほどに優しく。\r\n  Pale fingers brush my frozen cheek. A lover's touch, tender and wanting.\r\n",
-  "pt": ""
+  "pt": "\r\n//　呆然とするばかりの俺に、差し伸べられる白い指先。\r\n//　それは俺の頬へ触れ、ついと撫でた。\r\n\r\n//　官能的なほどに優しく。\r\n  Dedos pálidos roçam minha face paralisada. Um toque de amante, terno e desejoso.\r\n"
  },
  {
   "offset": 21490,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090700a03'>\r\n//「けれど許しません」\r\n\"It doesn't matter.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090700a03'>\r\n//「けれど許しません」\r\n\"Não importa.\"\r\n"
  },
  {
   "offset": 21647,
@@ -342,52 +342,52 @@
  {
   "offset": 21765,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090720a03'>\r\n//「あなたは雄飛を殺した……。\r\n//　あの子の命を力ずくで奪った」\r\n\"You killed Yuhi. You ended his life.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090730a03'>\r\n//「それが本当に、どうしようもなく、止むを\r\n//得ない選択であったとしても。\r\n//　あなたに救われた大和の一億の人間全てが\r\n//あなたの免罪を認めたとしても」\r\n\"It makes no difference that you had no choice, or that the people of Yamato owe you their lives.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090740a03'>\r\n//「あなたが強いた、一つの嘆きに懸けて。\r\n//　わたくしはあなたを許しません」\r\n\"I will avenge the future you stole,㉓<I>insignificant</I>㉑though it may be.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090720a03'>\r\n//「あなたは雄飛を殺した……。\r\n//　あの子の命を力ずくで奪った」\r\n\"Você matou Yuhi. Pôs fim à vida dele.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090730a03'>\r\n//「それが本当に、どうしようもなく、止むを\r\n//得ない選択であったとしても。\r\n//　あなたに救われた大和の一億の人間全てが\r\n//あなたの免罪を認めたとしても」\r\n\"Não faz diferença que você não tivesse escolha, nem que o povo de Yamato lhe deva a vida.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090740a03'>\r\n//「あなたが強いた、一つの嘆きに懸けて。\r\n//　わたくしはあなたを許しません」\r\n\"Eu vingarei o futuro que você roubou, ㉓<I>insignificante</I>㉑ que seja.\"\r\n"
  },
  {
   "offset": 22705,
   "en": "\r\n//　恋情を囁くように熱っぽい、その眼差しに射竦めら\r\n//れる。\r\n//　\r\n//　膝が震えていた。失禁の兆候すら覚えた。\r\n  An ardent passion burns in her eyes. I cannot look away.\r\n\r\n//　何という殺意か。\r\n//　何という悪意か。\r\n\r\n//　この人は、<RUBY text='・・・・・・・・・・・・・・・・'>命と魂の全てを懸けて俺に復讐する</RUBY>気で\r\n//いる。\r\n\r\n   Such㉓<I>purpose.</I>㉑ She will not be denied, no matter who or what stands against her.\r\n\r\n//　絶対に許されない。\r\n//　<RUBY text='・・・・・・・'>絶対に殺される</RUBY>。\r\n\r\n//　今、この瞬間にも。\r\n\r\n  She will claim my life. Perhaps right here, before I take my next breath.\r\n\r\n  My knees shake. My bowels loosen. I have never felt fear like this.\r\n\r\n  I have never felt fear㉗<I>at all.</I> Not truly. Not until this moment.\r\n\r\n  I want nothing more than to flee. To scream. To throw myself at her feet and beg.\r\n\r\n//　恐ろしい。\r\n//　<RUBY text='かつ'>嘗</RUBY>てこれほどの恐怖を味わった事はなかった。\r\n\r\n//　いや――きっとこれまでは恐怖など知らなかった。\r\n//　<RUBY text='・・・'>これが</RUBY>恐怖だったのだ。\r\n\r\n//　逃げ出したい。\r\n//　喚き立てたい。\r\n//　人の憐れみを乞える行為なら、どんなことでもした\r\n//くてたまらない。\r\n//　許してくれと泣き叫びたい。\r\n  Would that work?\r\n\r\n//　……許してくれるだろうか。\r\n//　恥も外聞も捨て、どんな真似でもして、弁明を言い\r\n//立て謝罪を繰り返し贖罪を約束すれば……もしかした\r\n//ら……\r\n  If I abandon pride and honor and dignity, if I plead and weep and cry―<I>I'm so sorry―</I><K>will even she be moved to forgiveness?\r\n\r\n//　この<RUBY text='ひと'>女性</RUBY>とて……許すのでは……\r\n",
-  "pt": ""
+  "pt": "\r\n//　恋情を囁くように熱っぽい、その眼差しに射竦めら\r\n//れる。\r\n//　\r\n//　膝が震えていた。失禁の兆候すら覚えた。\r\n  Uma paixão ardente queima em seus olhos. Não consigo desviar o olhar.\r\n\r\n//　何という殺意か。\r\n//　何という悪意か。\r\n\r\n//　この人は、<RUBY text='・・・・・・・・・・・・・・・・'>命と魂の全てを懸けて俺に復讐する</RUBY>気で\r\n//いる。\r\n\r\n   Que ㉓<I>propósito.</I>㉑ Ela não aceitará um não, não importa quem ou o que se oponha a ela.\r\n\r\n//　絶対に許されない。\r\n//　<RUBY text='・・・・・・・'>絶対に殺される</RUBY>。\r\n\r\n//　今、この瞬間にも。\r\n\r\n  Ela reivindicará minha vida. Talvez aqui mesmo, antes que eu dê meu próximo suspiro.\r\n\r\n  Meus joelhos tremem. Minhas entranhas se afrouxam. Nunca senti um medo como este.\r\n\r\n  Nunca senti medo㉗<I>de forma alguma.</I> Não de verdade. Não até este momento.\r\n\r\n  Não quero nada mais do que fugir. Gritar. Lançar-me aos pés dela e implorar.\r\n\r\n//　恐ろしい。\r\n//　<RUBY text='かつ'>嘗</RUBY>てこれほどの恐怖を味わった事はなかった。\r\n\r\n//　いや――きっとこれまでは恐怖など知らなかった。\r\n//　<RUBY text='・・・'>これが</RUBY>恐怖だったのだ。\r\n\r\n//　逃げ出したい。\r\n//　喚き立てたい。\r\n//　人の憐れみを乞える行為なら、どんなことでもした\r\n//くてたまらない。\r\n//　許してくれと泣き叫びたい。\r\n  Isso funcionaria?\r\n\r\n//　……許してくれるだろうか。\r\n//　恥も外聞も捨て、どんな真似でもして、弁明を言い\r\n//立て謝罪を繰り返し贖罪を約束すれば……もしかした\r\n//ら……\r\n  Se eu abandonar o orgulho, a honra e a dignidade, se eu implorar, chorar e soluçar ―<I>sinto muito ―</I><K>será que até ela se comoverá e perdoará?\r\n\r\n//　この<RUBY text='ひと'>女性</RUBY>とて……許すのでは……\r\n"
  },
  {
   "offset": 24650,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090750a00'>\r\n//「あ――貴方は……」\r\n\"A- Are you really...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090750a00'>\r\n//「あ――貴方は……」\r\n\"Vo- Você realmente...\"\r\n"
  },
  {
   "offset": 24800,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090760a03'>\r\n//「はい」\r\n\"Am I really...?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090760a03'>\r\n//「はい」\r\n\"Se eu realmente...?\"\r\n"
  },
  {
   "offset": 24936,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090770a00'>\r\n//「俺を……自分を――\r\n//　こ――こ、」\r\n\"Going to...<waitVoice=3000> to...<waitVoice=4750> k-<waitVoice=6100> k-\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090770a00'>\r\n//「俺を……自分を――\r\n//　こ――こ、」\r\n\"Vai...<waitVoice=3000> me...<waitVoice=4750> ma-<waitVoice=6100> ma-\"\r\n"
  },
  {
   "offset": 25162,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090780a04'>\r\n//「おや、どうされましたか湊斗さま？\r\n//　先ほどは平然と、なぜ自分を殺さなかった、\r\n//簡単に殺せた筈だ、などと仰られていました\r\n//のに」\r\n\"Come, sir. You're stammering. You had no trouble speaking of the matter when you questioned us before. What's changed?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090780a04'>\r\n//「おや、どうされましたか湊斗さま？\r\n//　先ほどは平然と、なぜ自分を殺さなかった、\r\n//簡単に殺せた筈だ、などと仰られていました\r\n//のに」\r\n\"Ora, senhor. Está gaguejando. Não teve dificuldade em falar do assunto quando nos interrogou antes. O que mudou?\"\r\n"
  },
  {
   "offset": 25575,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090790a04'>\r\n//「お声が震えておりますよ。\r\n//　……化けの皮でもはがれましたかな？」\r\n\"Could it be... that you were really a coward all along?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090790a04'>\r\n//「お声が震えておりますよ。\r\n//　……化けの皮でもはがれましたかな？」\r\n\"Seria possível... que o senhor sempre tenha sido um covarde?\"\r\n"
  },
  {
   "offset": 25830,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090800a00'>\r\n//「……く……」\r\n\"...Kuh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090800a00'>\r\n//「……く……」\r\n\"...Kuh...\"\r\n"
  },
  {
   "offset": 25960,
   "en": "\r\n//　侍従の露骨な挑発の言辞も、心身を縛る恐怖を跳ね\r\n//除ける役には立たなかった。\r\n//　返答もできず、ただ息を呑む。\r\n  Even the old woman's blatant taunting cannot spur me to break the chains binding my tongue. For a time, the only sound in the cell is my breath, heavy and fearful.\r\n\r\n//　震える舌をどうにか宥めて、俺は香奈枝嬢への言葉\r\n//を続けた。\r\n\r\n  But at last, I manage to speak the dreadful words.\r\n",
-  "pt": ""
+  "pt": "\r\n//　侍従の露骨な挑発の言辞も、心身を縛る恐怖を跳ね\r\n//除ける役には立たなかった。\r\n//　返答もできず、ただ息を呑む。\r\n  Mesmo o escárnio descarado da velha não consegue me incitar a romper as correntes que prendem minha língua. Por um momento, o único som na cela é minha respiração, pesada e temerosa.\r\n\r\n//　震える舌をどうにか宥めて、俺は香奈枝嬢への言葉\r\n//を続けた。\r\n\r\n  Mas, por fim, consigo pronunciar as terríveis palavras.\r\n"
  },
  {
   "offset": 26458,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090810a00'>\r\n//「こ――殺すのですか」\r\n\"Are you really going to... <I>kill</I>㉔me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090810a00'>\r\n//「こ――殺すのですか」\r\n\"A senhora vai mesmo... <I>matar</I>㉔ a mim?\"\r\n"
  },
  {
   "offset": 26635,
@@ -397,12 +397,12 @@
  {
   "offset": 26762,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090830a00'>\r\n//「貴方は……もうご存知だ。\r\n//　村正のこと――銀星号のこと……」\r\n\"You know about Muramasa... Ginseigo... the curse...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090840a00'>\r\n//「自分がどうして彼を殺したのか……」\r\n\"You know why I did it.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090850a00'>\r\n//「それら全てを理解して……\r\n//　それでも貴方は、自分を」\r\n\"Knowing all that, you still...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090860a00'>\r\n//「……自分を……」\r\n\"You still...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090830a00'>\r\n//「貴方は……もうご存知だ。\r\n//　村正のこと――銀星号のこと……」\r\n\"A senhora sabe sobre Muramasa... Ginseigo... a maldição...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090840a00'>\r\n//「自分がどうして彼を殺したのか……」\r\n\"Sabe por que eu fiz isso.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090850a00'>\r\n//「それら全てを理解して……\r\n//　それでも貴方は、自分を」\r\n\"Mesmo sabendo de tudo isso, a senhora ainda...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090860a00'>\r\n//「……自分を……」\r\n\"A senhora ainda...\"\r\n"
  },
  {
   "offset": 27510,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090870a03'>\r\n//「許しません。\r\n//　殺します」\r\n\"Yes. I still demand vengeance.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090870a03'>\r\n//「許しません。\r\n//　殺します」\r\n\"Sim. Ainda exijo vingança.\"\r\n"
  },
  {
   "offset": 27692,
@@ -412,7 +412,7 @@
  {
   "offset": 27810,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090890a00'>\r\n//「じ……自分が……\r\n//　泣いて慈悲を乞い……」\r\n\"If I... if I beg...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090900a00'>\r\n//「残りの命の全てを贖罪の為に費やすと誓い\r\n//……」\r\n\"If I throw myself at your feet and swear... to spend the rest of my life atoning...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090910a00'>\r\n//「貴方の足元に伏して願っても……」\r\n\"...Even then?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090890a00'>\r\n//「じ……自分が……\r\n//　泣いて慈悲を乞い……」\r\n\"Se eu... se eu implorar...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090900a00'>\r\n//「残りの命の全てを贖罪の為に費やすと誓い\r\n//……」\r\n\"Se eu me lançar aos seus pés e jurar... passar o resto da minha vida expiando...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090910a00'>\r\n//「貴方の足元に伏して願っても……」\r\n\"...Mesmo assim?\"\r\n"
  },
  {
   "offset": 28400,
@@ -422,22 +422,22 @@
  {
   "offset": 28533,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090930a04'>\r\n//「おやおや」\r\n\"My word, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0090930a04'>\r\n//「おやおや」\r\n\"Ora essa, senhor.\"\r\n"
  },
  {
   "offset": 28664,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090940a00'>\r\n//「……そ……それでも。\r\n//　それでも、貴方は」\r\n\"Even then, you'll...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090950a00'>\r\n//「貴方は」\r\n\"You'll―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090940a00'>\r\n//「……そ……それでも。\r\n//　それでも、貴方は」\r\n\"Mesmo assim, a senhora vai...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0090950a00'>\r\n//「貴方は」\r\n\"A senhora vai ―\"\r\n"
  },
  {
   "offset": 28967,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090960a03'>\r\n//「ええ。\r\n//　景明さま……」\r\n\"Yes, darling...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090960a03'>\r\n//「ええ。\r\n//　景明さま……」\r\n\"Sim, meu querido...\"\r\n"
  },
  {
   "offset": 29131,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090970a03'>\r\n//「決して許しません」\r\n\"Even then.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090970a03'>\r\n//「決して許しません」\r\n\"Mesmo assim.\"\r\n"
  },
  {
   "offset": 29280,
@@ -447,32 +447,32 @@
  {
   "offset": 29441,
   "en": "\r\n//　駄目だ。\r\n//　何をしても、無駄だ。\r\n  There is no escape from this avenger. No mercy to be found.\r\n\r\n//　許されない。\r\n//　殺される。\r\n\r\n//　湊斗景明は――――<RUBY text='さばか'>断罪さ</RUBY>れるのだ。\r\n  My crimes―<K>will be punished.\r\n",
-  "pt": ""
+  "pt": "\r\n//　駄目だ。\r\n//　何をしても、無駄だ。\r\n  Não há como escapar desta vingadora. Não há misericórdia a ser encontrada.\r\n\r\n//　許されない。\r\n//　殺される。\r\n\r\n//　湊斗景明は――――<RUBY text='さばか'>断罪さ</RUBY>れるのだ。\r\n  Meus crimes ―<K>serão punidos.\r\n"
  },
  {
   "offset": 29745,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090990a03'>\r\n//「……不本意でしょうね。\r\n//　けれど雄飛だって不本意な最期を受け入れ\r\n//たんですもの。景明さまも我慢してくださら\r\n//ないと」\r\n\"I know this must seem awfully unfair. But was it fair to Yuhi, what you did?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0090990a03'>\r\n//「……不本意でしょうね。\r\n//　けれど雄飛だって不本意な最期を受け入れ\r\n//たんですもの。景明さまも我慢してくださら\r\n//ないと」\r\n\"Sei que isso deve parecer terrivelmente injusto. Mas foi justo com Yuhi o que você fez?\"\r\n"
  },
  {
   "offset": 30110,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0091000a04'>\r\n//「当然でございますな」\r\n\"No indeed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0091000a04'>\r\n//「当然でございますな」\r\n\"Decerto que não.\"\r\n"
  },
  {
   "offset": 30253,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091010a03'>\r\n//「安心なさって。\r\n//　今すぐにとは申しません。銀星号の一件が\r\n//片付くまでは待って差し上げます。これまで\r\n//通り協力も致しましょう」\r\n\"You need not worry, though, that your responsibilities will go unfulfilled. I fully intend to see the Ginseigo threat ended, and for that, I still need your help.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091010a03'>\r\n//「安心なさって。\r\n//　今すぐにとは申しません。銀星号の一件が\r\n//片付くまでは待って差し上げます。これまで\r\n//通り協力も致しましょう」\r\n\"Não se preocupe, porém, que suas obrigações ficarão por cumprir. Tenho plena intenção de ver a ameaça do Ginseigo encerrada e, para isso, ainda preciso de sua ajuda.\"\r\n"
  },
  {
   "offset": 30716,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091020a03'>\r\n//「あれはわたくしとしても知らぬふりのでき\r\n//ない問題。\r\n//　解決するには景明さまのお力が要ります」\r\n\"We'll work together as before to bring that monster down.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091020a03'>\r\n//「あれはわたくしとしても知らぬふりのでき\r\n//ない問題。\r\n//　解決するには景明さまのお力が要ります」\r\n\"Trabalharemos juntos, como antes, para derrubar aquele monstro.\"\r\n"
  },
  {
   "offset": 31025,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091030a03'>\r\n//「ですから……<RUBY text='・・・・・・・'>それが済み次第</RUBY>。\r\n//　よろしくって？」\r\n\"But once it's over... Do we understand each other?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091030a03'>\r\n//「ですから……<RUBY text='・・・・・・・'>それが済み次第</RUBY>。\r\n//　よろしくって？」\r\n\"Mas, assim que isso terminar... Está combinado entre nós?\"\r\n"
  },
  {
   "offset": 31302,
@@ -482,7 +482,7 @@
  {
   "offset": 31426,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091050a03'>\r\n//「もちろん、抵抗せずに死ねなんて無慈悲な\r\n//ことは申しません。あの劒冑で戦われませ。\r\n//　遠慮は無用です。実は景明さまももう御覧\r\n//なのですけれど、わたくしも劒冑を――」\r\n\"Of course, I'm not completely without compassion. Feel free to resist with all the power you possess. As it so happens, I have a tsurugi of my own. You've already seen it in action, in fact, and―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091050a03'>\r\n//「もちろん、抵抗せずに死ねなんて無慈悲な\r\n//ことは申しません。あの劒冑で戦われませ。\r\n//　遠慮は無用です。実は景明さまももう御覧\r\n//なのですけれど、わたくしも劒冑を――」\r\n\"Naturalmente, não sou de todo desprovida de compaixão. Fique à vontade para resistir com todo o poder que possui. Acontece que eu também tenho um tsurugi. Aliás, você já o viu em ação, e ―\"\r\n"
  },
  {
   "offset": 31981,
@@ -497,22 +497,22 @@
  {
   "offset": 32262,
   "en": "\r\n//　両膝を床へ突く。\r\n//　白い手を押し戴く。\r\n  As my knees hit the floor, I take her hand and lift it to my lowered face. Tears dot her cold, white palm. I can no longer keep them contained. \r\n\r\n//　冷たく美しい掌に、俺の眼窩から零れた雫が載る。\r\n//　もう、涙を堪えることはできなかった。\r\n",
-  "pt": ""
+  "pt": "\r\n//　両膝を床へ突く。\r\n//　白い手を押し戴く。\r\n  Meus joelhos atingem o chão; tomo a mão dela e a ergo até meu rosto baixo. Lágrimas salpicam sua palma branca e fria. Já não consigo contê-las. \r\n\r\n//　冷たく美しい掌に、俺の眼窩から零れた雫が載る。\r\n//　もう、涙を堪えることはできなかった。\r\n"
  },
  {
   "offset": 32624,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091080a00'>\r\n//「……ありが……とう…………」\r\n\"Thank... you...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091080a00'>\r\n//「……ありが……とう…………」\r\n\"Obriga... do...\"\r\n"
  },
  {
   "offset": 32784,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091090a03'>\r\n//「…………え？」\r\n\"...What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0091090a03'>\r\n//「…………え？」\r\n\"...O quê?\"\r\n"
  },
  {
   "offset": 32925,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091100a00'>\r\n//「貴方の存在に感謝します。\r\n//　貴方が<RUBY text='・・・・・'>いてくれた</RUBY>ことに感謝します」\r\n\"Thank you. For being here. For being who you are.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091110a00'>\r\n//「感謝を……」\r\n\"Thank you...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091100a00'>\r\n//「貴方の存在に感謝します。\r\n//　貴方が<RUBY text='・・・・・'>いてくれた</RUBY>ことに感謝します」\r\n\"Obrigado. Por estar aqui. Por ser quem é.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091110a00'>\r\n//「感謝を……」\r\n\"Obrigado...\"\r\n"
  },
  {
   "offset": 33332,
@@ -522,12 +522,12 @@
  {
   "offset": 33456,
   "en": "\r\n//　復讐すると云う。\r\n//　新田雄飛の非業の死に懸けて、俺を殺すと云う。\r\n\r\n  In her voice, I have heard that every word is true. This woman will never forgive me. She will take my life for the wrong I have done.\r\n\r\n//　湊斗景明を決して許さず、\r\n//　殺してくれると云う。\r\n\r\n//　――――ああ。\r\n//\r\n//　完璧だ。\r\n\r\n//　完璧なる断罪者だ。\r\n\r\n  Ahh...\r\n\r\n  She's perfect. My executioner. My nemesis. She will give me the fate I deserve.\r\n\r\n  Nitta Yuhi will be avenged!\r\n\r\n//　湊斗景明の為の死だ。\r\n\r\n//　相応しい処刑だ。\r\n\r\n//　この人が俺を殺してくれる。\r\n//　――新田雄飛の無念を晴らす為に!!\r\n\r\n//　望み得る限り、最高至上の結末。\r\n//　それは突然に天から降ってきた。\r\n\r\n//　恵みのように。\r\n  I thought that justice would be denied, but here it is, like manna from heaven.\r\n\r\n//　この世に正義はあった。\r\n//　邪悪を許さぬ裁きは実在した。\r\n\r\n//　もう、これ以上……何も望むものはない。\r\n  And thus, all is right with the world. I can ask for nothing more.\r\n",
-  "pt": ""
+  "pt": "\r\n//　復讐すると云う。\r\n//　新田雄飛の非業の死に懸けて、俺を殺すと云う。\r\n\r\n  Na voz dela, ouvi que cada palavra é verdadeira. Esta mulher jamais me perdoará. Ela tirará minha vida pelo mal que fiz.\r\n\r\n//　湊斗景明を決して許さず、\r\n//　殺してくれると云う。\r\n\r\n//　――――ああ。\r\n//\r\n//　完璧だ。\r\n\r\n//　完璧なる断罪者だ。\r\n\r\n  Aaah...\r\n\r\n  Ela é perfeita. Minha carrasca. Minha nêmesis. Ela me dará o destino que mereço.\r\n\r\n  Nitta Yuhi será vingada!\r\n\r\n//　湊斗景明の為の死だ。\r\n\r\n//　相応しい処刑だ。\r\n\r\n//　この人が俺を殺してくれる。\r\n//　――新田雄飛の無念を晴らす為に!!\r\n\r\n//　望み得る限り、最高至上の結末。\r\n//　それは突然に天から降ってきた。\r\n\r\n//　恵みのように。\r\n  Pensei que a justiça me seria negada, mas aqui está ela, como o maná do céu.\r\n\r\n//　この世に正義はあった。\r\n//　邪悪を許さぬ裁きは実在した。\r\n\r\n//　もう、これ以上……何も望むものはない。\r\n  E assim, tudo está certo no mundo. Não posso pedir mais nada.\r\n"
  },
  {
   "offset": 34631,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091130a00'>\r\n//「大鳥香奈枝。\r\n//　貴方に全て捧げます」\r\n\"I am yours, Otori Kanae.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091140a00'>\r\n//「この湊斗景明の全てを差し出します」\r\n\"I swear myself to you, body and soul.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091150a00'>\r\n//「何もかも、貴方に従いましょう。\r\n//　生も死も、全て貴方の命ずるままに」\r\n\"My life and death are yours to command. I shall obey your will, and when the time is right―\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091160a00'>\r\n//「いつなりと――\r\n//　この首に、<RUBY text='さばき'>断罪</RUBY>の刃を」\r\n\"You shall sink your righteous blade into my heart!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091130a00'>\r\n//「大鳥香奈枝。\r\n//　貴方に全て捧げます」\r\n\"A você, Otori Kanae, entrego tudo o que sou.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091140a00'>\r\n//「この湊斗景明の全てを差し出します」\r\n\"Juro-me a você, de corpo e alma.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091150a00'>\r\n//「何もかも、貴方に従いましょう。\r\n//　生も死も、全て貴方の命ずるままに」\r\n\"Minha vida e minha morte estão às suas ordens. Obedecerei à sua vontade, e quando chegar o momento ―\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0091160a00'>\r\n//「いつなりと――\r\n//　この首に、<RUBY text='さばき'>断罪</RUBY>の刃を」\r\n\"Cravará sua lâmina de condenação em meu coração!\"\r\n"
  },
  {
   "offset": 35523,
@@ -537,7 +537,7 @@
  {
   "offset": 35698,
   "en": "\r\n//　憂うべき何も、今は無い。\r\n  The relief is overwhelming, a dark world filled suddenly with light.\r\n\r\n//A　責務を果たそう。銀星号を倒そう。\r\n//　そうして、村正の呪戒に縛られた俺が更にあと一人\r\n//誰かを殺そうとしても…………大丈夫。\r\n  I will do my duty, defeat Ginseigo, and when the curse demands an innocent life...\r\n\r\n//　その前に俺は殺される。\r\n\r\n//　――この美しい<RUBY text='ひと'>女性</RUBY>が俺を殺してくれる。\r\n  This woman, this vengeful goddess, will be there to end me.\r\n",
-  "pt": ""
+  "pt": "\r\n//　憂うべき何も、今は無い。\r\n  O alívio é esmagador, um mundo sombrio de repente invadido pela luz.\r\n\r\n//A　責務を果たそう。銀星号を倒そう。\r\n//　そうして、村正の呪戒に縛られた俺が更にあと一人\r\n//誰かを殺そうとしても…………大丈夫。\r\n  Cumprirei meu dever, derrotarei o Ginseigo e, quando a maldição exigir a vida de um inocente...\r\n\r\n//　その前に俺は殺される。\r\n\r\n//　――この美しい<RUBY text='ひと'>女性</RUBY>が俺を殺してくれる。\r\n  Esta mulher, esta deusa vingadora, estará lá para me dar fim.\r\n"
  },
  {
   "offset": 36299,
@@ -547,6 +547,6 @@
  {
   "offset": 36432,
   "en": "\r\n//　大鳥香奈枝にはわからなかった。\r\n\r\n//　錯乱して、喚き出すかもしれないとは思った。\r\n//　逆上して、襲ってくるかもしれないとは思った。\r\n  As the man weeps into her palm, Otori Kanae tries to understand.\r\n\r\n  Grief, rage, resignation. These reactions, and more, she expected.\r\n\r\n//　泣いて命乞いをするかもしれないとは思った。\r\n//　覚悟を決め、全て諦めて<RUBY text='うなだ'>項垂</RUBY>れるかもしれないとは\r\n//思った。\r\n\r\n//　しかし、<RUBY text='・・'>これ</RUBY>だけは考えなかった。\r\n//　\r\n//　――――感謝。\r\n\r\n//　わからない。\r\n\r\n//　大鳥香奈枝には、湊斗景明がわからなかった。\r\n  But not this. Not <I>gratitude.</I>\r\n\r\n  What is this, she asks herself.\r\n\r\n  What does this man㉒<I>want?</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　大鳥香奈枝にはわからなかった。\r\n\r\n//　錯乱して、喚き出すかもしれないとは思った。\r\n//　逆上して、襲ってくるかもしれないとは思った。\r\n  Enquanto o homem chora em sua palma, Otori Kanae tenta compreender.\r\n\r\n  Dor, fúria, resignação. Essas reações, e outras mais, ela esperava.\r\n\r\n//　泣いて命乞いをするかもしれないとは思った。\r\n//　覚悟を決め、全て諦めて<RUBY text='うなだ'>項垂</RUBY>れるかもしれないとは\r\n//思った。\r\n\r\n//　しかし、<RUBY text='・・'>これ</RUBY>だけは考えなかった。\r\n//　\r\n//　――――感謝。\r\n\r\n//　わからない。\r\n\r\n//　大鳥香奈枝には、湊斗景明がわからなかった。\r\n  Mas não isto. Não <I>gratidão.</I>\r\n\r\n  O que é isto, ela se pergunta.\r\n\r\n  O que este homem㉒<I>quer?</I>\r\n"
  }
 ]

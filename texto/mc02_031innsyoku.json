@@ -2,7 +2,7 @@
  {
   "offset": 221,
   "en": "\r\n//　テーブルを囲んで、椅子が幾つか並べられている。\r\n//　食堂か、談話室といった趣だが……\r\n\r\n//　そんな事より、部屋の隅の男に注意を向けねばなら\r\n//なかった。\r\n//　着崩した軍服は連盟軍のもの――<k>ここが敵地である\r\n//からにはいない筈のない存在、敵兵と遭遇したのだ！\r\n\r\n//　即座に身構え、敵意の具象化に備える。\r\n  I enter a room filled with tables and chairs. The mess hall, or perhaps a meeting room. The man in the corner immediately draws my attention. He's wearing a dressed-down GHQ uniform<br>―an enemy soldier, the one thing this ship has in spades. I ready myself for hostile action.\r\n",
-  "pt": ""
+  "pt": "\r\n//　テーブルを囲んで、椅子が幾つか並べられている。\r\n//　食堂か、談話室といった趣だが……\r\n\r\n//　そんな事より、部屋の隅の男に注意を向けねばなら\r\n//なかった。\r\n//　着崩した軍服は連盟軍のもの――<k>ここが敵地である\r\n//からにはいない筈のない存在、敵兵と遭遇したのだ！\r\n\r\n//　即座に身構え、敵意の具象化に備える。\r\n  Entro numa sala cheia de mesas e cadeiras. O refeitório, ou talvez uma sala de estar. O homem no canto logo me chama a atenção. Ele veste um uniforme da GHQ despojado ― um soldado inimigo, a única coisa que não falta neste navio. Preparo-me para uma ação hostil.\r\n"
  },
  {
   "offset": 960,
@@ -17,77 +17,77 @@
  {
   "offset": 1207,
   "en": "\r\n//　男は銃を抜きもしなければ、仲間を呼ぶ様子もない。\r\n//　そもそも、俺をまともに認識しているとも見えない。\r\n\r\n//　<RUBY text='ありてい'>有体</RUBY>に言えば、酔っ払っていた。\r\n  The man neither draws his pistol nor calls for help. If he knows that I'm here, he doesn't know that I'm a threat.\r\n\r\n  Clearly, he's quite drunk.\r\n",
-  "pt": ""
+  "pt": "\r\n//　男は銃を抜きもしなければ、仲間を呼ぶ様子もない。\r\n//　そもそも、俺をまともに認識しているとも見えない。\r\n\r\n//　<RUBY text='ありてい'>有体</RUBY>に言えば、酔っ払っていた。\r\n  O homem não saca a pistola nem chama por ajuda. Se sabe que estou aqui, não sabe que sou uma ameaça.\r\n\r\n  Claramente, está bem bêbado.\r\n"
  },
  {
   "offset": 1612,
   "en": "\r\n//◆ボイス「エクスキューズミー？」\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0030a00'>\r\n//「……失礼？」\r\n\"...Excuse me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆ボイス「エクスキューズミー？」\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0030a00'>\r\n//「……失礼？」\r\n\"...Com licença?\"\r\n"
  },
  {
   "offset": 1800,
   "en": "\r\n//　意を決して声を掛けてみても、酔漢の様相はまるで\r\n//変わらなかった。\r\n//　安酒の瓶を呷り、があがあと何事かを喚いている。\r\n\r\n//　早口の上に<RUBY text='ろれつ'>呂律</RUBY>が回っていないため、俺の英語能力\r\n//では半分も理解できない。\r\n//　罵詈雑言と、何かを持って来いという要求とが入り\r\n//乱れているようなのだが……？\r\n\r\n//　ひとまず、捨て置く以外にどうしようもなかった。\r\n//　何故キャノン中佐の極秘作戦にこんな人物が同行し\r\n//ているのか気には掛かったが、今は戦闘せずに済んだ\r\n//幸運のみを認めておくことにする。\r\n\r\n//　見渡すと、船首方向の壁に扉があった。\r\n//　そちらへ行くか、それとも通路へ戻るかだが。\r\n\r\n  My hesitant approach draws no coherent response. He takes a long drink from his bottle of cheap whiskey, then babbles in English at a speed too fast for my limited ability to decipher. \r\n\r\n  All I can make out are some curses... and a demand that I bring him something. What?\r\n\r\n  In any case, there's nothing I can do at the moment. It is curious that a man so impaired was allowed aboard for this secret mission, but for now, I'm just thankful there wasn't an altercation.\r\n\r\n  Looking around, I spot a door leading off toward the bow. The only other exit is the one I came through.\r\n",
-  "pt": ""
+  "pt": "\r\n//　意を決して声を掛けてみても、酔漢の様相はまるで\r\n//変わらなかった。\r\n//　安酒の瓶を呷り、があがあと何事かを喚いている。\r\n\r\n//　早口の上に<RUBY text='ろれつ'>呂律</RUBY>が回っていないため、俺の英語能力\r\n//では半分も理解できない。\r\n//　罵詈雑言と、何かを持って来いという要求とが入り\r\n//乱れているようなのだが……？\r\n\r\n//　ひとまず、捨て置く以外にどうしようもなかった。\r\n//　何故キャノン中佐の極秘作戦にこんな人物が同行し\r\n//ているのか気には掛かったが、今は戦闘せずに済んだ\r\n//幸運のみを認めておくことにする。\r\n\r\n//　見渡すと、船首方向の壁に扉があった。\r\n//　そちらへ行くか、それとも通路へ戻るかだが。\r\n\r\n  Minha aproximação hesitante não desperta resposta coerente. Ele dá um longo gole na garrafa de uísque barato e depois tagarela em inglês rápido demais para minha capacidade limitada de decifrar.\r\n\r\n  Só consigo distinguir alguns palavrões... e a exigência de que eu lhe traga alguma coisa. O quê?\r\n\r\n  De qualquer forma, não há nada que eu possa fazer no momento. É curioso que um homem tão incapacitado tenha sido autorizado a embarcar nesta missão secreta, mas por ora só me resta agradecer por não ter havido confronto.\r\n\r\n  Olhando ao redor, avisto uma porta que leva em direção à proa. A única outra saída é a que usei para entrar.\r\n"
  },
  {
   "offset": 3265,
   "en": "\r\n//　相変わらず、酔った男が騒いでいる。\r\n//　何か訴えているらしいが、俺には<RUBY text='ちんぷんかんぷん'>珍糞漢糞</RUBY>だ。\r\n  The drunkard is still here, hurling invective down his bottle.\r\n\r\n//　試しに何かを渡してみるか？\r\n  Should I give him something? \r\n",
-  "pt": ""
+  "pt": "\r\n//　相変わらず、酔った男が騒いでいる。\r\n//　何か訴えているらしいが、俺には<RUBY text='ちんぷんかんぷん'>珍糞漢糞</RUBY>だ。\r\n  O bêbado continua aqui, despejando impropérios entre um gole e outro.\r\n\r\n//　試しに何かを渡してみるか？\r\n  Deveria lhe dar alguma coisa?\r\n"
  },
  {
   "offset": 3595,
   "en": "\r\n//　相変わらず、酔った男が騒いでいる。\r\n//　何かを訴えているが、俺にはまるで意味が取れない。\r\n\r\n//　しかし――\r\n  The drunken man is still here, though as before, I am unable to make heads or tails of his caterwauling.\r\n\r\n  My companions, however...\r\n",
-  "pt": ""
+  "pt": "\r\n//　相変わらず、酔った男が騒いでいる。\r\n//　何かを訴えているが、俺にはまるで意味が取れない。\r\n\r\n//　しかし――\r\n  O bêbado ainda está aqui e, como antes, não consigo tirar sentido algum do seu berreiro.\r\n\r\n  Minhas companheiras, no entanto...\r\n"
  },
  {
   "offset": 3905,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0040a03'>\r\n//「……はあ」\r\n\"Oh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0040a03'>\r\n//「……はあ」\r\n\"Ah...\"\r\n"
  },
  {
   "offset": 4039,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0050a00'>\r\n//「大尉殿、彼は何を？」\r\n\"Captain?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0050a00'>\r\n//「大尉殿、彼は何を？」\r\n\"Capitã?\"\r\n"
  },
  {
   "offset": 4182,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0060a03'>\r\n//「それが。\r\n//　……この方は、飛行艦の本来の<RUBY text='キャプテン'>艦長</RUBY>なのだ\r\n//そうです」\r\n\"He says he's the ship's captain.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0060a03'>\r\n//「それが。\r\n//　……この方は、飛行艦の本来の<RUBY text='キャプテン'>艦長</RUBY>なのだ\r\n//そうです」\r\n\"Ele diz que é o capitão do navio.\"\r\n"
  },
  {
   "offset": 4459,
   "en": "\r\n//　艦長？\r\n//　そんな人物がどうして、かくも重要な作戦中に<RUBY text='ブリッジ'>艦橋</RUBY>\r\n//を離れてこんな場所で酔い潰れているのか……？\r\n  What? Then why isn't he on the bridge, instead of drinking himself into a stupor?\r\n",
-  "pt": ""
+  "pt": "\r\n//　艦長？\r\n//　そんな人物がどうして、かくも重要な作戦中に<RUBY text='ブリッジ'>艦橋</RUBY>\r\n//を離れてこんな場所で酔い潰れているのか……？\r\n  O quê? Então por que não está na ponte de comando, em vez de beber até perder os sentidos?\r\n"
  },
  {
   "offset": 4749,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0070a03'>\r\n//「キャノン中佐が作戦のために船だけを接収\r\n//しようとしたのに抵抗して、強引に乗艦した\r\n//ものの、結局作戦には加えてもらえず。\r\n//　仕方なく、ここで管を巻いているようです」\r\n\"It seems that the colonel has taken command of the ship. This gentleman asserted his right to remain on board, but they wouldn't let him participate in the operation. So now he's here, drowning his sorrows.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0070a03'>\r\n//「キャノン中佐が作戦のために船だけを接収\r\n//しようとしたのに抵抗して、強引に乗艦した\r\n//ものの、結局作戦には加えてもらえず。\r\n//　仕方なく、ここで管を巻いているようです」\r\n\"Parece que o coronel assumiu o comando do navio. Este cavalheiro insistiu em permanecer a bordo, mas não o deixaram participar da operação. Então agora ele está aqui, afogando as mágoas.\"\r\n"
  },
  {
   "offset": 5315,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0080a00'>\r\n//「……は。成程」\r\n\"...I see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0080a00'>\r\n//「……は。成程」\r\n\"...Entendo.\"\r\n"
  },
  {
   "offset": 5450,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0090a04'>\r\n//「キャノン中佐も酷な真似をなさる。\r\n//　飛行艦の艦長が船を愛すること、海の同業\r\n//者にも劣りますまいに」\r\n\"A terrible business. Airship captains love their commands no less than sailors love theirs.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0090a04'>\r\n//「キャノン中佐も酷な真似をなさる。\r\n//　飛行艦の艦長が船を愛すること、海の同業\r\n//者にも劣りますまいに」\r\n\"Que crueldade. Capitães de aeronaves amam seus comandos tanto quanto os marinheiros amam os deles.\"\r\n"
  },
  {
   "offset": 5795,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0100a03'>\r\n//「ほんとね」\r\n\"Yes, the colonel can be <br>cruel.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0100a03'>\r\n//「ほんとね」\r\n\"Sim, o coronel pode ser cruel.\"\r\n"
  },
  {
   "offset": 5958,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0110a00'>\r\n//「中佐にしてみれば、機密保持の為の当然の\r\n//措置なのでしょうが。\r\n//　しかし……すると彼が何やら要求している\r\n//のは」\r\n\"He must have decided it was necessary to maintain operational security. In any case, do we know what the captain wants?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0110a00'>\r\n//「中佐にしてみれば、機密保持の為の当然の\r\n//措置なのでしょうが。\r\n//　しかし……すると彼が何やら要求している\r\n//のは」\r\n\"Do ponto de vista dele, deve ter sido uma medida necessária para manter a segurança da operação. Mas... então, sabemos o que o capitão quer?\"\r\n"
  },
  {
   "offset": 6350,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0120a03'>\r\n//「お酒です。\r\n//　こんな水臭い<RUBY text='エール'>麦酒</RUBY>もどきで酔えるか、本土\r\n//の<RUBY text='ジン'>蒸留酒</RUBY>を持って来い……とのお言葉」\r\n\"A better class of drink. Gin, ideally―it reminds him of home―not 'this piss-water ale.'㉑\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0120a03'>\r\n//「お酒です。\r\n//　こんな水臭い<RUBY text='エール'>麦酒</RUBY>もどきで酔えるか、本土\r\n//の<RUBY text='ジン'>蒸留酒</RUBY>を持って来い……とのお言葉」\r\n\"Uma bebida de melhor qualidade. Gin, de preferência ― faz lembrar o lar dele ― e não 'esta cerveja aguada de mijo'.㉑\"\r\n"
  },
  {
   "offset": 6752,
@@ -97,27 +97,27 @@
  {
   "offset": 6872,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0140a04'>\r\n//「そう申されましてもねぇ」\r\n\"What are we supposed to do about it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0140a04'>\r\n//「そう申されましてもねぇ」\r\n\"E o que podemos fazer quanto a isso?\"\r\n"
  },
  {
   "offset": 7049,
   "en": "\r\n//　どうしようもない。\r\n//　こちらにそんな持ち合わせがある筈もなかった。\r\n  Nothing. While it is theoretically possible that this man has sufficient ill will toward the colonel to help us, he will not be much use in his present state. \r\n\r\n//　彼がキャノン中佐とこの作戦に不満を抱いているの\r\n//なら協力者に引き込む目もありそうなのだが……この\r\n//様子では無理だろう。\r\n//　香奈枝嬢が英語で話し掛けても、聞く様子がない。\r\n\r\n//　移動しよう。\r\n//　船首方向の扉を開けるか、右側の扉から廊下へ戻る\r\n//かだ。\r\n  We should move on. \r\n",
-  "pt": ""
+  "pt": "\r\n//　どうしようもない。\r\n//　こちらにそんな持ち合わせがある筈もなかった。\r\n  Nada. Embora seja teoricamente possível que este homem tenha rancor suficiente do coronel para nos ajudar, ele não será de muita utilidade no estado em que se encontra.\r\n\r\n//　彼がキャノン中佐とこの作戦に不満を抱いているの\r\n//なら協力者に引き込む目もありそうなのだが……この\r\n//様子では無理だろう。\r\n//　香奈枝嬢が英語で話し掛けても、聞く様子がない。\r\n\r\n//　移動しよう。\r\n//　船首方向の扉を開けるか、右側の扉から廊下へ戻る\r\n//かだ。\r\n  Deveríamos seguir em frente.\r\n"
  },
  {
   "offset": 7732,
   "en": "\r\n//　飛行艦の本来の艦長が、独り鯨飲しつつ騒ぎ立てて\r\n//いる。\r\n//　酒が欲しいようだが……。\r\n  The airship's captain is here, whining into a mug of ale. Supposedly, he wants gin.\r\n",
-  "pt": ""
+  "pt": "\r\n//　飛行艦の本来の艦長が、独り鯨飲しつつ騒ぎ立てて\r\n//いる。\r\n//　酒が欲しいようだが……。\r\n  O capitão da aeronave está aqui, lamentando-se sobre uma caneca de cerveja. Ao que parece, ele quer gin.\r\n"
  },
  {
   "offset": 7961,
   "en": "\r\n//　先刻、士官室で入手したジンがある。\r\n//　持っていても仕方ないので、俺は彼に渡してみた。\r\n  As it so happens, we have the bottle of gin from the officer's quarters. It does us no good, so I decide to give it to the captain.\r\n\r\n//　瓶を一目見て中身がわかったのだろう。彼は歓喜の\r\n//声を上げて飛びつくと、栓を抜いて一息に<RUBY text='あお'>呷</RUBY>った。\r\n//　……度数の高いアルコールが<RUBY text='たちま'>忽</RUBY>ち消えて無くなる。\r\n  I set the bottle in front of him. Upon spying the label, he bolts upright, looses a whoop of joy, then unscrews the cap and pours its contents down his throat. In seconds, the gin is gone.\r\n",
-  "pt": ""
+  "pt": "\r\n//　先刻、士官室で入手したジンがある。\r\n//　持っていても仕方ないので、俺は彼に渡してみた。\r\n  Por coincidência, temos a garrafa de gin dos aposentos dos oficiais. Ela não nos serve de nada, então decido dá-la ao capitão.\r\n\r\n//　瓶を一目見て中身がわかったのだろう。彼は歓喜の\r\n//声を上げて飛びつくと、栓を抜いて一息に<RUBY text='あお'>呷</RUBY>った。\r\n//　……度数の高いアルコールが<RUBY text='たちま'>忽</RUBY>ち消えて無くなる。\r\n  Coloco a garrafa diante dele. Ao ver o rótulo, ele se endireita de um salto, solta um grito de alegria, desrosqueia a tampa e despeja o conteúdo garganta abaixo. Em segundos, o gin desaparece.\r\n"
  },
  {
   "offset": 8716,
   "en": "\r\n//　酒が尽きると同時、彼は横転した。\r\n//　そのまま、いかにも心地良さそうな<RUBY text='いびき'>鼾</RUBY>を立て始める。\r\n  A㉗<I>thunk</I>㉗echoes through the room as the captain's head hits the table. Afterward, there is only the sound of snoring, as he sinks into blissful slumber. \r\n",
-  "pt": ""
+  "pt": "\r\n//　酒が尽きると同時、彼は横転した。\r\n//　そのまま、いかにも心地良さそうな<RUBY text='いびき'>鼾</RUBY>を立て始める。\r\n  Um ㉗<I>toc</I>㉗ ecoa pela sala quando a cabeça do capitão bate na mesa. Depois, só se ouve o ronco, enquanto ele mergulha num sono abençoado.\r\n"
  },
  {
   "offset": 9057,
@@ -127,82 +127,82 @@
  {
   "offset": 9183,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0160a03'>\r\n//「一日一善？」\r\n\"One good deed a day?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0160a03'>\r\n//「一日一善？」\r\n\"Uma boa ação por dia?\"\r\n"
  },
  {
   "offset": 9335,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0170a04'>\r\n//「そんなところでございましょうか。\r\n//　しかし我々、この状況でえらい余裕ですな」\r\n\"Very noble. And I suppose our present circumstances weren't quite severe enough to postpone it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0170a04'>\r\n//「そんなところでございましょうか。\r\n//　しかし我々、この状況でえらい余裕ですな」\r\n\"Muito nobre. E imagino que nossa situação atual não era grave o bastante para adiarmos isso.\"\r\n"
  },
  {
   "offset": 9650,
   "en": "\r\n//　本当に。\r\n//　\r\n//　……艦長は幸福な夢を手に入れたが、俺達の状況は\r\n//特に好転していないように思えた。\r\n  Apparently not. Either way, the captain has his drunken repose. We, on the other hand, have nothing. \r\n",
-  "pt": ""
+  "pt": "\r\n//　本当に。\r\n//　\r\n//　……艦長は幸福な夢を手に入れたが、俺達の状況は\r\n//特に好転していないように思えた。\r\n  Parece que não. De todo modo, o capitão tem seu repouso embriagado. Nós, por outro lado, não temos nada.\r\n"
  },
  {
   "offset": 9919,
   "en": "\r\n//　移動しよう。\r\n//　船首方向の扉を開けるか、右側の扉から廊下へ戻る\r\n//かだ。\r\n  We should move on.\r\n",
-  "pt": ""
+  "pt": "\r\n//　移動しよう。\r\n//　船首方向の扉を開けるか、右側の扉から廊下へ戻る\r\n//かだ。\r\n  Deveríamos seguir em frente.\r\n"
  },
  {
   "offset": 10065,
   "en": "\r\n//　完全に泥酔した艦長が気持ち良く眠っている。\r\n//　……彼は俺達に感謝しているかもしれないが、その\r\n//感謝を形にできる状態ではなかった。\r\n  The airship's captain is here, deep in peaceful slumber. I suppose he might be grateful to us for helping him there, but he is currently in no state to show it. \r\n",
-  "pt": ""
+  "pt": "\r\n//　完全に泥酔した艦長が気持ち良く眠っている。\r\n//　……彼は俺達に感謝しているかもしれないが、その\r\n//感謝を形にできる状態ではなかった。\r\n  O capitão da aeronave está aqui, mergulhado num sono tranquilo. Talvez ele nos seja grato por tê-lo ajudado, mas no momento não está em condições de demonstrá-lo.\r\n"
  },
  {
   "offset": 10441,
   "en": "\r\n//　――いや。待て。\r\n//　そう決め込むのは早計だ。\r\n  ...Or is he?\r\n\r\n//　彼はこの船の艦長。\r\n//　ならば、もしかすると……\r\n  This is his ship. And that means...\r\n",
-  "pt": ""
+  "pt": "\r\n//　――いや。待て。\r\n//　そう決め込むのは早計だ。\r\n  ...Ou será que não?\r\n\r\n//　彼はこの船の艦長。\r\n//　ならば、もしかすると……\r\n  Este é o navio dele. E isso significa...\r\n"
  },
  {
   "offset": 10659,
   "en": "\r\n//　俺は彼の衣服を探ってみた。\r\n  Gently, I search his pockets.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺は彼の衣服を探ってみた。\r\n  Com delicadeza, revisto os bolsos dele.\r\n"
  },
  {
   "offset": 10748,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0180a03'>\r\n//「……景明さま。\r\n//　もしかしてと思ってはいましたけれど……\r\n//本当にそっち系のご趣味でしたの？」\r\n\"Darling? I suspected this might be the case... but are you truly so inclined?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0180a03'>\r\n//「……景明さま。\r\n//　もしかしてと思ってはいましたけれど……\r\n//本当にそっち系のご趣味でしたの？」\r\n\"Querido? Eu suspeitava que fosse o caso... mas o senhor realmente tem esse tipo de inclinação?\"\r\n"
  },
  {
   "offset": 11079,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0190a04'>\r\n//「ハードコアでございますな。\r\n//　しかしお嬢さま、どうやらそれはついでの\r\n//事で、主の目的は別にお有りのようですよ」\r\n\"He is behaving rather 'hardcore,' Mistress. Though I believe he has a secondary objective as well.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0190a04'>\r\n//「ハードコアでございますな。\r\n//　しかしお嬢さま、どうやらそれはついでの\r\n//事で、主の目的は別にお有りのようですよ」\r\n\"Ele está sendo bem 'hardcore', senhorita. Mas acredito que ele tenha também um objetivo secundário.\"\r\n"
  },
  {
   "offset": 11449,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0200a03'>\r\n//「……あっ。なるほど」\r\n\"...Ahh.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0200a03'>\r\n//「……あっ。なるほど」\r\n\"...Ah.\"\r\n"
  },
  {
   "offset": 11600,
   "en": "\r\n//　傍らの二人も理解したらしい。\r\n//　……いや、まだ微妙に危険な誤解を維持している気\r\n//もするが。それは考えないことにする。\r\n  Finally, they seem to understand. Or do they? I feel like there might still be an egregious misjudgment of character in progress.\r\n\r\n//　そうして、程なく。\r\n  Best not to think about it. After a moment―\r\n",
-  "pt": ""
+  "pt": "\r\n//　傍らの二人も理解したらしい。\r\n//　……いや、まだ微妙に危険な誤解を維持している気\r\n//もするが。それは考えないことにする。\r\n  Enfim, parece que entenderam. Ou será que não? Tenho a impressão de que ainda há um erro grotesco de julgamento em andamento.\r\n\r\n//　そうして、程なく。\r\n  Melhor não pensar nisso. Pouco depois ―\r\n"
  },
  {
   "offset": 12011,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0210a00'>\r\n//「……有りました」\r\n\"...He has it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0210a00'>\r\n//「……有りました」\r\n\"...Ele a tem.\"\r\n"
  },
  {
   "offset": 12153,
   "en": "\r\n//　見つけ出したものを掲げる。\r\n//　\r\n//　――――小さな鍵。\r\n  I hold up a tiny key, just the right size to open the door on the observation deck.\r\n\r\n  We can't be sure it's the right key, but it's certainly worth a try.\r\n\r\n//　大きさは、展望室で大鳥大尉が見つけた扉の鍵穴に\r\n//丁度合う。\r\n//　本当にこの鍵で正しいのかは試してみるまでわから\r\n//ないが……見込みは有りそうだ。\r\n",
-  "pt": ""
+  "pt": "\r\n//　見つけ出したものを掲げる。\r\n//　\r\n//　――――小さな鍵。\r\n  Ergo uma pequena chave, do tamanho exato para abrir a porta do mirante.\r\n\r\n  Não podemos ter certeza de que é a chave certa, mas com certeza vale a pena tentar.\r\n\r\n//　大きさは、展望室で大鳥大尉が見つけた扉の鍵穴に\r\n//丁度合う。\r\n//　本当にこの鍵で正しいのかは試してみるまでわから\r\n//ないが……見込みは有りそうだ。\r\n"
  },
  {
   "offset": 12633,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0220a03'>\r\n//「<RUBY text='グッジョブ'>良いお仕事</RUBY>♪」\r\n\"Good job, darling.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031in0220a03'>\r\n//「<RUBY text='グッジョブ'>良いお仕事</RUBY>♪」\r\n\"Bom trabalho, querido.\"\r\n"
  },
  {
   "offset": 12822,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0230a04'>\r\n//「お手柄でございますな湊斗さま。\r\n//　ご褒美に、そのまま続けてどうぞ」\r\n\"Indeed, sir. Do feel free to continue.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031in0230a04'>\r\n//「お手柄でございますな湊斗さま。\r\n//　ご褒美に、そのまま続けてどうぞ」\r\n\"Bem observado, senhor. Sinta-se à vontade para continuar.\"\r\n"
  },
  {
   "offset": 13065,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0240a00'>\r\n//「何をですか」\r\n\"Continue what?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031in0240a00'>\r\n//「何をですか」\r\n\"Continuar o quê?\"\r\n"
  },
  {
   "offset": 13202,
@@ -212,7 +212,7 @@
  {
   "offset": 13214,
   "en": "Head toward the bow",
-  "pt": ""
+  "pt": "Ir em direção à proa"
  },
  {
   "offset": 13241,
@@ -222,7 +222,7 @@
  {
   "offset": 13253,
   "en": "Return to the corridor",
-  "pt": ""
+  "pt": "Voltar ao corredor"
  },
  {
   "offset": 13283,

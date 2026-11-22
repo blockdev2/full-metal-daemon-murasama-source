@@ -2,7 +2,7 @@
  {
   "offset": 215,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ａ】\r\n<voice name='ｅｔｃ／大鳥兵士Ａ' class='その他男声' src='voice/mc04/007vs0010e171'>\r\n//「あひぃぃぃぃぃぃぃっ!!\r\n//　香奈枝様ッ、お許しをぉぉぉぉぉ!!」\r\n\"NO! MERCY, MY LADY!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ａ】\r\n<voice name='ｅｔｃ／大鳥兵士Ａ' class='その他男声' src='voice/mc04/007vs0010e171'>\r\n//「あひぃぃぃぃぃぃぃっ!!\r\n//　香奈枝様ッ、お許しをぉぉぉぉぉ!!」\r\n\"NÃO! PIEDADE, MINHA SENHORA!\"\r\n"
  },
  {
   "offset": 480,
@@ -12,7 +12,7 @@
  {
   "offset": 609,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｂ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｂ' class='その他男声' src='voice/mc04/007vs0030e172'>\r\n//「ちがっ、違うんです違います香奈枝様！\r\n//　我々は獅子吼様の御命令に従っただけで、\r\n//お父様に対する叛意など微塵もっ」\r\n\"P- Please, my lady! It was the general! We didn't want to betray your father! We were only following―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｂ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｂ' class='その他男声' src='voice/mc04/007vs0030e172'>\r\n//「ちがっ、違うんです違います香奈枝様！\r\n//　我々は獅子吼様の御命令に従っただけで、\r\n//お父様に対する叛意など微塵もっ」\r\n\"P- Por favor, minha senhora! Foi o general! Nós não queríamos trair seu pai! Só estávamos seguindo―\"\r\n"
  },
  {
   "offset": 1039,
@@ -22,22 +22,22 @@
  {
   "offset": 1168,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/007vs0050a03'>\r\n//「くフ」\r\n\"Hehe...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/007vs0050a03'>\r\n//「くフ」\r\n\"Hehe...\"\r\n"
  },
  {
   "offset": 1298,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0060e173'>\r\n//「なッ」\r\n\"Wha―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0060e173'>\r\n//「なッ」\r\n\"Quê―\"\r\n"
  },
  {
   "offset": 1470,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｆ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｆ' class='その他男声' src='voice/mc04/007vs0070e176'>\r\n//「う――」\r\n\"Guh―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｆ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｆ' class='その他男声' src='voice/mc04/007vs0070e176'>\r\n//「う――」\r\n\"Guh―\"\r\n"
  },
  {
   "offset": 1645,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/007vs0080b18'>\r\n//「…………あ……」\r\n\"...Hi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/007vs0080b18'>\r\n//「…………あ……」\r\n\"...Oi.\"\r\n"
  },
  {
   "offset": 1780,
@@ -47,7 +47,7 @@
  {
   "offset": 1927,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0100e173'>\r\n//「――まっ、待った！\r\n//　香奈枝様、そこまで！」\r\n\"My lady, stop!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0100e173'>\r\n//「――まっ、待った！\r\n//　香奈枝様、そこまで！」\r\n\"Minha senhora, pare!\"\r\n"
  },
  {
   "offset": 2165,
@@ -57,7 +57,7 @@
  {
   "offset": 2294,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0120e173'>\r\n//「お見忘れではございますまい！　こちらに\r\n//おわすは御妹君、花枝様であらせられます！\r\n//　……巻き添えにしても良いとお思いか!?」\r\n\"Surely you don't want to endanger your own sister!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0120e173'>\r\n//「お見忘れではございますまい！　こちらに\r\n//おわすは御妹君、花枝様であらせられます！\r\n//　……巻き添えにしても良いとお思いか!?」\r\n\"Certamente a senhora não quer pôr em risco a própria irmã!\"\r\n"
  },
  {
   "offset": 2685,
@@ -67,27 +67,27 @@
  {
   "offset": 2814,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0140e173'>\r\n//「銃をっ――銃を下ろされませ！」\r\n\"P- Please, lower your weapon!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0140e173'>\r\n//「銃をっ――銃を下ろされませ！」\r\n\"P- Por favor, abaixe sua arma!\"\r\n"
  },
  {
   "offset": 3045,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/007vs0150a03'>\r\n//「なぜ？」\r\n\"Why?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/007vs0150a03'>\r\n//「なぜ？」\r\n\"Por quê?\"\r\n"
  },
  {
   "offset": 3175,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0160e173'>\r\n//「……はっ？」\r\n\"...Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0160e173'>\r\n//「……はっ？」\r\n\"...Hã?\"\r\n"
  },
  {
   "offset": 3357,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/007vs0170a03'>\r\n//「なぜ、銃を下ろす必要がある？」\r\n\"Why should I lower my weapon?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/007vs0170a03'>\r\n//「なぜ、銃を下ろす必要がある？」\r\n\"Por que eu deveria abaixar minha arma?\"\r\n"
  },
  {
   "offset": 3545,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0180e173'>\r\n//「な、なぜって……\r\n//　…………当たっちゃうよ？」\r\n\"Uh... 'cause you'll hit her?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0180e173'>\r\n//「な、なぜって……\r\n//　…………当たっちゃうよ？」\r\n\"Ãh... porque vai acertar ela?\"\r\n"
  },
  {
   "offset": 3800,
@@ -97,12 +97,12 @@
  {
   "offset": 3929,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/007vs0200b18'>\r\n//「ばか」\r\n\"Idiot.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/007vs0200b18'>\r\n//「ばか」\r\n\"Idiota.\"\r\n"
  },
  {
   "offset": 4049,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0210e173'>\r\n//「え？」\r\n\"Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0210e173'>\r\n//「え？」\r\n\"Hã?\"\r\n"
  },
  {
   "offset": 4219,
@@ -112,6 +112,6 @@
  {
   "offset": 4391,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0230e173'>\r\n//「そ、そんな……」\r\n\"B- But...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｃ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｃ' class='その他男声' src='voice/mc04/007vs0230e173'>\r\n//「そ、そんな……」\r\n\"M- Mas...\"\r\n"
  }
 ]

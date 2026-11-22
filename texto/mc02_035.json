@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/0350010e142'>\r\n//「うおっ……！」\r\n\"Agh...!\"\r\n\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/0350020e142'>\r\n//「くそ、こんな辺りにまで爆風が来るのか！\r\n//　技術者どもめ、いい加減な仕事しやがって\r\n//……!!」\r\n\"Damn! They said we'd be safe here!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/0350010e142'>\r\n//「うおっ……！」\r\n\"Droga...!\"\r\n\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/0350020e142'>\r\n//「くそ、こんな辺りにまで爆風が来るのか！\r\n//　技術者どもめ、いい加減な仕事しやがって\r\n//……!!」\r\n\"Maldição! Disseram que estaríamos a salvo aqui!\"\r\n"
  },
  {
   "offset": 689,
@@ -12,16 +12,16 @@
  {
   "offset": 831,
   "en": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/0350040e142'>\r\n//「ウォルフ教授！　危険です！\r\n//　何かにつかまってください!!」\r\n\"Professor! Grab hold of something!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船副官】\r\n<voice name='ｅｔｃ／船副官' class='その他男声' src='voice/mc02/0350040e142'>\r\n//「ウォルフ教授！　危険です！\r\n//　何かにつかまってください!!」\r\n\"Professor! Segure-se em algo!\"\r\n"
  },
  {
   "offset": 1095,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350050a13'>\r\n//「……そんな……」\r\n\"...No...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350060a13'>\r\n//「爆発……<?>\r\n//{Wait(1000);}\r\n//してしまった……」\r\n\"The bomb... <WaitVoice=1600>exploded...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350050a13'>\r\n//「……そんな……」\r\n\"...Não...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350060a13'>\r\n//「爆発……<?>\r\n//{Wait(1000);}\r\n//してしまった……」\r\n\"A bomba... <WaitVoice=1600>explodiu...\"\r\n"
  },
  {
   "offset": 1463,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350070a13'>\r\n//「…………ああ…………」\r\n\"...ahh...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350080a13'>\r\n//「神よ……\r\n//　神よ…………」\r\n\"My lord... My lord, why?\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350090a13'>\r\n//「あなたは……遠い…………」\r\n\"Why do you forsake me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350070a13'>\r\n//「…………ああ…………」\r\n\"...ahh...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350080a13'>\r\n//「神よ……\r\n//　神よ…………」\r\n\"Meu Senhor... Meu Senhor, por quê?\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/mc02/0350090a13'>\r\n//「あなたは……遠い…………」\r\n\"Por que me abandonas?\"\r\n"
  }
 ]

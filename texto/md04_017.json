@@ -2,37 +2,37 @@
  {
   "offset": 213,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170010a10'>\r\n//「……進駐軍が、古河を奪った？」\r\n\"...They took Koga?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170010a10'>\r\n//「……進駐軍が、古河を奪った？」\r\n\"...Eles tomaram Koga?\"\r\n"
  },
  {
   "offset": 388,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170020a11'>\r\n//「は」\r\n\"Yes, Your Highness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170020a11'>\r\n//「は」\r\n\"Sim, Vossa Alteza.\"\r\n"
  },
  {
   "offset": 516,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170030a10'>\r\n//「確かなん？」\r\n\"Are we sure?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170030a10'>\r\n//「確かなん？」\r\n\"Temos certeza?\"\r\n"
  },
  {
   "offset": 658,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170040a11'>\r\n//「こちらに入っているのは噂だけです。\r\n//　確実な裏付けはありません」\r\n\"We haven't yet been able to confirm the reports.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170040a11'>\r\n//「こちらに入っているのは噂だけです。\r\n//　確実な裏付けはありません」\r\n\"Ainda não conseguimos confirmar os relatos.\"\r\n"
  },
  {
   "offset": 906,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170050a11'>\r\n//「ただ、状況証拠と呼べるものなら」\r\n\"But there is reason to believe that it's true.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170050a11'>\r\n//「ただ、状況証拠と呼べるものなら」\r\n\"Mas há motivos para acreditar que seja verdade.\"\r\n"
  },
  {
   "offset": 1103,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170060a10'>\r\n//「それはどんな？」\r\n\"What's that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170060a10'>\r\n//「それはどんな？」\r\n\"Que tipo de motivo?\"\r\n"
  },
  {
   "offset": 1251,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170070a11'>\r\n//「朝方は篭城側の優勢だったのが、逆転して\r\n//います」\r\n\"This morning, Rokuhara had the advantage at Fudaraku. But not anymore.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170070a11'>\r\n//「朝方は篭城側の優勢だったのが、逆転して\r\n//います」\r\n\"Esta manhã, Rokuhara tinha a vantagem em Fudaraku. Mas não mais.\"\r\n"
  },
  {
   "offset": 1497,
@@ -42,32 +42,32 @@
  {
   "offset": 1624,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170090a11'>\r\n//「進駐軍は意気軒昂。\r\n//　対して幕府軍は消沈しているようです」\r\n\"GHQ has regained their momentum, while the besieged forces seem disheartened.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170090a11'>\r\n//「進駐軍は意気軒昂。\r\n//　対して幕府軍は消沈しているようです」\r\n\"A GHQ recuperou o ímpeto, enquanto as forças sitiadas parecem desanimadas.\"\r\n"
  },
  {
   "offset": 1892,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170100a10'>\r\n//「そうか……」\r\n\"Damn...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170100a10'>\r\n//「そうか……」\r\n\"Droga...\"\r\n"
  },
  {
   "offset": 2029,
   "en": "\r\n//嶋：修正（間違いの）【090930】\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170110a11'>\r\n//「何らかの大きな変化があったのは間違い\r\n//ないところかと」\r\n\"Clearly, something has changed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//嶋：修正（間違いの）【090930】\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170110a11'>\r\n//「何らかの大きな変化があったのは間違い\r\n//ないところかと」\r\n\"Claramente, algo mudou.\"\r\n"
  },
  {
   "offset": 2291,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170120a10'>\r\n//「……菊池ぃ」\r\n\"Kikuchi...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170120a10'>\r\n//「……菊池ぃ」\r\n\"...Kikuchi.\"\r\n"
  },
  {
   "offset": 2431,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170130a11'>\r\n//「はい」\r\n\"Your Highness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170130a11'>\r\n//「はい」\r\n\"Vossa Alteza.\"\r\n"
  },
  {
   "offset": 2557,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170140a10'>\r\n//「決着……ついてもうたかな？」\r\n\"Is it over?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170140a10'>\r\n//「決着……ついてもうたかな？」\r\n\"Já está decidido...?\"\r\n"
  },
  {
   "offset": 2722,
@@ -77,11 +77,11 @@
  {
   "offset": 2840,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170160a11'>\r\n//「宮殿下におかれては、進駐軍との交渉方法\r\n//を考えられたが宜しいかと存じます」\r\n\"At this time, Your Highness, I recommend we prepare to negotiate with㉗<I>Her Majesty's</I> representatives.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md04/0170160a11'>\r\n//「宮殿下におかれては、進駐軍との交渉方法\r\n//を考えられたが宜しいかと存じます」\r\n\"Neste momento, Vossa Alteza, recomendo que nos preparemos para negociar com㉗ os representantes de <I>Sua Majestade</I>.\"\r\n"
  },
  {
   "offset": 3164,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170170a10'>\r\n//「……うん……」\r\n\"Well... I guess that's that...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md04/0170170a10'>\r\n//「……うん……」\r\n\"Bem... então é isso...\"\r\n"
  }
 ]

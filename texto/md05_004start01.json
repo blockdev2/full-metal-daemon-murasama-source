@@ -7,7 +7,7 @@
  {
   "offset": 346,
   "en": "\r\n//　<RUBY text='・・・・'>あなたは</RUBY>立ち尽くしている。\r\n\r\n//　周囲に広がるのは、見覚えのある風景……\r\n//　しかし、ここは何処だったろう？\r\n  You are standing on the main street of a town. The scenery is familiar, but you cannot put a name to it.\r\n\r\n  Where are you?\r\n",
-  "pt": ""
+  "pt": "\r\n//　<RUBY text='・・・・'>あなたは</RUBY>立ち尽くしている。\r\n\r\n//　周囲に広がるのは、見覚えのある風景……\r\n//　しかし、ここは何処だったろう？\r\n  Você está parado na rua principal de uma cidade. A paisagem é familiar, mas você não consegue se lembrar do nome.\r\n\r\n  Onde você está?\r\n"
  },
  {
   "offset": 681,
@@ -17,7 +17,7 @@
  {
   "offset": 807,
   "en": "\r\n//　そういえば、何かを探していた気がする。\r\n\r\n//　何かを……\r\n//　何を？\r\n  You recall that you were searching for something. But searching for what?\r\n",
-  "pt": ""
+  "pt": "\r\n//　そういえば、何かを探していた気がする。\r\n\r\n//　何かを……\r\n//　何を？\r\n  Você se lembra de que estava procurando por algo. Mas procurando o quê?\r\n"
  },
  {
   "offset": 998,
@@ -27,7 +27,7 @@
  {
   "offset": 1124,
   "en": "\r\n//　そもそも、<RUBY text='・・・'>あなた</RUBY>は何だ？\r\n//　辺りの景色に覚えがあると思い、何かを探している\r\n//と思う、この人格は何者だろう？\r\n  And for that matter, who are you? You know this place. You have business here. But to whom do these memories belong?\r\n",
-  "pt": ""
+  "pt": "\r\n//　そもそも、<RUBY text='・・・'>あなた</RUBY>は何だ？\r\n//　辺りの景色に覚えがあると思い、何かを探している\r\n//と思う、この人格は何者だろう？\r\n  E, aliás, quem é você? Você conhece este lugar. Tem assuntos aqui. Mas a quem pertencem estas memórias?\r\n"
  },
  {
   "offset": 1452,
@@ -37,7 +37,7 @@
  {
   "offset": 1578,
   "en": "\r\n//　とにかく歩こう。\r\n//　何処に何があるのか、あなたは何となく、わかって\r\n//いる。\r\n\r\n//　それに……時間を潰していてはいけないのだ。\r\n//　あなたは根拠もなく信じている。急がなければなら\r\n//ない――急いで何かを見つけ出さなくてはならない、\r\n//と。\r\n\r\n//　そうしなくては<RUBY text='・・・'>負ける</RUBY>。\r\n\r\n//　……急ごう。\r\n//　何かわからぬ目的を至急、遂げよう。\r\n\r\n//　何処へ行く？\r\n\r\n  One more thing you know. There isn't a moment to waste. Every second your mission goes unfulfilled brings you closer to... you don't know what. But you know that it's unacceptable.\r\n\r\n  You must find the answers to your questions with all haste. Fortunately, you have a sense of where they might be found.\r\n\r\n  Time to get moving.\r\n  Choose a destination.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　とにかく歩こう。\r\n//　何処に何があるのか、あなたは何となく、わかって\r\n//いる。\r\n\r\n//　それに……時間を潰していてはいけないのだ。\r\n//　あなたは根拠もなく信じている。急がなければなら\r\n//ない――急いで何かを見つけ出さなくてはならない、\r\n//と。\r\n\r\n//　そうしなくては<RUBY text='・・・'>負ける</RUBY>。\r\n\r\n//　……急ごう。\r\n//　何かわからぬ目的を至急、遂げよう。\r\n\r\n//　何処へ行く？\r\n\r\n  Mais uma coisa que você sabe. Não há um momento a perder. Cada segundo em que sua missão fica por cumprir o aproxima de... algo que você não sabe o que é. Mas sabe que é inaceitável.\r\n\r\n  Você precisa encontrar as respostas para suas perguntas o mais rápido possível. Felizmente, você tem a sensação de onde elas podem estar.\r\n\r\n  Hora de pôr-se em movimento.\r\n  Escolha um destino.\r\n\r\n"
  },
  {
   "offset": 2489,
@@ -47,7 +47,7 @@
  {
   "offset": 2501,
   "en": "The Grand Manor",
-  "pt": ""
+  "pt": "A Grande Mansão"
  },
  {
   "offset": 2524,
@@ -57,7 +57,7 @@
  {
   "offset": 2536,
   "en": "The Isolated Home",
-  "pt": ""
+  "pt": "A Casa Isolada"
  },
  {
   "offset": 2561,
@@ -67,6 +67,6 @@
  {
   "offset": 2573,
   "en": "The Hilltop",
-  "pt": ""
+  "pt": "O Topo da Colina"
  }
 ]

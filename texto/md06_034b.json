@@ -2,12 +2,12 @@
  {
   "offset": 214,
   "en": "\r\n//　体はどこまでも重い。\r\n//　手足には鉛が詰まり、頭上には石があるかのようだ。\r\n  My body is the heaviest it has ever been. My arms and legs feel leaden and dull. My head is a block of stone.\r\n\r\n//　だが今、<RUBY text='つ'>衝</RUBY>き動かす力はその重さに勝る。\r\n  And yet, there is a force inside that moves me even so.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　体はどこまでも重い。\r\n//　手足には鉛が詰まり、頭上には石があるかのようだ。\r\n  Meu corpo está mais pesado do que jamais esteve. Meus braços e pernas parecem chumbo, entorpecidos. Minha cabeça é um bloco de pedra.\r\n\r\n//　だが今、<RUBY text='つ'>衝</RUBY>き動かす力はその重さに勝る。\r\n  E ainda assim, há uma força dentro de mim que me move mesmo assim.\r\n\r\n"
  },
  {
   "offset": 604,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0010a00'>\r\n//「思い出した事がある」\r\n\"I've remembered something.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0010a00'>\r\n//「思い出した事がある」\r\n\"Lembrei-me de uma coisa.\"\r\n"
  },
  {
   "offset": 764,
@@ -17,17 +17,17 @@
  {
   "offset": 892,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0030a00'>\r\n//「お前は言ったな。\r\n//　<RUBY text='むらまさ'>妖甲</RUBY>を抱えて引っ込んでいれば良かったと」\r\n\"You asked why I didn't go hide in a cave when this all began.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0030a00'>\r\n//「お前は言ったな。\r\n//　<RUBY text='むらまさ'>妖甲</RUBY>を抱えて引っ込んでいれば良かったと」\r\n\"Você perguntou por que eu não fui me esconder numa caverna quando tudo isso começou.\"\r\n"
  },
  {
   "offset": 1181,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0040a00'>\r\n//「そうだ。俺はそうしようと思えばできた。\r\n//　だがしなかった」\r\n\"You're right. I could have done just that. But I didn't.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0040a00'>\r\n//「そうだ。俺はそうしようと思えばできた。\r\n//　だがしなかった」\r\n\"É verdade. Eu poderia ter feito exatamente isso. Mas não fiz.\"\r\n"
  },
  {
   "offset": 1429,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0050a00'>\r\n//「人を殺してでも人を救いたかったからだ」\r\n\"I wanted to save lives, even if that also meant taking them.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0050a00'>\r\n//「人を殺してでも人を救いたかったからだ」\r\n\"Eu queria salvar vidas, mesmo que isso também significasse tirá-las.\"\r\n"
  },
  {
   "offset": 1650,
@@ -37,62 +37,62 @@
  {
   "offset": 1784,
   "en": "\r\n//　人を殺し、その骸の上に平和を築く。\r\n//　それが俺の選び取った道。\r\n  And by that choice, my path was set. I would build a peaceful world atop the bodies of the dead.\r\n\r\n//　俺はその道の、まだ半ばにいる。\r\n  I have not yet accomplished that goal. Every second, across the globe, people are fighting and dying. The world is still paying the price for my mistakes two years ago.\r\n\r\n\r\n//　二年前の事件に起因する災いは今なお世界に残り。\r\n//　無数の対立、無数の争乱の中、無数の人々が死んで\r\n//いる。\r\n\r\n//　<RUBY text='・・'>まだ</RUBY>、<RUBY text='・・・・・・・'>終わっていない</RUBY>。\r\n\r\n//　俺の使命――<k>違う。<k>\r\n//　俺の<RUBY text='・・'>目的</RUBY>はまだ、果たされていない\r\n  It's not over. My duty―<K>\r\n  No.\r\n\r\n  My㉗<I>dream</I>㉓is unfulfilled.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　人を殺し、その骸の上に平和を築く。\r\n//　それが俺の選び取った道。\r\n  E foi por essa escolha que meu caminho se definiu. Eu construiria um mundo de paz sobre os corpos dos mortos.\r\n\r\n//　俺はその道の、まだ半ばにいる。\r\n  Ainda não alcancei esse objetivo. A cada segundo, pelo mundo inteiro, pessoas lutam e morrem. O mundo ainda paga o preço dos meus erros de dois anos atrás.\r\n\r\n\r\n//　二年前の事件に起因する災いは今なお世界に残り。\r\n//　無数の対立、無数の争乱の中、無数の人々が死んで\r\n//いる。\r\n\r\n//　<RUBY text='・・'>まだ</RUBY>、<RUBY text='・・・・・・・'>終わっていない</RUBY>。\r\n\r\n//　俺の使命――<k>違う。<k>\r\n//　俺の<RUBY text='・・'>目的</RUBY>はまだ、果たされていない\r\n  Não acabou. Meu dever―<K>\r\n  Não.\r\n\r\n  Meu㉗<I>sonho</I>㉓não foi realizado.\r\n\r\n"
  },
  {
   "offset": 2707,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0070a12'>\r\n//「それで……？」\r\n\"So what's your plan?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0070a12'>\r\n//「それで……？」\r\n\"Então... qual é o seu plano?\"\r\n"
  },
  {
   "offset": 2861,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0080a00'>\r\n//「続ける」\r\n\"Finish what I started.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0080a00'>\r\n//「続ける」\r\n\"Terminar o que comecei.\"\r\n"
  },
  {
   "offset": 2999,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0090a00'>\r\n//「この世の争いを全て治める」\r\n\"End conflict, everywhere.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0090a00'>\r\n//「この世の争いを全て治める」\r\n\"Acabar com o conflito, em todo lugar.\"\r\n"
  },
  {
   "offset": 3167,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0100a12'>\r\n//「……正気で言ってんのか」\r\n\"...That's crazy talk.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0100a12'>\r\n//「……正気で言ってんのか」\r\n\"...Isso é coisa de louco.\"\r\n"
  },
  {
   "offset": 3337,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0110a00'>\r\n//「違うかもしれんな」\r\n\"Maybe it is.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0110a00'>\r\n//「違うかもしれんな」\r\n\"Talvez seja.\"\r\n"
  },
  {
   "offset": 3480,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0120a12'>\r\n//「てめぇがどうやって、そんな事を<RUBY text='しと'>仕遂</RUBY>げる？\r\n//　花でも配って、戦争はやめなさいと言って\r\n//回るのか」\r\n\"And how's a guy like you gonna do that? Gonna pass out flowers, ask folks to play nice?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0120a12'>\r\n//「てめぇがどうやって、そんな事を<RUBY text='しと'>仕遂</RUBY>げる？\r\n//　花でも配って、戦争はやめなさいと言って\r\n//回るのか」\r\n\"E como um sujeito como você vai fazer isso? Vai distribuir flores e pedir pra todo mundo se comportar?\"\r\n"
  },
  {
   "offset": 3850,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0130a00'>\r\n//「真逆」\r\n\"Of course not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0130a00'>\r\n//「真逆」\r\n\"Claro que não.\"\r\n"
  },
  {
   "offset": 3977,
   "en": "\r\n//　この俺がそんな行為をしても無益だ。\r\n//　血臭剥がれぬ人殺しに人々を説く力は無い。\r\n  I sneer at the thought. No killer, reeking of blood, will ever convince men to lay down their swords.\r\n\r\n//　それはきっと――\r\n//　何処かで別の誰かがやる。\r\n\r\n//　誰かが、無垢な祈りを捧げてくれる。\r\n  No. That path, another will walk. Someone good and pure of heart, whose innocent prayers might be heard.\r\n\r\n//　俺には俺のやり方。\r\n//　もっと劣った方法がある。\r\n\r\n  I will continue my work in the offal, where I belong.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　この俺がそんな行為をしても無益だ。\r\n//　血臭剥がれぬ人殺しに人々を説く力は無い。\r\n  Eu escarneço só de pensar. Nenhum assassino, fedendo a sangue, jamais convencerá os homens a baixar as espadas.\r\n\r\n//　それはきっと――\r\n//　何処かで別の誰かがやる。\r\n\r\n//　誰かが、無垢な祈りを捧げてくれる。\r\n  Não. Esse caminho, outro percorrerá. Alguém bom e puro de coração, cujas preces inocentes talvez sejam ouvidas.\r\n\r\n//　俺には俺のやり方。\r\n//　もっと劣った方法がある。\r\n\r\n  Eu continuarei meu trabalho no meio da imundície, onde pertenço.\r\n\r\n"
  },
  {
   "offset": 4601,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0140a12'>\r\n//「なら？」\r\n\"Then how?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0140a12'>\r\n//「なら？」\r\n\"Então como?\"\r\n"
  },
  {
   "offset": 4735,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0150a00'>\r\n//「知れた事」\r\n\"The only way I can.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0150a00'>\r\n//「知れた事」\r\n\"Do único jeito que sei.\"\r\n"
  },
  {
   "offset": 4873,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0160a00'>\r\n//「<RUBY text='・・・・・・・・・・・・・・・'>最小限度の殺戮で戦争を撲滅する</RUBY>」\r\n\"By killing as many as it takes for the fighting to stop.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0160a00'>\r\n//「<RUBY text='・・・・・・・・・・・・・・・'>最小限度の殺戮で戦争を撲滅する</RUBY>」\r\n\"Matando quantos forem necessários para que a luta pare.\"\r\n"
  },
  {
   "offset": 5147,
@@ -102,17 +102,17 @@
  {
   "offset": 5281,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0180a00'>\r\n//「おかしいか」\r\n\"Does what I said not make sense?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0180a00'>\r\n//「おかしいか」\r\n\"O que eu disse não faz sentido?\"\r\n"
  },
  {
   "offset": 5435,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0190a12'>\r\n//「……いや。\r\n//　おかしくは、ねえな」\r\n\"No... Makes perfect sense.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0190a12'>\r\n//「……いや。\r\n//　おかしくは、ねえな」\r\n\"Não... Faz todo o sentido.\"\r\n"
  },
  {
   "offset": 5626,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0200a12'>\r\n//「おかしくはねえが」\r\n\"The question, Officer...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0200a12'>\r\n//「おかしくはねえが」\r\n\"A questão, oficial...\"\r\n"
  },
  {
   "offset": 5790,
@@ -122,37 +122,37 @@
  {
   "offset": 5909,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0220a12'>\r\n//「てめぇはそれを、また……\r\n//　<RUBY text='・・'>嫌々</RUBY>、<RUBY text='・・・・・'>泣きながら</RUBY>、やるのか？」\r\n\"Is are you gonna keep cryin', and pukin' yer guts out, like your little heart can't take it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0220a12'>\r\n//「てめぇはそれを、また……\r\n//　<RUBY text='・・'>嫌々</RUBY>、<RUBY text='・・・・・'>泣きながら</RUBY>、やるのか？」\r\n\"E você vai continuar chorando e vomitando as tripas, como se seu coraçãozinho não aguentasse?\"\r\n"
  },
  {
   "offset": 6265,
   "en": "\r\n//　肩越しに視線を投げる。\r\n//　雪車町は冷たく、俺を眺めていた。\r\n  I look over my shoulder. His eyes are cold. \r\n\r\n//　……嫌々？\r\n//　\r\n//　やりたくもないのに、やるという事か。\r\n\r\n//　何を言うかと思えば。\r\n  What is he suggesting? That I don't㉒<I>want</I>㉑to kill?\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　肩越しに視線を投げる。\r\n//　雪車町は冷たく、俺を眺めていた。\r\n  Olho por cima do ombro. Os olhos dele estão frios.\r\n\r\n//　……嫌々？\r\n//　\r\n//　やりたくもないのに、やるという事か。\r\n\r\n//　何を言うかと思えば。\r\n  O que ele está sugerindo? Que eu não㉒<I>quero</I>㉑matar?\r\n\r\n"
  },
  {
   "offset": 6615,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0230a00'>\r\n//「雪車町。\r\n//　勘違いは、迷惑だ」\r\n\"Sorimachi... Stop acting the fool.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0230a00'>\r\n//「雪車町。\r\n//　勘違いは、迷惑だ」\r\n\"Sorimachi... Pare de bancar o idiota.\"\r\n"
  },
  {
   "offset": 6799,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0240a12'>\r\n//「……あァ？」\r\n\"...What?\" \r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0240a12'>\r\n//「……あァ？」\r\n\"...O quê?\"\r\n"
  },
  {
   "offset": 6939,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0250a00'>\r\n//「俺は<RUBY text='・・・・'>最初から</RUBY>、嫌がってなどいない」\r\n\"You know I've never killed anyone unwillingly.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0250a00'>\r\n//「俺は<RUBY text='・・・・'>最初から</RUBY>、嫌がってなどいない」\r\n\"Você sabe que eu nunca matei ninguém contra a minha vontade.\"\r\n"
  },
  {
   "offset": 7173,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0260a00'>\r\n//「嫌なら、やらん。\r\n//　やりたいから、やったのだ」\r\n\"Everyone I've killed, I killed because I wanted to.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0260a00'>\r\n//「嫌なら、やらん。\r\n//　やりたいから、やったのだ」\r\n\"Todos que matei, matei porque quis.\"\r\n"
  },
  {
   "offset": 7398,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0270a00'>\r\n//「……当たり前の事だろうが？\r\n//　本当にやりたくない事をやる人間が何処に\r\n//いる？」\r\n\"After all, no one would do something he didn't㉒<I>want</I>㉑to. Isn't that right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0270a00'>\r\n//「……当たり前の事だろうが？\r\n//　本当にやりたくない事をやる人間が何処に\r\n//いる？」\r\n\"Afinal, ninguém faria algo que não㉒<I>quisesse</I>㉑fazer. Não é mesmo?\"\r\n"
  },
  {
   "offset": 7705,
@@ -162,27 +162,27 @@
  {
   "offset": 7833,
   "en": "\r\n//　そう。\r\n//　当然の事。\r\n  Of course it is. And therefore, our deeds attest to our will.\r\n\r\n//　だが――\r\n//　その当然を自覚し、認めるのに、長く掛かったよう\r\n//にも思う。\r\n\r\n  A simple truth... yet one that I feel eluded me for ages.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そう。\r\n//　当然の事。\r\n  Claro que é. E, portanto, nossos atos atestam nossa vontade.\r\n\r\n//　だが――\r\n//　その当然を自覚し、認めるのに、長く掛かったよう\r\n//にも思う。\r\n\r\n  Uma verdade simples... embora eu sinta que ela me escapou por muito tempo.\r\n"
  },
  {
   "offset": 8125,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0290a00'>\r\n//「これからもだ。\r\n//　俺はやりたいからやる」\r\n\"I will continue to do what I want.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0290a00'>\r\n//「これからもだ。\r\n//　俺はやりたいからやる」\r\n\"Continuarei fazendo o que quero.\"\r\n"
  },
  {
   "offset": 8324,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0300a00'>\r\n//「殺したいから殺す」\r\n\"And kill for the sake of my dream.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0300a00'>\r\n//「殺したいから殺す」\r\n\"E matarei em nome do meu sonho.\"\r\n"
  },
  {
   "offset": 8489,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0310a12'>\r\n//「……だったら。\r\n//　てめぇはあの時、どうして泣いた？」\r\n\"...Yeah? If that's what you want, then why were you crying back then?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0310a12'>\r\n//「……だったら。\r\n//　てめぇはあの時、どうして泣いた？」\r\n\"...É? Se é isso que você quer, então por que você estava chorando naquela hora?\"\r\n"
  },
  {
   "offset": 8750,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0320a00'>\r\n//「泣いてなどいない。\r\n//　だが、もし、泣いたように見えたなら……」\r\n\"I wasn't crying. If, by chance, you saw tears on my face...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0320a00'>\r\n//「泣いてなどいない。\r\n//　だが、もし、泣いたように見えたなら……」\r\n\"Eu não estava chorando. Mas, se por acaso você viu lágrimas no meu rosto...\"\r\n"
  },
  {
   "offset": 9007,
@@ -192,17 +192,17 @@
  {
   "offset": 9135,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0340a00'>\r\n//「きっと、笑っていたのだろうよ。\r\n//　涙が零れるほど、愉しくて」\r\n\"Then you must have seen me laughing.\r\n  ...Those were surely tears of joy.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0340a00'>\r\n//「きっと、笑っていたのだろうよ。\r\n//　涙が零れるほど、愉しくて」\r\n\"Então você deve ter me visto rindo.\"\r\n  \"...Aquelas eram, sem dúvida, lágrimas de alegria.\"\r\n"
  },
  {
   "offset": 9404,
   "en": "\r\n//　雪車町は暫時、沈黙したようだった。\r\n\r\n//　やがて――少しずつ。\r\n//　陰々と。\r\n\r\n//　クヒ、ヒヒヒヒ、と……\r\n//　<RUBY text='ひきがえる'>蟇蛙</RUBY>が歌うかの笑声。\r\n  A silence follows. But shortly, I hear... low and thick, a croaking sound, like the call of a toad.\r\n",
-  "pt": ""
+  "pt": "\r\n//　雪車町は暫時、沈黙したようだった。\r\n\r\n//　やがて――少しずつ。\r\n//　陰々と。\r\n\r\n//　クヒ、ヒヒヒヒ、と……\r\n//　<RUBY text='ひきがえる'>蟇蛙</RUBY>が歌うかの笑声。\r\n  Segue-se um silêncio. Mas logo ouço... grave e espesso, um som rouco, como o coaxar de um sapo.\r\n"
  },
  {
   "offset": 9748,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0350a12'>\r\n//「……ヘッ……」\r\n\"Heh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0350a12'>\r\n//「……ヘッ……」\r\n\"Heh...\"\r\n"
  },
  {
   "offset": 9888,
@@ -212,37 +212,37 @@
  {
   "offset": 10013,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0370a12'>\r\n//「てめぇがやるのは、悪鬼の所業だぜ」\r\n\"That's a demon's work.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0370a12'>\r\n//「てめぇがやるのは、悪鬼の所業だぜ」\r\n\"Isso é obra de um demônio.\"\r\n"
  },
  {
   "offset": 10199,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0380a00'>\r\n//「知っている」\r\n\"It is.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0380a00'>\r\n//「知っている」\r\n\"É.\"\r\n"
  },
  {
   "offset": 10327,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0390a12'>\r\n//「やり遂げられんのかァ？\r\n//　坊ちゃん育ちのてめぇによぅ」\r\n\"Think you're up for it? Nice guy like you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0390a12'>\r\n//「やり遂げられんのかァ？\r\n//　坊ちゃん育ちのてめぇによぅ」\r\n\"Acha que consegue? Um sujeito bonzinho como você.\"\r\n"
  },
  {
   "offset": 10564,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0400a00'>\r\n//「ああ」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0400a00'>\r\n//「ああ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 10681,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0410a00'>\r\n//「俺は……俺の邪悪を信じる」\r\n\"I have faith in my evil.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0410a00'>\r\n//「俺は……俺の邪悪を信じる」\r\n\"Eu tenho fé no meu mal.\"\r\n"
  },
  {
   "offset": 10848,
   "en": "\r\n//　我が目的の為、既に幾多の命を奪った。\r\n//　その事実に懸けて信仰する。\r\n\r\n//　邪悪。\r\n//　魂の底に<RUBY text='たま'>溜</RUBY>る、闇黒を。\r\n  And if ever that faith wanes, I need only look back at the road I have trod.\r\n\r\n  All the proof I need is there of the blackness that dwells in my heart.\r\n",
-  "pt": ""
+  "pt": "\r\n//　我が目的の為、既に幾多の命を奪った。\r\n//　その事実に懸けて信仰する。\r\n\r\n//　邪悪。\r\n//　魂の底に<RUBY text='たま'>溜</RUBY>る、闇黒を。\r\n  E se algum dia essa fé vacilar, basta eu olhar para trás, para a estrada que percorri.\r\n\r\n  Toda a prova de que preciso está ali: a escuridão que habita meu coração.\r\n"
  },
  {
   "offset": 11207,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0420a12'>\r\n//「けっ……そうかよ」\r\n\"Heh! You talk the talk.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0430a12'>\r\n//「じゃあ、勝手にしやがれ」\r\n\"Knock yourself out then.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0420a12'>\r\n//「けっ……そうかよ」\r\n\"Heh! Você fala bonito.\"\r\n\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0430a12'>\r\n//「じゃあ、勝手にしやがれ」\r\n\"Então vai em frente, à vontade.\"\r\n"
  },
  {
   "offset": 11535,
@@ -252,32 +252,32 @@
  {
   "offset": 11654,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0450a12'>\r\n//「そいつと一緒にな」\r\n\"You deserve each other.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0450a12'>\r\n//「そいつと一緒にな」\r\n\"Vocês merecem um ao outro.\"\r\n"
  },
  {
   "offset": 11817,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0460a00'>\r\n//「そいつ？」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0460a00'>\r\n//「そいつ？」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 11941,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0470a12'>\r\n//「返してやらァ」\r\n\"Here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0470a12'>\r\n//「返してやらァ」\r\n\"Toma.\"\r\n"
  },
  {
   "offset": 12080,
   "en": "\r\n//　雪車町は億劫げに起き上がると、最初に座っていた\r\n//岩へ近寄った。\r\n//　その陰から、何かを取り出す。\r\n  Sorimachi climbs to his feet, then trudges over to the rock where he stood.\r\n\r\n  From behind the rock, he pulls a box.\r\n\r\n  Is that... an isolation box?\r\n\r\n\r\n//　箱だった。\r\n//　\r\n//　これは……<RUBY text='アイソレーションボックス'>通信遮断装置</RUBY>か？\r\n",
-  "pt": ""
+  "pt": "\r\n//　雪車町は億劫げに起き上がると、最初に座っていた\r\n//岩へ近寄った。\r\n//　その陰から、何かを取り出す。\r\n  Sorimachi se levanta e, arrastando os pés, vai até a rocha onde estava antes.\r\n\r\n  De trás da rocha, ele tira uma caixa.\r\n\r\n  Isso é... uma caixa de isolamento?\r\n\r\n\r\n//　箱だった。\r\n//　\r\n//　これは……<RUBY text='アイソレーションボックス'>通信遮断装置</RUBY>か？\r\n"
  },
  {
   "offset": 12532,
   "en": "\r\n//　留め金が外され、蓋が開かれる。\r\n//　中身は――\r\n  He undoes the lock and throws off the lid. Inside is―\r\n",
-  "pt": ""
+  "pt": "\r\n//　留め金が外され、蓋が開かれる。\r\n//　中身は――\r\n  Ele solta o trinco e arranca a tampa. Lá dentro está―\r\n"
  },
  {
   "offset": 12675,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0480a00'>\r\n//「……村正……」\r\n\"Muramasa...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0480a00'>\r\n//「……村正……」\r\n\"Muramasa...\"\r\n"
  },
  {
   "offset": 12811,
@@ -287,36 +287,36 @@
  {
   "offset": 12946,
   "en": "\r\n//　赤い相棒がそこにいた。\r\n//　健在である事は一目でわかった。\r\n  My lost half is there. I can see at a glance that she lives.\r\n\r\n//　……そうか。\r\n//　通信遮断装置の中に封じられていたから、呼び掛け\r\n//にも応答が無かったのか。\r\n  Of course. The box is why we could not communicate.\r\n\r\n  For Sorimachi to go to such lengths to make me believe he had killed her...<K>\r\n  I can think of only one reason.\r\n\r\n//　そして、あの筋者がこんな仕掛けを使って殺したと\r\n//偽った意図は、おそらく――\r\n  I look up. He's limping away.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　赤い相棒がそこにいた。\r\n//　健在である事は一目でわかった。\r\n  Minha outra metade está ali. Basta um olhar para saber que ela vive.\r\n\r\n//　……そうか。\r\n//　通信遮断装置の中に封じられていたから、呼び掛け\r\n//にも応答が無かったのか。\r\n  Claro. A caixa é o motivo de não conseguirmos nos comunicar.\r\n\r\n  Que Sorimachi tenha ido a tanto só para me fazer crer que a matara...<K>\r\n  Só consigo pensar em um motivo.\r\n\r\n//　そして、あの筋者がこんな仕掛けを使って殺したと\r\n//偽った意図は、おそらく――\r\n  Ergo os olhos. Ele se afasta, mancando.\r\n\r\n"
  },
  {
   "offset": 13585,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0500a00'>\r\n//「雪車町」\r\n\"Sorimachi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0500a00'>\r\n//「雪車町」\r\n\"Sorimachi.\"\r\n"
  },
  {
   "offset": 13711,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0510a12'>\r\n//「何でぇ？」\r\n\"What?\"\r\n\r\n<FW img=''>\r\n  He turns, scowling, and spits on the grass.\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0510a12'>\r\n//「何でぇ？」\r\n\"O quê?\"\r\n\r\n<FW img=''>\r\n  Ele se vira, carrancudo, e cospe na grama.\r\n"
  },
  {
   "offset": 13906,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0520a00'>\r\n//「行くのか」\r\n\"Is this it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/034b0520a00'>\r\n//「行くのか」\r\n\"Então é isso?\"\r\n"
  },
  {
   "offset": 14036,
   "en": "\r\n//　ふらつく足取りで離れてゆく、その背に声を掛ける。\r\n//　一度だけ振り返り。雪車町一蔵は唾を吐いた。\r\n\r\n//　憎々しげに笑って、言う。\r\n  His eyes meet mine.\r\n\r\n  And then, with damnable joy, he smiles.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ふらつく足取りで離れてゆく、その背に声を掛ける。\r\n//　一度だけ振り返り。雪車町一蔵は唾を吐いた。\r\n\r\n//　憎々しげに笑って、言う。\r\n  Seus olhos encontram os meus.\r\n\r\n  E então, com uma alegria maldita, ele sorri.\r\n"
  },
  {
   "offset": 14308,
   "en": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0530a12'>\r\n//「今日のところは、これで勘弁してやらァ」\r\n\"I'll let you off this time, copper. Just this once.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雪車町】\r\n<voice name='雪車町' class='雪車町' src='voice/md06/034b0530a12'>\r\n//「今日のところは、これで勘弁してやらァ」\r\n\"Vou te poupar desta vez, tira. Só desta vez.\"\r\n"
  },
  {
   "offset": 14529,
   "en": "\r\n//　夕暮れ。\r\n//　影が長く尾を引いていた。\r\n  Soon only his shadow remains.\r\n",
-  "pt": ""
+  "pt": "\r\n//　夕暮れ。\r\n//　影が長く尾を引いていた。\r\n  Logo, só restará a sombra dele.\r\n"
  }
 ]

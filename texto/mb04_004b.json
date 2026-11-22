@@ -2,22 +2,22 @@
  {
   "offset": 214,
   "en": "\r\n//　養母――\r\n//　養母は、何を言おうと――\r\n  What―\r\n  What is she trying to―\r\n",
-  "pt": ""
+  "pt": "\r\n//　養母――\r\n//　養母は、何を言おうと――\r\n  O quê―\r\n  O que ela está tentando―\r\n"
  },
  {
   "offset": 325,
   "en": "\r\n//　　　　　　殺しちゃいけないよ。\r\n//　　　　　　一人も、殺しちゃあ駄目だ。\r\n \r\n \r\n \r\n \r\n<center>You mustn't kill anyone.\r\n<center>Not a single person, you hear? Not for any reason.\r\n",
-  "pt": ""
+  "pt": "\r\n//　　　　　　殺しちゃいけないよ。\r\n//　　　　　　一人も、殺しちゃあ駄目だ。\r\n \r\n \r\n \r\n \r\n<center>Você não pode matar ninguém.\r\n<center>Nem uma única pessoa, está me ouvindo? Por motivo algum.\r\n"
  },
  {
   "offset": 554,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0040550a00'>\r\n//「――っ」\r\n\"...Guh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0040550a00'>\r\n//「――っ」\r\n\"...Guh...\"\r\n"
  },
  {
   "offset": 678,
   "en": "\r\n//　そう。\r\n//　そうだ……\r\n  Yes... I remember. My mother's most solemn teaching.\r\n\r\n  One must never take a life.\r\n\r\n//　不殺の禁戒。\r\n//　養母の尊い教え。\r\n\r\n//　……だが。\r\n//　この状況！\r\n  But... then what am I supposed to do!?\r\n\r\n//　殺さずに、確実に、養母を救えるのか!?\r\n\r\n  Is there any way, save by killing this musha, to ensure that my mother survives!?\r\n",
-  "pt": ""
+  "pt": "\r\n//　そう。\r\n//　そうだ……\r\n  Sim... Eu me lembro. O ensinamento mais sagrado da minha mãe.\r\n\r\n  Jamais se deve tirar uma vida.\r\n\r\n//　不殺の禁戒。\r\n//　養母の尊い教え。\r\n\r\n//　……だが。\r\n//　この状況！\r\n  Mas... então o que eu devo fazer!?\r\n\r\n//　殺さずに、確実に、養母を救えるのか!?\r\n\r\n  Existe alguma maneira, a não ser matando este musha, de garantir que minha mãe sobreviva!?\r\n"
  },
  {
   "offset": 1110,
@@ -27,7 +27,7 @@
  {
   "offset": 1122,
   "en": "There is.",
-  "pt": ""
+  "pt": "Existe."
  },
  {
   "offset": 1139,
@@ -37,6 +37,6 @@
  {
   "offset": 1151,
   "en": "I have to kill him.",
-  "pt": ""
+  "pt": "Eu tenho que matá-lo."
  }
 ]

@@ -2,32 +2,32 @@
  {
   "offset": 213,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030010b01'>\r\n//「ようこそ、知事殿。\r\n//　歓迎します」\r\n\"Welcome, Governor. We've been expecting you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030010b01'>\r\n//「ようこそ、知事殿。\r\n//　歓迎します」\r\nBem-vindo, Governador. Estávamos esperando o senhor.\r\n"
  },
  {
   "offset": 430,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030020b01'>\r\n//「こんな所ですが、どうか堅苦しくなさらず」\r\n\"Please make yourself comfortable.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030020b01'>\r\n//「こんな所ですが、どうか堅苦しくなさらず」\r\nPor favor, sinta-se à vontade.\r\n"
  },
  {
   "offset": 644,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030030e201'>\r\n//「は……どうも」\r\n\"Oh... Thank you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030030e201'>\r\n//「は……どうも」\r\nAh... Obrigado.\r\n"
  },
  {
   "offset": 818,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030040b01'>\r\n//「本当ならまずはテラスの方にご案内して、\r\n//お茶を差し上げるべきなんでしょうけど。\r\n//　お察しするに、話を急いだ方があなたには\r\n//親切のようだ」\r\n\"I would invite you to take tea on the terrace, but I gather you're in something of a hurry.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030040b01'>\r\n//「本当ならまずはテラスの方にご案内して、\r\n//お茶を差し上げるべきなんでしょうけど。\r\n//　お察しするに、話を急いだ方があなたには\r\n//親切のようだ」\r\nEu o convidaria para tomar chá no terraço, mas percebo que o senhor está um tanto apressado.\r\n"
  },
  {
   "offset": 1237,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030050e201'>\r\n//「確かに……。\r\n//　今は玉露とアールグレイの区別もつきそう\r\n//にない」\r\n\"You're right. I wouldn't know the difference between green tea and Earl Grey.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030050e201'>\r\n//「確かに……。\r\n//　今は玉露とアールグレイの区別もつきそう\r\n//にない」\r\nÉ verdade. Eu não saberia distinguir chá verde de Earl Grey.\r\n"
  },
  {
   "offset": 1549,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030060b01'>\r\n//「ここへ来られる方は大半そうですよ。\r\n//　お茶を一杯楽しむ間に国が滅びると信じて\r\n//いる」\r\n\"Most of those who come here are the same. You believe that a cup of tea will cost you everything you hold dear.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030060b01'>\r\n//「ここへ来られる方は大半そうですよ。\r\n//　お茶を一杯楽しむ間に国が滅びると信じて\r\n//いる」\r\nA maioria dos que vêm aqui é assim. O senhor acredita que uma xícara de chá custará tudo o que lhe é caro.\r\n"
  },
  {
   "offset": 1909,
@@ -37,17 +37,17 @@
  {
   "offset": 2061,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030080b01'>\r\n//「申し遅れましたが、私はオーリガ。\r\n//〝武帝〟の渉外担当です」\r\n\"Forgive me. I am Origa. I handle negotiations here.\"\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030090b01'>\r\n//「代表して話をさせて頂くことになりますが、\r\n//構いませんか」\r\n\"You'll be speaking with me today, if that's all right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030080b01'>\r\n//「申し遅れましたが、私はオーリガ。\r\n//〝武帝〟の渉外担当です」\r\nPerdoe-me. Eu sou Origa. Cuido das negociações aqui.\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030090b01'>\r\n//「代表して話をさせて頂くことになりますが、\r\n//構いませんか」\r\nO senhor falará comigo hoje, se não se importar.\r\n"
  },
  {
   "offset": 2573,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030100e201'>\r\n//「それは勿論。\r\n//　決定権も、貴方が？」\r\n\"Of course. Does that mean you'll be making the final decision?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030100e201'>\r\n//「それは勿論。\r\n//　決定権も、貴方が？」\r\nClaro. Isso significa que a senhora tomará a decisão final?\r\n"
  },
  {
   "offset": 2827,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030110b01'>\r\n//「いえ。私は話をするだけ。\r\n//　決定は、あちらの」\r\n\"Oh no. I'm just the mouthpiece. The decision rests with him.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030110b01'>\r\n//「いえ。私は話をするだけ。\r\n//　決定は、あちらの」\r\nAh, não. Eu sou só a porta-voz. A decisão é dele.\r\n"
  },
  {
   "offset": 3078,
@@ -57,32 +57,32 @@
  {
   "offset": 3226,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030120e201'>\r\n//「……あの方は？」\r\n\"Who is he?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030120e201'>\r\n//「……あの方は？」\r\nQuem é ele?\r\n"
  },
  {
   "offset": 3397,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030130b01'>\r\n//「〝武帝〟」\r\n\"The Warlord.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030130b01'>\r\n//「〝武帝〟」\r\nO Senhor da Guerra.\r\n"
  },
  {
   "offset": 3545,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030140b01'>\r\n//「この名は私達の総称ですが、もし誰か一人\r\n//が担うとするなら、それはあの人になります。\r\n//〝武帝〟が最も小さかった時、既に〝武帝〟\r\n//であった人なので」\r\n\"That title applies to all of us now, but if any one man can claim it, it's him. He was the Warlord before there were Warlords.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030140b01'>\r\n//「この名は私達の総称ですが、もし誰か一人\r\n//が担うとするなら、それはあの人になります。\r\n//〝武帝〟が最も小さかった時、既に〝武帝〟\r\n//であった人なので」\r\nEsse título agora se aplica a todos nós, mas se alguém pode reivindicá-lo, é ele. Ele já era o Senhor da Guerra antes de existirem Senhores da Guerra.\r\n"
  },
  {
   "offset": 4011,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030150e201'>\r\n//「……？\r\n//　要は、貴方がたの社長ですか？」\r\n\"So... he's like your CEO?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030150e201'>\r\n//「……？\r\n//　要は、貴方がたの社長ですか？」\r\nEntão... ele é como o CEO de vocês?\r\n"
  },
  {
   "offset": 4234,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030160b01'>\r\n//「社長！　いいな、社長。\r\n//　ええ、そう考えてもらって問題ありません」\r\n\"Our CEO! Splendid! That's exactly what he is.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030160b01'>\r\n//「社長！　いいな、社長。\r\n//　ええ、そう考えてもらって問題ありません」\r\nNosso CEO! Gostei disso! É exatamente o que ele é.\r\n"
  },
  {
   "offset": 4500,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030170b01'>\r\n//「利益追求にまるで興味を示してくれない、\r\n//困った社長ですけどね」\r\n\"Though he doesn't care much for profits, I'm afraid.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030170b01'>\r\n//「利益追求にまるで興味を示してくれない、\r\n//困った社長ですけどね」\r\nEmbora ele não ligue muito para lucros, receio.\r\n"
  },
  {
   "offset": 4767,
@@ -92,62 +92,62 @@
  {
   "offset": 4860,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030180b01'>\r\n//「おっと。\r\n//　<RUBY text='・・'>社長</RUBY>は無駄口を好まれない」\r\n\"Ah, forgive me. Our CEO despises idle chatter.\"\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030190b01'>\r\n//「あなたもお急ぎだ。\r\n//　早速、本題に入りましょう」\r\n\"Let's get down to business, shall we? We established you're in a rush?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030180b01'>\r\n//「おっと。\r\n//　<RUBY text='・・'>社長</RUBY>は無駄口を好まれない」\r\nAh, perdoe-me. Nosso CEO detesta conversa fiada.\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030190b01'>\r\n//「あなたもお急ぎだ。\r\n//　早速、本題に入りましょう」\r\nVamos direto ao assunto, então? Já ficou claro que o senhor tem pressa.\r\n"
  },
  {
   "offset": 5368,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030200e201'>\r\n//「ええ。\r\n//　……単刀直入に言えば、貴方がたの<RUBY text='ちから'>武力</RUBY>を\r\n//お借りしたい」\r\n\"Yes. To get straight to the point, I need your power.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030200e201'>\r\n//「ええ。\r\n//　……単刀直入に言えば、貴方がたの<RUBY text='ちから'>武力</RUBY>を\r\n//お借りしたい」\r\nSim. Para ir direto ao ponto, preciso do poder de vocês.\r\n"
  },
  {
   "offset": 5686,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030210b01'>\r\n//「<RUBY text='ロシア'>露帝</RUBY>軍の攻撃を防ぐために、ですね」\r\n\"To stop the Russian invasion of Mutsu.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030210b01'>\r\n//「<RUBY text='ロシア'>露帝</RUBY>軍の攻撃を防ぐために、ですね」\r\nPara impedir a invasão russa de Mutsu.\r\n"
  },
  {
   "offset": 5926,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030220e201'>\r\n//「ご存知でしたか」\r\n\"You know about it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030220e201'>\r\n//「ご存知でしたか」\r\nO senhor já sabe.\r\n"
  },
  {
   "offset": 6105,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030230b01'>\r\n//「<RUBY text='・・・・・'>当社の業務</RUBY>は質の良い情報を常に確保して\r\n//おかねば成り立ちません。\r\n//　地球の裏側の政変も一時間以内に報告され\r\n//ますし、隣近所の動静ならもっと早い」\r\n\"Our business depends on up-to-the-minute intelligence. We get hourly reports from all the way across the world, to say nothing of our own backyard.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030230b01'>\r\n//「<RUBY text='・・・・・'>当社の業務</RUBY>は質の良い情報を常に確保して\r\n//おかねば成り立ちません。\r\n//　地球の裏側の政変も一時間以内に報告され\r\n//ますし、隣近所の動静ならもっと早い」\r\nNossos negócios dependem de informações sempre atualizadas. Recebemos relatórios de hora em hora de lugares do outro lado do mundo, sem falar do que acontece aqui ao lado.\r\n"
  },
  {
   "offset": 6628,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030240e201'>\r\n//「……説明せずに済むのは助かります。\r\n//　仰る通り、函館の露帝軍が」\r\n\"Then I don't have to explain. The Russians are coming.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030240e201'>\r\n//「……説明せずに済むのは助かります。\r\n//　仰る通り、函館の露帝軍が」\r\nEntão não preciso explicar. Os russos estão vindo.\r\n"
  },
  {
   "offset": 6916,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030250b01'>\r\n//「明朝、あなたの陸奥へ渡海侵攻を仕掛ける」\r\n\"Yes, tomorrow. The attack begins at dawn.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030250b01'>\r\n//「明朝、あなたの陸奥へ渡海侵攻を仕掛ける」\r\nSim, amanhã. O ataque começa ao amanhecer.\r\n"
  },
  {
   "offset": 7138,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030260e201'>\r\n//「……<RUBY text='・・'>明朝</RUBY>!?」\r\n\"...Tomorrow!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030260e201'>\r\n//「……<RUBY text='・・'>明朝</RUBY>!?」\r\n...Amanhã!?\r\n"
  },
  {
   "offset": 7332,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030270b01'>\r\n//「おや。それはご存知なかったんですか。\r\n///　まいったな、情報はタダ売りするもんじゃ\r\n//ないんだけど……まぁ仕方ない。今回限りの\r\n//サービスってことで」\r\n\"Oh. I thought you knew. And now I've gone and given out intelligence for free. Ah well. Consider it a one-time thing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030270b01'>\r\n//「おや。それはご存知なかったんですか。\r\n///　まいったな、情報はタダ売りするもんじゃ\r\n//ないんだけど……まぁ仕方ない。今回限りの\r\n//サービスってことで」\r\nOra. Eu pensei que o senhor soubesse. E agora acabei saindo por aí dando informação de graça. Fazer o quê. Considere uma cortesia só desta vez.\r\n"
  },
  {
   "offset": 7787,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030280b01'>\r\n//「明日の朝ですよ。露帝軍の予定表に、陸奥\r\n//へピクニックって書いてあるのは。\r\n//　てっきりあなたもそれを知ったから慌てて\r\n//ここへ来られたんだと思ってました」\r\n\"And yes, the Russian army's picnic is scheduled for tomorrow morning in Mutsu. I assumed that was the reason you were in such a hurry.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030280b01'>\r\n//「明日の朝ですよ。露帝軍の予定表に、陸奥\r\n//へピクニックって書いてあるのは。\r\n//　てっきりあなたもそれを知ったから慌てて\r\n//ここへ来られたんだと思ってました」\r\nE sim, o piquenique do exército russo está marcado para amanhã de manhã em Mutsu. Imaginei que fosse por isso que o senhor estava com tanta pressa.\r\n"
  },
  {
   "offset": 8270,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030290e201'>\r\n//「……いや……\r\n//　猶予が許されないのはわかっていましたが、\r\n//まさか……明朝とは」\r\n\"No. I knew it was coming soon... but tomorrow?\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030300e201'>\r\n//「間違いないのですか？」\r\n\"Are you sure?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030290e201'>\r\n//「……いや……\r\n//　猶予が許されないのはわかっていましたが、\r\n//まさか……明朝とは」\r\nNão... Eu sabia que estava para acontecer em breve... mas amanhã?\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030300e201'>\r\n//「間違いないのですか？」\r\nTem certeza?\r\n"
  },
  {
   "offset": 8747,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030310b01'>\r\n//「波と風の状況が良くなかったら順延される\r\n//かもしれませんね」\r\n\"There might be delays, depending on the weather.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030310b01'>\r\n//「波と風の状況が良くなかったら順延される\r\n//かもしれませんね」\r\nPode haver atrasos, dependendo do clima.\r\n"
  },
  {
   "offset": 9004,
@@ -157,97 +157,97 @@
  {
   "offset": 9162,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030330b01'>\r\n//「気が変わって<RUBY text='カミカゼ'>神風</RUBY>を祈るつもりになられた\r\n//のなら、良い神社をご紹介しますが」\r\n\"We have a wonderful shrine on the island, if you'd like to pray for a storm instead.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030330b01'>\r\n//「気が変わって<RUBY text='カミカゼ'>神風</RUBY>を祈るつもりになられた\r\n//のなら、良い神社をご紹介しますが」\r\nTemos um santuário maravilhoso na ilha, caso prefira rezar por uma tempestade.\r\n"
  },
  {
   "offset": 9512,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030340e201'>\r\n//「結構です。神風では何も解決しないという\r\n//ことは、先の大戦で充分に学びましたから。\r\n//　やはり貴方がたにお願いしたい」\r\n\"I'll pass. If there's anything the last war taught me, it's that you can't count on gods or their storms. No, I'll put my faith in you.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030350e201'>\r\n//「まだ間に合うなら、ですが……」\r\n\"Assuming there's still time.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030340e201'>\r\n//「結構です。神風では何も解決しないという\r\n//ことは、先の大戦で充分に学びましたから。\r\n//　やはり貴方がたにお願いしたい」\r\nDispenso. Se a última guerra me ensinou alguma coisa, é que não se pode contar com deuses nem com suas tempestades. Não, vou depositar minha fé em vocês.\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030350e201'>\r\n//「まだ間に合うなら、ですが……」\r\nSupondo que ainda haja tempo.\r\n"
  },
  {
   "offset": 10159,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030360b01'>\r\n//「間に合わないとしたら？」\r\n\"If there isn't?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030360b01'>\r\n//「間に合わないとしたら？」\r\nE se não houver?\r\n"
  },
  {
   "offset": 10331,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030370e201'>\r\n//「神社を。\r\n//　何なら身投げに向いた断崖絶壁とか、二度\r\n//と出てこられない樹海とかでも」\r\n\"Then I will try the shrine. And failing that, a nice cliff, or a forest where no one will find the body.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030370e201'>\r\n//「神社を。\r\n//　何なら身投げに向いた断崖絶壁とか、二度\r\n//と出てこられない樹海とかでも」\r\nEntão tentarei o santuário. E, se não der, um belo penhasco, ou uma floresta onde ninguém encontre o corpo.\r\n"
  },
  {
   "offset": 10697,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030380b01'>\r\n//「大丈夫。ご心配なく。\r\n//　この場で契約が結ばれれば、充分間に合い\r\n//ます」\r\n\"Not to worry. There's still plenty of time, provided we come to an agreement.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030380b01'>\r\n//「大丈夫。ご心配なく。\r\n//　この場で契約が結ばれれば、充分間に合い\r\n//ます」\r\nNão se preocupe. Ainda há tempo de sobra, desde que cheguemos a um acordo.\r\n"
  },
  {
   "offset": 11002,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030390b01'>\r\n//「〝武帝〟の戦力は機動性と即応性において\r\n//人語に落ちません。\r\n//　しかも今回は距離が近い……これは何より\r\n//幸いでしたね」\r\n\"We pride ourselves on delivering rapid responses to emerging situations. Plus, we don't have far to go this time. Luckily for you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030390b01'>\r\n//「〝武帝〟の戦力は機動性と即応性において\r\n//人語に落ちません。\r\n//　しかも今回は距離が近い……これは何より\r\n//幸いでしたね」\r\nNos orgulhamos de dar respostas rápidas a situações emergentes. Além disso, desta vez não temos muito caminho a percorrer. Sorte a sua.\r\n"
  },
  {
   "offset": 11430,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030400e201'>\r\n//「少し言葉を足して下さい。\r\n//　不幸中の、と」\r\n\"I don't feel very lucky.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030400e201'>\r\n//「少し言葉を足して下さい。\r\n//　不幸中の、と」\r\nNão me sinto muito sortudo.\r\n"
  },
  {
   "offset": 11655,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030410b01'>\r\n//「不幸な時こそ小さな幸運が必要だって思い\r\n//ませんか？\r\n//　平穏の中の幸運は大抵気付かれもしないし、\r\n//その程度の価値です」\r\n\"Luck has what you might call diminishing returns. The more of it you have, the less each bit is worth.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030410b01'>\r\n//「不幸な時こそ小さな幸運が必要だって思い\r\n//ませんか？\r\n//　平穏の中の幸運は大抵気付かれもしないし、\r\n//その程度の価値です」\r\nA sorte tem o que se pode chamar de retornos decrescentes. Quanto mais se tem, menos vale cada pedaço.\r\n"
  },
  {
   "offset": 12055,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030420b01'>\r\n//「それで、ご依頼は。\r\n//　必要な規模の戦力を必要な期間だけ、津軽\r\n//海峡の防衛隊として雇用なさりたい？」\r\n\"Shall we iron out the details? I assume you would like to hire such forces as necessary, for such a period as necessary, to defend the Tsugaru Strait against Russian attempts to cross it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030420b01'>\r\n//「それで、ご依頼は。\r\n//　必要な規模の戦力を必要な期間だけ、津軽\r\n//海峡の防衛隊として雇用なさりたい？」\r\nVamos acertar os detalhes? Imagino que o senhor queira contratar as forças necessárias, pelo tempo necessário, para defender o Estreito de Tsugaru contra as tentativas russas de atravessá-lo.\r\n"
  },
  {
   "offset": 12512,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030430e201'>\r\n//「は……あ、いや。\r\n//　こちらとしては防衛ではなく、先制攻撃を\r\n//お願いしたいのです」\r\n\"Yes... I mean no. Actually, I was hoping you might be able to launch a preemptive strike.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030430e201'>\r\n//「は……あ、いや。\r\n//　こちらとしては防衛ではなく、先制攻撃を\r\n//お願いしたいのです」\r\nSim... quer dizer, não. Na verdade, eu esperava que pudessem lançar um ataque preventivo.\r\n"
  },
  {
   "offset": 12860,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030440b01'>\r\n//「先制攻撃」\r\n\"Oh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030440b01'>\r\n//「先制攻撃」\r\nAh?\r\n"
  },
  {
   "offset": 12999,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030450e201'>\r\n//「露帝軍が函館から動く前に。\r\n//　損害を与え……撤退させて頂きたい」\r\n\"I want you to attack their staging point in Hakodate. Force them to change their plans, withdraw.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030450e201'>\r\n//「露帝軍が函館から動く前に。\r\n//　損害を与え……撤退させて頂きたい」\r\nQuero que ataquem o ponto de concentração deles em Hakodate. Forcem-nos a mudar os planos, a recuar.\r\n"
  },
  {
   "offset": 13330,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030460b01'>\r\n//「なるほど」\r\n\"I see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030460b01'>\r\n//「なるほど」\r\nEntendo.\r\n"
  },
  {
   "offset": 13472,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030470b01'>\r\n//「私達の要求する雇用料金は、ほとんど必要\r\n//経費程度。\r\n//　それでも安くはない額だし、継続的に雇う\r\n//となれば大金になる」\r\n\"We are not, sadly, a for-profit organization. We charge only what we need to continue operations. However, that is not an insignificant amount, and adds up quite quickly when we're contracted for the long term.\"\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030480b01'>\r\n//「今の陸奥に、その余裕はありませんか」\r\n\"I gather that Mutsu can't support the expense?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030470b01'>\r\n//「私達の要求する雇用料金は、ほとんど必要\r\n//経費程度。\r\n//　それでも安くはない額だし、継続的に雇う\r\n//となれば大金になる」\r\nNão somos, infelizmente, uma organização com fins lucrativos. Cobramos apenas o necessário para continuar operando. No entanto, não é uma quantia insignificante, e se acumula bem rápido quando somos contratados a longo prazo.\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030480b01'>\r\n//「今の陸奥に、その余裕はありませんか」\r\nPelo que entendi, Mutsu não pode arcar com a despesa?\r\n"
  },
  {
   "offset": 14190,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030490e201'>\r\n//「……身も蓋もない」\r\n\"...Did I say that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030490e201'>\r\n//「……身も蓋もない」\r\n…Eu disse isso?\r\n"
  },
  {
   "offset": 14372,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030500b01'>\r\n//「失礼」\r\n\"No.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030500b01'>\r\n//「失礼」\r\nNão.\r\n"
  },
  {
   "offset": 14505,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030510e201'>\r\n//「しかしその通りです。\r\n//　経済は混乱する一方、出費は嵩む一方なの\r\n//で」\r\n\"Well, you're right. Our economy's shot with the <br>war.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030520e201'>\r\n//「私の一存で動かせる金では……」\r\n\"With the funds at my disposal...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030510e201'>\r\n//「しかしその通りです。\r\n//　経済は混乱する一方、出費は嵩む一方なの\r\n//で」\r\nBem, você tem razão. Nossa economia está arruinada com a guerra.\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030520e201'>\r\n//「私の一存で動かせる金では……」\r\nCom os fundos à minha disposição…\r\n"
  },
  {
   "offset": 15008,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030530b01'>\r\n//「短期間の雇用しかできない。\r\n//　なら守るより、攻撃を」\r\n\"You can only afford a short-term contract. In which case, our forces would better be put to use on the offensive.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030530b01'>\r\n//「短期間の雇用しかできない。\r\n//　なら守るより、攻撃を」\r\nVocês só podem pagar um contrato de curto prazo. Nesse caso, nossas forças seriam mais bem empregadas na ofensiva.\r\n"
  },
  {
   "offset": 15321,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030540b01'>\r\n//「正しいお考えです」\r\n\"Wisely reasoned, Governor.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030540b01'>\r\n//「正しいお考えです」\r\nRaciocínio sábio, Governador.\r\n"
  },
  {
   "offset": 15495,
@@ -257,92 +257,92 @@
  {
   "offset": 15647,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030560b01'>\r\n//「攻撃に優る防御はありませんしね。\r\n//　函館で戦えば陸奥に被害が及ぶ心配はない\r\n//というのも大きい」\r\n\"Offense is, of course, the best defense, and also the best way to avoid placing the people of Mutsu in danger.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030560b01'>\r\n//「攻撃に優る防御はありませんしね。\r\n//　函館で戦えば陸奥に被害が及ぶ心配はない\r\n//というのも大きい」\r\nA ofensiva é, claro, a melhor defesa, e também a melhor maneira de evitar colocar o povo de Mutsu em perigo.\r\n"
  },
  {
   "offset": 16021,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030570b01'>\r\n//「私達の性質にもその方が適している」\r\n\"Not to mention that we ourselves are better suited to this kind of mission.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030570b01'>\r\n//「私達の性質にもその方が適している」\r\nSem contar que nós mesmos somos mais adequados a esse tipo de missão.\r\n"
  },
  {
   "offset": 16268,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030580e201'>\r\n//「では？」\r\n\"Then...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030580e201'>\r\n//「では？」\r\nEntão…\r\n"
  },
  {
   "offset": 16424,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030590b01'>\r\n//「問題ありません。\r\n//　当方としては、何も」\r\n\"Oh yes. We'll get the job done.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030590b01'>\r\n//「問題ありません。\r\n//　当方としては、何も」\r\nAh, sim. Daremos conta do trabalho.\r\n"
  },
  {
   "offset": 16637,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030600e201'>\r\n//「おお……」\r\n\"You will?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030600e201'>\r\n//「おお……」\r\nFarão?\r\n"
  },
  {
   "offset": 16798,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030610b01'>\r\n//「後は。\r\n//　……<RUBY text='・・・'>あなた</RUBY>次第です」\r\n\"Provided you're able to meet our... special terms.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030610b01'>\r\n//「後は。\r\n//　……<RUBY text='・・・'>あなた</RUBY>次第です」\r\nDesde que consigam cumprir nossos… termos especiais.\r\n"
  },
  {
   "offset": 17045,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030620e201'>\r\n//「――――」\r\n\"...Right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030620e201'>\r\n//「――――」\r\n…Certo.\r\n"
  },
  {
   "offset": 17206,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030630b01'>\r\n//「〝武帝〟の契約が如何なるものかは？」\r\n\"You do know what I mean by that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030630b01'>\r\n//「〝武帝〟の契約が如何なるものかは？」\r\nO senhor sabe o que quero dizer com isso?\r\n"
  },
  {
   "offset": 17413,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030640e201'>\r\n//「……耳にしています。\r\n//　噂を、色々と」\r\n\"...I've heard the rumors.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030640e201'>\r\n//「……耳にしています。\r\n//　噂を、色々と」\r\n…Ouvi os rumores.\r\n"
  },
  {
   "offset": 17633,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030650b01'>\r\n//「理由を含めて、詳しいご説明をするべきで\r\n//しょうね」\r\n\"I'm happy to answer any questions you might have, including the ultimate㉒<I>why.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030650b01'>\r\n//「理由を含めて、詳しいご説明をするべきで\r\n//しょうね」\r\nTerei prazer em responder a quaisquer perguntas que o senhor tenha, incluindo o ㉒<I>porquê</I> fundamental.\r\n"
  },
  {
   "offset": 17916,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030660e201'>\r\n//「理由ですか……\r\n//　それは遠慮させて下さい」\r\n\"<I>Why...</I> I think I'll pass on that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030660e201'>\r\n//「理由ですか……\r\n//　それは遠慮させて下さい」\r\n<I>Por quê…</I> Acho que vou dispensar essa parte.\r\n"
  },
  {
   "offset": 18157,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030670b01'>\r\n//「ご興味ない？」\r\n\"Not interested?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030670b01'>\r\n//「ご興味ない？」\r\nNão se interessa?\r\n"
  },
  {
   "offset": 18314,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030680e201'>\r\n//「というより、聞かない方が良さそうなので。\r\n//　多分、酷く心地の悪い話でしょうから」\r\n\"More like afraid. Something tells me I'm better off not knowing.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030690e201'>\r\n//「余計なことは聞かず、自分の責任を果たす\r\n//ことだけ考えて死にたいのです」\r\n\"The only thing I need to know is that I died doing my duty.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030680e201'>\r\n//「というより、聞かない方が良さそうなので。\r\n//　多分、酷く心地の悪い話でしょうから」\r\nMais por medo. Algo me diz que é melhor eu não saber.\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030690e201'>\r\n//「余計なことは聞かず、自分の責任を果たす\r\n//ことだけ考えて死にたいのです」\r\nA única coisa que preciso saber é que morri cumprindo meu dever.\r\n"
  },
  {
   "offset": 18930,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030700b01'>\r\n//「わかりました。\r\n//　なら控えましょう」\r\n\"Very well. We respect your choice.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030700b01'>\r\n//「わかりました。\r\n//　なら控えましょう」\r\nMuito bem. Respeitamos sua escolha.\r\n"
  },
  {
   "offset": 19140,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030710b01'>\r\n//「ところで、今のお言葉は契約条件の承服を\r\n//意味するものと考えてよろしいのですか？」\r\n\"Then I take it we have your assent?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030710b01'>\r\n//「ところで、今のお言葉は契約条件の承服を\r\n//意味するものと考えてよろしいのですか？」\r\nEntão devo entender que temos seu consentimento?\r\n"
  },
  {
   "offset": 19417,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030720e201'>\r\n//「……ええ。\r\n//　身の回りの整理はすべて済ませてきました。\r\n//ここから生きて帰るつもりはありません」\r\n\"...Yes. I've made my preparations. I knew I wasn't going home alive.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030730e201'>\r\n//「煮るなり焼くなり、如何様にも。\r\n//　……いえ、なるたけ楽な方法を選んで頂き\r\n//たくはありますが」\r\n\"Do what you want with me. I mean... nothing too painful, please.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030720e201'>\r\n//「……ええ。\r\n//　身の回りの整理はすべて済ませてきました。\r\n//ここから生きて帰るつもりはありません」\r\n…Sim. Fiz meus preparativos. Sabia que não voltaria vivo para casa.\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030730e201'>\r\n//「煮るなり焼くなり、如何様にも。\r\n//　……いえ、なるたけ楽な方法を選んで頂き\r\n//たくはありますが」\r\nFaçam o que quiserem comigo. Quer dizer… nada muito doloroso, por favor.\r\n"
  },
  {
   "offset": 20098,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030740b01'>\r\n//「結構です。\r\n//　それで？」\r\n\"Certainly. And the rest?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030740b01'>\r\n//「結構です。\r\n//　それで？」\r\nCerto. E o resto?\r\n"
  },
  {
   "offset": 20280,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030750e201'>\r\n//「……？　それで？」\r\n\"I'm sorry?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030750e201'>\r\n//「……？　それで？」\r\nPerdão?\r\n"
  },
  {
   "offset": 20454,
@@ -352,32 +352,32 @@
  {
   "offset": 20596,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030770e201'>\r\n//「他にも何か必要なのですか。\r\n//　払えるものは払います……」\r\n\"Is there something else? I'll pay the price.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030770e201'>\r\n//「他にも何か必要なのですか。\r\n//　払えるものは払います……」\r\nHá mais alguma coisa? Pagarei o preço.\r\n"
  },
  {
   "offset": 20862,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030780e201'>\r\n//「陸奥が守られるのであれば……何でも」\r\n\"Whatever it takes to keep Mutsu safe.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030780e201'>\r\n//「陸奥が守られるのであれば……何でも」\r\nO que for preciso para manter Mutsu a salvo.\r\n"
  },
  {
   "offset": 21090,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030790b01'>\r\n//「そうですか」\r\n\"Understood.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030790b01'>\r\n//「そうですか」\r\nEntendo.\r\n"
  },
  {
   "offset": 21240,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030800b01'>\r\n//「では最後に確認しましょう。\r\n//　知事殿、あなたは<RUBY text='ちから'>武力</RUBY>を求めますか？」\r\n\"Then one last time for the record, Governor. Do you desire might?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030800b01'>\r\n//「では最後に確認しましょう。\r\n//　知事殿、あなたは<RUBY text='ちから'>武力</RUBY>を求めますか？」\r\nEntão, uma última vez, para constar, Governador. O senhor deseja o poder?\r\n"
  },
  {
   "offset": 21556,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030810e201'>\r\n//「はい……\r\n//　是非とも」\r\n\"Yes. Whatever the cost.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030810e201'>\r\n//「はい……\r\n//　是非とも」\r\nSim. A qualquer custo.\r\n"
  },
  {
   "offset": 21750,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030820b01'>\r\n//「〝武帝〟！」\r\n\"Warlord!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030820b01'>\r\n//「〝武帝〟！」\r\nSenhor da Guerra!\r\n"
  },
  {
   "offset": 21897,
@@ -392,17 +392,17 @@
  {
   "offset": 22154,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030840b01'>\r\n//「承認が下りました」\r\n\"The Warlord accepts.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030840b01'>\r\n//「承認が下りました」\r\nO Senhor da Guerra aceita.\r\n"
  },
  {
   "offset": 22322,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030850b01'>\r\n//「直ちに部隊を編成、函館へ向かわせます。\r\n//　露帝軍の司令部を壊滅させ、主だった艦船\r\n//も航行不能に」\r\n\"Within the hour, we will dispatch a force to Hakodate, where they will smash the Russians' command structure and disable as many warships and transports as they are able.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030850b01'>\r\n//「直ちに部隊を編成、函館へ向かわせます。\r\n//　露帝軍の司令部を壊滅させ、主だった艦船\r\n//も航行不能に」\r\nDentro de uma hora, enviaremos uma força para Hakodate, onde destruirá a estrutura de comando dos russos e inutilizará tantos navios de guerra e transportes quanto possível.\r\n"
  },
  {
   "offset": 22759,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030860b01'>\r\n//「今夜一杯で全て片付くでしょう」\r\n\"There will be no attack in the morning.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030860b01'>\r\n//「今夜一杯で全て片付くでしょう」\r\nNão haverá ataque pela manhã.\r\n"
  },
  {
   "offset": 22964,
@@ -412,37 +412,37 @@
  {
   "offset": 23125,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030880b01'>\r\n//「肩の荷が下りたというお顔をしてます」\r\n\"You seem relieved.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030880b01'>\r\n//「肩の荷が下りたというお顔をしてます」\r\nO senhor parece aliviado.\r\n"
  },
  {
   "offset": 23318,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030890e201'>\r\n//「そうですね。\r\n//　重いやつを下ろしました」\r\n\"Yes. It's a great weight off my shoulders.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030900e201'>\r\n//「感謝します……」\r\n\"Thank you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030890e201'>\r\n//「そうですね。\r\n//　重いやつを下ろしました」\r\nSim. É um grande peso que saiu dos meus ombros.\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030900e201'>\r\n//「感謝します……」\r\nObrigado.\r\n"
  },
  {
   "offset": 23721,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030910b01'>\r\n//「そんなものは要りません。\r\n//　これは契約なんですから」\r\n\"There's no need to thank us. We are merely abiding by the terms of the contract.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030910b01'>\r\n//「そんなものは要りません。\r\n//　これは契約なんですから」\r\nNão há necessidade de nos agradecer. Estamos apenas cumprindo os termos do contrato.\r\n"
  },
  {
   "offset": 24001,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030920b01'>\r\n//「ただ……」\r\n\"I just hope...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030920b01'>\r\n//「ただ……」\r\nSó espero…\r\n"
  },
  {
   "offset": 24151,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030930e201'>\r\n//「は」\r\n\"You hope?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030930e201'>\r\n//「は」\r\nEspera?\r\n"
  },
  {
   "offset": 24303,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030940b01'>\r\n//「あなたが大きな誤解をしていなければ良い\r\n//のですが」\r\n\"That you understand what it is to which you've agreed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030940b01'>\r\n//「あなたが大きな誤解をしていなければ良い\r\n//のですが」\r\nQue o senhor entenda aquilo com que concordou.\r\n"
  },
  {
   "offset": 24554,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030950e201'>\r\n//「誤解？」\r\n\"What do you mean?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0030950e201'>\r\n//「誤解？」\r\nComo assim?\r\n"
  },
  {
   "offset": 24720,
@@ -452,52 +452,52 @@
  {
   "offset": 24862,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030970b01'>\r\n//「<RUBY text='くらべたてわき'>蔵部帯刀</RUBY>！」\r\n\"Kurabe Tatewaki!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030970b01'>\r\n//「<RUBY text='くらべたてわき'>蔵部帯刀</RUBY>！」\r\n\"Kurabe Tatewaki!\"\r\n"
  },
  {
   "offset": 25059,
   "en": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0030980e147'>\r\n//「はッ！」\r\n\"Here!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0030980e147'>\r\n//「はッ！」\r\n\"Presente!\"\r\n"
  },
  {
   "offset": 25213,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030990b01'>\r\n//「今回は君の隊に任せる」\r\n\"Your unit has this mission.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0030990b01'>\r\n//「今回は君の隊に任せる」\r\n\"Sua unidade fica com esta missão.\"\r\n"
  },
  {
   "offset": 25394,
   "en": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031000e147'>\r\n//「有難く」\r\n\"My thanks.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031000e147'>\r\n//「有難く」\r\n\"Agradecido.\"\r\n"
  },
  {
   "offset": 25553,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031010b01'>\r\n//「〝武帝〟の掟を言え」\r\n\"What law do we serve?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031010b01'>\r\n//「〝武帝〟の掟を言え」\r\n\"Que lei servimos?\"\r\n"
  },
  {
   "offset": 25725,
   "en": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031020e147'>\r\n//「善悪相殺！」\r\n\"The Law of Balance!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031020e147'>\r\n//「善悪相殺！」\r\n\"A Lei do Equilíbrio!\"\r\n"
  },
  {
   "offset": 25899,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031030b01'>\r\n//「ならばどうする？」\r\n\"Then what is your task?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031030b01'>\r\n//「ならばどうする？」\r\n\"Então, qual é a sua tarefa?\"\r\n"
  },
  {
   "offset": 26070,
   "en": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031040e147'>\r\n//「殺めた敵兵の数を勘定し」\r\n\"To take a count of the enemies slain―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031040e147'>\r\n//「殺めた敵兵の数を勘定し」\r\n\"Fazer a contagem dos soldados inimigos abatidos―\"\r\n"
  },
  {
   "offset": 26282,
   "en": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031050e147'>\r\n//「同じ数だけ、陸奥の民衆も殺して参る」\r\n\"―and when the mission is done, exact the same toll in lives from the people of Mutsu.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031050e147'>\r\n//「同じ数だけ、陸奥の民衆も殺して参る」\r\n\"―e, ao fim da missão, cobrar do povo de Mutsu o mesmo tributo em vidas.\"\r\n"
  },
  {
   "offset": 26560,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031060b01'>\r\n//「よろしい」\r\n\"Very good.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031060b01'>\r\n//「よろしい」\r\n\"Muito bem.\"\r\n"
  },
  {
   "offset": 26706,
@@ -507,72 +507,72 @@
  {
   "offset": 26856,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031080b01'>\r\n//「但し、<RUBY text='・・'>一名</RUBY>減らしておくこと」\r\n\"But don't forget to subtract one life from the tally.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031080b01'>\r\n//「但し、<RUBY text='・・'>一名</RUBY>減らしておくこと」\r\n\"Mas não se esqueça de subtrair uma vida da contagem.\"\r\n"
  },
  {
   "offset": 27099,
   "en": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031090e147'>\r\n//「はッ」\r\n\"Aye!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031090e147'>\r\n//「はッ」\r\n\"Sim, senhor!\"\r\n"
  },
  {
   "offset": 27249,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031100b01'>\r\n//「行け」\r\n\"Go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031100b01'>\r\n//「行け」\r\n\"Vá.\"\r\n"
  },
  {
   "offset": 27382,
   "en": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031110e147'>\r\n//「御免！」\r\n\"By your leave!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／蔵部】\r\n<voice name='ｅｔｃ／蔵部' class='その他男声' src='voice/md06/0031110e147'>\r\n//「御免！」\r\n\"Com sua licença!\"\r\n"
  },
  {
   "offset": 27545,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031120e201'>\r\n//「……まっ、待て！」\r\n\"W- Wait!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031120e201'>\r\n//「……まっ、待て！」\r\n\"E- Espere!\"\r\n"
  },
  {
   "offset": 27717,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031130b01'>\r\n//「何か？」\r\n\"Yes?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031130b01'>\r\n//「何か？」\r\n\"Sim?\"\r\n"
  },
  {
   "offset": 27854,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031140e201'>\r\n//「陸奥の民衆も殺す、と聞こえたぞ!?」\r\n\"Did he just say he was going to kill my people!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031140e201'>\r\n//「陸奥の民衆も殺す、と聞こえたぞ!?」\r\n\"Ele acabou de dizer que vai matar meu povo!?\"\r\n"
  },
  {
   "offset": 28089,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031150b01'>\r\n//「そう言いましたので」\r\n\"He did.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031150b01'>\r\n//「そう言いましたので」\r\n\"Foi o que ele disse.\"\r\n"
  },
  {
   "offset": 28247,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031160e201'>\r\n//「私だけではないのか!?」\r\n\"I thought it was just me!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031160e201'>\r\n//「私だけではないのか!?」\r\n\"Achei que fosse só eu!\"\r\n"
  },
  {
   "offset": 28441,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031170b01'>\r\n//「依頼人の御命は必ず頂きます。\r\n//　が……今回の場合、それだけではどうにも\r\n//なりませんね」\r\n\"We require that our clients sacrifice their own lives, but in this case, I'm afraid that isn't enough.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031170b01'>\r\n//「依頼人の御命は必ず頂きます。\r\n//　が……今回の場合、それだけではどうにも\r\n//なりませんね」\r\n\"Exigimos que nossos clientes sacrifiquem a própria vida, mas, neste caso, receio que isso não seja suficiente.\"\r\n"
  },
  {
   "offset": 28795,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031180b01'>\r\n//「今時の軍は将軍が一人死んだ程度で止まる\r\n//ものでもないですし。\r\n//　相当量の殺戮が必要……となるとあなたの\r\n//命だけでは<RUBY text='・・・・・・・'>勘定が合わない</RUBY>」\r\n\"Modern armies do not crumble just because their general is slain. More lives must be taken, but yours can only pay for one.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031180b01'>\r\n//「今時の軍は将軍が一人死んだ程度で止まる\r\n//ものでもないですし。\r\n//　相当量の殺戮が必要……となるとあなたの\r\n//命だけでは<RUBY text='・・・・・・・'>勘定が合わない</RUBY>」\r\n\"Exércitos modernos não desmoronam só porque seu general foi morto. É preciso tirar mais vidas, mas a sua só pode pagar por uma.\"\r\n"
  },
  {
   "offset": 29279,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031190b01'>\r\n//「ですので、不足分はあなたの味方から。\r\n//　守ろうとしたものから頂きます」\r\n\"The balance, then, must come from the people you wish to protect.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031190b01'>\r\n//「ですので、不足分はあなたの味方から。\r\n//　守ろうとしたものから頂きます」\r\n\"O equilíbrio, então, deve vir daqueles que o senhor deseja proteger.\"\r\n"
  },
  {
   "offset": 29571,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031200e201'>\r\n//「……敵と味方を同じ数、殺すのか」\r\n\"So you kill the same number on both sides? Is that it!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031200e201'>\r\n//「……敵と味方を同じ数、殺すのか」\r\n\"Então vocês matam o mesmo número dos dois lados? É isso!?\"\r\n"
  },
  {
   "offset": 29811,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031210b01'>\r\n//「ええ、そうです」\r\n\"Correct.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031210b01'>\r\n//「ええ、そうです」\r\n\"Exato.\"\r\n"
  },
  {
   "offset": 29964,
@@ -582,27 +582,27 @@
  {
   "offset": 30128,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031230b01'>\r\n//「やはり多少の誤解があったようですね。\r\n//　けど、後悔はなさらなくていいんですよ」\r\n\"So you didn't know. But that's all right, Governor.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031230b01'>\r\n//「やはり多少の誤解があったようですね。\r\n//　けど、後悔はなさらなくていいんですよ」\r\n\"Então o senhor não sabia. Mas não faz mal, Governador.\"\r\n"
  },
  {
   "offset": 30418,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031240b01'>\r\n//「あなたは何も間違ったことをしていない」\r\n\"You made the right choice.\"\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031250b01'>\r\n//「〝武帝〟が介入しなければ、陸奥の人々が\r\n//ただ一方的に殺されるだけだった。\r\n//　露帝の正義のもと、ただただ一方的に」\r\n\"Without our intervention, the Russians would have slaughtered your people, likely without incurring any casualties of their own. Their cause, their <I>justice,</I>㉓would have prevailed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031240b01'>\r\n//「あなたは何も間違ったことをしていない」\r\n\"O senhor fez a escolha certa.\"\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031250b01'>\r\n//「〝武帝〟が介入しなければ、陸奥の人々が\r\n//ただ一方的に殺されるだけだった。\r\n//　露帝の正義のもと、ただただ一方的に」\r\n\"Sem a nossa intervenção, os russos teriam massacrado seu povo, provavelmente sem sofrer baixas. A causa deles, a <I>justiça,</I>㉓ teria prevalecido.\"\r\n"
  },
  {
   "offset": 31092,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031260b01'>\r\n//「しかし私達が動くからにはそうはさせない。\r\n//　必ず、両方に均等な死を与えます」\r\n\"Now it will not. For we ensure that both sides suffer the exact same loss of life.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031260b01'>\r\n//「しかし私達が動くからにはそうはさせない。\r\n//　必ず、両方に均等な死を与えます」\r\n\"Agora não será assim. Pois garantimos que ambos os lados sofram exatamente a mesma perda de vidas.\"\r\n"
  },
  {
   "offset": 31410,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031270b01'>\r\n//「正義が勝利することのないように」\r\n\"In order that neither may claim that justice was with them.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031270b01'>\r\n//「正義が勝利することのないように」\r\n\"Para que nenhum dos dois possa alegar que a justiça estava do seu lado.\"\r\n"
  },
  {
   "offset": 31638,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031280e201'>\r\n//「…………なぜ」\r\n\"...Why?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031280e201'>\r\n//「…………なぜ」\r\n\"...Por quê?\"\r\n"
  },
  {
   "offset": 31803,
@@ -612,27 +612,27 @@
  {
   "offset": 31939,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031300e201'>\r\n//「なぜ、そんなことをする？」\r\n\"Why㉗<I>do</I> that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031300e201'>\r\n//「なぜ、そんなことをする？」\r\n\"Por que㉗<I>fazer</I> isso?\"\r\n"
  },
  {
   "offset": 32136,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031310b01'>\r\n//「理由は聞きたくないと、先程」\r\n\"I thought you didn't want to―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031310b01'>\r\n//「理由は聞きたくないと、先程」\r\n\"Pensei que o senhor não quisesse—\"\r\n"
  },
  {
   "offset": 32330,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031320e201'>\r\n//「なぜだ!?」\r\n\"Why!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0031320e201'>\r\n//「なぜだ!?」\r\n\"Por quê!?\"\r\n"
  },
  {
   "offset": 32486,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031330b01'>\r\n//「…………。\r\n//　<RUBY text='・・'>なぜ</RUBY>」\r\n\"<I>...Why.</I>\"\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031340b01'>\r\n//「なぜ、敵も味方も殺してしまうのか？\r\n//　なぜ、善しも悪しきも殺してしまうのか？」\r\n\"Why do we kill the good with the bad? Allies and enemies both?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031330b01'>\r\n//「…………。\r\n//　<RUBY text='・・'>なぜ</RUBY>」\r\n\"<I>...Por quê.</I>\"\r\n\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031340b01'>\r\n//「なぜ、敵も味方も殺してしまうのか？\r\n//　なぜ、善しも悪しきも殺してしまうのか？」\r\n\"Por que matamos os bons junto com os maus? Aliados e inimigos, ambos?\"\r\n"
  },
  {
   "offset": 32972,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031350b01'>\r\n//「お答えしましょう」\r\n\"The answer is simple.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031350b01'>\r\n//「お答えしましょう」\r\n\"A resposta é simples.\"\r\n"
  },
  {
   "offset": 33141,
@@ -642,6 +642,6 @@
  {
   "offset": 33299,
   "en": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031370b01'>\r\n//「あなたが求めた<RUBY text='ちから'>武力</RUBY>とは、\r\n//　……そういうものだから」\r\n\"Because that is the nature of might, the power which you desired.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【オーリガ】\r\n<voice name='オーリガ' class='オーリガ' src='voice/md06/0031370b01'>\r\n//「あなたが求めた<RUBY text='ちから'>武力</RUBY>とは、\r\n//　……そういうものだから」\r\n\"Porque essa é a natureza da força, do poder que o senhor desejou.\"\r\n"
  }
 ]

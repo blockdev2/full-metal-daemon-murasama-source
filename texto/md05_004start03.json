@@ -2,7 +2,7 @@
  {
   "offset": 220,
   "en": "\r\n//　あなたは湊斗光を殺さなくてはならない。\r\n  You must kill Minato Hikaru.\r\n",
-  "pt": ""
+  "pt": "\r\n//　あなたは湊斗光を殺さなくてはならない。\r\n  Você precisa matar Minato Hikaru.\r\n"
  },
  {
   "offset": 326,
@@ -12,7 +12,7 @@
  {
   "offset": 452,
   "en": "\r\n//　しかし殺せなかった。\r\n  However, you could not bring yourself to do so.\r\n",
-  "pt": ""
+  "pt": "\r\n//　しかし殺せなかった。\r\n  Contudo, você não foi capaz de fazê-lo.\r\n"
  },
  {
   "offset": 550,
@@ -22,7 +22,7 @@
  {
   "offset": 676,
   "en": "\r\n//　仕方ない。\r\n//　協力者を求めよう。\r\n\r\n//　あなた一人では目的を果たせなくても、誰かに力を\r\n//貸してもらえばできるかもしれない。\r\n//　手伝ってくれる人を探そう。\r\n  You need help. Perhaps you can find someone willing to assist you.\r\n",
-  "pt": ""
+  "pt": "\r\n//　仕方ない。\r\n//　協力者を求めよう。\r\n\r\n//　あなた一人では目的を果たせなくても、誰かに力を\r\n//貸してもらえばできるかもしれない。\r\n//　手伝ってくれる人を探そう。\r\n  Você precisa de ajuda. Talvez consiga encontrar alguém disposto a lhe auxiliar.\r\n"
  },
  {
   "offset": 991,
@@ -32,7 +32,7 @@
  {
   "offset": 1117,
   "en": "\r\n//　何処へ行く？\r\n  Where will you begin your search?\r\n",
-  "pt": ""
+  "pt": "\r\n//　何処へ行く？\r\n  Onde começará sua busca?\r\n"
  },
  {
   "offset": 1189,
@@ -42,7 +42,7 @@
  {
   "offset": 1201,
   "en": "The Grand Manor",
-  "pt": ""
+  "pt": "A Grande Mansão"
  },
  {
   "offset": 1224,
@@ -52,7 +52,7 @@
  {
   "offset": 1236,
   "en": "The Isolated Home",
-  "pt": ""
+  "pt": "A Casa Isolada"
  },
  {
   "offset": 1261,
@@ -62,6 +62,6 @@
  {
   "offset": 1273,
   "en": "The Hilltop",
-  "pt": ""
+  "pt": "O Topo da Colina"
  }
 ]

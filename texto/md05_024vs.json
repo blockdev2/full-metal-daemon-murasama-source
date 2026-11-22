@@ -2,37 +2,37 @@
  {
   "offset": 215,
   "en": "\r\n//　<RUBY text='おれ'>私</RUBY>は敵影を確認した。\r\n\r\n//　距離、至近。\r\n//　極めて高速度で当方へ進攻しつつある。\r\n\r\n//　接触までの所要時間は推定〇・二秒。\r\n\r\n//　回避は可能であるが得策と云えず。\r\n//　続く状況における行動選択の幅を失い、敗北不可避\r\n//となる恐れが濃厚。\r\n\r\n//　迎撃を至当と認む。\r\n\r\n//　使用可能武装は野太刀及び脇差。<k>\r\n//　\r\n//　いずれも用いず。\r\n\r\n//　敵騎の機動性能を考慮するに武器使用が必然とする\r\n//各種制限は攻撃成功確率を極めて低い程度へ落とす。\r\n//　従って不適切。\r\n\r\n//　無手にて応ずるべし。\r\n  My identity established, I prepare to meet the enemy.\r\n\r\n  My target―Ginseigo―is close, and approaching rapidly. Time to contact, zero-point-two seconds.\r\n\r\n  Evasive action is possible, but likely to limit my options. Inadvisable. I will engage the enemy head-on.\r\n\r\n  My current armament consists of one nodachi and one wakizashi.\r\n  I will use neither. Against an opponent this agile, the limitations inherent in the use of any weapon will make landing an attack impossible.\r\n\r\n  The situation calls for unarmed combat.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　<RUBY text='おれ'>私</RUBY>は敵影を確認した。\r\n\r\n//　距離、至近。\r\n//　極めて高速度で当方へ進攻しつつある。\r\n\r\n//　接触までの所要時間は推定〇・二秒。\r\n\r\n//　回避は可能であるが得策と云えず。\r\n//　続く状況における行動選択の幅を失い、敗北不可避\r\n//となる恐れが濃厚。\r\n\r\n//　迎撃を至当と認む。\r\n\r\n//　使用可能武装は野太刀及び脇差。<k>\r\n//　\r\n//　いずれも用いず。\r\n\r\n//　敵騎の機動性能を考慮するに武器使用が必然とする\r\n//各種制限は攻撃成功確率を極めて低い程度へ落とす。\r\n//　従って不適切。\r\n\r\n//　無手にて応ずるべし。\r\n  Minha identidade confirmada, preparo-me para enfrentar o inimigo.\r\n\r\n  Meu alvo―Ginseigo―está próximo e se aproxima em alta velocidade. Tempo até o contato: zero vírgula dois segundos.\r\n\r\n  A ação evasiva é possível, mas provavelmente limitaria minhas opções. Inadvisável. Engajarei o inimigo de frente.\r\n\r\n  Meu armamento atual consiste em uma nodachi e uma wakizashi.\r\n  Não usarei nenhuma das duas. Contra um oponente tão ágil, as limitações inerentes ao uso de qualquer arma tornariam impossível acertar um ataque.\r\n\r\n  A situação exige combate desarmado.\r\n\r\n"
  },
  {
   "offset": 1485,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0010a14'>\r\n//《――うぬッ!?》\r\n《Nuh!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0010a14'>\r\n//《――うぬッ!?》\r\n《Nuh!?》\r\n"
  },
  {
   "offset": 1610,
   "en": "\r\n//　敵騎の蹴打に対して踏み込み、掌にて一打を加える。\r\n//　威力は軽微。損傷は全く与えていない。\r\n\r\n//　だがこれで良し。\r\n//　この一手は敵の攻めを封じ、次へ繋ぐためのもの。\r\n  I step inside Ginseigo's kick and deliver a light palm strike to the chest. No damage, but I succeed in blunting the enemy's offensive. Now to follow through.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　敵騎の蹴打に対して踏み込み、掌にて一打を加える。\r\n//　威力は軽微。損傷は全く与えていない。\r\n\r\n//　だがこれで良し。\r\n//　この一手は敵の攻めを封じ、次へ繋ぐためのもの。\r\n  Avanço para dentro do chute de Ginseigo e desfiro um golpe leve de palma no peito. Nenhum dano, mas consigo deter a ofensiva do inimigo. Agora, encadear.\r\n\r\n"
  },
  {
   "offset": 2033,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0020a14'>\r\n//《がッ――ふッ、く》\r\n《Gah! Kuh...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0020a14'>\r\n//《がッ――ふッ、く》\r\n《Gaah! Kuh...》\r\n"
  },
  {
   "offset": 2171,
   "en": "\r\n//　手応え有り。\r\n\r\n//　敵騎は機動力及び攻撃力において卓抜すると<RUBY text='いえど'>雖</RUBY>も、\r\n//甲鉄の強度においては当方を凌駕せず。\r\n//　肉弾攻撃にて損害を及ぼす事が可能である。\r\n\r\n//　現行戦術を続行。\r\n  A clean hit. Ginseigo boasts superior speed and power, but not superior durability. Even unarmed, my strikes have sufficient force to damage the enemy.\r\n\r\n  Assessment: tactics effective. Continue present course.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　手応え有り。\r\n\r\n//　敵騎は機動力及び攻撃力において卓抜すると<RUBY text='いえど'>雖</RUBY>も、\r\n//甲鉄の強度においては当方を凌駕せず。\r\n//　肉弾攻撃にて損害を及ぼす事が可能である。\r\n\r\n//　現行戦術を続行。\r\n  Golpe limpo. Ginseigo ostenta velocidade e potência superiores, mas não durabilidade superior. Mesmo desarmado, meus golpes têm força suficiente para danificar o inimigo.\r\n\r\n  Avaliação: tática eficaz. Manter o curso atual.\r\n\r\n"
  },
  {
   "offset": 2690,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0030a14'>\r\n//《かッはァ!!》\r\n《Gah!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0030a14'>\r\n//《かッはァ!!》\r\n《Gaah!》\r\n"
  },
  {
   "offset": 2811,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0040a14'>\r\n//《……やってくれたな景明ィ！\r\n//　今の体術、光としたことが不意をつかれた》\r\n《Well <I>played,</I>㉓Kageaki! You took me entirely by surprise!》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0050a14'>\r\n//《こんな技、こんな速さを隠し持っていたか。\r\n//　出し惜しみとは人の悪い奴！》\r\n《Such speed! Such skill! To think you've been holding back all this time!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0040a14'>\r\n//《……やってくれたな景明ィ！\r\n//　今の体術、光としたことが不意をつかれた》\r\n《Bem <I>jogado,</I>㉓Kageaki! Você me pegou completamente de surpresa!》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0050a14'>\r\n//《こんな技、こんな速さを隠し持っていたか。\r\n//　出し惜しみとは人の悪い奴！》\r\n《Que velocidade! Que habilidade! E pensar que você estava se contendo todo esse tempo!》\r\n"
  },
  {
   "offset": 3354,
@@ -42,12 +42,12 @@
  {
   "offset": 3468,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0070a14'>\r\n//《ここからが本気と云うなら、光もその気で\r\n//報いねばなるまい。\r\n//　仕切り直しだ！》\r\n《At last you show your full strength. Splendid! I shall answer in kind!》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0080a14'>\r\n//《すべてを出せ！　すべてを見せろ！\r\n//　おれもすべてをもって応えてやる――》\r\n《Now our battle truly begins! Come! And let the fury of our meeting light the earth below!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0070a14'>\r\n//《ここからが本気と云うなら、光もその気で\r\n//報いねばなるまい。\r\n//　仕切り直しだ！》\r\n《Enfim mostras toda a tua força. Esplêndido! Responderei à altura!》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0080a14'>\r\n//《すべてを出せ！　すべてを見せろ！\r\n//　おれもすべてをもって応えてやる――》\r\n《Agora nossa batalha começa de verdade! Vem! E que a fúria do nosso encontro ilumine a terra abaixo!》\r\n"
  },
  {
   "offset": 4047,
   "en": "\r\n//　敵騎より信号が送られている。<k>\r\n//　\r\n//　あらゆる反応の必要無し。\r\n  I analyze the enemy's transmission.<K>\r\n  No response required.\r\n",
-  "pt": ""
+  "pt": "\r\n//　敵騎より信号が送られている。<k>\r\n//　\r\n//　あらゆる反応の必要無し。\r\n  Analiso a transmissão do inimigo.<K>\r\n  Nenhuma resposta necessária.\r\n"
  },
  {
   "offset": 4226,
@@ -57,12 +57,12 @@
  {
   "offset": 4340,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0100a14'>\r\n//《――はッ!!》\r\n《HA!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0100a14'>\r\n//《――はッ!!》\r\n《HA!》\r\n"
  },
  {
   "offset": 4460,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0110a14'>\r\n//《ッッッしゃァ!!》\r\n《SHA!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0110a14'>\r\n//《ッッッしゃァ!!》\r\n《SHA!》\r\n"
  },
  {
   "offset": 4587,
@@ -72,47 +72,47 @@
  {
   "offset": 4718,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0130a14'>\r\n//《……ちぃ！　重いわ！》\r\n《Tch! A fine blow!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0130a14'>\r\n//《……ちぃ！　重いわ！》\r\n《Tch! Que golpe pesado!》\r\n"
  },
  {
   "offset": 4868,
   "en": "\r\n//　防ぎながらなお押し飛ばされ、敵騎が嬉しげに<RUBY text='のたま'>曰</RUBY>う。\r\n//　体内まで伝わる衝撃が多少はあった筈だが、<RUBY text='こた'>堪</RUBY>えた\r\n//気色はない。\r\n\r\n//　更に鋭気を高めて再び襲う。\r\n  My counterstrike explodes against Ginseigo's guard, knocking my enemy back, but though the impact surely penetrated its armor, its pilot laughs with glee.\r\n\r\n  The silver musha rights itself, then attacks with redoubled ferocity.\r\n",
-  "pt": ""
+  "pt": "\r\n//　防ぎながらなお押し飛ばされ、敵騎が嬉しげに<RUBY text='のたま'>曰</RUBY>う。\r\n//　体内まで伝わる衝撃が多少はあった筈だが、<RUBY text='こた'>堪</RUBY>えた\r\n//気色はない。\r\n\r\n//　更に鋭気を高めて再び襲う。\r\n  Meu contra-ataque explode contra a guarda de Ginseigo, repelindo o inimigo; mas, embora o impacto certamente tenha atravessado sua armadura, seu piloto ri com deleite.\r\n\r\n  O musha prateado se recompõe e ataca com ferocidade redobrada.\r\n"
  },
  {
   "offset": 5393,
   "en": "\r\n//　分析し推定する。\r\n//　\r\n//　下段蹴りから入って右拳――左肘――\r\n  I extrapolate the enemy's likely course of attack. Low kick―right straight―left elbow thrust―\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　分析し推定する。\r\n//　\r\n//　下段蹴りから入って右拳――左肘――\r\n  Extrapolo o provável curso de ataque do inimigo. Chute baixo―direto de direita―cotovelada de esquerda―\r\n\r\n"
  },
  {
   "offset": 5604,
   "en": "\r\n//　予測通り。\r\n//　凌いで凌ぎ、連打の切れ目に我が反撃を差し込む。\r\n  As expected. While deflecting Ginseigo's third strike, I insert a sharp reply.\r\n",
-  "pt": ""
+  "pt": "\r\n//　予測通り。\r\n//　凌いで凌ぎ、連打の切れ目に我が反撃を差し込む。\r\n  Como esperado. Ao aparar o terceiro golpe de Ginseigo, encaixo uma resposta afiada.\r\n"
  },
  {
   "offset": 5794,
   "en": "\r\n//　当たらず。\r\n//　敵騎の回避性能が当方の攻撃速度に優る。\r\n\r\n//　攻撃継続限界。敵の反撃。\r\n//　\r\n//　分析推定する。左右の拳打から上段蹴り――逆足の\r\n//蹴り――右肘――左右左の拳――下段蹴り――\r\n  No contact. The enemy evades my attack, then immediately resumes its assault.\r\n\r\n  Extrapolate. Two-punch combination into high kick―spinning back kick―right elbow hook―<br>three-punch combination<br>―leg sweep―\r\n",
-  "pt": ""
+  "pt": "\r\n//　当たらず。\r\n//　敵騎の回避性能が当方の攻撃速度に優る。\r\n\r\n//　攻撃継続限界。敵の反撃。\r\n//　\r\n//　分析推定する。左右の拳打から上段蹴り――逆足の\r\n//蹴り――右肘――左右左の拳――下段蹴り――\r\n  Sem contato. O inimigo esquiva do meu ataque e logo retoma a ofensiva.\r\n\r\n  Extrapolar. Combinado de dois socos para chute alto―chute giratório de costas―gancho de cotovelo direito―combinado de três socos―varredura de perna―\r\n"
  },
  {
   "offset": 6310,
   "en": "\r\n//　一手、読み誤った。\r\n//　軽い打撃を浴び、姿勢が崩れる。\r\n\r\n//　そこへ、\r\n  Ginseigo's last move betrays my expectations. A high kick staggers me, and for an instant, I am vulnerable.\r\n",
-  "pt": ""
+  "pt": "\r\n//　一手、読み誤った。\r\n//　軽い打撃を浴び、姿勢が崩れる。\r\n\r\n//　そこへ、\r\n  O último movimento de Ginseigo trai minhas expectativas. Um chute alto me desestabiliza e, por um instante, fico vulnerável.\r\n"
  },
  {
   "offset": 6538,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0140a14'>\r\n//《吉野御流合戦礼法》\r\n《Yoshino-onryu Kassen Reiho―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0140a14'>\r\n//《吉野御流合戦礼法》\r\n《Yoshino-onryu Kassen Reiho―》\r\n"
  },
  {
   "offset": 6694,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0150a14'>\r\n//《<RUBY text='サカガミ'>逆髪</RUBY>！》\r\n《Sakagami!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0150a14'>\r\n//《<RUBY text='サカガミ'>逆髪</RUBY>！》\r\n《Sakagami!》\r\n"
  },
  {
   "offset": 6848,
   "en": "\r\n//　体を捻り、下の死角から襲う踵蹴り――\r\n  The enemy whirls, unleashing a reverse heel kick.\r\n",
-  "pt": ""
+  "pt": "\r\n//　体を捻り、下の死角から襲う踵蹴り――\r\n  O inimigo gira, desferindo um chute de calcanhar invertido.\r\n"
  },
  {
   "offset": 6972,
@@ -122,17 +122,17 @@
  {
   "offset": 7106,
   "en": "\r\n//　直撃。\r\n//　深刻な損傷。\r\n\r\n//　だが致命打には達せず。\r\n//　戦闘続行は可能。\r\n  A direct hit. Damage severe.<K>\r\n  But not fatal. I remain battleworthy.\r\n",
-  "pt": ""
+  "pt": "\r\n//　直撃。\r\n//　深刻な損傷。\r\n\r\n//　だが致命打には達せず。\r\n//　戦闘続行は可能。\r\n  Um acerto direto. Dano grave.<K>\r\n  Mas não fatal. Continuo em condições de combate.\r\n"
  },
  {
   "offset": 7306,
   "en": "\r\n//　追撃の一打を躱し、敵騎の内懐へ踏み込む。\r\n//　至近の間から、左手を相手の背に回すと同時、右の\r\n//拳を鳩尾に打ち込む――\r\n\r\n//　吉野御流合戦礼法、<RUBY text='カナジキ'>鉄床</RUBY>。\r\n  I evade Ginseigo's follow-up, then close to point-blank range. My left hand slides behind the enemy's back while my right delivers a crushing blow to the sternum.<K>\r\n  Yoshino-onryu: Kanazuki.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　追撃の一打を躱し、敵騎の内懐へ踏み込む。\r\n//　至近の間から、左手を相手の背に回すと同時、右の\r\n//拳を鳩尾に打ち込む――\r\n\r\n//　吉野御流合戦礼法、<RUBY text='カナジキ'>鉄床</RUBY>。\r\n  Esquivo do golpe seguinte de Ginseigo e fecho a distância até a queima-roupa. Minha mão esquerda desliza para trás das costas do inimigo enquanto a direita desfere um golpe esmagador no esterno.<K>\r\n  Yoshino-onryu: Kanazuki.\r\n\r\n"
  },
  {
   "offset": 7773,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0170a14'>\r\n//《景明ぃ……！》\r\n《Kageaki...!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0170a14'>\r\n//《景明ぃ……！》\r\n《Kageaki...!》\r\n"
  },
  {
   "offset": 7905,
@@ -142,17 +142,17 @@
  {
   "offset": 8019,
   "en": "\r\n//　形勢はほぼ互角。\r\n\r\n//　敵騎に決定的打撃を与えられない。\r\n//　しかし、敵騎も<RUBY text='おれ'>私</RUBY>に決定打を与えられない。\r\n\r\n//　――そう、互角。\r\n//　三世千子右衛門尉村正／朝敵追討執行用戦闘能力は、\r\n//遂に二世千子右衛門尉村正／銀星号と同等の領域まで\r\n//至っている。\r\n  We exchange attacks through several more passes. I am unable to land a killing blow, but the same is true of my enemy.\r\n\r\n  The contest is even. Yes, <I>even.</I>㉑ Muramasa the Third is at last Ginseigo's match.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　形勢はほぼ互角。\r\n\r\n//　敵騎に決定的打撃を与えられない。\r\n//　しかし、敵騎も<RUBY text='おれ'>私</RUBY>に決定打を与えられない。\r\n\r\n//　――そう、互角。\r\n//　三世千子右衛門尉村正／朝敵追討執行用戦闘能力は、\r\n//遂に二世千子右衛門尉村正／銀星号と同等の領域まで\r\n//至っている。\r\n  Trocamos ataques por mais alguns lances. Não consigo desferir um golpe mortal, mas o mesmo vale para meu inimigo.\r\n\r\n  O confronto está equilibrado. Sim, <I>equilibrado.</I>㉑ Muramasa, o Terceiro, finalmente está à altura de Ginseigo.\r\n\r\n"
  },
  {
   "offset": 8640,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0190a14'>\r\n//《シィィィィァア――》\r\n《SHAAAAAAAA!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0190a14'>\r\n//《シィィィィァア――》\r\n《SHAAAAAAAA!》\r\n"
  },
  {
   "offset": 8781,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0200a14'>\r\n//《<RUBY text='ブレイジング・ストリーム'>瘴熱疾走・火隕星</RUBY>!!》\r\n《BLAZING STREAM!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0200a14'>\r\n//《<RUBY text='ブレイジング・ストリーム'>瘴熱疾走・火隕星</RUBY>!!》\r\n《BLAZING STREAM!》\r\n"
  },
  {
   "offset": 8982,
@@ -172,27 +172,27 @@
  {
   "offset": 9372,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0240a14'>\r\n//《おかしい……》\r\n《Something's wrong.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0240a14'>\r\n//《おかしい……》\r\n《Algo está errado.》\r\n"
  },
  {
   "offset": 9511,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0250a14'>\r\n//《解せぬ。\r\n//　どうにも、解せぬ》\r\n《<I>This</I>㉓is wrong.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0260a14'>\r\n//《良い勝負をしているのだ。\r\n//　かつて無かったほど――》\r\n《Kageaki is stronger than ever before. Strong enough, even, to test my limits.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0270a14'>\r\n//《光に追随する力と技。\r\n//　見事というほかはない》\r\n《It's wonderful! Or... it should be.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0250a14'>\r\n//《解せぬ。\r\n//　どうにも、解せぬ》\r\n《<I>Isto</I>㉓está errado.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0260a14'>\r\n//《良い勝負をしているのだ。\r\n//　かつて無かったほど――》\r\n《Kageaki está mais forte do que nunca. Forte o bastante, até, para testar meus limites.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0270a14'>\r\n//《光に追随する力と技。\r\n//　見事というほかはない》\r\n《É maravilhoso! Ou... deveria ser.》\r\n"
  },
  {
   "offset": 10125,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0280a14'>\r\n//《……なのに……》\r\n《But...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0280a14'>\r\n//《……なのに……》\r\n《Mas...》\r\n"
  },
  {
   "offset": 10255,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0290a14'>\r\n//《なぜ、響かぬ？\r\n//　なぜ、心が躍らぬ？》\r\n《Then why do I feel so empty? Why is my heart so cold?》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0300a14'>\r\n//《光のこの、醒めた胸は何だ？》\r\n《What manner of curse is this?》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0310a14'>\r\n//《景明と、これほどの戦いを演じているのだ。\r\n//　震え、昂ぶり、酔いしれて当然のはずが》\r\n《My blood should be afire. My throat worked raw by cries of joy. I should want this to last forever.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0290a14'>\r\n//《なぜ、響かぬ？\r\n//　なぜ、心が躍らぬ？》\r\n《Então por que me sinto tão vazio? Por que meu coração está tão frio?》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0300a14'>\r\n//《光のこの、醒めた胸は何だ？》\r\n《Que espécie de maldição é esta?》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0310a14'>\r\n//《景明と、これほどの戦いを演じているのだ。\r\n//　震え、昂ぶり、酔いしれて当然のはずが》\r\n《Meu sangue deveria estar em chamas. Minha garganta, em carne viva de tanto gritar de alegria. Eu deveria querer que isto durasse para sempre.》\r\n"
  },
  {
   "offset": 10944,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0320a14'>\r\n//《どうしてこんなにも虚しい？\r\n//　まるで……案山子か何かと殴り合っている\r\n//かのように……》\r\n《Instead, I feel nothing. It's as if I'm fighting a㉓<I>puppet.</I>》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0320a14'>\r\n//《どうしてこんなにも虚しい？\r\n//　まるで……案山子か何かと殴り合っている\r\n//かのように……》\r\n《Em vez disso, não sinto nada. É como se eu estivesse lutando contra um㉓<I>fantoche.</I>》\r\n"
  },
  {
   "offset": 11242,
@@ -202,42 +202,42 @@
  {
   "offset": 11378,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0340a15'>\r\n//《……ふん……？\r\n//　流石は御堂、相変わらずの鋭さよ》\r\n《...Oh? As always, Mido, your instincts serve you well.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0350a15'>\r\n//《どうやらその勘、正鵠を得ておるぞ》\r\n《You are more right than you know.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0340a15'>\r\n//《……ふん……？\r\n//　流石は御堂、相変わらずの鋭さよ》\r\n《...Oh? Como sempre, Mido, teus instintos te servem bem.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0350a15'>\r\n//《どうやらその勘、正鵠を得ておるぞ》\r\n《Estás mais certo do que pensas.》\r\n"
  },
  {
   "offset": 11838,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0360a14'>\r\n//《村正……？》\r\n《Muramasa?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0360a14'>\r\n//《村正……？》\r\n《Muramasa?》\r\n"
  },
  {
   "offset": 11965,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0370a15'>\r\n//《なれの兄はあそこにはおらぬ》\r\n《Your brother is no longer there.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0370a15'>\r\n//《なれの兄はあそこにはおらぬ》\r\n《Teu irmão já não está ali.》\r\n"
  },
  {
   "offset": 12166,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0380a14'>\r\n//《何？》\r\n《What?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0380a14'>\r\n//《何？》\r\n《O quê?》\r\n"
  },
  {
   "offset": 12280,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0390a14'>\r\n//《いや、馬鹿な。\r\n//　いつぞやのようにおまえの娘が景明抜きで\r\n//武者のふりをしているというのか？　そんな\r\n//はずは――》\r\n《No. You can't mean... Is this another of your daughter's games? Like the time she left Kageaki behind to challenge us on her own?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0390a14'>\r\n//《いや、馬鹿な。\r\n//　いつぞやのようにおまえの娘が景明抜きで\r\n//武者のふりをしているというのか？　そんな\r\n//はずは――》\r\n《Não. Não pode ser... É mais um dos jogos da sua filha? Como da vez em que ela deixou Kageaki para trás e nos desafiou sozinha?》\r\n"
  },
  {
   "offset": 12680,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0400a15'>\r\n//《あの時とは違う。\r\n//　あれは正しく合一を果たした武者には違い\r\n//ない》\r\n《Not like that. What you see before you is indeed a complete musha.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0410a15'>\r\n//《ふむ……考えようによっては、これも心甲\r\n//一致か……》\r\n《Yes... I suppose this too is a kind of oneness.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0400a15'>\r\n//《あの時とは違う。\r\n//　あれは正しく合一を果たした武者には違い\r\n//ない》\r\n《Não é como aquela vez. O que vês diante de ti é, de fato, um musha completo.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0410a15'>\r\n//《ふむ……考えようによっては、これも心甲\r\n//一致か……》\r\n《Sim... pensando bem, isto também é uma espécie de união.》\r\n"
  },
  {
   "offset": 13219,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0420a14'>\r\n//《どういう事だ!?》\r\n《Explain!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0420a14'>\r\n//《どういう事だ!?》\r\n《Explique!》\r\n"
  },
  {
   "offset": 13350,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0430a15'>\r\n//《湊斗景明の心は今、劒冑に食われていると\r\n//いうことよ。\r\n//　意思を呑まれ、肉体を支配されている》\r\n《His body is there, but his soul is gone. His will has been extinguished, his mind slaved to his tsurugi's.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0440a15'>\r\n//《精神干渉の力でな》\r\n《A simple enough feat, for one with our power.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0430a15'>\r\n//《湊斗景明の心は今、劒冑に食われていると\r\n//いうことよ。\r\n//　意思を呑まれ、肉体を支配されている》\r\n《O corpo dele está ali, mas a alma se foi. Sua vontade foi extinguida, sua mente escravizada à do tsurugi.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0440a15'>\r\n//《精神干渉の力でな》\r\n《Um feito simples o bastante para quem tem o nosso poder.》\r\n"
  },
  {
   "offset": 13914,
@@ -247,22 +247,22 @@
  {
   "offset": 14013,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0460a14'>\r\n//《な……何だと……！》\r\n《What... but...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0460a14'>\r\n//《な……何だと……！》\r\n《O quê... mas...》\r\n"
  },
  {
   "offset": 14157,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0470a15'>\r\n//《奴の動きの良さも頷ける。\r\n//　肉体の脳を劒冑の統制下に置いて、思考と\r\n//反応の無駄を極限まで削ぎ落とした結果か》\r\n《This explains their newfound strength as well. Direct control of the pilot's brain would eliminate the delay between intent and action. His thoughts and hers are truly one.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0470a15'>\r\n//《奴の動きの良さも頷ける。\r\n//　肉体の脳を劒冑の統制下に置いて、思考と\r\n//反応の無駄を極限まで削ぎ落とした結果か》\r\n《Isso também explica a força recém-adquirida deles. O controle direto do cérebro do piloto eliminaria o atraso entre intenção e ação. Os pensamentos dele e os dela são verdadeiramente um só.》\r\n"
  },
  {
   "offset": 14620,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0480a14'>\r\n//《いや違う！　そんなことはない！\r\n//　……あってはならぬ……！》\r\n《No! Impossible! This cannot be!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0480a14'>\r\n//《いや違う！　そんなことはない！\r\n//　……あってはならぬ……！》\r\n《Não! Impossível! Isso não pode ser!》\r\n"
  },
  {
   "offset": 14842,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0490a14'>\r\n//《景明、そこにいるなら応えろ！\r\n//　おまえは、まさか、劒冑の傀儡になっては\r\n//いまい!?》\r\n《Are you there, Kageaki!? Answer me! Tell me you're not that tsurugi's slave!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0490a14'>\r\n//《景明、そこにいるなら応えろ！\r\n//　おまえは、まさか、劒冑の傀儡になっては\r\n//いまい!?》\r\n《Kageaki, você está aí!? Responda! Diga que não é escravo desse tsurugi!》\r\n"
  },
  {
   "offset": 15142,
@@ -272,57 +272,57 @@
  {
   "offset": 15256,
   "en": "\r\n//　強い信号が着信している。<k>\r\n//　\r\n//　反応の必要を認めず。\r\n\r\n//　攻撃態勢の再起完了。\r\n//　戦闘を続行する。\r\n  This transmission is stronger than the last.<K>\r\n  No response required.\r\n\r\n  Meanwhile, I have readied my next offensive. Time is of the essence.\r\n",
-  "pt": ""
+  "pt": "\r\n//　強い信号が着信している。<k>\r\n//　\r\n//　反応の必要を認めず。\r\n\r\n//　攻撃態勢の再起完了。\r\n//　戦闘を続行する。\r\n  Esta transmissão é mais forte que a anterior.<K>\r\n  Nenhuma resposta necessária.\r\n\r\n  Enquanto isso, já preparei minha próxima ofensiva. O tempo urge.\r\n"
  },
  {
   "offset": 15576,
   "en": "\r\n//　敵騎は回避を失敗した。\r\n//　正確には、回避を行わなかった。\r\n\r\n//　<RUBY text='おれ'>私</RUBY>の一撃を浴び、大きく吹き飛ぶ。\r\n//　――相当の損傷を与えたと推測。\r\n  Ginseigo makes no attempt to evade. Unusual, but no matter. My kick lands cleanly, blasting the enemy farther into space. Significant damage is likely.\r\n",
-  "pt": ""
+  "pt": "\r\n//　敵騎は回避を失敗した。\r\n//　正確には、回避を行わなかった。\r\n\r\n//　<RUBY text='おれ'>私</RUBY>の一撃を浴び、大きく吹き飛ぶ。\r\n//　――相当の損傷を与えたと推測。\r\n  Ginseigo não tenta se esquivar. Incomum, mas não importa. Meu chute acerta em cheio, lançando o inimigo para mais longe no espaço. É provável que danos significativos tenham sido causados.\r\n"
  },
  {
   "offset": 15969,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0510a15'>\r\n//《御堂！》\r\n《Mido!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0510a15'>\r\n//《御堂！》\r\n《Mido!》\r\n"
  },
  {
   "offset": 16113,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0520a14'>\r\n//《…………》\r\n《......》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0530a14'>\r\n//《か――感じぬ》\r\n《There's... nothing.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0540a14'>\r\n//《景明の心が見当たらぬ》\r\n《I can't feel him anywhere.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0520a14'>\r\n//《…………》\r\n《......》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0530a14'>\r\n//《か――感じぬ》\r\n《Não há... nada.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0540a14'>\r\n//《景明の心が見当たらぬ》\r\n《Não consigo senti-lo em lugar algum.》\r\n"
  },
  {
   "offset": 16517,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0550a14'>\r\n//《本当にいないのか》\r\n《Is he truly gone?》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0560a14'>\r\n//《……本当に……》\r\n《Truly?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0550a14'>\r\n//《本当にいないのか》\r\n《Ele realmente se foi?》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0560a14'>\r\n//《……本当に……》\r\n《Realmente?》\r\n"
  },
  {
   "offset": 16783,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0570a14'>\r\n//《おれの景明を奪ったのかッッ!!\r\n//　蜘蛛の村正ァ!!》\r\n《YOU STOLE HIM FROM ME, SPIDER!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0570a14'>\r\n//《おれの景明を奪ったのかッッ!!\r\n//　蜘蛛の村正ァ!!》\r\n《VOCÊ O ROUBOU DE MIM, ARANHA!》\r\n"
  },
  {
   "offset": 16984,
   "en": "\r\n//　強い――強烈極まる怒声の信号。\r\n//　\r\n//　反応の必要は無いが、甲鉄が震撼した。\r\n  This transmission is the strongest yet. No response is necessary, but my armor quakes as if struck a blow. \r\n",
-  "pt": ""
+  "pt": "\r\n//　強い――強烈極まる怒声の信号。\r\n//　\r\n//　反応の必要は無いが、甲鉄が震撼した。\r\n  Esta é a transmissão mais forte até agora. Nenhuma resposta é necessária, mas minha armadura treme como se tivesse recebido um golpe.\r\n"
  },
  {
   "offset": 17225,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0580a14'>\r\n//《許さん。\r\n//　認めん》\r\n《No. I will not allow this.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0580a14'>\r\n//《許さん。\r\n//　認めん》\r\n《Não. Não vou permitir isso.》\r\n"
  },
  {
   "offset": 17382,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0590a14'>\r\n//《おまえなどに……景明を!!》\r\n《I will not yield him to the likes of㉓<I>you!</I>》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0590a14'>\r\n//《おまえなどに……景明を!!》\r\n《Não vou entregá-lo a alguém como㉓<I>você</I>!》\r\n"
  },
  {
   "offset": 17570,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0600a15'>\r\n//《あの娘一人でできる決断とも思えん。\r\n//　おそらく仕手の同意を得て……いや、それ\r\n//とも最初から仕手の指示で――》\r\n《I doubt the decision was hers alone. She lacks the mental fortitude.\r\n  No, he must have agreed to the measure. Perhaps it was even his―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0600a15'>\r\n//《あの娘一人でできる決断とも思えん。\r\n//　おそらく仕手の同意を得て……いや、それ\r\n//とも最初から仕手の指示で――》\r\n《Duvido que a decisão tenha sido só dela. Falta-lhe fortaleza mental.\r\n  Não, ele deve ter concordado com a medida. Talvez tenha sido até ideia dele―》\r\n"
  },
  {
   "offset": 17999,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0610a14'>\r\n//《云うな》\r\n《Don't say it!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0610a14'>\r\n//《云うな》\r\n《Não diga isso!》\r\n"
  },
  {
   "offset": 18124,
@@ -332,22 +332,22 @@
  {
   "offset": 18266,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0630a14'>\r\n//《それこそ有り得ん。\r\n//　景明が……己の意思で劒冑にすべてを奪わ\r\n//せるなど……》\r\n《Inconceivable. Kageaki would never㉓<I>surrender</I>㉔his soul.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0640a14'>\r\n//《おれは先刻、言った。\r\n//　景明に――奪い尽くす、と》\r\n《That is a prize that must be taken by force. As I swore that I would do.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0630a14'>\r\n//《それこそ有り得ん。\r\n//　景明が……己の意思で劒冑にすべてを奪わ\r\n//せるなど……》\r\n《Inconcebível. Kageaki jamais㉓<I>renderia</I>㉔ a própria alma.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0640a14'>\r\n//《おれは先刻、言った。\r\n//　景明に――奪い尽くす、と》\r\n《Esse é um prêmio que deve ser tomado à força. Como jurei que faria.》\r\n"
  },
  {
   "offset": 18787,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0650a14'>\r\n//《おれが奪うのだ》\r\n《Kageaki is mine.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0650a14'>\r\n//《おれが奪うのだ》\r\n《Kageaki é meu.》\r\n"
  },
  {
   "offset": 18927,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0660a14'>\r\n//《景明を奪い、己がものとするのはおれだ！》\r\n《He's mine to conquer!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0660a14'>\r\n//《景明を奪い、己がものとするのはおれだ！》\r\n《Cabe a mim conquistá-lo!》\r\n"
  },
  {
   "offset": 19108,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0670a14'>\r\n//《この光だけの権利だ!!》\r\n《I alone have that right!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0670a14'>\r\n//《この光だけの権利だ!!》\r\n《Só eu tenho esse direito!》\r\n"
  },
  {
   "offset": 19264,
@@ -357,17 +357,17 @@
  {
   "offset": 19378,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0690a14'>\r\n//《返してもらうぞ……蜘蛛！\r\n//　何をどうしても、何がどうあってもな！》\r\n《You will return him to me, spider! One way or another!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0690a14'>\r\n//《返してもらうぞ……蜘蛛！\r\n//　何をどうしても、何がどうあってもな！》\r\n《Você vai me devolvê-lo, aranha! De um jeito ou de outro!》\r\n"
  },
  {
   "offset": 19632,
   "en": "\r\n//　反応の必要を認めず。\r\n  No response necessary.\r\n",
-  "pt": ""
+  "pt": "\r\n//　反応の必要を認めず。\r\n  Nenhuma resposta necessária.\r\n"
  },
  {
   "offset": 19705,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0700a14'>\r\n//《忌々しい》\r\n《You disgust me.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0700a14'>\r\n//《忌々しい》\r\n《Você me repugna.》\r\n"
  },
  {
   "offset": 19835,
@@ -377,27 +377,27 @@
  {
   "offset": 19949,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0720a14'>\r\n//《忌々しいのだァ！\r\n//　我が物顔に景明の手足を操りおって！》\r\n《CREATURE! Controlling his body as if it were your toy!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0720a14'>\r\n//《忌々しいのだァ！\r\n//　我が物顔に景明の手足を操りおって！》\r\n《CRIATURA! Controlando o corpo dele como se fosse seu brinquedo!》\r\n"
  },
  {
   "offset": 20188,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0730a14'>\r\n//《胃が煮える……。\r\n//　<RUBY text='はらわた'>腸</RUBY>が<RUBY text='ねじ'>捩子</RUBY>くれる》\r\n《Never have I felt such hate. The sight of you twists my guts with rage.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0740a14'>\r\n//《触れるのも触れられるのも、虫唾が走って\r\n//堪らぬ》\r\n《Your very touch fills my throat with bile.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0730a14'>\r\n//《胃が煮える……。\r\n//　<RUBY text='はらわた'>腸</RUBY>が<RUBY text='ねじ'>捩子</RUBY>くれる》\r\n《Nunca senti tanto ódio. Só de olhar para você, minhas entranhas se retorcem de fúria.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0740a14'>\r\n//《触れるのも触れられるのも、虫唾が走って\r\n//堪らぬ》\r\n《Até o seu toque me enche a garganta de bile.》\r\n"
  },
  {
   "offset": 20681,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0750a14'>\r\n//《もう良い》\r\n《Enough.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0750a14'>\r\n//《もう良い》\r\n《Basta.》\r\n"
  },
  {
   "offset": 20803,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0760a14'>\r\n//《おまえは<RUBY text='・・・・'>擂り潰す</RUBY>。\r\n//　豆のように挽いてやる》\r\n《I will suffer your existence no longer. I will grind you into dust, spider.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0760a14'>\r\n//《おまえは<RUBY text='・・・・'>擂り潰す</RUBY>。\r\n//　豆のように挽いてやる》\r\n《Não tolerarei mais a sua existência. Vou triturá-lo até virar pó, aranha.》\r\n"
  },
  {
   "offset": 21078,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0770a14'>\r\n//《塵となって、この暗い海に溶けてゆけ!!》\r\n《And cast your remains into the fathomless void!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0770a14'>\r\n//《塵となって、この暗い海に溶けてゆけ!!》\r\n《E lançar seus restos ao vazio insondável!》\r\n"
  },
  {
   "offset": 21281,
@@ -407,12 +407,12 @@
  {
   "offset": 21395,
   "en": "\r\n//　危険を察知する。\r\n\r\n//　この震動。\r\n//　この波動。\r\n//　\r\n//　全てが、最大の脅威の発生を訴えている。\r\n\r\n//　対処方法を検討。\r\n\r\n//　緊急退避――間に合わない。\r\n//　先制強襲――間に合うか？\r\n  <I>Danger! Danger! Gravitational disturbance detected!</I> \r\n  My sensors scream a frantic warning. The enemy is preparing its deadliest weapon.\r\n\r\n  Evade? No time.<K>\r\n  Preempt?\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　危険を察知する。\r\n\r\n//　この震動。\r\n//　この波動。\r\n//　\r\n//　全てが、最大の脅威の発生を訴えている。\r\n\r\n//　対処方法を検討。\r\n\r\n//　緊急退避――間に合わない。\r\n//　先制強襲――間に合うか？\r\n  <I>Perigo! Perigo! Perturbação gravitacional detectada!</I>\r\n  Meus sensores gritam um alerta frenético. O inimigo prepara sua arma mais letal.\r\n\r\n  Desviar? Não há tempo.<K>\r\n  Antecipar?\r\n\r\n"
  },
  {
   "offset": 21863,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0790a15'>\r\n//《<RUBY text='おわりをはじめる'>蒐窮開闢</RUBY>》\r\n《The end begins.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0800a15'>\r\n//《<RUBY text='しをおこなう'>終焉執行</RUBY>》\r\n《Death awakens.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0810a15'>\r\n//《<RUBY text='そらをあらわす'>虚無発現</RUBY>》\r\n《The void opens wide.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0790a15'>\r\n//《<RUBY text='おわりをはじめる'>蒐窮開闢</RUBY>》\r\n《O fim tem início.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0800a15'>\r\n//《<RUBY text='しをおこなう'>終焉執行</RUBY>》\r\n《A morte desperta.》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0810a15'>\r\n//《<RUBY text='そらをあらわす'>虚無発現</RUBY>》\r\n《O vazio se escancara.》\r\n"
  },
  {
   "offset": 22448,
@@ -422,72 +422,72 @@
  {
   "offset": 22562,
   "en": "\r\n//　届かない。\r\n\r\n//　阻止、ならず。\r\n//　破局は顕現す。\r\n\r\n//　開始してはならぬ事象が開始する。\r\n  Too slow. The end has already begun.\r\n",
-  "pt": ""
+  "pt": "\r\n//　届かない。\r\n\r\n//　阻止、ならず。\r\n//　破局は顕現す。\r\n\r\n//　開始してはならぬ事象が開始する。\r\n  Tarde demais. O fim já começou.\r\n"
  },
  {
   "offset": 22749,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0830a14'>\r\n//《<RUBY text='ブラックホール'>飢餓虚空</RUBY>――――<RUBY text='フェアリーズ'>魔王星</RUBY>!!》\r\n《BLACK HOLE FAIRY!!!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0830a14'>\r\n//《<RUBY text='ブラックホール'>飢餓虚空</RUBY>――――<RUBY text='フェアリーズ'>魔王星</RUBY>!!》\r\n《BLACK HOLE FAIRY!!!》\r\n"
  },
  {
   "offset": 22987,
   "en": "\r\n//　暗い<RUBY text='そら'>宇宙</RUBY>よりもなお深い闇。\r\n\r\n//　黒の渦。\r\n\r\n//　それは白銀の武者の中に胎児の如く現れ、\r\n//　嬰児の如く生まれて泣き声を上げた。\r\n\r\n//　風もない空間が<RUBY text='わなな'>戦慄</RUBY>き、<RUBY text='おめ'>喚</RUBY>く。\r\n  A whirlwind appears, blacker than space, whipping the vacuum into a frenzy. Like an infant birthed from the silver musha, it howls with primal hunger.\r\n",
-  "pt": ""
+  "pt": "\r\n//　暗い<RUBY text='そら'>宇宙</RUBY>よりもなお深い闇。\r\n\r\n//　黒の渦。\r\n\r\n//　それは白銀の武者の中に胎児の如く現れ、\r\n//　嬰児の如く生まれて泣き声を上げた。\r\n\r\n//　風もない空間が<RUBY text='わなな'>戦慄</RUBY>き、<RUBY text='おめ'>喚</RUBY>く。\r\n  Um redemoinho surge, mais negro que o espaço, açoitando o vácuo até o frenesi. Como um recém-nascido parido pelo musha prateado, ele uiva com fome primordial.\r\n"
  },
  {
   "offset": 23477,
   "en": "\r\n//　渦は成長する。\r\n\r\n//　何を吸ってか。\r\n//　何を喰らってか。\r\n\r\n//　際限もなく膨れ、膨れてゆく。\r\n\r\n//　渦は渦。\r\n//　闇は闇。\r\n\r\n//　変質せず、規模だけ<RUBY text='ひろ'>拡</RUBY>げて。\r\n\r\n//　何を喰らっているのか。\r\n//　<RUBY text='クウ'>空</RUBY>か。<RUBY text='キ'>気</RUBY>か。それとも<RUBY text='オノレ'>己</RUBY>か。\r\n\r\n//　渦は渦。\r\n//　闇は闇。\r\n\r\n//　何を喰らおうと、そこには何も生じない。\r\n\r\n//　無。\r\n\r\n//　無のままに膨張だけを遂げる。\r\n\r\n//　何もかも喰らいながら、\r\n//　変わらぬ飢えを哭き続ける。\r\n\r\n//　飢餓の虚空。\r\n  The storm expands without pause, without limit, consuming the space around it.\r\n\r\n  What is fueling its growth? What energy?\r\n\r\n  The empty vacuum? The mythical aether? Its own ravenous hunger?\r\n\r\n  No matter what it consumes, it will never be satisfied. It is emptiness in physical form. A singularity of starvation.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　渦は成長する。\r\n\r\n//　何を吸ってか。\r\n//　何を喰らってか。\r\n\r\n//　際限もなく膨れ、膨れてゆく。\r\n\r\n//　渦は渦。\r\n//　闇は闇。\r\n\r\n//　変質せず、規模だけ<RUBY text='ひろ'>拡</RUBY>げて。\r\n\r\n//　何を喰らっているのか。\r\n//　<RUBY text='クウ'>空</RUBY>か。<RUBY text='キ'>気</RUBY>か。それとも<RUBY text='オノレ'>己</RUBY>か。\r\n\r\n//　渦は渦。\r\n//　闇は闇。\r\n\r\n//　何を喰らおうと、そこには何も生じない。\r\n\r\n//　無。\r\n\r\n//　無のままに膨張だけを遂げる。\r\n\r\n//　何もかも喰らいながら、\r\n//　変わらぬ飢えを哭き続ける。\r\n\r\n//　飢餓の虚空。\r\n  A tempestade se expande sem pausa, sem limite, consumindo o espaço ao seu redor.\r\n\r\n  O que alimenta seu crescimento? Que energia?\r\n\r\n  O próprio vácuo? O éter mítico? Sua própria fome voraz?\r\n\r\n  Não importa o que consuma, jamais se saciará. É a própria vacuidade em forma física. Uma singularidade de inanição.\r\n\r\n"
  },
  {
   "offset": 24521,
   "en": "\r\n//　騎体行動の自由が失われている。\r\n\r\n//　ここは既に辰気現象の効力範囲。\r\n//　見えざる縄の数々が、手足と云わず首と云わず絡み\r\n//付く。\r\n\r\n//　騎航――<k>不可。\r\n\r\n//　我が引辰制御機動はこの現象下においてほぼ無効。\r\n//　敵騎の操る辰気に制圧される。\r\n\r\n//　辰気量を計測。<k>\r\n//　\r\n//　\r\n//　――――不明。\r\n\r\n//　<RUBY text='ゼロ'>〇</RUBY>であり<RUBY text='ムゲン'>∞</RUBY>。\r\n//　計測不可。計測不可。\r\n\r\n//　極強度の牽引力が<RUBY text='おれ'>私</RUBY>を捕捉し引き込んでいる。\r\n//　その事実のみ明らか。\r\n\r\n//　近付いてゆく。\r\n//　渦の中心へ。\r\n\r\n//　辰気の荒れ狂う源へ。\r\n\r\n//　分析する。<k>\r\n//　\r\n//　――あの中心へ行き着くまで、<RUBY text='おれ'>私</RUBY>が形態を維持して\r\n//いられる確率は絶無。\r\n\r\n//　その前に必ず、完全破壊の結果を迎える。\r\n  I am already caught in the phenomenon's grip, bound by a thousand invisible chains.\r\n\r\n  Flight is impossible. My own power over gravity is useless here. The force my enemy wields is orders of magnitude greater.\r\n\r\n  I train my sensors on the gravity well, hoping to measure its exact strength.\r\n\r\n  Instantly my readouts erupt into gibberish. Zero. Infinity. Error. Error.\r\n\r\n  Comprehension is futile. Hopeless. Out of reach. I know only that the force is drawing me inexorably toward its seething heart.\r\n\r\n  Analysis confirms what I already know. I have no hope of reaching the center. The tidal forces inhabiting this space will tear me apart long before.\r\n\r\n  Annihilation approaches.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　騎体行動の自由が失われている。\r\n\r\n//　ここは既に辰気現象の効力範囲。\r\n//　見えざる縄の数々が、手足と云わず首と云わず絡み\r\n//付く。\r\n\r\n//　騎航――<k>不可。\r\n\r\n//　我が引辰制御機動はこの現象下においてほぼ無効。\r\n//　敵騎の操る辰気に制圧される。\r\n\r\n//　辰気量を計測。<k>\r\n//　\r\n//　\r\n//　――――不明。\r\n\r\n//　<RUBY text='ゼロ'>〇</RUBY>であり<RUBY text='ムゲン'>∞</RUBY>。\r\n//　計測不可。計測不可。\r\n\r\n//　極強度の牽引力が<RUBY text='おれ'>私</RUBY>を捕捉し引き込んでいる。\r\n//　その事実のみ明らか。\r\n\r\n//　近付いてゆく。\r\n//　渦の中心へ。\r\n\r\n//　辰気の荒れ狂う源へ。\r\n\r\n//　分析する。<k>\r\n//　\r\n//　――あの中心へ行き着くまで、<RUBY text='おれ'>私</RUBY>が形態を維持して\r\n//いられる確率は絶無。\r\n\r\n//　その前に必ず、完全破壊の結果を迎える。\r\n  Já estou preso nas garras do fenômeno, atado por mil correntes invisíveis.\r\n\r\n  Voar é impossível. Meu próprio poder sobre a gravidade é inútil aqui. A força que meu inimigo exerce é de ordens de magnitude maior.\r\n\r\n  Direciono meus sensores para o poço gravitacional, na esperança de medir sua força exata.\r\n\r\n  Instantaneamente, minhas leituras explodem em disparates. Zero. Infinito. Erro. Erro.\r\n\r\n  A compreensão é inútil. Sem esperança. Fora de alcance. Sei apenas que a força me arrasta inexoravelmente para o seu âmago fervilhante.\r\n\r\n  A análise confirma o que eu já sei. Não tenho esperança de alcançar o centro. As forças de maré que habitam este espaço me despedaçarão muito antes.\r\n\r\n  A aniquilação se aproxima.\r\n\r\n"
  },
  {
   "offset": 26245,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0840a14'>\r\n//《来い》\r\n《Come.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0850a14'>\r\n//《丸呑みにして、噛み砕いてやる》\r\n《I will swallow you whole.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0860a14'>\r\n//《灰よりも細かく、ばらばらに――》\r\n《I will chew your atoms into fine paste.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0840a14'>\r\n//《来い》\r\n《Venha.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0850a14'>\r\n//《丸呑みにして、噛み砕いてやる》\r\n《Vou engoli-lo inteiro.》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0860a14'>\r\n//《灰よりも細かく、ばらばらに――》\r\n《Vou mastigar seus átomos até virarem uma pasta fina.》\r\n"
  },
  {
   "offset": 26700,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0870a14'>\r\n//《そうしておまえと景明とを選り分け、\r\n//　おまえの屑だけ捨ててやる》\r\n《I will separate Kageaki like wheat from the chaff. And <I>you</I>―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0870a14'>\r\n//《そうしておまえと景明とを選り分け、\r\n//　おまえの屑だけ捨ててやる》\r\n《Vou separar Kageaki como o trigo do joio. E <I>você</I>―》\r\n"
  },
  {
   "offset": 26965,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0880a14'>\r\n//《西瓜の種を吐き出すようにな！》\r\n《You, I will spit like seeds into oblivion!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md05/024vs0880a14'>\r\n//《西瓜の種を吐き出すようにな！》\r\n《E você, cuspirei como sementes para o esquecimento!》\r\n"
  },
  {
   "offset": 27152,
   "en": "\r\n//　現状を打破せねば破壊される。\r\n\r\n//　それは承認できない事である。\r\n//　我が存在目的の遂行が不可能となる。\r\n\r\n//　我が存在目的は完遂以外の結果を容認しない。\r\n\r\n//　結論。\r\n//　万手万策を投じて状況を打開すべし。\r\n\r\n//　手段検討。<k>\r\n//　\r\n//　我が実装機能の内に、この辰気現象〝飢餓虚空〟と\r\n//拮抗し得るものは有るか。\r\n\r\n//　――――有る。\r\n\r\n//　唯一。\r\n  Without a solution, my destruction is assured. Destruction equates to the failure of my mission.\r\n\r\n  Unacceptable. A solution is required.\r\n\r\n  Assess options. Do I possess a weapon with the potential to counter this phenomenon?\r\n\r\n  Affirmative.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　現状を打破せねば破壊される。\r\n\r\n//　それは承認できない事である。\r\n//　我が存在目的の遂行が不可能となる。\r\n\r\n//　我が存在目的は完遂以外の結果を容認しない。\r\n\r\n//　結論。\r\n//　万手万策を投じて状況を打開すべし。\r\n\r\n//　手段検討。<k>\r\n//　\r\n//　我が実装機能の内に、この辰気現象〝飢餓虚空〟と\r\n//拮抗し得るものは有るか。\r\n\r\n//　――――有る。\r\n\r\n//　唯一。\r\n  Sem uma solução, minha destruição é certa. A destruição equivale ao fracasso da minha missão.\r\n\r\n  Inaceitável. Uma solução é necessária.\r\n\r\n  Avaliar opções. Possuo alguma arma capaz de contrapor este fenômeno?\r\n\r\n  Afirmativo.\r\n\r\n"
  },
  {
   "offset": 27919,
   "en": "\r\n//　野太刀による電磁抜刀。\r\n//　この一剣が有る。\r\n\r\n//　嘗て、太刀を用いる電磁抜刀・<RUBY text='マガツ'>禍</RUBY>は飢餓虚空の前に\r\n//敗れ去った。\r\n//　だが、この〝虎徹〟での電磁抜刀ならば――\r\n  The railgun. It is my only chance.\r\n\r\n  When I attempted Magatsu against the black hole at Hachiman Shrine, I failed and lost my sword in the process.\r\n\r\n  This time, however, I have my nodachi. Kotetsu may well be up to the task.\r\n",
-  "pt": ""
+  "pt": "\r\n//　野太刀による電磁抜刀。\r\n//　この一剣が有る。\r\n\r\n//　嘗て、太刀を用いる電磁抜刀・<RUBY text='マガツ'>禍</RUBY>は飢餓虚空の前に\r\n//敗れ去った。\r\n//　だが、この〝虎徹〟での電磁抜刀ならば――\r\n  O canhão de trilho. É minha única chance.\r\n\r\n  Quando tentei usar Magatsu contra o buraco negro no Santuário Hachiman, falhei e perdi minha espada no processo.\r\n\r\n  Desta vez, porém, tenho minha nodachi. Kotetsu pode muito bem estar à altura da tarefa.\r\n"
  },
  {
   "offset": 28431,
   "en": "\r\n//　問題点検討。<k>\r\n//　\r\n//　一点有り。\r\n//　辰気の影響による機能制限。\r\n\r\n//　騎体の自由が利かねば、電磁抜刀は行使できない。\r\n//　自明の事である。\r\n\r\n//　……自由の回復は、理論上、瞬間的には可能だ。\r\n//　一つ難関を乗り越える必要があるものの。\r\n\r\n//　自由を取り戻した瞬間に引辰制御を働かせ、強度の\r\n//引力圏から離脱する事はできる。\r\n//　但し無論、そのままではすぐにまた捕まるし、逃げ\r\n//回りながら電磁抜刀を使用するのも無理な話である。\r\n\r\n//　できなくはないかもしれないが最大出力に達しない。\r\n//　それでは意味がない。\r\n\r\n//　何処か、避難場所はないか。\r\n\r\n//　ほんの数秒で良い。\r\n//　電磁抜刀の術式を練り上げるまでの間、あの黒い渦\r\n//の牽引から<RUBY text='おれ'>私</RUBY>を守ってくれるような場所は。\r\n\r\n//　具体的には――例えば強い重力体。\r\n//　渦の引き込む辰気に対抗して我が騎体を繋ぎ止める\r\n//だけの辰気を持つ……\r\n\r\n//　そんな都合の良いものが――\r\n  Assess feasibility.<K>\r\n  One problem found.\r\n\r\n  Gravitational forces are limiting my mobility. I cannot wield the railgun without total control.\r\n\r\n  Theoretically, if certain conditions are met, it should be possible to reestablish control for a fraction of a second. Not long enough to escape the black hole, but enough to maneuver within its gravity well.\r\n\r\n  This alone will not be sufficient, however, for the window of freedom will be too brief to charge an effective strike. My railgun must be at maximum power to have any hope of success.\r\n\r\n  What I need is a stable platform, something that can shield me from the maelstrom's gravity for the few seconds that I will need to prepare.\r\n\r\n  For example, an object massive enough to generate its own gravity well, one that will counteract the black hole's pull and keep me fixed in place.\r\n\r\n  But where will I find―\r\n",
-  "pt": ""
+  "pt": "\r\n//　問題点検討。<k>\r\n//　\r\n//　一点有り。\r\n//　辰気の影響による機能制限。\r\n\r\n//　騎体の自由が利かねば、電磁抜刀は行使できない。\r\n//　自明の事である。\r\n\r\n//　……自由の回復は、理論上、瞬間的には可能だ。\r\n//　一つ難関を乗り越える必要があるものの。\r\n\r\n//　自由を取り戻した瞬間に引辰制御を働かせ、強度の\r\n//引力圏から離脱する事はできる。\r\n//　但し無論、そのままではすぐにまた捕まるし、逃げ\r\n//回りながら電磁抜刀を使用するのも無理な話である。\r\n\r\n//　できなくはないかもしれないが最大出力に達しない。\r\n//　それでは意味がない。\r\n\r\n//　何処か、避難場所はないか。\r\n\r\n//　ほんの数秒で良い。\r\n//　電磁抜刀の術式を練り上げるまでの間、あの黒い渦\r\n//の牽引から<RUBY text='おれ'>私</RUBY>を守ってくれるような場所は。\r\n\r\n//　具体的には――例えば強い重力体。\r\n//　渦の引き込む辰気に対抗して我が騎体を繋ぎ止める\r\n//だけの辰気を持つ……\r\n\r\n//　そんな都合の良いものが――\r\n  Avaliar viabilidade.<K>\r\n  Um problema encontrado.\r\n\r\n  As forças gravitacionais limitam minha mobilidade. Não posso empunhar o canhão de trilho sem controle total.\r\n\r\n  Em teoria, se certas condições forem atendidas, seria possível restabelecer o controle por uma fração de segundo. Não o bastante para escapar do buraco negro, mas o suficiente para manobrar dentro de seu poço gravitacional.\r\n\r\n  Isso, por si só, não será suficiente, porém, pois a janela de liberdade será breve demais para carregar um golpe eficaz. Meu canhão de trilho precisa estar na potência máxima para ter alguma chance de sucesso.\r\n\r\n  O que preciso é de uma plataforma estável, algo que me proteja da gravidade do turbilhão pelos poucos segundos de que precisarei para me preparar.\r\n\r\n  Por exemplo, um objeto massivo o bastante para gerar seu próprio poço gravitacional, que contraponha a atração do buraco negro e me mantenha fixo no lugar.\r\n\r\n  Mas onde vou encontrar―\r\n"
  },
  {
   "offset": 30536,
   "en": "\r\n//　…………ある。\r\n\r\n//　あれなら使える。\r\n//　何とも<RUBY text='あつら'>誂</RUBY>え向きだ。\r\n  That will do nicely.\r\n",
-  "pt": ""
+  "pt": "\r\n//　…………ある。\r\n\r\n//　あれなら使える。\r\n//　何とも<RUBY text='あつら'>誂</RUBY>え向きだ。\r\n  Isso servirá perfeitamente.\r\n"
  },
  {
   "offset": 30695,
   "en": "\r\n//　計画は成立した。\r\n\r\n//　この引力圏を脱し、\r\n//　あの場所へ移動し、\r\n//　電磁抜刀を行使して飢餓虚空を破る。\r\n\r\n//　まずは、\r\n//　\r\n//　――――第一段階。\r\n\r\n//　おそらくはこれが最大の難問。\r\n  I have my plan.\r\n\r\n  Step one. Reestablish control.<K>\r\n  Step two. Retreat to the designated safe zone.<K>\r\n  Step three. Destroy the black hole via railgun.\r\n\r\n  Now for the first step. This is likely to present the greatest challenge.\r\n",
-  "pt": ""
+  "pt": "\r\n//　計画は成立した。\r\n\r\n//　この引力圏を脱し、\r\n//　あの場所へ移動し、\r\n//　電磁抜刀を行使して飢餓虚空を破る。\r\n\r\n//　まずは、\r\n//　\r\n//　――――第一段階。\r\n\r\n//　おそらくはこれが最大の難問。\r\n  Tenho meu plano.\r\n\r\n  Passo um. Restabelecer o controle.<K>\r\n  Passo dois. Recuar para a zona segura designada.<K>\r\n  Passo três. Destruir o buraco negro com o canhão de trilho.\r\n\r\n  Agora, o primeiro passo. Este provavelmente será o maior desafio.\r\n"
  },
  {
   "offset": 31218,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0890a15'>\r\n//《……ほゥ……》\r\n《...Oh?》\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0890a15'>\r\n//《……ほゥ……》\r\n《...Ora?》\r\n\r\n"
  },
  {
   "offset": 31374,
@@ -497,17 +497,17 @@
  {
   "offset": 31488,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0910a15'>\r\n//《挑むか、<RUBY text='あ'>冑</RUBY>が不肖の娘》\r\n《So, my wayward daughter... you believe yourself㉓<I>capable.</I>》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0920a15'>\r\n//《辰気の調和――\r\n//　五階層方陣の解明に》\r\n《Of balancing these mighty forces. Of solving the Fivefold Cube.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0910a15'>\r\n//《挑むか、<RUBY text='あ'>冑</RUBY>が不肖の娘》\r\n《Então, minha filha rebelde... você se considera㉓<I>capaz.</I>》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0920a15'>\r\n//《辰気の調和――\r\n//　五階層方陣の解明に》\r\n《De equilibrar essas forças poderosas. De resolver o Cubo Quíntuplo.》\r\n"
  },
  {
   "offset": 31977,
   "en": "\r\n//　敵騎は当方の意図を察したらしい。\r\n//　当然か。これはあちらの専門分野。\r\n\r\n//　そう――五階層方陣。\r\n//　我が身を捕う重力を一時的にでも無効化し、勝機を\r\n//掴むために、決して避けて通れぬ道。\r\n\r\n//　それは一つの数学的命題。\r\n  The enemy has discerned my intent. Expected. This is Ginseigo's field of expertise.\r\n\r\n  The Fivefold Cube. This is the obstacle that I must overcome in order to shake the black hole's grip.\r\n\r\n  It is, simply put, a problem of math.\r\n",
-  "pt": ""
+  "pt": "\r\n//　敵騎は当方の意図を察したらしい。\r\n//　当然か。これはあちらの専門分野。\r\n\r\n//　そう――五階層方陣。\r\n//　我が身を捕う重力を一時的にでも無効化し、勝機を\r\n//掴むために、決して避けて通れぬ道。\r\n\r\n//　それは一つの数学的命題。\r\n  O inimigo percebeu minha intenção. Era esperado. Esta é a área de especialidade de Ginseigo.\r\n\r\n  O Cubo Quíntuplo. Este é o obstáculo que devo superar para escapar do domínio do buraco negro.\r\n\r\n  É, em suma, um problema de matemática.\r\n"
  },
  {
   "offset": 32549,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0930a15'>\r\n//《見事果たせば、<RUBY text='あ'>冑</RUBY>が〝辰気の地獄〟からの\r\n//脱出もなろう。\r\n//　だが、できるか……？》\r\n《If you succeed, then this howling void will indeed release you from its clutches. But have you a hope of success? Truly?》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0940a15'>\r\n//《渦がなれを砕くまで、幾らも無いぞ。\r\n//　このわずかばかりの時間で、辰気一二五種\r\n//の配列を見出すと？》\r\n《Oblivion draws closer by the moment, and the Twenty-Five and One Hundred await. Have you the skill to place them correctly in what little time remains?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0930a15'>\r\n//《見事果たせば、<RUBY text='あ'>冑</RUBY>が〝辰気の地獄〟からの\r\n//脱出もなろう。\r\n//　だが、できるか……？》\r\n《Se você conseguir, então este vazio ululante de fato libertará você de suas garras. Mas você tem alguma esperança de sucesso? De verdade?》\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0940a15'>\r\n//《渦がなれを砕くまで、幾らも無いぞ。\r\n//　このわずかばかりの時間で、辰気一二五種\r\n//の配列を見出すと？》\r\n《O Oblívio se aproxima a cada instante, e os Vinte e Cinco e os Cem aguardam. Você tem habilidade para dispô-los corretamente no pouco tempo que resta?》\r\n"
  },
  {
   "offset": 33361,
@@ -517,7 +517,7 @@
  {
   "offset": 33497,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0960a15'>\r\n//《ふふ。面白い！\r\n//　やり遂げてみせよ、三世右衛門尉！》\r\n《Heh. Come then, Muramasa the Third! Show me your worth!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md05/024vs0960a15'>\r\n//《ふふ。面白い！\r\n//　やり遂げてみせよ、三世右衛門尉！》\r\n《Heh. Venha então, Muramasa, o Terceiro! Mostre-me seu valor!》\r\n"
  },
  {
   "offset": 33758,
@@ -527,7 +527,7 @@
  {
   "offset": 33770,
   "en": "Skip the Puzzle",
-  "pt": ""
+  "pt": "Pular o Quebra-Cabeça"
  },
  {
   "offset": 33793,
@@ -537,6 +537,6 @@
  {
   "offset": 33805,
   "en": "Don't Skip the Puzzle",
-  "pt": ""
+  "pt": "Não Pular o Quebra-Cabeça"
  }
 ]

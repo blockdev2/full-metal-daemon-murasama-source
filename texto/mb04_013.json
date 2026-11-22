@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130010a14'>\r\n//《ふ……ふふ……》\r\n《Heh... heh heh...》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130020a14'>\r\n//《楽しかった……》\r\n《Ahh... what fun...》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130030a14'>\r\n//《……また……》\r\n《Let's...》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130040a14'>\r\n//《……どこかで……\r\n//　……会おう》\r\n《...do it again... sometime...》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130050a14'>\r\n//《…………景明…………》\r\n《...Kageaki...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130010a14'>\r\n//《ふ……ふふ……》\r\n《Heh... heh heh...》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130020a14'>\r\n//《楽しかった……》\r\n《Ahh... que divertido...》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130030a14'>\r\n//《……また……》\r\n《Vamos...》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130040a14'>\r\n//《……どこかで……\r\n//　……会おう》\r\n《...fazer isso de novo... alguma vez...》\r\n\r\n//【光】\r\n<voice name='光' class='光' src='voice/mb04/0130050a14'>\r\n//《…………景明…………》\r\n《...Kageaki...》\r\n"
  },
  {
   "offset": 907,
@@ -12,66 +12,66 @@
  {
   "offset": 1031,
   "en": "\r\n//　村正を再び装甲し、着陸する。\r\n//　……銀星号は、海中に没したようだった。\r\n  I land upon the beach, once more in my armor. Ginseigo has crashed into the sea.\r\n",
-  "pt": ""
+  "pt": "\r\n//　村正を再び装甲し、着陸する。\r\n//　……銀星号は、海中に没したようだった。\r\n  Pouso na praia, mais uma vez em minha armadura. O Ginseigo caiu no mar.\r\n"
  },
  {
   "offset": 1238,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/0130070a01'>\r\n//《……最期を……確認する？》\r\n《Do you... want to make sure?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/0130070a01'>\r\n//《……最期を……確認する？》\r\n《Você... quer confirmar?》\r\n"
  },
  {
   "offset": 1418,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130080a00'>\r\n//「いや……」\r\n\"...No.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130080a00'>\r\n//「いや……」\r\n\"...Não.\"\r\n"
  },
  {
   "offset": 1542,
   "en": "\r\n//　その必要があるとは思えなかった。\r\n//　それに、悟るところもあった。\r\n\r\n//　今は麻痺したようになっている自分の心が……\r\n//　その事実の最終確認を済ませた時には、崩れ去るの\r\n//だろうと。\r\n  There is no need. Moreover, there is no time.\r\n\r\n  My heart is blessedly numb for the moment. But that will not survive certainty. Knowing will destroy me.\r\n",
-  "pt": ""
+  "pt": "\r\n//　その必要があるとは思えなかった。\r\n//　それに、悟るところもあった。\r\n\r\n//　今は麻痺したようになっている自分の心が……\r\n//　その事実の最終確認を済ませた時には、崩れ去るの\r\n//だろうと。\r\n  Não há necessidade. Além disso, não há tempo.\r\n\r\n  Meu coração está abençoadamente entorpecido no momento. Mas isso não sobreviverá à certeza. Saber vai me destruir.\r\n"
  },
  {
   "offset": 1982,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/0130090a01'>\r\n//《御堂！》\r\n《Mido!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb04/0130090a01'>\r\n//《御堂！》\r\n《Mido!》\r\n"
  },
  {
   "offset": 2112,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130100a00'>\r\n//「……大事無い」\r\n\"...It's nothing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130100a00'>\r\n//「……大事無い」\r\n\"...Não é nada.\"\r\n"
  },
  {
   "offset": 2252,
   "en": "\r\n//　銀星号の一打を浴びた衝撃は、字義通り骨の髄まで\r\n//染み渡っている。\r\n//　熱量も、枯渇寸前だ。\r\n  The force of Ginseigo's attack still lingers in the marrow of my bones, and my heat reserves are near empty. Still, I cannot yet permit myself to collapse.\r\n\r\n//　それでも今、<RUBY text='くずお'>頽</RUBY>れて眠る事は許されなかった。\r\n\r\n//　まだ、倒れてはならなかった。\r\n//　心も、体も。\r\n  This two-years-long nightmare has ended, but my body, like my heart, still has work to do.\r\n\r\n//　二年前からの戦いには終止符が打たれた。\r\n//　しかし、俺にはあと一つ、為すべき事が残っている。\r\n",
-  "pt": ""
+  "pt": "\r\n//　銀星号の一打を浴びた衝撃は、字義通り骨の髄まで\r\n//染み渡っている。\r\n//　熱量も、枯渇寸前だ。\r\n  A força do ataque do Ginseigo ainda permanece na medula dos meus ossos, e minhas reservas de calor estão quase esgotadas. Ainda assim, não posso me permitir desabar.\r\n\r\n//　それでも今、<RUBY text='くずお'>頽</RUBY>れて眠る事は許されなかった。\r\n\r\n//　まだ、倒れてはならなかった。\r\n//　心も、体も。\r\n  Este pesadelo de dois anos terminou, mas meu corpo, como meu coração, ainda tem trabalho a fazer.\r\n\r\n//　二年前からの戦いには終止符が打たれた。\r\n//　しかし、俺にはあと一つ、為すべき事が残っている。\r\n"
  },
  {
   "offset": 2979,
   "en": "\r\n//　――それで……いいんですよね……？\r\n  <I>That'll... make the world better... right?</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　――それで……いいんですよね……？\r\n  <I>Isso vai... tornar o mundo melhor... certo?</I>\r\n"
  },
  {
   "offset": 3100,
   "en": "\r\n//　答えられなかった問いがあった。\r\n//　あれをそのままにはしておけない。\r\n  I let her question that night go unanswered. But I made a promise: to help her, to support her, to give her all that she requires.\r\n\r\n//　俺は彼女に従い、協力する事を約束した。\r\n//　俺には彼女のために力を尽くす責任がある。\r\n\r\n//　彼女の求めに応えなくてはならない。\r\n\r\n//　彼女が己の理非を問うたなら、俺はこの身を賭して\r\n//答えを返さねばならない。\r\n  With every dram of strength I still possess, I must deliver my reply.\r\n\r\n//　それが……\r\n//　俺の最後の責務。\r\n",
-  "pt": ""
+  "pt": "\r\n//　答えられなかった問いがあった。\r\n//　あれをそのままにはしておけない。\r\n  Deixei sem resposta a pergunta que ela fez naquela noite. Mas fiz uma promessa: ajudá-la, apoiá-la, dar-lhe tudo o que ela exige.\r\n\r\n//　俺は彼女に従い、協力する事を約束した。\r\n//　俺には彼女のために力を尽くす責任がある。\r\n\r\n//　彼女の求めに応えなくてはならない。\r\n\r\n//　彼女が己の理非を問うたなら、俺はこの身を賭して\r\n//答えを返さねばならない。\r\n  Com cada gota de força que ainda me resta, devo dar minha resposta.\r\n\r\n//　それが……\r\n//　俺の最後の責務。\r\n"
  },
  {
   "offset": 3790,
   "en": "\r\n//　背後に現れた気配は、振り返って顔を確かめるまで\r\n//もなく、激情で総身を<RUBY text='や'>灼</RUBY>いていた。\r\n//　余程に無理な騎航を重ねてきたのか。息遣いは荒く、\r\n//心の動悸も聴こえてくるようだった。\r\n  When she appears at my back, her breath is ragged, and I can almost hear the beat of her heart. She must have pushed herself to the limit to reach me.\r\n\r\n//　彼女はそれを無理に抑え込んだらしい。\r\n//　息を呑み下し。そうして――しかし、言葉は無い。\r\n  For the moment, she is silent, but her silence speaks louder than any words can. It roasts me like a too-near flame.\r\n\r\n//　ただ万の言葉より雄弁な沈黙が、俺の背を<RUBY text='あぶ'>焙</RUBY>った。\r\n//　\r\n//　彼女は悟っている。\r\n//　俺が何を遂げたのか、既に。\r\n\r\n//　……ならば応えよう。\r\n//　寝物語の、あの問い掛けに。\r\n  She already knows what I have done.\r\n\r\n  So be it. I will answer the question she spoke while drifting to sleep in my arms.\r\n",
-  "pt": ""
+  "pt": "\r\n//　背後に現れた気配は、振り返って顔を確かめるまで\r\n//もなく、激情で総身を<RUBY text='や'>灼</RUBY>いていた。\r\n//　余程に無理な騎航を重ねてきたのか。息遣いは荒く、\r\n//心の動悸も聴こえてくるようだった。\r\n  Quando ela surge atrás de mim, sua respiração está arfante, e quase consigo ouvir as batidas do seu coração. Ela deve ter se forçado ao limite para me alcançar.\r\n\r\n//　彼女はそれを無理に抑え込んだらしい。\r\n//　息を呑み下し。そうして――しかし、言葉は無い。\r\n  Por enquanto, ela está em silêncio, mas seu silêncio fala mais alto que qualquer palavra. Ele me queima como uma chama perto demais.\r\n\r\n//　ただ万の言葉より雄弁な沈黙が、俺の背を<RUBY text='あぶ'>焙</RUBY>った。\r\n//　\r\n//　彼女は悟っている。\r\n//　俺が何を遂げたのか、既に。\r\n\r\n//　……ならば応えよう。\r\n//　寝物語の、あの問い掛けに。\r\n  Ela já sabe o que eu fiz.\r\n\r\n  Que seja. Vou responder à pergunta que ela fez enquanto adormecia em meus braços.\r\n"
  },
  {
   "offset": 4903,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130110a00'>\r\n//「一条」\r\n\"Ichijo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130110a00'>\r\n//「一条」\r\n\"Ichijo.\"\r\n"
  },
  {
   "offset": 5022,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130120a00'>\r\n//「邪しきものへの、お前の怒りは正しい。\r\n//　悪しきものへの、お前の憎悪は正しい」\r\n\"You are right to hate evil. To hate demons and their works.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130130a00'>\r\n//「お前は正しい」\r\n\"That is justice.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130120a00'>\r\n//「邪しきものへの、お前の怒りは正しい。\r\n//　悪しきものへの、お前の憎悪は正しい」\r\n\"Você tem razão em odiar o mal. Em odiar os demônios e suas obras.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130130a00'>\r\n//「お前は正しい」\r\n\"Isso é justiça.\"\r\n"
  },
  {
   "offset": 5431,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130140a00'>\r\n//「だが……\r\n//　<RUBY text='・・・・・・'>お前の戦いは</RUBY>、決して正しくはない」\r\n\"But your fight. In that, there is no justice.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb04/0130140a00'>\r\n//「だが……\r\n//　<RUBY text='・・・・・・'>お前の戦いは</RUBY>、決して正しくはない」\r\n\"Mas a sua luta. Nela, não há justiça.\"\r\n"
  }
 ]

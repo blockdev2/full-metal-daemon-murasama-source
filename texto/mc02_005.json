@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//　目覚めたそこは、未知の場所だった。\r\n  The room is clean, white, and very small. Perhaps three meters to a side, though the lack of furniture makes it seem somewhat larger. \r\n\r\n//　白く、清潔感のある部屋だ。\r\n//　広くはない。せいぜい六畳だろう。だが物が少ない\r\n//せいか、やけに空漠として見える。\r\n\r\n//　存在感を有する物体は、たった今まで我が身を横た\r\n//えていた質素な<RUBY text='ベッド'>寝台</RUBY>くらいしかない。\r\n//　後は椅子が一つと、小物が数点。\r\n  Aside from the cot upon which I awoke, a single chair and a few necessities are the only items of note. The walls, I realize shortly, are windowless, which is the largest contributing factor to the room's oppressive air. The ventilation grill near the ceiling might be keeping me alive, but its psychological benefits are dubious.\r\n\r\n//　見直せば、壁に窓すら無かった。\r\n//　息苦しさを覚えるのは間違いなくそのせいだろう。\r\n//通風孔はあるが、身体的にはともかく心理的には全く\r\n//必要充分でない。\r\n\r\n//　鉛を詰めたように重い頭蓋は、考えを巡らせる前に\r\n//まずここから出る事を要求していた。\r\n\r\n//　部屋の一隅に扉を見つけ、そちらに歩く。\r\n  My sluggish brain determines that the first order of business is to get out into the open air. I rise from the bed and move toward the door―but only make it a few steps before I stumble and nearly fall.\r\n\r\n//　ほんの数歩を進むために、幾度かよろめいた。\r\n//　どういうわけか、手足の感覚が鈍い。\r\n\r\n//　他人の体を糸で操っている心地になりながら、どう\r\n//にか辿り着く。\r\n//　<RUBY text='ノブ'>把手</RUBY>を掴んで、回して引いた。\r\n  My limbs feel like they belong to someone else. Carefully, like a puppeteer, I walk myself to the door.\r\n\r\n  I grab the knob and turn.\r\n",
-  "pt": ""
+  "pt": "\r\n//　目覚めたそこは、未知の場所だった。\r\n  O quarto é limpo, branco e muito pequeno. Talvez três metros de cada lado, embora a falta de móveis o faça parecer um pouco maior.\r\n\r\n//　白く、清潔感のある部屋だ。\r\n//　広くはない。せいぜい六畳だろう。だが物が少ない\r\n//せいか、やけに空漠として見える。\r\n\r\n//　存在感を有する物体は、たった今まで我が身を横た\r\n//えていた質素な<RUBY text='ベッド'>寝台</RUBY>くらいしかない。\r\n//　後は椅子が一つと、小物が数点。\r\n  Além do catre em que despertei, uma única cadeira e alguns poucos objetos são as únicas coisas dignas de nota. Logo percebo que as paredes não têm janela, e é sem dúvida isso que mais contribui para o ar opressivo do lugar. A grade de ventilação perto do teto pode estar me mantendo vivo, mas seus benefícios psicológicos são duvidosos.\r\n\r\n//　見直せば、壁に窓すら無かった。\r\n//　息苦しさを覚えるのは間違いなくそのせいだろう。\r\n//通風孔はあるが、身体的にはともかく心理的には全く\r\n//必要充分でない。\r\n\r\n//　鉛を詰めたように重い頭蓋は、考えを巡らせる前に\r\n//まずここから出る事を要求していた。\r\n\r\n//　部屋の一隅に扉を見つけ、そちらに歩く。\r\n  Meu cérebro lento determina que a primeira providência é sair para o ar livre. Levanto-me da cama e sigo em direção à porta — mas dou apenas alguns passos antes de tropeçar e quase cair.\r\n\r\n//　ほんの数歩を進むために、幾度かよろめいた。\r\n//　どういうわけか、手足の感覚が鈍い。\r\n\r\n//　他人の体を糸で操っている心地になりながら、どう\r\n//にか辿り着く。\r\n//　<RUBY text='ノブ'>把手</RUBY>を掴んで、回して引いた。\r\n  Meus membros parecem pertencer a outra pessoa. Com cuidado, como um titereiro, conduzo a mim mesmo até a porta.\r\n\r\n  Agarro a maçaneta e giro.\r\n"
  },
  {
   "offset": 2232,
@@ -12,52 +12,52 @@
  {
   "offset": 2350,
   "en": "\r\n//　押してみる。\r\n  Again. This time I try pushing.\r\n",
-  "pt": ""
+  "pt": "\r\n//　押してみる。\r\n  De novo. Desta vez, tento empurrar.\r\n"
  },
  {
   "offset": 2420,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050020a00'>\r\n//「…………うむ」\r\n\"...Hmm.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050020a00'>\r\n//「…………うむ」\r\n\"...Hmm.\"\r\n"
  },
  {
   "offset": 2551,
   "en": "\r\n//　さて。\r\n//　状況が新たに一つ判明した。\r\n  All right. So my door is locked. From the outside.\r\n\r\n  I'm a prisoner.\r\n\r\n//　扉は開かない。\r\n//　鍵が掛けられている。無論、外側から。\r\n\r\n//　把手を舐めるように見回してみようが、鍵穴もなけ\r\n//ればボタンも引き金もない。\r\n//　開ける事は不可能だった。\r\n\r\n//　つまり監禁されている。\r\n\r\n//　……いや。\r\n//　決め付けるのは早計か。\r\n  ...No. There's another possibility. \r\n\r\n  This might be a hospital. The door might be locked for my own safety, and that of the other patients.\r\n\r\n//　ここは単に病院の病室であり、鍵が掛かっているの\r\n//は関係者以外の立ち入りを禁ずる為なのかもしれない。\r\n//　患者の症状によっては、内側から開けられない部屋\r\n//に収容する必要もあるだろう。\r\n\r\n//　で、あれば――とりあえず、すべきは一つだ。\r\n//　起床した事実を外へ伝えよう。\r\n  In which case, the first thing I should do is let someone know I'm awake.\r\n",
-  "pt": ""
+  "pt": "\r\n//　さて。\r\n//　状況が新たに一つ判明した。\r\n  Muito bem. Então a porta está trancada. Pelo lado de fora.\r\n\r\n  Sou um prisioneiro.\r\n\r\n//　扉は開かない。\r\n//　鍵が掛けられている。無論、外側から。\r\n\r\n//　把手を舐めるように見回してみようが、鍵穴もなけ\r\n//ればボタンも引き金もない。\r\n//　開ける事は不可能だった。\r\n\r\n//　つまり監禁されている。\r\n\r\n//　……いや。\r\n//　決め付けるのは早計か。\r\n  ...Não. Há outra possibilidade.\r\n\r\n  Isto pode ser um hospital. A porta pode estar trancada para a minha segurança e a dos outros pacientes.\r\n\r\n//　ここは単に病院の病室であり、鍵が掛かっているの\r\n//は関係者以外の立ち入りを禁ずる為なのかもしれない。\r\n//　患者の症状によっては、内側から開けられない部屋\r\n//に収容する必要もあるだろう。\r\n\r\n//　で、あれば――とりあえず、すべきは一つだ。\r\n//　起床した事実を外へ伝えよう。\r\n  Nesse caso, a primeira coisa que devo fazer é avisar que acordei.\r\n"
  },
  {
   "offset": 3683,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050030a00'>\r\n//「失礼。\r\n//　何方か、おられませんか」\r\n\"Pardon. Is anyone there?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050030a00'>\r\n//「失礼。\r\n//　何方か、おられませんか」\r\n\"Com licença. Há alguém aí?\"\r\n"
  },
  {
   "offset": 3862,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050040a00'>\r\n//「もし――」\r\n\"Pardon―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050040a00'>\r\n//「もし――」\r\n\"Com licença—\"\r\n"
  },
  {
   "offset": 3989,
   "en": "\r\n//◆ボイス「ビー・クァイエット！」Be quiet!\r\n//【ｅｔｃ／ＧＨＱ見張り】\r\n<voice name='ｅｔｃ／ＧＨＱ見張り' class='その他男声' src='voice/mc02/0050050e000'>\r\n//「静かにしろッ！」\r\n\"Be quiet!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆ボイス「ビー・クァイエット！」Be quiet!\r\n//【ｅｔｃ／ＧＨＱ見張り】\r\n<voice name='ｅｔｃ／ＧＨＱ見張り' class='その他男声' src='voice/mc02/0050050e000'>\r\n//「静かにしろッ！」\r\n\"Silêncio!\"\r\n"
  },
  {
   "offset": 4244,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050060a00'>\r\n//「…………承知」\r\n\"...Okay.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050060a00'>\r\n//「…………承知」\r\n\"...Entendido.\"\r\n"
  },
  {
   "offset": 4376,
   "en": "\r\n//　監禁されているのは間違いないようだ。\r\n  Prisoner it is.\r\n\r\n//　それにしても、今の声。\r\n//　聞き間違えようのない外国語――英語だった。\r\n\r\n//　英語を話す人間が、俺の身柄をこの一室に封じよう\r\n//としている。\r\n//　\r\n//　……つまり。\r\n  Still, I have to wonder at the voice of my jailer. He was speaking English, no mistaking it. And that suggests―\r\n",
-  "pt": ""
+  "pt": "\r\n//　監禁されているのは間違いないようだ。\r\n  Prisioneiro, então.\r\n\r\n//　それにしても、今の声。\r\n//　聞き間違えようのない外国語――英語だった。\r\n\r\n//　英語を話す人間が、俺の身柄をこの一室に封じよう\r\n//としている。\r\n//　\r\n//　……つまり。\r\n  Ainda assim, a voz do meu carcereiro me intriga. Ele falava inglês, não há como me enganar. E isso sugere—\r\n"
  },
  {
   "offset": 4827,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050070a00'>\r\n//（俺は進駐軍に拘束されているのか）\r\n(I'm being held by GHQ?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050070a00'>\r\n//（俺は進駐軍に拘束されているのか）\r\n(Estou detido pela GHQ?)\r\n"
  },
  {
   "offset": 5000,
   "en": "\r\n//　そういう事になりそうだった。\r\n\r\n//　理由に心当たりがない…………などと口にしたなら\r\n//健忘症の謗りを受けるだろう。\r\n//　江ノ島でＧＨＱの将校らと敵対した記憶は、風化さ\r\n//せてしまうには流石にまだ時が足りなかった。\r\n  That this does not come entirely as a surprise, I take as a sign that my memory is whole. Far too little time has passed to forget their trap on Enoshima.\r\n\r\n//　あの折は銀星号の登場によって何もかも混沌の内に\r\n//幕を引いてしまったが、それでＧＨＱが俺の事は放置\r\n//しようと変心したとは思えない。\r\n//　次の手を仕掛けて来るのは、むしろ当然とも言えた。\r\n  That plan of theirs failed due to Ginseigo's apocalyptic intervention―but of course, they would not have given up trying to remove me from the picture. Not if it was worth the first attempt.\r\n\r\n//　しかし、それにしても突然である。\r\n//　何の脈絡もなくこんな始末になった事の説明として\r\n//は充分でない。\r\n  The question is... why now?\r\n\r\n//　いや……脈絡？\r\n//　\r\n//　脈絡。\r\n\r\n//　俺は建朝寺へ親王らを救いにゆこうとして……\r\n  I can't imagine―\r\n\r\n  No. Wait.\r\n\r\n  The attack on the prince. That must have been GHQ.\r\n\r\n//　そうだ……建朝寺への攻撃。\r\n//　要するに、あれは――――進駐軍の……？\r\n\r\n//　では、あれも――\r\n  Which means.... that so was <I>he.</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　そういう事になりそうだった。\r\n\r\n//　理由に心当たりがない…………などと口にしたなら\r\n//健忘症の謗りを受けるだろう。\r\n//　江ノ島でＧＨＱの将校らと敵対した記憶は、風化さ\r\n//せてしまうには流石にまだ時が足りなかった。\r\n  O fato de isso não me causar surpresa alguma tomo como sinal de que minha memória está intacta. Passou tempo de menos para que eu esquecesse a armadilha deles em Enoshima.\r\n\r\n//　あの折は銀星号の登場によって何もかも混沌の内に\r\n//幕を引いてしまったが、それでＧＨＱが俺の事は放置\r\n//しようと変心したとは思えない。\r\n//　次の手を仕掛けて来るのは、むしろ当然とも言えた。\r\n  Aquele plano deles fracassou devido à intervenção apocalíptica de Ginseigo — mas, é claro, não teriam desistido de me tirar do caminho. Não se a primeira tentativa já tinha valido a pena.\r\n\r\n//　しかし、それにしても突然である。\r\n//　何の脈絡もなくこんな始末になった事の説明として\r\n//は充分でない。\r\n  A questão é... por que agora?\r\n\r\n//　いや……脈絡？\r\n//　\r\n//　脈絡。\r\n\r\n//　俺は建朝寺へ親王らを救いにゆこうとして……\r\n  Não consigo imaginar—\r\n\r\n  Não. Espere.\r\n\r\n  O ataque ao príncipe. Deve ter sido a GHQ.\r\n\r\n//　そうだ……建朝寺への攻撃。\r\n//　要するに、あれは――――進駐軍の……？\r\n\r\n//　では、あれも――\r\n  O que significa.... que <I>ele</I> também.\r\n"
  },
  {
   "offset": 6556,
@@ -67,27 +67,27 @@
  {
   "offset": 6680,
   "en": "\r\n//　……割れるような頭痛に、脳が<RUBY text='うず'>疼</RUBY>いた。\r\n//　考えをひとまず止める。\r\n  Before the onslaught of pain splits my head like a melon, I force my thoughts onto a different path. Muramasa. Where is she? \r\n\r\n//　今は、別の――<k>\r\n//　\r\n//　そういえば、村正はどうしたのか。\r\n  Not here. I know that without looking. It would be absurd to lock a musha in the same room as his tsurugi.\r\n\r\n//　この室内にいないのは間違いない。\r\n//　見ればわかる事だし、見なくともわかる事だった。\r\n//武者を劒冑と共に閉じ込めるなど、余りにも馬鹿げて\r\n//いる。\r\n",
-  "pt": ""
+  "pt": "\r\n//　……割れるような頭痛に、脳が<RUBY text='うず'>疼</RUBY>いた。\r\n//　考えをひとまず止める。\r\n  Antes que a onda de dor parta minha cabeça como um melão, forço meus pensamentos por outro caminho. Muramasa. Onde está ela?\r\n\r\n//　今は、別の――<k>\r\n//　\r\n//　そういえば、村正はどうしたのか。\r\n  Não aqui. Sei disso sem precisar olhar. Seria absurdo trancar um musha no mesmo quarto que seu tsurugi.\r\n\r\n//　この室内にいないのは間違いない。\r\n//　見ればわかる事だし、見なくともわかる事だった。\r\n//武者を劒冑と共に閉じ込めるなど、余りにも馬鹿げて\r\n//いる。\r\n"
  },
  {
   "offset": 7374,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050090a00'>\r\n//（村正？）\r\n(Muramasa?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050090a00'>\r\n//（村正？）\r\n(Muramasa?)\r\n"
  },
  {
   "offset": 7498,
   "en": "\r\n//　……………………………\r\n  ...No response.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……………………………\r\n  ...Nenhuma resposta.\r\n"
  },
  {
   "offset": 7567,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050100a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0050100a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n"
  },
  {
   "offset": 7688,
   "en": "\r\n//　……………………………………………………………\r\n\r\n//　声に出して呼んでみても、金打声の返答はなかった。\r\n//　聴こえていないのか、聴こえていても答えられない\r\n//のか……。\r\n  Still nothing. Either she cannot hear me―or she can, but cannot respond.\r\n\r\n//　これは稀有な事態だ。\r\n//　無論、良からぬ意味で。\r\n  This has never happened before, and the experience is not a pleasant one. When joined, a tsurugi and its pilot form a single whole, a musha. As a rule, nothing can break this bond, or prevent the two from communicating even over great distance.\r\n\r\n//　縁を結んだ仕手と劒冑は二人で一騎の武者となる。\r\n//　一個体になるとも言えるのであり、そうあるからに\r\n//は両者が引き離される事など<RUBY text='・・・・・'>有り得ない</RUBY>。\r\n\r\n//　互いが見えないほど距離を隔てていても、隣にいる\r\n//のと同様に通話できるのだ。\r\n//　\r\n//　それが今はできない。\r\n\r\n//　最も妥当な可能性は、会話する能力を失ったという\r\n//それだ。\r\n\r\n//　つまり、完全に破壊された。\r\n\r\n//　死者に口無し。\r\n//　一概に生物とは定義し難い劒冑とて、その格言から\r\n//逃れられはしない。\r\n  The only explanation for Muramasa's silence―the only thing that could keep her from responding―is if she is no longer able to do so.\r\n\r\n  Which is to say, if she has been destroyed.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……………………………………………………………\r\n\r\n//　声に出して呼んでみても、金打声の返答はなかった。\r\n//　聴こえていないのか、聴こえていても答えられない\r\n//のか……。\r\n  Ainda nada. Ou ela não me ouve — ou ouve, mas não consegue responder.\r\n\r\n//　これは稀有な事態だ。\r\n//　無論、良からぬ意味で。\r\n  Isso nunca aconteceu antes, e a experiência não é nada agradável. Quando unidos, um tsurugi e seu piloto formam um único todo, um musha. Via de regra, nada pode romper esse vínculo nem impedir que os dois se comuniquem, mesmo a grande distância.\r\n\r\n//　縁を結んだ仕手と劒冑は二人で一騎の武者となる。\r\n//　一個体になるとも言えるのであり、そうあるからに\r\n//は両者が引き離される事など<RUBY text='・・・・・'>有り得ない</RUBY>。\r\n\r\n//　互いが見えないほど距離を隔てていても、隣にいる\r\n//のと同様に通話できるのだ。\r\n//　\r\n//　それが今はできない。\r\n\r\n//　最も妥当な可能性は、会話する能力を失ったという\r\n//それだ。\r\n\r\n//　つまり、完全に破壊された。\r\n\r\n//　死者に口無し。\r\n//　一概に生物とは定義し難い劒冑とて、その格言から\r\n//逃れられはしない。\r\n  A única explicação para o silêncio de Muramasa — a única coisa capaz de impedi-la de responder — é que ela não seja mais capaz disso.\r\n\r\n  Ou seja, que ela tenha sido destruída.\r\n"
  },
  {
   "offset": 9239,
@@ -97,6 +97,6 @@
  {
   "offset": 9363,
   "en": "\r\n///　――それ以外には、<RUBY text='アイソレーションボックス'>通信遮断装置</RUBY>に密封されている\r\n//可能性くらいしか思い当たらないが。\r\n//　ＧＨＱが邪魔者として始末しようとした<RUBY text='おれ'>村正</RUBY>の為に\r\n//そこまでの手間を掛けるものかどうか、大いに疑問だ。\r\n  Or if she's been sealed in an isolation box. I can't think of a reason GHQ would go to the trouble of keeping my tsurugi alive―I am, after all, their enemy―but the fact that I did not succumb to the tetrodotoxin suggests that she survived at least long enough to purge my body of the poison.\r\n\r\n//　ただ……<RUBY text='テトロドトキシン'>猛毒</RUBY>に冒されたこの肉体が生存している。\r\n//　村正が回復させたのだとすれば、少なくともそれが\r\n//終了するまでは健在だったという事になる……。\r\n\r\n//　いずれにしろ、今は事実を確認できる状態にない。\r\n\r\n//　動きが起こるのを待つしかないだろう。\r\n//　自由を奪われ、その自由を取り戻す方法もない以上、\r\n//それが唯一の選択だ。\r\n  In any case, I have no way of ascertaining the truth at present. My only choice is to wait and see what my captors have in store.\r\n\r\n//　……そんな事を選択などと呼びたくはないが。\r\n//　\r\n//　俺はせめてもの最善を尽くすべく、ベッドに戻って\r\n//いまだ疲れが濃く残る身体を横たえた。\r\n  ...Not much of a choice at all, but so be it. Exhaustion still lies deep in my bones, so I return to the cot and stretch myself out, resolved to recover as much of my strength as I can for whatever lies ahead.\r\n",
-  "pt": ""
+  "pt": "\r\n///　――それ以外には、<RUBY text='アイソレーションボックス'>通信遮断装置</RUBY>に密封されている\r\n//可能性くらいしか思い当たらないが。\r\n//　ＧＨＱが邪魔者として始末しようとした<RUBY text='おれ'>村正</RUBY>の為に\r\n//そこまでの手間を掛けるものかどうか、大いに疑問だ。\r\n  Ou que tenha sido selada numa caixa de isolamento. Não consigo imaginar por que a GHQ se daria ao trabalho de manter meu tsurugi viva — afinal, sou inimigo deles —, mas o fato de eu não ter sucumbido à tetrodotoxina sugere que ela sobreviveu ao menos o bastante para purgar meu corpo do veneno.\r\n\r\n//　ただ……<RUBY text='テトロドトキシン'>猛毒</RUBY>に冒されたこの肉体が生存している。\r\n//　村正が回復させたのだとすれば、少なくともそれが\r\n//終了するまでは健在だったという事になる……。\r\n\r\n//　いずれにしろ、今は事実を確認できる状態にない。\r\n\r\n//　動きが起こるのを待つしかないだろう。\r\n//　自由を奪われ、その自由を取り戻す方法もない以上、\r\n//それが唯一の選択だ。\r\n  De qualquer modo, no momento não tenho como averiguar a verdade. Minha única escolha é esperar para ver o que meus captores reservam.\r\n\r\n//　……そんな事を選択などと呼びたくはないが。\r\n//　\r\n//　俺はせめてもの最善を尽くすべく、ベッドに戻って\r\n//いまだ疲れが濃く残る身体を横たえた。\r\n  ...Não é grande escolha, mas que seja. O cansaço ainda pesa fundo nos meus ossos, então volto ao catre e me deito, decidido a recuperar o máximo de forças que puder para o que estiver por vir.\r\n"
  }
 ]

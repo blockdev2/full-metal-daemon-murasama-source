@@ -2,47 +2,47 @@
  {
   "offset": 213,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320010a04'>\r\n//「ございましたな」\r\n\"Here we are.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320010a04'>\r\n//「ございましたな」\r\n\"Chegamos.\"\r\n"
  },
  {
   "offset": 352,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320020a00'>\r\n//「……これが……？」\r\n\"This is it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320020a00'>\r\n//「……これが……？」\r\n\"...É isto?\"\r\n"
  },
  {
   "offset": 493,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320030a03'>\r\n//「ええ。\r\n//　横浜基地の中で一度、遠目に見ました……\r\n//おそらく間違いはないかと」\r\n\"Yes. We saw it once on <br>base.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320030a03'>\r\n//「ええ。\r\n//　横浜基地の中で一度、遠目に見ました……\r\n//おそらく間違いはないかと」\r\n\"Sim. Vimos uma vez na base.\"\r\n"
  },
  {
   "offset": 753,
   "en": "\r\n//　仏寺の鐘に似た<RUBY text='フォルム'>外形</RUBY>。\r\n//　<RUBY text='たけ'>丈</RUBY>は俺の背を上回る。\r\n  It rises a few centimeters above my head, and looks vaguely like the bell at a temple. \r\n\r\n//　見る限りは無骨な、単なる金属の塊だ。\r\n//　しかし禍々しい。寒々しい。正体を聞かされている\r\n//故の先入観もあろうが……それにつけても厭わしい。\r\n  A mass of steel, cold and silent. Yet I know its true nature, so I cannot help but fear it, as if it were the statue of some demonic god.\r\n\r\n//　これが、\r\n//　\r\n//　――――<RUBY text='フォージド・ボム'>鍛造雷弾</RUBY>。\r\n  So, this is the Forged Bomb.\r\n",
-  "pt": ""
+  "pt": "\r\n//　仏寺の鐘に似た<RUBY text='フォルム'>外形</RUBY>。\r\n//　<RUBY text='たけ'>丈</RUBY>は俺の背を上回る。\r\n  Ergue-se alguns centímetros acima da minha cabeça e lembra vagamente o sino de um templo.\r\n\r\n//　見る限りは無骨な、単なる金属の塊だ。\r\n//　しかし禍々しい。寒々しい。正体を聞かされている\r\n//故の先入観もあろうが……それにつけても厭わしい。\r\n  Uma massa de aço, fria e silenciosa. Mas conheço sua verdadeira natureza, e por isso não posso deixar de temê-la, como se fosse a estátua de algum deus demoníaco.\r\n\r\n//　これが、\r\n//　\r\n//　――――<RUBY text='フォージド・ボム'>鍛造雷弾</RUBY>。\r\n  Então é isto, a Bomba Forjada.\r\n"
  },
  {
   "offset": 1483,
   "en": "\r\n//　不意に背後で、幾つもの靴底が床を乱打した。\r\n//　はっとして振り返る。\r\n  At the sound of racing footsteps, I whirl to face the door.\r\n",
-  "pt": ""
+  "pt": "\r\n//　不意に背後で、幾つもの靴底が床を乱打した。\r\n//　はっとして振り返る。\r\n  Ao som de passos apressados, viro-me de súbito para a porta.\r\n"
  },
  {
   "offset": 1663,
   "en": "\r\n//　十人弱の、武装した進駐軍兵士……\r\n//　彼らを率いて頭に立ち、竜騎兵もいる。\r\n  A squad of armed soldiers―<br>led by a dragoon.\r\n\r\n//　逃げ場はない。完全に不利な状形だ。\r\n//　敵勢がこのまま布陣し、押し込んでくれば、こちら\r\n//は火力の差で制圧される他にない。\r\n  We are at a disadvantage here. There's nowhere to run, and my companions do not have the benefit of armor. If the enemy spreads out and puts us under fire, they may not make it out alive.\r\n\r\n//　甲鉄で身を守れる俺はともかくとして、大鳥大尉と\r\n//永倉侍従が生き延びるのは難しかろう。\r\n//　\r\n//　だが、そんな帰結を黙って待つ大尉ではなかった。\r\n  But of course, the captain sees this too. Before any man can aim his gun, she aims hers―<K>at the Forged Bomb.\r\n\r\n//　現れた彼らが何をするよりも早く、銃口を定める。\r\n//　爆弾の巨躯へ向けて。\r\n\r\n//　兵士達が静止する。\r\n//　……顔に戸惑いが見えた。\r\n  The soldiers freeze, confusion on their faces.\r\n",
-  "pt": ""
+  "pt": "\r\n//　十人弱の、武装した進駐軍兵士……\r\n//　彼らを率いて頭に立ち、竜騎兵もいる。\r\n  Um esquadrão de soldados armados — liderados por um dragão.\r\n\r\n//　逃げ場はない。完全に不利な状形だ。\r\n//　敵勢がこのまま布陣し、押し込んでくれば、こちら\r\n//は火力の差で制圧される他にない。\r\n  Estamos em desvantagem aqui. Não há para onde fugir, e minhas companheiras não têm o benefício de uma armadura. Se o inimigo se espalhar e abrir fogo, talvez não saiam vivas.\r\n\r\n//　甲鉄で身を守れる俺はともかくとして、大鳥大尉と\r\n//永倉侍従が生き延びるのは難しかろう。\r\n//　\r\n//　だが、そんな帰結を黙って待つ大尉ではなかった。\r\n  Mas, é claro, a capitã também percebe isso. Antes que qualquer homem consiga apontar a arma, ela aponta a sua — <K>para a Bomba Forjada.\r\n\r\n//　現れた彼らが何をするよりも早く、銃口を定める。\r\n//　爆弾の巨躯へ向けて。\r\n\r\n//　兵士達が静止する。\r\n//　……顔に戸惑いが見えた。\r\n  Os soldados congelam, com a confusão estampada no rosto.\r\n"
  },
  {
   "offset": 2800,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320040a03'>\r\n//「そうそう。\r\n//　そのまま動かずにいてくださいな」\r\n\"That's it, gentlemen. No sudden moves now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320040a03'>\r\n//「そうそう。\r\n//　そのまま動かずにいてくださいな」\r\n\"Assim, senhores. Nada de movimentos bruscos agora.\"\r\n"
  },
  {
   "offset": 3024,
   "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320050e141'>\r\n//「……何の真似だ？　招かれざる大和人！」\r\n\"What's going on here? You're not part of this mission!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320050e141'>\r\n//「……何の真似だ？　招かれざる大和人！」\r\n\"O que está acontecendo aqui? Vocês não fazem parte desta missão!\"\r\n"
  },
  {
   "offset": 3284,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320060a03'>\r\n//「これが何か、キャノン中佐から聞いていら\r\n//っしゃらないの？」\r\n\"Did the colonel tell you what this is?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320060a03'>\r\n//「これが何か、キャノン中佐から聞いていら\r\n//っしゃらないの？」\r\n\"O coronel não lhes disse o que é isto?\"\r\n"
  },
  {
   "offset": 3522,
@@ -52,207 +52,207 @@
  {
   "offset": 3686,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320080a03'>\r\n//「あら……でもそうか。警備隊にこんな機密\r\n//まで教えておく必要はありませんものね。\r\n//　けれど、危険物だってことくらいはご存知\r\n//でしょう？」\r\n\"Oh. Well, I suppose there's no need for those guarding it to know. You have heard it's quite dangerous?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320080a03'>\r\n//「あら……でもそうか。警備隊にこんな機密\r\n//まで教えておく必要はありませんものね。\r\n//　けれど、危険物だってことくらいはご存知\r\n//でしょう？」\r\n\"Ah. Bem, suponho que não haja necessidade de quem o guarda saber disso. Mas ouviram dizer que é bastante perigoso?\"\r\n"
  },
  {
   "offset": 4105,
   "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320090e141'>\r\n//「……それは聞いている」\r\n\"...Of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320090e141'>\r\n//「……それは聞いている」\r\n\"...Claro.\"\r\n"
  },
  {
   "offset": 4300,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320100a03'>\r\n//「危険も危険。\r\n//　これは今から普陀楽城に落として、みんな\r\n//根こそぎ消し飛ばしてしまう予定の新型爆弾\r\n//です」\r\n\"That's good. You see, this is a bomb. A new type, powerful enough to destroy Fudaraku entirely.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320100a03'>\r\n//「危険も危険。\r\n//　これは今から普陀楽城に落として、みんな\r\n//根こそぎ消し飛ばしてしまう予定の新型爆弾\r\n//です」\r\n\"Que bom. Vejam bem, isto é uma bomba. De um tipo novo, poderosa o bastante para destruir Fudaraku por inteiro.\"\r\n"
  },
  {
   "offset": 4666,
   "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320110e141'>\r\n//「何だと!?」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320110e141'>\r\n//「何だと!?」\r\n\"O quê!?\"\r\n"
  },
  {
   "offset": 4834,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320120a03'>\r\n//「だから動かないでくださいまし。\r\n//　どなたかが一歩でも動いたら――ずきゅん\r\n//といってぼっかーん」\r\n\"So I reiterate, please remain where you are. Anyone takes so much as a step, and we're all going KABOOM!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320120a03'>\r\n//「だから動かないでくださいまし。\r\n//　どなたかが一歩でも動いたら――ずきゅん\r\n//といってぼっかーん」\r\n\"Então repito: por favor, fiquem onde estão. Se qualquer um der um único passo, todos nós vamos... CABUM!\"\r\n"
  },
  {
   "offset": 5193,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320130a04'>\r\n//「我々全員、空の塵でございます。\r\n//　ヒンデンブルク号以来の大惨事として歴史\r\n//には記されましょうな」\r\n\"I expect it'll be worse than the Hindenburg disaster. Bits of us will fall like rain from the sky.\" \r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320130a04'>\r\n//「我々全員、空の塵でございます。\r\n//　ヒンデンブルク号以来の大惨事として歴史\r\n//には記されましょうな」\r\n\"Creio que será pior que o desastre do Hindenburg. Nossos pedaços cairão do céu como chuva.\"\r\n"
  },
  {
   "offset": 5541,
   "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320140e141'>\r\n//「出鱈目を……！」\r\n\"You're bluffing!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320140e141'>\r\n//「出鱈目を……！」\r\n\"Você está blefando!\"\r\n"
  },
  {
   "offset": 5730,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320150a03'>\r\n//「真っ赤な嘘と、断定できる根拠はお有り？」\r\n\"Are you willing to bet your life on that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320150a03'>\r\n//「真っ赤な嘘と、断定できる根拠はお有り？」\r\n\"Está disposto a apostar a vida nisso?\"\r\n"
  },
  {
   "offset": 5943,
   "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320160e141'>\r\n//「……く」\r\n\"Kuh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320160e141'>\r\n//「……く」\r\n\"Kuh...\"\r\n"
  },
  {
   "offset": 6110,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320170a04'>\r\n//「これは純然たる忠告として申し上げますが、\r\n//キャノン中佐にお伺いを立てられてはいかが\r\n//でしょう」\r\n\"If you have any doubts, I strongly suggest you take them up with the colonel.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320170a04'>\r\n//「これは純然たる忠告として申し上げますが、\r\n//キャノン中佐にお伺いを立てられてはいかが\r\n//でしょう」\r\n\"Se têm alguma dúvida, sugiro encarecidamente que a levem ao coronel.\"\r\n"
  },
  {
   "offset": 6433,
   "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320180e141'>\r\n//「……その必要はない！\r\n//　それが本当に貴様らの言う通りの爆弾だと\r\n//しても、銃弾の一発程度で起爆するようには\r\n//見えんぞ！」\r\n\"...Even if that thing is a bomb, there's no way that rifle will set it off!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320180e141'>\r\n//「……その必要はない！\r\n//　それが本当に貴様らの言う通りの爆弾だと\r\n//しても、銃弾の一発程度で起爆するようには\r\n//見えんぞ！」\r\n\"...Mesmo que essa coisa seja uma bomba, não há como um tiro de fuzil detoná-la!\"\r\n"
  },
  {
   "offset": 6837,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320190a03'>\r\n//「あらほんとう。\r\n//　そういうわけですから、景明さま」\r\n\"Oh... that's an excellent point. Darling?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320190a03'>\r\n//「あらほんとう。\r\n//　そういうわけですから、景明さま」\r\n\"Ah... excelente observação. Querido?\"\r\n"
  },
  {
   "offset": 7066,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320200a00'>\r\n//「は」\r\n\"Yes, Captain?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320200a00'>\r\n//「は」\r\n\"Sim, capitã?\"\r\n"
  },
  {
   "offset": 7188,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320210a03'>\r\n//「いざとなったらこの爆弾、叩き斬ってくだ\r\n//さいませ」\r\n\"Would you be so kind as to cut this bomb in half?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320210a03'>\r\n//「いざとなったらこの爆弾、叩き斬ってくだ\r\n//さいませ」\r\n\"Teria a gentileza de cortar esta bomba ao meio?\"\r\n"
  },
  {
   "offset": 7425,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320220a00'>\r\n//「――御意」\r\n\"Understood.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320220a00'>\r\n//「――御意」\r\n\"Como ordenado.\"\r\n"
  },
  {
   "offset": 7554,
   "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320230e141'>\r\n//「何ぃ!?」\r\n\"Wait!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320230e141'>\r\n//「何ぃ!?」\r\n\"Espera!\"\r\n"
  },
  {
   "offset": 7719,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320240a04'>\r\n//「親切なお人ですなー。\r\n///　大丈夫だと思ったならすぐ行動してしまえ\r\n//ばよろしいものを、わざわざこちらにご助言\r\n//くださるとは」\r\n\"If you insist. You know, you could have shot first, if you truly believed it safe.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320240a04'>\r\n//「親切なお人ですなー。\r\n///　大丈夫だと思ったならすぐ行動してしまえ\r\n//ばよろしいものを、わざわざこちらにご助言\r\n//くださるとは」\r\n\"Se insiste. Sabe, poderia ter atirado primeiro, se realmente acreditasse que era seguro.\"\r\n"
  },
  {
   "offset": 8088,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320250a04'>\r\n//「先程の忠告の返礼でございますかな。\r\n//　英国紳士の名に恥じぬ見事な振舞いと申せ\r\n//ましょうぞ」\r\n\"I suppose you meant to repay us for the warning? Most knightly of you, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320250a04'>\r\n//「先程の忠告の返礼でございますかな。\r\n//　英国紳士の名に恥じぬ見事な振舞いと申せ\r\n//ましょうぞ」\r\n\"Suponho que pretendia retribuir nosso aviso? Um gesto bem digno de um cavaleiro, senhor.\"\r\n"
  },
  {
   "offset": 8403,
   "en": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320260e141'>\r\n//「ぐ……ぐぬっ……！」\r\n\"Damn...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／船内竜兵】\r\n<voice name='ｅｔｃ／船内竜兵' class='その他男声' src='voice/mc02/0320260e141'>\r\n//「ぐ……ぐぬっ……！」\r\n\"Droga...!\"\r\n"
  },
  {
   "offset": 8590,
   "en": "\r\n//　笑顔でからかう老女に、歯軋りする竜騎兵。\r\n//　……キャノン中佐は船の防備を任せる人材に、機転\r\n//ではなく愚直さを求めたらしい。それはそれで正しい\r\n//判断なのだろうが、今はこちらに利していた。\r\n\r\n//　この単純な気質の将校が相手なら、大鳥主従はあと\r\n//百年でも鼻先であしらっていられるに違いない。\r\n\r\n//　そう思いながらも、俺は楽観を自制した。\r\n\r\n//　この状況を見誤ってはならない。\r\n//　あくまでも追い詰められているのは我々。死の淵に\r\n//立っているのはこちら側なのだ。\r\n\r\n//　あとほんの少し早く、爆弾を発見できていたら――\r\n//それが悔やまれる。\r\n//　こう追い込まれた格好では、解体も投棄もしようが\r\n//ない。……決着をつけられない。手詰まりだ。\r\n\r\n//　想いは同じか、不敵な優越感を見せ付けて敵集団の\r\n//足を止めている大鳥主従もその実、侮りや油断は毛筋\r\n//ほどもなかった。\r\n//　表情ではなく手足の細かな所作で、それがわかる。\r\n  It would appear that when building the roster for this mission, the colonel selected for loyalty, not guile. A wise choice, I'm sure―but in this instance, one that works in our favor. I have no doubt that the captain could string this man along for another hundred years.\r\n\r\n  But that is no reason to celebrate. Our position remains precarious, with death but a footstep away.\r\n\r\n  If only we had found the bomb a little sooner. As is, we have no hope of disabling or destroying it.\r\n\r\n  We're trapped, and the captain knows it. I can tell, from subtle clues of body language, that she is not nearly as confident as she seems.\r\n",
-  "pt": ""
+  "pt": "\r\n//　笑顔でからかう老女に、歯軋りする竜騎兵。\r\n//　……キャノン中佐は船の防備を任せる人材に、機転\r\n//ではなく愚直さを求めたらしい。それはそれで正しい\r\n//判断なのだろうが、今はこちらに利していた。\r\n\r\n//　この単純な気質の将校が相手なら、大鳥主従はあと\r\n//百年でも鼻先であしらっていられるに違いない。\r\n\r\n//　そう思いながらも、俺は楽観を自制した。\r\n\r\n//　この状況を見誤ってはならない。\r\n//　あくまでも追い詰められているのは我々。死の淵に\r\n//立っているのはこちら側なのだ。\r\n\r\n//　あとほんの少し早く、爆弾を発見できていたら――\r\n//それが悔やまれる。\r\n//　こう追い込まれた格好では、解体も投棄もしようが\r\n//ない。……決着をつけられない。手詰まりだ。\r\n\r\n//　想いは同じか、不敵な優越感を見せ付けて敵集団の\r\n//足を止めている大鳥主従もその実、侮りや油断は毛筋\r\n//ほどもなかった。\r\n//　表情ではなく手足の細かな所作で、それがわかる。\r\n  Parece que, ao montar o quadro desta missão, o coronel escolheu lealdade, não astúcia. Uma escolha sábia, sem dúvida — mas que, neste caso, nos favorece. Não tenho dúvida de que a capitã poderia enrolar este homem por mais cem anos.\r\n\r\n  Mas isso não é motivo para celebrar. Nossa posição continua precária, com a morte a um passo de distância.\r\n\r\n  Se ao menos tivéssemos encontrado a bomba um pouco antes. Assim, não temos esperança de desarmá-la ou destruí-la.\r\n\r\n  Estamos encurralados, e a capitã sabe disso. Percebo, por sutis sinais de sua linguagem corporal, que ela não está nem de longe tão confiante quanto aparenta.\r\n"
  },
  {
   "offset": 10422,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320270a03'>\r\n//（景明さま？）\r\n(Darling?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320270a03'>\r\n//（景明さま？）\r\n(Querido?)\r\n"
  },
  {
   "offset": 10560,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320280a00'>\r\n//（はい）\r\n(Captain.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320280a00'>\r\n//（はい）\r\n(Capitã.)\r\n"
  },
  {
   "offset": 10680,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320290a03'>\r\n//（このまま時間を稼ぎましょう。\r\n//　そうですね……一〇分ばかり）\r\n(We just need to maintain this stalemate for another... ten minutes.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320290a03'>\r\n//（このまま時間を稼ぎましょう。\r\n//　そうですね……一〇分ばかり）\r\n(Só precisamos manter este impasse por mais... dez minutos.)\r\n"
  },
  {
   "offset": 10950,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320300a03'>\r\n//（それから爆弾の安全な返還と引き換えに、\r\n//わたくしたちの解放を要求するということで\r\n//いかが？）\r\n(Afterward, we can trade the bomb for safe passage. How does that sound?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320300a03'>\r\n//（それから爆弾の安全な返還と引き換えに、\r\n//わたくしたちの解放を要求するということで\r\n//いかが？）\r\n(Depois, podemos trocar a bomba por passagem segura. O que acha?)\r\n"
  },
  {
   "offset": 11273,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320310a00'>\r\n//（一〇分で宜しいのですか）\r\n(Ten minutes? Is that <br>enough?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320310a00'>\r\n//（一〇分で宜しいのですか）\r\n(Dez minutos? É o bastante?)\r\n"
  },
  {
   "offset": 11444,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320320a03'>\r\n//（それだけあれば、船はどうしたって普陀楽\r\n//上空を行き過ぎてしまいますもの。\r\n//　落としたくても、もう落とせません）\r\n(In ten minutes, we'll have passed Fudaraku. They'll no longer be able to drop the bomb.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320320a03'>\r\n//（それだけあれば、船はどうしたって普陀楽\r\n//上空を行き過ぎてしまいますもの。\r\n//　落としたくても、もう落とせません）\r\n(Em dez minutos, teremos passado de Fudaraku. Já não poderão lançar a bomba.)\r\n"
  },
  {
   "offset": 11810,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320330a00'>\r\n//（しかし飛行艦は<RUBY text='ホバリング'>空中停止</RUBY>が可能です。\r\n//　それに、行き過ぎてしまってもまた戻って\r\n//くれば済む話では――）\r\n(They could hover the ship, or turn around...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320330a00'>\r\n//（しかし飛行艦は<RUBY text='ホバリング'>空中停止</RUBY>が可能です。\r\n//　それに、行き過ぎてしまってもまた戻って\r\n//くれば済む話では――）\r\n(Mas eles podem pairar com a nave, ou dar a volta...)\r\n"
  },
  {
   "offset": 12145,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320340a03'>\r\n//（六波羅も馬鹿ではなくってよ、景明さま。\r\n//　普陀楽上空で進駐軍の飛行艦がいつまでも\r\n//うろうろしていたら流石に怪しむでしょうし）\r\n(Rokuhara isn't stupid, dear. They'll be all over this ship if it does anything like that.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320340a03'>\r\n//（六波羅も馬鹿ではなくってよ、景明さま。\r\n//　普陀楽上空で進駐軍の飛行艦がいつまでも\r\n//うろうろしていたら流石に怪しむでしょうし）\r\n(Rokuhara não é estúpido, querido. Cairiam em cima desta nave se ela fizesse algo assim.)\r\n"
  },
  {
   "offset": 12534,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320350a03'>\r\n//（そんなリスクを無視して作戦を強行できる\r\n//キャノン中佐とも思えません）\r\n(I'm certain the colonel will not take the risk.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320350a03'>\r\n//（そんなリスクを無視して作戦を強行できる\r\n//キャノン中佐とも思えません）\r\n(Estou certa de que o coronel não correrá esse risco.)\r\n"
  },
  {
   "offset": 12796,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320360a00'>\r\n//（成程。道理です）\r\n(I see. All right.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320360a00'>\r\n//（成程。道理です）\r\n(Entendo. Muito bem.)\r\n"
  },
  {
   "offset": 12940,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320370a04'>\r\n//（では、一〇分間……）\r\n(Ten minutes, then?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320370a04'>\r\n//（では、一〇分間……）\r\n(Dez minutos, então?)\r\n"
  },
  {
   "offset": 13091,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320380a03'>\r\n//（ええ。\r\n//　一〇分、この形を引き伸ばせればわたくし\r\n//たちの勝ち）\r\n(Yes. In ten minutes, we'll have won.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320380a03'>\r\n//（ええ。\r\n//　一〇分、この形を引き伸ばせればわたくし\r\n//たちの勝ち）\r\n(Sim. Em dez minutos, teremos vencido.)\r\n"
  },
  {
   "offset": 13334,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320390a03'>\r\n//（……これが実は爆弾と見せかけてこの船を\r\n//守る<RUBY text='フィギュアヘッド'>船首像</RUBY>・超神ウパニチャッダー様でした\r\n//とかいうミラクルアンラッキーなオチが待ち\r\n//構えていなければだけど）\r\n(That is, unless this contraption is actually a statue of Great Upanishada, placed here to protect the ship.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320390a03'>\r\n//（……これが実は爆弾と見せかけてこの船を\r\n//守る<RUBY text='フィギュアヘッド'>船首像</RUBY>・超神ウパニチャッダー様でした\r\n//とかいうミラクルアンラッキーなオチが待ち\r\n//構えていなければだけど）\r\n(Isto é, a menos que este troço seja, na verdade, uma estátua do Grande Upanishada, colocada aqui para proteger a nave.)\r\n"
  },
  {
   "offset": 13823,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320400a04'>\r\n//（大丈夫ですよ、お嬢さま。\r\n//　星占いによると今月の魚座生まれは幸運に\r\n//恵まれるそうでございますから）\r\n(I wouldn't worry overmuch, Mistress. According to today's horoscope, Pisces can expect excellent luck.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320400a04'>\r\n//（大丈夫ですよ、お嬢さま。\r\n//　星占いによると今月の魚座生まれは幸運に\r\n//恵まれるそうでございますから）\r\n(Não se preocupe tanto, Senhora. Segundo o horóscopo de hoje, os nativos de Peixes podem esperar muita sorte.)\r\n"
  },
  {
   "offset": 14177,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320410a03'>\r\n//（ほんと？）\r\n(Is that true?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320410a03'>\r\n//（ほんと？）\r\n(É verdade?)\r\n"
  },
  {
   "offset": 14317,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320420a04'>\r\n//（は。但し、恋愛運は未来永劫最低を極める\r\n//とのこと）\r\n(Oh yes. Though it did say that where love was concerned, you'd be cursed with bad luck forever.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320420a04'>\r\n//（は。但し、恋愛運は未来永劫最低を極める\r\n//とのこと）\r\n(Ah, sim. Embora também dissesse que, no que toca ao amor, a senhora estaria fadada ao azar para toda a eternidade.)\r\n"
  },
  {
   "offset": 14591,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320430a03'>\r\n//（なんでよっ!?）\r\n(Why!?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320430a03'>\r\n//（なんでよっ!?）\r\n(Por quê!?)\r\n"
  },
  {
   "offset": 14728,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320440a00'>\r\n//（彼らが制圧に踏み切った場合は如何なさい\r\n//ますか、大尉殿）\r\n(Captain. What if they attempt to take us?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320440a00'>\r\n//（彼らが制圧に踏み切った場合は如何なさい\r\n//ますか、大尉殿）\r\n(Capitã. E se tentarem nos subjugar?)\r\n"
  },
  {
   "offset": 14957,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320450a03'>\r\n//（その時はさっきお願いした通りになさって\r\n//くださいな）\r\n(Then please do as I asked. Destroy the bomb.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320450a03'>\r\n//（その時はさっきお願いした通りになさって\r\n//くださいな）\r\n(Nesse caso, faça como lhe pedi. Destrua a bomba.)\r\n"
  },
  {
   "offset": 15192,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320460a00'>\r\n//（本当に斬れと？）\r\n(You were serious?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0320460a00'>\r\n//（本当に斬れと？）\r\n(Falava sério?)\r\n"
  },
  {
   "offset": 15336,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320470a03'>\r\n//（運が有れば爆発もせず、爆弾が機能を失う\r\n//だけで済みます）\r\n(If we're lucky, you'll disable it without killing us.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320470a03'>\r\n//（運が有れば爆発もせず、爆弾が機能を失う\r\n//だけで済みます）\r\n(Com sorte, conseguirá desativá-la sem nos matar.)\r\n"
  },
  {
   "offset": 15586,
@@ -262,26 +262,26 @@
  {
   "offset": 15710,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320490a04'>\r\n//（魚座の運勢に賭けますか）\r\n(We'll just have to hope that horoscope was right.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/0320490a04'>\r\n//（魚座の運勢に賭けますか）\r\n(Só nos resta esperar que aquele horóscopo estivesse certo.)\r\n"
  },
  {
   "offset": 15898,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320500a03'>\r\n//（運つたなく、爆発させてしまっても――\r\n//　この際、構いませんでしょ）\r\n(If our luck doesn't hold... oh well.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320500a03'>\r\n//（運つたなく、爆発させてしまっても――\r\n//　この際、構いませんでしょ）\r\n(Se a sorte nos faltar... paciência.)\r\n"
  },
  {
   "offset": 16146,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320510a03'>\r\n//（正規の手順による爆発ではありませんから、\r\n//威力も相当に目減りするはずです。\r\n//　加えてここは高空）\r\n(Without the proper detonation process, the explosion should lack its intended force, and given our altitude...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320510a03'>\r\n//（正規の手順による爆発ではありませんから、\r\n//威力も相当に目減りするはずです。\r\n//　加えてここは高空）\r\n(Sem o devido processo de detonação, a explosão deve perder boa parte da força prevista e, considerando a altitude...)\r\n"
  },
  {
   "offset": 16514,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320520a03'>\r\n//（おそらく、地上に被害は及びません）\r\n(There will be no damage to the city. Or the castle.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/0320520a03'>\r\n//（おそらく、地上に被害は及びません）\r\n(Não haverá danos à cidade. Nem ao castelo.)\r\n"
  },
  {
   "offset": 16728,
   "en": "\r\n//　地上には。\r\n//　\r\n//　\r\n//　……飛行艦の中にいる者に、逃げ場はない。\r\n\r\n//　大鳥香奈枝とその従者も。\r\n//　ここは空の只中。二人を逃がし、命を助けることは\r\n//不可能だ。\r\n  So, Kamakura and Rokuhara will be safe...\r\n\r\n  But everyone here, everyone on this ship, will most certainly die.\r\n",
-  "pt": ""
+  "pt": "\r\n//　地上には。\r\n//　\r\n//　\r\n//　……飛行艦の中にいる者に、逃げ場はない。\r\n\r\n//　大鳥香奈枝とその従者も。\r\n//　ここは空の只中。二人を逃がし、命を助けることは\r\n//不可能だ。\r\n  Então, Kamakura e Rokuhara estarão a salvo...\r\n\r\n  Mas todos aqui, todos nesta nave, certamente morrerão.\r\n"
  }
 ]

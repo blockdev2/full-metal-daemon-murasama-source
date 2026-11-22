@@ -2,12 +2,12 @@
  {
   "offset": 215,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0010a03'>\r\n//「ふ」\r\n\"Heh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0010a03'>\r\n//「ふ」\r\n\"Heh...\"\r\n"
  },
  {
   "offset": 341,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0020a03'>\r\n//「ふふ」\r\n\"Hehe...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0030a03'>\r\n//「ふふふ――」\r\n\"Hehehe!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0020a03'>\r\n//「ふふ」\r\n\"Hehe...\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0030a03'>\r\n//「ふふふ――」\r\n\"Hehehe!\"\r\n"
  },
  {
   "offset": 602,
@@ -17,37 +17,37 @@
  {
   "offset": 737,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0050a03'>\r\n//「そうして隠れて、やり過ごすつもりだった\r\n//のかしら……？\r\n//　楽翁陣の壱から<RUBY text='ろく'>陸</RUBY>」\r\n\"Were you hoping I'd pass you by, men of the <br>Rakuo-jin?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0050a03'>\r\n//「そうして隠れて、やり過ごすつもりだった\r\n//のかしら……？\r\n//　楽翁陣の壱から<RUBY text='ろく'>陸</RUBY>」\r\n\"Esperavam que eu passasse direto, homens do Rakuo-jin?\"\r\n"
  },
  {
   "offset": 1052,
   "en": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0060e036'>\r\n//「隠れるつもりも、やり過ごすつもりもござ\r\n//らん。これは我らの<RUBY text='かまえ'>戦形</RUBY>――」\r\n\"No, my lady. We were waiting―for the moment you would enter our grasp.\"\r\n\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0070e036'>\r\n//「香奈枝様を討ち取るための陣にござる。\r\n//　恐れながら、あなた様は既に我らの<RUBY text='かこい'>両翼</RUBY>の\r\n//中。勝負は決し申した」\r\n\"And now the owl's wings are poised to snap shut. Your fate is sealed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0060e036'>\r\n//「隠れるつもりも、やり過ごすつもりもござ\r\n//らん。これは我らの<RUBY text='かまえ'>戦形</RUBY>――」\r\n\"Não, minha senhora. Aguardávamos o momento em que cairía em nossas mãos.\"\r\n\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0070e036'>\r\n//「香奈枝様を討ち取るための陣にござる。\r\n//　恐れながら、あなた様は既に我らの<RUBY text='かこい'>両翼</RUBY>の\r\n//中。勝負は決し申した」\r\n\"E agora as asas da coruja estão prontas para se fechar. Seu destino está selado.\"\r\n"
  },
  {
   "offset": 1793,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0080a03'>\r\n//「……そういう言葉は戦う前に言ったらいけ\r\n//ませんのに。\r\n//　不幸を招いてしまいましてよ？」\r\n\"You really ought not to say things like that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0080a03'>\r\n//「……そういう言葉は戦う前に言ったらいけ\r\n//ませんのに。\r\n//　不幸を招いてしまいましてよ？」\r\n\"Não se deveria dizer esse tipo de coisa antes de uma batalha, sabia?\"\r\n"
  },
  {
   "offset": 2083,
   "en": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0090e036'>\r\n//「二人ないし三人は果てるでござろう。\r\n//　しかし残りの者があなた様の首を頂戴致し\r\n//まする」\r\n\"Half our number may fall to your guns, but those who remain will take your head.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0090e036'>\r\n//「二人ないし三人は果てるでござろう。\r\n//　しかし残りの者があなた様の首を頂戴致し\r\n//まする」\r\n\"Metade de nossos números pode cair diante de suas armas, mas os que restarem levarão a sua cabeça.\"\r\n"
  },
  {
   "offset": 2439,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0100a03'>\r\n//「大した自信。いえ、大した忠誠というべき\r\n//なのかしら。\r\n//　そうまでして獅子吼に盲従するなんて」\r\n\"My, what confidence. Or is it loyalty? Does Shishiku have so much to inspire?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0100a03'>\r\n//「大した自信。いえ、大した忠誠というべき\r\n//なのかしら。\r\n//　そうまでして獅子吼に盲従するなんて」\r\n\"Que confiança. Ou seria lealdade? Shishiku inspira tanto assim?\"\r\n"
  },
  {
   "offset": 2770,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0110a03'>\r\n//「黄昏の少将も草葉の陰でお喜びでしょうね。\r\n//　世のため人のため、寛政の御改革を闇から\r\n//支えんとした創立の志は、どこに捨ててしま\r\n//われましたの？」\r\n\"What would the Twilight Lord say, I wonder. Sadanobu always believed in first serving the people. Did your predecessors not give their lives for his vision?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0110a03'>\r\n//「黄昏の少将も草葉の陰でお喜びでしょうね。\r\n//　世のため人のため、寛政の御改革を闇から\r\n//支えんとした創立の志は、どこに捨ててしま\r\n//われましたの？」\r\n\"O que diria o Senhor do Crepúsculo, me pergunto. Sadanobu sempre acreditou em servir o povo antes de tudo. Seus antecessores não deram a vida pela visão dele?\"\r\n"
  },
  {
   "offset": 3256,
   "en": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0120e036'>\r\n//「それは大いなる誤解と申すもの……。\r\n//　元より、我らに志などござらぬ」\r\n\"You misunderstand us.\"\r\n\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0130e036'>\r\n//「我らは人にして人にあらず。道具たるべく\r\n//定められた者ども。\r\n//　主の意のままに放られる、捨石にござる」\r\n\"We are but tools, the stones cast from our master's palm.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0120e036'>\r\n//「それは大いなる誤解と申すもの……。\r\n//　元より、我らに志などござらぬ」\r\n\"Compreende-nos mal.\"\r\n\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0130e036'>\r\n//「我らは人にして人にあらず。道具たるべく\r\n//定められた者ども。\r\n//　主の意のままに放られる、捨石にござる」\r\n\"Não somos mais que ferramentas, as pedras arremessadas da palma de nosso senhor.\"\r\n"
  },
  {
   "offset": 3871,
@@ -57,27 +57,27 @@
  {
   "offset": 4006,
   "en": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0150e036'>\r\n//「志など無用。主の選り好みも致さぬ。\r\n//　我ら楽翁陣は我らを欲する主の手に取られ、\r\n//使われるのみ――」\r\n\"Our master's cause and creed matter not. A tool serves whosoever has need of it.\"\r\n\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0160e036'>\r\n//「なれば御免!!」\r\n\"By your leave!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0150e036'>\r\n//「志など無用。主の選り好みも致さぬ。\r\n//　我ら楽翁陣は我らを欲する主の手に取られ、\r\n//使われるのみ――」\r\n\"A causa e os princípios de nosso senhor não importam. Uma ferramenta serve a quem quer que precise dela.\"\r\n\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0160e036'>\r\n//「なれば御免!!」\r\n\"Com sua licença!\"\r\n"
  },
  {
   "offset": 4551,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0170a03'>\r\n//「――そう」\r\n\"...Ah. I see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0170a03'>\r\n//「――そう」\r\n\"...Ah. Entendo.\"\r\n"
  },
  {
   "offset": 4693,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0180a03'>\r\n//「なら――」\r\n\"In that case―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0180a03'>\r\n//「なら――」\r\n\"Nesse caso―\"\r\n"
  },
  {
   "offset": 4837,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0190a03'>\r\n//「石のように死んでしまえ!!」\r\n\"BACK TO THE DIRT WHERE YOU BELONG!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0190a03'>\r\n//「石のように死んでしまえ!!」\r\n\"VOLTEM PARA A TERRA DE ONDE VIERAM!\"\r\n"
  },
  {
   "offset": 5023,
   "en": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0200e036'>\r\n//「……な……」\r\n\"Wha―\"\r\n\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0210e036'>\r\n//「……なんと……」\r\n\"...how...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0200e036'>\r\n//「……な……」\r\n\"Quê―\"\r\n\r\n//【ｅｔｃ／楽翁陣】\r\n<voice name='ｅｔｃ／楽翁陣' class='その他男声' src='voice/mc04/013vs0210e036'>\r\n//「……なんと……」\r\n\"...como...\"\r\n"
  },
  {
   "offset": 5362,
@@ -87,11 +87,11 @@
  {
   "offset": 5497,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0230a03'>\r\n//「クフ、フフフ」\r\n\"Hehehehehe!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0230a03'>\r\n//「クフ、フフフ」\r\n\"Hehehehehe!\"\r\n"
  },
  {
   "offset": 5643,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0240a03'>\r\n//「フフッ――――」\r\n\"Hehe...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/013vs0240a03'>\r\n//「フフッ――――」\r\n\"Hehe...\"\r\n"
  }
 ]

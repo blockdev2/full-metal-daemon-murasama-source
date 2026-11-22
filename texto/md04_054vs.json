@@ -2,12 +2,12 @@
  {
   "offset": 215,
   "en": "\r\n//【ｅｔｃ／天守竜騎】\r\n<voice name='ｅｔｃ／天守竜騎' class='その他男声' src='voice/md04/054vs0010e222'>\r\n//「ほ、堀越中将閣下!?\r\n//　お待ち下さい、これより先は――」\r\n\"Your Excellency!? Please stop! You can't go―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／天守竜騎】\r\n<voice name='ｅｔｃ／天守竜騎' class='その他男声' src='voice/md04/054vs0010e222'>\r\n//「ほ、堀越中将閣下!?\r\n//　お待ち下さい、これより先は――」\r\n\"Vossa Excelência!? Por favor, pare! O senhor não pode ir―\"\r\n"
  },
  {
   "offset": 493,
   "en": "\r\n//【ｅｔｃ／天守竜騎】\r\n<voice name='ｅｔｃ／天守竜騎' class='その他男声' src='voice/md04/054vs0020e222'>\r\n//「げ……げべッ」\r\n\"Gargh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／天守竜騎】\r\n<voice name='ｅｔｃ／天守竜騎' class='その他男声' src='voice/md04/054vs0020e222'>\r\n//「げ……げべッ」\r\n\"Gah...\"\r\n"
  },
  {
   "offset": 673,
@@ -17,107 +17,107 @@
  {
   "offset": 808,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0040a07'>\r\n//（この……上か……）\r\n(Almost there...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0040a07'>\r\n//（この……上か……）\r\n(Quase lá...)\r\n"
  },
  {
   "offset": 964,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0050a08'>\r\n//「――茶々丸？」\r\n\"Chachamaru?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0050a08'>\r\n//「――茶々丸？」\r\n\"Chachamaru?\"\r\n"
  },
  {
   "offset": 1101,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0060a07'>\r\n//「雷蝶……」\r\n\"Raicho...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0060a07'>\r\n//「雷蝶……」\r\n\"Raicho...\"\r\n"
  },
  {
   "offset": 1239,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0070a08'>\r\n//「こんな所で何やってるの。\r\n//　軍は？」\r\n\"What are you doing here? What about your men?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0070a08'>\r\n//「こんな所で何やってるの。\r\n//　軍は？」\r\n\"O que você está fazendo aqui? E os seus homens?\"\r\n"
  },
  {
   "offset": 1444,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0080a07'>\r\n//「……それどころじゃねえだろ。\r\n//　チャーハン作ってる最中の中華鍋みたいに\r\n//なってんだぜ、城の中も外も」\r\n\"Uh, haven't you seen what's happening out there? It's like God decided to make fried rice and we're the fucking ingredients.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0080a07'>\r\n//「……それどころじゃねえだろ。\r\n//　チャーハン作ってる最中の中華鍋みたいに\r\n//なってんだぜ、城の中も外も」\r\n\"Ah, você não viu o que tá acontecendo lá fora? É como se Deus tivesse decidido fazer arroz frito e a gente fosse a porra dos ingredientes.\"\r\n"
  },
  {
   "offset": 1834,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0090a08'>\r\n//「ええ……。\r\n//　銀星号が現れたんですってね」\r\n\"Yes... that appears to be Ginseigo's doing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0090a08'>\r\n//「ええ……。\r\n//　銀星号が現れたんですってね」\r\n\"Sim... parece que foi obra da Ginseigo.\"\r\n"
  },
  {
   "offset": 2046,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0100a07'>\r\n//「<RUBY text='ときおう'>邦氏</RUBY>の身が心配だ。\r\n//　様子を見に行くから、そこ通せよ」\r\n\"Mind stepping aside? Gonna check on Tokio. I'm worried.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0100a07'>\r\n//「<RUBY text='ときおう'>邦氏</RUBY>の身が心配だ。\r\n//　様子を見に行くから、そこ通せよ」\r\n\"Se importa de sair da frente? Vou ver como está o Tokio. Estou preocupado.\"\r\n"
  },
  {
   "offset": 2330,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0110a08'>\r\n//「そうなの？\r\n//　わかったわ」\r\n\"Oh. Good idea.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0110a08'>\r\n//「そうなの？\r\n//　わかったわ」\r\n\"Ah. Boa ideia.\"\r\n"
  },
  {
   "offset": 2489,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0120a08'>\r\n//「茶々丸」\r\n\"Chachamaru.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0120a08'>\r\n//「茶々丸」\r\n\"Chachamaru.\"\r\n"
  },
  {
   "offset": 2617,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0130a07'>\r\n//「何だよ」\r\n\"Yeah?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0130a07'>\r\n//「何だよ」\r\n\"Que é?\"\r\n"
  },
  {
   "offset": 2748,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0140a08'>\r\n//「あなた、劒冑を持っていたの？」\r\n\"I didn't know you had a tsurugi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0140a08'>\r\n//「あなた、劒冑を持っていたの？」\r\n\"Não sabia que você tinha um tsurugi.\"\r\n"
  },
  {
   "offset": 2930,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0150a07'>\r\n//「……ああ。\r\n//　まぁまぁ悪くねえだろ？」\r\n\"...Yeah. Pretty cool, right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0150a07'>\r\n//「……ああ。\r\n//　まぁまぁ悪くねえだろ？」\r\n\"...É. Até que é legal, né?\"\r\n"
  },
  {
   "offset": 3130,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0160a08'>\r\n//「そうね。素敵よ。\r\n//　三本爪なんて珍しいじゃない」\r\n\"Yes. A fine piece. I especially like the claws.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0160a08'>\r\n//「そうね。素敵よ。\r\n//　三本爪なんて珍しいじゃない」\r\n\"Sim. Uma bela peça. Gosto especialmente das garras.\"\r\n"
  },
  {
   "offset": 3355,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0170a07'>\r\n//「ありがとよ。\r\n//　じゃーな」\r\n\"Thanks. I should go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0170a07'>\r\n//「ありがとよ。\r\n//　じゃーな」\r\n\"Valeu. Tenho que ir.\"\r\n"
  },
  {
   "offset": 3529,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0180a08'>\r\n//「ねえ茶々丸」\r\n\"Chachamaru?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0180a08'>\r\n//「ねえ茶々丸」\r\n\"Chachamaru?\"\r\n"
  },
  {
   "offset": 3663,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0190a07'>\r\n//「……急いでんだってば」\r\n\"...I'm kinda in a hurry here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0190a07'>\r\n//「……急いでんだってば」\r\n\"...Tô meio com pressa aqui.\"\r\n"
  },
  {
   "offset": 3839,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0200a08'>\r\n//「麿の劒冑はどう？」\r\n\"What do you think of my tsurugi?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0200a08'>\r\n//「麿の劒冑はどう？」\r\n\"O que você acha do meu tsurugi?\"\r\n"
  },
  {
   "offset": 4003,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0210a07'>\r\n//「膝丸か？　ご立派だよ。\r\n//　<RUBY text='おじじ'>護氏</RUBY>の鬚切と並ぶ源氏の至宝って呼ばれる\r\n//だけのことはあるな」\r\n\"Hizamaru? It's nice. I can see why they call it a treasure of the Genji, together with Grandpa's Higekiri.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0210a07'>\r\n//「膝丸か？　ご立派だよ。\r\n//　<RUBY text='おじじ'>護氏</RUBY>の鬚切と並ぶ源氏の至宝って呼ばれる\r\n//だけのことはあるな」\r\n\"Hizamaru? É bonita. Dá pra ver por que a chamam de tesouro do clã Genji, junto com a Higekiri do vovô.\"\r\n"
  },
  {
   "offset": 4384,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0220a08'>\r\n//「ウフフ、ありがとう」\r\n\"I'm glad to hear that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0220a08'>\r\n//「ウフフ、ありがとう」\r\n\"Que bom ouvir isso.\"\r\n"
  },
  {
   "offset": 4541,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0230a07'>\r\n//「もういいか」\r\n\"We done?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0230a07'>\r\n//「もういいか」\r\n\"Acabou?\"\r\n"
  },
  {
   "offset": 4681,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0240a08'>\r\n//「ねえ、茶々丸？」\r\n\"Chachamaru?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0240a08'>\r\n//「ねえ、茶々丸？」\r\n\"Chachamaru?\"\r\n"
  },
  {
   "offset": 4821,
@@ -127,12 +127,12 @@
  {
   "offset": 4956,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0260a08'>\r\n//「あなたは知っていたかしら。\r\n//　お父様の鬚切と麿の膝丸は<RUBY text='つい'>対</RUBY>の品――」\r\n\"You might not know this, but Higekiri and Hizamaru were forged in the same fire.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0260a08'>\r\n//「あなたは知っていたかしら。\r\n//　お父様の鬚切と麿の膝丸は<RUBY text='つい'>対</RUBY>の品――」\r\n\"Talvez você não saiba, mas Higekiri e Hizamaru foram forjadas no mesmo fogo.\"\r\n"
  },
  {
   "offset": 5268,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0270a08'>\r\n//「<RUBY text='・・・・・・・・'>片方が傷を負うと</RUBY>、<RUBY text='・・・・・・・・・・'>もう片方は同じ場所に</RUBY>\r\n//<RUBY text='・・・・・・・'>痣が現れるのよ</RUBY>」\r\n\"Whenever one suffers damage... an identical scar appears on the other.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0270a08'>\r\n//「<RUBY text='・・・・・・・・'>片方が傷を負うと</RUBY>、<RUBY text='・・・・・・・・・・'>もう片方は同じ場所に</RUBY>\r\n//<RUBY text='・・・・・・・'>痣が現れるのよ</RUBY>」\r\n\"Quando uma sofre dano... uma cicatriz idêntica aparece na outra.\"\r\n"
  },
  {
   "offset": 5666,
@@ -142,77 +142,77 @@
  {
   "offset": 5819,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0290a08'>\r\n//「あの日」\r\n\"On the day of the offering...\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0300a08'>\r\n//「あの忌まわしい奉刀参拝の日」\r\n\"...the day Father died...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0290a08'>\r\n//「あの日」\r\n\"No dia da oferenda...\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0300a08'>\r\n//「あの忌まわしい奉刀参拝の日」\r\n\"...o dia em que meu pai morreu...\"\r\n"
  },
  {
   "offset": 6129,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0310a08'>\r\n//「膝丸の胸に、現れたの」\r\n\"...a scar appeared on Hizamaru's chest.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0310a08'>\r\n//「膝丸の胸に、現れたの」\r\n\"...apareceu uma cicatriz no peito da Hizamaru.\"\r\n"
  },
  {
   "offset": 6306,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0320a08'>\r\n//「この……三本爪の傷痕がね!!」\r\n\"A perfect match for those claws of yours!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0320a08'>\r\n//「この……三本爪の傷痕がね!!」\r\n\"Igualzinha a essas suas garras!\"\r\n"
  },
  {
   "offset": 6493,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0330a07'>\r\n//「……はは……」\r\n\"...Haha...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0330a07'>\r\n//「……はは……」\r\n\"...Ha ha...\"\r\n"
  },
  {
   "offset": 6638,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0340a08'>\r\n//「茶々丸」\r\n\"Chachamaru...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0340a08'>\r\n//「茶々丸」\r\n\"Chachamaru...\"\r\n"
  },
  {
   "offset": 6768,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0350a07'>\r\n//「あは、ははははは」\r\n\"Hahahahahaha!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0350a07'>\r\n//「あは、ははははは」\r\n\"Ha ha ha ha ha!\"\r\n"
  },
  {
   "offset": 6922,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0360a08'>\r\n//「茶々丸ゥ!!」\r\n\"CHACHAMARU!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0360a08'>\r\n//「茶々丸ゥ!!」\r\n\"CHACHAMARU!\"\r\n"
  },
  {
   "offset": 7055,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0370a07'>\r\n//「ッしゃァァァァァァ!!」\r\n\"SHAAAAAAA!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0370a07'>\r\n//「ッしゃァァァァァァ!!」\r\n\"XAAAAAAA!\"\r\n"
  },
  {
   "offset": 7211,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0380a08'>\r\n//「こんなもので」\r\n\"You think you can kill me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0380a08'>\r\n//「こんなもので」\r\n\"Acha que pode me matar?\"\r\n"
  },
  {
   "offset": 7363,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0390a08'>\r\n//「この今川雷蝶を」\r\n\"You?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0390a08'>\r\n//「この今川雷蝶を」\r\n\"Você?\"\r\n"
  },
  {
   "offset": 7496,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0400a08'>\r\n//「倒せると思うかァ!!」\r\n\"KILL ME!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0400a08'>\r\n//「倒せると思うかァ!!」\r\n\"ME MATAR!?\"\r\n"
  },
  {
   "offset": 7639,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0410a07'>\r\n//「……か……」\r\n\"...kh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0410a07'>\r\n//「……か……」\r\n\"...kh...\"\r\n"
  },
  {
   "offset": 7779,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0420a07'>\r\n//「かは……ッッ……」\r\n\"Gah...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0420a07'>\r\n//「かは……ッッ……」\r\n\"Gah...!\"\r\n"
  },
  {
   "offset": 7927,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0430a08'>\r\n//「……フン……」\r\n\"...Hmph.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0430a08'>\r\n//「……フン……」\r\n\"...Hmph.\"\r\n"
  },
  {
   "offset": 8061,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0440a08'>\r\n//「四郎の所に行くと言っていたわね」\r\n\"You wanted to㉗<I>check</I>㉗on Shiro?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0440a08'>\r\n//「四郎の所に行くと言っていたわね」\r\n\"Você queria㉗<I>ver</I>㉗o Shiro?\"\r\n"
  },
  {
   "offset": 8254,
@@ -222,7 +222,7 @@
  {
   "offset": 8389,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0460a08'>\r\n//「謀叛人！\r\n//　お父様の次は四郎ということ？」\r\n\"Traitor! First my father, now my nephew!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0460a08'>\r\n//「謀叛人！\r\n//　お父様の次は四郎ということ？」\r\n\"Traidor! Primeiro meu pai, agora meu sobrinho!?\"\r\n"
  },
  {
   "offset": 8599,
@@ -232,27 +232,27 @@
  {
   "offset": 8728,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0480a08'>\r\n//「させるものですか。\r\n//　おまえはここで死になさい！」\r\n\"Well not on my watch. This is where you die!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0480a08'>\r\n//「させるものですか。\r\n//　おまえはここで死になさい！」\r\n\"Pois eu não vou permitir. É aqui que você morre!?\"\r\n"
  },
  {
   "offset": 8953,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0490a07'>\r\n//「……へっ……」\r\n\"...heh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0490a07'>\r\n//「……へっ……」\r\n\"...heh...\"\r\n"
  },
  {
   "offset": 9097,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0500a07'>\r\n//「へへ……」\r\n\"Heh heh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0500a07'>\r\n//「へへ……」\r\n\"Heh heh...\"\r\n"
  },
  {
   "offset": 9236,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0510a08'>\r\n//「何がおかしいの」\r\n\"What's so funny?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0510a08'>\r\n//「何がおかしいの」\r\n\"O que há de tão engraçado?\"\r\n"
  },
  {
   "offset": 9381,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0520a07'>\r\n//「……時王のやつ……\r\n//　<RUBY text='・・'>まだ</RUBY>……無事、かな……？」\r\n\"Just thinking... you might wanna check on him yourself...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0520a07'>\r\n//「……時王のやつ……\r\n//　<RUBY text='・・'>まだ</RUBY>……無事、かな……？」\r\n\"Só estou pensando... talvez você devesse ir ver como ele está você mesma...\"\r\n"
  },
  {
   "offset": 9652,
@@ -262,26 +262,26 @@
  {
   "offset": 9773,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0540a07'>\r\n//「ほんとは、あてが行くまでもない……\r\n//　もう……<RUBY text='・・・・・'>終わってる</RUBY>はずだ……」\r\n\"See... I was just the backup. If the plan worked... it's already over.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0540a07'>\r\n//「ほんとは、あてが行くまでもない……\r\n//　もう……<RUBY text='・・・・・'>終わってる</RUBY>はずだ……」\r\n\"Viu... eu era só o reforço. Se o plano funcionou... já acabou.\"\r\n"
  },
  {
   "offset": 10096,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0550a07'>\r\n//「へ……へっ。\r\n//　力じゃ、勝負にもならねえけどよ……雷蝶。\r\n//性根の悪さは……やっぱ……あての勝ち、だ」\r\n\"Heh... heh... You could take me with one hand tied behind your back... but Raicho, when it comes to being a bastard... there, I got you beat.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0550a07'>\r\n//「へ……へっ。\r\n//　力じゃ、勝負にもならねえけどよ……雷蝶。\r\n//性根の悪さは……やっぱ……あての勝ち、だ」\r\n\"Heh... heh... Você poderia me vencer com uma mão amarrada nas costas... mas Raicho, em matéria de ser um canalha... nisso eu te supero.\"\r\n"
  },
  {
   "offset": 10503,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0560a08'>\r\n//「おまえ、何を――」\r\n\"What have you done!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/054vs0560a08'>\r\n//「おまえ、何を――」\r\n\"O que você fez!?\"\r\n"
  },
  {
   "offset": 10655,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0570a07'>\r\n//「あは……」\r\n\"Haha...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0570a07'>\r\n//「あは……」\r\n\"Haha...\"\r\n"
  },
  {
   "offset": 10791,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0580a07'>\r\n//「縁結び……かな？」\r\n\"Just call me... the matchmaker.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/054vs0580a07'>\r\n//「縁結び……かな？」\r\n\"Pode me chamar... de casamenteiro.\"\r\n"
  }
 ]

@@ -2,141 +2,141 @@
  {
   "offset": 215,
   "en": "\r\n//【ｅｔｃ／篠川副官】\r\n<voice name='ｅｔｃ／篠川副官' class='その他男声' src='voice/md04/023vs0010e100'>\r\n//「敵騎多数、前方に展開！\r\n//　本艦に向かって来ます！」\r\n\"Enemy dragoons sighted! They're headed straight for us!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／篠川副官】\r\n<voice name='ｅｔｃ／篠川副官' class='その他男声' src='voice/md04/023vs0010e100'>\r\n//「敵騎多数、前方に展開！\r\n//　本艦に向かって来ます！」\r\n\"Dragoons inimigos avistados! Estão vindo direto para nós!\"\r\n"
  },
  {
   "offset": 497,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/023vs0020a06'>\r\n//「礼儀のなっている奴らだ。\r\n//　わざわざ出迎えに来たか」\r\n\"They mean to escort us home. How polite.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/023vs0020a06'>\r\n//「礼儀のなっている奴らだ。\r\n//　わざわざ出迎えに来たか」\r\n\"Querem nos escoltar até em casa. Que gentileza.\"\r\n"
  },
  {
   "offset": 730,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/023vs0030a06'>\r\n//「宜しい。返礼する。\r\n//　第一七強襲竜騎兵連隊――」\r\n\"We shall answer in kind! Launch the 17th.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/023vs0030a06'>\r\n//「宜しい。返礼する。\r\n//　第一七強襲竜騎兵連隊――」\r\n\"Retribuiremos à altura! Lancem o 17º.\"\r\n"
  },
  {
   "offset": 958,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/023vs0040a06'>\r\n//「総員装甲ッ!!」\r\n\"For Yamato!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/023vs0040a06'>\r\n//「総員装甲ッ!!」\r\n\"Por Yamato!\"\r\n"
  },
  {
   "offset": 1103,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0050e132'>\r\n//《敵大型飛行艦、艦載騎を射出した。\r\n//　数は――大隊規模、いやそれ以上！》\r\n《The enemy is launching dragoons. Looks like a battalion!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0050e132'>\r\n//《敵大型飛行艦、艦載騎を射出した。\r\n//　数は――大隊規模、いやそれ以上！》\r\n《O inimigo está lançando dragoons. Parece um batalhão!》\r\n"
  },
  {
   "offset": 1426,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0060e133'>\r\n//《見たことのない騎体だ。\r\n//　新型か？》\r\n《I've never seen dragoons like that before. A new model?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0060e133'>\r\n//《見たことのない騎体だ。\r\n//　新型か？》\r\n《Nunca vi dragoons assim antes. Um modelo novo?》\r\n"
  },
  {
   "offset": 1697,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0070e132'>\r\n//《ロゴがあるな……〝<RUBY text='ダブルオー'>００</RUBY>〟？》\r\n《What's that logo supposed to be? Double-oh?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0070e132'>\r\n//《ロゴがあるな……〝<RUBY text='ダブルオー'>００</RUBY>〟？》\r\n《Que logo é esse? Double-oh?》\r\n"
  },
  {
   "offset": 1979,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0080e134'>\r\n//《ゼロかもしれん。\r\n//　大和の竜騎兵は開発年を名称に加えるから\r\n//な》\r\n《Could be 'zero.' They name dragoons for the year they were made.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0080e134'>\r\n//《ゼロかもしれん。\r\n//　大和の竜騎兵は開発年を名称に加えるから\r\n//な》\r\n《Pode ser \"zero\". Eles batizam os dragoons com o ano em que foram feitos.》\r\n"
  },
  {
   "offset": 2302,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0090e132'>\r\n//《大和古来の紀元で云うと今年は２６００年\r\n//……なるほど、最新型の名称だ。\r\n//　こいつは面白い》\r\n《And this is the year 2600 by their calendar. You're right. A new model. Very interesting...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0090e132'>\r\n//《大和古来の紀元で云うと今年は２６００年\r\n//……なるほど、最新型の名称だ。\r\n//　こいつは面白い》\r\n《E este é o ano 2600 no calendário deles. Você tem razão. Um modelo novo. Muito interessante...》\r\n"
  },
  {
   "offset": 2691,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0100e134'>\r\n//《フフ、そうだな。\r\n//　辺境の小国の新型騎がどの程度のものか、\r\n//見せて頂こう》\r\n《Heh. Let's see what these barbarians have come up with, shall we?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0100e134'>\r\n//《フフ、そうだな。\r\n//　辺境の小国の新型騎がどの程度のものか、\r\n//見せて頂こう》\r\n《Heh. Vejamos o que esses bárbaros inventaram, então.》\r\n"
  },
  {
   "offset": 3030,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0110e133'>\r\n//《よし……。\r\n//　先手を打って、頭を押さえつけてやれ！》\r\n《Right boys, you know the drill.  Get above 'em, take 'em down!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0110e133'>\r\n//《よし……。\r\n//　先手を打って、頭を押さえつけてやれ！》\r\n《Certo, rapazes, vocês já sabem. Subam por cima deles e derrubem!》\r\n"
  },
  {
   "offset": 3332,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0120e132'>\r\n//《――キャメロン？》\r\n《Cameron?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0120e132'>\r\n//《――キャメロン？》\r\n《Cameron?》\r\n"
  },
  {
   "offset": 3528,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0130e132'>\r\n//《キャメロン中尉!?》\r\n《Cameron!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0130e132'>\r\n//《キャメロン中尉!?》\r\n《Cameron!》\r\n"
  },
  {
   "offset": 3723,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0140e133'>\r\n//《シャイルズ、何があった！\r\n//　キャメロンはどうした!?》\r\n《Giles, did you see that!? What happened to Cameron!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0140e133'>\r\n//《シャイルズ、何があった！\r\n//　キャメロンはどうした!?》\r\n《Giles, você viu isso!? O que aconteceu com Cameron!?》\r\n"
  },
  {
   "offset": 4014,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0150e132'>\r\n//《わ、わからない。\r\n//　いきなり炎上したんだ……<RUBY text='バレル'>翼筒</RUBY>の故障かも》\r\n《I... don't know, sir! He just exploded! Bad maintenance, maybe?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0150e132'>\r\n//《わ、わからない。\r\n//　いきなり炎上したんだ……<RUBY text='バレル'>翼筒</RUBY>の故障かも》\r\n《Eu... não sei, senhor! Ele simplesmente explodiu! Falha de manutenção, talvez?》\r\n"
  },
  {
   "offset": 4359,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0160e132'>\r\n//《いや、それにしたって今のは――》\r\n《No, that was more like―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ａ】\r\n<voice name='ｅｔｃ／進駐軍騎Ａ' class='その他男声' src='voice/md04/023vs0160e132'>\r\n//《いや、それにしたって今のは――》\r\n《Não, isso foi mais como――》\r\n"
  },
  {
   "offset": 4593,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0170e133'>\r\n//《シャイルズ!?》\r\n《Giles!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0170e133'>\r\n//《シャイルズ!?》\r\n《Giles!》\r\n"
  },
  {
   "offset": 4780,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0180e133'>\r\n//《ど……どうなってるんだ!?》\r\n《What the fuck's going on!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0180e133'>\r\n//《ど……どうなってるんだ!?》\r\n《Que porra está acontecendo!?》\r\n"
  },
  {
   "offset": 5005,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0190e134'>\r\n//《――――攻撃だっっ!!》\r\n《We're under attack!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0190e134'>\r\n//《――――攻撃だっっ!!》\r\n《Estamos sob ataque!》\r\n"
  },
  {
   "offset": 5217,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0200e133'>\r\n//《攻撃!?》\r\n《What!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0200e133'>\r\n//《攻撃!?》\r\n《O quê!?》\r\n"
  },
  {
   "offset": 5395,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0210e134'>\r\n//《敵の新型が、妙な砲でこっちを狙ってる！\r\n//　多分あれだ！》\r\n《Look! They've got some kind of gun! That must be what did it!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0210e134'>\r\n//《敵の新型が、妙な砲でこっちを狙ってる！\r\n//　多分あれだ！》\r\n《Olhem! Eles têm algum tipo de canhão! Deve ter sido isso!》\r\n"
  },
  {
   "offset": 5702,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0220e134'>\r\n//《散れっ！\r\n//　このままでは鴨撃ちだぞ!!》\r\n《Scatter! Don't let 'em draw a bead on you!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0220e134'>\r\n//《散れっ！\r\n//　このままでは鴨撃ちだぞ!!》\r\n《Dispersem! Não deixem que eles mirem em vocês!》\r\n"
  },
  {
   "offset": 5962,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0230e133'>\r\n//《そ、そんなはずがあるか。\r\n//　竜騎兵を一発で墜とす狙撃兵器なんてまだ》\r\n《But... there's just no way! A weapon that can down a dragoon in one shot? At this range?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｂ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｂ' class='その他男声' src='voice/md04/023vs0230e133'>\r\n//《そ、そんなはずがあるか。\r\n//　竜騎兵を一発で墜とす狙撃兵器なんてまだ》\r\n《Mas... não é possível! Uma arma capaz de derrubar um dragoon com um só tiro? A esta distância?》\r\n"
  },
  {
   "offset": 6314,
   "en": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0240e134'>\r\n//《散れェーーーーーーーッッ!!》\r\n《SCATTER!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／進駐軍騎Ｃ】\r\n<voice name='ｅｔｃ／進駐軍騎Ｃ' class='その他男声' src='voice/md04/023vs0240e134'>\r\n//《散れェーーーーーーーッッ!!》\r\n《DISPERSEM!》\r\n"
  },
  {
   "offset": 6524,
   "en": "\r\n//【ｅｔｃ／零零式Ａ】\r\n<voice name='ｅｔｃ／零零式Ａ' class='その他男声' src='voice/md04/023vs0250e301'>\r\n//《遅いわ……馬鹿めら》\r\n《Took them long enough. The fools.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／零零式Ａ】\r\n<voice name='ｅｔｃ／零零式Ａ' class='その他男声' src='voice/md04/023vs0250e301'>\r\n//《遅いわ……馬鹿めら》\r\n《Já era hora. Tolos.》\r\n"
  },
  {
   "offset": 6742,
   "en": "\r\n//【ｅｔｃ／零零式Ｂ】\r\n<voice name='ｅｔｃ／零零式Ｂ' class='その他男声' src='voice/md04/023vs0260e302'>\r\n//《連中、随分と好き勝手やってくれたらしい。\r\n//　普陀楽城がぼろぼろだぜ……》\r\n《Damn, look at Fudaraku. I can't believe it's still standing.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／零零式Ｂ】\r\n<voice name='ｅｔｃ／零零式Ｂ' class='その他男声' src='voice/md04/023vs0260e302'>\r\n//《連中、随分と好き勝手やってくれたらしい。\r\n//　普陀楽城がぼろぼろだぜ……》\r\n《Caramba, olha Fudaraku. Não acredito que ainda está de pé.》\r\n"
  },
  {
   "offset": 7066,
   "en": "\r\n//【ｅｔｃ／零零式Ｃ】\r\n<voice name='ｅｔｃ／零零式Ｃ' class='その他男声' src='voice/md04/023vs0270e303'>\r\n//《逃がしてやる気にはなれんな》\r\n《We'll make them pay a hundredfold.》\r\n\r\n//【ｅｔｃ／零零式Ａ】\r\n<voice name='ｅｔｃ／零零式Ａ' class='その他男声' src='voice/md04/023vs0280e301'>\r\n//《当然だ》\r\n《Starting with these sorry sons of bitches.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／零零式Ｃ】\r\n<voice name='ｅｔｃ／零零式Ｃ' class='その他男声' src='voice/md04/023vs0270e303'>\r\n//《逃がしてやる気にはなれんな》\r\n《Vamos fazê-los pagar cem vezes mais.》\r\n\r\n//【ｅｔｃ／零零式Ａ】\r\n<voice name='ｅｔｃ／零零式Ａ' class='その他男声' src='voice/md04/023vs0280e301'>\r\n//《当然だ》\r\n《Começando por esses filhos da puta patéticos.》\r\n"
  },
  {
   "offset": 7498,
   "en": "\r\n//【ｅｔｃ／零零式Ｂ】\r\n<voice name='ｅｔｃ／零零式Ｂ' class='その他男声' src='voice/md04/023vs0290e302'>\r\n//《目障りなんだよ！\r\n//　人んちの空に――いつまでもでかい面して\r\n//居座ってんじゃねえッッ!!》\r\n《All right, you yankee bastards! This is㉓<I>our</I>㉔sky, and you've worn out your welcome!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／零零式Ｂ】\r\n<voice name='ｅｔｃ／零零式Ｂ' class='その他男声' src='voice/md04/023vs0290e302'>\r\n//《目障りなんだよ！\r\n//　人んちの空に――いつまでもでかい面して\r\n//居座ってんじゃねえッッ!!》\r\n《Muito bem, seus ianques desgraçados! Este céu é㉓<I>nosso</I>㉔, e vocês já abusaram da hospitalidade!》\r\n"
  }
 ]

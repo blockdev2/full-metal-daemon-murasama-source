@@ -2,17 +2,17 @@
  {
   "offset": 213,
   "en": "\r\n//　無用に長い時間を費やして、ようやく隣駅まで来る。\r\n//　\r\n//　……村正が<RUBY text='さら'>攫</RUBY>われてから、どれだけ経ったろう。\r\n\r\n//　考える時間も惜しく、考えたくもなく。\r\n//　脇目を振らず、駅の中へ飛び込む。\r\n  I arrive at the next station gasping for breath. Though I ran as fast as I could, it feels like an eternity has passed.\r\n\r\n  The truth is I don't know how long it has been. The question frightens me too much to ask.\r\n\r\n  Desperate, I burst through the station doors.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　無用に長い時間を費やして、ようやく隣駅まで来る。\r\n//　\r\n//　……村正が<RUBY text='さら'>攫</RUBY>われてから、どれだけ経ったろう。\r\n\r\n//　考える時間も惜しく、考えたくもなく。\r\n//　脇目を振らず、駅の中へ飛び込む。\r\n  Chego à estação seguinte sem fôlego. Corri o mais rápido que pude, mas parece que uma eternidade passou.\r\n\r\n  Na verdade, não sei quanto tempo passou. A pergunta me assusta demais para que eu a faça.\r\n\r\n  Desesperado, irrompo pelas portas da estação.\r\n\r\n"
  },
  {
   "offset": 799,
   "en": "\r\n//　当然だったが、列車はとうにいない。\r\n//　人は幾人もいる――だが雪車町の姿は無い。村正も。\r\n  The train, of course, has moved on. Only a few people are waiting on the platform.\r\n\r\n  There's no sign of Sorimachi... or of Muramasa.\r\n\r\n//　何処だ。\r\n//　ここから、何処に行った!?\r\n  Where did they go?\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　当然だったが、列車はとうにいない。\r\n//　人は幾人もいる――だが雪車町の姿は無い。村正も。\r\n  O trem, é claro, já partiu. Só algumas pessoas esperam na plataforma.\r\n\r\n  Não há sinal de Sorimachi... nem de Muramasa.\r\n\r\n//　何処だ。\r\n//　ここから、何処に行った!?\r\n  Para onde foram?\r\n\r\n"
  },
  {
   "offset": 1172,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310010a00'>\r\n//「誰か――！」\r\n\"I need help!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310010a00'>\r\n//「誰か――！」\r\n\"Preciso de ajuda!\"\r\n"
  },
  {
   "offset": 1305,
@@ -22,7 +22,7 @@
  {
   "offset": 1470,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310030a00'>\r\n//「ここで蝦夷の女性を見ませんでしたか!?」\r\n\"Has anyone seen an Emishi woman!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310030a00'>\r\n//「ここで蝦夷の女性を見ませんでしたか!?」\r\n\"Alguém viu uma mulher Emishi!?\"\r\n"
  },
  {
   "offset": 1662,
@@ -32,7 +32,7 @@
  {
   "offset": 1832,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310050a00'>\r\n//「杖を持ったやくざ者は……!?」\r\n\"Or a gaunt man with a <br>cane!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310050a00'>\r\n//「杖を持ったやくざ者は……!?」\r\n\"Ou um homem macilento com bengala!?\"\r\n"
  },
  {
   "offset": 2008,
@@ -42,12 +42,12 @@
  {
   "offset": 2178,
   "en": "\r\n//　皆、通り過ぎてゆく。\r\n//　何を騒ぎ立てているのだ、と言いたげな一瞥だけを\r\n//残して。\r\n  No one answers. And judging by the looks I'm getting, most of them think me insane.\r\n\r\n\r\n//　誰も見ていないのか!?\r\n//　いや、誰か……一人くらいは！\r\n  Please! Someone must have seen!\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　皆、通り過ぎてゆく。\r\n//　何を騒ぎ立てているのだ、と言いたげな一瞥だけを\r\n//残して。\r\n  Ninguém responde. E pelos olhares que recebo, a maioria me considera louco.\r\n\r\n\r\n//　誰も見ていないのか!?\r\n//　いや、誰か……一人くらいは！\r\n  Por favor! Alguém deve ter visto!\r\n\r\n"
  },
  {
   "offset": 2530,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310070a00'>\r\n//「髪の長い蝦夷の女か……病人じみた顔色の\r\n//筋者です！\r\n//　誰か見ていませんかっ!?」\r\n\"An Emishi woman with long hair! Or a pale man carrying a cane! Has anyone seen them!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310070a00'>\r\n//「髪の長い蝦夷の女か……病人じみた顔色の\r\n//筋者です！\r\n//　誰か見ていませんかっ!?」\r\n\"Uma mulher Emishi de cabelos longos! Ou um homem pálido carregando uma bengala! Alguém os viu!?\"\r\n"
  },
  {
   "offset": 2836,
@@ -62,27 +62,27 @@
  {
   "offset": 3176,
   "en": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310100e218'>\r\n//「……あぁ……。\r\n//　げっそりしたチンピラ風の奴なら、さっき\r\n//見たけど」\r\n\"Oh yeah... I saw a skinny guy dressed like some kinda yakuza.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310100e218'>\r\n//「……あぁ……。\r\n//　げっそりしたチンピラ風の奴なら、さっき\r\n//見たけど」\r\n\"Ah, sim... vi um sujeito magrelo vestido como uma espécie de yakuza.\"\r\n"
  },
  {
   "offset": 3490,
   "en": "\r\n//　無言の群集の中、たった一人。\r\n//　呟くのが聴こえた。\r\n\r\n//　いた……！\r\n  A voice rises from the crowd. Finally!\r\n",
-  "pt": ""
+  "pt": "\r\n//　無言の群集の中、たった一人。\r\n//　呟くのが聴こえた。\r\n\r\n//　いた……！\r\n  Uma voz se ergue da multidão. Finalmente!\r\n"
  },
  {
   "offset": 3649,
   "en": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310110e218'>\r\n//「なんかでかい箱を担いでたな」\r\n\"He was carrying this huge box.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310110e218'>\r\n//「なんかでかい箱を担いでたな」\r\n\"Ele carregava uma caixa enorme.\"\r\n"
  },
  {
   "offset": 3870,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310120a00'>\r\n//「何処です!?\r\n//　何処へ行きました!?」\r\n\"Where did he go!? Did you see!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310120a00'>\r\n//「何処です!?\r\n//　何処へ行きました!?」\r\n\"Para onde ele foi!? Você viu!?\"\r\n"
  },
  {
   "offset": 4054,
   "en": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310130e218'>\r\n//「えーっと……」\r\n\"Uh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310130e218'>\r\n//「えーっと……」\r\n\"Hã...\"\r\n"
  },
  {
   "offset": 4229,
@@ -92,77 +92,77 @@
  {
   "offset": 4347,
   "en": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310150e218'>\r\n//「駅を出て……\r\n//　どっちだったかなぁ」\r\n\"He left the station... and then...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310150e218'>\r\n//「駅を出て……\r\n//　どっちだったかなぁ」\r\n\"Ele saiu da estação... e depois...\"\r\n"
  },
  {
   "offset": 4585,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310160a00'>\r\n//「思い出して下さい！\r\n//　……思い出せっ！」\r\n\"Please. You have to tell me!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310160a00'>\r\n//「思い出して下さい！\r\n//　……思い出せっ！」\r\n\"Por favor. Você precisa me dizer!\"\r\n"
  },
  {
   "offset": 4777,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310170a00'>\r\n//「早く!!」\r\n\"Tell me!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310170a00'>\r\n//「早く!!」\r\n\"Me diga!\"\r\n"
  },
  {
   "offset": 4899,
   "en": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310180e218'>\r\n//「……おいおい。なんだそりゃ。\r\n//　人に物を訊く態度じゃねえぞ」\r\n\"Hey, man! Chill out! I'm trying to help!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310180e218'>\r\n//「……おいおい。なんだそりゃ。\r\n//　人に物を訊く態度じゃねえぞ」\r\n\"Ei, cara! Calma! Estou tentando ajudar!\"\r\n"
  },
  {
   "offset": 5179,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310190a00'>\r\n//「そんな事はいい！\r\n//　何処だ！　二人は……村正はっ！」\r\n\"There's no time! Where are they!? Where's Muramasa!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310190a00'>\r\n//「そんな事はいい！\r\n//　何処だ！　二人は……村正はっ！」\r\n\"Não há tempo! Onde eles estão!? Onde está Muramasa!?\"\r\n"
  },
  {
   "offset": 5413,
   "en": "\r\n//　村正。\r\n//　その名を口にして、深い喪失を覚える。\r\n  Muramasa. The name brings a crushing sense of loss.\r\n\r\n//　あいつが傍にいない。\r\n//　片時も離れなかった存在が、今はいない。\r\n  The place at my side is empty. The world is out of joint.\r\n\r\n//　いて欲しいのに。\r\n  Why, when I need her so?\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　村正。\r\n//　その名を口にして、深い喪失を覚える。\r\n  Muramasa. O nome traz uma sensação esmagadora de perda.\r\n\r\n//　あいつが傍にいない。\r\n//　片時も離れなかった存在が、今はいない。\r\n  O lugar ao meu lado está vazio. O mundo está descompassado.\r\n\r\n//　いて欲しいのに。\r\n  Por que, logo quando preciso tanto dela?\r\n\r\n"
  },
  {
   "offset": 5782,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310200a00'>\r\n//（村正）\r\n(Muramasa...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310200a00'>\r\n//（村正）\r\n(Muramasa...)\r\n"
  },
  {
   "offset": 5905,
   "en": "\r\n//　大きな大きな欠落。\r\n//　失った今、ひしと想う。\r\n  Only now do I recognize it. This longing. This love. I cannot live without her.\r\n\r\n//　確かな愛情を。\r\n\r\n//　愛している。\r\n//　求めている。\r\n\r\n//　俺にはあいつが要る――\r\n",
-  "pt": ""
+  "pt": "\r\n//　大きな大きな欠落。\r\n//　失った今、ひしと想う。\r\n  Só agora eu reconheço. Esse anseio. Esse amor. Não consigo viver sem ela.\r\n\r\n//　確かな愛情を。\r\n\r\n//　愛している。\r\n//　求めている。\r\n\r\n//　俺にはあいつが要る――\r\n"
  },
  {
   "offset": 6196,
   "en": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310210e218'>\r\n//「ちっ。\r\n//　何だこいつは……」\r\n\"You know what? Forget it.\"\r\n\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310220e218'>\r\n//「口の利き方覚えて、出直しな！\r\n//　あばよ！」\r\n\"Maybe try learning some manners, asshole!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310210e218'>\r\n//「ちっ。\r\n//　何だこいつは……」\r\n\"Quer saber? Deixa pra lá.\"\r\n\r\n//【ｅｔｃ／通行人Ｆ】\r\n<voice name='ｅｔｃ／通行人Ｆ' class='その他男声' src='voice/md06/0310220e218'>\r\n//「口の利き方覚えて、出直しな！\r\n//　あばよ！」\r\n\"Talvez você devesse aprender boas maneiras, seu idiota!\"\r\n"
  },
  {
   "offset": 6659,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310230a00'>\r\n//「待っ……！」\r\n\"Wait!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310230a00'>\r\n//「待っ……！」\r\n\"Espere!\"\r\n"
  },
  {
   "offset": 6785,
   "en": "\r\n//　気に食わなげに舌打ちして、男が身を翻す。\r\n//　足音荒く、歩き去っていこうとする。\r\n  But the man stomps off into the crowd. Why!?\r\n\r\n  Why don't people understand!?\r\n\r\n//　何故だ。\r\n//　何故、わかってくれない。\r\n\r\n//　大切な時なのに！\r\n//　愛する人を救えるか、その瀬戸際なのに！\r\n\r\n//　どうして理解してくれないのだ!?\r\n",
-  "pt": ""
+  "pt": "\r\n//　気に食わなげに舌打ちして、男が身を翻す。\r\n//　足音荒く、歩き去っていこうとする。\r\n  Mas o homem se afasta pisando duro para dentro da multidão. Por quê!?\r\n\r\n  Por que as pessoas não entendem!?\r\n\r\n//　何故だ。\r\n//　何故、わかってくれない。\r\n\r\n//　大切な時なのに！\r\n//　愛する人を救えるか、その瀬戸際なのに！\r\n\r\n//　どうして理解してくれないのだ!?\r\n"
  },
  {
   "offset": 7217,
   "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310240b24'>\r\n//「どうして……\r\n//　どうしてこんなことになる」\r\n\"Why? Why is this happening?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310240b24'>\r\n//「どうして……\r\n//　どうしてこんなことになる」\r\n\"Por quê? Por que isso está acontecendo?\"\r\n"
  },
  {
   "offset": 7411,
   "en": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310250b24'>\r\n//「やっと……勝利を手にしたのに。\r\n//　やっと、世界に挑戦できるのに」\r\n\"I finally have my victory! I can finally challenge the world!\"\r\n\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310260b24'>\r\n//「みっ、湊斗さん……あなたは僕を応援して\r\n//くれていたんでしょう！\r\n//　僕の無念を知っているでしょう！」\r\n\"You were rooting for me too, weren't you!? You know how my dream was stolen!\"\r\n\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310270b24'>\r\n//「僕は……僕は、ようやくあの挫折からここ\r\n//まで還ってきたんだ！\r\n//　どれほどの苦労だったか！　あなたなら、\r\n//わかってくれるはずです！」\r\n\"I've finally made it back to the top! Don't you know how hard it's been, how much I've suffered!?\"\r\n\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310280b24'>\r\n//「見逃してください……！\r\n//　お願いします……お願い……」\r\n\"Let me go! Please! I beg <br>you!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310250b24'>\r\n//「やっと……勝利を手にしたのに。\r\n//　やっと、世界に挑戦できるのに」\r\n\"Finalmente tenho minha vitória! Finalmente posso desafiar o mundo!\"\r\n\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310260b24'>\r\n//「みっ、湊斗さん……あなたは僕を応援して\r\n//くれていたんでしょう！\r\n//　僕の無念を知っているでしょう！」\r\n\"Você também torcia por mim, não torcia!? Você sabe como meu sonho foi roubado!\"\r\n\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310270b24'>\r\n//「僕は……僕は、ようやくあの挫折からここ\r\n//まで還ってきたんだ！\r\n//　どれほどの苦労だったか！　あなたなら、\r\n//わかってくれるはずです！」\r\n\"Finalmente voltei ao topo! Você não sabe o quanto foi difícil, o quanto eu sofri!?\"\r\n\r\n//【皇路】\r\n<voice name='皇路' class='皇路' src='voice/md06/0310280b24'>\r\n//「見逃してください……！\r\n//　お願いします……お願い……」\r\n\"Me deixe ir! Por favor! Eu te imploro!\"\r\n"
  },
  {
   "offset": 8592,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310290a00'>\r\n//「待ってくれっ！\r\n//　頼む……頼むから！」\r\n\"Wait! Please! PLEASE!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0310290a00'>\r\n//「待ってくれっ！\r\n//　頼む……頼むから！」\r\n\"Espere! Por favor! POR FAVOR!\"\r\n"
  },
  {
   "offset": 8774,
   "en": "\r\n//　男を引き止めようと、手を伸ばす。\r\n//　届かない。すり抜ける。\r\n  I reach out, pleading, but the man is already gone.\r\n\r\n  No! It's the one clue I have!\r\n\r\n  I prepare to give chase.<K>\r\n  But then―\r\n\r\n\r\n//　男は去る。\r\n\r\n//　待て。\r\n//　待って、待ってくれ……！\r\n\r\n//　二人が何処へ行ったのか、手掛かりをくれ！\r\n//　でないと――\r\n",
-  "pt": ""
+  "pt": "\r\n//　男を引き止めようと、手を伸ばす。\r\n//　届かない。すり抜ける。\r\n  Estendo a mão, implorando, mas o homem já se foi.\r\n\r\n  Não! É a única pista que tenho!\r\n\r\n  Me preparo para correr atrás dele.<K>\r\n  Mas então―\r\n\r\n\r\n//　男は去る。\r\n\r\n//　待て。\r\n//　待って、待ってくれ……！\r\n\r\n//　二人が何処へ行ったのか、手掛かりをくれ！\r\n//　でないと――\r\n"
  },
  {
   "offset": 9198,
@@ -172,11 +172,11 @@
  {
   "offset": 9307,
   "en": "\r\n//　駆け出そうとして。\r\n//　ふと、それが目に留まった。\r\n  Something catches my eye. A piece of paper pinned to the station's bulletin board.\r\n",
-  "pt": ""
+  "pt": "\r\n//　駆け出そうとして。\r\n//　ふと、それが目に留まった。\r\n  Algo me chama a atenção. Um pedaço de papel pregado no mural da estação.\r\n"
  },
  {
   "offset": 9483,
   "en": "\r\n//　雪車町、の署名と――\r\n//　短い文章。\r\n\r\n//　……俺宛の、連絡だった。\r\n  That signature. It's Sorimachi's.\r\n\r\n  The message is for me.\r\n",
-  "pt": ""
+  "pt": "\r\n//　雪車町、の署名と――\r\n//　短い文章。\r\n\r\n//　……俺宛の、連絡だった。\r\n  Aquela assinatura. É de Sorimachi.\r\n\r\n  A mensagem é para mim.\r\n"
  }
 ]

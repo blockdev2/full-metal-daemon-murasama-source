@@ -2,7 +2,7 @@
  {
   "offset": 222,
   "en": "\r\n//　調理設備が見事に整理され、配置されている。\r\n//　……<RUBY text='キッチン'>台所</RUBY>だ。\r\n  I enter a well-appointed kitchen. Airships are valued for the time they can remain in the air, and are often assigned to long-term operations that see them weeks away from a port. As on a naval ship, that demands a fully-stocked mess.\r\n\r\n//　飛行艦は航続距離の長さが強みであるため、長期に\r\n//渡る作戦に用いられることも多い。\r\n//　こうした設備もしばしば必要になるのだろう。\r\n",
-  "pt": ""
+  "pt": "\r\n//　調理設備が見事に整理され、配置されている。\r\n//　……<RUBY text='キッチン'>台所</RUBY>だ。\r\n  Entro numa cozinha bem equipada. Os dirigíveis são valorizados pelo tempo que conseguem permanecer no ar, e muitas vezes são designados para operações de longo prazo que os mantêm semanas longe de um porto. Como num navio militar, isso exige um rancho completamente abastecido.\r\n\r\n//　飛行艦は航続距離の長さが強みであるため、長期に\r\n//渡る作戦に用いられることも多い。\r\n//　こうした設備もしばしば必要になるのだろう。\r\n"
  },
  {
   "offset": 798,
@@ -12,12 +12,12 @@
  {
   "offset": 924,
   "en": "\r\n//　咄嗟に身構え、天井を見上げる。\r\n//　\r\n//　……気のせいか？\r\n  I look up at the ceiling, suddenly on alert.\r\n\r\n  Was it my imagination? I could have sworn I heard something and felt a presence just now.\r\n\r\n  ...But I suppose there's no reason a GHQ soldier would hide in the ceiling. Perhaps the ship has rats. The kitchen is where they would be.\r\n\r\n//　今確かに、物音と気配を感じたのだが。\r\n//　しかし考えてみれば、天井裏に敵兵が潜むというの\r\n//も妙な話だ。\r\n\r\n//　場所柄、鼠が走っただけなのかもしれない。\r\n//　……引っ掛かりは覚えるものの、ぐずぐず逡巡して\r\n//時間を浪費するよりは、行動した方が良さそうである。\r\n  In any case, I shouldn't stand around wondering.\r\n",
-  "pt": ""
+  "pt": "\r\n//　咄嗟に身構え、天井を見上げる。\r\n//　\r\n//　……気のせいか？\r\n  Ergo os olhos ao teto, em alerta repentino.\r\n\r\n  Foi impressão minha? Eu podia jurar que ouvi algo e senti uma presença agora mesmo.\r\n\r\n  ...Mas, pensando bem, não há motivo para um soldado da GHQ se esconder no teto. Talvez o navio tenha ratos. A cozinha é o lugar deles.\r\n\r\n//　今確かに、物音と気配を感じたのだが。\r\n//　しかし考えてみれば、天井裏に敵兵が潜むというの\r\n//も妙な話だ。\r\n\r\n//　場所柄、鼠が走っただけなのかもしれない。\r\n//　……引っ掛かりは覚えるものの、ぐずぐず逡巡して\r\n//時間を浪費するよりは、行動した方が良さそうである。\r\n  De qualquer forma, não devo ficar parado me perguntando.\r\n"
  },
  {
   "offset": 1748,
   "en": "\r\n//　さて、ここで俺のとるべき行動は――\r\n  My next course of action is―\r\n",
-  "pt": ""
+  "pt": "\r\n//　さて、ここで俺のとるべき行動は――\r\n  Meu próximo curso de ação é―\r\n"
  },
  {
   "offset": 1850,
@@ -27,7 +27,7 @@
  {
   "offset": 1862,
   "en": "Check the refrigerator",
-  "pt": ""
+  "pt": "Verificar a geladeira"
  },
  {
   "offset": 1892,
@@ -37,7 +37,7 @@
  {
   "offset": 1904,
   "en": "Turn on the stove",
-  "pt": ""
+  "pt": "Acender o fogão"
  },
  {
   "offset": 1929,
@@ -47,7 +47,7 @@
  {
   "offset": 1941,
   "en": "Find a pestle",
-  "pt": ""
+  "pt": "Encontrar um pilão"
  },
  {
   "offset": 1962,

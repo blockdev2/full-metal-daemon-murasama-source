@@ -2,42 +2,42 @@
  {
   "offset": 223,
   "en": "\r\n//　新鮮な<VALUE name=$材料名前>がある。\r\n  I find the refrigerator well stocked with <VALUE='材料名前'>.\r\n",
-  "pt": ""
+  "pt": "\r\n//　新鮮な<VALUE name=$材料名前>がある。\r\n  Encontro a geladeira bem abastecida de <VALUE='材料名前'>.\r\n"
  },
  {
   "offset": 356,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0010a03'>\r\n//「何だかおなかが空いてしまいますね」\r\n\"I'm starting to feel a little peckish.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0010a03'>\r\n//「何だかおなかが空いてしまいますね」\r\n\"Estou começando a ficar com um pouco de fome.\"\r\n"
  },
  {
   "offset": 559,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0020a04'>\r\n//「そういえば、忙しさにかまけて朝食を忘れ\r\n//ておりましたなァ。\r\n//　このさよとしたことが」\r\n\"My apologies, Mistress. I forgot to make breakfast in all the rush.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0020a04'>\r\n//「そういえば、忙しさにかまけて朝食を忘れ\r\n//ておりましたなァ。\r\n//　このさよとしたことが」\r\n\"Minhas desculpas, Senhora. Esqueci de preparar o café da manhã com toda a correria.\"\r\n"
  },
  {
   "offset": 859,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0030a00'>\r\n//「では、軽く何か作りましょうか」\r\n\"Shall I fix something up, then?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0030a00'>\r\n//「では、軽く何か作りましょうか」\r\n\"Então devo preparar algo leve?\"\r\n"
  },
  {
   "offset": 1040,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0040a03'>\r\n//「あら、景明さまは料理がおできになるの？」\r\n\"Darling! You can cook?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0040a03'>\r\n//「あら、景明さまは料理がおできになるの？」\r\n\"Ora, querido! Você sabe cozinhar?\"\r\n"
  },
  {
   "offset": 1236,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0050a00'>\r\n//「簡単なものであれば」\r\n\"Nothing too involved, I'm afraid.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0050a00'>\r\n//「簡単なものであれば」\r\n\"Nada muito elaborado, receio.\"\r\n"
  },
  {
   "offset": 1404,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0060a04'>\r\n//「男の手料理とは魅力的でございます。\r\n//　お嬢さま、お言葉に甘えては？」\r\n\"I think it's a wonderful idea. It's so rare you get to have a man cook for you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0060a04'>\r\n//「男の手料理とは魅力的でございます。\r\n//　お嬢さま、お言葉に甘えては？」\r\n\"Acho uma ideia maravilhosa. É tão raro ter um homem cozinhando para a senhora.\"\r\n"
  },
  {
   "offset": 1691,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0070a03'>\r\n//「そうねぇ」\r\n\"I suppose you're right...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0070a03'>\r\n//「そうねぇ」\r\n\"Acho que tem razão...\"\r\n"
  },
  {
   "offset": 1845,
@@ -52,6 +52,6 @@
  {
   "offset": 1881,
   "en": "Don't cook",
-  "pt": ""
+  "pt": "Não cozinhe"
  }
 ]

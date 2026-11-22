@@ -2,17 +2,17 @@
  {
   "offset": 213,
   "en": "\r\n//　銀星号は去り、俺は視線を地上へ戻した。\r\n//　……瀕死の劒冑が<RUBY text='うずくま'>蹲</RUBY>っている。\r\n  With Ginseigo's departure, I turn my attention to the ground before me. My tsurugi is lying there, as still as a corpse.\r\n\r\n//　村正は、見るも無残な姿と化していた。\r\n//　歪み、<RUBY text='ねじ'>捩</RUBY>れ、曲がり――山峰から転落した上に落石\r\n//の雨を浴びればかくもなろうか。\r\n  The severity of her damage is obvious at a glance. Her armor is warped and mangled, its crimson hue calling to mind flayed skin.\r\n\r\n//　深紅の甲鉄が、今は血塗れの肉膚と目に映る。\r\n",
-  "pt": ""
+  "pt": "\r\n//　銀星号は去り、俺は視線を地上へ戻した。\r\n//　……瀕死の劒冑が<RUBY text='うずくま'>蹲</RUBY>っている。\r\n  Com a partida de Ginseigo, volto minha atenção para o chão à minha frente. Meu tsurugi está ali, imóvel como um cadáver.\r\n\r\n//　村正は、見るも無残な姿と化していた。\r\n//　歪み、<RUBY text='ねじ'>捩</RUBY>れ、曲がり――山峰から転落した上に落石\r\n//の雨を浴びればかくもなろうか。\r\n  A gravidade dos danos é evidente à primeira vista. A armadura está deformada e retorcida, e seu tom carmesim lembra pele esfolada.\r\n\r\n//　深紅の甲鉄が、今は血塗れの肉膚と目に映る。\r\n"
  },
  {
   "offset": 912,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180010a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180010a00'>\r\n//「村正」\r\n\"Muramasa.\"\r\n"
  },
  {
   "offset": 1033,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180020a01'>\r\n//《……来ないで……》\r\n《...Go away.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180020a01'>\r\n//《……来ないで……》\r\n《...Vá embora.》\r\n"
  },
  {
   "offset": 1184,
@@ -22,47 +22,47 @@
  {
   "offset": 1302,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180040a01'>\r\n//《帰って……\r\n//　…………お願いだから……》\r\n《Just... please leave.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180040a01'>\r\n//《帰って……\r\n//　…………お願いだから……》\r\n《Só... por favor, vá embora.》\r\n"
  },
  {
   "offset": 1497,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180050a00'>\r\n//「お前を置いてか」\r\n\"Without you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180050a00'>\r\n//「お前を置いてか」\r\n\"Sem você?\"\r\n"
  },
  {
   "offset": 1636,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180060a01'>\r\n//《そうよ……》\r\n《...That's right.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180060a01'>\r\n//《そうよ……》\r\n《...Isso mesmo.》\r\n"
  },
  {
   "offset": 1783,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180070a00'>\r\n//「駄目だ」\r\n\"I can't.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180070a00'>\r\n//「駄目だ」\r\n\"Não posso.\"\r\n"
  },
  {
   "offset": 1906,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180080a01'>\r\n//《……もう私は……貴方の劒冑じゃない》\r\n《I'm... not your tsurugi anymore.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180080a01'>\r\n//《……もう私は……貴方の劒冑じゃない》\r\n《Eu... não sou mais seu tsurugi.》\r\n"
  },
  {
   "offset": 2105,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180090a00'>\r\n//「俺にはお前が要る」\r\n\"I need you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180090a00'>\r\n//「俺にはお前が要る」\r\n\"Eu preciso de você.\"\r\n"
  },
  {
   "offset": 2246,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180100a01'>\r\n//《<RUBY text='かかさま'>二世村正</RUBY>を止めたいなら……ほかの劒冑を\r\n//探して……》\r\n《Find a new tsurugi if you want to stop Mother.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180100a01'>\r\n//《<RUBY text='かかさま'>二世村正</RUBY>を止めたいなら……ほかの劒冑を\r\n//探して……》\r\n《Procure outro tsurugi se quiser deter a Mamãe.》\r\n"
  },
  {
   "offset": 2517,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180110a00'>\r\n//「お前でなくては勝てない」\r\n\"I can't win without you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180110a00'>\r\n//「お前でなくては勝てない」\r\n\"Não posso vencer sem você.\"\r\n"
  },
  {
   "offset": 2680,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180120a01'>\r\n//《なんでよ……\r\n//　精神干渉の〝波〟に侵されないから？》\r\n《Why? Because I'm immune to her eggs?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180120a01'>\r\n//《なんでよ……\r\n//　精神干渉の〝波〟に侵されないから？》\r\n《Por quê? Porque sou imune aos ovos dela?》\r\n"
  },
  {
   "offset": 2908,
@@ -72,7 +72,7 @@
  {
   "offset": 3026,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180140a01'>\r\n//《……っ……》\r\n《...ngh...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180150a01'>\r\n//《そんなの……関係ない》\r\n《...What difference does that make?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180160a01'>\r\n//《ほかの劒冑の方がましよ！\r\n//　私よりはずっと！》\r\n《Any tsurugi would be better than me! Look!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180170a01'>\r\n//《今のこの姿を見ればわかるでしょう!?\r\n//　私がどんなに酷い代物かっ！》\r\n《Can't you see how weak I am!? How useless!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180140a01'>\r\n//《……っ……》\r\n《...ngh...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180150a01'>\r\n//《そんなの……関係ない》\r\n《...Que diferença isso faz?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180160a01'>\r\n//《ほかの劒冑の方がましよ！\r\n//　私よりはずっと！》\r\n《Qualquer outro tsurugi seria melhor que eu! Olhe!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180170a01'>\r\n//《今のこの姿を見ればわかるでしょう!?\r\n//　私がどんなに酷い代物かっ！》\r\n《Não está vendo o quanto sou fraca!? O quanto sou inútil!?》\r\n"
  },
  {
   "offset": 3802,
@@ -82,7 +82,7 @@
  {
   "offset": 3920,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180190a01'>\r\n//《<RUBY text='ちから'>能力</RUBY>は足りない！\r\n//　仕手の言うことは聞かない！》\r\n《I can't fight! I don't follow orders!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180200a01'>\r\n//《正しい判断もできない！\r\n//　のぼせた頭で勝てるはずない相手に挑んで、\r\n//地べたに這いつくばらされてる！》\r\n《I run off to face an enemy I can't possibly defeat, and when my master shows up to fix my mistake, I'm too damaged to fly!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180190a01'>\r\n//《<RUBY text='ちから'>能力</RUBY>は足りない！\r\n//　仕手の言うことは聞かない！》\r\n《Não consigo lutar! Não obedeço ordens!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180200a01'>\r\n//《正しい判断もできない！\r\n//　のぼせた頭で勝てるはずない相手に挑んで、\r\n//地べたに這いつくばらされてる！》\r\n《Saio correndo para enfrentar um inimigo que não tenho a menor chance de derrotar e, quando meu mestre aparece para consertar meu erro, estou danificada demais para voar!》\r\n"
  },
  {
   "offset": 4552,
@@ -92,32 +92,32 @@
  {
   "offset": 4670,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180220a01'>\r\n//《そのうえ――善悪相殺なんて余計な呪いの\r\n//おまけ付き！\r\n//　私が何の役に立つのよ！》\r\n《And on top of all that, I even have this damned curse to deal with! What use am I!?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180230a01'>\r\n//《……要らないでしょう……》\r\n《What use...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180220a01'>\r\n//《そのうえ――善悪相殺なんて余計な呪いの\r\n//おまけ付き！\r\n//　私が何の役に立つのよ！》\r\n《E além de tudo isso, ainda tenho essa maldita maldição para lidar! De que sirvo eu!?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180230a01'>\r\n//《……要らないでしょう……》\r\n《De que sirvo...》\r\n"
  },
  {
   "offset": 5143,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180240a00'>\r\n//「村正……」\r\n\"Muramasa...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180240a00'>\r\n//「村正……」\r\n\"Muramasa...\"\r\n"
  },
  {
   "offset": 5272,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180250a01'>\r\n//《……別の劒冑を探して……》\r\n《...Find a new tsurugi.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180260a01'>\r\n//《私のことは……放っておいて……\r\n//　……ここに捨てていってくれれば、勝手に\r\n//朽ちるから…………》\r\n《Just... leave me here. I'll rust away eventually.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180250a01'>\r\n//《……別の劒冑を探して……》\r\n《...Procure outro tsurugi.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180260a01'>\r\n//《私のことは……放っておいて……\r\n//　……ここに捨てていってくれれば、勝手に\r\n//朽ちるから…………》\r\n《Só... me deixe aqui. Vou acabar enferrujando.》\r\n"
  },
  {
   "offset": 5743,
   "en": "\r\n//　傷んだ甲鉄が小刻みに震撼している。\r\n//　りり、りり、と。鈴虫に似た<RUBY text='ね'>音</RUBY>がその上へ重なった。\r\n//　\r\n//　……泣いているのか。\r\n  The battered plates of her armor begin to quiver, producing a high-pitched sound like the chirping of a cricket.\r\n\r\n  Is she... crying?\r\n",
-  "pt": ""
+  "pt": "\r\n//　傷んだ甲鉄が小刻みに震撼している。\r\n//　りり、りり、と。鈴虫に似た<RUBY text='ね'>音</RUBY>がその上へ重なった。\r\n//　\r\n//　……泣いているのか。\r\n  As placas avariadas de sua armadura começam a tremer, produzindo um som agudo como o canto de um grilo.\r\n\r\n  Ela está... chorando?\r\n"
  },
  {
   "offset": 6097,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180270a00'>\r\n//（別の劒冑）\r\n(A different tsurugi...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180270a00'>\r\n//（別の劒冑）\r\n(Outro tsurugi...)\r\n"
  },
  {
   "offset": 6237,
   "en": "\r\n//　それは一度ならず、考えた事ではある。\r\n  The thought has crossed my mind more than once, I admit, though I have always rejected it outright. Any other tsurugi would be vulnerable to Ginseigo's power. \r\n\r\n//　そしていつも、断念してきたのだった。\r\n//　並の劒冑では〝卵〟に食われてしまうのだから仕方\r\n//がない。銀星号と戦うには、この呪わしい劒冑を使い\r\n//続ける以外にない――と。\r\n  So I told myself that it was necessary for my mission, that the curse was just one more burden I must bear.\r\n\r\n//　そう諦めて、村正を使ってきたのだ。\r\n//　\r\n//　<RUBY text='・・・'>諦めて</RUBY>。\r\n  I have used Muramasa because I had no choice.\r\n\r\n  Because I had no choice...<K> and not because I㉓<I>chose</I>㉓her.\r\n\r\n//　望んだのでは、決してなく。\r\n",
-  "pt": ""
+  "pt": "\r\n//　それは一度ならず、考えた事ではある。\r\n  Já me passou pela cabeça mais de uma vez, admito, embora eu sempre tenha rejeitado a ideia de imediato. Qualquer outro tsurugi seria vulnerável ao poder de Ginseigo.\r\n\r\n//　そしていつも、断念してきたのだった。\r\n//　並の劒冑では〝卵〟に食われてしまうのだから仕方\r\n//がない。銀星号と戦うには、この呪わしい劒冑を使い\r\n//続ける以外にない――と。\r\n  Então eu dizia a mim mesmo que era necessário para minha missão, que a maldição era apenas mais um fardo que eu devia carregar.\r\n\r\n//　そう諦めて、村正を使ってきたのだ。\r\n//　\r\n//　<RUBY text='・・・'>諦めて</RUBY>。\r\n  Usei Muramasa porque não tive escolha.\r\n\r\n  Porque não tive escolha...<K> e não porque㉓<I>escolhi</I>㉓ela.\r\n\r\n//　望んだのでは、決してなく。\r\n"
  },
  {
   "offset": 7125,
@@ -127,17 +127,17 @@
  {
   "offset": 7249,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180290a01'>\r\n//《……行って……》\r\n《...Go.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180290a01'>\r\n//《……行って……》\r\n《...Vá.》\r\n"
  },
  {
   "offset": 7392,
   "en": "\r\n//　村正。\r\n  Muramasa.\r\n\r\n//　劒冑にしては感情的で、しばしば<RUBY text='たかぶ'>昂</RUBY>り、動揺する。\r\n//　自我も強く、時として指示に逆らい、<RUBY text='・・'>ごね</RUBY>たりする。\r\n//　\r\n//　先刻は、俺に対して力を<RUBY text='ふる'>揮</RUBY>おうとまでしかけた。\r\n  More human than most tsurugi, she is willful, at times rebellious, and prone to outbursts of emotion. She even attempted to use her power against me, her master.\r\n\r\n//　そして善悪相殺の戒律。\r\n//　この劒冑は必ず、戦いを<RUBY text='・・'>無益</RUBY>なものにしてしまう。\r\n  And then there is the Law of Balance. She renders every battle, every <I>victory</I> hollow and meaningless.\r\n\r\n//　……それが村正。\r\n  Such is the tsurugi with whom I have spent these past two years.\r\n\r\n//　二年間、<RUBY text='みちゆき'>道行</RUBY>を共にしてきた、\r\n//　俺の劒冑だ。\r\n",
-  "pt": ""
+  "pt": "\r\n//　村正。\r\n  Muramasa.\r\n\r\n//　劒冑にしては感情的で、しばしば<RUBY text='たかぶ'>昂</RUBY>り、動揺する。\r\n//　自我も強く、時として指示に逆らい、<RUBY text='・・'>ごね</RUBY>たりする。\r\n//　\r\n//　先刻は、俺に対して力を<RUBY text='ふる'>揮</RUBY>おうとまでしかけた。\r\n  Mais humana que a maioria dos tsurugi, ela é obstinada, às vezes rebelde e propensa a explosões emocionais. Chegou até a tentar voltar o poder dela contra mim, seu mestre.\r\n\r\n//　そして善悪相殺の戒律。\r\n//　この劒冑は必ず、戦いを<RUBY text='・・'>無益</RUBY>なものにしてしまう。\r\n  E há ainda a Lei do Equilíbrio. Ela torna toda batalha, toda <I>vitória</I>, vazia e sem sentido.\r\n\r\n//　……それが村正。\r\n  Essa é a tsurugi com quem passei estes últimos dois anos.\r\n\r\n//　二年間、<RUBY text='みちゆき'>道行</RUBY>を共にしてきた、\r\n//　俺の劒冑だ。\r\n"
  },
  {
   "offset": 8384,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180300a00'>\r\n//「ああ。\r\n//　…………やはり」\r\n\"...Of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180300a00'>\r\n//「ああ。\r\n//　…………やはり」\r\n\"...Claro.\"\r\n"
  },
  {
   "offset": 8540,
@@ -147,27 +147,27 @@
  {
   "offset": 8668,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180320a00'>\r\n//「お前でなくては駄目だ」\r\n\"It has to be you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180320a00'>\r\n//「お前でなくては駄目だ」\r\n\"Tem que ser você.\"\r\n"
  },
  {
   "offset": 8821,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180330a01'>\r\n//《……なんでよぅ……》\r\n《But㉒<I>why?</I>》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180330a01'>\r\n//《……なんでよぅ……》\r\n《Mas㉒<I>por quê?</I>》\r\n"
  },
  {
   "offset": 8981,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180340a00'>\r\n//「お前と出会ってから、幾度もの戦いを経た。\r\n//　俺が生き延びてこられたのは、お前の助け\r\n//があったからだ」\r\n\"In all the battles I've fought since we met, it was always thanks to you that I survived.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180350a00'>\r\n//「お前が助けてくれたから、〝卵〟の孵化も\r\n//阻止してこられた。\r\n//　俺の力だけではどうにもできなかった……」\r\n\"On my own, I never could have stopped Ginseigo's eggs from hatching.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180340a00'>\r\n//「お前と出会ってから、幾度もの戦いを経た。\r\n//　俺が生き延びてこられたのは、お前の助け\r\n//があったからだ」\r\n\"Em todas as batalhas que travei desde que nos conhecemos, foi sempre graças a você que sobrevivi.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180350a00'>\r\n//「お前が助けてくれたから、〝卵〟の孵化も\r\n//阻止してこられた。\r\n//　俺の力だけではどうにもできなかった……」\r\n\"Sozinho, eu jamais teria conseguido impedir que os ovos de Ginseigo eclodissem.\"\r\n"
  },
  {
   "offset": 9643,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180360a00'>\r\n//「今更だが……それを認める。\r\n//　これからも力を貸して欲しい」\r\n\"It's been two years... but I admit it now. I'm powerless without you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180360a00'>\r\n//「今更だが……それを認める。\r\n//　これからも力を貸して欲しい」\r\n\"Já se passaram dois anos... mas agora eu admito. Sou impotente sem você.\"\r\n"
  },
  {
   "offset": 9903,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180370a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180380a01'>\r\n//《私がしたことは……助けだけじゃない》\r\n《But I've done more than just help.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180370a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180380a01'>\r\n//《私がしたことは……助けだけじゃない》\r\n《Mas eu fiz mais do que apenas ajudar.》\r\n"
  },
  {
   "offset": 10230,
@@ -177,62 +177,62 @@
  {
   "offset": 10348,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180400a01'>\r\n//《忘れてはいないでしょう》\r\n《I know you haven't forgotten.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180410a01'>\r\n//《私は貴方に、罪もない人を殺させてきた！\r\n//　最初は貴方の母親――その後にも》\r\n《Because of me, you've had to kill innocents! First your mother, and then―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180400a01'>\r\n//《忘れてはいないでしょう》\r\n《Sei que você não esqueceu.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180410a01'>\r\n//《私は貴方に、罪もない人を殺させてきた！\r\n//　最初は貴方の母親――その後にも》\r\n《Por minha causa, você teve que matar inocentes! Primeiro sua mãe, e depois―》\r\n"
  },
  {
   "offset": 10818,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180420a00'>\r\n//「……ああ」\r\n\"...I know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180420a00'>\r\n//「……ああ」\r\n\"...Eu sei.\"\r\n"
  },
  {
   "offset": 10946,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180430a01'>\r\n//《何人も殺させた！\r\n//　もう嫌でしょう!?》\r\n《So many lives! Isn't it enough!?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180440a01'>\r\n//《耐えられないでしょう！\r\n//　だから、私を捨てればいいのよ！》\r\n《Aren't you sick of it!? Then let's end it already!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180450a01'>\r\n//《私がいなければ、そんなことしなくて済む\r\n//んだから！\r\n//　銀星号に勝てる劒冑なら、きっと何処かに\r\n//ある……》\r\n《Forsake our joining and the curse will end! Find a new tsurugi who can defeat Ginseigo!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180460a01'>\r\n//《貴方はそれを探せばいいの……》\r\n《There has to be one somewhere...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180430a01'>\r\n//《何人も殺させた！\r\n//　もう嫌でしょう!?》\r\n《Tantas vidas! Não é o bastante!?》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180440a01'>\r\n//《耐えられないでしょう！\r\n//　だから、私を捨てればいいのよ！》\r\n《Você não está cansado disso!? Então vamos acabar logo com isso!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180450a01'>\r\n//《私がいなければ、そんなことしなくて済む\r\n//んだから！\r\n//　銀星号に勝てる劒冑なら、きっと何処かに\r\n//ある……》\r\n《Renuncie à nossa união e a maldição terá fim! Encontre um novo tsurugi capaz de derrotar Ginseigo!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180460a01'>\r\n//《貴方はそれを探せばいいの……》\r\n《Deve haver um em algum lugar...》\r\n"
  },
  {
   "offset": 11924,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180470a00'>\r\n//「そんなものは無い。\r\n//　……仮にあったとしても」\r\n\"There is no such tsurugi. And even if there were...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180470a00'>\r\n//「そんなものは無い。\r\n//　……仮にあったとしても」\r\n\"Não existe tsurugi assim. E mesmo que existisse...\"\r\n"
  },
  {
   "offset": 12148,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180480a00'>\r\n//「俺が望むのはお前だ、村正」\r\n\"I would still choose you, Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180480a00'>\r\n//「俺が望むのはお前だ、村正」\r\n\"Eu ainda escolheria você, Muramasa.\"\r\n"
  },
  {
   "offset": 12325,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180490a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180500a01'>\r\n//《どうして》\r\n《Why?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180490a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180500a01'>\r\n//《どうして》\r\n《Por quê?》\r\n"
  },
  {
   "offset": 12583,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180510a00'>\r\n//「善悪相殺か」\r\n\"The Law of Balance...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180510a00'>\r\n//「善悪相殺か」\r\n\"A Lei do Equilíbrio...\"\r\n"
  },
  {
   "offset": 12725,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180520a00'>\r\n//「お前と共にある限り、俺はこれからも、敵\r\n//を一人倒す都度に味方も一人斬ることになる\r\n//だろう」\r\n\"As long as I wield you, I will have to kill one friend for each enemy I slay.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180520a00'>\r\n//「お前と共にある限り、俺はこれからも、敵\r\n//を一人倒す都度に味方も一人斬ることになる\r\n//だろう」\r\n\"Enquanto eu te empunhar, vou ter que matar um aliado para cada inimigo que abater.\"\r\n"
  },
  {
   "offset": 13042,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180530a01'>\r\n//《そうよ……》\r\n《...That's right.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180530a01'>\r\n//《そうよ……》\r\n《...Isso mesmo.》\r\n"
  },
  {
   "offset": 13189,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180540a00'>\r\n//「死すべからざる誰かを殺す」\r\n\"I will continue to kill those who've done nothing wrong.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180540a00'>\r\n//「死すべからざる誰かを殺す」\r\n\"Vou continuar matando quem não fez nada de errado.\"\r\n"
  },
  {
   "offset": 13387,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180550a01'>\r\n//《そうよ》\r\n《Yes.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180550a01'>\r\n//《そうよ》\r\n《Sim.》\r\n"
  },
  {
   "offset": 13516,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180560a00'>\r\n//「だがな。\r\n//　……それなら俺の<RUBY text='・'>敵</RUBY>となった人間は、死す\r\n//べき者だと言えるのか？」\r\n\"But what about my enemies? Was killing them㉗<I>right?</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180560a00'>\r\n//「だがな。\r\n//　……それなら俺の<RUBY text='・'>敵</RUBY>となった人間は、死す\r\n//べき者だと言えるのか？」\r\n\"Mas e meus inimigos? Matá-los㉗<I>foi certo?</I>\"\r\n"
  },
  {
   "offset": 13818,
@@ -242,22 +242,22 @@
  {
   "offset": 13946,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180580a00'>\r\n//「俺は<RUBY text='はは'>養母</RUBY>を殺した」\r\n\"I killed my mother.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180590a00'>\r\n//「新田雄飛を殺した」\r\n\"I killed Nitta Yuhi.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180600a00'>\r\n//「蝦夷の姉妹、ふきとふなを殺した」\r\n\"I killed those girls, Fuki and Funa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180580a00'>\r\n//「俺は<RUBY text='はは'>養母</RUBY>を殺した」\r\n\"Eu matei minha mãe.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180590a00'>\r\n//「新田雄飛を殺した」\r\n\"Eu matei Nitta Yuhi.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180600a00'>\r\n//「蝦夷の姉妹、ふきとふなを殺した」\r\n\"Eu matei aquelas garotas, Fuki e Funa.\"\r\n"
  },
  {
   "offset": 14443,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180610a00'>\r\n//「……いずれも許されない罪だ。\r\n//　しかし、なら」\r\n\"Unforgivable crimes all. But then―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180610a00'>\r\n//「……いずれも許されない罪だ。\r\n//　しかし、なら」\r\n\"Crimes imperdoáveis, todos. Mas então―\"\r\n"
  },
  {
   "offset": 14652,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180620a00'>\r\n//「鈴川令法を殺したことは？\r\n//　長坂右京を殺したことは？\r\n//　風魔小太郎を殺したことは？」\r\n\"What of Suzukawa Ryobu?\r\n  What of Nagasaka Ukyo?\r\n  What of Fuma Kotaro?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180630a00'>\r\n//「皇路卓を殺したことは？\r\n//　ジョージ・ガーゲットを殺したことは？」\r\n\"What of Oji Suguru?\r\n  What of George Gargett?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180620a00'>\r\n//「鈴川令法を殺したことは？\r\n//　長坂右京を殺したことは？\r\n//　風魔小太郎を殺したことは？」\r\n\"E quanto a Suzukawa Ryobu?\r\n  E quanto a Nagasaka Ukyo?\r\n  E quanto a Fuma Kotaro?\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180630a00'>\r\n//「皇路卓を殺したことは？\r\n//　ジョージ・ガーゲットを殺したことは？」\r\n\"E quanto a Oji Suguru?\r\n  E quanto a George Gargett?\"\r\n"
  },
  {
   "offset": 15194,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180640a00'>\r\n//「それは許されることなのか……？」\r\n\"Were their deaths㉓<I>justified?</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180640a00'>\r\n//「それは許されることなのか……？」\r\n\"As mortes deles㉓<I>foram justificadas?</I>\"\r\n"
  },
  {
   "offset": 15382,
@@ -267,22 +267,22 @@
  {
   "offset": 15510,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180660a00'>\r\n//「許されない」\r\n\"They were not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180660a00'>\r\n//「許されない」\r\n\"Não foram.\"\r\n"
  },
  {
   "offset": 15645,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180670a00'>\r\n//「彼らは俺からすれば悪人だった。\r\n//　しかし、彼らにも彼らなりの善があった」\r\n\"Yes, I judged them villains. But each was fighting for a cause he deemed righteous.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180670a00'>\r\n//「彼らは俺からすれば悪人だった。\r\n//　しかし、彼らにも彼らなりの善があった」\r\n\"Sim, eu os julguei vilões. Mas cada um lutava por uma causa que considerava justa.\"\r\n"
  },
  {
   "offset": 15940,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180680a00'>\r\n//「<RUBY text='・・・・'>善悪相殺</RUBY>。\r\n//　……成程、人を殺すという事は、善と悪を\r\n//諸共に断つという事だ。ようやく理解できた\r\n//……」\r\n\"I see it now. To slay a man is to destroy one good and one evil. The balance must be paid, indeed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180680a00'>\r\n//「<RUBY text='・・・・'>善悪相殺</RUBY>。\r\n//　……成程、人を殺すという事は、善と悪を\r\n//諸共に断つという事だ。ようやく理解できた\r\n//……」\r\n\"Agora entendo. Matar um homem é destruir um bem e um mal. O equilíbrio precisa ser pago, de fato.\"\r\n"
  },
  {
   "offset": 16330,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180690a00'>\r\n//「村正。\r\n//　お前は正しい」\r\n\"Your grandfather was right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180690a00'>\r\n//「村正。\r\n//　お前は正しい」\r\n\"Seu avô estava certo.\"\r\n"
  },
  {
   "offset": 16497,
@@ -292,42 +292,42 @@
  {
   "offset": 16631,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180710a00'>\r\n//「殺人はなべて悪鬼の所業」\r\n\"All murder is the work of demons.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180710a00'>\r\n//「殺人はなべて悪鬼の所業」\r\n\"Todo assassinato é obra de demônios.\"\r\n"
  },
  {
   "offset": 16803,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180720a00'>\r\n//「例外など無い。\r\n//　あらゆる殺人に正義は無い」\r\n\"There are no exceptions, no just killings.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180720a00'>\r\n//「例外など無い。\r\n//　あらゆる殺人に正義は無い」\r\n\"Não há exceções, não há assassinatos justos.\"\r\n"
  },
  {
   "offset": 17015,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180730a00'>\r\n//「戦いに正義は無い」\r\n\"No just battles.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180730a00'>\r\n//「戦いに正義は無い」\r\n\"Não há batalhas justas.\"\r\n"
  },
  {
   "offset": 17161,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180740a01'>\r\n//《……御堂……》\r\n《Mido...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180740a01'>\r\n//《……御堂……》\r\n《Mido...》\r\n"
  },
  {
   "offset": 17302,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180750a00'>\r\n//「村正。お前がそれを教えてくれた」\r\n\"You taught me this, Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180750a00'>\r\n//「村正。お前がそれを教えてくれた」\r\n\"Você me ensinou isso, Muramasa.\"\r\n"
  },
  {
   "offset": 17482,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180760a00'>\r\n//「お前ではなく、他の劒冑と結縁して、この\r\n//二年を戦っていたら……\r\n//　俺は今頃、自分のことを英雄とでも思って\r\n//いたかもしれん」\r\n\"If I had spent these two years joined with some other tsurugi, then I might have been calling myself a hero right now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180760a00'>\r\n//「お前ではなく、他の劒冑と結縁して、この\r\n//二年を戦っていたら……\r\n//　俺は今頃、自分のことを英雄とでも思って\r\n//いたかもしれん」\r\n\"Se eu tivesse passado estes dois anos unido a algum outro Tsurugi, talvez agora eu estivesse me chamando de herói.\"\r\n"
  },
  {
   "offset": 17889,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180770a00'>\r\n//「世の人々を救うために悪と戦いこれを討つ、\r\n//正義の武者だとな。\r\n//　そうして、銀星号を倒した暁には、六波羅\r\n//をも打倒しようなどと考えていたか……」\r\n\"I might have gotten it into my head that I was on some sacred quest to save the world from minions of evil. And then, after I'd defeated Ginseigo, I might very well have gone on to fight Rokuhara.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180770a00'>\r\n//「世の人々を救うために悪と戦いこれを討つ、\r\n//正義の武者だとな。\r\n//　そうして、銀星号を倒した暁には、六波羅\r\n//をも打倒しようなどと考えていたか……」\r\n\"Eu poderia ter me convencido de que estava numa espécie de missão sagrada para salvar o mundo dos lacaios do mal. E então, depois de derrotar Ginseigo, bem poderia ter passado a lutar contra Rokuhara.\"\r\n"
  },
  {
   "offset": 18404,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180780a00'>\r\n//「想像するだに<RUBY text='おぞけ'>怖気</RUBY>の走る話だ。\r\n//　独善の化粧でしかない正義に酔い、争乱を\r\n//引き起こすなど……」\r\n\"I shudder at the thought. To start a war for some self-righteous concept of justice...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180780a00'>\r\n//「想像するだに<RUBY text='おぞけ'>怖気</RUBY>の走る話だ。\r\n//　独善の化粧でしかない正義に酔い、争乱を\r\n//引き起こすなど……」\r\n\"Só de imaginar, sinto calafrios. Começar uma guerra por um conceito arrogante de justiça...\"\r\n"
  },
  {
   "offset": 18763,
@@ -337,7 +337,7 @@
  {
   "offset": 18897,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180800a00'>\r\n//「村正。\r\n//　俺に正義は無い」\r\n\"There is no justice in my battle.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180810a00'>\r\n//「その真実を決して忘れたくない。\r\n//　だからお前が必要だ」\r\n\"I never want to forget that truth. That's why I need you.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180820a00'>\r\n//「お前を捨てて別の劒冑を取れば……\r\n//　<RUBY text='・・・・・・・・・・・'>善人は殺さず悪人は殺す</RUBY>という独善の道を、\r\n//俺は選ぶことになる」\r\n\"If I abandon you for another tsurugi now, it will be the same as deciding that I can kill the evil without killing the good.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180830a00'>\r\n//「世には死んで良い人間と死んではならない\r\n//人間とがいて、自分にはその区別をする権利\r\n//があるのだと認めることになる……」\r\n\"I will have given in to the notion that killing some people is㉓<I>right,</I> and that I, of all people, am qualified to judge them.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180800a00'>\r\n//「村正。\r\n//　俺に正義は無い」\r\n\"Não há justiça na minha batalha.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180810a00'>\r\n//「その真実を決して忘れたくない。\r\n//　だからお前が必要だ」\r\n\"Nunca quero esquecer essa verdade. É por isso que preciso de você.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180820a00'>\r\n//「お前を捨てて別の劒冑を取れば……\r\n//　<RUBY text='・・・・・・・・・・・'>善人は殺さず悪人は殺す</RUBY>という独善の道を、\r\n//俺は選ぶことになる」\r\n\"Se eu te abandonar agora por outro Tsurugi, será o mesmo que decidir que posso matar o mal sem matar o bem.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180830a00'>\r\n//「世には死んで良い人間と死んではならない\r\n//人間とがいて、自分にはその区別をする権利\r\n//があるのだと認めることになる……」\r\n\"Terei cedido à ideia de que matar certas pessoas é㉓<I>certo,</I> e que eu, justamente eu, tenho competência para julgá-las.\"\r\n"
  },
  {
   "offset": 20133,
@@ -347,32 +347,32 @@
  {
   "offset": 20261,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180850a00'>\r\n//「俺は厚顔無恥な英雄になどなりたくはない。\r\n//　世間の人々がそんな俺を見て、正義の戦い\r\n//があると信じ、後に続こうとする――などと、\r\n//馬鹿げた始末になるのは尚のこと御免だ」\r\n\"I don't want to be a hero, proud and shameless. I don't want people to look at me and see an example to live by. What if I inspire them to follow in my footsteps, to believe that killing for a good cause is just?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180850a00'>\r\n//「俺は厚顔無恥な英雄になどなりたくはない。\r\n//　世間の人々がそんな俺を見て、正義の戦い\r\n//があると信じ、後に続こうとする――などと、\r\n//馬鹿げた始末になるのは尚のこと御免だ」\r\n\"Não quero ser um herói orgulhoso e descarado. Não quero que as pessoas olhem para mim e vejam um exemplo de vida. E se eu os inspirar a seguir meus passos, a acreditar que matar por uma boa causa é justo?\"\r\n"
  },
  {
   "offset": 20828,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180860a00'>\r\n//「それこそ<RUBY text='わざわい'>災禍</RUBY>というものだ」\r\n\"That would be every bit as destructive as Ginseigo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180860a00'>\r\n//「それこそ<RUBY text='わざわい'>災禍</RUBY>というものだ」\r\n\"Isso seria tão destrutivo quanto Ginseigo.\"\r\n"
  },
  {
   "offset": 21054,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180870a01'>\r\n//《御堂》\r\n《Mido...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180870a01'>\r\n//《御堂》\r\n《Mido...》\r\n"
  },
  {
   "offset": 21183,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180880a00'>\r\n//「俺はお前を選ぶ」\r\n\"I choose you, Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180880a00'>\r\n//「俺はお前を選ぶ」\r\n\"Eu escolho você, Muramasa.\"\r\n"
  },
  {
   "offset": 21333,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180890a00'>\r\n//「善悪相殺の戒律を選ぶ」\r\n\"I choose to slay good and evil both.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180890a00'>\r\n//「善悪相殺の戒律を選ぶ」\r\n\"Escolho abater tanto o bem quanto o mal.\"\r\n"
  },
  {
   "offset": 21505,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180900a00'>\r\n//「お前も、俺を選んではくれないか」\r\n\"Will you not choose me <br>too?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180900a00'>\r\n//「お前も、俺を選んではくれないか」\r\n\"Você não vai me escolher também?\"\r\n"
  },
  {
   "offset": 21687,
@@ -382,22 +382,22 @@
  {
   "offset": 21815,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180920a01'>\r\n//《本当に……いいの……？》\r\n《...Are you sure?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180920a01'>\r\n//《本当に……いいの……？》\r\n《...Tem certeza?》\r\n"
  },
  {
   "offset": 21980,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180930a00'>\r\n//「俺には、お前でなくてはならないのだ」\r\n\"It must be you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180930a00'>\r\n//「俺には、お前でなくてはならないのだ」\r\n\"Tem que ser você.\"\r\n"
  },
  {
   "offset": 22152,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180940a01'>\r\n//《御堂……\r\n//　……でも……》\r\n《But, Mido...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180950a01'>\r\n//《<RUBY text='かかさま'>二世村正</RUBY>を生かしたのは……私。\r\n//　銀星号をこの時代に呼び込んだのは私……\r\n//だから》\r\n《It was I who let Mother live. Who let her return to wreak havoc on your age. That's why I―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180940a01'>\r\n//《御堂……\r\n//　……でも……》\r\n《Mas, Mido...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0180950a01'>\r\n//《<RUBY text='かかさま'>二世村正</RUBY>を生かしたのは……私。\r\n//　銀星号をこの時代に呼び込んだのは私……\r\n//だから》\r\n《Fui eu que deixei a Mãe viver. Que a deixei voltar para semear destruição na sua era. É por isso que eu―》\r\n"
  },
  {
   "offset": 22672,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180960a00'>\r\n//「自分独りで戦わなくてはならない、か？」\r\n\"Must fight this battle alone?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180960a00'>\r\n//「自分独りで戦わなくてはならない、か？」\r\n\"Lutar esta batalha sozinho?\"\r\n"
  },
  {
   "offset": 22861,
@@ -407,56 +407,56 @@
  {
   "offset": 22989,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180980a00'>\r\n//「俺にもそっくり同じ思いがあった。\r\n//　いや、今でもある……が」\r\n\"I felt exactly the same. I still do. However...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180980a00'>\r\n//「俺にもそっくり同じ思いがあった。\r\n//　いや、今でもある……が」\r\n\"Eu senti exatamente o mesmo. Ainda sinto. No entanto...\"\r\n"
  },
  {
   "offset": 23230,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180990a00'>\r\n//「認めよう、村正。\r\n//　俺もお前も独りでは弱い」\r\n\"It's time for us both to admit our weakness. Alone, we are nothing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0180990a00'>\r\n//「認めよう、村正。\r\n//　俺もお前も独りでは弱い」\r\n\"Está na hora de nós dois admitirmos nossa fraqueza. Sozinhos, não somos nada.\"\r\n"
  },
  {
   "offset": 23467,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0181000a00'>\r\n//「互いが必要だ。\r\n//　俺達はふたりで一騎とならねば、戦えない\r\n//のだ」\r\n\"We need each other. There will never be victory unless we are one.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0181000a00'>\r\n//「互いが必要だ。\r\n//　俺達はふたりで一騎とならねば、戦えない\r\n//のだ」\r\n\"Precisamos um do outro. Nunca haverá vitória a menos que sejamos um só.\"\r\n"
  },
  {
   "offset": 23734,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0181010a00'>\r\n//「一緒に……戦ってくれ」\r\n\"Come... fight with me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0181010a00'>\r\n//「一緒に……戦ってくれ」\r\n\"Venha... lute comigo.\"\r\n"
  },
  {
   "offset": 23892,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0181020a01'>\r\n//《……御堂……》\r\n《Mido...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0181020a01'>\r\n//《……御堂……》\r\n《Mido...》\r\n"
  },
  {
   "offset": 24033,
   "en": "\r\n//　右手の親指に歯を立て、腹を浅く食い破る。\r\n//　血が溢れ始めたそれを、俺は劒冑へ向けた。\r\n\r\n//　――この指は、太刀を扱うに欠かせぬ指。\r\n  I raise my right hand to my mouth and bite deep into the flesh of the thumb, then present the bleeding finger to Muramasa.\r\n\r\n  This is the warrior's most precious finger, without which he cannot wield his sword.\r\n",
-  "pt": ""
+  "pt": "\r\n//　右手の親指に歯を立て、腹を浅く食い破る。\r\n//　血が溢れ始めたそれを、俺は劒冑へ向けた。\r\n\r\n//　――この指は、太刀を扱うに欠かせぬ指。\r\n  Ergo a mão direita até a boca e cravo os dentes fundo na carne do polegar; então apresento o dedo sangrando a Muramasa.\r\n\r\n  Este é o dedo mais precioso do guerreiro, sem o qual ele não pode empunhar a espada.\r\n"
  },
  {
   "offset": 24459,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0181030a01'>\r\n//《……ぁ……》\r\n《...ah...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0181030a01'>\r\n//《……ぁ……》\r\n《...ah...》\r\n"
  },
  {
   "offset": 24598,
   "en": "\r\n//　おずおずと、劒冑が<RUBY text='あし'>肢</RUBY>を差し伸ばして応える。\r\n//　触れる。\r\n  Slowly, timidly, Muramasa lifts a leg in answer.\r\n\r\n  It touches my finger. My blood stains the surface of her armor.\r\n\r\n//　血が甲鉄を染める。\r\n",
-  "pt": ""
+  "pt": "\r\n//　おずおずと、劒冑が<RUBY text='あし'>肢</RUBY>を差し伸ばして応える。\r\n//　触れる。\r\n  Lenta e timidamente, Muramasa ergue uma perna em resposta.\r\n\r\n  Ela toca meu dedo. Meu sangue mancha a superfície da armadura dela.\r\n\r\n//　血が甲鉄を染める。\r\n"
  },
  {
   "offset": 24881,
   "en": "\r\n//　水晶の鐘を打つような<RUBY text='がく'>楽</RUBY>が、一度。\r\n//　俺と村正の間を渡った。\r\n  A sharp sound echoes in the space between us, clear and high like a crystal bell.\r\n\r\n//　これが――――\r\n//　\r\n//　最も簡素で、最も古い、武者正調の<RUBY text='タテワキノギ'>帯刀儀礼</RUBY>。\r\n  This is a ritual ancient and hallowed, the simplest, purest form of Joining.\r\n\r\n//　ここに<RUBY text='えにし'>縁</RUBY>は結ばれ……\r\n//　俺と村正は初めて、一騎の武者と<RUBY text='な'>成</RUBY>った。\r\n  Thus the bond is forged... and Muramasa and I become a musha at last.\r\n",
-  "pt": ""
+  "pt": "\r\n//　水晶の鐘を打つような<RUBY text='がく'>楽</RUBY>が、一度。\r\n//　俺と村正の間を渡った。\r\n  Um som agudo ecoa no espaço entre nós, claro e alto como um sino de cristal.\r\n\r\n//　これが――――\r\n//　\r\n//　最も簡素で、最も古い、武者正調の<RUBY text='タテワキノギ'>帯刀儀礼</RUBY>。\r\n  Este é um ritual antigo e sagrado, a forma mais simples e pura de União.\r\n\r\n//　ここに<RUBY text='えにし'>縁</RUBY>は結ばれ……\r\n//　俺と村正は初めて、一騎の武者と<RUBY text='な'>成</RUBY>った。\r\n  Assim o vínculo é forjado... e Muramasa e eu nos tornamos um musha, enfim.\r\n"
  },
  {
   "offset": 25554,
   "en": "md01/0181040e060",
-  "pt": ""
+  "pt": "md01/0181040e060"
  },
  {
   "offset": 25602,
   "en": "We found him!",
-  "pt": ""
+  "pt": "Encontramos ele!"
  }
 ]

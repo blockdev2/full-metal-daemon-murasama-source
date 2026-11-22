@@ -2,7 +2,7 @@
  {
   "offset": 227,
   "en": "\r\n//　殺す。\r\n\r\n//　そう。\r\n//　あなたは湊斗光を殺さなくてはいけない。\r\n\r\n//　世界を守るために。\r\n  Yes. You must kill her, or the world will die.\r\n",
-  "pt": ""
+  "pt": "\r\n//　殺す。\r\n\r\n//　そう。\r\n//　あなたは湊斗光を殺さなくてはいけない。\r\n\r\n//　世界を守るために。\r\n  Sim. Você precisa matá-la, ou o mundo morrerá.\r\n"
  },
  {
   "offset": 421,
@@ -12,7 +12,7 @@
  {
   "offset": 547,
   "en": "\r\n//　目的は完全に判明した。\r\n//　後は実行するだけだ。\r\n\r\n//　殺そう。\r\n//　首を絞めてもいいし、胸を叩き割ってもいいし、腹\r\n//を踏み潰してもいいし、水に沈めてもいいし、ガスを\r\n//吸わせてもいいし火を着けてもいい。\r\n\r\n//　相手は無力な病人。\r\n//　どんなやり方でも容易に殺害できる。\r\n\r\n//　さあ、どうぞ。\r\n  You know your purpose. Now carry it out. She is helpless to resist, whatever you do.\r\n\r\n  Wring her neck, if you like, or cave her chest in. Or perhaps you'd prefer to stomp her guts out, or drown her in the bathtub, or douse her in kerosene and light a match.\r\n\r\n  The choice is yours.\r\n  Choose.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　目的は完全に判明した。\r\n//　後は実行するだけだ。\r\n\r\n//　殺そう。\r\n//　首を絞めてもいいし、胸を叩き割ってもいいし、腹\r\n//を踏み潰してもいいし、水に沈めてもいいし、ガスを\r\n//吸わせてもいいし火を着けてもいい。\r\n\r\n//　相手は無力な病人。\r\n//　どんなやり方でも容易に殺害できる。\r\n\r\n//　さあ、どうぞ。\r\n  Você conhece seu propósito. Agora cumpra-o. Ela é incapaz de resistir, faça o que fizer.\r\n\r\n  Torça o pescoço dela, se quiser, ou afunde o peito dela. Ou talvez prefira esmagar as tripas dela, ou afogá-la na banheira, ou encharcá-la de querosene e riscar um fósforo.\r\n\r\n  A escolha é sua.\r\n  Escolha.\r\n\r\n"
  },
  {
   "offset": 1289,
@@ -22,12 +22,12 @@
  {
   "offset": 1427,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004by0030a00'>\r\n//「ああああああああああっ!!」\r\n\"AHHHHHHHHHHHHH!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004by0030a00'>\r\n//「ああああああああああっ!!」\r\n\"AHHHHHHHHHHHHH!\"\r\n"
  },
  {
   "offset": 1585,
   "en": "\r\n//　……あなたは逃走した。\r\n  You flee the room.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……あなたは逃走した。\r\n  Você foge do quarto.\r\n"
  },
  {
   "offset": 1657,
@@ -37,7 +37,7 @@
  {
   "offset": 1669,
   "en": "Stab her",
-  "pt": ""
+  "pt": "Apunhale-a"
  },
  {
   "offset": 1685,
@@ -47,7 +47,7 @@
  {
   "offset": 1697,
   "en": "Strangle her",
-  "pt": ""
+  "pt": "Estrangule-a"
  },
  {
   "offset": 1717,
@@ -57,7 +57,7 @@
  {
   "offset": 1729,
   "en": "Beat her",
-  "pt": ""
+  "pt": "Espangue-a"
  },
  {
   "offset": 1745,
@@ -67,7 +67,7 @@
  {
   "offset": 1757,
   "en": "Slice her",
-  "pt": ""
+  "pt": "Corte-a"
  },
  {
   "offset": 1774,
@@ -77,7 +77,7 @@
  {
   "offset": 1786,
   "en": "Poison her",
-  "pt": ""
+  "pt": "Envenene-a"
  },
  {
   "offset": 1804,
@@ -87,6 +87,6 @@
  {
   "offset": 1816,
   "en": "Crush her",
-  "pt": ""
+  "pt": "Esmague-a"
  }
 ]

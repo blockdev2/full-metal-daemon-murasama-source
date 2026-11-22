@@ -2,7 +2,7 @@
  {
   "offset": 222,
   "en": "\r\n//　時間の無駄だ。\r\n//　もう移動しよう。\r\n\r\n//　さて、船首方向の扉を開けてみるか。\r\n//　それとも右の扉を通って廊下へ戻るか……。\r\n  This is a waste of time. I should move on.\r\n",
-  "pt": ""
+  "pt": "\r\n//　時間の無駄だ。\r\n//　もう移動しよう。\r\n\r\n//　さて、船首方向の扉を開けてみるか。\r\n//　それとも右の扉を通って廊下へ戻るか……。\r\n  Isso é uma perda de tempo. Preciso seguir em frente.\r\n"
  },
  {
   "offset": 464,
@@ -12,7 +12,7 @@
  {
   "offset": 476,
   "en": "Take the door toward the bow",
-  "pt": ""
+  "pt": "Pegar a porta em direção à proa"
  },
  {
   "offset": 512,
@@ -22,6 +22,6 @@
  {
   "offset": 524,
   "en": "Return to the hallway",
-  "pt": ""
+  "pt": "Voltar para o corredor"
  }
 ]

@@ -2,207 +2,207 @@
  {
   "offset": 213,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080010a04'>\r\n//「着きましてございます」\r\n\"We've arrived, Mistress.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080010a04'>\r\n//「着きましてございます」\r\nChegamos, minha senhora.\r\n"
  },
  {
   "offset": 373,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080020a03'>\r\n//「ご苦労さま。\r\n//　……初めて見るけれど、立派なお寺ねえ」\r\n\"Wonderful. Ahh, what a grand old temple.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080020a03'>\r\n//「ご苦労さま。\r\n//　……初めて見るけれど、立派なお寺ねえ」\r\nQue maravilha. Aah, que templo antigo e imponente.\r\n"
  },
  {
   "offset": 607,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080030a04'>\r\n//「まことに。\r\n//　こればかりは、大和でしか味わえぬ妙趣で\r\n//ございますなぁ」\r\n\"Indeed. There's a certain ambiance you can only find in Yamato.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080030a04'>\r\n//「まことに。\r\n//　こればかりは、大和でしか味わえぬ妙趣で\r\n//ございますなぁ」\r\nDe fato. Há um certo charme que só se encontra em Yamato.\r\n"
  },
  {
   "offset": 880,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080040a03'>\r\n//「漢や<RUBY text='コーチ'>交趾</RUBY>はまた違うものね。\r\n//　……傷をつけたらもったいないかしら」\r\n\"Not that Han and Cochin don't have their charms.\r\n  I suppose it wouldn't do to simply burn the whole thing down?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080040a03'>\r\n//「漢や<RUBY text='コーチ'>交趾</RUBY>はまた違うものね。\r\n//　……傷をつけたらもったいないかしら」\r\nNão que Han e Cochin não tenham seu encanto.\r\n  Suponho que não pegaria bem simplesmente incendiar o lugar inteiro?\r\n"
  },
  {
   "offset": 1235,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080050a04'>\r\n//「確か、中には国宝もございますし……。\r\n//　なるたけ建物に危害が及ばぬよう、注意さ\r\n//れると宜しいかと」\r\n\"It does contain a number of priceless artifacts. Perhaps you should try to keep the damage to a minimum.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080050a04'>\r\n//「確か、中には国宝もございますし……。\r\n//　なるたけ建物に危害が及ばぬよう、注意さ\r\n//れると宜しいかと」\r\nDe fato, há vários tesouros nacionais lá dentro... Talvez seja bom tentar minimizar os danos ao prédio.\r\n"
  },
  {
   "offset": 1591,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080060a03'>\r\n//「そうね。\r\n//　なるたけ」\r\n\"Yes. I'll try.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080060a03'>\r\n//「そうね。\r\n//　なるたけ」\r\nSim. Vou tentar.\r\n"
  },
  {
   "offset": 1751,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080070a04'>\r\n//「すぐに向かわれますので？\r\n//　それとも、しばらくお待ちに？」\r\n\"Would you like to take a moment before we begin the operation?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080070a04'>\r\n//「すぐに向かわれますので？\r\n//　それとも、しばらくお待ちに？」\r\nDeseja um momento antes de começarmos a operação?\r\n"
  },
  {
   "offset": 2004,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080080a03'>\r\n//「……待ちましょう。\r\n//　まとめて片付けてしまいたいもの」\r\n\"I suppose we should. Better if everyone's together.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080080a03'>\r\n//「……待ちましょう。\r\n//　まとめて片付けてしまいたいもの」\r\nAcho que sim. Melhor se estivermos todos reunidos.\r\n"
  },
  {
   "offset": 2249,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080090a04'>\r\n//「さようでございますか。\r\n//　では、お茶の用意をいたしましょう」\r\n\"Very well. I'll put on some tea.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080090a04'>\r\n//「さようでございますか。\r\n//　では、お茶の用意をいたしましょう」\r\nMuito bem. Vou preparar um chá.\r\n"
  },
  {
   "offset": 2475,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080100a03'>\r\n//「お願いね」\r\n\"Lovely.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080100a03'>\r\n//「お願いね」\r\nPor favor.\r\n"
  },
  {
   "offset": 2609,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080110a04'>\r\n//「……あの御仁は、おいでになりましょうか\r\n//ねぇ」\r\n\"...Do you think he'll come?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080110a04'>\r\n//「……あの御仁は、おいでになりましょうか\r\n//ねぇ」\r\n...Acha que ele virá?\r\n"
  },
  {
   "offset": 2809,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080120a03'>\r\n//「知らん顔はできないと思うけど。\r\n//　何と言っても景明さまですし」\r\n\"He won't ignore my warning. His heart won't let him.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080120a03'>\r\n//「知らん顔はできないと思うけど。\r\n//　何と言っても景明さまですし」\r\nEle não vai ignorar meu aviso. O coração dele não permitirá.\r\n"
  },
  {
   "offset": 3067,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080130a04'>\r\n//「おわかりになると？」\r\n\"You know him that well?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080130a04'>\r\n//「おわかりになると？」\r\nVocê o conhece tão bem assim?\r\n"
  },
  {
   "offset": 3223,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080140a03'>\r\n//「もちろん。\r\n//　もうずっと、あの方のことばかり考えてる\r\n//んだから」\r\n\"But of course. He's all I think about, Sayo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080140a03'>\r\n//「もちろん。\r\n//　もうずっと、あの方のことばかり考えてる\r\n//んだから」\r\nMas é claro. Não penso em outra coisa, Sayo.\r\n"
  },
  {
   "offset": 3477,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080150a03'>\r\n//「今日これからのことだって、幾度も想像し\r\n//てみたのよ？\r\n//　因果を含めて剣を向けた時、あの方はどう\r\n//なさるのかしら……って」\r\n\"Our future together. I have it all planned out, right up to the moment I draw my sword and place it against his throat.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080150a03'>\r\n//「今日これからのことだって、幾度も想像し\r\n//てみたのよ？\r\n//　因果を含めて剣を向けた時、あの方はどう\r\n//なさるのかしら……って」\r\nNosso futuro juntos. Já planejei tudo, até o momento em que desembainhar minha espada e encostá-la em sua garganta.\r\n"
  },
  {
   "offset": 3891,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080160a04'>\r\n//「どうなさいますかな？　あの御方は……」\r\n\"How will he respond, I wonder, when you tell him why?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080160a04'>\r\n//「どうなさいますかな？　あの御方は……」\r\nComo ele reagirá, me pergunto, quando você lhe disser o motivo?\r\n"
  },
  {
   "offset": 4104,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080170a03'>\r\n//「きっと無念の想いで一杯でしょうね……。\r\n//　なぜってあの方にはすべてが不本意なこと\r\n//だったに違いないもの」\r\n\"With anger, I'm sure. He never wanted any of this.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080170a03'>\r\n//「きっと無念の想いで一杯でしょうね……。\r\n//　なぜってあの方にはすべてが不本意なこと\r\n//だったに違いないもの」\r\nCom raiva, sem dúvida. Ele nunca quis nada disso.\r\n"
  },
  {
   "offset": 4424,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080180a03'>\r\n//「罪なんて犯したくなかった。\r\n//　だのに、報いを受けさせられる」\r\n\"He didn't want to kill anyone. Why should he pay the price?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080180a03'>\r\n//「罪なんて犯したくなかった。\r\n//　だのに、報いを受けさせられる」\r\nEle não queria matar ninguém. Por que deveria pagar o preço?\r\n"
  },
  {
   "offset": 4686,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080190a03'>\r\n//「……理不尽よね」\r\n\"It's not fair.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080190a03'>\r\n//「……理不尽よね」\r\nÉ injusto.\r\n"
  },
  {
   "offset": 4836,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080200a04'>\r\n//「哀れなものでございますな」\r\n\"The poor man.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080200a04'>\r\n//「哀れなものでございますな」\r\nO pobre homem.\r\n"
  },
  {
   "offset": 4991,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080210a03'>\r\n//「けれど仕方ない。\r\n//　<RUBY text='・・・・・'>わたくしが</RUBY>許さないのだもの」\r\n\"But fair or no, I will have my vengeance.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080210a03'>\r\n//「けれど仕方ない。\r\n//　<RUBY text='・・・・・'>わたくしが</RUBY>許さないのだもの」\r\nMas justo ou não, terei minha vingança.\r\n"
  },
  {
   "offset": 5253,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080220a04'>\r\n//「はい」\r\n\"Of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080220a04'>\r\n//「はい」\r\nSim.\r\n"
  },
  {
   "offset": 5375,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080230a03'>\r\n//「どんな理由があっても許さない。\r\n//　<RUBY text='・'>彼</RUBY>を殺したことは許さない」\r\n\"He killed someone I loved. It doesn't matter why.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080230a03'>\r\n//「どんな理由があっても許さない。\r\n//　<RUBY text='・'>彼</RUBY>を殺したことは許さない」\r\nEle matou alguém que eu amava. Não importa o motivo.\r\n"
  },
  {
   "offset": 5651,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080240a03'>\r\n//「そうしなければ百万人が犠牲になっていた\r\n//としても許さない。\r\n//　救われた百万人が景明さまに味方するなら、\r\n//諸共に叩いて潰す」\r\n\"I don't care if killing him saved millions. If those millions take their savior's side, then they can share in their savior's fate.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080250a03'>\r\n//「誰が決めたの……？\r\n//　彼の一つの命より、百万人の命の方が重い\r\n//だなんて」\r\n\"It's not right, Sayo. Who decided that his life was worth less than theirs?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080240a03'>\r\n//「そうしなければ百万人が犠牲になっていた\r\n//としても許さない。\r\n//　救われた百万人が景明さまに味方するなら、\r\n//諸共に叩いて潰す」\r\nNão me importa se matá-lo salvou milhões. Se esses milhões ficarem do lado do seu salvador, então que compartilhem o destino dele.\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080250a03'>\r\n//「誰が決めたの……？\r\n//　彼の一つの命より、百万人の命の方が重い\r\n//だなんて」\r\nNão é justo, Sayo. Quem decidiu que a vida dele valia menos que as deles?\r\n"
  },
  {
   "offset": 6369,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080260a04'>\r\n//「誰でございましょうねぇ……」\r\n\"Who indeed...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080260a04'>\r\n//「誰でございましょうねぇ……」\r\nQuem, hein...\r\n"
  },
  {
   "offset": 6527,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080270a03'>\r\n//「彼が自分でそう決めたのなら、いい。\r\n//　けれどそうじゃなかった。彼は自分の意思\r\n//で死んだわけじゃない。<RUBY text='・・・・'>殺された</RUBY>のよ」\r\n\"If he had made that decision himself, I could have accepted it. But he didn't. He didn't choose to die.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080270a03'>\r\n//「彼が自分でそう決めたのなら、いい。\r\n//　けれどそうじゃなかった。彼は自分の意思\r\n//で死んだわけじゃない。<RUBY text='・・・・'>殺された</RUBY>のよ」\r\nSe ele mesmo tivesse tomado essa decisão, eu poderia aceitar. Mas não foi assim. Ele não escolheu morrer.\r\n"
  },
  {
   "offset": 6948,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080280a03'>\r\n//「他人に命の値打ちを決められて、殺された。\r\n//　だからわたくしは許さない」\r\n\"He was㉗<I>murdered.</I>㉑ Someone judged his worth and took his life. That is what I cannot forgive.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080280a03'>\r\n//「他人に命の値打ちを決められて、殺された。\r\n//　だからわたくしは許さない」\r\nEle foi㉗<I>assassinado.</I>㉑ Alguém julgou seu valor e tirou sua vida. É isso que não posso perdoar.\r\n"
  },
  {
   "offset": 7269,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080290a03'>\r\n//「湊斗景明を許さないの」\r\n\"Minato Kageaki must die.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080290a03'>\r\n//「湊斗景明を許さないの」\r\nMinato Kageaki deve morrer.\r\n"
  },
  {
   "offset": 7438,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080300a04'>\r\n//「御意……」\r\n\"As you wish.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080300a04'>\r\n//「御意……」\r\nComo desejar...\r\n"
  },
  {
   "offset": 7568,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080310a03'>\r\n//「わたくしがあの方の立場にあればまったく\r\n//同じことをしたとしても、ね」\r\n\"It doesn't even matter that I would have done the same thing in his place.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080310a03'>\r\n//「わたくしがあの方の立場にあればまったく\r\n//同じことをしたとしても、ね」\r\nNão importa nem um pouco que eu teria feito a mesma coisa no lugar dele.\r\n"
  },
  {
   "offset": 7857,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080320a04'>\r\n//「同じことを」\r\n\"Oh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080320a04'>\r\n//「同じことを」\r\nÉ?\r\n"
  },
  {
   "offset": 7981,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080330a03'>\r\n//「ええ。\r\n//　景明さまもきっとそうなさったように……\r\n//何も教えず、力ずくで命を奪うでしょう」\r\n\"That night, before he struck the fatal blow... he did not give his reasons. I'm sure of it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080330a03'>\r\n//「ええ。\r\n//　景明さまもきっとそうなさったように……\r\n//何も教えず、力ずくで命を奪うでしょう」\r\nNaquela noite, antes de desferir o golpe fatal... ele não expôs seus motivos. Tenho certeza.\r\n"
  },
  {
   "offset": 8318,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080340a04'>\r\n//「やむなき犠牲と、説いて聞かせはなさいま\r\n//せんか」\r\n\"You don't think he tells his victims why they need to <br>die?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080340a04'>\r\n//「やむなき犠牲と、説いて聞かせはなさいま\r\n//せんか」\r\nNão acha que ele conta às vítimas por que precisam morrer?\r\n"
  },
  {
   "offset": 8556,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080350a03'>\r\n//「虫のいい話だとは思わなくて？\r\n//　それってつまり、今からあなたを殺すけれ\r\n//どこれには理由のあることだから納得してね、\r\n//って頼むのと同じじゃない」\r\n\"Wouldn't that be the cruelest thing? To say, 'I'm sorry your life is over, but it's for a good reason.'㉑\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080350a03'>\r\n//「虫のいい話だとは思わなくて？\r\n//　それってつまり、今からあなたを殺すけれ\r\n//どこれには理由のあることだから納得してね、\r\n//って頼むのと同じじゃない」\r\nIsso não seria a maior crueldade? Dizer: 'Sinto muito que sua vida acabe, mas é por um bom motivo.'㉑\r\n"
  },
  {
   "offset": 8990,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080360a03'>\r\n//「殺された人は、殺されておきながら誰かを\r\n//恨むこともできなくなる。\r\n//　<RUBY text='・・・・・'>殺した人は</RUBY>、<RUBY text='・・・・・・・・'>殺しておきながら</RUBY>誰にも恨ま\r\n//れなくて済んでしまう」\r\n\"Who will the victim hate then? Who will hate the one who killed him? No one?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080360a03'>\r\n//「殺された人は、殺されておきながら誰かを\r\n//恨むこともできなくなる。\r\n//　<RUBY text='・・・・・'>殺した人は</RUBY>、<RUBY text='・・・・・・・・'>殺しておきながら</RUBY>誰にも恨ま\r\n//れなくて済んでしまう」\r\nQuem a vítima odiará, então? Quem odiará aquele que o matou? Ninguém?\r\n"
  },
  {
   "offset": 9457,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080370a03'>\r\n//「……そんなことがあっていいと思う？」\r\n\"Well... that wouldn't be right at all, would it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080370a03'>\r\n//「……そんなことがあっていいと思う？」\r\nBem... isso não estaria nada certo, estaria?\r\n"
  },
  {
   "offset": 9671,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080380a04'>\r\n//「なるほど……」\r\n\"Ah-ha...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080380a04'>\r\n//「なるほど……」\r\nEntendo...\r\n"
  },
  {
   "offset": 9803,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080390a03'>\r\n//「だからわたくしね、景明さまには感謝して\r\n//いるのよ。\r\n//　だって、<RUBY text='・・・'>恨める</RUBY>もの」\r\n\"It was quite considerate of him, really.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080390a03'>\r\n//「だからわたくしね、景明さまには感謝して\r\n//いるのよ。\r\n//　だって、<RUBY text='・・・'>恨める</RUBY>もの」\r\nFoi muita consideração da parte dele, na verdade.\r\n"
  },
  {
   "offset": 10098,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080400a03'>\r\n//「あの方が我意一つで彼を殺してくれたから、\r\n//こんなにも復讐心を<RUBY text='たぎ'>滾</RUBY>らせられる。\r\n//　こんなにも殺意を燃え立たせられる」\r\n\"If his victim had died willingly, I don't know what I would have done.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080400a03'>\r\n//「あの方が我意一つで彼を殺してくれたから、\r\n//こんなにも復讐心を<RUBY text='たぎ'>滾</RUBY>らせられる。\r\n//　こんなにも殺意を燃え立たせられる」\r\nSe a vítima dele tivesse morrido por vontade própria, não sei o que eu teria feito.\r\n"
  },
  {
   "offset": 10477,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080410a03'>\r\n//「彼が自分の意思で犠牲になっていたなら、\r\n//きっとどうしていいかわからなかった。\r\n//　気持ちのやり場が見つからなかった……」\r\n\"But no. He made himself the target, so that my vengeance would know exactly where to place its bolt.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080410a03'>\r\n//「彼が自分の意思で犠牲になっていたなら、\r\n//きっとどうしていいかわからなかった。\r\n//　気持ちのやり場が見つからなかった……」\r\nMas não. Ele se fez de alvo, para que minha vingança soubesse exatamente onde cravar seu raio.\r\n"
  },
  {
   "offset": 10868,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080420a03'>\r\n//「そうならなかったのは景明さまのおかげ。\r\n//　でしょう？　ばあや」\r\n\"I really am grateful, you know? It's thanks to him that my hate burns so bright.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080420a03'>\r\n//「そうならなかったのは景明さまのおかげ。\r\n//　でしょう？　ばあや」\r\nSou muito grata, sabia? É graças a ele que meu ódio arde tão forte.\r\n"
  },
  {
   "offset": 11154,
@@ -212,22 +212,22 @@
  {
   "offset": 11278,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080440a03'>\r\n//「だから……優しく殺して差し上げないとね。\r\n//　痛みは感じさせずに。一撃で心臓を貫いて。\r\n//眠るように逝って頂きましょう」\r\n\"That's why I've decided to apply a gentle touch. One shot through the heart―no pain, like singing him a lullaby. He deserves that much.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080450a03'>\r\n//「あの方の無念を、一顧だにしないで。\r\n//　慈悲なんて無しに。憎悪だけぶつけて」\r\n\"And if he pleads, I will ignore him. If he begs, I will show no mercy.\" \r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080460a03'>\r\n//「力任せに命を奪い取る。\r\n//　あの方の、ありったけの未練を浴びせつけ\r\n//られながら、それを踏みにじって殺す」\r\n\"I will take his life because I demand it, because his regrets are worth nothing before the fire of my hate.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080440a03'>\r\n//「だから……優しく殺して差し上げないとね。\r\n//　痛みは感じさせずに。一撃で心臓を貫いて。\r\n//眠るように逝って頂きましょう」\r\nPor isso decidi ter um toque gentil. Um único disparo no coração — sem dor, como cantar uma canção de ninar para ele. Ele merece ao menos isso.\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080450a03'>\r\n//「あの方の無念を、一顧だにしないで。\r\n//　慈悲なんて無しに。憎悪だけぶつけて」\r\nE se ele implorar, vou ignorá-lo. Se ele suplicar, não mostrarei misericórdia.\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080460a03'>\r\n//「力任せに命を奪い取る。\r\n//　あの方の、ありったけの未練を浴びせつけ\r\n//られながら、それを踏みにじって殺す」\r\nTirarei a vida dele porque eu exijo isso, porque os arrependimentos dele não valem nada diante do fogo do meu ódio.\r\n"
  },
  {
   "offset": 12356,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080470a03'>\r\n//「そして――わたくしは恨まれるの。\r\n//　いつの日にかこの心臓も、わたくしがそう\r\n//したように、復讐の切先で貫かれる」\r\n\"Thus, I will become the hated. And one day, the bolt of vengeance will pierce my heart as well.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080470a03'>\r\n//「そして――わたくしは恨まれるの。\r\n//　いつの日にかこの心臓も、わたくしがそう\r\n//したように、復讐の切先で貫かれる」\r\nAssim, eu me tornarei a odiada. E um dia, o raio da vingança atravessará meu coração também.\r\n"
  },
  {
   "offset": 12730,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080480a04'>\r\n//「それでよろしいのでございますね」\r\n\"As it should be?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080480a04'>\r\n//「それでよろしいのでございますね」\r\nÉ assim que deve ser?\r\n"
  },
  {
   "offset": 12897,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080490a03'>\r\n//「それ<RUBY text='・'>が</RUBY>いいのよ」\r\n\"As it should be!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080490a03'>\r\n//「それ<RUBY text='・'>が</RUBY>いいのよ」\r\nÉ exatamente assim que deve ser!\r\n"
  },
  {
   "offset": 13073,
@@ -237,96 +237,96 @@
  {
   "offset": 13191,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080510a03'>\r\n//「それが復讐なのだもの。\r\n//　いつまでも果てしなく続く、殺意と憎悪の\r\n//円環……」\r\n\"Such is vengeance. An endless cycle of blood.\"\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080510a03'>\r\n//「それが復讐なのだもの。\r\n//　いつまでも果てしなく続く、殺意と憎悪の\r\n//円環……」\r\nA vingança é assim. Um ciclo interminável de sangue.\r\n\r\n"
  },
  {
   "offset": 13466,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080520a03'>\r\n//「別の言葉で何と言うかわかる？　さよ」\r\n\"Do you know what else they call this, Sayo?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080520a03'>\r\n//「別の言葉で何と言うかわかる？　さよ」\r\nSabe como mais chamam isso, Sayo?\r\n"
  },
  {
   "offset": 13675,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080530a04'>\r\n//「<RUBY text='ロウ・アンド・ジャスティス'>　法と正義　</RUBY>」\r\n\"I believe they call that justice, Mistress.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080530a04'>\r\n//「<RUBY text='ロウ・アンド・ジャスティス'>　法と正義　</RUBY>」\r\nCreio que chamam isso de justiça, Senhora.\r\n"
  },
  {
   "offset": 13902,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080540a03'>\r\n//「そう。\r\n//　やられた分はやり返す。やった分はやり返\r\n//される。人類普遍の一大律法」\r\n\"Yes. An eye for an eye. A tooth for a tooth. Man's oldest and most enduring law.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080540a03'>\r\n//「そう。\r\n//　やられた分はやり返す。やった分はやり返\r\n//される。人類普遍の一大律法」\r\nSim. Olho por olho. Dente por dente. A lei mais antiga e duradoura da humanidade.\r\n"
  },
  {
   "offset": 14213,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080550a04'>\r\n//「近年の倫理やら道徳やらは必ずしもそれを\r\n//正義と認めぬようでございますが。\r\n//　ま、倫理道徳など心の化粧。所詮は上っ面\r\n//のことでございます」\r\n\"Though one less widely accepted in recent years. But of course, morals are merely a guise, a mask to hide the truth.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080550a04'>\r\n//「近年の倫理やら道徳やらは必ずしもそれを\r\n//正義と認めぬようでございますが。\r\n//　ま、倫理道徳など心の化粧。所詮は上っ面\r\n//のことでございます」\r\nEmbora seja menos aceita nos últimos anos. Mas, claro, a moral é apenas uma fachada, uma máscara para esconder a verdade.\r\n"
  },
  {
   "offset": 14639,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080560a03'>\r\n//「ええ。\r\n//　心の真実はいつだって変わらない」\r\n\"And the truth never changes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080560a03'>\r\n//「ええ。\r\n//　心の真実はいつだって変わらない」\r\nE a verdade nunca muda.\r\n"
  },
  {
   "offset": 14843,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080570a04'>\r\n//「変わりませぬ」\r\n\"No indeed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080570a04'>\r\n//「変わりませぬ」\r\nDe fato, não.\r\n"
  },
  {
   "offset": 14977,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080580a03'>\r\n//「貴顕たるもの、普遍の正義を体現して生き\r\n//なくてはね」\r\n\"Then as one born to noble blood, I suppose it's my duty to demonstrate that to the world.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080580a03'>\r\n//「貴顕たるもの、普遍の正義を体現して生き\r\n//なくてはね」\r\nEntão, como alguém de sangue nobre, suponho que seja meu dever demonstrar isso ao mundo.\r\n"
  },
  {
   "offset": 15257,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080590a04'>\r\n//「はい」\r\n\"As you say.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080590a04'>\r\n//「はい」\r\nComo diz.\r\n"
  },
  {
   "offset": 15380,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080600a03'>\r\n//「お茶は？」\r\n\"How is that tea coming?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080600a03'>\r\n//「お茶は？」\r\nComo está o chá?\r\n"
  },
  {
   "offset": 15530,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080610a04'>\r\n//「ただいま」\r\n\"Here you are.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080610a04'>\r\n//「ただいま」\r\nAqui está.\r\n"
  },
  {
   "offset": 15661,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080620a03'>\r\n//「いい香り」\r\n\"Ahh, so fragrant.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080620a03'>\r\n//「いい香り」\r\nAhh, que fragrância.\r\n"
  },
  {
   "offset": 15805,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080630a04'>\r\n//「お嬢さま」\r\n\"...Mistress?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080630a04'>\r\n//「お嬢さま」\r\n...Senhora?\r\n"
  },
  {
   "offset": 15935,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080640a03'>\r\n//「なあに？」\r\n\"Hmm?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080640a03'>\r\n//「なあに？」\r\nHmm?\r\n"
  },
  {
   "offset": 16066,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080650a04'>\r\n//「楽しゅうございますか」\r\n\"Are you enjoying yourself?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080650a04'>\r\n//「楽しゅうございますか」\r\nA senhora está se divertindo?\r\n"
  },
  {
   "offset": 16228,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080660a03'>\r\n//「ええ、とても」\r\n\"Immensely.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080660a03'>\r\n//「ええ、とても」\r\nImensamente.\r\n"
  },
  {
   "offset": 16371,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080670a04'>\r\n//「そのお愉しみは大切なものを失った哀しみ\r\n//と表裏一体でございます」\r\n\"But to know that joy, you first had to lose something precious.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080670a04'>\r\n//「そのお愉しみは大切なものを失った哀しみ\r\n//と表裏一体でございます」\r\nMas para conhecer essa alegria, a senhora primeiro teve de perder algo precioso.\r\n"
  },
  {
   "offset": 16634,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080680a03'>\r\n//「そうね。\r\n//　……こういうのは何ていうのかしら？」\r\n\"True... Is there a word for that, Sayo?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/0080680a03'>\r\n//「そうね。\r\n//　……こういうのは何ていうのかしら？」\r\nÉ verdade... Existe uma palavra para isso, Sayo?\r\n"
  },
  {
   "offset": 16858,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080690a04'>\r\n//「<RUBY text='カルマ'>業</RUBY>と云うのですよ。\r\n//　人面獣心のお嬢さま」\r\n\"Yes, my mistress. My beautiful monster. That would be karma.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc01/0080690a04'>\r\n//「<RUBY text='カルマ'>業</RUBY>と云うのですよ。\r\n//　人面獣心のお嬢さま」\r\nSim, minha senhora. Meu belo monstro. Isso se chama carma.\r\n"
  }
 ]

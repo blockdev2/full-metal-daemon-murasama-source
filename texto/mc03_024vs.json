@@ -2,7 +2,7 @@
  {
   "offset": 215,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0010a01'>\r\n//《……御堂！》\r\n《...Mido!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0020a01'>\r\n//《御堂、気を確かに持って！》\r\n《Mido, snap out of it!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0010a01'>\r\n//《……御堂！》\r\n《...Mido!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0020a01'>\r\n//《御堂、気を確かに持って！》\r\n《Mido, reage!》\r\n"
  },
  {
   "offset": 523,
@@ -12,62 +12,62 @@
  {
   "offset": 649,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0040a00'>\r\n//「……あ……\r\n//　ああ」\r\n\"Mu... Muramasa...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0040a00'>\r\n//「……あ……\r\n//　ああ」\r\n\"Mu... Muramasa...\"\r\n"
  },
  {
   "offset": 802,
   "en": "\r\n//　……落ちている？\r\n\r\n//　落ちているのか、俺は？\r\n  We're falling...\r\n\r\n  ...Falling? Why?\r\n",
-  "pt": ""
+  "pt": "\r\n//　……落ちている？\r\n\r\n//　落ちているのか、俺は？\r\n  Estamos caindo...\r\n\r\n  ...Caindo? Por quê?\r\n"
  },
  {
   "offset": 927,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0050a01'>\r\n//《御堂！》\r\n《MIDO!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0050a01'>\r\n//《御堂！》\r\n《MIDO!》\r\n"
  },
  {
   "offset": 1059,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0060a00'>\r\n//「――おおっ!!」\r\n\"Ngh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0060a00'>\r\n//「――おおっ!!」\r\n\"Ngh!\"\r\n"
  },
  {
   "offset": 1188,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0070a01'>\r\n//《危ない……》\r\n《Thank goodness...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0070a01'>\r\n//《危ない……》\r\n《Ainda bem...》\r\n"
  },
  {
   "offset": 1338,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0080a00'>\r\n//「俺は気絶していたのか？」\r\n\"Was I out?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0080a00'>\r\n//「俺は気絶していたのか？」\r\n\"Eu apaguei?\"\r\n"
  },
  {
   "offset": 1489,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0090a01'>\r\n//《ほんの一、二秒ね。\r\n//　敵の<RUBY text='・'>頭</RUBY>の突撃を食らって》\r\n《Only for a second. The enemy's head got us good.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0090a01'>\r\n//《ほんの一、二秒ね。\r\n//　敵の<RUBY text='・'>頭</RUBY>の突撃を食らって》\r\n《Só por um segundo. A cabeça do inimigo nos acertou em cheio.》\r\n"
  },
  {
   "offset": 1746,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0100a00'>\r\n//「敵は……」\r\n\"Are they still―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0100a00'>\r\n//「敵は……」\r\n\"Eles ainda―\"\r\n"
  },
  {
   "offset": 1883,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0110a01'>\r\n//《終わりよ》\r\n《No. They're finished.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0110a01'>\r\n//《終わりよ》\r\n《Não. Acabou.》\r\n"
  },
  {
   "offset": 2034,
   "en": "\r\n//　……そう。\r\n//　終わりだった。\r\n\r\n//　悪魔を模す騎体は、ばらばらのまま、地を目指して\r\n//墜落してゆく。\r\n//　……墜落、だった。降下ではない。\r\n  ...I see them, falling in pieces toward the earth below.\r\n\r\n  With their fuel reserves fully depleted, they no longer have the means to slow their descent. Their wings and engines are now dead weight, prey for gravity's hungry pull.\r\n\r\n//　熱量を全て使い果たしたのだ。\r\n//　<RUBY text='バレル'>合当理</RUBY>も、<RUBY text='ウイング'>翼甲</RUBY>も、こうなっては只の鉄に過ぎない。\r\n\r\n//　彼らは単純な物理法則に支配され、落ちてゆく。\r\n//　彼らは自身を救えない。俺も、救うことはできない。\r\n//ここからどう手を伸ばそうと届かない。\r\n  I cannot save them, any more than they can save themselves.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……そう。\r\n//　終わりだった。\r\n\r\n//　悪魔を模す騎体は、ばらばらのまま、地を目指して\r\n//墜落してゆく。\r\n//　……墜落、だった。降下ではない。\r\n  ...Estou vendo, caindo em pedaços em direção à terra.\r\n\r\n  Com os reservatórios de combustível totalmente esgotados, eles não têm mais meios de frear a queda. As asas e os motores agora são só peso morto, presa do faminto puxão da gravidade.\r\n\r\n//　熱量を全て使い果たしたのだ。\r\n//　<RUBY text='バレル'>合当理</RUBY>も、<RUBY text='ウイング'>翼甲</RUBY>も、こうなっては只の鉄に過ぎない。\r\n\r\n//　彼らは単純な物理法則に支配され、落ちてゆく。\r\n//　彼らは自身を救えない。俺も、救うことはできない。\r\n//ここからどう手を伸ばそうと届かない。\r\n  Não posso salvá-los, assim como eles não podem se salvar.\r\n"
  },
  {
   "offset": 2956,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0120a00'>\r\n//「……この高さでは……」\r\n\"If they crash from this height...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0120a00'>\r\n//「……この高さでは……」\r\n\"Se caírem dessa altura...\"\r\n"
  },
  {
   "offset": 3127,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0130a01'>\r\n//《助からない》\r\n《That's it.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0130a01'>\r\n//《助からない》\r\n《Não sobrevivem.》\r\n"
  },
  {
   "offset": 3270,
@@ -77,66 +77,66 @@
  {
   "offset": 3396,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0150a01'>\r\n//《あえて言うけれど、あれは全くの自滅よ。\r\n//　貴方が気に病む必要はない》\r\n《They did it to themselves, Mido. You don't have to feel guilty.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0160a01'>\r\n//《……行きましょ。\r\n//　することがあるんでしょう？》\r\n《We should go. Right?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0150a01'>\r\n//《あえて言うけれど、あれは全くの自滅よ。\r\n//　貴方が気に病む必要はない》\r\n《Vou dizer, foi pura autodestruição. Você não precisa se culpar.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/024vs0160a01'>\r\n//《……行きましょ。\r\n//　することがあるんでしょう？》\r\n《...Vamos. Temos o que fazer, não temos?》\r\n"
  },
  {
   "offset": 3877,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0170a00'>\r\n//「ああ」\r\n\"...Right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0170a00'>\r\n//「ああ」\r\n\"...É.\"\r\n"
  },
  {
   "offset": 4000,
   "en": "\r\n//　頷きつつも、俺はその空を離れられなかった。\r\n//　\r\n//　どうにも。どうしても、引っ掛かる。\r\n  And yet, I cannot turn away.\r\n\r\n  There's something else. Something I'm missing. What drove these four to such lengths?\r\n\r\n//　彼らは――何だったのか。\r\n\r\n//　解けない謎を胸に宿して、四騎の最期を見守る。\r\n//　その一騎に、視線を注ぐ。\r\n  Unbidden, my gaze fixes on the last.\r\n",
-  "pt": ""
+  "pt": "\r\n//　頷きつつも、俺はその空を離れられなかった。\r\n//　\r\n//　どうにも。どうしても、引っ掛かる。\r\n  E ainda assim, não consigo desviar o olhar.\r\n\r\n  Há algo mais. Algo que me escapa. O que teria levado esses quatro a tamanho extremo?\r\n\r\n//　彼らは――何だったのか。\r\n\r\n//　解けない謎を胸に宿して、四騎の最期を見守る。\r\n//　その一騎に、視線を注ぐ。\r\n  Sem que eu queira, meu olhar se fixa no último.\r\n"
  },
  {
   "offset": 4471,
   "en": "\r\n//　合体騎の頭部であったそれ。\r\n//　最後の突撃のためか、甲鉄のあちこちに亀裂が出来\r\n//ていた。\r\n  The monster's head. Its armor is cracked, shattered by its last desperate charge.\r\n",
-  "pt": ""
+  "pt": "\r\n//　合体騎の頭部であったそれ。\r\n//　最後の突撃のためか、甲鉄のあちこちに亀裂が出来\r\n//ていた。\r\n  A cabeça do musha combinado. Sua armadura está rachada, estilhaçada pela última carga desesperada.\r\n"
  },
  {
   "offset": 4704,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc03/024vs0180b33'>\r\n//《許さない》\r\n《I'll kill you...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc03/024vs0180b33'>\r\n//《許さない》\r\n《Vou te matar...》\r\n"
  },
  {
   "offset": 4844,
   "en": "\r\n//　脳を打つ金打声。\r\n//　これは――あの一騎から届いている。\r\n  Its voice reaches out, stabbing at my brain.\r\n",
-  "pt": ""
+  "pt": "\r\n//　脳を打つ金打声。\r\n//　これは――あの一騎から届いている。\r\n  Sua voz me alcança, perfurando meu cérebro.\r\n"
  },
  {
   "offset": 4991,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc03/024vs0190b33'>\r\n//《許さない》\r\n《I'll kill you!》\r\n\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc03/024vs0200b33'>\r\n//《絶対に許さないから》\r\n《I swear!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc03/024vs0190b33'>\r\n//《許さない》\r\n《Vou te matar!》\r\n\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc03/024vs0200b33'>\r\n//《絶対に許さないから》\r\n《Eu juro!》\r\n"
  },
  {
   "offset": 5268,
   "en": "\r\n//　甲鉄が割れる。\r\n\r\n//　<RUBY text='・・・・'>中のもの</RUBY>が現れる。\r\n  And then―its armor falls away.\r\n",
-  "pt": ""
+  "pt": "\r\n//　甲鉄が割れる。\r\n\r\n//　<RUBY text='・・・・'>中のもの</RUBY>が現れる。\r\n  E então―sua armadura se despedaça.\r\n"
  },
  {
   "offset": 5411,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0210a00'>\r\n//「――あ――」\r\n\"Ah―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0210a00'>\r\n//「――あ――」\r\n\"Ah―\"\r\n"
  },
  {
   "offset": 5539,
   "en": "\r\n//　あれ、は。\r\n\r\n//　あれは――あの少女は、\r\n  No.\r\n\r\n  No, it can't be.\r\n",
-  "pt": ""
+  "pt": "\r\n//　あれ、は。\r\n\r\n//　あれは――あの少女は、\r\n  Não.\r\n\r\n  Não, não pode ser.\r\n"
  },
  {
   "offset": 5642,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0220a00'>\r\n//「ああ……!?」\r\n\"You're...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0220a00'>\r\n//「ああ……!?」\r\n\"Você é...!\"\r\n"
  },
  {
   "offset": 5774,
   "en": "\r\n//　彼女は、\r\n\r\n//　君は――――\r\n  That's―\r\n",
-  "pt": ""
+  "pt": "\r\n//　彼女は、\r\n\r\n//　君は――――\r\n  Essa é―\r\n"
  },
  {
   "offset": 5843,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0230a00'>\r\n//「来栖野……小夏!!」\r\n\"Kurusuno... Konatsu!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/024vs0230a00'>\r\n//「来栖野……小夏!!」\r\n\"Kurusuno... Konatsu!\"\r\n"
  }
 ]

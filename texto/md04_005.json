@@ -2,21 +2,21 @@
  {
   "offset": 213,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0050010b03'>\r\n//「全方面、予定の配置を完了しました。\r\n//　現時点での損害は<RUBY text='ゼロ'>皆無</RUBY>です」\r\n\"All units have arrived at their designated holding points. Zero casualties at present.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0050010b03'>\r\n//「全方面、予定の配置を完了しました。\r\n//　現時点での損害は<RUBY text='ゼロ'>皆無</RUBY>です」\r\n\"Todas as unidades chegaram aos seus pontos de posição designados. Zero baixas no momento.\"\r\n"
  },
  {
   "offset": 544,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0050020b00'>\r\n//「良し……」\r\n\"Excellent.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0050020b00'>\r\n//「良し……」\r\n\"Excelente.\"\r\n"
  },
  {
   "offset": 690,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0050030b00'>\r\n//「夜明けと共に攻撃開始だ。\r\n//　市街地を巻き込まないよう、前線の将兵に\r\n//注意を徹底しておけ」\r\n\"We attack with the sunrise. Make sure everyone knows not to damage the city itself.\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0050040b00'>\r\n//「我々が悪者になっては何の意味もないから\r\n//な」\r\n\"We mustn't turn the people against us.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0050030b00'>\r\n//「夜明けと共に攻撃開始だ。\r\n//　市街地を巻き込まないよう、前線の将兵に\r\n//注意を徹底しておけ」\r\n\"Atacamos ao amanhecer. Certifiquem-se de que todos saibam para não danificar a própria cidade.\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0050040b00'>\r\n//「我々が悪者になっては何の意味もないから\r\n//な」\r\n\"Não podemos virar o povo contra nós.\"\r\n"
  },
  {
   "offset": 1246,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0050050b03'>\r\n//「わかっています」\r\n\"Yes, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0050050b03'>\r\n//「わかっています」\r\n\"Sim, senhor.\"\r\n"
  }
 ]

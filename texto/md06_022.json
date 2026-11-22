@@ -2,22 +2,22 @@
  {
   "offset": 213,
   "en": "\r\n//　朝の日差しを浴びて目覚めると、既に村正は傍らに\r\n//いなかった。\r\n//　代わりに、<RUBY text='まないた'>俎板</RUBY>を打つ小気味良い音が聴こえていた。\r\n  When I awaken at dawn's first light, Muramasa is gone from my bed. From the kitchen, I hear the crisp <I>thwack</I>㉗of a cleaver.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　朝の日差しを浴びて目覚めると、既に村正は傍らに\r\n//いなかった。\r\n//　代わりに、<RUBY text='まないた'>俎板</RUBY>を打つ小気味良い音が聴こえていた。\r\n  Quando desperto com a primeira luz do amanhecer, Muramasa já não está ao meu lado na cama. Da cozinha, ouço o <I>toc</I>㉗ seco de um cutelo.\r\n\r\n"
  },
  {
   "offset": 570,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220010a00'>\r\n//「……朝食を作っているのか？」\r\n\"...You're cooking?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220010a00'>\r\n//「……朝食を作っているのか？」\r\n\"...Você está cozinhando?\"\r\n"
  },
  {
   "offset": 733,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220020a01'>\r\n//「ええ。\r\n//　少し待っていて」\r\n\"That's right. I'll be done in a minute.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220020a01'>\r\n//「ええ。\r\n//　少し待っていて」\r\n\"Isso mesmo. Já termino num instante.\"\r\n"
  },
  {
   "offset": 921,
   "en": "\r\n//　<RUBY text='つきもの'>憑物</RUBY>が落ちた心地、と云うのだろうか。\r\n//　心身の軽さは、我が事ながら戸惑う程だった。\r\n  While I wait, I take stock of my condition.\r\n\r\n  I feel... relieved, as of a terrible burden. The change from my previous state is jarring.\r\n\r\n//　生きている。\r\n//　ただ、そう感じる。\r\n  Where before there was desperate, soul-searing guilt, now there is only acceptance.\r\n\r\n  I am alive―Minato Kageaki, a man like any other, and it is not for me to pass judgment upon him. That is the province of heaven, and of society, which reflects heaven's law.\r\n\r\n  I see it clearly now. In the end, it all came down to pride.\r\n\r\n//　そこに付加価値は何も無い。\r\n\r\n//　小さく。\r\n//　重からず。\r\n//　何者でもあり、何者でもなく。\r\n\r\n//　ただ生きている。\r\n\r\n//　……とどのつまり。\r\n//　自分は傲慢だったのかと、思う。\r\n\r\n//　等身大の自分自身を、今ようやく認めているのか。\r\n//　そう思う。\r\n\r\n//　――天道。\r\n//　昨夜聞いた一語を思い出す。\r\n",
-  "pt": ""
+  "pt": "\r\n//　<RUBY text='つきもの'>憑物</RUBY>が落ちた心地、と云うのだろうか。\r\n//　心身の軽さは、我が事ながら戸惑う程だった。\r\n  Enquanto espero, faço um balanço do meu estado.\r\n\r\n  Sinto-me... aliviado, como se me tivessem tirado um fardo terrível. A mudança em relação ao meu estado anterior é desconcertante.\r\n\r\n//　生きている。\r\n//　ただ、そう感じる。\r\n  Onde antes havia uma culpa desesperada que me queimava a alma, agora há apenas aceitação.\r\n\r\n  Estou vivo — Minato Kageaki, um homem como qualquer outro, e não cabe a mim julgar-me. Isso é competência do céu, e da sociedade, que reflete a lei do céu.\r\n\r\n  Agora vejo com clareza. No fim, tudo se resumia ao orgulho.\r\n\r\n//　そこに付加価値は何も無い。\r\n\r\n//　小さく。\r\n//　重からず。\r\n//　何者でもあり、何者でもなく。\r\n\r\n//　ただ生きている。\r\n\r\n//　……とどのつまり。\r\n//　自分は傲慢だったのかと、思う。\r\n\r\n//　等身大の自分自身を、今ようやく認めているのか。\r\n//　そう思う。\r\n\r\n//　――天道。\r\n//　昨夜聞いた一語を思い出す。\r\n"
  },
  {
   "offset": 2064,
@@ -27,22 +27,22 @@
  {
   "offset": 2188,
   "en": "\r\n//　人の罪業が、天、そして天を映す<RUBY text='ちじょう'>俗世</RUBY>の衆知の裁量\r\n//するところであるなら、俺自身、俺個人でそれを云々\r\n//する事こそ不遜。<k>\r\n//　――――か。\r\n  Yes, I was proud―to think that I could be more than I am, that I could decide my own worth, pronounce my own sentence.\r\n\r\n  My time will come. I am certain of it. One day I will pay for my crimes. \r\n\r\n//　おそらく……そうなのであろう。\r\n\r\n//　いずれこの身は裁かれる。\r\n//　報いの日は来ると信じる。\r\n//　\r\n//　――信じて、\r\n\r\n//　生きる。\r\n  But until that day comes, I will go on living.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　人の罪業が、天、そして天を映す<RUBY text='ちじょう'>俗世</RUBY>の衆知の裁量\r\n//するところであるなら、俺自身、俺個人でそれを云々\r\n//する事こそ不遜。<k>\r\n//　――――か。\r\n  Sim, eu era orgulhoso — por pensar que poderia ser mais do que sou, que poderia decidir meu próprio valor, proferir minha própria sentença.\r\n\r\n  Minha hora chegará. Tenho certeza disso. Um dia pagarei pelos meus crimes. \r\n\r\n//　おそらく……そうなのであろう。\r\n\r\n//　いずれこの身は裁かれる。\r\n//　報いの日は来ると信じる。\r\n//　\r\n//　――信じて、\r\n\r\n//　生きる。\r\n  Mas, até que esse dia chegue, continuarei vivendo.\r\n\r\n"
  },
  {
   "offset": 2889,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220040a00'>\r\n//（そういう事か）\r\n(Is that what it means to be human?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220040a00'>\r\n//（そういう事か）\r\n(Então é isso que significa ser humano?)\r\n"
  },
  {
   "offset": 3047,
   "en": "\r\n//　そういう事なのであろう。\r\n  It must be. \r\n\r\n//　台所からの軽快な調べに耳を委ねながら。\r\n//　俺は幸福――<k>とは、異なる。しかし平穏な、静謐な\r\n//もので内面が満たされているのを感じた。\r\n\r\n//　夏の湖水に浸かる心地で、緩やかな時を過ごす……。\r\n  With the melody of Muramasa's labors in my ears, I let myself drift as on a warm summer lake. Not content, not happy, but finally at peace. \r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　そういう事なのであろう。\r\n  Deve ser. \r\n\r\n//　台所からの軽快な調べに耳を委ねながら。\r\n//　俺は幸福――<k>とは、異なる。しかし平穏な、静謐な\r\n//もので内面が満たされているのを感じた。\r\n\r\n//　夏の湖水に浸かる心地で、緩やかな時を過ごす……。\r\n  Com a melodia do trabalho de Muramasa em meus ouvidos, deixo-me flutuar como num lago quente de verão. Não satisfeito, não feliz, mas finalmente em paz. \r\n\r\n"
  },
  {
   "offset": 3549,
   "en": "\r\n//　そうして。\r\n//　一時間が経過した。\r\n  An hour passes.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そうして。\r\n//　一時間が経過した。\r\n  Passa-se uma hora.\r\n"
  },
  {
   "offset": 3634,
@@ -52,17 +52,17 @@
  {
   "offset": 3758,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220060a00'>\r\n//「まだ……か？」\r\n\"Is everything all right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220060a00'>\r\n//「まだ……か？」\r\n\"Está tudo bem?\"\r\n"
  },
  {
   "offset": 3906,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220070a01'>\r\n//「も、もうちょっと」\r\n\"Just a minute!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220070a01'>\r\n//「も、もうちょっと」\r\n\"Só um minuto!\"\r\n"
  },
  {
   "offset": 4056,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220080a00'>\r\n//「そうか。\r\n//　いや、別に急かしたのではないから」\r\n\"There's no hurry...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220080a00'>\r\n//「そうか。\r\n//　いや、別に急かしたのではないから」\r\n\"Não há pressa...\"\r\n"
  },
  {
   "offset": 4248,
@@ -72,7 +72,7 @@
  {
   "offset": 4268,
   "en": "\r\n//　そう言えば、何処かで何かの折に聞いた事がある。\r\n  Come to think of it, I've read that the heirs to Emishi smithing clans spend their entire lives in training. This leaves little time for more mundane tasks, which are generally relegated to the lay disciples, or such servants as the family can hire.\r\n\r\n//　劒冑鍛冶の家門に生まれ、<RUBY text='な'>銘</RUBY>の継承者と見做された\r\n//者は、ごく幼少の頃からその後の生涯ほぼ全てを鍛冶\r\n//技術の修行に費やすため――\r\n//　他の諸事を学ぶゆとりは皆無に等しく。\r\n\r\n//　日常生活の雑事は門弟、下人らに任せ切りになる。\r\n//　\r\n//　…………と。\r\n",
-  "pt": ""
+  "pt": "\r\n//　そう言えば、何処かで何かの折に聞いた事がある。\r\n  Pensando bem, li que os herdeiros dos clãs de ferreiros de Emishi passam a vida inteira em treinamento. Isso lhes deixa pouco tempo para tarefas mais mundanas, geralmente delegadas aos discípulos leigos ou aos servos que a família consiga contratar.\r\n\r\n//　劒冑鍛冶の家門に生まれ、<RUBY text='な'>銘</RUBY>の継承者と見做された\r\n//者は、ごく幼少の頃からその後の生涯ほぼ全てを鍛冶\r\n//技術の修行に費やすため――\r\n//　他の諸事を学ぶゆとりは皆無に等しく。\r\n\r\n//　日常生活の雑事は門弟、下人らに任せ切りになる。\r\n//　\r\n//　…………と。\r\n"
  },
  {
   "offset": 4999,
@@ -82,22 +82,22 @@
  {
   "offset": 5117,
   "en": "\r\n//　以上を踏まえて考えてみる。\r\n\r\n//　村正は果たして、<RUBY text='・・・・・・・・・・・・・・'>料理をした事があるのだろうか</RUBY>？\r\n  Which raises the question. Does Muramasa even know㉑<I>how</I> to cook? \r\n",
-  "pt": ""
+  "pt": "\r\n//　以上を踏まえて考えてみる。\r\n\r\n//　村正は果たして、<RUBY text='・・・・・・・・・・・・・・'>料理をした事があるのだろうか</RUBY>？\r\n  O que levanta a questão. Será que Muramasa sequer sabe㉑<I>como</I> cozinhar? \r\n"
  },
  {
   "offset": 5391,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220100a00'>\r\n//「……音が……」\r\n\"What is that noise?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220100a00'>\r\n//「……音が……」\r\n\"Que barulho é esse?\"\r\n"
  },
  {
   "offset": 5534,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220110a01'>\r\n//「もう少し。もう少しね」\r\n\"Almost done! Almost!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220110a01'>\r\n//「もう少し。もう少しね」\r\n\"Quase pronto! Quase!\"\r\n"
  },
  {
   "offset": 5696,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220120a00'>\r\n//「あ、ああ」\r\n\"If you say so...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220120a00'>\r\n//「あ、ああ」\r\n\"Se você diz...\"\r\n"
  },
  {
   "offset": 5830,
@@ -107,32 +107,32 @@
  {
   "offset": 5954,
   "en": "\r\n//　この家の台所に斧やハンマーの用意は無かった筈だ\r\n//が……。\r\n  I'm certain there were no axes or hammers in the kitchen the last time I checked...\r\n",
-  "pt": ""
+  "pt": "\r\n//　この家の台所に斧やハンマーの用意は無かった筈だ\r\n//が……。\r\n  Tenho certeza de que não havia machados nem martelos na cozinha da última vez que verifiquei...\r\n"
  },
  {
   "offset": 6143,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220140a01'>\r\n//「もう少し！」\r\n\"Almost done!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220140a01'>\r\n//「もう少し！」\r\n\"Quase pronto!\"\r\n"
  },
  {
   "offset": 6282,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220150a00'>\r\n//「……ガトリングガン……？」\r\n\"Is that a gatling gun?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220150a00'>\r\n//「……ガトリングガン……？」\r\n\"Isso é uma metralhadora Gatling?\"\r\n"
  },
  {
   "offset": 6446,
   "en": "\r\n//　いや削岩機か……？\r\n  Or a jackhammer? What?\r\n",
-  "pt": ""
+  "pt": "\r\n//　いや削岩機か……？\r\n  Ou um martelo pneumático? Como assim?\r\n"
  },
  {
   "offset": 6516,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220160a01'>\r\n//《すぐ！　すぐだから！》\r\n《Almost done! I promise!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220160a01'>\r\n//《すぐ！　すぐだから！》\r\n《Quase pronto! Prometo!》\r\n"
  },
  {
   "offset": 6685,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220170a00'>\r\n//「ああ……」\r\n\"All right...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220170a00'>\r\n//「ああ……」\r\n\"Está bem...\"\r\n"
  },
  {
   "offset": 6815,
@@ -142,26 +142,26 @@
  {
   "offset": 6939,
   "en": "\r\n//　今、八本の<RUBY text='あし'>節足</RUBY>に鍋と包丁とおたまとその他諸々を\r\n//持った馴染み深いでっかい蜘蛛が視界を<RUBY text='よ'>過</RUBY>ぎったよう\r\n//に思えたが……無論、錯覚であろう。\r\n//　俺の知る限り、料理には二本の腕で足りる筈である。\r\n  For a moment there, I could have sworn I saw a giant spider run past, pots and cleavers of varying size clutched in each of its eight limbs.\r\n\r\n  But of course, it had to be my imagination. One needs only two limbs to cook.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　今、八本の<RUBY text='あし'>節足</RUBY>に鍋と包丁とおたまとその他諸々を\r\n//持った馴染み深いでっかい蜘蛛が視界を<RUBY text='よ'>過</RUBY>ぎったよう\r\n//に思えたが……無論、錯覚であろう。\r\n//　俺の知る限り、料理には二本の腕で足りる筈である。\r\n  Por um instante, jurei ter visto uma aranha gigante passar correndo, com panelas e cutelos de tamanhos variados presos em cada um dos seus oito membros.\r\n\r\n  Mas é claro, devia ser imaginação minha. Só são necessários dois membros para cozinhar.\r\n\r\n"
  },
  {
   "offset": 7515,
   "en": "\r\n//　……………………。\r\n//\r\n//　ようやく終わったか……。\r\n  At last the noises cease. It's over.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……………………。\r\n//\r\n//　ようやく終わったか……。\r\n  Por fim, os barulhos cessam. Acabou.\r\n"
  },
  {
   "offset": 7646,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220190a01'>\r\n//《……<RUBY text='おわりをはじめる'>蒐窮開闢</RUBY>。<RUBY text='しをおこなう'>終焉執行</RUBY>。<RUBY text='そらをあらわす'>虚無発現</RUBY>……》\r\n《The end begins. Death awakens. The void opens wide.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0220190a01'>\r\n//《……<RUBY text='おわりをはじめる'>蒐窮開闢</RUBY>。<RUBY text='しをおこなう'>終焉執行</RUBY>。<RUBY text='そらをあらわす'>虚無発現</RUBY>……》\r\n《O fim tem início. A morte desperta. O vazio se escancara.》\r\n"
  },
  {
   "offset": 7993,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220200a00'>\r\n//「何故だァァァ!?」\r\n\"YOU'VE GOT TO BE KIDDING ME!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0220200a00'>\r\n//「何故だァァァ!?」\r\n\"VOCÊ ESTÁ DE BRINCADEIRA COMIGO!\"\r\n"
  },
  {
   "offset": 8147,
   "en": "\r\n//　……結局俺が手伝い、朝食というより少し早い昼食\r\n//になった。\r\n  In the end, it takes my intervention, but we manage to salvage something from the wreckage in time for an early lunch.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……結局俺が手伝い、朝食というより少し早い昼食\r\n//になった。\r\n  No fim, é preciso que eu interfira, mas conseguimos salvar algo dos destroços a tempo de um almoço mais cedo.\r\n"
  }
 ]

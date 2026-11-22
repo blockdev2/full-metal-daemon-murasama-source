@@ -2,37 +2,37 @@
  {
   "offset": 215,
   "en": "\r\n//　――――来る!!\r\n  Here it comes!\r\n",
-  "pt": ""
+  "pt": "\r\n//　――――来る!!\r\n  Lá vem!\r\n"
  },
  {
   "offset": 270,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/041vs0010a00'>\r\n//（躱した！）\r\n(We made it!)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/041vs0010a00'>\r\n//（躱した！）\r\n(Conseguimos!)\r\n"
  },
  {
   "offset": 401,
   "en": "\r\n//　射撃瞬間の察知に成功。\r\n//　射線から――<RUBY text='おのれ'>自騎</RUBY>を外す！\r\n  Shifting course at precisely the moment he fires, I remove myself from the crossbow bolt's path.\r\n\r\n//　これで、勝てる、<k>\r\n//　\r\n//　\r\n//　　　　　　　　　　　　　　　　　　　その一瞬。\r\n  He's mine!\r\n",
-  "pt": ""
+  "pt": "\r\n//　射撃瞬間の察知に成功。\r\n//　射線から――<RUBY text='おのれ'>自騎</RUBY>を外す！\r\n  Mudando de curso no exato momento em que ele dispara, saio da trajetória do virote da besta.\r\n\r\n//　これで、勝てる、<k>\r\n//　\r\n//　\r\n//　　　　　　　　　　　　　　　　　　　その一瞬。\r\n  Ele é meu!\r\n"
  },
  {
   "offset": 764,
   "en": "\r\n//　音速の風の中に、<RUBY text='とな'>唱</RUBY>われる<RUBY text='ノロイ'>呪句</RUBY>を聴いた。\r\n  But then, across the shattered sound barrier, I hear a terrible verse. \r\n",
-  "pt": ""
+  "pt": "\r\n//　音速の風の中に、<RUBY text='とな'>唱</RUBY>われる<RUBY text='ノロイ'>呪句</RUBY>を聴いた。\r\n  Mas então, através da barreira do som despedaçada, ouço um verso terrível.\r\n"
  },
  {
   "offset": 970,
   "en": "\r\n \r\n<I><center>The Paradox of Tell and the Apple</I>\r\n \r\n",
-  "pt": ""
+  "pt": "\r\n \r\n<I><center>O Paradoxo de Tell e a Maçã</I>\r\n \r\n"
  },
  {
   "offset": 1036,
   "en": "\r\n//　……それは多くの哲学者を苦悩させた<RUBY text='パラドックス'>背理</RUBY>。\r\n//　広く知られるアキレスと亀の背理に近しいもの。\r\n  Long ago, a philosopher named Zeno devised a legendary paradox. While he used the story of Achilles and the tortoise to illustrate his argument, here, it is a slightly more modern example that applies best to the setting.\r\n\r\n\r\n//　テルと林檎の背理。\r\n//　テルの弓から放たれた矢は林檎まで到達しない――\r\n//何故なら矢はまず弓と林檎の中間点Ａに到達する必要\r\n//がある。\r\n  William Tell fires an arrow at the apple on his son's head. Before it gets there, however, it must pass through point A, located somewhere between Tell and his target.\r\n\r\n  And of course, before it can reach point A, it also has to reach point B, point C, point D, and so on.\r\n\r\n//　Ａ点に到達するため、まずはＡ点と弓の中間点Ｂに\r\n//到達しなくてはならない。\r\n//　Ｂ点に到達するには、まずＢ点と弓の中間点Ｃまで\r\n//到達せねばならない……\r\n\r\n//　このように、通過すべき中間点は無限に設定される。\r\n//　従って、無限の点を通過せねばならない矢は決して\r\n//目標まで到達し得ない。\r\n  The arrow, therefore, will never reach its target, for in order to do so, it must first pass through an infinite number of points.\r\n\r\n//　現実の事象に背く理論。\r\n//　\r\n//　この名詭弁の巧妙さは、我々の世界が<RUBY text='・・'>観測</RUBY>によって\r\n//成立するという点を無視しているところにある。\r\n  This paradox is refuted by observable reality, but that is precisely what makes it so compelling.\r\n\r\n\r\n//　<RUBY text='・・'>無限</RUBY>の中間点を観測し、矢がその一点一点を通過し\r\n//てゆく<RUBY text='・・'>無限</RUBY>の瞬間をも観測する者がいるならば、その\r\n//者にとって背理は真実となるだろう。\r\n//　だがそんな観測者はこの世界に存在しない。\r\n  For if ever there were someone who could㉗<I>observe</I> the infinite points, each in the unimaginable nothingness of time that the arrow passes through it...<K> then for that person, the paradox would be reality, and reality the fiction.\r\n\r\n  But such a person does not exist.\r\n\r\n//　する筈がないのだ――――\r\n  Such a person㉓<I>cannot</I>㉑exist.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　……それは多くの哲学者を苦悩させた<RUBY text='パラドックス'>背理</RUBY>。\r\n//　広く知られるアキレスと亀の背理に近しいもの。\r\n  Há muito tempo, um filósofo chamado Zenão concebeu um paradoxo lendário. Embora usasse a história de Aquiles e a tartaruga para ilustrar seu argumento, aqui é um exemplo um pouco mais moderno que se aplica melhor ao contexto.\r\n\r\n\r\n//　テルと林檎の背理。\r\n//　テルの弓から放たれた矢は林檎まで到達しない――\r\n//何故なら矢はまず弓と林檎の中間点Ａに到達する必要\r\n//がある。\r\n  William Tell dispara uma flecha contra a maçã sobre a cabeça do filho. Antes de chegar lá, porém, ela precisa passar pelo ponto A, situado em algum lugar entre Tell e seu alvo.\r\n\r\n  E, é claro, antes de alcançar o ponto A, ela também precisa alcançar o ponto B, o ponto C, o ponto D, e assim por diante.\r\n\r\n//　Ａ点に到達するため、まずはＡ点と弓の中間点Ｂに\r\n//到達しなくてはならない。\r\n//　Ｂ点に到達するには、まずＢ点と弓の中間点Ｃまで\r\n//到達せねばならない……\r\n\r\n//　このように、通過すべき中間点は無限に設定される。\r\n//　従って、無限の点を通過せねばならない矢は決して\r\n//目標まで到達し得ない。\r\n  A flecha, portanto, jamais alcançará seu alvo, pois, para isso, precisa primeiro atravessar um número infinito de pontos.\r\n\r\n//　現実の事象に背く理論。\r\n//　\r\n//　この名詭弁の巧妙さは、我々の世界が<RUBY text='・・'>観測</RUBY>によって\r\n//成立するという点を無視しているところにある。\r\n  Esse paradoxo é refutado pela realidade observável, mas é justamente isso que o torna tão fascinante.\r\n\r\n\r\n//　<RUBY text='・・'>無限</RUBY>の中間点を観測し、矢がその一点一点を通過し\r\n//てゆく<RUBY text='・・'>無限</RUBY>の瞬間をも観測する者がいるならば、その\r\n//者にとって背理は真実となるだろう。\r\n//　だがそんな観測者はこの世界に存在しない。\r\n  Pois, se algum dia houvesse alguém capaz de㉗<I>observar</I> os pontos infinitos, cada um no nada inimaginável do tempo que a flecha atravessa ao passar por ele...<K> então, para essa pessoa, o paradoxo seria a realidade, e a realidade, a ficção.\r\n\r\n  Mas tal pessoa não existe.\r\n\r\n//　する筈がないのだ――――\r\n  Tal pessoa㉓<I>não pode</I>㉑existir.\r\n\r\n"
  },
  {
   "offset": 3520,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/041vs0020a03'>\r\n//「ゲェェァァァーーハハハハハハハハハハハ!!」\r\n\"GEEEEEEEEEEEEAAAAAAH HHHHHHHHHHHHHHHH!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/041vs0020a03'>\r\n//「ゲェェァァァーーハハハハハハハハハハハ!!」\r\n\"GUEEEEEEEEEEEEAAAAAAH HAHAHAHAHAHAHAHAHAHAHAHA!\"\r\n"
  },
  {
   "offset": 3734,
@@ -42,6 +42,6 @@
  {
   "offset": 3857,
   "en": "\r\n//　矢が、\r\n//　\r\n//　　　　　　　　　　　　――――曲がった？\r\n  Did that arrow just turn!?\r\n",
-  "pt": ""
+  "pt": "\r\n//　矢が、\r\n//　\r\n//　　　　　　　　　　　　――――曲がった？\r\n  Aquela flecha acabou de desviar?!\r\n"
  }
 ]

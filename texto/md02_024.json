@@ -2,16 +2,16 @@
  {
   "offset": 213,
   "en": "\r\n//\tSetFwC('cg/fw/fw光_通常b.png');\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0240010a14'>\r\n//「違うドラマが始まってしまったな」\r\n\"Not quite the development I was hoping for.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//\tSetFwC('cg/fw/fw光_通常b.png');\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0240010a14'>\r\n//「違うドラマが始まってしまったな」\r\nNão é bem o desenrolar que eu esperava.\r\n"
  },
  {
   "offset": 437,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0240020a07'>\r\n//「狙った方向性は何となくわかるんスけどね。\r\n//　ちょっと極端過ぎたのが敗因ですかね」\r\n\"I get where you were going with that, but I think you tried a㉓<I>little</I>㉓too hard.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0240020a07'>\r\n//「狙った方向性は何となくわかるんスけどね。\r\n//　ちょっと極端過ぎたのが敗因ですかね」\r\nEntendo aonde você queria chegar, mas acho que você forçou um㉓<I>pouco</I>㉓a barra.\r\n"
  },
  {
   "offset": 759,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0240030a14'>\r\n//「うぅむ。\r\n//　ならば、こうだ！」\r\n\"Damn... Then how about this!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0240030a14'>\r\n//「うぅむ。\r\n//　ならば、こうだ！」\r\nDroga... Então que tal assim!\r\n"
  }
 ]

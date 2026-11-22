@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290010a03'>\r\n//「……部下を困らせてはいけませんことよ、\r\n//ウィロー少将。\r\n//　上位命令には逆らえない。それが組織人の\r\n//宿命なんですもの」\r\n\"Come now, General. You mustn't make things difficult for the boy. He's merely following orders from a higher authority, as is the duty of us all.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290010a03'>\r\n//「……部下を困らせてはいけませんことよ、\r\n//ウィロー少将。\r\n//　上位命令には逆らえない。それが組織人の\r\n//宿命なんですもの」\r\n\"Ora, General. Não se deve dificultar a vida do rapaz. Ele apenas cumpre ordens de uma autoridade superior, como é o dever de todos nós.\"\r\n"
  },
  {
   "offset": 647,
@@ -17,27 +17,27 @@
  {
   "offset": 925,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290040b00'>\r\n//「……キャノン中佐。\r\n//　彼女らは」\r\n\"Colonel. Aren't they...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290040b00'>\r\n//「……キャノン中佐。\r\n//　彼女らは」\r\n\"Coronel. Não são elas...\"\r\n"
  },
  {
   "offset": 1118,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290050b03'>\r\n//「ええ。\r\n//　大鳥香奈枝大尉と、永倉さよ軍属です」\r\n\"Yes. Captain Otori Kanae and Nagakura Sayo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290050b03'>\r\n//「ええ。\r\n//　大鳥香奈枝大尉と、永倉さよ軍属です」\r\n\"Sim. A capitã Otori Kanae e Nagakura Sayo.\"\r\n"
  },
  {
   "offset": 1352,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290060b00'>\r\n//「大尉に軍属。\r\n//　しかも頭に<RUBY text='・'>元</RUBY>が付くな？」\r\n\"I see... But not a captain any more, is she?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290060b00'>\r\n//「大尉に軍属。\r\n//　しかも頭に<RUBY text='・'>元</RUBY>が付くな？」\r\n\"Entendo... Mas ela já não é mais capitã, é?\"\r\n"
  },
  {
   "offset": 1602,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290070b03'>\r\n//「はい」\r\n\"No, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290070b03'>\r\n//「はい」\r\n\"Não, senhor.\"\r\n"
  },
  {
   "offset": 1740,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290080b00'>\r\n//「……何が上位命令だと？」\r\n\"Are you taking her orders now, Corporal?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290080b00'>\r\n//「……何が上位命令だと？」\r\n\"Agora é você quem recebe ordens dela, cabo?\"\r\n"
  },
  {
   "offset": 1937,
@@ -47,32 +47,32 @@
  {
   "offset": 2107,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290100a03'>\r\n//「あら。階級、取り上げられてましたの？\r\n//　せっかくご厚遇頂いたのに」\r\n\"Oh. Am I not a captain anymore? And I did so enjoy the privilege of rank.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290100a03'>\r\n//「あら。階級、取り上げられてましたの？\r\n//　せっかくご厚遇頂いたのに」\r\n\"Ah. Então não sou mais capitã? E eu gostava tanto do privilégio do posto.\"\r\n"
  },
  {
   "offset": 2392,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290110b03'>\r\n//「……確かに俺は君を厚遇した、元大尉。\r\n//　大きな期待を寄せていた……」\r\n\"I do like to think I treated you well. I hoped that you would prove worthy of my trust.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290110b03'>\r\n//「……確かに俺は君を厚遇した、元大尉。\r\n//　大きな期待を寄せていた……」\r\n\"Gosto de pensar que a tratei bem. Eu esperava que se mostrasse digna da minha confiança.\"\r\n"
  },
  {
   "offset": 2703,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290120b03'>\r\n//「しかし、君は期待に背いた。\r\n//　無断で軍を離れ――つまりは脱走した」\r\n\"Instead, you repay me by going AWOL. You're a deserter.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290120b03'>\r\n//「しかし、君は期待に背いた。\r\n//　無断で軍を離れ――つまりは脱走した」\r\n\"Em vez disso, você me retribui desertando. É uma desertora.\"\r\n"
  },
  {
   "offset": 2979,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290130b03'>\r\n//「……ぶっちゃけて訊くがな。\r\n//　今更、どの面下げて戻って来たんだ？」\r\n\"So tell me, miss. Why shouldn't I clap you in irons?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290130b03'>\r\n//「……ぶっちゃけて訊くがな。\r\n//　今更、どの面下げて戻って来たんだ？」\r\n\"Então me diga, senhorita. Por que eu não deveria acorrentá-la?\"\r\n"
  },
  {
   "offset": 3252,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290140a03'>\r\n//「お怒りはごもっとも。\r\n//　本当にご迷惑をおかけしてしまって」\r\n\"You have every right to be angry, Colonel. I do regret the trouble I caused you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290140a03'>\r\n//「お怒りはごもっとも。\r\n//　本当にご迷惑をおかけしてしまって」\r\n\"Toda razão tem para estar irritado, Coronel. Lamento muito o transtorno que lhe causei.\"\r\n"
  },
  {
   "offset": 3532,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0290150a04'>\r\n//「せめてものお詫びに、これをどうぞ。\r\n//　旅先で買い求めた銘菓でございます」\r\n\"Please accept these chocolates as a token of apology. A small souvenir of our travels.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0290150a04'>\r\n//「せめてものお詫びに、これをどうぞ。\r\n//　旅先で買い求めた銘菓でございます」\r\n\"Por favor, aceite estes chocolates como pedido de desculpas. Uma pequena lembrança de nossas viagens.\"\r\n"
  },
  {
   "offset": 3830,
@@ -82,22 +82,22 @@
  {
   "offset": 3972,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290170b00'>\r\n//「……何なんだ、一体」\r\n\"...What the devil is going on here?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290170b00'>\r\n//「……何なんだ、一体」\r\n\"...Que diabo está acontecendo aqui?\"\r\n"
  },
  {
   "offset": 4158,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0290180a04'>\r\n//「心ばかりの土産物でございますが」\r\n\"A traditional exchange of gifts, General.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0290180a04'>\r\n//「心ばかりの土産物でございますが」\r\n\"Uma troca tradicional de presentes, General.\"\r\n"
  },
  {
   "offset": 4350,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290190b00'>\r\n//「そんなことは訊いとらん！\r\n//　お前らは何をしに来たのかと――」\r\n\"That's not what I'm asking! Why are you㉓<I>here!?</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290190b00'>\r\n//「そんなことは訊いとらん！\r\n//　お前らは何をしに来たのかと――」\r\n\"Não é isso que eu estou perguntando! Por que vocês estão㉓<I>aqui!?</I>\"\r\n"
  },
  {
   "offset": 4617,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290200b00'>\r\n//「いや、いい！　付き合っていられるか！\r\n//　中佐、さっさとこの二人を逮捕して、私の\r\n//前から追い払ってくれ。処分は任せる」\r\n\"No. Never mind! I don't have time for this nonsense! Get the MPs, Colonel. Take them away. I'll let you handle the executions.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290200b00'>\r\n//「いや、いい！　付き合っていられるか！\r\n//　中佐、さっさとこの二人を逮捕して、私の\r\n//前から追い払ってくれ。処分は任せる」\r\n\"Não. Deixa pra lá! Não tenho tempo para essas bobagens! Chame a Polícia Militar, Coronel. Leve-as daqui. Deixo as execuções a seu critério.\"\r\n"
  },
  {
   "offset": 5040,
@@ -107,22 +107,22 @@
  {
   "offset": 5182,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290220b00'>\r\n//「キャノン！」\r\n\"Clive!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290220b00'>\r\n//「キャノン！」\r\n\"Clive!\"\r\n"
  },
  {
   "offset": 5327,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290230b03'>\r\n//「……<RUBY text='マーミット'>鉄鍋型</RUBY>……チョコレート……」\r\n\"Marmite chocolates...\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290240b03'>\r\n//「<RUBY text='・・・・・・・・'>ジュネーヴの名物</RUBY>、か……」\r\n\"Made in㉗<I>Geneva.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290230b03'>\r\n//「……<RUBY text='マーミット'>鉄鍋型</RUBY>……チョコレート……」\r\n\"Chocolates Marmite...\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290240b03'>\r\n//「<RUBY text='・・・・・・・・'>ジュネーヴの名物</RUBY>、か……」\r\n\"Feitos em㉗<I>Genebra.</I>\"\r\n"
  },
  {
   "offset": 5774,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290250b00'>\r\n//「……何？」\r\n\"...Geneva?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290250b00'>\r\n//「……何？」\r\n\"...Genebra?\"\r\n"
  },
  {
   "offset": 5920,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290260b03'>\r\n//「やってくれたな。\r\n//　大鳥香奈枝」\r\n\"So. It was you, Otori Kanae.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290260b03'>\r\n//「やってくれたな。\r\n//　大鳥香奈枝」\r\n\"Então. Foi você, Otori Kanae.\"\r\n"
  },
  {
   "offset": 6118,
@@ -132,47 +132,47 @@
  {
   "offset": 6251,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290280b03'>\r\n//「全て、君か」\r\n\"Everything that happened...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290280b03'>\r\n//「全て、君か」\r\n\"Tudo o que aconteceu...\"\r\n"
  },
  {
   "offset": 6417,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290290b03'>\r\n//「鍛造雷弾が使えなかったのも……」\r\n\"You're why they wouldn't give us the bomb.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290290b03'>\r\n//「鍛造雷弾が使えなかったのも……」\r\n\"Foi por sua causa que eles não nos deram a bomba.\"\r\n"
  },
  {
   "offset": 6628,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290300a03'>\r\n//「はい」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290300a03'>\r\n//「はい」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 6753,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290310b03'>\r\n//「……愚痴だが、言わずにはいられないな。\r\n//　江ノ島でジョージを失ったのが痛かった。\r\n//彼のサポートがあれば、俺はもう少し周りに\r\n//目を配れた」\r\n\"...I'm not normally given to excuses, but just this once, I'll make an exception.\r\n  Losing George on Enoshima... that was a savage blow. With his help, I could have spent more time tying up loose ends.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290310b03'>\r\n//「……愚痴だが、言わずにはいられないな。\r\n//　江ノ島でジョージを失ったのが痛かった。\r\n//彼のサポートがあれば、俺はもう少し周りに\r\n//目を配れた」\r\n\"...Normalmente não sou de dar desculpas, mas só desta vez vou abrir uma exceção.\r\n  Perder o George em Enoshima... foi um golpe brutal. Com a ajuda dele, eu teria tido mais tempo para amarrar as pontas soltas.\"\r\n"
  },
  {
   "offset": 7283,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290320b03'>\r\n//「君の失踪に関する調査を人任せにすること\r\n//はなかった……」\r\n\"I would not have had to leave your disappearance for others to investigate.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290320b03'>\r\n//「君の失踪に関する調査を人任せにすること\r\n//はなかった……」\r\n\"Não teria precisado deixar que outros investigassem seu desaparecimento.\"\r\n"
  },
  {
   "offset": 7564,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290330a03'>\r\n//「そうでしょうね。\r\n//　本当にこの世の中、何が災いして何が幸い\r\n//するかわからないものです」\r\n\"Things would have been very different, I'm sure. Truly, you never know what might come back to haunt―or help you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290330a03'>\r\n//「そうでしょうね。\r\n//　本当にこの世の中、何が災いして何が幸い\r\n//するかわからないものです」\r\n\"As coisas teriam sido muito diferentes, tenho certeza. É verdade: nunca se sabe o que pode voltar para assombrá-lo―ou ajudá-lo.\"\r\n"
  },
  {
   "offset": 7922,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290340b03'>\r\n//「……ああ。本当に」\r\n\"...Truly.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0290340b03'>\r\n//「……ああ。本当に」\r\n\"...De fato.\"\r\n"
  },
  {
   "offset": 8079,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290350b00'>\r\n//「中佐？\r\n//　ど、どういうことだ？」\r\n\"Colonel? What's going on here?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290350b00'>\r\n//「中佐？\r\n//　ど、どういうことだ？」\r\n\"Coronel? O que está acontecendo aqui?\"\r\n"
  },
  {
   "offset": 8279,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290360b00'>\r\n//「どういうことなんだっ!?」\r\n\"Speak to me, dammit!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290360b00'>\r\n//「どういうことなんだっ!?」\r\n\"Fale comigo, caramba!\"\r\n"
  },
  {
   "offset": 8455,
@@ -182,7 +182,7 @@
  {
   "offset": 8597,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290380b25'>\r\n//「理解する努力をしてから訊きたまえ。\r\n//　人の話に良く耳を傾けるのは君の美点だが、\r\n//時として頼り過ぎるきらいがある」\r\n\"You should try to arrive at the answer yourself before demanding an explanation. I've always admired your willingness to listen, but that's no substitute for independent thought.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290390b25'>\r\n//「長所も度を越せば欠点なのだよ」\r\n\"One can have too much of a good thing, yes?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290380b25'>\r\n//「理解する努力をしてから訊きたまえ。\r\n//　人の話に良く耳を傾けるのは君の美点だが、\r\n//時として頼り過ぎるきらいがある」\r\n\"Você deveria tentar chegar à resposta por conta própria antes de exigir uma explicação. Sempre admirei sua disposição para ouvir, mas isso não substitui o pensamento independente.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290390b25'>\r\n//「長所も度を越せば欠点なのだよ」\r\n\"Até o que é bom em excesso faz mal, não é?\"\r\n"
  },
  {
   "offset": 9255,
@@ -192,57 +192,57 @@
  {
   "offset": 9397,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290410b00'>\r\n//「あ、あなたは」\r\n\"<I>You!</I>\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290420b00'>\r\n//「なぜ……どうして……」\r\n\"Why are you―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290410b00'>\r\n//「あ、あなたは」\r\n\"<I>Você!</I>\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290420b00'>\r\n//「なぜ……どうして……」\r\n\"Por que você―\"\r\n"
  },
  {
   "offset": 9710,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290430b25'>\r\n//「まずは名乗ろう」\r\n\"I should introduce myself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290430b25'>\r\n//「まずは名乗ろう」\r\n\"Permita-me apresentar-me.\"\r\n"
  },
  {
   "offset": 9875,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290440a03'>\r\n//「いえいえ伯爵。\r\n//　皆さん、知己の方々ばかりですから」\r\n\"That's hardly necessary, Your Grace. I believe we all know each other.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290440a03'>\r\n//「いえいえ伯爵。\r\n//　皆さん、知己の方々ばかりですから」\r\n\"Isso não será necessário, Vossa Graça. Creio que todos aqui já nos conhecemos.\"\r\n"
  },
  {
   "offset": 10136,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290450b25'>\r\n//「だが、名乗ろう！」\r\n\"I should introduce myself anyway!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290450b25'>\r\n//「だが、名乗ろう！」\r\n\"Mas vou me apresentar mesmo assim!\"\r\n"
  },
  {
   "offset": 10311,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290460a03'>\r\n//「はぁ」\r\n\"As you wish...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290460a03'>\r\n//「はぁ」\r\n\"Como quiser...\"\r\n"
  },
  {
   "offset": 10446,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290470b25'>\r\n//「ルービィ・サシュアントだ」\r\n\"I am Ruby Sarchant!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290470b25'>\r\n//「ルービィ・サシュアントだ」\r\n\"Eu sou Ruby Sarchant!\"\r\n"
  },
  {
   "offset": 10619,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290480a03'>\r\n//「はい。\r\n//　では――」\r\n\"Very good, Your Grace. Now if you'll―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290480a03'>\r\n//「はい。\r\n//　では――」\r\n\"Muito bem, Vossa Graça. Agora, se me dá licença―\"\r\n"
  },
  {
   "offset": 10801,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290490b25'>\r\n//「もう一度名乗ろう」\r\n\"I should introduce myself again.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290490b25'>\r\n//「もう一度名乗ろう」\r\n\"Vou me apresentar mais uma vez.\"\r\n"
  },
  {
   "offset": 10975,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290500b25'>\r\n//「ルゥゥゥビィィィィ・サシュアントだ」\r\n\"Ruuuuuubyyyyyy! Sarchant!\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290510b25'>\r\n//「そして最後にもう一回！」\r\n\"Once more!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290500b25'>\r\n//「ルゥゥゥビィィィィ・サシュアントだ」\r\n\"Rubyyyyy! Sarchant!\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290510b25'>\r\n//「そして最後にもう一回！」\r\n\"Mais uma vez!\"\r\n"
  },
  {
   "offset": 11322,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290520b25'>\r\n//「ルゥゥゥゥゥゥゥッッビィィィィィィィ・\r\n//サッッシュアァァァァァァァァンンンンン!!」\r\n\"RUUUUBYYYYYYYYYYYYY! SAAAARCHAAAAAAAAAAAA―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290520b25'>\r\n//「ルゥゥゥゥゥゥゥッッビィィィィィィィ・\r\n//サッッシュアァァァァァァァァンンンンン!!」\r\n\"RUUUUBYYYYYYYYYYYYY! SAAAARCHAAAAAAAAAAAA―\"\r\n"
  },
  {
   "offset": 11604,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290530b25'>\r\n//「トだ」\r\n\"―NT!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290530b25'>\r\n//「トだ」\r\n\"―NT!\"\r\n"
  },
  {
   "offset": 11734,
@@ -252,57 +252,57 @@
  {
   "offset": 11867,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0290550a04'>\r\n//「お嬢さま、どうかご自重を。\r\n//　右手の形がツッコミチョップ寸前でござい\r\n//ますぞ」\r\n\"Be careful, Mistress. You're dangerously close to delivering a comedic head chop.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0290550a04'>\r\n//「お嬢さま、どうかご自重を。\r\n//　右手の形がツッコミチョップ寸前でござい\r\n//ますぞ」\r\n\"Cuidado, Senhorita. A senhora está perigosamente perto de dar uma pancada cômica na cabeça.\"\r\n"
  },
  {
   "offset": 12170,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290560a03'>\r\n//「こほん。\r\n//　……よろしいでしょうか、伯爵？」\r\n\"...Ahem. May I proceed, Your Grace?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290560a03'>\r\n//「こほん。\r\n//　……よろしいでしょうか、伯爵？」\r\n\"...Cof. Posso prosseguir, Vossa Graça?\"\r\n"
  },
  {
   "offset": 12384,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290570b25'>\r\n//「うむ。\r\n//　始めてくれたまえ」\r\n\"Oh, yes. Please do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290570b25'>\r\n//「うむ。\r\n//　始めてくれたまえ」\r\n\"Ah, sim. Por favor, prossiga.\"\r\n"
  },
  {
   "offset": 12561,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290580a03'>\r\n//「そういうわけで、ＧＨＱのお三方。\r\n//　こちらは国際連盟事務局次長、ルービィ・\r\n//サシュアント卿――」\r\n\"Now, as we're all aware, this is Count Ruby Sarchant, the League of Nations General Undersecretary.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290590a03'>\r\n//「国連本部の全権代理として、ただいま大和\r\n//に着任なさいました」\r\n\"He is here on behalf of the General Assembly, to act as its representative <I>plenipotentiary.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290580a03'>\r\n//「そういうわけで、ＧＨＱのお三方。\r\n//　こちらは国際連盟事務局次長、ルービィ・\r\n//サシュアント卿――」\r\n\"Agora, como todos sabemos, este é o conde Ruby Sarchant, subsecretário-geral da Liga das Nações.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290590a03'>\r\n//「国連本部の全権代理として、ただいま大和\r\n//に着任なさいました」\r\n\"Ele está aqui em nome da Assembleia Geral, para atuar como seu representante <I>plenipotenciário.</I>\"\r\n"
  },
  {
   "offset": 13211,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290600b00'>\r\n//「……全権、代理……!?」\r\n\"Plenipotentiary!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290600b00'>\r\n//「……全権、代理……!?」\r\n\"Plenipotenciário!?\"\r\n"
  },
  {
   "offset": 13381,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290610a03'>\r\n//「はい。\r\n//　……意味の説明は不要ですね？　少将閣下」\r\n\"Yes. You don't need me to explain what that means, do you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290610a03'>\r\n//「はい。\r\n//　……意味の説明は不要ですね？　少将閣下」\r\n\"Sim. O senhor não precisa que eu explique o que isso significa, precisa?\"\r\n"
  },
  {
   "offset": 13627,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290620b00'>\r\n//「ふ――ふざけるな！\r\n//　そんなものを突然寄越されてたまるか！」\r\n\"Th- This is an outrage! You can't just show up out of nowhere and assert authority!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290620b00'>\r\n//「ふ――ふざけるな！\r\n//　そんなものを突然寄越されてたまるか！」\r\n\"I- Isso é um ultraje! O senhor não pode simplesmente aparecer do nada e impor sua autoridade!\"\r\n"
  },
  {
   "offset": 13922,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290630a03'>\r\n//「そう申されましても。\r\n//　納得いかないなら、伯爵にお願いなさって\r\n//は？」\r\n\"I'm afraid he can. If it would help, I'm sure His Grace will show you his bona fides.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290630a03'>\r\n//「そう申されましても。\r\n//　納得いかないなら、伯爵にお願いなさって\r\n//は？」\r\n\"Receio que ele possa, sim. Se ajudar, tenho certeza de que Sua Graça lhe mostrará suas credenciais.\"\r\n"
  },
  {
   "offset": 14226,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290640b00'>\r\n//「お願い？」\r\n\"Bona fides?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290640b00'>\r\n//「お願い？」\r\n\"Credenciais?\"\r\n"
  },
  {
   "offset": 14373,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290650a03'>\r\n//「サシュアント卿、女王陛下の信任状をいま\r\n//お持ちでしょう？」\r\n\"Pardon, Your Grace. You carry Her Majesty's imprimatur, do you not?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290650a03'>\r\n//「サシュアント卿、女王陛下の信任状をいま\r\n//お持ちでしょう？」\r\n\"Perdão, Vossa Graça. O senhor traz consigo a carta de credenciais de Sua Majestade, não traz?\"\r\n"
  },
  {
   "offset": 14640,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290660b25'>\r\n//「もちろんだ。\r\n//　確認したいのかね、ウィロー少将？」\r\n\"Of course. Would you like to see it, General?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290660b25'>\r\n//「もちろんだ。\r\n//　確認したいのかね、ウィロー少将？」\r\n\"Claro. Gostaria de vê-la, General?\"\r\n"
  },
  {
   "offset": 14876,
@@ -312,37 +312,37 @@
  {
   "offset": 15018,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290680b00'>\r\n//「し、しかし。不自然ではありませんか。\r\n//　現地の我々に何の話も通さず、不意に全権\r\n//代理など！」\r\n\"B- But this doesn't make sense! To usurp our authority without any warning or consultation?\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290690b00'>\r\n//「軍の指揮が乱れます！」\r\n\"It shows a complete lack of respect for the chain of command!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290680b00'>\r\n//「し、しかし。不自然ではありませんか。\r\n//　現地の我々に何の話も通さず、不意に全権\r\n//代理など！」\r\n\"M- Mas isso não faz sentido! Usurpar nossa autoridade sem qualquer aviso ou consulta?\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290690b00'>\r\n//「軍の指揮が乱れます！」\r\n\"Isso demonstra total desrespeito pela cadeia de comando!\"\r\n"
  },
  {
   "offset": 15577,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0290700a04'>\r\n//「正論でございますなァ」\r\n\"It㉓<I>is</I>㉓rather unfair.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0290700a04'>\r\n//「正論でございますなァ」\r\n\"É㉓<I>realmente</I>㉓injusto.\"\r\n"
  },
  {
   "offset": 15744,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290710a03'>\r\n//「ほんとねー」\r\n\"Most unfair, Sayo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0290710a03'>\r\n//「ほんとねー」\r\n\"Muito injusto, Sayo.\"\r\n"
  },
  {
   "offset": 15892,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290720b00'>\r\n//「……当面は、横浜にてお待ち頂きたい！\r\n//　我々の方で国連本部に確認し、その上で」\r\n\"I must insist that you repair to Yokohama! We will confer with the General Assembly and determine what measures―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290720b00'>\r\n//「……当面は、横浜にてお待ち頂きたい！\r\n//　我々の方で国連本部に確認し、その上で」\r\n\"Devo insistir que o senhor se dirija a Yokohama! Consultaremos a Assembleia Geral e determinaremos que medidas―\"\r\n"
  },
  {
   "offset": 16245,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290730b25'>\r\n//「そうはいかないのだよ。ウィロー少将」\r\n\"It's much too late for that, Willow.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290730b25'>\r\n//「そうはいかないのだよ。ウィロー少将」\r\n\"É tarde demais para isso, Willow.\"\r\n"
  },
  {
   "offset": 16450,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290740b00'>\r\n//「な、何故です」\r\n\"Wha... whatever do you mean?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290740b00'>\r\n//「な、何故です」\r\n\"O... o que o senhor quer dizer?\"\r\n"
  },
  {
   "offset": 16620,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290750b25'>\r\n//「わからないかね？」\r\n\"Do you truly not know?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290750b25'>\r\n//「わからないかね？」\r\n\"Você realmente não sabe?\"\r\n"
  },
  {
   "offset": 16784,
@@ -352,7 +352,7 @@
  {
   "offset": 16920,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290770b25'>\r\n//「わからないのかね……？」\r\n\"Do you㉓<I>truly</I>㉑not know?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290770b25'>\r\n//「わからないのかね……？」\r\n\"Você㉓<I>realmente</I>㉑não sabe?\"\r\n"
  },
  {
   "offset": 17104,
@@ -362,12 +362,12 @@
  {
   "offset": 17240,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290790b25'>\r\n//「わッッからなぁぁいのかァァァァァァァ!!」\r\n\"DO YOU TRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290790b25'>\r\n//「わッッからなぁぁいのかァァァァァァァ!!」\r\n\"VOCÊ REALMEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE―\"\r\n"
  },
  {
   "offset": 17462,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290800b25'>\r\n//「ね？」\r\n\"―ly not know?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290800b25'>\r\n//「ね？」\r\n\"―nte não sabe?\"\r\n"
  },
  {
   "offset": 17601,
@@ -377,7 +377,7 @@
  {
   "offset": 17743,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290820b25'>\r\n//「わかってくれたまえよ。\r\n//　<RUBY text='アメリカン'>新大陸人</RUBY>」\r\n\"I thought you Americans were smarter than that.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290830b25'>\r\n//「私は必ずしも君達を憎んではいないのだ。\r\n//　できることなら……騒がず、争わず、静か\r\n//に全てを終わらせたい」\r\n\"Trust me when I say that I bear you no ill will. I would like nothing more than to see this resolved swiftly, peacefully, and without undue fuss.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290840b25'>\r\n//「察してくれたまえ……」\r\n\"I do hope you'll cooperate...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290820b25'>\r\n//「わかってくれたまえよ。\r\n//　<RUBY text='アメリカン'>新大陸人</RUBY>」\r\n\"Eu achava que vocês, americanos, fossem mais espertos do que isso.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290830b25'>\r\n//「私は必ずしも君達を憎んではいないのだ。\r\n//　できることなら……騒がず、争わず、静か\r\n//に全てを終わらせたい」\r\n\"Acredite em mim quando digo que não lhes desejo mal algum. Nada me agradaria mais do que ver isto resolvido de forma rápida, pacífica e sem alarde desnecessário.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290840b25'>\r\n//「察してくれたまえ……」\r\n\"Espero de verdade que cooperem...\"\r\n"
  },
  {
   "offset": 18575,
@@ -387,7 +387,7 @@
  {
   "offset": 18729,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290860b00'>\r\n//「わ、わかりません。\r\n//　あなたの仰ることは謎めいている」\r\n\"You're not making sense. What have we done to deserve this, Your Grace!?\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290870b00'>\r\n//「私にはさっぱりだ！」\r\n\"What are you implying!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290860b00'>\r\n//「わ、わかりません。\r\n//　あなたの仰ることは謎めいている」\r\n\"O que o senhor diz não faz sentido. O que fizemos para merecer isto, Vossa Graça!?\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290870b00'>\r\n//「私にはさっぱりだ！」\r\n\"O que o senhor está insinuando!?\"\r\n"
  },
  {
   "offset": 19170,
@@ -397,12 +397,12 @@
  {
   "offset": 19306,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290890b00'>\r\n//「横浜にてお待ち下さい！\r\n//　我々は女王陛下より与えられた使命を遂行\r\n//します」\r\n\"Please, go to Yokohama! I have a sacred duty to the queen!\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290900b00'>\r\n//「あと三日、いえ二日で充分！\r\n//　六波羅幕府を滅ぼし、この国を女王陛下の\r\n//保護下に収めましょう！」\r\n\"Three more days. No, two! In two days, Rokuhara will fall! I will present Yamato to Her Majesty on a platter!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290890b00'>\r\n//「横浜にてお待ち下さい！\r\n//　我々は女王陛下より与えられた使命を遂行\r\n//します」\r\n\"Por favor, vá para Yokohama! Tenho um dever sagrado para com a rainha!\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290900b00'>\r\n//「あと三日、いえ二日で充分！\r\n//　六波羅幕府を滅ぼし、この国を女王陛下の\r\n//保護下に収めましょう！」\r\n\"Mais três dias. Não, dois! Em dois dias, Rokuhara cairá! Vou entregar Yamato a Sua Majestade numa bandeja!\"\r\n"
  },
  {
   "offset": 19963,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290910b25'>\r\n//「もう良いのだ」\r\n\"It's over.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290920b25'>\r\n//「もう良いのだよ、ウィロー」\r\n\"It's over, Willow.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290910b25'>\r\n//「もう良いのだ」\r\n\"Acabou.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290920b25'>\r\n//「もう良いのだよ、ウィロー」\r\n\"Acabou, Willow.\"\r\n"
  },
  {
   "offset": 20273,
@@ -412,12 +412,12 @@
  {
   "offset": 20418,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290940b25'>\r\n//「どうして彼女が――\r\n//　大鳥大尉が私と一緒にいると思うのだね？」\r\n\"Does Captain Otori's presence not answer all your questions?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290940b25'>\r\n//「どうして彼女が――\r\n//　大鳥大尉が私と一緒にいると思うのだね？」\r\n\"A presença da capitã Otori não responde a todas as suas perguntas?\"\r\n"
  },
  {
   "offset": 20687,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290950b00'>\r\n//「……何ですと？」\r\n\"...What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0290950b00'>\r\n//「……何ですと？」\r\n\"...O quê?\"\r\n"
  },
  {
   "offset": 20840,
@@ -427,7 +427,7 @@
  {
   "offset": 20982,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290970b25'>\r\n//「彼女は私の依頼を受けて<RUBY text='・・'>内偵</RUBY>を進めていた\r\n//のだ」\r\n\"I asked her to investigate matters here.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290980b25'>\r\n//「そのために、ＧＨＱにいたのだよ。\r\n//　最初からね」\r\n\"She was㉓<I>my</I>㉕agent from the very beginning.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290970b25'>\r\n//「彼女は私の依頼を受けて<RUBY text='・・'>内偵</RUBY>を進めていた\r\n//のだ」\r\n\"Pedi a ela que investigasse o que se passa aqui.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0290980b25'>\r\n//「そのために、ＧＨＱにいたのだよ。\r\n//　最初からね」\r\n\"Ela era㉓<I>minha</I>㉕agente desde o início.\"\r\n"
  },
  {
   "offset": 21466,
@@ -442,12 +442,12 @@
  {
   "offset": 21762,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291010b25'>\r\n//「無論、彼女だけではない……」\r\n\"Of course, she's not the only one.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291020b25'>\r\n//「他にも数人の配下を各所に派遣した。\r\n//　そして彼らが拾い集めた細かな情報を――\r\n//その小さな断片を私は整理し、結合した」\r\n\"I have eyes and ears all over the world. The bits of information they gather might not seem like much at first, but piece enough of them together, and a picture is revealed.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291030b25'>\r\n//「丁度ジグソーパズルを組むように。\r\n//　出来上がった絵を見て……私は結論せざる\r\n//を得なかった」\r\n\"It's quite like a jigsaw puzzle, in fact. And when I completed this particular puzzle, I was left with only one conclusion.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291010b25'>\r\n//「無論、彼女だけではない……」\r\n\"Claro, ela não é a única.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291020b25'>\r\n//「他にも数人の配下を各所に派遣した。\r\n//　そして彼らが拾い集めた細かな情報を――\r\n//その小さな断片を私は整理し、結合した」\r\n\"Tenho olhos e ouvidos pelo mundo inteiro. Os fragmentos de informação que eles recolhem podem não parecer grande coisa a princípio, mas, quando se juntam peças suficientes, uma imagem se revela.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291030b25'>\r\n//「丁度ジグソーパズルを組むように。\r\n//　出来上がった絵を見て……私は結論せざる\r\n//を得なかった」\r\n\"É bem como um quebra-cabeça, na verdade. E, quando completei este quebra-cabeça em particular, só me restou uma conclusão.\"\r\n"
  },
  {
   "offset": 22776,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291040b25'>\r\n//「君達は、<RUBY text='アメリカン・ドリーマー'>新大陸独立派</RUBY>だと」\r\n\"That you and your associates... are American Dreamers.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291040b25'>\r\n//「君達は、<RUBY text='アメリカン・ドリーマー'>新大陸独立派</RUBY>だと」\r\n\"Que você e seus associados... são Sonhadores Americanos.\"\r\n"
  },
  {
   "offset": 23038,
@@ -457,12 +457,12 @@
  {
   "offset": 23215,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291060b25'>\r\n//「ウィロー。\r\n//　過去、四度に渡り君の同志は新大陸を大英\r\n//連邦から独立させるための戦争を起こした」\r\n\"Four times, Willow. Four times you have risen against your masters, dreaming of independence for the land you call America.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291070b25'>\r\n//「その悉くが失敗した。\r\n//　それは、天命なのだと――神が女王の支配\r\n//を良しとしているのだと、君達が学んでくれ\r\n//れば良かったのだが」\r\n\"And four times, we've beaten you back. The lesson you㉓<I>should</I>㉒have learned is clear. That the British Empire holds Heaven's mandate. That God Himself has chosen Her Majesty to rule.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291060b25'>\r\n//「ウィロー。\r\n//　過去、四度に渡り君の同志は新大陸を大英\r\n//連邦から独立させるための戦争を起こした」\r\n\"Quatro vezes, Willow. Quatro vezes vocês se levantaram contra seus senhores, sonhando com a independência da terra que chamam de América.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291070b25'>\r\n//「その悉くが失敗した。\r\n//　それは、天命なのだと――神が女王の支配\r\n//を良しとしているのだと、君達が学んでくれ\r\n//れば良かったのだが」\r\n\"E quatro vezes nós os repelimos. A lição que vocês㉓<I>deveriam</I>㉒ter aprendido é clara. Que o Império Britânico detém o mandato do Céu. Que o próprio Deus escolheu Sua Majestade para reinar.\"\r\n"
  },
  {
   "offset": 24086,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291080b25'>\r\n//「君達は、より低いレベルで理解したのだね。\r\n//　負けたのは力が足りなかったから……劒冑\r\n//が足りなかったから……」\r\n\"Instead, you learned a different lesson. You convinced yourselves that it was <I>power</I>㉑you lacked. Power in the form of cruxes.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291090b25'>\r\n//「<RUBY text='・・・・・・・・・・・・・・・・・・・'>新大陸に劒冑の生産地が存在しないからだ</RUBY>。\r\n//　……君達はそう考えた」\r\n\"Cruxes cannot be forged in the New World. You thought that this was why you could not win.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291080b25'>\r\n//「君達は、より低いレベルで理解したのだね。\r\n//　負けたのは力が足りなかったから……劒冑\r\n//が足りなかったから……」\r\n\"Em vez disso, vocês aprenderam uma lição diferente. Convenceram-se de que o que lhes faltava era <I>poder</I>㉑. Poder na forma de Tsurugi.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291090b25'>\r\n//「<RUBY text='・・・・・・・・・・・・・・・・・・・'>新大陸に劒冑の生産地が存在しないからだ</RUBY>。\r\n//　……君達はそう考えた」\r\n\"Os Tsurugi não podem ser forjados no Novo Mundo. Vocês pensaram que era por isso que não conseguiam vencer.\"\r\n"
  },
  {
   "offset": 24873,
@@ -472,12 +472,12 @@
  {
   "offset": 25009,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291110b25'>\r\n//「だから大和を欲した。\r\n//　世界でも屈指の劒冑生産国を……」\r\n\"And so you set your sights on Yamato, a land as crux-blessed as any on earth.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291120b25'>\r\n//「君達はこの国を、女王陛下に献上するふり\r\n//をして掠め取るつもりだった。\r\n//　そして……蜂起。<RUBY text='・・・'>第五次</RUBY>新大陸独立戦争を」\r\n\"You never intended to give it to the queen. You were going to take Yamato for yourself... and begin a㉓<I>fifth</I>㉓war of rebellion.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291110b25'>\r\n//「だから大和を欲した。\r\n//　世界でも屈指の劒冑生産国を……」\r\n\"E então vocês voltaram os olhos para Yamato, uma terra tão abençoada por Tsurugi quanto qualquer outra no mundo.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291120b25'>\r\n//「君達はこの国を、女王陛下に献上するふり\r\n//をして掠め取るつもりだった。\r\n//　そして……蜂起。<RUBY text='・・・'>第五次</RUBY>新大陸独立戦争を」\r\n\"Vocês nunca tiveram a intenção de entregar Yamato à rainha. Iam tomar Yamato para si... e começar uma㉓<I>quinta</I>㉓guerra de rebelião.\"\r\n"
  },
  {
   "offset": 25729,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291130b25'>\r\n//「……愚かな野望だ……」\r\n\"Foolish... foolish...\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291140b25'>\r\n//「しかし……同情はする。\r\n//　君達は確かに苦しみ、追い詰められていた\r\n//のだろうから」\r\n\"And yet, I sympathize. I know you've suffered. I'm sure you felt there was no other way.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291150b25'>\r\n//「我らが女王の深き愛も、あの広大な大陸を\r\n//満たすには不足していたのかもしれない……」\r\n\"Perhaps that continent is just too wide. Too wide for even Her Majesty's great love to illuminate.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291130b25'>\r\n//「……愚かな野望だ……」\r\n\"Que tolice... que tolice...\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291140b25'>\r\n//「しかし……同情はする。\r\n//　君達は確かに苦しみ、追い詰められていた\r\n//のだろうから」\r\n\"E ainda assim, sinto compaixão. Sei que vocês sofreram. Tenho certeza de que sentiram que não havia outra saída.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291150b25'>\r\n//「我らが女王の深き愛も、あの広大な大陸を\r\n//満たすには不足していたのかもしれない……」\r\n\"Talvez aquele continente seja simplesmente vasto demais. Vasto demais para que até mesmo o grande amor de Sua Majestade possa iluminá-lo.\"\r\n"
  },
  {
   "offset": 26544,
@@ -487,12 +487,12 @@
  {
   "offset": 26680,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291170b25'>\r\n//「だがね、ウィロー。\r\n//　それでも反逆は許されないのだよ」\r\n\"But though I sympathize, Willow... treason is treason.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291170b25'>\r\n//「だがね、ウィロー。\r\n//　それでも反逆は許されないのだよ」\r\n\"Mas, embora eu compreenda, Willow... traição é traição.\"\r\n"
  },
  {
   "offset": 26931,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291180b00'>\r\n//「こ……ここまで来て」\r\n\"...Is㉗<I>this</I>㉓where it ends?\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291190b00'>\r\n//「ここまで来て……！」\r\n\"No...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291180b00'>\r\n//「こ……ここまで来て」\r\n\"...É㉗<I>aqui</I>㉓que tudo termina?\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291190b00'>\r\n//「ここまで来て……！」\r\n\"Não...\"\r\n"
  },
  {
   "offset": 27266,
@@ -502,42 +502,42 @@
  {
   "offset": 27384,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291210b00'>\r\n//「認め――られるかぁッッ!!」\r\n\"I WON'T LET IT!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291210b00'>\r\n//「認め――られるかぁッッ!!」\r\n\"NÃO VOU PERMITIR!\"\r\n"
  },
  {
   "offset": 27558,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0291220b03'>\r\n//「閣下!?」\r\n\"General!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0291220b03'>\r\n//「閣下!?」\r\n\"General!\"\r\n"
  },
  {
   "offset": 27698,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291230b25'>\r\n//「……ウィロー……。\r\n//　君が最後に縋るのは女王の慈悲ではなく、\r\n//そのちっぽけな拳銃なのか？」\r\n\"Willow... Is that <I>pistol</I>㉒your final refuge? Will you not throw yourself on the mercy of the queen?\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291240b25'>\r\n//「それが君の選択なのか？」\r\n\"You are making a very poor choice.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291230b25'>\r\n//「……ウィロー……。\r\n//　君が最後に縋るのは女王の慈悲ではなく、\r\n//そのちっぽけな拳銃なのか？」\r\n\"Willow... Essa <I>pistola</I>㉒é seu último refúgio? Não vai implorar pela clemência da rainha?\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291240b25'>\r\n//「それが君の選択なのか？」\r\n\"Você está fazendo uma péssima escolha.\"\r\n"
  },
  {
   "offset": 28234,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291250b00'>\r\n//「黙れ……女王の犬め！\r\n//　我々の苦痛が貴様などにわかるものか」\r\n\"What do you know of our suffering!? You, the queen's lapdog!\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291260b00'>\r\n//「苦痛とは、こういうものだ!!\r\n//　味わってみろッ!!」\r\n\"I'll show you what true pain is! Die, you miserable cur!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291250b00'>\r\n//「黙れ……女王の犬め！\r\n//　我々の苦痛が貴様などにわかるものか」\r\n\"O que você sabe do nosso sofrimento?! Você, o cachorrinho da rainha!\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291260b00'>\r\n//「苦痛とは、こういうものだ!!\r\n//　味わってみろッ!!」\r\n\"Vou te mostrar o que é a verdadeira dor! Morra, seu cão miserável!\"\r\n"
  },
  {
   "offset": 28746,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291270b00'>\r\n//「なッ――」\r\n\"Wha―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291270b00'>\r\n//「なッ――」\r\n\"O qu―\"\r\n"
  },
  {
   "offset": 28888,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291280b25'>\r\n//「すまないね、大鳥大尉」\r\n\"Thank you, Captain.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291280b25'>\r\n//「すまないね、大鳥大尉」\r\n\"Obrigado, Capitão.\"\r\n"
  },
  {
   "offset": 29055,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291290a03'>\r\n//「いえ、サシュアント卿。\r\n//　では……よろしいですか？」\r\n\"My pleasure, Your Grace. Shall I...?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291290a03'>\r\n//「いえ、サシュアント卿。\r\n//　では……よろしいですか？」\r\n\"O prazer é meu, Vossa Graça. Então... posso?\"\r\n"
  },
  {
   "offset": 29282,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291300b25'>\r\n//「いや。私がやろう。\r\n//　彼は私の友人なんだ」\r\n\"No. Let me. This man is my friend.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291310b25'>\r\n//「例え彼がそう思っていなかったとしても」\r\n\"Even if he would not call me the same.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291300b25'>\r\n//「いや。私がやろう。\r\n//　彼は私の友人なんだ」\r\n\"Não. Deixe-me. Este homem é meu amigo.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291310b25'>\r\n//「例え彼がそう思っていなかったとしても」\r\n\"Mesmo que ele não me chamasse de amigo.\"\r\n"
  },
  {
   "offset": 29697,
@@ -547,12 +547,12 @@
  {
   "offset": 29824,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291330b25'>\r\n//「さらばだ。\r\n//　友よ」\r\n\"Farewell, my friend.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0291330b25'>\r\n//「さらばだ。\r\n//　友よ」\r\n\"Adeus, meu amigo.\"\r\n"
  },
  {
   "offset": 29990,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291340b00'>\r\n//「……サシュアントォ!!」\r\n\"SARCHANT!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291340b00'>\r\n//「……サシュアントォ!!」\r\n\"SARCHANT!\"\r\n"
  },
  {
   "offset": 30152,
@@ -572,27 +572,27 @@
  {
   "offset": 30548,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291380b00'>\r\n//「……キャノン……」\r\n\"C- Cannon...\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291390b00'>\r\n//「クライブ……」\r\n\"Clive...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291380b00'>\r\n//「……キャノン……」\r\n\"C- Cannon...\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291390b00'>\r\n//「クライブ……」\r\n\"Clive...\"\r\n"
  },
  {
   "offset": 30850,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0291400b03'>\r\n//「閣下……」\r\n\"Sir...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0291400b03'>\r\n//「閣下……」\r\n\"Senhor...\"\r\n"
  },
  {
   "offset": 30992,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291410b00'>\r\n//「た……頼む……\r\n//　我々の……悲願を…………」\r\n\"Please... you have to... our comrades are waiting...\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291420b00'>\r\n//「新大陸の……我が同胞に……\r\n//　自由と、誇りと……平安を……」\r\n\"Give them... freedom... pride... peace...\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291430b00'>\r\n//「取り戻してくれ……！」\r\n\"They're counting... on you now!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291410b00'>\r\n//「た……頼む……\r\n//　我々の……悲願を…………」\r\n\"Por favor... você precisa... nossos companheiros estão esperando...\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291420b00'>\r\n//「新大陸の……我が同胞に……\r\n//　自由と、誇りと……平安を……」\r\n\"Dê a eles... liberdade... orgulho... paz...\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291430b00'>\r\n//「取り戻してくれ……！」\r\n\"Eles estão contando... com você agora!\"\r\n"
  },
  {
   "offset": 31654,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0291440b03'>\r\n//「閣下」\r\n\"Sir!\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0291450b03'>\r\n//「ウィロー!!」\r\n\"Willow!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0291440b03'>\r\n//「閣下」\r\n\"Senhor!\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0291450b03'>\r\n//「ウィロー!!」\r\n\"Willow!\"\r\n"
  },
  {
   "offset": 31925,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291460b00'>\r\n//「……<RUBY text='アウァ・アメリカ'>偉大なる故郷</RUBY>のために……」\r\n\"A free America...\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291470b00'>\r\n//「……頼む……\r\n//　相棒……クライブ…………」\r\n\"Please... Clive... remember... the dream...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291460b00'>\r\n//「……<RUBY text='アウァ・アメリカ'>偉大なる故郷</RUBY>のために……」\r\n\"Uma América livre...\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0291470b00'>\r\n//「……頼む……\r\n//　相棒……クライブ…………」\r\n\"Por favor... Clive... lembre-se... do sonho...\"\r\n"
  },
  {
   "offset": 32373,
@@ -602,7 +602,7 @@
  {
   "offset": 32515,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291490a04'>\r\n//「……心中はお察しいたします。\r\n//　ですが、キャノン中佐。身柄を拘束させて\r\n//頂かねばなりませぬ」\r\n\"...My deepest condolences. Now Colonel, if you'll pardon me, I'm afraid I must place you under arrest.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291500a04'>\r\n//「お持ちの銃を――失礼」\r\n\"If you'll hold still while I take your weapon... Thank you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291490a04'>\r\n//「……心中はお察しいたします。\r\n//　ですが、キャノン中佐。身柄を拘束させて\r\n//頂かねばなりませぬ」\r\n\"...Meus pêsames mais sinceros. Agora, Coronel, se me permite, temo que precise prendê-lo.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291500a04'>\r\n//「お持ちの銃を――失礼」\r\n\"Se puder ficar imóvel enquanto eu pego sua arma... Obrigada.\"\r\n"
  },
  {
   "offset": 33047,
@@ -612,27 +612,27 @@
  {
   "offset": 33183,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291520a03'>\r\n//「ウォルフ教授。\r\n//　申し訳ないのですけれど、あなたもです」\r\n\"The same goes for you, Professor. Please come along quietly.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291520a03'>\r\n//「ウォルフ教授。\r\n//　申し訳ないのですけれど、あなたもです」\r\n\"O mesmo vale para o senhor, Professor. Por favor, venha sem resistir.\"\r\n"
  },
  {
   "offset": 33440,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291530a03'>\r\n//「複数の重大な嫌疑が掛かっていますの」\r\n\"You are suspected of numerous crimes against the League.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291530a03'>\r\n//「複数の重大な嫌疑が掛かっていますの」\r\n\"O senhor é suspeito de inúmeros crimes contra a Liga.\"\r\n"
  },
  {
   "offset": 33662,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291540a13'>\r\n//「ほう……」\r\n\"Oh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291540a13'>\r\n//「ほう……」\r\n\"Oh?\"\r\n"
  },
  {
   "offset": 33801,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291550a03'>\r\n//「身に覚えがおありでしょう？」\r\n\"I'm sure this comes as no surprise.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291550a03'>\r\n//「身に覚えがおありでしょう？」\r\n\"Tenho certeza de que isso não é nenhuma surpresa.\"\r\n"
  },
  {
   "offset": 33990,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291560a13'>\r\n//「まあね。\r\n//　いつかはこんな日が来ると思っていたよ」\r\n\"I suppose not. In fact, I've always known this day would come.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291560a13'>\r\n//「まあね。\r\n//　いつかはこんな日が来ると思っていたよ」\r\n\"Suponho que não. Na verdade, sempre soube que este dia chegaria.\"\r\n"
  },
  {
   "offset": 34249,
@@ -642,87 +642,87 @@
  {
   "offset": 34376,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291580a13'>\r\n//「この強権的パンツ絶対主義者どもめ!!\r\n//　どうあってもパンツ脱ぐのを許さんと言う\r\n//のだな!?」\r\n\"You goddamned panty-wearing fascists! You're here to end the dream of a society free from undergarments!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291580a13'>\r\n//「この強権的パンツ絶対主義者どもめ!!\r\n//　どうあってもパンツ脱ぐのを許さんと言う\r\n//のだな!?」\r\n\"Seus malditos fascistas de calcinha! Vocês vieram acabar com o sonho de uma sociedade livre de roupas íntimas!\"\r\n"
  },
  {
   "offset": 34733,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291590a03'>\r\n//「ちゃうわッッ!!」\r\n\"Wrong!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291590a03'>\r\n//「ちゃうわッッ!!」\r\n\"Errado!\"\r\n"
  },
  {
   "offset": 34874,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291600a04'>\r\n//「お嬢さま自重！\r\n//　劒冑でツッコミ入れたら死にますから！」\r\n\"Mistress, please! If you head chop him in your tsurugi, he'll die!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291600a04'>\r\n//「お嬢さま自重！\r\n//　劒冑でツッコミ入れたら死にますから！」\r\n\"Senhorita, por favor! Se a senhora lhe der uma pancada na cabeça com o tsurugi, ele morre!\"\r\n"
  },
  {
   "offset": 35128,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291610a13'>\r\n//「何、違うだと!?\r\n//　では君は今パンツを脱いでいるのか！」\r\n\"Wrong!? Does that mean you're㉓<I>not</I>㉑wearing panties!?\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291620a13'>\r\n//「見せてみろッ!!」\r\n\"SHOW ME!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291610a13'>\r\n//「何、違うだと!?\r\n//　では君は今パンツを脱いでいるのか！」\r\n\"Errado?! Isso quer dizer que você㉓<I>não</I>㉑está usando calcinha?!\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291620a13'>\r\n//「見せてみろッ!!」\r\n\"MOSTRE-ME!\"\r\n"
  },
  {
   "offset": 35536,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291630a03'>\r\n//「変態やめてから出直してくださいまし!!」\r\n\"Would you <I>please</I> stop being a pervert!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291630a03'>\r\n//「変態やめてから出直してくださいまし!!」\r\n\"Você poderia, <I>por favor</I>, parar de ser um pervertido?!\"\r\n"
  },
  {
   "offset": 35750,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291640a13'>\r\n//「ぼ――僕に死ねと言うのか!?」\r\n\"Are you telling me to die!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291640a13'>\r\n//「ぼ――僕に死ねと言うのか!?」\r\n\"Está me dizendo para morrer?!\"\r\n"
  },
  {
   "offset": 35939,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291650a04'>\r\n//「死ぬのかよ。\r\n//　あと変態の自覚あるのかよ」\r\n\"Would it kill you!?\r\n  ...At least he knows he's a pervert.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291650a04'>\r\n//「死ぬのかよ。\r\n//　あと変態の自覚あるのかよ」\r\n\"Morrer seria pedir muito?!\"\r\n  \"...Pelo menos ele sabe que é um pervertido.\"\r\n"
  },
  {
   "offset": 36165,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291660a04'>\r\n//「いえ、もーいいですからお嬢さま。\r\n//　こういう面倒な人はさっさと連行いたしま\r\n//しょう」\r\n\"But enough, Mistress. Best not waste time with this sort. Let's lock him up and throw away the key.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291660a04'>\r\n//「いえ、もーいいですからお嬢さま。\r\n//　こういう面倒な人はさっさと連行いたしま\r\n//しょう」\r\n\"Mas chega, Senhorita. Melhor não perder tempo com esse tipo. Vamos trancá-lo e jogar a chave fora.\"\r\n"
  },
  {
   "offset": 36495,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291670a03'>\r\n//「そーね……」\r\n\"I suppose that would be best.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291670a03'>\r\n//「そーね……」\r\n\"Acho que seria o melhor.\"\r\n"
  },
  {
   "offset": 36654,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291680a13'>\r\n//「ぬぅぅぅぅぅ！\r\n//　これで終わったと思うなよ！」\r\n\"Damn you! This isn't over! You hear!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291680a13'>\r\n//「ぬぅぅぅぅぅ！\r\n//　これで終わったと思うなよ！」\r\n\"Maldito! Isso não acabou! Está me ouvindo?!\"\r\n"
  },
  {
   "offset": 36882,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291690a13'>\r\n//「僕は必ず帰ってくる！\r\n//　そして全人類のパンツを脱がすであろう!!」\r\n\"I'll be back! Back, I say! I'll see the world rid of panties if it's the last thing I do!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291690a13'>\r\n//「僕は必ず帰ってくる！\r\n//　そして全人類のパンツを脱がすであろう!!」\r\n\"Eu voltarei! Voltarei, eu digo! Vou livrar o mundo das calcinhas, nem que seja a última coisa que eu faça!\"\r\n"
  },
  {
   "offset": 37188,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291700a04'>\r\n//「これほどイヤな野望って人類史上にかつて\r\n//存在しましたかな」\r\n\"Has there ever been a villain with a more vile ambition?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291700a04'>\r\n//「これほどイヤな野望って人類史上にかつて\r\n//存在しましたかな」\r\n\"Já existiu algum vilão com uma ambição mais vil?\"\r\n"
  },
  {
   "offset": 37435,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291710a03'>\r\n//「たぶんなかったと思うから、国連理事会に\r\n//掛け合って世界人類反逆罪とか創設して頂き\r\n//ましょう」\r\n\"I can't imagine there has, Sayo. Perhaps we can get the Assembly to declare it a crime against humanity.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0291710a03'>\r\n//「たぶんなかったと思うから、国連理事会に\r\n//掛け合って世界人類反逆罪とか創設して頂き\r\n//ましょう」\r\n\"Não consigo imaginar que tenha havido, Sayo. Talvez consigamos que a Assembleia a declare um crime contra a humanidade.\"\r\n"
  },
  {
   "offset": 37791,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291720a04'>\r\n//「それならきっと百回くらい処刑できますぞ。\r\n//　……まぁ変態は得てしてゴキブリチックな\r\n//生命力を誇るものなので、まだ足りないかも\r\n//しれませんが」\r\n\"Oh yes. Then we could sentence him to death a few hundred times. Of course, perverts are rather like cockroaches. They're ever so hard to kill.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0291720a04'>\r\n//「それならきっと百回くらい処刑できますぞ。\r\n//　……まぁ変態は得てしてゴキブリチックな\r\n//生命力を誇るものなので、まだ足りないかも\r\n//しれませんが」\r\n\"Ah, sim. Aí poderíamos condená-lo à morte umas centenas de vezes. Claro, pervertidos são como baratas. São incrivelmente difíceis de matar.\"\r\n"
  },
  {
   "offset": 38250,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291730a13'>\r\n//「僕は諦めない。\r\n//　諦めないからなぁ」\r\n\"I'll never give up! NEVER!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291730a13'>\r\n//「僕は諦めない。\r\n//　諦めないからなぁ」\r\n\"Eu nunca vou desistir! NUNCA!\"\r\n"
  },
  {
   "offset": 38452,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291740a13'>\r\n//「しばらくは雌伏の時だ！\r\n//　待っていてくれたまえ、キャノン中佐！」\r\n\"Wait for me, Cannon! The chance will come!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291740a13'>\r\n//「しばらくは雌伏の時だ！\r\n//　待っていてくれたまえ、キャノン中佐！」\r\n\"Espere por mim, Cannon! A chance virá!\"\r\n"
  },
  {
   "offset": 38712,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291750a13'>\r\n//「絶望するんじゃないぞ!!」\r\n\"Do not lose hope!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0291750a13'>\r\n//「絶望するんじゃないぞ!!」\r\n\"Não perca a esperança!\"\r\n"
  },
  {
   "offset": 38885,

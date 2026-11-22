@@ -2,22 +2,22 @@
  {
   "offset": 213,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220010a00'>\r\n//「という次第だ」\r\n\"That's the story.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220010a00'>\r\n//「という次第だ」\r\n\"A história é essa.\"\r\n"
  },
  {
   "offset": 354,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220020a01'>\r\n//《……本当に斬るかどうかはともかく。\r\n//　その用意はする、っていうこと？》\r\n《So you haven't decided if you're going to kill him, but you want to be ready in case you do.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220020a01'>\r\n//《……本当に斬るかどうかはともかく。\r\n//　その用意はする、っていうこと？》\r\n《Então você ainda não decidiu se vai matá-lo, mas quer estar pronto caso decida.》\r\n"
  },
  {
   "offset": 665,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220030a00'>\r\n//「そうなる」\r\n\"That's right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220030a00'>\r\n//「そうなる」\r\n\"Exato.\"\r\n"
  },
  {
   "offset": 796,
   "en": "\r\n//　我が決定ながら、はっきりせぬ話だ。\r\n//　きっぱり断った方が良かったのかもしれない。\r\n\r\n//　が――\r\n  Looking back on it, I suppose my reply was a little too non-committal. Perhaps I should've just turned them down flat.\r\n\r\n  Still...\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　我が決定ながら、はっきりせぬ話だ。\r\n//　きっぱり断った方が良かったのかもしれない。\r\n\r\n//　が――\r\n  Pensando bem, acho que minha resposta foi evasiva demais. Talvez eu devesse simplesmente ter recusado de uma vez.\r\n\r\n  Mas ainda assim...\r\n\r\n"
  },
  {
   "offset": 1090,
@@ -27,22 +27,22 @@
  {
   "offset": 1224,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220050a00'>\r\n//「どうかしたか」\r\n\"What's wrong?\"</voice> I ask, sensing the question in Muramasa's silence.\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220050a00'>\r\n//「どうかしたか」\r\n\"O que foi?\"</voice> pergunto, sentindo a pergunta no silêncio de Muramasa.\r\n"
  },
  {
   "offset": 1420,
   "en": "\r\n//　蜘蛛の沈黙は、物問いたげだった。\r\n//　水を向けてみる。\r\n\r\n//　躊躇うような間を数秒はさんで、金打声が伝わって\r\n//きた。\r\n  After a few moments of hesitation, she replies.\r\n",
-  "pt": ""
+  "pt": "\r\n//　蜘蛛の沈黙は、物問いたげだった。\r\n//　水を向けてみる。\r\n\r\n//　躊躇うような間を数秒はさんで、金打声が伝わって\r\n//きた。\r\n  Depois de alguns instantes de hesitação, ela responde.\r\n"
  },
  {
   "offset": 1658,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220060a01'>\r\n//《……ね、御堂。\r\n//　そんな話を断れなかったのは》\r\n《...Um, Mido? Was the reason you couldn't just turn them down...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220070a01'>\r\n//《この間の……\r\n//　私の》\r\n《Because you felt guilty about my...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220060a01'>\r\n//《……ね、御堂。\r\n//　そんな話を断れなかったのは》\r\n《...Hã, Mido? O motivo de você não ter conseguido simplesmente recusar...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220070a01'>\r\n//《この間の……\r\n//　私の》\r\n《Foi porque você se sentiu culpado pelo meu...》\r\n"
  },
  {
   "offset": 2078,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220080a00'>\r\n//「いや」\r\n\"About breaking out of jail?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220080a00'>\r\n//「いや」\r\n\"Sobre a fuga da prisão?\"\r\n"
  },
  {
   "offset": 2217,
@@ -52,37 +52,37 @@
  {
   "offset": 2345,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220100a00'>\r\n//「脱獄の件は無関係だ。\r\n//　それよりも……銀星号の予告が」\r\n\"No, that's not related. ...I'm worried about Ginseigo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220100a00'>\r\n//「脱獄の件は無関係だ。\r\n//　それよりも……銀星号の予告が」\r\n\"Não, isso não tem relação. ...O que me preocupa é o Ginseigo.\"\r\n"
  },
  {
   "offset": 2584,
   "en": "\r\n//　\r\n//　　　　　――――おれは八幡宮へゆく。\r\n　\r\n \r\n \r\n \r\n \r\n<center>\"I will be going to Hachiman Shrine.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//　\r\n//　　　　　――――おれは八幡宮へゆく。\r\n　\r\n \r\n \r\n \r\n \r\n<center>\"Eu irei ao Santuário Hachiman.\"\r\n"
  },
  {
   "offset": 2726,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220110a00'>\r\n//「お前も聞いていただろう」\r\n\"You heard what she said.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220110a00'>\r\n//「お前も聞いていただろう」\r\n\"Você ouviu o que ela disse.\"\r\n"
  },
  {
   "offset": 2889,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220120a01'>\r\n//《ええ……》\r\n《Yes.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220120a01'>\r\n//《ええ……》\r\n《Sim.》\r\n"
  },
  {
   "offset": 3021,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220130a00'>\r\n//「まさか周囲が幕兵で固められる奉刀参拝を\r\n//狙って現れるとは思えないが……\r\n//　念のためだ」\r\n\"I can't imagine she would appear somewhere as heavily guarded as the shrine will be on the day of the ceremony, but you never know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220130a00'>\r\n//「まさか周囲が幕兵で固められる奉刀参拝を\r\n//狙って現れるとは思えないが……\r\n//　念のためだ」\r\n\"Não consigo imaginar que ela apareça num lugar tão fortemente guardado quanto o santuário estará no dia da cerimônia, mas nunca se sabe.\"\r\n"
  },
  {
   "offset": 3386,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220140a00'>\r\n//「八幡宮に詰めていれば、万一の時に素早く\r\n//対応できる。\r\n//　宮殿下の依頼を半端に受けたのは、言って\r\n//しまえばその<RUBY text='・・・'>ついで</RUBY>だ」\r\n\"If we're already there, we'll be able to act quickly in the event that she does attack. I accepted His Highness's request only because it does not present an <I>inconvenience.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220140a00'>\r\n//「八幡宮に詰めていれば、万一の時に素早く\r\n//対応できる。\r\n//　宮殿下の依頼を半端に受けたのは、言って\r\n//しまえばその<RUBY text='・・・'>ついで</RUBY>だ」\r\n\"Se já estivermos lá, poderemos agir rápido caso ela ataque. Aceitei o pedido de Sua Alteza apenas porque ele não representa um <I>incômodo.</I>\"\r\n"
  },
  {
   "offset": 3878,
   "en": "\r\n//　厳戒警備の中へ潜り込む時点で危険は極まっている。\r\n//　そのうえ暗殺の狙いが加わっても、これ以上危うく\r\n//はなりようがない。\r\n  I'll already be risking death by infiltrating the shrine. Attempting an assassination won't significantly increase that risk.\r\n\r\n//　……計算と呼ぶには乱暴な、丼勘定だが。\r\n  ...Not exactly a rock-solid line of reasoning, I admit.\r\n",
-  "pt": ""
+  "pt": "\r\n//　厳戒警備の中へ潜り込む時点で危険は極まっている。\r\n//　そのうえ暗殺の狙いが加わっても、これ以上危うく\r\n//はなりようがない。\r\n  Só de me infiltrar no santuário eu já estarei arriscando a morte. Tentar um assassinato não aumentará muito esse risco.\r\n\r\n//　……計算と呼ぶには乱暴な、丼勘定だが。\r\n  ...Não é exatamente um raciocínio sólido, admito.\r\n"
  },
  {
   "offset": 4328,
@@ -92,92 +92,92 @@
  {
   "offset": 4462,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220160a00'>\r\n//「ともかく。\r\n//　やるやらぬは置いて、策は立てておく必要\r\n//がある」\r\n\"In any case, whether I decide to go through with it or not, we'll at least need a plan.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220170a00'>\r\n//「当日、八幡宮にどう潜り込み、元帥にどう\r\n//近付くか……。\r\n//　知恵を貸せ。俺の思案には余る部分もある」\r\n\"How do I sneak into Hachiman Shrine, and how do I get within reach of the shogun? Lend me your thoughts. I'm having some trouble.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220160a00'>\r\n//「ともかく。\r\n//　やるやらぬは置いて、策は立てておく必要\r\n//がある」\r\n\"De qualquer forma, decida eu levar isso adiante ou não, pelo menos precisaremos de um plano.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220170a00'>\r\n//「当日、八幡宮にどう潜り込み、元帥にどう\r\n//近付くか……。\r\n//　知恵を貸せ。俺の思案には余る部分もある」\r\n\"Como me infiltro no Santuário Hachiman, e como chego perto do xogum? Me dê suas ideias. Tem partes que estão além da minha capacidade.\"\r\n"
  },
  {
   "offset": 5120,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220180a01'>\r\n//《……う、うん》\r\n《Well... okay.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220180a01'>\r\n//《……う、うん》\r\n《Bem... tá bom.》\r\n"
  },
  {
   "offset": 5267,
   "en": "\r\n//　広げていた紙を、村正の方へ向ける。\r\n//　そうしなくては見えないということもあるまいが、\r\n//鉄の蜘蛛は天井から降りて近寄ってきた。\r\n  I slide the unfolded paper toward Muramasa. Her vision is, of course, superior to mine, but she comes down from the ceiling to examine it anyway.\r\n\r\n//　その紙に、親切な表題などはない。\r\n//　しかし、それが何であるかは一目で知れた筈だ。\r\n  Though the paper has no title, it is obvious at a glance what it is.\r\n",
-  "pt": ""
+  "pt": "\r\n//　広げていた紙を、村正の方へ向ける。\r\n//　そうしなくては見えないということもあるまいが、\r\n//鉄の蜘蛛は天井から降りて近寄ってきた。\r\n  Empurro o papel desdobrado na direção de Muramasa. A visão dela é, claro, superior à minha, mas ela desce do teto para examiná-lo mesmo assim.\r\n\r\n//　その紙に、親切な表題などはない。\r\n//　しかし、それが何であるかは一目で知れた筈だ。\r\n  Embora o papel não tenha título, é óbvio à primeira vista o que é.\r\n"
  },
  {
   "offset": 5823,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220190a01'>\r\n//《八幡宮の地図？》\r\n《A map of the shrine?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220190a01'>\r\n//《八幡宮の地図？》\r\n《Um mapa do santuário?》\r\n"
  },
  {
   "offset": 5980,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220200a00'>\r\n//「ああ。\r\n//　宮殿下の直筆だ」\r\n\"Yes, drawn by the prince himself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220200a00'>\r\n//「ああ。\r\n//　宮殿下の直筆だ」\r\n\"Sim, desenhado pelo próprio príncipe.\"\r\n"
  },
  {
   "offset": 6156,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220210a01'>\r\n//《……なんか、おかしくない？》\r\n《Doesn't it seem a little... off?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220210a01'>\r\n//《……なんか、おかしくない？》\r\n《Não parece meio... estranho?》\r\n"
  },
  {
   "offset": 6343,
   "en": "\r\n//　そう言うのは、舞殿宮の作画能力に対する疑問では\r\n//ないだろう。\r\n//　地図は素人図面には違いないが、そこそこの正確さ\r\n//で描かれている。\r\n  I assume she doesn't mean to criticize the prince's drawing skills. Though clearly the work of an amateur, the map is reasonably accurate and to scale.\r\n\r\n//　その地図と一般に公開されている境内図とでは幾つ\r\n//か大きく異なる部分があり、村正が指摘しているのは\r\n//そちらだった。\r\n   In which case, she must be referring to the several major discrepancies that exist between this map of the shrine and those that are publicly available.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そう言うのは、舞殿宮の作画能力に対する疑問では\r\n//ないだろう。\r\n//　地図は素人図面には違いないが、そこそこの正確さ\r\n//で描かれている。\r\n  Suponho que ela não esteja criticando a habilidade de desenho do príncipe. Embora seja claramente obra de um amador, o mapa é razoavelmente preciso e proporcional.\r\n\r\n//　その地図と一般に公開されている境内図とでは幾つ\r\n//か大きく異なる部分があり、村正が指摘しているのは\r\n//そちらだった。\r\n   Nesse caso, ela deve estar se referindo às várias divergências importantes entre este mapa do santuário e os que são disponibilizados ao público.\r\n"
  },
  {
   "offset": 7046,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220220a01'>\r\n//《これは本殿よね？》\r\n《This is the main building, right?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220220a01'>\r\n//《これは本殿よね？》\r\n《Este é o salão principal, certo?》\r\n"
  },
  {
   "offset": 7219,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220230a00'>\r\n//「そうだ」\r\n\"Right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220230a00'>\r\n//「そうだ」\r\n\"Certo.\"\r\n"
  },
  {
   "offset": 7340,
   "en": "\r\n//　大階段を登った上にある社。\r\n//　<RUBY text='じょうぐう'>上宮</RUBY>と呼ばれる。\r\n  Muramasa has indicated the upper shrine, which sits at the top of the grand staircase.\r\n",
-  "pt": ""
+  "pt": "\r\n//　大階段を登った上にある社。\r\n//　<RUBY text='じょうぐう'>上宮</RUBY>と呼ばれる。\r\n  Muramasa apontou para o santuário superior, que fica no topo da grande escadaria.\r\n"
  },
  {
   "offset": 7553,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220240a01'>\r\n//《その奥にある……これは何？》\r\n《Then... what's this back here?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220240a01'>\r\n//《その奥にある……これは何？》\r\n《Então... o que é isto aqui atrás?》\r\n"
  },
  {
   "offset": 7738,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220250a00'>\r\n//「隠された裏参道だそうだ。\r\n//　ぐるりと回って、<RUBY text='・・'>地下</RUBY>へ向かう」\r\n\"A secret passage hidden behind the shrine. It leads underground.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220250a00'>\r\n//「隠された裏参道だそうだ。\r\n//　ぐるりと回って、<RUBY text='・・'>地下</RUBY>へ向かう」\r\n\"Uma passagem secreta escondida atrás do santuário. Ela leva para o subsolo.\"\r\n"
  },
  {
   "offset": 8020,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220260a01'>\r\n//《……その先の広間は？》\r\n《And the room at the end?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220260a01'>\r\n//《……その先の広間は？》\r\n《E o salão no fim?》\r\n"
  },
  {
   "offset": 8190,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220270a00'>\r\n//「<RUBY text='げぐう'>下宮</RUBY>だ」\r\n\"The lower shrine.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220270a00'>\r\n//「<RUBY text='げぐう'>下宮</RUBY>だ」\r\n\"O santuário inferior.\"\r\n"
  },
  {
   "offset": 8352,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220280a01'>\r\n//《下宮はこっちでしょう？》\r\n《Isn't this the lower shrine?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220280a01'>\r\n//《下宮はこっちでしょう？》\r\n《Este não é o santuário inferior?》\r\n"
  },
  {
   "offset": 8529,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220290a00'>\r\n//「それは<RUBY text='わかみや'>若宮</RUBY>。\r\n//　若宮も下宮と呼ばれるが、本当はこちらを\r\n//指すらしい」\r\n\"That's the wakamiya, where Hachiman's other aspects are enshrined. Sometimes it's called the lower shrine, but that term more correctly refers to this one.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220290a00'>\r\n//「それは<RUBY text='わかみや'>若宮</RUBY>。\r\n//　若宮も下宮と呼ばれるが、本当はこちらを\r\n//指すらしい」\r\n\"Esse é o wakamiya, onde outras faces de Hachiman são consagradas. Às vezes ele é chamado de santuário inferior, mas o termo se refere mais corretamente a este aqui.\"\r\n"
  },
  {
   "offset": 8924,
   "en": "\r\n//　上宮の真下の、<RUBY text='・・・・'>地下空間</RUBY>を指差して言う。\r\n//　そんなものが存在するなどと、俺もつい先刻聞いて\r\n//知ったばかりだ。\r\n  I point to the chamber located directly underneath the main shrine. Until I saw this map, I had no idea that the space existed. \r\n\r\n//　限られた祭事の折にしか開かれない施設で、公には\r\n//秘されている、との話であった。\r\n  It is used only for special ceremonies, I was told, and is not open to the general public.\r\n",
-  "pt": ""
+  "pt": "\r\n//　上宮の真下の、<RUBY text='・・・・'>地下空間</RUBY>を指差して言う。\r\n//　そんなものが存在するなどと、俺もつい先刻聞いて\r\n//知ったばかりだ。\r\n  Aponto para a câmara situada diretamente sob o santuário principal. Até ver este mapa, eu não tinha ideia de que aquele espaço existia.\r\n\r\n//　限られた祭事の折にしか開かれない施設で、公には\r\n//秘されている、との話であった。\r\n  Disseram-me que ele é usado apenas em cerimônias especiais e não é aberto ao público em geral.\r\n"
  },
  {
   "offset": 9488,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220300a00'>\r\n//「奉刀参拝の手順だが……\r\n//　参拝そのものは、大将領と十人余りの側近\r\n//だけで行われる」\r\n\"As for the ceremony... the sword-offering will be performed by the shogun and ten of his personal attendants.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220310a00'>\r\n//「普陀楽から八幡宮までは相当数の兵を引き\r\n//連れて来るが、彼らは祭祀に関与しない。\r\n//　<RUBY text='かち'>徒士</RUBY>衆は敷地の外、武者衆は境内や上空で\r\n//警備につく」\r\n\"He will have brought a full company of soldiers from Fudaraku, but these will not take part in the ceremony itself. The infantry will guard the perimeter, with musha patrolling both the sky and the shrine grounds.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220300a00'>\r\n//「奉刀参拝の手順だが……\r\n//　参拝そのものは、大将領と十人余りの側近\r\n//だけで行われる」\r\n\"Quanto à cerimônia... a oferenda da espada será feita pelo xogum e cerca de dez de seus assistentes pessoais.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220310a00'>\r\n//「普陀楽から八幡宮までは相当数の兵を引き\r\n//連れて来るが、彼らは祭祀に関与しない。\r\n//　<RUBY text='かち'>徒士</RUBY>衆は敷地の外、武者衆は境内や上空で\r\n//警備につく」\r\n\"Ele trará uma companhia inteira de soldados de Fudaraku, mas estes não participarão da cerimônia em si. A infantaria guardará o perímetro, e os musha patrulharão tanto o céu quanto o recinto do santuário.\"\r\n"
  },
  {
   "offset": 10364,
@@ -187,27 +187,27 @@
  {
   "offset": 10492,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220330a00'>\r\n//「大将領と側近は上宮へ向かう。\r\n//　そこで太刀を奉納、祭儀を執り行う」\r\n\"The shogun will proceed with his attendants to the upper shrine, where the offering will take place.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220340a00'>\r\n//「ここまで襲撃の隙はない」\r\n\"It will be impossible to make our move during this stage of the visit.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220330a00'>\r\n//「大将領と側近は上宮へ向かう。\r\n//　そこで太刀を奉納、祭儀を執り行う」\r\n\"O xogum seguirá com seus assistentes para o santuário superior, onde a oferenda será realizada.\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220340a00'>\r\n//「ここまで襲撃の隙はない」\r\n\"Será impossível agir durante essa etapa da visita.\"\r\n"
  },
  {
   "offset": 10996,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220350a01'>\r\n//《大銀杏の陰に隠れてってわけにはいかない\r\n//のね》\r\n《I hear hiding behind the gingko tree works.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220350a01'>\r\n//《大銀杏の陰に隠れてってわけにはいかない\r\n//のね》\r\n《Dizem que se esconder atrás do ginkgo resolve.》\r\n"
  },
  {
   "offset": 11222,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220360a00'>\r\n//「実朝公の時は本人も随員も非武装であった\r\n//から、公暁はそれで成功したがな。\r\n//　護氏が連れる側近のうち少なくとも半数は\r\n//武者だと云う」\r\n\"Kugyo was only able to assassinate Sanetomo because neither he nor his attendants were armed at the time. Moriuji, I'm told, is certain to have several musha with him.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220360a00'>\r\n//「実朝公の時は本人も随員も非武装であった\r\n//から、公暁はそれで成功したがな。\r\n//　護氏が連れる側近のうち少なくとも半数は\r\n//武者だと云う」\r\n\"Kugyo só conseguiu assassinar Sanetomo porque nem ele nem seus acompanhantes estavam armados na ocasião. Dizem que Moriuji certamente terá vários musha consigo.\"\r\n"
  },
  {
   "offset": 11690,
   "en": "\r\n//　不意を襲っても彼らに防がれるだろう。\r\n//　そうこうする間に周辺から警備の者が集まってきて、\r\n//取り囲まれ、終わりだ。\r\n  Even if I take them by surprise, they will likely intercept me before I reach the shogun. The musha on patrol will arrive within seconds, and I will surely die.\r\n",
-  "pt": ""
+  "pt": "\r\n//　不意を襲っても彼らに防がれるだろう。\r\n//　そうこうする間に周辺から警備の者が集まってきて、\r\n//取り囲まれ、終わりだ。\r\n  Mesmo que os pegue de surpresa, provavelmente me interceptarão antes que eu chegue ao xogum. Os musha em patrulha chegarão em segundos, e eu certamente morrerei.\r\n"
  },
  {
   "offset": 12041,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220370a00'>\r\n//「しかし、この後。\r\n//　護氏は供奉の者と別れ、地下へ向かう」\r\n\"However. Immediately after the offering is complete, Moriuji will leave his retinue and proceed underground.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220370a00'>\r\n//「しかし、この後。\r\n//　護氏は供奉の者と別れ、地下へ向かう」\r\n\"Contudo. Logo após o término da oferenda, Moriuji se separará de sua comitiva e seguirá para o subsolo.\"\r\n"
  },
  {
   "offset": 12337,
@@ -217,117 +217,117 @@
  {
   "offset": 12465,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220390a00'>\r\n//「秘密の下宮にも太刀を奉納するためだ。\r\n//　同行を許されるのは、祭祀を行う神官数名\r\n//だけ」\r\n\"He must present a second sword, this time at the secret lower shrine. For this ceremony, he may be accompanied only by the few priests responsible.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220390a00'>\r\n//「秘密の下宮にも太刀を奉納するためだ。\r\n//　同行を許されるのは、祭祀を行う神官数名\r\n//だけ」\r\n\"Ele deve apresentar uma segunda espada, desta vez no santuário inferior secreto. Para essa cerimônia, só poderá ser acompanhado pelos poucos sacerdotes responsáveis.\"\r\n"
  },
  {
   "offset": 12846,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220400a01'>\r\n//《護衛はなし？\r\n//　……また随分と、おあつらえ向きね》\r\n《No guards? That seems awfully convenient.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220400a01'>\r\n//《護衛はなし？\r\n//　……また随分と、おあつらえ向きね》\r\n《Sem guardas? Isso parece conveniente demais.》\r\n"
  },
  {
   "offset": 13076,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220410a00'>\r\n//「これが古くからの慣例で、変更はできない\r\n//らしい」\r\n\"It's an ancient tradition. He cannot change it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220410a00'>\r\n//「これが古くからの慣例で、変更はできない\r\n//らしい」\r\n\"É uma tradição ancestral. Ele não pode mudá-la.\"\r\n"
  },
  {
   "offset": 13299,
   "en": "\r\n//　<RUBY text='たっ'>達</RUBY>て望めば変えられなくもないのだろうが、それで\r\n//は臆病者の<RUBY text='そし'>謗</RUBY>りを受ける。\r\n//　身内の信望を失い、四公方の誰かに地位を奪われる\r\n//ような事態になりかねない。\r\n  While he technically㉗<I>could,</I> to do so would make him appear a coward in the eyes of his fellow warriors. I cannot imagine that the conqueror of Yamato would risk undermining his authority, not with the four Kanto generals poised to make a grab for his seat.\r\n\r\n//　六波羅元帥がそんな運命を良しとするとは考えられ\r\n//なかった。\r\n",
-  "pt": ""
+  "pt": "\r\n//　<RUBY text='たっ'>達</RUBY>て望めば変えられなくもないのだろうが、それで\r\n//は臆病者の<RUBY text='そし'>謗</RUBY>りを受ける。\r\n//　身内の信望を失い、四公方の誰かに地位を奪われる\r\n//ような事態になりかねない。\r\n  Embora tecnicamente㉗<I>pudesse,</I> fazê-lo o faria parecer um covarde aos olhos de seus companheiros guerreiros. Não consigo imaginar que o conquistador de Yamato arriscaria minar sua própria autoridade, não com os quatro generais de Kanto prontos para tentar tomar seu posto.\r\n\r\n//　六波羅元帥がそんな運命を良しとするとは考えられ\r\n//なかった。\r\n"
  },
  {
   "offset": 13964,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220420a00'>\r\n//「暗殺の機会があるとすれば、この下宮参拝\r\n//の時だけだ」\r\n\"If I'm going to assassinate the shogun, this will be my only chance.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220420a00'>\r\n//「暗殺の機会があるとすれば、この下宮参拝\r\n//の時だけだ」\r\n\"Se eu for assassinar o xogum, esta será minha única chance.\"\r\n"
  },
  {
   "offset": 14214,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220430a01'>\r\n//《でしょうね……》\r\n《Guess so...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220430a01'>\r\n//《でしょうね……》\r\n《Acho que sim...》\r\n"
  },
  {
   "offset": 14362,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220440a00'>\r\n//「問題は」\r\n\"The problem...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220440a00'>\r\n//「問題は」\r\n\"O problema...\"\r\n"
  },
  {
   "offset": 14491,
   "en": "\r\n//　ここから先の具体案。\r\n  ...is how to carry off the attack.\r\n\r\n//　事前に下宮へ潜んで待つのは難しい。\r\n//　参拝儀式に先立って境内全域の検査が行われ、危険\r\n//要素はこの段階で徹底的に洗い出される。それが完了\r\n//すれば警備網が敷かれ、以後の潜入は不可能となる。\r\n  I cannot hide in the lower shrine. Every inch of it will be swept before the shogun's arrival, and afterward, security around the shrine will be far too tight to break through from the outside.\r\n\r\n//　儀式中の強行突入などは論外だ。\r\n",
-  "pt": ""
+  "pt": "\r\n//　ここから先の具体案。\r\n  ...é como executar o ataque.\r\n\r\n//　事前に下宮へ潜んで待つのは難しい。\r\n//　参拝儀式に先立って境内全域の検査が行われ、危険\r\n//要素はこの段階で徹底的に洗い出される。それが完了\r\n//すれば警備網が敷かれ、以後の潜入は不可能となる。\r\n  Não posso me esconder no santuário inferior. Cada canto será vasculhado antes da chegada do xogum e, depois, a segurança ao redor do santuário será rígida demais para eu invadir do lado de fora.\r\n\r\n//　儀式中の強行突入などは論外だ。\r\n"
  },
  {
   "offset": 15115,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220450a00'>\r\n//「……やはり手は一つか」\r\n\"...There's only one way to get close enough.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220450a00'>\r\n//「……やはり手は一つか」\r\n\"...Só há um jeito de chegar perto o bastante.\"\r\n"
  },
  {
   "offset": 15295,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220460a01'>\r\n//《神官になりすまして、大将領と一緒に下宮\r\n//へ降りる？》\r\n《Disguise yourself as one of the priests who'll be performing the ceremony?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220460a01'>\r\n//《神官になりすまして、大将領と一緒に下宮\r\n//へ降りる？》\r\n《Se disfarçar de um dos sacerdotes que vão realizar a cerimônia?》\r\n"
  },
  {
   "offset": 15561,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220470a00'>\r\n//「ああ」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220470a00'>\r\n//「ああ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 15677,
   "en": "\r\n//　そして暗殺を遂げた場合には、すぐさま八幡宮から\r\n//脱出。これに手管は要らず、騎航での強行突破で良い。\r\n///　外からの敵襲に備えた警備網は内からの奇襲に即応\r\n//しかねるだろう。捕まる危険はごく低い筈だった。\r\n  Assuming I follow through with the assassination, I will have to flee Hachiman Shrine posthaste. Fortunately, Rokuhara should not be expecting an attack from inside the security net. It should be relatively simple to break out.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そして暗殺を遂げた場合には、すぐさま八幡宮から\r\n//脱出。これに手管は要らず、騎航での強行突破で良い。\r\n///　外からの敵襲に備えた警備網は内からの奇襲に即応\r\n//しかねるだろう。捕まる危険はごく低い筈だった。\r\n  Supondo que eu leve o assassinato adiante, terei de fugir do Santuário Hachiman às pressas. Felizmente, é improvável que Rokuhara espere um ataque vindo de dentro de sua rede de segurança. Deve ser relativamente simples escapar.\r\n"
  },
  {
   "offset": 16223,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220480a01'>\r\n//《そうね。\r\n//　……問題はなさそうだけど》\r\n《Well... sounds like it could work.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220490a01'>\r\n//《何を悩んでるの？》\r\n《What's the problem?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220480a01'>\r\n//《そうね。\r\n//　……問題はなさそうだけど》\r\n《Bem... parece que pode funcionar.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220490a01'>\r\n//《何を悩んでるの？》\r\n《Qual é o problema?》\r\n"
  },
  {
   "offset": 16579,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220500a00'>\r\n//「お前をどうするかだ」\r\n\"What to do with you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220500a00'>\r\n//「お前をどうするかだ」\r\n\"O que fazer com você.\"\r\n"
  },
  {
   "offset": 16732,
   "en": "\r\n//　護氏は武者。\r\n//　もしも挑むことになるなら、劒冑がなくては勝負に\r\n//ならない。\r\n\r\n//　のだが……\r\n  Moriuji is a musha. I'll have no chance against him without my tsurugi.\r\n",
-  "pt": ""
+  "pt": "\r\n//　護氏は武者。\r\n//　もしも挑むことになるなら、劒冑がなくては勝負に\r\n//ならない。\r\n\r\n//　のだが……\r\n  Moriuji é um musha. Não terei chance contra ele sem minha tsurugi.\r\n"
  },
  {
   "offset": 16961,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220510a00'>\r\n//「持ち込む方法が思いつかん」\r\n\"I have no idea how to get you inside.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220510a00'>\r\n//「持ち込む方法が思いつかん」\r\n\"Não tenho ideia de como levar você para dentro.\"\r\n"
  },
  {
   "offset": 17140,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220520a01'>\r\n//《……私だけ、あらかじめ潜伏しておくって\r\n//のは駄目なの？》\r\n《...I'm pretty good at hiding. Why don't I wait there?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220520a01'>\r\n//《……私だけ、あらかじめ潜伏しておくって\r\n//のは駄目なの？》\r\n《...Sou bem boa em me esconder. Por que eu não espero lá?》\r\n"
  },
  {
   "offset": 17391,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220530a00'>\r\n//「事前検査には武者も加わるそうだ。\r\n//　如何にお前が隠形に優れていても、武者の\r\n//<RUBY text='みみ'>信号探査</RUBY>や<RUBY text='はだ'>熱源探査</RUBY>まで騙すのは無理だろう」\r\n\"Armored musha will be present during the preliminary sweep. As stealthy as you can be, I doubt you can fool their radar and thermal scans.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220530a00'>\r\n//「事前検査には武者も加わるそうだ。\r\n//　如何にお前が隠形に優れていても、武者の\r\n//<RUBY text='みみ'>信号探査</RUBY>や<RUBY text='はだ'>熱源探査</RUBY>まで騙すのは無理だろう」\r\n\"Musha blindados estarão presentes na varredura preliminar. Por mais furtiva que você seja, duvido que engane os radares e sensores térmicos deles.\"\r\n"
  },
  {
   "offset": 17865,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220540a01'>\r\n//《…………。\r\n//　検査が済んだ後で潜り込もうとしても……\r\n//同じことよね？》\r\n《Well... then I guess sneaking inside after they're done won't work either?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220540a01'>\r\n//《…………。\r\n//　検査が済んだ後で潜り込もうとしても……\r\n//同じことよね？》\r\n《Bem... então acho que me infiltrar depois que terminarem também não vai funcionar?》\r\n"
  },
  {
   "offset": 18159,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220550a00'>\r\n//「警備隊に武者がいない筈はないからな……」\r\n\"I can't imagine there won't be musha guarding the perimeter.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220550a00'>\r\n//「警備隊に武者がいない筈はないからな……」\r\n\"Não consigo imaginar que não haja musha vigiando o perímetro.\"\r\n"
  },
  {
   "offset": 18382,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220560a01'>\r\n//《祭具の中に紛れ込むとか》\r\n《Maybe I could pretend to be part of the regalia.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220560a01'>\r\n//《祭具の中に紛れ込むとか》\r\n《Talvez eu pudesse me passar por parte dos objetos rituais.》\r\n"
  },
  {
   "offset": 18579,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220570a00'>\r\n//「無理だろう。\r\n//　鏡や玉と一緒に蜘蛛の彫像があったら普通\r\n//気付く。奇天烈過ぎる。文化的に有り得ん」\r\n\"Don't be ridiculous. If they open the shrine and see a giant metal spider sitting there with the mirrors and beads, they'll know something's wrong. It's too bizarre.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220570a00'>\r\n//「無理だろう。\r\n//　鏡や玉と一緒に蜘蛛の彫像があったら普通\r\n//気付く。奇天烈過ぎる。文化的に有り得ん」\r\n\"Não seja ridícula. Se abrirem o santuário e virem uma aranha de metal gigante ali com os espelhos e as joias, saberão que há algo errado. É bizarro demais.\"\r\n"
  },
  {
   "offset": 18993,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220580a01'>\r\n//《……私、貴方の家で五百年ばかり、鏡や玉\r\n//と一緒に御神体やってたんですけど》\r\n《...I did spend five hundred years locked in your family shrine with the mirrors and beads, you know.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220580a01'>\r\n//《……私、貴方の家で五百年ばかり、鏡や玉\r\n//と一緒に御神体やってたんですけど》\r\n《...Eu passei quinhentos anos trancada no santuário da sua família com os espelhos e as joias, sabe.》\r\n"
  },
  {
   "offset": 19318,
@@ -337,12 +337,12 @@
  {
   "offset": 19490,
   "en": "\r\n<voice>\r\nA fair point.\"\r\n",
-  "pt": ""
+  "pt": "\r\n<voice>\r\nUm bom argumento.\"\r\n"
  },
  {
   "offset": 19525,
   "en": "\r\n//　振り返れば、奇天烈に過ぎる祭祀であった。\r\n  In retrospect, it was rather bizarre.\r\n\r\n//　つまるところ、考えはここで渦を巻く。\r\n//　俺一人の潜入なら神官を装えば済む話だが、村正を\r\n//連れてとなるともう一工夫が要る――しかし良い案が\r\n//浮かばない。\r\n  So this is what it comes down to: how to get Muramasa inside. For me, it's as simple as donning a priest's habit, but it will take some creativity if I want my tsurugi with me.\r\n\r\n//　いっそ神官ではなく警備の武者になりすまして……<k>\r\n//　\r\n//　無駄か。警備兵が任務を放り出して下宮へ向かった\r\n//りすれば、その時点で騒ぎになる。\r\n  Should I pose as a Rokuhara musha instead?<K>\r\n  No, that won't work. My cover will fail the second I make for the lower shrine.\r\n\r\n//　そもそもなりかわる困難が神官の比ではない。\r\n//　六波羅百万騎と称される大軍団の中でも武者はごく\r\n//限られた特権階級、『無名の者』などいない。誰かが\r\n//消え、代わりに別の者が増えていれば、必ず露見する。\r\n  Moreover, I can hardly expect to pass for a soldier. Even in the million-strong Rokuhara army, there is no such thing as a nameless musha. If someone disappears and an unknown musha shows up to take his place, they'll know that something's wrong.\r\n\r\n//　入念な準備の上で潜入するなら、見込みもあろうが。\r\n//　……そんな事をしている時間は無い。\r\n  I suppose it might work, given time to prepare... but that is time we don't have.\r\n",
-  "pt": ""
+  "pt": "\r\n//　振り返れば、奇天烈に過ぎる祭祀であった。\r\n  Em retrospecto, era bem bizarro.\r\n\r\n//　つまるところ、考えはここで渦を巻く。\r\n//　俺一人の潜入なら神官を装えば済む話だが、村正を\r\n//連れてとなるともう一工夫が要る――しかし良い案が\r\n//浮かばない。\r\n  Então é nisso que dá: como levar Muramasa para dentro. Para mim, basta vestir um hábito de sacerdote, mas será preciso criatividade se eu quiser minha tsurugi comigo.\r\n\r\n//　いっそ神官ではなく警備の武者になりすまして……<k>\r\n//　\r\n//　無駄か。警備兵が任務を放り出して下宮へ向かった\r\n//りすれば、その時点で騒ぎになる。\r\n  Deveria me passar por um musha de Rokuhara, então?<K>\r\n  Não, não vai funcionar. Meu disfarce cairá no instante em que eu for para o santuário inferior.\r\n\r\n//　そもそもなりかわる困難が神官の比ではない。\r\n//　六波羅百万騎と称される大軍団の中でも武者はごく\r\n//限られた特権階級、『無名の者』などいない。誰かが\r\n//消え、代わりに別の者が増えていれば、必ず露見する。\r\n  Além disso, dificilmente eu passaria por soldado. Mesmo no exército de um milhão de Rokuhara, não existe musha sem nome. Se alguém desaparecer e um musha desconhecido surgir em seu lugar, saberão que há algo errado.\r\n\r\n//　入念な準備の上で潜入するなら、見込みもあろうが。\r\n//　……そんな事をしている時間は無い。\r\n  Suponho que pudesse funcionar, com tempo para preparar... mas é tempo que não temos.\r\n"
  },
  {
   "offset": 21185,
@@ -352,52 +352,52 @@
  {
   "offset": 21319,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220610a00'>\r\n//「どうも手立ては無さそうだ。\r\n//　暗殺は断念するか」\r\n\"There doesn't seem to be a solution. I might have to give up on the assassination.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220610a00'>\r\n//「どうも手立ては無さそうだ。\r\n//　暗殺は断念するか」\r\n\"Parece que não há solução. Talvez eu tenha de desistir do assassinato.\"\r\n"
  },
  {
   "offset": 21577,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220620a00'>\r\n//「俺が単身で潜入するだけしよう。\r\n//　それならさして難しいことはない」\r\n\"In any case, I'll infiltrate the shrine alone. That, at least, should not be too difficult.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220620a00'>\r\n//「俺が単身で潜入するだけしよう。\r\n//　それならさして難しいことはない」\r\n\"De qualquer modo, vou me infiltrar sozinho no santuário. Isso, pelo menos, não deve ser muito difícil.\"\r\n"
  },
  {
   "offset": 21871,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220630a01'>\r\n//《危険よ。ばれた時どうするの。\r\n//　それに、襲う気もないのに潜り込んだって\r\n//意味がないじゃない》\r\n《It's too dangerous. What if he sees through your disguise? Besides, there's no point sneaking down there if you're not going to kill him.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220630a01'>\r\n//《危険よ。ばれた時どうするの。\r\n//　それに、襲う気もないのに潜り込んだって\r\n//意味がないじゃない》\r\n《É perigoso demais. E se ele perceber seu disfarce? Além disso, não faz sentido se infiltrar lá embaixo se você não vai matá-lo.》\r\n"
  },
  {
   "offset": 22261,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220640a00'>\r\n//「その通りだが、約束した手前、何もせずで\r\n//は宮殿下に対して義理が立たん」\r\n\"True, but I did give the prince my word. I can't do nothing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220640a00'>\r\n//「その通りだが、約束した手前、何もせずで\r\n//は宮殿下に対して義理が立たん」\r\n\"Verdade, mas eu dei minha palavra ao príncipe. Não posso ficar sem fazer nada.\"\r\n"
  },
  {
   "offset": 22530,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220650a01'>\r\n//《待って。\r\n//　要は、私も神官のふりをすればいいわけよ\r\n//ね？》\r\n《Wait, I know! I just have to pretend to be a priest too!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220650a01'>\r\n//《待って。\r\n//　要は、私も神官のふりをすればいいわけよ\r\n//ね？》\r\n《Espere, eu sei! Eu só preciso fingir que sou sacerdote também!》\r\n"
  },
  {
   "offset": 22788,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220660a00'>\r\n//「無茶を言うな」\r\n\"Have you lost your mind?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220660a00'>\r\n//「無茶を言うな」\r\n\"Você perdeu o juízo?\"\r\n"
  },
  {
   "offset": 22936,
   "en": "\r\n//　蜘蛛の御神体以上に、蜘蛛の神官は有り得ない。\r\n  A spider statue is one thing, but a spider priest?\r\n",
-  "pt": ""
+  "pt": "\r\n//　蜘蛛の御神体以上に、蜘蛛の神官は有り得ない。\r\n  Uma estátua de aranha é uma coisa, mas uma aranha como sacerdote?\r\n"
  },
  {
   "offset": 23073,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220670a01'>\r\n//《御堂はあの時、見なかったの？》\r\n《Didn't you see her?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220670a01'>\r\n//《御堂はあの時、見なかったの？》\r\n《Você não a viu?》\r\n"
  },
  {
   "offset": 23250,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220680a00'>\r\n//「何をだ」\r\n\"See who?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220680a00'>\r\n//「何をだ」\r\n\"Ver quem?\"\r\n"
  },
  {
   "offset": 23373,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220690a01'>\r\n//《…………。\r\n//　そうね……》\r\n《...Okay.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220700a01'>\r\n//《母様は、<RUBY text='・・・・・・'>一歩進めれば</RUBY>できると言っていた。\r\n//　……試してみましょうか》\r\n《She said I was only a step away... I can do this.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220690a01'>\r\n//《…………。\r\n//　そうね……》\r\n《...Certo.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220700a01'>\r\n//《母様は、<RUBY text='・・・・・・'>一歩進めれば</RUBY>できると言っていた。\r\n//　……試してみましょうか》\r\n《Ela disse que eu estava a um passo... Eu consigo fazer isso.》\r\n"
  },
  {
   "offset": 23830,
@@ -407,37 +407,37 @@
  {
   "offset": 23949,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220720a00'>\r\n//「村正？」\r\n\"Muramasa?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220720a00'>\r\n//「村正？」\r\n\"Muramasa?\"\r\n"
  },
  {
   "offset": 24073,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220730a01'>\r\n//《今は見ていて。\r\n//　……あの時の……母様の術式は……》\r\n《Just watch. Come on... how did Mother do it...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220740a01'>\r\n//《おそらく……》\r\n《It was probably something like...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220730a01'>\r\n//《今は見ていて。\r\n//　……あの時の……母様の術式は……》\r\n《Só observe. Vamos... como foi que a Mãe fez...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220740a01'>\r\n//《おそらく……》\r\n《Provavelmente foi algo como...》\r\n"
  },
  {
   "offset": 24470,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220750a00'>\r\n//「何を――」\r\n\"What are you―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220750a00'>\r\n//「何を――」\r\n\"O que você―\"\r\n"
  },
  {
   "offset": 24603,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220760a01'>\r\n//《昔の姿に戻ってみる》\r\n《I'm returning to my original body.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220760a01'>\r\n//《昔の姿に戻ってみる》\r\n《Vou voltar à minha forma original.》\r\n"
  },
  {
   "offset": 24780,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220770a00'>\r\n//「……<RUBY text='・・'>昔の</RUBY>!?」\r\n\"...What!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220770a00'>\r\n//「……<RUBY text='・・'>昔の</RUBY>!?」\r\n\"...O quê!?\"\r\n"
  },
  {
   "offset": 24936,
   "en": "\r\n//　それはどういう意味だ。\r\n//　まさか。\r\n  She can't mean―\r\n",
-  "pt": ""
+  "pt": "\r\n//　それはどういう意味だ。\r\n//　まさか。\r\n  Ela não pode estar falando―\r\n"
  },
  {
   "offset": 25026,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220780a01'>\r\n//《これで――》\r\n《Something like㉗<I>this!</I>》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220780a01'>\r\n//《これで――》\r\n《Algo como㉗<I>isto!</I>》\r\n"
  },
  {
   "offset": 25186,
@@ -447,31 +447,31 @@
  {
   "offset": 25352,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220800a01'>\r\n//《――で》\r\n《Ah!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220810a01'>\r\n//《できた》\r\n《...It worked.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220820a01'>\r\n//《できちゃった……》\r\n《It really worked!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220800a01'>\r\n//《――で》\r\n《Ah!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220810a01'>\r\n//《できた》\r\n《...Funcionou.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220820a01'>\r\n//《できちゃった……》\r\n《Funcionou mesmo!》\r\n"
  },
  {
   "offset": 25759,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220830a00'>\r\n//「……村正……」\r\n\"Muramasa...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220840a00'>\r\n//「お――お前なのか……」\r\n\"Is it... you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220830a00'>\r\n//「……村正……」\r\n\"Muramasa...\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220840a00'>\r\n//「お――お前なのか……」\r\n\"É... você?\"\r\n"
  },
  {
   "offset": 26035,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220850a01'>\r\n//《……ええ。御堂。\r\n//　私よ》\r\n《Yes, Mido... it's me.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220860a01'>\r\n//《<RUBY text='ひと'>蝦夷</RUBY>として生きていた頃の私よ！》\r\n《Just as I was in life!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220850a01'>\r\n//《……ええ。御堂。\r\n//　私よ》\r\n《Sim, Mido... sou eu.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220860a01'>\r\n//《<RUBY text='ひと'>蝦夷</RUBY>として生きていた頃の私よ！》\r\n《Exatamente como eu era em vida!》\r\n"
  },
  {
   "offset": 26411,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220870a00'>\r\n//「…………………………………………………\r\n//……………………………………………………\r\n//……………………………………………………\r\n//……………………………………………そうか」\r\n\"Oh.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220870a00'>\r\n//「…………………………………………………\r\n//……………………………………………………\r\n//……………………………………………………\r\n//……………………………………………そうか」\r\n\"Ah.\"\r\n"
  },
  {
   "offset": 26769,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220880a00'>\r\n//「非常に……\r\n//　その、個性的……だな？」\r\n\"Well... we all have our differences. That's what makes us unique... right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md01/0220880a00'>\r\n//「非常に……\r\n//　その、個性的……だな？」\r\n\"Bem... todos temos nossas diferenças. É isso que nos torna únicos... certo?\"\r\n"
  },
  {
   "offset": 27004,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220890a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220900a01'>\r\n//《あれ……？\r\n//　私、ものすごく間違えてる……？》\r\n《...Why do I get the feeling I screwed something up?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220890a01'>\r\n//《…………》\r\n《......》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0220900a01'>\r\n//《あれ……？\r\n//　私、ものすごく間違えてる……？》\r\n《...Por que tenho a sensação de que fiz uma besteira?》\r\n"
  }
 ]

@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100010a08'>\r\n//「――というわけなのよっ！\r\n//　わかった!?」\r\n\"And there you have it! So we're agreed!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100010a08'>\r\n//「――というわけなのよっ！\r\n//　わかった!?」\r\n\"E é isso! Então estamos de acordo!?\"\r\n"
  },
  {
   "offset": 416,
@@ -17,87 +17,87 @@
  {
   "offset": 682,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100040a08'>\r\n//「……ちょっと。\r\n//　何で黙るのよ！」\r\n\"I'd appreciate some sort of response!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100040a08'>\r\n//「……ちょっと。\r\n//　何で黙るのよ！」\r\n\"Eu agradeceria algum tipo de resposta!?\"\r\n"
  },
  {
   "offset": 874,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100050a07'>\r\n//「あー……何だ。その。\r\n//　つまり、おめーの話を総合すると」\r\n\"So basically, what you're saying is...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100050a07'>\r\n//「あー……何だ。その。\r\n//　つまり、おめーの話を総合すると」\r\n\"Então, basicamente, o que você está dizendo é...\"\r\n"
  },
  {
   "offset": 1109,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100060a07'>\r\n//「エクスカリバーは<RUBY text='エクス'>ＥＸ</RUBY>カリバーン……？」\r\n\"Excalibur turned out to be an ex-Caliburn?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100060a07'>\r\n//「エクスカリバーは<RUBY text='エクス'>ＥＸ</RUBY>カリバーン……？」\r\n\"A Excalibur, no fim, era uma ex-Caliburn...?\"\r\n"
  },
  {
   "offset": 1350,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100070a08'>\r\n//「あんたは何を聞いてたッ!?」\r\n\"Were you even listening!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100070a08'>\r\n//「あんたは何を聞いてたッ!?」\r\n\"Você estava me ouvindo, por acaso!?\"\r\n"
  },
  {
   "offset": 1516,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100080a06'>\r\n//「……童心和尚を殺したのは舞殿宮、だと？」\r\n\"You believe Prince Haruhiro assassinated Reverend Doshin.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100080a06'>\r\n//「……童心和尚を殺したのは舞殿宮、だと？」\r\n\"Você acredita que o príncipe Haruhiro assassinou o reverendo Doshin.\"\r\n"
  },
  {
   "offset": 1745,
   "en": "\r\n//嶋：修正（なのっ）【090930】\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100090a08'>\r\n//「そ、そう！　そうなのよっ！\r\n//　これは幕府への挑戦よ！　危機よ！」\r\n\"Yes! That's exactly what I'm saying! He's trying to overthrow the shogunate.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//嶋：修正（なのっ）【090930】\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100090a08'>\r\n//「そ、そう！　そうなのよっ！\r\n//　これは幕府への挑戦よ！　危機よ！」\r\n\"Sim! É exatamente isso que eu estou dizendo! Ele está tentando derrubar o xogunato.\"\r\n"
  },
  {
   "offset": 2064,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100100a08'>\r\n//「麿たちの軍勢を結集して対抗しないと。\r\n//　いえ、この際、大宰府の足利幸行も呼んで\r\n//……借りをつくることになるけど仕方ないわ。\r\n//あと室町探題には朝廷を押さえさせて」\r\n\"We need to act fast, bring our armies together. In fact, under the circumstances, I think we should bring Uncle Yukitsura up from Kyushu after all. We'll owe him, but that's better than the alternative. Meanwhile, we'll have our people in Kyoto keep the emperor quiet so―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100100a08'>\r\n//「麿たちの軍勢を結集して対抗しないと。\r\n//　いえ、この際、大宰府の足利幸行も呼んで\r\n//……借りをつくることになるけど仕方ないわ。\r\n//あと室町探題には朝廷を押さえさせて」\r\n\"Precisamos agir rápido e reunir nossos exércitos. Na verdade, dadas as circunstâncias, acho que devemos trazer o tio Yukitsura lá de Kyushu, afinal. Vamos ficar devendo um favor a ele, mas é melhor que a alternativa. Enquanto isso, vamos fazer nossa gente em Kyoto manter o imperador quieto, para que―\"\r\n"
  },
  {
   "offset": 2683,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100110a07'>\r\n//「お茶のおかわりいるー？」\r\n\"Want some more tea?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100110a07'>\r\n//「お茶のおかわりいるー？」\r\n\"Quer mais chá?\"\r\n"
  },
  {
   "offset": 2850,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100120a06'>\r\n//「貰おう」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100120a06'>\r\n//「貰おう」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 2978,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100130a08'>\r\n//「聞いてってば！」\r\n\"LISTEN!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100130a08'>\r\n//「聞いてってば！」\r\n\"ESCUTEM!\"\r\n"
  },
  {
   "offset": 3112,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100140a06'>\r\n//「聞いてやる。\r\n//　だが茶くらい飲ませろ。貴様の妄想夢物語\r\n//に付き合うのはかなりの骨だ」\r\n\"I am listening, but you'll forgive me if I take some tea while I do. These lunatic ravings of yours are exhausting.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100140a06'>\r\n//「聞いてやる。\r\n//　だが茶くらい飲ませろ。貴様の妄想夢物語\r\n//に付き合うのはかなりの骨だ」\r\n\"Estou ouvindo, mas você me perdoará se eu tomar um chá enquanto ouço. Esses seus delírios de lunático são exaustivos.\"\r\n"
  },
  {
   "offset": 3467,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100150a07'>\r\n//「うむ。できればダイジェスト版にしてくれ」\r\n\"Yeah. Think you could give us the abridged version?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100150a07'>\r\n//「うむ。できればダイジェスト版にしてくれ」\r\n\"É. Acha que dá para nos dar a versão resumida?\"\r\n"
  },
  {
   "offset": 3690,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100160a08'>\r\n//「妄想でも夢でも物語でもないってーの!!\r\n//　舞殿宮は六波羅を滅ぼすつもりなのよっ！\r\n//その手始めに童心様を亡き者にしたのっ！」\r\n\"I'm not crazy! He really is out to get us! And the reverend was his first victim!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100160a08'>\r\n//「妄想でも夢でも物語でもないってーの!!\r\n//　舞殿宮は六波羅を滅ぼすつもりなのよっ！\r\n//その手始めに童心様を亡き者にしたのっ！」\r\n\"Não estou louca! Ele realmente está atrás de nós! E o reverendo foi a primeira vítima dele!\"\r\n"
  },
  {
   "offset": 4055,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100170a08'>\r\n//「いえ……もしかしたらお父様を殺めたのも！\r\n//　そうよ！　そうに違いないわ！」\r\n\"No, wait. He must have killed Father too! Of course! It makes perfect sense!\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100180a08'>\r\n//「これが危機でなくて何なのッ!?」\r\n\"Can't you see what's happening!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100170a08'>\r\n//「いえ……もしかしたらお父様を殺めたのも！\r\n//　そうよ！　そうに違いないわ！」\r\n\"Não, esperem. Ele deve ter matado o Pai também! Claro! Faz todo o sentido!\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100180a08'>\r\n//「これが危機でなくて何なのッ!?」\r\n\"Vocês não estão vendo o que está acontecendo!?\"\r\n"
  },
  {
   "offset": 4517,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100190a06'>\r\n//「被害妄想だ」\r\n\"I can see you've lost your mind.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100190a06'>\r\n//「被害妄想だ」\r\n\"Vejo que você perdeu o juízo.\"\r\n"
  },
  {
   "offset": 4679,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100200a07'>\r\n//「仮想戦記？」\r\n\"Or maybe you're planning your light novel debut?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100200a07'>\r\n//「仮想戦記？」\r\n\"Ou talvez esteja planejando sua estreia em light novel?\"\r\n"
  },
  {
   "offset": 4857,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100210a08'>\r\n//「違うっつーのぉ！\r\n//　キーーーーーーーーーーッ!!」\r\n\"NO! GAHHHHHHH!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100210a08'>\r\n//「違うっつーのぉ！\r\n//　キーーーーーーーーーーッ!!」\r\n\"NÃO! AAARGHHHHHH!\"\r\n"
  },
  {
   "offset": 5046,
@@ -107,62 +107,62 @@
  {
   "offset": 5173,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100230a07'>\r\n//「あのさぁ。\r\n//　親王がどーやって、そんなことすんのさ？\r\n//あのおっちゃん、身辺警護の兵隊も自前じゃ\r\n//持ってないんですけど？」\r\n\"I mean, how could the prince pull that off, huh? He's got no men. Not even a bodyguard.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100230a07'>\r\n//「あのさぁ。\r\n//　親王がどーやって、そんなことすんのさ？\r\n//あのおっちゃん、身辺警護の兵隊も自前じゃ\r\n//持ってないんですけど？」\r\n\"Quero dizer, como o príncipe conseguiria fazer isso, hein? Ele não tem homens. Nem um guarda-costas.\"\r\n"
  },
  {
   "offset": 5555,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100240a08'>\r\n//「だっかっらっ、隠し持ってたのよ！\r\n//　信じられないけど、そう考えなきゃ説明が\r\n//つかない」\r\n\"He was hiding them, of course! It's hard to believe, but it's the only explanation!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100240a08'>\r\n//「だっかっらっ、隠し持ってたのよ！\r\n//　信じられないけど、そう考えなきゃ説明が\r\n//つかない」\r\n\"Ele os estava escondendo, claro! Custa a crer, mas é a única explicação!\"\r\n"
  },
  {
   "offset": 5872,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100250a08'>\r\n//「間違いなく、武者もいる……。\r\n//　うぅ、どれほどの戦力を抱えてるのかしら」\r\n\"He must have musha serving him... I only wonder how many. There could be dozens. Hundreds, even.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100250a08'>\r\n//「間違いなく、武者もいる……。\r\n//　うぅ、どれほどの戦力を抱えてるのかしら」\r\n\"Ele deve ter musha a seu serviço... Só me pergunto quantos. Podem ser dezenas. Centenas, até.\"\r\n"
  },
  {
   "offset": 6180,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100260a07'>\r\n//「へぇ」\r\n\"Wow.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100260a07'>\r\n//「へぇ」\r\n\"Uau.\"\r\n"
  },
  {
   "offset": 6305,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100270a06'>\r\n//「ほぅ」\r\n\"Yes. Wow.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100270a06'>\r\n//「ほぅ」\r\n\"Sim. Uau.\"\r\n"
  },
  {
   "offset": 6435,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100280a08'>\r\n//「真面目に聞けぇ!!」\r\n\"THIS IS SERIOUS!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100280a08'>\r\n//「真面目に聞けぇ!!」\r\n\"ISSO É SÉRIO!\"\r\n"
  },
  {
   "offset": 6580,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100290a07'>\r\n//「聞いてるよ。\r\n//　……どう思う？」\r\n\"We're taking it plenty serious. Whadda ya think, Shishiku?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100290a07'>\r\n//「聞いてるよ。\r\n//　……どう思う？」\r\n\"Estamos levando bem a sério. O que você acha, Shishiku?\"\r\n"
  },
  {
   "offset": 6799,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100300a06'>\r\n//「さて。\r\n//　<RUBY text='・・・・・・・'>説明がつかない</RUBY>、とのことだが？」\r\n\"Well now. <I>Apparently,</I> that's the only explanation.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100300a06'>\r\n//「さて。\r\n//　<RUBY text='・・・・・・・'>説明がつかない</RUBY>、とのことだが？」\r\n\"Pois bem. <I>Aparentemente,</I> essa é a única explicação.\"\r\n"
  },
  {
   "offset": 7074,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100310a07'>\r\n//「ああ。\r\n//　そう言ったな」\r\n\"Yeah. Apparently.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100310a07'>\r\n//「ああ。\r\n//　そう言ったな」\r\n\"É. Aparentemente.\"\r\n"
  },
  {
   "offset": 7240,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100320a08'>\r\n//「え？」\r\n\"Uh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100320a08'>\r\n//「え？」\r\n\"Hã...\"\r\n"
  },
  {
   "offset": 7357,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100330a07'>\r\n//「なんでそう考えなきゃ説明つかねーんだろ。\r\n//　それこそ大宰府の反逆とか、ＧＨＱの陰謀\r\n//とか、もっとフツーに有りそうな推測は何ぼ\r\n//でも立てられんのにな？」\r\n\"Come㉓<I>on,</I>㉒man. I can think of all sorts of explanations. Like maybe Yukitsura's starting something, or GHQ's stepping up their plans. Either of those makes way more sense.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100330a07'>\r\n//「なんでそう考えなきゃ説明つかねーんだろ。\r\n//　それこそ大宰府の反逆とか、ＧＨＱの陰謀\r\n//とか、もっとフツーに有りそうな推測は何ぼ\r\n//でも立てられんのにな？」\r\n\"Va㉓<I>mos,</I>㉒ cara. Consigo pensar em todo tipo de explicação. Tipo, talvez o Yukitsura esteja aprontando alguma, ou a GHQ esteja acelerando seus planos. Qualquer uma das duas faz muito mais sentido.\"\r\n"
  },
  {
   "offset": 7878,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100340a06'>\r\n//「実に不可解な話だ」\r\n\"I find it odd that you jumped straight to the least likely possibility.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100340a06'>\r\n//「実に不可解な話だ」\r\n\"Acho estranho você ter pulado direto para a possibilidade menos provável.\"\r\n"
  },
  {
   "offset": 8088,
@@ -172,87 +172,87 @@
  {
   "offset": 8215,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100360a07'>\r\n//「<RUBY text='・・・・・・・'>舞殿宮がやった</RUBY>って部分だけは確信がある\r\n//みたいに聞こえるぜ？　雷蝶クン」\r\n\"It's almost like you're sure the prince was behind it. Weird.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100360a07'>\r\n//「<RUBY text='・・・・・・・'>舞殿宮がやった</RUBY>って部分だけは確信がある\r\n//みたいに聞こえるぜ？　雷蝶クン」\r\n\"É quase como se você tivesse certeza de que o príncipe estava por trás disso. Estranho.\"\r\n"
  },
  {
   "offset": 8539,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100370a08'>\r\n//「あ……いえ、それは……ね。\r\n//　麿の手の者が、情報をつかんだから」\r\n\"W- Well of course I'm sure! I have intelligence implicating the prince!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100370a08'>\r\n//「あ……いえ、それは……ね。\r\n//　麿の手の者が、情報をつかんだから」\r\n\"B- Bom, é claro que tenho certeza! Tenho informações que incriminam o príncipe!\"\r\n"
  },
  {
   "offset": 8810,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100380a07'>\r\n//「ならそこから言やあいいだろーに。\r\n//　なんで筋道立てて話さないんだ？」\r\n\"Well shit. Why didn't you say so? Coulda saved some time.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100380a07'>\r\n//「ならそこから言やあいいだろーに。\r\n//　なんで筋道立てて話さないんだ？」\r\n\"Porra. Por que não disse logo? Teria economizado tempo.\"\r\n"
  },
  {
   "offset": 9082,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100390a08'>\r\n//「そ、そうね。麿としたことが。\r\n//　ちょっと動転していたみたい」\r\n\"Y- Yes, you're right. I let panic get the better of me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100390a08'>\r\n//「そ、そうね。麿としたことが。\r\n//　ちょっと動転していたみたい」\r\n\"S- Sim, você tem razão. Deixei o pânico tomar conta de mim.\"\r\n"
  },
  {
   "offset": 9331,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100400a06'>\r\n//「それにしても大したものだ。\r\n//　まだ城内の混乱すら収まっていない有様だ\r\n//というのに、既に貴様はそこまで真相に確信\r\n//を持てるだけの情報を揃えているとは」\r\n\"Still, I'm impressed. While everyone else has been dealing with the fallout, you've managed to get to the bottom of this mystery.\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100410a06'>\r\n//「余程に優秀な諜報班を抱えているのだな？」\r\n\"You must have some excellent spies.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100400a06'>\r\n//「それにしても大したものだ。\r\n//　まだ城内の混乱すら収まっていない有様だ\r\n//というのに、既に貴様はそこまで真相に確信\r\n//を持てるだけの情報を揃えているとは」\r\n\"Ainda assim, estou impressionado. Enquanto todos os outros lidam com as consequências, você conseguiu chegar ao fundo desse mistério.\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100410a06'>\r\n//「余程に優秀な諜報班を抱えているのだな？」\r\n\"Você deve ter espiões excelentes.\"\r\n"
  },
  {
   "offset": 9996,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100420a08'>\r\n//「え、ええ……」\r\n\"Well... yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100420a08'>\r\n//「え、ええ……」\r\n\"Bem... sim.\"\r\n"
  },
  {
   "offset": 10132,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100430a07'>\r\n//「知らなかったにゃー。\r\n//　厩衆より優秀なんでね？　常闇もこれじゃ\r\n//面目丸潰れだ」\r\n\"Better than the Umaya-shu? Wow. Jo'an's gonna freak.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100430a07'>\r\n//「知らなかったにゃー。\r\n//　厩衆より優秀なんでね？　常闇もこれじゃ\r\n//面目丸潰れだ」\r\n\"Melhores que os Umaya-shu? Uau. O Jo'an vai pirar.\"\r\n"
  },
  {
   "offset": 10415,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100440a06'>\r\n//「教えを乞いたがるだろうよ」\r\n\"Perhaps he'll come asking for advice.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100440a06'>\r\n//「教えを乞いたがるだろうよ」\r\n\"Talvez ele venha pedir conselhos.\"\r\n"
  },
  {
   "offset": 10603,
   "en": "\r\n//嶋：修正（今は）【090930】\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100450a08'>\r\n//「そっ、そんなことは今、どうでも良くて！\r\n//　舞殿宮への対処を考えましょう！」\r\n\"A- Anyway! The point is we have to do something!\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100460a08'>\r\n//「向こうが実力行使で来ている以上、こちら\r\n//もそうする以外にないわ。\r\n//　どこからどれだけの兵力が出てくるかわか\r\n//らない。今動かせる限りの軍を建朝寺へ――」\r\n\"There's no choice now but to use force. I say we go in with all the men we can spare, take no chances. There's no telling how many―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//嶋：修正（今は）【090930】\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100450a08'>\r\n//「そっ、そんなことは今、どうでも良くて！\r\n//　舞殿宮への対処を考えましょう！」\r\n\"D- De qualquer forma! O importante é que precisamos fazer alguma coisa!\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100460a08'>\r\n//「向こうが実力行使で来ている以上、こちら\r\n//もそうする以外にないわ。\r\n//　どこからどれだけの兵力が出てくるかわか\r\n//らない。今動かせる限りの軍を建朝寺へ――」\r\n\"Não há escolha agora a não ser usar a força. Proponho que avancemos com todos os homens de que pudermos dispor, sem correr riscos. Não dá para saber quantos―\"\r\n"
  },
  {
   "offset": 11362,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100470a07'>\r\n//「おめーがやれ」\r\n\"You do it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100470a07'>\r\n//「おめーがやれ」\r\n\"Faça você.\"\r\n"
  },
  {
   "offset": 11505,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100480a08'>\r\n//「……は？」\r\n\"...What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100480a08'>\r\n//「……は？」\r\n\"...O quê?\"\r\n"
  },
  {
   "offset": 11631,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100490a07'>\r\n//「小弓軍管区の兵を集めな。\r\n//　それで親王襲って殺してこい」\r\n\"Take your men and go kill the prince.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100490a07'>\r\n//「小弓軍管区の兵を集めな。\r\n//　それで親王襲って殺してこい」\r\n\"Pega teus homens e vai matar o príncipe.\"\r\n"
  },
  {
   "offset": 11865,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100500a08'>\r\n//「麿……が？\r\n//　麿の軍だけで？」\r\n\"...Me? Alone?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100500a08'>\r\n//「麿……が？\r\n//　麿の軍だけで？」\r\n\"...Eu? Sozinha?\"\r\n"
  },
  {
   "offset": 12027,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100510a06'>\r\n//「そうだ」\r\n\"That's right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100510a06'>\r\n//「そうだ」\r\n\"Isso mesmo.\"\r\n"
  },
  {
   "offset": 12164,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100520a08'>\r\n//「な、何でよ」\r\n\"Wh- Why do㉓<I>I</I>㉓have to―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100520a08'>\r\n//「な、何でよ」\r\n\"Po- Por que ㉓<I>eu</I>㉓ tenho que―\"\r\n"
  },
  {
   "offset": 12319,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100530a07'>\r\n//「あー？\r\n//　親切のつもりなんだけどなぁー？」\r\n\"Whoa! Whoa! We're thinking of㉓<I>you</I> here.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100540a07'>\r\n//「あてらの軍で攻めたら、親王をどーすっか\r\n//わかんないよ？\r\n//　殺さないかもしれない。<RUBY text='・・・・・・・・'>ちょっと話を聞い</RUBY>\r\n//<RUBY text='・・'>たり</RUBY>するかも」\r\n\"I mean, if we go in, who knows what might happen? Maybe we don't kill the prince. Maybe we ask a few questions instead.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100530a07'>\r\n//「あー？\r\n//　親切のつもりなんだけどなぁー？」\r\n\"Opa! Opa! A gente está pensando em ㉓<I>você</I> aqui.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100540a07'>\r\n//「あてらの軍で攻めたら、親王をどーすっか\r\n//わかんないよ？\r\n//　殺さないかもしれない。<RUBY text='・・・・・・・・'>ちょっと話を聞い</RUBY>\r\n//<RUBY text='・・'>たり</RUBY>するかも」\r\n\"Quer dizer, se a gente entrar, quem sabe o que pode acontecer? Talvez a gente não mate o príncipe. Talvez a gente faça algumas perguntas em vez disso.\"\r\n"
  },
  {
   "offset": 13009,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100550a06'>\r\n//「そうだな。\r\n//　どうやって普陀楽城襲撃などという暴挙を\r\n//成し遂げたのか……とか、な」\r\n\"Such as how he managed to get his men inside the castle in the first place.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100550a06'>\r\n//「そうだな。\r\n//　どうやって普陀楽城襲撃などという暴挙を\r\n//成し遂げたのか……とか、な」\r\n\"Como, por exemplo, de que maneira ele conseguiu colocar seus homens dentro do castelo, para começar.\"\r\n"
  },
  {
   "offset": 13321,
@@ -262,22 +262,22 @@
  {
   "offset": 13430,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100570a07'>\r\n//「どーする？」\r\n\"What's it gonna be, hoss?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100570a07'>\r\n//「どーする？」\r\n\"O que vai ser, chefe?\"\r\n"
  },
  {
   "offset": 13585,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100580a08'>\r\n//「ぐっ……\r\n//　な――何のことかわからないけどわかった\r\n//わよ」\r\n\"I... don't know what you're insinuating... but fine.\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100590a08'>\r\n//「麿の手勢で片付けましょう……」\r\n\"I'll take care of it myself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100580a08'>\r\n//「ぐっ……\r\n//　な――何のことかわからないけどわかった\r\n//わよ」\r\n\"Eu... não sei o que você está insinuando... mas tudo bem.\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100590a08'>\r\n//「麿の手勢で片付けましょう……」\r\n\"Eu mesma resolvo isso.\"\r\n"
  },
  {
   "offset": 13997,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100600a07'>\r\n//「手早くな。\r\n//　そう長くは待たねえから」\r\n\"Chop chop, okay? We're kinda pressed for time here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100600a07'>\r\n//「手早くな。\r\n//　そう長くは待たねえから」\r\n\"Anda logo, tá? A gente está meio sem tempo aqui.\"\r\n"
  },
  {
   "offset": 14218,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100610a06'>\r\n//「一週間だ。\r\n//　その刻限を過ぎたら――」\r\n\"One week. If it isn't finished by then...\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100620a06'>\r\n//「堀越と篠川の両軍は、<RUBY text='・・・'>反逆者</RUBY>の処分を行う」\r\n\"Chachamaru and I will deal with㉒<I>all</I>㉔the traitors.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100610a06'>\r\n//「一週間だ。\r\n//　その刻限を過ぎたら――」\r\n\"Uma semana. Se não estiver terminado até lá...\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100620a06'>\r\n//「堀越と篠川の両軍は、<RUBY text='・・・'>反逆者</RUBY>の処分を行う」\r\n\"Chachamaru e eu cuidaremos de ㉒<I>todos</I>㉔ os traidores.\"\r\n"
  },
  {
   "offset": 14683,
@@ -287,76 +287,76 @@
  {
   "offset": 14807,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100640a08'>\r\n//（ど……どうして……）\r\n(Wh- Why...)\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100650a08'>\r\n//（どうしてこんな事に……）\r\n(Why is this happening!?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100640a08'>\r\n//（ど……どうして……）\r\n\"(Po- Por quê...)\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/mb03/0100650a08'>\r\n//（どうしてこんな事に……）\r\n\"(Por que isso está acontecendo!?)\"\r\n"
  },
  {
   "offset": 15104,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100660a07'>\r\n//「やるかね？　あいつ」\r\n\"Think he'll do it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100660a07'>\r\n//「やるかね？　あいつ」\r\n\"Acha que ele vai fazer isso?\"\r\n"
  },
  {
   "offset": 15264,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100670a06'>\r\n//「やるしかなかろうさ。\r\n//　馬鹿も馬鹿なりに計算くらいはする。俺と\r\n//貴様を同時に敵に回して勝てるとは思うまい」\r\n\"He has no choice. He's a fool, but even he can see that he stands no chance against our combined armies.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100670a06'>\r\n//「やるしかなかろうさ。\r\n//　馬鹿も馬鹿なりに計算くらいはする。俺と\r\n//貴様を同時に敵に回して勝てるとは思うまい」\r\n\"Ele não tem escolha. É um tolo, mas até ele percebe que não tem a menor chance contra nossos exércitos unidos.\"\r\n"
  },
  {
   "offset": 15641,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100680a07'>\r\n//「……馬鹿かぁ。\r\n//　あいつは馬鹿とは少し違うね。ただ、大き\r\n//過ぎる服を着たから頭が隠れて前が見えなく\r\n//なったってだけでね」\r\n\"A fool, huh? I think you're too hard on the guy. He just got himself stuck in an outfit a few sizes too big.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100680a07'>\r\n//「……馬鹿かぁ。\r\n//　あいつは馬鹿とは少し違うね。ただ、大き\r\n//過ぎる服を着たから頭が隠れて前が見えなく\r\n//なったってだけでね」\r\n\"Um tolo, hein? Acho que você está sendo duro demais com ele. Ele só se enfiou numa roupa alguns tamanhos acima do dele.\"\r\n"
  },
  {
   "offset": 16044,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100690a06'>\r\n//「それこそ馬鹿の証明だろうが」\r\n\"That sounds like a fool to me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100690a06'>\r\n//「それこそ馬鹿の証明だろうが」\r\n\"Isso me parece coisa de tolo.\"\r\n"
  },
  {
   "offset": 16228,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100700a07'>\r\n//「違うとは言わねーけど」\r\n\"Can't argue there.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100700a07'>\r\n//「違うとは言わねーけど」\r\n\"Não dá para negar.\"\r\n"
  },
  {
   "offset": 16391,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100710a06'>\r\n//「貴様は雷蝶を余り嫌わなかったな」\r\n\"You always did have a soft spot for him.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100710a06'>\r\n//「貴様は雷蝶を余り嫌わなかったな」\r\n\"Você sempre teve um fraco por ele.\"\r\n"
  },
  {
   "offset": 16591,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100720a07'>\r\n//「ん。まーね。\r\n//　あいつ裏も表も無いしね……正しくは裏と\r\n//表が筒抜けなんだけど。そういう阿呆は嫌い\r\n//じゃない」\r\n\"You could say that. With him, what you see is what you get, no matter how hard he tries to hide it. Guess I do have a bit of a soft spot for dummies like that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100720a07'>\r\n//「ん。まーね。\r\n//　あいつ裏も表も無いしね……正しくは裏と\r\n//表が筒抜けなんだけど。そういう阿呆は嫌い\r\n//じゃない」\r\n\"Dá para dizer. Com ele, o que você vê é o que você tem, por mais que ele se esforce para esconder. Acho que tenho mesmo um fraco por bobos assim.\"\r\n"
  },
  {
   "offset": 17027,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100730a07'>\r\n//「だから、後始末もあてがやっとくよ」\r\n\"So don't worry. I'll take care of the rest.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100730a07'>\r\n//「だから、後始末もあてがやっとくよ」\r\n\"Então não se preocupa. Eu cuido do resto.\"\r\n"
  },
  {
   "offset": 17233,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100740a06'>\r\n//「……そうか」\r\n\"...Very well.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100740a06'>\r\n//「……そうか」\r\n\"...Muito bem.\"\r\n"
  },
  {
   "offset": 17376,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100750a07'>\r\n//「六波羅も終わりだな」\r\n\"Looks like Rokuhara's done for.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100750a07'>\r\n//「六波羅も終わりだな」\r\n\"Parece que o Rokuhara está acabado.\"\r\n"
  },
  {
   "offset": 17549,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100760a06'>\r\n//「終わらせはせん。\r\n//　俺がいる限り」\r\n\"No. Not while I still breathe.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100760a06'>\r\n//「終わらせはせん。\r\n//　俺がいる限り」\r\n\"Não. Enquanto eu ainda respirar.\"\r\n"
  },
  {
   "offset": 17743,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100770a07'>\r\n//「へぇ。まだやる気なんだ、獅子吼。\r\n//　てことは時王も連れてく？」\r\n\"Lookit you, still full of fight. That mean you'll be taking Tokio, then?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100770a07'>\r\n//「へぇ。まだやる気なんだ、獅子吼。\r\n//　てことは時王も連れてく？」\r\n\"Olha só para você, ainda com gás para a luta. Quer dizer que vai levar o Tokio junto, então?\"\r\n"
  },
  {
   "offset": 18021,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100780a06'>\r\n//「そのつもりだ。\r\n//　鎌倉は貴様の好きにするがいい」\r\n\"Yes. Kamakura is yours.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mb03/0100780a06'>\r\n//「そのつもりだ。\r\n//　鎌倉は貴様の好きにするがいい」\r\n\"Sim. Kamakura é sua.\"\r\n"
  },
  {
   "offset": 18229,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100790a07'>\r\n//「そっか。\r\n//　んじゃー……綺麗にやっちまうか」\r\n\"Mine, huh? Well... guess it's time to clean house.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/mb03/0100790a07'>\r\n//「そっか。\r\n//　んじゃー……綺麗にやっちまうか」\r\n\"Minha, hein? Bom... acho que é hora de limpar a casa.\"\r\n"
  }
 ]

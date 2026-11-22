@@ -2,37 +2,37 @@
  {
   "offset": 213,
   "en": "\r\n//　決意はついた。\r\n\r\n//　けれど、助けられた義理というものがある。\r\n//　無断で出て行くわけにはいかなかった。\r\n  I've made up my mind.\r\n\r\n  Still, I do owe them a debt. I can't just leave without a word.\r\n",
-  "pt": ""
+  "pt": "\r\n//　決意はついた。\r\n\r\n//　けれど、助けられた義理というものがある。\r\n//　無断で出て行くわけにはいかなかった。\r\n  Já me decidi.\r\n\r\n  Ainda assim, tenho uma dívida com eles. Não posso simplesmente sair sem dizer nada.\r\n"
  },
  {
   "offset": 475,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190010a10'>\r\n//「普陀楽城へ行く……やて？」\r\n\"You're... going to Fudaraku?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190010a10'>\r\n//「普陀楽城へ行く……やて？」\r\n\"Você... vai para Fudaraku?\"\r\n"
  },
  {
   "offset": 654,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190020a01'>\r\n//「はい」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190020a01'>\r\n//「はい」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 776,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190030b26'>\r\n//「無謀ぞ！\r\n//　我らも幾度となくあの城に間者を放っては\r\n//いるが、首尾良く忍び込める者は十人のうち\r\n//二人もおらぬ」\r\n\"It's too reckless! We've infiltrated Fudaraku before, but only by sending ten men just to get one through!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190030b26'>\r\n//「無謀ぞ！\r\n//　我らも幾度となくあの城に間者を放っては\r\n//いるが、首尾良く忍び込める者は十人のうち\r\n//二人もおらぬ」\r\n\"É uma loucura! Já nos infiltramos em Fudaraku antes, mas só mandando dez homens para fazer um passar!\"\r\n"
  },
  {
   "offset": 1150,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190040b26'>\r\n//「しかも今は宣下に備えてか、常にも増して\r\n//警備が堅い。\r\n//　例え隠形の技に秀でた劒冑であろうと、堀\r\n//を越える間もなく捕まるのは目に見えている」\r\n\"With the investment ceremony approaching, security is bound to be even tighter. Even with your stealth capabilities, you won't make it past the outer wall.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190040b26'>\r\n//「しかも今は宣下に備えてか、常にも増して\r\n//警備が堅い。\r\n//　例え隠形の技に秀でた劒冑であろうと、堀\r\n//を越える間もなく捕まるのは目に見えている」\r\n\"E com a cerimônia de investidura se aproximando, a segurança está mais rígida do que nunca. Mesmo com suas habilidades de furtividade, você não vai passar do muro externo.\"\r\n"
  },
  {
   "offset": 1618,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190050a11'>\r\n//「幕府の内部に協力者がいて、手引きをして\r\n//くれるなら話は別だが……\r\n//　その用意はまだ出来ていない」\r\n\"It might be possible with help from inside, but we haven't had time to prepare.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190050a11'>\r\n//「幕府の内部に協力者がいて、手引きをして\r\n//くれるなら話は別だが……\r\n//　その用意はまだ出来ていない」\r\n\"Seria possível com ajuda de dentro, mas não tivemos tempo de preparar isso.\"\r\n"
  },
  {
   "offset": 1946,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190060a11'>\r\n//「今は無理だ、村正」\r\n\"It's too soon, Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190060a11'>\r\n//「今は無理だ、村正」\r\n\"É cedo demais, Muramasa.\"\r\n"
  },
  {
   "offset": 2100,
@@ -42,27 +42,27 @@
  {
   "offset": 2230,
   "en": "\r\n//　予想はしていたが、誰も賛同しなかった。\r\n//　反対していないのは黙りこくっている綾弥一条と、\r\n//そもそもこの場にいない人間だけだ。\r\n\r\n//　大鳥香奈枝とその侍従の姿は寺から消えている。\r\n//　何やらの裏工作をするため、今は<RUBY text='いこく'>夷国</RUBY>に飛んでいる\r\n//そうだ。国連本部でどうとかという説明だったけれど、\r\n//私には良くわからない。\r\n  As I expected, nobody agrees with my plan. The only people who haven't objected are Ayane Ichijo, who hasn't said a word either way, and the GHQ pair, who aren't here to begin with.\r\n\r\n  Apparently, Otori Kanae and her servant have flown to the West on a secret mission. I remember hearing about some place called Geneva and a League of something or other, but I honestly wasn't listening.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　予想はしていたが、誰も賛同しなかった。\r\n//　反対していないのは黙りこくっている綾弥一条と、\r\n//そもそもこの場にいない人間だけだ。\r\n\r\n//　大鳥香奈枝とその侍従の姿は寺から消えている。\r\n//　何やらの裏工作をするため、今は<RUBY text='いこく'>夷国</RUBY>に飛んでいる\r\n//そうだ。国連本部でどうとかという説明だったけれど、\r\n//私には良くわからない。\r\n  Como eu esperava, ninguém concorda com meu plano. Os únicos que não objetaram são Ayane Ichijo, que não disse palavra a favor nem contra, e o par da GHQ, que nem está aqui para começar.\r\n\r\n  Pelo visto, Otori Kanae e seu servo voaram para o Ocidente em uma missão secreta. Lembro de ter ouvido falar de um lugar chamado Genebra e de uma Liga de alguma coisa, mas sinceramente eu não estava prestando atenção.\r\n\r\n"
  },
  {
   "offset": 3127,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190080a10'>\r\n//「景明くんを助けたいのはわかるけどな。\r\n//　わしかて同じ気持ちやし……」\r\n\"I understand you want to help Kageaki. Heck, I feel the same way.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190090a10'>\r\n//「しゃあけど、闇雲に突っ走ったらあかんえ。\r\n//　こういう時こそ、冷静にならんと」\r\n\"But you can't just go in guns blazing. Times like this, you've gotta be patient.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190080a10'>\r\n//「景明くんを助けたいのはわかるけどな。\r\n//　わしかて同じ気持ちやし……」\r\n\"Entendo que você queira ajudar o Kageaki. Puxa, eu sinto o mesmo.\"\r\n\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190090a10'>\r\n//「しゃあけど、闇雲に突っ走ったらあかんえ。\r\n//　こういう時こそ、冷静にならんと」\r\n\"Mas não dá para sair correndo de cabeça. Numa hora dessas, é preciso manter a calma.\"\r\n"
  },
  {
   "offset": 3706,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190100a01'>\r\n//「わかっています。\r\n//　でも……」\r\n\"I know, Your Highness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190100a01'>\r\n//「わかっています。\r\n//　でも……」\r\n\"Eu sei, Vossa Alteza.\"\r\n"
  },
  {
   "offset": 3883,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190110a01'>\r\n//「時間がない。\r\n//　機会が来るのを待っていたら、取り返しの\r\n//つかないことになる」\r\n\"But there's just no time. By the time a chance presents itself, it will be too late.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190110a01'>\r\n//「時間がない。\r\n//　機会が来るのを待っていたら、取り返しの\r\n//つかないことになる」\r\n\"Mas não há tempo. Quando surgir uma oportunidade, já será tarde demais.\"\r\n"
  },
  {
   "offset": 4192,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190120a01'>\r\n//「……そう思うんです」\r\n\"...I'm sure of it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190120a01'>\r\n//「……そう思うんです」\r\n\"...Tenho certeza disso.\"\r\n"
  },
  {
   "offset": 4349,
@@ -72,17 +72,17 @@
  {
   "offset": 4473,
   "en": "\r\n//　半分は勘だった。\r\n//　けれど、根拠もある。\r\n  A large part of this is instinct, yes, but I'm not without a clear reason for urgency.\r\n",
-  "pt": ""
+  "pt": "\r\n//　半分は勘だった。\r\n//　けれど、根拠もある。\r\n  Grande parte disso é instinto, sim, mas não me falta um motivo claro para tanta urgência.\r\n"
  },
  {
   "offset": 4641,
   "en": "\r\n//　湊斗光の寿命は残り僅かだと、足利茶々丸は言って\r\n//いた。\r\n//　あの言葉に嘘はない――劒冑の眼で診ても同じ結論\r\n//を出せた。\r\n  Minato Hikaru is close to death. Chachamaru wasn't lying about that. I could tell at a glance that the girl's condition was dire.\r\n\r\n//　なら……\r\n//　湊斗光を生かしたい今の景明と、銀星号を利用して\r\n//何かの望みを遂げたい茶々丸にとっても、時間は残り\r\n//少ないということになる。\r\n  In which case, whatever Chachamaru and her brainwashed Kageaki are planning, it has to happen soon.\r\n\r\n//　悠長な計画を立てているとは思えない。\r\n//　何をするつもりでいるにしろ、短時日のうちに決着\r\n//をつける気だろう。\r\n\r\n//　そして、その決着がついてしまったなら。\r\n//　きっと――もう何もかも、<RUBY text='・・・・・・・・'>どうにもならない</RUBY>。\r\n  I don't know what they intend to do with Ginseigo, but I am certain that if it is allowed to happen, <I>everything</I>㉔will be lost.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　湊斗光の寿命は残り僅かだと、足利茶々丸は言って\r\n//いた。\r\n//　あの言葉に嘘はない――劒冑の眼で診ても同じ結論\r\n//を出せた。\r\n  Minato Hikaru está à beira da morte. Chachamaru não mentiu sobre isso. Bastou um olhar para ver que o estado da garota era grave.\r\n\r\n//　なら……\r\n//　湊斗光を生かしたい今の景明と、銀星号を利用して\r\n//何かの望みを遂げたい茶々丸にとっても、時間は残り\r\n//少ないということになる。\r\n  Nesse caso, seja o que for que Chachamaru e o Kageaki lavado cerebralmente estejam planejando, tem de acontecer em breve.\r\n\r\n//　悠長な計画を立てているとは思えない。\r\n//　何をするつもりでいるにしろ、短時日のうちに決着\r\n//をつける気だろう。\r\n\r\n//　そして、その決着がついてしまったなら。\r\n//　きっと――もう何もかも、<RUBY text='・・・・・・・・'>どうにもならない</RUBY>。\r\n  Não sei o que pretendem fazer com o Ginseigo, mas tenho certeza de que, se isso acontecer, <I>tudo</I>㉔estará perdido.\r\n\r\n"
  },
  {
   "offset": 5775,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190140a01'>\r\n//「だから、行かないと」\r\n\"That's why I have to go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190140a01'>\r\n//「だから、行かないと」\r\n\"É por isso que eu tenho que ir.\"\r\n"
  },
  {
   "offset": 5938,
@@ -97,22 +97,22 @@
  {
   "offset": 6195,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190170a01'>\r\n//「お世話になったのに、勝手を言ってごめん\r\n//なさい。\r\n//　でも……私は劒冑だから」\r\n\"I'm sorry. I know I owe you a debt. But I am a tsurugi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190170a01'>\r\n//「お世話になったのに、勝手を言ってごめん\r\n//なさい。\r\n//　でも……私は劒冑だから」\r\n\"Desculpe-me. Sei que tenho uma dívida com vocês. Mas eu sou uma tsurugi.\"\r\n"
  },
  {
   "offset": 6475,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190180a01'>\r\n//「<RUBY text='あるじ'>仕手</RUBY>のもとへ行きます」\r\n\"I must go to my master.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190180a01'>\r\n//「<RUBY text='あるじ'>仕手</RUBY>のもとへ行きます」\r\n\"Preciso ir ao encontro do meu mestre.\"\r\n"
  },
  {
   "offset": 6670,
   "en": "\r\n//　言って、私は立ち上がった。\r\n//　外へ向かいながら、考える――潜入の手立ては何も\r\n//思いつかない。\r\n\r\n//　あの城の警備の堅さは、銀星号の探索がてら近付く\r\n//ことが何度かあったので良く知っている。\r\n//　正攻法ではまず無理だ。何か、策を……\r\n  I stand and head for the door.\r\n\r\n  Now, how am I going to get inside Fudaraku?\r\n\r\n  I had the opportunity to scout near the castle a number of times while searching for Ginseigo. I know how tight its defenses are.\r\n\r\n  A frontal approach won't work. I need some kind of―\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　言って、私は立ち上がった。\r\n//　外へ向かいながら、考える――潜入の手立ては何も\r\n//思いつかない。\r\n\r\n//　あの城の警備の堅さは、銀星号の探索がてら近付く\r\n//ことが何度かあったので良く知っている。\r\n//　正攻法ではまず無理だ。何か、策を……\r\n  Eu me levanto e vou em direção à porta.\r\n\r\n  Agora, como vou entrar em Fudaraku?\r\n\r\n  Tive a oportunidade de sondar as proximidades do castelo várias vezes enquanto procurava o Ginseigo. Sei como são rígidas as defesas.\r\n\r\n  Uma abordagem frontal não vai funcionar. Preciso de algum tipo de―\r\n\r\n"
  },
  {
   "offset": 7306,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190190a11'>\r\n//「村正、待て」\r\n\"Muramasa. Wait.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190190a11'>\r\n//「村正、待て」\r\n\"Muramasa. Espere.\"\r\n"
  },
  {
   "offset": 7442,
@@ -122,17 +122,17 @@
  {
   "offset": 7566,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190210a11'>\r\n//「宮殿下……宜しいですか？」\r\n\"Your Highness... are we decided?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190210a11'>\r\n//「宮殿下……宜しいですか？」\r\n\"Vossa Alteza... já decidiu?\"\r\n"
  },
  {
   "offset": 7740,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190220a10'>\r\n//「せやな。\r\n//　なんか、これで踏ん切りがついたわ」\r\n\"I guess so. Can't back down now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190220a10'>\r\n//「せやな。\r\n//　なんか、これで踏ん切りがついたわ」\r\n\"Acho que sim. Agora não dá mais para recuar.\"\r\n"
  },
  {
   "offset": 7954,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190230b26'>\r\n//「確かに」\r\n\"No indeed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190230b26'>\r\n//「確かに」\r\n\"De fato.\"\r\n"
  },
  {
   "offset": 8079,
@@ -142,47 +142,47 @@
  {
   "offset": 8204,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190250a11'>\r\n//「村正、行くなら我々と協力しろ。\r\n//　その方が見込みがある」\r\n\"If you must go, then do it with our help. That's the only way you'll succeed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190250a11'>\r\n//「村正、行くなら我々と協力しろ。\r\n//　その方が見込みがある」\r\n\"Se você tem que ir, faça isso com a nossa ajuda. É a única forma de conseguir.\"\r\n"
  },
  {
   "offset": 8469,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190260a01'>\r\n//「――えっ？」\r\n\"Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190260a01'>\r\n//「――えっ？」\r\n\"Hã?\"\r\n"
  },
  {
   "offset": 8600,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190270a01'>\r\n//「いえ、でも。それは」\r\n\"But you just said―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190270a01'>\r\n//「いえ、でも。それは」\r\n\"Mas o senhor acabou de dizer―\"\r\n"
  },
  {
   "offset": 8759,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190280a11'>\r\n//「誤解するな。\r\n//　我々には我々の事情があるのだ」\r\n\"Don't misunderstand. We have our own reasons.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190280a11'>\r\n//「誤解するな。\r\n//　我々には我々の事情があるのだ」\r\n\"Não entenda mal. Temos nossos próprios motivos.\"\r\n"
  },
  {
   "offset": 8977,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190290a10'>\r\n//「ほんとのとこ言うと……こっちものんびり\r\n//待ってるわけにはいかなくてなぁ。\r\n//　一か八かの勝負をやらなァあかんとこまで\r\n//追い込まれてるんよ」\r\n\"Truth be told, we're up against the wire too. We need a bold play if we're gonna get outta this mess.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190290a10'>\r\n//「ほんとのとこ言うと……こっちものんびり\r\n//待ってるわけにはいかなくてなぁ。\r\n//　一か八かの勝負をやらなァあかんとこまで\r\n//追い込まれてるんよ」\r\n\"Para falar a verdade, nós também não podemos ficar esperando. Precisamos de uma jogada ousada se quisermos sair dessa enrascada.\"\r\n"
  },
  {
   "offset": 9397,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190300b26'>\r\n//「妨害工作の甲斐なく、足利邦氏への大将領\r\n//宣下は確定してしまった。\r\n//　既に式典の日時まで決まっている」\r\n\"Our efforts to delay the investment have failed. Ashikaga Kuniuji will be made shogun in a matter of days.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190300b26'>\r\n//「妨害工作の甲斐なく、足利邦氏への大将領\r\n//宣下は確定してしまった。\r\n//　既に式典の日時まで決まっている」\r\n\"Nossos esforços para atrasar a investidura fracassaram. Ashikaga Kuniuji será feito xogum em questão de dias.\"\r\n"
  },
  {
   "offset": 9758,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190310a11'>\r\n//「宣下式典の実施は六波羅体制の復活と同義\r\n//であり、それは進駐軍との決戦開始と同義だ。\r\n//　我々が避けたかった、最悪の事態が迫って\r\n//いる」\r\n\"The investment ceremony will mean a renewed Rokuhara, and that will mean war with the West. The worst-case scenario. Disaster for Yamato.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190310a11'>\r\n//「宣下式典の実施は六波羅体制の復活と同義\r\n//であり、それは進駐軍との決戦開始と同義だ。\r\n//　我々が避けたかった、最悪の事態が迫って\r\n//いる」\r\n\"A cerimônia de investidura significará um Rokuhara renovado, e isso significará guerra contra o Ocidente. O pior cenário possível. Um desastre para Yamato.\"\r\n"
  },
  {
   "offset": 10199,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190320a10'>\r\n//「香奈枝さんが国連方面で今動いてくれてる\r\n//けど、間に合うかわからん。\r\n//　こっちでも手を打たんとならんかったんよ」\r\n\"Kanae is trying to calm things down within the League, but there's no telling if she'll make it in time. We've gotta make a move.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190320a10'>\r\n//「香奈枝さんが国連方面で今動いてくれてる\r\n//けど、間に合うかわからん。\r\n//　こっちでも手を打たんとならんかったんよ」\r\n\"Kanae está tentando acalmar as coisas dentro da Liga, mas não há como saber se vai dar tempo. Temos que fazer algo.\"\r\n"
  },
  {
   "offset": 10607,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190330a11'>\r\n//「無理矢理にでも、式典を中止ないし延期に\r\n//できるような手を。\r\n//　……そういうわけだ、村正」\r\n\"A move that will force Rokuhara to cancel the ceremony. Or postpone it, at the very least. Do you understand?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190330a11'>\r\n//「無理矢理にでも、式典を中止ないし延期に\r\n//できるような手を。\r\n//　……そういうわけだ、村正」\r\n\"Algo que force Rokuhara a cancelar a cerimônia. Ou, no mínimo, adiá-la. Entendeu?\"\r\n"
  },
  {
   "offset": 10953,
@@ -192,37 +192,37 @@
  {
   "offset": 11083,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190350b26'>\r\n//「加えて言えば、某には個人的な事情もある。\r\n//　義姉が普陀楽城に囚われているのだ」\r\n\"I have an objective of my own as well. My sister is being held inside the castle.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190350b26'>\r\n//「加えて言えば、某には個人的な事情もある。\r\n//　義姉が普陀楽城に囚われているのだ」\r\n\"Também tenho um objetivo próprio. Minha irmã está sendo mantida dentro do castelo.\"\r\n"
  },
  {
   "offset": 11385,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190360b26'>\r\n//「幾度も救出を計画したが、果たせなかった。\r\n//　今度こそ助け出したい」\r\n\"I've been looking for an opportunity to rescue her for months. I won't let this chance go to waste.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190360b26'>\r\n//「幾度も救出を計画したが、果たせなかった。\r\n//　今度こそ助け出したい」\r\n\"Venho procurando uma oportunidade de resgatá-la há meses. Não vou desperdiçar esta chance.\"\r\n"
  },
  {
   "offset": 11687,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190370a10'>\r\n//「桜子さんか。\r\n//　そやな……」\r\n\"Sakurako... Yeah, can't forget her.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190370a10'>\r\n//「桜子さんか。\r\n//　そやな……」\r\n\"Sakurako... É, não dá para esquecê-la.\"\r\n"
  },
  {
   "offset": 11877,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190380a11'>\r\n//「具体的な計画ですが――」\r\n\"Let's put together a plan―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190380a11'>\r\n//「具体的な計画ですが――」\r\n\"Vamos montar um plano―\"\r\n"
  },
  {
   "offset": 12044,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0190390a02'>\r\n//「どうもこうもねえ。\r\n//　どんだけ作戦こね回したって、無謀なもん\r\n//は無謀だろ」\r\n\"Plan? When you're doing something stupid, you don't start with a fancy plan.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0190390a02'>\r\n//「どうもこうもねえ。\r\n//　どんだけ作戦こね回したって、無謀なもん\r\n//は無謀だろ」\r\n\"Plano? Quando se vai fazer algo idiota, não se começa com um plano bonito.\"\r\n"
  },
  {
   "offset": 12336,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0190400a02'>\r\n//「忍び込める所までは忍び込んで、バレたら\r\n//後は暴れ回る。\r\n//　式典なんてやりたくてもやれないくらい、\r\n//荒らし尽くしてやりゃあいい」\r\n\"We sneak in until they spot us, then we start breaking shit. Break enough shit, and the party's canceled.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0190400a02'>\r\n//「忍び込める所までは忍び込んで、バレたら\r\n//後は暴れ回る。\r\n//　式典なんてやりたくてもやれないくらい、\r\n//荒らし尽くしてやりゃあいい」\r\n\"Nós nos infiltramos até onde der, e quando formos pegos, começamos a quebrar tudo. Quebrar o suficiente para que a festa seja cancelada.\"\r\n"
  },
  {
   "offset": 12736,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0190410a02'>\r\n//「それで勝ちだ」\r\n\"That's how we win.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0190410a02'>\r\n//「それで勝ちだ」\r\n\"Assim a gente vence.\"\r\n"
  },
  {
   "offset": 12878,
@@ -237,51 +237,51 @@
  {
   "offset": 13123,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190440a11'>\r\n//「そうだな」\r\n\"She's right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190440a11'>\r\n//「そうだな」\r\n\"Ela tem razão.\"\r\n"
  },
  {
   "offset": 13253,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190450a10'>\r\n//「そうなんか!?」\r\n\"She is!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190450a10'>\r\n//「そうなんか!?」\r\n\"Ela tem!?\"\r\n"
  },
  {
   "offset": 13393,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190460a11'>\r\n//「まともな作戦計画を立てられるほどの材料\r\n//がありません。\r\n//　なら考えるだけ時間の無駄でしょう」\r\n\"We don't have the intelligence or the resources to form a real plan. It's a waste of time to try.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190460a11'>\r\n//「まともな作戦計画を立てられるほどの材料\r\n//がありません。\r\n//　なら考えるだけ時間の無駄でしょう」\r\n\"Não temos a inteligência nem os recursos para formar um plano de verdade. É perda de tempo tentar.\"\r\n"
  },
  {
   "offset": 13733,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190470b26'>\r\n//「然り然り。\r\n//　某は一条殿に賛同いたす」\r\n\"Agreed! We should follow Ichijo's proposal.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190470b26'>\r\n//「然り然り。\r\n//　某は一条殿に賛同いたす」\r\n\"Assim seja, assim seja. Este aqui apoia a proposta de Ichijo.\"\r\n"
  },
  {
   "offset": 13937,
   "en": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190480a10'>\r\n//「……おまさんら、露骨に体育会系やねー」\r\n\"...I bet you were those kids who㉓<I>liked</I>㉗gym class.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【舞殿宮】\r\n<voice name='舞殿宮' class='舞殿宮' src='voice/md03/0190480a10'>\r\n//「……おまさんら、露骨に体育会系やねー」\r\n\"...aposto que vocês eram daqueles alunos que㉓<I>adoravam</I>㉗educação física.\"\r\n"
  },
  {
   "offset": 14166,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190490a11'>\r\n//「では、おおまかにまとめよう。\r\n//　普陀楽へ潜入するのは綾弥、黒瀬殿、村正」\r\n\"Let's assign roles, then. Ayane, Kuronose, and Muramasa will infiltrate Fudaraku.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190500a11'>\r\n//「潜入後、綾弥は城内を破壊。\r\n//　黒瀬殿は桜子姫を救出。\r\n//　村正は景明を探す。\r\n//　私は退路を用意するために動こう」\r\n\"Upon entry, Ayane will occupy the defenders while doing as much damage as possible. Kuronose will rescue Lady Sakurako. Muramasa will rescue Kageaki. Meanwhile, I will prepare an escape route.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190490a11'>\r\n//「では、おおまかにまとめよう。\r\n//　普陀楽へ潜入するのは綾弥、黒瀬殿、村正」\r\n\"Então vamos definir as funções. Ayane, Kuronose e Muramasa vão se infiltrar em Fudaraku.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190500a11'>\r\n//「潜入後、綾弥は城内を破壊。\r\n//　黒瀬殿は桜子姫を救出。\r\n//　村正は景明を探す。\r\n//　私は退路を用意するために動こう」\r\n\"Ao entrar, Ayane vai ocupar os defensores enquanto causa o máximo de dano possível. Kuronose resgatará a senhora Sakurako. Muramasa resgatará Kageaki. Enquanto isso, eu prepararei uma rota de fuga.\"\r\n"
  },
  {
   "offset": 14914,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190510a11'>\r\n//「宜しいか？」\r\n\"Are we all clear?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0190510a11'>\r\n//「宜しいか？」\r\n\"Está claro para todos?\"\r\n"
  },
  {
   "offset": 15052,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0190520a02'>\r\n//「ああ」\r\n\"Yeah.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0190520a02'>\r\n//「ああ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 15169,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190530b26'>\r\n//「うむ」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0190530b26'>\r\n//「うむ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 15285,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190540a01'>\r\n//「……ええ」\r\n\"...Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0190540a01'>\r\n//「……ええ」\r\n\"...Sim.\"\r\n"
  }
 ]

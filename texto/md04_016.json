@@ -2,137 +2,137 @@
  {
   "offset": 213,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160010a07'>\r\n//「はっはー。\r\n//　どうも昨日の勢いがねえな、<RUBY text='クィーンズアーミー'>女王騎士団</RUBY>」\r\n\"Wouldja look at that! The queen's army seems a bit off their game today.\" \r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160010a07'>\r\n//「はっはー。\r\n//　どうも昨日の勢いがねえな、<RUBY text='クィーンズアーミー'>女王騎士団</RUBY>」\r\n\"Olha só pra isso! O exército da rainha parece meio fora de ritmo hoje.\"\r\n"
  },
  {
   "offset": 525,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160020a07'>\r\n//「お兄さんもそう思わない？」\r\n\"You seeing what I'm <br>seeing?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160020a07'>\r\n//「お兄さんもそう思わない？」\r\n\"Tá vendo o que eu tô vendo?\"\r\n"
  },
  {
   "offset": 707,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160030a00'>\r\n//「確かに。\r\n//　厩衆の攪乱は進駐軍の夜間空爆におさおさ\r\n//劣らぬ成果を上げたようだ」\r\n\"Yes. Thanks to the Umaya-shu, we aren't the only ones suffering from lack of sleep.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160030a00'>\r\n//「確かに。\r\n//　厩衆の攪乱は進駐軍の夜間空爆におさおさ\r\n//劣らぬ成果を上げたようだ」\r\n\"Sim. Graças aos Umaya-shu, não somos os únicos a sofrer com a falta de sono.\"\r\n"
  },
  {
   "offset": 1012,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160040a07'>\r\n//「しかもこっちが最初から腹を決めてたのに\r\n//比べて、あっちは寝耳に水だったろーからね。\r\n//　いや、寝耳に火か？」\r\n\"The difference is we were ready for it. For them, I bet it was like having a bucket of water dumped on your head. Or a bucket of high <br>explosive.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160040a07'>\r\n//「しかもこっちが最初から腹を決めてたのに\r\n//比べて、あっちは寝耳に水だったろーからね。\r\n//　いや、寝耳に火か？」\r\n\"A diferença é que a gente já estava preparado. Pra eles, aposto que foi como levar um balde de água na cabeça. Ou um balde de alto explosivo.\"\r\n"
  },
  {
   "offset": 1433,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160050a07'>\r\n//「今日の喧嘩はこっちに分がありそうだ」\r\n\"Looks like things're goin' our way today.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160050a07'>\r\n//「今日の喧嘩はこっちに分がありそうだ」\r\n\"Parece que as coisas tão indo a nosso favor hoje.\"\r\n"
  },
  {
   "offset": 1640,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160060a00'>\r\n//「ああ」\r\n\"Agreed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160060a00'>\r\n//「ああ」\r\n\"Concordo.\"\r\n"
  },
  {
   "offset": 1759,
   "en": "\r\n//　今日は一二月一日。\r\n//　光が目覚める一二月四日まで、この普陀楽城を守り\r\n//通さなくてはならない。\r\n\r\n//　彼我の戦力差を考えればそれは至難だ。\r\n//　しかし、この調子で戦場の時間が過ぎてゆくなら、\r\n//案外と簡単に事は済んでしまうかもしれない。\r\n\r\n//　四日まで戦い、当座の物資をすべて使い尽くしても\r\n//なお六波羅を滅ぼせないなら、進駐軍は最後の武器に\r\n//頼る以外の選択を失うだろう。\r\n//　茶々丸、ウォルフ――緑龍会の望む通りに。\r\n  Today is the first of December. That leaves three days until Hikaru awakens, three more days that we must hold Fudaraku against the might of the West.\r\n\r\n  I feared the task would be impossible, especially after yesterday's losses, but if a little nighttime artillery is enough to blunt the enemy's stride, perhaps this will not be so difficult after all.\r\n\r\n  If the fourth comes and GHQ's best efforts have failed to take this castle, their leaders will have no choice but to deploy their ultimate weapon, just as Chachamaru and the Green Dragon Society intend.\r\n",
-  "pt": ""
+  "pt": "\r\n//　今日は一二月一日。\r\n//　光が目覚める一二月四日まで、この普陀楽城を守り\r\n//通さなくてはならない。\r\n\r\n//　彼我の戦力差を考えればそれは至難だ。\r\n//　しかし、この調子で戦場の時間が過ぎてゆくなら、\r\n//案外と簡単に事は済んでしまうかもしれない。\r\n\r\n//　四日まで戦い、当座の物資をすべて使い尽くしても\r\n//なお六波羅を滅ぼせないなら、進駐軍は最後の武器に\r\n//頼る以外の選択を失うだろう。\r\n//　茶々丸、ウォルフ――緑龍会の望む通りに。\r\n  Hoje é primeiro de dezembro. Faltam três dias até Hikaru despertar, três dias a mais em que precisamos defender Fudaraku contra o poderio do Ocidente.\r\n\r\n  Eu temia que a tarefa fosse impossível, sobretudo depois das perdas de ontem, mas se um pouco de artilharia noturna basta para conter o avanço do inimigo, talvez isto não seja tão difícil assim.\r\n\r\n  Se o dia quatro chegar e os melhores esforços da GHQ tiverem falhado em tomar este castelo, seus líderes não terão outra escolha senão empregar sua arma suprema, exatamente como Chachamaru e a Sociedade do Dragão Verde pretendem.\r\n"
  },
  {
   "offset": 2956,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160070a07'>\r\n//「……？\r\n//　敵の前線が下がってる？」\r\n\"...Huh? Looks like they're pulling back.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160070a07'>\r\n//「……？\r\n//　敵の前線が下がってる？」\r\n\"...Hein? Parece que estão recuando.\"\r\n"
  },
  {
   "offset": 3160,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160080a00'>\r\n//「見るからに士気が低いからな。\r\n//　もう少しましな部隊に替えるのではないか」\r\n\"If morale is low, they might want to bring in fresh units.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160080a00'>\r\n//「見るからに士気が低いからな。\r\n//　もう少しましな部隊に替えるのではないか」\r\n\"Se o moral está baixo, talvez queiram trazer unidades novas.\"\r\n"
  },
  {
   "offset": 3430,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160090a07'>\r\n//「見切りが早いな。\r\n//　ま、向こうは兵力余ってるしねー」\r\n\"That was fast. Must be nice having men to spare.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160090a07'>\r\n//「見切りが早いな。\r\n//　ま、向こうは兵力余ってるしねー」\r\n\"Isso foi rápido. Deve ser bom ter homens de sobra.\"\r\n"
  },
  {
   "offset": 3669,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160100a00'>\r\n//「今のうちにこちらも負傷者の搬送や補給を\r\n//済ませるべきだろう」\r\n\"We should take this opportunity to resupply and collect the wounded.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160100a00'>\r\n//「今のうちにこちらも負傷者の搬送や補給を\r\n//済ませるべきだろう」\r\n\"Deveríamos aproveitar para reabastecer e recolher os feridos.\"\r\n"
  },
  {
   "offset": 3931,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160110a07'>\r\n//「うい」\r\n\"On it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160110a07'>\r\n//「うい」\r\n\"Deixa comigo.\"\r\n"
  },
  {
   "offset": 4058,
   "en": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160120e072'>\r\n//《テス、テス、テス》\r\n《Testing. Testing.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160120e072'>\r\n//《テス、テス、テス》\r\n《Testando. Testando.》\r\n"
  },
  {
   "offset": 4255,
   "en": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160130e072'>\r\n//《……六波羅のみなさん》\r\n《Men of Rokuhara.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160140e072'>\r\n//《六波羅のみなさん》\r\n《This is GHQ.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160130e072'>\r\n//《……六波羅のみなさん》\r\n《Homens de Rokuhara.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160140e072'>\r\n//《六波羅のみなさん》\r\n《Aqui é a GHQ.》\r\n"
  },
  {
   "offset": 4641,
   "en": "\r\n//　銃声が途絶えた戦場に、代わって響き渡ったのは、\r\n//進駐軍側から放たれる拡声器を介した呼びかけだった。\r\n//　声は大和人ではないが、大和語を上手く操っている。\r\n  Looking out across the field, I see that the enemy has erected a number of loudspeakers. The Yamatoan that issues from them is perfectly competent, though the speaker's inflection is clearly not that of a native.\r\n",
-  "pt": ""
+  "pt": "\r\n//　銃声が途絶えた戦場に、代わって響き渡ったのは、\r\n//進駐軍側から放たれる拡声器を介した呼びかけだった。\r\n//　声は大和人ではないが、大和語を上手く操っている。\r\n  Olhando pelo campo, vejo que o inimigo ergueu vários alto-falantes. O idioma Yamato que sai deles é perfeitamente competente, embora a entonação do locutor claramente não seja de um nativo.\r\n"
  },
  {
   "offset": 5101,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160150a07'>\r\n//「……何だぁ？」\r\n\"...The hell?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160150a07'>\r\n//「……何だぁ？」\r\n\"...Que diabos?\"\r\n"
  },
  {
   "offset": 5246,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160160a00'>\r\n//「降伏勧告でもする気か」\r\n\"Perhaps they'll demand our surrender.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160160a00'>\r\n//「降伏勧告でもする気か」\r\n\"Talvez pretendam exigir nossa rendição.\"\r\n"
  },
  {
   "offset": 5419,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160170a07'>\r\n//「あー。定番だね。\r\n//　でも時機を外してるよな」\r\n\"Guess there's not much else it could be. They picked a weird time, though.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160170a07'>\r\n//「あー。定番だね。\r\n//　でも時機を外してるよな」\r\n\"Acho que não deve ser outra coisa. Mas escolheram um momento estranho.\"\r\n"
  },
  {
   "offset": 5672,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160180a07'>\r\n//「てめーらがもっと元気な時にやりゃいいの\r\n//に」\r\n\"You're supposed to do that while you're㉒<I>winning.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160180a07'>\r\n//「てめーらがもっと元気な時にやりゃいいの\r\n//に」\r\n\"Isso é pra se fazer enquanto se está㉒<I>vencendo.</I>\"\r\n"
  },
  {
   "offset": 5908,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160190a00'>\r\n//「同感だな」\r\n\"Indeed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160190a00'>\r\n//「同感だな」\r\n\"Sem dúvida.\"\r\n"
  },
  {
   "offset": 6033,
   "en": "\r\n//　果たして拡声器の告げる内容は予想に違わなかった。\r\n//　降伏を勧める声が、堀越領衆の頭上に被さる。\r\n\r\n//　だが、露骨な反応を見せる兵はいない。\r\n//　嘲笑い、かえって勢いづく者が大半だった。\r\n  As expected, the voice begins by demanding our surrender. The response from Horigoe's men is lukewarm, to say the least. Groups of soldiers chuckle to each other, or toss howls of contempt back across the field.\r\n",
-  "pt": ""
+  "pt": "\r\n//　果たして拡声器の告げる内容は予想に違わなかった。\r\n//　降伏を勧める声が、堀越領衆の頭上に被さる。\r\n\r\n//　だが、露骨な反応を見せる兵はいない。\r\n//　嘲笑い、かえって勢いづく者が大半だった。\r\n  Como esperado, a voz começa exigindo nossa rendição. A reação dos homens de Horigoe é morna, no mínimo. Grupos de soldados riem entre si ou lançam uivos de desprezo de volta pelo campo.\r\n"
  },
  {
   "offset": 6537,
   "en": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160200e072'>\r\n//《六波羅のみなさん。\r\n//　武器を捨てて、降伏しなさい》\r\n《Lay down your weapons, men of Rokuhara.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160210e072'>\r\n//《私達はあなた達を許します。\r\n//　罪人扱いはしません》\r\n《We bear you no ill will. You will all be treated fairly.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160200e072'>\r\n//《六波羅のみなさん。\r\n//　武器を捨てて、降伏しなさい》\r\n《Deponham as armas, homens de Rokuhara.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160210e072'>\r\n//《私達はあなた達を許します。\r\n//　罪人扱いはしません》\r\n《Não temos nada contra vocês. Todos serão tratados com justiça.》\r\n"
  },
  {
   "offset": 7082,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160220a07'>\r\n//「そりゃありがたいこって」\r\n\"Gee, thanks.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160220a07'>\r\n//「そりゃありがたいこって」\r\n\"Puxa, muito obrigado.\"\r\n"
  },
  {
   "offset": 7242,
   "en": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160230e072'>\r\n//《降伏しなさい。\r\n//　六波羅のみなさん》\r\n《It's time for you all to surrender.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160240e072'>\r\n//《戦い続けても、あなた達は負けます。\r\n//　降伏しなければ、死んでしまいます》\r\n《You have no hope of victory. Fighting will only cost you your lives.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160230e072'>\r\n//《降伏しなさい。\r\n//　六波羅のみなさん》\r\n《É hora de todos se renderem.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160240e072'>\r\n//《戦い続けても、あなた達は負けます。\r\n//　降伏しなければ、死んでしまいます》\r\n《Não há esperança de vitória. Continuar lutando só vai custar suas vidas.》\r\n"
  },
  {
   "offset": 7807,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160250a07'>\r\n//「そーかよ……」\r\n\"Just㉓<I>our</I>㉔lives, huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160250a07'>\r\n//「そーかよ……」\r\n\"Só㉓<I>as nossas</I>㉔ vidas, hein?\"\r\n"
  },
  {
   "offset": 7971,
   "en": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160260e072'>\r\n//《勝つのは、私達です。\r\n//　今日の朝、古河の城は、私達のものになり\r\n//ました》\r\n《The war ended this morning, when we captured Koga district headquarters.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160270e072'>\r\n//《あなた達に援軍はありません。\r\n//　あなた達は、勝てません》\r\n《No one is coming to save you. You have no chance.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160260e072'>\r\n//《勝つのは、私達です。\r\n//　今日の朝、古河の城は、私達のものになり\r\n//ました》\r\n《A guerra terminou esta manhã, quando capturamos o quartel-general do distrito de Koga.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160270e072'>\r\n//《あなた達に援軍はありません。\r\n//　あなた達は、勝てません》\r\n《Ninguém virá salvá-los. Vocês não têm chance.》\r\n"
  },
  {
   "offset": 8585,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160280a00'>\r\n//「――――何だと……？」\r\n\"...What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160280a00'>\r\n//「――――何だと……？」\r\n\"...O quê?\"\r\n"
  },
  {
   "offset": 8729,
@@ -142,37 +142,37 @@
  {
   "offset": 8863,
   "en": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160300e072'>\r\n//《古河の城は、落ちました》\r\n《Koga has fallen.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160310e072'>\r\n//《篠川の軍隊は、もうここに来られません。\r\n//　古河にいる私達の仲間が通しません》\r\n《There will be no reinforcements from Sasagawa. We control the land and the air.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160320e072'>\r\n//《あなた達に援軍は来ないのです》\r\n《You're on your own.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160330e072'>\r\n//《降伏しなさい》\r\n《It's time to surrender.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160300e072'>\r\n//《古河の城は、落ちました》\r\n《Koga caiu.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160310e072'>\r\n//《篠川の軍隊は、もうここに来られません。\r\n//　古河にいる私達の仲間が通しません》\r\n《Não haverá reforços de Sasagawa. Controlamos a terra e o ar.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160320e072'>\r\n//《あなた達に援軍は来ないのです》\r\n《Vocês estão sozinhos.》\r\n\r\n//【ｅｔｃ／降伏勧告】\r\n<voice name='ｅｔｃ／降伏勧告' class='その他女声' src='voice/md04/0160330e072'>\r\n//《降伏しなさい》\r\n《É hora de se renderem.》\r\n"
  },
  {
   "offset": 9805,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160340a00'>\r\n//「いかん……」\r\n\"We have to do something.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160340a00'>\r\n//「いかん……」\r\n\"Precisamos fazer algo.\"\r\n"
  },
  {
   "offset": 9950,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160350a07'>\r\n//「くそ！\r\n//　おいっ！」\r\n\"Shit! Hey, you!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160350a07'>\r\n//「くそ！\r\n//　おいっ！」\r\n\"Merda! Ei, você!\"\r\n"
  },
  {
   "offset": 10108,
   "en": "\r\n//【ｅｔｃ／補佐】\r\n<voice name='ｅｔｃ／補佐' class='その他男声' src='voice/md04/0160360e247'>\r\n//「はッ！」\r\n\"Yes, General!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／補佐】\r\n<voice name='ｅｔｃ／補佐' class='その他男声' src='voice/md04/0160360e247'>\r\n//「はッ！」\r\n\"Sim, General!\"\r\n"
  },
  {
   "offset": 10270,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160370a07'>\r\n//「各隊に伝令を走らせろ！\r\n//　通信じゃねえ、伝令だ！」\r\n\"Get a message to every unit! Don't use the radio. Send runners!\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160380a07'>\r\n//「古河は健在。来援は間近。\r\n//　敵の虚報に踊らされるな」\r\n\"Tell them, 'Don't be fooled by the enemy's lies. Koga stands. Help is coming.'㉑\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160370a07'>\r\n//「各隊に伝令を走らせろ！\r\n//　通信じゃねえ、伝令だ！」\r\n\"Levem uma mensagem a todas as unidades! Não usem o rádio. Mandem mensageiros!\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160380a07'>\r\n//「古河は健在。来援は間近。\r\n//　敵の虚報に踊らされるな」\r\n\"Digam a eles: 'Não se deixem enganar pelas mentiras do inimigo. Koga resiste. A ajuda está chegando.'㉑\"\r\n"
  },
  {
   "offset": 10785,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160390a07'>\r\n//「――って、触れて回れ!!」\r\n\"Go!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160390a07'>\r\n//「――って、触れて回れ!!」\r\n\"Vão!\"\r\n"
  },
  {
   "offset": 10935,
   "en": "\r\n//【ｅｔｃ／補佐】\r\n<voice name='ｅｔｃ／補佐' class='その他男声' src='voice/md04/0160400e247'>\r\n//「了解！」\r\n\"Yes, General!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／補佐】\r\n<voice name='ｅｔｃ／補佐' class='その他男声' src='voice/md04/0160400e247'>\r\n//「了解！」\r\n\"Entendido!\"\r\n"
  },
  {
   "offset": 11097,
@@ -187,37 +187,37 @@
  {
   "offset": 11348,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160430a00'>\r\n//（……実際のところ、どう思っている？）\r\n\"What do you really think?\"</voice> I whisper once I'm sure there's no one in earshot.\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160430a00'>\r\n//（……実際のところ、どう思っている？）\r\n\"O que você realmente acha?\"</voice> sussurro depois de me certificar de que não há ninguém ao alcance dos ouvidos.\r\n"
  },
  {
   "offset": 11589,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160440a00'>\r\n//（本当に進駐軍の捏造だと思うか？）\r\n\"Do you believe it's just a lie?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160440a00'>\r\n//（本当に進駐軍の捏造だと思うか？）\r\n\"Você acredita que é só mentira?\"\r\n"
  },
  {
   "offset": 11771,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160450a07'>\r\n//（そうならいいとは、本気で思ってるけど。\r\n//　……判断はお兄さんと同じかな）\r\n\"That's sure as hell what I <I>want</I>㉑to believe... but we're probably on the same page there.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160450a07'>\r\n//（そうならいいとは、本気で思ってるけど。\r\n//　……判断はお兄さんと同じかな）\r\n\"É exatamente isso que eu <I>quero</I>㉑acreditar... mas provavelmente estamos pensando a mesma coisa.\"\r\n"
  },
  {
   "offset": 12089,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160460a07'>\r\n//（進駐軍が損害無視で古河を夜通し攻撃して\r\n//いたとすれば、今朝陥落ってのは、おかしな\r\n//話じゃない）\r\n\"If they decided 'fuck casualties, we're hitting Koga all night long,' then yeah, they could've had it this morning.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160460a07'>\r\n//（進駐軍が損害無視で古河を夜通し攻撃して\r\n//いたとすれば、今朝陥落ってのは、おかしな\r\n//話じゃない）\r\n\"Se decidiram 'foda-se as baixas, vamos bombardear Koga a noite toda', então sim, podem ter tomado de manhã.\"\r\n"
  },
  {
   "offset": 12459,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160470a00'>\r\n//（妥当なところか……）\r\n\"Certainly a plausible scenario.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0160470a00'>\r\n//（妥当なところか……）\r\n\"É certamente um cenário plausível.\"\r\n"
  },
  {
   "offset": 12623,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160480a07'>\r\n//（うん。\r\n//　多分、古河は……本当に陥ちた……）\r\n\"Yeah... If I had to guess, I say it's theirs.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160480a07'>\r\n//（うん。\r\n//　多分、古河は……本当に陥ちた……）\r\n\"É... Se eu tivesse que apostar, diria que é deles.\"\r\n"
  },
  {
   "offset": 12847,
   "en": "\r\n//　古河の失陥。\r\n//　\r\n//　それは、篠川からの援軍が道を閉ざされた事を意味\r\n//する。\r\n\r\n//　つまり、普陀楽城は完全に孤立し……<k>\r\n//　六波羅の敗北が至近に迫った事を意味するのだ。\r\n  So, we've lost Koga, and with it the road to Sasagawa. At last, Fudaraku is truly on its own.\r\n\r\n  Rokuhara is doomed.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　古河の失陥。\r\n//　\r\n//　それは、篠川からの援軍が道を閉ざされた事を意味\r\n//する。\r\n\r\n//　つまり、普陀楽城は完全に孤立し……<k>\r\n//　六波羅の敗北が至近に迫った事を意味するのだ。\r\n  Então perdemos Koga, e com ela a estrada para Sasagawa. Enfim, Fudaraku está verdadeiramente sozinha.\r\n\r\n  Rokuhara está condenado.\r\n\r\n"
  },
  {
   "offset": 13238,
@@ -227,16 +227,16 @@
  {
   "offset": 13362,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160500a07'>\r\n//「諦めねえ」\r\n\"It's not over.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160500a07'>\r\n//「諦めねえ」\r\n\"Não acabou.\"\r\n"
  },
  {
   "offset": 13503,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160510a07'>\r\n//「諦めねえぞ。畜生」\r\n\"It's㉓<I>not</I>㉑over, damn it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0160510a07'>\r\n//「諦めねえぞ。畜生」\r\n\"㉓<I>Não</I>㉑ acabou, droga.\"\r\n"
  },
  {
   "offset": 13676,
   "en": "\r\n//　運命そのものを射殺す視線で、茶々丸が前方を睨む。\r\n//　降伏を促す声は、既に聴こえない。\r\n\r\n//　いま轟き渡るのは喊声だった。\r\n//　別人のように意気を回復した攻城軍が、怒濤と化し、\r\n//再び押し寄せて来ようとしている……。\r\n  If looks could kill, then Chachamaru's glare would surely slay the gods themselves.\r\n\r\n  Alas, we can only watch, helpless, as the invaders loose a mighty cry―then surge forward, spirit restored, to shatter our defenses once and for all.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　運命そのものを射殺す視線で、茶々丸が前方を睨む。\r\n//　降伏を促す声は、既に聴こえない。\r\n\r\n//　いま轟き渡るのは喊声だった。\r\n//　別人のように意気を回復した攻城軍が、怒濤と化し、\r\n//再び押し寄せて来ようとしている……。\r\n  Se olhares matassem, o olhar de Chachamaru certamente mataria até os próprios deuses.\r\n\r\n  Infelizmente, só podemos assistir, impotentes, enquanto os invasores soltam um poderoso brado―e então avançam, com o ânimo restaurado, para destruir nossas defesas de uma vez por todas.\r\n\r\n"
  }
 ]

@@ -2,12 +2,12 @@
  {
   "offset": 213,
   "en": "\r\n//　完全に焼け落ちた出丸の中心。\r\n//　可燃物を失って炎が退いた空間に――彼女はいた。\r\n  At the center of the collapsed fortress is a wide circle of space with nothing left to burn.\r\n\r\n  It is there that I find her, buried under rubble.\r\n",
-  "pt": ""
+  "pt": "\r\n//　完全に焼け落ちた出丸の中心。\r\n//　可燃物を失って炎が退いた空間に――彼女はいた。\r\n  No centro da fortaleza totalmente consumida pelo fogo, há um grande círculo de espaço onde não resta mais nada para queimar.\r\n\r\n  É ali que eu a encontro, soterrada sob os escombros.\r\n"
  },
  {
   "offset": 499,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360010a00'>\r\n//「一条！」\r\n\"Ichijo!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360010a00'>\r\n//「一条！」\r\n\"Ichijo!\"\r\n"
  },
  {
   "offset": 621,
@@ -17,57 +17,57 @@
  {
   "offset": 739,
   "en": "\r\n//　倒れ伏していた少女を抱き起こす。\r\n///　様子を一見して……俺は思わず、目を背けた。\r\n\r\n//　酷い――\r\n//　酷いなどというものではない。\r\n\r\n//　全身がほとんど<RUBY text='・・'>炭化</RUBY>している。\r\n//　どう見ても、生きているようには見えない。\r\n\r\n//　しかし……\r\n  I extract her gently from the wreckage, then am forced to avert my eyes in horror.\r\n\r\n  Horror barely begins to describe it. Much of her body is gone, and what remains is charred like overcooked meat.\r\n\r\n  She cannot possibly have survived.\r\n",
-  "pt": ""
+  "pt": "\r\n//　倒れ伏していた少女を抱き起こす。\r\n///　様子を一見して……俺は思わず、目を背けた。\r\n\r\n//　酷い――\r\n//　酷いなどというものではない。\r\n\r\n//　全身がほとんど<RUBY text='・・'>炭化</RUBY>している。\r\n//　どう見ても、生きているようには見えない。\r\n\r\n//　しかし……\r\n  Eu a retiro com cuidado dos escombros e sou forçado a desviar os olhos, horrorizado.\r\n\r\n  Horror é pouco para descrever. Grande parte do corpo dela se foi, e o que resta está carbonizado como carne queimada demais.\r\n\r\n  É impossível que ela tenha sobrevivido.\r\n"
  },
  {
   "offset": 1358,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360030a00'>\r\n//「一条……」\r\n\"Ichijo...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360030a00'>\r\n//「一条……」\r\n\"Ichijo...\"\r\n"
  },
  {
   "offset": 1485,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360040a00'>\r\n//「一条!!」\r\n\"ICHIJO!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360040a00'>\r\n//「一条!!」\r\n\"ICHIJO!\"\r\n"
  },
  {
   "offset": 1606,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360050a02'>\r\n//「……あ……」\r\n\"...ah...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360050a02'>\r\n//「……あ……」\r\n\"...ah...\"\r\n"
  },
  {
   "offset": 1735,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360060a02'>\r\n//「みなと、さん……」\r\n\"You... came...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360060a02'>\r\n//「みなと、さん……」\r\n\"Você... veio...\"\r\n"
  },
  {
   "offset": 1879,
   "en": "\r\n//　<RUBY text='まびさし'>眉庇</RUBY>の向こうに、薄目が開く。\r\n//　弱々しくも残っている、生命力を示して。\r\n  Her eyes flutter open. She's alive, if just barely.\r\n",
-  "pt": ""
+  "pt": "\r\n//　<RUBY text='まびさし'>眉庇</RUBY>の向こうに、薄目が開く。\r\n//　弱々しくも残っている、生命力を示して。\r\n  Os olhos dela se abrem. Ela está viva, ainda que por um fio.\r\n"
  },
  {
   "offset": 2090,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360070a00'>\r\n//「何があった」\r\n\"What happened?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360070a00'>\r\n//「何があった」\r\n\"O que aconteceu?\"\r\n"
  },
  {
   "offset": 2225,
   "en": "\r\n//　一条の指が動く。\r\n//　痙攣めいて。\r\n\r\n//　何かを指し示す。\r\n//　\r\n//　…………鉄屑？\r\n  She lifts a blackened finger and points across the space.\r\n\r\n  I turn to look―<K>\r\n  What is㉓<I>that?</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　一条の指が動く。\r\n//　痙攣めいて。\r\n\r\n//　何かを指し示す。\r\n//　\r\n//　…………鉄屑？\r\n  Ela ergue um dedo enegrecido e aponta para o outro lado do espaço.\r\n\r\n  Eu me viro para olhar―<K>\r\n  O que é㉓<I>aquilo</I>?\r\n"
  },
  {
   "offset": 2472,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360080a02'>\r\n//「……遊佐、童心と。\r\n//　戦って」\r\n\"I... fought the monk...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360080a02'>\r\n//「……遊佐、童心と。\r\n//　戦って」\r\n\"Eu... lutei contra o monge...\"\r\n"
  },
  {
   "offset": 2644,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360090a00'>\r\n//「何？」\r\n\"Yusa Doshin!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360090a00'>\r\n//「何？」\r\n\"Yusa Doshin!?\"\r\n"
  },
  {
   "offset": 2769,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360100a02'>\r\n//「……殺しました……」\r\n\"I killed him...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360100a02'>\r\n//「……殺しました……」\r\n\"Eu o matei...\"\r\n"
  },
  {
   "offset": 2917,
@@ -77,32 +77,32 @@
  {
   "offset": 3036,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360120a02'>\r\n//「あたしが、殺した」\r\n\"I... killed him...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0360120a02'>\r\n//「あたしが、殺した」\r\n\"Eu... o matei...\"\r\n"
  },
  {
   "offset": 3184,
   "en": "\r\n//　そこまで告げて。\r\n//　声は、途切れた。\r\n\r\n//　指もまた、力なく落ちる。\r\n  As this whisper fades, her body falls limp. Her eyes slowly close.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そこまで告げて。\r\n//　声は、途切れた。\r\n\r\n//　指もまた、力なく落ちる。\r\n  Quando esse sussurro se apaga, o corpo dela fica sem forças. Os olhos se fecham lentamente.\r\n"
  },
  {
   "offset": 3371,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360130a00'>\r\n//「一条！」\r\n\"Ichijo!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360130a00'>\r\n//「一条！」\r\n\"Ichijo!\"\r\n"
  },
  {
   "offset": 3493,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0360140a01'>\r\n//《大丈夫。\r\n//　劒冑が命を繋いでいるから……死ぬことは\r\n//無さそう》\r\n《She'll live. Her tsurugi's protecting her.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0360140a01'>\r\n//《大丈夫。\r\n//　劒冑が命を繋いでいるから……死ぬことは\r\n//無さそう》\r\n《Ela vai viver. O tsurugi dela está protegendo-a.》\r\n"
  },
  {
   "offset": 3743,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360150a00'>\r\n//「……そうか」\r\n\"...Good.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360150a00'>\r\n//「……そうか」\r\n\"...Bom.\"\r\n"
  },
  {
   "offset": 3872,
   "en": "\r\n//　必要最低限度の安堵は得て、一つ息をつく。\r\n//　そうして、傍らへ目をやった。\r\n\r\n//　鉄屑以外の何とも呼べない、それ。\r\n//　……古河公方、遊佐童心――これがその最後という\r\n//事なのか。\r\n\r\n//　良く観察すれば確かに、それは劒冑の残骸だった。\r\n//　肉も――人の骨肉の断片も混ざっている。\r\n  With my greatest fear allayed for the moment, I turn to the㉓<I>object</I>㉕at my side. Is this truly what became of General Yusa Doshin? It looks like a pile of hardened slag.\r\n\r\n  But as I look closer, I realize that yes, it㉒<I>was</I>㉓a tsurugi―<br>and here and there, I make out bits of flesh and bone.\r\n",
-  "pt": ""
+  "pt": "\r\n//　必要最低限度の安堵は得て、一つ息をつく。\r\n//　そうして、傍らへ目をやった。\r\n\r\n//　鉄屑以外の何とも呼べない、それ。\r\n//　……古河公方、遊佐童心――これがその最後という\r\n//事なのか。\r\n\r\n//　良く観察すれば確かに、それは劒冑の残骸だった。\r\n//　肉も――人の骨肉の断片も混ざっている。\r\n  Com meu maior temor aplacado por um instante, volto-me para o㉓<I>objeto</I>㉕ao meu lado. É mesmo isto o que restou do General Yusa Doshin? Parece um monte de escória endurecida.\r\n\r\n  Mas, ao olhar mais de perto, percebo que sim, aquilo㉒<I>era</I>㉓um tsurugi―e aqui e ali distingo fragmentos de carne e osso.\r\n"
  },
  {
   "offset": 4610,
@@ -112,16 +112,16 @@
  {
   "offset": 4734,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0360170a01'>\r\n//《御堂》\r\n《Mido.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0360170a01'>\r\n//《御堂》\r\n《Mido.》\r\n"
  },
  {
   "offset": 4861,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360180a00'>\r\n//「ああ……」\r\n\"I know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0360180a00'>\r\n//「ああ……」\r\n\"Eu sei.\"\r\n"
  },
  {
   "offset": 4986,
   "en": "\r\n//　促されて、立ち上がる。\r\n//　半壊した劒冑に包まれた半死の一条を、無事な右腕\r\n//で抱え上げて。\r\n\r\n//　ここは敵地。寸秒を惜しんで離脱し、安全な所まで\r\n//逃れなくてはならない。\r\n//　\r\n//　だが……俺は貴重な数瞬間を費やして、天を仰いだ。\r\n\r\n//　炎を映し、紅く燃えている空に向かって呟く。\r\n\r\n//　――――まずい<RUBY text='こと'>事態</RUBY>になった。\r\n  With my remaining arm, I lift Ichijo and her tsurugi―<br>they are fused together―and throw them over my shoulder.\r\n\r\n  This is enemy territory. We have no time to lose.\r\n\r\n  But first, I take one precious moment to gaze up at the flame-reddened sky and wonder―\r\n\r\n  How am I going to explain this?\r\n",
-  "pt": ""
+  "pt": "\r\n//　促されて、立ち上がる。\r\n//　半壊した劒冑に包まれた半死の一条を、無事な右腕\r\n//で抱え上げて。\r\n\r\n//　ここは敵地。寸秒を惜しんで離脱し、安全な所まで\r\n//逃れなくてはならない。\r\n//　\r\n//　だが……俺は貴重な数瞬間を費やして、天を仰いだ。\r\n\r\n//　炎を映し、紅く燃えている空に向かって呟く。\r\n\r\n//　――――まずい<RUBY text='こと'>事態</RUBY>になった。\r\n  Com o braço que me resta, ergo Ichijo e o tsurugi dela―eles estão fundidos um no outro―e os ponho sobre o ombro.\r\n\r\n  Este é território inimigo. Não temos tempo a perder.\r\n\r\n  Mas antes, dedico um precioso instante a olhar o céu avermelhado pelas chamas e a me perguntar―\r\n\r\n  Como vou explicar isso?\r\n"
  }
 ]

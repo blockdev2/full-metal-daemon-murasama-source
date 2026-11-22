@@ -2,41 +2,41 @@
  {
   "offset": 213,
   "en": "\r\n//　普陀楽城にはやはり近付けなかった。\r\n\r\n//　城を攻めている軍勢の隙間を縫うことからして容易\r\n//ではない。\r\n//　城壁を、中の兵に気付かれず越えるのは更に難しい。\r\n\r\n//　夜陰に乗じて忍び込むのも無理だった。\r\n//　平時ならいざ知らず今は戦時、夜襲を警戒している\r\n//ため昼間よりも厄介なほど。\r\n\r\n//　有体に言って、手も足も出ない。\r\n  A day spent carefully observing the fortress has only affirmed my initial assessment. I'll never reach Fudaraku Castle.\r\n\r\n  First, there's the invading army to contend with. Even if I somehow slip through their ranks―already a nearly impossible task―next, I'll have to scale the walls without being seen by the scores of defenders.\r\n\r\n  As night fell, the attackers withdrew their forces, but any hope I had of sneaking in under cover of darkness vanished when I saw that Rokuhara had tripled their patrols. I'd stand a better chance in broad daylight.\r\n\r\n  Honestly, I have no idea how to proceed.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　普陀楽城にはやはり近付けなかった。\r\n\r\n//　城を攻めている軍勢の隙間を縫うことからして容易\r\n//ではない。\r\n//　城壁を、中の兵に気付かれず越えるのは更に難しい。\r\n\r\n//　夜陰に乗じて忍び込むのも無理だった。\r\n//　平時ならいざ知らず今は戦時、夜襲を警戒している\r\n//ため昼間よりも厄介なほど。\r\n\r\n//　有体に言って、手も足も出ない。\r\n  Um dia inteiro observando a fortaleza com atenção só serviu para confirmar minha avaliação inicial. Jamais chegarei ao Castelo Fudaraku.\r\n\r\n  Primeiro, há o exército invasor a enfrentar. Mesmo que eu consiga de algum modo me infiltrar entre suas fileiras — tarefa já quase impossível —, depois terei de escalar as muralhas sem que os defensores me vejam, e eles são incontáveis.\r\n\r\n  Ao cair da noite, os atacantes recuaram, mas qualquer esperança que eu tinha de me infiltrar sob a cobertura da escuridão sumiu quando vi que Rokuhara havia triplicado as patrulhas. Eu teria mais chances em plena luz do dia.\r\n\r\n  Honestamente, não tenho a menor ideia de como prosseguir.\r\n\r\n"
  },
  {
   "offset": 1302,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0190010a01'>\r\n//（……なんて、弱音を吐いてる場合じゃない\r\n//のに）\r\n(But I can't just wait around doing <I>nothing.</I>)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0190010a01'>\r\n//（……なんて、弱音を吐いてる場合じゃない\r\n//のに）\r\n(Mas não posso simplesmente ficar de braços cruzados sem fazer <I>nada.</I>)\r\n"
  },
  {
   "offset": 1531,
   "en": "\r\n//　昔、祖父と母とに連れられていくつもの戦場を見て\r\n//回ったことがある。\r\n//　だから、何となく情勢は察せられた。\r\n\r\n//　この城は落ちようとしている。\r\n\r\n//　落城の混乱に紛れ込めば、侵入は果たせるだろう。\r\n//　……侵入だけなら、簡単に違いない。\r\n\r\n//　しかし、その渦中で一人の人間を探すのは、きっと\r\n//不可能だ。\r\n//　荒れ狂う海に落とした針を拾いにゆくのと同じこと\r\n//になる。\r\n\r\n//　城が落ちる前に手立てを考えなくてはならないのだ。\r\n//　城内に入り、景明と会う手立てを。\r\n  Long ago, I accompanied Mother and Grandfather across the breadth of war-torn Yamato. I know how to read the flow of a battle.\r\n\r\n  This castle is going to fall. And soon.\r\n\r\n  I briefly considered waiting for the invaders to storm the walls, then slipping inside once they were breached―<br>but finding a single individual amid that chaos will be like fishing a needle from the ocean in a storm.\r\n\r\n  No. I must find a way inside before the castle falls, and a way to locate Kageaki.\r\n",
-  "pt": ""
+  "pt": "\r\n//　昔、祖父と母とに連れられていくつもの戦場を見て\r\n//回ったことがある。\r\n//　だから、何となく情勢は察せられた。\r\n\r\n//　この城は落ちようとしている。\r\n\r\n//　落城の混乱に紛れ込めば、侵入は果たせるだろう。\r\n//　……侵入だけなら、簡単に違いない。\r\n\r\n//　しかし、その渦中で一人の人間を探すのは、きっと\r\n//不可能だ。\r\n//　荒れ狂う海に落とした針を拾いにゆくのと同じこと\r\n//になる。\r\n\r\n//　城が落ちる前に手立てを考えなくてはならないのだ。\r\n//　城内に入り、景明と会う手立てを。\r\n  Muito tempo atrás, acompanhei Mãe e Avô por toda a extensão do Yamato devastado pela guerra. Sei ler o fluxo de uma batalha.\r\n\r\n  Este castelo vai cair. E em breve.\r\n\r\n  Cheguei a considerar por um instante esperar que os invasores tomassem as muralhas e então me infiltrar quando elas fossem rompidas — mas encontrar uma única pessoa em meio a esse caos será como pescar uma agulha no oceano durante uma tempestade.\r\n\r\n  Não. Preciso encontrar um modo de entrar antes que o castelo caia, e um modo de localizar Kageaki.\r\n"
  },
  {
   "offset": 2708,
   "en": "\r\n//◆「hey,dwarf! Let's play together」\r\n//【ｅｔｃ／巡回兵Ａ】\r\n<voice name='ｅｔｃ／巡回兵Ａ' class='その他男声' src='voice/md04/0190020e117'>\r\n//「おい、蝦夷の姉ちゃん。\r\n//　オレと一緒に遊ぼうぜ！」\r\n\"Hey, dwarf! Let's have some fun!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆「hey,dwarf! Let's play together」\r\n//【ｅｔｃ／巡回兵Ａ】\r\n<voice name='ｅｔｃ／巡回兵Ａ' class='その他男声' src='voice/md04/0190020e117'>\r\n//「おい、蝦夷の姉ちゃん。\r\n//　オレと一緒に遊ぼうぜ！」\r\n\"Ei, anã! Vamos nos divertir um pouco!\"\r\n"
  },
  {
   "offset": 3008,
   "en": "\r\n//【ｅｔｃ／巡回兵Ｂ】\r\n<voice name='ｅｔｃ／巡回兵Ｂ' class='その他男声' src='voice/md04/0190030e118'>\r\n//「ハハハハハ」\r\n\"Hahahahaha!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／巡回兵Ｂ】\r\n<voice name='ｅｔｃ／巡回兵Ｂ' class='その他男声' src='voice/md04/0190030e118'>\r\n//「ハハハハハ」\r\n\"Hahahahaha!\"\r\n"
  },
  {
   "offset": 3186,
   "en": "\r\n//　外出禁止の指示は緩められている。\r\n//　自宅への帰宅は許可。何か特別な用事があって外出\r\n//したい者は巡回の兵士に事情を話して証明書をもらう\r\n//こと。……という放送が、先刻あった。\r\n\r\n//　彼らが勝ちつつあることと無関係ではあるまい。\r\n//　ともかくもそのお陰で、町の中での行動はしやすく\r\n//なっている。\r\n  The force occupying Kamakura has relaxed its restrictions on the populace somewhat. According to the periodic announcements, citizens are now free to return to their homes, while anyone with pressing business elsewhere may request permission from a GHQ patrol.\r\n\r\n  I take this as another sign the foreigners are winning. Whatever the case, it has made moving around the city easier.\r\n",
-  "pt": ""
+  "pt": "\r\n//　外出禁止の指示は緩められている。\r\n//　自宅への帰宅は許可。何か特別な用事があって外出\r\n//したい者は巡回の兵士に事情を話して証明書をもらう\r\n//こと。……という放送が、先刻あった。\r\n\r\n//　彼らが勝ちつつあることと無関係ではあるまい。\r\n//　ともかくもそのお陰で、町の中での行動はしやすく\r\n//なっている。\r\n  A força que ocupa Kamakura relaxou um pouco as restrições impostas à população. Segundo os anúncios periódicos, os cidadãos já podem voltar para casa, e quem tiver assuntos urgentes a resolver pode pedir permissão a uma patrulha da GHQ.\r\n\r\n  Vejo nisso mais um sinal de que os estrangeiros estão vencendo. De qualquer forma, isso facilitou meus deslocamentos pela cidade.\r\n"
  },
  {
   "offset": 4021,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0190040a01'>\r\n//（浮ついてる感じね）\r\n(It's like they don't have a care.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0190040a01'>\r\n//（浮ついてる感じね）\r\n(Parece que não têm preocupação alguma.)\r\n"
  },
  {
   "offset": 4190,
   "en": "\r\n//　たった今すれ違った兵士の印象を思う。\r\n//　彼らの使う言語はさっぱりわからないが、顔と口調\r\n//で大体の意味は察せられた。\r\n\r\n//　勝利を目前にして、気が大きくなっているのだろう。\r\n//　構ってはいられない。\r\n\r\n//　どうにかして、城へ近付ける所を探さないと――\r\n//　\r\n//　私は鎌倉の町を走り続けた。\r\n  I couldn't understand a word that soldier said, but his tone and expression were clear enough.\r\n\r\n  They're already drunk on victory. Best to give that sort a wide berth.\r\n\r\n  Now, how to get inside the castle...\r\n  While dashing through the back streets of Kamakura, I desperately search for the answer.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　たった今すれ違った兵士の印象を思う。\r\n//　彼らの使う言語はさっぱりわからないが、顔と口調\r\n//で大体の意味は察せられた。\r\n\r\n//　勝利を目前にして、気が大きくなっているのだろう。\r\n//　構ってはいられない。\r\n\r\n//　どうにかして、城へ近付ける所を探さないと――\r\n//　\r\n//　私は鎌倉の町を走り続けた。\r\n  Não entendi uma palavra do que aquele soldado disse, mas seu tom e sua expressão deixavam tudo bem claro.\r\n\r\n  Eles já estão embriagados de vitória. Melhor manter distância desse tipo de gente.\r\n\r\n  Agora, como entrar no castelo...\r\n  Enquanto corro pelas ruas secundárias de Kamakura, procuro desesperadamente a resposta.\r\n\r\n"
  }
 ]

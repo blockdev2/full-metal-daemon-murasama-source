@@ -2,32 +2,32 @@
  {
   "offset": 213,
   "en": "\r\n//　……気付けば、俺は独りだった。\r\n\r\n//　女性の姿は何処にもない。\r\n//　消えてしまった。\r\n\r\n//　触れ合った肌に、温もりの余韻だけを残して。\r\n//　他には何も――\r\n\r\n//　……いや。\r\n//　あと、一つだけ。\r\n  When I return to my senses, the woman has vanished. Only a warmth on my skin remains to tell me she was here.\r\n\r\n  I am alone.<K>\r\n  But not for long.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……気付けば、俺は独りだった。\r\n\r\n//　女性の姿は何処にもない。\r\n//　消えてしまった。\r\n\r\n//　触れ合った肌に、温もりの余韻だけを残して。\r\n//　他には何も――\r\n\r\n//　……いや。\r\n//　あと、一つだけ。\r\n  Quando volto a mim, a mulher desapareceu. Só resta um calor na pele para me dizer que ela esteve aqui.\r\n\r\n  Estou sozinho.<K>\r\n  Mas não por muito tempo.\r\n"
  },
  {
   "offset": 660,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250010a03'>\r\n//「景明さま！\r\n//　まだこんな所においででしたのね」\r\n\"Darling! What are you doing here?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250010a03'>\r\n//「景明さま！\r\n//　まだこんな所においででしたのね」\r\n\"Querido! O que está fazendo aqui?\"\r\n"
  },
  {
   "offset": 875,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250020a00'>\r\n//「……大尉殿。\r\n//　ご無事で」\r\n\"...Captain. You're all right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250020a00'>\r\n//「……大尉殿。\r\n//　ご無事で」\r\n\"...Capitã. Que bom que está bem.\"\r\n"
  },
  {
   "offset": 1047,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250030a03'>\r\n//「もう。確かめに来て幸いでした。\r\n//　急いで退散しましょう。篠川軍に捕まると\r\n//面倒なことになってしまいましてよ」\r\n\"Thank goodness I came looking for you. Come, we have to hurry. The army will be here soon.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250030a03'>\r\n//「もう。確かめに来て幸いでした。\r\n//　急いで退散しましょう。篠川軍に捕まると\r\n//面倒なことになってしまいましてよ」\r\n\"Ainda bem que vim procurá-lo. Vamos, temos que nos apressar. O exército chegará logo.\"\r\n"
  },
  {
   "offset": 1413,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250040a00'>\r\n//「は。\r\n//　要らぬ世話をお掛けしました」\r\n\"Of course. I apologize for the trouble I've caused.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250040a00'>\r\n//「は。\r\n//　要らぬ世話をお掛けしました」\r\n\"Compreendo. Lamento pelo incômodo que lhe causei.\"\r\n"
  },
  {
   "offset": 1622,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250050a00'>\r\n//「では、直ちに」\r\n\"Let's be going.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250050a00'>\r\n//「では、直ちに」\r\n\"Então vamos, imediatamente.\"\r\n"
  },
  {
   "offset": 1761,
@@ -37,42 +37,42 @@
  {
   "offset": 1894,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250070a00'>\r\n//「大尉？\r\n//　何か」\r\n\"Is something the matter?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250070a00'>\r\n//「大尉？\r\n//　何か」\r\n\"Aconteceu algo?\"\r\n"
  },
  {
   "offset": 2046,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250080a03'>\r\n//「いえ……\r\n//　その分ですと、ここに銀星号はいなかった\r\n//のですね」\r\n\"No... I'm sorry. Ginseigo wasn't here?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250080a03'>\r\n//「いえ……\r\n//　その分ですと、ここに銀星号はいなかった\r\n//のですね」\r\n\"Não... Perdão. Então Ginseigo não estava aqui?\"\r\n"
  },
  {
   "offset": 2291,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250090a00'>\r\n//「おりました」\r\n\"She was.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250090a00'>\r\n//「おりました」\r\n\"Estava.\"\r\n"
  },
  {
   "offset": 2420,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250100a03'>\r\n//「……えっ？\r\n//　いましたの？」\r\n\"R- Really?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250100a03'>\r\n//「……えっ？\r\n//　いましたの？」\r\n\"S- Sério?\"\r\n"
  },
  {
   "offset": 2585,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250110a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250110a00'>\r\n//「はい」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 2701,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250120a03'>\r\n//「それで……どうなりました？\r\n\"And... what happened?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250120a03'>\r\n//「それで……どうなりました？\r\n\"E... o que aconteceu?\"\r\n"
  },
  {
   "offset": 2873,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250130a00'>\r\n//「終わりました。\r\n//　全て……」\r\n\"...It's over. Everything.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250130a00'>\r\n//「終わりました。\r\n//　全て……」\r\n\"...Acabou. Tudo...\"\r\n"
  },
  {
   "offset": 3044,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250140a00'>\r\n//「全て」\r\n\"Everything.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250140a00'>\r\n//「全て」\r\n\"Tudo.\"\r\n"
  },
  {
   "offset": 3167,
@@ -82,72 +82,72 @@
  {
   "offset": 3300,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250160a00'>\r\n//「大尉殿？」\r\n\"Captain?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250160a00'>\r\n//「大尉殿？」\r\n\"Capitã?\"\r\n"
  },
  {
   "offset": 3426,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250170a03'>\r\n//「い、いえ。\r\n//　……その、景明さま」\r\n\"N- No, it's just... darling?\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250180a03'>\r\n//「こんなことを言っては無神経だと思います\r\n//けれど。\r\n//　それにしては、あまり――」\r\n\"Perhaps I'm being insensitive here, but you don't seem very―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250170a03'>\r\n//「い、いえ。\r\n//　……その、景明さま」\r\n\"N- Não, é que... querido?\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250180a03'>\r\n//「こんなことを言っては無神経だと思います\r\n//けれど。\r\n//　それにしては、あまり――」\r\n\"Talvez eu esteja sendo insensível, mas você não parece muito―\"\r\n"
  },
  {
   "offset": 3903,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250190a04'>\r\n//「おや、なんとお二方！\r\n//　まだ逃げておられなかったのですか？」\r\n\"Ah, there you are! Why haven't you fled?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250190a04'>\r\n//「おや、なんとお二方！\r\n//　まだ逃げておられなかったのですか？」\r\n\"Ora, vejam só! Por que ainda não fugiram?\"\r\n"
  },
  {
   "offset": 4137,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250200a04'>\r\n//「この近辺はそろそろ危のうございます。\r\n//　のんびりなさるなら場所をお選びください\r\n//ませ」\r\n\"The army is almost here. Perhaps the conversation can wait?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250200a04'>\r\n//「この近辺はそろそろ危のうございます。\r\n//　のんびりなさるなら場所をお選びください\r\n//ませ」\r\n\"O exército está quase chegando. Talvez a conversa possa esperar?\"\r\n"
  },
  {
   "offset": 4430,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250210a00'>\r\n//「……侍従殿。\r\n//　御主従共にお怪我もなく、何よりです」\r\n\"Miss Nagakura. I'm glad you're both unhurt.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250210a00'>\r\n//「……侍従殿。\r\n//　御主従共にお怪我もなく、何よりです」\r\n\"Senhorita Nagakura. Que bom que nenhum dos dois se feriu.\"\r\n"
  },
  {
   "offset": 4655,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250220a04'>\r\n//「湊斗さまこそ。\r\n//　いやいや、皆さま悪運が強くて結構なこと\r\n//でございますなぁ」\r\n\"And you as well, sir. It seems we all have the devil's luck today. Splendid.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250220a04'>\r\n//「湊斗さまこそ。\r\n//　いやいや、皆さま悪運が強くて結構なこと\r\n//でございますなぁ」\r\n\"O senhor também, senhor. Parece que hoje todos temos a sorte do diabo. Que maravilha.\"\r\n"
  },
  {
   "offset": 4950,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250230a04'>\r\n//「この運を無駄にせぬためにも急がねば。\r\n//　ささ、お嬢さま」\r\n\"Still, we ought not push it. If you please?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250230a04'>\r\n//「この運を無駄にせぬためにも急がねば。\r\n//　ささ、お嬢さま」\r\n\"Ainda assim, não devemos abusar da sorte. Vamos, minha senhora.\"\r\n"
  },
  {
   "offset": 5181,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250240a03'>\r\n//「え、ええ」\r\n\"Y- Yes. Quite right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250240a03'>\r\n//「え、ええ」\r\n\"S- Sim. Claro.\"\r\n"
  },
  {
   "offset": 5328,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250250a04'>\r\n//「湊斗さま、脱出口はこちらでございます。\r\n//　はぐれたりなさいませぬよう」\r\n\"Stay close to me, sir. Our escape route is this way.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250250a04'>\r\n//「湊斗さま、脱出口はこちらでございます。\r\n//　はぐれたりなさいませぬよう」\r\n\"Fique perto de mim, senhor. A rota de fuga é por aqui.\"\r\n"
  },
  {
   "offset": 5589,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250260a00'>\r\n//「お気遣い有難うございます。\r\n//　侍従殿」\r\n\"Thank you, miss. I'm in your debt.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250260a00'>\r\n//「お気遣い有難うございます。\r\n//　侍従殿」\r\n\"Obrigado, senhorita. Fico lhe devendo.\"\r\n"
  },
  {
   "offset": 5784,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250270a04'>\r\n//「いえいえ。\r\n//　………………」\r\n\"Oh, nonsense.\"\r\n\r\n\"......\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250270a04'>\r\n//「いえいえ。\r\n//　………………」\r\n\"Ora, nada disso.\"\r\n\r\n\"......\"\r\n"
  },
  {
   "offset": 5955,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250280a00'>\r\n//「何か？」\r\n\"Is something the matter?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0250280a00'>\r\n//「何か？」\r\n\"Aconteceu algo?\"\r\n"
  },
  {
   "offset": 6094,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250290a04'>\r\n//「いえいえいえいえ」\r\n\"No! Not at all!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250290a04'>\r\n//「いえいえいえいえ」\r\n\"Não! De jeito nenhum!\"\r\n"
  },
  {
   "offset": 6239,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250300a04'>\r\n//「……ぽっ……」\r\n\"...*blush*...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0250300a04'>\r\n//「……ぽっ……」\r\n\"...*corada*...\"\r\n"
  },
  {
   "offset": 6376,
@@ -157,6 +157,6 @@
  {
   "offset": 6509,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250320a03'>\r\n//（……ま……ましゃか……）\r\n(No㉒<I>way.</I>)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0250320a03'>\r\n//（……ま……ましゃか……）\r\n(De jeito nen㉒<I>hum.</I>)\r\n"
  }
 ]

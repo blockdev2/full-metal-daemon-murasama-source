@@ -2,32 +2,32 @@
  {
   "offset": 213,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040010a15'>\r\n//「御父、もういかぬ！\r\n//　敵兵の数は百や二百ではない」\r\n\"There's nothing more we can do, Father! The enemy is thousands strong!\"\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040020a15'>\r\n//「このままでは皆殺しぞ！」\r\n\"If we stay, we shall all perish!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040010a15'>\r\n//「御父、もういかぬ！\r\n//　敵兵の数は百や二百ではない」\r\n\"Não há mais nada que possamos fazer, Pai! O inimigo é milhares!\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040020a15'>\r\n//「このままでは皆殺しぞ！」\r\n\"Se ficarmos, todos pereceremos!\r\n"
  },
  {
   "offset": 661,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040030b30'>\r\n//「……おのれ……」\r\n\"How...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040030b30'>\r\n//「……おのれ……」\r\n\"Como...\r\n"
  },
  {
   "offset": 812,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0040040a01'>\r\n//「母様、怪我……！」\r\n\"Mother, you're hurt!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0040040a01'>\r\n//「母様、怪我……！」\r\n\"Mãe, você está ferida!\r\n"
  },
  {
   "offset": 968,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040050a15'>\r\n//「構うでない。\r\n//　流れ矢が掠めただけだ」\r\n\"Leave it. A scratch from a stray arrow will not kill me.\"\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040060a15'>\r\n//「母より自分の心配をせよ。\r\n//　焼けて崩れた家の下敷きにでもなろうもの\r\n//なら、助からぬぞ」\r\n\"Look to your own safety instead. If you get trapped under a house, that's the end of you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040050a15'>\r\n//「構うでない。\r\n//　流れ矢が掠めただけだ」\r\n\"Deixe disso. Um arranhão de flecha perdida não vai me matar.\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040060a15'>\r\n//「母より自分の心配をせよ。\r\n//　焼けて崩れた家の下敷きにでもなろうもの\r\n//なら、助からぬぞ」\r\n\"Cuide de si em vez disso. Se ficar preso sob uma casa em chamas, não escapará.\r\n"
  },
  {
   "offset": 1536,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0040070a01'>\r\n//「う、うん……」\r\n\"R- Right...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0040070a01'>\r\n//「う、うん……」\r\n\"C-certo...\r\n"
  },
  {
   "offset": 1677,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040080a15'>\r\n//「御父、とにかく今は<RUBY text='ひ'>退</RUBY>こう。\r\n//　裏里まで逃れれば、奴らも追って来られぬ」\r\n\"Father, we must be gone from this place. Once we reach the hidden village, the enemy will have to turn <br>back.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040080a15'>\r\n//「御父、とにかく今は<RUBY text='ひ'>退</RUBY>こう。\r\n//　裏里まで逃れれば、奴らも追って来られぬ」\r\n\"Pai, precisamos sair daqui agora. Quando chegarmos à aldeia oculta, o inimigo não poderá nos seguir.\r\n"
  },
  {
   "offset": 2040,
@@ -37,57 +37,57 @@
  {
   "offset": 2176,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040100a15'>\r\n//「御父！」\r\n\"Father!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040100a15'>\r\n//「御父！」\r\n\"Pai!\r\n"
  },
  {
   "offset": 2316,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040110b30'>\r\n//「……何故だ。\r\n//　北朝の軍がここまで攻め入って来るなど、\r\n//有り得んことだ！」\r\n\"...How could this happen!? We were supposed to be safe from the North!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040110b30'>\r\n//「……何故だ。\r\n//　北朝の軍がここまで攻め入って来るなど、\r\n//有り得んことだ！」\r\n\"...Como isso pôde acontecer!? Não deveríamos correr perigo algum do Norte!\r\n"
  },
  {
   "offset": 2620,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040120b30'>\r\n//「こんな筈では……」\r\n\"This cannot be...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040120b30'>\r\n//「こんな筈では……」\r\n\"Isso não pode ser...\r\n"
  },
  {
   "offset": 2785,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040130b16'>\r\n//「長島を越えない限り、北朝はここまで来れ\r\n//ない……ですか？」\r\n\"I assume any invading army would have to pass through Nagashima first?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040130b16'>\r\n//「長島を越えない限り、北朝はここまで来れ\r\n//ない……ですか？」\r\n\"Suponho que qualquer exército invasor teria de passar por Nagashima primeiro?\r\n"
  },
  {
   "offset": 3046,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040140b30'>\r\n//「浦夢殿……」\r\n\"Uramu...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040140b30'>\r\n//「浦夢殿……」\r\n\"Uramu...\r\n"
  },
  {
   "offset": 3193,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040150b16'>\r\n//「では、長島は落ちたのでしょう」\r\n\"Then Nagashima must have fallen.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040150b16'>\r\n//「では、長島は落ちたのでしょう」\r\n\"Então Nagashima deve ter caído.\r\n"
  },
  {
   "offset": 3373,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040160b30'>\r\n//「馬鹿な！\r\n//　今、長島を預かるのは他ならぬ飽間様ぞ」\r\n\"Impossible! Nagashima is guarded by Lord Akima himself!\"\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040170b30'>\r\n//「あの方なら、たとえ万の大軍を敵としても\r\n//数日は持ち堪える筈……」\r\n\"A general of his caliber could hold that pass for days, even against an army a hundred thousand strong!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040160b30'>\r\n//「馬鹿な！\r\n//　今、長島を預かるのは他ならぬ飽間様ぞ」\r\n\"Impossível! Nagashima é guardada pelo próprio Lorde Akima!\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040170b30'>\r\n//「あの方なら、たとえ万の大軍を敵としても\r\n//数日は持ち堪える筈……」\r\n\"Um general da sua têmpera poderia defender aquele passo por dias, mesmo diante de um exército de cem mil homens!\r\n"
  },
  {
   "offset": 3938,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040180b16'>\r\n//「戦えば、そうでしょう。\r\n//　けれど、戦わなければ、どうですか？」\r\n\"Yes, if he indeed defended his castle. But what if he did not?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040180b16'>\r\n//「戦えば、そうでしょう。\r\n//　けれど、戦わなければ、どうですか？」\r\n\"Sim, se ele de fato defendesse seu castelo. Mas e se não defendesse?\r\n"
  },
  {
   "offset": 4197,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040190b30'>\r\n//「な、何!?」\r\n\"What!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040190b30'>\r\n//「な、何!?」\r\n\"O quê!?\r\n"
  },
  {
   "offset": 4338,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040200b16'>\r\n//「飽間どのが北朝の軍勢を素通しにしたなら\r\n//……」\r\n\"If Lord Akima let the enemy pass unhindered...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040200b16'>\r\n//「飽間どのが北朝の軍勢を素通しにしたなら\r\n//……」\r\n\"Se o Lorde Akima deixou o inimigo passar livremente...\r\n"
  },
  {
   "offset": 4557,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040210b30'>\r\n//「戯けたことを申すな!!」\r\n\"How can you say such a thing!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040210b30'>\r\n//「戯けたことを申すな!!」\r\n\"Como pode dizer uma coisa dessas!?\r\n"
  },
  {
   "offset": 4740,
@@ -97,36 +97,36 @@
  {
   "offset": 4859,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040230b30'>\r\n//「確かに当世、武人といえばどいつも達磨よ。\r\n//　<RUBY text='あっち'>北朝</RUBY>へ転がり<RUBY text='こっち'>南朝</RUBY>へ転がり、風向き次第で\r\n//旗幟を変えよる」\r\n\"Yes, many in this age sell their swords cheaply, changing their allegiance as a snake changes its skin.\" \r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040240b30'>\r\n//「だが飽間様は違うっ！\r\n//　あの方は、」\r\n\"But not him! Lord Akima is different!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040230b30'>\r\n//「確かに当世、武人といえばどいつも達磨よ。\r\n//　<RUBY text='あっち'>北朝</RUBY>へ転がり<RUBY text='こっち'>南朝</RUBY>へ転がり、風向き次第で\r\n//旗幟を変えよる」\r\n\"Sim, muitos nesta era vendem sua espada por pouco, trocando de lealdade como a cobra troca de pele.\r\n\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040240b30'>\r\n//「だが飽間様は違うっ！\r\n//　あの方は、」\r\n\"Mas ele não! O Lorde Akima é diferente!\r\n"
  },
  {
   "offset": 5501,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040250b30'>\r\n//「……あの方だけは……」\r\n\"He would never...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040250b30'>\r\n//「……あの方だけは……」\r\n\"Ele jamais...\r\n"
  },
  {
   "offset": 5672,
   "en": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040260b16'>\r\n//「村正どの……」\r\n\"Muramasa...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【浦夢】\r\n<voice name='浦夢' class='浦夢' src='voice/md01/0040260b16'>\r\n//「村正どの……」\r\n\"Muramasa...\r\n"
  },
  {
   "offset": 5807,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040270a15'>\r\n//「……御父。\r\n//　今は考えまい」\r\n\"...Father. Now is not the time for this.\"\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040280a15'>\r\n//「今は逃げねばならぬ。\r\n///　忘れたか。御父は大和一の劒冑を打てと、\r\n//先の帝より勅を賜った身」\r\n\"We must flee. Or have you forgotten your duty? You were commissioned by the emperor himself to forge the mightiest tsurugi in Yamato.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040270a15'>\r\n//「……御父。\r\n//　今は考えまい」\r\n\"...Pai. Agora não é hora para isso.\r\n\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040280a15'>\r\n//「今は逃げねばならぬ。\r\n///　忘れたか。御父は大和一の劒冑を打てと、\r\n//先の帝より勅を賜った身」\r\n\"Precisamos fugir. Ou já esqueceu seu dever? O próprio imperador lhe ordenou forjar o tsurugi mais poderoso de Yamato.\r\n"
  },
  {
   "offset": 6392,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040290a15'>\r\n//「ここで命を危うくしてはならぬ！」\r\n\"Your life is not yours to risk here!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md01/0040290a15'>\r\n//「ここで命を危うくしてはならぬ！」\r\n\"Não pode arriscar sua vida aqui!\r\n"
  },
  {
   "offset": 6597,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0040300a01'>\r\n//「爺様」\r\n\"Grandfather.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md01/0040300a01'>\r\n//「爺様」\r\n\"Avô.\r\n"
  },
  {
   "offset": 6727,
   "en": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040310b30'>\r\n//「……くっ」\r\n\"...Kuh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【始祖村正】\r\n<voice name='始祖村正' class='始祖村正' src='voice/md01/0040310b30'>\r\n//「……くっ」\r\n\"...Kuh!\r\n"
  }
 ]

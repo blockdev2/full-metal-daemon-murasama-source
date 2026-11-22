@@ -2,32 +2,32 @@
  {
   "offset": 216,
   "en": "\r\n//　……守る。\r\n\r\n//　そうだ。\r\n//　俺は守りたいのだ。\r\n  Yes... of course. I have to protect her.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……守る。\r\n\r\n//　そうだ。\r\n//　俺は守りたいのだ。\r\n  Sim... claro. Eu tenho que protegê-la.\r\n"
  },
  {
   "offset": 347,
   "en": "\r\n//　俺の罪を正しく理解してくれた、\r\n//　そして正しい罰を約束してくれたあの<RUBY text='ひと'>女性</RUBY>を。\r\n\r\n//　何物にも代えて守りたいのだ！\r\n  She judged my crimes fairly. She promised me death.\r\n\r\n  I must protect her, whatever it takes!\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺の罪を正しく理解してくれた、\r\n//　そして正しい罰を約束してくれたあの<RUBY text='ひと'>女性</RUBY>を。\r\n\r\n//　何物にも代えて守りたいのだ！\r\n  Ela julgou meus crimes com justiça. Prometeu-me a morte.\r\n\r\n  Preciso protegê-la, custe o que custar!\r\n"
  },
  {
   "offset": 656,
   "en": "\r\n//　意識の靄を<RUBY text='ちから'>気力</RUBY>ずくで払い除ける。\r\n//　上天を睨み、敵影を捕捉する。\r\n\r\n//　戦え。\r\n//　起って……戦え！\r\n\r\n//　掛け替えなきひと。\r\n//　――大鳥大尉を、守るために！\r\n  Tearing free of the fog that ensnares me, I rise, enemy in sight.\r\n\r\n  I won't let Captain Otori die!\r\n",
-  "pt": ""
+  "pt": "\r\n//　意識の靄を<RUBY text='ちから'>気力</RUBY>ずくで払い除ける。\r\n//　上天を睨み、敵影を捕捉する。\r\n\r\n//　戦え。\r\n//　起って……戦え！\r\n\r\n//　掛け替えなきひと。\r\n//　――大鳥大尉を、守るために！\r\n  Rasgando a névoa que me prende, eu me ergo, com o inimigo à vista.\r\n\r\n  Não vou deixar a Capitã Otori morrer!\r\n"
  },
  {
   "offset": 1039,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/043vs0250a00'>\r\n//「お、おお」\r\n\"Ohh...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/043vs0250a00'>\r\n//「お、おお」\r\n\"Ooh...!\"\r\n"
  },
  {
   "offset": 1166,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/043vs0260a00'>\r\n//「おアアアアアアアアアアア!!」\r\n\"OHHHHHHHHHHHHHH!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/043vs0260a00'>\r\n//「おアアアアアアアアアアア!!」\r\n\"AAAHHHHHHHHHHHHH!\"\r\n"
  },
  {
   "offset": 1328,
   "en": "\r\n//　\r\n//　　　……だが、湊斗景明よ。\r\n//　　　お前は既に自覚したのではなかったか？\r\n\r\n//　\r\n//　　　　　　　　　己の宿星を。\r\n\r\n//　\r\n//　湊斗景明は<RUBY text='かつ'>嘗</RUBY>て一度たりと大切な人を守れなかった、\r\n//　誰かを守る力など持たない男なのだという、真実を。\r\n \r\n \r\n \r\n \r\n<center>Do you forget so quickly, Minato Kageaki? You already know what you are.\r\n\r\n \r\n \r\n \r\n \r\n<center>Everyone who matters to you has died. Did you have the power to protect them?\r\n",
-  "pt": ""
+  "pt": "\r\n//　\r\n//　　　……だが、湊斗景明よ。\r\n//　　　お前は既に自覚したのではなかったか？\r\n\r\n//　\r\n//　　　　　　　　　己の宿星を。\r\n\r\n//　\r\n//　湊斗景明は<RUBY text='かつ'>嘗</RUBY>て一度たりと大切な人を守れなかった、\r\n//　誰かを守る力など持たない男なのだという、真実を。\r\n \r\n \r\n \r\n \r\n<center>Já te esqueceste, Minato Kageaki? Tu já sabes o que és.\r\n\r\n \r\n \r\n \r\n \r\n<center>Todos os que te importavam morreram. Tinhas o poder de protegê-los?\r\n"
  },
  {
   "offset": 1905,
@@ -37,11 +37,11 @@
  {
   "offset": 2031,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/043vs0280a00'>\r\n//「……う」\r\n\"Ngh...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/043vs0280a00'>\r\n//「……う」\r\n\"Ngh...!\"\r\n"
  },
  {
   "offset": 2155,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/043vs0290a00'>\r\n//「っあ――――あァ!!」\r\n\"Gah! Agh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/043vs0290a00'>\r\n//「っあ――――あァ!!」\r\n\"Gah! Argh!\"\r\n"
  }
 ]

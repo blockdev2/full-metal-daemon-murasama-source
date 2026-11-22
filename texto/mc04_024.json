@@ -2,17 +2,17 @@
  {
   "offset": 213,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240010a04'>\r\n//「湊斗さま」\r\n\"Look at me, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240010a04'>\r\n//「湊斗さま」\r\n\"Olhe para mim, senhor.\"\r\n"
  },
  {
   "offset": 347,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0240020a00'>\r\n//「はい」\r\n\"I―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0240020a00'>\r\n//「はい」\r\n\"Eu—\"\r\n"
  },
  {
   "offset": 463,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240030a04'>\r\n//「心を潰してはいけません」\r\n\"You mustn't let your soul die.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240030a04'>\r\n//「心を潰してはいけません」\r\n\"O senhor não deve deixar sua alma morrer.\"\r\n"
  },
  {
   "offset": 632,
@@ -22,12 +22,12 @@
  {
   "offset": 751,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240050a04'>\r\n//「心を潰してしまえば、お嬢さまの前に立つ\r\n//資格を失います。\r\n//　貴方は家畜のような死を迎える」\r\n\"When it comes time to meet my lady's judgment, I will not have you go to her like a cow to the slaughter.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240050a04'>\r\n//「心を潰してしまえば、お嬢さまの前に立つ\r\n//資格を失います。\r\n//　貴方は家畜のような死を迎える」\r\n\"Quando chegar a hora de comparecer ao julgamento de minha senhora, não permitirei que o senhor se apresente a ela como um boi para o abate.\"\r\n"
  },
  {
   "offset": 1096,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240060a04'>\r\n//「……なぜでしょうね。\r\n//　そうさせてはならないという気がします」\r\n\"That would be wrong. I know this in my heart.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240060a04'>\r\n//「……なぜでしょうね。\r\n//　そうさせてはならないという気がします」\r\n\"Isso seria errado. Sei disso em meu coração.\"\r\n"
  },
  {
   "offset": 1338,
@@ -37,12 +37,12 @@
  {
   "offset": 1462,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240080a04'>\r\n//「微力ながら……。\r\n//　私が、お助けいたしましょう」\r\n\"Perhaps I can be of some assistance.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240080a04'>\r\n//「微力ながら……。\r\n//　私が、お助けいたしましょう」\r\n\"Talvez eu possa lhe ser de alguma ajuda.\"\r\n"
  },
  {
   "offset": 1674,
   "en": "\r\n//　温もりの訪れは唐突だった。\r\n\r\n//　柔らかく、何かが触れている。\r\n//　口元に。\r\n\r\n//　初めて会う――筈の――女性が、俺に口唇を重ねて\r\n//いる。\r\n  The warmth envelops me suddenly, starting at my lips. Something soft is pressed against them.\r\n\r\n  Understanding comes slowly. The woman, whom I have never―never?―met, is kissing me.\r\n",
-  "pt": ""
+  "pt": "\r\n//　温もりの訪れは唐突だった。\r\n\r\n//　柔らかく、何かが触れている。\r\n//　口元に。\r\n\r\n//　初めて会う――筈の――女性が、俺に口唇を重ねて\r\n//いる。\r\n  O calor me envolve de repente, começando pelos meus lábios. Algo macio se pressiona contra eles.\r\n\r\n  A compreensão chega devagar. A mulher, a quem nunca—nunca?—encontrei, está me beijando.\r\n"
  },
  {
   "offset": 2081,
@@ -52,17 +52,17 @@
  {
   "offset": 2205,
   "en": "\r\n//　脈絡もない行為。\r\n//　前提もない接触。\r\n  The gesture is utterly without portent. My body, however, accepts it passively, rather than push her away.\r\n\r\n//　なのにどうしてか、俺の身体感覚は、拒絶の反応を\r\n//示さなかった。\r\n//　赤子の素直さで、受け入れている。\r\n\r\n//　女性の<RUBY text='かいな'>腕</RUBY>が、俺の背と、<RUBY text='うなじ'>項</RUBY>に回された。\r\n//　指先で、そこを撫ぜる。\r\n  Her arms slide around me, fingers winding through my hair. She combs it gently, a soothing gesture.\r\n\r\n//　あやすような仕草。\r\n//　<RUBY text='とろ'>蕩</RUBY>かすような手櫛。\r\n\r\n//　髪の一筋一筋が、宥められ、<RUBY text='ほぐ'>解</RUBY>される。\r\n//　繊細で巧緻な慰撫。\r\n  One by one, the strands fall away, my heart smoothed and softened by her touch. And all the while, her lips, full and fragrant, remain pressed to mine.\r\n\r\n//　その最中にも、女性の艶唇は押し付けられたままだ。\r\n//　そこがふと開いて。現れる別のなにか。\r\n\r\n//　舌先が、俺の唇を割った。\r\n//　歯を舐め、歯茎にまで触れる。\r\n  Suddenly they part, and from between them, her tongue emerges to probe at my gums.\r\n",
-  "pt": ""
+  "pt": "\r\n//　脈絡もない行為。\r\n//　前提もない接触。\r\n  O gesto é totalmente desprovido de presságio. Meu corpo, porém, aceita-o passivamente, em vez de afastá-la.\r\n\r\n//　なのにどうしてか、俺の身体感覚は、拒絶の反応を\r\n//示さなかった。\r\n//　赤子の素直さで、受け入れている。\r\n\r\n//　女性の<RUBY text='かいな'>腕</RUBY>が、俺の背と、<RUBY text='うなじ'>項</RUBY>に回された。\r\n//　指先で、そこを撫ぜる。\r\n  Os braços dela deslizam em volta de mim, os dedos se enroscam em meus cabelos. Ela os penteia com delicadeza, num gesto tranquilizador.\r\n\r\n//　あやすような仕草。\r\n//　<RUBY text='とろ'>蕩</RUBY>かすような手櫛。\r\n\r\n//　髪の一筋一筋が、宥められ、<RUBY text='ほぐ'>解</RUBY>される。\r\n//　繊細で巧緻な慰撫。\r\n  Uma a uma, as mechas se soltam, e meu coração se suaviza e amolece sob seu toque. E, o tempo todo, seus lábios cheios e perfumados permanecem pressionados aos meus.\r\n\r\n//　その最中にも、女性の艶唇は押し付けられたままだ。\r\n//　そこがふと開いて。現れる別のなにか。\r\n\r\n//　舌先が、俺の唇を割った。\r\n//　歯を舐め、歯茎にまで触れる。\r\n  De repente, eles se abrem, e, dentre eles, sua língua surge para sondar minhas gengivas.\r\n"
  },
  {
   "offset": 3509,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240100a04'>\r\n//「……っ……」\r\n\"...mm...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240100a04'>\r\n//「……っ……」\r\n\"...mm...\"\r\n"
  },
  {
   "offset": 3638,
   "en": "\r\n//　そこまでした後でようやく、女性は口を離した。\r\n//　熱く吐息する。\r\n  After a moment, she pulls away. Her breath is hot and moist.\r\n\r\n//　そして俺の両眼を覗いた。\r\n//　俺の視界にも、彼女の瞳が映る。\r\n\r\n//　冷たく冴えたそこに、情欲の火はない。\r\n//　不思議だった。ならば何故、彼女の呼吸は、愛撫は、\r\n//こんなにも熱いのか。\r\n  Our eyes meet. Hers are cold and bright. I see no flame of desire in their depths.\r\n\r\n  But... then what is this heat, that spreads from her touch, that seeps into my core?\r\n\r\n//　今――俺を<RUBY text='・・・'>暖めて</RUBY>いるものは、何なのか。\r\n",
-  "pt": ""
+  "pt": "\r\n//　そこまでした後でようやく、女性は口を離した。\r\n//　熱く吐息する。\r\n  Depois de um instante, ela se afasta. Sua respiração é quente e úmida.\r\n\r\n//　そして俺の両眼を覗いた。\r\n//　俺の視界にも、彼女の瞳が映る。\r\n\r\n//　冷たく冴えたそこに、情欲の火はない。\r\n//　不思議だった。ならば何故、彼女の呼吸は、愛撫は、\r\n//こんなにも熱いのか。\r\n  Nossos olhos se encontram. Os dela são frios e brilhantes. Não vejo qualquer chama de desejo em suas profundezas.\r\n\r\n  Mas... então o que é esse calor que se espalha do toque dela, que penetra em meu âmago?\r\n\r\n//　今――俺を<RUBY text='・・・'>暖めて</RUBY>いるものは、何なのか。\r\n"
  },
  {
   "offset": 4358,
@@ -72,32 +72,32 @@
  {
   "offset": 4477,
   "en": "\r\n//　頬を伝う感触に、俺は驚いた。\r\n//　どうしてだろう――\r\n\r\n//　この涙は、心の何処から零れたのか。\r\n\r\n//　理由がわからない。\r\n//　理由など無い筈の、涙。\r\n  A wetness upon my cheeks startles me.\r\n\r\n  Tears... but no. I can't be crying. What reason would I have?\r\n",
-  "pt": ""
+  "pt": "\r\n//　頬を伝う感触に、俺は驚いた。\r\n//　どうしてだろう――\r\n\r\n//　この涙は、心の何処から零れたのか。\r\n\r\n//　理由がわからない。\r\n//　理由など無い筈の、涙。\r\n  Uma umidade nas minhas bochechas me sobressalta.\r\n\r\n  Lágrimas... mas não. Não posso estar chorando. Que motivo eu teria?\r\n"
  },
  {
   "offset": 4814,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240120a04'>\r\n//「お任せを……」\r\n\"Leave everything to me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240120a04'>\r\n//「お任せを……」\r\n\"Deixe tudo comigo.\"\r\n"
  },
  {
   "offset": 4961,
   "en": "\r\n//　氷の結晶に似た瞳のまま、女性は呟いて顔を寄せた。\r\n//　そうして――視界を塞ぐ。\r\n  The woman leans forward. Her eyes, glacier cold, grow in my sight. And then there is only darkness.\r\n\r\n//　彼女の唇は、俺の<RUBY text='まぶた'>目蓋</RUBY>を封じていた。\r\n//　また、柔らかく。包むように。\r\n  Through the darkness, I feel her lips pressed against my eyelid. Again, their touch is soft, accepting, as if to soothe my tears... or swallow them whole.\r\n\r\n//　奪うように。\r\n//　女性は俺の涙を吸った。\r\n\r\n//　――知っているのだろうか。\r\n//　\r\n//　そう思う。\r\n  Does she know their source? Perhaps she does, via some female intuition that we blind men cannot fathom. Perhaps that is why she seeks to stem their flow.\r\n\r\n//　俺が涙する理由を。\r\n//　この女性は。\r\n\r\n//　知っているからこそ、止められるのか。\r\n//　……そうなのだろう。\r\n\r\n//　この世には、女性だけの知恵というものが、きっと\r\n//有るのだ。\r\n//　愚昧な男にはわからぬものが。\r\n\r\n//　俺は無知のままに、女性へ身を委ねた。\r\n//　彼女は唇にしたのと同じように、舌を使う。\r\n  And so, I give up trying to understand. I surrender to her touch and her tongue. \r\n\r\n//　目蓋の中に溜まった涙まで、彼女は<RUBY text='すく'>掬</RUBY>った。\r\n//　そうして片方が済むと、もう一方の眼にも同じ行為\r\n//を加える。\r\n\r\n//　女性が俺の涙を吸い取る。\r\n//　その涙の根源ごと。\r\n  She drinks my tears dry, together with their source.\r\n",
-  "pt": ""
+  "pt": "\r\n//　氷の結晶に似た瞳のまま、女性は呟いて顔を寄せた。\r\n//　そうして――視界を塞ぐ。\r\n  A mulher se inclina. Seus olhos, frios como geleiras, avolumam-se em meu campo de visão. E então só há escuridão.\r\n\r\n//　彼女の唇は、俺の<RUBY text='まぶた'>目蓋</RUBY>を封じていた。\r\n//　また、柔らかく。包むように。\r\n  Através da escuridão, sinto seus lábios pressionados contra minha pálpebra. Mais uma vez, o toque é macio, acolhedor, como se quisesse acalmar minhas lágrimas... ou engoli-las por inteiro.\r\n\r\n//　奪うように。\r\n//　女性は俺の涙を吸った。\r\n\r\n//　――知っているのだろうか。\r\n//　\r\n//　そう思う。\r\n  Ela conhece a origem delas? Talvez sim, por alguma intuição feminina que nós, homens cegos, não podemos compreender. Talvez seja por isso que ela busca conter seu fluxo.\r\n\r\n//　俺が涙する理由を。\r\n//　この女性は。\r\n\r\n//　知っているからこそ、止められるのか。\r\n//　……そうなのだろう。\r\n\r\n//　この世には、女性だけの知恵というものが、きっと\r\n//有るのだ。\r\n//　愚昧な男にはわからぬものが。\r\n\r\n//　俺は無知のままに、女性へ身を委ねた。\r\n//　彼女は唇にしたのと同じように、舌を使う。\r\n  E assim, desisto de tentar compreender. Entrego-me ao seu toque e à sua língua.\r\n\r\n//　目蓋の中に溜まった涙まで、彼女は<RUBY text='すく'>掬</RUBY>った。\r\n//　そうして片方が済むと、もう一方の眼にも同じ行為\r\n//を加える。\r\n\r\n//　女性が俺の涙を吸い取る。\r\n//　その涙の根源ごと。\r\n  Ela bebe minhas lágrimas até secarem, junto com a fonte delas.\r\n"
  },
  {
   "offset": 6643,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0240130a00'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0240140a00'>\r\n//「貴方は――」\r\n\"You...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0240130a00'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0240140a00'>\r\n//「貴方は――」\r\n\"Você...\"\r\n"
  },
  {
   "offset": 6886,
   "en": "\r\n//　どうして？\r\n//　何故？\r\n\r\n//　不定形の疑問を吐き出そうとして、その口を閉ざさ\r\n//れる。\r\n//　彼女の指先が、俺の言葉を禁じた。\r\n  Who? Why?\r\n\r\n  But the questions never make it past my lips. She dispels them with one slender finger.\r\n",
-  "pt": ""
+  "pt": "\r\n//　どうして？\r\n//　何故？\r\n\r\n//　不定形の疑問を吐き出そうとして、その口を閉ざさ\r\n//れる。\r\n//　彼女の指先が、俺の言葉を禁じた。\r\n  Quem? Por quê?\r\n\r\n  Mas as perguntas nunca ultrapassam meus lábios. Ela as dissipa com um único dedo esguio.\r\n"
  },
  {
   "offset": 7186,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240150a04'>\r\n//「何も言わなくてよろしいのです……」\r\n\"Shh. There's no need to speak.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240150a04'>\r\n//「何も言わなくてよろしいのです……」\r\n\"Shh. Não há necessidade de falar.\"\r\n"
  },
  {
   "offset": 7370,
@@ -107,12 +107,12 @@
  {
   "offset": 7494,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240170a04'>\r\n//「心が動かないのでしょう？\r\n//　なら……どうかお静かに」\r\n\"Be still, if your heart has ceased to beat.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240180a04'>\r\n//「今この時だけ、貴方に仕えましょう。\r\n//　私の手で……貴方の胸に鼓動を取り戻して\r\n//差し上げる……」\r\n\"For tonight, I serve you alone. Let my touch rekindle the fire within.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240170a04'>\r\n//「心が動かないのでしょう？\r\n//　なら……どうかお静かに」\r\n\"Aquiete-se, se seu coração deixou de bater.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240180a04'>\r\n//「今この時だけ、貴方に仕えましょう。\r\n//　私の手で……貴方の胸に鼓動を取り戻して\r\n//差し上げる……」\r\n\"Por esta noite, sirvo somente ao senhor. Permita que meu toque reacenda o fogo em seu interior.\"\r\n"
  },
  {
   "offset": 8027,
   "en": "\r\n//　女性は、俺の両脚の間に頭を沈ませた。\r\n//　そこの衣服を解き、内にあったものを解放する。\r\n  Her head dips low, between my legs. I watch as she unfastens my pants and wraps long pale fingers around my ugly manhood.\r\n\r\n//　白い指が触れると、その醜い部分は激しく反応した。\r\n//　血が通い、隆起する。\r\n\r\n//　生命的、というほかない<RUBY text='さま'>様</RUBY>だった。\r\n//　それは女性の求めるものであったのか。口元を微笑\r\n//の形にして、彼女は行為を促進する。\r\n  It responds to her touch, swelling with blood.\r\n  <I>Alive.</I>㉑ I know not how else to describe it.\r\n\r\n\r\n//　緩やかな手つきで肉の塊を握り締め、軽く<RUBY text='さす'>摩</RUBY>る。\r\n//　わずかに力を加えて、揉むようにもする。\r\n  She smiles―was this the reaction she hoped for?<br>―and her ministrations begin.\r\n\r\n  At first her strokes are gentle, kneading, as if coaxing dough to rise. My penis responds like an obedient pet, displaying itself for her approval.\r\n\r\n//　女性の手に対して、俺の尖端は従順だった。\r\n//　一秒毎に体積を増し、その変化に逆行などない。\r\n\r\n//　意識が否応もなく、ただ一ヶ所の感覚に集中させら\r\n//れてゆくのを俺は自覚した。\r\n//　そこだけが過敏になり、他の全てが鈍磨する。\r\n　　I feel myself collapsing inward, every nerve in my body focused on that point. She seems to feel it too, the change taking place inside me. As my sensitivity peaks, she touches her tongue to the tip of my shaft.\r\n\r\n//　女性は俺のそんな内面を見抜いたのかもしれない。\r\n//　やおら顔を近付けると、舌先を繰り出して肉の棒に\r\n//触れさせた。\r\n\r\n//　それまでとは異なる、鋭い刺激。\r\n//　俺の背筋がびくりと跳ねた。\r\n  My body jerks, as if stuck with a prod. But though the sensation is violent, even painful, it leaves me ready for more. \r\n\r\n//　暴力的な。\r\n//　しかし決して抗うものを呼び起こしはしない交接。\r\n\r\n//　舌は尖端から<RUBY text='・・・'>くびれ</RUBY>、そして裏側へ、薄く唾液の跡\r\n//を残しながら這う。\r\n//　その行程が俺にもたらす快楽は、長く尾を引いた。\r\n\r\n//　甘たるい戦慄に、皮膚の毛が逆立つ。\r\n//　肺腑が収縮し、呼吸が早まる。\r\n  From the tip, her tongue traces the ridge of my penis, a glistening trail left in its wake. Gooseflesh rises all over my body. My organs tighten, squeezing the breath from my lungs.\r\n\r\n//　素直な反応に気を良くしたものか、それとも予定に\r\n//従ってのことか、やがて女性は行為の速度を高めた。\r\n//　朱色の肉はあたかも独立した生物のような活発さで\r\n//動いて、棒立ちの肉塊を<RUBY text='なぶ'>嬲</RUBY>る。\r\n  The woman gradually speeds her pace, though I cannot say whether this is a sign of approval or merely a part of her plan.\r\n  I watch, helpless, as the thick red muscle attacks my phallus like a living thing.\r\n\r\n//　亀頭の割れ目に入り込み、押し広げ。\r\n//　そうしてから蠢動し、<RUBY text='くすぐ'>擽</RUBY>って。\r\n  Gently but firmly, it parts my cleft, wriggling deep, as deep as it can. Her lips come next, enveloping my glans. She sucks hard, then grazes me with her teeth―and all the while, her tongue keeps moving.\r\n\r\n//　それでも不足とばかり、唇をそこへ寄せる。\r\n//　押し当てて、吸う。\r\n\r\n//　歯を立てもする。\r\n//　軽く、肉に跡をつけない程度に。\r\n\r\n//　そうしながら、舌も休めない。\r\n//　裏筋を弾き、傘を突き。\r\n\r\n//　いつしか手も、愛撫を再開していた。\r\n//　肉茎の根元を指で擦り上げ、掌は陰嚢を包む。\r\n  Nor do her hands stay at rest. They stroke me, working close to the root, and squeeze my testes with a tender touch.\r\n\r\n//　男性の扱いを知る女性の、巧緻な奉仕。\r\n  This is a woman who㉗<i>knows</I> men―better, perhaps, than we know ourselves.\r\n",
-  "pt": ""
+  "pt": "\r\n//　女性は、俺の両脚の間に頭を沈ませた。\r\n//　そこの衣服を解き、内にあったものを解放する。\r\n  A cabeça dela baixa, entre minhas pernas. Observo enquanto ela desabotoa minhas calças e envolve meu membro feio com dedos longos e pálidos.\r\n\r\n//　白い指が触れると、その醜い部分は激しく反応した。\r\n//　血が通い、隆起する。\r\n\r\n//　生命的、というほかない<RUBY text='さま'>様</RUBY>だった。\r\n//　それは女性の求めるものであったのか。口元を微笑\r\n//の形にして、彼女は行為を促進する。\r\n  Ele responde ao seu toque, intumescendo-se de sangue.\r\n  <I>Vivo.</I>㉑ Não sei como mais descrevê-lo.\r\n\r\n\r\n//　緩やかな手つきで肉の塊を握り締め、軽く<RUBY text='さす'>摩</RUBY>る。\r\n//　わずかに力を加えて、揉むようにもする。\r\n  Ela sorri—seria esta a reação que esperava?—e suas carícias começam.\r\n\r\n  No início, suas carícias são suaves, amassando, como se persuadisse a massa a levedar. Meu pênis responde como um animal de estimação obediente, exibindo-se para a aprovação dela.\r\n\r\n//　女性の手に対して、俺の尖端は従順だった。\r\n//　一秒毎に体積を増し、その変化に逆行などない。\r\n\r\n//　意識が否応もなく、ただ一ヶ所の感覚に集中させら\r\n//れてゆくのを俺は自覚した。\r\n//　そこだけが過敏になり、他の全てが鈍磨する。\r\n　　Sinto-me desmoronar por dentro, cada nervo do meu corpo concentrado naquele ponto. Ela parece senti-lo também, a mudança que ocorre dentro de mim. Quando minha sensibilidade atinge o auge, ela toca a língua na ponta do meu membro.\r\n\r\n//　女性は俺のそんな内面を見抜いたのかもしれない。\r\n//　やおら顔を近付けると、舌先を繰り出して肉の棒に\r\n//触れさせた。\r\n\r\n//　それまでとは異なる、鋭い刺激。\r\n//　俺の背筋がびくりと跳ねた。\r\n  Meu corpo dá um solavanco, como se tivesse sido atingido por uma aguilhada. Mas, embora a sensação seja violenta, até dolorosa, ela me deixa pronto para mais.\r\n\r\n//　暴力的な。\r\n//　しかし決して抗うものを呼び起こしはしない交接。\r\n\r\n//　舌は尖端から<RUBY text='・・・'>くびれ</RUBY>、そして裏側へ、薄く唾液の跡\r\n//を残しながら這う。\r\n//　その行程が俺にもたらす快楽は、長く尾を引いた。\r\n\r\n//　甘たるい戦慄に、皮膚の毛が逆立つ。\r\n//　肺腑が収縮し、呼吸が早まる。\r\n  Da ponta, sua língua percorre a crista do meu pênis, deixando um rastro brilhante. Arrepios se espalham por todo o meu corpo. Meus órgãos se contraem, comprimindo o ar dos meus pulmões.\r\n\r\n//　素直な反応に気を良くしたものか、それとも予定に\r\n//従ってのことか、やがて女性は行為の速度を高めた。\r\n//　朱色の肉はあたかも独立した生物のような活発さで\r\n//動いて、棒立ちの肉塊を<RUBY text='なぶ'>嬲</RUBY>る。\r\n  A mulher acelera gradualmente o ritmo, embora eu não saiba dizer se isso é um sinal de aprovação ou apenas parte de seu plano.\r\n  Observo, impotente, enquanto o músculo vermelho e espesso ataca meu falo como uma criatura viva.\r\n\r\n//　亀頭の割れ目に入り込み、押し広げ。\r\n//　そうしてから蠢動し、<RUBY text='くすぐ'>擽</RUBY>って。\r\n  Com delicadeza, mas com firmeza, ela separa minha fenda, serpenteando fundo, o mais fundo que pode. Seus lábios vêm em seguida, envolvendo minha glande. Ela suga com força, depois roça-me com os dentes—e, o tempo todo, sua língua continua se movendo.\r\n\r\n//　それでも不足とばかり、唇をそこへ寄せる。\r\n//　押し当てて、吸う。\r\n\r\n//　歯を立てもする。\r\n//　軽く、肉に跡をつけない程度に。\r\n\r\n//　そうしながら、舌も休めない。\r\n//　裏筋を弾き、傘を突き。\r\n\r\n//　いつしか手も、愛撫を再開していた。\r\n//　肉茎の根元を指で擦り上げ、掌は陰嚢を包む。\r\n  Nem suas mãos permanecem em repouso. Elas me acariciam, trabalhando perto da base, e apertam meus testículos com um toque terno.\r\n\r\n//　男性の扱いを知る女性の、巧緻な奉仕。\r\n  Esta é uma mulher que㉗<i>conhece</I> os homens—melhor, talvez, do que nós mesmos nos conhecemos.\r\n"
  },
  {
   "offset": 12244,
@@ -122,22 +122,22 @@
  {
   "offset": 12368,
   "en": "\r\n//　それを享受しながら、自分自身を顧みる。\r\n//　不思議だった。\r\n\r\n//　ここまでの性的刺激に対し、ただ一方的にされるに\r\n//甘んじている、そんな己が信じ難い。\r\n//　湊斗景明の<RUBY text='・・'>性癖</RUBY>を思えば、有り得ざることではない\r\n//のか……。\r\n  I submit myself to her skillful ministry, wondering as I do how this can be.\r\n\r\n  To be this aroused, yet remain quiescent. My history in these matters suggests a different response, a primal lust seizing control.\r\n\r\n//　とうの昔に、非理性的な衝動に支配されていて然る\r\n//べきではないのか。\r\n//　本来ならば。\r\n\r\n//　どうしてか、女性の行為は俺をしてそうさせない。\r\n//　それは何か――別のものを、呼び起こしているよう\r\n//だった。\r\n  Instead, something else is rising. My blood pumps. My nerves spark and glow. Something is returning from the edge of oblivion.\r\n\r\n//　全身に血液が巡る。\r\n//　神経という神経が覚醒する。\r\n\r\n//　<RUBY text='・・・・'>蘇生する</RUBY>。\r\n//　生きながらに死んでいたものが戻る。\r\n",
-  "pt": ""
+  "pt": "\r\n//　それを享受しながら、自分自身を顧みる。\r\n//　不思議だった。\r\n\r\n//　ここまでの性的刺激に対し、ただ一方的にされるに\r\n//甘んじている、そんな己が信じ難い。\r\n//　湊斗景明の<RUBY text='・・'>性癖</RUBY>を思えば、有り得ざることではない\r\n//のか……。\r\n  Submeto-me às suas hábeis ministrações, perguntando-me, enquanto isso, como isso pode ser.\r\n\r\n  Estar tão excitado, e ainda assim permanecer inerte. Meu histórico nessas questões sugere uma resposta diferente: uma luxúria primitiva assumindo o controle.\r\n\r\n//　とうの昔に、非理性的な衝動に支配されていて然る\r\n//べきではないのか。\r\n//　本来ならば。\r\n\r\n//　どうしてか、女性の行為は俺をしてそうさせない。\r\n//　それは何か――別のものを、呼び起こしているよう\r\n//だった。\r\n  Em vez disso, outra coisa se ergue. Meu sangue bombeia. Meus nervos faíscam e brilham. Algo está retornando do limiar do esquecimento.\r\n\r\n//　全身に血液が巡る。\r\n//　神経という神経が覚醒する。\r\n\r\n//　<RUBY text='・・・・'>蘇生する</RUBY>。\r\n//　生きながらに死んでいたものが戻る。\r\n"
  },
  {
   "offset": 13573,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240200a04'>\r\n//「そのまま……」\r\n\"Yes...\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240210a04'>\r\n//「そのまま、お目覚めを」\r\n\"Let yourself be reborn.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240200a04'>\r\n//「そのまま……」\r\n\"Sim...\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240210a04'>\r\n//「そのまま、お目覚めを」\r\n\"Deixe-se renascer.\"\r\n"
  },
  {
   "offset": 13854,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0240220a00'>\r\n//「……目覚め……」\r\n\"Reborn...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/0240220a00'>\r\n//「……目覚め……」\r\n\"Renascer...\"\r\n"
  },
  {
   "offset": 13990,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240230a04'>\r\n//「<RUBY text='こころ'>心魂</RUBY>を起こすのです」\r\n\"Your heart is waking.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240240a04'>\r\n//「心が朽ちれば、体は枯れる……。\r\n//　けれど体を活かして心を支えることもまた、\r\n//できるのです」\r\n\"If your heart dies, your body will follow. But the reverse is also true. Proper stimulation of the flesh can revive a desiccated soul.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240250a04'>\r\n//「貴方はそうしなくてはなりません。\r\n//　お嬢さまのために――」\r\n\"You must live and feel once again. For my mistress―\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240260a04'>\r\n//「貴方自身のために」\r\n\"But also for yourself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240230a04'>\r\n//「<RUBY text='こころ'>心魂</RUBY>を起こすのです」\r\n\"Seu coração está despertando.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240240a04'>\r\n//「心が朽ちれば、体は枯れる……。\r\n//　けれど体を活かして心を支えることもまた、\r\n//できるのです」\r\n\"Se seu coração morrer, seu corpo o seguirá. Mas o inverso também é verdadeiro. A estimulação adequada da carne pode reavivar uma alma ressequida.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240250a04'>\r\n//「貴方はそうしなくてはなりません。\r\n//　お嬢さまのために――」\r\n\"O senhor deve viver e sentir outra vez. Por minha senhora—\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240260a04'>\r\n//「貴方自身のために」\r\n\"Mas também por si mesmo.\"\r\n"
  },
  {
   "offset": 14920,
@@ -147,27 +147,27 @@
  {
   "offset": 15044,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240280a04'>\r\n//「さ。\r\n//　参られませ……」\r\n\"Come to me...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240280a04'>\r\n//「さ。\r\n//　参られませ……」\r\n\"Venha para mim...\"\r\n"
  },
  {
   "offset": 15197,
   "en": "\r\n//　女性が、自分自身の最奥へ俺を<RUBY text='いざな'>誘</RUBY>う。\r\n//　導かれるまま、俺の屹立した肉がそこへ侵入する。\r\n  The woman bids me enter her holiest precincts. I go where she leads, my swollen rod vanishing within. It swallows me utterly, searing my brain, caressing my soul with its softness and heat. \r\n\r\n//　熱く潤う肉襞が、俺の男性部分を抱擁した。\r\n//　逃さず――全て。\r\n\r\n//　烈しい感覚に脳漿が灼ける。\r\n//　優しい接触に魂魄が震える。\r\n\r\n//　……女性の囁いたことの意味は、必ずしも俺に理解\r\n//されたわけではなかった。\r\n//　彼女は見知らぬ誰かであり、その言は謎掛けめいて\r\n//いる。\r\n  I still do not know who this woman is. Nor do I fully grasp her purpose.\r\n  But I do know that I must trust her. More than that, I want to.\r\n\r\n  Some part of me―old, transcending reason―knows that this is right.\r\n\r\n//　それでも、従うべきだと信ずる。\r\n//　理解せず、従うべきだと欲する。\r\n\r\n//　そうすることが正しいのであり必要なのだと、\r\n//　湊斗景明は知性ならぬ何かで<RUBY text='し'>識</RUBY>っている。\r\n\r\n//　この女性は俺を救う。\r\n//　誤った結末から俺を救い上げる。\r\n\r\n//　正しき結末へ俺を連れて行ってくれる。\r\n  This woman will save me. She will restore me to the path. This alone I know beyond all doubt. \r\n\r\n//　――そう。その一事。\r\n//　その一事だけが、かくも確か。\r\n\r\n  And this alone is what matters.\r\n\r\n//　かくも疑いなく、俺は信じている。\r\n//　信じて身を任せ、また応えている。\r\n\r\n//　血の<RUBY text='たぎ'>滾</RUBY>りのまま、女性を貫く。\r\n  Surrendering to the call of blood, I thrust into her flesh.\r\n",
-  "pt": ""
+  "pt": "\r\n//　女性が、自分自身の最奥へ俺を<RUBY text='いざな'>誘</RUBY>う。\r\n//　導かれるまま、俺の屹立した肉がそこへ侵入する。\r\n  A mulher me convida a entrar em seu recinto mais sagrado. Vou aonde ela me conduz, minha vara túmida desaparecendo lá dentro. Ela me engole por completo, abrasando meu cérebro, acariciando minha alma com sua maciez e calor.\r\n\r\n//　熱く潤う肉襞が、俺の男性部分を抱擁した。\r\n//　逃さず――全て。\r\n\r\n//　烈しい感覚に脳漿が灼ける。\r\n//　優しい接触に魂魄が震える。\r\n\r\n//　……女性の囁いたことの意味は、必ずしも俺に理解\r\n//されたわけではなかった。\r\n//　彼女は見知らぬ誰かであり、その言は謎掛けめいて\r\n//いる。\r\n  Ainda não sei quem é esta mulher. Nem compreendo plenamente seu propósito.\r\n  Mas sei que devo confiar nela. Mais que isso, eu quero.\r\n\r\n  Alguma parte de mim—antiga, que transcende a razão—sabe que isto é certo.\r\n\r\n//　それでも、従うべきだと信ずる。\r\n//　理解せず、従うべきだと欲する。\r\n\r\n//　そうすることが正しいのであり必要なのだと、\r\n//　湊斗景明は知性ならぬ何かで<RUBY text='し'>識</RUBY>っている。\r\n\r\n//　この女性は俺を救う。\r\n//　誤った結末から俺を救い上げる。\r\n\r\n//　正しき結末へ俺を連れて行ってくれる。\r\n  Esta mulher me salvará. Ela me restaurará ao caminho. Só isso eu sei, sem sombra de dúvida.\r\n\r\n//　――そう。その一事。\r\n//　その一事だけが、かくも確か。\r\n\r\n  E só isso importa.\r\n\r\n//　かくも疑いなく、俺は信じている。\r\n//　信じて身を任せ、また応えている。\r\n\r\n//　血の<RUBY text='たぎ'>滾</RUBY>りのまま、女性を貫く。\r\n  Entregando-me ao chamado do sangue, penetro sua carne.\r\n"
  },
  {
   "offset": 17081,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240290a04'>\r\n//「……湊斗さま」\r\n\"Ahh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240290a04'>\r\n//「……湊斗さま」\r\n\"Ahh...\"\r\n"
  },
  {
   "offset": 17211,
   "en": "\r\n//　声は熱く、<RUBY text='ひとみ'>眸</RUBY>は怜悧に、女性が俺の行為に報いる。\r\n//　――その時ふと、俺は悟った。\r\n  She answers with a sigh, her breath hot, her eyes cold―<br>and there, at last, I understand what drives her.\r\n\r\n//　これは情欲の行為ではない。\r\n//　しかし愛情の行為ではあった。\r\n\r\n//　彼女は愛していた。\r\n//　俺、ではなく――けれども俺を含む何か。\r\n\r\n//　俺を取り巻く一つの流れ。\r\n//　\r\n//　――――<RUBY text='ほし'>運命</RUBY>。\r\n\r\n//　そこには俺がおり、\r\n//　俺ではない誰かがいる。\r\n\r\n  Not desire, but love unrelenting.\r\n\r\n  Love―not for me, but for something of which I am a part. Some greater flow. A destiny written in the stars.\r\n\r\n  She loves the story... that <I>we</I>㉓will write.\r\n\r\n//　不変の運命。\r\n//　俺と誰かが定めのままに紡ぐもの。\r\n\r\n//　彼女はそれを愛している。\r\n//　どうしてか、どうしようもなく――愛してしまって\r\n//いる。\r\n",
-  "pt": ""
+  "pt": "\r\n//　声は熱く、<RUBY text='ひとみ'>眸</RUBY>は怜悧に、女性が俺の行為に報いる。\r\n//　――その時ふと、俺は悟った。\r\n  Ela responde com um suspiro, o hálito quente, os olhos frios—e então, enfim, compreendo o que a move.\r\n\r\n//　これは情欲の行為ではない。\r\n//　しかし愛情の行為ではあった。\r\n\r\n//　彼女は愛していた。\r\n//　俺、ではなく――けれども俺を含む何か。\r\n\r\n//　俺を取り巻く一つの流れ。\r\n//　\r\n//　――――<RUBY text='ほし'>運命</RUBY>。\r\n\r\n//　そこには俺がおり、\r\n//　俺ではない誰かがいる。\r\n\r\n  Não desejo, mas amor implacável.\r\n\r\n  Amor—não por mim, mas por algo de que faço parte. Um fluxo maior. Um destino escrito nas estrelas.\r\n\r\n  Ela ama a história... que <I>nós</I>㉓escreveremos.\r\n\r\n//　不変の運命。\r\n//　俺と誰かが定めのままに紡ぐもの。\r\n\r\n//　彼女はそれを愛している。\r\n//　どうしてか、どうしようもなく――愛してしまって\r\n//いる。\r\n"
  },
  {
   "offset": 18297,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240300a04'>\r\n//「……愚かしい。\r\n//　貴方も。お嬢さまも」\r\n\"Such hopeless fools... You and my mistress both.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240300a04'>\r\n//「……愚かしい。\r\n//　貴方も。お嬢さまも」\r\n\"Que tolos sem esperança... Você e minha senhora, os dois.\"\r\n"
  },
  {
   "offset": 18506,
@@ -177,11 +177,11 @@
  {
   "offset": 18624,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240320a04'>\r\n//「けれど……。\r\n//　<RUBY text='いくももとせ'>幾百歳</RUBY>の時を生きて」\r\n\"And yet, through all the centuries, the cross and stake, the fire and blood...\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240330a04'>\r\n//「魔女と呼ばれた私に、愛することができた\r\n//のは……\r\n//　結局――その、愚かしいものだけでした」\r\n\"You... and your kind... are the only people I've ever loved.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240320a04'>\r\n//「けれど……。\r\n//　<RUBY text='いくももとせ'>幾百歳</RUBY>の時を生きて」\r\n\"E, ainda assim, ao longo de todos os séculos, da cruz e da estaca, do fogo e do sangue...\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc04/0240330a04'>\r\n//「魔女と呼ばれた私に、愛することができた\r\n//のは……\r\n//　結局――その、愚かしいものだけでした」\r\n\"Você... e os de sua espécie... são as únicas pessoas que já amei.\"\r\n"
  },
  {
   "offset": 19191,
   "en": "\r\n//　囁きは、かすれて。\r\n//　遠い。\r\n  Her whispers are hoarse and distant now, but her lips are here and wanting.\r\n\r\n//　<RUBY text='く'>奇</RUBY>しき愛を込めて、女性が俺に口付ける。\r\n//　その愛にすがって、俺が口唇を吸い返す。\r\n  She kisses me with unearthly passion, as if drinking of all that I am.\r\n\r\n//　彼女が導く。\r\n//　俺は信ずる。\r\n  She leads. I follow. There is nothing more.\r\n\r\n//　これはただ、それだけの行為。\r\n\r\n//　所以も知れぬ愛の行為。\r\n  Nothing but her love.\r\n",
-  "pt": ""
+  "pt": "\r\n//　囁きは、かすれて。\r\n//　遠い。\r\n  Seus sussurros agora são roucos e distantes, mas seus lábios estão aqui, desejosos.\r\n\r\n//　<RUBY text='く'>奇</RUBY>しき愛を込めて、女性が俺に口付ける。\r\n//　その愛にすがって、俺が口唇を吸い返す。\r\n  Ela me beija com uma paixão sobrenatural, como se bebesse de tudo o que sou.\r\n\r\n//　彼女が導く。\r\n//　俺は信ずる。\r\n  Ela conduz. Eu sigo. Não há nada mais.\r\n\r\n//　これはただ、それだけの行為。\r\n\r\n//　所以も知れぬ愛の行為。\r\n  Nada além do amor dela.\r\n"
  }
 ]

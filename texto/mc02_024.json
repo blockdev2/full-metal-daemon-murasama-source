@@ -2,16 +2,16 @@
  {
   "offset": 213,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/mc02/0240010b00'>\r\n//「クライブ。\r\n//　……武運を」\r\n\"Godspeed, Clive.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/mc02/0240010b00'>\r\n//「クライブ。\r\n//　……武運を」\r\n\"Deus o acompanhe, Clive.\"\r\n"
  },
  {
   "offset": 390,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0240020b03'>\r\n//「俺の運より、女王陛下の運の尽きを祈って\r\n//くれませんかね。\r\n//　その方が効き目は有りそうだ」\r\n\"Rather than praying for me, sir, perhaps you should pray that our queen's luck finally runs out.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/mc02/0240020b03'>\r\n//「俺の運より、女王陛下の運の尽きを祈って\r\n//くれませんかね。\r\n//　その方が効き目は有りそうだ」\r\n\"Em vez de rezar por mim, senhor, que tal rezar para que a sorte da nossa rainha finalmente acabe?\"\r\n"
  },
  {
   "offset": 741,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/mc02/0240030b00'>\r\n//「祈るよ。\r\n//〝<RUBY text='アウァ・アメリカ'>偉大なる故郷</RUBY>〟二億の同胞と共にな」\r\n\"I am, Clive, together with our two hundred million comrades back home in Our America.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/mc02/0240030b00'>\r\n//「祈るよ。\r\n//〝<RUBY text='アウァ・アメリカ'>偉大なる故郷</RUBY>〟二億の同胞と共にな」\r\n\"Estou rezando, Clive, junto com nossos duzentos milhões de compatriotas em Nossa América.\"\r\n"
  }
 ]

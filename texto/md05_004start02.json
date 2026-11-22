@@ -2,27 +2,27 @@
  {
   "offset": 220,
   "en": "\r\n//　あなたは必要最低限のものを取り戻した。\r\n//　……そうだろう？\r\n\r\n//　あなたの名は――\r\n  You have filled some of the gaps in your memory.\r\n  Let us review. Your name is...\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　あなたは必要最低限のものを取り戻した。\r\n//　……そうだろう？\r\n\r\n//　あなたの名は――\r\n  Você preencheu algumas das lacunas em sua memória.\r\n  Vamos revisar. Seu nome é...\r\n\r\n"
  },
  {
   "offset": 446,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0050a00'>\r\n//「湊斗景明」\r\n\"Minato Kageaki.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0050a00'>\r\n//「湊斗景明」\r\n\"Minato Kageaki.\"\r\n"
  },
  {
   "offset": 581,
   "en": "\r\n//　あなたの目的は――\r\n  Your purpose is...\r\n",
-  "pt": ""
+  "pt": "\r\n//　あなたの目的は――\r\n  Seu propósito é...\r\n"
  },
  {
   "offset": 647,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0060a00'>\r\n//「……湊斗光を……」\r\n\"Minato Hikaru...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004st0060a00'>\r\n//「……湊斗光を……」\r\n\"Minato Hikaru...\"\r\n"
  },
  {
   "offset": 795,
   "en": "\r\n//　湊斗光を？\r\n  What must you do with Minato Hikaru?\r\n",
-  "pt": ""
+  "pt": "\r\n//　湊斗光を？\r\n  O que você deve fazer com Minato Hikaru?\r\n"
  },
  {
   "offset": 867,
@@ -32,7 +32,7 @@
  {
   "offset": 993,
   "en": "\r\n//　…………。\r\n\r\n//　移動しよう。\r\n//　何処へ行く？\r\n  The search continues.\r\n",
-  "pt": ""
+  "pt": "\r\n//　…………。\r\n\r\n//　移動しよう。\r\n//　何処へ行く？\r\n  A busca continua.\r\n"
  },
  {
   "offset": 1102,
@@ -42,7 +42,7 @@
  {
   "offset": 1114,
   "en": "The Grand Manor",
-  "pt": ""
+  "pt": "A Grande Mansão"
  },
  {
   "offset": 1137,
@@ -52,7 +52,7 @@
  {
   "offset": 1149,
   "en": "The Isolated Home",
-  "pt": ""
+  "pt": "A Casa Isolada"
  },
  {
   "offset": 1174,
@@ -62,6 +62,6 @@
  {
   "offset": 1186,
   "en": "The Hilltop",
-  "pt": ""
+  "pt": "O Topo da Colina"
  }
 ]

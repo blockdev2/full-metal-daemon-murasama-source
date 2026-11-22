@@ -2,12 +2,12 @@
  {
   "offset": 213,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200010b49'>\r\n//「……ど、童心！\r\n//　童心坊!!」\r\n\"D- Doshin! <I>Doshin!</I>\"\r\n\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200020b49'>\r\n//「や……やめよ！\r\n//　そのような――無体な！」\r\n\"What are you doing!? Have you gone mad!? Stop!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200010b49'>\r\n//「……ど、童心！\r\n//　童心坊!!」\r\n\"Do- Doshin! <I>Doshin!</I>\"\r\n\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200020b49'>\r\n//「や……やめよ！\r\n//　そのような――無体な！」\r\n\"O que está fazendo!? Perdeu o juízo!? Pare!\"\r\n"
  },
  {
   "offset": 588,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200030a09'>\r\n//「さあて……」\r\n\"Well, now...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200030a09'>\r\n//「さあて……」\r\n\"Ora, ora...\"\r\n"
  },
  {
   "offset": 721,
@@ -17,37 +17,37 @@
  {
   "offset": 839,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200050a09'>\r\n//「今、何か申されましたかな？\r\n//　殿下」\r\n\"Can't you see for yourself?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200050a09'>\r\n//「今、何か申されましたかな？\r\n//　殿下」\r\n\"Não consegue ver com os próprios olhos?\"\r\n"
  },
  {
   "offset": 1024,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200060b49'>\r\n//「な、なにっ？」\r\n\"Wh- What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200060b49'>\r\n//「な、なにっ？」\r\n\"O- O quê?\"\r\n"
  },
  {
   "offset": 1157,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200070a09'>\r\n//「生憎とそれがし、今は舞の最中でござる。\r\n//　芸人は親の死に目と聞いても舞台を去って\r\n//はならぬが掟」\r\n\"I'm performing here, and as you well know, an actor may not leave the stage―not even to attend his own mother's deathbed!―until the performance is done.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200080a09'>\r\n//「御用事は、<RUBY text='・・'>これ</RUBY>が終わった後で承るゆえ。\r\n//　今はどうか、お許しあれい」\r\n\"Please wait until I'm finished. Then I shall be at your disposal.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200070a09'>\r\n//「生憎とそれがし、今は舞の最中でござる。\r\n//　芸人は親の死に目と聞いても舞台を去って\r\n//はならぬが掟」\r\n\"Estou me apresentando aqui e, como bem sabeis, um artista não pode deixar o palco ― nem mesmo para assistir à agonia de sua própria mãe! ― antes de terminar a apresentação.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200080a09'>\r\n//「御用事は、<RUBY text='・・'>これ</RUBY>が終わった後で承るゆえ。\r\n//　今はどうか、お許しあれい」\r\n\"Peço que aguarde até eu terminar. Depois estarei à vossa disposição.\"\r\n"
  },
  {
   "offset": 1852,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200090b49'>\r\n//「たわけ！\r\n//　それをやめよと申しているのだ!!」\r\n\"No! I command you to stop!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200090b49'>\r\n//「たわけ！\r\n//　それをやめよと申しているのだ!!」\r\n\"Basta! Estou ordenando que pare!\"\r\n"
  },
  {
   "offset": 2047,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200100a09'>\r\n//「さぁて、さて。\r\n//　風雅を解さぬ困った若殿じゃ……」\r\n\"Ah... That I would be tasked to serve a lord who cannot appreciate the arts.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200110a09'>\r\n//「どうしても、とあらば。\r\n//　誰ぞに命じてみてはいかがでござる？」\r\n\"If you wish this performance to stop, Your Grace, perhaps you should try commanding㉓<I>them.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200100a09'>\r\n//「さぁて、さて。\r\n//　風雅を解さぬ困った若殿じゃ……」\r\n\"Ah... Ter de servir a um senhor que não sabe apreciar as artes.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200110a09'>\r\n//「どうしても、とあらば。\r\n//　誰ぞに命じてみてはいかがでござる？」\r\n\"Se desejais que esta apresentação termine, Vossa Alteza, talvez devêsseis tentar dar ordens㉓<I>a eles.</I>\"\r\n"
  },
  {
   "offset": 2589,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200120b49'>\r\n//「何だと……」\r\n\"What!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200120b49'>\r\n//「何だと……」\r\n\"O quê!?\"\r\n"
  },
  {
   "offset": 2716,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200130a09'>\r\n//「この古河公方。\r\n//　遊佐の童心入道を」\r\n\"Your guards. The ones who serve you so loyally.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200140a09'>\r\n//「あの舞台より引きずり下ろせ……と。\r\n//　御家来衆に命じられよ」\r\n\"Command them to drag me off this stage.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200130a09'>\r\n//「この古河公方。\r\n//　遊佐の童心入道を」\r\n\"Vossos guardas. Os que vos servem com tanta lealdade.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200140a09'>\r\n//「あの舞台より引きずり下ろせ……と。\r\n//　御家来衆に命じられよ」\r\n\"Ordenai-lhes que me arrastem deste palco.\"\r\n"
  },
  {
   "offset": 3146,
@@ -57,27 +57,27 @@
  {
   "offset": 3270,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200160b49'>\r\n//「ゆ――\r\n//　ゆけ!!」\r\n\"G- Go!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200160b49'>\r\n//「ゆ――\r\n//　ゆけ!!」\r\n\"Va- Vão!\"\r\n"
  },
  {
   "offset": 3406,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200170b49'>\r\n//「何をしておる！\r\n//　余の命令が聞けぬか！」\r\n\"What are you doing!? I gave you an order!\"\r\n\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200180b49'>\r\n//「童心坊を止めよ!!」\r\n\"Stop him!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200170b49'>\r\n//「何をしておる！\r\n//　余の命令が聞けぬか！」\r\n\"O que estão fazendo!? Eu lhes dei uma ordem!\"\r\n\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200180b49'>\r\n//「童心坊を止めよ!!」\r\n\"Parem-no!\"\r\n"
  },
  {
   "offset": 3741,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200190b49'>\r\n//「そ、そなたら……」\r\n\"C- Captain...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200190b49'>\r\n//「そ、そなたら……」\r\n\"C- Capitão...\"\r\n"
  },
  {
   "offset": 3884,
   "en": "\r\n//【ｅｔｃ／奉公衆Ａ】\r\n<voice name='ｅｔｃ／奉公衆Ａ' class='その他男声' src='voice/mb02/0200200e250'>\r\n//「我ら奉公衆は殿下を守護し奉るが務め」\r\n\"Our duty is to protect you, Your Grace.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／奉公衆Ａ】\r\n<voice name='ｅｔｃ／奉公衆Ａ' class='その他男声' src='voice/mb02/0200200e250'>\r\n//「我ら奉公衆は殿下を守護し奉るが務め」\r\n\"Nosso dever é proteger Vossa Alteza.\"\r\n"
  },
  {
   "offset": 4126,
   "en": "\r\n//【ｅｔｃ／奉公衆Ｂ】\r\n<voice name='ｅｔｃ／奉公衆Ｂ' class='その他男声' src='voice/mb02/0200210e251'>\r\n//「古河中将様に盾突くは、叶わぬ仕儀にござ\r\n//います」\r\n\"The general presents no threat to your person.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／奉公衆Ｂ】\r\n<voice name='ｅｔｃ／奉公衆Ｂ' class='その他男声' src='voice/mb02/0200210e251'>\r\n//「古河中将様に盾突くは、叶わぬ仕儀にござ\r\n//います」\r\n\"O general não representa ameaça à vossa pessoa.\"\r\n"
  },
  {
   "offset": 4394,
@@ -87,17 +87,17 @@
  {
   "offset": 4513,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200230b49'>\r\n//「だ――誰でもよい！\r\n//　童心を止めよ！」\r\n\"Someone! Stop him!\"\r\n\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200240b49'>\r\n//「誰ぞ！\r\n//　童心を止めよっ!!」\r\n\"All of you! I command it!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200230b49'>\r\n//「だ――誰でもよい！\r\n//　童心を止めよ！」\r\n\"Alguém! Parem-no!\"\r\n\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200240b49'>\r\n//「誰ぞ！\r\n//　童心を止めよっ!!」\r\n\"Todos vós! Eu ordeno!\"\r\n"
  },
  {
   "offset": 4854,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200250b49'>\r\n//「……なぜ誰も答えぬ！\r\n//　誰か！　誰か――」\r\n\"...Why!? Why won't anyone―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200250b49'>\r\n//「……なぜ誰も答えぬ！\r\n//　誰か！　誰か――」\r\n\"...Por quê!? Por que ninguém ―\"\r\n"
  },
  {
   "offset": 5049,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200260a09'>\r\n//「見苦しいわい、<RUBY text='こわっぱ'>小童</RUBY>が!!」\r\n\"SILENCE, PUP! ENOUGH OF YOUR MEWLING!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200260a09'>\r\n//「見苦しいわい、<RUBY text='こわっぱ'>小童</RUBY>が!!」\r\n\"SILÊNCIO, MOLEQUE! CHEGA DE CHORAMINGAR!\"\r\n"
  },
  {
   "offset": 5257,
@@ -107,62 +107,62 @@
  {
   "offset": 5367,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200280a09'>\r\n//「なぜ、誰も<RUBY text='・・・'>おのれ</RUBY>の命令を聞かぬか……？\r\n//　決まっておる。そんなこともわからんのは\r\n//おのれだけだわ」\r\n\"Why won't anyone listen to <I>you?</I> Why do you think? Foolish child.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200290a09'>\r\n//「<RUBY text='・・・・'>飾り神輿</RUBY>が急に喋り出したところで、誰が\r\n//それに従おうか!?\r\n//　鬱陶しいと思うだけよ！」\r\n\"No one's going to obey the <I>figurine</I>㉓of a god, however prettily carved!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200300a09'>\r\n//「神輿なら神輿らしく黙って鎮座しておれい！\r\n//　かついでやっているこちらの邪魔にならぬ\r\n//ようにのう!?」\r\n\"So get back into your palanquin, Your Grace, and stay there while the rest of us carry you!\"\r\n\r\n//嶋：修正（引き据え）【090930】\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200310a09'>\r\n//「偉そうな口は……\r\n//　誰も<RUBY text='たの'>恃</RUBY>まず、己の手で童心坊めを引き捕え\r\n//られる力が身についてからにせい!!」\r\n\"If you have anything more to say... then do so once you have the strength to tear me down yourself!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200280a09'>\r\n//「なぜ、誰も<RUBY text='・・・'>おのれ</RUBY>の命令を聞かぬか……？\r\n//　決まっておる。そんなこともわからんのは\r\n//おのれだけだわ」\r\n\"Por que ninguém ouve <I>você?</I> Por que será? Criança tola.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200290a09'>\r\n//「<RUBY text='・・・・'>飾り神輿</RUBY>が急に喋り出したところで、誰が\r\n//それに従おうか!?\r\n//　鬱陶しいと思うだけよ！」\r\n\"Ninguém vai obedecer à <I>estatueta</I>㉓de um deus, por mais bem entalhada que seja!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200300a09'>\r\n//「神輿なら神輿らしく黙って鎮座しておれい！\r\n//　かついでやっているこちらの邪魔にならぬ\r\n//ようにのう!?」\r\n\"Então volte para seu palanquim, Vossa Alteza, e fique lá enquanto nós outros o carregamos!\"\r\n\r\n//嶋：修正（引き据え）【090930】\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200310a09'>\r\n//「偉そうな口は……\r\n//　誰も<RUBY text='たの'>恃</RUBY>まず、己の手で童心坊めを引き捕え\r\n//られる力が身についてからにせい!!」\r\n\"Se ainda tem algo a dizer... diga quando tiver força para me derrubar com as próprias mãos!\"\r\n"
  },
  {
   "offset": 6797,
   "en": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200320b49'>\r\n//「……あ……\r\n//　………あぅ…………」\r\n\"Ah... ah...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【邦氏】\r\n<voice name='邦氏' class='邦氏' src='voice/mb02/0200320b49'>\r\n//「……あ……\r\n//　………あぅ…………」\r\n\"Ah... ah...\"\r\n"
  },
  {
   "offset": 6963,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200330a09'>\r\n//「……かはッ。要らぬ邪魔が入ったわ。\r\n//　待たせたのう、桜子どの」\r\n\"Hah! I apologize for the interruption, my lady.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200340a09'>\r\n//「改めて、参るぞ……」\r\n\"Now, shall we dance?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200330a09'>\r\n//「……かはッ。要らぬ邪魔が入ったわ。\r\n//　待たせたのう、桜子どの」\r\n\"Ha! Peço desculpas pela interrupção, minha dama.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200340a09'>\r\n//「改めて、参るぞ……」\r\n\"Agora, que tal dançarmos?\"\r\n"
  },
  {
   "offset": 7352,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200350b28'>\r\n//「――ひっ……」\r\n\"...!\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200360b28'>\r\n//「いやっ！\r\n//　何をする！」\r\n\"No! What are you doing!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200350b28'>\r\n//「――ひっ……」\r\n\"...!\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200360b28'>\r\n//「いやっ！\r\n//　何をする！」\r\n\"Não! O que está fazendo!?\"\r\n"
  },
  {
   "offset": 7636,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200370a09'>\r\n//「舞には<RUBY text='はな'>華</RUBY>がなくてはの。\r\n//　姫は良い華をお持ちの様子」\r\n\"I believe that every dance needs a flower to complement it. Fortunately, we've come prepared.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200380a09'>\r\n//「一つ、皆に見せて<RUBY text='た'>賜</RUBY>もれ」\r\n\"Come, show us your pretty blossoms!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200370a09'>\r\n//「舞には<RUBY text='はな'>華</RUBY>がなくてはの。\r\n//　姫は良い華をお持ちの様子」\r\n\"Creio que toda dança precisa de uma flor para complementá-la. Por sorte, viemos preparados.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200380a09'>\r\n//「一つ、皆に見せて<RUBY text='た'>賜</RUBY>もれ」\r\n\"Vamos, mostrai-nos vossas belas flores!\"\r\n"
  },
  {
   "offset": 8128,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200390b28'>\r\n//「放して！\r\n//　放せ、下郎！」\r\n\"Let go! Unhand me, beast!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200390b28'>\r\n//「放して！\r\n//　放せ、下郎！」\r\n\"Solte-me! Largue-me, seu bruto!\"\r\n"
  },
  {
   "offset": 8296,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200400a09'>\r\n//「くはッ。\r\n//　良き声なり良き声なり！」\r\n\"Hah! I see you know your lines!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200400a09'>\r\n//「くはッ。\r\n//　良き声なり良き声なり！」\r\n\"Ha! Vejo que sabe suas falas!\"\r\n"
  },
  {
   "offset": 8485,
   "en": "\r\n//　桜子姫の手向かいも虚しい。\r\n//　それこそ舞のような鮮やかぶりで、白い裸身が露わ\r\n//にされる。\r\n  Her attempts to fend him off prove futile. He spins her across the stage with a dancer's flourish and precision. Within moments, her lily-white skin is exposed for all to see.\r\n",
-  "pt": ""
+  "pt": "\r\n//　桜子姫の手向かいも虚しい。\r\n//　それこそ舞のような鮮やかぶりで、白い裸身が露わ\r\n//にされる。\r\n  Suas tentativas de afastá-lo são em vão. Ele a gira pelo palco com o ímpeto e a precisão de um dançarino. Em instantes, sua pele alva como lírios está exposta aos olhos de todos.\r\n"
  },
  {
   "offset": 8815,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200410b28'>\r\n//「やっ……！」\r\n\"Ah...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200410b28'>\r\n//「やっ……！」\r\n\"Ah...!\"\r\n"
  },
  {
   "offset": 8942,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200420a09'>\r\n//「おうおう、そのように恥ずかしがるでない。\r\n//　秘してこそ花……されどそれを許さぬが人\r\n//の業」\r\n\"Oh! So bashful. The sweetest flowers doth hide. But men... ah, we are wicked creatures.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200430a09'>\r\n//「散らしてでも引き出してくれよう！」\r\n\"We hunger to lay your secrets bare!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200420a09'>\r\n//「おうおう、そのように恥ずかしがるでない。\r\n//　秘してこそ花……されどそれを許さぬが人\r\n//の業」\r\n\"Oh! Tão envergonhada. As flores mais doces se escondem. Mas os homens... ah, somos criaturas perversas.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200430a09'>\r\n//「散らしてでも引き出してくれよう！」\r\n\"Ansiamos por expor vossos segredos!\"\r\n"
  },
  {
   "offset": 9450,
   "en": "\r\n//　せめて体を丸めて人目から隠す――だが悪僧はそれ\r\n//さえも許さない。\r\n//　腕ずくで身を起こさせ、抱え上げる。\r\n  Brushing aside her attempts to keep herself covered, the priest takes Lady Sakurako by the arms and pulls her into his lap.\r\n",
-  "pt": ""
+  "pt": "\r\n//　せめて体を丸めて人目から隠す――だが悪僧はそれ\r\n//さえも許さない。\r\n//　腕ずくで身を起こさせ、抱え上げる。\r\n  Ignorando suas tentativas de se cobrir, o sacerdote segura Lady Sakurako pelos braços e a puxa para o colo.\r\n"
  },
  {
   "offset": 9749,
   "en": "\r\n//　暴虐に震える豊かな乳房が、舞台の白光の下に晒さ\r\n//れた。\r\n  Beneath the bright lights of the stage, her ripe breasts quiver with the force of their unveiling.\r\n",
-  "pt": ""
+  "pt": "\r\n//　暴虐に震える豊かな乳房が、舞台の白光の下に晒さ\r\n//れた。\r\n  Sob as luzes brilhantes do palco, seus seios fartos tremem com a força de sua exposição.\r\n"
  },
  {
   "offset": 9950,
@@ -177,12 +177,12 @@
  {
   "offset": 10198,
   "en": "\r\n//　あるまじき仕打ちを受ける姫と。\r\n//　霊魂を抜かれた態でへたり込む少年の。\r\n\r\n//　視線が、刹那――\r\n//　絡むこともなく、互いを射抜いた。\r\n  The boy is broken; the lady, lost. In that moment, they see each other.\r\n\r\n  They see each other―but their eyes do not meet.\r\n",
-  "pt": ""
+  "pt": "\r\n//　あるまじき仕打ちを受ける姫と。\r\n//　霊魂を抜かれた態でへたり込む少年の。\r\n\r\n//　視線が、刹那――\r\n//　絡むこともなく、互いを射抜いた。\r\n  O garoto está quebrado; a dama, perdida. Naquele instante, eles se veem.\r\n\r\n  Eles se veem ― mas seus olhares não se cruzam.\r\n"
  },
  {
   "offset": 10539,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200460a09'>\r\n//「ほっほっ！　良いぞ姫！\r\n//　実に華麗、実に美麗」\r\n\"Ho ho! Splendid! The beauty of legends!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200470a09'>\r\n//「一糸纏わぬ素裸に、<RUBY text='アラセイトウ'>紫羅欄花</RUBY>の花一輪！\r\n//　これは何とも良い塩梅じゃ！」\r\n\"Hair of jet, skin like fine china... but there, look! A touch of purple! Ah, matthiola! The perfect spice!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200460a09'>\r\n//「ほっほっ！　良いぞ姫！\r\n//　実に華麗、実に美麗」\r\n\"Ho ho! Esplêndido! A beleza das lendas!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200470a09'>\r\n//「一糸纏わぬ素裸に、<RUBY text='アラセイトウ'>紫羅欄花</RUBY>の花一輪！\r\n//　これは何とも良い塩梅じゃ！」\r\n\"Cabelos de azeviche, pele como porcelana fina... mas ali, vejam! Um toque de púrpura! Ah, matiola! A especiaria perfeita!\"\r\n"
  },
  {
   "offset": 11094,
@@ -192,27 +192,27 @@
  {
   "offset": 11213,
   "en": "\r\n//　姫は辛うじて自由になる左腕の先を動かすと、髪に\r\n//挿していた花をむしり取った。\r\n//　そのまま握り締める。握り潰す。\r\n  Freeing her left arm, Lady Sakurako rips the flower from her hair and crushes it in her fist.\r\n",
-  "pt": ""
+  "pt": "\r\n//　姫は辛うじて自由になる左腕の先を動かすと、髪に\r\n//挿していた花をむしり取った。\r\n//　そのまま握り締める。握り潰す。\r\n  Libertando o braço esquerdo, Lady Sakurako arranca a flor dos cabelos e a esmaga no punho.\r\n"
  },
  {
   "offset": 11494,
   "en": "\r\n//　既に正気ではないのだろう。\r\n//　拳から汁が<RUBY text='したた'>滴</RUBY>っても、なお潰し続けた。\r\n  Juices drip from her fingers, but still she grips tighter, until blood joins the drops on the floor.\r\n",
-  "pt": ""
+  "pt": "\r\n//　既に正気ではないのだろう。\r\n//　拳から汁が<RUBY text='したた'>滴</RUBY>っても、なお潰し続けた。\r\n  O suco escorre de seus dedos, mas ela aperta ainda mais, até que o sangue se junta às gotas no chão.\r\n"
  },
  {
   "offset": 11745,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200490a09'>\r\n//「花に罪はなかろうに。\r\n//　酷いことをするものよ」\r\n\"Ah, poor thing. Did those petals wrong you so?\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200500a09'>\r\n//「やむなし、代わりの花を頂こう。\r\n//　そうれ！　足を開かれよ！」\r\n\"I suppose we'll need to find a replacement.\r\n  Aye! Spread those legs!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200490a09'>\r\n//「花に罪はなかろうに。\r\n//　酷いことをするものよ」\r\n\"Ah, pobre coitada. Aquelas pétalas te fizeram tanto mal?\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200500a09'>\r\n//「やむなし、代わりの花を頂こう。\r\n//　そうれ！　足を開かれよ！」\r\n\"Suponho que teremos de arrumar uma substituta.\r\n  Pois então! Abra essas pernas!\"\r\n"
  },
  {
   "offset": 12220,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200510b28'>\r\n//「やめろっ！\r\n//　この……恥知らずが！」\r\n\"Stop! Have you no shame!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200510b28'>\r\n//「やめろっ！\r\n//　この……恥知らずが！」\r\n\"Pare! Não tem vergonha!?\"\r\n"
  },
  {
   "offset": 12403,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200520a09'>\r\n//「はっはっはっ！\r\n//　恥知らずぶりでは、今の姫には敵わぬのぅ」\r\n\"Shame? HA HA! I should think you'd know it best.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200530a09'>\r\n//「ほれ……\r\n//　嫁入り前の生娘が、衆目に尻の穴まで晒し\r\n//ておる！」\r\n\"Eh? Our lady of the parted buttocks!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200520a09'>\r\n//「はっはっはっ！\r\n//　恥知らずぶりでは、今の姫には敵わぬのぅ」\r\n\"Vergonha? HA HA! Eu diria que é a senhora quem mais sabe disso.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200530a09'>\r\n//「ほれ……\r\n//　嫁入り前の生娘が、衆目に尻の穴まで晒し\r\n//ておる！」\r\n\"Hein? A dama das nádegas escancaradas!\"\r\n"
  },
  {
   "offset": 12868,
@@ -222,77 +222,77 @@
  {
   "offset": 12989,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200550a09'>\r\n//「いや眼福眼福！\r\n//　上は大輪、下は小粒」\r\n\"Feast your eyes on this, my friends! Roses above, amaranth below!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200560a09'>\r\n//「どちらも可愛い花ぶりでござるのぉ！」\r\n\"Have you ever seen a lovelier sight?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200550a09'>\r\n//「いや眼福眼福！\r\n//　上は大輪、下は小粒」\r\n\"Deleitem os olhos nisto, meus amigos! Rosas em cima, amaranto embaixo!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200560a09'>\r\n//「どちらも可愛い花ぶりでござるのぉ！」\r\n\"Já viram algo mais belo?\"\r\n"
  },
  {
   "offset": 13400,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200570b28'>\r\n//「うっ……うぅ……！」\r\n\"Ugh...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200570b28'>\r\n//「うっ……うぅ……！」\r\n\"Ugh...!\"\r\n"
  },
  {
   "offset": 13540,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200580a09'>\r\n//「しかし惜しむらくはどちらも蕾。\r\n//　これではいささか興がない」\r\n\"But alas, you say, these are buds, not blossoms in the fullness of their glory.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200590a09'>\r\n//「ひとつ、この坊主めが……\r\n//　咲かして御覧に入れようか！」\r\n\"Fear not! Reverend Doshin knows how to make them bloom!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200580a09'>\r\n//「しかし惜しむらくはどちらも蕾。\r\n//　これではいささか興がない」\r\n\"Mas, ai de mim, dirão que são apenas botões, e não flores em todo o seu esplendor.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200590a09'>\r\n//「ひとつ、この坊主めが……\r\n//　咲かして御覧に入れようか！」\r\n\"Não temais! O reverendo Doshin sabe como fazê-las florescer!\"\r\n"
  },
  {
   "offset": 14048,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200600b28'>\r\n//「――！」\r\n\"!\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200610b28'>\r\n//「や……やめて……」\r\n\"No... No!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200600b28'>\r\n//「――！」\r\n\"!\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200610b28'>\r\n//「や……やめて……」\r\n\"Não... Não!\"\r\n"
  },
  {
   "offset": 14295,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200620a09'>\r\n//「ふっふぅ」\r\n\"Oh㉒<I>yes.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200620a09'>\r\n//「ふっふぅ」\r\n\"Oh㉒<I>sim.</I>\"\r\n"
  },
  {
   "offset": 14429,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200630b28'>\r\n//「く……ッ！」\r\n\"Kuh...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200630b28'>\r\n//「く……ッ！」\r\n\"Kuh...!\"\r\n"
  },
  {
   "offset": 14557,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200640a09'>\r\n//「ぬ。ぬ？\r\n//　これはしたり、これはしたり」\r\n\"Oh? Oh! What have we <br>here?\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200650a09'>\r\n//「手強かろうと思うておったが……\r\n//　存外にするりと入ってゆくな」\r\n\"So little resistance. And I expected a fight.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200660a09'>\r\n//「さては姫。\r\n//　人前で肌を晒すを、愉しんでおられたか？」\r\n\"Can it be? Does having an audience excite you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200640a09'>\r\n//「ぬ。ぬ？\r\n//　これはしたり、これはしたり」\r\n\"Oh? Oh! O que temos aqui?\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200650a09'>\r\n//「手強かろうと思うておったが……\r\n//　存外にするりと入ってゆくな」\r\n\"Tão pouca resistência. E eu esperava uma luta.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200660a09'>\r\n//「さては姫。\r\n//　人前で肌を晒すを、愉しんでおられたか？」\r\n\"Será possível? Exibir-se diante de uma plateia lhe dá prazer?\"\r\n"
  },
  {
   "offset": 15208,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200670b28'>\r\n//「……っ、こ……のっ！」\r\n\"You... savage...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200670b28'>\r\n//「……っ、こ……のっ！」\r\n\"Seu... selvagem...!\"\r\n"
  },
  {
   "offset": 15361,
   "en": "\r\n//　息も絶え絶えの桜子姫に。\r\n//　古河公方はにんまりと笑い、心までも犯そうとする。\r\n  The priest's grin grows to cover his face.\r\n",
-  "pt": ""
+  "pt": "\r\n//　息も絶え絶えの桜子姫に。\r\n//　古河公方はにんまりと笑い、心までも犯そうとする。\r\n  O sorriso do sacerdote se alarga até cobrir-lhe o rosto.\r\n"
  },
  {
   "offset": 15539,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200680a09'>\r\n//「はぁっはっは！\r\n//　それならそうと仰せになれば！」\r\n\"HA HA HA! You should have said something!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200690a09'>\r\n//「わしも気合が乗ったものを……\r\n//　このようにのぅ！」\r\n\"I would have redoubled my efforts... like SO!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200680a09'>\r\n//「はぁっはっは！\r\n//　それならそうと仰せになれば！」\r\n\"HA HA HA! Bastava ter dito!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200690a09'>\r\n//「わしも気合が乗ったものを……\r\n//　このようにのぅ！」\r\n\"Eu teria redobrado meus esforços... assim, ó!\"\r\n"
  },
  {
   "offset": 15972,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200700b28'>\r\n//「あ――」\r\n\"AH―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200700b28'>\r\n//「あ――」\r\n\"AH―\"\r\n"
  },
  {
   "offset": 16092,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200710b28'>\r\n//「っ……」\r\n\"...!\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200720b28'>\r\n//「く……ぅッ……!!」\r\n\"Kuh... ahh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200710b28'>\r\n//「っ……」\r\n\"...!\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200720b28'>\r\n//「く……ぅッ……!!」\r\n\"Kuh... ahh!\"\r\n"
  },
  {
   "offset": 16343,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200730a09'>\r\n//「ようし、咲いた！\r\n//　見事に咲いたわ！」\r\n\"Splendid! Magnificent! Behold, one and all!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200740a09'>\r\n//「鮮やかな赤が白地に映える……\r\n//　雅な花にてござ候!!」\r\n\"Crimson petals on a field of white. I give you, as promised, a FLOWER!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200730a09'>\r\n//「ようし、咲いた！\r\n//　見事に咲いたわ！」\r\n\"Esplêndido! Magnífico! Contemplai, todos!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200740a09'>\r\n//「鮮やかな赤が白地に映える……\r\n//　雅な花にてござ候!!」\r\n\"Pétalas carmesins sobre um campo branco. Eis, como prometido, uma FLOR!\"\r\n"
  },
  {
   "offset": 16790,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200750b28'>\r\n//「……古河……公方……！」\r\n\"Yusa... Doshin...!\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200760b28'>\r\n//「遊佐、童心……!!」\r\n\"Rokuhara...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200750b28'>\r\n//「……古河……公方……！」\r\n\"Yusa... Doshin...!\"\r\n\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200760b28'>\r\n//「遊佐、童心……!!」\r\n\"Rokuhara...!\"\r\n"
  },
  {
   "offset": 17080,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200770a09'>\r\n//「ほう？　ほゥ。\r\n//　何やら音色が変わってきたの」\r\n\"Oh-ho? I sense a change in the tune.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200780a09'>\r\n//「ならばこちらも合わせようか。\r\n//　……のう、桜子どの。先程、六波羅の口を\r\n//もって岡部を語る許しを頂いたな？」\r\n\"Allow me to answer in kind. ...Ah yes. Just now, we agreed that Rokuhara would speak the truth of your clan.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200770a09'>\r\n//「ほう？　ほゥ。\r\n//　何やら音色が変わってきたの」\r\n\"Oh-ho? Sinto uma mudança no tom.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200780a09'>\r\n//「ならばこちらも合わせようか。\r\n//　……のう、桜子どの。先程、六波羅の口を\r\n//もって岡部を語る許しを頂いたな？」\r\n\"Permiti que eu responda à altura. ...Ah, sim. Há pouco, concordamos que Rokuhara falaria a verdade do seu clã.\"\r\n"
  },
  {
   "offset": 17653,
@@ -302,86 +302,86 @@
  {
   "offset": 17777,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200800a09'>\r\n//「姫の口から岡部は語られぬ。\r\n//　然らば姫は、我ら六波羅を語られませい」\r\n\"I say the reverse should also hold. You cannot speak your truth, so instead you will speak ours.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200810a09'>\r\n//「さぁさ。\r\n//　言葉が喉に支えるとあらば、一押しくれて\r\n//差し上げるほどに……！」\r\n\"Now speak! Or do the words stick in your throat? A moment! I shall㉓<I>dislodge</I> them!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200800a09'>\r\n//「姫の口から岡部は語られぬ。\r\n//　然らば姫は、我ら六波羅を語られませい」\r\n\"Digo que o contrário também deve valer. Não podeis falar a vossa verdade, então falareis a nossa.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200810a09'>\r\n//「さぁさ。\r\n//　言葉が喉に支えるとあらば、一押しくれて\r\n//差し上げるほどに……！」\r\n\"Falai agora! Ou as palavras vos ficam presas na garganta? Um instante! Eu as㉓<I>desalojarei</I>!\"\r\n"
  },
  {
   "offset": 18380,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200820b28'>\r\n//「うぐっ……！」\r\n\"Guh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200820b28'>\r\n//「うぐっ……！」\r\n\"Guh!\"\r\n"
  },
  {
   "offset": 18508,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200830a09'>\r\n//「岡部の姫よ！\r\n//　六波羅を語れい！」\r\n\"Speak, child of Okabe! How name you Rokuhara!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200830a09'>\r\n//「岡部の姫よ！\r\n//　六波羅を語れい！」\r\n\"Falai, filha de Okabe! Como chamais Rokuhara!?\"\r\n"
  },
  {
   "offset": 18709,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200840b28'>\r\n//「――外道ッッ!!」\r\n\"SCUM!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200840b28'>\r\n//「――外道ッッ!!」\r\n\"ESCÓRIA!\"\r\n"
  },
  {
   "offset": 18840,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200850a09'>\r\n//「いかにも！」\r\n\"Yes!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200850a09'>\r\n//「いかにも！」\r\n\"Sim!\"\r\n"
  },
  {
   "offset": 18965,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200860b28'>\r\n//「人非人ッッ!!」\r\n\"MONSTERS!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200860b28'>\r\n//「人非人ッッ!!」\r\n\"MONSTROS!\"\r\n"
  },
  {
   "offset": 19097,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200870a09'>\r\n//「いかにも！」\r\n\"Yes!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200870a09'>\r\n//「いかにも！」\r\n\"Sim!\"\r\n"
  },
  {
   "offset": 19222,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200880b28'>\r\n//「鬼畜！　悪魔！\r\n//　地獄の底から来た<RUBY text='やつばら'>奴輩</RUBY>!!」\r\n\"FIENDS! THE LOWEST SPAWN OF HELL!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200880b28'>\r\n//「鬼畜！　悪魔！\r\n//　地獄の底から来た<RUBY text='やつばら'>奴輩</RUBY>!!」\r\n\"DEMÔNIOS! A MAIS BAIXA RALÉ DO INFERNO!\"\r\n"
  },
  {
   "offset": 19454,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200890a09'>\r\n//「いかにもッッ!!」\r\n\"YES!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200890a09'>\r\n//「いかにもッッ!!」\r\n\"SIM!\"\r\n"
  },
  {
   "offset": 19584,
   "en": "\r\n//　衆の面前で裸にされ、姦されている姫が罵る。\r\n//　姦する入道は陶然と聴く。\r\n\r\n//　それは、おぞましいまでに<RUBY text='・・・・・'>噛み合った</RUBY>交合だった。\r\n  She howls her epithets one by one, and he roars his approval to each.\r\n\r\n  For a moment, it indeed feels as though we are watching some ghastly performance.\r\n",
-  "pt": ""
+  "pt": "\r\n//　衆の面前で裸にされ、姦されている姫が罵る。\r\n//　姦する入道は陶然と聴く。\r\n\r\n//　それは、おぞましいまでに<RUBY text='・・・・・'>噛み合った</RUBY>交合だった。\r\n  Ela vocifera seus insultos um a um, e ele ruge sua aprovação a cada um.\r\n\r\n  Por um instante, é como se estivéssemos mesmo assistindo a uma performance medonha.\r\n"
  },
  {
   "offset": 19981,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200900a09'>\r\n//「たまらぬ！　たまらぬわえ！\r\n//　何と官能的な調べであろう！」\r\n\"Wonderful! Marvelous!\r\n  You're a natural, my lady!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200910a09'>\r\n//「うっかり成仏してしまいそうじゃわ！\r\n//　姫よ、わしが往生してしまわぬよう、しっ\r\n//かり締めて捕まえておいてくれい！」\r\n\"I fear that I might die for joy! Grip tightly, my dear, lest I fly off to paradise!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200920a09'>\r\n//「この喜悦は現世限りのもの。\r\n//　これあると知れば、わしはたとえ極楽から\r\n//でも戻って来られるからのぅ！」\r\n\"And should that happen, I will surely return! For only here on earth can we find pleasures such as these!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200930a09'>\r\n//「それ、参るぞ！」\r\n\"Ready, now! The climax approaches!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200900a09'>\r\n//「たまらぬ！　たまらぬわえ！\r\n//　何と官能的な調べであろう！」\r\n\"Maravilhoso! Estupendo!\r\n  Você é uma natural, minha senhora!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200910a09'>\r\n//「うっかり成仏してしまいそうじゃわ！\r\n//　姫よ、わしが往生してしまわぬよう、しっ\r\n//かり締めて捕まえておいてくれい！」\r\n\"Temo que eu possa morrer de prazer! Aperte bem, minha cara, para que eu não voe para o paraíso!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200920a09'>\r\n//「この喜悦は現世限りのもの。\r\n//　これあると知れば、わしはたとえ極楽から\r\n//でも戻って来られるからのぅ！」\r\n\"E, se isso acontecer, certamente voltarei! Pois só aqui na terra encontramos prazeres como estes!\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200930a09'>\r\n//「それ、参るぞ！」\r\n\"Agora, prepare-se! O clímax se aproxima!\"\r\n"
  },
  {
   "offset": 21076,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200940b28'>\r\n//「く……あぁぁ!!」\r\n\"Kuh―AHHHH!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200940b28'>\r\n//「く……あぁぁ!!」\r\n\"Kuh―AHHHH!\"\r\n"
  },
  {
   "offset": 21214,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200950a09'>\r\n//「父と兄に良く見てもらえぃ！\r\n//　仇に子種を注がれる姿……とくとのう！」\r\n\"Look! Your father and brother are there, to witness their enemy fill you with his seed!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200950a09'>\r\n//「父と兄に良く見てもらえぃ！\r\n//　仇に子種を注がれる姿……とくとのう！」\r\n\"Olhai! Vosso pai e vosso irmão estão ali, para ver o inimigo vos encher com sua semente!\"\r\n"
  },
  {
   "offset": 21507,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200960b28'>\r\n//「!?\r\n//　なっ――そんな」\r\n\"To―NO!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0200960b28'>\r\n//「!?\r\n//　なっ――そんな」\r\n\"Não―NÃO!\"\r\n"
  },
  {
   "offset": 21651,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200970a09'>\r\n//「おう、暴れるでない。\r\n//　そう喜ぶでない」\r\n\"Settle down, settle down.\r\n  Of course you're excited.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200980a09'>\r\n//「焦らずとも、きちんと孕ませてやるからの。\r\n//　その後は……<RUBY text='・・・'>菊の花</RUBY>じゃ」\r\n\"But don't worry. I'll be sure to plant it deep. And then... I'm thinking we'll try the garden㉗<I>out back.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200970a09'>\r\n//「おう、暴れるでない。\r\n//　そう喜ぶでない」\r\n\"Acalme-se, acalme-se.\r\n  Claro que está excitada.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200980a09'>\r\n//「焦らずとも、きちんと孕ませてやるからの。\r\n//　その後は……<RUBY text='・・・'>菊の花</RUBY>じゃ」\r\n\"Mas não se preocupe. Vou me certificar de plantar bem fundo. E depois... estou pensando em experimentar o jardim㉗<I>dos fundos.</I>\"\r\n"
  },
  {
   "offset": 22209,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200990a09'>\r\n//「そちらもなかなか乙なものぞ？\r\n//　ふわっはっはっはっはっはっはっはっは!!」\r\n\"Wouldn't that be glorious?\r\n  HA HA HA HA HA HA HA\r\n  HA HA HA HA HA HA HA!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0200990a09'>\r\n//「そちらもなかなか乙なものぞ？\r\n//　ふわっはっはっはっはっはっはっはっは!!」\r\n\"Não seria glorioso?\r\n  HA HA HA HA HA HA HA\r\n  HA HA HA HA HA HA HA!\"\r\n"
  },
  {
   "offset": 22495,
   "en": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0201000b28'>\r\n//「いやぁぁぁーーーーーーーーーーーーっ!!」\r\n\"AHHHHHHHHHHHHHH!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【桜子】\r\n<voice name='桜子' class='桜子' src='voice/mb02/0201000b28'>\r\n//「いやぁぁぁーーーーーーーーーーーーっ!!」\r\n\"AHHHHHHHHHHHHHH!\"\r\n"
  }
 ]

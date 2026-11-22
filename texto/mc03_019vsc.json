@@ -2,21 +2,21 @@
  {
   "offset": 216,
   "en": "\r\n//　太刀を<RUBY text='ヤグラ'>櫓形</RUBY>に構え、受け止める！\r\n//　大兵剛力の鉄槌撃も、この堅守は打ち崩せまい――\r\n  I brace my sword, making of it a mighty shield. Not even this warrior's strength will defeat it!\r\n",
-  "pt": ""
+  "pt": "\r\n//　太刀を<RUBY text='ヤグラ'>櫓形</RUBY>に構え、受け止める！\r\n//　大兵剛力の鉄槌撃も、この堅守は打ち崩せまい――\r\n  Firmo minha espada, transformando-a em um escudo poderoso. Nem mesmo a força deste guerreiro vai derrotá-lo!\r\n"
  },
  {
   "offset": 484,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/019vs0060a01'>\r\n//《ちょっ！\r\n//　相手の武器がどんな代物か忘れたの!?》\r\n《Hey! Did you forget what they're using!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/019vs0060a01'>\r\n//《ちょっ！\r\n//　相手の武器がどんな代物か忘れたの!?》\r\n《Ei! Você esqueceu o que eles estão usando!?》\r\n"
  },
  {
   "offset": 711,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/019vs0070a00'>\r\n//「思い出した」\r\n\"I just remembered.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/019vs0070a00'>\r\n//「思い出した」\r\n\"Acabei de me lembrar.\"\r\n"
  },
  {
   "offset": 852,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/019vs0080a01'>\r\n//《遅いんだけどっ!?》\r\n《Wonderful!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc03/019vs0080a01'>\r\n//《遅いんだけどっ!?》\r\n《Que maravilha!》\r\n"
  }
 ]

@@ -2,22 +2,22 @@
  {
   "offset": 213,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410010a06'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410020a06'>\r\n//（そうか）\r\n(Ah.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410010a06'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410020a06'>\r\n//（そうか）\r\n(Ah.)\r\n"
  },
  {
   "offset": 465,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410030a06'>\r\n//（これは……貴様か。茶々丸）\r\n(Chachamaru. Of course it would be you.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410030a06'>\r\n//（これは……貴様か。茶々丸）\r\n(Chachamaru. Claro que seria você.)\r\n"
  },
  {
   "offset": 654,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410040e195'>\r\n//《かっ、閣下……\r\n//　零零式が――全て！　<RUBY text='ぎん'>白銀</RUBY>色にっ！》\r\n《S- Sir! The Zeros! They've all turned silver!》\r\n\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410050e195'>\r\n//《暴走しています!!》\r\n《They're killing our men!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410040e195'>\r\n//《かっ、閣下……\r\n//　零零式が――全て！　<RUBY text='ぎん'>白銀</RUBY>色にっ！》\r\n《S-Senhor! Os Zeros! Todos ficaram prateados!》\r\n\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410050e195'>\r\n//《暴走しています!!》\r\n《Estão matando nossos homens!》\r\n"
  },
  {
   "offset": 1165,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410060e196'>\r\n//《陣が……このままでは……\r\n//　閣下、如何なさいますか!?》\r\n《The line is collapsing... What do we do!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410060e196'>\r\n//《陣が……このままでは……\r\n//　閣下、如何なさいますか!?》\r\n《A linha está cedendo... O que fazemos!?》\r\n"
  },
  {
   "offset": 1446,
@@ -27,52 +27,52 @@
  {
   "offset": 1573,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410080e195'>\r\n//《何なんだこれは……\r\n//　なんでこんなことに……》\r\n《How could this happen?》\r\n\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410090e195'>\r\n//《新型だからか？\r\n//　<RUBY text='ＣＰＵ'>演算装置</RUBY>に何かとんでもない欠陥が――》\r\n《Some defect in the new processing modules?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410080e195'>\r\n//《何なんだこれは……\r\n//　なんでこんなことに……》\r\n《Como isso pôde acontecer?》\r\n\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410090e195'>\r\n//《新型だからか？\r\n//　<RUBY text='ＣＰＵ'>演算装置</RUBY>に何かとんでもない欠陥が――》\r\n《Algum defeito nos novos módulos de processamento?》\r\n"
  },
  {
   "offset": 2132,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410100a06'>\r\n//《違う。\r\n//　裏切られただけだ》\r\n《No. We were simply betrayed.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410100a06'>\r\n//《違う。\r\n//　裏切られただけだ》\r\n《Não. Simplesmente fomos traídos.》\r\n"
  },
  {
   "offset": 2319,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410110e195'>\r\n//《はっ？》\r\n《Sir?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410110e195'>\r\n//《はっ？》\r\n《Senhor?》\r\n"
  },
  {
   "offset": 2494,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410120a06'>\r\n//（裏切られただけだ。\r\n//　……これまで俺がそうしてきたように）\r\n(Betrayal... that's all this is. Just like I betrayed so many others.)\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410130a06'>\r\n//（<RUBY text='・・・'>俺の番</RUBY>が来た。\r\n//　それだけだ）\r\n(Now it's my turn. Simple as that.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410120a06'>\r\n//（裏切られただけだ。\r\n//　……これまで俺がそうしてきたように）\r\n(Traição... é só isso. Igual a tantos outros que eu traí.)\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410130a06'>\r\n//（<RUBY text='・・・'>俺の番</RUBY>が来た。\r\n//　それだけだ）\r\n(Agora é a minha vez. Simples assim.)\r\n"
  },
  {
   "offset": 2975,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410140a06'>\r\n//（裏切りと謀殺を重ねてきた俺が、最後には\r\n//裏切られて滅ぶ。\r\n//　まぁ……そんなものだろうさ）\r\n(How else would an assassin die, than with a knife between his own shoulders? Heh. I suppose I had it coming.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410140a06'>\r\n//（裏切りと謀殺を重ねてきた俺が、最後には\r\n//裏切られて滅ぶ。\r\n//　まぁ……そんなものだろうさ）\r\n(De que outra forma um assassino morreria, senão com uma faca cravada entre as próprias omoplatas? Heh. Acho que eu merecia.)\r\n"
  },
  {
   "offset": 3329,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410150a06'>\r\n//（例え俺の信念に曇りが無かったとしても）\r\n(Even though my motives were pure...)\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410160a06'>\r\n//（俺は正義を押し通して邪魔者を蹴散らした。\r\n//　ならば、別の正義が俺を邪魔者とみなして\r\n//蹴散らすのも道理よ）\r\n(I destroyed many in pursuit of my dream. It stands to reason that one day someone would do the same to me.)\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410150a06'>\r\n//（例え俺の信念に曇りが無かったとしても）\r\n(Mesmo que minhas intenções fossem puras...)\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410160a06'>\r\n//（俺は正義を押し通して邪魔者を蹴散らした。\r\n//　ならば、別の正義が俺を邪魔者とみなして\r\n//蹴散らすのも道理よ）\r\n(Destruí muitos em busca do meu sonho. É natural que um dia alguém fizesse o mesmo comigo.)\r\n\r\n"
  },
  {
   "offset": 3903,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410170a06'>\r\n//（結局は力の多寡で決まること）\r\n(In the end, it all comes down to power.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410170a06'>\r\n//（結局は力の多寡で決まること）\r\n(No fim, tudo se resume a poder.)\r\n"
  },
  {
   "offset": 4096,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410180a06'>\r\n//（俺がこれまで勝って来られたのは、正義が\r\n//あったからではなく、相手より強かったから\r\n//に過ぎん……）\r\n(I made it this far not because I was㉓<I>right,</I> but because I was stronger than my enemies.)\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410190a06'>\r\n//（相手の方が強ければ……\r\n//　俺が裏切られ、蹴散らされ、敗れる）\r\n(Now I've been outsmarted, outplayed. Defeated... by a stronger opponent.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410180a06'>\r\n//（俺がこれまで勝って来られたのは、正義が\r\n//あったからではなく、相手より強かったから\r\n//に過ぎん……）\r\n(Cheguei até aqui não porque eu estivesse㉓<I>certo,</I> mas porque era mais forte que meus inimigos.)\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410190a06'>\r\n//（相手の方が強ければ……\r\n//　俺が裏切られ、蹴散らされ、敗れる）\r\n(Agora fui enganado, superado. Derrotado... por um oponente mais forte.)\r\n"
  },
  {
   "offset": 4717,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410200a06'>\r\n//（ふん。それが茶々丸とはな。\r\n//　性根の曲がり具合で負けたという辺りか）\r\n(But to think that would be Chachamaru... Hmph. I suppose I could never match her in bastardry.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410200a06'>\r\n//（ふん。それが茶々丸とはな。\r\n//　性根の曲がり具合で負けたという辺りか）\r\n(Mas logo Chachamaru... Hmph. Acho que nunca consegui igualá-la em canalhice.)\r\n"
  },
  {
   "offset": 5026,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410210a06'>\r\n//（湊斗を口説き損ねるわけだ）\r\n(No wonder I failed to make Minato mine.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410210a06'>\r\n//（湊斗を口説き損ねるわけだ）\r\n(Não admira que eu tenha fracassado em conquistar Minato.)\r\n"
  },
  {
   "offset": 5216,
@@ -82,12 +82,12 @@
  {
   "offset": 5349,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410230a06'>\r\n//（命運尽きた、か）\r\n(So... this is where it ends.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410230a06'>\r\n//（命運尽きた、か）\r\n(Então... é aqui que termina.)\r\n"
  },
  {
   "offset": 5513,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410240e196'>\r\n//《閣下！》\r\n《Sir!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410240e196'>\r\n//《閣下！》\r\n《Senhor!》\r\n"
  },
  {
   "offset": 5688,
@@ -97,47 +97,47 @@
  {
   "offset": 5815,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410260e196'>\r\n//《もはやこれまで！\r\n//　撤退のご下命を！》\r\n《They're breaking through! We have to retreat!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410260e196'>\r\n//《もはやこれまで！\r\n//　撤退のご下命を！》\r\n《Eles estão rompendo nossas linhas! Temos que recuar!》\r\n"
  },
  {
   "offset": 6077,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410270a06'>\r\n//《撤退？》\r\n《Retreat?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410270a06'>\r\n//《撤退？》\r\n《Recuar?》\r\n"
  },
  {
   "offset": 6213,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410280a06'>\r\n//《何処へ退くというのだ》\r\n《To where would you have us retreat?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410280a06'>\r\n//《何処へ退くというのだ》\r\n《E para onde pretende que recuemos?》\r\n"
  },
  {
   "offset": 6397,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410290e196'>\r\n//《この空域は危険です！\r\n//　とにかく、離脱を……》\r\n《Anywhere but here, sir!  It's too dangerous!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410290e196'>\r\n//《この空域は危険です！\r\n//　とにかく、離脱を……》\r\n《Para qualquer lugar, menos aqui, senhor! É perigoso demais!》\r\n"
  },
  {
   "offset": 6670,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410300a06'>\r\n//《地上には我が主、四郎邦氏殿下がおられる。\r\n//　我が民、鎌倉の市民達もいる》\r\n《Look below. Our lord is there, and all the people of Kamakura. <I>Our</I>㉔people.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410300a06'>\r\n//《地上には我が主、四郎邦氏殿下がおられる。\r\n//　我が民、鎌倉の市民達もいる》\r\n《Olhe abaixo. Nosso senhor está lá, e todo o povo de Kamakura. <I>Nosso</I>㉔povo.》\r\n"
  },
  {
   "offset": 6978,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410310a06'>\r\n//《その両方を打ち捨ててか》\r\n《Would you abandon them in their hour of need?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410310a06'>\r\n//《その両方を打ち捨ててか》\r\n《Você os abandonaria no momento em que mais precisam?》\r\n"
  },
  {
   "offset": 7175,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410320e196'>\r\n//《……し、しかし……》\r\n《But sir...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410320e196'>\r\n//《……し、しかし……》\r\n《Mas, senhor...》\r\n"
  },
  {
   "offset": 7374,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410330e195'>\r\n//《閣下、撤退せねば全滅の――》\r\n《We're taking heavy losses! At this rate―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410330e195'>\r\n//《閣下、撤退せねば全滅の――》\r\n《Estamos sofrendo perdas pesadas! Nesse ritmo―》\r\n"
  },
  {
   "offset": 7617,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410340a06'>\r\n//《<RUBY text='うろた'>狼狽</RUBY>えるな!!\r\n//　貴様らは腑抜けかッ!!》\r\n《Stand fast, you miserable cowards! I'll have no sniveling in my ranks!》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410350a06'>\r\n//《勝ち戦しかできんのか!?\r\n//　たかだか戦局が絶望的になった程度で腰を\r\n//砕いてどうする!!》\r\n《Are you <I>jackals,</I>㉗who fight only when the odds are in your favor!? Is mere <I>catastrophe</I> all it takes to unman you!?》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410360a06'>\r\n//《会津武士の名に恥じるがいい!!》\r\n《And you call yourselves warriors of Aizu!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410340a06'>\r\n//《<RUBY text='うろた'>狼狽</RUBY>えるな!!\r\n//　貴様らは腑抜けかッ!!》\r\n《Mantenham-se firmes, covardes miseráveis! Não tolerarei choramingos em minhas fileiras!》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410350a06'>\r\n//《勝ち戦しかできんのか!?\r\n//　たかだか戦局が絶望的になった程度で腰を\r\n//砕いてどうする!!》\r\n《Vocês são <I>chacais,</I>㉗que só lutam quando estão em vantagem!? Basta uma mera <I>catástrofe</I> para lhes tirar a coragem!?》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410360a06'>\r\n//《会津武士の名に恥じるがいい!!》\r\n《E vocês se dizem guerreiros de Aizu!》\r\n"
  },
  {
   "offset": 8445,
@@ -147,27 +147,27 @@
  {
   "offset": 8625,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410380a06'>\r\n//《わかっていたはずだぞ。\r\n//　この一戦こそ大和の浮沈を占う天王山》\r\n《We knew this would be a fight to the death. The fate of all Yamato rests on this battle.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410380a06'>\r\n//《わかっていたはずだぞ。\r\n//　この一戦こそ大和の浮沈を占う天王山》\r\n《Sabíamos que esta seria uma luta até a morte. O destino de todo o Yamato depende desta batalha.》\r\n"
  },
  {
   "offset": 8923,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410390a06'>\r\n//《六年前とは違う――次の機会は無い！\r\n//　ここで戦い抜き、勝たなくてはならん》\r\n《This isn't like last time. There won't be another chance! We must win, no matter the cost!》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410400a06'>\r\n//《何があろうとだ！》\r\n《No㉓<I>matter</I>㉑the cost!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410390a06'>\r\n//《六年前とは違う――次の機会は無い！\r\n//　ここで戦い抜き、勝たなくてはならん》\r\n《Não é como da última vez. Não haverá outra chance! Temos que vencer, custe o que custar!》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410400a06'>\r\n//《何があろうとだ！》\r\n《Não㉓<I>importa</I>㉑o custo!》\r\n"
  },
  {
   "offset": 9406,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410410e196'>\r\n//《閣下……》\r\n《Sir...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410410e196'>\r\n//《閣下……》\r\n《Senhor...》\r\n"
  },
  {
   "offset": 9586,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410420a06'>\r\n//《思い出せ。\r\n//　岡部弾正、あの忌々しい叛賊を……》\r\n《Remember Okabe, our most hated foe.》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410430a06'>\r\n//《我らに囲まれ進退窮まった時、奴は降伏し\r\n//命乞いをしたか？　家臣を捨てて逃げたか？\r\n//　そんな可愛気があの愚劣な老将にあったか》\r\n《When we had him surrounded, what did he do? Throw himself to his knees and beg for mercy? Abandon his men and flee for the hills? Did he ever㉓<I>once</I> make you pity his wrinkled old hide!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410420a06'>\r\n//《思い出せ。\r\n//　岡部弾正、あの忌々しい叛賊を……》\r\n《Lembrem-se de Okabe, nosso inimigo mais odiado.》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410430a06'>\r\n//《我らに囲まれ進退窮まった時、奴は降伏し\r\n//命乞いをしたか？　家臣を捨てて逃げたか？\r\n//　そんな可愛気があの愚劣な老将にあったか》\r\n《Quando o cercamos, o que ele fez? Caiu de joelhos e implorou por misericórdia? Abandonou seus homens e fugiu para as colinas? Ele alguma㉓<I>vez</I> fez vocês sentirem pena daquele velho enrugado!?》\r\n"
  },
  {
   "offset": 10299,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410440a06'>\r\n//《ここで我らが無様を晒せば、いずれ地獄で\r\n//会った折に、奴の嘲笑を買う始末となろうよ。\r\n//　……貴様らの矜持は、そんな屈辱に甘んじ\r\n//られる程度のものか？》\r\n《If we surrender our pride this day, how will we face him when we meet in the underworld? How will we face all the others we've slain? I will not be the laughingstock of hell! Will <I>you!?</I>》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410440a06'>\r\n//《ここで我らが無様を晒せば、いずれ地獄で\r\n//会った折に、奴の嘲笑を買う始末となろうよ。\r\n//　……貴様らの矜持は、そんな屈辱に甘んじ\r\n//られる程度のものか？》\r\n《Se abandonarmos nosso orgulho hoje, como o encararemos quando nos encontrarmos no submundo? Como encararemos todos os outros que matamos? Não serei a chacota do inferno! E <I>vocês!?</I>》\r\n"
  },
  {
   "offset": 10832,
@@ -182,46 +182,46 @@
  {
   "offset": 11186,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410470a06'>\r\n//《陣形を組み直せ》\r\n《Form up! We have enemies to kill.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410470a06'>\r\n//《陣形を組み直せ》\r\n《Refaçam a formação! Temos inimigos para matar.》\r\n"
  },
  {
   "offset": 11359,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410480a06'>\r\n//《まず暴走中の零零式を駆逐する！\r\n//　進駐軍はその後だ！》\r\n《First the Zeros! Then all the rest!》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410490a06'>\r\n//《掛かれ!!》\r\n《Now get to work!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410480a06'>\r\n//《まず暴走中の零零式を駆逐する！\r\n//　進駐軍はその後だ！》\r\n《Primeiro os Zeros! Depois todo o resto!》\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410490a06'>\r\n//《掛かれ!!》\r\n《Agora, mãos à obra!》\r\n"
  },
  {
   "offset": 11730,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410500e195'>\r\n//《――はッ！》\r\n《Sir!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ａ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ａ' class='その他男声' src='voice/md04/0410500e195'>\r\n//《――はッ！》\r\n《Senhor!》\r\n"
  },
  {
   "offset": 11911,
   "en": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410510e196'>\r\n//《了解!!》\r\n《Yes sir!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥竜騎Ｂ】\r\n<voice name='ｅｔｃ／大鳥竜騎Ｂ' class='その他男声' src='voice/md04/0410510e196'>\r\n//《了解!!》\r\n《Sim, senhor!》\r\n"
  },
  {
   "offset": 12089,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410520a06'>\r\n//「……ふん……」\r\n\"Hmph...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410520a06'>\r\n//「……ふん……」\r\n\"Hmph...\"\r\n"
  },
  {
   "offset": 12229,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410530a06'>\r\n//「命運尽きたか。\r\n//　だから、どうした」\r\n\"This is where it ends, but what of it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410530a06'>\r\n//「命運尽きたか。\r\n//　だから、どうした」\r\n\"É aqui que termina, e daí?\"\r\n"
  },
  {
   "offset": 12434,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410540a06'>\r\n//「俺は最後までやる……」\r\n\"It's not over until the last stroke falls.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410540a06'>\r\n//「俺は最後までやる……」\r\n\"Só termina quando o último golpe cair.\"\r\n"
  },
  {
   "offset": 12621,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410550a06'>\r\n//「諦めはせん。後悔もせん。\r\n//　そんなことは死んだ後でやっても間に合う」\r\n\"Never surrender. Never look back. There'll be time enough for regret when I'm dead.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410550a06'>\r\n//「諦めはせん。後悔もせん。\r\n//　そんなことは死んだ後でやっても間に合う」\r\n\"Jamais me renderei. Jamais olharei para trás. Haverá tempo de sobra para me arrepender quando eu estiver morto.\"\r\n"
  },
  {
   "offset": 12919,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410560a06'>\r\n//「生きている間は、戦い戦い戦い勝つ――\r\n//　それだけだ!!」\r\n\"So long as there is breath in my body, I will fight on, and on―until victory is mine!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/md04/0410560a06'>\r\n//「生きている間は、戦い戦い戦い勝つ――\r\n//　それだけだ!!」\r\n\"Enquanto houver fôlego em meu corpo, lutarei, e lutarei―até que a vitória seja minha!\"\r\n"
  }
 ]

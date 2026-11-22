@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010010b00'>\r\n//「……どういうことだ？\r\n//　キャノン中佐！」\r\n\"What do you mean㉒<I>we don't have it!?</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010010b00'>\r\n//「……どういうことだ？\r\n//　キャノン中佐！」\r\n\"Como assim㉒<I>não está em nossas mãos!?</I>\"\r\n"
  },
  {
   "offset": 439,
@@ -12,52 +12,52 @@
  {
   "offset": 581,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010030b00'>\r\n//「<RUBY text='フォージド・ボム'>鍛造雷弾</RUBY>の本体は<RUBY text='このくに'>大和</RUBY>に届いたのだな？」\r\n\"The Forged Bomb is here, isn't it!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010030b00'>\r\n//「<RUBY text='フォージド・ボム'>鍛造雷弾</RUBY>の本体は<RUBY text='このくに'>大和</RUBY>に届いたのだな？」\r\n\"A Bomba Forjada está aqui, não está!?\"\r\n"
  },
  {
   "offset": 872,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010040b03'>\r\n//「ええ、ウィロー少将。\r\n//　到着したのは間違いありません」\r\n\"Yes, General. The transport arrived several days ago.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010040b03'>\r\n//「ええ、ウィロー少将。\r\n//　到着したのは間違いありません」\r\n\"Sim, General. O transporte chegou há vários dias.\"\r\n"
  },
  {
   "offset": 1128,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010050b00'>\r\n//「ならどうして、我々の手に渡らない？」\r\n\"Then why don't we have it!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010050b00'>\r\n//「ならどうして、我々の手に渡らない？」\r\n\"Então por que não está conosco!?\"\r\n"
  },
  {
   "offset": 1330,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010060b03'>\r\n//「拒否されているからです……」\r\n\"The captain is refusing to release the cargo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010060b03'>\r\n//「拒否されているからです……」\r\n\"Porque o capitão se recusa a liberar a carga.\"\r\n"
  },
  {
   "offset": 1538,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010070b00'>\r\n//「誰に！」\r\n\"Why!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010070b00'>\r\n//「誰に！」\r\n\"Por quê!?\"\r\n"
  },
  {
   "offset": 1676,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010080b03'>\r\n//「輸送艦の艦長に。\r\n//　許可があるまで引渡しはしかねる、と」\r\n\"He claims to need permission from the General Assembly.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010080b03'>\r\n//「輸送艦の艦長に。\r\n//　許可があるまで引渡しはしかねる、と」\r\n\"Ele alega precisar de autorização da Assembleia Geral.\"\r\n"
  },
  {
   "offset": 1937,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010090b00'>\r\n//「運んできておいて、今更引渡しの許可だと？\r\n//　それは何の冗談だ！」\r\n\"Is that a joke!? He had orders to bring it here, didn't he!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010090b00'>\r\n//「運んできておいて、今更引渡しの許可だと？\r\n//　それは何の冗談だ！」\r\n\"Isso é alguma piada!? Ele tinha ordens de trazê-la até aqui, não tinha!?\"\r\n"
  },
  {
   "offset": 2215,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010100b03'>\r\n//「ええ……」\r\n\"Yes...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010100b03'>\r\n//「ええ……」\r\n\"Sim...\"\r\n"
  },
  {
   "offset": 2357,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010110a13'>\r\n//「はるばる来てやったのだから<RUBY text='チップ'>小遣い</RUBY>をくれ、\r\n//などという話ではないのだろうね？\r\n//　当然」\r\n\"I assume a little㉗<I>tip</I> won't change his tune?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010110a13'>\r\n//「はるばる来てやったのだから<RUBY text='チップ'>小遣い</RUBY>をくれ、\r\n//などという話ではないのだろうね？\r\n//　当然」\r\n\"Suponho que uma pequena㉗<I>gorjeta</I> não vá mudar a atitude dele?\"\r\n"
  },
  {
   "offset": 2689,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010120b03'>\r\n//「そんな話なら良かったのですが、教授。\r\n//　向こうにはまともに対話する様子もありま\r\n//せん」\r\n\"I wish it were that simple. I've tried everything I could think of, but it's like talking to a wall.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010130b03'>\r\n//「連盟本部の許可を待て、の一点張りで」\r\n\"He insists on authorization from Geneva.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010120b03'>\r\n//「そんな話なら良かったのですが、教授。\r\n//　向こうにはまともに対話する様子もありま\r\n//せん」\r\n\"Eu gostaria que fosse tão simples. Tentei tudo o que pude imaginar, mas é como falar com uma parede.\"\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010130b03'>\r\n//「連盟本部の許可を待て、の一点張りで」\r\n\"Ele insiste em autorização de Genebra.\"\r\n"
  },
  {
   "offset": 3248,
@@ -67,22 +67,22 @@
  {
   "offset": 3390,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010150a13'>\r\n//「鍛造雷弾の使用は既に決まったことだ。\r\n//　なのに今更、許可云々と言い出すのなら」\r\n\"This matter was decided months ago. If he's talking about approval now...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010160a13'>\r\n//「輸送中に、何か横槍が入ったとしか考えら\r\n//れないね」\r\n\"Something changed while the bomb was in transit.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010150a13'>\r\n//「鍛造雷弾の使用は既に決まったことだ。\r\n//　なのに今更、許可云々と言い出すのなら」\r\n\"Esse assunto foi decidido há meses. Se ele fala em aprovação agora...\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010160a13'>\r\n//「輸送中に、何か横槍が入ったとしか考えら\r\n//れないね」\r\n\"Alguma coisa mudou enquanto a bomba estava em trânsito.\"\r\n"
  },
  {
   "offset": 3939,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010170b03'>\r\n//「……そうなります」\r\n\"That would seem to be the case.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010170b03'>\r\n//「……そうなります」\r\n\"Parece que é esse o caso.\"\r\n"
  },
  {
   "offset": 4118,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010180b00'>\r\n//「連盟本部の人権派が急に発言力を増しでも\r\n//したのか……。\r\n//　それともロシア投下を望む連中の突き上げ\r\n//か？」\r\n\"One of the other factions in the League must be gaining power. My money's on the peaceniks. They think the bomb's a crime against humanity. Them, or the old men who want to drop it on Russia instead.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010180b00'>\r\n//「連盟本部の人権派が急に発言力を増しでも\r\n//したのか……。\r\n//　それともロシア投下を望む連中の突き上げ\r\n//か？」\r\n\"Alguma outra facção da Liga deve estar ganhando força. Aposto nos pacifistas. Eles acham a bomba um crime contra a humanidade. Neles, ou nos velhos que querem lançá-la na Rússia.\"\r\n"
  },
  {
   "offset": 4597,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010190a13'>\r\n//「あるいは……<RUBY text='・・・'>ばれた</RUBY>のか」\r\n\"Or maybe... they㉗<I>know.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010190a13'>\r\n//「あるいは……<RUBY text='・・・'>ばれた</RUBY>のか」\r\n\"Ou talvez... eles㉗<I>saibam.</I>\"\r\n"
  },
  {
   "offset": 4815,
@@ -92,72 +92,72 @@
  {
   "offset": 4951,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010210b03'>\r\n//「我々の真意が」\r\n\"Could they have learned the truth?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010210b03'>\r\n//「我々の真意が」\r\n\"Será que descobriram a verdade?\"\r\n"
  },
  {
   "offset": 5127,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010220b03'>\r\n//「我々は――大和進駐軍は大和の征服支配を\r\n//完了するが、その成果を<RUBY text='エンプレス・オブ・ブリテン'>偉大なる女王陛下</RUBY>に\r\n//差し上げるつもりは<RUBY text='・・'>ない</RUBY>、と……\r\n//　連盟本部に知られた？」\r\n\"That we have every intention of conquering Yamato, but <I>none whatsoever</I>㉑of handing it to the queen?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010220b03'>\r\n//「我々は――大和進駐軍は大和の征服支配を\r\n//完了するが、その成果を<RUBY text='エンプレス・オブ・ブリテン'>偉大なる女王陛下</RUBY>に\r\n//差し上げるつもりは<RUBY text='・・'>ない</RUBY>、と……\r\n//　連盟本部に知られた？」\r\n\"Que temos toda a intenção de conquistar Yamato, mas <I>nenhuma mesmo</I>㉑de entregá-lo à rainha?\"\r\n"
  },
  {
   "offset": 5652,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010230a13'>\r\n//「考えたくもない可能性だがね」\r\n\"I certainly hope not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010230a13'>\r\n//「考えたくもない可能性だがね」\r\n\"Espero sinceramente que não.\"\r\n"
  },
  {
   "offset": 5836,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010240b00'>\r\n//「……本当に考えたくありませんな」\r\n\"...If they know, then we're dead.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010240b00'>\r\n//「……本当に考えたくありませんな」\r\n\"...Se eles sabem, estamos mortos.\"\r\n"
  },
  {
   "offset": 6038,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010250b03'>\r\n//「現時点では憶測ですよ、閣下」\r\n\"It's still just speculation, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010250b03'>\r\n//「現時点では憶測ですよ、閣下」\r\n\"Ainda é apenas especulação, senhor.\"\r\n"
  },
  {
   "offset": 6234,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010260b00'>\r\n//「わかっている……」\r\n\"Even so...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010260b00'>\r\n//「わかっている……」\r\n\"Mesmo assim...\"\r\n"
  },
  {
   "offset": 6392,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010270b03'>\r\n//「対応を考えましょう」\r\n\"Let's do what we can.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010270b03'>\r\n//「対応を考えましょう」\r\n\"Vamos fazer o que pudermos.\"\r\n"
  },
  {
   "offset": 6564,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010280b00'>\r\n//「今は待つしかあるまい。\r\n//　ジュネーヴの同志が連絡をくれるはずだ。\r\n//何が起きたのかを確認してから――」\r\n\"It would seem our hands are tied. We should wait to hear from our comrades in Geneva. Once we know what's going on, we can―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010280b00'>\r\n//「今は待つしかあるまい。\r\n//　ジュネーヴの同志が連絡をくれるはずだ。\r\n//何が起きたのかを確認してから――」\r\n\"Parece que estamos de mãos atadas. Devemos esperar notícias dos nossos camaradas em Genebra. Depois que soubermos o que está acontecendo, podemos―\"\r\n"
  },
  {
   "offset": 6962,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010290a13'>\r\n//「それでは、遅いのではないかな」\r\n\"By then, it may be too late.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010290a13'>\r\n//「それでは、遅いのではないかな」\r\n\"Até lá, pode ser tarde demais.\"\r\n"
  },
  {
   "offset": 7156,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010300b00'>\r\n//「……ウォルフ教授？」\r\n\"Too late how?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010300b00'>\r\n//「……ウォルフ教授？」\r\n\"Tarde demais como?\"\r\n"
  },
  {
   "offset": 7320,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010310a13'>\r\n//「我々は鍛造雷弾投下の意義について本部に\r\n//幾度も説明し、納得させてきた。そのはずだ。\r\n//　間もなく訪れる絶好の機会に投下すれば、\r\n//まさしく一朝にして一国を得られると……」\r\n\"We already made our case to the Assembly―<I>successfully.</I> We convinced them that the bomb was necessary, that if we seized the opportunity that would soon present itself, we would conquer Yamato in a day.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010310a13'>\r\n//「我々は鍛造雷弾投下の意義について本部に\r\n//幾度も説明し、納得させてきた。そのはずだ。\r\n//　間もなく訪れる絶好の機会に投下すれば、\r\n//まさしく一朝にして一国を得られると……」\r\n\"Já apresentamos nossos argumentos à Assembleia―<I>com sucesso.</I> Nós os convencemos de que a bomba era necessária, que se aproveitássemos a oportunidade que logo se apresentaria, conquistaríamos Yamato em um dia.\"\r\n"
  },
  {
   "offset": 7903,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010320a13'>\r\n//「なのに、この期に及んで<RUBY text='ストップ'>待った</RUBY>が掛かると\r\n//いうのはどう考えても尋常な事態ではない。\r\n//　余程の異変が連盟本部で起きていると判断\r\n//するべきだ」\r\n\"For them to withdraw their approval so suddenly can only mean a shift in the political landscape. One whose scope none of us can properly assess.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010330a13'>\r\n//「鍛造雷弾の運用に留まる問題ではなく……\r\n//　対大和政策そのものが連盟本部で根本から\r\n//見直されているのかもしれない」\r\n\"The bomb may not be the only issue back on the table. The entire campaign may be under scrutiny.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010340a13'>\r\n//「六波羅幕府の存立を許容し、あるいは別の\r\n//新政府を立てさせて、大和の主権を承認する\r\n//方向に……」\r\n\"If they decide to allow Rokuhara sovereignty... or even to support a new government in Yamato...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010320a13'>\r\n//「なのに、この期に及んで<RUBY text='ストップ'>待った</RUBY>が掛かると\r\n//いうのはどう考えても尋常な事態ではない。\r\n//　余程の異変が連盟本部で起きていると判断\r\n//するべきだ」\r\n\"Que retirem a aprovação de repente só pode significar uma mudança no cenário político. Uma mudança cuja extensão nenhum de nós consegue avaliar direito.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010330a13'>\r\n//「鍛造雷弾の運用に留まる問題ではなく……\r\n//　対大和政策そのものが連盟本部で根本から\r\n//見直されているのかもしれない」\r\n\"A bomba pode não ser o único assunto de volta à mesa. Toda a campanha pode estar sob análise.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010340a13'>\r\n//「六波羅幕府の存立を許容し、あるいは別の\r\n//新政府を立てさせて、大和の主権を承認する\r\n//方向に……」\r\n\"Se decidirem permitir a soberania de Rokuhara... ou até apoiar um novo governo em Yamato...\"\r\n"
  },
  {
   "offset": 9140,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010350b00'>\r\n//「……まさか！\r\n//　我々に相談もなく――」\r\n\"They wouldn't! Not without consulting us!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010350b00'>\r\n//「……まさか！\r\n//　我々に相談もなく――」\r\n\"Não fariam isso! Não sem nos consultar!\"\r\n"
  },
  {
   "offset": 9360,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010360a13'>\r\n//「反対するのがわかっている相手にいちいち\r\n//意見を聞くかい、ウィロー少将？\r\n//　いや君ならそうするかもしれないが。本部\r\n//の連中にそこまでの実直さを期待するかね？」\r\n\"Would you consult with someone who was sure to disagree? I suppose you might, honest fellow that you are, but do you really expect the same from politicians?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010360a13'>\r\n//「反対するのがわかっている相手にいちいち\r\n//意見を聞くかい、ウィロー少将？\r\n//　いや君ならそうするかもしれないが。本部\r\n//の連中にそこまでの実直さを期待するかね？」\r\n\"Você consultaria alguém que com certeza discordaria? Suponho que sim, honesto como é, mas espera o mesmo de políticos?\"\r\n"
  },
  {
   "offset": 9875,
@@ -167,27 +167,27 @@
  {
   "offset": 10017,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010380a13'>\r\n//「何もせず、待っていれば……\r\n//　訪れるのは情報ではなく、連盟本部からの\r\n//一方的な通達だよ」\r\n\"If we choose to wait... then the next message from Geneva will be not an explanation, but㉓<I>orders.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010380a13'>\r\n//「何もせず、待っていれば……\r\n//　訪れるのは情報ではなく、連盟本部からの\r\n//一方的な通達だよ」\r\n\"Se escolhermos esperar... a próxima mensagem de Genebra não será uma explicação, mas㉓<I>ordens.</I>\"\r\n"
  },
  {
   "offset": 10378,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010390a13'>\r\n//「一切の武力行使を禁ずる、という」\r\n\"Orders to stand down㉓<I>all</I>㉒your forces.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010390a13'>\r\n//「一切の武力行使を禁ずる、という」\r\n\"Ordens para recolher㉓<I>todas</I>㉒as suas forças.\"\r\n"
  },
  {
   "offset": 10595,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010400b00'>\r\n//「……キャノン？」\r\n\"...Cannon?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010400b00'>\r\n//「……キャノン？」\r\n\"...Cannon?\"\r\n"
  },
  {
   "offset": 10750,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010410b03'>\r\n//「……必ずそうなると決まったわけではあり\r\n//ません。\r\n//　ただ、可能性はあります」\r\n\"It hasn't happened yet, sir, but it's possible.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010410b03'>\r\n//「……必ずそうなると決まったわけではあり\r\n//ません。\r\n//　ただ、可能性はあります」\r\n\"Ainda não aconteceu, senhor, mas é possível.\"\r\n"
  },
  {
   "offset": 11034,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010420a13'>\r\n//「その可能性が当たってしまった場合、もう\r\n//我々には何もできないな。\r\n//　十年か二十年か、それとも半世紀か、次の\r\n//機会を待たねばならなくなる」\r\n\"And if it does happen, we're well and truly out of it. At least until the next opportunity presents itself, and who knows when that will be? Ten years from now? Fifty?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010420a13'>\r\n//「その可能性が当たってしまった場合、もう\r\n//我々には何もできないな。\r\n//　十年か二十年か、それとも半世紀か、次の\r\n//機会を待たねばならなくなる」\r\n\"E se acontecer, estaremos completamente fora do jogo. Pelo menos até a próxima oportunidade se apresentar, e quem sabe quando será? Daqui a dez anos? Cinquenta?\"\r\n"
  },
  {
   "offset": 11529,
@@ -197,17 +197,17 @@
  {
   "offset": 11665,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010440b03'>\r\n//「ウォルフ教授。\r\n//　少将閣下の不安を煽るのはやめて頂きたい\r\n//のですが」\r\n\"Professor. Could you please stop agitating the general?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010440b03'>\r\n//「ウォルフ教授。\r\n//　少将閣下の不安を煽るのはやめて頂きたい\r\n//のですが」\r\n\"Professor. Poderia parar de agitar o general, por favor?\"\r\n"
  },
  {
   "offset": 11945,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010450a13'>\r\n//「失礼。\r\n//　だが、これは忠告なのだよ」\r\n\"My apologies. However, I am quite serious.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010460a13'>\r\n//「キャノン中佐、君が述べた通り、すべてが\r\n//――入念に準備した計画のすべてがぶち壊し\r\n//になってしまう危険は現実的に存在するのだ。\r\n//　しかも決して低くはない可能性だ」\r\n\"As you yourself said, Colonel, the possibility exists that all of our work, all our careful planning and preparation, may be rendered meaningless. This scenario is by no means unlikely.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010450a13'>\r\n//「失礼。\r\n//　だが、これは忠告なのだよ」\r\n\"Minhas desculpas. No entanto, falo muito a sério.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010460a13'>\r\n//「キャノン中佐、君が述べた通り、すべてが\r\n//――入念に準備した計画のすべてがぶち壊し\r\n//になってしまう危険は現実的に存在するのだ。\r\n//　しかも決して低くはない可能性だ」\r\n\"Como o senhor mesmo disse, Coronel, existe a possibilidade de que todo o nosso trabalho, todo o nosso planejamento e preparação cuidadosos, se torne sem sentido. Esse cenário não é de forma alguma improvável.\"\r\n"
  },
  {
   "offset": 12704,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010470a13'>\r\n//「いや、むしろ……高い。\r\n//　僕はこの時点で鍛造雷弾の使用が差し止め\r\n//られたという事実に非常な危険を感じ取らず\r\n//にはいられないよ」\r\n\"In fact, I would wager the odds are against us. This effort to keep us from dropping the bomb speaks to me of a much greater threat.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010470a13'>\r\n//「いや、むしろ……高い。\r\n//　僕はこの時点で鍛造雷弾の使用が差し止め\r\n//られたという事実に非常な危険を感じ取らず\r\n//にはいられないよ」\r\n\"Na verdade, eu diria que as chances estão contra nós. Esse esforço para nos impedir de lançar a bomba me parece indicar uma ameaça muito maior.\"\r\n"
  },
  {
   "offset": 13149,
@@ -217,17 +217,17 @@
  {
   "offset": 13291,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010490a13'>\r\n//「賭けるかね？　同志よ……」\r\n\"Will you stake your dream on the chance that I'm wrong?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010490a13'>\r\n//「賭けるかね？　同志よ……」\r\n\"Vai apostar seu sonho na chance de eu estar errado?\"\r\n"
  },
  {
   "offset": 13506,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010500a13'>\r\n//「我々は運命と戦おうとしていた。\r\n//　しかし<RUBY text='・・'>戦う</RUBY>のはもうやめて、<RUBY text='・・・'>賭ける</RUBY>ことに\r\n//するのかな？」\r\n\"We came here to㉗<I>seize</I> our destiny. Will you now abandon the struggle and throw yourself on the mercy of fate?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010500a13'>\r\n//「我々は運命と戦おうとしていた。\r\n//　しかし<RUBY text='・・'>戦う</RUBY>のはもうやめて、<RUBY text='・・・'>賭ける</RUBY>ことに\r\n//するのかな？」\r\n\"Viemos aqui para㉗<I>tomar</I> nosso destino. Agora vai abandonar a luta e se entregar à mercê do destino?\"\r\n"
  },
  {
   "offset": 13936,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010510a13'>\r\n//「今、状況の変化をぼんやり待つというのは\r\n//そういうことだよ」\r\n\"That is what failing to act here would mean.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010510a13'>\r\n//「今、状況の変化をぼんやり待つというのは\r\n//そういうことだよ」\r\n\"É isso que significaria não agir agora.\"\r\n"
  },
  {
   "offset": 14189,
@@ -237,37 +237,37 @@
  {
   "offset": 14325,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010530b03'>\r\n//「教授。つまり……どうしろと？」\r\n\"And what action would you suggest?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010530b03'>\r\n//「教授。つまり……どうしろと？」\r\n\"E que ação o senhor sugere?\"\r\n"
  },
  {
   "offset": 14525,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010540a13'>\r\n//「戦いを始めよう」\r\n\"Fight, of course.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010550a13'>\r\n//「六波羅を攻撃するのだ」\r\n\"Attack Rokuhara.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010540a13'>\r\n//「戦いを始めよう」\r\n\"Lutar, é claro.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010550a13'>\r\n//「六波羅を攻撃するのだ」\r\n\"Atacar Rokuhara.\"\r\n"
  },
  {
   "offset": 14849,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010560b00'>\r\n//「……教授、我々には独断で開戦する権限が\r\n//ありません」\r\n\"...We don't have the authority to strike first.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010560b00'>\r\n//「……教授、我々には独断で開戦する権限が\r\n//ありません」\r\n\"...Não temos autoridade para atacar primeiro.\"\r\n"
  },
  {
   "offset": 15096,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010570a13'>\r\n//「そこは有事法制に従おう。\r\n//　六波羅軍から攻撃を受けたので応戦を開始\r\n//する――<RUBY text='・・・・・・'>ということに</RUBY>しておけばいい」\r\n\"Who said anything about striking first? You'll merely be responding to <I>Rokuhara</I> aggression.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010570a13'>\r\n//「そこは有事法制に従おう。\r\n//　六波羅軍から攻撃を受けたので応戦を開始\r\n//する――<RUBY text='・・・・・・'>ということに</RUBY>しておけばいい」\r\n\"Quem falou em atacar primeiro? Vocês apenas estarão respondendo à agressão de <I>Rokuhara</I>.\"\r\n"
  },
  {
   "offset": 15512,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010580b03'>\r\n//「偽装工作ですか？\r\n//　それも時間が必要ですよ」\r\n\"A false flag operation? Those take time to prepare.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010580b03'>\r\n//「偽装工作ですか？\r\n//　それも時間が必要ですよ」\r\n\"Uma operação de bandeira falsa? Isso leva tempo para preparar.\"\r\n"
  },
  {
   "offset": 15751,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010590a13'>\r\n//「面倒なことはしなくていい。\r\n//　誰に対して偽装するのだ？」\r\n\"Never mind all that. Who would you need to fool?\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010600a13'>\r\n//「連盟本部から派遣されてくる調査団か？\r\n//　君達は大和占領を成し遂げた後で、そんな\r\n//ものを受け入れてやるつもりかね？」\r\n\"The League inspectors, who will only be sent㉓<I>after</I>㉑the fighting is over? Will you let them in when this country is yours?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010590a13'>\r\n//「面倒なことはしなくていい。\r\n//　誰に対して偽装するのだ？」\r\n\"Deixe isso de lado. Quem vocês precisariam enganar?\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010600a13'>\r\n//「連盟本部から派遣されてくる調査団か？\r\n//　君達は大和占領を成し遂げた後で、そんな\r\n//ものを受け入れてやるつもりかね？」\r\n\"Os inspetores da Liga, que só serão enviados㉓<I>depois</I>㉑que os combates terminarem? Vão deixá-los entrar quando este país for de vocês?\"\r\n"
  },
  {
   "offset": 16423,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010610a13'>\r\n//「即座に次の行動を起こすのではなかったか？\r\n//　<RUBY text='ネオ・ブリテン'>新大陸</RUBY>の同胞と共に」\r\n\"As I understand it, your comrades in New Britain mean to rise up the moment you take control.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010610a13'>\r\n//「即座に次の行動を起こすのではなかったか？\r\n//　<RUBY text='ネオ・ブリテン'>新大陸</RUBY>の同胞と共に」\r\n\"Pelo que entendi, seus camaradas na Nova Bretanha pretendem se levantar no momento em que vocês assumirem o controle.\"\r\n"
  },
  {
   "offset": 16776,
@@ -277,117 +277,117 @@
  {
   "offset": 16918,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010630a13'>\r\n//「電撃作戦で六波羅を殲滅するまでの間だけ\r\n//誤魔化せればいいのだ。\r\n//　口先で充分だよ」\r\n\"The story need hold only long enough to crush Rokuhara. A simple phone call will suffice.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010630a13'>\r\n//「電撃作戦で六波羅を殲滅するまでの間だけ\r\n//誤魔化せればいいのだ。\r\n//　口先で充分だよ」\r\n\"A história só precisa se sustentar o tempo suficiente para esmagar Rokuhara. Um simples telefonema basta.\"\r\n"
  },
  {
   "offset": 17253,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010640b00'>\r\n//「しかし、鍛造雷弾は今――」\r\n\"But the Forged Bomb―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010640b00'>\r\n//「しかし、鍛造雷弾は今――」\r\n\"Mas a Bomba Forjada―\"\r\n"
  },
  {
   "offset": 17435,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010650a13'>\r\n//「通常戦力があるだろう？\r\n//　雷弾抜きでも、ＧＨＱの保有する軍事力は\r\n//六波羅を上回る」\r\n\"You still have your army, don't you? Even without the bomb, GHQ has the advantage in men and equipment.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010650a13'>\r\n//「通常戦力があるだろう？\r\n//　雷弾抜きでも、ＧＨＱの保有する軍事力は\r\n//六波羅を上回る」\r\n\"Vocês ainda têm seu exército, não têm? Mesmo sem a bomba, a GHQ tem vantagem em homens e equipamentos.\"\r\n"
  },
  {
   "offset": 17784,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010660b00'>\r\n//「そうですが……キャノン？」\r\n\"Hmm. Cannon?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010660b00'>\r\n//「そうですが……キャノン？」\r\n\"Hmm. Cannon?\"\r\n"
  },
  {
   "offset": 17956,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010670b03'>\r\n//「……確かに、鍛造雷弾投下に失敗した場合\r\n//のための<RUBY text='サブプラン'>補完計画</RUBY>は用意されています。\r\n//　そちらの最終訓練を明日行う予定でした」\r\n\"Naturally, we've prepared backup plans in case the Forged Bomb fails. We're holding final exercises tomorrow.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010670b03'>\r\n//「……確かに、鍛造雷弾投下に失敗した場合\r\n//のための<RUBY text='サブプラン'>補完計画</RUBY>は用意されています。\r\n//　そちらの最終訓練を明日行う予定でした」\r\n\"Naturalmente, preparamos planos de contingência caso a Bomba Forjada falhe. Os exercícios finais estão marcados para amanhã.\"\r\n"
  },
  {
   "offset": 18401,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010680a13'>\r\n//「なら丁度いいな。\r\n//　訓練ではなく、<RUBY text='・・'>本番</RUBY>にしてしまおう」\r\n\"Splendid. Instead of exercises, let's do it for real.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010680a13'>\r\n//「なら丁度いいな。\r\n//　訓練ではなく、<RUBY text='・・'>本番</RUBY>にしてしまおう」\r\n\"Excelente. Em vez de exercícios, façamos isso de verdade.\"\r\n"
  },
  {
   "offset": 18684,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010690b03'>\r\n//「それは、相当の無理が生じます。\r\n//　結果としてこちらの損害が大きく――」\r\n\"That will put too heavy a burden on our forces. Losses are bound to be heavy.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010690b03'>\r\n//「それは、相当の無理が生じます。\r\n//　結果としてこちらの損害が大きく――」\r\n\"Isso imporá um fardo pesado demais às nossas forças. As perdas serão grandes.\"\r\n"
  },
  {
   "offset": 18988,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010700b03'>\r\n//「いえ、<RUBY text='・・・・'>勝てない</RUBY>可能性すらあります。\r\n//　負けるとまでは言わずとも。こちらが企図\r\n//する、敵軍主力の早期撃滅を果たせない恐れ\r\n//があります」\r\n\"We may not be able to win. At least, not as quickly as we need to for the plan to work. A stalemate would be just as deadly as defeat.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010700b03'>\r\n//「いえ、<RUBY text='・・・・'>勝てない</RUBY>可能性すらあります。\r\n//　負けるとまでは言わずとも。こちらが企図\r\n//する、敵軍主力の早期撃滅を果たせない恐れ\r\n//があります」\r\n\"Podemos não ser capazes de vencer. Pelo menos, não com a rapidez necessária para o plano funcionar. Um impasse seria tão fatal quanto a derrota.\"\r\n"
  },
  {
   "offset": 19477,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010710a13'>\r\n//「苦戦する、と？」\r\n\"You expect a hard fight?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010710a13'>\r\n//「苦戦する、と？」\r\n\"O senhor espera uma luta difícil?\"\r\n"
  },
  {
   "offset": 19646,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010720b03'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010720b03'>\r\n//「ええ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 19780,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010730b00'>\r\n//「そうだな……」\r\n\"Hmm...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010730b00'>\r\n//「そうだな……」\r\n\"Hmm...\"\r\n"
  },
  {
   "offset": 19928,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010740a13'>\r\n//「好都合ではないか」\r\n\"But that's perfect.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010740a13'>\r\n//「好都合ではないか」\r\n\"Mas isso é perfeito.\"\r\n"
  },
  {
   "offset": 20095,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010750b03'>\r\n//「……何ですと？」\r\n\"Excuse me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010750b03'>\r\n//「……何ですと？」\r\n\"Perdão?\"\r\n"
  },
  {
   "offset": 20250,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010760a13'>\r\n//「戦況が不利になったら、それを口実に鍛造\r\n//雷弾の使用許可を求めれば良いのだ。\r\n//　連盟本部も大規模な増援を派遣するより、\r\n//お手軽な方を望むだろう」\r\n\"A stalemate would give us cause to demand they release the bomb. Geneva will surely choose that over the expense of reinforcements.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010760a13'>\r\n//「戦況が不利になったら、それを口実に鍛造\r\n//雷弾の使用許可を求めれば良いのだ。\r\n//　連盟本部も大規模な増援を派遣するより、\r\n//お手軽な方を望むだろう」\r\n\"Um impasse nos daria motivo para exigir que liberem a bomba. Genebra certamente preferirá isso ao custo de reforços.\"\r\n"
  },
  {
   "offset": 20718,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010770b03'>\r\n//「……教授。\r\n//　少し、無謀が過ぎませんか？」\r\n\"You're taking an awful lot on faith, don't you think?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010770b03'>\r\n//「……教授。\r\n//　少し、無謀が過ぎませんか？」\r\n\"O senhor está confiando demais, não acha?\"\r\n"
  },
  {
   "offset": 20956,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010780b00'>\r\n//「いや……いや！\r\n//　そう決め付けたものでもないぞ、キャノン\r\n//中佐」\r\n\"Wait. Just a moment, Colonel! We may have something here!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010780b00'>\r\n//「いや……いや！\r\n//　そう決め付けたものでもないぞ、キャノン\r\n//中佐」\r\n\"Espere. Um momento, Coronel! Talvez tenhamos algo aqui!\"\r\n"
  },
  {
   "offset": 21232,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010790b03'>\r\n//「閣下？」\r\n\"Sir?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010790b03'>\r\n//「閣下？」\r\n\"Senhor?\"\r\n"
  },
  {
   "offset": 21369,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010800b00'>\r\n//「我々の独断で開始するにせよ……\r\n//　一度戦端が開かれてしまえば、それは連盟\r\n//――国際統和共栄連盟の戦争になる」\r\n\"It doesn't matter whether the attack was authorized or not. The moment the shooting starts, that's war between Yamato and the League of Nations.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010800b00'>\r\n//「我々の独断で開始するにせよ……\r\n//　一度戦端が開かれてしまえば、それは連盟\r\n//――国際統和共栄連盟の戦争になる」\r\n\"Não importa se o ataque foi autorizado ou não. No momento em que os tiros começarem, será guerra entre Yamato e a Liga das Nações.\"\r\n"
  },
  {
   "offset": 21798,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010810b00'>\r\n//「世界の守護者たる女王陛下の名を背負った\r\n//聖戦になるのだ。\r\n//　敗北は許されない」\r\n\"The queen's majesty will be at stake. Defeat won't be an option.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010810b00'>\r\n//「世界の守護者たる女王陛下の名を背負った\r\n//聖戦になるのだ。\r\n//　敗北は許されない」\r\n\"A majestade da rainha estará em jogo. A derrota não será uma opção.\"\r\n"
  },
  {
   "offset": 22102,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010820b00'>\r\n//「不利な情勢での講和なども有り得ない。\r\n//　我々のやりかたに対して疑念があってもだ。\r\n//<RUBY text='・・・・・・・・・・・・'>とにかくまずは勝ってから</RUBY>、連盟の高官ども\r\n//ならそう考える」\r\n\"Neither will peace under any but the most favorable terms. Any questions about what really happened will be set aside until after we win.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010820b00'>\r\n//「不利な情勢での講和なども有り得ない。\r\n//　我々のやりかたに対して疑念があってもだ。\r\n//<RUBY text='・・・・・・・・・・・・'>とにかくまずは勝ってから</RUBY>、連盟の高官ども\r\n//ならそう考える」\r\n\"Nem a paz em quaisquer termos que não sejam os mais favoráveis. Quaisquer dúvidas sobre o que realmente aconteceu serão deixadas de lado até vencermos.\"\r\n"
  },
  {
   "offset": 22630,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010830a13'>\r\n//「その通りだとも、ウィロー少将。\r\n//　それに問題は体面のことだけではない」\r\n\"Precisely, General. And the queen's majesty won't be the only concern.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010840a13'>\r\n//「対ロシア政策の面から見ても、連盟が敗北\r\n//して大和から叩き出されるような結末は絶対\r\n//に受け入れられないはずだ。\r\n//　違うかね？」\r\n\"Yamato is Britain's eastern bulwark against Russia. The League can't afford to lose its foothold here. Isn't that right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010830a13'>\r\n//「その通りだとも、ウィロー少将。\r\n//　それに問題は体面のことだけではない」\r\n\"Exatamente, General. E a majestade da rainha não será a única preocupação.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010840a13'>\r\n//「対ロシア政策の面から見ても、連盟が敗北\r\n//して大和から叩き出されるような結末は絶対\r\n//に受け入れられないはずだ。\r\n//　違うかね？」\r\n\"Yamato é o baluarte oriental da Bretanha contra a Rússia. A Liga não pode se dar ao luxo de perder seu ponto de apoio aqui. Não é verdade?\"\r\n"
  },
  {
   "offset": 23349,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010850b00'>\r\n//「はい、教授。間違いありません。\r\n//　そうだ……とにかく戦争を始めてしまえば、\r\n//連盟としては勝つしかなくなる」\r\n\"Absolutely, Professor. Absolutely right. Once the war starts, they'll㉓<I>have</I> to see it through.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010850b00'>\r\n//「はい、教授。間違いありません。\r\n//　そうだ……とにかく戦争を始めてしまえば、\r\n//連盟としては勝つしかなくなる」\r\n\"Sem dúvida, Professor. Absolutamente certo. Uma vez iniciada a guerra, eles㉓<I>terão</I> que ir até o fim.\"\r\n"
  },
  {
   "offset": 23733,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010860b00'>\r\n//「必要に応じて鍛造雷弾も使える！\r\n//　我々が六波羅に敗れることはない！」\r\n\"Even if that means dropping the bomb! We can't lose!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010860b00'>\r\n//「必要に応じて鍛造雷弾も使える！\r\n//　我々が六波羅に敗れることはない！」\r\n\"Mesmo que isso signifique lançar a bomba! Não podemos perder!\"\r\n"
  },
  {
   "offset": 24009,
@@ -397,37 +397,37 @@
  {
   "offset": 24151,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010880b00'>\r\n//「我々の独走は戦後の追及を免れないだろう。\r\n//　が、これも教授の言われる通り――そんな\r\n//ことを恐れる必要はない」\r\n\"Under normal circumstances, we could all expect to be shot afterward... but as the good professor pointed out, we have no need to fear the queen's justice.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010880b00'>\r\n//「我々の独走は戦後の追及を免れないだろう。\r\n//　が、これも教授の言われる通り――そんな\r\n//ことを恐れる必要はない」\r\n\"Em circunstâncias normais, todos nós poderíamos esperar ser fuzilados depois... mas, como o bom professor apontou, não precisamos temer a justiça da rainha.\"\r\n"
  },
  {
   "offset": 24591,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010890b00'>\r\n//「我々が女王陛下に対して忠実な騎士として\r\n//振舞うのは、大和征服を終えるその瞬間まで\r\n//のことに過ぎないのだからな！」\r\n\"We are Her Majesty's loyal subjects only until Yamato is in our grasp!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010890b00'>\r\n//「我々が女王陛下に対して忠実な騎士として\r\n//振舞うのは、大和征服を終えるその瞬間まで\r\n//のことに過ぎないのだからな！」\r\n\"Somos súditos leais de Sua Majestade apenas até Yamato estar em nossas mãos!\"\r\n"
  },
  {
   "offset": 24952,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010900a13'>\r\n//「うむうむ。\r\n//　何も問題はなさそうじゃないか？」\r\n\"It appears we have our course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010900a13'>\r\n//「うむうむ。\r\n//　何も問題はなさそうじゃないか？」\r\n\"Parece que temos nosso rumo.\"\r\n"
  },
  {
   "offset": 25173,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010910b00'>\r\n//「はい。\r\n//　どうだ、キャノン？」\r\n\"Yes. Agreed, Cannon?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010910b00'>\r\n//「はい。\r\n//　どうだ、キャノン？」\r\n\"Sim. Concorda, Cannon?\"\r\n"
  },
  {
   "offset": 25360,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010920b03'>\r\n//「…………。\r\n//　進駐軍の指揮権については？　最高司令官\r\n//はここにいる三人の誰でもなく、現在休暇中\r\n//の元帥殿ですが」\r\n\"...What about the chain of command, sir? The marshal is supreme commander of Allied forces in Yamato, and he's currently on leave.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0010920b03'>\r\n//「…………。\r\n//　進駐軍の指揮権については？　最高司令官\r\n//はここにいる三人の誰でもなく、現在休暇中\r\n//の元帥殿ですが」\r\n\"...E quanto à cadeia de comando, senhor? O marechal é o comandante supremo das forças aliadas em Yamato, e está atualmente de licença.\"\r\n"
  },
  {
   "offset": 25782,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010930a13'>\r\n//「ことが済むまで、そのまま休暇を楽しんで\r\n//いてもらおう。\r\n//　帰還手段をこちらで用意しなければ、関東\r\n//に戻りたくても戻って来られまい」\r\n\"He'll just have to enjoy his leave until the war's over. I'm sure he won't mind too much. Either way, he can't get back to Kanto unless we provide the transport.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010930a13'>\r\n//「ことが済むまで、そのまま休暇を楽しんで\r\n//いてもらおう。\r\n//　帰還手段をこちらで用意しなければ、関東\r\n//に戻りたくても戻って来られまい」\r\n\"Ele terá que aproveitar a licença até a guerra acabar. Tenho certeza de que não se importará tanto. De qualquer forma, não conseguirá voltar a Kanto a menos que nós forneçamos o transporte.\"\r\n"
  },
  {
   "offset": 26262,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010940b00'>\r\n//「一週間やそこらは時間を稼げますね。\r\n//　その間は、私が事実上の最高司令官代行」\r\n\"That should buy us a week, at least, during which time I am acting supreme commander.\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010950b00'>\r\n//「各軍団長は私より階級こそ上ですが、問題\r\n//なく動かせます」\r\n\"The division commanders may outrank me, but the chain of command is clear. They'll give me no trouble.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010940b00'>\r\n//「一週間やそこらは時間を稼げますね。\r\n//　その間は、私が事実上の最高司令官代行」\r\n\"Isso deve nos render uma semana, pelo menos, período durante o qual serei o comandante supremo interino.\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010950b00'>\r\n//「各軍団長は私より階級こそ上ですが、問題\r\n//なく動かせます」\r\n\"Os comandantes de divisão podem ter posto superior ao meu, mas a cadeia de comando é clara. Não me darão problemas.\"\r\n"
  },
  {
   "offset": 26883,
@@ -437,77 +437,77 @@
  {
   "offset": 27025,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010970b00'>\r\n//「後は、行動開始のタイミングだな。\r\n//　最終訓練用の準備が出来ているとはいえ、\r\n//流石に明日の決行は無理があるか……？」\r\n\"All that's left is to decide on a date. We planned to hold exercises tomorrow, but I suppose that's too soon for a live performance.\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010980b00'>\r\n//「一日遅らせて、準備を徹底した方がいいか」\r\n\"Let's take the day to finalize preparations, then strike the following morning.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010970b00'>\r\n//「後は、行動開始のタイミングだな。\r\n//　最終訓練用の準備が出来ているとはいえ、\r\n//流石に明日の決行は無理があるか……？」\r\n\"Só resta decidir a data. Planejávamos realizar exercícios amanhã, mas suponho que seja cedo demais para uma operação real.\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0010980b00'>\r\n//「一日遅らせて、準備を徹底した方がいいか」\r\n\"Vamos usar o dia para finalizar os preparativos e atacar na manhã seguinte.\"\r\n"
  },
  {
   "offset": 27703,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010990a13'>\r\n//「いや――」\r\n\"I think―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0010990a13'>\r\n//「いや――」\r\n\"Eu acho―\"\r\n"
  },
  {
   "offset": 27849,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011000b03'>\r\n//「やるならすぐです、閣下」\r\n\"If we're doing this, sir, it has to be㉓<I>now.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011000b03'>\r\n//「やるならすぐです、閣下」\r\n\"Se vamos fazer isso, senhor, tem que ser㉓<I>agora.</I>\"\r\n"
  },
  {
   "offset": 28058,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011010b00'>\r\n//「キャノン？」\r\n\"Oh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011010b00'>\r\n//「キャノン？」\r\n\"Ah?\"\r\n"
  },
  {
   "offset": 28200,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011020b03'>\r\n//「宣下式典のために六波羅の戦力の大部分が\r\n//普陀楽へ集結するのを待ち、鍛造雷弾で一掃\r\n//するのが本来のプランでした。\r\n//　が……当面、雷弾を使えないなら」\r\n\"The original plan may have called for us to wait until Rokuhara's main force had assembled at Fudaraku, but that was when we thought we could wipe them out with one blow. If we don't have the bomb...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011020b03'>\r\n//「宣下式典のために六波羅の戦力の大部分が\r\n//普陀楽へ集結するのを待ち、鍛造雷弾で一掃\r\n//するのが本来のプランでした。\r\n//　が……当面、雷弾を使えないなら」\r\n\"O plano original talvez previsse que esperássemos até a força principal de Rokuhara se reunir em Fudaraku, mas isso era quando achávamos que poderíamos aniquilá-los com um único golpe. Se não temos a bomba...\"\r\n"
  },
  {
   "offset": 28742,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011030b03'>\r\n//「むしろ戦力が集中しない内に叩くべきです。\r\n//　小弓、古河、篠川、堀越の四公方府そして\r\n//普陀楽城とを分断し、各個に撃破する……」\r\n\"Then letting them concentrate their strength could spell disaster. Oyumi, Koga, Sasagawa, Horigoe. We need to attack the four district headquarters simultaneously, cut them off from Fudaraku, and defeat them while they're isolated.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011030b03'>\r\n//「むしろ戦力が集中しない内に叩くべきです。\r\n//　小弓、古河、篠川、堀越の四公方府そして\r\n//普陀楽城とを分断し、各個に撃破する……」\r\n\"Então deixá-los concentrar as forças pode ser desastroso. Oyumi, Koga, Sasagawa, Horigoe. Precisamos atacar as quatro sedes distritais ao mesmo tempo, cortar sua ligação com Fudaraku e derrotá-los enquanto estiverem isolados.\"\r\n"
  },
  {
   "offset": 29282,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011040b00'>\r\n//「プランＣ３だな？」\r\n\"Plan C3.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011040b00'>\r\n//「プランＣ３だな？」\r\n\"Plano C3.\"\r\n"
  },
  {
   "offset": 29438,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011050b03'>\r\n//「はい」\r\n\"Precisely.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011050b03'>\r\n//「はい」\r\n\"Exatamente.\"\r\n"
  },
  {
   "offset": 29578,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011060b00'>\r\n//「補給物資は」\r\n\"What about supply?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011060b00'>\r\n//「補給物資は」\r\n\"E o suprimento?\"\r\n"
  },
  {
   "offset": 29735,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011070b03'>\r\n//「初動を支えるだけの量は既に各部隊が保有\r\n//しています。\r\n//　その後は――横浜・横須賀との補給ライン\r\n//を作戦通りに構築できれば」\r\n\"All units have sufficient supplies to see them through the opening engagements. Afterward, we'll just need to establish supply lines from Yokohama.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011070b03'>\r\n//「初動を支えるだけの量は既に各部隊が保有\r\n//しています。\r\n//　その後は――横浜・横須賀との補給ライン\r\n//を作戦通りに構築できれば」\r\n\"Todas as unidades têm suprimentos suficientes para os primeiros confrontos. Depois, só precisaremos estabelecer linhas de suprimento a partir de Yokohama.\"\r\n"
  },
  {
   "offset": 30189,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011080b00'>\r\n//「……良し！」\r\n\"...Good!\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011090b00'>\r\n//「そのプランでいこう。\r\n//　構わないな、キャノン？」\r\n\"Then we have our plan. Any other concerns?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011080b00'>\r\n//「……良し！」\r\n\"...Muito bem!\"\r\n\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011090b00'>\r\n//「そのプランでいこう。\r\n//　構わないな、キャノン？」\r\n\"Então temos nosso plano. Mais alguma preocupação?\"\r\n"
  },
  {
   "offset": 30564,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011100b03'>\r\n//「…………。\r\n//　ええ、ウィロー少将」\r\n\"...<waitVoice=1000>No sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011100b03'>\r\n//「…………。\r\n//　ええ、ウィロー少将」\r\n\"...<waitVoice=1000>Não, senhor.\"\r\n"
  },
  {
   "offset": 30763,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011110b03'>\r\n//「やりましょう」\r\n\"Let's do it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011110b03'>\r\n//「やりましょう」\r\n\"Vamos fazer isso.\"\r\n"
  },
  {
   "offset": 30917,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0011120a13'>\r\n//「うむ。戦いを始めよう！\r\n//　我々の勝利のために！」\r\n\"This is a great day, comrades. To victory!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0011120a13'>\r\n//「うむ。戦いを始めよう！\r\n//　我々の勝利のために！」\r\n\"Este é um grande dia, camaradas. À vitória!\"\r\n"
  },
  {
   "offset": 31153,
   "en": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011130b00'>\r\n//「はい、ウォルフ教授。\r\n//　我々の勝利のために！」\r\n\"Indeed, Professor. To victory!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウィロー】\r\n<voice name='ウィロー' class='ウィロー' src='voice/md04/0011130b00'>\r\n//「はい、ウォルフ教授。\r\n//　我々の勝利のために！」\r\n\"Sem dúvida, Professor. À vitória!\"\r\n"
  },
  {
   "offset": 31374,
@@ -517,6 +517,6 @@
  {
   "offset": 31516,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011150b03'>\r\n//（<RUBY text='・・'>我々</RUBY>、か）\r\n(Victory...)\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011160b03'>\r\n//（同じ意味ならいいんだがね……）\r\n(I only hope the two of them mean the same thing.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011150b03'>\r\n//（<RUBY text='・・'>我々</RUBY>、か）\r\n(Vitória...)\r\n\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0011160b03'>\r\n//（同じ意味ならいいんだがね……）\r\n(Só espero que os dois estejam falando da mesma coisa.)\r\n"
  }
 ]

@@ -2,57 +2,57 @@
  {
   "offset": 213,
   "en": "\r\n//　出帆から五分。\r\n//　\r\n//　――――時間だ。\r\n  Five minutes have passed since takeoff.\r\n\r\n  Time to make my move.\r\n",
-  "pt": ""
+  "pt": "\r\n//　出帆から五分。\r\n//　\r\n//　――――時間だ。\r\n  Cinco minutos desde a decolagem.\r\n\r\n  ――Hora de agir.\r\n"
  },
  {
   "offset": 359,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260010a00'>\r\n//（村正）\r\n(Muramasa?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260010a00'>\r\n//（村正）\r\n(Muramasa?)\r\n"
  },
  {
   "offset": 480,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260020a01'>\r\n//《……御堂？》\r\n《...Mido?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260020a01'>\r\n//《……御堂？》\r\n《...Mido?》\r\n"
  },
  {
   "offset": 619,
   "en": "\r\n//　数日ぶりの<RUBY text='こえ'>金打声</RUBY>を聴く。\r\n//　大鳥大尉は打ち合わせ通りに行動している――そう\r\n//いう事だ。\r\n  When I hear Muramasa's voice for the first time in days, I know that Captain Otori is following the plan.\r\n",
-  "pt": ""
+  "pt": "\r\n//　数日ぶりの<RUBY text='こえ'>金打声</RUBY>を聴く。\r\n//　大鳥大尉は打ち合わせ通りに行動している――そう\r\n//いう事だ。\r\n  Ouvir a voz de Muramasa pela primeira vez em dias me diz que o Capitão Otori está seguindo o plano.\r\n"
  },
  {
   "offset": 903,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260030a00'>\r\n//（すぐに動ける状態にあるか）\r\n(Are you mobile?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260030a00'>\r\n//（すぐに動ける状態にあるか）\r\n(Você está em condições de se mover?)\r\n"
  },
  {
   "offset": 1060,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260040a01'>\r\n//《ええ。もう閉じ込められてはいないから。\r\n//　それで？　つい<RUBY text='さっき'>先刻</RUBY>まで私を忌々しい箱に\r\n//押し込めてくれていたあの女を、噛み殺して\r\n//やる必要はないって話だけれど？》\r\n《Sure, now that I'm not stuck in that box. Speaking of which, your friend who shoved me in there said I shouldn't bite her head off. Is she right?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260040a01'>\r\n//《ええ。もう閉じ込められてはいないから。\r\n//　それで？　つい<RUBY text='さっき'>先刻</RUBY>まで私を忌々しい箱に\r\n//押し込めてくれていたあの女を、噛み殺して\r\n//やる必要はないって話だけれど？》\r\n《Claro, agora que não estou mais presa naquela caixa. Falando nisso, sua amiga que me enfiou lá dentro disse que eu não devia arrancar a cabeça dela. Ela tem razão?》\r\n"
  },
  {
   "offset": 1585,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260050a00'>\r\n//（大尉から事の説明を受けたのか）\r\n(Did she explain the <br>situation?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260050a00'>\r\n//（大尉から事の説明を受けたのか）\r\n(Ela explicou a situação?)\r\n"
  },
  {
   "offset": 1767,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260060a01'>\r\n//《聞いたのはそこまでよ。\r\n//　後は貴方に訊けって》\r\n《We didn't get that far. She said I should get the details from you.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260060a01'>\r\n//《聞いたのはそこまでよ。\r\n//　後は貴方に訊けって》\r\n《Só me contou até aí. Disse que o resto era para eu perguntar a você.》\r\n"
  },
  {
   "offset": 2017,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260070a00'>\r\n//（良し。\r\n//　ここまで来られるな？）\r\n(Good. Can you get to me?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260070a00'>\r\n//（良し。\r\n//　ここまで来られるな？）\r\n(Bom. Consegue chegar até mim?)\r\n"
  },
  {
   "offset": 2193,
   "en": "\r\n//　金打声の感覚から、村正との距離はおよそ三百<RUBY text='メートル'>米</RUBY>。\r\n//　兵士の目を掻い潜って踏破するにはやや長い間だが、\r\n//隠形の技を心得た<RUBY text='ムラマサ'>赤蜘蛛</RUBY>ならば――\r\n  By the texture of her transmissions, I sense that Muramasa is approximately three hundred meters away. It's a considerable distance to traverse undetected, though with Muramasa's stealth capabilities―\r\n",
-  "pt": ""
+  "pt": "\r\n//　金打声の感覚から、村正との距離はおよそ三百<RUBY text='メートル'>米</RUBY>。\r\n//　兵士の目を掻い潜って踏破するにはやや長い間だが、\r\n//隠形の技を心得た<RUBY text='ムラマサ'>赤蜘蛛</RUBY>ならば――\r\n  Pela sensação da transmissão, percebo que Muramasa está a cerca de trezentos metros de distância. É uma distância considerável para percorrer sem ser detectada, mas com as capacidades de furtividade de Muramasa―\r\n"
  },
  {
   "offset": 2682,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260080a01'>\r\n//《当たり前よ！\r\n//　ここ数日間の<RUBY text='ふなずし'>鮒鮨</RUBY>扱いで溜まりに溜まった\r\n//この鬱屈、いま晴らさないでいつ晴らすかっ\r\n//てぇの！》\r\n《You bet I can! And you better believe that㉓<I>someone's</I> gonna pay for trying to turn me into fermented sushi!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260080a01'>\r\n//《当たり前よ！\r\n//　ここ数日間の<RUBY text='ふなずし'>鮒鮨</RUBY>扱いで溜まりに溜まった\r\n//この鬱屈、いま晴らさないでいつ晴らすかっ\r\n//てぇの！》\r\n《Com certeza consigo! E é bom que acredite que ㉓<I>alguém</I> vai pagar por tentar me transformar em sushi fermentado!》\r\n"
  },
  {
   "offset": 3108,
@@ -62,41 +62,41 @@
  {
   "offset": 3232,
   "en": "\r\n//　いや、まあ。\r\n//　この際もうそれでも構わないのだが。\r\n  ...I suppose that's fair.\r\n",
-  "pt": ""
+  "pt": "\r\n//　いや、まあ。\r\n//　この際もうそれでも構わないのだが。\r\n  ...Suponho que seja justo.\r\n"
  },
  {
   "offset": 3354,
   "en": "\r\n//◆ボイス「ヘ、ヘルズエージェントッ!?」\r\n//【ｅｔｃ／ＧＨＱ見張り】\r\n<voice name='ｅｔｃ／ＧＨＱ見張り' class='その他男声' src='voice/mc02/0260100e000'>\r\n//「じ、地獄からの使者ーーーーー!?」\r\n\"IT'S A DEMON!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆ボイス「ヘ、ヘルズエージェントッ!?」\r\n//【ｅｔｃ／ＧＨＱ見張り】\r\n<voice name='ｅｔｃ／ＧＨＱ見張り' class='その他男声' src='voice/mc02/0260100e000'>\r\n//「じ、地獄からの使者ーーーーー!?」\r\n\"É UM DEMÔNIO!\"\r\n"
  },
  {
   "offset": 3635,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260110a01'>\r\n//《親愛なる隣人よ！》\r\n《Nope! Just your friendly neighborhood spider!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260110a01'>\r\n//《親愛なる隣人よ！》\r\n《Não! Apenas a aranha amigável da vizinhança!》\r\n"
  },
  {
   "offset": 3820,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260120a01'>\r\n//《ふぅ。\r\n//　せいせいした》\r\n《Phew. That's better.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/0260120a01'>\r\n//《ふぅ。\r\n//　せいせいした》\r\n《Ufa. Bem melhor.》\r\n"
  },
  {
   "offset": 3990,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260130a00'>\r\n//「……それは良かったと言っておくが」\r\n\"...I'm glad you're satisfied.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260130a00'>\r\n//「……それは良かったと言っておくが」\r\n\"...Fico feliz que esteja satisfeita.\"\r\n"
  },
  {
   "offset": 4173,
   "en": "\r\n//　重ねて無駄口を叩く余裕はなかった。\r\n//　この部屋に向かって殺到する、数十人規模の足音を\r\n//既に耳孔は捉えている。\r\n  The sound of a dozen or so men racing down the hallway tells me that there's no more time for chatter. My first order of business is to ensure that I remain ignorant of the fate awaiting prisoners who fail to escape.\r\n\r\n//　脱走を試みて失敗した捕虜の運命なるものについて\r\n//無知でいるためには、寸暇を惜しんで動くしかない。\r\n",
-  "pt": ""
+  "pt": "\r\n//　重ねて無駄口を叩く余裕はなかった。\r\n//　この部屋に向かって殺到する、数十人規模の足音を\r\n//既に耳孔は捉えている。\r\n  O som de dezenas de homens correndo pelo corredor em direção a este quarto já alcança meus ouvidos, e não há mais tempo para conversa. Minha primeira providência é garantir que eu continue ignorante do destino reservado aos prisioneiros que fracassam na fuga.\r\n\r\n//　脱走を試みて失敗した捕虜の運命なるものについて\r\n//無知でいるためには、寸暇を惜しんで動くしかない。\r\n"
  },
  {
   "offset": 4728,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260140a00'>\r\n//「鬼に逢うては鬼を斬る。\r\n//　仏に逢うては仏を斬る」\r\n<center>\"Where there are demons,\r\nI slay them.\r\nWhere there are saints,\r\nI slay them.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260140a00'>\r\n//「鬼に逢うては鬼を斬る。\r\n//　仏に逢うては仏を斬る」\r\n<center>\"Onde há demônios,\r\neu os corto.\r\nOnde há santos,\r\neu os corto.\"\r\n"
  },
  {
   "offset": 4988,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260150a00'>\r\n//「ツルギの理ここに在り」\r\n<center>\"Mine is the Way of the Sword!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/0260150a00'>\r\n//「ツルギの理ここに在り」\r\n<center>\"Eis o Caminho da Espada!\"\r\n"
  }
 ]

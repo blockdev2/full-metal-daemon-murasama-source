@@ -2,52 +2,52 @@
  {
   "offset": 213,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320010b37'>\r\n//「……そう。別に私を屠る必要はない。\r\n//　貴方の勝利は私を倒すことではなく、この\r\n//城から脱出を果たすことで得られるのだから」\r\n\"...Well done. Despite what I said, you never needed to defeat me, only to get past me.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320020b37'>\r\n//「必要だったのは私を倒す方法ではなく私を\r\n//突破する方法……それは武者なら造作もない。\r\n//　そこに気付いた時点で貴方の勝ち。気付か\r\n//れた時点で私の負けです」\r\n\"And for a musha, that is as simple as sacrificing an arm. The moment you realized this, victory was yours.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320030b37'>\r\n//「<RUBY text='・・'>口車</RUBY>も、乗せられなければそれまでの事。\r\n//　私もとんだ道化ですね」\r\n\"Wily words mean nothing if your opponent sees through them. It seems I have played the fool tonight.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320010b37'>\r\n//「……そう。別に私を屠る必要はない。\r\n//　貴方の勝利は私を倒すことではなく、この\r\n//城から脱出を果たすことで得られるのだから」\r\n\"…Muito bem. Apesar do que eu disse, você nunca precisou me derrotar, apenas passar por mim.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320020b37'>\r\n//「必要だったのは私を倒す方法ではなく私を\r\n//突破する方法……それは武者なら造作もない。\r\n//　そこに気付いた時点で貴方の勝ち。気付か\r\n//れた時点で私の負けです」\r\n\"E para um musha, isso é tão simples quanto sacrificar um braço. No momento em que percebeu isso, a vitória foi sua.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320030b37'>\r\n//「<RUBY text='・・'>口車</RUBY>も、乗せられなければそれまでの事。\r\n//　私もとんだ道化ですね」\r\n\"Palavras astutas de nada valem se o oponente as desvenda. Parece que fiz o papel de tolo esta noite.\"\r\n"
  },
  {
   "offset": 1359,
   "en": "\r\n//【ｅｔｃ／厩衆Ａ】\r\n<voice name='ｅｔｃ／厩衆Ａ' class='その他男声' src='voice/mb02/0320040e023'>\r\n//「頭領！」\r\n\"Master!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ａ】\r\n<voice name='ｅｔｃ／厩衆Ａ' class='その他男声' src='voice/mb02/0320040e023'>\r\n//「頭領！」\r\n\"Mestre!\"\r\n"
  },
  {
   "offset": 1521,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320050b37'>\r\n//「遅いですよ」\r\n\"You're late.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320050b37'>\r\n//「遅いですよ」\r\n\"Você chegou tarde.\"\r\n"
  },
  {
   "offset": 1663,
   "en": "\r\n//【ｅｔｃ／厩衆Ａ】\r\n<voice name='ｅｔｃ／厩衆Ａ' class='その他男声' src='voice/mb02/0320060e023'>\r\n//「申し訳ございませぬ！\r\n//　組頭が倒されたため、連絡が混乱し――」\r\n\"Our apologies, sir! The captain was knocked unconscious, so there was some confusion...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ａ】\r\n<voice name='ｅｔｃ／厩衆Ａ' class='その他男声' src='voice/mb02/0320060e023'>\r\n//「申し訳ございませぬ！\r\n//　組頭が倒されたため、連絡が混乱し――」\r\n\"Nossas desculpas, senhor! O capitão foi nocauteado, então houve alguma confusão...\"\r\n"
  },
  {
   "offset": 1987,
   "en": "\r\n//【ｅｔｃ／厩衆Ｂ】\r\n<voice name='ｅｔｃ／厩衆Ｂ' class='その他男声' src='voice/mb02/0320070e024'>\r\n//「外でも何か異変があった様子で……」\r\n\"And there's something happening outside. We don't know what.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ｂ】\r\n<voice name='ｅｔｃ／厩衆Ｂ' class='その他男声' src='voice/mb02/0320070e024'>\r\n//「外でも何か異変があった様子で……」\r\n\"E há algo acontecendo lá fora. Não sabemos o quê.\"\r\n"
  },
  {
   "offset": 2241,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320080b37'>\r\n//「？　……わかりました。\r\n//　貴方達は侵入者を追いなさい」\r\n\"Outside? ...Very well. Resume your pursuit of the enemy.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320080b37'>\r\n//「？　……わかりました。\r\n//　貴方達は侵入者を追いなさい」\r\n\"Lá fora? ...Muito bem. Retomem a perseguição ao inimigo.\"\r\n"
  },
  {
   "offset": 2491,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320090b37'>\r\n//「<RUBY text='・・・'>あちら</RUBY>へ向かいました。\r\n//　逃がしてはなりません！」\r\n\"He went㉗<I>that way.</I> Do not let him escape!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320090b37'>\r\n//「<RUBY text='・・・'>あちら</RUBY>へ向かいました。\r\n//　逃がしてはなりません！」\r\n\"Ele foi㉗<I>naquela direção.</I> Não o deixem escapar!\"\r\n"
  },
  {
   "offset": 2758,
   "en": "\r\n//【ｅｔｃ／厩衆Ａ】\r\n<voice name='ｅｔｃ／厩衆Ａ' class='その他男声' src='voice/mb02/0320100e023'>\r\n//「はッ！」\r\n\"Yes sir!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ａ】\r\n<voice name='ｅｔｃ／厩衆Ａ' class='その他男声' src='voice/mb02/0320100e023'>\r\n//「はッ！」\r\n\"Sim, senhor!\"\r\n"
  },
  {
   "offset": 2921,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320110b37'>\r\n//「……何をしているのです？」\r\n\"...What are you waiting for?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320110b37'>\r\n//「……何をしているのです？」\r\n\"...O que estão esperando?\"\r\n"
  },
  {
   "offset": 3100,
   "en": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320120e025'>\r\n//「あの……頭領。\r\n//　ぼく――いえ、自分の熱源探査は、あちら\r\n//ではなく<RUBY text='・・・'>こちら</RUBY>に侵入者らしき反応を捉えて\r\n//いるのですが……」\r\n\"Um... Master? My thermal scans suggest that the target went㉗<I>this</I>㉓way... not...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320120e025'>\r\n//「あの……頭領。\r\n//　ぼく――いえ、自分の熱源探査は、あちら\r\n//ではなく<RUBY text='・・・'>こちら</RUBY>に侵入者らしき反応を捉えて\r\n//いるのですが……」\r\n\"Hã... Mestre? Meus sensores térmicos indicam que o alvo foi㉗<I>por este</I>㉓caminho... não...\"\r\n"
  },
  {
   "offset": 3542,
@@ -57,67 +57,67 @@
  {
   "offset": 3675,
   "en": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320140e025'>\r\n//「か、か、勘違いでしょぉか？」\r\n\"A- Am I mistaken?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320140e025'>\r\n//「か、か、勘違いでしょぉか？」\r\n\"E- Eu me enganei?\"\r\n"
  },
  {
   "offset": 3877,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320150b37'>\r\n//「宗虎」\r\n\"Munetora.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320150b37'>\r\n//「宗虎」\r\n\"Munetora.\"\r\n"
  },
  {
   "offset": 4007,
   "en": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320160e025'>\r\n//「は……はい。頭領」\r\n\"Y- Yes, Master?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320160e025'>\r\n//「は……はい。頭領」\r\n\"S- Sim, Mestre?\"\r\n"
  },
  {
   "offset": 4192,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320170b37'>\r\n//「今は伯父と呼びなさい」\r\n\"You may call me Uncle.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320170b37'>\r\n//「今は伯父と呼びなさい」\r\n\"Pode me chamar de tio.\"\r\n"
  },
  {
   "offset": 4359,
   "en": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320180e025'>\r\n//「は、はい。伯父上」\r\n\"O- Oh. Yes, Uncle?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320180e025'>\r\n//「は、はい。伯父上」\r\n\"A- Ah. Sim, tio?\"\r\n"
  },
  {
   "offset": 4547,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320190b37'>\r\n//「お前は今年の春、討死した兄君に代わって\r\n//出仕を始めたばかりでしたね？」\r\n\"You joined us just last spring, didn't you? In place of your late elder brother.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320190b37'>\r\n//「お前は今年の春、討死した兄君に代わって\r\n//出仕を始めたばかりでしたね？」\r\n\"Você entrou para o nosso serviço apenas na primavera passada, não foi? No lugar do seu falecido irmão mais velho.\"\r\n"
  },
  {
   "offset": 4845,
   "en": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320200e025'>\r\n//「はい」\r\n\"I did.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320200e025'>\r\n//「はい」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 5003,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320210b37'>\r\n//「わずか半年ばかり。\r\n//　にも拘わらず、お前が一番落ち着いていて、\r\n//状況を正しく把握した……」\r\n\"Only six months... and already you are the most discerning of your peers. The only one who judged the situation㉓<I>correctly.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320210b37'>\r\n//「わずか半年ばかり。\r\n//　にも拘わらず、お前が一番落ち着いていて、\r\n//状況を正しく把握した……」\r\n\"Apenas seis meses... e você já é o mais perspicaz entre seus pares. O único que avaliou a situação㉓<I>corretamente.</I>\"\r\n"
  },
  {
   "offset": 5383,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320220b37'>\r\n//「行く末が楽しみです」\r\n\"You have such potential.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320220b37'>\r\n//「行く末が楽しみです」\r\n\"Você tem tanto potencial.\"\r\n"
  },
  {
   "offset": 5549,
   "en": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320230e025'>\r\n//「お……伯父上……」\r\n\"Uncle... Thank you!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320230e025'>\r\n//「お……伯父上……」\r\n\"Tio... Obrigado!\"\r\n"
  },
  {
   "offset": 5738,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320240b37'>\r\n//「いえ。\r\n//　楽しみでした」\r\n\"Yes... It's truly a pity.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320250b37'>\r\n//「お前の<RUBY text='・・・'>行く末</RUBY>がここまでとは。\r\n//　本当に残念です」\r\n\"All that potential... wasted.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320240b37'>\r\n//「いえ。\r\n//　楽しみでした」\r\n\"Sim... É uma pena, de verdade.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320250b37'>\r\n//「お前の<RUBY text='・・・'>行く末</RUBY>がここまでとは。\r\n//　本当に残念です」\r\n\"Todo aquele potencial... desperdiçado.\"\r\n"
  },
  {
   "offset": 6148,
   "en": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320260e025'>\r\n//「え――」\r\n\"Uh―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／厩衆Ｃ】\r\n<voice name='ｅｔｃ／厩衆Ｃ' class='その他男声' src='voice/mb02/0320260e025'>\r\n//「え――」\r\n\"Hã―\"\r\n"
  },
  {
   "offset": 6308,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320270b37'>\r\n//「次があるなら、必ず愚鈍な人間にお生まれ\r\n//なさい。\r\n//　……<RUBY text='でうす'>神</RUBY>よ。我が罪を赦し給え」\r\n\"If there is a next life, pray that you are born a fool instead.\r\n  ...May God forgive me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320270b37'>\r\n//「次があるなら、必ず愚鈍な人間にお生まれ\r\n//なさい。\r\n//　……<RUBY text='でうす'>神</RUBY>よ。我が罪を赦し給え」\r\n\"Se houver uma próxima vida, reze para nascer um tolo.\"\r\n  \"...Que Deus me perdoe.\"\r\n"
  },
  {
   "offset": 6661,
@@ -127,6 +127,6 @@
  {
   "offset": 6788,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320290b37'>\r\n//「彼にはどうやら<RUBY text='・・'>資格</RUBY>がある。\r\n//　だから、生かすと決めたのですよ……」\r\n\"This is not his place to die. He has proven himself... worthy.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320300b37'>\r\n//「全ての運命。我々の総意思。\r\n//　……〝<RUBY text='グリューネドラヘ'>緑龍</RUBY>〟の翼の下に」\r\n\"Soon our dream will come to fruition... carried on the wings of the Green Dragon.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320290b37'>\r\n//「彼にはどうやら<RUBY text='・・'>資格</RUBY>がある。\r\n//　だから、生かすと決めたのですよ……」\r\n\"Este não é o lugar dele morrer. Ele provou... ser digno.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0320300b37'>\r\n//「全ての運命。我々の総意思。\r\n//　……〝<RUBY text='グリューネドラヘ'>緑龍</RUBY>〟の翼の下に」\r\n\"Em breve, nosso sonho se realizará... levado nas asas do Dragão Verde.\"\r\n"
  }
 ]

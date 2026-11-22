@@ -2,12 +2,12 @@
  {
   "offset": 213,
   "en": "\r\n//\tSetFwC('cg/fw/fw光_通常b.png');\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0320010a14'>\r\n//「よし!!」\r\n\"YES!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//\tSetFwC('cg/fw/fw光_通常b.png');\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0320010a14'>\r\n//「よし!!」\r\n\"ISSO!\"\r\n"
  },
  {
   "offset": 361,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0320020a07'>\r\n//「ちょっ……\r\n//　あんた一体どこまで超人なの!?」\r\n\"Whoa! What kind of wizard are you!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0320020a07'>\r\n//「ちょっ……\r\n//　あんた一体どこまで超人なの!?」\r\n\"Uau! Que tipo de mago você é!?\"\r\n"
  },
  {
   "offset": 574,
@@ -17,7 +17,7 @@
  {
   "offset": 586,
   "en": "Why not?",
-  "pt": ""
+  "pt": "Por que não?"
  },
  {
   "offset": 602,
@@ -27,7 +27,7 @@
  {
   "offset": 614,
   "en": "Might as well.",
-  "pt": ""
+  "pt": "Melhor assim."
  },
  {
   "offset": 636,
@@ -37,6 +37,6 @@
  {
   "offset": 648,
   "en": "Guess I'd better.",
-  "pt": ""
+  "pt": "Acho melhor eu ir."
  }
 ]

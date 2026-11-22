@@ -2,22 +2,22 @@
  {
   "offset": 219,
   "en": "\r\n//　ここも倉庫だ。\r\n//　最初の場所と比べると、机や<RUBY text='カート'>台車</RUBY>など<RUBY text='かさば'>嵩張</RUBY>るものが\r\n//多い。\r\n\r\n//　隠れ場所とするには格好かもしれないが、とりあえ\r\n//ず今の俺には無用だ。\r\n//　次の行動に移ろう。\r\n\r\n//　船尾方向の扉をくぐれば、最初の倉庫へ戻ることに\r\n//なる。\r\n//　それが嫌なら、船首に向かって左側にある扉を通る\r\n//しかない。\r\n  Another storeroom. This one is full of desks and trolley carts. It might make a decent hiding place, but now isn't the time for that. \r\n\r\n  The aft door will take me back to where I entered. Otherwise, my only choice is to exit through the door to my left.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ここも倉庫だ。\r\n//　最初の場所と比べると、机や<RUBY text='カート'>台車</RUBY>など<RUBY text='かさば'>嵩張</RUBY>るものが\r\n//多い。\r\n\r\n//　隠れ場所とするには格好かもしれないが、とりあえ\r\n//ず今の俺には無用だ。\r\n//　次の行動に移ろう。\r\n\r\n//　船尾方向の扉をくぐれば、最初の倉庫へ戻ることに\r\n//なる。\r\n//　それが嫌なら、船首に向かって左側にある扉を通る\r\n//しかない。\r\n  Outro depósito. Este está cheio de mesas e carrinhos de transporte. Poderia ser um bom esconderijo, mas agora não é hora para isso. \r\n\r\n  A porta de ré me levará de volta ao lugar por onde entrei. Caso contrário, minha única opção é sair pela porta à minha esquerda.\r\n"
  },
  {
   "offset": 998,
   "en": "\r\n//　扉を開けようとした俺を、永倉侍従がそっと制した。\r\n  As I move toward the door, Miss Nagakura preempts me.\r\n",
-  "pt": ""
+  "pt": "\r\n//　扉を開けようとした俺を、永倉侍従がそっと制した。\r\n  Quando me aproximo da porta, a Senhorita Nagakura se antecipa a mim.\r\n"
  },
  {
   "offset": 1144,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0060a04'>\r\n//（お待ちを）\r\n(Just a moment, sir.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0060a04'>\r\n//（お待ちを）\r\n(Só um momento, senhor.)\r\n"
  },
  {
   "offset": 1283,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0070a00'>\r\n//（……何か？）\r\n(Is something the matter?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0070a00'>\r\n//（……何か？）\r\n(Aconteceu algo?)\r\n"
  },
  {
   "offset": 1430,
@@ -27,47 +27,47 @@
  {
   "offset": 1490,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0080a04'>\r\n//（中に誰かおりまする。\r\n//　……武装した兵士ですな……）\r\n(There's someone inside. A soldier, I believe. Armed.)\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0090a04'>\r\n//（何かを探している様子）\r\n(He's looking for something.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0080a04'>\r\n//（中に誰かおりまする。\r\n//　……武装した兵士ですな……）\r\n(Há alguém lá dentro. Um soldado, creio. Armado.)\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0090a04'>\r\n//（何かを探している様子）\r\n(Ele está procurando alguma coisa.)\r\n"
  },
  {
   "offset": 1883,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0100a00'>\r\n//（……隠れている人間がいないか？）\r\n(...Us?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0100a00'>\r\n//（……隠れている人間がいないか？）\r\n(...Nós?)\r\n"
  },
  {
   "offset": 2042,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0110a04'>\r\n//（まぁ左様かと）\r\n(That seems likely.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0110a04'>\r\n//（まぁ左様かと）\r\n(É bem provável.)\r\n"
  },
  {
   "offset": 2186,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031so0120a03'>\r\n//（どうしましょうね？）\r\n(What shall we do?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031so0120a03'>\r\n//（どうしましょうね？）\r\n(O que faremos?)\r\n"
  },
  {
   "offset": 2347,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0130a00'>\r\n//（わざわざ衝突することもありません。\r\n//　ここは後に回し、別の場所を調べましょう）\r\n(We should avoid conflict, search this place later.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0130a00'>\r\n//（わざわざ衝突することもありません。\r\n//　ここは後に回し、別の場所を調べましょう）\r\n(Devemos evitar o confronto, revistar este lugar mais tarde.)\r\n"
  },
  {
   "offset": 2620,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0140a04'>\r\n//（――とも参りませぬようで）\r\n(I'm afraid that's not an option.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0140a04'>\r\n//（――とも参りませぬようで）\r\n(Receio que isso não seja uma opção.)\r\n"
  },
  {
   "offset": 2796,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0150a00'>\r\n//（侍従殿？）\r\n(Pardon?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0150a00'>\r\n//（侍従殿？）\r\n(Como diz?)\r\n"
  },
  {
   "offset": 2923,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0160a04'>\r\n//（来ますぞ）\r\n(He's coming.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0160a04'>\r\n//（来ますぞ）\r\n(Ele vem.)\r\n"
  },
  {
   "offset": 3055,
   "en": "\r\n//　来る？\r\n//　\r\n//　――捜査を終え、部屋から出ようとしているのか！\r\n\r\n//　今から隠れても間に合うまい。\r\n//　先手を打って部屋に飛び込み、制圧するしかない。\r\n\r\n//　騒ぐ余裕を与え、仲間を呼び寄せられては面倒な事\r\n//になる。\r\n//　一撃で無力化しなくてはならないが――\r\n  Coming? The soldier's about to leave the room?\r\n\r\n  Then there's no time to hide. We should take the initiative: get inside and neutralize him before he can raise the alarm.\r\n",
-  "pt": ""
+  "pt": "\r\n//　来る？\r\n//　\r\n//　――捜査を終え、部屋から出ようとしているのか！\r\n\r\n//　今から隠れても間に合うまい。\r\n//　先手を打って部屋に飛び込み、制圧するしかない。\r\n\r\n//　騒ぐ余裕を与え、仲間を呼び寄せられては面倒な事\r\n//になる。\r\n//　一撃で無力化しなくてはならないが――\r\n  Vem? O soldado está prestes a sair da sala?\r\n\r\n  Então não há tempo para se esconder. Devemos tomar a iniciativa: entrar e neutralizá-lo antes que ele possa dar o alarme.\r\n"
  },
  {
   "offset": 3623,
@@ -82,22 +82,22 @@
  {
   "offset": 3872,
   "en": "\r\n//　皆が同じ結論に達していることは<RUBY text='アイコンタクト'>視線通話</RUBY>で知れた。\r\n//　後は、誰が実行するかだ。戸口の広さは二人以上が\r\n//同時に飛び込むのを許しそうにない。\r\n\r\n//　決めよう。\r\n//　突入するのは……\r\n  A shared glance tells us that we've all reached the same conclusion. All that remains is to decide who will execute it. The door is not wide enough for more than one of us to enter at a time.\r\n\r\n  Who will it be?\r\n",
-  "pt": ""
+  "pt": "\r\n//　皆が同じ結論に達していることは<RUBY text='アイコンタクト'>視線通話</RUBY>で知れた。\r\n//　後は、誰が実行するかだ。戸口の広さは二人以上が\r\n//同時に飛び込むのを許しそうにない。\r\n\r\n//　決めよう。\r\n//　突入するのは……\r\n  Um olhar compartilhado nos diz que todos chegamos à mesma conclusão. Resta apenas decidir quem vai executá-la. A porta não é larga o bastante para mais de um de nós entrar por vez.\r\n\r\n  Quem será?\r\n"
  },
  {
   "offset": 4405,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0190a04'>\r\n//（湊斗さま）\r\n(Sir.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0190a04'>\r\n//（湊斗さま）\r\n(Senhor.)\r\n"
  },
  {
   "offset": 4529,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0200a00'>\r\n//（……まさか、また？）\r\n(Again?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031so0200a00'>\r\n//（……まさか、また？）\r\n(De novo?)\r\n"
  },
  {
   "offset": 4670,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0210a04'>\r\n//（はい。\r\n//　先刻の者が目覚めたのか、それとも新たに\r\n//別の兵が来たのかはわかりませぬが……）\r\n(I'm afraid so, though I can't say whether it's a different soldier or the same man, recovered.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031so0210a04'>\r\n//（はい。\r\n//　先刻の者が目覚めたのか、それとも新たに\r\n//別の兵が来たのかはわかりませぬが……）\r\n(Receio que sim, embora não possa dizer se é um soldado diferente ou o mesmo homem, recuperado.)\r\n"
  },
  {
   "offset": 5003,
@@ -107,17 +107,17 @@
  {
   "offset": 5129,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031so0230a03'>\r\n//（どうなさいますの？）\r\n(How shall we proceed?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031so0230a03'>\r\n//（どうなさいますの？）\r\n(Como procederemos?)\r\n"
  },
  {
   "offset": 5294,
   "en": "\r\n//　扉の向こうから、足音がこちらへ近付いてくる――\r\n//やはり隠れる暇は無さそうだ。\r\n//　とすれば、制圧あるのみだが。\r\n\r\n//　さて、今度は誰が？\r\n  Footsteps approach from the other side of the door. Who will take care of it this time?\r\n",
-  "pt": ""
+  "pt": "\r\n//　扉の向こうから、足音がこちらへ近付いてくる――\r\n//やはり隠れる暇は無さそうだ。\r\n//　とすれば、制圧あるのみだが。\r\n\r\n//　さて、今度は誰が？\r\n  Passos se aproximam do outro lado da porta. Quem vai cuidar disso desta vez?\r\n"
  },
  {
   "offset": 5602,
   "en": "\r\n//　……部屋は先刻見た時と何も変わらない。\r\n//　床に倒れ伏した兵士もそのままだ。\r\n\r\n//　俺達は廊下へ戻った。\r\n  Nothing has changed from a moment ago. The soldier is still unconscious on the floor.\r\n\r\n  I return to the hallway.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……部屋は先刻見た時と何も変わらない。\r\n//　床に倒れ伏した兵士もそのままだ。\r\n\r\n//　俺達は廊下へ戻った。\r\n  Nada mudou desde um instante atrás. O soldado continua inconsciente no chão.\r\n\r\n  Volto ao corredor.\r\n"
  },
  {
   "offset": 5889,
@@ -142,7 +142,7 @@
  {
   "offset": 5970,
   "en": "Captain Otori",
-  "pt": ""
+  "pt": "Capitão Otori"
  },
  {
   "offset": 5991,
@@ -152,6 +152,6 @@
  {
   "offset": 6003,
   "en": "Miss Nagakura",
-  "pt": ""
+  "pt": "Senhorita Nagakura"
  }
 ]

@@ -2,7 +2,7 @@
  {
   "offset": 215,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/029vs0010a00'>\r\n//「……柳生常闇斎」\r\n\"...Yagyu Jo'ansai.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/029vs0010a00'>\r\n//「……柳生常闇斎」\r\n\"...Yagyu Jo'ansai.\"\r\n"
  },
  {
   "offset": 362,
@@ -12,32 +12,32 @@
  {
   "offset": 491,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/029vs0030a00'>\r\n//「相違なかろうか」\r\n\"Do I guess correctly?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/029vs0030a00'>\r\n//「相違なかろうか」\r\n\"Estou certo?\"\r\n"
  },
  {
   "offset": 641,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0040b37'>\r\n//「私は裏方の者。\r\n//　敵に名乗る習慣は持ちません」\r\n\"We of the shadows are not in the habit of introducing ourselves to our enemies.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0040b37'>\r\n//「私は裏方の者。\r\n//　敵に名乗る習慣は持ちません」\r\n\"Nós, os das sombras, não temos o hábito de nos apresentar aos nossos inimigos.\"\r\n"
  },
  {
   "offset": 904,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0050b37'>\r\n//「が……貴方は特別です」\r\n\"However... for you, I will make an exception.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0050b37'>\r\n//「が……貴方は特別です」\r\n\"Contudo... para você, abrirei uma exceção.\"\r\n"
  },
  {
   "offset": 1096,
   "en": "\r\n//　それはつまり、認めるという意味だ。\r\n//　その名称で呼ばわれる事を。\r\n\r\n//　――柳生常闇斎。\r\n//　幕府門外不出の武芸、柳生新陰流六波羅派の現宗主。\r\n//幕軍剣術師範にして足利一族直衛隊〝厩衆〟の統括者\r\n//……\r\n\r\n//　つまりは大和第一位の剣客！\r\n  With a subtle tilt of his head, he acknowledges the name.\r\n\r\n  I was right. This man is Yagyu Jo'ansai, the leader of the Ashikaga clan's bodyguard, the Grandmaster of the Rokuhara Shinkage-<br>ryu―<K>and the most feared swordsman in Yamato!\r\n",
-  "pt": ""
+  "pt": "\r\n//　それはつまり、認めるという意味だ。\r\n//　その名称で呼ばわれる事を。\r\n\r\n//　――柳生常闇斎。\r\n//　幕府門外不出の武芸、柳生新陰流六波羅派の現宗主。\r\n//幕軍剣術師範にして足利一族直衛隊〝厩衆〟の統括者\r\n//……\r\n\r\n//　つまりは大和第一位の剣客！\r\n  Com uma leve inclinação da cabeça, ele reconhece o nome.\r\n\r\n  Eu estava certo. Este homem é Yagyu Jo'ansai, o comandante da guarda pessoal do clã Ashikaga, o Grão-Mestre da Shinkage-ryu da Rokuhara―<K>e o espadachim mais temido de Yamato!\r\n"
  },
  {
   "offset": 1703,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0060b37'>\r\n//「〝切落〟だと思いましたか？」\r\n\"You were expecting kiri-otoshi?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0060b37'>\r\n//「〝切落〟だと思いましたか？」\r\n\"Esperava o kiri-otoshi?\"\r\n"
  },
  {
   "offset": 1890,
   "en": "\r\n//　武界の頂上にいる男は、俺の左手を指差しつつそう\r\n//言ってきた。\r\n//　手首から先を失っているその手。\r\n  He points to my left hand, which ends abruptly at the wrist.\r\n",
-  "pt": ""
+  "pt": "\r\n//　武界の頂上にいる男は、俺の左手を指差しつつそう\r\n//言ってきた。\r\n//　手首から先を失っているその手。\r\n  Ele aponta para a minha mão esquerda, que termina abruptamente no pulso.\r\n"
  },
  {
   "offset": 2114,
@@ -47,57 +47,57 @@
  {
   "offset": 2234,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0080b37'>\r\n//「一刀流の真髄〝切落〟は相手の剣と対称の\r\n//一撃をもって勝を取る……\r\n//　その秘訣は」\r\n\"Kiri-otoshi, as perfected by the Itto-ryu, is a technique for countering your opponent by striking into his attack. In order to accomplish this...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0080b37'>\r\n//「一刀流の真髄〝切落〟は相手の剣と対称の\r\n//一撃をもって勝を取る……\r\n//　その秘訣は」\r\n\"O kiri-otoshi, aperfeiçoado pelo Itto-ryu, é uma técnica para vencer o oponente golpeando dentro do ataque dele. Para conseguir isso...\"\r\n"
  },
  {
   "offset": 2616,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0090b37'>\r\n//「<RUBY text='・・・'>遅れて</RUBY>――相手の剣筋を見切った上で動き。\r\n//それを<RUBY text='・・・・・'>切り落とす</RUBY>明確な意図をもって迎え、\r\n//刀と刀の打ち合いを制する点にあります。\r\n//　求められるのは運剣の精密さ」\r\n\"...you allow your opponent to strike first. You then determine his angle of attack and counter in such a way as to both deflect his sword and reach him with your own. This resembles cutting <I>through</I>㉓your opponent's strike, or cutting it㉓<I>down―</I>hence 'kiri-otoshi.' It relies on precise control of force.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0090b37'>\r\n//「<RUBY text='・・・'>遅れて</RUBY>――相手の剣筋を見切った上で動き。\r\n//それを<RUBY text='・・・・・'>切り落とす</RUBY>明確な意図をもって迎え、\r\n//刀と刀の打ち合いを制する点にあります。\r\n//　求められるのは運剣の精密さ」\r\n\"...você permite que o oponente ataque primeiro. Depois determina o ângulo do golpe dele e responde de modo a aparar a espada dele e ao mesmo tempo alcançá-lo com a sua. Isso se assemelha a cortar <I>através</I>㉓do golpe do oponente, ou a cortá-lo㉓<I>para baixo―</I>daí 'kiri-otoshi'. Depende de um controle preciso da força.\"\r\n"
  },
  {
   "offset": 3350,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0100b37'>\r\n//「我らの〝合撃〟はこれと似て非なるもの。\r\n//　相手の剣筋を見極めてから動くところまで\r\n//は同じ」\r\n\"The Shinkage-ryu's Gasshi is similar in concept, but differs greatly in execution. It also begins by striking into the opponent's attack.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0100b37'>\r\n//「我らの〝合撃〟はこれと似て非なるもの。\r\n//　相手の剣筋を見極めてから動くところまで\r\n//は同じ」\r\n\"O Gasshi da Shinkage-ryu é semelhante em conceito, mas difere muito na execução. Também começa golpeando dentro do ataque do oponente.\"\r\n"
  },
  {
   "offset": 3738,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0110b37'>\r\n//「しかしその先は精密さではなく効率を求め\r\n//ます。\r\n//　<RUBY text='・・・・'>大きな円</RUBY>を描く敵の剣筋の内側に、我が剣\r\n//は<RUBY text='・・・・'>小さな円</RUBY>を描き――」\r\n\"Instead of control, however, we chose efficiency. By describing a smaller circle <I>inside</I>㉓the larger one you present...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0110b37'>\r\n//「しかしその先は精密さではなく効率を求め\r\n//ます。\r\n//　<RUBY text='・・・・'>大きな円</RUBY>を描く敵の剣筋の内側に、我が剣\r\n//は<RUBY text='・・・・'>小さな円</RUBY>を描き――」\r\n\"Em vez do controle, porém, escolhemos a eficiência. Descrevendo um círculo menor <I>dentro</I>㉓do círculo maior que você apresenta...\"\r\n"
  },
  {
   "offset": 4215,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0120b37'>\r\n//「結果的に、相手よりも早く目標に達し。\r\n//　打ち合わず。<RUBY text='・・・・・'>乗り込んで</RUBY>。\r\n//　斬る」\r\n\"...we reach our destination <I>first.</I>㉑ There is no deflection, only a meeting. It is there the cut is made.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0130b37'>\r\n//「これが新陰流六波羅派の合撃です。\r\n//　……同じ新陰流でも解釈の相違があるので、\r\n//他の派ではまた異なる形で伝わっているよう\r\n//ですが」\r\n\"From this, we derive the name: Gasshi, the strike that meets. This is, of course, only one interpretation of the technique. Other Shinkage-<br>ryu traditions have their own.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0120b37'>\r\n//「結果的に、相手よりも早く目標に達し。\r\n//　打ち合わず。<RUBY text='・・・・・'>乗り込んで</RUBY>。\r\n//　斬る」\r\n\"...chegamos ao nosso destino <I>primeiro.</I>㉑ Não há aparo, apenas um encontro. É ali que o corte se dá.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0130b37'>\r\n//「これが新陰流六波羅派の合撃です。\r\n//　……同じ新陰流でも解釈の相違があるので、\r\n//他の派ではまた異なる形で伝わっているよう\r\n//ですが」\r\n\"Daí vem o nome: Gasshi, o golpe que se encontra. Esta é, claro, apenas uma interpretação da técnica. Outras tradições da Shinkage-ryu têm a sua própria.\"\r\n"
  },
  {
   "offset": 5065,
   "en": "\r\n//　面倒見の良い教師の顔付きで、彼はそう語る。\r\n//　出来の悪い生徒は、半分も理解できずにいたが。\r\n\r\n//　立ち上がりの遅れを効率的な運剣でカバー――いや\r\n//逆転させる、術。\r\n//　……わかったのはせいぜいがそこまで。\r\n\r\n//　真似はできないし、打ち破る方法も思いつかない。\r\n  As the master completes his lesson, I have to wonder if he's satisfied with his pupil. In all honesty, I understood perhaps half of what he said.\r\n\r\n  A technique that lets you recover―no,㉒<I>use</I>㉓the time lost responding to your opponent's attack. I grasp its nature, but nothing more.\r\n\r\n  I cannot hope to replicate the feat, nor can I imagine a method to counter it.\r\n",
-  "pt": ""
+  "pt": "\r\n//　面倒見の良い教師の顔付きで、彼はそう語る。\r\n//　出来の悪い生徒は、半分も理解できずにいたが。\r\n\r\n//　立ち上がりの遅れを効率的な運剣でカバー――いや\r\n//逆転させる、術。\r\n//　……わかったのはせいぜいがそこまで。\r\n\r\n//　真似はできないし、打ち破る方法も思いつかない。\r\n  Enquanto o mestre conclui sua lição, pergunto-me se ele está satisfeito com o aluno. Sinceramente, entendi talvez metade do que ele disse.\r\n\r\n  Uma técnica que permite recuperar―não,㉒<I>usar</I>㉓o tempo perdido ao responder ao ataque do oponente. Compreendo sua natureza, mas nada além disso.\r\n\r\n  Não tenho como replicar tal feito, nem consigo imaginar um método para me opor a ele.\r\n"
  },
  {
   "offset": 5846,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/029vs0140a01'>\r\n//《御堂……！》\r\n《Mido...!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/029vs0140a01'>\r\n//《御堂……！》\r\n《Mido...!》\r\n"
  },
  {
   "offset": 5987,
   "en": "\r\n//　だが余計な事は骨身に徹してよく理解してしまった。\r\n//　それは村正も同様だったのか。\r\n\r\n//　この男には勝てない。\r\n//　現時点、現状況下では――どう仕様もなく。\r\n\r\n//　腹腔に冷たいものが満ちる。\r\n//　それはおそらく、血と熱量を無為に垂れ流してゆく\r\n//左手首の切断面のせいばかりではなかった。\r\n  But I do understand one thing all too well―as, it seems, does Muramasa.\r\n\r\n  I cannot defeat this man. It is simply beyond my power.\r\n\r\n  A chill grows in the pit of my stomach, and not, I am certain, due solely to the blood loss from my severed hand.\r\n",
-  "pt": ""
+  "pt": "\r\n//　だが余計な事は骨身に徹してよく理解してしまった。\r\n//　それは村正も同様だったのか。\r\n\r\n//　この男には勝てない。\r\n//　現時点、現状況下では――どう仕様もなく。\r\n\r\n//　腹腔に冷たいものが満ちる。\r\n//　それはおそらく、血と熱量を無為に垂れ流してゆく\r\n//左手首の切断面のせいばかりではなかった。\r\n  Mas há uma coisa que compreendo muito bem―como, ao que parece, Muramasa também compreende.\r\n\r\n  Não posso derrotar este homem. Está simplesmente além do meu poder.\r\n\r\n  Um frio cresce no fundo do meu estômago, e não apenas, tenho certeza, por causa do sangue que perco da mão cortada.\r\n"
  },
  {
   "offset": 6676,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/029vs0150a01'>\r\n//《――全力で》\r\n《...Use my shinogi.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/029vs0150a01'>\r\n//《――全力で》\r\n《...Use a minha shinogi.》\r\n"
  },
  {
   "offset": 6827,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/029vs0160a00'>\r\n//（<RUBY text='いや'>否</RUBY>）\r\n(No.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/029vs0160a00'>\r\n//（<RUBY text='いや'>否</RUBY>）\r\n(Não.)\r\n"
  },
  {
   "offset": 6968,
   "en": "\r\n//　<RUBY text='おわりのながれ'>蒐窮磁装</RUBY>――<RUBY text='レールガン'>電磁抜刀</RUBY>の使用をも含めて戦術を検討\r\n//しろと、村正が云う。\r\n//　それはこの赤い劒冑にとって屈辱的な進言であった\r\n//に違いない。\r\n\r\n//　生身の人間を相手に総力を費やすなど！\r\n//　\r\n//　だが屈辱とは関係なしに、俺は進言を拒んだ。\r\n\r\n//　――もう、<RUBY text='おれ'>村正</RUBY>は誰も殺さない。\r\n//　一条と約束したのだ。罪無き善良な人間までも殺す\r\n//呪いを、眠らせておく為に。\r\n\r\n//　劒冑の能力を完全に駆使すれば、必ず相手を殺して\r\n//しまう。劒冑は殺人目的に特化された武器なのだから。\r\n//　抑制せねばならない……一条に従うと決めた、その\r\n//誓いに懸けて。\r\n  I know what it cost Muramasa to speak those words, to suggest unleashing her full might―up to and including the railgun―<br>against an unarmored opponent. I feel her shame keenly, for it is my own.\r\n\r\n  But it is not shame that stays my hand.\r\n\r\n  It is the promise I made to Ichijo that no more innocents would die, that the Law of Balance would lie dormant forever. I will never kill again, and as a tsurugi is a weapon, to wield it fully is to accept that your enemy will perish.\r\n\r\n  So I cannot use it. Not now. Not ever. I will not betray my oath.\r\n",
-  "pt": ""
+  "pt": "\r\n//　<RUBY text='おわりのながれ'>蒐窮磁装</RUBY>――<RUBY text='レールガン'>電磁抜刀</RUBY>の使用をも含めて戦術を検討\r\n//しろと、村正が云う。\r\n//　それはこの赤い劒冑にとって屈辱的な進言であった\r\n//に違いない。\r\n\r\n//　生身の人間を相手に総力を費やすなど！\r\n//　\r\n//　だが屈辱とは関係なしに、俺は進言を拒んだ。\r\n\r\n//　――もう、<RUBY text='おれ'>村正</RUBY>は誰も殺さない。\r\n//　一条と約束したのだ。罪無き善良な人間までも殺す\r\n//呪いを、眠らせておく為に。\r\n\r\n//　劒冑の能力を完全に駆使すれば、必ず相手を殺して\r\n//しまう。劒冑は殺人目的に特化された武器なのだから。\r\n//　抑制せねばならない……一条に従うと決めた、その\r\n//誓いに懸けて。\r\n  Sei o que custou a Muramasa dizer aquelas palavras, sugerir liberar todo o seu poder―inclusive o railgun―contra um oponente sem armadura. Sinto a vergonha dela intensamente, pois é também a minha.\r\n\r\n  Mas não é a vergonha que detém minha mão.\r\n\r\n  É a promessa que fiz a Ichijo de que nenhum inocente morreria mais, de que a Lei do Equilíbrio dormiria para sempre. Nunca mais matarei, e como um tsurugi é uma arma, empunhá-lo plenamente é aceitar que seu inimigo perecerá.\r\n\r\n  Por isso não posso usá-lo. Nem agora, nem nunca. Não trairei meu juramento.\r\n"
  },
  {
   "offset": 8423,
@@ -107,27 +107,27 @@
  {
   "offset": 8559,
   "en": "\r\n//　村正は黙った。\r\n//　諦観を伝えるような沈黙だった――この勝負への、\r\n//<RUBY text='・・・・'>ではなく</RUBY>。\r\n\r\n//　別の何かへの諦め。\r\n//　……その正体を探るだけの心理的ゆとりは今、俺に\r\n//与えられていない。\r\n  Muramasa's silence has the unmistakable air of surrender. She has resigned herself―not to the outcome of this duel, but to something... else.\r\n\r\n  The㉒<I>what</I>㉕will have to wait until we make it out of here alive.\r\n\r\n  <I>If</I>㉕we make it out of here alive.\r\n",
-  "pt": ""
+  "pt": "\r\n//　村正は黙った。\r\n//　諦観を伝えるような沈黙だった――この勝負への、\r\n//<RUBY text='・・・・'>ではなく</RUBY>。\r\n\r\n//　別の何かへの諦め。\r\n//　……その正体を探るだけの心理的ゆとりは今、俺に\r\n//与えられていない。\r\n  O silêncio de Muramasa tem um ar inconfundível de rendição. Ela se resignou―não ao resultado deste duelo, mas a algo... mais.\r\n\r\n  O㉒<I>quê</I>㉕terá de esperar até sairmos daqui vivos.\r\n\r\n  <I>Se</I>㉕sairmos daqui vivos.\r\n"
  },
  {
   "offset": 9141,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0180b37'>\r\n//「――さて。\r\n//　私は一人。刀一振りを提げて貴方の進路に\r\n//立ち塞がる。手の内はこの〝<RUBY text='がっしけん'>合撃剣</RUBY>〟」\r\n\"And now, a question. A man bars your path. He is alone, armed with only a sword, but he wields the technique called Gasshi.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0190b37'>\r\n//「貴方は武者一騎。仲間はいるが離れている。\r\n//　時間は無い。ややもすれば私の部下がここ\r\n//へ来る」\r\n\"You are a musha, but your sole ally is distant, and your enemy has reinforcements on approach.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0180b37'>\r\n//「――さて。\r\n//　私は一人。刀一振りを提げて貴方の進路に\r\n//立ち塞がる。手の内はこの〝<RUBY text='がっしけん'>合撃剣</RUBY>〟」\r\n\"E agora, uma questão. Um homem barra o seu caminho. Ele está sozinho, armado apenas com uma espada, mas domina a técnica chamada Gasshi.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0190b37'>\r\n//「貴方は武者一騎。仲間はいるが離れている。\r\n//　時間は無い。ややもすれば私の部下がここ\r\n//へ来る」\r\n\"Você é um musha, mas seu único aliado está distante, e o inimigo tem reforços se aproximando.\"\r\n"
  },
  {
   "offset": 9891,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0200b37'>\r\n//「状況、以上。\r\n//　では――どうされます？」\r\n\"How do you proceed?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0200b37'>\r\n//「状況、以上。\r\n//　では――どうされます？」\r\n\"Como você procede?\"\r\n"
  },
  {
   "offset": 10085,
   "en": "\r\n//　挑発としか思えないようなことを、とても挑発には\r\n//聞こえない穏やかな口調で剣士が言ってきた。\r\n//　黒い機械に覆われてその双眸は見えず、真意もまた\r\n//窺い知れない。\r\n\r\n//　だが突きつけられた問題は、確かにいま俺が直面す\r\n//べき現実そのものだった。掛け値もない。\r\n//　敵は一人。己も一人。しかし敵には近い将来の決定\r\n//的な増援があり、こちらには無く……。\r\n\r\n//　敵の剣は本邦武術史上に冠たる大流儀、柳生新陰流\r\n//の秘極に達したもの。\r\n//　無名の流派を<RUBY text='ようよ'>漸</RUBY>う修めたきりの湊斗景明の剣とでは、\r\n//同じ剣でも重さが違う。\r\n\r\n//　武者と生身、本来絶対的であるべき戦力差は有って\r\n//無きが如し。\r\n//　\r\n//　――どうすべきか。\r\n\r\n//　この状況を如何なる手段で打開する？\r\n\r\n  His gentle tone belies the challenge inherent in the question, and the black device set over his eyes conceals his true intent. Whatever the case, the question's parameters are accurate.\r\n\r\n  We are each alone, but he has allies nearby, who are certain to arrive given enough time. \r\n\r\n  And of course, he is a master of the Shinkage-ryu, that most famed and fabled of martial traditions, while I am but a middling disciple of a minor school with no renown.\r\n\r\n  My sword is nothing compared to his. Not even the superhuman strength granted by my armor is enough to overcome this disparity.\r\n\r\n  Where does that leave me?\r\n\r\n  What are my options?\r\n",
-  "pt": ""
+  "pt": "\r\n//　挑発としか思えないようなことを、とても挑発には\r\n//聞こえない穏やかな口調で剣士が言ってきた。\r\n//　黒い機械に覆われてその双眸は見えず、真意もまた\r\n//窺い知れない。\r\n\r\n//　だが突きつけられた問題は、確かにいま俺が直面す\r\n//べき現実そのものだった。掛け値もない。\r\n//　敵は一人。己も一人。しかし敵には近い将来の決定\r\n//的な増援があり、こちらには無く……。\r\n\r\n//　敵の剣は本邦武術史上に冠たる大流儀、柳生新陰流\r\n//の秘極に達したもの。\r\n//　無名の流派を<RUBY text='ようよ'>漸</RUBY>う修めたきりの湊斗景明の剣とでは、\r\n//同じ剣でも重さが違う。\r\n\r\n//　武者と生身、本来絶対的であるべき戦力差は有って\r\n//無きが如し。\r\n//　\r\n//　――どうすべきか。\r\n\r\n//　この状況を如何なる手段で打開する？\r\n\r\n  Seu tom gentil desmente o desafio inerente à pergunta, e o dispositivo negro sobre seus olhos oculta sua verdadeira intenção. Seja como for, os parâmetros da questão são exatos.\r\n\r\n  Estamos cada um por si, mas ele tem aliados por perto, que certamente chegarão com o tempo.\r\n\r\n  E, claro, ele é um mestre da Shinkage-ryu, a mais famosa e lendária das tradições marciais, enquanto eu não passo de um discípulo medíocre de uma escola menor, sem renome.\r\n\r\n  Minha espada não é nada comparada à dele. Nem mesmo a força sobre-humana concedida pela minha armadura basta para superar essa disparidade.\r\n\r\n  Então, onde isso me deixa?\r\n\r\n  Quais são as minhas opções?\r\n"
  },
  {
   "offset": 11724,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0210b37'>\r\n//<RUBY text='シンポウハカタチナク、ジッポウニツウカンス'> 「心法無形通貫十方」 </RUBY>\r\n<center>\"㉑'The spirit has no form, but is present in all things.'㉑\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0210b37'>\r\n//<RUBY text='シンポウハカタチナク、ジッポウニツウカンス'> 「心法無形通貫十方」 </RUBY>\r\n<center>\"㉑'O espírito não tem forma, mas está presente em todas as coisas.'㉑\"\r\n"
  },
  {
   "offset": 12020,
@@ -137,7 +137,7 @@
  {
   "offset": 12140,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0230b37'>\r\n//「貴方は<RUBY text='せつにんとう'>殺人刀</RUBY>に留まる器か？\r\n//　それとも<RUBY text='かつにんとう'>活人刀</RUBY>に届く器か……？」\r\n\"Do you have what it takes to transcend your limits? To become the sword that harnesses life, rather than the sword that merely takes it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/029vs0230b37'>\r\n//「貴方は<RUBY text='せつにんとう'>殺人刀</RUBY>に留まる器か？\r\n//　それとも<RUBY text='かつにんとう'>活人刀</RUBY>に届く器か……？」\r\n\"Você tem o que é preciso para transcender seus limites? Para se tornar a espada que cultiva a vida, e não a espada que apenas a ceifa?\"\r\n"
  },
  {
   "offset": 12562,
@@ -147,16 +147,16 @@
  {
   "offset": 12682,
   "en": "\r\n//　返す言葉はない。\r\n//　つまりは、返す技もない。\r\n\r\n//　剣の勝敗は既に定まっている。\r\n  I have no words―which is to say no response. This duel is already over.\r\n",
-  "pt": ""
+  "pt": "\r\n//　返す言葉はない。\r\n//　つまりは、返す技もない。\r\n\r\n//　剣の勝敗は既に定まっている。\r\n  Não tenho palavras―o que quer dizer nenhuma resposta. Este duelo já terminou.\r\n"
  },
  {
   "offset": 12894,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/029vs0250a00'>\r\n//（そうか）\r\n(...Ah...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/029vs0250a00'>\r\n//（そうか）\r\n(...Ah...)\r\n"
  },
  {
   "offset": 13019,
   "en": "\r\n//　それが<RUBY text='・・'>答え</RUBY>なのだと、俺は気付いた。\r\n\r\n//　湊斗景明は柳生常闇斎に勝てない。\r\n//　――負けた。\r\n  That's the answer.\r\n\r\n  I've lost.\r\n",
-  "pt": ""
+  "pt": "\r\n//　それが<RUBY text='・・'>答え</RUBY>なのだと、俺は気付いた。\r\n\r\n//　湊斗景明は柳生常闇斎に勝てない。\r\n//　――負けた。\r\n  Essa é a resposta.\r\n\r\n  Eu perdi.\r\n"
  }
 ]

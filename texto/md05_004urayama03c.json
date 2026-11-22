@@ -2,47 +2,47 @@
  {
   "offset": 223,
   "en": "\r\n//　あなたは軍装の女に同行を願った。\r\n  You ask the woman to accompany you.\r\n",
-  "pt": ""
+  "pt": "\r\n//　あなたは軍装の女に同行を願った。\r\n  Você pede à mulher que o acompanhe.\r\n"
  },
  {
   "offset": 327,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0100b31'>\r\n//「……何を言っているの」\r\n\"...Why would you ask me that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0100b31'>\r\n//「……何を言っているの」\r\n\"...Por que você me pergunta isso?\"\r\n"
  },
  {
   "offset": 497,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0110b31'>\r\n//「あなたの相棒は、私ではなくてよ」\r\n\"I was never your partner. Remember?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0110b31'>\r\n//「あなたの相棒は、私ではなくてよ」\r\n\"Eu nunca fui sua parceira. Lembra?\"\r\n"
  },
  {
   "offset": 688,
   "en": "\r\n//　諭すようにそう言うと、女はあなたの両肩をつかみ、\r\n//くるりと半回転させた。\r\n//　そして、\r\n  The woman grabs you by the shoulders and spins you around, then slaps you hard on the back.\r\n",
-  "pt": ""
+  "pt": "\r\n//　諭すようにそう言うと、女はあなたの両肩をつかみ、\r\n//くるりと半回転させた。\r\n//　そして、\r\n  A mulher o agarra pelos ombros e o gira, depois lhe dá um tapa forte nas costas.\r\n"
  },
  {
   "offset": 928,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0120b31'>\r\n//「……今の私は残像に過ぎないけれど。\r\n//　本物の私がここにいたとしても、やっぱり\r\n//同じことをするでしょうね」\r\n\"I'm nothing but a fragment of a memory... but I'm sure the real me would have done the same thing.\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0130b31'>\r\n//「過去に逃げてはだめ。\r\n//　どんなに辛くても――未来を見て、現実を\r\n//歩きなさい」\r\n\"You mustn't take refuge in the past. Face the truth, no matter how it hurts.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0120b31'>\r\n//「……今の私は残像に過ぎないけれど。\r\n//　本物の私がここにいたとしても、やっぱり\r\n//同じことをするでしょうね」\r\n\"Não passo de um fragmento de memória... mas tenho certeza de que a verdadeira eu teria feito o mesmo.\"\r\n\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0130b31'>\r\n//「過去に逃げてはだめ。\r\n//　どんなに辛くても――未来を見て、現実を\r\n//歩きなさい」\r\n\"Você não deve se refugiar no passado. Encare a verdade, por mais que doa.\"\r\n"
  },
  {
   "offset": 1584,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0140b31'>\r\n//「湊斗景明。\r\n//　あなたは私に勝った男でしょう？」\r\n\"I expect nothing less from the man who defeated me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0140b31'>\r\n//「湊斗景明。\r\n//　あなたは私に勝った男でしょう？」\r\n\"Não esperava menos do homem que me derrotou.\"\r\n"
  },
  {
   "offset": 1813,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004ur0150a00'>\r\n//「……<RUBY text='いちがをみずひ'>一ヶ尾瑞陽</RUBY>……」\r\n\"Ichigao... Mizuhi...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/004ur0150a00'>\r\n//「……<RUBY text='いちがをみずひ'>一ヶ尾瑞陽</RUBY>……」\r\n\"Ichigao... Mizuhi...\"\r\n"
  },
  {
   "offset": 2010,
   "en": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0160b31'>\r\n//「いってらっしゃい」\r\n\"Go on.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【首領】\r\n<voice name='首領' class='首領姉' src='voice/md05/004ur0160b31'>\r\n//「いってらっしゃい」\r\n\"Vá em frente.\"\r\n"
  },
  {
   "offset": 2151,
   "en": "\r\n//　そして女は、両手で優しく、あなたの背中を押した。\r\n\r\n//　……あなたは振り返らず、山から去った。\r\n  She places both hands flat against your back, then pushes you gently toward the road.\r\n\r\n  You leave without looking back.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そして女は、両手で優しく、あなたの背中を押した。\r\n\r\n//　……あなたは振り返らず、山から去った。\r\n  Ela apoia as duas mãos nas suas costas e o empurra suavemente em direção à estrada.\r\n\r\n  Você parte sem olhar para trás.\r\n"
  },
  {
   "offset": 2432,
@@ -52,7 +52,7 @@
  {
   "offset": 2444,
   "en": "The Grand Manor",
-  "pt": ""
+  "pt": "A Grande Mansão"
  },
  {
   "offset": 2467,
@@ -62,6 +62,6 @@
  {
   "offset": 2479,
   "en": "The Isolated Home",
-  "pt": ""
+  "pt": "O Lar Isolado"
  }
 ]

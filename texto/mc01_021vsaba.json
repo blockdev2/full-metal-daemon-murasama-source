@@ -2,7 +2,7 @@
  {
   "offset": 218,
   "en": "\r\n//　太刀打の間合。\r\n//　俺は上へも下へも逃れず、直進を続ける。\r\n\r\n//　そして<RUBY text='からだ'>騎体</RUBY>と平行に構えた太刀の切先を――敵騎の\r\n//<RUBY text='カメラ'>眉庇</RUBY>めがけて突き出す！\r\n  As the enemy approaches, I neither climb nor dive. Instead, I meet them head on, blade parallel to my body, point forward.\r\n\r\n  And when I see the glint of their eyes, I thrust! \r\n",
-  "pt": ""
+  "pt": "\r\n//　太刀打の間合。\r\n//　俺は上へも下へも逃れず、直進を続ける。\r\n\r\n//　そして<RUBY text='からだ'>騎体</RUBY>と平行に構えた太刀の切先を――敵騎の\r\n//<RUBY text='カメラ'>眉庇</RUBY>めがけて突き出す！\r\n  Conforme o inimigo se aproxima, eu não subo nem mergulho. Em vez disso, vou de encontro a ele, com a lâmina paralela ao corpo e a ponta à frente.\r\n\r\n  E quando vejo o brilho dos olhos dele, eu avanço com a estocada!\r\n"
  },
  {
   "offset": 677,
@@ -12,22 +12,22 @@
  {
   "offset": 799,
   "en": "\r\n//　この一突が首尾良く目標を捉え決勝打になるなどと、\r\n//そんな安い期待は抱いていない。\r\n//　高速で駆ける武者に点攻撃を当てるだけでも困難で\r\n//あるのに、標的を目へ限定しては達人の手にすら余る。\r\n\r\n  It is hard enough to catch a musha in flight with㉓<I>any</I> sort of thrust. When the target is as small as your enemy's eye, even a master swordsman, which I am not, would be hard-pressed to land his strike.\r\n\r\n//　だが、構わなかった。\r\n//　吉野御流合戦礼法〝<RUBY text='とりのがく'>禽楽</RUBY>〟の企図はあくまで心理的\r\n//効果にある。\r\n  But that is as intended. This technique's true aim is not the enemy's sight, but their spirit.\r\n\r\n////　どれほど猛り狂った者でも、たとえ猛獣そのもので\r\n////あっても、突然に目を狙われては怯まずにいられない。\r\n//　誰もが持つ本能的弱点を攻めて威勢を奪う――それ\r\n//こそがこの技の狙うところだ。\r\n  Every man―and indeed every beast which men might fear―has the same instinctual weakness. No matter how deep their rage or consuming their bloodlust, strike at their eyes and they will flinch away.\r\n\r\n//　ほんの一寸でも敵の腰が引けたなら、そこに活路を\r\n//見出せる！\r\n  And if that blunts their momentum for even a moment, then that will give me the space I need to get out of this alive.\r\n",
-  "pt": ""
+  "pt": "\r\n//　この一突が首尾良く目標を捉え決勝打になるなどと、\r\n//そんな安い期待は抱いていない。\r\n//　高速で駆ける武者に点攻撃を当てるだけでも困難で\r\n//あるのに、標的を目へ限定しては達人の手にすら余る。\r\n\r\n  Já é difícil o bastante acertar um musha em pleno movimento com㉓<I>qualquer</I> tipo de estocada. Quando o alvo é tão pequeno quanto o olho do inimigo, até um mestre espadachim, que eu não sou, teria dificuldade em desferir o golpe.\r\n\r\n//　だが、構わなかった。\r\n//　吉野御流合戦礼法〝<RUBY text='とりのがく'>禽楽</RUBY>〟の企図はあくまで心理的\r\n//効果にある。\r\n  Mas é exatamente isso que se pretende. O verdadeiro alvo desta técnica não é a visão do inimigo, mas seu espírito.\r\n\r\n////　どれほど猛り狂った者でも、たとえ猛獣そのもので\r\n////あっても、突然に目を狙われては怯まずにいられない。\r\n//　誰もが持つ本能的弱点を攻めて威勢を奪う――それ\r\n//こそがこの技の狙うところだ。\r\n  Todo homem — e na verdade qualquer fera que os homens possam temer — tem a mesma fraqueza instintiva. Não importa quão profunda seja sua fúria ou quão voraz sua sede de sangue: ataque os olhos e ele vai recuar.\r\n\r\n//　ほんの一寸でも敵の腰が引けたなら、そこに活路を\r\n//見出せる！\r\n  E se isso amortecer o ímpeto deles, ainda que por um instante, isso me dará o espaço de que preciso para sair vivo desta.\r\n"
  },
  {
   "offset": 2285,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0330a00'>\r\n//「ぐっ――」\r\n\"Guh!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/021vs0330a00'>\r\n//「ぐっ――」\r\n\"Guh!\"\r\n"
  },
  {
   "offset": 2409,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0340a01'>\r\n//《左肩甲鉄に直撃！\r\n//　でも……破られてはいない！》\r\n《Hit, left shoulder! But it didn't get through!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0350a01'>\r\n//《一瞬気を散らしたわね、あいつ……！》\r\n《Looks like you made him choke, Mido!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0340a01'>\r\n//《左肩甲鉄に直撃！\r\n//　でも……破られてはいない！》\r\n《Acertou, ombro esquerdo! Mas não atravessou!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/021vs0350a01'>\r\n//《一瞬気を散らしたわね、あいつ……！》\r\n《Parece que você fez ele vacilar, Mido!》\r\n"
  },
  {
   "offset": 2840,
   "en": "\r\n//　……良し。\r\n//　どうにか、凌ぎ切った……。\r\n  ...All right. We're still alive.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……良し。\r\n//　どうにか、凌ぎ切った……。\r\n  ...Certo. Ainda estamos vivos.\r\n"
  },
  {
   "offset": 2954,

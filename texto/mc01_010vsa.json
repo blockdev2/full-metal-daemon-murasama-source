@@ -2,27 +2,27 @@
  {
   "offset": 216,
   "en": "\r\n//　今度は様子を見よう。\r\n  I'd rather not get hit by that whatever that was a second time. \r\n\r\n  This time, we'll play it safe.\r\n",
-  "pt": ""
+  "pt": "\r\n//　今度は様子を見よう。\r\n  Prefiro não ser atingido por aquilo de novo, seja lá o que for. \r\n\r\n  Desta vez, vou jogar pelo seguro.\r\n"
  },
  {
   "offset": 367,
   "en": "\r\n//　俺は太刀を振りかぶり、迎え撃つ――\r\n//　\r\n//　と見せるだけしておき、打ち合う刹那に大きく進路\r\n//を変えた。\r\n  I raise my sword as though preparing a counter, then at the last moment, dive and veer wide.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺は太刀を振りかぶり、迎え撃つ――\r\n//　\r\n//　と見せるだけしておき、打ち合う刹那に大きく進路\r\n//を変えた。\r\n  Ergo a espada como se fosse aparar o golpe e, no último instante, mergulho e desvio para o lado.\r\n"
  },
  {
   "offset": 633,
   "en": "\r\n//　真っ正直な一撃を躱し、\r\n//　そして、\r\n  The enemy's axe cleaves through empty space, and then―\r\n",
-  "pt": ""
+  "pt": "\r\n//　真っ正直な一撃を躱し、\r\n//　そして、\r\n  O machado do inimigo corta o vazio, e então―\r\n"
  },
  {
   "offset": 762,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/010vs0010a00'>\r\n//「……見えたか!?」\r\n\"Did you see it!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/010vs0010a00'>\r\n//「……見えたか!?」\r\n\"Você viu!?\"\r\n"
  },
  {
   "offset": 906,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/010vs0020a01'>\r\n//《駄目！\r\n//　けれど一つ。あれは<RUBY text='・・'>射撃</RUBY>じゃない》\r\n《No! But I'm sure now it's not a projectile!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/010vs0030a01'>\r\n//《間違いなく、何かの<RUBY text='・・'>打撃</RUBY>よ》\r\n《They're striking us directly!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/010vs0020a01'>\r\n//《駄目！\r\n//　けれど一つ。あれは<RUBY text='・・'>射撃</RUBY>じゃない》\r\n《Não! Mas agora tenho certeza: não é um disparo!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/010vs0030a01'>\r\n//《間違いなく、何かの<RUBY text='・・'>打撃</RUBY>よ》\r\n《Eles estão nos atingindo diretamente!》\r\n"
  },
  {
   "offset": 1357,
@@ -32,6 +32,6 @@
  {
   "offset": 1483,
   "en": "\r\n//　よもや、<RUBY text='あし'>足脚</RUBY>を器用に使って蹴りを入れてきている\r\n//わけではあるまいが……。\r\n  Don't tell me the enemy's kicking us as we pass. You'd have to be a contortionist!\r\n",
-  "pt": ""
+  "pt": "\r\n//　よもや、<RUBY text='あし'>足脚</RUBY>を器用に使って蹴りを入れてきている\r\n//わけではあるまいが……。\r\n  Não me diga que o inimigo está nos chutando enquanto passamos. Só sendo contorcionista!\r\n"
  }
 ]

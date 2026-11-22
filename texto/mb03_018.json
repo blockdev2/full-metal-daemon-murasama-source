@@ -2,66 +2,66 @@
  {
   "offset": 213,
   "en": "\r\n//　一家と別れた後。\r\n//　小弓御所襲撃の思案は、結局、妥当な結論を見た。\r\n  After we've said all there is to be said, Ichijo and I return to our mission. There would appear to be only one logical course.\r\n",
-  "pt": ""
+  "pt": "\r\n//　一家と別れた後。\r\n//　小弓御所襲撃の思案は、結局、妥当な結論を見た。\r\n  Depois de tudo o que havia para ser dito, Ichijo e eu voltamos à nossa missão. Parece haver apenas um caminho lógico.\r\n"
  },
  {
   "offset": 461,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180010a02'>\r\n//「東から」\r\n\"Approach from the east.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180010a02'>\r\n//「東から」\r\n\"Aproximar pelo leste.\"\r\n"
  },
  {
   "offset": 599,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180020a00'>\r\n//「ああ。\r\n//　<RUBY text='てき'>親王軍</RUBY>は陸路で北から、ないし浦賀水道を\r\n//渡って南から来ると彼らは想定している」\r\n\"Yes. The prince's army has two avenues of attack. Overland from the north, or across the Uraga Channel to the south.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180020a00'>\r\n//「ああ。\r\n//　<RUBY text='てき'>親王軍</RUBY>は陸路で北から、ないし浦賀水道を\r\n//渡って南から来ると彼らは想定している」\r\n\"Sim. O exército do príncipe tem duas rotas de ataque. Por terra, vindo do norte, ou atravessando o Canal de Uraga, pelo sul.\"\r\n"
  },
  {
   "offset": 979,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180030a00'>\r\n//「それ以外、特に東側の警戒は甘い筈だ。\r\n//　少なくとも比較的」\r\n\"These are where Oyumi will concentrate its defenses. The east should be relatively open.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180030a00'>\r\n//「それ以外、特に東側の警戒は甘い筈だ。\r\n//　少なくとも比較的」\r\n\"É aí que Oyumi vai concentrar as defesas. O leste deve estar relativamente aberto.\"\r\n"
  },
  {
   "offset": 1258,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180040a02'>\r\n//「そっちから行けば、懐まで食い込めるって\r\n//ことですね」\r\n\"So if we circle around, we can take 'em by surprise.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180040a02'>\r\n//「そっちから行けば、懐まで食い込めるって\r\n//ことですね」\r\n\"Então, se dermos a volta, podemos pegá-los de surpresa.\"\r\n"
  },
  {
   "offset": 1492,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180050a00'>\r\n//「二人だけならば。おそらく」\r\n\"There's a good chance. Two people don't stand out.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180050a00'>\r\n//「二人だけならば。おそらく」\r\n\"Há uma boa chance. Duas pessoas não chamam atenção.\"\r\n"
  },
  {
   "offset": 1684,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180060a02'>\r\n//「心配なのは、時間だけですか」\r\n\"We'll lose time, though, right? Is that okay?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180060a02'>\r\n//「心配なのは、時間だけですか」\r\n\"Mas vamos perder tempo, não vamos? Tudo bem assim?\"\r\n"
  },
  {
   "offset": 1874,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180070a00'>\r\n//「そうだな……\r\n//　東に回ってみて、期待通り防備が甘く対空\r\n//警戒にも隙があるようなら。騎航して一気に\r\n//突破してしまおう」\r\n\"It's not ideal... All right. When we get behind Oyumi, if the air cordon's thin, we'll chance flying the rest of the way.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180070a00'>\r\n//「そうだな……\r\n//　東に回ってみて、期待通り防備が甘く対空\r\n//警戒にも隙があるようなら。騎航して一気に\r\n//突破してしまおう」\r\n\"Não é o ideal... Muito bem. Quando estivermos atrás de Oyumi, se o cerco aéreo estiver fraco, arriscamos voar o resto do caminho.\"\r\n"
  },
  {
   "offset": 2275,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180080a02'>\r\n//「防空隊は気にしなくていいんですか？」\r\n\"Won't they spot us?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180080a02'>\r\n//「防空隊は気にしなくていいんですか？」\r\n\"Eles não vão nos detectar?\"\r\n"
  },
  {
   "offset": 2451,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180090a00'>\r\n//「低空騎航なら<RUBY text='レーダー'>信号探査</RUBY>に察知されにくい。\r\n//地上の構造物の中に反応が紛れる。\r\n//　後は運次第だ」\r\n\"As long as we stay low, the terrain should hide us from radar. The rest is luck.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb03/0180090a00'>\r\n//「低空騎航なら<RUBY text='レーダー'>信号探査</RUBY>に察知されにくい。\r\n//地上の構造物の中に反応が紛れる。\r\n//　後は運次第だ」\r\n\"Enquanto voarmos baixo, o terreno deve nos esconder do radar. O resto é sorte.\"\r\n"
  },
  {
   "offset": 2804,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180100a02'>\r\n//「わかりました！」\r\n\"Okay. We've got this!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb03/0180100a02'>\r\n//「わかりました！」\r\n\"Entendi. Vamos conseguir!\"\r\n"
  },
  {
   "offset": 2952,
   "en": "\r\n//　天運なら疑う余地もないと、快活に応える一条から\r\n//眼を逸らす。\r\n//　どうしてか、直視し難い。\r\n  Luck, it seems, is always on her side. I turn away. For some reason, I cannot meet her gaze.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　天運なら疑う余地もないと、快活に応える一条から\r\n//眼を逸らす。\r\n//　どうしてか、直視し難い。\r\n  A sorte, ao que parece, está sempre do lado dela. Desvio o olhar. Por algum motivo, não consigo encará-la.\r\n\r\n"
  },
  {
   "offset": 3201,
   "en": "\r\n//　ともかくも俺と一条は東から小弓を攻める。\r\n//　\r\n//　……そろそろ、鎌倉の親王たちも動く頃か。\r\n  In any case, we have our course. And, if I am not mistaken, the prince's other allies should soon be making their move.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ともかくも俺と一条は東から小弓を攻める。\r\n//　\r\n//　……そろそろ、鎌倉の親王たちも動く頃か。\r\n  De qualquer forma, nosso rumo está traçado. E, se não me engano, os outros aliados do príncipe devem se movimentar em breve.\r\n"
  }
 ]

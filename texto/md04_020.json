@@ -2,42 +2,42 @@
  {
   "offset": 213,
   "en": "\r\n//　裏通りの小さな十字路を駆け抜けようとして……\r\n//　足を止める。\r\n\r\n//　左手の方向に、歩行者の後姿が見えていた。\r\n\r\n//　それだけならば、気に留めなかったろう。\r\n//　格好に変哲はない。普通の町民、普通の男性だ――\r\n//が、挙措が少々奇態だった。\r\n\r\n//　酩酊しているように、足元がふらふらと覚束ない。\r\n//右に揺れ左に揺れ、<RUBY text='つまづ'>爪突</RUBY>いたりもする。\r\n//……普段なら本当に酔っ払いだと思い、それきりで\r\n//思い捨てるところだ。\r\n\r\n//　けれど今は町が軍兵の支配下にある最中。\r\n//　民衆は<RUBY text='ほろよい'>微酔</RUBY>機嫌で千鳥足に通りを歩けるような立場\r\n//にはない。\r\n\r\n//　とすると……あれは、一体？\r\n\r\n  Suddenly, as I'm passing through an intersection between two narrow side streets, I catch sight of something that brings me to a halt.\r\n\r\n  A man is walking down the street to my left.\r\n\r\n  His back is to me, so I can't see his face, but his form and attire are perfectly normal. It wasn't his appearance that drew my attention, but rather his behavior.\r\n\r\n  The man is behaving as if in a stupor. Each step he takes sends him staggering to one side or the other, and even flat ground is enough to make him stumble.\r\n\r\n  Under normal circumstances I would label him a drunkard, but the city is still under enemy occupation. This is no time for dancing in the streets.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　裏通りの小さな十字路を駆け抜けようとして……\r\n//　足を止める。\r\n\r\n//　左手の方向に、歩行者の後姿が見えていた。\r\n\r\n//　それだけならば、気に留めなかったろう。\r\n//　格好に変哲はない。普通の町民、普通の男性だ――\r\n//が、挙措が少々奇態だった。\r\n\r\n//　酩酊しているように、足元がふらふらと覚束ない。\r\n//右に揺れ左に揺れ、<RUBY text='つまづ'>爪突</RUBY>いたりもする。\r\n//……普段なら本当に酔っ払いだと思い、それきりで\r\n//思い捨てるところだ。\r\n\r\n//　けれど今は町が軍兵の支配下にある最中。\r\n//　民衆は<RUBY text='ほろよい'>微酔</RUBY>機嫌で千鳥足に通りを歩けるような立場\r\n//にはない。\r\n\r\n//　とすると……あれは、一体？\r\n\r\n  De repente, ao atravessar um pequeno cruzamento entre duas vielas estreitas, vejo algo que me faz parar em seco.\r\n\r\n  Um homem caminha pela rua à minha esquerda.\r\n\r\n  Está de costas para mim, então não vejo seu rosto, mas sua figura e suas roupas são perfeitamente comuns. Não foi a aparência que chamou minha atenção, e sim seu comportamento.\r\n\r\n  O homem age como se estivesse atordoado. A cada passo ele cambaleia para um lado e para o outro, e até o chão plano é suficiente para fazê-lo tropeçar.\r\n\r\n  Em circunstâncias normais, eu o tomaria por um bêbado, mas a cidade ainda está sob ocupação inimiga. Não é hora de sair dançando pelas ruas.\r\n\r\n"
  },
  {
   "offset": 1765,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200010a01'>\r\n//（……ちょっと）\r\n(...Hold on.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200010a01'>\r\n//（……ちょっと）\r\n(...Espere.)\r\n"
  },
  {
   "offset": 1906,
   "en": "\r\n//　声を掛けるべきか迷ううちに、別のものが視界内へ\r\n//現れていた。\r\n//　\r\n//　車だ。\r\n\r\n//　この時代の裕福な人々が所有し、町の中や、町と町\r\n//の間での移動に使うものとは少し違う。\r\n//　あれは本来、町の中では見ないもの。\r\n\r\n//　軍用の車だ。\r\n//　屋根の無い型で、異国人の兵士が二人乗っている。\r\n\r\n//　……通りは狭い。\r\n//　そこへあの大きな車が入ってきては、歩行者は壁に\r\n//張り付くようにしなければ避けられないだろう。\r\n\r\n//　といってそれは別に、困難なことでもないはずだが。\r\n//　\r\n//　よたよたと歩く男は、その容易な行為すらしかねる\r\n//と見えた。\r\n\r\n//　正面から車が接近して来ているのには気付いている\r\n//らしいが、動作は変わらず鈍い。\r\n//　やはり酔っているのか。身体が思うままにならない\r\n//様子だ。\r\n\r\n//　あれでは、車と当たって――――\r\n  Before I can decide what, if anything, to do, something else appears at the end of the street.\r\n\r\n  A car, and not the sort that those of means in this age use to travel from place to place. No, this one is military-issue. The roof is open, with two soldiers sitting in the front.\r\n\r\n  The car is headed this way, and the street is narrow. If the drunk man presses up against the nearest building, there'll barely be enough room for it to pass by.\r\n\r\n  And yet he's just standing there like he doesn't know what to do. He must know that a car is approaching. Has the drink completely dulled his senses?\r\n\r\n  He's going to get run over!\r\n",
-  "pt": ""
+  "pt": "\r\n//　声を掛けるべきか迷ううちに、別のものが視界内へ\r\n//現れていた。\r\n//　\r\n//　車だ。\r\n\r\n//　この時代の裕福な人々が所有し、町の中や、町と町\r\n//の間での移動に使うものとは少し違う。\r\n//　あれは本来、町の中では見ないもの。\r\n\r\n//　軍用の車だ。\r\n//　屋根の無い型で、異国人の兵士が二人乗っている。\r\n\r\n//　……通りは狭い。\r\n//　そこへあの大きな車が入ってきては、歩行者は壁に\r\n//張り付くようにしなければ避けられないだろう。\r\n\r\n//　といってそれは別に、困難なことでもないはずだが。\r\n//　\r\n//　よたよたと歩く男は、その容易な行為すらしかねる\r\n//と見えた。\r\n\r\n//　正面から車が接近して来ているのには気付いている\r\n//らしいが、動作は変わらず鈍い。\r\n//　やはり酔っているのか。身体が思うままにならない\r\n//様子だ。\r\n\r\n//　あれでは、車と当たって――――\r\n  Antes que eu decida o que fazer, se é que devo fazer algo, outra coisa surge no fim da rua.\r\n\r\n  Um carro. E não do tipo que os abastados desta época usam para se deslocar de um lugar a outro. Não, este é de uso militar. É aberto, e dois soldados estão sentados na frente.\r\n\r\n  O carro vem nesta direção, e a rua é estreita. Se o bêbado se encostar no prédio mais próximo, mal haverá espaço para o carro passar.\r\n\r\n  E, no entanto, ele fica parado como se não soubesse o que fazer. Deve saber que um carro se aproxima. Será que a bebida entorpeceu de vez seus sentidos?\r\n\r\n  Ele vai ser atropelado!\r\n"
  },
  {
   "offset": 3608,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200020a01'>\r\n//「ああ、もう！」\r\n\"Damn it!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200020a01'>\r\n//「ああ、もう！」\r\n\"Droga!\"\r\n"
  },
  {
   "offset": 3746,
   "en": "\r\n//　酔漢の世話など焼いている場合ではないのに！\r\n  I didn't come here to rescue drunk fools!\r\n",
-  "pt": ""
+  "pt": "\r\n//　酔漢の世話など焼いている場合ではないのに！\r\n  Não vim aqui para salvar bêbados idiotas!\r\n"
  },
  {
   "offset": 3871,
   "en": "\r\n//◆顔グラ無し\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200030b43'>\r\n//「……あ……」\r\n\"...uh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆顔グラ無し\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200030b43'>\r\n//「……あ……」\r\n\"...ah...\"\r\n"
  },
  {
   "offset": 4022,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200040a01'>\r\n//「あ、じゃないでしょう。\r\n//　まともに動けもしないなら、こんな状況で\r\n//出歩いたりしないで」\r\n\"Really? That's your reaction? If you're too drunk to look after yourself, you shouldn't be outdoors. Especially now!\"\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200050a01'>\r\n//「家の中でおとなしくしていなさい。\r\n//　車に轢かれるのが趣味だっていうなら別だ\r\n//けどね」\r\n\"I mean, unless you㉒<I>want</I>㉑to get hit by a car.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200040a01'>\r\n//「あ、じゃないでしょう。\r\n//　まともに動けもしないなら、こんな状況で\r\n//出歩いたりしないで」\r\n\"Sério? É essa a sua reação? Se está bêbado demais para cuidar de si, não deveria estar na rua. Ainda mais agora!\"\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200050a01'>\r\n//「家の中でおとなしくしていなさい。\r\n//　車に轢かれるのが趣味だっていうなら別だ\r\n//けどね」\r\n\"Digo, a menos que você㉒<I>queira</I>㉑ser atropelado.\"\r\n"
  },
  {
   "offset": 4662,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200060b43'>\r\n//「車に……？\r\n//　あぁ、やっぱり僕、轢かれそうになってた\r\n//のかぁ」\r\n\"A car? Oh, so I did almost get run over.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200070b43'>\r\n//「ありがとうございます。\r\n//　お姉さん……で、いいんですよね？」\r\n\"Thanks, miss. 'Miss' is okay, right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200060b43'>\r\n//「車に……？\r\n//　あぁ、やっぱり僕、轢かれそうになってた\r\n//のかぁ」\r\n\"Um carro? Ah, então eu quase fui atropelado mesmo.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200070b43'>\r\n//「ありがとうございます。\r\n//　お姉さん……で、いいんですよね？」\r\n\"Obrigado, moça. Posso chamá-la de moça, certo?\"\r\n"
  },
  {
   "offset": 5122,
@@ -47,7 +47,7 @@
  {
   "offset": 5247,
   "en": "\r\n//　違和感を覚えて、私は抱え込む格好になっている彼\r\n//の顔を覗き込んだ。<k>\r\n//　\r\n//　そして、何も考えられなくなった。\r\n  Finding this question rather odd, I turn him around to get a look at his face.<K>\r\n  And there, my mind goes blank.\r\n",
-  "pt": ""
+  "pt": "\r\n//　違和感を覚えて、私は抱え込む格好になっている彼\r\n//の顔を覗き込んだ。<k>\r\n//　\r\n//　そして、何も考えられなくなった。\r\n  Achando a pergunta estranha, eu o viro para ver seu rosto.<K>\r\n  E então minha mente fica em branco.\r\n"
  },
  {
   "offset": 5548,
@@ -57,77 +57,77 @@
  {
   "offset": 5690,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200100b43'>\r\n//「あれ……失敗したかな？　おかしいな。\r\n//　お姉さんは女性向け万能コールサインなの\r\n//に。年齢的にややアウトな人に使っても問題\r\n//無いどころかプラス効果という魔法の言葉」\r\n\"Uh-oh, did I mess up? 'Miss' is supposed to be the skeleton key of callsigns, guaranteed to open any woman's heart, especially if she's a little out of the usual age range.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200110b43'>\r\n//「もしかして壮絶な急展開かなぁ。超人的に\r\n//女性の声色がうまい男の人ってオチですか？\r\n//　うーん、できればそういう辛い真実は秘密\r\n//にしておいて貰えると、心の健康にいいなぁ」\r\n\"Could this be the day I run into a dude who sounds exactly like a pretty lady? If so, I'd really appreciate being kept in the dark. ...Get it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200100b43'>\r\n//「あれ……失敗したかな？　おかしいな。\r\n//　お姉さんは女性向け万能コールサインなの\r\n//に。年齢的にややアウトな人に使っても問題\r\n//無いどころかプラス効果という魔法の言葉」\r\n\"Ops, será que eu errei? 'Moça' deveria ser a chave-mestra dos modos de tratamento, garantida para abrir o coração de qualquer mulher, especialmente se ela estiver um pouco fora da faixa etária habitual.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200110b43'>\r\n//「もしかして壮絶な急展開かなぁ。超人的に\r\n//女性の声色がうまい男の人ってオチですか？\r\n//　うーん、できればそういう辛い真実は秘密\r\n//にしておいて貰えると、心の健康にいいなぁ」\r\n\"Será que hoje é o dia em que encontro um cara que fala exatamente como uma moça bonita? Se for o caso, eu agradeceria muito se me deixassem no escuro. ...Entendeu?\"\r\n"
  },
  {
   "offset": 6700,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200120a01'>\r\n//「……稲城、忠保……」\r\n\"Inagi... Tadayasu...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200120a01'>\r\n//「……稲城、忠保……」\r\n\"Inagi... Tadayasu...\"\r\n"
  },
  {
   "offset": 6859,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200130b43'>\r\n//「あ。僕の知り合いの方でしたか？\r\n//　すいません、ちょっと今<RUBY text='・・・'>こんな</RUBY>なんで……」\r\n\"Oh, we've met. Sorry. I'm not so good with faces anymore.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200130b43'>\r\n//「あ。僕の知り合いの方でしたか？\r\n//　すいません、ちょっと今<RUBY text='・・・'>こんな</RUBY>なんで……」\r\n\"Ah, então nós nos conhecemos. Desculpe. Não sou mais muito bom com rostos.\"\r\n"
  },
  {
   "offset": 7161,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200140b43'>\r\n//「声だけだと良くわからないんです。\r\n//　ええと、どちら様でしょう？」\r\n\"Voices are a bit harder to place. Mind if I get your name?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200140b43'>\r\n//「声だけだと良くわからないんです。\r\n//　ええと、どちら様でしょう？」\r\n\"Vozes são um pouco mais difíceis de reconhecer. Posso saber seu nome?\"\r\n"
  },
  {
   "offset": 7419,
   "en": "\r\n//　私の腕からふらりと離れ、彼はこちらへ向き直った。\r\n//　といっても、方向はややずれていたが。\r\n\r\n//　無理もない。\r\n//　目が見えないのだから当然だろう。\r\n\r\n//　彼は目蓋の上に厚く包帯を巻いている。\r\n//　例えそれが無くとも、彼は視覚を得られないことを、\r\n//私は知っている。\r\n\r\n//　<RUBY text='いなぎただやす'>稲城忠保</RUBY>。<k>\r\n//　\r\n//　かつて〝卵〟寄生体<RUBY text='シンカイ'>真改</RUBY>の事件に友人たちと一緒に\r\n//巻き込まれ、深傷を負った学生だ。\r\n\r\n//　あれからまだ、記憶が風化するほどの歳月は過ぎて\r\n//いない。\r\n//　見間違いでは、決してなかった。\r\n  He steps back, then turns toward me, though he ends up facing slightly to the side.\r\n\r\n  I can hardly blame him; the young man is blind. His eyes are covered by a thick bandage, but even were they not, I would be aware of his condition.\r\n\r\n  This is Inagi Tadayasu, one of the three students who fell prey to the master of Inoue Shinkai. That was mere months ago; I haven't forgotten. As if I ever could.\r\n",
-  "pt": ""
+  "pt": "\r\n//　私の腕からふらりと離れ、彼はこちらへ向き直った。\r\n//　といっても、方向はややずれていたが。\r\n\r\n//　無理もない。\r\n//　目が見えないのだから当然だろう。\r\n\r\n//　彼は目蓋の上に厚く包帯を巻いている。\r\n//　例えそれが無くとも、彼は視覚を得られないことを、\r\n//私は知っている。\r\n\r\n//　<RUBY text='いなぎただやす'>稲城忠保</RUBY>。<k>\r\n//　\r\n//　かつて〝卵〟寄生体<RUBY text='シンカイ'>真改</RUBY>の事件に友人たちと一緒に\r\n//巻き込まれ、深傷を負った学生だ。\r\n\r\n//　あれからまだ、記憶が風化するほどの歳月は過ぎて\r\n//いない。\r\n//　見間違いでは、決してなかった。\r\n  Ele se afasta, depois se vira para mim, embora acabe olhando um pouco de lado.\r\n\r\n  Não posso culpá-lo; o jovem é cego. Seus olhos estão cobertos por uma bandagem grossa, mas, mesmo que não estivessem, eu saberia de sua condição.\r\n\r\n  Este é Inagi Tadayasu, um dos três estudantes que caíram nas garras do mestre de Inoue Shinkai. Isso aconteceu há apenas alguns meses; não esqueci. Como se eu pudesse esquecer.\r\n"
  },
  {
   "offset": 8612,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200150b43'>\r\n//「お姉さん？」\r\n\"Miss?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200150b43'>\r\n//「お姉さん？」\r\n\"Moça?\"\r\n"
  },
  {
   "offset": 8738,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200160a01'>\r\n//「……え、あ……\r\n//　ううん、ごめんなさい」\r\n\"Oh... Sorry. It's nothing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200160a01'>\r\n//「……え、あ……\r\n//　ううん、ごめんなさい」\r\n\"Ah... Desculpe. Não é nada.\"\r\n"
  },
  {
   "offset": 8934,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200170a01'>\r\n//「私の方が一方的に少し知ってるだけなの。\r\n//　貴方は知らないと思う。口を利くのもこれ\r\n//が初めてだから」\r\n\"I know you, but you wouldn't know me. We never had the chance to speak.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200170a01'>\r\n//「私の方が一方的に少し知ってるだけなの。\r\n//　貴方は知らないと思う。口を利くのもこれ\r\n//が初めてだから」\r\n\"Eu conheço você, mas você não me conhece. Nunca tivemos a chance de conversar.\"\r\n"
  },
  {
   "offset": 9263,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200180b43'>\r\n//「そうなんですか。\r\n//　すいません、その節は大変ご迷惑をおかけ\r\n//しまして」\r\n\"Oh... Then I should probably apologize.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200180b43'>\r\n//「そうなんですか。\r\n//　すいません、その節は大変ご迷惑をおかけ\r\n//しまして」\r\n\"Ah... Então provavelmente devo me desculpar.\"\r\n"
  },
  {
   "offset": 9512,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200190a01'>\r\n//「……その節？\r\n//　迷惑？」\r\n\"Apologize? For what?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200190a01'>\r\n//「……その節？\r\n//　迷惑？」\r\n\"Se desculpar? Por quê?\"\r\n"
  },
  {
   "offset": 9678,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200200b43'>\r\n//「え、これっていつものパターンですよね？\r\n//　僕は別として雄飛とか小夏とかリツとかが\r\n//それぞれ独創性あるハッチャケをして知らず\r\n//知らず周りの人に大迷惑を掛けてたっていう」\r\n\"Me, Yuhi, Konatsu, Ritsu. You got mixed up in one of our stupid schemes, right? And we were none the wiser.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200200b43'>\r\n//「え、これっていつものパターンですよね？\r\n//　僕は別として雄飛とか小夏とかリツとかが\r\n//それぞれ独創性あるハッチャケをして知らず\r\n//知らず周りの人に大迷惑を掛けてたっていう」\r\n\"Eu, Yuhi, Konatsu, Ritsu. Você se envolveu em uma das nossas idiotices, não foi? E nós nem percebemos.\"\r\n"
  },
  {
   "offset": 10140,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200210a01'>\r\n//「…………いつもそうなの？」\r\n\"...Do you often have to apologize to people like this?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200210a01'>\r\n//「…………いつもそうなの？」\r\n\"...Você costuma ter que se desculpar com as pessoas assim?\"\r\n"
  },
  {
   "offset": 10342,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200220b43'>\r\n//「やぁ、僕も困ってるんですよね。\r\n//　初対面の人にいきなり窓ガラスを弁償しろ\r\n//とか対人恐怖症になった飼犬に謝れとか言わ\r\n//れるのが普通の生活ってどうもスリリングで」\r\n\"Yeah. Every now and then, I'll run into someone I'd swear I never met before, claiming we broke their window or traumatized their dog or what have you. I must say, it adds a certain flavor to what would otherwise be a perfectly ordinary life.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200220b43'>\r\n//「やぁ、僕も困ってるんですよね。\r\n//　初対面の人にいきなり窓ガラスを弁償しろ\r\n//とか対人恐怖症になった飼犬に謝れとか言わ\r\n//れるのが普通の生活ってどうもスリリングで」\r\n\"É. De vez em quando encontro alguém que eu juraria nunca ter visto antes, dizendo que quebramos a janela dela, traumatizamos o cachorro dela ou sei lá o quê. Devo dizer que isso dá um certo sabor a uma vida que, de outro modo, seria perfeitamente comum.\"\r\n"
  },
  {
   "offset": 10927,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200230a01'>\r\n//「ふ、ふぅん」\r\n\"O- Oh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200230a01'>\r\n//「ふ、ふぅん」\r\n\"O- Oh...\"\r\n"
  },
  {
   "offset": 11062,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200240b43'>\r\n//「……そうそう。\r\n//　そうだった……」\r\n\"Or, well... that's how things used to be.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200250b43'>\r\n//「ほんのこの間まで、そういう生活してたん\r\n//だよね……僕ら……」\r\n\"It all changed... not so long ago.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200240b43'>\r\n//「……そうそう。\r\n//　そうだった……」\r\n\"Ou, bem... era assim que as coisas costumavam ser.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200250b43'>\r\n//「ほんのこの間まで、そういう生活してたん\r\n//だよね……僕ら……」\r\n\"Tudo mudou... não faz tanto tempo assim.\"\r\n"
  },
  {
   "offset": 11478,
@@ -137,42 +137,42 @@
  {
   "offset": 11608,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200270b43'>\r\n//「お姉さんは、窓ガラスコースですか？」\r\n\"So how much do I owe you for the window?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200270b43'>\r\n//「お姉さんは、窓ガラスコースですか？」\r\n\"Então quanto eu devo a você pela janela?\"\r\n"
  },
  {
   "offset": 11805,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200280a01'>\r\n//「いえ……大丈夫。\r\n//　迷惑なんて何も掛けられていないから」\r\n\"Oh. No. That's all right. You have nothing to apologize <br>for.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200280a01'>\r\n//「いえ……大丈夫。\r\n//　迷惑なんて何も掛けられていないから」\r\n\"Ah. Não. Tudo bem. Você não tem nada de que se desculpar.\"\r\n"
  },
  {
   "offset": 12063,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200290b43'>\r\n//「わぁ、それは有史以来まれなことですね」\r\n\"Wow! Really? This is, like, historical!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200290b43'>\r\n//「わぁ、それは有史以来まれなことですね」\r\n\"Uau! Sério? Isso é, tipo, histórico!\"\r\n"
  },
  {
   "offset": 12262,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200300a01'>\r\n//「そこまで言わなくても」\r\n\"Now you're just being silly.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200300a01'>\r\n//「そこまで言わなくても」\r\n\"Agora você está sendo bobo.\"\r\n"
  },
  {
   "offset": 12432,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200310b43'>\r\n//「じゃあお礼だけしっかり言えばいいんだ。\r\n//　こういうのって何だか嬉しいなぁ」\r\n\"At least let me thank you. If we're going to make history, I want to do it right.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200320b43'>\r\n//「本当にありがとうございました、お姉さん。\r\n//　もし助けてもらえなかったら、きっと今頃\r\n//僕は死んでいて――」\r\n\"Thank you so much for saving me, miss. If you hadn't, I'd probably be dead.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200330b43'>\r\n//「多分すごく困っていたと思います」\r\n\"And that would be a real drag.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200310b43'>\r\n//「じゃあお礼だけしっかり言えばいいんだ。\r\n//　こういうのって何だか嬉しいなぁ」\r\n\"Pelo menos deixe-me agradecer. Se vamos entrar para a história, quero fazer isso direito.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200320b43'>\r\n//「本当にありがとうございました、お姉さん。\r\n//　もし助けてもらえなかったら、きっと今頃\r\n//僕は死んでいて――」\r\n\"Muito obrigado por me salvar, moça. Se não fosse você, eu provavelmente estaria morto.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200330b43'>\r\n//「多分すごく困っていたと思います」\r\n\"E isso seria uma verdadeira chatice.\"\r\n"
  },
  {
   "offset": 13229,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200340a01'>\r\n//「そ、そうね。\r\n//　死ぬのはやっぱり困るんじゃないかしら」\r\n\"Y- Yes... I suppose that would be a... drag.\"\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200350a01'>\r\n//「でも大したことをしたわけじゃないし。\r\n//　お礼なんていいから……」\r\n\"But really, you don't have to thank me. I hardly did anything.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200340a01'>\r\n//「そ、そうね。\r\n//　死ぬのはやっぱり困るんじゃないかしら」\r\n\"S- Sim... Acho que seria uma... chatice.\"\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200350a01'>\r\n//「でも大したことをしたわけじゃないし。\r\n//　お礼なんていいから……」\r\n\"Mas, sério, você não precisa me agradecer. Eu quase não fiz nada.\"\r\n"
  },
  {
   "offset": 13724,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200360b43'>\r\n//「ありがとうとごめんなさいはちゃんと言う\r\n//ようにしたいんです。\r\n//　友達がそういうやつでしたから」\r\n\"I always make sure to say my thank yous and sorries. Learned that from my best friend.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200360b43'>\r\n//「ありがとうとごめんなさいはちゃんと言う\r\n//ようにしたいんです。\r\n//　友達がそういうやつでしたから」\r\n\"Sempre faço questão de agradecer e pedir desculpas. Aprendi isso com meu melhor amigo.\"\r\n"
  },
  {
   "offset": 14056,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200370b43'>\r\n//「今は……ちょっと色々あって、もういない\r\n//んですけど」\r\n\"I'm sure he'd thank you too... if he were still around.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200370b43'>\r\n//「今は……ちょっと色々あって、もういない\r\n//んですけど」\r\n\"Tenho certeza de que ele também agradeceria... se ainda estivesse por aqui.\"\r\n"
  },
  {
   "offset": 14293,
@@ -182,12 +182,12 @@
  {
   "offset": 14417,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200390b43'>\r\n//「いないんだけど……だからかえって、なの\r\n//かな。\r\n//　あいつが僕に教えてくれたことは、大切に\r\n//しないと」\r\n\"But he's not. Maybe that's why... I feel like I have to follow his example.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200400b43'>\r\n//「うん。やっぱり死んだら困ってた。\r\n//　僕はあいつから受け取ったものを、なにも\r\n//活かせないまま終わることになるじゃないか」\r\n\"Yeah. Really glad I didn't die. I still haven't begun to repay him.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200390b43'>\r\n//「いないんだけど……だからかえって、なの\r\n//かな。\r\n//　あいつが僕に教えてくれたことは、大切に\r\n//しないと」\r\n\"Mas ele não está mais. Talvez seja por isso... que sinto que preciso seguir o exemplo dele.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200400b43'>\r\n//「うん。やっぱり死んだら困ってた。\r\n//　僕はあいつから受け取ったものを、なにも\r\n//活かせないまま終わることになるじゃないか」\r\n\"É. Fico muito feliz por não ter morrido. Ainda nem comecei a retribuir a ele.\"\r\n"
  },
  {
   "offset": 15089,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200410b43'>\r\n//「死ねないよ……」\r\n\"I can't die yet...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200410b43'>\r\n//「死ねないよ……」\r\n\"Ainda não posso morrer...\"\r\n"
  },
  {
   "offset": 15234,
@@ -197,17 +197,17 @@
  {
   "offset": 15364,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200430b43'>\r\n//「すいません。\r\n//　わけのわからないこと言って」\r\n\"Sorry. Not making any sense, I know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200430b43'>\r\n//「すいません。\r\n//　わけのわからないこと言って」\r\n\"Desculpe. Estou falando coisas sem sentido, eu sei.\"\r\n"
  },
  {
   "offset": 15570,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200440a01'>\r\n//「その、友達っていうのは」\r\n\"Your friend...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200440a01'>\r\n//「その、友達っていうのは」\r\n\"Seu amigo...\"\r\n"
  },
  {
   "offset": 15729,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200450a01'>\r\n//「もう」\r\n\"Is he...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200450a01'>\r\n//「もう」\r\n\"Ele está...\"\r\n"
  },
  {
   "offset": 15855,
@@ -217,7 +217,7 @@
  {
   "offset": 15979,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200470b43'>\r\n//「……ええ。そうです。\r\n//　危なっかしいやつだなぁとは前から思って\r\n//たんですけど、この間何かの拍子にうっかり\r\n//死んじゃったみたいで」\r\n\"...Yes. I'm afraid so. I always thought he'd get himself into real trouble one day, but I didn't think it'd get him killed.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200480b43'>\r\n//「今頃やっぱり困ってるんじゃないでしょう\r\n//か」\r\n\"Bet if you asked him, he'd tell you dying's no fun.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200470b43'>\r\n//「……ええ。そうです。\r\n//　危なっかしいやつだなぁとは前から思って\r\n//たんですけど、この間何かの拍子にうっかり\r\n//死んじゃったみたいで」\r\n\"...Sim. Receio que sim. Sempre achei que um dia ele se meteria em uma encrenca séria, mas não achei que isso fosse matá-lo.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200480b43'>\r\n//「今頃やっぱり困ってるんじゃないでしょう\r\n//か」\r\n\"Aposto que, se perguntasse a ele, ele diria que morrer não tem graça nenhuma.\"\r\n"
  },
  {
   "offset": 16613,
@@ -227,112 +227,112 @@
  {
   "offset": 16743,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200500b43'>\r\n//「でもなんでか、思うんですよ。\r\n//　あいつは、<RUBY text='・・・・・・・・・・'>僕らの代わりに死んだ</RUBY>」\r\n\"But at the same time... I can't help but feel like he died in our place.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200510b43'>\r\n//「死ぬのはきっと、僕でも小夏でも良かった。\r\n//　けれどあいつが選ばれて。それはきっと、\r\n//あいつの何かが悪かったからじゃない」\r\n\"Like it could just as easily have been me or Konatsu, but for some reason㉓<I>he</I>㉓was chosen, and not because he did anything wrong.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200520b43'>\r\n//「その逆で……\r\n//　あいつが僕らの中で一番正しくて強かった\r\n//から、身代わりになって死んでしまったんだ」\r\n\"If anything, it's the opposite. He was the best of us. That's why he died.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200500b43'>\r\n//「でもなんでか、思うんですよ。\r\n//　あいつは、<RUBY text='・・・・・・・・・・'>僕らの代わりに死んだ</RUBY>」\r\n\"Mas, ao mesmo tempo... não consigo deixar de sentir que ele morreu em nosso lugar.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200510b43'>\r\n//「死ぬのはきっと、僕でも小夏でも良かった。\r\n//　けれどあいつが選ばれて。それはきっと、\r\n//あいつの何かが悪かったからじゃない」\r\n\"Como se pudesse ter sido eu ou Konatsu com a mesma facilidade, mas, por algum motivo,㉓<I>ele</I>㉓foi escolhido, e não porque tivesse feito algo errado.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200520b43'>\r\n//「その逆で……\r\n//　あいつが僕らの中で一番正しくて強かった\r\n//から、身代わりになって死んでしまったんだ」\r\n\"Na verdade, é o contrário. Ele era o melhor de nós. Foi por isso que morreu.\"\r\n"
  },
  {
   "offset": 17799,
   "en": "\r\n//　それはどのような直感なのだろう。\r\n//　平凡な風貌の学生は、知りようもないはずの真実を\r\n//口にしていた。\r\n\r\n//　確かにそうだった。\r\n//　この彼でも、小夏という娘でも構わなかった。\r\n\r\n//　けれど新田雄飛を選んで殺したのだ。\r\n//　私は。\r\n  Is it instinct? Deduction? Some power of prophecy? By what means, I cannot fathom, but this young man has reached the㉗<I>truth.</I>\r\n\r\n  Yes. Either he or the girl would have served just as well.\r\n  But Nitta Yuhi was chosen.\r\n\r\n  <I>I</I>㉓chose him.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　それはどのような直感なのだろう。\r\n//　平凡な風貌の学生は、知りようもないはずの真実を\r\n//口にしていた。\r\n\r\n//　確かにそうだった。\r\n//　この彼でも、小夏という娘でも構わなかった。\r\n\r\n//　けれど新田雄飛を選んで殺したのだ。\r\n//　私は。\r\n  Será instinto? Dedução? Algum poder de profecia? Não consigo imaginar por que meios, mas este jovem chegou à㉗<I>verdade.</I>\r\n\r\n  Sim. Tanto ele quanto a garota teriam servido igualmente bem.\r\n  Mas Nitta Yuhi foi escolhido.\r\n\r\n  <I>Eu</I>㉓o escolhi.\r\n\r\n"
  },
  {
   "offset": 18407,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200530b43'>\r\n//「だから……こんなところで車に轢かれたり\r\n//しなくて本当に良かった。\r\n//　そんなことで死んでたら、きっとあいつに\r\n//すごく怒られる」\r\n\"So I'm really glad you showed up when you did. If I'd gone and gotten myself run over, Yuhi would've definitely let me have it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200530b43'>\r\n//「だから……こんなところで車に轢かれたり\r\n//しなくて本当に良かった。\r\n//　そんなことで死んでたら、きっとあいつに\r\n//すごく怒られる」\r\n\"Então fico muito feliz que você tenha aparecido na hora certa. Se eu tivesse acabado atropelado, o Yuhi com certeza ia me dar uma bronca.\"\r\n"
  },
  {
   "offset": 18826,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200540b43'>\r\n//「僕はあいつの代わりにやらなきゃいけない。\r\n//　あいつがするはずだったことを」\r\n\"I still have a job to do. The job he would've done, if he were still alive.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200550b43'>\r\n//「小夏を守らないと」\r\n\"I have to protect Konatsu.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200560b43'>\r\n//「僕は……\r\n//　きっと、あいつを――雄飛を犠牲にして、\r\n//生きているんだから……」\r\n\"He died because of us. That's the least I can do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200540b43'>\r\n//「僕はあいつの代わりにやらなきゃいけない。\r\n//　あいつがするはずだったことを」\r\n\"Ainda tenho uma missão a cumprir. A missão que ele teria cumprido, se ainda estivesse vivo.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200550b43'>\r\n//「小夏を守らないと」\r\n\"Tenho que proteger a Konatsu.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200560b43'>\r\n//「僕は……\r\n//　きっと、あいつを――雄飛を犠牲にして、\r\n//生きているんだから……」\r\n\"Ele morreu por nossa causa. É o mínimo que posso fazer.\"\r\n"
  },
  {
   "offset": 19524,
   "en": "\r\n//　違う。\r\n\r\n//　彼を犠牲にしたのは、貴方じゃない。\r\n//　私だ。\r\n\r\n  No.<K>\r\n  He died because of <I>me.</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　違う。\r\n\r\n//　彼を犠牲にしたのは、貴方じゃない。\r\n//　私だ。\r\n\r\n  Não.<K>\r\n  Ele morreu por causa de <I>mim.</I>\r\n"
  },
  {
   "offset": 19671,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200570b43'>\r\n//「お姉さんには何度お礼を言っても言い足り\r\n//ません」\r\n\"I don't think I can ever thank you enough.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200570b43'>\r\n//「お姉さんには何度お礼を言っても言い足り\r\n//ません」\r\n\"Não sei se algum dia vou conseguir agradecer o suficiente.\"\r\n"
  },
  {
   "offset": 19889,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200580a01'>\r\n//「……いいの」\r\n\"...Please.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200580a01'>\r\n//「……いいの」\r\n\"...Por favor.\"\r\n"
  },
  {
   "offset": 20026,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200590a01'>\r\n//「いいのよ。\r\n//　お礼なんて、本当に」\r\n\"Please. You really don't have to.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200590a01'>\r\n//「いいのよ。\r\n//　お礼なんて、本当に」\r\n\"Por favor. Você realmente não precisa.\"\r\n"
  },
  {
   "offset": 20220,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200600b43'>\r\n//「僕の家まで足を運んで貰えませんか？\r\n//　こんな時ですから盛大にとはいかないかも\r\n//ですけど、それなりのおもてなしはできると\r\n//思います」\r\n\"Perhaps you'd care to stop by my house? I can't offer much, times being as they are, but I'd like to do what I can.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200600b43'>\r\n//「僕の家まで足を運んで貰えませんか？\r\n//　こんな時ですから盛大にとはいかないかも\r\n//ですけど、それなりのおもてなしはできると\r\n//思います」\r\n\"Talvez você queira passar na minha casa? Não posso oferecer muita coisa, com os tempos como estão, mas gostaria de fazer o que puder.\"\r\n"
  },
  {
   "offset": 20636,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200610a01'>\r\n//「気を遣わないで。\r\n//　家にはちゃんと送ってあげるけど……」\r\n\"That's really not necessary. Though I'll certainly make sure you get home.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200610a01'>\r\n//「気を遣わないで。\r\n//　家にはちゃんと送ってあげるけど……」\r\n\"Isso realmente não é necessário. Mas eu com certeza vou garantir que você chegue em casa.\"\r\n"
  },
  {
   "offset": 20904,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200620a01'>\r\n//「……いえ。待って。\r\n//　貴方、どうして出歩いてるの？　目が見え\r\n//ないのに、しかもこんな時なのに」\r\n\"Actually, what are you doing outside in the first place?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200620a01'>\r\n//「……いえ。待って。\r\n//　貴方、どうして出歩いてるの？　目が見え\r\n//ないのに、しかもこんな時なのに」\r\n\"Na verdade, o que você está fazendo na rua, para começo de conversa?\"\r\n"
  },
  {
   "offset": 21212,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200630b43'>\r\n//「いやぁ。それがですね。\r\n//　昨日、早起きしてリハビリのために近所を\r\n//散歩していたら、いきなり空の上が騒がしく\r\n//なって。なんか戦争が始まっちゃって」\r\n\"Oh, about that. So I was out on one of my walks around the neighborhood―part of my rehab, you know―when things got loud all of a sudden. Turns out a war'd broken out. Can you believe it?\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200640b43'>\r\n//「すぐ家に帰ろうとしたんですけど、慌てて\r\n//いたせいか丸っきり違う方向へ行っちゃった\r\n//みたいで……。\r\n//　そうこうするうちに外出禁止の命令が出て」\r\n\"Anyway, I tried to get home, but in all the confusion, I must've gotten turned around, and the next thing I know, they're ordering everyone indoors.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200630b43'>\r\n//「いやぁ。それがですね。\r\n//　昨日、早起きしてリハビリのために近所を\r\n//散歩していたら、いきなり空の上が騒がしく\r\n//なって。なんか戦争が始まっちゃって」\r\n\"Ah, sobre isso. Eu estava dando uma das minhas voltas pelo bairro — parte da minha reabilitação, sabe — quando tudo ficou barulhento de repente. Parece que uma guerra começou. Dá para acreditar?\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200640b43'>\r\n//「すぐ家に帰ろうとしたんですけど、慌てて\r\n//いたせいか丸っきり違う方向へ行っちゃった\r\n//みたいで……。\r\n//　そうこうするうちに外出禁止の命令が出て」\r\n\"Enfim, tentei voltar para casa, mas, com toda a confusão, devo ter me desorientado, e, quando vi, estavam ordenando que todo mundo ficasse dentro de casa.\"\r\n"
  },
  {
   "offset": 22180,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200650b43'>\r\n//「仕方なく近くの家に勝手に入らせて貰った\r\n//んですが、誰もいなくて。\r\n//　あれはお寺だったのかなぁ……」\r\n\"So I went into the first house I could find. No one was home. Actually, I think it might've been a temple.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200660b43'>\r\n//「丸一日くらいでしょうか？　そこにいたん\r\n//ですけど、空腹に耐えられなくなっちゃって。\r\n//　帰宅は許可って放送もあったし、頑張って\r\n//家に帰ろうとしたんですが」\r\n\"I holed up there for a day, I think, but then I started getting hungry... and they said it was okay for people to go home, so I figured I'd give it a shot.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200650b43'>\r\n//「仕方なく近くの家に勝手に入らせて貰った\r\n//んですが、誰もいなくて。\r\n//　あれはお寺だったのかなぁ……」\r\n\"Então entrei na primeira casa que encontrei. Não tinha ninguém. Na verdade, acho que talvez fosse um templo.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200660b43'>\r\n//「丸一日くらいでしょうか？　そこにいたん\r\n//ですけど、空腹に耐えられなくなっちゃって。\r\n//　帰宅は許可って放送もあったし、頑張って\r\n//家に帰ろうとしたんですが」\r\n\"Fiquei escondido lá por um dia, acho, mas aí comecei a ficar com fome... e disseram que as pessoas podiam voltar para casa, então decidi tentar.\"\r\n"
  },
  {
   "offset": 23019,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200670b43'>\r\n//「やっぱり道がわからなくてうろうろしてる\r\n//うちに、危うく車に撥ねられそうになってた\r\n//みたいです。\r\n//　はっはっは、大笑いですね」\r\n\"But I still couldn't figure out where I was, and then I almost got run over by a car. Pretty funny, right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200670b43'>\r\n//「やっぱり道がわからなくてうろうろしてる\r\n//うちに、危うく車に撥ねられそうになってた\r\n//みたいです。\r\n//　はっはっは、大笑いですね」\r\n\"Mas eu ainda não conseguia descobrir onde estava, e aí quase fui atropelado por um carro. Muito engraçado, né?\"\r\n"
  },
  {
   "offset": 23417,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200680a01'>\r\n//「……大笑いではないと思うけれど」\r\n\"...Not really.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200680a01'>\r\n//「……大笑いではないと思うけれど」\r\n\"...Não muito.\"\r\n"
  },
  {
   "offset": 23588,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200690b43'>\r\n//「あっ、そうか。\r\n//　おもてなしをしようにも、僕を家に連れて\r\n//帰ってもらわないと始まらないんだ」\r\n\"Oh, but now that you mention it, I guess I need you to take me home before I can thank you properly.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200700b43'>\r\n//「そういうわけでお姉さん、もしもお急ぎで\r\n//なかったらどうかお願いします。\r\n//　うーん……お礼をするために面倒を掛ける\r\n//なんて本末転倒にもほどがあるなぁ……」\r\n\"I mean, if it's not too much trouble. At this rate, I'm gonna have to apologize for trying to thank you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200690b43'>\r\n//「あっ、そうか。\r\n//　おもてなしをしようにも、僕を家に連れて\r\n//帰ってもらわないと始まらないんだ」\r\n\"Ah, mas agora que você mencionou, acho que preciso que você me leve para casa antes que eu possa agradecer direito.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200700b43'>\r\n//「そういうわけでお姉さん、もしもお急ぎで\r\n//なかったらどうかお願いします。\r\n//　うーん……お礼をするために面倒を掛ける\r\n//なんて本末転倒にもほどがあるなぁ……」\r\n\"Quer dizer, se não for incomodar muito. Desse jeito, vou acabar tendo que me desculpar por tentar te agradecer.\"\r\n"
  },
  {
   "offset": 24361,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200710b43'>\r\n//「はっはっは、大笑いですね」\r\n\"Pretty funny, right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200710b43'>\r\n//「はっはっは、大笑いですね」\r\n\"Muito engraçado, né?\"\r\n"
  },
  {
   "offset": 24523,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200720a01'>\r\n//「…………そうね」\r\n\"...I suppose,\"</voice> I mutter, defeated.\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200720a01'>\r\n//「…………そうね」\r\n\"...Suponho\"</voice>, murmuro eu, derrotada.\r\n"
  },
  {
   "offset": 24697,
   "en": "\r\n//　何だか屈服する心地で私は認めた。\r\n//　この饅頭を口に詰め込まれるかのような、どうにも\r\n//どうしようもない感覚は一体何なのだろうか。\r\n  What is this feeling? It's like trying to chew my way through a ball of dough that never ends.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　何だか屈服する心地で私は認めた。\r\n//　この饅頭を口に詰め込まれるかのような、どうにも\r\n//どうしようもない感覚は一体何なのだろうか。\r\n  Que sensação é essa? É como tentar mastigar uma bola de massa que nunca acaba.\r\n\r\n"
  },
  {
   "offset": 25005,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200730a01'>\r\n//「とりあえず、家の場所を教えて。\r\n//　番地とかを言われても良くわからないから、\r\n//何か目印になるものを」\r\n\"So where do you live? I won't be able to find the address, so describe the area. Landmarks or something.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200730a01'>\r\n//「とりあえず、家の場所を教えて。\r\n//　番地とかを言われても良くわからないから、\r\n//何か目印になるものを」\r\n\"Então, onde você mora? Não vou conseguir achar o endereço, então descreva a região. Pontos de referência ou algo assim.\"\r\n"
  },
  {
   "offset": 25367,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200740b43'>\r\n//「目印ですか。\r\n//　そうだなぁ」\r\n\"Landmarks... hmm...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200740b43'>\r\n//「目印ですか。\r\n//　そうだなぁ」\r\n\"Pontos de referência... hmm...\"\r\n"
  },
  {
   "offset": 25532,
   "en": "\r\n//　背中の方からまた、車の音がした。\r\n//　……こんな狭い道ばかりを狙って通ることもないだ\r\n//ろうに。\r\n\r\n//　彼の話をいったん止め、腕を引いて道の脇へ寄る。\r\n  Before he can answer, I hear another car approaching. Is this alley some kind of shortcut?\r\n\r\n  I grab Inagi's arm and pull him to the side.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　背中の方からまた、車の音がした。\r\n//　……こんな狭い道ばかりを狙って通ることもないだ\r\n//ろうに。\r\n\r\n//　彼の話をいったん止め、腕を引いて道の脇へ寄る。\r\n  Antes que ele responda, ouço outro carro se aproximando. Será que esta viela é algum tipo de atalho?\r\n\r\n  Agarro o braço de Inagi e o puxo para o lado.\r\n\r\n"
  },
  {
   "offset": 25913,
@@ -342,7 +342,7 @@
  {
   "offset": 26028,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200760b43'>\r\n//「わっ、とっ、とっ」\r\n\"Whoa!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200760b43'>\r\n//「わっ、とっ、とっ」\r\n\"Eita!\"\r\n"
  },
  {
   "offset": 26163,
@@ -352,37 +352,37 @@
  {
   "offset": 26287,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200780b43'>\r\n//「びっくりしましたね。今の、車が急に速度\r\n//を上げたんじゃないですか？\r\n//　急いでたのかな」\r\n\"Did that car just speed up? Must've been in a hurry.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200780b43'>\r\n//「びっくりしましたね。今の、車が急に速度\r\n//を上げたんじゃないですか？\r\n//　急いでたのかな」\r\n\"Aquele carro acabou de acelerar? Devia estar com pressa.\"\r\n"
  },
  {
   "offset": 26573,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200790a01'>\r\n//「……さあ。どうかしら」\r\n\"...Yes. He must have.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200790a01'>\r\n//「……さあ。どうかしら」\r\n\"...Sim. Devia.\"\r\n"
  },
  {
   "offset": 26736,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200800b43'>\r\n//「それで、僕の家なんですけど。\r\n//　湾岸に近い辺りで――」\r\n\"So about my house. It's by the coast, near―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200800b43'>\r\n//「それで、僕の家なんですけど。\r\n//　湾岸に近い辺りで――」\r\n\"Então, sobre a minha casa. Fica perto da costa, perto de —\"\r\n"
  },
  {
   "offset": 26966,
   "en": "\r\n//　私は聞いていなかった。\r\n\r\n//　前方を見据える。\r\n//　いま行き過ぎていった車が、幾らかの距離を置いて\r\n//停止している。\r\n\r\n//　軍用の車。\r\n//　先刻見たものと、全く同じ。\r\n\r\n//　兵士が二人、乗っているのも同じ。\r\n//　その姿形も、おそらく。\r\n\r\n//　彼らがそろってこちらを向いた。\r\n\r\n//　煙草を咥えた口で、にやにやと笑いながら。\r\n  I am no longer listening.\r\n\r\n  Instead, my attention is focused on the car that just passed us, which has come to a stop farther down the road.\r\n\r\n  The car is military-issue, the same as before, once again with two soldiers sitting in the front. If they turn this way, I'm sure I'll see the same faces.\r\n\r\n  And now they do turn. The same faces, as expected, tobacco clenched between grinning teeth.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　私は聞いていなかった。\r\n\r\n//　前方を見据える。\r\n//　いま行き過ぎていった車が、幾らかの距離を置いて\r\n//停止している。\r\n\r\n//　軍用の車。\r\n//　先刻見たものと、全く同じ。\r\n\r\n//　兵士が二人、乗っているのも同じ。\r\n//　その姿形も、おそらく。\r\n\r\n//　彼らがそろってこちらを向いた。\r\n\r\n//　煙草を咥えた口で、にやにやと笑いながら。\r\n  Não estou mais ouvindo.\r\n\r\n  Em vez disso, minha atenção está voltada para o carro que acabou de passar por nós, que parou mais adiante na estrada.\r\n\r\n  O carro é militar, o mesmo de antes, mais uma vez com dois soldados sentados na frente. Se eles se virarem para cá, tenho certeza de que vou ver os mesmos rostos.\r\n\r\n  E agora eles se viram. Os mesmos rostos, como esperado, tabaco apertado entre dentes sorridentes.\r\n\r\n"
  },
  {
   "offset": 27846,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200810a01'>\r\n//（あいつら）\r\n(Damn it.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200810a01'>\r\n//（あいつら）\r\n(Droga.)\r\n"
  },
  {
   "offset": 27978,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200820b43'>\r\n//「若宮大路を、」\r\n\"So if you can find Wakamiya―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200820b43'>\r\n//「若宮大路を、」\r\n\"Então, se você conseguir achar a Wakamiya —\"\r\n"
  },
  {
   "offset": 28132,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200830a01'>\r\n//「ちょっと黙って！」\r\n\"Directions can wait!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200830a01'>\r\n//「ちょっと黙って！」\r\n\"As direções podem esperar!\"\r\n"
  },
  {
   "offset": 28288,
@@ -392,42 +392,42 @@
  {
   "offset": 28424,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200850b43'>\r\n//「狭い裏通りだと思ってたんですけど、実は\r\n//ここ、大通りの真ん中だったりします？」\r\n\"Huh. Did I wander onto a busy highway or something? Could've sworn I was taking the back streets.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200850b43'>\r\n//「狭い裏通りだと思ってたんですけど、実は\r\n//ここ、大通りの真ん中だったりします？」\r\n\"Hã. Será que eu fui parar em uma avenida movimentada ou algo assim? Jurava que estava pegando as ruas de trás.\"\r\n"
  },
  {
   "offset": 28742,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200860a01'>\r\n//「私の目には、熊が二頭肩を組んで歩けるか\r\n//どうかって広さにしか見えないけど」\r\n\"It's just about wide enough for two bears to walk side-by-side.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200860a01'>\r\n//「私の目には、熊が二頭肩を組んで歩けるか\r\n//どうかって広さにしか見えないけど」\r\n\"É quase largo o bastante para dois ursos andarem lado a lado.\"\r\n"
  },
  {
   "offset": 29026,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200870b43'>\r\n//「それにしては車が多いですねぇ」\r\n\"Then I wonder what's up with all the cars.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200870b43'>\r\n//「それにしては車が多いですねぇ」\r\n\"Então me pergunto o que há com todos esses carros.\"\r\n"
  },
  {
   "offset": 29216,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200880a01'>\r\n//「ええ。なんでかね」\r\n\"Yes. I wonder.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200880a01'>\r\n//「ええ。なんでかね」\r\n\"Sim. Eu me pergunto.\"\r\n"
  },
  {
   "offset": 29366,
   "en": "\r\n//　後進で脇を走り抜けていった車は、またほど近い所\r\n//に止まっている。\r\n//　そこが目的地、というわけでないことは明白だった。\r\n\r\n//　……理解は難しくない。\r\n//　あんなのは何処にだっている。\r\n\r\n//　弱いものを見れば虐げずにはいられない人間など、\r\n//ありふれた存在だ。\r\n//　昔からいるし、今もいるし、<RUBY text='・・'>そこ</RUBY>にもいるという、\r\n//それだけのこと。\r\n\r\n//　いま鎌倉を支配している軍勢は、兵士の行動秩序を\r\n//良く引き締めている印象があったが――やはり何事も\r\n//完璧にとはいかないものなのか。\r\n//　勝利が迫っているとなれば尚更。\r\n  Having driven past us once again, this time in reverse, the car comes to a stop a short distance away. Somehow, I doubt that's their destination.\r\n\r\n  Their purpose is not difficult to guess. I've seen their kind before, many times.\r\n\r\n  There are always those who delight in tormenting the helpless. There always have been. There always will be. These two are nothing special.\r\n\r\n  If anything, the occupying army has exhibited unusual discipline, at least as far as I've seen. But no one is perfect, and victory has a way of loosening even the tightest reins.\r\n",
-  "pt": ""
+  "pt": "\r\n//　後進で脇を走り抜けていった車は、またほど近い所\r\n//に止まっている。\r\n//　そこが目的地、というわけでないことは明白だった。\r\n\r\n//　……理解は難しくない。\r\n//　あんなのは何処にだっている。\r\n\r\n//　弱いものを見れば虐げずにはいられない人間など、\r\n//ありふれた存在だ。\r\n//　昔からいるし、今もいるし、<RUBY text='・・'>そこ</RUBY>にもいるという、\r\n//それだけのこと。\r\n\r\n//　いま鎌倉を支配している軍勢は、兵士の行動秩序を\r\n//良く引き締めている印象があったが――やはり何事も\r\n//完璧にとはいかないものなのか。\r\n//　勝利が迫っているとなれば尚更。\r\n  Tendo passado por nós mais uma vez, agora em marcha à ré, o carro para a pouca distância. De algum modo, duvido que seja o destino deles.\r\n\r\n  O propósito deles não é difícil de adivinhar. Já vi gente desse tipo antes, muitas vezes.\r\n\r\n  Sempre existem aqueles que se comprazem em atormentar os indefesos. Sempre existiram. Sempre existirão. Esses dois não têm nada de especial.\r\n\r\n  Na verdade, o exército de ocupação tem demonstrado uma disciplina incomum, ao menos pelo que vi. Mas ninguém é perfeito, e a vitória tem um jeito de afrouxar até as rédeas mais firmes.\r\n"
  },
  {
   "offset": 30710,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200890a01'>\r\n//（あんなの、相手するまでもない）\r\n(I shouldn't get involved.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200890a01'>\r\n//（あんなの、相手するまでもない）\r\n(Não devo me envolver.)\r\n"
  },
  {
   "offset": 30889,
   "en": "\r\n//　逃げるのは簡単だ。\r\n//　あえて劒冑の能力など使わなくとも、車幅より狭い\r\n//小道を探して入り込めばそれで済む。\r\n\r\n//　変に目立って要らぬ注意を引いてしまうこともなく、\r\n//無難にこの下らない一件から離れられるだろう。\r\n//　\r\n//　一人だけならば。\r\n\r\n//　稲城忠保をここへ置き捨てていけるのなら、それで\r\n//いい。\r\n  If I am to prioritize my mission, I mustn't draw attention. \r\n\r\n  I know exactly how I can end this ridiculous escapade without further fuss. All I need is a street too narrow for the car to follow. I won't even have to change form.\r\n\r\n  A simple task, but only alone. I'll have to abandon Inagi Tadayasu.\r\n",
-  "pt": ""
+  "pt": "\r\n//　逃げるのは簡単だ。\r\n//　あえて劒冑の能力など使わなくとも、車幅より狭い\r\n//小道を探して入り込めばそれで済む。\r\n\r\n//　変に目立って要らぬ注意を引いてしまうこともなく、\r\n//無難にこの下らない一件から離れられるだろう。\r\n//　\r\n//　一人だけならば。\r\n\r\n//　稲城忠保をここへ置き捨てていけるのなら、それで\r\n//いい。\r\n  Se eu quiser priorizar minha missão, não devo chamar atenção. \r\n\r\n  Sei exatamente como posso encerrar essa escapada ridícula sem mais alarde. Só preciso de uma rua estreita demais para o carro seguir. Nem vou precisar mudar de forma.\r\n\r\n  Uma tarefa simples, mas só sozinha. Vou ter que abandonar Inagi Tadayasu.\r\n"
  },
  {
   "offset": 31653,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200900a01'>\r\n//「……くっ！」\r\n\"...Damn!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200900a01'>\r\n//「……くっ！」\r\n\"...Droga!\"\r\n"
  },
  {
   "offset": 31788,
@@ -437,62 +437,62 @@
  {
   "offset": 31912,
   "en": "\r\n//　今度は壁際すれすれを走ってきた。\r\n//　寸前まで引き付けてから反対側へ跳び、かろうじて\r\n//避けたが……次は通用しないだろう。\r\n\r\n//　車を操る兵士は、興の乗った表情をしている。\r\n//　楽しく遊ぶ子供のそれだ。\r\n\r\n//　あの様子では、とにかく一度当てるまでは止めまい。\r\n\r\n//　彼らに殺意は無かった。\r\n//　\r\n//　彼らは、<RUBY text='・・・・・・・・・・'>そこまで考えていない</RUBY>。\r\n\r\n//　大きくて重い車に衝突されれば人間など簡単に死ぬ\r\n//――そんな<RUBY text='・・・'>難しい</RUBY>計算は彼らには無理だ。\r\n//　彼らは必ず、やった後で理解する。\r\n\r\n//　そうかこうすると死んでしまうのか、と思う。\r\n//　そしてすぐに忘れる。\r\n//　\r\n//　だからまた同じことをする。\r\n\r\n//　あの二人はそういう種の人間だ。\r\n//　例え言語の違いが無くとも、私は彼らと意志の疎通\r\n//などできなかったろう。\r\n  This time the car hugs our edge of the road. I wait for it to get close, then yank Inagi to the opposite side.\r\n\r\n  It works―barely―but I doubt it will again.\r\n\r\n  I glare at the men driving the thing. Their faces are alight with childish glee.\r\n\r\n  A game. That's all this is to them. Never mind that their targets might㉓<I>die.</I>㉑ I doubt they're thinking that far ahead.\r\n\r\n  Only afterward, when they're standing over a broken corpse, will the two of them look down and think, \"Huh. You㉓<I>can</I>㉓kill someone that way.\"\r\n\r\n  They'll spend a few moments pondering the fragility of life, and then the memory will slip away, and they'll move on to their next game.\r\n\r\n  That's the kind of people these are. Even if I spoke their language, we could never reach an understanding.\r\n",
-  "pt": ""
+  "pt": "\r\n//　今度は壁際すれすれを走ってきた。\r\n//　寸前まで引き付けてから反対側へ跳び、かろうじて\r\n//避けたが……次は通用しないだろう。\r\n\r\n//　車を操る兵士は、興の乗った表情をしている。\r\n//　楽しく遊ぶ子供のそれだ。\r\n\r\n//　あの様子では、とにかく一度当てるまでは止めまい。\r\n\r\n//　彼らに殺意は無かった。\r\n//　\r\n//　彼らは、<RUBY text='・・・・・・・・・・'>そこまで考えていない</RUBY>。\r\n\r\n//　大きくて重い車に衝突されれば人間など簡単に死ぬ\r\n//――そんな<RUBY text='・・・'>難しい</RUBY>計算は彼らには無理だ。\r\n//　彼らは必ず、やった後で理解する。\r\n\r\n//　そうかこうすると死んでしまうのか、と思う。\r\n//　そしてすぐに忘れる。\r\n//　\r\n//　だからまた同じことをする。\r\n\r\n//　あの二人はそういう種の人間だ。\r\n//　例え言語の違いが無くとも、私は彼らと意志の疎通\r\n//などできなかったろう。\r\n  Desta vez, o carro passa raspando pelo nosso lado da rua. Espero que se aproxime e então puxo Inagi para o lado oposto.\r\n\r\n  Funciona — por pouco —, mas duvido que funcione de novo.\r\n\r\n  Encaro os homens que dirigem o troço. Seus rostos estão radiantes de uma alegria infantil.\r\n\r\n  Um jogo. É só isso que isto é para eles. Não importa que suas vítimas possam㉓<I>morrer.</I>㉑ Duvido que estejam pensando tão longe.\r\n\r\n  Só depois, quando estiverem diante de um cadáver destroçado, é que os dois vão olhar para baixo e pensar: \"Hã. Então você㉓<I>pode</I>㉓matar alguém assim.\"\r\n\r\n  Vão passar alguns instantes refletindo sobre a fragilidade da vida, e então a lembrança vai escapar, e eles vão seguir para o próximo jogo.\r\n\r\n  É esse tipo de gente que eles são. Mesmo que eu falasse a língua deles, nunca conseguiríamos nos entender.\r\n"
  },
  {
   "offset": 33807,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200920b43'>\r\n//「お姉さん」\r\n\"Miss.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200920b43'>\r\n//「お姉さん」\r\n\"Moça.\"\r\n"
  },
  {
   "offset": 33930,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200930a01'>\r\n//「今ちょっと忙しくて……。\r\n//　家の場所は後で聞くから」\r\n\"Tell me after. I'm a little busy.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200930a01'>\r\n//「今ちょっと忙しくて……。\r\n//　家の場所は後で聞くから」\r\n\"Me diga depois. Estou um pouco ocupada.\"\r\n"
  },
  {
   "offset": 34151,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200940b43'>\r\n//「いえ、もう結構です。\r\n//　何となく思い出しました。僕の家、ここら\r\n//へんの近くにあるんですよ」\r\n\"Actually, I just remembered. My house is right around the corner.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200940b43'>\r\n//「いえ、もう結構です。\r\n//　何となく思い出しました。僕の家、ここら\r\n//へんの近くにあるんですよ」\r\n\"Na verdade, acabei de lembrar. Minha casa fica logo ali, virando a esquina.\"\r\n"
  },
  {
   "offset": 34456,
   "en": "\r\n//　目の見えない学生が、いい加減なことを言っていた。\r\n  It was by the coast a minute ago.\r\n",
-  "pt": ""
+  "pt": "\r\n//　目の見えない学生が、いい加減なことを言っていた。\r\n  Há um instante era perto da costa.\r\n"
  },
  {
   "offset": 34582,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200950b43'>\r\n//「送って頂かなくても平気です。\r\n//　それと、お礼の話ですけど……良く考えて\r\n//みたら今は家の中が取り込み中で」\r\n\"So it's fine. I can get myself home. And I know I said I'd thank you properly, but I also remembered that things are kind of hectic at home right now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200950b43'>\r\n//「送って頂かなくても平気です。\r\n//　それと、お礼の話ですけど……良く考えて\r\n//みたら今は家の中が取り込み中で」\r\n\"Então está tudo bem. Eu consigo voltar sozinho para casa. E eu sei que disse que agradeceria direito, mas também lembrei que as coisas estão meio caóticas em casa agora.\"\r\n"
  },
  {
   "offset": 34993,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200960a01'>\r\n//「そう」\r\n\"Uh-huh.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200960a01'>\r\n//「そう」\r\n\"Aham.\"\r\n"
  },
  {
   "offset": 35118,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200970b43'>\r\n//「申し訳ありません。\r\n//　次の機会にさせてください」\r\n\"So it'd be great if you could stop by another time. Sorry for the inconvenience.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200970b43'>\r\n//「申し訳ありません。\r\n//　次の機会にさせてください」\r\n\"Então seria ótimo se você pudesse aparecer outra hora. Desculpe pelo incômodo.\"\r\n"
  },
  {
   "offset": 35374,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200980a01'>\r\n//「家はどこなの？」\r\n\"Where do you live?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0200980a01'>\r\n//「家はどこなの？」\r\n\"Onde você mora?\"\r\n"
  },
  {
   "offset": 35525,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200990b43'>\r\n//「本当にすぐ近くです。\r\n//　なので、お姉さん……もういいですから、\r\n//どうぞ行ってください」\r\n\"Right around the corner. I promise. So please, you can go now. I'll take care of myself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0200990b43'>\r\n//「本当にすぐ近くです。\r\n//　なので、お姉さん……もういいですから、\r\n//どうぞ行ってください」\r\n\"Logo ali, virando a esquina. Prometo. Então, por favor, pode ir agora. Eu me viro sozinho.\"\r\n"
  },
  {
   "offset": 35847,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201000a01'>\r\n//「そう。\r\n//　……そんなに近くなら」\r\n\"Well, if it's that close...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201000a01'>\r\n//「そう。\r\n//　……そんなに近くなら」\r\n\"Bem, se é tão perto...\"\r\n"
  },
  {
   "offset": 36032,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201010a01'>\r\n//「大袈裟なお礼はいらないけど、お茶の一杯\r\n//　その程度なら、取り込んでいても邪魔には\r\n//くらい頂いていってもいいかもね。\r\n//ならないでしょう？」\r\n\"Maybe I'll stop in for a cup of tea. That won't be such a bother, will it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201010a01'>\r\n//「大袈裟なお礼はいらないけど、お茶の一杯\r\n//　その程度なら、取り込んでいても邪魔には\r\n//くらい頂いていってもいいかもね。\r\n//ならないでしょう？」\r\n\"Talvez eu entre para tomar uma xícara de chá. Isso não vai ser incômodo, vai?\"\r\n"
  },
  {
   "offset": 36422,
@@ -502,197 +502,197 @@
  {
   "offset": 36546,
   "en": "\r\n//　車を見据える。\r\n//　わかる――今度は、車と壁とでこちらを挟み潰そう\r\n//という気だ。\r\n\r\n//　逃げ場はない。\r\n//　彼には、何処にも。\r\n\r\n//　私だけなら話は簡単だ。\r\n//　さっさと尻に帆をかけて逃走すれば済む。\r\n\r\n//　けれど。\r\n  The car is making another approach. This time, they mean to crush us against one side of the road or the other.\r\n\r\n  There's nowhere to run. Not for Inagi Tadayasu.\r\n\r\n  And not for me.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　車を見据える。\r\n//　わかる――今度は、車と壁とでこちらを挟み潰そう\r\n//という気だ。\r\n\r\n//　逃げ場はない。\r\n//　彼には、何処にも。\r\n\r\n//　私だけなら話は簡単だ。\r\n//　さっさと尻に帆をかけて逃走すれば済む。\r\n\r\n//　けれど。\r\n  O carro está se aproximando de novo. Desta vez, querem nos esmagar contra um dos lados da rua.\r\n\r\n  Não há para onde correr. Nem para Inagi Tadayasu.\r\n\r\n  E nem para mim.\r\n\r\n"
  },
  {
   "offset": 37064,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201030a01'>\r\n//（御堂なら）\r\n(If Mido were here...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201030a01'>\r\n//（御堂なら）\r\n(Se Mido estivesse aqui...)\r\n"
  },
  {
   "offset": 37208,
   "en": "\r\n  A certainty has taken hold.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n  Uma certeza tomou conta de mim.\r\n\r\n"
  },
  {
   "offset": 37251,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201040a01'>\r\n//（稲城忠保を死なせない）\r\n(He wouldn't let Inagi die.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201040a01'>\r\n//（稲城忠保を死なせない）\r\n(Ele não deixaria Inagi morrer.)\r\n"
  },
  {
   "offset": 37419,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201050b43'>\r\n//「僕はあいつの代わりにやらなきゃいけない。\r\n//　あいつがするはずだったことを」\r\n\"I still have a job to do. The job he would've done, if he were still alive.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201050b43'>\r\n//「僕はあいつの代わりにやらなきゃいけない。\r\n//　あいつがするはずだったことを」\r\n\"Eu ainda tenho um trabalho a fazer. O trabalho que ele teria feito, se ainda estivesse vivo.\"\r\n"
  },
  {
   "offset": 37709,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201060b43'>\r\n//「小夏を守らないと」\r\n\"I have to protect Konatsu.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201070b43'>\r\n//「僕は……\r\n//　きっと、あいつを――雄飛を犠牲にして、\r\n//生きているんだから……」\r\n\"He died because of us. That's the least I can do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201060b43'>\r\n//「小夏を守らないと」\r\n\"Eu tenho que proteger Konatsu.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201070b43'>\r\n//「僕は……\r\n//　きっと、あいつを――雄飛を犠牲にして、\r\n//生きているんだから……」\r\n\"Ele morreu por nossa causa. É o mínimo que posso fazer.\"\r\n"
  },
  {
   "offset": 38125,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201080a01'>\r\n//（絶対に――死なせてはならないと思う！）\r\n(He would save him no matter what!)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201080a01'>\r\n//（絶対に――死なせてはならないと思う！）\r\n(Ele o salvaria a qualquer custo!)\r\n"
  },
  {
   "offset": 38324,
   "en": "\r\n//　ならばここは湊斗景明の戦場だ。\r\n//　例え本人がいなくても。\r\n\r\n//　私は彼の力となり、戦う義務がある！\r\n  Then this is Minato Kageaki's fight. I have a duty to see it through!\r\n",
-  "pt": ""
+  "pt": "\r\n//　ならばここは湊斗景明の戦場だ。\r\n//　例え本人がいなくても。\r\n\r\n//　私は彼の力となり、戦う義務がある！\r\n  Então esta é a batalha de Minato Kageaki. Tenho o dever de levá-la até o fim!\r\n"
  },
  {
   "offset": 38559,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201090a01'>\r\n//「稲城忠保」\r\n\"Inagi Tadayasu.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201090a01'>\r\n//「稲城忠保」\r\n\"Inagi Tadayasu.\"\r\n"
  },
  {
   "offset": 38698,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201100b43'>\r\n//「お姉さん……」\r\n\"Miss...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201100b43'>\r\n//「お姉さん……」\r\n\"Moça...\"\r\n"
  },
  {
   "offset": 38829,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201110a01'>\r\n//「空を飛んだことはある？」\r\n\"Do you know how it feels to fly?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201110a01'>\r\n//「空を飛んだことはある？」\r\n\"Você sabe o que se sente ao voar?\"\r\n"
  },
  {
   "offset": 39006,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201120b43'>\r\n//「え？」\r\n\"Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201120b43'>\r\n//「え？」\r\n\"Hã?\"\r\n"
  },
  {
   "offset": 39122,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201130a01'>\r\n//「こんな感じよ」\r\n\"It's a little like this!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201130a01'>\r\n//「こんな感じよ」\r\n\"É mais ou menos assim!\"\r\n"
  },
  {
   "offset": 39276,
   "en": "\r\n//　突進する車の進路から……\r\n//　自身ともう一人の人間とを、<RUBY text='・・'>消失</RUBY>させる。\r\n\r\n//　その瞬間の、車に乗る兵士らの顔つきは<RUBY text='みもの'>見物</RUBY>だった。\r\n//　両目を丸くし、口をぽかんと空けて――通常の人間\r\n//なら絶対に有り得ない跳躍力で頭上を越えてゆく、私\r\n//と盲目の学生の姿を見守る。\r\n\r\n//　そしてそのまま、彼らは壁に衝突した。\r\n\r\n  From the soldiers' perspective, it must look as though the two of us suddenly vanish.\r\n\r\n  Ah, the looks on their faces. It almost makes up for the day I've had. Eyes wide, mouths agape, they frantically scan for any sign of their quarry.\r\n\r\n  And then they see us sailing overhead. They stare transfixed as we pass behind them.\r\n\r\n  And then they crash into the wall.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　突進する車の進路から……\r\n//　自身ともう一人の人間とを、<RUBY text='・・'>消失</RUBY>させる。\r\n\r\n//　その瞬間の、車に乗る兵士らの顔つきは<RUBY text='みもの'>見物</RUBY>だった。\r\n//　両目を丸くし、口をぽかんと空けて――通常の人間\r\n//なら絶対に有り得ない跳躍力で頭上を越えてゆく、私\r\n//と盲目の学生の姿を見守る。\r\n\r\n//　そしてそのまま、彼らは壁に衝突した。\r\n\r\n  Do ponto de vista dos soldados, deve parecer que nós dois desaparecemos de repente.\r\n\r\n  Ah, as caras deles. Quase compensa o dia que tive. Olhos arregalados, bocas escancaradas, eles procuram freneticamente qualquer sinal da presa.\r\n\r\n  E então eles nos veem passando por cima. Ficam paralisados, olhando enquanto passamos por trás deles.\r\n\r\n  E então eles batem no muro.\r\n\r\n"
  },
  {
   "offset": 40165,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201140b43'>\r\n//「……あ、あのー……」\r\n\"...Uh...\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201150b43'>\r\n//「お姉さん、今なにか、すごいことしません\r\n//でした？」\r\n\"Did you just do something amazing?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201140b43'>\r\n//「……あ、あのー……」\r\n\"...Ah...\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201150b43'>\r\n//「お姉さん、今なにか、すごいことしません\r\n//でした？」\r\n\"Moça, você acabou de fazer algo incrível?\"\r\n"
  },
  {
   "offset": 40511,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201160a01'>\r\n//「さあ？」\r\n\"Such as?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201160a01'>\r\n//「さあ？」\r\n\"Como o quê?\"\r\n"
  },
  {
   "offset": 40640,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201170b43'>\r\n//「本当に飛んだんですか？」\r\n\"Such as fly for real?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201170b43'>\r\n//「本当に飛んだんですか？」\r\n\"Como voar de verdade?\"\r\n"
  },
  {
   "offset": 40800,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201180a01'>\r\n//「だとしたら、不思議ね」\r\n\"That would be amazing, wouldn't it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201180a01'>\r\n//「だとしたら、不思議ね」\r\n\"Isso seria incrível, não seria?\"\r\n"
  },
  {
   "offset": 40977,
   "en": "\r\n//　片目をつぶる。\r\n//　見てもらえないのは残念だと思いながら。\r\n\r\n//　彼の片腕をつかんで、進むよう促す。\r\n  Too bad he can't see my wink.\r\n\r\n  I take his arm and lead him off down the street.\r\n",
-  "pt": ""
+  "pt": "\r\n//　片目をつぶる。\r\n//　見てもらえないのは残念だと思いながら。\r\n\r\n//　彼の片腕をつかんで、進むよう促す。\r\n  Pena que ele não possa ver meu piscar de olho.\r\n\r\n  Pego o braço dele e o conduzo pela rua.\r\n"
  },
  {
   "offset": 41226,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201190a01'>\r\n//「とにかくここから離れましょ。\r\n//　貴方の家、海の方って言っていたっけ？」\r\n\"We should get away from here. You said you live near the coast?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201190a01'>\r\n//「とにかくここから離れましょ。\r\n//　貴方の家、海の方って言っていたっけ？」\r\n\"Devemos sair daqui. Você disse que mora perto da costa?\"\r\n"
  },
  {
   "offset": 41504,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201200b43'>\r\n//「ええと……はい。でも――」\r\n\"Yes, that's right. But―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201200b43'>\r\n//「ええと……はい。でも――」\r\n\"Sim, é isso. Mas―\"\r\n"
  },
  {
   "offset": 41671,
   "en": "\r\n//　……そう簡単には済んでくれないか。\r\n//　向こうも戦争が仕事の兵士だということを失念して\r\n//いた。\r\n  ...I suppose it was never going to be that easy. I forgot we were dealing with soldiers. Killers.\r\n",
-  "pt": ""
+  "pt": "\r\n//　……そう簡単には済んでくれないか。\r\n//　向こうも戦争が仕事の兵士だということを失念して\r\n//いた。\r\n  ...Acho que nunca ia ser tão fácil. Esqueci que estávamos lidando com soldados. Assassinos.\r\n"
  },
  {
   "offset": 41929,
   "en": "\r\n//　二人は破損した車から降りて、私を睨んでいる。\r\n//　銃口を突きつけ。憤激のあまり額まで赤く染め。\r\n\r\n//　あれは、子供の怒りだ。\r\n//　猫を苛めて遊んでいて、その猫に顔を引っ掻かれた\r\n//子供の怒り。\r\n\r\n//　自分より下等で脆弱だと信じていた相手に反撃され\r\n//傷付けられたことを、激しく怒っているのだ。\r\n//　迷いなく、恥じらいもない、真っ直ぐな憤り。\r\n\r\n//　その怒りが誤りだなどと、諭してやるつもりは全く\r\n//無かった。\r\n  The soldiers are standing beside their ruined car, glares and rifles trained on me.\r\n\r\n  Their faces are purple with rage: the blind, unthinking rage of children who cannot believe that a cat backed into a corner might lash out against its tormentors. We were supposed to be weak, inferior things. And now we've gone and hurt them.\r\n\r\n  I am not inclined to explain that their anger, pure though it may be, is misplaced. Let them believe that they're right, for all I care.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　二人は破損した車から降りて、私を睨んでいる。\r\n//　銃口を突きつけ。憤激のあまり額まで赤く染め。\r\n\r\n//　あれは、子供の怒りだ。\r\n//　猫を苛めて遊んでいて、その猫に顔を引っ掻かれた\r\n//子供の怒り。\r\n\r\n//　自分より下等で脆弱だと信じていた相手に反撃され\r\n//傷付けられたことを、激しく怒っているのだ。\r\n//　迷いなく、恥じらいもない、真っ直ぐな憤り。\r\n\r\n//　その怒りが誤りだなどと、諭してやるつもりは全く\r\n//無かった。\r\n  Os soldados estão ao lado do carro destruído, olhares e rifles apontados para mim.\r\n\r\n  Seus rostos estão roxos de raiva: a raiva cega e irracional de crianças que não conseguem acreditar que um gato encurralado possa se voltar contra seus algozes. Éramos para ser coisas fracas e inferiores. E agora nós os machucamos.\r\n\r\n  Não estou inclinada a explicar que a raiva deles, por mais pura que seja, está fora de lugar. Que acreditem que estão certos, para mim tanto faz.\r\n\r\n"
  },
  {
   "offset": 43016,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201210a01'>\r\n//（正しいと信じていればいい）\r\n(It won't do you any good.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201210a01'>\r\n//（正しいと信じていればいい）\r\n(Não vai adiantar nada.)\r\n"
  },
  {
   "offset": 43189,
   "en": "\r\n//　私が彼らに教えてやるのは、<RUBY text='・・・・・・・・・'>正しいのに勝てない</RUBY>と\r\n//いう屈辱だ。\r\n  I'll teach them how powerless righteousness is.\r\n",
-  "pt": ""
+  "pt": "\r\n//　私が彼らに教えてやるのは、<RUBY text='・・・・・・・・・'>正しいのに勝てない</RUBY>と\r\n//いう屈辱だ。\r\n  Vou lhes ensinar o quanto é impotente estar com a razão.\r\n"
  },
  {
   "offset": 43396,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201220b43'>\r\n//「お姉さ――」\r\n\"Miss―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201220b43'>\r\n//「お姉さ――」\r\n\"Moça―\"\r\n"
  },
  {
   "offset": 43524,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201230a01'>\r\n//「伏せて！」\r\n\"Get down!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201230a01'>\r\n//「伏せて！」\r\n\"Abaixe-se!\"\r\n"
  },
  {
   "offset": 43657,
   "en": "\r\n//　彼は盲目とも思えない素早さで、私の指示に従った。\r\n//　……そうだ。稲城忠保には判断力の確かなところが\r\n//あった。\r\n\r\n//　過去のわずかな観察の記憶を反芻する。\r\n//　\r\n//　その直後、衝撃に襲われた。\r\n  He throws himself to the ground with surprising speed for a blind man. \r\n\r\n  Come to think of it, he always did show good judgment. I recall that from my time observing him and his friends.\r\n\r\n  A moment later, the bullets strike home.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　彼は盲目とも思えない素早さで、私の指示に従った。\r\n//　……そうだ。稲城忠保には判断力の確かなところが\r\n//あった。\r\n\r\n//　過去のわずかな観察の記憶を反芻する。\r\n//　\r\n//　その直後、衝撃に襲われた。\r\n  Ele se joga no chão com uma rapidez surpreendente para um cego.\r\n\r\n  Pensando bem, ele sempre mostrou bom senso. Lembro disso do tempo em que observei ele e seus amigos.\r\n\r\n  Um instante depois, as balas atingem o alvo.\r\n\r\n"
  },
  {
   "offset": 44195,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201240a01'>\r\n//「く……ぅっ!!」\r\n\"Guh...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201240a01'>\r\n//「く……ぅっ!!」\r\n\"Guh...!\"\r\n"
  },
  {
   "offset": 44331,
   "en": "\r\n//　腹部、肩、右胸。\r\n//　三箇所を飛弾で抉られる。\r\n\r\n//　異物の侵食は、深い嫌悪感を催した。\r\n//　足元が揺らぎ、たたらを踏む。\r\n\r\n//　けれど、それだけだった。\r\n\r\n//　銃を撃ち放った二人の兵士は絶句している。\r\n//　やはり、子供のような表情だった――岩に叩きつけ\r\n//ても死なずに抗ってくる猫を見た子供の。\r\n\r\n//　この擬似肉体は銃弾を防ぎ止めるほど強固ではない。\r\n//　だが、本物の肉体ほど脆弱でもなかった。あの程度\r\n//の小玉なら<RUBY text='しんがね'>心鉄</RUBY>を直撃されない限りは何発だって耐え\r\n//られる。\r\n\r\n//　……だからといって、もうやらせはしない。\r\n\r\n//　恐慌一歩手前の様子で再び銃の狙点を合わせる彼ら\r\n//に、私は片手を差し伸べた。\r\n//　肉体変成を部分解除――甲鉄に復元する。\r\n  They stab deep into my flesh: shoulder, abdomen, right chest. The sensation of objects entering my body is not a pleasant one. My knees buckle beneath a wave of nausea.\r\n\r\n  Fortunately, I have no greater concern than that.\r\n\r\n  The soldiers are staring in utter disbelief, the shock of children who swung a cat against a boulder but failed to even knock it unconscious.\r\n\r\n  While not strong enough to repel bullets, my mock human body is still far less fragile than the real thing. So long as they do not strike my shingane directly, I can take all the bullets they care to dish out.\r\n\r\n  Not that I'm inclined to give them another shot.\r\n\r\n  Just as the panicked soldiers take aim a second time, I extend my arm and return it to steel.\r\n",
-  "pt": ""
+  "pt": "\r\n//　腹部、肩、右胸。\r\n//　三箇所を飛弾で抉られる。\r\n\r\n//　異物の侵食は、深い嫌悪感を催した。\r\n//　足元が揺らぎ、たたらを踏む。\r\n\r\n//　けれど、それだけだった。\r\n\r\n//　銃を撃ち放った二人の兵士は絶句している。\r\n//　やはり、子供のような表情だった――岩に叩きつけ\r\n//ても死なずに抗ってくる猫を見た子供の。\r\n\r\n//　この擬似肉体は銃弾を防ぎ止めるほど強固ではない。\r\n//　だが、本物の肉体ほど脆弱でもなかった。あの程度\r\n//の小玉なら<RUBY text='しんがね'>心鉄</RUBY>を直撃されない限りは何発だって耐え\r\n//られる。\r\n\r\n//　……だからといって、もうやらせはしない。\r\n\r\n//　恐慌一歩手前の様子で再び銃の狙点を合わせる彼ら\r\n//に、私は片手を差し伸べた。\r\n//　肉体変成を部分解除――甲鉄に復元する。\r\n  Elas perfuram fundo minha carne: ombro, abdômen, peito direito. A sensação de objetos entrando no meu corpo não é nada agradável. Meus joelhos cedem sob uma onda de náusea.\r\n\r\n  Felizmente, não tenho preocupação maior que essa.\r\n\r\n  Os soldados encaram com total descrença, o choque de crianças que arremessaram um gato contra uma pedra mas não conseguiram nem deixá-lo inconsciente.\r\n\r\n  Embora não seja forte o bastante para repelir balas, meu corpo humano falso ainda é bem menos frágil que o verdadeiro. Contanto que não atinjam minha shingane diretamente, posso aguentar todas as balas que quiserem disparar.\r\n\r\n  Não que eu esteja disposta a dar a eles outra chance.\r\n\r\n  Assim que os soldados em pânico miram pela segunda vez, estendo meu braço e o torno aço novamente.\r\n"
  },
  {
   "offset": 46053,
   "en": "\r\n//　飛ばした鋼糸で二人の両足を絡め取り、引き込んで\r\n//転倒させる。\r\n//　なるたけ痛みを感じるように、起き上がる気を失う\r\n//ように捻りを掛けながら。\r\n  My threads bind their arms and legs, pulling them to the ground. I make sure to add a few painful twists along the way.\r\n",
-  "pt": ""
+  "pt": "\r\n//　飛ばした鋼糸で二人の両足を絡め取り、引き込んで\r\n//転倒させる。\r\n//　なるたけ痛みを感じるように、起き上がる気を失う\r\n//ように捻りを掛けながら。\r\n  Meus fios prendem seus braços e pernas, puxando-os ao chão. Faço questão de dar algumas torções dolorosas pelo caminho.\r\n"
  },
  {
   "offset": 46400,
   "en": "\r\n//　ついでに、銃もへし折っておく。\r\n  And while I'm at it, I destroy their guns.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ついでに、銃もへし折っておく。\r\n  E, já que estou nisso, destruo as armas deles.\r\n"
  },
  {
   "offset": 46508,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201250a01'>\r\n//「……ふん」\r\n\"...Hmph.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201250a01'>\r\n//「……ふん」\r\n\"...Hmph.\"\r\n"
  },
  {
   "offset": 46640,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201260b43'>\r\n//「あの……お姉さん……」\r\n\"Um... Miss?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201260b43'>\r\n//「あの……お姉さん……」\r\n\"Hum... Moça?\"\r\n"
  },
  {
   "offset": 46787,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201270a01'>\r\n//「なに？」\r\n\"Hmm?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201270a01'>\r\n//「なに？」\r\n\"Hã?\"\r\n"
  },
  {
   "offset": 46912,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201280b43'>\r\n//「逃げた方がいいです……」\r\n\"You should probably run.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201280b43'>\r\n//「逃げた方がいいです……」\r\n\"É melhor a senhora correr...\"\r\n"
  },
  {
   "offset": 47075,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201290a01'>\r\n//「もう平気よ」\r\n\"They won't be a problem anymore.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201290a01'>\r\n//「もう平気よ」\r\n\"Eles não vão mais ser um problema.\"\r\n"
  },
  {
   "offset": 47234,
   "en": "\r\n//　倒れ、呻いている二人を指差す。\r\n//　彼に見えないのはわかっていたが。\r\n  I gesture at the trussed men, forgetting he can't see.\r\n",
-  "pt": ""
+  "pt": "\r\n//　倒れ、呻いている二人を指差す。\r\n//　彼に見えないのはわかっていたが。\r\n  Gesticulo para os homens amarrados, esquecendo que ele não pode ver.\r\n"
  },
  {
   "offset": 47409,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201300b43'>\r\n//「そうじゃなくて」\r\n\"Not from them.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201300b43'>\r\n//「そうじゃなくて」\r\n\"Não é por eles.\"\r\n"
  },
  {
   "offset": 47550,
@@ -702,57 +702,57 @@
  {
   "offset": 47666,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201320b43'>\r\n//「まずい……多分、この音……」\r\n\"This sound... damn. It's too late.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201320b43'>\r\n//「まずい……多分、この音……」\r\n\"Esse som... droga. É tarde demais.\"\r\n"
  },
  {
   "offset": 47845,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201330a01'>\r\n//「音？」\r\n\"Sound?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201330a01'>\r\n//「音？」\r\n\"Som?\"\r\n"
  },
  {
   "offset": 47969,
   "en": "\r\n//　私の間抜けな反問に――\r\n//　彼よりも、現実の方が先に答えてくれた。\r\n  But then I hear it too.\r\n",
-  "pt": ""
+  "pt": "\r\n//　私の間抜けな反問に――\r\n//　彼よりも、現実の方が先に答えてくれた。\r\n  Mas então eu também ouço.\r\n"
  },
  {
   "offset": 48110,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201340a01'>\r\n//（……馬鹿ね。私は）\r\n(...Well. That was stupid of me.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201340a01'>\r\n//（……馬鹿ね。私は）\r\n(...Bem. Que estupidez a minha.)\r\n"
  },
  {
   "offset": 48277,
   "en": "\r\n//　どうしてもっと早く気付かなかったのか。\r\n//　こんなものが近付いていたのなら。\r\n\r\n//　いや、事前にこの危険を考慮するべきだった。\r\n//　兵士に銃を撃たせてはならなかったのだ。発砲音が\r\n//彼らの仲間を――<RUBY text='・・・・・・・・・'>始末に負えない仲間</RUBY>を呼び寄せると\r\n//いうことは、多少考えればわかることだったのだから。\r\n  I should have sensed something if they were this close. Or rather, I should have assumed they might be and planned accordingly.\r\n\r\n  If only I'd had that presence of mind, I would have dispatched the soldiers before they could fire, that the sound of their shots would not summon trouble beyond what I could handle.\r\n\r\n  It's so obvious after the fact.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　どうしてもっと早く気付かなかったのか。\r\n//　こんなものが近付いていたのなら。\r\n\r\n//　いや、事前にこの危険を考慮するべきだった。\r\n//　兵士に銃を撃たせてはならなかったのだ。発砲音が\r\n//彼らの仲間を――<RUBY text='・・・・・・・・・'>始末に負えない仲間</RUBY>を呼び寄せると\r\n//いうことは、多少考えればわかることだったのだから。\r\n  Eu deveria ter percebido algo se estivessem tão perto. Ou melhor, deveria ter presumido que poderiam estar e planejado de acordo.\r\n\r\n  Se eu tivesse tido essa presença de espírito, teria eliminado os soldados antes que pudessem atirar, para que o som dos disparos não atraísse problemas além da minha capacidade.\r\n\r\n  Depois que acontece, é tão óbvio.\r\n\r\n"
  },
  {
   "offset": 49115,
   "en": "\r\n//　一騎は私の背後に。\r\n//　二騎は正面に降り立った。\r\n  Two land in front of me. One to my rear.\r\n",
-  "pt": ""
+  "pt": "\r\n//　一騎は私の背後に。\r\n//　二騎は正面に降り立った。\r\n  Dois pousam à minha frente. Um atrás de mim.\r\n"
  },
  {
   "offset": 49246,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201350a01'>\r\n//（<RUBY text='まがいもの'>数打武者</RUBY>ども）\r\n(Kazu'uchi...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201350a01'>\r\n//（<RUBY text='まがいもの'>数打武者</RUBY>ども）\r\n(Kazu'uchi...)\r\n"
  },
  {
   "offset": 49424,
   "en": "\r\n//　鍛冶師の命魂が宿らぬ偽の劒冑に囲まれても、畏怖\r\n//などまるで覚えない。\r\n//　ただ、脅威は脅威に違いなかった。\r\n\r\n//　一対一なら食い下がりようもあるが、三対一では手\r\n//に余る。\r\n\r\n//　正面のうち一騎が、倒れた兵士から話を聞いていた。\r\n//　兵士はこちらを指差しつつ、早口の異国語で何やら\r\n//まくし立てている……。\r\n  These soulless puppets are not true tsurugi. There is nothing in these husks to inspire awe or fear. Still, their power is undeniable.\r\n\r\n  Against one, I might be able to escape, but three is more than I can handle.\r\n\r\n  One of the two dragoons to my front is speaking to the fallen soldiers, who are pointing at me and babbling in their foreign tongue.\r\n",
-  "pt": ""
+  "pt": "\r\n//　鍛冶師の命魂が宿らぬ偽の劒冑に囲まれても、畏怖\r\n//などまるで覚えない。\r\n//　ただ、脅威は脅威に違いなかった。\r\n\r\n//　一対一なら食い下がりようもあるが、三対一では手\r\n//に余る。\r\n\r\n//　正面のうち一騎が、倒れた兵士から話を聞いていた。\r\n//　兵士はこちらを指差しつつ、早口の異国語で何やら\r\n//まくし立てている……。\r\n  Essas marionetes sem alma não são tsurugis de verdade. Não há nada nessas cascas vazias que inspire temor ou reverência. Ainda assim, seu poder é inegável.\r\n\r\n  Contra um, talvez eu conseguisse escapar, mas três é mais do que posso enfrentar.\r\n\r\n  Um dos dois cavaleiros à minha frente fala com os soldados caídos, que apontam para mim e tagarelam na língua estrangeira.\r\n"
  },
  {
   "offset": 50245,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201360b43'>\r\n//「お姉さん……逃げて。\r\n//　殺されます」\r\n\"You need to run. They'll kill you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201360b43'>\r\n//「お姉さん……逃げて。\r\n//　殺されます」\r\n\"A senhora precisa correr. Eles vão matá-la.\"\r\n"
  },
  {
   "offset": 50437,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201370a01'>\r\n//「貴方、あいつらの言葉がわかるの？」\r\n\"You can understand them?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201370a01'>\r\n//「貴方、あいつらの言葉がわかるの？」\r\n\"Você entende o que eles dizem?\"\r\n"
  },
  {
   "offset": 50621,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201380b43'>\r\n//「少しなら。\r\n//　お姉さん、進駐軍の兵士をやっつけたんで\r\n//すね？　そいつが訴えています。反抗だとか、\r\n//武装しているとか、危険だとか」\r\n\"A little. Were those Allied soldiers? They're saying you attacked them, that you're dangerous.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201380b43'>\r\n//「少しなら。\r\n//　お姉さん、進駐軍の兵士をやっつけたんで\r\n//すね？　そいつが訴えています。反抗だとか、\r\n//武装しているとか、危険だとか」\r\n\"Um pouco. Aqueles eram soldados das Forças Aliadas? Eles estão dizendo que a senhora os atacou, que é perigosa.\"\r\n"
  },
  {
   "offset": 51013,
@@ -762,22 +762,22 @@
  {
   "offset": 51143,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201400b43'>\r\n//「訴えている相手は、<RUBY text='クルセイダー'>騎士</RUBY>……武者なんじゃ\r\n//ないですか？」\r\n\"It sounds like he's talking to a knight. A musha. Is that right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201400b43'>\r\n//「訴えている相手は、<RUBY text='クルセイダー'>騎士</RUBY>……武者なんじゃ\r\n//ないですか？」\r\n\"Parece que ele está falando com um cavaleiro. Um musha. É isso?\"\r\n"
  },
  {
   "offset": 51431,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201410a01'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201410a01'>\r\n//「ええ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 51553,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201420b43'>\r\n//「逃げてください！\r\n//　僕は……たぶん、捕まってもどうにかなり\r\n//ますから！」\r\n\"You have to run! Don't worry. I'll get myself out of this.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201420b43'>\r\n//「逃げてください！\r\n//　僕は……たぶん、捕まってもどうにかなり\r\n//ますから！」\r\n\"A senhora tem que correr! Não se preocupe. Eu... vou dar um jeito de me safar.\"\r\n"
  },
  {
   "offset": 51824,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201430a01'>\r\n//「どうなるの？\r\n//　自分は何も知りません、ただ道を歩いてた\r\n//だけなんですって言えば、あいつらは笑って\r\n//貴方を帰してくれる？」\r\n\"How? Will they believe you were just minding your own business?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201430a01'>\r\n//「どうなるの？\r\n//　自分は何も知りません、ただ道を歩いてた\r\n//だけなんですって言えば、あいつらは笑って\r\n//貴方を帰してくれる？」\r\n\"Como? Eles vão acreditar que você estava apenas passando pelo caminho?\"\r\n"
  },
  {
   "offset": 52179,
@@ -787,72 +787,72 @@
  {
   "offset": 52303,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201450a01'>\r\n//「この状況で、それはなさそうね。\r\n//　なら、貴方を置いてはいけない」\r\n\"Somehow, I don't think so. I'm staying.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201450a01'>\r\n//「この状況で、それはなさそうね。\r\n//　なら、貴方を置いてはいけない」\r\n\"Não me parece. Eu vou ficar.\"\r\n"
  },
  {
   "offset": 52548,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201460a01'>\r\n//「まだお礼をしてもらってないもの」\r\n\"Besides, I'm looking forward to that tea.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201460a01'>\r\n//「まだお礼をしてもらってないもの」\r\n\"Além disso, estou ansiosa por aquele chá.\"\r\n"
  },
  {
   "offset": 52746,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201470b43'>\r\n//「……で、でも。\r\n//　どうするんですか？」\r\n\"But... what are you going to do?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201470b43'>\r\n//「……で、でも。\r\n//　どうするんですか？」\r\n\"Mas... o que a senhora vai fazer?\"\r\n"
  },
  {
   "offset": 52939,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201480a01'>\r\n//「どうにでもする。\r\n//　どうにでもして、貴方を助ける！」\r\n\"Whatever it takes. I'm not leaving you behind!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201480a01'>\r\n//「どうにでもする。\r\n//　どうにでもして、貴方を助ける！」\r\n\"O que for necessário. Não vou te deixar para trás!\"\r\n"
  },
  {
   "offset": 53173,
   "en": "\r\n//　私は思案した。\r\n//　彼を連れて、武者三騎から逃げおおせる――これは\r\n//無理だ。\r\n\r\n//　しかし、発想を転換してみればどうか？\r\n//　逃げ切れなくてもいい。策を弄して一時的に距離を\r\n//稼ぎ……その隙に彼を何処かへ隠して、私が敵を引き\r\n//付ける。\r\n\r\n//　うまくいけば、少なくとも彼は助かるだろう。\r\n  Think, Muramasa. Can I shake three musha with this young man in tow? No. There isn't a prayer.\r\n\r\n  All right then. A different tack.  What if I don't need to make a clean getaway?\r\n\r\n  What if I can get out of sight just long enough to stash Inagi somewhere safe? Then, when the enemy catches up, I can lead them away from his hiding place.\r\n\r\n  This plan won't do㉓<I>me</I> much good, but it should at least keep him out of harm's way.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　私は思案した。\r\n//　彼を連れて、武者三騎から逃げおおせる――これは\r\n//無理だ。\r\n\r\n//　しかし、発想を転換してみればどうか？\r\n//　逃げ切れなくてもいい。策を弄して一時的に距離を\r\n//稼ぎ……その隙に彼を何処かへ隠して、私が敵を引き\r\n//付ける。\r\n\r\n//　うまくいけば、少なくとも彼は助かるだろう。\r\n  Pense, Muramasa. Posso despistar três musha com este jovem junto de mim? Não. Não há a menor chance.\r\n\r\n  Muito bem, então. Uma abordagem diferente. E se eu não precisar escapar completamente?\r\n\r\n  E se eu conseguir sumir de vista só o tempo suficiente para esconder Inagi em algum lugar seguro? Então, quando o inimigo me alcançar, posso levá-los para longe do esconderijo dele.\r\n\r\n  Este plano não vai me servir㉓<I>de muito</I>, mas pelo menos deve mantê-lo fora de perigo.\r\n\r\n"
  },
  {
   "offset": 54051,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201490a01'>\r\n//（この線ね）\r\n(Let's get it done.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201490a01'>\r\n//（この線ね）\r\n(Vamos fazer isso.)\r\n"
  },
  {
   "offset": 54193,
   "en": "\r\n//　あとは策だ。\r\n//　ほんの短い時間でいい、彼らを引き離す手立ては、\r\n//何か――\r\n  All that's left are the details. How to lose them long enough to hide Inagi, and how to keep their attention afterward. \r\n\r\n  There has to be something I can―\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　あとは策だ。\r\n//　ほんの短い時間でいい、彼らを引き離す手立ては、\r\n//何か――\r\n  Só faltam os detalhes. Como despistá-los pelo tempo suficiente para esconder Inagi, e como manter a atenção deles depois.\r\n\r\n  Tem que haver algo que eu possa―\r\n\r\n"
  },
  {
   "offset": 54486,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201500b43'>\r\n//「お姉さん」\r\n\"Miss.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201500b43'>\r\n//「お姉さん」\r\n\"Moça.\"\r\n"
  },
  {
   "offset": 54609,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201510a01'>\r\n//「一人で逃げろって話は、もう聞かないから\r\n//ね」\r\n\"If you're going to tell me to leave you behind, forget it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201510a01'>\r\n//「一人で逃げろって話は、もう聞かないから\r\n//ね」\r\n\"Se for para me dizer para te deixar para trás, esquece.\"\r\n"
  },
  {
   "offset": 54843,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201520b43'>\r\n//「…………。\r\n//　質問させてください」\r\n\"Just... one question.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201530b43'>\r\n//「一つだけ」\r\n\"Please.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201520b43'>\r\n//「…………。\r\n//　質問させてください」\r\n\"Só... uma pergunta.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201530b43'>\r\n//「一つだけ」\r\n\"Por favor.\"\r\n"
  },
  {
   "offset": 55136,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201540a01'>\r\n//「？　なに？」\r\n\"What is it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201540a01'>\r\n//「？　なに？」\r\n\"O que é?\"\r\n"
  },
  {
   "offset": 55274,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201550b43'>\r\n//「あなたは、雄飛を殺した人ですか？」\r\n\"Did you kill Yuhi?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201550b43'>\r\n//「あなたは、雄飛を殺した人ですか？」\r\n\"Foi você que matou Yuhi?\"\r\n"
  },
  {
   "offset": 55446,
   "en": "\r\n//　刹那。\r\n//　私は周囲の状況を忘れた。\r\n  And just like that, the world ceases to exist.\r\n",
-  "pt": ""
+  "pt": "\r\n//　刹那。\r\n//　私は周囲の状況を忘れた。\r\n  E, assim, o mundo deixa de existir.\r\n"
  },
  {
   "offset": 55565,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201560a01'>\r\n//「――――え？」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201560a01'>\r\n//「――――え？」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 55700,
@@ -862,12 +862,12 @@
  {
   "offset": 55818,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201580a01'>\r\n//「……あ……」\r\n\"I...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201580a01'>\r\n//「……あ……」\r\n\"Eu...\"\r\n"
  },
  {
   "offset": 55949,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201590b43'>\r\n//「そうなんですか？」\r\n\"Did you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201590b43'>\r\n//「そうなんですか？」\r\n\"Foi você?\"\r\n"
  },
  {
   "offset": 56087,
@@ -877,27 +877,27 @@
  {
   "offset": 56217,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201610a01'>\r\n//「……ええ……」\r\n\"...Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201610a01'>\r\n//「……ええ……」\r\n\"...Sim.\"\r\n"
  },
  {
   "offset": 56354,
   "en": "\r\n//　私は認めた。\r\n//　同じ人間に同じ質問をされたなら、湊斗景明も必ず\r\n//そうしたように。\r\n\r\n//　否定してはならなかった。\r\n//　認めなくてはならなかった。\r\n  I reply with the truth. I have no choice. Not in response to that question.\r\n\r\n  If Kageaki were here, he would surely have done the same.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　私は認めた。\r\n//　同じ人間に同じ質問をされたなら、湊斗景明も必ず\r\n//そうしたように。\r\n\r\n//　否定してはならなかった。\r\n//　認めなくてはならなかった。\r\n  Respondo com a verdade. Não tenho escolha. Não diante dessa pergunta.\r\n\r\n  Se Kageaki estivesse aqui, certamente teria feito o mesmo.\r\n\r\n"
  },
  {
   "offset": 56728,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201620b43'>\r\n//「ああ……やっぱり」\r\n\"...I had a feeling.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201620b43'>\r\n//「ああ……やっぱり」\r\n\"...Eu tinha um pressentimento.\"\r\n"
  },
  {
   "offset": 56877,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201630a01'>\r\n//「なぜ、そう思ったの？」\r\n\"How did you know?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201630a01'>\r\n//「なぜ、そう思ったの？」\r\n\"Como você sabia?\"\r\n"
  },
  {
   "offset": 57036,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201640b43'>\r\n//「閃き、かなぁ。\r\n//　このお姉さんはどうして僕を必死になって\r\n//救おうとするんだろうって考えてたら」\r\n\"It's hard to say exactly. I was just thinking, why is she so desperate to save me?\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201650b43'>\r\n//「急にこう、キュピーンと。\r\n//　脳細胞の未知の部分とかそんなものが覚醒\r\n//した感じで」\r\n\"And then it sort of㉓<I>came</I>㉓to me, you know? Like a light turning on in my brain. Maybe I'm some kind of genius.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201640b43'>\r\n//「閃き、かなぁ。\r\n//　このお姉さんはどうして僕を必死になって\r\n//救おうとするんだろうって考えてたら」\r\n\"É difícil dizer exatamente. Eu só estava pensando: por que ela está tão desesperada para me salvar?\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201650b43'>\r\n//「急にこう、キュピーンと。\r\n//　脳細胞の未知の部分とかそんなものが覚醒\r\n//した感じで」\r\n\"E aí, meio que㉓<I>caiu a ficha</I>㉓, sabe? Como uma luz se acendendo no meu cérebro. Talvez eu seja uma espécie de gênio.\"\r\n"
  },
  {
   "offset": 57701,
@@ -907,22 +907,22 @@
  {
   "offset": 57831,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201670b43'>\r\n//「やぁ、でも色々と衝撃的ですね。\r\n//　雄飛を殺した人と、こんな風に会うなんて」\r\n\"Still, what a coincidence, huh? Running into each other like this.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201670b43'>\r\n//「やぁ、でも色々と衝撃的ですね。\r\n//　雄飛を殺した人と、こんな風に会うなんて」\r\n\"Ainda assim, que coincidência, hein? Nos encontrarmos assim.\"\r\n"
  },
  {
   "offset": 58112,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201680a01'>\r\n//「貴方は……\r\n//　私を、憎まないの？」\r\n\"Now that you know... do you... hate me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201680a01'>\r\n//「貴方は……\r\n//　私を、憎まないの？」\r\n\"Agora que você sabe... você... me odeia?\"\r\n"
  },
  {
   "offset": 58312,
   "en": "\r\n//　愚かしいことを、私は訊いた。\r\n//　何の迷いもなく、彼が答える。\r\n  A ridiculous question. He answers without pause.\r\n",
-  "pt": ""
+  "pt": "\r\n//　愚かしいことを、私は訊いた。\r\n//　何の迷いもなく、彼が答える。\r\n  Uma pergunta ridícula. Ele responde sem hesitar.\r\n"
  },
  {
   "offset": 58472,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201690b43'>\r\n//「憎みます」\r\n\"Yes. I hate you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201690b43'>\r\n//「憎みます」\r\n\"Sim. Eu te odeio.\"\r\n"
  },
  {
   "offset": 58606,
@@ -932,62 +932,62 @@
  {
   "offset": 58736,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201710b43'>\r\n//「雄飛は大事な、大事な友人でした。\r\n//　彼をあなたが奪ったのなら、僕はあなたを\r\n//他の何よりも憎みます」\r\n\"Yuhi was precious to me. If you killed him, then I hate you. More than anything in the world.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201710b43'>\r\n//「雄飛は大事な、大事な友人でした。\r\n//　彼をあなたが奪ったのなら、僕はあなたを\r\n//他の何よりも憎みます」\r\n\"Yuhi era um amigo precioso, muito precioso para mim. Se foi você quem o tirou de mim, então eu te odeio. Mais do que qualquer outra coisa no mundo.\"\r\n"
  },
  {
   "offset": 59081,
   "en": "\r\n//　私は死に瀕していることを悟った。\r\n//　周囲の数打武者と戦うまでもなく。\r\n\r\n//　劒冑は不死。\r\n//　しかし、<RUBY text='こころ'>心鉄</RUBY>が朽ちれば滅する。\r\n\r\n//　稲城忠保は、私を殺す力を持っていた。\r\n\r\n//　……それでも私は問いを重ねる。\r\n//　自らを滅ぼす問いを。\r\n  I realize that I am in mortal danger, and not from the enemy musha around me.\r\n\r\n  Tsurugi are immune to the ravages of time. But if my soul, my shingane, crumbles, then all that I am will cease to be.\r\n\r\n  Despair, doubt, guilt. These can slay a tsurugi as sure as any blade.\r\n\r\n  And so this young man holds my life in his hands. He has the power to kill me with a word.\r\n\r\n  And still, I cannot help but ask the questions that will seal my fate.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　私は死に瀕していることを悟った。\r\n//　周囲の数打武者と戦うまでもなく。\r\n\r\n//　劒冑は不死。\r\n//　しかし、<RUBY text='こころ'>心鉄</RUBY>が朽ちれば滅する。\r\n\r\n//　稲城忠保は、私を殺す力を持っていた。\r\n\r\n//　……それでも私は問いを重ねる。\r\n//　自らを滅ぼす問いを。\r\n  Percebo que estou em perigo mortal, e não por causa dos musha inimigos ao meu redor.\r\n\r\n  As tsurugi são imunes à ação do tempo. Mas se minha alma, meu shingane, se desfizer, então tudo o que sou deixará de existir.\r\n\r\n  Desespero, dúvida, culpa. Esses podem matar uma tsurugi tão certamente quanto qualquer lâmina.\r\n\r\n  Assim, este jovem tem minha vida em suas mãos. Ele tem o poder de me matar com uma palavra.\r\n\r\n  E ainda assim, não consigo deixar de fazer as perguntas que selarão meu destino.\r\n\r\n"
  },
  {
   "offset": 59918,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201720a01'>\r\n//「私を、許さない？」\r\n\"Will you... forgive me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201720a01'>\r\n//「私を、許さない？」\r\n\"Você... me perdoaria?\"\r\n"
  },
  {
   "offset": 60077,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201730b43'>\r\n//「許しません」\r\n\"Never.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201730b43'>\r\n//「許しません」\r\n\"Nunca.\"\r\n"
  },
  {
   "offset": 60204,
   "en": "\r\n//　死ぬ。\r\n  Ah―\r\n",
-  "pt": ""
+  "pt": "\r\n//　死ぬ。\r\n  Ah―\r\n"
  },
  {
   "offset": 60239,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201740b43'>\r\n//「あなたがどれだけ謝っても。\r\n//　どんな償いをしても、許しません」\r\n\"Nothing you can say or do will ever make me forgive you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201740b43'>\r\n//「あなたがどれだけ謝っても。\r\n//　どんな償いをしても、許しません」\r\n\"Não importa o quanto você se desculpe. Não importa o que faça para compensar, eu nunca vou te perdoar.\"\r\n"
  },
  {
   "offset": 60492,
   "en": "\r\n//　死ぬ……。\r\n  Death.\r\n",
-  "pt": ""
+  "pt": "\r\n//　死ぬ……。\r\n  Morte.\r\n"
  },
  {
   "offset": 60534,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201750b43'>\r\n//「雄飛を奪ったあなたを、僕は一生憎みます。\r\n//　一生、許しません」\r\n\"You killed Yuhi. I'll hate you for as long as I live.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201750b43'>\r\n//「雄飛を奪ったあなたを、僕は一生憎みます。\r\n//　一生、許しません」\r\n\"Você tirou Yuhi de mim. Vou te odiar por toda a minha vida. A vida inteira, nunca vou te perdoar.\"\r\n"
  },
  {
   "offset": 60784,
   "en": "\r\n//　死。\r\n\r\n//　これは自殺ではない。\r\n//　私にはすべきことがある。死など望んではいない。\r\n\r\n//　望まない――それでも、死へ向かって私は進む。\r\n//　これは唯一の道だったから。\r\n\r\n//　逃げてはならない道だったから。\r\n  I do not want to die in this place. I still have duties to perform.\r\n\r\n  But whether I desire it or no, I cannot turn away from my end.\r\n\r\n  This is where my Way has led me. My only choice is to see it through.\r\n",
-  "pt": ""
+  "pt": "\r\n//　死。\r\n\r\n//　これは自殺ではない。\r\n//　私にはすべきことがある。死など望んではいない。\r\n\r\n//　望まない――それでも、死へ向かって私は進む。\r\n//　これは唯一の道だったから。\r\n\r\n//　逃げてはならない道だったから。\r\n  Não quero morrer neste lugar. Ainda tenho coisas que devo fazer.\r\n\r\n  Mas, querendo ou não, não posso fugir do meu fim.\r\n\r\n  Foi até aqui que meu Caminho me trouxe. Minha única escolha é ir até o fim.\r\n"
  },
  {
   "offset": 61311,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201760a01'>\r\n//「貴方は」\r\n\"Will you...<K><voice name='村正' class='村正さん' src='voice/md04/0201770a01'> take revenge?\"\r\n\r\n//【村正】\r\n//<voice name='村正' class='村正さん' src='voice/md04/0201770a01'>\r\n//「私に、復讐する？」\r\n//'Take revenge?'\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201760a01'>\r\n//「貴方は」\r\n\"Você...<K><voice name='村正' class='村正さん' src='voice/md04/0201770a01'> vai se vingar de mim?\"\r\n\r\n//【村正】\r\n//<voice name='村正' class='村正さん' src='voice/md04/0201770a01'>\r\n//「私に、復讐する？」\r\n//'Take revenge?'\r\n"
  },
  {
   "offset": 61675,
   "en": "\r\n//　最後の問いを云う。\r\n\r\n//　……これで終わりだ。\r\n//　私の<RUBY text='いのち'>心鉄</RUBY>は朽ちる。\r\n\r\n//　この問いの答で……\r\n  This is it. The final question.\r\n\r\n  His next answer will surely destroy me. My heart will shatter and fade to dust.\r\n\r\n  Here it comes...\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　最後の問いを云う。\r\n\r\n//　……これで終わりだ。\r\n//　私の<RUBY text='いのち'>心鉄</RUBY>は朽ちる。\r\n\r\n//　この問いの答で……\r\n  É isso. A pergunta final.\r\n\r\n  A próxima resposta dele certamente me destruirá. Meu coração se despedaçará e virará pó.\r\n\r\n  Aí vem...\r\n\r\n"
  },
  {
   "offset": 62002,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201780b43'>\r\n//「いいえ」\r\n\"No.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201780b43'>\r\n//「いいえ」\r\n\"Não.\"\r\n"
  },
  {
   "offset": 62120,
@@ -997,47 +997,47 @@
  {
   "offset": 62262,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201800a01'>\r\n//「ど……どうして？」\r\n\"...No?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201800a01'>\r\n//「ど……どうして？」\r\n\"...Não?\"\r\n"
  },
  {
   "offset": 62404,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201810b43'>\r\n//「意味をなくしたくないから」\r\n\"That would make it meaningless.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201810b43'>\r\n//「意味をなくしたくないから」\r\n\"Porque isso tornaria tudo sem sentido.\"\r\n"
  },
  {
   "offset": 62577,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201820a01'>\r\n//「意味……？」\r\n\"Meaningless?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201820a01'>\r\n//「意味……？」\r\n\"Sem sentido?\"\r\n"
  },
  {
   "offset": 62716,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201830b43'>\r\n//「雄飛が死んだことの意味です」\r\n\"Yuhi would have died for nothing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201830b43'>\r\n//「雄飛が死んだことの意味です」\r\n\"A morte de Yuhi teria sido em vão.\"\r\n"
  },
  {
   "offset": 62894,
   "en": "\r\n//　新田雄飛の、\r\n//　死んだ……意味？\r\n  My death would render Nitta's... <I>meaningless?</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　新田雄飛の、\r\n//　死んだ……意味？\r\n  A morte de Nitta... teria sido <I>em vão?</I>\r\n"
  },
  {
   "offset": 63016,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201840b43'>\r\n//「……あったんでしょう？\r\n//　お姉さんのようなひとが、雄飛を殺したの\r\n//なら」\r\n\"There was a reason, wasn't there? There'd have to be, for someone like you to kill him.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201840b43'>\r\n//「……あったんでしょう？\r\n//　お姉さんのようなひとが、雄飛を殺したの\r\n//なら」\r\n\"...Havia um motivo, não havia? Tinha que haver, para alguém como você matá-lo.\"\r\n"
  },
  {
   "offset": 63316,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201850a01'>\r\n//「それは」\r\n\"A reason...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201850a01'>\r\n//「それは」\r\n\"Um motivo...\"\r\n"
  },
  {
   "offset": 63448,
   "en": "\r\n//　ある。あった。\r\n//〝卵〟が孵化し、銀星号が増殖するという最悪の事態\r\n//を防ぐために、彼は――\r\n\r\n//　……違う。\r\n//　そのために死んだのはあくまで真改、鈴川令法だ。\r\n\r\n//　新田雄飛を殺したものは、村正の<RUBY text='のろい'>誓約</RUBY>。\r\n//　\r\n//　――善悪相殺の一理。\r\n  Yes. There was a reason.\r\n\r\n  He died to prevent a greater disaster, so that Ginseigo's egg would not―\r\n\r\n  No.\r\n\r\n  It was Suzukawa Ryobu who died for the city. Nitta Yuhi died for㉓<I>me.</I>\r\n\r\n  He died to fulfill the Law of Balance.\r\n\r\n  He died for the curse of Muramasa.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　ある。あった。\r\n//〝卵〟が孵化し、銀星号が増殖するという最悪の事態\r\n//を防ぐために、彼は――\r\n\r\n//　……違う。\r\n//　そのために死んだのはあくまで真改、鈴川令法だ。\r\n\r\n//　新田雄飛を殺したものは、村正の<RUBY text='のろい'>誓約</RUBY>。\r\n//　\r\n//　――善悪相殺の一理。\r\n  Sim. Havia um motivo.\r\n\r\n  Ele morreu para impedir uma catástrofe maior, para que o ovo de Ginseigo não―\r\n\r\n  Não.\r\n\r\n  Foi Suzukawa Ryobu quem morreu pela cidade. Nitta Yuhi morreu por㉓<I>mim.</I>\r\n\r\n  Ele morreu para cumprir a Lei do Equilíbrio.\r\n\r\n  Ele morreu pela maldição de Muramasa.\r\n\r\n"
  },
  {
   "offset": 64122,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201860b43'>\r\n//「その意味がどんなものかは聞きません。\r\n//　今は……聞きたくないです」\r\n\"I won't ask why he died. I don't want to know. Not yet.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201870b43'>\r\n//「雄飛の命と引き換えにされたなにかのこと\r\n//なんて、僕は知りたくない」\r\n\"Whatever it was, it can't have been worth Yuhi's life.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201860b43'>\r\n//「その意味がどんなものかは聞きません。\r\n//　今は……聞きたくないです」\r\n\"Não vou perguntar por que ele morreu. Agora... não quero saber.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201870b43'>\r\n//「雄飛の命と引き換えにされたなにかのこと\r\n//なんて、僕は知りたくない」\r\n\"Seja lá o que for que foi trocado pela vida de Yuhi, eu não quero saber.\"\r\n"
  },
  {
   "offset": 64629,
@@ -1047,22 +1047,22 @@
  {
   "offset": 64753,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201890b43'>\r\n//「でもお姉さんは……その意味を大事にして、\r\n//守ってください。\r\n//　<RUBY text='・・・'>せめて</RUBY>」\r\n\"But now that it's done, now that you've killed him, you have to keep that meaning alive.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201900b43'>\r\n//「あなたはそのために、雄飛を犠牲にしたん\r\n//ですから」\r\n\"After all, there's nothing else left.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201890b43'>\r\n//「でもお姉さんは……その意味を大事にして、\r\n//守ってください。\r\n//　<RUBY text='・・・'>せめて</RUBY>」\r\n\"Mas agora que está feito, agora que você o matou, você precisa manter esse sentido vivo.\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201900b43'>\r\n//「あなたはそのために、雄飛を犠牲にしたん\r\n//ですから」\r\n\"Afinal, não restou mais nada.\"\r\n"
  },
  {
   "offset": 65289,
   "en": "\r\n//　三方を囲む武者には欠片も感じなかった畏れを、私\r\n//はいま覚えていた。\r\n//　盲目の学生は単なる復讐心より遥かに厳酷なものを\r\n//私に向けたのだ。\r\n  I feel a shiver up my spine. A blind man has done what three musha could not―<br>make me feel fear.\r\n\r\n//　安易な赦しでは決してない。\r\n\r\n//　意味を守れと、彼は言った。\r\n//　新田雄飛の、死の意味を。\r\n\r\n//　それはつまり、新田雄飛の死を永劫背負ってゆけと\r\n//いうこと。\r\n\r\n//　……当然だ。\r\n//　当然至極の、天理に沿う、<RUBY text='おもきとが'>重科</RUBY>だった。\r\n\r\n//　人を殺した者は、\r\n//　その死を生涯背負って生きねばならない。\r\n\r\n  Because Inagi Tadayasu has indeed claimed my life, and in a manner far more grievous than I anticipated.\r\n\r\n  Now, I must spend the remainder of my days fighting to give Nitta Yuhi's death meaning.\r\n\r\n  In fact, it is a simple truth that he has spoken, a Law as essential as the air we breathe.\r\n\r\n  Whoever takes a life must carry that burden forever.\r\n",
-  "pt": ""
+  "pt": "\r\n//　三方を囲む武者には欠片も感じなかった畏れを、私\r\n//はいま覚えていた。\r\n//　盲目の学生は単なる復讐心より遥かに厳酷なものを\r\n//私に向けたのだ。\r\n  Sinto um arrepio na espinha. Um cego fez o que três musha não conseguiram: me fazer sentir medo.\r\n\r\n//　安易な赦しでは決してない。\r\n\r\n//　意味を守れと、彼は言った。\r\n//　新田雄飛の、死の意味を。\r\n\r\n//　それはつまり、新田雄飛の死を永劫背負ってゆけと\r\n//いうこと。\r\n\r\n//　……当然だ。\r\n//　当然至極の、天理に沿う、<RUBY text='おもきとが'>重科</RUBY>だった。\r\n\r\n//　人を殺した者は、\r\n//　その死を生涯背負って生きねばならない。\r\n\r\n  Pois Inagi Tadayasu de fato tomou a minha vida, e de uma forma muito mais cruel do que eu imaginava.\r\n\r\n  Agora, devo passar o resto dos meus dias lutando para dar sentido à morte de Nitta Yuhi.\r\n\r\n  Na verdade, é uma verdade simples o que ele disse, uma Lei tão essencial quanto o ar que respiramos.\r\n\r\n  Quem tira uma vida deve carregar esse fardo para sempre.\r\n"
  },
  {
   "offset": 66430,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201910a01'>\r\n//「稲城忠保」\r\n\"You...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201910a01'>\r\n//「稲城忠保」\r\n\"Você...\"\r\n"
  },
  {
   "offset": 66560,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201920b43'>\r\n//「それだけが……願いです」\r\n\"That's... all I ask.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201920b43'>\r\n//「それだけが……願いです」\r\n\"É só isso... que eu peço.\"\r\n"
  },
  {
   "offset": 66719,
@@ -1072,26 +1072,26 @@
  {
   "offset": 66849,
   "en": "\r\n//　不意の轟音で我に返る。\r\n//　……存在を忘れかけていた武者たちが、動いていた。\r\n\r\n//　こちらに向かって――ではない。\r\n//　三騎とも、飛び立っている。\r\n\r\n//　一方向へ向かって――挙動から察するに――何やら\r\n//随分と焦りながら。\r\n  A roar of engines brings me back to reality. The musha are on the move.\r\n\r\n  But wait. They aren't coming for me. Instead, they swiftly take to the air, then fly off in the same direction.\r\n\r\n  It looked like they were in a hurry.\r\n",
-  "pt": ""
+  "pt": "\r\n//　不意の轟音で我に返る。\r\n//　……存在を忘れかけていた武者たちが、動いていた。\r\n\r\n//　こちらに向かって――ではない。\r\n//　三騎とも、飛び立っている。\r\n\r\n//　一方向へ向かって――挙動から察するに――何やら\r\n//随分と焦りながら。\r\n  Um rugido de motores me traz de volta à realidade. Os musha estão se movendo.\r\n\r\n  Mas espera. Não estão vindo atrás de mim. Em vez disso, os três alçam voo rapidamente, e depois partem na mesma direção.\r\n\r\n  Parecia que estavam com pressa.\r\n"
  },
  {
   "offset": 67421,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201940a01'>\r\n//「……なに？」\r\n\"...What's going on?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201940a01'>\r\n//「……なに？」\r\n\"...O que está acontecendo?\"\r\n"
  },
  {
   "offset": 67567,
   "en": "\r\n//　三騎の数打武者だけではなかった。\r\n//　二人組の兵士も、もうこちらなど眼中にない様子で\r\n//走り出している。\r\n  The footsoldiers have forgotten us too. I see them running off down the street, their wrecked car abandoned.\r\n",
-  "pt": ""
+  "pt": "\r\n//　三騎の数打武者だけではなかった。\r\n//　二人組の兵士も、もうこちらなど眼中にない様子で\r\n//走り出している。\r\n  Os soldados de infantaria também se esqueceram de nós. Vejo-os correndo rua afora, abandonando o carro destruído.\r\n"
  },
  {
   "offset": 67848,
   "en": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201950b43'>\r\n//「急な連絡が入ったみたいです。\r\n//　良く聴こえませんでしたけど……」\r\n\"It sounded like an urgent message. I couldn't really make it out, but...\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201960b43'>\r\n//「なんか、援軍がどうとか」\r\n\"I think it mentioned reinforcements.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201950b43'>\r\n//「急な連絡が入ったみたいです。\r\n//　良く聴こえませんでしたけど……」\r\n\"Parece que receberam uma mensagem urgente. Eu não consegui ouvir direito, mas...\"\r\n\r\n//【忠保】\r\n<voice name='忠保' class='忠保' src='voice/md04/0201960b43'>\r\n//「なんか、援軍がどうとか」\r\n\"Acho que falava algo sobre reforços.\"\r\n"
  },
  {
   "offset": 68287,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201970a01'>\r\n//「援軍？」\r\n\"Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0201970a01'>\r\n//「援軍？」\r\n\"Hã?\"\r\n"
  }
 ]

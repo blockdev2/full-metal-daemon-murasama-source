@@ -2,157 +2,157 @@
  {
   "offset": 224,
   "en": "\"Here you are. Sauteed pork.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Carne de porco salteada.\""
  },
  {
   "offset": 261,
   "en": "\"Here you are. Steak, cooked rare.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Bife malpassado.\""
  },
  {
   "offset": 304,
   "en": "\"Here you are. Lamb pilaf.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Pilaf de cordeiro.\""
  },
  {
   "offset": 339,
   "en": "\"Here you are. Venison, lightly seared.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Carne de veado, levemente selada.\""
  },
  {
   "offset": 387,
   "en": "\"Here you are. Rabbit paella.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Paella de coelho.\""
  },
  {
   "offset": 425,
   "en": "\"Here you are. Horse hot pot.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Ensopado de cavalo.\""
  },
  {
   "offset": 463,
   "en": "\"Here you are. Fish sausage.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Salsicha de peixe.\""
  },
  {
   "offset": 500,
   "en": "\"Here you are. Crab fried rice.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Arroz frito com caranguejo.\""
  },
  {
   "offset": 540,
   "en": "\"Here you are. Paris-Brest.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Paris-Brest.\""
  },
  {
   "offset": 576,
   "en": "\"Here you are. Coleslaw.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Salada de repolho.\""
  },
  {
   "offset": 609,
   "en": "\"Here you are. Barbecue bear ribs.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Costelas de urso na brasa.\""
  },
  {
   "offset": 652,
   "en": "\"Here you are. Mysterious fruit.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Fruta misteriosa.\""
  },
  {
   "offset": 693,
   "en": "\"Here you are. Ostrich carpaccio.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Carpaccio de avestruz.\""
  },
  {
   "offset": 735,
   "en": "\"Here you are. Byakhee sashimi.\"",
-  "pt": ""
+  "pt": "\"Aqui está. Sashimi de Byakhee.\""
  },
  {
   "offset": 775,
   "en": "\r\n//◆豚肉_Flag == true;\r\n//◆美味料理_Flag\r\n//【景明】\r\n//<voice name='景明' class='景明' src = $料理音声>\r\n//「出来ました。\r\n//　<VALUE name=$料理名前>です」\r\n\"Here you are. <VALUE='料理名前'>.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆豚肉_Flag == true;\r\n//◆美味料理_Flag\r\n//【景明】\r\n//<voice name='景明' class='景明' src = $料理音声>\r\n//「出来ました。\r\n//　<VALUE name=$料理名前>です」\r\n\"Aqui está. <VALUE='料理名前'>.\"\r\n"
  },
  {
   "offset": 1020,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0220a03'>\r\n//「わぁ、おいしそう」\r\n\"Oh, it looks delicious!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0220a03'>\r\n//「わぁ、おいしそう」\r\n\"Ah, parece uma delícia!\"\r\n"
  },
  {
   "offset": 1184,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0230a04'>\r\n//「なかなかのお手並み……。\r\n//　感服仕りました、湊斗さま」\r\n\"Well㉓<I>done,</I>㉗sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0230a04'>\r\n//「なかなかのお手並み……。\r\n//　感服仕りました、湊斗さま」\r\n\"Muito㉓<I>bem,</I>㉗senhor.\"\r\n"
  },
  {
   "offset": 1397,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0240a00'>\r\n//「恐縮です」\r\n\"Thank you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0240a00'>\r\n//「恐縮です」\r\n\"Agradeço.\"\r\n"
  },
  {
   "offset": 1527,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0250a03'>\r\n//「そんな餌でこのわたくしがモグモグモグ」\r\n\"If you think this bait will work on me, you're㉓<I>munch munch munch...</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0250a03'>\r\n//「そんな餌でこのわたくしがモグモグモグ」\r\n\"Se você acha que essa isca vai funcionar comigo, está㉓<I>nhac nhac nhac...</I>\"\r\n"
  },
  {
   "offset": 1774,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0260a04'>\r\n//「がっつり釣られておりますよ、お嬢さま」\r\n\"Apparently quite correct, Mistress.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0260a04'>\r\n//「がっつり釣られておりますよ、お嬢さま」\r\n\"Pelo visto, é bem isso mesmo, senhorita.\"\r\n"
  },
  {
   "offset": 1971,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0270a03'>\r\n//「あら、不思議な食感」\r\n\"Oh, what an unusual texture.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0270a03'>\r\n//「あら、不思議な食感」\r\n\"Ah, que textura incomum.\"\r\n"
  },
  {
   "offset": 2143,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0280a04'>\r\n//「桃や洋梨のような歯触りで、柔らかく弾力\r\n//がありますな。\r\n//　良く噛むとシャリシャリ潰れて、強い香り\r\n//が……」\r\n\"Soft yet pliant, like a peach or a pear. And when you bite down, it bursts, filling your mouth with a rich, succulent flavor. I wonder what it could be?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0280a04'>\r\n//「桃や洋梨のような歯触りで、柔らかく弾力\r\n//がありますな。\r\n//　良く噛むとシャリシャリ潰れて、強い香り\r\n//が……」\r\n\"Macia, mas flexível, como um pêssego ou uma pera. E, ao morder, ela estoura, enchendo a boca com um sabor rico e suculento. O que será que é?\"\r\n"
  },
  {
   "offset": 2562,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0290a04'>\r\n//「ほう、赤身のはずのダチョウ肉に霜降りが」\r\n\"Oh, how unusual. Ostrich is a lean meat, but this is some wonderful marbling.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0290a04'>\r\n//「ほう、赤身のはずのダチョウ肉に霜降りが」\r\n\"Ah, que incomum. A carne de avestruz é magra, mas esta tem um marmoreio maravilhoso.\"\r\n"
  },
  {
   "offset": 2804,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0300a03'>\r\n//「なんて素晴らしいお肉！\r\n//　景明さま、この脂肪はいったい……？」\r\n\"Incredible! Where do these fatty bits come from, <br>darling?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0300a03'>\r\n//「なんて素晴らしいお肉！\r\n//　景明さま、この脂肪はいったい……？」\r\n\"Incrível! De onde vêm esses pedaços gordurosos, querido?\"\r\n"
  },
  {
   "offset": 3073,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0310a00'>\r\n//「食べ終わってからお教えします」\r\n\"I'll tell you after you've finished.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0310a00'>\r\n//「食べ終わってからお教えします」\r\n\"Eu conto depois que você terminar.\"\r\n"
  },
  {
   "offset": 3259,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0320a03'>\r\n//「きゃわーーーーー!!」\r\n\"KYAHHHHHHHHHH!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0320a03'>\r\n//「きゃわーーーーー!!」\r\n\"KIAHHHHHHHHH!\"\r\n"
  },
  {
   "offset": 3416,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0330a04'>\r\n//「みみっみっ湊斗さまー！　石の笛、石の笛\r\n//はいずこにっ!?」\r\n\"My god, sir! The flute! Where's the stone flute!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0330a04'>\r\n//「みみっみっ湊斗さまー！　石の笛、石の笛\r\n//はいずこにっ!?」\r\n\"Meu Deus, senhor! A flauta! Onde está a flauta de pedra!?\"\r\n"
  },
  {
   "offset": 3654,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0340a00'>\r\n//「ありません」\r\n\"I don't have one.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0340a00'>\r\n//「ありません」\r\n\"Não tenho uma.\"\r\n"
  },
  {
   "offset": 3794,
   "en": "\r\n//　俺達は和やかに食卓を囲んだ。\r\n  We finish our meal in companionable silence.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺達は和やかに食卓を囲んだ。\r\n  Terminamos a refeição em um silêncio agradável.\r\n"
  },
  {
   "offset": 3901,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0350a04'>\r\n//「――ところで。\r\n//　今、黄金よりも貴重な筈の時間が生活排水\r\n//よろしく無駄に流れ去っているという事実を\r\n//いかがいたしましょうや」\r\n\"By the way, Mistress, have you considered how to recover the time we've discarded here like so much human waste?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0350a04'>\r\n//「――ところで。\r\n//　今、黄金よりも貴重な筈の時間が生活排水\r\n//よろしく無駄に流れ去っているという事実を\r\n//いかがいたしましょうや」\r\n\"A propósito, senhorita, já considerou como recuperar o tempo que jogamos fora aqui como dejetos humanos?\"\r\n"
  },
  {
   "offset": 4307,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0360a03'>\r\n//「どうしようもありませんね」\r\n\"I think it's gone for good, Sayo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0360a03'>\r\n//「どうしようもありませんね」\r\n\"Acho que se foi de vez, Sayo.\"\r\n"
  },
  {
   "offset": 4493,
@@ -162,21 +162,21 @@
  {
   "offset": 4619,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0380a00'>\r\n//「こうなる前に止めて下さい！」\r\n\"Why didn't you stop me!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031da0380a00'>\r\n//「こうなる前に止めて下さい！」\r\n\"Por que não me impediram!?\"\r\n"
  },
  {
   "offset": 4790,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0390a03'>\r\n//「……本当にやるとは思わなくて」\r\n\"I didn't think you'd actually do it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031da0390a03'>\r\n//「……本当にやるとは思わなくて」\r\n\"Não achei que você realmente faria isso.\"\r\n"
  },
  {
   "offset": 4985,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0400a04'>\r\n//「……なんか突っ込んだら負けのような気が\r\n//いたしまして」\r\n\"It seemed coarse to <br>interject.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031da0400a04'>\r\n//「……なんか突っ込んだら負けのような気が\r\n//いたしまして」\r\n\"Parecia grosseiro interromper.\"\r\n"
  },
  {
   "offset": 5206,
   "en": "\r\n//　…………。\r\n//　\r\n//　\r\n//　痛恨の不覚であった。\r\n  ...Why?\r\n",
-  "pt": ""
+  "pt": "\r\n//　…………。\r\n//　\r\n//　\r\n//　痛恨の不覚であった。\r\n  \"...Por quê?\"\r\n"
  }
 ]

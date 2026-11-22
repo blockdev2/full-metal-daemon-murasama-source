@@ -2,172 +2,172 @@
  {
   "offset": 215,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0010a01'>\r\n//《……あれ!?》\r\n《Is that it!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0010a01'>\r\n//《……あれ!?》\r\n《Só isso!?》\r\n"
  },
  {
   "offset": 359,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0020a00'>\r\n//「そうだ。\r\n//　見つけた……！」\r\n\"Yes. We've got them!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0020a00'>\r\n//「そうだ。\r\n//　見つけた……！」\r\n\"Sim. Nós os encontramos!\"\r\n"
  },
  {
   "offset": 527,
   "en": "\r\n//　横浜から飛び立って約三分。\r\n//　空を泳ぐ巨大なヘリウム風船を肉眼で確認する。\r\n  Three minutes after escaping Yokohama, we spot an enormous balloon in the sky.\r\n\r\n//　この早さは飛行艦が目的地へ直進するという事前の\r\n//推測のみに起因しない。\r\n//　飛行艦は風を無視しては飛べない器械だ。風向次第\r\n//では針路を大きく逸らす事態も起こり得た。\r\n  This is about as fast as we could have hoped to find it. The ship had been forced to veer south with the wind, so it might have taken longer if we'd been limited to searching along her planned course. Fortunately, Miss Nagakura anticipated this and snuck a transmitter on board. Its signal led us straight to our target.\r\n\r\n//　実際、船は予定針路をやや南へ外れている。\r\n//　さりながら捜索に時間を浪費しなかったのは、かく\r\n//あるを読んで永倉老が発信機を用意した事こそ大きい。\r\n\r\n//　船内に潜入済みの大鳥主従が発する信号を横浜出立\r\n//から間もなくして受信し、後はそれを辿って追う事が\r\n//できたのだった。\r\n//　予測と村正の<RUBY text='レーダー'>探査</RUBY>のみではもっと時間を食ったろう。\r\n\r\n//　三分での捕捉は<RUBY text='ベスト'>最善</RUBY>といえる。\r\n//　この折角の成果を無駄にしないため、突入も手早く\r\n//済ませてしまいたいが――\r\n  Now to make the most of the time we've saved.\r\n",
-  "pt": ""
+  "pt": "\r\n//　横浜から飛び立って約三分。\r\n//　空を泳ぐ巨大なヘリウム風船を肉眼で確認する。\r\n  Três minutos depois de escaparmos de Yokohama, avistamos um enorme balão no céu.\r\n\r\n//　この早さは飛行艦が目的地へ直進するという事前の\r\n//推測のみに起因しない。\r\n//　飛行艦は風を無視しては飛べない器械だ。風向次第\r\n//では針路を大きく逸らす事態も起こり得た。\r\n  Foi praticamente o mais rápido que podíamos esperar para encontrá-lo. A nave havia sido forçada a desviar para o sul com o vento, então poderia ter levado mais tempo se estivéssemos limitados a procurar ao longo do curso planejado. Felizmente, a Srta. Nagakura previu isso e escondeu um transmissor a bordo. O sinal dele nos levou direto ao alvo.\r\n\r\n//　実際、船は予定針路をやや南へ外れている。\r\n//　さりながら捜索に時間を浪費しなかったのは、かく\r\n//あるを読んで永倉老が発信機を用意した事こそ大きい。\r\n\r\n//　船内に潜入済みの大鳥主従が発する信号を横浜出立\r\n//から間もなくして受信し、後はそれを辿って追う事が\r\n//できたのだった。\r\n//　予測と村正の<RUBY text='レーダー'>探査</RUBY>のみではもっと時間を食ったろう。\r\n\r\n//　三分での捕捉は<RUBY text='ベスト'>最善</RUBY>といえる。\r\n//　この折角の成果を無駄にしないため、突入も手早く\r\n//済ませてしまいたいが――\r\n  Agora é aproveitar ao máximo o tempo que ganhamos.\r\n"
  },
  {
   "offset": 2081,
   "en": "\r\n//　飛行艦の急所は<RUBY text='・'>上</RUBY>である。\r\n//　膨張した気嚢のため、そちらから接近されると肉視\r\n//ができない。\r\n  An airship is most vulnerable when approached from above, where the balloon blocks line of sight. We'll have shown up on their radar by now, but without visual confirmation, they won't know if we're friend, foe, or a large flock of birds. \r\n\r\n//　信号探査で<RUBY text='こちら'>飛行体</RUBY>の存在を察知してはいるだろうが、\r\n//それが敵騎なのか、それとも大型の鳥類なのか、はた\r\n//また単なる誤認なのかは容易に判断がつかない筈だ。\r\n",
-  "pt": ""
+  "pt": "\r\n//　飛行艦の急所は<RUBY text='・'>上</RUBY>である。\r\n//　膨張した気嚢のため、そちらから接近されると肉視\r\n//ができない。\r\n  Um dirigível é mais vulnerável quando abordado por cima, onde o balão bloqueia a linha de visão. Já devemos ter aparecido no radar deles, mas sem confirmação visual, não saberão se somos amigos, inimigos ou um grande bando de aves. \r\n\r\n//　信号探査で<RUBY text='こちら'>飛行体</RUBY>の存在を察知してはいるだろうが、\r\n//それが敵騎なのか、それとも大型の鳥類なのか、はた\r\n//また単なる誤認なのかは容易に判断がつかない筈だ。\r\n"
  },
  {
   "offset": 2762,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0030a01'>\r\n//《……でっかい》\r\n《It's㉓<I>huge...</I>》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0030a01'>\r\n//《……でっかい》\r\n《É㉓<I>enorme...</I>》\r\n"
  },
  {
   "offset": 2919,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0040a00'>\r\n//「軍用飛行船としては小さなものだ」\r\n\"Not for a military airship.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0040a00'>\r\n//「軍用飛行船としては小さなものだ」\r\n\"Não para um dirigível militar.\"\r\n"
  },
  {
   "offset": 3099,
   "en": "\r\n//　ヴィッカース四式の全長はおよそ一四〇メートル。\r\n//　世界一周で名高いグラーフ・ツェペリンなどに比べ\r\n//れば、全く大人の前の子供に過ぎない。\r\n  The Vickers Mark 4 measures one hundred forty meters from bow to stern, a mere quarter that of the Graf Zeppelin which circumnavigated the globe. \r\n\r\n//　それでも<RUBY text='こちら'>竜騎兵</RUBY>から見ればまさに空中楼閣なのだが。\r\n  Of course, compared to a musha, it might as well be a castle. \r\n",
-  "pt": ""
+  "pt": "\r\n//　ヴィッカース四式の全長はおよそ一四〇メートル。\r\n//　世界一周で名高いグラーフ・ツェペリンなどに比べ\r\n//れば、全く大人の前の子供に過ぎない。\r\n  O Vickers Mark 4 mede cento e quarenta metros da proa à popa, apenas um quarto do Graf Zeppelin que deu a volta ao mundo. \r\n\r\n//　それでも<RUBY text='こちら'>竜騎兵</RUBY>から見ればまさに空中楼閣なのだが。\r\n  Claro que, comparado a um musha, ele é praticamente um castelo. \r\n"
  },
  {
   "offset": 3646,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0050a01'>\r\n//《どうしてこんな城みたいなものが空に浮く\r\n//のよ……》\r\n《It's like a flying castle. How does it even...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0050a01'>\r\n//《どうしてこんな城みたいなものが空に浮く\r\n//のよ……》\r\n《É como um castelo voador. Como isso sequer...》\r\n"
  },
  {
   "offset": 3883,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0060a00'>\r\n//「原理は単純だ。\r\n//　空気より軽い気体があの袋に詰まっている」\r\n\"The balloon contains a gas lighter than the surrounding air.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0060a00'>\r\n//「原理は単純だ。\r\n//　空気より軽い気体があの袋に詰まっている」\r\n\"O balão contém um gás mais leve que o ar ao redor.\"\r\n"
  },
  {
   "offset": 4136,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0070a01'>\r\n//《……はぁ。\r\n//　何なのかしら……城は飛ぶし、城を一発で\r\n//吹き飛ばす<RUBY text='かぐ'>火具</RUBY>はあるっていうし》\r\n《Flying castles, a weapon that wipes out cities...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0080a01'>\r\n//《時代の差が身に沁みて、なんか切なくて嫌\r\n//なんだけど》\r\n《I feel like the world has left me behind. And I have to say, I don't like it one bit.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0070a01'>\r\n//《……はぁ。\r\n//　何なのかしら……城は飛ぶし、城を一発で\r\n//吹き飛ばす<RUBY text='かぐ'>火具</RUBY>はあるっていうし》\r\n《Castelos voadores, uma arma que apaga cidades...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0080a01'>\r\n//《時代の差が身に沁みて、なんか切なくて嫌\r\n//なんだけど》\r\n《Sinto que o mundo me deixou para trás. E devo dizer, não gosto nem um pouco disso.》\r\n"
  },
  {
   "offset": 4729,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0090a00'>\r\n//「老け込むのは後にしろ。\r\n//　上から回り込み……操縦室を直撃する」\r\n\"You can lament your age later. For now, let's get ahead of them and attack the bridge directly.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0090a00'>\r\n//「老け込むのは後にしろ。\r\n//　上から回り込み……操縦室を直撃する」\r\n\"Lamente a sua idade depois. Por ora, vamos nos antecipar a eles e atacar a ponte de comando diretamente.\"\r\n"
  },
  {
   "offset": 5023,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0100a00'>\r\n//「操舵手の身柄を押さえ、針路を変えさせる\r\n//事ができれば時間稼ぎになる筈だ」\r\n\"If we secure the helm, we can force them to change course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0100a00'>\r\n//「操舵手の身柄を押さえ、針路を変えさせる\r\n//事ができれば時間稼ぎになる筈だ」\r\n\"Se tomarmos o timão, podemos forçá-los a mudar de rumo.\"\r\n"
  },
  {
   "offset": 5295,
   "en": "\r\n//　そうなれば爆弾も探しやすい。\r\n  That will buy us more time to find the bomb.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そうなれば爆弾も探しやすい。\r\n  Isso nos dará mais tempo para encontrar a bomba.\r\n"
  },
  {
   "offset": 5402,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0110a01'>\r\n//《諒解》\r\n《Got it.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0110a01'>\r\n//《諒解》\r\n《Entendido.》\r\n"
  },
  {
   "offset": 5533,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0120a00'>\r\n//「一応確認するが、周辺に敵騎は無いな？」\r\n\"Just to confirm, we have no other contacts in the area?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0120a00'>\r\n//「一応確認するが、周辺に敵騎は無いな？」\r\n\"Só para confirmar, não temos outros contatos na área?\"\r\n"
  },
  {
   "offset": 5750,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0130a01'>\r\n//《――無し。\r\n//　この空域にいるのは私達と、下の空飛ぶ船\r\n//だけよ》\r\n《None. It's just us and that monstrosity there.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0130a01'>\r\n//《――無し。\r\n//　この空域にいるのは私達と、下の空飛ぶ船\r\n//だけよ》\r\n《Nenhum. Somos só nós e aquela monstruosidade ali.》\r\n"
  },
  {
   "offset": 6006,
   "en": "\r\n//　瞬時に信号探査を終え、村正が言う。\r\n//　\r\n//　その舌の根が乾くどころか、まだ金打声の余韻が俺\r\n//の頭蓋の内側を揺らしている間に。\r\n  They don't even wait for the echo of Muramasa's assurances to fade.\r\n",
-  "pt": ""
+  "pt": "\r\n//　瞬時に信号探査を終え、村正が言う。\r\n//　\r\n//　その舌の根が乾くどころか、まだ金打声の余韻が俺\r\n//の頭蓋の内側を揺らしている間に。\r\n  Eles nem esperam que o eco das garantias de Muramasa se dissipe.\r\n"
  },
  {
   "offset": 6280,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0140a01'>\r\n//《えっ……\r\n//　えぇぇぇ!?》\r\n《What? No way!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0150a01'>\r\n//《そんなっ……ちょっと……\r\n//　ほんとに老けて、<RUBY text='ぼ'>痴呆</RUBY>けたの私!?》\r\n《How did they...!? Don't tell me I'm really going senile!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0140a01'>\r\n//《えっ……\r\n//　えぇぇぇ!?》\r\n《O quê? Não é possível!》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0150a01'>\r\n//《そんなっ……ちょっと……\r\n//　ほんとに老けて、<RUBY text='ぼ'>痴呆</RUBY>けたの私!?》\r\n《Como eles...!? Não me diga que eu realmente estou ficando caduca!》\r\n"
  },
  {
   "offset": 6721,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0160a00'>\r\n//「――いや」\r\n\"...You're not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0160a00'>\r\n//「――いや」\r\n\"...Não está.\"\r\n"
  },
  {
   "offset": 6855,
   "en": "\r\n//　戦慄の槍に貫かれながら、劒冑の自責を差し止める。\r\n//　痴呆症に冒されているとすれば、それは俺だった。\r\n\r\n//　大鳥大尉は俺に教えていたのだ――\r\n//　隠形竜騎兵の『部隊』が既に存在すると！\r\n\r\n//　この作戦に使われるのはそのうち一騎だけ、爆弾の\r\n//投下に利用されるだけで、飛行艦の<RUBY text='・・・・・・・'>見えざる護衛騎</RUBY>と\r\n//して用いられることなどない――\r\n//　そんな約束をいつ、誰が、俺にしたのか!?\r\n\r\n//　間を抜かすにも程がある……！\r\n  But I might be. Captain Otori㉗<I>told</I>㉔me. A full wing, she said! How could I forget?\r\n\r\n  Did I think that this plan would only use one? Did I think that this airship <I>wouldn't</I>㉔have a screen of invisible watchdogs?\r\n",
-  "pt": ""
+  "pt": "\r\n//　戦慄の槍に貫かれながら、劒冑の自責を差し止める。\r\n//　痴呆症に冒されているとすれば、それは俺だった。\r\n\r\n//　大鳥大尉は俺に教えていたのだ――\r\n//　隠形竜騎兵の『部隊』が既に存在すると！\r\n\r\n//　この作戦に使われるのはそのうち一騎だけ、爆弾の\r\n//投下に利用されるだけで、飛行艦の<RUBY text='・・・・・・・'>見えざる護衛騎</RUBY>と\r\n//して用いられることなどない――\r\n//　そんな約束をいつ、誰が、俺にしたのか!?\r\n\r\n//　間を抜かすにも程がある……！\r\n  Mas talvez eu esteja. A Capitã Otori㉗<I>me contou</I>㉔. Um esquadrão inteiro, ela disse! Como pude esquecer?\r\n\r\n  Eu pensei que este plano usaria apenas um? Pensei que este dirigível <I>não</I>㉔teria uma tela de cães de guarda invisíveis?\r\n"
  },
  {
   "offset": 7734,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0170a00'>\r\n//「あれはいつぞやの乱破の同類だ」\r\n\"Recall the Outlaw of Soshu.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0170a00'>\r\n//「あれはいつぞやの乱破の同類だ」\r\n\"Lembra-se do Fora-da-lei de Soshu.\"\r\n"
  },
  {
   "offset": 7911,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0180a01'>\r\n//《乱破？\r\n//　……あの月山従三位!?》\r\n《Soshu? You mean Gassan Jusanmi!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0180a01'>\r\n//《乱破？\r\n//　……あの月山従三位!?》\r\n《Soshu? Quer dizer Gassan Jusanmi!?》\r\n"
  },
  {
   "offset": 8106,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0190a00'>\r\n//「信号反射を最小限に抑える甲鉄構造を持つ。\r\n//　加えて、飛行艦の影に潜むようにして騎航\r\n//していたのだろう」\r\n\"These tsurugi were built to absorb radar. And I'd wager they were hiding in the airship's shadow until now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0190a00'>\r\n//「信号反射を最小限に抑える甲鉄構造を持つ。\r\n//　加えて、飛行艦の影に潜むようにして騎航\r\n//していたのだろう」\r\n\"Esses tsurugi foram construídos para absorver radar. E eu apostaria que estavam se escondendo na sombra do dirigível até agora.\"\r\n"
  },
  {
   "offset": 8473,
   "en": "\r\n//　そうすれば信号探査も目視確認も回避できる。\r\n//　熱源探査でなら<RUBY text='キャッチ'>捕捉</RUBY>できたかもしれないが……俺が\r\n//そこまで知恵を回せなかった。\r\n\r\n//　その知恵があればここまで近付かれるまでに気付き、\r\n//突入方法を再考する選択もあったろうに。\r\n//　今となっては後の祭り。\r\n\r\n//　肝心な時にこう失態を晒すとは！\r\n  That would shield them from sight as well. Only thermal sensors might have detected their presence, but I did not think to activate that function. If I had, it might have given us time to plot a different approach.\r\n\r\n  Now it's too late.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そうすれば信号探査も目視確認も回避できる。\r\n//　熱源探査でなら<RUBY text='キャッチ'>捕捉</RUBY>できたかもしれないが……俺が\r\n//そこまで知恵を回せなかった。\r\n\r\n//　その知恵があればここまで近付かれるまでに気付き、\r\n//突入方法を再考する選択もあったろうに。\r\n//　今となっては後の祭り。\r\n\r\n//　肝心な時にこう失態を晒すとは！\r\n  Isso também os esconderia da vista. Só sensores térmicos poderiam ter detectado a presença deles, mas não me ocorreu ativar essa função. Se tivesse, talvez nos desse tempo para planejar outra abordagem.\r\n\r\n  Agora é tarde demais.\r\n"
  },
  {
   "offset": 9186,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0200a01'>\r\n//《どうするの!?》\r\n《What do we do!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0200a01'>\r\n//《どうするの!?》\r\n《O que fazemos!?》\r\n"
  },
  {
   "offset": 9336,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0210a00'>\r\n//「く――」\r\n\"Kuh―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0210a00'>\r\n//「く――」\r\n\"Kuh―\"\r\n"
  },
  {
   "offset": 9459,
   "en": "\r\n//　こちらに迫る騎影二つ。\r\n//　身ごなしを観察すれば、仕手の力量と騎体性能の程\r\n//は明らかだった。\r\n  From the way they fly, I can easily judge their capabilities, and the capabilities of their machines.\r\n\r\n  Both are first-rate, as I'd expect. Colonel Cannon handpicked these pilots for this mission, and the ST-9 is the absolute cutting edge of Western dragoon technology. These are demons with wings, and I cannot hope to fend them off while pursuing my mission.\r\n\r\n//　どちらも極めて高度。\r\n//　当然だ――前者はキャノン中佐が信任して極秘作戦\r\n//の一翼を担わせた人材、後者は国際連盟軍の最新鋭騎\r\n//ＳＴ-〇九なのだから。\r\n\r\n//　<RUBY text='ウイングドデーモン'>空の悪魔</RUBY>と呼ばれるに相応しい者ども。\r\n//　とてもの事、こんな状況下で戦っていられる相手で\r\n//はない。\r\n",
-  "pt": ""
+  "pt": "\r\n//　こちらに迫る騎影二つ。\r\n//　身ごなしを観察すれば、仕手の力量と騎体性能の程\r\n//は明らかだった。\r\n  Pela forma como voam, posso avaliar facilmente suas capacidades e as de suas máquinas.\r\n\r\n  Ambos são de primeira linha, como era de esperar. O Coronel Cannon escolheu a dedo esses pilotos para esta missão, e o ST-9 é o que há de mais avançado na tecnologia de dragoon ocidental. Esses são demônios com asas, e não posso esperar me defender deles enquanto cumpro minha missão.\r\n\r\n//　どちらも極めて高度。\r\n//　当然だ――前者はキャノン中佐が信任して極秘作戦\r\n//の一翼を担わせた人材、後者は国際連盟軍の最新鋭騎\r\n//ＳＴ-〇九なのだから。\r\n\r\n//　<RUBY text='ウイングドデーモン'>空の悪魔</RUBY>と呼ばれるに相応しい者ども。\r\n//　とてもの事、こんな状況下で戦っていられる相手で\r\n//はない。\r\n"
  },
  {
   "offset": 10409,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0220a00'>\r\n//「……船内に突入する！」\r\n\"We enter the airship!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0220a00'>\r\n//「……船内に突入する！」\r\n\"Vamos entrar no dirigível!\"\r\n"
  },
  {
   "offset": 10568,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0230a01'>\r\n//《ど――何処から？》\r\n《Where!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0230a01'>\r\n//《ど――何処から？》\r\n《De onde!?》\r\n"
  },
  {
   "offset": 10717,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0240a00'>\r\n//「<RUBY text='・・・'>その辺</RUBY>からだ！」\r\n\"Anywhere!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0240a00'>\r\n//「<RUBY text='・・・'>その辺</RUBY>からだ！」\r\n\"De qualquer lugar!\"\r\n"
  },
  {
   "offset": 10885,
   "en": "\r\n//　操縦室を狙うゆとりなど最早ない。\r\n//　あの二騎を躱し――兎にも角にも船の内側へ入って\r\n//しまうまで。\r\n\r\n//　それが果たせれば、最低でも大鳥大尉を助ける陽動\r\n//にはなる！\r\n  There's no time to go looking for the bridge. Captain Otori is counting on me for a distraction. I have to get inside and away from these stealth dragoons as quickly as possible. \r\n",
-  "pt": ""
+  "pt": "\r\n//　操縦室を狙うゆとりなど最早ない。\r\n//　あの二騎を躱し――兎にも角にも船の内側へ入って\r\n//しまうまで。\r\n\r\n//　それが果たせれば、最低でも大鳥大尉を助ける陽動\r\n//にはなる！\r\n  Não há tempo para procurar a ponte. A Capitã Otori conta comigo para uma distração. Preciso entrar e me afastar desses dragoons furtivos o mais rápido possível. \r\n"
  },
  {
   "offset": 11328,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0250a00'>\r\n//「後は臨機応変！」\r\n\"We'll figure it out from there!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0250a00'>\r\n//「後は臨機応変！」\r\n\"A gente improvisa a partir daí!\"\r\n"
  },
  {
   "offset": 11488,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0260a01'>\r\n//《それ、行き当たりばったりって意味!?》\r\n《You mean we have no plan!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc02/028vs0260a01'>\r\n//《それ、行き当たりばったりって意味!?》\r\n《Quer dizer que não temos plano!?》\r\n"
  },
  {
   "offset": 11682,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0270a00'>\r\n//「肯定！」\r\n\"Affirmative!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/028vs0270a00'>\r\n//「肯定！」\r\n\"Afirmativo!\"\r\n"
  },
  {
   "offset": 11811,

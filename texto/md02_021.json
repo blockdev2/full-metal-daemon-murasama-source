@@ -7,12 +7,12 @@
  {
   "offset": 337,
   "en": "\r\n//　ここは何処だ。\r\n  Where am I?\r\n",
-  "pt": ""
+  "pt": "\r\n//　ここは何処だ。\r\n  Onde eu estou?\r\n"
  },
  {
   "offset": 390,
   "en": "\r\n//【ｅｔｃ／村正の精】\r\n<voice name='ｅｔｃ／村正の精' class='その他男声' src='voice/md02/0210020e159'>\r\n//「ここは貴方の夢の中」\r\n\"This is your dream.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／村正の精】\r\n<voice name='ｅｔｃ／村正の精' class='その他男声' src='voice/md02/0210020e159'>\r\n//「ここは貴方の夢の中」\r\n\"Este é o seu sonho.\"\r\n"
  },
  {
   "offset": 588,
@@ -22,77 +22,77 @@
  {
   "offset": 712,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210040a00'>\r\n//「何方でしょうか」\r\n\"I'm afraid we haven't been properly introduced.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210040a00'>\r\n//「何方でしょうか」\r\n\"Receio que ainda não tenhamos sido devidamente apresentados.\"\r\n"
  },
  {
   "offset": 886,
   "en": "\r\n//【ｅｔｃ／村正の精】\r\n<voice name='ｅｔｃ／村正の精' class='その他男声' src='voice/md02/0210050e159'>\r\n//「私は貴方の劒冑……\r\n//　村正の精です」\r\n\"I am the spirit of your tsurugi, Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／村正の精】\r\n<voice name='ｅｔｃ／村正の精' class='その他男声' src='voice/md02/0210050e159'>\r\n//「私は貴方の劒冑……\r\n//　村正の精です」\r\n\"Eu sou o espírito da sua tsurugi, Muramasa.\"\r\n"
  },
  {
   "offset": 1132,
   "en": "\r\n//◆巨大フォント\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210060a00'>\r\n//<FONT size='40'>「嘘だ!!」</FONT>\r\n<center>\"LIES!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆巨大フォント\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210060a00'>\r\n//<FONT size='40'>「嘘だ!!」</FONT>\r\n<center>\"MENTIRA!\"\r\n"
  },
  {
   "offset": 1307,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210070a14'>\r\n//「むぅ。色々と間違えたようだ」\r\n\"Damn. That didn't work at all.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210070a14'>\r\n//「むぅ。色々と間違えたようだ」\r\n\"Droga. Não funcionou de jeito nenhum.\"\r\n"
  },
  {
   "offset": 1473,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210080a07'>\r\n//「御姫、何やってんの？\r\n//　こんな屋根の上なんかで」\r\n\"What'cha up to, Princess? It's cold up here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210080a07'>\r\n//「御姫、何やってんの？\r\n//　こんな屋根の上なんかで」\r\n\"O que você está fazendo aí, Princesa? Está frio aí em cima.\"\r\n"
  },
  {
   "offset": 1702,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210090a14'>\r\n//「茶々丸か。\r\n//　いや、なに……一度景明の女性嗜好や恋愛\r\n//観を詳しく調べてみようと思ってな」\r\n\"Chachamaru... Nothing. I just thought I'd research Kageaki's tastes in women.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210090a14'>\r\n//「茶々丸か。\r\n//　いや、なに……一度景明の女性嗜好や恋愛\r\n//観を詳しく調べてみようと思ってな」\r\n\"Chachamaru... Nada. Eu só pensei em pesquisar os gostos de Kageaki por mulheres.\"\r\n"
  },
  {
   "offset": 2007,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210100a14'>\r\n//「あちらの村正に悟られない程度の弱い辰気\r\n//で夢を操り、探り出そうと試みているのだが」\r\n\"So I'm using a little gravity―just enough so his Muramasa doesn't sense it―to infiltrate his dreams.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210100a14'>\r\n//「あちらの村正に悟られない程度の弱い辰気\r\n//で夢を操り、探り出そうと試みているのだが」\r\n\"Então estou usando um pouco de gravidade — só o suficiente para que a Muramasa dele não perceba — para invadir os sonhos dele.\"\r\n"
  },
  {
   "offset": 2329,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210110a07'>\r\n//「なんかもう何でもアリですねその力」\r\n\"...Kinda pushing the limits of what you can do with gravity, huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210110a07'>\r\n//「なんかもう何でもアリですねその力」\r\n\"...Você está meio que ultrapassando os limites do que dá para fazer com gravidade, né?\"\r\n"
  },
  {
   "offset": 2557,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210120a14'>\r\n//「なかなかうまくいかん。\r\n//　思った以上に多面的な制御と調整が要る」\r\n\"It's not going as well as I hoped. It requires a more delicate touch than I'm used to.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210120a14'>\r\n//「なかなかうまくいかん。\r\n//　思った以上に多面的な制御と調整が要る」\r\n\"Não está indo tão bem quanto eu esperava. Exige um toque mais delicado do que estou acostumada.\"\r\n"
  },
  {
   "offset": 2834,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210130a14'>\r\n//「向こうに<RUBY text='じゃまもの'>村正</RUBY>がいなければ簡単なのだが。\r\n//　どうしたものかな……」\r\n\"It would be easy if not for that damned spider at his side. What to do...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210130a14'>\r\n//「向こうに<RUBY text='じゃまもの'>村正</RUBY>がいなければ簡単なのだが。\r\n//　どうしたものかな……」\r\n\"Seria fácil se não fosse por aquela maldita aranha ao lado dele. O que fazer...\"\r\n"
  },
  {
   "offset": 3134,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210140a07'>\r\n//「あんたもご苦労っすね」\r\n\"Is it always like this?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210140a07'>\r\n//「あんたもご苦労っすね」\r\n\"É sempre assim?\"\r\n"
  },
  {
   "offset": 3302,
   "en": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md02/0210150a15'>\r\n//《慣れた》\r\n《I'm used to it.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【二世村正】\r\n<voice name='二世村正' class='二世村正' src='voice/md02/0210150a15'>\r\n//《慣れた》\r\n《Já estou acostumada.》\r\n"
  },
  {
   "offset": 3454,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210160a14'>\r\n//「む。そうだ。\r\n//　丁度いい」\r\n\"Oh, I know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210160a14'>\r\n//「む。そうだ。\r\n//　丁度いい」\r\n\"Ah, eu sei.\"\r\n"
  },
  {
   "offset": 3599,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210170a14'>\r\n//「茶々丸、おまえが手伝え」\r\n\"You help me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210170a14'>\r\n//「茶々丸、おまえが手伝え」\r\n\"Você vai me ajudar.\"\r\n"
  },
  {
   "offset": 3741,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210180a07'>\r\n//「あてが？」\r\n\"Me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210180a07'>\r\n//「あてが？」\r\n\"Eu?\"\r\n"
  },
  {
   "offset": 3871,
@@ -102,32 +102,32 @@
  {
   "offset": 3995,
   "en": "\r\n//　ここは何処だ。\r\n  Where am I?\r\n\r\n//　――――――通学路。\r\n  The road to school.\r\n\r\n//　通学路？\r\n  School?\r\n\r\n//　……そうだ。\r\n//　俺は学校へ行く途中だった。\r\n  ...Of course. I'm on my way to school.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ここは何処だ。\r\n  Onde eu estou?\r\n\r\n//　――――――通学路。\r\n  O caminho para a escola.\r\n\r\n//　通学路？\r\n  Escola?\r\n\r\n//　……そうだ。\r\n//　俺は学校へ行く途中だった。\r\n  ...Claro. Estou a caminho da escola.\r\n"
  },
  {
   "offset": 4257,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210200a14'>\r\n//「よし、今度はうまくいっている」\r\n\"Good! It seems to be working.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210200a14'>\r\n//「よし、今度はうまくいっている」\r\n\"Bom! Parece que está funcionando.\"\r\n"
  },
  {
   "offset": 4425,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210210a07'>\r\n//「にしても、学生ネタなんすね。\r\n//　じゃあここからは王道で？」\r\n\"Okay, so we've got your standard school setting. I guess you're gonna start with the basics?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210210a07'>\r\n//「にしても、学生ネタなんすね。\r\n//　じゃあここからは王道で？」\r\n\"Então temos o clássico cenário escolar. Imagino que você vai começar pelo básico?\"\r\n"
  },
  {
   "offset": 4717,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210220a14'>\r\n//「無論！」\r\n\"But of course!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210220a14'>\r\n//「無論！」\r\n\"Mas é claro!\"\r\n"
  },
  {
   "offset": 4837,
   "en": "\r\n//　急ごう。\r\n//　今日は寝過ごしたせいで、時間の余裕があまりない。\r\n  Better hurry. I slept in today, and now I'm running late.\r\n",
-  "pt": ""
+  "pt": "\r\n//　急ごう。\r\n//　今日は寝過ごしたせいで、時間の余裕があまりない。\r\n  É melhor me apressar. Hoje eu dormi demais e agora estou atrasado.\r\n"
  },
  {
   "offset": 5006,
   "en": "\r\n//◆顔ＣＧ使わずネームＣＧ「走る女学生」\r\n//【ｅｔｃ／ヒロインＡ】\r\n<voice name='ｅｔｃ／ヒロインＡ' class='その他女声' src='voice/md02/0210230e011'>\r\n//「大変、大変！\r\n//　遅刻しちゃうー！」\r\n\"Oh no! Oh no! I'm gonna be late!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆顔ＣＧ使わずネームＣＧ「走る女学生」\r\n//【ｅｔｃ／ヒロインＡ】\r\n<voice name='ｅｔｃ／ヒロインＡ' class='その他女声' src='voice/md02/0210230e011'>\r\n//「大変、大変！\r\n//　遅刻しちゃうー！」\r\n\"Ai, ai! Vou me atrasar!\"\r\n"
  },
  {
   "offset": 5306,
@@ -137,7 +137,7 @@
  {
   "offset": 5424,
   "en": "\r\n//　前方。\r\n//　曲がり角。\r\n//　足音。\r\n//　至近距離――――\r\n  Footsteps approaching at high speed.\r\n\r\n  Check corner.\r\n\r\n  Closing fast―\r\n",
-  "pt": ""
+  "pt": "\r\n//　前方。\r\n//　曲がり角。\r\n//　足音。\r\n//　至近距離――――\r\n  Passos se aproximando em alta velocidade.\r\n\r\n  Checar a esquina.\r\n\r\n  Se aproximando rápido—\r\n"
  },
  {
   "offset": 5599,
@@ -147,82 +147,82 @@
  {
   "offset": 5723,
   "en": "\r\n//　さて、学校へ行こう……。\r\n  Best be on my way.\r\n",
-  "pt": ""
+  "pt": "\r\n//　さて、学校へ行こう……。\r\n  Melhor seguir o meu caminho.\r\n"
  },
  {
   "offset": 5798,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210260a07'>\r\n//「何事もなくすれ違ってしまいましたが」\r\n\"Um, they didn't bump heads or anything.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210260a07'>\r\n//「何事もなくすれ違ってしまいましたが」\r\n\"Hum, eles não bateram de cabeça nem nada.\"\r\n"
  },
  {
   "offset": 6003,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210270a14'>\r\n//「ふっ……当然だ。\r\n//　景明の技量をもってすればあの程度の突進、\r\n//目を瞑っていてもかわせるはず」\r\n\"Heh, of course not. Kageaki could have evaded that charge with his eyes closed!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210270a14'>\r\n//「ふっ……当然だ。\r\n//　景明の技量をもってすればあの程度の突進、\r\n//目を瞑っていてもかわせるはず」\r\n\"Heh, claro que não. Kageaki poderia ter desviado daquela investida de olhos fechados!\"\r\n"
  },
  {
   "offset": 6316,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210280a07'>\r\n//「そういう問題だったのこれ？」\r\n\"So we were testing his reflexes?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210280a07'>\r\n//「そういう問題だったのこれ？」\r\n\"Então estávamos testando os reflexos dele?\"\r\n"
  },
  {
   "offset": 6502,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210290a14'>\r\n//「いや主旨とはだいぶ違うな。何の調査にも\r\n//なってないし。\r\n//　次へ行くぞ！」\r\n\"No, we most certainly were not. How did we get here? Moving on!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210290a14'>\r\n//「いや主旨とはだいぶ違うな。何の調査にも\r\n//なってないし。\r\n//　次へ行くぞ！」\r\n\"Não, definitivamente não. Como é que chegamos nisso? Vamos para a próxima!\"\r\n"
  },
  {
   "offset": 6769,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210300a07'>\r\n//「ういー」\r\n\"㉑'Kay.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210300a07'>\r\n//「ういー」\r\n\"Tá bom.\"\r\n"
  },
  {
   "offset": 6901,
   "en": "\r\n//　良し。\r\n//　危ういところだったが、遅刻はせずに済んだ。\r\n  Phew. It was close, but I made it to school on time.\r\n\r\n//　周りにも幾人か、同じように安堵の息をついている\r\n//学生がいる。\r\n  Several students around me breathe similar sighs of relief.\r\n",
-  "pt": ""
+  "pt": "\r\n//　良し。\r\n//　危ういところだったが、遅刻はせずに済んだ。\r\n  Ufa. Foi por pouco, mas cheguei à escola a tempo.\r\n\r\n//　周りにも幾人か、同じように安堵の息をついている\r\n//学生がいる。\r\n  Alguns estudantes ao meu redor soltam suspiros de alívio parecidos.\r\n"
  },
  {
   "offset": 7216,
   "en": "\r\n//【ｅｔｃ／夢教師】\r\n<voice name='ｅｔｃ／夢教師' class='その他男声' src='voice/md02/0210310e275'>\r\n//「こらぁ、お前は遅刻だ！\r\n//　こっちへ来い！」\r\n\"Come here, you! You're LATE!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／夢教師】\r\n<voice name='ｅｔｃ／夢教師' class='その他男声' src='voice/md02/0210310e275'>\r\n//「こらぁ、お前は遅刻だ！\r\n//　こっちへ来い！」\r\n\"Venha aqui, você! Está atrasada!\"\r\n"
  },
  {
   "offset": 7451,
   "en": "\r\n//◆顔ＣＧ使わずネームＣＧ「遅刻の女学生」\r\n//【ｅｔｃ／ヒロインＢ】\r\n<voice name='ｅｔｃ／ヒロインＢ' class='その他女声' src='voice/md02/0210320e012'>\r\n//「そ、そんなぁ！\r\n//　先生、許してー！」\r\n\"B- But only a little!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆顔ＣＧ使わずネームＣＧ「遅刻の女学生」\r\n//【ｅｔｃ／ヒロインＢ】\r\n<voice name='ｅｔｃ／ヒロインＢ' class='その他女声' src='voice/md02/0210320e012'>\r\n//「そ、そんなぁ！\r\n//　先生、許してー！」\r\n\"M- Mas foi só um pouquinho!\"\r\n"
  },
  {
   "offset": 7746,
   "en": "\r\n//【ｅｔｃ／夢教師】\r\n<voice name='ｅｔｃ／夢教師' class='その他男声' src='voice/md02/0210330e275'>\r\n//「だぁめぇだぁー。\r\n//　けけけっ、残念だったなぁ？　今日まで無\r\n//遅刻皆勤だったのになぁー？」\r\n\"You're not getting away with it! Hehehe! Too bad! And you had a perfect attendance record too!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／夢教師】\r\n<voice name='ｅｔｃ／夢教師' class='その他男声' src='voice/md02/0210330e275'>\r\n//「だぁめぇだぁー。\r\n//　けけけっ、残念だったなぁ？　今日まで無\r\n//遅刻皆勤だったのになぁー？」\r\n\"De jeito nenhum! Hehehe! Que pena! E você que tinha um histórico de presença perfeita!\"\r\n"
  },
  {
   "offset": 8117,
   "en": "\r\n//【ｅｔｃ／夢教師】\r\n<voice name='ｅｔｃ／夢教師' class='その他男声' src='voice/md02/0210340e275'>\r\n//「成績の悪いお前が唯一の取柄まで無くしち\r\n//まったら、就職も進学もできないってのに！\r\n//　はぁーはははははは!!」\r\n\"Without that, you don't have the grades to graduate! Looks like you'll be spending next year with me too! HAAHAHAHAHAHA!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／夢教師】\r\n<voice name='ｅｔｃ／夢教師' class='その他男声' src='voice/md02/0210340e275'>\r\n//「成績の悪いお前が唯一の取柄まで無くしち\r\n//まったら、就職も進学もできないってのに！\r\n//　はぁーはははははは!!」\r\n\"Sem isso, você não tem notas para se formar! Parece que você vai passar mais um ano comigo! HAHAHAHAHAHA!\"\r\n"
  },
  {
   "offset": 8540,
   "en": "\r\n//【ｅｔｃ／ヒロインＢ】\r\n<voice name='ｅｔｃ／ヒロインＢ' class='その他女声' src='voice/md02/0210350e012'>\r\n//「あーん！\r\n//　そんなのやだよぉー！」\r\n\"Noooo! Anything but that!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／ヒロインＢ】\r\n<voice name='ｅｔｃ／ヒロインＢ' class='その他女声' src='voice/md02/0210350e012'>\r\n//「あーん！\r\n//　そんなのやだよぉー！」\r\n\"Nãooo! Qualquer coisa menos isso!\"\r\n"
  },
  {
   "offset": 8772,
   "en": "\r\n//【ｅｔｃ／夢男子Ａ】\r\n<voice name='ｅｔｃ／夢男子Ａ' class='その他男声' src='voice/md02/0210360e276'>\r\n//「あーあ……可哀想に」\r\n\"Damn, that sucks.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／夢男子Ａ】\r\n<voice name='ｅｔｃ／夢男子Ａ' class='その他男声' src='voice/md02/0210360e276'>\r\n//「あーあ……可哀想に」\r\n\"Nossa, que droga.\"\r\n"
  },
  {
   "offset": 8968,
   "en": "\r\n//【ｅｔｃ／夢男子Ｂ】\r\n<voice name='ｅｔｃ／夢男子Ｂ' class='その他男声' src='voice/md02/0210370e277'>\r\n//「遅刻ったって二秒か三秒だろ？\r\n//　見逃してやればいいのにさ」\r\n\"She's only like two seconds late. I mean, come on.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／夢男子Ｂ】\r\n<voice name='ｅｔｃ／夢男子Ｂ' class='その他男声' src='voice/md02/0210370e277'>\r\n//「遅刻ったって二秒か三秒だろ？\r\n//　見逃してやればいいのにさ」\r\n\"Ela só se atrasou uns dois segundos. Quer dizer, por favor.\"\r\n"
  },
  {
   "offset": 9255,
   "en": "\r\n//【ｅｔｃ／夢男子Ａ】\r\n<voice name='ｅｔｃ／夢男子Ａ' class='その他男声' src='voice/md02/0210380e276'>\r\n//「そう思うならお前、弁護してやれよ」\r\n\"Then why don't you go stick up for her?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／夢男子Ａ】\r\n<voice name='ｅｔｃ／夢男子Ａ' class='その他男声' src='voice/md02/0210380e276'>\r\n//「そう思うならお前、弁護してやれよ」\r\n\"Então por que você não vai defendê-la?\"\r\n"
  },
  {
   "offset": 9494,
   "en": "\r\n//【ｅｔｃ／夢男子Ｂ】\r\n<voice name='ｅｔｃ／夢男子Ｂ' class='その他男声' src='voice/md02/0210390e277'>\r\n//「やだよ！\r\n//　あの陰険教師に目を付けられたら終わりだ\r\n//ぜ……」\r\n\"No way! The last thing I need is for that hardass to come after me too!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／夢男子Ｂ】\r\n<voice name='ｅｔｃ／夢男子Ｂ' class='その他男声' src='voice/md02/0210390e277'>\r\n//「やだよ！\r\n//　あの陰険教師に目を付けられたら終わりだ\r\n//ぜ……」\r\n\"Nem pensar! Só me faltava aquele carrasco pegar no meu pé também!\"\r\n"
  },
  {
   "offset": 9806,
@@ -232,126 +232,126 @@
  {
   "offset": 9930,
   "en": "\r\n//　――さて。\r\n//　教室へ急ごうか。\r\n  I'd better hurry to class.\r\n",
-  "pt": ""
+  "pt": "\r\n//　――さて。\r\n//　教室へ急ごうか。\r\n  Melhor eu me apressar para a sala de aula.\r\n"
  },
  {
   "offset": 10023,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210410a07'>\r\n//「何のドラマも発生しませんね」\r\n\"No flags so far.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210410a07'>\r\n//「何のドラマも発生しませんね」\r\nNenhuma flag até agora.\r\n"
  },
  {
   "offset": 10193,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210420a14'>\r\n//「なるほど……\r\n//　そういうことか」\r\n\"...Ah! Of course!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210420a14'>\r\n//「なるほど……\r\n//　そういうことか」\r\n...Ah! Claro!\r\n"
  },
  {
   "offset": 10353,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210430a07'>\r\n//「御姫？」\r\n\"Princess?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210430a07'>\r\n//「御姫？」\r\nPrincesa?\r\n"
  },
  {
   "offset": 10486,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210440a14'>\r\n//「遅刻は遅刻、やはり遅刻した者が悪い。\r\n//　表面的な印象だけで教師を悪と見なすのは\r\n//間違っている」\r\n\"A student who runs late has no one but herself to blame. It would be wrong to take her side just because the teacher's a cretin.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210440a14'>\r\n//「遅刻は遅刻、やはり遅刻した者が悪い。\r\n//　表面的な印象だけで教師を悪と見なすのは\r\n//間違っている」\r\nUma aluna que se atrasa não pode culpar ninguém além de si mesma. Seria errado tomar o partido dela só porque o professor é um cretino.\r\n"
  },
  {
   "offset": 10851,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210450a14'>\r\n//「遅刻したのに正しい処罰を受けず、不当に\r\n//助けられてしまえば、その経験は必ず女学生\r\n//の人生に良からぬ影を落とすだろう。\r\n//　景明はそこまで考えたのだな……」\r\n\"If she escapes punishment for her misdeeds, it will haunt her for the rest of her life. Kageaki knows that. That's why he didn't go to her aid.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210450a14'>\r\n//「遅刻したのに正しい処罰を受けず、不当に\r\n//助けられてしまえば、その経験は必ず女学生\r\n//の人生に良からぬ影を落とすだろう。\r\n//　景明はそこまで考えたのだな……」\r\nSe ela escapar do castigo por seus erros, isso a assombrará pelo resto da vida. Kageaki sabe disso. Foi por isso que não foi em seu auxílio.\r\n"
  },
  {
   "offset": 11319,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210460a14'>\r\n//「さすが、凡俗とは一味違う。\r\n//　温情と甘やかしの間に明確な区分線を引く\r\n//ことのできる男よ」\r\n\"Once again, Kageaki shows that a true man knows the difference between kindness and coddling!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210460a14'>\r\n//「さすが、凡俗とは一味違う。\r\n//　温情と甘やかしの間に明確な区分線を引く\r\n//ことのできる男よ」\r\nMais uma vez, Kageaki demonstra que um verdadeiro homem sabe distinguir a bondade da paparicação!\r\n"
  },
  {
   "offset": 11640,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210470a07'>\r\n//「おおぉぉぉ。\r\n//　ではあたかも見捨てられたかに思えたあの\r\n//女子学生、実はお兄さんの決断で人生を救わ\r\n//れていたわけですね！」\r\n\"Wow! So it only㉗<I>looks</I>㉗like he hung that girl out to dry, when he really saved her from a life of crime!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210470a07'>\r\n//「おおぉぉぉ。\r\n//　ではあたかも見捨てられたかに思えたあの\r\n//女子学生、実はお兄さんの決断で人生を救わ\r\n//れていたわけですね！」\r\nUau! Então só㉗<I>parece</I>㉗que ele abandonou aquela garota à própria sorte, quando na verdade a salvou de uma vida de crime!\r\n"
  },
  {
   "offset": 12049,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210480a14'>\r\n//「その通り！」\r\n\"Exactly!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210480a14'>\r\n//「その通り！」\r\nExatamente!\r\n"
  },
  {
   "offset": 12169,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210490a07'>\r\n//「いい話ですなー」\r\n\"That's so touching!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210490a07'>\r\n//「いい話ですなー」\r\nQue comovente!\r\n"
  },
  {
   "offset": 12324,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210500a14'>\r\n//「いい話だとも」\r\n\"Indeed it is!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210500a14'>\r\n//「いい話だとも」\r\nSem dúvida!\r\n"
  },
  {
   "offset": 12452,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210510a07'>\r\n//「で、あてらの本題はどこ行きましたか」\r\n\"But that doesn't help us, does it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md02/0210510a07'>\r\n//「で、あてらの本題はどこ行きましたか」\r\nMas isso não nos ajuda em nada, não é?\r\n"
  },
  {
   "offset": 12652,
   "en": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210520a14'>\r\n//「どっか行ってしまったな。\r\n//　仕方ない、別の角度からまたやってみよう」\r\n\"Not in the slightest! Oh well. Let's try another approach.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【光】\r\n<voice name='光' class='光' src='voice/md02/0210520a14'>\r\n//「どっか行ってしまったな。\r\n//　仕方ない、別の角度からまたやってみよう」\r\nNem um pouco! Bem, vamos tentar outra abordagem.\r\n"
  },
  {
   "offset": 12907,
   "en": "\r\n//◆顔ＣＧ使わずネームＣＧ「学生会長」\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210530e013'>\r\n//「あら。\r\n//　お早う、湊斗くん」\r\n\"Well! Good morning, Minato.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆顔ＣＧ使わずネームＣＧ「学生会長」\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210530e013'>\r\n//「あら。\r\n//　お早う、湊斗くん」\r\nOra! Bom dia, Minato.\r\n"
  },
  {
   "offset": 13190,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210540a00'>\r\n//「これは学生会長。\r\n//　お早うございます」\r\n\"Madam president. Good morning to you, too.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210540a00'>\r\n//「これは学生会長。\r\n//　お早うございます」\r\nSenhora presidente. Bom dia para a senhora também.\r\n"
  },
  {
   "offset": 13393,
   "en": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210550e013'>\r\n//「こんな時間に鞄を持って歩いてるってこと\r\n//は、また遅刻ぎりぎり？\r\n//　相変わらず、だらしのない人なのね」\r\n\"The warning bell is about to ring, but you're still carrying your bag around. You were almost late㉓<I>again,</I>㉓weren't you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210550e013'>\r\n//「こんな時間に鞄を持って歩いてるってこと\r\n//は、また遅刻ぎりぎり？\r\n//　相変わらず、だらしのない人なのね」\r\nO sinal de advertência está prestes a tocar, mas você ainda está andando por aí com a bolsa. Você quase se atrasou㉓<I>de novo,</I>㉓não foi?\r\n"
  },
  {
   "offset": 13829,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210560a00'>\r\n//「返す言葉もございません」\r\n\"I apologize for my tardiness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210560a00'>\r\n//「返す言葉もございません」\r\nPeço desculpas pelo meu atraso.\r\n"
  },
  {
   "offset": 13997,
   "en": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210570e013'>\r\n//「遅刻は多い、成績は下から数えた方が早い。\r\n//　一度きりの学生生活をそんな風に腑抜けて\r\n//過ごして、恥ずかしいとは思わないのかしら」\r\n\"You're late more often than not, and your grades are below average. Don't you think you should be trying harder, instead of wasting your precious school years like this?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210570e013'>\r\n//「遅刻は多い、成績は下から数えた方が早い。\r\n//　一度きりの学生生活をそんな風に腑抜けて\r\n//過ごして、恥ずかしいとは思わないのかしら」\r\nVocê quase sempre se atrasa, e suas notas estão abaixo da média. Não acha que deveria se esforçar mais, em vez de desperdiçar seus preciosos anos escolares desse jeito?\r\n"
  },
  {
   "offset": 14512,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210580a00'>\r\n//「切に思います」\r\n\"Every minute of every day.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210580a00'>\r\n//「切に思います」\r\nA cada minuto de cada dia.\r\n"
  },
  {
   "offset": 14662,
   "en": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210590e013'>\r\n//「私、あなたみたいにだらだらと生きている\r\n//人って嫌いなのよ」\r\n\"I can't stand people like you, going through life with no direction or discipline.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210590e013'>\r\n//「私、あなたみたいにだらだらと生きている\r\n//人って嫌いなのよ」\r\nNão suporto pessoas como você, que levam a vida sem rumo nem disciplina.\r\n"
  },
  {
   "offset": 14987,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210600a00'>\r\n//「当然かと」\r\n\"I feel the same way.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210600a00'>\r\n//「当然かと」\r\nPenso da mesma forma.\r\n"
  },
  {
   "offset": 15125,
   "en": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210610e013'>\r\n//「下級生の模範になるよう、もっとしっかり\r\n//した生活を心掛けなさい」\r\n\"Your juniors are looking to you as an example. Shape up!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210610e013'>\r\n//「下級生の模範になるよう、もっとしっかり\r\n//した生活を心掛けなさい」\r\nOs alunos mais novos se espelham em você. Componha-se!\r\n"
  },
  {
   "offset": 15433,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210620a00'>\r\n//「はっ！」\r\n\"Without fail!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210620a00'>\r\n//「はっ！」\r\nSem falta!\r\n"
  },
  {
   "offset": 15561,
   "en": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210630e013'>\r\n//「なぁに？\r\n//　文句でもあるの？」\r\n\"What? You have a problem?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／ヒロインＣ】\r\n<voice name='ｅｔｃ／ヒロインＣ' class='その他女声' src='voice/md02/0210630e013'>\r\n//「なぁに？\r\n//　文句でもあるの？」\r\nO quê? Tem algum problema?\r\n"
  },
  {
   "offset": 15787,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210640a00'>\r\n//「全くありません」\r\n\"No ma'am.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md02/0210640a00'>\r\n//「全くありません」\r\nNenhum, senhora.\r\n"
  }
 ]

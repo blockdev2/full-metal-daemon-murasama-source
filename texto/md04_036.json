@@ -12,37 +12,37 @@
  {
   "offset": 504,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360030a13'>\r\n//「やぁ、キャノン君。\r\n//　元気かね」\r\n\"Good day, Colonel. I trust you're well.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360040a13'>\r\n//「ちゃんと希望を捨てずにいただろうな？」\r\n\"Don't tell me you'd given up.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360030a13'>\r\n//「やぁ、キャノン君。\r\n//　元気かね」\r\n\"Bom dia, Coronel. Espero que esteja bem.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360040a13'>\r\n//「ちゃんと希望を捨てずにいただろうな？」\r\n\"Não me diga que já havia desistido.\"\r\n"
  },
  {
   "offset": 912,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360050b03'>\r\n//「ウォルフ教授!?」\r\n\"Professor!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360050b03'>\r\n//「ウォルフ教授!?」\r\n\"Professor!?\"\r\n"
  },
  {
   "offset": 1066,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360060a13'>\r\n//「良かった。少なくとも生きてはいる。\r\n//　あっさり首でも括ってないか、不安で仕方\r\n//なかったよ」\r\n\"You're alive. Wonderful. I was afraid you might have hung yourself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360060a13'>\r\n//「良かった。少なくとも生きてはいる。\r\n//　あっさり首でも括ってないか、不安で仕方\r\n//なかったよ」\r\n\"Você está vivo. Que ótimo. Eu estava com medo de que tivesse se enforcado.\"\r\n"
  },
  {
   "offset": 1391,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360070b03'>\r\n//「……まあ、椅子に縛られたまま首を吊れる\r\n//ほど器用じゃないので。\r\n//　しかし、どうやってここに？」\r\n\"That would've been difficult tied to a chair. How did you escape?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360070b03'>\r\n//「……まあ、椅子に縛られたまま首を吊れる\r\n//ほど器用じゃないので。\r\n//　しかし、どうやってここに？」\r\n\"Seria difícil estando amarrado a uma cadeira. Como você escapou?\"\r\n"
  },
  {
   "offset": 1720,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360080a13'>\r\n//「仲間に助けてもらった」\r\n\"A little help from a friend.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360080a13'>\r\n//「仲間に助けてもらった」\r\n\"Uma ajudinha de um amigo.\"\r\n"
  },
  {
   "offset": 1902,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360090b03'>\r\n//「仲間？」\r\n\"A friend?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360090b03'>\r\n//「仲間？」\r\n\"Um amigo?\"\r\n"
  },
  {
   "offset": 2044,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360100a13'>\r\n//「彼だよ」\r\n\"Let me introduce you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360100a13'>\r\n//「彼だよ」\r\n\"Deixe-me apresentá-lo.\"\r\n"
  },
  {
   "offset": 2198,
@@ -52,47 +52,47 @@
  {
   "offset": 2334,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360120a13'>\r\n//「バルトロメオ、彼を自由にしてくれ」\r\n\"If you please, Bartholemew.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360120a13'>\r\n//「バルトロメオ、彼を自由にしてくれ」\r\n\"Se não se importa, Bartholemew.\"\r\n"
  },
  {
   "offset": 2533,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360130b37'>\r\n//「はい。\r\n//　中佐殿、失礼致します」\r\n\"Of course. Please hold still, Colonel.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360130b37'>\r\n//「はい。\r\n//　中佐殿、失礼致します」\r\n\"Claro. Por favor, fique imóvel, Coronel.\"\r\n"
  },
  {
   "offset": 2732,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360140b03'>\r\n//「……教授。\r\n//　彼は大和人では？」\r\n\"...Professor. This man is Yamatoan.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360140b03'>\r\n//「……教授。\r\n//　彼は大和人では？」\r\n\"...Professor. Este homem é de Yamato.\"\r\n"
  },
  {
   "offset": 2937,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360150a13'>\r\n//「ああそうだ。大和人で、僕の友人だよ。\r\n//　今はそんなことどうだっていいだろう？」\r\n\"Yes, Yamatoan, and one of my closest friends. But that hardly matters now, does it?\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360160a13'>\r\n//「さ、中佐。再開するんだ」\r\n\"Come, Colonel. Let's get back to it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360150a13'>\r\n//「ああそうだ。大和人で、僕の友人だよ。\r\n//　今はそんなことどうだっていいだろう？」\r\n\"Sim, de Yamato, e um dos meus amigos mais próximos. Mas isso pouco importa agora, não é?\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360160a13'>\r\n//「さ、中佐。再開するんだ」\r\n\"Venha, Coronel. Vamos retomar.\"\r\n"
  },
  {
   "offset": 3444,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360170b03'>\r\n//「何をです」\r\n\"Back... to what?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360170b03'>\r\n//「何をです」\r\n\"Retomar... o quê?\"\r\n"
  },
  {
   "offset": 3596,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360180a13'>\r\n//「寝惚けてるんじゃない。\r\n//　僕らの勝負を、だ。もちろん」\r\n\"Don't be a fool. The plan, of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360180a13'>\r\n//「寝惚けてるんじゃない。\r\n//　僕らの勝負を、だ。もちろん」\r\n\"Não seja tolo. O plano, é claro.\"\r\n"
  },
  {
   "offset": 3836,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360190b03'>\r\n//「……今更。\r\n//　もう全ては終わっていますよ」\r\n\"...The plan? The plan is over, Professor.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360190b03'>\r\n//「……今更。\r\n//　もう全ては終わっていますよ」\r\n\"...O plano? O plano acabou, Professor.\"\r\n"
  },
  {
   "offset": 4062,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360200b03'>\r\n//「今の私は処刑を待つ反逆者です。\r\n//　ここから脱出したところで、せいぜい逮捕\r\n//を待つ逃亡者にしかなれません」\r\n\"I'm a traitor. How long do you think it'll be before they haul me back to face a firing squad?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360200b03'>\r\n//「今の私は処刑を待つ反逆者です。\r\n//　ここから脱出したところで、せいぜい逮捕\r\n//を待つ逃亡者にしかなれません」\r\n\"Sou um traidor. Quanto tempo acha que levará até me arrastarem de volta para encarar um pelotão de fuzilamento?\"\r\n"
  },
  {
   "offset": 4435,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360210a13'>\r\n//「情けないことを言うな。\r\n//　君はウィロー少将から夢を託されたんじゃ\r\n//ないのか」\r\n\"Enough whining, man! Have you forgotten Willow's last words? He entrusted his dream to you!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360210a13'>\r\n//「情けないことを言うな。\r\n//　君はウィロー少将から夢を託されたんじゃ\r\n//ないのか」\r\n\"Chega de lamúrias, homem! Esqueceu as últimas palavras de Willow? Ele lhe confiou seu sonho!\"\r\n"
  },
  {
   "offset": 4763,
@@ -102,27 +102,27 @@
  {
   "offset": 4899,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360230a13'>\r\n//「君は表向き、まだ反逆者ではない」\r\n\"Nobody knows you're a traitor.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360230a13'>\r\n//「君は表向き、まだ反逆者ではない」\r\n\"Ninguém sabe que você é um traidor.\"\r\n"
  },
  {
   "offset": 5098,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360240b03'>\r\n//「……何ですと？」\r\n\"...What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360240b03'>\r\n//「……何ですと？」\r\n\"...O quê?\"\r\n"
  },
  {
   "offset": 5251,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360250a13'>\r\n//「ルービィ・サシュアントはＧＨＱ内に潜む\r\n//独立派の全貌を把握していないんだ。\r\n//　だから事件の公表によって彼らが暴走する\r\n//可能性を恐れている」\r\n\"Count Sarchant fears that publicizing your arrest will provoke a general mutiny. He still doesn't know how numerous your co-conspirators might be.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360250a13'>\r\n//「ルービィ・サシュアントはＧＨＱ内に潜む\r\n//独立派の全貌を把握していないんだ。\r\n//　だから事件の公表によって彼らが暴走する\r\n//可能性を恐れている」\r\n\"O Conde Sarchant teme que divulgar sua prisão provoque um motim generalizado. Ele ainda não sabe quão numerosos podem ser seus co-conspiradores.\"\r\n"
  },
  {
   "offset": 5728,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360260a13'>\r\n//「そうだね、バルトロメオ？」\r\n\"Isn't that right, Bartholemew?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360260a13'>\r\n//「そうだね、バルトロメオ？」\r\n\"Não é mesmo, Bartholemew?\"\r\n"
  },
  {
   "offset": 5918,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360270b37'>\r\n//「はい」\r\n\"It is.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360270b37'>\r\n//「はい」\r\n\"Sim, é.\"\r\n"
  },
  {
   "offset": 6045,
@@ -132,12 +132,12 @@
  {
   "offset": 6187,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360290a13'>\r\n//「わかるだろう、中佐」\r\n\"Don't you see?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360290a13'>\r\n//「わかるだろう、中佐」\r\n\"Não vê?\"\r\n"
  },
  {
   "offset": 6352,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360300a13'>\r\n//「サシュアント伯爵さえいなくなれば、ここ\r\n//からでもまだ何とかなる！」\r\n\"We can still turn this around! All we have to do is get rid of Sarchant!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360300a13'>\r\n//「サシュアント伯爵さえいなくなれば、ここ\r\n//からでもまだ何とかなる！」\r\n\"Ainda podemos virar o jogo! Só precisamos nos livrar de Sarchant!\"\r\n"
  },
  {
   "offset": 6645,
@@ -147,37 +147,37 @@
  {
   "offset": 6781,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360320b03'>\r\n//「何か、武器はありませんか？」\r\n\"Do you have weapons?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360320b03'>\r\n//「何か、武器はありませんか？」\r\n\"Você tem armas?\"\r\n"
  },
  {
   "offset": 6964,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360330b37'>\r\n//「見張りの兵士が持っていた銃ならあります。\r\n//　どうぞ、中佐殿」\r\n\"Your guard did. Please help yourself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360330b37'>\r\n//「見張りの兵士が持っていた銃ならあります。\r\n//　どうぞ、中佐殿」\r\n\"O seu guarda tinha. Por favor, sirva-se.\"\r\n"
  },
  {
   "offset": 7204,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360340b03'>\r\n//「<RUBY text='ガーランド'>歩兵銃</RUBY>はいい。\r\n//　拳銃だけ借りよう」\r\n\"I'll take his sidearm. Leave the Garand.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360340b03'>\r\n//「<RUBY text='ガーランド'>歩兵銃</RUBY>はいい。\r\n//　拳銃だけ借りよう」\r\n\"Vou ficar com a pistola dele. Deixe o Garand.\"\r\n"
  },
  {
   "offset": 7456,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360350b37'>\r\n//「はっ」\r\n\"Of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360350b37'>\r\n//「はっ」\r\n\"Claro.\"\r\n"
  },
  {
   "offset": 7587,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360360a13'>\r\n//「よし、よし！\r\n//　では行こうか、キャノン中佐」\r\n\"<I>Wunderbar!</I> Let us be off!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360360a13'>\r\n//「よし、よし！\r\n//　では行こうか、キャノン中佐」\r\n\"<I>Wunderbar!</I> Vamos em frente!\"\r\n"
  },
  {
   "offset": 7807,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360370b03'>\r\n//「……ええ」\r\n\"...Let's.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360370b03'>\r\n//「……ええ」\r\n\"...Vamos.\"\r\n"
  },
  {
   "offset": 7952,
   "en": "\r\n//【ｅｔｃ／高官護衛】\r\n<voice name='ｅｔｃ／高官護衛' class='その他男声' src='voice/md04/0360380e073'>\r\n//「……止まれ！\r\n//　ここはサシュアント伯爵閣下の――」\r\n\"Halt! These are the quarters of His Grace Count―\"\r\n\r\n//【ｅｔｃ／高官護衛】\r\n<voice name='ｅｔｃ／高官護衛' class='その他男声' src='voice/md04/0360390e073'>\r\n//「なっ、キャノン中佐!?」\r\n\"Colonel!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／高官護衛】\r\n<voice name='ｅｔｃ／高官護衛' class='その他男声' src='voice/md04/0360380e073'>\r\n//「……止まれ！\r\n//　ここはサシュアント伯爵閣下の――」\r\n\"Pare! Estes são os aposentos de Sua Graça, o Conde―\"\r\n\r\n//【ｅｔｃ／高官護衛】\r\n<voice name='ｅｔｃ／高官護衛' class='その他男声' src='voice/md04/0360390e073'>\r\n//「なっ、キャノン中佐!?」\r\n\"Coronel!?\"\r\n"
  },
  {
   "offset": 8409,
@@ -187,37 +187,37 @@
  {
   "offset": 8545,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360410b37'>\r\n//「さ――御二方」\r\n\"This way, please.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360410b37'>\r\n//「さ――御二方」\r\n\"Por aqui, por favor.\"\r\n"
  },
  {
   "offset": 8695,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360420a13'>\r\n//「うん、ありがとう」\r\n\"Fine work, Bartholomew.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360420a13'>\r\n//「うん、ありがとう」\r\n\"Belo trabalho, Bartholomew.\"\r\n"
  },
  {
   "offset": 8866,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360430b03'>\r\n//「……凄まじいな。\r\n//　武装した兵士を二人、一呼吸か」\r\n\"...Two armed men in the blink of an eye. Impressive.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360430b03'>\r\n//「……凄まじいな。\r\n//　武装した兵士を二人、一呼吸か」\r\n\"...Dois homens armados num piscar de olhos. Impressionante.\"\r\n"
  },
  {
   "offset": 9115,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360440b37'>\r\n//「些細な手妻でございます」\r\n\"A trifle.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360440b37'>\r\n//「些細な手妻でございます」\r\n\"Uma ninharia.\"\r\n"
  },
  {
   "offset": 9272,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360450a13'>\r\n//「頼もしい友だろう？\r\n//　さぁて――」\r\n\"Isn't he a treasure? Now then...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360450a13'>\r\n//「頼もしい友だろう？\r\n//　さぁて――」\r\n\"Não é uma preciosidade? Agora então...\"\r\n"
  },
  {
   "offset": 9477,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360460b25'>\r\n//「大鳥大尉か？\r\n//　お帰り――だがもう少し静かに入ってきて\r\n//くれたまえ」\r\n\"Is that you, Captain? I'm glad you're back, though I wish you'd enter a little more quietly.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360470b25'>\r\n//「いま読書中なのでね……」\r\n\"I'm reading the most fascinating treatise―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360460b25'>\r\n//「大鳥大尉か？\r\n//　お帰り――だがもう少し静かに入ってきて\r\n//くれたまえ」\r\n\"É você, Capitão? Que bom que voltou, embora preferisse que entrasse um pouco mais em silêncio.\"\r\n\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360470b25'>\r\n//「いま読書中なのでね……」\r\n\"Estou lendo o mais fascinante dos tratados―\"\r\n"
  },
  {
   "offset": 9975,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360480b03'>\r\n//「そうか。<RUBY text='マタ・ハリ'>女狐</RUBY>は留守ですか。\r\n//　そいつは助かる」\r\n\"So, Mata Hari's out. Glad to hear it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360480b03'>\r\n//「そうか。<RUBY text='マタ・ハリ'>女狐</RUBY>は留守ですか。\r\n//　そいつは助かる」\r\n\"Então a Mata Hari saiu. Ainda bem.\"\r\n"
  },
  {
   "offset": 10239,
@@ -227,12 +227,12 @@
  {
   "offset": 10375,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360500b25'>\r\n//「クライブ・キャノン……」\r\n\"Clive Cannon...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360500b25'>\r\n//「クライブ・キャノン……」\r\n\"Clive Cannon...\"\r\n"
  },
  {
   "offset": 10541,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360510b03'>\r\n//「ええ。\r\n//　ルービィ・サシュアント」\r\n\"Yes, Your Grace.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360510b03'>\r\n//「ええ。\r\n//　ルービィ・サシュアント」\r\n\"Sim, Vossa Graça.\"\r\n"
  },
  {
   "offset": 10730,
@@ -247,7 +247,7 @@
  {
   "offset": 10996,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360540b25'>\r\n//「報復かね？」\r\n\"Is it revenge, then?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360540b25'>\r\n//「報復かね？」\r\n\"É vingança, então?\"\r\n"
  },
  {
   "offset": 11149,
@@ -257,87 +257,87 @@
  {
   "offset": 11285,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360560b25'>\r\n//「女王の代行者。\r\n//　世界平和維持組織の代表者たるこの私を」\r\n\"Will you murder a representative of the Crown, a guardian of the queen's peace...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360560b25'>\r\n//「女王の代行者。\r\n//　世界平和維持組織の代表者たるこの私を」\r\n\"Vai assassinar um representante da Coroa, um guardião da paz da rainha...\"\r\n"
  },
  {
   "offset": 11566,
   "en": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360570b25'>\r\n//「君はただの報復で殺すのかねッッ!?」\r\n\"FOR NOTHING MORE THAN YOUR PETTY REVENGE!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【高官】\r\n<voice name='高官' class='サシュアント' src='voice/md04/0360570b25'>\r\n//「君はただの報復で殺すのかねッッ!?」\r\n\"APENAS POR UMA VINGANÇA MESQUINHA!?\"\r\n"
  },
  {
   "offset": 11773,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360580b03'>\r\n//「いいえ。\r\n//　単に、あなたがいては邪魔なんですよ」\r\n\"No, Your Grace. You're simply in our way.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360580b03'>\r\n//「いいえ。\r\n//　単に、あなたがいては邪魔なんですよ」\r\n\"Não, Vossa Graça. É que o senhor está simplesmente em nosso caminho.\"\r\n"
  },
  {
   "offset": 12008,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360590b03'>\r\n//「……その顔芸に付き合いたくもありません\r\n//しね」\r\n\"...That, and I've had enough of your close-ups.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360590b03'>\r\n//「……その顔芸に付き合いたくもありません\r\n//しね」\r\n\"...E também já me cansei dos seus closes.\"\r\n"
  },
  {
   "offset": 12246,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360600a13'>\r\n//「良くやった中佐。\r\n//　だが本番はこれからだ」\r\n\"Well done, Colonel. But this is only the beginning.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360610a13'>\r\n//「ＧＨＱを再び掌握、兵を動かして鍛造雷弾\r\n//を奪い、普陀楽城へ投下するのだよ！」\r\n\"You must quickly regain control of your men, then procure the Forged Bomb and drop it on Fudaraku!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360600a13'>\r\n//「良くやった中佐。\r\n//　だが本番はこれからだ」\r\n\"Muito bem, Coronel. Mas isto é só o começo.\"\r\n\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360610a13'>\r\n//「ＧＨＱを再び掌握、兵を動かして鍛造雷弾\r\n//を奪い、普陀楽城へ投下するのだよ！」\r\n\"Precisa retomar rapidamente o controle dos seus homens, então obter a Bomba Forjada e lançá-la sobre Fudaraku!\"\r\n"
  },
  {
   "offset": 12808,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360620b03'>\r\n//「そこまで短絡的にはやれません。\r\n//　まず、地上の我が軍を城周辺から撤退させ\r\n//なくては……」\r\n\"We can't drop the bomb just like that. First we have to pull our forces from the castle.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360620b03'>\r\n//「そこまで短絡的にはやれません。\r\n//　まず、地上の我が軍を城周辺から撤退させ\r\n//なくては……」\r\n\"Não podemos simplesmente lançar a bomba assim. Primeiro temos de retirar nossas forças do castelo.\"\r\n"
  },
  {
   "offset": 13151,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360630b37'>\r\n//「それはすぐに済みましょう。\r\n//　進駐軍は既に撤退の準備を始めている様子\r\n//ですから」\r\n\"That will take no time, Colonel. The withdrawal has already begun.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360630b37'>\r\n//「それはすぐに済みましょう。\r\n//　進駐軍は既に撤退の準備を始めている様子\r\n//ですから」\r\n\"Isso não vai levar tempo nenhum, Coronel. A retirada já começou.\"\r\n"
  },
  {
   "offset": 13451,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360640b03'>\r\n//「何だって？」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360640b03'>\r\n//「何だって？」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 13595,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360650b03'>\r\n//「――――いや、そうか。\r\n//　サシュアントの奴、全て仕切り直すつもり\r\n//でいたんだな」\r\n\"No. Of course. Sarchant was planning to end the war.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360650b03'>\r\n//「――――いや、そうか。\r\n//　サシュアントの奴、全て仕切り直すつもり\r\n//でいたんだな」\r\n\"Não. Claro. Sarchant planejava pôr fim à guerra.\"\r\n"
  },
  {
   "offset": 13890,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360660a13'>\r\n//「お陰でこっちは助かるというわけだ。\r\n//　しかし中佐、のんびりはしていられん」\r\n\"And that puts us in an excellent position. But we mustn't dally. Not even for a moment.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360660a13'>\r\n//「お陰でこっちは助かるというわけだ。\r\n//　しかし中佐、のんびりはしていられん」\r\n\"E isso nos coloca numa posição excelente. Mas não podemos hesitar. Nem por um instante.\"\r\n"
  },
  {
   "offset": 14210,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360670a13'>\r\n//「進駐軍の撤退に付け込んで六波羅が城から\r\n//出撃でもしようものなら……雷弾で一掃とは\r\n//ゆかなくなる。\r\n//　急ごうじゃないか！」\r\n\"There's no telling when Rokuhara will launch a counteroffensive. This is our last chance to catch them behind their walls. We must hurry!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360670a13'>\r\n//「進駐軍の撤退に付け込んで六波羅が城から\r\n//出撃でもしようものなら……雷弾で一掃とは\r\n//ゆかなくなる。\r\n//　急ごうじゃないか！」\r\n\"Não há como saber quando Rokuhara lançará um contra-ataque. Esta é nossa última chance de pegá-los atrás de suas muralhas. Precisamos nos apressar!\"\r\n"
  },
  {
   "offset": 14651,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360680b03'>\r\n//「……ええ、教授――」\r\n\"Agreed. I'll―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360680b03'>\r\n//「……ええ、教授――」\r\n\"Concordo. Eu vou―\"\r\n"
  },
  {
   "offset": 14817,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0360690a03'>\r\n//「……これは」\r\n\"...My word.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0360690a03'>\r\n//「……これは」\r\n\"...Ora essa.\"\r\n"
  },
  {
   "offset": 14958,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360700a04'>\r\n//「遅うございましたか！」\r\n\"We were too late!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360700a04'>\r\n//「遅うございましたか！」\r\n\"Chegamos tarde demais!\"\r\n"
  },
  {
   "offset": 15111,
   "en": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360710b03'>\r\n//「大鳥大尉か……」\r\n\"Captain Otori...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【キャノン】\r\n<voice name='キャノン' class='キャノン' src='voice/md04/0360710b03'>\r\n//「大鳥大尉か……」\r\n\"Capitão Otori...\"\r\n"
  },
  {
   "offset": 15272,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360720a13'>\r\n//「ふむ」\r\n\"Hmm.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360720a13'>\r\n//「ふむ」\r\n\"Hum.\"\r\n"
  },
  {
   "offset": 15406,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360730a13'>\r\n//「一度は見事にしてやられた。\r\n//　二度は決してやらせたくないな……」\r\n\"You already got the better of us once. I would rather that not happen again.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360730a13'>\r\n//「一度は見事にしてやられた。\r\n//　二度は決してやらせたくないな……」\r\n\"Você já nos venceu uma vez de forma admirável. Prefiro que isso não se repita...\"\r\n"
  },
  {
   "offset": 15700,
@@ -347,17 +347,17 @@
  {
   "offset": 15827,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360750a13'>\r\n//「一つ聞いておこう。\r\n//　ちゃんとパンツは脱いでいるかね？」\r\n\"One question, Captain. Are you wearing panties under that skirt?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360750a13'>\r\n//「一つ聞いておこう。\r\n//　ちゃんとパンツは脱いでいるかね？」\r\n\"Uma pergunta, Capitão. Está usando calcinha sob essa saia?\"\r\n"
  },
  {
   "offset": 16097,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0360760a03'>\r\n//「はいてます」\r\n\"I'm afraid so.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0360760a03'>\r\n//「はいてます」\r\n\"Receio que sim.\"\r\n"
  },
  {
   "offset": 16241,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360770a13'>\r\n//「危険人物め!!\r\n//　バルトロメオーーー!!」\r\n\"I knew it! Dispatch this fiend, Bartholemew!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360770a13'>\r\n//「危険人物め!!\r\n//　バルトロメオーーー!!」\r\n\"Eu sabia! Acabe com este demônio, Bartholemew!\"\r\n"
  },
  {
   "offset": 16462,
@@ -372,22 +372,22 @@
  {
   "offset": 16719,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360800a04'>\r\n//「何と。\r\n//　このようなところで……奇遇にも程があり\r\n//ますなァ」\r\n\"Can this be? To meet again in a place such as this.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360800a04'>\r\n//「何と。\r\n//　このようなところで……奇遇にも程があり\r\n//ますなァ」\r\n\"Ora essa. Encontrarmo-nos de novo num lugar como este... é coincidência demais, ora pois.\"\r\n"
  },
  {
   "offset": 16965,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360810b37'>\r\n//「……永倉……」\r\n\"Nagakura...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360810b37'>\r\n//「……永倉……」\r\n\"Nagakura...\"\r\n"
  },
  {
   "offset": 17109,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0360820a03'>\r\n//「ばあや？」\r\n\"Sayo?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0360820a03'>\r\n//「ばあや？」\r\n\"Sayo?\"\r\n"
  },
  {
   "offset": 17241,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360830a04'>\r\n//「お嬢さま、お下がりください。\r\n//　決して前へ出てはなりませぬ」\r\n\"Stand away, Mistress. Stand <I>well</I>㉒away.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360830a04'>\r\n//「お嬢さま、お下がりください。\r\n//　決して前へ出てはなりませぬ」\r\n\"Fique para trás, Senhora. <I>Bem</I>㉒ para trás.\"\r\n"
  },
  {
   "offset": 17482,
@@ -397,7 +397,7 @@
  {
   "offset": 17609,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360850a04'>\r\n//「いけません！\r\n//　<RUBY text='バロウズ'>贋作弓聖</RUBY>に手をつけては！」\r\n\"No! You mustn't don your armor!\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360860a04'>\r\n//「装甲する前に斬り殺されますぞ!!」\r\n\"He'll kill you before you <br>can!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360850a04'>\r\n//「いけません！\r\n//　<RUBY text='バロウズ'>贋作弓聖</RUBY>に手をつけては！」\r\n\"Não! Não deve vestir sua armadura!\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360860a04'>\r\n//「装甲する前に斬り殺されますぞ!!」\r\n\"Ele vai matá-la antes que consiga!\"\r\n"
  },
  {
   "offset": 18016,
@@ -407,12 +407,12 @@
  {
   "offset": 18149,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360880b37'>\r\n//「やはり劒冑でしたか」\r\n\"So I was right. That is a tsurugi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360880b37'>\r\n//「やはり劒冑でしたか」\r\n\"Então eu estava certo. Aquilo é uma tsurugi.\"\r\n"
  },
  {
   "offset": 18325,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360890b37'>\r\n//「忠告は……正しい。\r\n//　しかし万一の成功も有り得た。その可能性\r\n//に賭けさせるべきだったのでは？」\r\n\"Your warning was... accurate, though I wonder if you should not have let her take the chance. God willing, she may have succeeded.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360890b37'>\r\n//「忠告は……正しい。\r\n//　しかし万一の成功も有り得た。その可能性\r\n//に賭けさせるべきだったのでは？」\r\n\"Seu aviso foi... preciso, mas me pergunto se não deveria tê-la deixado tentar. Quem sabe, talvez ela tivesse conseguido.\"\r\n"
  },
  {
   "offset": 18710,
@@ -422,37 +422,37 @@
  {
   "offset": 18828,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360910b37'>\r\n//「装甲しようとすまいと、私は大鳥香奈枝を\r\n//殺すのですから」\r\n\"As is, it will not change her fate. I will claim her life, tsurugi or no.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360910b37'>\r\n//「装甲しようとすまいと、私は大鳥香奈枝を\r\n//殺すのですから」\r\n\"De todo modo, isso não mudará o destino dela. Eu vou tirar a vida dela, com ou sem tsurugi.\"\r\n"
  },
  {
   "offset": 19098,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360920a04'>\r\n//「分の悪い賭けに主人の命は張れませぬよ。\r\n//　もう少しましな勝負にいたします」\r\n\"If I'm going to risk my mistress's life, I'll choose the wager with more favorable odds.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360920a04'>\r\n//「分の悪い賭けに主人の命は張れませぬよ。\r\n//　もう少しましな勝負にいたします」\r\n\"Se vou arriscar a vida da minha senhora, escolherei a aposta com as chances mais favoráveis.\"\r\n"
  },
  {
   "offset": 19401,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360930b37'>\r\n//「ほう？」\r\n\"And that is?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360930b37'>\r\n//「ほう？」\r\n\"E qual seria?\"\r\n"
  },
  {
   "offset": 19537,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360940a04'>\r\n//「常闇斎どの。\r\n//　貴方がお嬢さまを殺そうとするなら、この\r\n//老婆は主人を見捨てますぞ」\r\n\"If you attack her, Jo'ansai... I will let her die.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360940a04'>\r\n//「常闇斎どの。\r\n//　貴方がお嬢さまを殺そうとするなら、この\r\n//老婆は主人を見捨てますぞ」\r\n\"Se atacar minha senhora, Jo'ansai... eu a deixarei morrer.\"\r\n"
  },
  {
   "offset": 19815,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360950b37'>\r\n//「……」\r\n\"......\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360960b37'>\r\n//「何と？」\r\n\"I beg your pardon?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360950b37'>\r\n//「……」\r\n\"......\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0360960b37'>\r\n//「何と？」\r\n\"Perdão?\"\r\n"
  },
  {
   "offset": 20076,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360970a04'>\r\n//「守れぬものを守ろうとあがいても詮方ござ\r\n//いませんからな。\r\n//　貴方がお嬢さまを狙った時、さよはそちら\r\n//のウォルフ教授を打ち殺します」\r\n\"I will not attempt a rescue where none is possible. In exchange, however, I will kill Professor Wolf.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0360970a04'>\r\n//「守れぬものを守ろうとあがいても詮方ござ\r\n//いませんからな。\r\n//　貴方がお嬢さまを狙った時、さよはそちら\r\n//のウォルフ教授を打ち殺します」\r\n\"Não tentarei um resgate onde não há possibilidade alguma. Em troca, porém, matarei o Professor Wolf.\"\r\n"
  },
  {
   "offset": 20478,
   "en": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360980a13'>\r\n//「えっ、僕？」\r\n\"M- Me!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ウォルフ】\r\n<voice name='ウォルフ' class='ウォルフ' src='voice/md04/0360980a13'>\r\n//「えっ、僕？」\r\n\"E- Eu!?\"\r\n"
  },
  {
   "offset": 20624,
@@ -462,12 +462,12 @@
  {
   "offset": 20752,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361000a04'>\r\n//「もしくはキャノン中佐を。\r\n//　ま、どっちでもよろしい」\r\n\"Or perhaps I will kill the colonel instead. I'm sure either will do just as well.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361000a04'>\r\n//「もしくはキャノン中佐を。\r\n//　ま、どっちでもよろしい」\r\n\"Ou talvez mate o coronel. Ora, qualquer um dos dois serve.\"\r\n"
  },
  {
   "offset": 21015,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361010a04'>\r\n//「さて。\r\n//　いかがなさる？」\r\n\"What say you, master of the Yagyu?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361010a04'>\r\n//「さて。\r\n//　いかがなさる？」\r\n\"Então. O que me diz, mestre do Yagyu?\"\r\n"
  },
  {
   "offset": 21192,
@@ -482,22 +482,22 @@
  {
   "offset": 21449,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361040b37'>\r\n//「……フフ……」\r\n\"...Heh.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361040b37'>\r\n//「……フフ……」\r\n\"...Heh.\"\r\n"
  },
  {
   "offset": 21589,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361050a04'>\r\n//「お嬢さま。\r\n//　お逃げくださいませ」\r\n\"You must leave now, Mistress.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361050a04'>\r\n//「お嬢さま。\r\n//　お逃げくださいませ」\r\n\"Precisa partir agora, Senhora.\"\r\n"
  },
  {
   "offset": 21773,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0361060a03'>\r\n//「さよ」\r\n\"Sayo...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0361060a03'>\r\n//「さよ」\r\n\"Sayo...\"\r\n"
  },
  {
   "offset": 21901,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361070a04'>\r\n//「お早く。\r\n//　この男の力量がわからぬお嬢さまではあり\r\n//ますまい」\r\n\"Quickly. You can see how dangerous he is.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361070a04'>\r\n//「お早く。\r\n//　この男の力量がわからぬお嬢さまではあり\r\n//ますまい」\r\n\"Depressa. A senhora bem sabe do que esse homem é capaz.\"\r\n"
  },
  {
   "offset": 22140,
@@ -507,12 +507,12 @@
  {
   "offset": 22267,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361090a04'>\r\n//「小便臭い小娘の出る幕ではございません。\r\n//　早く！」\r\n\"This is no place for a mewling babe! Go!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361090a04'>\r\n//「小便臭い小娘の出る幕ではございません。\r\n//　早く！」\r\n\"Aqui não é lugar para uma garota chorona como você! Vá embora!\"\r\n"
  },
  {
   "offset": 22486,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0361100a03'>\r\n//「さよ！」\r\n\"Sayo!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0361100a03'>\r\n//「さよ！」\r\n\"Sayo!\"\r\n"
  },
  {
   "offset": 22615,
@@ -522,22 +522,22 @@
  {
   "offset": 22739,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0361120a03'>\r\n//「従者の一番大事な役目は知ってる!?\r\n//　主人の葬式をして、素敵な墓碑銘を読んで、\r\n//遺産の整理をすることよ！」\r\n\"Do you know a servant's most important duty to her mistress!? It's to hold her funeral, read her eulogy, and manage her estate after she's gone!\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0361130a03'>\r\n//「ちゃんとやってもらいますからね!!」\r\n\"I'm not letting you off the hook now, hear!?\" \r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0361120a03'>\r\n//「従者の一番大事な役目は知ってる!?\r\n//　主人の葬式をして、素敵な墓碑銘を読んで、\r\n//遺産の整理をすることよ！」\r\n\"Você sabe qual é o dever mais importante de uma serva para com sua senhora!? É realizar seu funeral, ler seu panegírico e cuidar de seus bens depois que ela se for!\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/md04/0361130a03'>\r\n//「ちゃんとやってもらいますからね!!」\r\n\"Não vou deixar você se esquivar dessa responsabilidade, está me ouvindo!?\"\r\n"
  },
  {
   "offset": 23351,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361140a04'>\r\n//「……無茶をおっしゃる。\r\n//　この老婆にあと何年生きろというおつもり\r\n//なのやら」\r\n\"Ah, such a cruel taskmistress. How long does she expect these old bones to last?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361140a04'>\r\n//「……無茶をおっしゃる。\r\n//　この老婆にあと何年生きろというおつもり\r\n//なのやら」\r\n\"Ah, que senhora cruel. Por quanto tempo ela espera que estes velhos ossos aguentem?\"\r\n"
  },
  {
   "offset": 23650,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361150b37'>\r\n//「生きるでしょう、貴方は。\r\n//　何年でも、何十年でも、何百年でも」\r\n\"Oh, but you will outlive us all. Even the youngest of us will be dust long before you are gone.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361150b37'>\r\n//「生きるでしょう、貴方は。\r\n//　何年でも、何十年でも、何百年でも」\r\n\"Ora, você sobreviverá a todos nós. Mesmo o mais jovem de nós será pó muito antes de você partir.\"\r\n"
  },
  {
   "offset": 23951,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361160b37'>\r\n//「この世が続く限りは。\r\n//　そうでしょう？　<RUBY text='レディ・ザ・ブラッディ'>血浴の貴婦人</RUBY>」\r\n\"When the last man dies, there you will be. Is it not so, Lady of Blood?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361160b37'>\r\n//「この世が続く限りは。\r\n//　そうでしょう？　<RUBY text='レディ・ザ・ブラッディ'>血浴の貴婦人</RUBY>」\r\n\"Enquanto este mundo durar, ali estará você. Não é assim, Dama de Sangue?\"\r\n"
  },
  {
   "offset": 24270,
@@ -547,12 +547,12 @@
  {
   "offset": 24388,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361180b37'>\r\n//「貴方は変わっておられない。\r\n//　三十年前から……何も」\r\n\"Thirty years, and you haven't changed. You're still the same as the day we met.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361180b37'>\r\n//「貴方は変わっておられない。\r\n//　三十年前から……何も」\r\n\"Trinta anos, e você não mudou. Continua igual ao dia em que nos conhecemos.\"\r\n"
  },
  {
   "offset": 24658,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361190b37'>\r\n//「お美しい」\r\n\"Still... beautiful.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361190b37'>\r\n//「お美しい」\r\n\"Continua... bela.\"\r\n"
  },
  {
   "offset": 24804,
@@ -562,12 +562,12 @@
  {
   "offset": 24928,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361210a04'>\r\n//「小四郎どのは、随分と変わられましたな」\r\n\"But you, Koshiro... you have changed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361210a04'>\r\n//「小四郎どのは、随分と変わられましたな」\r\n\"Já você, Koshiro... você mudou.\"\r\n"
  },
  {
   "offset": 25125,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361220b37'>\r\n//「ええ……」\r\n\"Yes...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361220b37'>\r\n//「ええ……」\r\n\"Sim...\"\r\n"
  },
  {
   "offset": 25258,
@@ -577,17 +577,17 @@
  {
   "offset": 25376,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361240a04'>\r\n//「なぜ、このような所に貴方がおられるのか\r\n//……お伺いしてもよろしいか？」\r\n\"May I ask what brings you to this place?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361240a04'>\r\n//「なぜ、このような所に貴方がおられるのか\r\n//……お伺いしてもよろしいか？」\r\n\"Posso perguntar o que o traz a este lugar?\"\r\n"
  },
  {
   "offset": 25625,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361250b37'>\r\n//「信仰のため」\r\n\"Faith.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361250b37'>\r\n//「信仰のため」\r\n\"A fé.\"\r\n"
  },
  {
   "offset": 25761,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361260b37'>\r\n//「他には、何もありません」\r\n\"There is... nothing else.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361260b37'>\r\n//「他には、何もありません」\r\n\"Não há... mais nada.\"\r\n"
  },
  {
   "offset": 25934,
@@ -602,17 +602,17 @@
  {
   "offset": 26179,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361290a04'>\r\n//「変わられた……」\r\n\"...You have changed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361290a04'>\r\n//「変わられた……」\r\n\"...Você mudou.\"\r\n"
  },
  {
   "offset": 26326,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361300b37'>\r\n//「はい。\r\n//　私は、多くのものを失いました」\r\n\"Yes. I have lost much.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361300b37'>\r\n//「はい。\r\n//　私は、多くのものを失いました」\r\n\"Sim. Perdi muita coisa.\"\r\n"
  },
  {
   "offset": 26521,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361310b37'>\r\n//「貴方と共にあり……\r\n//　共に戦っていた頃の私とは、違います」\r\n\"The man who lived and fought at your side... is gone.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361310b37'>\r\n//「貴方と共にあり……\r\n//　共に戦っていた頃の私とは、違います」\r\n\"O homem que viveu e lutou ao seu lado... não existe mais.\"\r\n"
  },
  {
   "offset": 26774,
@@ -622,62 +622,62 @@
  {
   "offset": 26898,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361330b37'>\r\n//「誰も恨めません。\r\n//　私は己の意志で捨ててきたのです……」\r\n\"No one is to blame. I chose to leave that man behind.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361330b37'>\r\n//「誰も恨めません。\r\n//　私は己の意志で捨ててきたのです……」\r\n\"Não culpo ninguém. Fui eu que escolhi deixar aquele homem para trás.\"\r\n"
  },
  {
   "offset": 27148,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361340b37'>\r\n//「信仰、ただ一つを残して。\r\n//　信仰を守り……高めるために、他の全てを\r\n//犠牲にした」\r\n\"To guard his faith, and carry it to fruition, I forsook all else that he was.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361350b37'>\r\n//「ただ……神の存在を、より近くに感じる為\r\n//に……」\r\n\"I have only one wish. To know the face of God.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361340b37'>\r\n//「信仰、ただ一つを残して。\r\n//　信仰を守り……高めるために、他の全てを\r\n//犠牲にした」\r\n\"Para guardar sua fé e levá-la à plenitude, abandonei tudo o que ele era.\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361350b37'>\r\n//「ただ……神の存在を、より近くに感じる為\r\n//に……」\r\n\"Tenho apenas um desejo. Conhecer a face de Deus.\"\r\n"
  },
  {
   "offset": 27682,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361360a04'>\r\n//「…………。\r\n//　神しか、貴方の魂を救えないのでしょうか」\r\n\"...Can only God save your soul?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361360a04'>\r\n//「…………。\r\n//　神しか、貴方の魂を救えないのでしょうか」\r\n\"...Só Deus pode salvar sua alma?\"\r\n"
  },
  {
   "offset": 27898,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361370b37'>\r\n//「はい」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361370b37'>\r\n//「はい」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 28023,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361380a04'>\r\n//「このさよには救えませんでしたからな……」\r\n\"That task was beyond me...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361380a04'>\r\n//「このさよには救えませんでしたからな……」\r\n\"Essa tarefa estava além de mim...\"\r\n"
  },
  {
   "offset": 28212,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361390b37'>\r\n//「……」\r\n\"......\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361400b37'>\r\n//「ああ……しかし。\r\n//　そうだ。私はまだ一つ、捨てていない」\r\n\"But wait... ah. Of course. There is one thing I have not yet forsaken.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361390b37'>\r\n//「……」\r\n\"......\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361400b37'>\r\n//「ああ……しかし。\r\n//　そうだ。私はまだ一つ、捨てていない」\r\n\"Mas espera... ah. Claro. Há uma coisa que ainda não abandonei.\"\r\n"
  },
  {
   "offset": 28598,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361410b37'>\r\n//「貴方をまだ、捨てていない」\r\n\"You. My heart still sings of you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361410b37'>\r\n//「貴方をまだ、捨てていない」\r\n\"Você. Meu coração ainda canta por você.\"\r\n"
  },
  {
   "offset": 28782,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361420b37'>\r\n//「貴方のことを……忘れたことはなかった」\r\n\"Never once have I forgotten the time we spent together.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361420b37'>\r\n//「貴方のことを……忘れたことはなかった」\r\n\"Jamais me esqueci do tempo que passamos juntos.\"\r\n"
  },
  {
   "offset": 29006,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361430a04'>\r\n//「……小四郎……」\r\n\"Koshiro...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361430a04'>\r\n//「……小四郎……」\r\n\"Koshiro...\"\r\n"
  },
  {
   "offset": 29143,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361440b37'>\r\n//「予感は正しかった」\r\n\"I was right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361440b37'>\r\n//「予感は正しかった」\r\n\"Eu estava certo.\"\r\n"
  },
  {
   "offset": 29294,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361450b37'>\r\n//「私の運命はここにある」\r\n\"My destiny is here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361450b37'>\r\n//「私の運命はここにある」\r\n\"Meu destino está aqui.\"\r\n"
  },
  {
   "offset": 29458,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361460b37'>\r\n//「私は……貴方を捨てなければ。\r\n//　……神を迎えるために……」\r\n\"I must divest myself of this final burden. I must forsake you before I can go to God.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361460b37'>\r\n//「私は……貴方を捨てなければ。\r\n//　……神を迎えるために……」\r\n\"Preciso me desfazer deste último fardo. Preciso abandoná-la antes de ir para Deus.\"\r\n"
  },
  {
   "offset": 29743,
@@ -687,7 +687,7 @@
  {
   "offset": 29867,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361480a04'>\r\n//「遠い」\r\n\"It feels like a dream.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361480a04'>\r\n//「遠い」\r\n\"Parece um sonho.\"\r\n"
  },
  {
   "offset": 30001,
@@ -697,17 +697,17 @@
  {
   "offset": 30129,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361500a04'>\r\n//「遠うございます、小四郎どの。\r\n//　三十年前、貴方と共に見た笠置の欠け月」\r\n\"That night in Kasagi, thirty years ago. That crescent moon we shared together.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361510a04'>\r\n//「もう……思い出せませぬ」\r\n\"...I no longer recall its <br>shine.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361500a04'>\r\n//「遠うございます、小四郎どの。\r\n//　三十年前、貴方と共に見た笠置の欠け月」\r\n\"Aquela noite em Kasagi, trinta anos atrás. Aquela lua crescente que partilhamos.\"\r\n\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361510a04'>\r\n//「もう……思い出せませぬ」\r\n\"...Já não me lembro do seu brilho.\"\r\n"
  },
  {
   "offset": 30583,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361520b37'>\r\n//「……ええ。\r\n//　遠い」\r\n\"A dream... yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361520b37'>\r\n//「……ええ。\r\n//　遠い」\r\n\"Um sonho... sim.\"\r\n"
  },
  {
   "offset": 30741,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361530b37'>\r\n//「もう……遠い……」\r\n\"A distant dream...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361530b37'>\r\n//「もう……遠い……」\r\n\"Um sonho distante...\"\r\n"
  },
  {
   "offset": 30898,
@@ -722,21 +722,21 @@
  {
   "offset": 31143,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361560a04'>\r\n//「ここは通せませぬ」\r\n\"I won't let you pass.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361560a04'>\r\n//「ここは通せませぬ」\r\n\"Não vou deixar você passar.\"\r\n"
  },
  {
   "offset": 31294,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361570b37'>\r\n//「通らせて頂きます。\r\n//　貴方の主人は放置するには危険過ぎる」\r\n\"I will pass all the same. Your mistress is too dangerous to leave alive.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361570b37'>\r\n//「通らせて頂きます。\r\n//　貴方の主人は放置するには危険過ぎる」\r\n\"Passarei de todo modo. Sua senhora é perigosa demais para ser deixada viva.\"\r\n"
  },
  {
   "offset": 31566,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361580a04'>\r\n//「柳生小四郎!!」\r\n\"Yagyu Koshiro!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/md04/0361580a04'>\r\n//「柳生小四郎!!」\r\n\"Yagyu Koshiro!\"\r\n"
  },
  {
   "offset": 31703,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361590b37'>\r\n//「貴方を倒さねば――\r\n//　私は神に会う資格を得られない!!」\r\n\"And only by defeating you―will I prove myself worthy of His embrace!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0361590b37'>\r\n//「貴方を倒さねば――\r\n//　私は神に会う資格を得られない!!」\r\n\"E somente derrotando-a—provarei que sou digno do abraço Dele!\"\r\n"
  }
 ]

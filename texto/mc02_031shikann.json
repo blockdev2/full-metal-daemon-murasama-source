@@ -2,17 +2,17 @@
  {
   "offset": 220,
   "en": "\r\n//　士官室のようだ。\r\n//　狭いが、狭いなりに<RUBY text='ひん'>品</RUBY>は悪くない。\r\n  The room is small, but nicely appointed. This must be an officer's cabin―and yet, it feels empty of life, like a model room, cold and colorless. Perhaps its occupant is not part of this mission.\r\n\r\n//　しかし、人の体温がまるで無かった。部屋はモデル\r\n//ハウスのように精彩を欠き、調度はどれも冷たい。\r\n//　この部屋の主はたまたま座を外しているのではなく、\r\n//そもそも作戦に参加していないのだろう。\r\n\r\n//　目に付くものと言えば、机とベッド……\r\n//　そして風景画を収めた額。ふらふら揺れているのは\r\n//艦の移動のためなのだろうが、そもそも安定が悪そう\r\n//だ。何かの拍子で簡単に落ちてしまうに違いない。\r\n  My eye is drawn to the desk, the bed... and to the landscape painting that adorns one metal wall. It sways slightly with the motion of the ship. Was it not secured correctly? One bad shake could see it on the floor.\r\n\r\n//　怪しいもの、爆弾らしきものは見当たらなかった。\r\n//　別の場所の探索に向かった方が良いだろう。\r\n  There is nothing else of interest, and certainly nothing that resembles a bomb. I should go elsewhere.\r\n",
-  "pt": ""
+  "pt": "\r\n//　士官室のようだ。\r\n//　狭いが、狭いなりに<RUBY text='ひん'>品</RUBY>は悪くない。\r\n  O quarto é pequeno, mas bem mobiliado. Deve ser a cabine de um oficial — e, no entanto, parece vazio de vida, como um quarto de exposição, frio e sem cor. Talvez seu ocupante não faça parte desta missão.\r\n\r\n//　しかし、人の体温がまるで無かった。部屋はモデル\r\n//ハウスのように精彩を欠き、調度はどれも冷たい。\r\n//　この部屋の主はたまたま座を外しているのではなく、\r\n//そもそも作戦に参加していないのだろう。\r\n\r\n//　目に付くものと言えば、机とベッド……\r\n//　そして風景画を収めた額。ふらふら揺れているのは\r\n//艦の移動のためなのだろうが、そもそも安定が悪そう\r\n//だ。何かの拍子で簡単に落ちてしまうに違いない。\r\n  Meu olhar é atraído para a escrivaninha, a cama... e para a pintura de paisagem que adorna uma parede de metal. Ela balança levemente com o movimento do navio. Não foi fixada corretamente? Um solavanco mais forte poderia derrubá-la no chão.\r\n\r\n//　怪しいもの、爆弾らしきものは見当たらなかった。\r\n//　別の場所の探索に向かった方が良いだろう。\r\n  Não há mais nada de interesse, e certamente nada que se pareça com uma bomba. É melhor eu ir a outro lugar.\r\n"
  },
  {
   "offset": 1592,
   "en": "\r\n//　士官室のようだ。\r\n//　人影はない。不審な箇所も――\r\n  An officer's quarters. Empty, with nothing of interest. We should move―\r\n",
-  "pt": ""
+  "pt": "\r\n//　士官室のようだ。\r\n//　人影はない。不審な箇所も――\r\n  Aposentos de oficial. Vazios, sem nada de interesse. Deveríamos seguir —\r\n"
  },
  {
   "offset": 1759,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031sh0010a03'>\r\n//「……あら？\r\n//　景明さま、あれを」\r\n\"Oh? Darling, look there.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031sh0010a03'>\r\n//「……あら？\r\n//　景明さま、あれを」\r\n\"Ah? Querido, olhe ali.\"\r\n"
  },
  {
   "offset": 1946,
@@ -22,41 +22,41 @@
  {
   "offset": 2067,
   "en": "\r\n//　変哲もない風景画を収めた<RUBY text='がく'>額</RUBY>が、床に転がっていた。\r\n//　部屋は全体として整理整頓が行き届いており、額も\r\n//最初からそうであったとは思えない。\r\n\r\n//　何らかの原因で落ちたのだろう。\r\n//　元の配置は――<k>あそこか？\r\n  A painting―it depicts a rather bland landscape―lies upon the deck. The room is otherwise perfectly tidy, so it must have fallen... <K>from there, I suspect.\r\n",
-  "pt": ""
+  "pt": "\r\n//　変哲もない風景画を収めた<RUBY text='がく'>額</RUBY>が、床に転がっていた。\r\n//　部屋は全体として整理整頓が行き届いており、額も\r\n//最初からそうであったとは思えない。\r\n\r\n//　何らかの原因で落ちたのだろう。\r\n//　元の配置は――<k>あそこか？\r\n  Uma pintura — que retrata uma paisagem bastante sem graça — jaz no chão. Fora isso, o quarto está perfeitamente arrumado, então ela deve ter caído... <K>de lá, eu suspeito.\r\n"
  },
  {
   "offset": 2578,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031sh0030a04'>\r\n//「隠し棚ですかな」\r\n\"A hidden compartment.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031sh0030a04'>\r\n//「隠し棚ですかな」\r\n\"Um compartimento secreto.\"\r\n"
  },
  {
   "offset": 2728,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031sh0040a00'>\r\n//「そのようです」\r\n\"So it would seem.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031sh0040a00'>\r\n//「そのようです」\r\n\"Parece que sim.\"\r\n"
  },
  {
   "offset": 2871,
   "en": "\r\n//　壁の一角に、四角く<RUBY text='く'>刳</RUBY>り<RUBY text='ぬ'>貫</RUBY>かれた収納スペース。額\r\n//を掛ける鉤はその上にあった。\r\n//　つまり額は本来、そこで棚を隠蔽する役目を果たし\r\n//ていたということか。\r\n  A small shelf has been set into the bulkhead, just large enough for the painting to hide.\r\n\r\n  I step closer to see what's inside.<K>\r\n  ...Liquor.\r\n\r\n//　俺は隠し棚に歩み寄り、中の物を取り出してみた。\r\n//　\r\n//　……酒瓶だ。\r\n\r\n//　ラベルの文字は英語。\r\n//　<RUBY text='ヨーメンウォーダーズ'>倫敦塔衛兵隊</RUBY>のものらしき衣装を纏った兵士の図柄\r\n//も描かれている。\r\n  The label on the bottle is English, and depicts one of the Yeoman Warders, the queen's personal bodyguard.\r\n",
-  "pt": ""
+  "pt": "\r\n//　壁の一角に、四角く<RUBY text='く'>刳</RUBY>り<RUBY text='ぬ'>貫</RUBY>かれた収納スペース。額\r\n//を掛ける鉤はその上にあった。\r\n//　つまり額は本来、そこで棚を隠蔽する役目を果たし\r\n//ていたということか。\r\n  Uma pequena prateleira foi embutida no anteparo, apenas grande o bastante para que a pintura a ocultasse.\r\n\r\n  Aproximo-me para ver o que há dentro.<K>\r\n  ...Bebida alcoólica.\r\n\r\n//　俺は隠し棚に歩み寄り、中の物を取り出してみた。\r\n//　\r\n//　……酒瓶だ。\r\n\r\n//　ラベルの文字は英語。\r\n//　<RUBY text='ヨーメンウォーダーズ'>倫敦塔衛兵隊</RUBY>のものらしき衣装を纏った兵士の図柄\r\n//も描かれている。\r\n  O rótulo da garrafa está em inglês e retrata um dos Yeoman Warders, a guarda pessoal da rainha.\r\n"
  },
  {
   "offset": 3726,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031sh0050a03'>\r\n//「イングリッシュ・ジンですね」\r\n\"English gin.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc02/031sh0050a03'>\r\n//「イングリッシュ・ジンですね」\r\n\"Gim inglês.\"\r\n"
  },
  {
   "offset": 3894,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031sh0060a04'>\r\n//「まぁまぁ悪くない品でございます。\r\n//　されど湊斗さま、お飲みになるなら何かで\r\n//割られた方がよろしいですぞ」\r\n\"Not a poor brand, either. Though I dare say it would serve best mixed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc02/031sh0060a04'>\r\n//「まぁまぁ悪くない品でございます。\r\n//　されど湊斗さま、お飲みになるなら何かで\r\n//割られた方がよろしいですぞ」\r\n\"Também não é uma marca ruim. Ainda assim, ouso dizer que ficaria melhor misturado.\"\r\n"
  },
  {
   "offset": 4227,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031sh0070a00'>\r\n//「飲みません」\r\n\"I'll abstain.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc02/031sh0070a00'>\r\n//「飲みません」\r\n\"Vou dispensar.\"\r\n"
  },
  {
   "offset": 4363,
   "en": "\r\n//　飲まないが……\r\n//　一応、貰っていくことにするか。\r\n  ...Though I suppose it can't hurt to take the bottle.\r\n",
-  "pt": ""
+  "pt": "\r\n//　飲まないが……\r\n//　一応、貰っていくことにするか。\r\n  ...Mas suponho que não faça mal levar a garrafa.\r\n"
  }
 ]

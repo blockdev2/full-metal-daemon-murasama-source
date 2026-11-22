@@ -2,122 +2,122 @@
  {
   "offset": 213,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010010e229'>\r\n//「知事！」\r\n\"Governor!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010010e229'>\r\n//「知事！」\r\n\"Governador!\"\r\n"
  },
  {
   "offset": 371,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010020e201'>\r\n//「どうした。\r\n//　その様子だと、なにやら素晴らしい吉報の\r\n//ようだが？」\r\n\"From the way you burst in here, I'm guessing the news is good?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010020e201'>\r\n//「どうした。\r\n//　その様子だと、なにやら素晴らしい吉報の\r\n//ようだが？」\r\n\"Pelo jeito que você entrou aqui de repente, imagino que as notícias sejam boas?\"\r\n"
  },
  {
   "offset": 671,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010030e229'>\r\n//「……残念ながら」\r\n\"I'm afraid not, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010030e229'>\r\n//「……残念ながら」\r\n\"Receio que não, senhor.\"\r\n"
  },
  {
   "offset": 852,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010040e201'>\r\n//「わかっている。言ってみただけだ。\r\n//　私がこの<RUBY text='むつのくに'>陸奥國</RUBY>の知事を拝命してから一年、\r\n//吉報なんて聞いたためしがない」\r\n\"Can't blame a man for hoping. It's been a year since I took over in Mutsu. I'd say I was due some good news.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010050e201'>\r\n//「それで？」\r\n\"What is it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010040e201'>\r\n//「わかっている。言ってみただけだ。\r\n//　私がこの<RUBY text='むつのくに'>陸奥國</RUBY>の知事を拝命してから一年、\r\n//吉報なんて聞いたためしがない」\r\n\"Não se pode culpar um homem por ter esperança. Faz um ano que assumi Mutsu. Eu diria que já merecia uma boa notícia.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010050e201'>\r\n//「それで？」\r\n\"Então?\"\r\n"
  },
  {
   "offset": 1452,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010060e229'>\r\n//「<RUBY text='おおまざき'>大間崎</RUBY>からの緊急報告です」\r\n\"An urgent report from Omazaki.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010060e229'>\r\n//「<RUBY text='おおまざき'>大間崎</RUBY>からの緊急報告です」\r\n\"É um relatório urgente de Omazaki.\"\r\n"
  },
  {
   "offset": 1694,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010070e201'>\r\n//「<RUBY text='えぞ'>北曾</RUBY>の情勢についてか？」\r\n\"Something's happened in Ezo?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010070e201'>\r\n//「<RUBY text='えぞ'>北曾</RUBY>の情勢についてか？」\r\n\"Aconteceu algo em Ezo?\"\r\n"
  },
  {
   "offset": 1922,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010080e229'>\r\n//「はい」\r\n\"Yes, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010080e229'>\r\n//「はい」\r\n\"Sim, senhor.\"\r\n"
  },
  {
   "offset": 2077,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010090e201'>\r\n//「<RUBY text='ロシア'>露帝</RUBY>軍に動きがあったんだな？」\r\n\"With the Russians.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010090e201'>\r\n//「<RUBY text='ロシア'>露帝</RUBY>軍に動きがあったんだな？」\r\n\"Com os russos.\"\r\n"
  },
  {
   "offset": 2307,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010100e229'>\r\n//「はい……」\r\n\"...Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010100e229'>\r\n//「はい……」\r\n\"...Sim.\"\r\n"
  },
  {
   "offset": 2466,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010110e201'>\r\n//「待ってくれ」\r\n\"Just a moment.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010120e201'>\r\n//「…………良し、心の準備は出来た。\r\n//　北曾の鎮台兵が一斉に全滅したと聞かされ\r\n//ても大丈夫だ」\r\n\"...Okay, I'm ready. I won't freak out, even if you tell me the whole Ezo garrison's been slaughtered.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010110e201'>\r\n//「待ってくれ」\r\n\"Espere um momento.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010120e201'>\r\n//「…………良し、心の準備は出来た。\r\n//　北曾の鎮台兵が一斉に全滅したと聞かされ\r\n//ても大丈夫だ」\r\n\"...Certo, estou pronto. Não vou surtar, mesmo que me diga que toda a guarnição de Ezo foi massacrada.\"\r\n"
  },
  {
   "offset": 3002,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010130e229'>\r\n//「本当ですか？」\r\n\"Are you sure?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010130e229'>\r\n//「本当ですか？」\r\n\"Tem certeza?\"\r\n"
  },
  {
   "offset": 3173,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010140e201'>\r\n//「……いや。君の気配り如何によるかな。\r\n//　あまり棘のない、柔らかい言葉で、小鳥を\r\n//撫でるように伝えてくれれば……私も衝動的\r\n//にピストル自殺しなくて済むと思う」\r\n\"Just... be gentle, all right? Imagine you're holding a sparrow, and the slightest jostle will make it blow its little birdy brains out all over that wall.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010140e201'>\r\n//「……いや。君の気配り如何によるかな。\r\n//　あまり棘のない、柔らかい言葉で、小鳥を\r\n//撫でるように伝えてくれれば……私も衝動的\r\n//にピストル自殺しなくて済むと思う」\r\n\"Só... seja gentil, está bem? Imagine que está segurando um pardal, e o menor solavanco vai fazer ele espirrar os miolinhos de passarinho na parede toda.\"\r\n"
  },
  {
   "offset": 3701,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010150e229'>\r\n//「弾を抜いておいて下さい」\r\n\"You might want to unload that pistol.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010150e229'>\r\n//「弾を抜いておいて下さい」\r\n\"Talvez seja bom descarregar essa pistola.\"\r\n"
  },
  {
   "offset": 3911,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010160e201'>\r\n//「わかった。もういい。人間、諦めが肝心だ。\r\n//　緊急報告というのをそのまま伝えてくれ」\r\n\"Fine, I give up. A man's gotta know when he's beaten. Give it to me straight.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010160e201'>\r\n//「わかった。もういい。人間、諦めが肝心だ。\r\n//　緊急報告というのをそのまま伝えてくれ」\r\n\"Está bem, desisto. O homem precisa saber quando foi derrotado. Diga logo, sem rodeios.\"\r\n"
  },
  {
   "offset": 4249,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010170e229'>\r\n//「はっ」\r\n\"Yes sir.\"\r\n\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010175e229'>\r\n//「函館に多数の艦艇が入港しているそうです。\r\n//　戦艦ガングート、戦艦インペラトリッツァ\r\n//他、少なくとも一〇隻以上の軍艦が碇を下ろ\r\n//している模様――とのこと」\r\n\"A Russian fleet has docked in Hakodate. Ten ships or more, including the dreadnoughts Gangut and Imperatritsa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010170e229'>\r\n//「はっ」\r\n\"Sim, senhor.\"\r\n\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010175e229'>\r\n//「函館に多数の艦艇が入港しているそうです。\r\n//　戦艦ガングート、戦艦インペラトリッツァ\r\n//他、少なくとも一〇隻以上の軍艦が碇を下ろ\r\n//している模様――とのこと」\r\n\"Uma frota russa atracou em Hakodate. Dez navios ou mais, incluindo os couraçados Gangut e Imperatritsa.\"\r\n"
  },
  {
   "offset": 4873,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010190e201'>\r\n//「……そうか。\r\n//　露帝が北曾を完全占領<RUBY text='・・'>した</RUBY>という報告では\r\n//なく、いよいよ<RUBY text='・・'>する</RUBY>という連絡か。つまり」\r\n\"...Oh. So they haven't taken Ezo yet. They're just getting ready to.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010200e201'>\r\n//「なら、現実逃避する余裕くらいは有りそう\r\n//だな」\r\n\"Great. That means I can keep pretending like everything's peachy keen.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010190e201'>\r\n//「……そうか。\r\n//　露帝が北曾を完全占領<RUBY text='・・'>した</RUBY>という報告では\r\n//なく、いよいよ<RUBY text='・・'>する</RUBY>という連絡か。つまり」\r\n\"...Ah. Então eles ainda não tomaram Ezo. Estão só se preparando para isso.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010200e201'>\r\n//「なら、現実逃避する余裕くらいは有りそう\r\n//だな」\r\n\"Ótimo. Isso significa que posso continuar fingindo que está tudo às mil maravilhas.\"\r\n"
  },
  {
   "offset": 5547,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010210e229'>\r\n//「いえ、知事。\r\n//　それが……」\r\n\"Actually, sir... there's more.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010210e229'>\r\n//「いえ、知事。\r\n//　それが……」\r\n\"Na verdade, senhor... tem mais.\"\r\n"
  },
  {
   "offset": 5757,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010220e201'>\r\n//「？」\r\n\"Shit.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010220e201'>\r\n//「？」\r\n\"Merda.\"\r\n"
  },
  {
   "offset": 5905,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010230e229'>\r\n//「函館には陸軍も集結しつつあるらしく」\r\n\"There's also an army camped in the port.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010230e229'>\r\n//「函館には陸軍も集結しつつあるらしく」\r\n\"Também há um exército acampado no porto.\"\r\n"
  },
  {
   "offset": 6136,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010240e201'>\r\n//「……あんな所に今、露帝の陸軍が？\r\n//　なぜだ」\r\n\"An army? Why would they need an army?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010240e201'>\r\n//「……あんな所に今、露帝の陸軍が？\r\n//　なぜだ」\r\n\"Um exército? Por que eles precisariam de um exército?\"\r\n"
  },
  {
   "offset": 6377,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010250e229'>\r\n//「おそらく陸海軍の共同作戦を行うためでは\r\n//ないかと」\r\n\"My guess is to launch an invasion by sea.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010250e229'>\r\n//「おそらく陸海軍の共同作戦を行うためでは\r\n//ないかと」\r\n\"Meu palpite é que seja para lançar uma invasão pelo mar.\"\r\n"
  },
  {
   "offset": 6631,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010260e201'>\r\n//「それはわかるが、何処を相手にだ。\r\n//　そんな大規模な合同作戦をやって陥とさな\r\n//くちゃいけないような大和軍の拠点が、いま\r\n//北曾にあるか？」\r\n\"Sure, but where? Ezo doesn't have any strongholds that would require that sort of manpower.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010260e201'>\r\n//「それはわかるが、何処を相手にだ。\r\n//　そんな大規模な合同作戦をやって陥とさな\r\n//くちゃいけないような大和軍の拠点が、いま\r\n//北曾にあるか？」\r\n\"Certo, mas onde? Ezo não tem nenhuma fortaleza que exigisse esse tipo de efetivo.\"\r\n"
  },
  {
   "offset": 7063,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010270e229'>\r\n//「無いと思われます。\r\n//　……北曾には」\r\n\"No, sir. Ezo does not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010270e229'>\r\n//「無いと思われます。\r\n//　……北曾には」\r\n\"Não, senhor. Ezo não tem.\"\r\n"
  },
  {
   "offset": 7277,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010280e201'>\r\n//「…………」\r\n\"...Hmm.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010280e201'>\r\n//「…………」\r\n\"...Hmm.\"\r\n"
  },
  {
   "offset": 7436,
@@ -127,12 +127,12 @@
  {
   "offset": 7594,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010300e201'>\r\n//「<RUBY text='こっち'>陸奥</RUBY>か!?」\r\n\"They're coming here!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010300e201'>\r\n//「<RUBY text='こっち'>陸奥</RUBY>か!?」\r\n\"Eles estão vindo para cá!?\"\r\n"
  },
  {
   "offset": 7796,
   "en": "\r\n//嶋：修正（論理）【09930】\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010310e229'>\r\n//「理論的に考えて」\r\n\"That seems the likeliest scenario.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//嶋：修正（論理）【09930】\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010310e229'>\r\n//「理論的に考えて」\r\n\"Esse parece ser o cenário mais provável.\"\r\n"
  },
  {
   "offset": 8030,
@@ -147,52 +147,52 @@
  {
   "offset": 8334,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010340e201'>\r\n//「ピストル……」\r\n\"Where's my pistol?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010340e201'>\r\n//「ピストル……」\r\n\"Cadê minha pistola?\"\r\n"
  },
  {
   "offset": 8510,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010350e229'>\r\n//「知事」\r\n\"Sir...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010350e229'>\r\n//「知事」\r\n\"Senhor...\"\r\n"
  },
  {
   "offset": 8662,
   "en": "\r\n//　大和北方領の枢要地、<RUBY text='えぞ'>北曾</RUBY>。\r\n//　その現情勢は実に混沌としている。\r\n  Ezo, the island which comprises Yamato's largest northern territory, presently exists in a state of chaos, with Russian and Yamatoan forces struggling for dominance while rebellious natives and the runoff from Honshu's power struggles all angle for their piece of the pie.\r\n\r\n//　大和国内の動乱に乗じて渡海侵攻を果たした露帝軍、\r\n//これに対して劣勢に立たされつつも抗戦を続ける北曾\r\n//駐留軍――更に決起した先住民族、本州の戦争に敗れ\r\n//逃亡してきた軍閥残党らが入り乱れ。\r\n\r\n//　勢力図は日毎に変動し、精確な把握は誰にも不可能\r\n//という状況にまで陥っている。\r\n//　ただ<RUBY text='おしま'>渡島</RUBY>半島を制圧し、本国との補給線を確立した\r\n//露帝軍の優越は誰の目にも瞭然であった。\r\n  But though the situation is fluid, with alliances shifting almost as frequently as the weather, one thing is clear. It's only a matter of time before the Russians grind the other forces into submission.\r\n\r\n//　時間の長短はさて置き、やがて露帝は北曾の支配を\r\n//完了し、本州侵攻に取り掛かるだろうと見られていた。\r\n//　\r\n//　だが――――\r\n  And after Ezo, their next target will be Tohoku. Or so it was assumed.\r\n",
-  "pt": ""
+  "pt": "\r\n//　大和北方領の枢要地、<RUBY text='えぞ'>北曾</RUBY>。\r\n//　その現情勢は実に混沌としている。\r\n  Ezo, a ilha que constitui o maior território do norte de Yamato, encontra-se atualmente em estado de caos, com forças russas e de Yamato lutando pelo domínio enquanto nativos rebeldes e os remanescentes das lutas de poder de Honshu disputam cada um a sua parte do bolo.\r\n\r\n//　大和国内の動乱に乗じて渡海侵攻を果たした露帝軍、\r\n//これに対して劣勢に立たされつつも抗戦を続ける北曾\r\n//駐留軍――更に決起した先住民族、本州の戦争に敗れ\r\n//逃亡してきた軍閥残党らが入り乱れ。\r\n\r\n//　勢力図は日毎に変動し、精確な把握は誰にも不可能\r\n//という状況にまで陥っている。\r\n//　ただ<RUBY text='おしま'>渡島</RUBY>半島を制圧し、本国との補給線を確立した\r\n//露帝軍の優越は誰の目にも瞭然であった。\r\n  Mas, embora a situação seja fluida, com alianças mudando quase tão frequentemente quanto o tempo, uma coisa é clara. É só questão de tempo até os russos submeterem as outras forças.\r\n\r\n//　時間の長短はさて置き、やがて露帝は北曾の支配を\r\n//完了し、本州侵攻に取り掛かるだろうと見られていた。\r\n//　\r\n//　だが――――\r\n  E depois de Ezo, seu próximo alvo será Tohoku. Ou era o que se supunha.\r\n"
  },
  {
   "offset": 10124,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010360e229'>\r\n//「知事、鎮守府からの返報です」\r\n\"Sir, we have word from regional command.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010360e229'>\r\n//「知事、鎮守府からの返報です」\r\n\"Senhor, temos notícias do comando regional.\"\r\n"
  },
  {
   "offset": 10343,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010370e201'>\r\n//「やっとか……\r\n//　何と言ってきた？」\r\n\"Finally. What do they say?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010370e201'>\r\n//「やっとか……\r\n//　何と言ってきた？」\r\n\"Finalmente. O que eles dizem?\"\r\n"
  },
  {
   "offset": 10558,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010380e229'>\r\n//「露帝軍の企図は北曾を占領して本州侵攻の\r\n//足場とするにあり、従って今回の行動は津軽\r\n//海峡における航行の安全を目的とした示威と\r\n//思われる」\r\n\"Given that the Russians' current objective is to secure Ezo as a foothold for their invasion of Honshu, this fleet presence is most likely a show of force intended to check Yamatoan action against troops crossing the Tsugaru Strait.\"\r\n\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010390e229'>\r\n//「動揺する<RUBY text='なか'>勿</RUBY>れ、詳細を確認したのち必要に\r\n//応じて援兵を送る。\r\n//　――以上です」\r\n\"Therefore, there remains no immediate threat to us here in Mutsu. Command will continue to monitor the situation and reinforce us as necessary.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010380e229'>\r\n//「露帝軍の企図は北曾を占領して本州侵攻の\r\n//足場とするにあり、従って今回の行動は津軽\r\n//海峡における航行の安全を目的とした示威と\r\n//思われる」\r\n\"Dado que o objetivo atual dos russos é garantir Ezo como base para sua invasão de Honshu, é bem provável que a presença dessa frota seja uma demonstração de força destinada a conter qualquer ação de Yamato contra as tropas que cruzam o Estreito de Tsugaru.\"\r\n\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010390e229'>\r\n//「動揺する<RUBY text='なか'>勿</RUBY>れ、詳細を確認したのち必要に\r\n//応じて援兵を送る。\r\n//　――以上です」\r\n\"Portanto, não há ameaça imediata para nós aqui em Mutsu. O comando continuará monitorando a situação e nos enviará reforços conforme necessário.\"\r\n"
  },
  {
   "offset": 11546,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010400e201'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010410e201'>\r\n//「冗談としては面白いが、それがもしも本気\r\n//だったら困るな」\r\n\"I really hope that's a joke. Otherwise we're in a lot of trouble.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010400e201'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010410e201'>\r\n//「冗談としては面白いが、それがもしも本気\r\n//だったら困るな」\r\n\"Espero de verdade que isso seja piada. Caso contrário, estamos em apuros.\"\r\n"
  },
  {
   "offset": 11983,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010420e229'>\r\n//「困りますね」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010420e229'>\r\n//「困りますね」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 12142,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010430e201'>\r\n//「本当のところは、何と言ってきたんだ？」\r\n\"What's the real message?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010430e201'>\r\n//「本当のところは、何と言ってきたんだ？」\r\n\"Qual é a mensagem de verdade?\"\r\n"
  },
  {
   "offset": 12360,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010440e229'>\r\n//「繰り返しになりますが」\r\n\"Would you like to hear it again?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010440e229'>\r\n//「繰り返しになりますが」\r\n\"Gostaria de ouvir de novo?\"\r\n"
  },
  {
   "offset": 12562,
@@ -202,67 +202,67 @@
  {
   "offset": 12714,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010460e229'>\r\n//「要するに、ただの威嚇だから気にしないで\r\n//おけ、と」\r\n\"To summarize, they say we have no reason to worry.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010460e229'>\r\n//「要するに、ただの威嚇だから気にしないで\r\n//おけ、と」\r\n\"Resumindo, eles dizem que não temos motivo para nos preocupar.\"\r\n"
  },
  {
   "offset": 12977,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010470e201'>\r\n//「……っ……！\r\n//　馬鹿か？　馬鹿なのかあの連中は？」\r\n\"No reason!? Are they really that stupid!?\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010480e201'>\r\n//「露帝は北曾を征服してから本州に来る――\r\n//教えて頂くまでもない！　こっちだってその\r\n//つもりでいた！\r\n//　しかし、今はもう違う！」\r\n\"Of course we know the Russians were planning to deal with Ezo first! The point is they've changed their minds!\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010490e201'>\r\n//「奴らは考えを変えた……！\r\n//　なかばゲリラ化した北曾の大和軍に構って\r\n//いても仕方ない――東北を奪えば北曾の兵も\r\n//孤立して立ち枯れになると見切ったんだよ！」\r\n\"They don't feel like fighting guerrillas for the next fifteen years! So they figured take Tohoku, cut the supply lines, and the resistance will go the way of the dinosaurs!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010470e201'>\r\n//「……っ……！\r\n//　馬鹿か？　馬鹿なのかあの連中は？」\r\n\"Sem motivo!? Eles são realmente tão burros!?\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010480e201'>\r\n//「露帝は北曾を征服してから本州に来る――\r\n//教えて頂くまでもない！　こっちだってその\r\n//つもりでいた！\r\n//　しかし、今はもう違う！」\r\n\"Claro que sabemos que os russos pretendiam resolver Ezo primeiro! O ponto é que eles mudaram de ideia!\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010490e201'>\r\n//「奴らは考えを変えた……！\r\n//　なかばゲリラ化した北曾の大和軍に構って\r\n//いても仕方ない――東北を奪えば北曾の兵も\r\n//孤立して立ち枯れになると見切ったんだよ！」\r\n\"Eles não estão a fim de lutar contra guerrilhas pelos próximos quinze anos! Então decidiram tomar Tohoku, cortar as linhas de suprimento, e a resistência vai pelo caminho dos dinossauros!\"\r\n"
  },
  {
   "offset": 14191,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010500e229'>\r\n//「ええ……」\r\n\"It makes sense, sir...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010500e229'>\r\n//「ええ……」\r\n\"Faz sentido, senhor...\"\r\n"
  },
  {
   "offset": 14365,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010510e201'>\r\n//「示威なわけないだろうが。\r\n//　あいつらが北曾に攻めてきてからこれまで、\r\n//威嚇なんて可愛い真似を一度でもしたか!?」\r\n\"A show of force? Since when do the Russians do anything for show?\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010520e201'>\r\n//「これ見よがしに軍事行動の準備だけして、\r\n//実際には行動しなかった、なんてことあった\r\n//か!?」\r\n\"Have they ever once mobilized a fleet or an army and then not bothered to use it!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010510e201'>\r\n//「示威なわけないだろうが。\r\n//　あいつらが北曾に攻めてきてからこれまで、\r\n//威嚇なんて可愛い真似を一度でもしたか!?」\r\n\"Uma demonstração de força? Desde quando os russos fazem algo só para exibir?\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010520e201'>\r\n//「これ見よがしに軍事行動の準備だけして、\r\n//実際には行動しなかった、なんてことあった\r\n//か!?」\r\n\"Alguma vez eles mobilizaram uma frota ou um exército e depois nem se deram ao trabalho de usar!?\"\r\n"
  },
  {
   "offset": 15077,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010530e229'>\r\n//「全く……」\r\n\"No...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010530e229'>\r\n//「全く……」\r\n\"Não...\"\r\n"
  },
  {
   "offset": 15234,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010540e201'>\r\n//「必要に応じて援兵!?\r\n//　それは敵軍がこの陸奥に攻め込んできたら\r\n//ってことか？　じゃあ援軍が来るまで我々は\r\n//どうしてればいいんだ？」\r\n\"And they say they'll send reinforcements as necessary? When will that be? After the Russians have landed? How are we supposed to hold out until they get here?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010540e201'>\r\n//「必要に応じて援兵!?\r\n//　それは敵軍がこの陸奥に攻め込んできたら\r\n//ってことか？　じゃあ援軍が来るまで我々は\r\n//どうしてればいいんだ？」\r\n\"E eles dizem que vão enviar reforços conforme necessário? Quando será isso? Depois que os russos desembarcarem? Como vamos aguentar até eles chegarem?\"\r\n"
  },
  {
   "offset": 15723,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010550e229'>\r\n//「さあ……」\r\n\"I'm afraid I can't answer that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010550e229'>\r\n//「さあ……」\r\n\"Receio que não possa responder a isso.\"\r\n"
  },
  {
   "offset": 15906,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010560e201'>\r\n//「……鎮守府の連中は、もう、何だ……\r\n//　全員そろって脳に炎症でも起こしたのか？」\r\n\"Don't tell me... Did everyone at command come down with meningitis?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010560e201'>\r\n//「……鎮守府の連中は、もう、何だ……\r\n//　全員そろって脳に炎症でも起こしたのか？」\r\n\"Não me diga... Será que todo mundo no comando pegou meningite?\"\r\n"
  },
  {
   "offset": 16228,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010570e229'>\r\n//「ありそうな話です」\r\n\"That's entirely possible, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010570e229'>\r\n//「ありそうな話です」\r\n\"É perfeitamente possível, senhor.\"\r\n"
  },
  {
   "offset": 16422,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010580e201'>\r\n//「…………。\r\n//　もう一度鎮守府に繋いでくれ」\r\n\"...Get them on the phone.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010590e201'>\r\n//「私が直接、将軍と話す」\r\n\"I'll speak to the general myself.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010580e201'>\r\n//「…………。\r\n//　もう一度鎮守府に繋いでくれ」\r\n\"...Coloque-os na linha.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010590e201'>\r\n//「私が直接、将軍と話す」\r\n\"Vou falar com o general eu mesmo.\"\r\n"
  },
  {
   "offset": 16843,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010600e229'>\r\n//「はい」\r\n\"Of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010600e229'>\r\n//「はい」\r\n\"Com certeza.\"\r\n"
  },
  {
   "offset": 16999,
   "en": "\r\n//　鎮守府は北大和の防衛を目的とする軍組織である。\r\n//　陸奥、陸中、陸前、羽後、羽前、そして北曾の六州\r\n//を管轄下に置く。\r\n  Yamato's Northern Command comprises six territories: Mutsu, Rikuchu, Rikuzen, Ugo, Uzen, and Ezo.\r\n\r\n//　まさしく露帝の極東軍を仮想敵としてthe 用意された軍\r\n//であるから、その侵攻をすぐさま撃退とはゆかずとも、\r\n//戦線を支えられるだけの戦力は当然のこと有している。\r\n//　鎮守府は支え――中央の援軍を待ち、反攻して勝つ。\r\n  As it was formed expressly to defend against Russian aggression, the command includes men and equipment sufficient to, if not repel an invasion, then at least hold the line long enough for reinforcements to arrive from the south.\r\n\r\n//　それが鎮守府の基本構想である。\r\n//　そして今回、構想は全くの画餅であった。\r\n  That is, in fact, its mission―<br>which in this instance, it has failed at utterly. The Ezo garrison fell with barely a whimper, and now the entire island sits poised to fall into enemy hands.\r\n\r\n//　大和軍は敗走を続け、北曾の失陥は今や不可避。\r\n//　かく至ったのには無論、当初の予想を超える露帝の\r\n//執拗さもあるが。それのみではなかった。\r\n\r\n//　鎮守府に二つの目と二本の腕があるならば、北方へ\r\n//向けられるのはその半分――あるいはそれ以下――で\r\n//しかないのだった。\r\n  And while this may be blamed partly on the Russians attacking with much greater ferocity than anticipated, matters would perhaps not be so dire if Northern Command had allocated even half its resources to Ezo's defense.\r\n",
-  "pt": ""
+  "pt": "\r\n//　鎮守府は北大和の防衛を目的とする軍組織である。\r\n//　陸奥、陸中、陸前、羽後、羽前、そして北曾の六州\r\n//を管轄下に置く。\r\n  O Comando Norte de Yamato abrange seis territórios: Mutsu, Rikuchu, Rikuzen, Ugo, Uzen e Ezo.\r\n\r\n//　まさしく露帝の極東軍を仮想敵としてthe 用意された軍\r\n//であるから、その侵攻をすぐさま撃退とはゆかずとも、\r\n//戦線を支えられるだけの戦力は当然のこと有している。\r\n//　鎮守府は支え――中央の援軍を待ち、反攻して勝つ。\r\n  Como foi formado expressamente para defender contra a agressão russa, o comando conta com homens e equipamentos suficientes para, se não repelir uma invasão, ao menos sustentar a linha até que cheguem reforços do sul.\r\n\r\n//　それが鎮守府の基本構想である。\r\n//　そして今回、構想は全くの画餅であった。\r\n  É exatamente essa a sua missão — que, neste caso, ele fracassou completamente em cumprir. A guarnição de Ezo caiu quase sem oferecer resistência, e agora a ilha inteira está prestes a cair nas mãos do inimigo.\r\n\r\n//　大和軍は敗走を続け、北曾の失陥は今や不可避。\r\n//　かく至ったのには無論、当初の予想を超える露帝の\r\n//執拗さもあるが。それのみではなかった。\r\n\r\n//　鎮守府に二つの目と二本の腕があるならば、北方へ\r\n//向けられるのはその半分――あるいはそれ以下――で\r\n//しかないのだった。\r\n  E embora isso possa ser atribuído em parte ao fato de os russos atacarem com ferocidade muito maior do que o previsto, a situação talvez não fosse tão grave se o Comando Norte tivesse alocado ao menos metade de seus recursos para a defesa de Ezo.\r\n"
  },
  {
   "offset": 18778,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010610e201'>\r\n//「駄目だ……」\r\n\"We're screwed...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010610e201'>\r\n//「駄目だ……」\r\n\"Estamos ferrados...\"\r\n"
  },
  {
   "offset": 18949,
@@ -272,27 +272,27 @@
  {
   "offset": 19101,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010630e201'>\r\n//「話になりゃしない。\r\n//　必要と判断されたら兵を送る、の繰り返し\r\n//だ」\r\n\"It's no use talking to him. He keeps insisting they'll send help㉒<I>when it's required.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010630e201'>\r\n//「話になりゃしない。\r\n//　必要と判断されたら兵を送る、の繰り返し\r\n//だ」\r\n\"Não adianta falar com ele. Ele fica insistindo que vão mandar ajuda㉒<I>quando for necessário.</I>\"\r\n"
  },
  {
   "offset": 19432,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010640e229'>\r\n//「援軍は今、必要なんですが……」\r\n\"I believe that's now, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010640e229'>\r\n//「援軍は今、必要なんですが……」\r\n\"Creio que seja agora, senhor.\"\r\n"
  },
  {
   "offset": 19640,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010650e201'>\r\n//「鎮守府はわかっていない。\r\n//　……いや……わかっている、本当は！」\r\n\"They just don't get it! I mean, they do. They know exactly what we need!\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010660e201'>\r\n//「しかしあいつらには中央の覇権争いの方が\r\n//重要なんだ。\r\n//　関八州を分捕るために、北方六州を捨てる\r\n//気でいる……」\r\n\"It's just that they have other priorities, like fighting over who gets to rule the rest of Yamato. They're prepared to sacrifice Ezo and Tohoku if it'll get them a piece of <br>Kanto.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010650e201'>\r\n//「鎮守府はわかっていない。\r\n//　……いや……わかっている、本当は！」\r\n\"Eles simplesmente não entendem! Quer dizer, entendem. Sabem exatamente do que precisamos!\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010660e201'>\r\n//「しかしあいつらには中央の覇権争いの方が\r\n//重要なんだ。\r\n//　関八州を分捕るために、北方六州を捨てる\r\n//気でいる……」\r\n\"É só que eles têm outras prioridades, como brigar por quem vai governar o resto de Yamato. Estão dispostos a sacrificar Ezo e Tohoku se isso lhes render um pedaço de Kanto.\"\r\n"
  },
  {
   "offset": 20426,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010670e229'>\r\n//「そんな」\r\n\"But that's insane.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010670e229'>\r\n//「そんな」\r\n\"Mas isso é uma loucura.\"\r\n"
  },
  {
   "offset": 20593,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010680e201'>\r\n//「馬鹿な、って言えたら幸せだ。\r\n//　鎮守府と露帝は既に密約を結んでいて北曾\r\n//と東北の移譲で折り合いがついてる、なんて\r\n//ことは絶対に有り得ないって信じたいもんだ」\r\n\"I hope that's all it is, because the alternative, that they've made a deal with the Russians, is not something I care to think about.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010680e201'>\r\n//「馬鹿な、って言えたら幸せだ。\r\n//　鎮守府と露帝は既に密約を結んでいて北曾\r\n//と東北の移譲で折り合いがついてる、なんて\r\n//ことは絶対に有り得ないって信じたいもんだ」\r\n\"Espero que seja só isso, porque a alternativa — que tenham feito um acordo com os russos — não é algo em que eu queira pensar.\"\r\n"
  },
  {
   "offset": 21100,
@@ -302,12 +302,12 @@
  {
   "offset": 21258,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010700e201'>\r\n//「露帝軍は海峡を渡って来る。\r\n//　鎮守府は動かない」\r\n\"So here are the facts. When the Russians cross the strait, command won't lift a finger to stop them.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010710e201'>\r\n//「私の権限で使える戦力らしきものは警官隊\r\n//くらいだ。\r\n//　上陸を阻止する方法は……ない……」\r\n\"That means all I have to work with is our local police, and they're not going to be able to hold the beaches.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010700e201'>\r\n//「露帝軍は海峡を渡って来る。\r\n//　鎮守府は動かない」\r\n\"Então, os fatos são estes. Quando os russos atravessarem o estreito, o comando não vai mover um dedo para detê-los.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010710e201'>\r\n//「私の権限で使える戦力らしきものは警官隊\r\n//くらいだ。\r\n//　上陸を阻止する方法は……ない……」\r\n\"Isso significa que tudo o que tenho à disposição é a nossa polícia local, e ela não vai conseguir segurar as praias.\"\r\n"
  },
  {
   "offset": 21940,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010720e229'>\r\n//「知事……ならいっそ……\r\n//　攻められる前に、降伏しますか」\r\n\"Sir... perhaps we should consider surrender?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010720e229'>\r\n//「知事……ならいっそ……\r\n//　攻められる前に、降伏しますか」\r\n\"Senhor... talvez devêssemos considerar a rendição?\"\r\n"
  },
  {
   "offset": 22206,
@@ -317,32 +317,32 @@
  {
   "offset": 22358,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010740e229'>\r\n//「鎮守府が関東の抗争に介入し、北曾の旗色\r\n//が悪くなり始めた時点で、津軽地方の諸市は\r\n//露帝に保護を求める動きを起こしています。\r\n//　それに陸奥國全体が乗る形で――」\r\n\"Several of our northern municipalities are already looking to start talks with the Russians. If we agree to hand over all of Mutsu at once...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010740e229'>\r\n//「鎮守府が関東の抗争に介入し、北曾の旗色\r\n//が悪くなり始めた時点で、津軽地方の諸市は\r\n//露帝に保護を求める動きを起こしています。\r\n//　それに陸奥國全体が乗る形で――」\r\n\"Vários dos nossos municípios do norte já estão buscando iniciar conversas com os russos. Se concordarmos em entregar toda a região de Mutsu de uma vez...\"\r\n"
  },
  {
   "offset": 22876,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010750e201'>\r\n//「悪くない。\r\n//　無抵抗で露帝の軍門に下れば、少なくとも\r\n//戦争被害は受けなくて済む理屈だ」\r\n\"Yeah... at least we'll avoid the worst of what their armies can do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010750e201'>\r\n//「悪くない。\r\n//　無抵抗で露帝の軍門に下れば、少なくとも\r\n//戦争被害は受けなくて済む理屈だ」\r\n\"É... pelo menos vamos evitar o pior que os exércitos deles podem fazer.\"\r\n"
  },
  {
   "offset": 23211,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010760e229'>\r\n//「はい」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010760e229'>\r\n//「はい」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 23361,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010770e201'>\r\n//「市街地を略奪され、抵抗した市民が何人か、\r\n//何十人か、何百人か殺される。\r\n//　それでも無駄に戦って惨敗するよりはまし」\r\n\"There'll be resistance. A few people―a few dozen, a few hundred―in each town and city. They'll all die, and it'll still be better than if we give the Russians an excuse to get serious.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010770e201'>\r\n//「市街地を略奪され、抵抗した市民が何人か、\r\n//何十人か、何百人か殺される。\r\n//　それでも無駄に戦って惨敗するよりはまし」\r\n\"Haverá resistência. Algumas pessoas — algumas dezenas, algumas centenas — em cada cidade e vila. Todas vão morrer, e ainda assim será melhor do que dar aos russos um pretexto para agirem com todo o rigor.\"\r\n"
  },
  {
   "offset": 23859,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010780e229'>\r\n//「……はい」\r\n\"...Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010780e229'>\r\n//「……はい」\r\n\"...Sim.\"\r\n"
  },
  {
   "offset": 24018,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010790e201'>\r\n//「で、だ。\r\n//　それからどうなる？」\r\n\"But what happens next?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010790e201'>\r\n//「で、だ。\r\n//　それからどうなる？」\r\n\"Mas o que acontece depois?\"\r\n"
  },
  {
   "offset": 24226,
@@ -352,7 +352,7 @@
  {
   "offset": 24384,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010810e201'>\r\n//「露帝は封建制度の維持に固執している国だ。\r\n//　皇帝と貴族はそうするだけが生き延びる道\r\n//だと思っているし……それはあながち間違い\r\n//でもない」\r\n\"Russia still has a feudal society. The nobles and their emperor think that's the only way they can survive. And hell, they're probably right.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010820e201'>\r\n//「だから彼らは領土を広げ、占領地を農地に\r\n//して、住民を農奴にする。\r\n//　大和でもそう。既に北曾では始まっている」\r\n\"That's why whenever they conquer new territory, they turn it into farmland and its people into serfs. It's already started in Ezo. We're next.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010830e201'>\r\n//「いずれこの陸奥も。我々も。\r\n//　銃に怯えながら畑を耕すことになる。いや\r\n//炭鉱を掘るのかもしれないし工場で人間機械\r\n//になるのかもしれないが……」\r\n\"You, me, and all our people, plowing fields under Russian guns, or working the mines, or slaving away in their factories.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010840e201'>\r\n//「抵抗しても、降伏しても、そうなる運命は\r\n//変わらんよ。\r\n//　結果は同じということだ」\r\n\"It doesn't matter if we surrender or not. The result will be the same.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010810e201'>\r\n//「露帝は封建制度の維持に固執している国だ。\r\n//　皇帝と貴族はそうするだけが生き延びる道\r\n//だと思っているし……それはあながち間違い\r\n//でもない」\r\n\"A Rússia ainda tem uma sociedade feudal. Os nobres e o imperador acham que essa é a única forma de sobreviverem. E, diabos, provavelmente estão certos.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010820e201'>\r\n//「だから彼らは領土を広げ、占領地を農地に\r\n//して、住民を農奴にする。\r\n//　大和でもそう。既に北曾では始まっている」\r\n\"É por isso que, sempre que conquistam um novo território, transformam-no em terras agrícolas e seu povo em servos da gleba. Já começou em Ezo. Nós somos os próximos.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010830e201'>\r\n//「いずれこの陸奥も。我々も。\r\n//　銃に怯えながら畑を耕すことになる。いや\r\n//炭鉱を掘るのかもしれないし工場で人間機械\r\n//になるのかもしれないが……」\r\n\"Você, eu e todo o nosso povo, arando campos sob as armas russas, ou trabalhando nas minas, ou trabalhando como escravos nas fábricas deles.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010840e201'>\r\n//「抵抗しても、降伏しても、そうなる運命は\r\n//変わらんよ。\r\n//　結果は同じということだ」\r\n\"Não importa se nos rendermos ou não. O resultado será o mesmo.\"\r\n"
  },
  {
   "offset": 26088,
@@ -362,17 +362,17 @@
  {
   "offset": 26246,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010860e201'>\r\n//「我々の生活は徳川時代まで逆戻りする。\r\n//　いや……それ以下だな」\r\n\"It'll be Tokugawa all over again. No, worse.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010860e201'>\r\n//「我々の生活は徳川時代まで逆戻りする。\r\n//　いや……それ以下だな」\r\n\"Vai ser como na era Tokugawa outra vez. Não, pior.\"\r\n"
  },
  {
   "offset": 26521,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010870e229'>\r\n//「……何か、方法はないのでしょうか」\r\n\"Isn't there something we can do?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010870e229'>\r\n//「……何か、方法はないのでしょうか」\r\n\"...Não há nada que possamos fazer?\"\r\n"
  },
  {
   "offset": 26741,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010880e201'>\r\n//「あれば是非とも知りたい。\r\n//　私自身については諦めもつく……だが家族\r\n//がいるし、家族のことを除けてもこの陸奥は\r\n//私の生まれ故郷だ」\r\n\"If there is, I'd like to know. It's not just myself I want to save. It's not even my family. Mutsu is my home. It's where I was born.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010890e201'>\r\n//「諦めをつけるには重い。\r\n//　少しばかり重過ぎる」\r\n\"That's a lot to just give up on.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010880e201'>\r\n//「あれば是非とも知りたい。\r\n//　私自身については諦めもつく……だが家族\r\n//がいるし、家族のことを除けてもこの陸奥は\r\n//私の生まれ故郷だ」\r\n\"Se houver, eu gostaria de saber. Não é só a mim que quero salvar. Nem é só a minha família. Mutsu é meu lar. Foi onde nasci.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010890e201'>\r\n//「諦めをつけるには重い。\r\n//　少しばかり重過ぎる」\r\n\"É muita coisa para simplesmente abandonar.\"\r\n"
  },
  {
   "offset": 27437,
@@ -382,42 +382,42 @@
  {
   "offset": 27589,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010910e201'>\r\n//「君も同じだったな」\r\n\"Can I ask how you feel?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010910e201'>\r\n//「君も同じだったな」\r\n\"Posso perguntar como você se sente?\"\r\n"
  },
  {
   "offset": 27776,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010920e229'>\r\n//「はい。\r\n//　ここは故郷で……家族もいます」\r\n\"The same, sir. This is my home too. And my family's.\"\r\n\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010930e229'>\r\n//「どうしようもないからと、投げ出せるもの\r\n//ではありません」\r\n\"I don't want to give it up either.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010920e229'>\r\n//「はい。\r\n//　ここは故郷で……家族もいます」\r\n\"O mesmo, senhor. Aqui também é meu lar. E o da minha família.\"\r\n\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010930e229'>\r\n//「どうしようもないからと、投げ出せるもの\r\n//ではありません」\r\n\"Eu também não quero desistir disso.\"\r\n"
  },
  {
   "offset": 28274,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010940e201'>\r\n//「だがどうしようもないな……。\r\n//　住民全員でどこかへ避難できるわけもなし」\r\n\"But do we have a choice? It's not like we can evacuate the entire territory. Where would we even go?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010940e201'>\r\n//「だがどうしようもないな……。\r\n//　住民全員でどこかへ避難できるわけもなし」\r\n\"Mas temos escolha? Não é como se pudéssemos evacuar o território inteiro. Para onde iríamos, afinal?\"\r\n"
  },
  {
   "offset": 28620,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010950e229'>\r\n//「そもそもこの陸奥が、<RUBY text='きた'>北曾</RUBY>と<RUBY text='みなみ'>関東</RUBY>から疎開\r\n//してきた人々で一杯ですからね……」\r\n\"Not to the north or south, sir. They're already sending us their refugees.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010950e229'>\r\n//「そもそもこの陸奥が、<RUBY text='きた'>北曾</RUBY>と<RUBY text='みなみ'>関東</RUBY>から疎開\r\n//してきた人々で一杯ですからね……」\r\n\"Nem para o norte nem para o sul, senhor. Eles já estão nos enviando os refugiados deles.\"\r\n"
  },
  {
   "offset": 29000,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010960e201'>\r\n//「東西の海しか逃げ場はないか。\r\n//　神様に祈って、海を真っ二つに割って貰う\r\n//か？」\r\n\"So it's east or west, then. Do you think if I pray, some god will split the sea?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010960e201'>\r\n//「東西の海しか逃げ場はないか。\r\n//　神様に祈って、海を真っ二つに割って貰う\r\n//か？」\r\n\"Então só resta leste ou oeste. Você acha que, se eu rezar, algum deus vai dividir o mar?\"\r\n"
  },
  {
   "offset": 29336,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010970e229'>\r\n//「それで約束の地へ行き着けるなら」\r\n\"Perhaps it's worth a try, if it will see us to our promised land.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010970e229'>\r\n//「それで約束の地へ行き着けるなら」\r\n\"Talvez valha a pena tentar, se isso nos levar à terra prometida.\"\r\n"
  },
  {
   "offset": 29586,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010980e201'>\r\n//「前世紀から延々と戦乱が続きっ放しの大陸\r\n//へ渡るのが関の山か。\r\n//　神仏の救いを夢見ることさえできない状況\r\n//とはな」\r\n\"The best we can hope for is to flee to the continent, where they've been at war for the last hundred years. That hell is the only place the gods will let us go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0010980e201'>\r\n//「前世紀から延々と戦乱が続きっ放しの大陸\r\n//へ渡るのが関の山か。\r\n//　神仏の救いを夢見ることさえできない状況\r\n//とはな」\r\n\"O melhor que podemos esperar é fugir para o continente, onde eles estão em guerra há cem anos. Esse inferno é o único lugar para onde os deuses nos permitirão ir.\"\r\n"
  },
  {
   "offset": 30054,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010990e229'>\r\n//「不信心のつけでしょう。きっと」\r\n\"If only we'd been more generous with our offerings.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0010990e229'>\r\n//「不信心のつけでしょう。きっと」\r\n\"Se ao menos tivéssemos sido mais generosos com as nossas oferendas.\"\r\n"
  },
  {
   "offset": 30287,
@@ -427,62 +427,62 @@
  {
   "offset": 30589,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011020e229'>\r\n//「……知事？」\r\n\"...Sir?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011020e229'>\r\n//「……知事？」\r\n\"...Senhor?\"\r\n"
  },
  {
   "offset": 30751,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011030e201'>\r\n//「不信心者は不信心者なりに、頼れるものは\r\n//ある……か……」\r\n\"Even for unbelievers like us, there are powers we can turn to.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011030e201'>\r\n//「不信心者は不信心者なりに、頼れるものは\r\n//ある……か……」\r\n\"Mesmo para descrentes como nós, há forças a que podemos recorrer.\"\r\n"
  },
  {
   "offset": 31035,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011040e229'>\r\n//「？」\r\n\"I'm sorry?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011040e229'>\r\n//「？」\r\n\"Perdão?\"\r\n"
  },
  {
   "offset": 31188,
   "en": "\r\n//嶋：修正（防げる）\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011050e201'>\r\n//「必要なのは軍事力だ。\r\n//　侵略を妨げるだけの」\r\n\"What we need is an army, one strong enough to stop the Russians at the shore.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//嶋：修正（防げる）\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011050e201'>\r\n//「必要なのは軍事力だ。\r\n//　侵略を妨げるだけの」\r\n\"O que precisamos é de um exército, forte o bastante para deter os russos na costa.\"\r\n"
  },
  {
   "offset": 31500,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011060e229'>\r\n//「そうですが……」\r\n\"Yes, but...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011060e229'>\r\n//「そうですが……」\r\n\"Sim, mas...\"\r\n"
  },
  {
   "offset": 31672,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011070e201'>\r\n//「戦力になるなら、この際悪魔でも構わない」\r\n\"If gods won't give us what we need, then maybe demons will.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011070e201'>\r\n//「戦力になるなら、この際悪魔でも構わない」\r\n\"Se os deuses não nos derem o que precisamos, talvez os demônios nos deem.\"\r\n"
  },
  {
   "offset": 31928,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011080e229'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011090e229'>\r\n//「知事、それは」\r\n\"You can't mean...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011080e229'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011090e229'>\r\n//「知事、それは」\r\n\"O senhor não está falando sério...\"\r\n"
  },
  {
   "offset": 32253,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011100e201'>\r\n//「かの傭兵帝国は、特定の条件さえ呑むなら、\r\n//どんな依頼でも決して拒まないそうだ。\r\n//　どれほどの大国、どれほどの大軍でも敵に\r\n//回すと」\r\n\"It's said they'll take on any mission, no matter the enemy, no matter the odds. ...Provided you agree to a certain condition.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011100e201'>\r\n//「かの傭兵帝国は、特定の条件さえ呑むなら、\r\n//どんな依頼でも決して拒まないそうだ。\r\n//　どれほどの大国、どれほどの大軍でも敵に\r\n//回すと」\r\n\"Dizem que aceitam qualquer missão, não importa o inimigo, não importa a desvantagem. ...Desde que se concorde com uma certa condição.\"\r\n"
  },
  {
   "offset": 32713,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011110e229'>\r\n//「聞いたことはあります。\r\n//　しかし、その条件というのが――」\r\n\"But that condition, sir. It's―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011110e229'>\r\n//「聞いたことはあります。\r\n//　しかし、その条件というのが――」\r\n\"Mas essa condição, senhor. Ela é―\"\r\n"
  },
  {
   "offset": 32970,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011120e201'>\r\n//「ああ」\r\n\"I know.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011130e201'>\r\n//「さっき、拳銃使わなくて良かったな。\r\n//　この命にもっと有効な使い道があった」\r\n\"Good thing I didn't use this pistol, huh? Turns out my head might still be worth something.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011120e201'>\r\n//「ああ」\r\n\"Eu sei.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011130e201'>\r\n//「さっき、拳銃使わなくて良かったな。\r\n//　この命にもっと有効な使い道があった」\r\n\"Ainda bem que não usei esta pistola, não é? Parece que minha cabeça ainda pode valer alguma coisa.\"\r\n"
  },
  {
   "offset": 33455,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011140e229'>\r\n//「……知事」\r\n\"Sir...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011140e229'>\r\n//「……知事」\r\n\"Senhor...\"\r\n"
  },
  {
   "offset": 33613,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011150e201'>\r\n//「そんな顔をするな。愁嘆場じみてきてこそ\r\n//ばゆくなる。\r\n//　別に高潔な自己犠牲の精神に駆られている\r\n//わけじゃない……単に責任を全うするだけだ」\r\n\"Cheer up. I don't need a tearful sendoff. It's not as though this is some noble act of self-sacrifice.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011160e201'>\r\n//「給料分の仕事をすると言った方がいいか。\r\n//　陸奥を守るのが私の役目だからそうする、\r\n//それだけの話だ」\r\n\"It's just the job I was paid to do. Mutsu is my responsibility.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011150e201'>\r\n//「そんな顔をするな。愁嘆場じみてきてこそ\r\n//ばゆくなる。\r\n//　別に高潔な自己犠牲の精神に駆られている\r\n//わけじゃない……単に責任を全うするだけだ」\r\n\"Não faça essa cara. Não preciso de uma despedida chorosa. Não é como se isto fosse algum nobre ato de autossacrifício.\"\r\n\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011160e201'>\r\n//「給料分の仕事をすると言った方がいいか。\r\n//　陸奥を守るのが私の役目だからそうする、\r\n//それだけの話だ」\r\n\"É só o trabalho pelo qual fui pago. Proteger Mutsu é minha responsabilidade.\"\r\n"
  },
  {
   "offset": 34403,
@@ -492,11 +492,11 @@
  {
   "offset": 34561,
   "en": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011180e201'>\r\n//「私は〝武帝〟に行く。\r\n//　後のことを頼む」\r\n\"I'm going to see the Warlords. Can I trust you to take care of things here?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／知事】\r\n<voice name='ｅｔｃ／知事' class='その他男声' src='voice/md06/0011180e201'>\r\n//「私は〝武帝〟に行く。\r\n//　後のことを頼む」\r\n\"Vou ver os Senhores da Guerra. Posso confiar em você para cuidar das coisas por aqui?\"\r\n"
  },
  {
   "offset": 34834,
   "en": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011190e229'>\r\n//「……はい……」\r\n\"...Yes, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／秘書】\r\n<voice name='ｅｔｃ／秘書' class='その他女声' src='voice/md06/0011190e229'>\r\n//「……はい……」\r\n\"...Sim, senhor.\"\r\n"
  }
 ]

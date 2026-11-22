@@ -2,62 +2,62 @@
  {
   "offset": 215,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0010a01'>\r\n//《……で、結局……\r\n//　今のはいったい何だったの？》\r\n《So... what was that thing?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0010a01'>\r\n//《……で、結局……\r\n//　今のはいったい何だったの？》\r\n《Então... o que era aquilo?》\r\n"
  },
  {
   "offset": 429,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0020a00'>\r\n//「高速徹甲弾だ」\r\n\"An HVAP shell.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0020a00'>\r\n//「高速徹甲弾だ」\r\n\"Um projétil perfurante de alta velocidade.\"\r\n"
  },
  {
   "offset": 569,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0030a01'>\r\n//《こーそくてっこーだん？》\r\n《Aychvap?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0030a01'>\r\n//《こーそくてっこーだん？》\r\n《Aychvap?》\r\n"
  },
  {
   "offset": 728,
   "en": "\r\n//　<RUBY text='ＡＤＨＶＡＰ'>対竜騎兵用高速徹甲弾</RUBY>。\r\n  High-Velocity Armor-<br>Piercing (HVAP). A shell comprised of a lightweight alloy casing around a tungsten carbide core. The soft outer casing absorbs the initial shock of impact, allowing the hard―and therefore brittle―core to penetrate deep into the target's armor.\r\n\r\n//　タングステン製の弾芯を軽合金の外殻で包む二重の\r\n//構造によって、高い貫通力を得る砲弾である。\r\n//　着弾の瞬間に柔らかい外殻が潰れ、鋭い弾芯が突出\r\n//して甲鉄を貫く仕組みになっている。\r\n\r\n//　対竜騎兵用のものは重量を極めて軽くされている為\r\n//初速が非常に高く、近距離では武者の反射神経を以て\r\n//しても回避が難しい。\r\n//　距離が開くと、弾速は大きく落ちるのだが。\r\n  This design also affords the HVAP shell an exceptional propellant-to-mass ratio, meaning that the projectile's velocity―at least at short ranges―is enough to overwhelm even a musha's reflexes. \r\n\r\n//　軍事識者の間では最も実用的に完成された対竜騎兵\r\n//用火器だと評価されている。\r\n//　惜しむらくは――世界中の武者にとっては幸いにも\r\n//――材料のタングステンが貴重なため量産ができない。\r\n  Together, these factors are why most analysts consider the HVAP shell the most effective conventional anti-dragoon weapon currently in use. The only thing that has kept it from changing the face of war entirely is that the essential ingredient―tungsten―<br>remains in short supply.\r\n\r\n//　もし量産が可能だったなら……将来的にそうなった\r\n//なら、戦場の様相は大きく変わるに違いなかった。\r\n//　それほどの兵器だ。\r\n\r\n//　こんなものまで撃ち放ってきたとなれば、物好きな\r\n//武者が物好きにも襲ってきたなどという可能性は最早\r\n//万が一にも有り得ない。\r\n//　敵は歴とした組織に属する者である。\r\n  Which is why I now know, beyond a shadow of a doubt, that this enemy is not just some random maniac who attacked me on a whim. Someone sent them here, someone with access to cutting-edge military hardware. \r\n\r\n//　それも高い技術力と経済力を兼ね備える――つまり\r\n//は大規模な。\r\n//　\r\n//　六波羅か。ＧＨＱか。\r\n  That means Rokuhara. Or GHQ.\r\n",
-  "pt": ""
+  "pt": "\r\n//　<RUBY text='ＡＤＨＶＡＰ'>対竜騎兵用高速徹甲弾</RUBY>。\r\n  Perfurante de Alta Velocidade (HVAP). Um projétil composto por um núcleo de tungstênio envolto numa carcaça de liga leve. A carcaça externa macia absorve o choque inicial do impacto, permitindo que o núcleo duro ― e, portanto, frágil ― penetre fundo na blindagem do alvo.\r\n\r\n//　タングステン製の弾芯を軽合金の外殻で包む二重の\r\n//構造によって、高い貫通力を得る砲弾である。\r\n//　着弾の瞬間に柔らかい外殻が潰れ、鋭い弾芯が突出\r\n//して甲鉄を貫く仕組みになっている。\r\n\r\n//　対竜騎兵用のものは重量を極めて軽くされている為\r\n//初速が非常に高く、近距離では武者の反射神経を以て\r\n//しても回避が難しい。\r\n//　距離が開くと、弾速は大きく落ちるのだが。\r\n  Esse desenho também confere ao projétil HVAP uma relação propelente-massa excepcional, o que significa que a velocidade do projétil ― ao menos em curta distância ― basta para superar até os reflexos de um musha. \r\n\r\n//　軍事識者の間では最も実用的に完成された対竜騎兵\r\n//用火器だと評価されている。\r\n//　惜しむらくは――世界中の武者にとっては幸いにも\r\n//――材料のタングステンが貴重なため量産ができない。\r\n  Juntos, esses fatores são o motivo pelo qual a maioria dos analistas considera o projétil HVAP a arma antimontaria convencional mais eficaz em uso atualmente. A única coisa que o impediu de mudar por completo a face da guerra é que o ingrediente essencial ― o tungstênio ― continua escasso.\r\n\r\n//　もし量産が可能だったなら……将来的にそうなった\r\n//なら、戦場の様相は大きく変わるに違いなかった。\r\n//　それほどの兵器だ。\r\n\r\n//　こんなものまで撃ち放ってきたとなれば、物好きな\r\n//武者が物好きにも襲ってきたなどという可能性は最早\r\n//万が一にも有り得ない。\r\n//　敵は歴とした組織に属する者である。\r\n  Por isso agora sei, sem sombra de dúvida, que este inimigo não é apenas algum maníaco aleatório que me atacou por capricho. Alguém o enviou para cá, alguém com acesso a armamento militar de ponta. \r\n\r\n//　それも高い技術力と経済力を兼ね備える――つまり\r\n//は大規模な。\r\n//　\r\n//　六波羅か。ＧＨＱか。\r\n  Isso significa Rokuhara. Ou a GHQ.\r\n"
  },
  {
   "offset": 3209,
   "en": "\r\n//　どちらであるにしても、親王を見舞うという危難に\r\n//関わるものとみて間違いはなかろう。\r\n//　俺が援護に向かう事を見越して、足止めに放たれた\r\n//のか。\r\n  While I can't be certain which my enemy serves, in light of Captain Otori's warning, their objective, at least, is clear. To keep me occupied while some other force attacks Kenchoji Temple.\r\n\r\n//　となれば尚更、ここで猶予は許されない。\r\n//　\r\n//　だがそう思う反面、俺の焦燥は幾分か治まっていた。\r\n  The need to defeat this opponent forthwith could not be more apparent. And yet, I find myself strangely calm.\r\n\r\n//　今の一弾が脳天へ氷水を浴びせる効果をもたらして\r\n//くれたのか。\r\n//　精神に冷静さが戻っている。\r\n\r\n//　この一戦を、ふと顧みられる程度には。\r\n  Perhaps that close brush with death just now helped to cool my head. As desperation fades, I take a moment to look back at the engagement I just fought.\r\n",
-  "pt": ""
+  "pt": "\r\n//　どちらであるにしても、親王を見舞うという危難に\r\n//関わるものとみて間違いはなかろう。\r\n//　俺が援護に向かう事を見越して、足止めに放たれた\r\n//のか。\r\n  Embora eu não possa ter certeza de quem meu inimigo serve, diante do aviso do Capitão Otori, seu objetivo, ao menos, está claro. Me manter ocupado enquanto outra força ataca o Templo Kenchoji.\r\n\r\n//　となれば尚更、ここで猶予は許されない。\r\n//　\r\n//　だがそう思う反面、俺の焦燥は幾分か治まっていた。\r\n  A necessidade de derrotar este oponente sem demora não poderia ser mais evidente. E, ainda assim, me encontro estranhamente calmo.\r\n\r\n//　今の一弾が脳天へ氷水を浴びせる効果をもたらして\r\n//くれたのか。\r\n//　精神に冷静さが戻っている。\r\n\r\n//　この一戦を、ふと顧みられる程度には。\r\n  Talvez aquele contato tão próximo com a morte há pouco tenha ajudado a esfriar minha cabeça. Conforme o desespero diminui, tomo um momento para rever o combate que acabei de travar.\r\n"
  },
  {
   "offset": 4262,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0040a00'>\r\n//「……どうも……奇妙だ。\r\n//　いや元より、見るからに奇妙なのだが」\r\n\"...There's something strange about this opponent. I don't just mean how they look.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0040a00'>\r\n//「……どうも……奇妙だ。\r\n//　いや元より、見るからに奇妙なのだが」\r\n\"...Há algo de estranho neste oponente. E não falo só da aparência.\"\r\n"
  },
  {
   "offset": 4543,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0050a00'>\r\n//「何処がどう、というのではなく……\r\n//　あの武者の戦い方は<RUBY text='・・・・'>おかしい</RUBY>気がする」\r\n\"It's how they're fighting. I can't put my finger on what, exactly, but something about it is㉒<I>wrong.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0050a00'>\r\n//「何処がどう、というのではなく……\r\n//　あの武者の戦い方は<RUBY text='・・・・'>おかしい</RUBY>気がする」\r\n\"É o jeito como ele luta. Não consigo apontar exatamente o quê, mas há algo de㉒<I>errado.</I>\"\r\n"
  },
  {
   "offset": 4898,
   "en": "\r\n//　敵の挙措から匂う、妙な素人臭さのためか。\r\n//　それもあろう――とは思う。\r\n  Is it the clumsiness of their attacks? Granted, that is strange...\r\n\r\n//　だが、その一言では片付け切れないような。\r\n//　別の要素が、まだ……\r\n  But no. There's something else...\r\n",
-  "pt": ""
+  "pt": "\r\n//　敵の挙措から匂う、妙な素人臭さのためか。\r\n//　それもあろう――とは思う。\r\n  Será o jeito desajeitado de seus ataques? É verdade, isso é estranho...\r\n\r\n//　だが、その一言では片付け切れないような。\r\n//　別の要素が、まだ……\r\n  Mas não. Há outra coisa...\r\n"
  },
  {
   "offset": 5234,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0060a01'>\r\n//《それはきっと――\r\n//　熱量のことね》\r\n《...It's how they're using their heat.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0060a01'>\r\n//《それはきっと――\r\n//　熱量のことね》\r\n《...É o jeito como ele usa o calor.》\r\n"
  },
  {
   "offset": 5438,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0070a00'>\r\n//「何？」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0070a00'>\r\n//「何？」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 5557,
   "en": "\r\n//　問いを向けはしたものの、俺は返答など期待してい\r\n//なかった。\r\n//　しかし村正にとっては呼び水だったらしい。\r\n\r\n//　自分自身最確認するように、推測を話し出す。\r\n  I wasn't expecting an answer, but it seems that something has clicked for my tsurugi.\r\n\r\n  She continues as if sorting out her thoughts.\r\n",
-  "pt": ""
+  "pt": "\r\n//　問いを向けはしたものの、俺は返答など期待してい\r\n//なかった。\r\n//　しかし村正にとっては呼び水だったらしい。\r\n\r\n//　自分自身最確認するように、推測を話し出す。\r\n  Eu não esperava uma resposta, mas parece que algo se encaixou para minha tsurugi.\r\n\r\n  Ela continua como se organizasse os próprios pensamentos.\r\n"
  },
  {
   "offset": 5941,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0080a01'>\r\n//《おかしいのよ。どう考えてみても。\r\n//　私の見立て違いでないなら――あの武者は\r\n//<RUBY text='・・・・・・・・・・・'>全速力で突っ込んできて</RUBY>、<RUBY text='・・・・'>そのまま</RUBY>、<RUBY text='・・・'>全力で</RUBY>\r\n//<RUBY text='・・・・・'>殴ってくる</RUBY>》\r\n《Unless I'm blind, that musha's flying㉓<I>and</I>㉒hitting at maximum power, without any shift in how the energy's distributed. That just isn't possible.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0090a01'>\r\n//《熱量が十あるとして、それを合当理の稼動\r\n//と筋力増強に五ずつ分配して<RUBY text='・・・'>いない</RUBY>の。\r\n//　どちらも十なの。……そんなこと、絶対に\r\n//有り得ないのに》\r\n《Normally a musha has to divide their energy between speed and strength. If one's at fifty percent, so's the other. But this musha's using a hundred percent of their power for both, <I>at the same time.</I>》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0080a01'>\r\n//《おかしいのよ。どう考えてみても。\r\n//　私の見立て違いでないなら――あの武者は\r\n//<RUBY text='・・・・・・・・・・・'>全速力で突っ込んできて</RUBY>、<RUBY text='・・・・'>そのまま</RUBY>、<RUBY text='・・・'>全力で</RUBY>\r\n//<RUBY text='・・・・・'>殴ってくる</RUBY>》\r\n《É estranho. Não importa como eu olhe. Se não estou enganada ― aquele musha vem avançando㉓<I>e</I>㉒atacando com força máxima, sem nenhuma mudança na distribuição de energia. Isso simplesmente não é possível.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0090a01'>\r\n//《熱量が十あるとして、それを合当理の稼動\r\n//と筋力増強に五ずつ分配して<RUBY text='・・・'>いない</RUBY>の。\r\n//　どちらも十なの。……そんなこと、絶対に\r\n//有り得ないのに》\r\n《Normalmente, um musha precisa dividir sua energia entre velocidade e força. Se uma está em cinquenta por cento, a outra também. Mas este musha está usando cem por cento do poder para ambos, <I>ao mesmo tempo.</I>》\r\n"
  },
  {
   "offset": 7111,
@@ -67,31 +67,31 @@
  {
   "offset": 7231,
   "en": "\r\n//　村正の言う事を理解するのに、若干の時間を要した。\r\n\r\n//　通常、武者は太刀打に臨む時、間合に入る寸前まで\r\n//は合当理（つまりは騎航力）に熱量を費やし、間合に\r\n//入ったら即座、甲鉄（身体強化）に熱量を注ぐ。\r\n//　この絶妙な見切りも武者の技量の一つである。\r\n  It takes me a moment to grasp what Muramasa is saying.\r\n\r\n  In musha combat, proper distribution of energy is a vital component of victory. Ideally, you want to feed one hundred percent of your energy to your engines while maneuvering, then shift all of that energy to your armor and muscles the instant you're close enough to attack. Musha train for years in order to time this shift effectively.\r\n\r\n//　村正の表現を借りれば、斬り合うまでは合当理に十、\r\n//斬り合う時は合当理の分を零にして、筋力強化に十の\r\n//熱量を注ぐという事だ。\r\n//　これは太刀打における鉄則であり、まず例外はない。\r\n\r\n//　見切りの手間を厭って騎航と甲鉄に五ずつ分配した\r\n//まま漫然と戦うような武者は、決して太刀打の勝利を\r\n//得られないからだ。\r\n  A musha who has not yet developed this skill―or one who is simply too lazy―<I>could,</I>㉗if he wished, keep his energy distributed fifty-fifty. Such a pilot would be disadvantaged, but it is certainly possible.\r\n\r\n//　無論、有利不利を無視し、できるできないを問うの\r\n//なら――そうした熱量の使い方は、<RUBY text='・・・'>できる</RUBY>。やろうと\r\n//思えば誰にでも。\r\n//　だが村正の云う敵の奇妙さは、そういう事ではない。\r\n  This is not what my enemy is doing, says Muramasa. They are devoting one hundred percent of their energy to speed㉓<I>and</I>㉔one hundred percent to power―<I>simultaneously.</I>\r\n\r\n//　どちらも十。\r\n//　合当理稼動も身体強化も全力で――全速力のままに\r\n//最大筋力を駆使して襲い来る。\r\n\r\n//　敵騎の異様な<RUBY text='パワー'>勢威</RUBY>はそこに起因するものだったのか。\r\n//　\r\n//　しかし、有り得ない。\r\n\r\n//　分量でいえば、十の力を持つ者も八の力を持つ者も\r\n//いる。個人差はまちまちだ。\r\n//　通常の人間の倍の熱量を有する武者とて、この世の\r\n//何処かにはいるだろう。\r\n\r\n//　だが比率でいえば、どんな者も<RUBY text='・・'>十割</RUBY>の力しか有して\r\n//いないのだ。平均値の二十割の力を持つ人間がいたと\r\n//しても、それは本人にとっては十割である。\r\n//　それはそういうものだ。当然、そうなのだ。\r\n  That would indeed explain why their attacks carry such titanic force. But of course, it is impossible.\r\n\r\n  Yes, one musha may possess more total energy than another. This is a physical attribute which varies from person to person. There may even be a musha somewhere with heat capacity fully twice that of a normal man.\r\n\r\n  But even that musha must divide his power. Even that musha can only use, at most, one hundred percent. That is simply how it works.\r\n\r\n//　その常識を覆している。\r\n//　<RUBY text='・・・・・・・・・'>二〇〇％の力を使う</RUBY>という反則を、対峙する敵騎は\r\n//犯している。\r\n  Well, not for this musha, says Muramasa. They're using two hundred, and to hell with the rules.\r\n\r\n//　少なくとも村正はそう云う。\r\n//　\r\n//　……………………。\r\n  All right. How?\r\n",
-  "pt": ""
+  "pt": "\r\n//　村正の言う事を理解するのに、若干の時間を要した。\r\n\r\n//　通常、武者は太刀打に臨む時、間合に入る寸前まで\r\n//は合当理（つまりは騎航力）に熱量を費やし、間合に\r\n//入ったら即座、甲鉄（身体強化）に熱量を注ぐ。\r\n//　この絶妙な見切りも武者の技量の一つである。\r\n  Levo um momento para compreender o que Muramasa está dizendo.\r\n\r\n  No combate musha, a distribuição adequada de energia é um componente vital da vitória. O ideal é alimentar cem por cento da sua energia aos motores durante a manobra e, no instante em que estiver perto o bastante para atacar, transferir toda ela para a armadura e os músculos. Musha treinam por anos para cronometrar essa troca com eficácia.\r\n\r\n//　村正の表現を借りれば、斬り合うまでは合当理に十、\r\n//斬り合う時は合当理の分を零にして、筋力強化に十の\r\n//熱量を注ぐという事だ。\r\n//　これは太刀打における鉄則であり、まず例外はない。\r\n\r\n//　見切りの手間を厭って騎航と甲鉄に五ずつ分配した\r\n//まま漫然と戦うような武者は、決して太刀打の勝利を\r\n//得られないからだ。\r\n  Um musha que ainda não desenvolveu essa habilidade ― ou que é simplesmente preguiçoso demais ― <I>poderia,</I>㉗se quisesse, manter sua energia distribuída meio a meio. Um piloto assim ficaria em desvantagem, mas é certamente possível.\r\n\r\n//　無論、有利不利を無視し、できるできないを問うの\r\n//なら――そうした熱量の使い方は、<RUBY text='・・・'>できる</RUBY>。やろうと\r\n//思えば誰にでも。\r\n//　だが村正の云う敵の奇妙さは、そういう事ではない。\r\n  Não é isso que meu inimigo está fazendo, diz Muramasa. Ele está dedicando cem por cento da energia à velocidade㉓<I>e</I>㉔cem por cento à força ― <I>simultaneamente.</I>\r\n\r\n//　どちらも十。\r\n//　合当理稼動も身体強化も全力で――全速力のままに\r\n//最大筋力を駆使して襲い来る。\r\n\r\n//　敵騎の異様な<RUBY text='パワー'>勢威</RUBY>はそこに起因するものだったのか。\r\n//　\r\n//　しかし、有り得ない。\r\n\r\n//　分量でいえば、十の力を持つ者も八の力を持つ者も\r\n//いる。個人差はまちまちだ。\r\n//　通常の人間の倍の熱量を有する武者とて、この世の\r\n//何処かにはいるだろう。\r\n\r\n//　だが比率でいえば、どんな者も<RUBY text='・・'>十割</RUBY>の力しか有して\r\n//いないのだ。平均値の二十割の力を持つ人間がいたと\r\n//しても、それは本人にとっては十割である。\r\n//　それはそういうものだ。当然、そうなのだ。\r\n  Isso de fato explicaria por que seus ataques carregam uma força tão titânica. Mas é claro que é impossível.\r\n\r\n  Sim, um musha pode possuir mais energia total que outro. É um atributo físico que varia de pessoa para pessoa. Pode até haver algum musha em algum lugar com capacidade de calor o dobro da de um homem normal.\r\n\r\n  Mas mesmo esse musha precisa dividir seu poder. Mesmo esse musha só pode usar, no máximo, cem por cento. É simplesmente assim que funciona.\r\n\r\n//　その常識を覆している。\r\n//　<RUBY text='・・・・・・・・・'>二〇〇％の力を使う</RUBY>という反則を、対峙する敵騎は\r\n//犯している。\r\n  Bem, não para este musha, diz Muramasa. Ele está usando duzentos, e que se danem as regras.\r\n\r\n//　少なくとも村正はそう云う。\r\n//　\r\n//　……………………。\r\n  Certo. Como?\r\n"
  },
  {
   "offset": 10876,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0110a00'>\r\n//「奇矯な言動と兼ね合わせれば、何か薬物を\r\n//用いているとも考えられるが」\r\n\"The pilot could be on some kind of drug. It would also explain why nothing they've said makes sense.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/012vs0110a00'>\r\n//「奇矯な言動と兼ね合わせれば、何か薬物を\r\n//用いているとも考えられるが」\r\n\"Combinado com suas falas esquisitas, pode-se considerar que o piloto esteja usando algum tipo de droga. Isso também explicaria por que nada do que ele diz faz sentido.\"\r\n"
  },
  {
   "offset": 11184,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0120a01'>\r\n//《そうね。\r\n//　熱量そのものも何だか異常だし……それは\r\n//有りそう》\r\n《There's something weird about the energy itself, too... so maybe.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0130a01'>\r\n//《でも――》\r\n《But that's―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0120a01'>\r\n//《そうね。\r\n//　熱量そのものも何だか異常だし……それは\r\n//有りそう》\r\n《Talvez. A energia em si também está estranha... então é possível.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/012vs0130a01'>\r\n//《でも――》\r\n《Mas é―》\r\n"
  },
  {
   "offset": 11594,
   "en": "\r\n//　それだけではやはり、説明がつかないか。\r\n  Not enough to explain it, no. There has to be something else.\r\n",
-  "pt": ""
+  "pt": "\r\n//　それだけではやはり、説明がつかないか。\r\n  Não basta para explicar, não. Deve haver algo mais.\r\n"
  },
  {
   "offset": 11733,
   "en": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc01/012vs0140b33'>\r\n//《知ってるぜーー！\r\n//　おまえの好きな物は母親と死体だあーー!!》\r\n《I KNOW WHAT YOU LIKE! MOMMIES! AND ROTTING FLEEEEEEEEESH!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【小夏】\r\n<voice name='小夏' class='小夏' src='voice/mc01/012vs0140b33'>\r\n//《知ってるぜーー！\r\n//　おまえの好きな物は母親と死体だあーー!!》\r\n《EU SEI O QUE VOCÊ GOSTA! MAMÃES! E CARNE APODRECENDOOOO!》\r\n"
  },
  {
   "offset": 11989,
   "en": "\r\n//　だが、謎の答えを出す暇はなく。\r\n//　悪魔の騎体はまたしても、颶風を友とし襲い来る。\r\n  But the question is set aside as, with the wrath of a hurricane, the demon falls upon us once more.\r\n",
-  "pt": ""
+  "pt": "\r\n//　だが、謎の答えを出す暇はなく。\r\n//　悪魔の騎体はまたしても、颶風を友とし襲い来る。\r\n  Mas não há tempo para responder ao enigma, pois, com a fúria de um furacão, o demônio cai sobre nós mais uma vez.\r\n"
  }
 ]

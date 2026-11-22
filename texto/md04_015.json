@@ -2,52 +2,52 @@
  {
   "offset": 213,
   "en": "December 1",
-  "pt": ""
+  "pt": "1º de dezembro"
  },
  {
   "offset": 231,
   "en": "8:21 AM",
-  "pt": ""
+  "pt": "8:21"
  },
  {
   "offset": 246,
   "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150010b21'>\r\n//「入道様！\r\n//　敵が再び攻撃を開始したとのことです！」\r\n\"Master! The enemy's bombarding us again!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150010b21'>\r\n//「入道様！\r\n//　敵が再び攻撃を開始したとのことです！」\r\n\"Mestre! O inimigo voltou a nos bombardear!\"\r\n"
  },
  {
   "offset": 465,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0150020a09'>\r\n//「ふ、ふっ、ふぅ。\r\n//　夜明けと共に来るかと思っておれば、随分\r\n//<RUBY text='・・・・'>ゆっくり</RUBY>だのう……？」\r\n\"Heh heh heh. And here I thought they would begin at first light. What took them so long, I wonder?\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0150030a09'>\r\n//「昨夜の薬が効いたかな。\r\n//　何でもやってみるものよ」\r\n\"Did our little venture sap their strength? It never hurts to try your options.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0150020a09'>\r\n//「ふ、ふっ、ふぅ。\r\n//　夜明けと共に来るかと思っておれば、随分\r\n//<RUBY text='・・・・'>ゆっくり</RUBY>だのう……？」\r\n\"Eh eh eh. E eu achando que começariam com o raiar do dia. Por que terão demorado tanto, me pergunto?\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0150030a09'>\r\n//「昨夜の薬が効いたかな。\r\n//　何でもやってみるものよ」\r\n\"Será que nossa pequena empreitada lhes tirou as forças? Nunca custa tentar as alternativas.\"\r\n"
  },
  {
   "offset": 1073,
   "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150040b21'>\r\n//「……あのぅ。\r\n//　こんな質問を、どうかお許し下さい」\r\n\"...Um, Master? If I might be permitted a question...\"\r\n\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150050b21'>\r\n//「六波羅は、勝ちますか？」\r\n\"Will we win?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150040b21'>\r\n//「……あのぅ。\r\n//　こんな質問を、どうかお許し下さい」\r\n\"...Hã, Mestre? Se me permite uma pergunta...\"\r\n\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150050b21'>\r\n//「六波羅は、勝ちますか？」\r\n\"Nós vamos vencer?\"\r\n"
  },
  {
   "offset": 1447,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0150060a09'>\r\n//「……うむ……。\r\n//　そなたやそなたの姉のためにも、勝たねば\r\n//なるまいのう」\r\n\"Well... I suppose I must see that we do, mustn't I? If not for my sake, then for you and your sister.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0150060a09'>\r\n//「……うむ……。\r\n//　そなたやそなたの姉のためにも、勝たねば\r\n//なるまいのう」\r\n\"Bem... acho que preciso garantir que vençamos, não é? Se não por mim, então por você e sua irmã.\"\r\n"
  },
  {
   "offset": 1761,
   "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150070b21'>\r\n//「入道様」\r\n\"Master!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150070b21'>\r\n//「入道様」\r\n\"Mestre!\"\r\n"
  },
  {
   "offset": 1883,
   "en": "\r\n//【ｅｔｃ／伝令】\r\n<voice name='ｅｔｃ／伝令' class='その他男声' src='voice/md04/0150080e223'>\r\n//「閣下！\r\n//　遊佐中将閣下！」\r\n\"General! General Yusa!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／伝令】\r\n<voice name='ｅｔｃ／伝令' class='その他男声' src='voice/md04/0150080e223'>\r\n//「閣下！\r\n//　遊佐中将閣下！」\r\n\"General! General Yusa!\"\r\n"
  },
  {
   "offset": 2082,
   "en": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150090b21'>\r\n//「あっ、無礼者！」\r\n\"How dare you barge in here!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【義清】\r\n<voice name='義清' class='義清' src='voice/md04/0150090b21'>\r\n//「あっ、無礼者！」\r\n\"Que ousadia entrar assim!?\"\r\n"
  },
  {
   "offset": 2237,
   "en": "\r\n//【ｅｔｃ／伝令】\r\n<voice name='ｅｔｃ／伝令' class='その他男声' src='voice/md04/0150100e223'>\r\n//「御容赦！\r\n//　古河よりの急報なれば！」\r\n\"Your pardon, General! I carry an urgent message from Koga!\"\r\n\r\n//【ｅｔｃ／伝令】\r\n<voice name='ｅｔｃ／伝令' class='その他男声' src='voice/md04/0150110e223'>\r\n//「古河よりの……最終連絡であります!!」\r\n\"The base is being overrun!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／伝令】\r\n<voice name='ｅｔｃ／伝令' class='その他男声' src='voice/md04/0150100e223'>\r\n//「御容赦！\r\n//　古河よりの急報なれば！」\r\n\"Perdão, General! Trago uma mensagem urgente de Koga!\"\r\n\r\n//【ｅｔｃ／伝令】\r\n<voice name='ｅｔｃ／伝令' class='その他男声' src='voice/md04/0150110e223'>\r\n//「古河よりの……最終連絡であります!!」\r\n\"Estão tomando a base!\"\r\n"
  },
  {
   "offset": 2695,
@@ -57,6 +57,6 @@
  {
   "offset": 2819,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0150130a08'>\r\n//「……何ですって？」\r\n\"...What did you just say?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0150130a08'>\r\n//「……何ですって？」\r\n\"...O que foi que você disse?\"\r\n"
  }
 ]

@@ -2,7 +2,7 @@
  {
   "offset": 220,
   "en": "\r\n//　……そういえば、台所から持ち出したこの<RUBY text='すりこぎ'>擂粉木</RUBY>。\r\n//　人を適度な威力で叩き伏せるのに向いていそうだが\r\n//……？\r\n  Come to think of it, I still have that pestle from the galley. It happens to be just the right size and weight to make an effective bludgeon. Should I...?\r\n",
-  "pt": ""
+  "pt": "\r\n//　……そういえば、台所から持ち出したこの<RUBY text='すりこぎ'>擂粉木</RUBY>。\r\n//　人を適度な威力で叩き伏せるのに向いていそうだが\r\n//……？\r\n  Pensando bem, ainda estou com aquele pilão que peguei na cozinha. Por acaso ele tem o tamanho e o peso exatos para servir de porrete eficaz. Será que eu...?\r\n"
  },
  {
   "offset": 586,
@@ -12,7 +12,7 @@
  {
   "offset": 598,
   "en": "Use the pestle",
-  "pt": ""
+  "pt": "Usar o pilão"
  },
  {
   "offset": 620,
@@ -22,6 +22,6 @@
  {
   "offset": 632,
   "en": "Use my bare hands",
-  "pt": ""
+  "pt": "Usar minhas próprias mãos"
  }
 ]

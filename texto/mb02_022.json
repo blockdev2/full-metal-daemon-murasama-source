@@ -2,52 +2,52 @@
  {
   "offset": 213,
   "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220010b20'>\r\n//「……この辺りが限界ですね」\r\n\"...This is it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220010b20'>\r\n//「……この辺りが限界ですね」\r\n\"...Aqui já é o limite.\"\r\n"
  },
  {
   "offset": 378,
   "en": "\r\n//　廊下を抜け、階段を三度登り。\r\n//　評議にでも使われるのであろう広間にまで達して、\r\n//先行の密偵は足を止めた。\r\n  After climbing three flights of stairs, we enter a large room, likely some sort of meeting space.\r\n",
-  "pt": ""
+  "pt": "\r\n//　廊下を抜け、階段を三度登り。\r\n//　評議にでも使われるのであろう広間にまで達して、\r\n//先行の密偵は足を止めた。\r\n  Depois de subir três lances de escada, entramos num salão amplo, provavelmente algum tipo de sala de reuniões.\r\n"
  },
  {
   "offset": 654,
   "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220020b20'>\r\n//「ここから先は警備に隙間が無くなります。\r\n//　やり過ごすのは難しいでしょう」\r\n\"Security is at its tightest from here. You won't make it past unnoticed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220020b20'>\r\n//「ここから先は警備に隙間が無くなります。\r\n//　やり過ごすのは難しいでしょう」\r\n\"A partir daqui a segurança não tem brechas. Vai ser difícil passar despercebido.\"\r\n"
  },
  {
   "offset": 947,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220030a00'>\r\n//「わかりました。\r\n//　この先の道順は？」\r\n\"Understood. How do we reach His Grace?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220030a00'>\r\n//「わかりました。\r\n//　この先の道順は？」\r\n\"Entendido. Como chegamos até Sua Graça?\"\r\n"
  },
  {
   "offset": 1143,
   "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220040b20'>\r\n//「突き当たりの階段を、この二つ上の階まで\r\n//登って下さい。\r\n//　最上階ではありませんからご注意を」\r\n\"Take the first staircase two flights up. There are more floors above that, so don't go too far.\"\r\n\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220050b20'>\r\n//「そこから真っ直ぐに廊下をゆき、三つ目の\r\n//枝道で曲がり、進んだ先が目的の場所です」\r\n\"From there, head straight down the hall until you reach the third intersection. Turn right. That will take you there.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220040b20'>\r\n//「突き当たりの階段を、この二つ上の階まで\r\n//登って下さい。\r\n//　最上階ではありませんからご注意を」\r\n\"Peguem a escada do fim do corredor e subam dois andares a partir deste. Ainda há andares acima, então não vão longe demais.\"\r\n\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220050b20'>\r\n//「そこから真っ直ぐに廊下をゆき、三つ目の\r\n//枝道で曲がり、進んだ先が目的の場所です」\r\n\"De lá, sigam reto pelo corredor até a terceira bifurcação. Virem à direita. Isso os levará até lá.\"\r\n"
  },
  {
   "offset": 1832,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220060a00'>\r\n//「…………。\r\n//　微妙に遠い」\r\n\"...Farther than I hoped.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220060a00'>\r\n//「…………。\r\n//　微妙に遠い」\r\n\"...Mais longe do que eu esperava.\"\r\n"
  },
  {
   "offset": 1999,
   "en": "\r\n//　つまりはリスクが高い。\r\n  That means much greater risk.\r\n",
-  "pt": ""
+  "pt": "\r\n//　つまりはリスクが高い。\r\n  Isso significa um risco muito maior.\r\n"
  },
  {
   "offset": 2082,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220070a02'>\r\n//「おい密偵。\r\n//　その部屋は、ここからみてどっちだ？」\r\n\"Hey, spy. Which way's his room from right here?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220070a02'>\r\n//「おい密偵。\r\n//　その部屋は、ここからみてどっちだ？」\r\n\"Ei, espião. Daqui, pra que lado fica o quarto dele?\"\r\n"
  },
  {
   "offset": 2308,
   "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220080b20'>\r\n//「方角ですか？\r\n//　多分……ほぼ真上になるかと思います」\r\n\"You mean which direction? It should be directly overhead...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220080b20'>\r\n//「方角ですか？\r\n//　多分……ほぼ真上になるかと思います」\r\n\"A direção? Deve ser... quase exatamente acima de nós.\"\r\n"
  },
  {
   "offset": 2558,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220090a02'>\r\n//「湊斗さん。\r\n//　<RUBY text='・・・・'>突き破り</RUBY>ましょう」\r\n\"Right.\" She turns to me. \"I say we punch through the ceiling.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220090a02'>\r\n//「湊斗さん。\r\n//　<RUBY text='・・・・'>突き破り</RUBY>ましょう」\r\n\"Certo.\" Ela se volta para mim. \"Eu digo pra atravessarmos o teto.\"\r\n"
  },
  {
   "offset": 2804,
@@ -62,37 +62,37 @@
  {
   "offset": 3049,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220120a00'>\r\n//「その手があったか」\r\n\"Good idea.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220120a00'>\r\n//「その手があったか」\r\n\"Boa ideia.\"\r\n"
  },
  {
   "offset": 3189,
   "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220130b20'>\r\n//「ほ、本気ですか？」\r\n\"Are you serious?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220130b20'>\r\n//「ほ、本気ですか？」\r\n\"Você está falando sério?\"\r\n"
  },
  {
   "offset": 3344,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220140a00'>\r\n//「最も合理的です。\r\n//　最短距離であり、且つ派手な騒ぎを起こす\r\n//という方針にも沿う」\r\n\"It's practical. The shortest route, and the one which will do the most damage.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220140a00'>\r\n//「最も合理的です。\r\n//　最短距離であり、且つ派手な騒ぎを起こす\r\n//という方針にも沿う」\r\n\"É o mais prático. A rota mais curta e também a que vai causar o maior estrago.\"\r\n"
  },
  {
   "offset": 3647,
   "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220150b20'>\r\n//「……はぁ。\r\n//　決められたのなら、止めはしませんが」\r\n\"If you're certain...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220150b20'>\r\n//「……はぁ。\r\n//　決められたのなら、止めはしませんが」\r\n\"Se vocês têm certeza...\"\r\n"
  },
  {
   "offset": 3855,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220160a00'>\r\n//「後は我々の領分。\r\n//　貴方はどうぞお戻り下さい」\r\n\"Please leave the rest to us. You should get out of here while you can.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220160a00'>\r\n//「後は我々の領分。\r\n//　貴方はどうぞお戻り下さい」\r\n\"Deixem o resto conosco. Você deveria sair daqui enquanto pode.\"\r\n"
  },
  {
   "offset": 4098,
   "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220170b20'>\r\n//「わかりました……」\r\n\"Very well...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0220170b20'>\r\n//「わかりました……」\r\n\"Entendido...\"\r\n"
  },
  {
   "offset": 4249,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220180a02'>\r\n//「じゃあ行きましょう、湊斗さん。\r\n//　ここで装甲して構いませんね？」\r\n\"Let's get going. We can armor up now, right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220180a02'>\r\n//「じゃあ行きましょう、湊斗さん。\r\n//　ここで装甲して構いませんね？」\r\n\"Vamos indo. Podemos nos blindar agora, certo?\"\r\n"
  },
  {
   "offset": 4493,
@@ -102,7 +102,7 @@
  {
   "offset": 4617,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220200a02'>\r\n//「湊斗さん？」\r\n\"Sir?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220200a02'>\r\n//「湊斗さん？」\r\n\"Senhor?\"\r\n"
  },
  {
   "offset": 4742,
@@ -112,12 +112,12 @@
  {
   "offset": 4875,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220220a02'>\r\n//「……？\r\n//　おい、いつまで突っ立ってんだあんた」\r\n\"...Hey, spy. What're you doing?\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220230a02'>\r\n//「さっさと逃げ――」\r\n\"He said get outta―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220220a02'>\r\n//「……？\r\n//　おい、いつまで突っ立ってんだあんた」\r\n\"...Ei, espião. O que você está fazendo?\"\r\n\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220230a02'>\r\n//「さっさと逃げ――」\r\n\"Ele disse pra cair fora―\"\r\n"
  },
  {
   "offset": 5221,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220240a00'>\r\n//「一条！　廊下へ戻れ！」\r\n\"Back to the corridor! NOW!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220240a00'>\r\n//「一条！　廊下へ戻れ！」\r\n\"Voltem para o corredor! AGORA!\"\r\n"
  },
  {
   "offset": 5383,
@@ -127,22 +127,22 @@
  {
   "offset": 5493,
   "en": "\r\n//　遅かった。遅過ぎた。\r\n//　周囲を取り囲む武者――武者――武者。\r\n\r\n//　異形の竜騎兵の包囲陣。\r\n//　それは最早、這い出る隙間も無かった。\r\n  Too late. We are already surrounded, by dragoons of a type I've never encountered.\r\n\r\n  There's nowhere to run.\r\n",
-  "pt": ""
+  "pt": "\r\n//　遅かった。遅過ぎた。\r\n//　周囲を取り囲む武者――武者――武者。\r\n\r\n//　異形の竜騎兵の包囲陣。\r\n//　それは最早、這い出る隙間も無かった。\r\n  Tarde demais. Já estamos cercados, por dragões-cavaleiros de um tipo que nunca encontrei.\r\n\r\n  Não há para onde fugir.\r\n"
  },
  {
   "offset": 5819,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220260a02'>\r\n//「なっ――」\r\n\"What the―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220260a02'>\r\n//「なっ――」\r\n\"O quê―\"\r\n"
  },
  {
   "offset": 5948,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220270a01'>\r\n//《……そんなっ!?\r\n//　いつの間に!!》\r\n《Where'd they come from!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220270a01'>\r\n//《……そんなっ!?\r\n//　いつの間に!!》\r\n《De onde eles vieram!?》\r\n"
  },
  {
   "offset": 6132,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220280b37'>\r\n//「<RUBY text='ステルス'>対探査迷彩</RUBY>というものが大英連邦の独占物\r\n//であると――全く前例の無い新技術であると\r\n//信じていたのですか？\r\n//　こんな、誰でも欲しがりそうな技術が」\r\n\"Many believe that true stealth is a modern invention. They forget that since the dawn of time, there has been no greater advantage in war.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220280b37'>\r\n//「<RUBY text='ステルス'>対探査迷彩</RUBY>というものが大英連邦の独占物\r\n//であると――全く前例の無い新技術であると\r\n//信じていたのですか？\r\n//　こんな、誰でも欲しがりそうな技術が」\r\n\"Muitos acreditam que a verdadeira furtividade é uma invenção moderna. Esquecem que, desde o início dos tempos, nunca houve vantagem maior na guerra.\"\r\n"
  },
  {
   "offset": 6631,
@@ -152,22 +152,22 @@
  {
   "offset": 6741,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220300b37'>\r\n//「とんでもありません。<RUBY text='・・'>我々</RUBY>は古くから――\r\n//とてもとても古くから、同じ武者の<RUBY text='かんかく'>探査</RUBY>さえ\r\n//幻惑する力を追求してきましたとも。\r\n//　この醜い姿を優しい闇に隠すために」\r\n\"For centuries, we of the shadows have sought ways to deceive even a musha's senses. All to hide our sins in gentle darkness...\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220310b37'>\r\n//「<RUBY text='・・・・'>貴方たち</RUBY>に優しい死を与えるために」\r\n\"And bring to you the gentle death.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220300b37'>\r\n//「とんでもありません。<RUBY text='・・'>我々</RUBY>は古くから――\r\n//とてもとても古くから、同じ武者の<RUBY text='かんかく'>探査</RUBY>さえ\r\n//幻惑する力を追求してきましたとも。\r\n//　この醜い姿を優しい闇に隠すために」\r\n\"Durante séculos, nós das sombras buscamos meios de enganar até os sentidos de um musha. Tudo para esconder nossos pecados numa escuridão gentil...\"\r\n\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220310b37'>\r\n//「<RUBY text='・・・・'>貴方たち</RUBY>に優しい死を与えるために」\r\n\"E trazer a vocês a morte gentil.\"\r\n"
  },
  {
   "offset": 7495,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220320a00'>\r\n//（この男……！）\r\n(That's...!)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220320a00'>\r\n//（この男……！）\r\n(Esse homem...!)\r\n"
  },
  {
   "offset": 7629,
   "en": "\r\n//　あの時の<RUBY text='けたい'>怪態</RUBY>な侍だ。\r\n//　能舞台で、遊佐童心に成りすましていた……\r\n  The man I saw in the theater!\r\n",
-  "pt": ""
+  "pt": "\r\n//　あの時の<RUBY text='けたい'>怪態</RUBY>な侍だ。\r\n//　能舞台で、遊佐童心に成りすましていた……\r\n  O homem que vi no teatro!\r\n"
  },
  {
   "offset": 7806,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220330b37'>\r\n//「無論、それが大英連邦の現技術ほどの水準\r\n//にあったとは申しませんが。\r\n//　動きを抑えれば、劒冑の熱源探査すら騙し\r\n//おおせる……その程度には達しています」\r\n\"I won't claim that ours is as effective as what the British have developed... but it has its strengths. As long as we remain perfectly still, even our heat is undetectable.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220330b37'>\r\n//「無論、それが大英連邦の現技術ほどの水準\r\n//にあったとは申しませんが。\r\n//　動きを抑えれば、劒冑の熱源探査すら騙し\r\n//おおせる……その程度には達しています」\r\n\"Não vou dizer que a nossa seja tão eficaz quanto o que os britânicos desenvolveram... mas tem suas vantagens. Enquanto ficarmos perfeitamente imóveis, até o nosso calor é indetectável.\"\r\n"
  },
  {
   "offset": 8315,
@@ -177,102 +177,102 @@
  {
   "offset": 8449,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/0220350b40'>\r\n//《ふむ。\r\n//　そういえば月山鍛冶の一派がさような隠遁\r\n//の業を究めていると、師に伺った事があった\r\n//……》\r\n《Hmm... The work of Gassan smiths, perhaps. My master spoke of their affinity for such tricks.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/0220350b40'>\r\n//《ふむ。\r\n//　そういえば月山鍛冶の一派がさような隠遁\r\n//の業を究めていると、師に伺った事があった\r\n//……》\r\n《Hmm... O trabalho dos ferreiros Gassan, talvez. Meu mestre falou da afinidade deles com esses truques.》\r\n"
  },
  {
   "offset": 8799,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220360a01'>\r\n//《先に言いなさいよ！　能無し！》\r\n《Maybe you could have, I don't know, said something!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220360a01'>\r\n//《先に言いなさいよ！　能無し！》\r\n《Talvez você pudesse ter, sei lá, dito alguma coisa!?》\r\n"
  },
  {
   "offset": 9009,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220370a00'>\r\n//（……人の事は言えんぞ。俺達も）\r\n(...We're in no position to complain.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220370a00'>\r\n//（……人の事は言えんぞ。俺達も）\r\n(...Não temos moral para reclamar.)\r\n"
  },
  {
   "offset": 9193,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/0220380b40'>\r\n//《ふん、忘れておったわ。\r\n//　吾には興味のない事なのでな》\r\n《Hmph. I'd forgotten. Such chicanery does not interest me.》\r\n\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/0220390b40'>\r\n//《先刻もそう言うたであろうが？》\r\n《I said as much a moment ago. Weren't you listening?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/0220380b40'>\r\n//《ふん、忘れておったわ。\r\n//　吾には興味のない事なのでな》\r\n《Hmph. Eu me esqueci. Essas artimanhas não me interessam.》\r\n\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/0220390b40'>\r\n//《先刻もそう言うたであろうが？》\r\n《Eu disse isso há pouco. Não estava ouvindo?》\r\n"
  },
  {
   "offset": 9634,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220400a01'>\r\n//《忘れました。\r\n//　興味ないから！》\r\n《Must have filtered it out. Hard to keep tabs on a bunch of hot air!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220400a01'>\r\n//《忘れました。\r\n//　興味ないから！》\r\n《Devo ter deixado passar. Difícil prestar atenção num monte de conversa fiada!》\r\n"
  },
  {
   "offset": 9863,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220410a09'>\r\n//「しかし驚いたのう。\r\n//　いや、あるいはかくもあらんと思えばこそ、\r\n//常闇の手まで煩わせて布陣を整えたのだが」\r\n\"I must say I'm surprised. Oh, I considered it possible. That's why Jo'an's men are here.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220420a09'>\r\n//「まさか、本当に劒冑を持つ者であろうとは」\r\n\"But I didn't actually㉒<I>expect</I> you to have tsurugi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220410a09'>\r\n//「しかし驚いたのう。\r\n//　いや、あるいはかくもあらんと思えばこそ、\r\n//常闇の手まで煩わせて布陣を整えたのだが」\r\n\"Devo dizer que estou surpreso. Ah, eu considerei possível. É por isso que os homens de Jo'an estão aqui.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220420a09'>\r\n//「まさか、本当に劒冑を持つ者であろうとは」\r\n\"Mas eu não ㉒<I>esperava</I> que vocês tivessem tsurugi.\"\r\n"
  },
  {
   "offset": 10425,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220430a02'>\r\n//「……坊主！」\r\n\"You!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220430a02'>\r\n//「……坊主！」\r\n\"Você!\"\r\n"
  },
  {
   "offset": 10550,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220440a00'>\r\n//「古河公方……」\r\n\"General...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220440a00'>\r\n//「古河公方……」\r\n\"General...\"\r\n"
  },
  {
   "offset": 10684,
   "en": "\r\n//　遊佐童心。彼までもが、いる。\r\n//　普陀楽城の陰の支配者――とは最早呼べまい。表に\r\n//おいても王である事を自ら豪語した、<RUBY text='たいひょう'>大兵</RUBY>の僧。\r\n  Yusa Doshin. The warrior-<br>priest stands there too, his presence as commanding as that of a king―which, after that display on the stage, he is in all but name.\r\n",
-  "pt": ""
+  "pt": "\r\n//　遊佐童心。彼までもが、いる。\r\n//　普陀楽城の陰の支配者――とは最早呼べまい。表に\r\n//おいても王である事を自ら豪語した、<RUBY text='たいひょう'>大兵</RUBY>の僧。\r\n  Yusa Doshin. O sacerdote guerreiro também está ali, com uma presença tão imponente quanto a de um rei ― que, depois daquela exibição no palco, ele é em tudo menos no nome.\r\n"
  },
  {
   "offset": 11092,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220450a00'>\r\n//「何故、と尋ねた方が宜しいか」\r\n\"Should I ask what gave us away?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220450a00'>\r\n//「何故、と尋ねた方が宜しいか」\r\n\"Devo perguntar o que nos entregou?\"\r\n"
  },
  {
   "offset": 11268,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220460a09'>\r\n//「訊いてくれると、こちらは格好がつくのう」\r\n\"That would be in keeping with form.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220460a09'>\r\n//「訊いてくれると、こちらは格好がつくのう」\r\n\"Se você perguntar, isso mantém as formas.\"\r\n"
  },
  {
   "offset": 11466,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220470a00'>\r\n//「何故？」\r\n\"What gave us away?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220470a00'>\r\n//「何故？」\r\n\"O que nos entregou?\"\r\n"
  },
  {
   "offset": 11599,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220480a09'>\r\n//「ふっふぅ！\r\n//　おぬしらは隠密などに向いておらんという\r\n//ことよ」\r\n\"Why,㉓<I>everything!</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220480a09'>\r\n//「ふっふぅ！\r\n//　おぬしらは隠密などに向いておらんという\r\n//ことよ」\r\n\"Ora,㉓<I>tudo!</I>\"\r\n"
  },
  {
   "offset": 11822,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220490a00'>\r\n//「……何とも耳に痛い限り」\r\n\"...I suspected as much.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220490a00'>\r\n//「……何とも耳に痛い限り」\r\n\"...Eu bem suspeitava.\"\r\n"
  },
  {
   "offset": 11984,
   "en": "\r\n//　耳鳴りがしそうなほど。\r\n  It's still painful to hear.\r\n",
-  "pt": ""
+  "pt": "\r\n//　耳鳴りがしそうなほど。\r\n  Ainda dói ouvir isso.\r\n"
  },
  {
   "offset": 12065,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220500a09'>\r\n//「ま、おぬしらを責めるのは酷かな。\r\n//　おぬしらを動かした者の問題が大であろう」\r\n\"Not that you're to blame for your shortcomings. Some people just make awful <br>spies.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220500a09'>\r\n//「ま、おぬしらを責めるのは酷かな。\r\n//　おぬしらを動かした者の問題が大であろう」\r\n\"Não que vocês tenham culpa por suas limitações. Algumas pessoas simplesmente são péssimas como espiões.\"\r\n"
  },
  {
   "offset": 12369,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220510a09'>\r\n//「雷蝶殿にも困ったものじゃて……」\r\n\"Really... Raicho should have known better.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220510a09'>\r\n//「雷蝶殿にも困ったものじゃて……」\r\n\"Francamente... Raicho deveria saber melhor.\"\r\n"
  },
  {
   "offset": 12562,
   "en": "\r\n//　ちらり、と入道が視線を動かす。\r\n  He shifts his gaze a fraction.<?>",
-  "pt": ""
+  "pt": "\r\n//　ちらり、と入道が視線を動かす。\r\n  Ele desvia o olhar por uma fração de segundo.<?>"
  },
  {
   "offset": 12659,
   "en": "\r\n As if on cue, Chief Iwata's body topples to the floor. A knife is embedded at the base of her skull.\r\n\r\n//　まるでそれを待ち侘びていたかのように、立ち尽く\r\n//していた岩田女史がぐらりと<RUBY text='かし'>傾</RUBY>いだ。\r\n//　そのまま無力に……無抵抗に倒れ伏す。\r\n\r\n//　<RUBY text='うなじ'>項</RUBY>から喉まで、<RUBY text='クナイ'>苦無</RUBY>が突き立っていた。\r\n//　おそらく即死であったろう。\r\n",
-  "pt": ""
+  "pt": "\r\n Como se fosse de propósito, o corpo da chefe Iwata desaba no chão. Uma faca está cravada na base do crânio dela.\r\n\r\n//　まるでそれを待ち侘びていたかのように、立ち尽く\r\n//していた岩田女史がぐらりと<RUBY text='かし'>傾</RUBY>いだ。\r\n//　そのまま無力に……無抵抗に倒れ伏す。\r\n\r\n//　<RUBY text='うなじ'>項</RUBY>から喉まで、<RUBY text='クナイ'>苦無</RUBY>が突き立っていた。\r\n//　おそらく即死であったろう。\r\n"
  },
  {
   "offset": 13162,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220520a09'>\r\n//「いま動くというのは、余りに<RUBY text='・・'>正直</RUBY>過ぎよう。\r\n//　<RUBY text='はかりごと'>謀事</RUBY>には向かぬ御仁じゃ……」\r\n\"Ah, but subterfuge has never been his strength. Of <I>course</I> he would make his move now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220520a09'>\r\n//「いま動くというのは、余りに<RUBY text='・・'>正直</RUBY>過ぎよう。\r\n//　<RUBY text='はかりごと'>謀事</RUBY>には向かぬ御仁じゃ……」\r\n\"Ah, mas a dissimulação nunca foi o forte dele. É <I>claro</I> que ele agiria agora.\"\r\n"
  },
  {
   "offset": 13529,
@@ -282,7 +282,7 @@
  {
   "offset": 13647,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220540a09'>\r\n//「おぬしらの裏を読めれば、何をするか読む\r\n//のも易い。\r\n//　ま……邦氏殿下を狙うのが妥当よなァ？」\r\n\"And of㉓<I>course</I>㉓young Kuniuji would be the target. Who else?\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220550a09'>\r\n//「殿下を襲われ、傷ひとつでも負わされたが\r\n//最後、幕閣にわしの立場は<RUBY text='の'>無</RUBY>うなる。\r\n//　<RUBY text='ゆうべ'>昨夜</RUBY>のような<RUBY text='・・'>説教</RUBY>なら獅子吼殿もうるさく\r\n//言うまいが、事がそうなっては……な」\r\n\"If I'd let you harm so much as a hair on the boy's head, the others would've had my balls for breakfast.\r\n  Oh, I'm sure Shishiku will have a few things to say about my little <I>demonstration</I>㉓earlier, but allowing rebels to reach His Grace? A different matter entirely.\"\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220540a09'>\r\n//「おぬしらの裏を読めれば、何をするか読む\r\n//のも易い。\r\n//　ま……邦氏殿下を狙うのが妥当よなァ？」\r\n\"E,㉓<I>claro</I>㉓, o jovem Kuniuji seria o alvo. Quem mais?\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220550a09'>\r\n//「殿下を襲われ、傷ひとつでも負わされたが\r\n//最後、幕閣にわしの立場は<RUBY text='の'>無</RUBY>うなる。\r\n//　<RUBY text='ゆうべ'>昨夜</RUBY>のような<RUBY text='・・'>説教</RUBY>なら獅子吼殿もうるさく\r\n//言うまいが、事がそうなっては……な」\r\n\"Se eu tivesse deixado vocês fazerem mal sequer a um fio de cabelo do garoto, os outros teriam arrancado as minhas bolas.\r\n  Ah, tenho certeza de que Shishiku terá algumas coisas a dizer sobre minha pequena <I>demonstração</I>㉓de antes, mas permitir que rebeldes cheguem até Sua Graça? Uma questão completamente diferente.\"\r\n\r\n"
  },
  {
   "offset": 14647,
@@ -292,32 +292,32 @@
  {
   "offset": 14765,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220570a09'>\r\n//「では殿下が狙われるとして、いつ来るか。\r\n//　そいつはやはり、皆の気が抜けているおり\r\n//……大きな催しのあった直後ではないかな？」\r\n\"That just left the question of when you would strike. Most likely, when security was the last thing that anyone wanted to think about... such as after a great big party, for example.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220570a09'>\r\n//「では殿下が狙われるとして、いつ来るか。\r\n//　そいつはやはり、皆の気が抜けているおり\r\n//……大きな催しのあった直後ではないかな？」\r\n\"Restava apenas a questão de quando vocês atacariam. Muito provavelmente, quando a segurança fosse a última coisa em que alguém quisesse pensar... como depois de uma grande festa, por exemplo.\"\r\n"
  },
  {
   "offset": 15238,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220580a09'>\r\n//「とまぁこんなところよ。\r\n//　いや、偉そうに語った後で何だが、あまり\r\n//大した種明かしではなかったのう！」\r\n\"And well, there you have it. Honestly, I shouldn't be this proud of myself. It really wasn't much of a challenge!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220580a09'>\r\n//「とまぁこんなところよ。\r\n//　いや、偉そうに語った後で何だが、あまり\r\n//大した種明かしではなかったのう！」\r\n\"E bem, aí está. Sinceramente, eu não deveria estar tão orgulhoso de mim mesmo. Não foi grande desafio nenhum!\"\r\n"
  },
  {
   "offset": 15606,
   "en": "\r\n//　言って、莞爾と笑う童心入道。\r\n//　俺は内心で諸手を上げた。\r\n  As the general throws back his head and laughs, I sigh in resignation.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　言って、莞爾と笑う童心入道。\r\n//　俺は内心で諸手を上げた。\r\n  Enquanto o general joga a cabeça para trás e solta uma gargalhada, eu suspiro, resignado.\r\n\r\n"
  },
  {
   "offset": 15784,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220590a00'>\r\n//（駄目だこれは）\r\n(This was a mistake.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220590a00'>\r\n//（駄目だこれは）\r\n(Foi um erro.)\r\n"
  },
  {
   "offset": 15927,
   "en": "\r\n//　最初から俺の手に負える仕事ではなかったらしい。\r\n  From the very beginning, this task was beyond me.\r\n",
-  "pt": ""
+  "pt": "\r\n//　最初から俺の手に負える仕事ではなかったらしい。\r\n  Desde o começo, essa tarefa estava além das minhas capacidades.\r\n"
  },
  {
   "offset": 16066,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220600a09'>\r\n//「しかし、わからんこともある……」\r\n\"Although I do still have one question...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220600a09'>\r\n//「しかし、わからんこともある……」\r\n\"Embora eu ainda tenha uma pergunta...\"\r\n"
  },
  {
   "offset": 16257,
@@ -327,27 +327,27 @@
  {
   "offset": 16376,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220620a09'>\r\n//「不思議そうな顔をつくらずとも良いぞ。\r\n//　何がわからんのかは承知であろう」\r\n\"Come, man, I know you're not㉓<I>stupid.</I>㉑ You know exactly what I mean.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220630a09'>\r\n//「おぬしらは何処の者じゃ？」\r\n\"Whom do you serve?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220620a09'>\r\n//「不思議そうな顔をつくらずとも良いぞ。\r\n//　何がわからんのかは承知であろう」\r\n\"Ora, homem, eu sei que você não é㉓<I>estúpido.</I>㉑ Você sabe exatamente o que quero dizer.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220630a09'>\r\n//「おぬしらは何処の者じゃ？」\r\n\"A quem você serve?\"\r\n"
  },
  {
   "offset": 16818,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220640a00'>\r\n//「立場上、答えられる質問ではない。\r\n//　しかしたった今、貴方自らが推測を語られ\r\n//たようだが」\r\n\"I believe you've already answered that question.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220640a00'>\r\n//「立場上、答えられる質問ではない。\r\n//　しかしたった今、貴方自らが推測を語られ\r\n//たようだが」\r\n\"Creio que o senhor já respondeu a essa pergunta.\"\r\n"
  },
  {
   "offset": 17103,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220650a09'>\r\n//「小弓公方の<RUBY text='てか'>手下</RUBY>と申すか」\r\n\"You serve Oyumi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220650a09'>\r\n//「小弓公方の<RUBY text='てか'>手下</RUBY>と申すか」\r\n\"Você serve a Oyumi.\"\r\n"
  },
  {
   "offset": 17285,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220660a00'>\r\n//「答えられる立場にない」\r\n\"We're not at liberty to say.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220660a00'>\r\n//「答えられる立場にない」\r\n\"Não estamos em posição de dizer.\"\r\n"
  },
  {
   "offset": 17449,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220670a09'>\r\n//「違うのう」\r\n\"I think not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220670a09'>\r\n//「違うのう」\r\n\"Acho que não.\"\r\n"
  },
  {
   "offset": 17579,
@@ -357,7 +357,7 @@
  {
   "offset": 17697,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220690a09'>\r\n//「小弓の<RUBY text='よりき'>寄騎</RUBY>におぬしらのような者はおらん。\r\n//　その二領の劒冑にも見覚えはない」\r\n\"Oyumi has no soldiers who fit your descriptions, and I'm certain I've never seen your tsurugi before.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220700a09'>\r\n//「それ以上に……\r\n//　六波羅に<RUBY text='こうべ'>頭</RUBY>を垂れるような玉ではなかろ？\r\n//ぬしらは」\r\n\"Besides... I suspect that both of you would rather die than bend the knee to Rokuhara.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220690a09'>\r\n//「小弓の<RUBY text='よりき'>寄騎</RUBY>におぬしらのような者はおらん。\r\n//　その二領の劒冑にも見覚えはない」\r\n\"Oyumi não tem soldados que correspondam às suas descrições, e tenho certeza de que nunca vi seus tsurugi antes.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220700a09'>\r\n//「それ以上に……\r\n//　六波羅に<RUBY text='こうべ'>頭</RUBY>を垂れるような玉ではなかろ？\r\n//ぬしらは」\r\n\"Além disso... suspeito que vocês dois prefeririam morrer a se ajoelhar diante de Rokuhara.\"\r\n"
  },
  {
   "offset": 18361,
@@ -367,147 +367,147 @@
  {
   "offset": 18479,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220720a09'>\r\n//「如何に？」\r\n\"Am I wrong?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220720a09'>\r\n//「如何に？」\r\n\"Estou enganado?\"\r\n"
  },
  {
   "offset": 18608,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220730a00'>\r\n//「答えられる立場にない……」\r\n\"We're not at liberty to say.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220730a00'>\r\n//「答えられる立場にない……」\r\n\"Não estamos em posição de dizer...\"\r\n"
  },
  {
   "offset": 18778,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220740a09'>\r\n//「で、あろうのぅ。\r\n//　ならばさて、答えられる立場にしてやらね\r\n//ばならぬが……」\r\n\"Of course. Then we'll have to change that, won't we?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220740a09'>\r\n//「で、あろうのぅ。\r\n//　ならばさて、答えられる立場にしてやらね\r\n//ばならぬが……」\r\n\"Claro. Então teremos de mudar isso, não é?\"\r\n"
  },
  {
   "offset": 19049,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220750b37'>\r\n//「<RUBY text='せめどい'>拷問</RUBY>を受ける虜囚というものは、如何なる\r\n//秘密も口にして良いことになっております。\r\n//　古河中将様」\r\n\"General. Beneath the torturer's knife, a man may reveal whatever secrets he chooses.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/mb02/0220750b37'>\r\n//「<RUBY text='せめどい'>拷問</RUBY>を受ける虜囚というものは、如何なる\r\n//秘密も口にして良いことになっております。\r\n//　古河中将様」\r\n\"General. Sob a lâmina do torturador, um homem pode revelar quaisquer segredos que deseje.\"\r\n"
  },
  {
   "offset": 19424,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220760a09'>\r\n//「おう、おう。\r\n//　さようであったか！」\r\n\"Oh. Truly?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220760a09'>\r\n//「おう、おう。\r\n//　さようであったか！」\r\n\"Ah. É mesmo?\"\r\n"
  },
  {
   "offset": 19592,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220770a00'>\r\n//（村正）\r\n(Muramasa.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220770a00'>\r\n//（村正）\r\n(Muramasa.)\r\n"
  },
  {
   "offset": 19713,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220780a01'>\r\n//《なに？》\r\n《Got a plan?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220780a01'>\r\n//《なに？》\r\n《Tem um plano?》\r\n"
  },
  {
   "offset": 19849,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220790a00'>\r\n//（この付近で、最も強力な磁場の在処を探れ）\r\n(Find the strongest magnetic field nearby.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220790a00'>\r\n//（この付近で、最も強力な磁場の在処を探れ）\r\n(Encontre o campo magnético mais forte nas proximidades.)\r\n"
  },
  {
   "offset": 20053,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220800a01'>\r\n//《……？　諒解》\r\n《Huh?\r\n  Okay...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220800a01'>\r\n//《……？　諒解》\r\n《Hã?》\r\n  《Certo...》\r\n"
  },
  {
   "offset": 20202,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220810a09'>\r\n//「寡聞にして知らなんだわ。\r\n//　ふむぅ、悪くない」\r\n\"I must admit that I was unaware. Mm... Very good.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220820a09'>\r\n//「特にそちらの娘御は良いのぅ。\r\n//　秘密の訊き出し甲斐がある」\r\n\"I shall enjoy plumbing your secrets. Especially yours, madam.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220810a09'>\r\n//「寡聞にして知らなんだわ。\r\n//　ふむぅ、悪くない」\r\n\"Devo admitir que eu não sabia. Hum... Muito bom.\"\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220820a09'>\r\n//「特にそちらの娘御は良いのぅ。\r\n//　秘密の訊き出し甲斐がある」\r\n\"Terei prazer em sondar seus segredos. Especialmente os seus, madame.\"\r\n"
  },
  {
   "offset": 20668,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220830a02'>\r\n//「……<RUBY text='・・'>どぶ</RUBY>みたいな目で見るんじゃねえよ。\r\n//　豚坊主が」\r\n\"Keep looking at me like that, I'm gonna eat your fucking eyeballs!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220830a02'>\r\n//「……<RUBY text='・・'>どぶ</RUBY>みたいな目で見るんじゃねえよ。\r\n//　豚坊主が」\r\n\"Se continuar me olhando desse jeito, eu como seus olhos, porra!\"\r\n"
  },
  {
   "offset": 20943,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220840a09'>\r\n//「はあっはっは！\r\n//　それがたまらん、それがたまらん」\r\n\"HA HA HA! Better and better!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220840a09'>\r\n//「はあっはっは！\r\n//　それがたまらん、それがたまらん」\r\n\"HA HA HA! Cada vez melhor!\"\r\n"
  },
  {
   "offset": 21150,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220850a09'>\r\n//「邪なものへの憤り、正しき憎悪というやつ\r\n//は実に良い。実に美しく実に旨い。\r\n//　昨夕もしこたま味わったばかりであるが、\r\n//全く飽きるということはないのぅ！」\r\n\"Righteous anger. Hatred of evil. There is nothing quite so beautiful, or that melts so on the tongue. And here I thought I'd eaten my fill for the night!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220850a09'>\r\n//「邪なものへの憤り、正しき憎悪というやつ\r\n//は実に良い。実に美しく実に旨い。\r\n//　昨夕もしこたま味わったばかりであるが、\r\n//全く飽きるということはないのぅ！」\r\n\"Ira justa. Ódio ao mal. Não há nada tão belo, nem que se derreta tanto na língua. E eu achando que já tinha me fartado esta noite!\"\r\n"
  },
  {
   "offset": 21634,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220860a02'>\r\n//「……姫さまのことか!!」\r\n\"Is that what she was!? A fucking snack!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220860a02'>\r\n//「……姫さまのことか!!」\r\n\"Então era isso que ela era!? Um petisco, porra!?\"\r\n"
  },
  {
   "offset": 21809,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220870a09'>\r\n//「くふぅ。それよそれ、その怒り。\r\n//　やれ、惜しいことよな。その怒りに任せて\r\n//舞台で襲って来てくれておれば、事はもっと\r\n//早かったんだがの」\r\n\"Ooh! That snarl becomes you, girl. If only you'd unleashed your fury on the stage. We could have saved a bit of time.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220870a09'>\r\n//「くふぅ。それよそれ、その怒り。\r\n//　やれ、惜しいことよな。その怒りに任せて\r\n//舞台で襲って来てくれておれば、事はもっと\r\n//早かったんだがの」\r\n\"Ooh! Esse rosnado cai bem em você, garota. Se ao menos você tivesse soltado sua fúria no palco. Teríamos economizado um pouco de tempo.\"\r\n"
  },
  {
   "offset": 22233,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220880a02'>\r\n//「あれも罠かよ……！\r\n//　いちいちやることが<RUBY text='・・・・・'>ねちっこい</RUBY>なてめぇは」\r\n\"That was a trap!? You really are a slimy cocksucker, <br>huh!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220880a02'>\r\n//「あれも罠かよ……！\r\n//　いちいちやることが<RUBY text='・・・・・'>ねちっこい</RUBY>なてめぇは」\r\n\"Aquilo era uma armadilha!? Você é mesmo um filho da puta nojento, hein!?\"\r\n"
  },
  {
   "offset": 22528,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220890a09'>\r\n//「いやいや、一石二鳥を狙ってみたまでの事。\r\n//　おぬしらがおらんでもあれはやっておった。\r\n//やらずにおこうかい？　あんな面白きことを\r\n//のう！」\r\n\"No, that was in the works well before you two arrived. I did hope that it might provoke a reaction, but believe me, rebels or no, I was going to have my fun!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/0220890a09'>\r\n//「いやいや、一石二鳥を狙ってみたまでの事。\r\n//　おぬしらがおらんでもあれはやっておった。\r\n//やらずにおこうかい？　あんな面白きことを\r\n//のう！」\r\n\"Não, aquilo já estava em andamento bem antes de vocês dois chegarem. Eu até esperava que provocasse uma reação, mas acredite, com ou sem rebeldes, eu ia me divertir!\"\r\n"
  },
  {
   "offset": 22995,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220900a01'>\r\n//《御堂。見つけたけど……》\r\n《Well, I found it...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220900a01'>\r\n//《御堂。見つけたけど……》\r\n《Bem, eu encontrei...》\r\n"
  },
  {
   "offset": 23163,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220910a00'>\r\n//（そこまで糸を射ち飛ばせるか？）\r\n(Will your threads reach?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220910a00'>\r\n//（そこまで糸を射ち飛ばせるか？）\r\n(Seus fios vão alcançar?)\r\n"
  },
  {
   "offset": 23335,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220920a01'>\r\n//《ええ》\r\n《Yes.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220920a01'>\r\n//《ええ》\r\n《Sim.》\r\n"
  },
  {
   "offset": 23461,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220930a00'>\r\n//（良し。やれ）\r\n(Do it.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220930a00'>\r\n//（良し。やれ）\r\n(Faça.)\r\n"
  },
  {
   "offset": 23588,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220940a01'>\r\n//《破壊するの？》\r\n《You want me to break it?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220940a01'>\r\n//《破壊するの？》\r\n《Quer que eu o quebre?》\r\n"
  },
  {
   "offset": 23746,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220950a00'>\r\n//（いや。その磁気を<RUBY text='・・'>回せ</RUBY>）\r\n(No. <I>Feed it.</I>)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220950a00'>\r\n//（いや。その磁気を<RUBY text='・・'>回せ</RUBY>）\r\n(Não. <I>Alimente-o.</I>)\r\n"
  },
  {
   "offset": 23928,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220960a01'>\r\n//《諒解》\r\n《Understood.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mb02/0220960a01'>\r\n//《諒解》\r\n《Entendido.》\r\n"
  },
  {
   "offset": 24061,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220970a02'>\r\n//「……坊主。\r\n//　てめぇだけは――――」\r\n\"Glad you enjoyed yourself, asshole, cause I'm gonna―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220970a02'>\r\n//「……坊主。\r\n//　てめぇだけは――――」\r\n\"Que bom que você se divertiu, seu cuzão, porque eu vou―\"\r\n"
  },
  {
   "offset": 24273,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220980a00'>\r\n//「一条」\r\n\"Ichijo.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0220980a00'>\r\n//「一条」\r\n\"Ichijo.\"\r\n"
  },
  {
   "offset": 24392,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220990a02'>\r\n//「え？」\r\n\"Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0220990a02'>\r\n//「え？」\r\n\"Hã?\"\r\n"
  },
  {
   "offset": 24508,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0221000a00'>\r\n//「いいか。\r\n//　装甲して脱出しろ」\r\n\"Get out of here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0221000a00'>\r\n//「いいか。\r\n//　装甲して脱出しろ」\r\n\"Saia daqui.\"\r\n"
  },
  {
   "offset": 24673,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0221010a02'>\r\n//「は……っ？」\r\n\"Uh―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0221010a02'>\r\n//「は……っ？」\r\n\"Ah―\"\r\n"
  },
  {
   "offset": 24799,
@@ -517,11 +517,11 @@
  {
   "offset": 24917,
   "en": "\r\n//　幾つかの事態がほぼ同時に、しかし段階的に起きた。\r\n\r\n//　まず照明が一斉に、音を立てて破裂した。\r\n//　辺りが再び闇に閉ざされる。\r\n\r\n//　それだけならば、武者にとって何程のこともない。\r\n//　一瞬は惑乱しても、すぐに視覚を取り戻す。\r\n  Two things happen nearly at once.\r\n\r\n  First, every lightbulb in the room bursts, plunging us into darkness.\r\n\r\n  Darkness is no impediment to a musha. Given a moment, the enemy will adapt.\r\n",
-  "pt": ""
+  "pt": "\r\n//　幾つかの事態がほぼ同時に、しかし段階的に起きた。\r\n\r\n//　まず照明が一斉に、音を立てて破裂した。\r\n//　辺りが再び闇に閉ざされる。\r\n\r\n//　それだけならば、武者にとって何程のこともない。\r\n//　一瞬は惑乱しても、すぐに視覚を取り戻す。\r\n  Duas coisas acontecem quase ao mesmo tempo.\r\n\r\n  Primeiro, todas as lâmpadas da sala estouram, mergulhando-nos na escuridão.\r\n\r\n  A escuridão não é impedimento para um musha. Num instante, o inimigo se adaptará.\r\n"
  },
  {
   "offset": 25456,
   "en": "\r\n//　だが続いて何かが爆発し、足元が大きく揺らいだと\r\n//あっては――混乱も一瞬では済まない。\r\n  But in that moment, something far below us explodes. The room leaps as if struck by a titan's fist, and everything erupts into chaos.\r\n",
-  "pt": ""
+  "pt": "\r\n//　だが続いて何かが爆発し、足元が大きく揺らいだと\r\n//あっては――混乱も一瞬では済まない。\r\n  Mas, naquele instante, algo muito abaixo de nós explode. A sala salta como se tivesse sido atingida pelo punho de um titã, e tudo irrompe em caos.\r\n"
  }
 ]

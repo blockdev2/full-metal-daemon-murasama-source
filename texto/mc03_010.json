@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//　出立の朝。\r\n//　\r\n//　これが最後の旅になるという、予感があった。\r\n  The morning of our departure, I face the sunrise prepared for this to be my final journey.\r\n\r\n//　この旅で大鳥大尉が企図を遂げ、俺が銀星号の件に\r\n//決着をつけたならば、その後、すべき事はただ一つと\r\n//なる。\r\n//　彼女が誓った<RUBY text='せいぎ'>復讐</RUBY>の遂行、それだけだ。\r\n  When it is over, and we have both accomplished our goals, only one matter of consequence will remain.\r\n\r\n//　湊斗景明の恐怖。\r\n//　湊斗景明の待望。\r\n//　\r\n//　湊斗景明の正しい終結。\r\n  My greatest fear.\r\n\r\n  My most fervent wish.\r\n\r\n  Otori Kanae's vengeance.\r\n",
-  "pt": ""
+  "pt": "\r\n//　出立の朝。\r\n//　\r\n//　これが最後の旅になるという、予感があった。\r\n  Na manhã da nossa partida, encaro o nascer do sol preparado para que esta seja a minha última jornada.\r\n\r\n//　この旅で大鳥大尉が企図を遂げ、俺が銀星号の件に\r\n//決着をつけたならば、その後、すべき事はただ一つと\r\n//なる。\r\n//　彼女が誓った<RUBY text='せいぎ'>復讐</RUBY>の遂行、それだけだ。\r\n  Quando tudo terminar, e nós dois tivermos alcançado nossos objetivos, restará apenas uma questão de importância.\r\n\r\n//　湊斗景明の恐怖。\r\n//　湊斗景明の待望。\r\n//　\r\n//　湊斗景明の正しい終結。\r\n  Meu maior medo.\r\n\r\n  Meu desejo mais fervoroso.\r\n\r\n  A vingança de Otori Kanae.\r\n"
  },
  {
   "offset": 968,
@@ -12,22 +12,22 @@
  {
   "offset": 1092,
   "en": "\r\n//　肩には途方もない疲労を、胸には深い安堵を覚える。\r\n//　長かった――そう思う。だが兎も角も終わるのだ。\r\n//あと一息で。やっと。\r\n  The thought brings with it a bone-deep weariness, and a relief that spreads from my core.\r\n\r\n  Finally, it will end as it should. My evil will be repaid.\r\n\r\n//　<RUBY text='おのれ'>罪人</RUBY>は報いを受けて、正しく<RUBY text='おわる'>果つ</RUBY>事が叶う。\r\n",
-  "pt": ""
+  "pt": "\r\n//　肩には途方もない疲労を、胸には深い安堵を覚える。\r\n//　長かった――そう思う。だが兎も角も終わるのだ。\r\n//あと一息で。やっと。\r\n  O pensamento traz consigo um cansaço que penetra os ossos e um alívio que se espalha desde o meu âmago.\r\n\r\n  Por fim, terminará como deve. Meu mal será retribuído.\r\n\r\n//　<RUBY text='おのれ'>罪人</RUBY>は報いを受けて、正しく<RUBY text='おわる'>果つ</RUBY>事が叶う。\r\n"
  },
  {
   "offset": 1577,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100020a03'>\r\n//「……景明さま？」\r\n\"Darling?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100020a03'>\r\n//「……景明さま？」\r\n\"Querido?\"\r\n"
  },
  {
   "offset": 1721,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100030a00'>\r\n//「いえ。\r\n//　ふと、感慨を新たにしておりました」\r\n\"I'm sorry. I was just thinking.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100030a00'>\r\n//「いえ。\r\n//　ふと、感慨を新たにしておりました」\r\n\"Perdão. Estava apenas pensando.\"\r\n"
  },
  {
   "offset": 1922,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100040a00'>\r\n//「貴方に出会えて良かったと」\r\n\"I truly am glad to have met you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100040a00'>\r\n//「貴方に出会えて良かったと」\r\n\"Sinto-me deveras feliz por ter conhecido você.\"\r\n"
  },
  {
   "offset": 2096,
@@ -37,67 +37,67 @@
  {
   "offset": 2229,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100060b17'>\r\n//「お忘れ物などはございませんな」\r\n\"Do you have everything you need?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100060b17'>\r\n//「お忘れ物などはございませんな」\r\n\"Tem tudo o que precisa?\"\r\n"
  },
  {
   "offset": 2418,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100070a03'>\r\n//「はい。\r\n//　では行って参ります」\r\n\"Yes, thank you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100070a03'>\r\n//「はい。\r\n//　では行って参ります」\r\n\"Sim, obrigada.\"\r\n"
  },
  {
   "offset": 2591,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100080b17'>\r\n//「どうぞお気をつけて。\r\n//　さよ、香奈枝様のことを頼むぞ」\r\n\"Do be careful. Sayo, look after her.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100080b17'>\r\n//「どうぞお気をつけて。\r\n//　さよ、香奈枝様のことを頼むぞ」\r\n\"Tenha cuidado. Sayo, cuide dela.\"\r\n"
  },
  {
   "offset": 2821,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100090a04'>\r\n//「お任せくださいませ。お兄ちゃん」\r\n\"Of course, brother dearest.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100090a04'>\r\n//「お任せくださいませ。お兄ちゃん」\r\n\"Claro, irmãozinho querido.\"\r\n"
  },
  {
   "offset": 2999,
   "en": "\r\n//◆大フォント\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100100b17'>\r\n//<FONT size='50'>「ヤメロ」</FONT>\r\n<center>\"EW.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆大フォント\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100100b17'>\r\n//<FONT size='50'>「ヤメロ」</FONT>\r\n<center>\"ECA.\"\r\n"
  },
  {
   "offset": 3179,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100110a00'>\r\n//「翁。造作をお掛け致しました」\r\n\"Sir, thank you for your hospitality.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100110a00'>\r\n//「翁。造作をお掛け致しました」\r\n\"Senhor, agradeço pela hospitalidade.\"\r\n"
  },
  {
   "offset": 3360,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100120b17'>\r\n//「何程のことはしておりませぬよ。\r\n//　御客人も、壮健であられい」\r\n\"It was nothing. I wish you the best of health.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100120b17'>\r\n//「何程のことはしておりませぬよ。\r\n//　御客人も、壮健であられい」\r\n\"Não foi nada. Desejo-lhe ótima saúde.\"\r\n"
  },
  {
   "offset": 3609,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100130b17'>\r\n//「来年、また柿を食いに来られたらよろしか\r\n//ろう」\r\n\"Perhaps we'll see you when the persimmons are next in season.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100130b17'>\r\n//「来年、また柿を食いに来られたらよろしか\r\n//ろう」\r\n\"Talvez nos vejamos na próxima temporada de caquis.\"\r\n"
  },
  {
   "offset": 3852,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100140a00'>\r\n//「……はっ」\r\n\"...Perhaps.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100140a00'>\r\n//「……はっ」\r\n\"...Talvez.\"\r\n"
  },
  {
   "offset": 3981,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100150a03'>\r\n//「永倉のお爺さま」\r\n\"One thing before we go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100150a03'>\r\n//「永倉のお爺さま」\r\n\"Uma coisa antes de partirmos.\"\r\n"
  },
  {
   "offset": 4140,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100160b17'>\r\n//「はい？」\r\n\"My lady?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100160b17'>\r\n//「はい？」\r\n\"Minha senhora?\"\r\n"
  },
  {
   "offset": 4272,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100170a03'>\r\n//「わたくしはきっと、大鳥の家を滅ぼすこと\r\n//になるでしょう」\r\n\"I expect that when I'm done, Otori will be no more.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100170a03'>\r\n//「わたくしはきっと、大鳥の家を滅ぼすこと\r\n//になるでしょう」\r\n\"Creio que, quando eu terminar, não haverá mais Otori.\"\r\n"
  },
  {
   "offset": 4520,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100180b17'>\r\n//「お心のままに、滅ぼされませい」\r\n\"That is well. Do as you see fit.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100180b17'>\r\n//「お心のままに、滅ぼされませい」\r\n\"Muito bem. Faça como lhe aprouver.\"\r\n"
  },
  {
   "offset": 4709,
@@ -107,22 +107,22 @@
  {
   "offset": 4836,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100200b17'>\r\n//「古き良き大鳥……美しき<RUBY text='ながれ'>家風</RUBY>は既に断たれ\r\n//ました」\r\n\"The Otori I served, that greatest of houses, ended a decade ago.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100200b17'>\r\n//「古き良き大鳥……美しき<RUBY text='ながれ'>家風</RUBY>は既に断たれ\r\n//ました」\r\n\"A Otori que eu servi, a maior das casas, teve fim há uma década.\"\r\n"
  },
  {
   "offset": 5115,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100210b17'>\r\n//「まことに畏れながら、その端緒は御先代様\r\n//……香奈枝様のお父君がつけられたのでござ\r\n//います」\r\n\"By your father's hands, I am sorry to say.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100210b17'>\r\n//「まことに畏れながら、その端緒は御先代様\r\n//……香奈枝様のお父君がつけられたのでござ\r\n//います」\r\n\"Pelas mãos de seu pai, lamento dizer.\"\r\n"
  },
  {
   "offset": 5406,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100220a03'>\r\n//「ええ……」\r\n\"...Indeed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100220a03'>\r\n//「ええ……」\r\n\"...De fato.\"\r\n"
  },
  {
   "offset": 5543,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100230b17'>\r\n//「お志はともかく、手段を誤られた。\r\n//　ために大鳥の翼は乱れ、獅子吼の如き者の\r\n//台頭を許し、ご自身その手に掛かられ――」\r\n\"For all his noble intentions, he chose the vulgar path, and thereby set the stage for Shishiku's rise.\"\r\n\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100240b17'>\r\n//「そして獅子吼めに握られた今の大鳥家中は、\r\n//もはや嘗ての面影もなし……。\r\n//　<RUBY text='ちから'>権力</RUBY>に隷従する走狗の群れ、単なる軍閥で\r\n//ございます」\r\n\"Under Shishiku, Otori is no longer even a shadow of its former self. Its leaders are dogs, begging for scraps of power.\"\r\n\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100250b17'>\r\n//「大鳥、地に墜ちて餓畜となりぬ。\r\n//　今や世に百害こそあれ一利を報いず」\r\n\"The phoenix, fallen, is but a worm. It can do no good for the world, only harm.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100230b17'>\r\n//「お志はともかく、手段を誤られた。\r\n//　ために大鳥の翼は乱れ、獅子吼の如き者の\r\n//台頭を許し、ご自身その手に掛かられ――」\r\n\"Apesar de suas intenções nobres, ele escolheu o caminho vulgar e, com isso, preparou o terreno para a ascensão de Shishiku.\"\r\n\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100240b17'>\r\n//「そして獅子吼めに握られた今の大鳥家中は、\r\n//もはや嘗ての面影もなし……。\r\n//　<RUBY text='ちから'>権力</RUBY>に隷従する走狗の群れ、単なる軍閥で\r\n//ございます」\r\n\"Sob Shishiku, Otori já não é sequer uma sombra do que foi. Seus líderes são cães, mendigando migalhas de poder.\"\r\n\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100250b17'>\r\n//「大鳥、地に墜ちて餓畜となりぬ。\r\n//　今や世に百害こそあれ一利を報いず」\r\n\"A fênix, caída, não passa de um verme. Não pode fazer bem algum ao mundo, apenas mal.\"\r\n"
  },
  {
   "offset": 6664,
@@ -132,12 +132,12 @@
  {
   "offset": 6791,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100270b17'>\r\n///「滅ぼしてしまわれませい。\r\n//　家を継ぎ守り伝えるが裔子の務めなら、家\r\n//が堕落し果てた時に引導を渡すのもまた裔子\r\n//の務め」\r\n\"Finish it, my lady. This is your duty, as one who bears the Otori name.\"\r\n\r\n//嶋：修正【091006】\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100280b17'>\r\n//「香奈枝様。あなたは何かを傷つけ、害し、\r\n//ぶち壊す以外に何の才腕も持たぬ御方。\r\n//　そんな御方が当代にお生まれになったこと\r\n//には、やはり意味があったのでございます」\r\n\"Many have wondered why one such as you was born into this house. You, whose hands have only ever held the power to kill and destroy. This is the answer. You were born to end it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100270b17'>\r\n///「滅ぼしてしまわれませい。\r\n//　家を継ぎ守り伝えるが裔子の務めなら、家\r\n//が堕落し果てた時に引導を渡すのもまた裔子\r\n//の務め」\r\n\"Acabe com isso, minha senhora. Este é o seu dever, como aquela que carrega o nome Otori.\"\r\n\r\n//嶋：修正【091006】\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100280b17'>\r\n//「香奈枝様。あなたは何かを傷つけ、害し、\r\n//ぶち壊す以外に何の才腕も持たぬ御方。\r\n//　そんな御方が当代にお生まれになったこと\r\n//には、やはり意味があったのでございます」\r\n\"Muitos se perguntaram por que alguém como você nasceu nesta casa. Você, cujas mãos só conheceram o poder de matar e destruir. Esta é a resposta. Você nasceu para pôr fim a ela.\"\r\n"
  },
  {
   "offset": 7707,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100290b17'>\r\n//「どうか<RUBY text='ほしいまま'>欲儘</RUBY>に振舞われませ。\r\n//　腐り果てた大鳥が倒れた後には、花枝様が\r\n//新たな大鳥を築かれましょう」\r\n\"And what rises from the ashes, perhaps Lady Hanae will shape into something good once again.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100290b17'>\r\n//「どうか<RUBY text='ほしいまま'>欲儘</RUBY>に振舞われませ。\r\n//　腐り果てた大鳥が倒れた後には、花枝様が\r\n//新たな大鳥を築かれましょう」\r\n\"E o que se erguer das cinzas, talvez a senhora Hanae o transforme em algo bom outra vez.\"\r\n"
  },
  {
   "offset": 8096,
@@ -147,51 +147,51 @@
  {
   "offset": 8229,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100310a03'>\r\n//「はい」\r\n\"I shall.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100310a03'>\r\n//「はい」\r\n\"Assim farei.\"\r\n"
  },
  {
   "offset": 8358,
   "en": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100320b17'>\r\n//「ご武運をお祈りしておりますぞ」\r\n\"I wish you luck in battle.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【永倉翁】\r\n<voice name='永倉翁' class='永倉翁' src='voice/mc03/0100320b17'>\r\n//「ご武運をお祈りしておりますぞ」\r\n\"Desejo-lhe sorte na batalha.\"\r\n"
  },
  {
   "offset": 8541,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100330a03'>\r\n//「お爺さまもお達者でね」\r\n\"Do take care of yourself while we're gone.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100330a03'>\r\n//「お爺さまもお達者でね」\r\n\"Cuide-se bem enquanto estivermos fora.\"\r\n"
  },
  {
   "offset": 8728,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100340a04'>\r\n//「ではお嬢さま、そろそろ参りましょうか」\r\n\"Shall we be off?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100340a04'>\r\n//「ではお嬢さま、そろそろ参りましょうか」\r\n\"Então, vamos indo?\"\r\n"
  },
  {
   "offset": 8904,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100350a03'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc03/0100350a03'>\r\n//「ええ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 9029,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100360a00'>\r\n//「して、篠川へは如何なる方法で？\r\n//　現状を鑑みるに、一工夫必要と思われます\r\n//が」\r\n\"How will we travel? I can't imagine the road will be <br>easy.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100360a00'>\r\n//「して、篠川へは如何なる方法で？\r\n//　現状を鑑みるに、一工夫必要と思われます\r\n//が」\r\n\"Como vamos viajar? Não consigo imaginar que o caminho será fácil.\"\r\n"
  },
  {
   "offset": 9313,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100370a04'>\r\n//「いろいろ考えてはみたのですけれどもねぇ。\r\n//　考えに考えて考えあぐねた挙句、一周して\r\n//スタート地点に戻りまして」\r\n\"No. But after considering the options, we determined that all were equally dangerous.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100370a04'>\r\n//「いろいろ考えてはみたのですけれどもねぇ。\r\n//　考えに考えて考えあぐねた挙句、一周して\r\n//スタート地点に戻りまして」\r\n\"Não. Mas, depois de considerar as opções, concluímos que todas eram igualmente perigosas.\"\r\n"
  },
  {
   "offset": 9668,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100380a04'>\r\n//「結局、一番芸の無い方法に落ち着きました」\r\n\"So we went with the most mundane.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100380a04'>\r\n//「結局、一番芸の無い方法に落ち着きました」\r\n\"Por isso, optamos pela mais trivial.\"\r\n"
  },
  {
   "offset": 9864,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100390a00'>\r\n//「と云われますと」\r\n\"Which was?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc03/0100390a00'>\r\n//「と云われますと」\r\n\"Que seria?\"\r\n"
  },
  {
   "offset": 10001,
   "en": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100400a04'>\r\n//「鉄道でございます」\r\n\"Here you are, sir. Your train ticket.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【さよ】\r\n<voice name='さよ' class='さよ' src='voice/mc03/0100400a04'>\r\n//「鉄道でございます」\r\n\"Aqui está, senhor. Sua passagem de trem.\"\r\n"
  }
 ]

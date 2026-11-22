@@ -2,62 +2,62 @@
  {
   "offset": 213,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220010a11'>\r\n//「何か必要なものはあるか？\r\n//　可能な限り用意するが……」\r\n\"Is there anything you need? I'll do what I can.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220010a11'>\r\n//「何か必要なものはあるか？\r\n//　可能な限り用意するが……」\r\n\"Há algo de que precise? Farei o que estiver ao meu alcance.\"\r\n"
  },
  {
   "offset": 445,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0220020a01'>\r\n//「私は、平気」\r\n\"I'm fine.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0220020a01'>\r\n//「私は、平気」\r\n\"Estou bem.\"\r\n"
  },
  {
   "offset": 581,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0220030a02'>\r\n//「あたしもいい」\r\n\"Same here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0220030a02'>\r\n//「あたしもいい」\r\n\"Tô bem também.\"\r\n"
  },
  {
   "offset": 715,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/md03/0220040b40'>\r\n//《クァァーーーキキィ！\r\n//　正義の魂はとうの昔に完全装備！　ほかに\r\n//何が要るというのだァ!?》\r\n《HAAAAAAAA! My soul is armored in solid justice! I want for nothing!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/md03/0220040b40'>\r\n//《クァァーーーキキィ！\r\n//　正義の魂はとうの昔に完全装備！　ほかに\r\n//何が要るというのだァ!?》\r\n《HAAAAAAAA! Minha alma já está completamente blindada pela justiça! Não preciso de mais nada!》\r\n"
  },
  {
   "offset": 1022,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0220050b26'>\r\n//「某も手持ちの武装で充分。\r\n//　仲間を呼び集める暇が無かったのは心残り\r\n//だが……」\r\n\"I too am ready for battle. I only wish there'd been time to gather my comrades.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0220050b26'>\r\n//「某も手持ちの武装で充分。\r\n//　仲間を呼び集める暇が無かったのは心残り\r\n//だが……」\r\n\"Eu também estou pronto para a batalha. Só lamento não ter havido tempo para reunir meus companheiros.\"\r\n"
  },
  {
   "offset": 1323,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220060a11'>\r\n//「潜入という点を考えれば、それも一長一短\r\n//でしょう」\r\n\"That would have made staying hidden more <br>difficult.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220060a11'>\r\n//「潜入という点を考えれば、それも一長一短\r\n//でしょう」\r\n\"Isso teria tornado muito mais difícil permanecer ocultos.\"\r\n"
  },
  {
   "offset": 1557,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0220070b26'>\r\n//「うむ」\r\n\"True.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0220070b26'>\r\n//「うむ」\r\n\"De fato.\"\r\n"
  },
  {
   "offset": 1674,
   "en": "\r\n//　これから、普陀楽城へ行く。\r\n\r\n//　彼らは彼らの目的を果たすために。\r\n//　私は――景明に会い、彼の意思を取り戻すために。\r\n\r\n//　おそらく、今の彼には拒まれるだろうけれど。\r\n//　それでも……。\r\n  We're about to sneak into Fudaraku Castle. Their goal is to prevent some ceremony from happening. Mine is to find Kageaki and undo Ginseigo's curse.\r\n\r\n  I know he's likely to reject me at first.\r\n  But even then... even then, I must...\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　これから、普陀楽城へ行く。\r\n\r\n//　彼らは彼らの目的を果たすために。\r\n//　私は――景明に会い、彼の意思を取り戻すために。\r\n\r\n//　おそらく、今の彼には拒まれるだろうけれど。\r\n//　それでも……。\r\n  Estamos prestes a invadir o Castelo Fudaraku. O objetivo deles é impedir que uma cerimônia aconteça. O meu é encontrar Kageaki e desfazer a maldição de Ginseigo.\r\n\r\n  Sei que provavelmente ele vai me rejeitar no começo.\r\n  Mas mesmo assim... mesmo assim, eu preciso...\r\n\r\n"
  },
  {
   "offset": 2205,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220080a11'>\r\n//「三人とも、目的は別だが。\r\n//　いずれも舞殿宮殿下が望んでおられること\r\n//には変わりない」\r\n\"Each of you has a different goal, but know that His Highness shares them all.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220090a11'>\r\n//「宮殿下は宜しく頼むと云っておられた」\r\n\"He is counting on every one of you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220080a11'>\r\n//「三人とも、目的は別だが。\r\n//　いずれも舞殿宮殿下が望んでおられること\r\n//には変わりない」\r\n\"Cada um de vocês tem um objetivo diferente, mas saibam que Sua Alteza compartilha de todos eles.\"\r\n\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220090a11'>\r\n//「宮殿下は宜しく頼むと云っておられた」\r\n\"Ele conta com cada um de vocês.\"\r\n"
  },
  {
   "offset": 2697,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0220100b26'>\r\n//「勿体なきお言葉」\r\n\"His Highness does me great honor.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0220100b26'>\r\n//「勿体なきお言葉」\r\n\"Sua Alteza me concede grande honra.\"\r\n"
  },
  {
   "offset": 2857,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0220110a02'>\r\n//「頼まれなくてもやるさ」\r\n\"I was gonna do it anyway.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0220110a02'>\r\n//「頼まれなくてもやるさ」\r\n\"Eu já ia fazer isso de qualquer jeito.\"\r\n"
  },
  {
   "offset": 3018,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/md03/0220120b40'>\r\n//《正義は命令されてするものにあらず！\r\n//　しかし賛同するのは当然の事！》\r\n《Justice requires no command! To support the right is the duty of all!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/md03/0220120b40'>\r\n//《正義は命令されてするものにあらず！\r\n//　しかし賛同するのは当然の事！》\r\n《A justiça não precisa de ordens! Apoiar o que é certo é o dever de todos!》\r\n"
  },
  {
   "offset": 3297,
@@ -67,17 +67,17 @@
  {
   "offset": 3427,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220140a11'>\r\n//「私からも言おう。\r\n//　……村正」\r\n\"I too have a request.\r\n  ...Muramasa.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220140a11'>\r\n//「私からも言おう。\r\n//　……村正」\r\n\"Eu também tenho um pedido.\"\r\n  \"...Muramasa.\"\r\n"
  },
  {
   "offset": 3613,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0220150a01'>\r\n//「えっ？」\r\n\"Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0220150a01'>\r\n//「えっ？」\r\n\"Hã?\"\r\n"
  },
  {
   "offset": 3738,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220160a11'>\r\n//「息子を、頼む」\r\n\"Please take care of my son.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md03/0220160a11'>\r\n//「息子を、頼む」\r\n\"Cuide do meu filho, por favor.\"\r\n"
  },
  {
   "offset": 3889,
@@ -87,7 +87,7 @@
  {
   "offset": 4019,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0220180a01'>\r\n//「はい……」\r\n\"I will.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md03/0220180a01'>\r\n//「はい……」\r\n\"Eu vou cuidar dele.\"\r\n"
  },
  {
   "offset": 4150,
@@ -97,11 +97,11 @@
  {
   "offset": 4274,
   "en": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0220200b26'>\r\n//「時が惜しい。\r\n//　さ、そろそろ参るとしよう」\r\n\"Time is short. Let us be off.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【黒瀬】\r\n<voice name='黒瀬' class='黒瀬' src='voice/md03/0220200b26'>\r\n//「時が惜しい。\r\n//　さ、そろそろ参るとしよう」\r\n\"O tempo é curto. Vamos indo.\"\r\n"
  },
  {
   "offset": 4470,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0220210a02'>\r\n//「ああ」\r\n\"Yeah.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/md03/0220210a02'>\r\n//「ああ」\r\n\"É.\"\r\n"
  }
 ]

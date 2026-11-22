@@ -2,46 +2,46 @@
  {
   "offset": 216,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/011vs0230a00'>\r\n//「村正。方針変更。\r\n//　戦域を離脱する」\r\n\"Change of plans again. We're breaking contact.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/011vs0230a00'>\r\n//「村正。方針変更。\r\n//　戦域を離脱する」\r\n\"Mudança de planos outra vez. Vamos romper o contato.\"\r\n"
  },
  {
   "offset": 422,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/011vs0240a01'>\r\n//《……諒解》\r\n《...Okay.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/011vs0240a01'>\r\n//《……諒解》\r\n《...Tá.》\r\n"
  },
  {
   "offset": 560,
   "en": "\r\n//　俺が急ぐ理由をまだ知らない村正は不平感を<RUBY text='にじ'>滲</RUBY>ませ\r\n//ていたが、それでも反論はせず従った。\r\n//　敵への戦意より、その不気味さへの忌避感が優った\r\n//のかもしれない。\r\n  Though I can tell that Muramasa is still annoyed by my leaving her in the dark as to our objective, she obeys without complaint. She too must sense that this enemy is one to be avoided if possible.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺が急ぐ理由をまだ知らない村正は不平感を<RUBY text='にじ'>滲</RUBY>ませ\r\n//ていたが、それでも反論はせず従った。\r\n//　敵への戦意より、その不気味さへの忌避感が優った\r\n//のかもしれない。\r\n  Embora eu perceba que Muramasa ainda está irritada por eu tê-la deixado no escuro quanto ao nosso objetivo, ela obedece sem reclamar. Ela também deve pressentir que este inimigo é do tipo que se deve evitar, se possível.\r\n"
  },
  {
   "offset": 1036,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/011vs0250a00'>\r\n//「追ってくるか？」\r\n\"Are they in pursuit?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/011vs0250a00'>\r\n//「追ってくるか？」\r\n\"Estão nos perseguindo?\"\r\n"
  },
  {
   "offset": 1185,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/011vs0260a01'>\r\n//《……ええ。\r\n//　しかもかなり速い》\r\n《...Yes. And they're awfully fast.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/011vs0270a01'>\r\n//《このままだとすぐに追いつかれる……\r\n//　どうするの？》\r\n《It won't be long before they catch us. Shouldn't we turn back?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/011vs0260a01'>\r\n//《……ええ。\r\n//　しかもかなり速い》\r\n《...Sim. E são assustadoramente rápidos.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/011vs0270a01'>\r\n//《このままだとすぐに追いつかれる……\r\n//　どうするの？》\r\n《Não vai demorar até nos alcançarem. Não deveríamos voltar?》\r\n"
  },
  {
   "offset": 1630,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/011vs0280a00'>\r\n//「方針の変更はない。\r\n//　撤退を続行する」\r\n\"No. Maintain this heading.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/011vs0280a00'>\r\n//「方針の変更はない。\r\n//　撤退を続行する」\r\n\"Não. Mantenha este rumo.\"\r\n"
  },
  {
   "offset": 1819,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/011vs0290a01'>\r\n//《あの怪物に尻を<RUBY text='かじ'>齧</RUBY>らせるつもりなの？》\r\n《Trying to give that monster a shot at our backside?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc01/011vs0290a01'>\r\n//《あの怪物に尻を<RUBY text='かじ'>齧</RUBY>らせるつもりなの？》\r\n《Quer dar a esse monstro a chance de acertar nossa retaguarda?》\r\n"
  },
  {
   "offset": 2066,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/011vs0300a00'>\r\n//「……尻傷は武者の恥辱か」\r\n\"Let's hope it doesn't come to that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc01/011vs0300a00'>\r\n//「……尻傷は武者の恥辱か」\r\n\"Esperemos que não chegue a esse ponto.\"\r\n"
  },
  {
   "offset": 2242,
   "en": "\r\n//　逃げようとして後ろから襲われる以外に、そんな傷\r\n//を武者が負う状況はまず有り得ないためだ。\r\n//　尻の傷は最大の不名誉の刻印であり、切腹をもって\r\n//<RUBY text='そそ'>雪</RUBY>ぐべき恥とさえされている。\r\n  Among musha, a wound to the buttocks, which can only happen when fleeing from an enemy in flight, is considered a mark of cowardice: a shame that only ritual suicide can cleanse.\r\n\r\n//　だが今回、その心配は要るまい。\r\n//　敵の速度は相当らしいが、それでも斧が届くところ\r\n//まで近付かれる前に目的地へ着ける。\r\n  But I've judged the distance, and we needn't worry that we might meet such an ignominious fate. The enemy is not quite fast enough to catch us before we reach our goal.\r\n\r\n//　……などと考えている間に。<k>\r\n//　建朝寺が見え\r\n  ...There it is!<K>\r\n  Kenchoji<wait=100>\r\n<?>",
-  "pt": ""
+  "pt": "\r\n//　逃げようとして後ろから襲われる以外に、そんな傷\r\n//を武者が負う状況はまず有り得ないためだ。\r\n//　尻の傷は最大の不名誉の刻印であり、切腹をもって\r\n//<RUBY text='そそ'>雪</RUBY>ぐべき恥とさえされている。\r\n  Entre os musha, um ferimento nas nádegas, que só pode acontecer quando se foge de um inimigo em retirada, é considerado marca de covardia: uma vergonha que só o suicídio ritual pode limpar.\r\n\r\n//　だが今回、その心配は要るまい。\r\n//　敵の速度は相当らしいが、それでも斧が届くところ\r\n//まで近付かれる前に目的地へ着ける。\r\n  Mas já calculei a distância, e não precisamos temer que acabemos com um destino tão ignominioso. O inimigo não é rápido o bastante para nos alcançar antes de chegarmos ao nosso objetivo.\r\n\r\n//　……などと考えている間に。<k>\r\n//　建朝寺が見え\r\n  ...Lá está!<K>\r\n  Kenchoji<wait=100>\r\n<?>"
  }
 ]

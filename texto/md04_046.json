@@ -2,47 +2,47 @@
  {
   "offset": 213,
   "en": "\r\n//　……周囲状況を再認識する。\r\n\r\n//　ここは普陀楽城。\r\n//　今は――銀星号の力で引き起こされた混乱の渦中に\r\n//ある。\r\n\r\n//　殺し、\r\n//　殺し、\r\n//　殺し、\r\n//　殺す。\r\n\r\n//　絶望的な闘争空間。\r\n\r\n//　――止めなくては、ならない。\r\n  With my sensibilities restored, I reassess the situation.\r\n\r\n  Fudaraku Castle is drowning in death. Everywhere I look, men are killing one another, compelled by Ginseigo to hopeless slaughter.\r\n\r\n  I have to stop it.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　……周囲状況を再認識する。\r\n\r\n//　ここは普陀楽城。\r\n//　今は――銀星号の力で引き起こされた混乱の渦中に\r\n//ある。\r\n\r\n//　殺し、\r\n//　殺し、\r\n//　殺し、\r\n//　殺す。\r\n\r\n//　絶望的な闘争空間。\r\n\r\n//　――止めなくては、ならない。\r\n  Com minha sensatez restaurada, reavalio a situação.\r\n\r\n  O Castelo Fudaraku está afundando em morte. Para onde quer que eu olhe, homens se matam uns aos outros, compelidos por Ginseigo a um massacre sem esperança.\r\n\r\n  Tenho que impedir isso.\r\n\r\n"
  },
  {
   "offset": 767,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460010a01'>\r\n//「…………そうだ。\r\n//　伝えないと」\r\n\"...I almost forgot. I have a message.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460010a01'>\r\n//「…………そうだ。\r\n//　伝えないと」\r\n\"...Quase esqueci. Tenho uma mensagem.\"\r\n"
  },
  {
   "offset": 962,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460020a00'>\r\n//「？　何をだ」\r\n\"A message?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460020a00'>\r\n//「？　何をだ」\r\n\"Uma mensagem?\"\r\n"
  },
  {
   "offset": 1093,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460030a01'>\r\n//「大鳥香奈枝から、貴方に伝言があるの」\r\n\"For you, from Otori Kanae.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460030a01'>\r\n//「大鳥香奈枝から、貴方に伝言があるの」\r\n\"Para você, de Otori Kanae.\"\r\n"
  },
  {
   "offset": 1282,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460040a00'>\r\n//「……大尉殿から？」\r\n\"Captain Otori?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460040a00'>\r\n//「……大尉殿から？」\r\n\"Capitã Otori?\"\r\n"
  },
  {
   "offset": 1426,
   "en": "\r\n//　その名を聞くのも久々だった。\r\n//　大鳥大尉……綾弥一条…………\r\n  It feels like forever since I last heard that name.\r\n\r\n  Otori Kanae... Ayane Ichijo... How have they fared since my disappearance?\r\n",
-  "pt": ""
+  "pt": "\r\n//　その名を聞くのも久々だった。\r\n//　大鳥大尉……綾弥一条…………\r\n  Parece que faz uma eternidade desde que ouvi esse nome pela última vez.\r\n\r\n  Otori Kanae... Ayane Ichijo... Como estarão elas desde o meu desaparecimento?\r\n"
  },
  {
   "offset": 1669,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460050a01'>\r\n//「何だか眉唾な話なんだけど。\r\n//　……そのまま言うからね」\r\n\"I'm not sure how much I believe... I'll just give it to you word-for-word.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460050a01'>\r\n//「何だか眉唾な話なんだけど。\r\n//　……そのまま言うからね」\r\n\"Não sei o quanto acredito nisso... Vou transmitir palavra por palavra.\"\r\n"
  },
  {
   "offset": 1934,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460060a00'>\r\n//「ああ」\r\n\"All right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460060a00'>\r\n//「ああ」\r\n\"Certo.\"\r\n"
  },
  {
   "offset": 2056,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460070a01'>\r\n//「進駐軍は決戦兵器鍛造雷弾を使う。\r\n//　その兵器はこの城塞を全滅させる……とか\r\n//何とか」\r\n\"GHQ plans to use a weapon called the Forged Bomb. It will certainly kill everyone in the castle. So she says.\"\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460070a01'>\r\n//「進駐軍は決戦兵器鍛造雷弾を使う。\r\n//　その兵器はこの城塞を全滅させる……とか\r\n//何とか」\r\n\"A GHQ planeja usar uma arma chamada Bomba Forjada. Ela certamente matará todos no castelo. É o que ela diz.\"\r\n\r\n"
  },
  {
   "offset": 2404,
@@ -52,27 +52,27 @@
  {
   "offset": 2528,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460090a01'>\r\n//「御堂にはわかる？\r\n//　私には正直さっぱりなんだけど」\r\n\"Does that make any sense to you? Because it sure doesn't to me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460090a01'>\r\n//「御堂にはわかる？\r\n//　私には正直さっぱりなんだけど」\r\n\"Isso faz algum sentido para você? Porque para mim, definitivamente não.\"\r\n"
  },
  {
   "offset": 2776,
   "en": "\r\n//　首を傾げる村正に、しかし俺は返答するどころでは\r\n//なかった。\r\n//　\r\n//　そうだ……鍛造雷弾！\r\n  But her message has triggered another burst of thought, and I am in no state to respond.\r\n\r\n  Of course! The Forged Bomb!\r\n\r\n//　この普陀楽城を一掃する威力を有する最終兵器。\r\n//　進駐軍の勝利のため――否。緑龍会の目的のために、\r\n//間もなく投下される……。\r\n\r\n//　そんな法外な兵器が本当にあるのか、実在を疑う気\r\n//持ちもあった。\r\n//　しかし、全く別のルートから――あの大鳥大尉から\r\n//同じ情報がもたらされたとなると……\r\n  Any moment now, GHQ will unleash it on the castle, killing everyone in the area and granting victory to the Allies―or rather, to the Gruenedrachen Gesellschaft.\r\n\r\n  A weapon of such power... I had my doubts, but now that I have Captain Otori to corroborate...\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　首を傾げる村正に、しかし俺は返答するどころでは\r\n//なかった。\r\n//　\r\n//　そうだ……鍛造雷弾！\r\n  Mas a mensagem dela desencadeou outro turbilhão de pensamentos, e não estou em condições de responder.\r\n\r\n  Claro! A Bomba Forjada!\r\n\r\n//　この普陀楽城を一掃する威力を有する最終兵器。\r\n//　進駐軍の勝利のため――否。緑龍会の目的のために、\r\n//間もなく投下される……。\r\n\r\n//　そんな法外な兵器が本当にあるのか、実在を疑う気\r\n//持ちもあった。\r\n//　しかし、全く別のルートから――あの大鳥大尉から\r\n//同じ情報がもたらされたとなると……\r\n  A qualquer momento, a GHQ a lançará sobre o castelo, matando todos na área e concedendo a vitória aos Aliados — ou melhor, à Gruenedrachen Gesellschaft.\r\n\r\n  Uma arma com tanto poder... Eu tinha minhas dúvidas, mas agora que tenho a capitã Otori para corroborar...\r\n\r\n"
  },
  {
   "offset": 3746,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460100a00'>\r\n//「実在する」\r\n\"She's right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460100a00'>\r\n//「実在する」\r\n\"Ela está certa.\"\r\n"
  },
  {
   "offset": 3876,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460110a01'>\r\n//「……御堂？」\r\n\"Mido?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460110a01'>\r\n//「……御堂？」\r\n\"Mido?\"\r\n"
  },
  {
   "offset": 4008,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460120a00'>\r\n//「その兵器は本当に存在するのだ、村正。\r\n//　そして、もうすぐここに落とされる……」\r\n\"About the weapon. It exists. And it's on its way here as we speak.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460120a00'>\r\n//「その兵器は本当に存在するのだ、村正。\r\n//　そして、もうすぐここに落とされる……」\r\n\"Sobre a arma. Ela existe. E já está a caminho daqui enquanto falamos.\"\r\n"
  },
  {
   "offset": 4295,
@@ -82,37 +82,37 @@
  {
   "offset": 4425,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460140a00'>\r\n//「させてはならん」\r\n\"We can't let them use it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460140a00'>\r\n//「させてはならん」\r\n\"Não podemos deixar que a usem.\"\r\n"
  },
  {
   "offset": 4577,
   "en": "\r\n//　今、最優先事項はそれだ。\r\n//　最も近く最も大規模な破滅はそれだ。\r\n\r\n//　だが、どうやって防ぐ？\r\n\r\n//　爆弾の投下は、飛行艦か竜騎兵が行うのだろう。\r\n//　それを――迎撃する？\r\n\r\n//　…………無理だ。\r\n  The bomb has the greatest potential for destruction of any immediate threat. Therefore, stopping it must be my first priority.\r\n\r\n  But how?\r\n\r\n  I assume it will be dropped by airship or dragoon. Should I attempt to head them off?\r\n\r\n  ...No.\r\n\r\n//　爆弾の威力が桁違いなら、投下を行う飛行体は相当\r\n//の高度を取ると考えられる。\r\n//　迎え撃つならその空域へ行き着かねばならない。\r\n\r\n//　しかし今、低空域には銀星号の複製集団が陣取って\r\n//いる。\r\n//　力任せの突破などできる話ではなかった。\r\n\r\n  A weapon so devastating will have to be dropped from a very high altitude. But to reach that altitude―and thence the bomb's transport―I would first need to pass the Ginseigo copies prowling just overhead. The attempt would likely be suicidal.\r\n\r\n//　仮に迂回するなり隙を突くなりの方法で抜けられた\r\n//としても、その次は投下の護衛隊と交戦し撃退しなく\r\n//てはならない。\r\n//　まさか護衛がいないという事はないだろう。\r\n  Even if I managed to slip through some crack, or―more realistically―<br>detour around the killing field, I would still have the transport's escort to contend with. GHQ will not send it unguarded.\r\n\r\n//　駄目だ。\r\n//　賭けるには成算が低過ぎる。\r\n\r\n//　他の方法を考えなくてはならない。\r\n  Downing the transport is out of the question.\r\n  All right. What does that leave?\r\n\r\n//　だがどんな方法がある？\r\n//　力で止められないなら、交渉か？\r\n\r\n//　進駐軍司令部に押し掛けて指揮官に直談判？\r\n//　\r\n//　……現状の解決策としては夢想的過ぎる。\r\n  Negotiation? Should I force my way into GHQ headquarters and appeal directly to the commanding officer? Hardly a reasonable course of action.\r\n\r\n//　他に、他に何か手は――\r\n",
-  "pt": ""
+  "pt": "\r\n//　今、最優先事項はそれだ。\r\n//　最も近く最も大規模な破滅はそれだ。\r\n\r\n//　だが、どうやって防ぐ？\r\n\r\n//　爆弾の投下は、飛行艦か竜騎兵が行うのだろう。\r\n//　それを――迎撃する？\r\n\r\n//　…………無理だ。\r\n  A bomba tem o maior potencial de destruição entre todas as ameaças imediatas. Portanto, impedi-la deve ser minha prioridade máxima.\r\n\r\n  Mas como?\r\n\r\n  Suponho que será lançada por uma aeronave ou por um cavaleiro-dragão. Devo tentar interceptá-los?\r\n\r\n  ...Não.\r\n\r\n//　爆弾の威力が桁違いなら、投下を行う飛行体は相当\r\n//の高度を取ると考えられる。\r\n//　迎え撃つならその空域へ行き着かねばならない。\r\n\r\n//　しかし今、低空域には銀星号の複製集団が陣取って\r\n//いる。\r\n//　力任せの突破などできる話ではなかった。\r\n\r\n  Uma arma tão devastadora terá que ser lançada de uma altitude muito elevada. Mas para alcançar essa altitude — e depois o transporte da bomba — eu primeiro precisaria passar pelas cópias de Ginseigo que rondam logo acima. A tentativa provavelmente seria suicida.\r\n\r\n//　仮に迂回するなり隙を突くなりの方法で抜けられた\r\n//としても、その次は投下の護衛隊と交戦し撃退しなく\r\n//てはならない。\r\n//　まさか護衛がいないという事はないだろう。\r\n  Mesmo que eu conseguisse escapar por alguma brecha, ou — mais realisticamente — desviar do campo de matança, ainda teria que enfrentar a escolta do transporte. A GHQ não o enviará desprotegido.\r\n\r\n//　駄目だ。\r\n//　賭けるには成算が低過ぎる。\r\n\r\n//　他の方法を考えなくてはならない。\r\n  Derrubar o transporte está fora de questão.\r\n  Muito bem. Então o que resta?\r\n\r\n//　だがどんな方法がある？\r\n//　力で止められないなら、交渉か？\r\n\r\n//　進駐軍司令部に押し掛けて指揮官に直談判？\r\n//　\r\n//　……現状の解決策としては夢想的過ぎる。\r\n  Negociação? Devo invadir o quartel-general da GHQ e apelar diretamente ao oficial comandante? Dificilmente seria uma atitude razoável.\r\n\r\n//　他に、他に何か手は――\r\n"
  },
  {
   "offset": 6802,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460150a01'>\r\n//「御堂、伝言にはあと少し続きがあるの」\r\n\"Mido. There's more to the message.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460150a01'>\r\n//「御堂、伝言にはあと少し続きがあるの」\r\n\"Mido. A mensagem continua.\"\r\n"
  },
  {
   "offset": 6999,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460160a01'>\r\n//「実はこれも、何だか意味がよくわからない\r\n//んだけど……」\r\n\"This part doesn't make much sense either...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460160a01'>\r\n//「実はこれも、何だか意味がよくわからない\r\n//んだけど……」\r\n\"Esta parte também não faz muito sentido...\"\r\n"
  },
  {
   "offset": 7233,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460170a00'>\r\n//「言ってくれ」\r\n\"Tell me!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460170a00'>\r\n//「言ってくれ」\r\n\"Conte!\"\r\n"
  },
  {
   "offset": 7362,
   "en": "\r\n//　藁にすがる思いで、先を促す。\r\n  I'll take any hint, however small.\r\n",
-  "pt": ""
+  "pt": "\r\n//　藁にすがる思いで、先を促す。\r\n  Aceito qualquer pista, por menor que seja.\r\n"
  },
  {
   "offset": 7459,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460180a01'>\r\n//「この作戦を防ぐには……\r\n//　六波羅幕府を消滅させるしかない」\r\n\"She said there's only one way to stop it. The Rokuhara shogunate must cease to exist.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460180a01'>\r\n//「この作戦を防ぐには……\r\n//　六波羅幕府を消滅させるしかない」\r\n\"Ela disse que só há um jeito de impedir isso. O Xogunato Rokuhara precisa deixar de existir.\"\r\n"
  },
  {
   "offset": 7741,
@@ -122,17 +122,17 @@
  {
   "offset": 7860,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460200a00'>\r\n//「それはどういう意味だ？」\r\n\"How is that supposed to happen?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460200a00'>\r\n//「それはどういう意味だ？」\r\n\"E como isso deveria acontecer?\"\r\n"
  },
  {
   "offset": 8030,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460210a01'>\r\n//「わからないってば。\r\n//　あと……」\r\n\"Don't ask me. She also <br>said...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460210a01'>\r\n//「わからないってば。\r\n//　あと……」\r\n\"Não me pergunte. Ela também disse...\"\r\n"
  },
  {
   "offset": 8222,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460220a01'>\r\n//「鍵は足利四郎邦氏、ですって」\r\n\"That Ashikaga Shiro Kuniuji holds the key.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460220a01'>\r\n//「鍵は足利四郎邦氏、ですって」\r\n\"Que Ashikaga Shiro Kuniuji é a chave.\"\r\n"
  },
  {
   "offset": 8415,
@@ -142,87 +142,87 @@
  {
   "offset": 8539,
   "en": "\r\n//　足利四郎邦氏――護氏の嫡孫。六波羅の総大将。\r\n//　あの少年を鍵にして、六波羅を消す……？\r\n  Moriuji's grandson, Ashikaga Kuniuji. That boy has the power to destroy the shogunate?\r\n\r\n//　大尉は何を考えていたのだろう。\r\n//　確かに進駐軍は城それ自体より住まう六波羅を潰し\r\n//たいのだから、六波羅が無くなれば爆弾を落とす必要\r\n//も無くなる理屈だが。\r\n  What is Captain Otori thinking? I understand the basic concept. GHQ's objective is to destroy Rokuhara, not Fudaraku itself. If Rokuhara ceases to exist, there will no longer be a reason to drop the bomb.\r\n\r\n//　裏に潜む緑龍会の意図に六波羅の有無は関係ないに\r\n//せよ、彼らは進駐軍を支配しているのではなく巧妙に\r\n//誘導しているに過ぎない以上、進駐軍側の都合を無視\r\n//はできまい。――幕府が消えれば計画は頓挫する。\r\n  I expect the Society might have something to say about that, but fortunately, they do not control GHQ. They merely guide it in their chosen direction―cleverly, to be sure, but ultimately GHQ's own needs take precedence. If the shogunate ends, the plan must fail.\r\n\r\n//しかし、幕府などというものをそう簡単に生んだり\r\n//消したりできる筈もない。\r\n//　\r\n//　大尉の伝言は端的過ぎて、真意が見えなかった。\r\n\r\n//　おそらく、現代情勢に疎い村正に一から十まで説明\r\n//する手間を惜しんで要点のみ伝えさせたのだろうが。\r\n//　その配慮も今は恨めしい。\r\n\r\n//　――――いや。待て。<k>\r\n//　\r\n//　<RUBY text='・・・・・・・・'>足利四郎邦氏が鍵</RUBY>？\r\n\r\n//　総大将である彼を暗殺しろと？\r\n//　いや違う……違う。そうではない。\r\n\r\n//　彼は六波羅を背負って立つには余りに若く、現在は\r\n//実権を有していない。\r\n//　彼がいなくなっても六波羅は滅びない。\r\n\r\n//　だから、殺すのではない。\r\n//　彼は、<RUBY text='・・・'>生かす</RUBY>。\r\n\r\n//　彼の存在は六波羅の実機能面において重要ではなく、\r\n//消え去っても幕府の致命傷とはならないだろう。\r\n//　だが、彼は幕府を滅ぼす事はできるのだ。\r\n  But one cannot simply <I>erase</I> the shogunate. The scale is too vast and time too short.\r\n\r\n  This cannot be all the captain wanted to convey. She must have omitted some crucial detail, believing that Muramasa would not understand.\r\n\r\n  True, Muramasa is no expert on current affairs, but surely the captain could have included one more―\r\n\r\n  Wait. What was the last thing she said?\r\n\r\n  <I>Ashikaga Kuniuji is the key.</I>\r\n\r\n  Does she want me to assassinate him? No. That can't be right.\r\n\r\n  While technically the shogun, the boy is much too young to bear that responsibility. Real power rests with the generals beneath him.\r\n\r\n  Killing the shogun will not end the shogunate.\r\n\r\n  In which case... we need him㉓<I>alive</I>.\r\n\r\n  Alive, he has the power to destroy Rokuhara!\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　足利四郎邦氏――護氏の嫡孫。六波羅の総大将。\r\n//　あの少年を鍵にして、六波羅を消す……？\r\n  O neto de Moriuji, Ashikaga Kuniuji. Aquele garoto tem o poder de destruir o xogunato?\r\n\r\n//　大尉は何を考えていたのだろう。\r\n//　確かに進駐軍は城それ自体より住まう六波羅を潰し\r\n//たいのだから、六波羅が無くなれば爆弾を落とす必要\r\n//も無くなる理屈だが。\r\n  O que a capitã Otori está pensando? Eu entendo o conceito básico. O objetivo da GHQ é destruir Rokuhara, não o próprio Fudaraku. Se Rokuhara deixar de existir, não haverá mais motivo para lançar a bomba.\r\n\r\n//　裏に潜む緑龍会の意図に六波羅の有無は関係ないに\r\n//せよ、彼らは進駐軍を支配しているのではなく巧妙に\r\n//誘導しているに過ぎない以上、進駐軍側の都合を無視\r\n//はできまい。――幕府が消えれば計画は頓挫する。\r\n  Imagino que a Sociedade tenha algo a dizer sobre isso, mas, felizmente, ela não controla a GHQ. Apenas a guia na direção que escolheu — de forma hábil, sem dúvida, mas, no fim, as próprias necessidades da GHQ prevalecem. Se o xogunato acabar, o plano precisa fracassar.\r\n\r\n//しかし、幕府などというものをそう簡単に生んだり\r\n//消したりできる筈もない。\r\n//　\r\n//　大尉の伝言は端的過ぎて、真意が見えなかった。\r\n\r\n//　おそらく、現代情勢に疎い村正に一から十まで説明\r\n//する手間を惜しんで要点のみ伝えさせたのだろうが。\r\n//　その配慮も今は恨めしい。\r\n\r\n//　――――いや。待て。<k>\r\n//　\r\n//　<RUBY text='・・・・・・・・'>足利四郎邦氏が鍵</RUBY>？\r\n\r\n//　総大将である彼を暗殺しろと？\r\n//　いや違う……違う。そうではない。\r\n\r\n//　彼は六波羅を背負って立つには余りに若く、現在は\r\n//実権を有していない。\r\n//　彼がいなくなっても六波羅は滅びない。\r\n\r\n//　だから、殺すのではない。\r\n//　彼は、<RUBY text='・・・'>生かす</RUBY>。\r\n\r\n//　彼の存在は六波羅の実機能面において重要ではなく、\r\n//消え去っても幕府の致命傷とはならないだろう。\r\n//　だが、彼は幕府を滅ぼす事はできるのだ。\r\n  Mas não se pode simplesmente <I>apagar</I> o xogunato. A escala é grande demais e o tempo, curto demais.\r\n\r\n  Isso não pode ser tudo o que a capitã queria transmitir. Ela deve ter omitido algum detalhe crucial, acreditando que Muramasa não entenderia.\r\n\r\n  É verdade que Muramasa não é especialista em assuntos atuais, mas com certeza a capitã poderia ter incluído mais um—\r\n\r\n  Espere. Qual foi a última coisa que ela disse?\r\n\r\n  <I>Ashikaga Kuniuji é a chave.</I>\r\n\r\n  Ela quer que eu o assassine? Não. Não pode ser isso.\r\n\r\n  Embora tecnicamente seja o xogum, o garoto é jovem demais para carregar essa responsabilidade. O poder real está com os generais abaixo dele.\r\n\r\n  Matar o xogum não vai acabar com o xogunato.\r\n\r\n  Nesse caso... precisamos dele㉓<I>vivo</I>.\r\n\r\n  Vivo, ele tem o poder de destruir Rokuhara!\r\n\r\n"
  },
  {
   "offset": 11703,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460240a00'>\r\n//「村正、行くぞ」\r\n\"We have to hurry.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460240a00'>\r\n//「村正、行くぞ」\r\n\"Temos que nos apressar.\"\r\n"
  },
  {
   "offset": 11844,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460250a01'>\r\n//「どこへ？」\r\n\"Where?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460250a01'>\r\n//「どこへ？」\r\n\"Onde?\"\r\n"
  },
  {
   "offset": 11974,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460260a00'>\r\n//「天守閣。\r\n//　足利邦氏殿下のもとへ」\r\n\"To the keep. That's where Lord Kuniuji will be.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460260a00'>\r\n//「天守閣。\r\n//　足利邦氏殿下のもとへ」\r\n\"Ao torreão. É lá que o lorde Kuniuji estará.\"\r\n"
  },
  {
   "offset": 12176,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460270a00'>\r\n//「彼を説得し、大政奉還を宣言させる」\r\n\"We must convince him to restore power to the emperor.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460270a00'>\r\n//「彼を説得し、大政奉還を宣言させる」\r\n\"Precisamos convencê-lo a devolver o poder ao imperador.\"\r\n"
  },
  {
   "offset": 12383,
   "en": "\r\n//　<RUBY text='・・・・'>政権返上</RUBY>。\r\n//　国家統治機構としての六波羅の終焉を表明するよう\r\n//願う。\r\n\r\n  The abdication of power. <I>That</I>㉑is what will end this crisis. Ashikaga Kuniuji must declare an end to Rokuhara's rule of Yamato.\r\n\r\n\r\n//　足利邦氏は名目上の幕府元首に過ぎない。\r\n//　だが名目上でも首長であるからには、その名のもと\r\n//公的宣言がなされれば、重大な意義を持つだろう……\r\n//少なくとも、実権を握る者に否定されるまでの間は。\r\n  Although his position is purely symbolic, in this case it is the symbol that matters. A public declaration from the shogun himself will carry great weight, both here and abroad.\r\n  Someone with real authority might try to overturn it later, but that will take time. And time is what we need.\r\n\r\n//　進駐軍は六波羅を不当な政府と断定し、この排除を\r\n//名分として兵を動かした。\r\n//　だから――彼らの言う通りにしてやるのだ。先手を\r\n//打って、六波羅自身の行動で。\r\n\r\n//　そうなっては進駐軍は戦闘続行する理由を<RUBY text='な'>失</RUBY>くす。\r\n  This attack by the West is justified solely on the claim that Rokuhara is a tyrannical regime that must be toppled for the sake of Yamato.\r\n  No argument there. We'll give them what they want. The shogunate dead―only by its own hand.\r\n\r\n  If Rokuhara no longer rules, then GHQ has no cause to prosecute this war.\r\n\r\n//　黙殺するのは勿論、可能だ。\r\n//　だがその場合、正義の戦争という看板の喪失、大和\r\n//国民の心象への悪影響、国際社会の批判等々、失う物\r\n//が多過ぎる。\r\n\r\n//　それは進駐軍を動かす者――大英連邦であれ新大陸\r\n//独立派であれ――にとって受け入れ難いはずだ。\r\n//　戦争利益を全て失いかねない。\r\n\r\n//　この方法なら、鍛造雷弾投下を止められる！\r\n//　足利邦氏の口で六波羅体制の終結を宣言させれば！\r\n  Certainly, they could ignore the declaration. But to attack an enemy that has offered its surrender would invalidate their pretensions to justice. They would risk not only the enmity of Yamato, but also international censure.\r\n\r\n  Britain will not take that risk, and neither, I'm sure, will the Americans in command. It would defeat their true purpose: to establish a stable foothold on this land.\r\n\r\n  Yes. This is it. A way to stop the bomb!\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　<RUBY text='・・・・'>政権返上</RUBY>。\r\n//　国家統治機構としての六波羅の終焉を表明するよう\r\n//願う。\r\n\r\n  A abdicação do poder. <I>Isso</I>㉑ é o que vai acabar com esta crise. Ashikaga Kuniuji precisa declarar o fim do domínio de Rokuhara sobre Yamato.\r\n\r\n\r\n//　足利邦氏は名目上の幕府元首に過ぎない。\r\n//　だが名目上でも首長であるからには、その名のもと\r\n//公的宣言がなされれば、重大な意義を持つだろう……\r\n//少なくとも、実権を握る者に否定されるまでの間は。\r\n  Embora sua posição seja puramente simbólica, neste caso é o símbolo que importa. Uma declaração pública do próprio xogum terá grande peso, tanto aqui quanto no exterior.\r\n  Alguém com autoridade real pode tentar reverter isso depois, mas levará tempo. E tempo é o que precisamos.\r\n\r\n//　進駐軍は六波羅を不当な政府と断定し、この排除を\r\n//名分として兵を動かした。\r\n//　だから――彼らの言う通りにしてやるのだ。先手を\r\n//打って、六波羅自身の行動で。\r\n\r\n//　そうなっては進駐軍は戦闘続行する理由を<RUBY text='な'>失</RUBY>くす。\r\n  Este ataque do Ocidente se justifica apenas pela alegação de que Rokuhara é um regime tirânico que precisa ser derrubado em nome de Yamato.\r\n  Não há como discordar. Vamos dar a eles o que querem. O xogunato morto — pelas próprias mãos.\r\n\r\n  Se Rokuhara não governa mais, então a GHQ não tem motivo para prosseguir com esta guerra.\r\n\r\n//　黙殺するのは勿論、可能だ。\r\n//　だがその場合、正義の戦争という看板の喪失、大和\r\n//国民の心象への悪影響、国際社会の批判等々、失う物\r\n//が多過ぎる。\r\n\r\n//　それは進駐軍を動かす者――大英連邦であれ新大陸\r\n//独立派であれ――にとって受け入れ難いはずだ。\r\n//　戦争利益を全て失いかねない。\r\n\r\n//　この方法なら、鍛造雷弾投下を止められる！\r\n//　足利邦氏の口で六波羅体制の終結を宣言させれば！\r\n  É claro que eles poderiam ignorar a declaração. Mas atacar um inimigo que se rendeu invalidaria suas pretensões de justiça. Correriam o risco não só da hostilidade de Yamato, mas também da censura internacional.\r\n\r\n  A Grã-Bretanha não correrá esse risco, e os americanos no comando, tenho certeza, também não. Isso frustraria seu verdadeiro propósito: estabelecer uma base estável nesta terra.\r\n\r\n  Sim. É isso. Um jeito de impedir a bomba!\r\n\r\n"
  },
  {
   "offset": 14943,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460280a01'>\r\n//「…………。\r\n//　で、できるの？　そんなこと」\r\n\"But can you? Convince him, I mean.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460280a01'>\r\n//「…………。\r\n//　で、できるの？　そんなこと」\r\n\"Mas você consegue? Convencê-lo, quero dizer.\"\r\n"
  },
  {
   "offset": 15150,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460290a00'>\r\n//「やってみなくてはわからん。\r\n//　考えた中では、これが一番成功する望みが\r\n//ありそうだ」\r\n\"I won't know until I try. And this is the only plan with any hope of success.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460290a00'>\r\n//「やってみなくてはわからん。\r\n//　考えた中では、これが一番成功する望みが\r\n//ありそうだ」\r\n\"Não saberei até tentar. E este é o único plano com alguma esperança de sucesso.\"\r\n"
  },
  {
   "offset": 15455,
   "en": "\r\n//　宣言の実施は……軍の広域回線を使えば済む。\r\n//　隠蔽工作など不可能な広範囲に宣言を伝えられる。\r\n\r\n//　難点は、やはり説得か。\r\n\r\n//　ここしばらくを普陀楽城で暮らしたが、俺の身分は\r\n//所詮一介の竜軍中佐、殿上人たる足利邦氏に会う機会\r\n//など無かった。\r\n//　当然、言葉を交わした事もない。\r\n\r\n//　……つまり。\r\n//　俺は初対面の貴人の所へ押し掛けて、無茶な要求を\r\n//通さなくてはならないわけだ。\r\n  The declaration itself should be simple enough. We'll broadcast on all frequencies, reaching so far and wide that no one will be able to hide what has happened.\r\n\r\n  As Muramasa points out, convincing the young shogun to make the announcement is likely to pose the real difficulty. Great lords do not mingle with lowly colonels. In my time here at Fudaraku Castle, I have not once so much as seen Kuniuji, never mind spoken with him.\r\n\r\n  So I have to break into the shogun's personal quarters and convince him, a boy I've never met, to forsake everything he's ever known.\r\n",
-  "pt": ""
+  "pt": "\r\n//　宣言の実施は……軍の広域回線を使えば済む。\r\n//　隠蔽工作など不可能な広範囲に宣言を伝えられる。\r\n\r\n//　難点は、やはり説得か。\r\n\r\n//　ここしばらくを普陀楽城で暮らしたが、俺の身分は\r\n//所詮一介の竜軍中佐、殿上人たる足利邦氏に会う機会\r\n//など無かった。\r\n//　当然、言葉を交わした事もない。\r\n\r\n//　……つまり。\r\n//　俺は初対面の貴人の所へ押し掛けて、無茶な要求を\r\n//通さなくてはならないわけだ。\r\n  A declaração em si deve ser simples o bastante. Vamos transmitir em todas as frequências, alcançando tão longe que ninguém poderá esconder o que aconteceu.\r\n\r\n  Como Muramasa observa, convencer o jovem xogum a fazer o anúncio provavelmente será a verdadeira dificuldade. Grandes lordes não se misturam com coronéis insignificantes. Em todo o meu tempo aqui no Castelo Fudaraku, nunca sequer vi Kuniuji, muito menos falei com ele.\r\n\r\n  Então tenho que invadir os aposentos pessoais do xogum e convencer um garoto que nunca vi a abandonar tudo o que conhece.\r\n"
  },
  {
   "offset": 16609,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460300a00'>\r\n//「やらねばならん。\r\n//　……自信の有無を問われると困るが」\r\n\"I won't say I'm confident about my chances... but there's no other way.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460300a00'>\r\n//「やらねばならん。\r\n//　……自信の有無を問われると困るが」\r\n\"Não digo que estou confiante nas minhas chances... mas não há outro jeito.\"\r\n"
  },
  {
   "offset": 16865,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460310a01'>\r\n//「……私も努力するから。\r\n//　どこまで役に立てるかわからないけど」\r\n\"I'll do what I can to help. I don't know what that might be, but I'll do it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460310a01'>\r\n//「……私も努力するから。\r\n//　どこまで役に立てるかわからないけど」\r\n\"Vou fazer o que puder para ajudar. Não sei bem o quê, mas vou fazer.\"\r\n"
  },
  {
   "offset": 17144,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460320a00'>\r\n//「頼む」\r\n\"I'll be counting on you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460320a00'>\r\n//「頼む」\r\n\"Contarei com você.\"\r\n"
  },
  {
   "offset": 17280,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460330a07'>\r\n//「頼まなくていいって。\r\n//　その<RUBY text='ぶきっちょ'>不器用</RUBY>がそんな場面で役に立つかい」\r\n\"Probably a bad idea. She couldn't talk her way out of a paper bag.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460330a07'>\r\n//「頼まなくていいって。\r\n//　その<RUBY text='ぶきっちょ'>不器用</RUBY>がそんな場面で役に立つかい」\r\n\"Provavelmente é má ideia. Ela não saberia argumentar nem para sair de um saco de papel.\"\r\n"
  },
  {
   "offset": 17588,
   "en": "\r\n//　横手からの声に、振り向く。\r\n//　ようやく糸の戒めを振り払い、彼女が立ち上がって\r\n//いた。\r\n  We turn to see Chachamaru rising to her feet, having finally freed herself from Muramasa's threads.\r\n",
-  "pt": ""
+  "pt": "\r\n//　横手からの声に、振り向く。\r\n//　ようやく糸の戒めを振り払い、彼女が立ち上がって\r\n//いた。\r\n  Viramo-nos e vemos Chachamaru se levantar, tendo finalmente se libertado dos fios de Muramasa.\r\n"
  },
  {
   "offset": 17836,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460340a01'>\r\n//「茶々丸！」\r\n\"Chachamaru!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460340a01'>\r\n//「茶々丸！」\r\n\"Chachamaru!\"\r\n"
  },
  {
   "offset": 17971,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460350a07'>\r\n//「やってくれた。\r\n//　おめー、本当にやってくれやがったな」\r\n\"You did it. You really fucking did it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460350a07'>\r\n//「やってくれた。\r\n//　おめー、本当にやってくれやがったな」\r\n\"Você conseguiu. Você conseguiu mesmo, porra.\"\r\n"
  },
  {
   "offset": 18203,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460360a07'>\r\n//「……村正……」\r\n\"Muramasa...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460360a07'>\r\n//「……村正……」\r\n\"Muramasa...!\"\r\n"
  },
  {
   "offset": 18348,
@@ -232,22 +232,22 @@
  {
   "offset": 18478,
   "en": "\r\n//　足利茶々丸の声は、怨念という心理を純粋に信号化\r\n//したようなものだった。\r\n//　それを真正面から吹き付けられ、村正が硬直する。\r\n  Muramasa flinches back, struck by the raw hate in Chachamaru's voice.\r\n\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　足利茶々丸の声は、怨念という心理を純粋に信号化\r\n//したようなものだった。\r\n//　それを真正面から吹き付けられ、村正が硬直する。\r\n  Muramasa recua, atingida pelo ódio cru na voz de Chachamaru.\r\n\r\n\r\n"
  },
  {
   "offset": 18754,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460380a07'>\r\n//「堀越で……始末しとくべきだった……！」\r\n\"I should've finished you off in Horigoe...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460380a07'>\r\n//「堀越で……始末しとくべきだった……！」\r\n\"Devia ter acabado com você em Horigoe...\"\r\n"
  },
  {
   "offset": 18965,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460390a07'>\r\n//「いや、八幡宮で潰しとくんだった！」\r\n\"Should've fed you to the hole back at Hachiman Shrine!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460390a07'>\r\n//「いや、八幡宮で潰しとくんだった！」\r\n\"Devia ter te jogado no buraco lá no Santuário Hachiman!\"\r\n"
  },
  {
   "offset": 19182,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460400a07'>\r\n//「ドジ踏んだよ。\r\n//　おかげでこのザマだ」\r\n\"Yeah, I fucked this one up good. And now it's all in the shitter.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460400a07'>\r\n//「ドジ踏んだよ。\r\n//　おかげでこのザマだ」\r\n\"É, eu fodi bonito dessa vez. E agora está tudo na merda.\"\r\n"
  },
  {
   "offset": 19417,
@@ -257,12 +257,12 @@
  {
   "offset": 19541,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460420a07'>\r\n//「はは……嗤える」\r\n\"Haha... What a fucking joke, right?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460420a07'>\r\n//「はは……嗤える」\r\n\"Haha... Que piada de merda, né?\"\r\n"
  },
  {
   "offset": 19712,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460430a07'>\r\n//「世話ねえや。\r\n//　余裕かましたあげく、奪われてんだもんな」\r\n\"Here I am, sitting on a winning hand, then you waltz in and snatch it away.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460430a07'>\r\n//「世話ねえや。\r\n//　余裕かましたあげく、奪われてんだもんな」\r\n\"Eu aqui, sentada numa mão vencedora, e você chega toda prosa e arranca ela de mim.\"\r\n"
  },
  {
   "offset": 19984,
@@ -272,37 +272,37 @@
  {
   "offset": 20120,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460450a07'>\r\n//「面白過ぎるんだよ、てめェ!!」\r\n\"You're a real piece of work, you know that!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460450a07'>\r\n//「面白過ぎるんだよ、てめェ!!」\r\n\"Você é um caso mesmo, sabia?!\"\r\n"
  },
  {
   "offset": 20317,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460460a01'>\r\n//「……貴方が先に奪ったんでしょう！」\r\n\"You're the one who took him from me!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460460a01'>\r\n//「……貴方が先に奪ったんでしょう！」\r\n\"Foi você quem o tirou de mim!\"\r\n"
  },
  {
   "offset": 20513,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460470a07'>\r\n//「そーだよ。\r\n//　あてが先におめーから奪った」\r\n\"Damn right I did!\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460480a07'>\r\n//「……その時に全部奪っときゃ良かったんだ。\r\n//　おめーの命なんてカスみてぇなもん、興味\r\n//のカケラもねえってんでほっといたばっかり\r\n//に……これだ」\r\n\"Should've taken everything else too. Your life? That's dogshit to me, but I went 'round instead of picking it up, and now I've gone and stepped in it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460470a07'>\r\n//「そーだよ。\r\n//　あてが先におめーから奪った」\r\n\"Claro que fui eu, porra!\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460480a07'>\r\n//「……その時に全部奪っときゃ良かったんだ。\r\n//　おめーの命なんてカスみてぇなもん、興味\r\n//のカケラもねえってんでほっといたばっかり\r\n//に……これだ」\r\n\"Devia ter levado todo o resto também. Sua vida? Pra mim não passa de bosta, mas eu desviei em vez de pegar, e agora pisei nela.\"\r\n"
  },
  {
   "offset": 21173,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460490a07'>\r\n//「くそ、後悔なんて趣味じゃねえ！\r\n//　今からでもやってやる――」\r\n\"But <I>fuck</I>㉒this! Whining ain't my style! It's not too late to finish the job!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460490a07'>\r\n//「くそ、後悔なんて趣味じゃねえ！\r\n//　今からでもやってやる――」\r\n\"Mas <I>foda-se</I>㉒ isso! Ficar choramingando não é meu estilo! Ainda não é tarde demais para terminar o serviço!\"\r\n"
  },
  {
   "offset": 21460,
   "en": "\r\n//　飢えた鴉も逃げ出すほどの凶気を込めて、茶々丸が\r\n//手を伸ばす。\r\n//　俺は反射的に、村正を庇うべく間へ割って入った。\r\n\r\n//　だが。\r\n//　その俺の前で、茶々丸が不意によろめく。\r\n  She takes one menacing step forward, eyes like two white-hot coals fixed on Muramasa. I automatically move to shield my tsurugi.\r\n\r\n  But just as she takes the second step, Chachamaru suddenly clutches her head―<?>",
-  "pt": ""
+  "pt": "\r\n//　飢えた鴉も逃げ出すほどの凶気を込めて、茶々丸が\r\n//手を伸ばす。\r\n//　俺は反射的に、村正を庇うべく間へ割って入った。\r\n\r\n//　だが。\r\n//　その俺の前で、茶々丸が不意によろめく。\r\n  Ela dá um passo ameaçador à frente, os olhos como duas brasas incandescentes fixos em Muramasa. Eu me movo por reflexo para proteger minha tsurugi.\r\n\r\n  Mas, bem quando ela dá o segundo passo, Chachamaru de repente agarra a própria cabeça―<?>"
  },
  {
   "offset": 21944,
   "en": "\r\nthen sinks to her knees, face contorted in pain.\r\n\r\n//　頭を抱えながら、膝を屈した。\r\n",
-  "pt": ""
+  "pt": "\r\ne então cai de joelhos, o rosto contorcido de dor.\r\n\r\n//　頭を抱えながら、膝を屈した。\r\n"
  },
  {
   "offset": 22055,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460500a07'>\r\n//「ぢぃ……ッッ……！」\r\n\"Grahh...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460500a07'>\r\n//「ぢぃ……ッッ……！」\r\n\"Grrr...!\"\r\n"
  },
  {
   "offset": 22206,
@@ -312,22 +312,22 @@
  {
   "offset": 22325,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460520a07'>\r\n//「畜生……頭痛が……\r\n//　……最近は軽かったのに……」\r\n\"My... fucking head! Just when I thought it was getting better...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460520a07'>\r\n//「畜生……頭痛が……\r\n//　……最近は軽かったのに……」\r\n\"Minha... cabeça da porra! Logo quando eu achei que estava melhorando...!\"\r\n"
  },
  {
   "offset": 22578,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460530a07'>\r\n//「急に元に戻ると……糞がっ……\r\n//　……響きやがる……！」\r\n\"Now it's back... fuck! Shut up... SHUT UP!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460530a07'>\r\n//「急に元に戻ると……糞がっ……\r\n//　……響きやがる……！」\r\n\"Agora voltou... merda! Cala a boca... CALA A BOCA!\"\r\n"
  },
  {
   "offset": 22814,
   "en": "\r\n//　頭痛……？\r\n//　\r\n//　余程の苦しみなのか。額を押さえる指はともすれば\r\n//肉を引き裂きそうだ。\r\n  Her head?\r\n\r\n  Whatever is causing it, the pain is clearly severe. Her fingers dig frantically at her skull, as if to tear free something that has taken root.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　頭痛……？\r\n//　\r\n//　余程の苦しみなのか。額を押さえる指はともすれば\r\n//肉を引き裂きそうだ。\r\n  A cabeça dela?\r\n\r\n  Qualquer que seja a causa, a dor é evidentemente intensa. Os dedos dela escavam o próprio crânio freneticamente, como se quisessem arrancar algo que se enraizou ali.\r\n\r\n"
  },
  {
   "offset": 23127,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460540a00'>\r\n//「……茶々丸……？」\r\n\"Chachamaru...?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460540a00'>\r\n//「……茶々丸……？」\r\n\"Chachamaru...?\"\r\n"
  },
  {
   "offset": 23271,
@@ -337,32 +337,32 @@
  {
   "offset": 23404,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460560a07'>\r\n//「……あ……」\r\n\"...ah...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460560a07'>\r\n//「……あ……」\r\n\"...ah...\"\r\n"
  },
  {
   "offset": 23542,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460570a07'>\r\n//「……まだ、名前で呼んでくれるんだ……」\r\n\"You... said my name...\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460580a07'>\r\n//「お兄さん」\r\n\"Hehe.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460570a07'>\r\n//「……まだ、名前で呼んでくれるんだ……」\r\n\"Você... disse meu nome...\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460580a07'>\r\n//「お兄さん」\r\n\"Hehe.\"\r\n"
  },
  {
   "offset": 23857,
   "en": "\r\n//　ゆらりと。\r\n//　小さく笑って、茶々丸が再び立った。\r\n  She smiles softly, then rises on unsteady legs.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ゆらりと。\r\n//　小さく笑って、茶々丸が再び立った。\r\n  Ela sorri de leve, depois se levanta sobre pernas cambaleantes.\r\n"
  },
  {
   "offset": 23998,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460590a07'>\r\n//「良かった。\r\n//　中将閣下ー、に戻っちゃわなくて」\r\n\"I'm glad. I was worried you'd go back to calling me 'General.'\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460590a07'>\r\n//「良かった。\r\n//　中将閣下ー、に戻っちゃわなくて」\r\n\"Que bom. Eu estava preocupada que você voltasse a me chamar de 'General'.\"\r\n"
  },
  {
   "offset": 24242,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460600a00'>\r\n//「…………。\r\n//　茶々丸、もうやめろ」\r\n\"...Chachamaru. You have to stop.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460600a00'>\r\n//「…………。\r\n//　茶々丸、もうやめろ」\r\n\"...Chachamaru. Você precisa parar.\"\r\n"
  },
  {
   "offset": 24429,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460610a00'>\r\n//「お前が何を求めているのか、それは知らん。\r\n//　だが犠牲とするものが大き過ぎる事だけは\r\n//わかっている」\r\n\"I don't know what it is that you're after. I know only that the price is too great.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460610a00'>\r\n//「お前が何を求めているのか、それは知らん。\r\n//　だが犠牲とするものが大き過ぎる事だけは\r\n//わかっている」\r\n\"Não sei o que você busca. Só sei que o preço é alto demais.\"\r\n"
  },
  {
   "offset": 24764,
@@ -372,57 +372,57 @@
  {
   "offset": 24891,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460630a00'>\r\n//「道義などは説かん。……頼む。\r\n//　やめて欲しい」\r\n\"I won't argue right and wrong. I'm asking you. Please, stop this now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460630a00'>\r\n//「道義などは説かん。……頼む。\r\n//　やめて欲しい」\r\n\"Não vou discutir o certo e o errado. Estou te pedindo. Por favor, pare com isso agora.\"\r\n"
  },
  {
   "offset": 25133,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460640a07'>\r\n//「……お兄さんのそういう、変に素直なとこ、\r\n//嫌いになれないんだよねー……」\r\n\"The way you always try to keep things on the level... That's one of the things I love about you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460640a07'>\r\n//「……お兄さんのそういう、変に素直なとこ、\r\n//嫌いになれないんだよねー……」\r\n\"Esse seu jeito de sempre tentar manter tudo na linha... É uma das coisas que eu amo em você.\"\r\n"
  },
  {
   "offset": 25450,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460650a07'>\r\n//「でも、聞けない。\r\n//　やめられないんだ。お兄さんのお願いでも」\r\n\"But I can't stop, brother. Not even for you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460650a07'>\r\n//「でも、聞けない。\r\n//　やめられないんだ。お兄さんのお願いでも」\r\n\"Mas não posso parar, irmão. Nem por você.\"\r\n"
  },
  {
   "offset": 25697,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460660a00'>\r\n//「茶々丸！」\r\n\"Chachamaru!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460660a00'>\r\n//「茶々丸！」\r\n\"Chachamaru!\"\r\n"
  },
  {
   "offset": 25826,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460670a07'>\r\n//「だから邦氏の所にも行かせてあげられない」\r\n\"If you wanna get to Kuniuji, you're gonna have to go through me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460670a07'>\r\n//「だから邦氏の所にも行かせてあげられない」\r\n\"Se quiser chegar até Kuniuji, vai ter que passar por mim.\"\r\n"
  },
  {
   "offset": 26062,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460680a07'>\r\n//「お兄さんの考えはいいとこ突いてるよ。\r\n//　確かに邦氏を利用すれば、今からでも鍛造\r\n//雷弾の投下を阻止できる……」\r\n\"You're right, you know. With him, there's still a chance you can stop the bomb.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460690a07'>\r\n//「説得も、案外難しくないんじゃないかな。\r\n//　今の<RUBY text='ときおう'>邦氏</RUBY>はちょっと情緒が不安定だからね。\r\n//幕府を潰してって頼まれたら、あっさりその\r\n//気になっちまいそうだ」\r\n\"Convincing him won't even be that hard, I reckon. He's been in kind of a dark place lately. Tearing down the shogunate might sound real good right about now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460680a07'>\r\n//「お兄さんの考えはいいとこ突いてるよ。\r\n//　確かに邦氏を利用すれば、今からでも鍛造\r\n//雷弾の投下を阻止できる……」\r\n\"Você tem razão, sabia. Com ele, ainda há uma chance de você impedir a bomba.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460690a07'>\r\n//「説得も、案外難しくないんじゃないかな。\r\n//　今の<RUBY text='ときおう'>邦氏</RUBY>はちょっと情緒が不安定だからね。\r\n//幕府を潰してって頼まれたら、あっさりその\r\n//気になっちまいそうだ」\r\n\"Convencê-lo nem vai ser tão difícil assim, eu acho. Ele anda meio pra baixo ultimamente. Derrubar o xogunato deve estar soando muito bem pra ele agora.\"\r\n"
  },
  {
   "offset": 26936,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460700a07'>\r\n//「……まさか童心坊主の悪趣味がこんなとこ\r\n//で祟るとはなァ……」\r\n\"Thanks, Doshin... you stupid cocksucker.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460700a07'>\r\n//「……まさか童心坊主の悪趣味がこんなとこ\r\n//で祟るとはなァ……」\r\n\"Valeu, Doshin... seu filho da puta idiota.\"\r\n"
  },
  {
   "offset": 27179,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460710a00'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460720a00'>\r\n//「何故、わざわざ教えた？」\r\n\"Why are you telling me <br>this?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460710a00'>\r\n//「…………」\r\n\"......\"\r\n\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460720a00'>\r\n//「何故、わざわざ教えた？」\r\n\"Por que está me dizendo isso?\"\r\n"
  },
  {
   "offset": 27466,
   "en": "\r\n//　希望を持たせるような事を。\r\n//　俺は自信を欠いていたのだから、そのままにして、\r\n//迷わせておけば良さそうなものだ。\r\n\r\n//　茶々丸が俺に対立するなら、そうして当然だろう。\r\n  She knows I lacked confidence. She should be fanning the flames of doubt, not giving me hope.\r\n\r\n  That is, if she is my enemy.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　希望を持たせるような事を。\r\n//　俺は自信を欠いていたのだから、そのままにして、\r\n//迷わせておけば良さそうなものだ。\r\n\r\n//　茶々丸が俺に対立するなら、そうして当然だろう。\r\n  Ela sabe que eu estava sem confiança. Deveria estar atiçando as chamas da dúvida, não me dando esperança.\r\n\r\n  Quer dizer, se ela for minha inimiga.\r\n\r\n"
  },
  {
   "offset": 27861,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460730a07'>\r\n//「理由は三つ」\r\n\"Three reasons.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460740a07'>\r\n//「一つ、一応の備えはしてある。\r\n//　二つ、お兄さんはあてが止める」\r\n\"One, I've taken precautions. Two, I'm gonna stop you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460730a07'>\r\n//「理由は三つ」\r\n\"Três razões.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460740a07'>\r\n//「一つ、一応の備えはしてある。\r\n//　二つ、お兄さんはあてが止める」\r\n\"Primeiro, tomei precauções. Segundo, vou te impedir.\"\r\n"
  },
  {
   "offset": 28256,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460750a07'>\r\n//「三つ。……あてはとことん、お兄さんには\r\n//甘いみたいだ。\r\n//　惚れた弱味ってやつかな」\r\n\"Three... call it weakness, I guess. That's just how much I love you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460750a07'>\r\n//「三つ。……あてはとことん、お兄さんには\r\n//甘いみたいだ。\r\n//　惚れた弱味ってやつかな」\r\n\"Três... pode chamar de fraqueza. É o quanto eu te amo.\"\r\n"
  },
  {
   "offset": 28561,
@@ -432,17 +432,17 @@
  {
   "offset": 28679,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460770a07'>\r\n//「色男さんめ」\r\n\"You playboy, you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460770a07'>\r\n//「色男さんめ」\r\n\"Seu playboy, você.\"\r\n"
  },
  {
   "offset": 28826,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460780a00'>\r\n//「茶々丸。\r\n//　もう一度――」\r\n\"Chachamaru, please―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460780a00'>\r\n//「茶々丸。\r\n//　もう一度――」\r\n\"Chachamaru, por favor―\"\r\n"
  },
  {
   "offset": 28990,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460790a07'>\r\n//「だめ。\r\n//　……困らせないで」\r\n\"No. ...Don't make this any harder.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460800a07'>\r\n//「お兄さんには<RUBY text='・・'>選択</RUBY>の余地があったみたいだ\r\n//けど。\r\n//　あてには無いんだから」\r\n\"Turns out you did have a choice in the matter. But I don't. I never did.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460790a07'>\r\n//「だめ。\r\n//　……困らせないで」\r\n\"Não. ...Não torne isso ainda mais difícil.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460800a07'>\r\n//「お兄さんには<RUBY text='・・'>選択</RUBY>の余地があったみたいだ\r\n//けど。\r\n//　あてには無いんだから」\r\n\"No fim, você tinha uma escolha, afinal. Mas eu não. Nunca tive.\"\r\n"
  },
  {
   "offset": 29492,
@@ -452,47 +452,47 @@
  {
   "offset": 29610,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460820a01'>\r\n//「御堂、行きましょう」\r\n\"Let's go, Mido.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460820a01'>\r\n//「御堂、行きましょう」\r\n\"Vamos, Mido.\"\r\n"
  },
  {
   "offset": 29764,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460830a00'>\r\n//「村正」\r\n\"Muramasa?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460830a00'>\r\n//「村正」\r\n\"Muramasa?\"\r\n"
  },
  {
   "offset": 29885,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460840a01'>\r\n//「無理に戦う必要もない。\r\n//　装甲して、飛んでいけば済むことよ」\r\n\"There's no need to fight her. We can fly to the keep.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460840a01'>\r\n//「無理に戦う必要もない。\r\n//　装甲して、飛んでいけば済むことよ」\r\n\"Não há necessidade de lutar contra ela. Podemos voar até a torre de menagem.\"\r\n"
  },
  {
   "offset": 30138,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460850a01'>\r\n//「上の<RUBY text='あれ'>複製</RUBY>が危険だけど……\r\n//　短い距離なら何とかなると思う」\r\n\"We'll have to watch out for those copies, but we should be okay for a short distance.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460850a01'>\r\n//「上の<RUBY text='あれ'>複製</RUBY>が危険だけど……\r\n//　短い距離なら何とかなると思う」\r\n\"Vamos ter que tomar cuidado com aquelas cópias, mas deve dar tudo certo numa distância curta.\"\r\n"
  },
  {
   "offset": 30447,
   "en": "\r\n//　妥当な提案だった。\r\n//　天守閣まで騎航で行き着けなくても良い。茶々丸を\r\n//振り切るだけで良いのだ。\r\n\r\n//　妨害者がいなければ、後は走って目的地まで行ける。\r\n  She's right. We don't need to fly all the way, just far enough to lose Chachamaru.\r\n\r\n  It's a sound plan.\r\n",
-  "pt": ""
+  "pt": "\r\n//　妥当な提案だった。\r\n//　天守閣まで騎航で行き着けなくても良い。茶々丸を\r\n//振り切るだけで良いのだ。\r\n\r\n//　妨害者がいなければ、後は走って目的地まで行ける。\r\n  Ela tem razão. Não precisamos voar o caminho inteiro, só o suficiente para despistar Chachamaru.\r\n\r\n  É um plano sensato.\r\n"
  },
  {
   "offset": 30798,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460860a07'>\r\n//「無能が」\r\n\"God㉓<I>damn,</I>㉗you're stupid.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460860a07'>\r\n//「無能が」\r\n\"Que㉓<I>porra,</I>㉗como você é burra.\"\r\n"
  },
  {
   "offset": 30957,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460870a01'>\r\n//「……何よ」\r\n\"...Excuse me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460870a01'>\r\n//「……何よ」\r\n\"...Como é?\"\r\n"
  },
  {
   "offset": 31094,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460880a07'>\r\n//「おめーの言うことに従ったら、お兄さんは\r\n//あっさりあてに撃墜されてる。\r\n//　仕手を死なせる劒冑が無能でなくてなんだ\r\n//ってんだ？」\r\n\"If he'd done what you just said, I'd have ripped his fucking wings off. How's it feel almost getting your master killed?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460880a07'>\r\n//「おめーの言うことに従ったら、お兄さんは\r\n//あっさりあてに撃墜されてる。\r\n//　仕手を死なせる劒冑が無能でなくてなんだ\r\n//ってんだ？」\r\n\"Se ele tivesse feito o que você acabou de dizer, eu teria arrancado as malditas asas dele. Como é a sensação de quase matar o seu mestre?\"\r\n"
  },
  {
   "offset": 31515,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460890a01'>\r\n//「……ふん。\r\n//　貴方が<RUBY text='・・・'>飛べる</RUBY>可能性は計算の内よ」\r\n\"Hmph. I already know you can fly.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460890a01'>\r\n//「……ふん。\r\n//　貴方が<RUBY text='・・・'>飛べる</RUBY>可能性は計算の内よ」\r\n\"Hmph. Eu já sei que você pode voar.\"\r\n"
  },
  {
   "offset": 31757,
@@ -502,52 +502,52 @@
  {
   "offset": 31876,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460910a01'>\r\n//「でも所詮、武者とは騎航性能が比較になら\r\n//ないもの。\r\n//　注意は要るけど、問題にすることもない」\r\n\"But so what? You'll never match the speed of a true musha. As long as we're careful, there's nothing to fear.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460910a01'>\r\n//「でも所詮、武者とは騎航性能が比較になら\r\n//ないもの。\r\n//　注意は要るけど、問題にすることもない」\r\n\"Mas e daí? Você nunca vai igualar a velocidade de um musha de verdade. Enquanto tomarmos cuidado, não há nada a temer.\"\r\n"
  },
  {
   "offset": 32234,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460920a07'>\r\n//「それがおめーの計算か。\r\n//　採点してやる。……まぁ一〇点だな」\r\n\"That's your answer? I'll give it a ten.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460930a07'>\r\n//「ちなみに一億点満点だぞ」\r\n\"That's out of a million, by the way.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460920a07'>\r\n//「それがおめーの計算か。\r\n//　採点してやる。……まぁ一〇点だな」\r\n\"Essa é a sua resposta? Vou te dar nota dez.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460930a07'>\r\n//「ちなみに一億点満点だぞ」\r\n\"E é nota dez de um milhão, por sinal.\"\r\n"
  },
  {
   "offset": 32652,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460940a01'>\r\n//「この……っ」\r\n\"You little...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460940a01'>\r\n//「この……っ」\r\n\"Sua pestinha...!\"\r\n"
  },
  {
   "offset": 32793,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460950a00'>\r\n//「怒るな、村正。\r\n//　俺もお前の意見に問題点はないと判断して\r\n//いる」\r\n\"Calm down, Muramasa. I see nothing wrong with your plan.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0460950a00'>\r\n//「怒るな、村正。\r\n//　俺もお前の意見に問題点はないと判断して\r\n//いる」\r\n\"Calma, Muramasa. Não vejo nada de errado no seu plano.\"\r\n"
  },
  {
   "offset": 33050,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460960a07'>\r\n//「お兄さんがわからないのは仕方ないさ。\r\n//　でも<RUBY text='そいつ'>劒冑</RUBY>がいまだに気付いてないってのは、\r\n//どんなもんかねー？」\r\n\"That's cause you don't know. But㉓<I>she</I>㉓should've figured it out by now. I mean, really.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460960a07'>\r\n//「お兄さんがわからないのは仕方ないさ。\r\n//　でも<RUBY text='そいつ'>劒冑</RUBY>がいまだに気付いてないってのは、\r\n//どんなもんかねー？」\r\n\"Isso é porque você não sabe. Mas㉓<I>ela</I>㉓já devia ter sacado isso a essa altura. Quer dizer, francamente.\"\r\n"
  },
  {
   "offset": 33443,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460970a01'>\r\n//「何が言いたいのよ」\r\n\"What are you trying to say?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460970a01'>\r\n//「何が言いたいのよ」\r\n\"O que você está querendo dizer?\"\r\n"
  },
  {
   "offset": 33606,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460980a07'>\r\n//「いい加減わかれってのさ。\r\n//　あてが<RUBY text='・・・・'>何なのか</RUBY>」\r\n\"That if you still don't know what I am, you're a dipshit.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0460980a07'>\r\n//「いい加減わかれってのさ。\r\n//　あてが<RUBY text='・・・・'>何なのか</RUBY>」\r\n\"Que, se você ainda não sabe o que eu sou, é uma idiota.\"\r\n"
  },
  {
   "offset": 33875,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460990a01'>\r\n//「そんなのわかってる」\r\n\"I know what you are.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0460990a01'>\r\n//「そんなのわかってる」\r\n\"Eu sei o que você é.\"\r\n"
  },
  {
   "offset": 34034,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461000a07'>\r\n//「ほー？　言ってみ」\r\n\"Yeah? What's that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461000a07'>\r\n//「ほー？　言ってみ」\r\n\"Ah é? O que é, então?\"\r\n"
  },
  {
   "offset": 34191,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461010a01'>\r\n//「貴方は劒冑でしょう。\r\n//　茶々丸」\r\n\"You're a tsurugi.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461010a01'>\r\n//「貴方は劒冑でしょう。\r\n//　茶々丸」\r\n\"Você é uma tsurugi.\"\r\n"
  },
  {
   "offset": 34366,
@@ -557,22 +557,22 @@
  {
   "offset": 34499,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0461030a00'>\r\n//「……何？」\r\n\"...<waitVoice=1000>What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0461030a00'>\r\n//「……何？」\r\n\"...<waitVoice=1000>O quê?\"\r\n"
  },
  {
   "offset": 34641,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461040a01'>\r\n//「劒冑なのよ、御堂。\r\n//　この足利茶々丸はね！」\r\n\"You heard what I said! She's a tsurugi!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461040a01'>\r\n//「劒冑なのよ、御堂。\r\n//　この足利茶々丸はね！」\r\n\"Você ouviu o que eu disse! Ela é uma tsurugi!\"\r\n"
  },
  {
   "offset": 34856,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461050a01'>\r\n//「貴方が精神汚染された時……私が茶々丸の\r\n//<RUBY text='ちから'>能力</RUBY>で押さえ込まれたのを覚えている？\r\n//　あの時に、もしかしてって思ったの」\r\n\"Remember when she brainwashed you? How she was able to take me down? I thought something was strange back then.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461050a01'>\r\n//「貴方が精神汚染された時……私が茶々丸の\r\n//<RUBY text='ちから'>能力</RUBY>で押さえ込まれたのを覚えている？\r\n//　あの時に、もしかしてって思ったの」\r\n\"Lembra quando ela fez lavagem cerebral em você? Como ela conseguiu me derrubar? Na época, achei que havia algo estranho.\"\r\n"
  },
  {
   "offset": 35279,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461060a01'>\r\n//「その気になって精査してみれば、やっぱり\r\n//何かおかしい。<RUBY text='・・・・・・・・・・'>肉体が肉体らしくない</RUBY>。\r\n//　私と同じように」\r\n\"I scanned her at Kenchoji, and again just now. I was right. Her body isn't that of a human.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461060a01'>\r\n//「その気になって精査してみれば、やっぱり\r\n//何かおかしい。<RUBY text='・・・・・・・・・・'>肉体が肉体らしくない</RUBY>。\r\n//　私と同じように」\r\n\"Eu a escaneei em Kenchoji, e de novo agora há pouco. Eu estava certa. O corpo dela não é o de um humano.\"\r\n"
  },
  {
   "offset": 35676,
@@ -582,17 +582,17 @@
  {
   "offset": 35800,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461080a01'>\r\n//「そう、私と同じ。\r\n//　ヒトの形態を持つ劒冑なのよ、茶々丸は」\r\n\"She's a tsurugi in human form. Like me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461080a01'>\r\n//「そう、私と同じ。\r\n//　ヒトの形態を持つ劒冑なのよ、茶々丸は」\r\n\"Ela é uma tsurugi em forma humana. Como eu.\"\r\n"
  },
  {
   "offset": 36036,
   "en": "\r\n//　堀越公方足利茶々丸が、劒冑？\r\n//　馬鹿な。有り得る話ではない。\r\n\r\n//　…………だが。\r\n//　\r\n//　茶々丸が幾度か見せた、奇怪な能力――――\r\n\r\n//　あれは断じて常人の備えるものではなく。\r\n//　つまりは――<k>劒冑の……？\r\n  The governor of Horigoe, a tsurugi? Impossible.\r\n\r\n  Although... come to think of it, she㉓<I>has</I>㉗demonstrated numerous abilities that no human should possess.\r\n\r\n  Could it be true? Is she a tsurugi?\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　堀越公方足利茶々丸が、劒冑？\r\n//　馬鹿な。有り得る話ではない。\r\n\r\n//　…………だが。\r\n//　\r\n//　茶々丸が幾度か見せた、奇怪な能力――――\r\n\r\n//　あれは断じて常人の備えるものではなく。\r\n//　つまりは――<k>劒冑の……？\r\n  A governadora de Horigoe, uma tsurugi? Impossível.\r\n\r\n  Embora... pensando bem, ela㉓<I>já</I>㉗demonstrou inúmeras habilidades que nenhum humano deveria possuir.\r\n\r\n  Será verdade? Ela é uma tsurugi?\r\n\r\n"
  },
  {
   "offset": 36573,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461090a07'>\r\n//「あっはっはー」\r\n\"Hahahaha!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461090a07'>\r\n//「あっはっはー」\r\n\"Hahahaha!\"\r\n"
  },
  {
   "offset": 36715,
@@ -602,77 +602,77 @@
  {
   "offset": 36839,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461110a07'>\r\n//「とことん目の利かねェ駄鍛冶だな!!\r\n//　自信満々で外しやがる」\r\n\"Didn't your mom ever teach you to㉓<I>think!?</I>㉓Acting like you know what's what...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461110a07'>\r\n//「とことん目の利かねェ駄鍛冶だな!!\r\n//　自信満々で外しやがる」\r\n\"Sua mãe nunca te ensinou a㉓<I>pensar!?</I>㉓Fingindo que sabe das coisas...\"\r\n"
  },
  {
   "offset": 37126,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461120a07'>\r\n//「あては劒冑じゃない」\r\n\"I'm not a tsurugi, you dumbfuck.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461120a07'>\r\n//「あては劒冑じゃない」\r\n\"Eu não sou uma tsurugi, sua otária.\"\r\n"
  },
  {
   "offset": 37300,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461130a01'>\r\n//「……嘘よ」\r\n\"You're lying.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461130a01'>\r\n//「……嘘よ」\r\n\"Você está mentindo.\"\r\n"
  },
  {
   "offset": 37437,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461140a07'>\r\n//「生憎と本当だ。\r\n//　……劒冑になれていたら良かったけどな」\r\n\"Hah. Wish I were. Would've made my life a whole lot easier.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461140a07'>\r\n//「生憎と本当だ。\r\n//　……劒冑になれていたら良かったけどな」\r\n\"Hah. Quem dera. Teria facilitado muito a minha vida.\"\r\n"
  },
  {
   "offset": 37693,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461150a01'>\r\n//「ただの人だって言うの？\r\n//　そうじゃないのは、もう明らかよ」\r\n\"So, what? You're human? Obviously not.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461150a01'>\r\n//「ただの人だって言うの？\r\n//　そうじゃないのは、もう明らかよ」\r\n\"Então o quê? Você é humana? Obviamente que não.\"\r\n"
  },
  {
   "offset": 37928,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461160a01'>\r\n//「私の目を誤魔化せると思わないで」\r\n\"You can't deceive me any longer!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461160a01'>\r\n//「私の目を誤魔化せると思わないで」\r\n\"Você não pode mais me enganar!\"\r\n"
  },
  {
   "offset": 38117,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461170a07'>\r\n//「誤魔化しちゃいねえ。\r\n//　おめーが勝手に間違えてるだけだ」\r\n\"<I>I'm</I>㉓not the one deceiving you. You're doing that your own damn self.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461170a07'>\r\n//「誤魔化しちゃいねえ。\r\n//　おめーが勝手に間違えてるだけだ」\r\n\"<I>Eu</I>㉓não sou quem te engana. Você está se enganando sozinha, porra.\"\r\n"
  },
  {
   "offset": 38391,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461180a01'>\r\n//「<RUBY text='・・・・・・・'>心鉄を持つ人間</RUBY>がいるわけないでしょう！」\r\n\"Humans don't have <I>shingane</I> where their hearts should be!\"\r\n\r\n//where their hearts should be\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461180a01'>\r\n//「<RUBY text='・・・・・・・'>心鉄を持つ人間</RUBY>がいるわけないでしょう！」\r\n\"Humanos não têm <I>shingane</I> onde deveria estar o coração!\"\r\n\r\n//where their hearts should be\r\n"
  },
  {
   "offset": 38699,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461190a07'>\r\n//「あほが。\r\n//　おめーの頭ん中にゃ、劒冑と人しかいねえ\r\n//のかよ!!」\r\n\"Humans. Tsurugi. Is that all there's room for in that tiny brain of yours!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461190a07'>\r\n//「あほが。\r\n//　おめーの頭ん中にゃ、劒冑と人しかいねえ\r\n//のかよ!!」\r\n\"Humanos. Tsurugi. É só disso que cabe nessa sua cabecinha!?\"\r\n"
  },
  {
   "offset": 38980,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461200a01'>\r\n//「――――えっ？」\r\n\"...What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461200a01'>\r\n//「――――えっ？」\r\n\"...O quê?\"\r\n"
  },
  {
   "offset": 39121,
   "en": "\r\n//　突如、奇怪な音が鳴り響いた。\r\n//　鉄骨を力任せに押し曲げるかの――\r\n\r\n//　音に乗り、茶々丸の肌が変化を始める。\r\n//　白い肉皮が別の何かへ。\r\n\r\n//　鈍い光沢を放つ硬質のものへ。\r\n  Suddenly, a strange sound reaches my ears. A metallic screech, like steel girders bending under immense pressure.\r\n\r\n  And then I see it―<br>Chachamaru's skin,㉓<I>changing</I> into something else. Something hard, that shines with dull light.\r\n",
-  "pt": ""
+  "pt": "\r\n//　突如、奇怪な音が鳴り響いた。\r\n//　鉄骨を力任せに押し曲げるかの――\r\n\r\n//　音に乗り、茶々丸の肌が変化を始める。\r\n//　白い肉皮が別の何かへ。\r\n\r\n//　鈍い光沢を放つ硬質のものへ。\r\n  De repente, um som estranho me chega aos ouvidos. Um rangido metálico, como vigas de aço se dobrando sob uma pressão imensa.\r\n\r\n  E então eu vejo―a pele de Chachamaru,㉓<I>se transformando</I> em outra coisa. Algo duro, que brilha com uma luz fosca.\r\n"
  },
  {
   "offset": 39638,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0461210a00'>\r\n//「甲鉄……!?」\r\n\"Armor!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0461210a00'>\r\n//「甲鉄……!?」\r\n\"Armadura!?\"\r\n"
  },
  {
   "offset": 39765,
   "en": "\r\n//　劒冑を呼び寄せた様子は全くなかった。\r\n//　そも眼前の変化は、武者の装甲とみるには余りにも\r\n//異質である。\r\n\r\n//　皮膚が甲鉄に<RUBY text='・・・・・・'>覆われてゆく</RUBY>のではない。\r\n//　皮膚が甲鉄に<RUBY text='・・・・・・'>変わってゆく</RUBY>のだ。\r\n\r\n//　村正の蜘蛛から蝦夷への変形を、逆回しに再現した\r\n//ならきっとこのようになるだろう。\r\n//　\r\n//　……やはり、茶々丸は劒冑だったのか!?\r\n  Did she summon a tsurugi? No. I saw no sign. And besides, this is nothing like what happens when a musha dons their armor. She's <I>becoming</I>㉔the armor, not wearing it!\r\n\r\n  If anything, it looks like how I imagine Muramasa's transformation might, only played in reverse and in slow-motion.\r\n\r\n  Is it true, then? Is she a tsurugi!?\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　劒冑を呼び寄せた様子は全くなかった。\r\n//　そも眼前の変化は、武者の装甲とみるには余りにも\r\n//異質である。\r\n\r\n//　皮膚が甲鉄に<RUBY text='・・・・・・'>覆われてゆく</RUBY>のではない。\r\n//　皮膚が甲鉄に<RUBY text='・・・・・・'>変わってゆく</RUBY>のだ。\r\n\r\n//　村正の蜘蛛から蝦夷への変形を、逆回しに再現した\r\n//ならきっとこのようになるだろう。\r\n//　\r\n//　……やはり、茶々丸は劒冑だったのか!?\r\n  Ela invocou uma tsurugi? Não. Não vi sinal nenhum. E, além disso, isso não tem nada a ver com o que acontece quando um musha veste a armadura. Ela está <I>se tornando</I>㉔a armadura, não a vestindo!\r\n\r\n  Se for o caso, parece como eu imagino que seria a transformação da Muramasa, só que ao contrário e em câmera lenta.\r\n\r\n  Então é verdade? Ela é uma tsurugi!?\r\n\r\n"
  },
  {
   "offset": 40667,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461220a07'>\r\n//「……ぐ……」\r\n\"...ghk...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461220a07'>\r\n//「……ぐ……」\r\n\"...ghk...\"\r\n"
  },
  {
   "offset": 40806,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461230a07'>\r\n//「ア……ガァァ……」\r\n\"Ghahhh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461230a07'>\r\n//「ア……ガァァ……」\r\n\"Ghaaah...\"\r\n"
  },
  {
   "offset": 40954,
@@ -682,32 +682,32 @@
  {
   "offset": 41079,
   "en": "\r\n//　違う。\r\n//　村正とは決定的に違う点が一つある。\r\n\r\n//　村正の人型変形――肉体変成は、劒冑としての機能\r\n//の応用発現だ。\r\n//　術式を開発するまでは四苦八苦していたが、完成後\r\n//は何の支障もなく操っている。\r\n\r\n//　だが茶々丸は苦しんでいた。\r\n//　今、生き地獄の苦痛に苛まれていることが傍目にも\r\n//明らかであった。\r\n\r\n//　……血も流れ出している。\r\n//　手足から、腹部から、首筋から。\r\n\r\n//　村正の――劒冑の変形であれば、こんな事はない。\r\n\r\n//　何なのだ。\r\n//　この光景は!?\r\n\r\n//　生身の娘が鉄の人形へ変わってゆく。\r\n//　悶え苦しみ、血を流し、啜り泣いて。\r\n\r\n//　これは何だ。\r\n\r\n//　まるで気の狂った科学者の手で<RUBY text='・・'>改造</RUBY>されているかの\r\n//ようではないか!?\r\n  No! This is㉒<I>wrong!</I>\r\n\r\n  Muramasa's ability to reshape her body is merely another application of her powers. Establishing the process required trial and error, but ever since, she has transformed without issue.\r\n\r\n  Not so for Chachamaru. She is in㉓<I>agony.</I> I can see it on her face, hear it in her voice―as though a horde of ravenous beasts were tearing her limb from limb.\r\n\r\n  And then there's the blood. Crimson rivulets flow from every joint, every orifice, down every centimeter of yet-untouched skin.\r\n\r\n  Muramasa's transformation isn't like㉓<I>this!</I>㉑ Surely no tsurugi would be so designed!\r\n\r\n  Is she human, then? A human girl, forced to undergo a cruel transmutation, screaming and howling as flesh turns to metal, in the end to become but a blood-covered doll?\r\n\r\n  Is that what this is!?\r\n",
-  "pt": ""
+  "pt": "\r\n//　違う。\r\n//　村正とは決定的に違う点が一つある。\r\n\r\n//　村正の人型変形――肉体変成は、劒冑としての機能\r\n//の応用発現だ。\r\n//　術式を開発するまでは四苦八苦していたが、完成後\r\n//は何の支障もなく操っている。\r\n\r\n//　だが茶々丸は苦しんでいた。\r\n//　今、生き地獄の苦痛に苛まれていることが傍目にも\r\n//明らかであった。\r\n\r\n//　……血も流れ出している。\r\n//　手足から、腹部から、首筋から。\r\n\r\n//　村正の――劒冑の変形であれば、こんな事はない。\r\n\r\n//　何なのだ。\r\n//　この光景は!?\r\n\r\n//　生身の娘が鉄の人形へ変わってゆく。\r\n//　悶え苦しみ、血を流し、啜り泣いて。\r\n\r\n//　これは何だ。\r\n\r\n//　まるで気の狂った科学者の手で<RUBY text='・・'>改造</RUBY>されているかの\r\n//ようではないか!?\r\n  Não! Isso está㉒<I>errado!</I>\r\n\r\n  A capacidade da Muramasa de remodelar o próprio corpo é apenas outra aplicação dos poderes dela. Estabelecer o processo exigiu tentativa e erro, mas, desde então, ela se transforma sem problema algum.\r\n\r\n  Não é o caso de Chachamaru. Ela está em㉓<I>agonia.</I> Consigo ver isso no rosto dela, ouvir na voz―como se uma horda de feras esfomeadas a estivesse despedaçando membro por membro.\r\n\r\n  E depois tem o sangue. Rios carmesim escorrem de cada junta, de cada orifício, por cada centímetro de pele ainda intocada.\r\n\r\n  A transformação da Muramasa não é assim㉓<I>assim!</I>㉑ Com certeza nenhuma tsurugi seria projetada desse jeito!\r\n\r\n  Então ela é humana? Uma garota humana, forçada a passar por uma transmutação cruel, gritando e uivando enquanto a carne vira metal, para no fim se tornar apenas uma boneca coberta de sangue?\r\n\r\n  É isso que está acontecendo!?\r\n"
  },
  {
   "offset": 42870,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461250a07'>\r\n//「ク……クク……」\r\n\"Heh... heh heh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461250a07'>\r\n//「ク……クク……」\r\n\"Heh... hehehe...\"\r\n"
  },
  {
   "offset": 43023,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461260a01'>\r\n//「…………茶々丸……」\r\n\"Chachamaru...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461260a01'>\r\n//「…………茶々丸……」\r\n\"Chachamaru...\"\r\n"
  },
  {
   "offset": 43175,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461270a01'>\r\n//「貴方は、何なの」\r\n\"What㉓<I>are</I> you!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md04/0461270a01'>\r\n//「貴方は、何なの」\r\n\"O que㉓<I>você</I> é!?\"\r\n"
  },
  {
   "offset": 43331,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461280a07'>\r\n//「あてはヒトとして生まれたツルギ」\r\n\"I was born a tsurugi.<K><voice name='茶々丸' class='茶々丸' src='voice/md04/0461290a07'> Forged a human.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461300a07'>\r\n//「どちらでもあって、どちらでもない」\r\n\"I'm both... and neither.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461280a07'>\r\n//「あてはヒトとして生まれたツルギ」\r\n\"Eu nasci uma tsurugi.<K><voice name='茶々丸' class='茶々丸' src='voice/md04/0461290a07'> Forjada humana.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461300a07'>\r\n//「どちらでもあって、どちらでもない」\r\n\"Sou as duas coisas... e nenhuma delas.\"\r\n"
  },
  {
   "offset": 43780,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461310a07'>\r\n//「中途半端な合いの子だ」\r\n\"A worthless half-breed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461310a07'>\r\n//「中途半端な合いの子だ」\r\n\"Uma mestiça inútil.\"\r\n"
  },
  {
   "offset": 43948,
@@ -717,12 +717,12 @@
  {
   "offset": 44072,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0461330a00'>\r\n//「……茶々丸、お前は――」\r\n\"Chachamaru... how―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0461330a00'>\r\n//「……茶々丸、お前は――」\r\n\"Chachamaru... como―\"\r\n"
  },
  {
   "offset": 44231,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461340a07'>\r\n//「蛆には腐肉を。蠅には糞を。\r\n//　百舌には蛙の串刺しを」\r\n<center>\"Rot for the maggots. Shit for the flies. And for the shrike, a skewered toad.\"\r\n\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461350a07'>\r\n//「今宵の虎徹は――血に飢えている」\r\n<center>\"Tonight, Kotetsu thirsts for blood.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461340a07'>\r\n//「蛆には腐肉を。蠅には糞を。\r\n//　百舌には蛙の串刺しを」\r\n<center>\"Podridão para as larvas. Merda para as moscas. E para o picanço, um sapo espetado.\"\r\n\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461350a07'>\r\n//「今宵の虎徹は――血に飢えている」\r\n<center>\"Esta noite, a Kotetsu tem sede de sangue.\"\r\n"
  },
  {
   "offset": 44704,
@@ -732,11 +732,11 @@
  {
   "offset": 44822,
   "en": "\r\n//　武者形態――――!?\r\n  A musha!?\r\n",
-  "pt": ""
+  "pt": "\r\n//　武者形態――――!?\r\n  Um musha!?\r\n"
  },
  {
   "offset": 44878,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461370a07'>\r\n//「お兄さん……あてはね……\r\n//{Wait(500);}\r\n//　――――――――――<RUBY text='リビング・アーマー'>生体甲冑</RUBY>なんだ」\r\n\"Look at me, brother...\r\n<WaitVoice=6500>  I'm㉓<I>living armor.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0461370a07'>\r\n//「お兄さん……あてはね……\r\n//{Wait(500);}\r\n//　――――――――――<RUBY text='リビング・アーマー'>生体甲冑</RUBY>なんだ」\r\n\"Olhe para mim, irmão...\r\n<WaitVoice=6500> Eu sou㉓<I>armadura viva.</I>\"\r\n"
  }
 ]

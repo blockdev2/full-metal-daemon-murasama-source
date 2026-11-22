@@ -2,27 +2,27 @@
  {
   "offset": 213,
   "en": "\r\n//　閃光、閃光、閃光。\r\n\r\n//　数限りない閃光。\r\n//　現れて去り、現れてはまた去る。\r\n\r\n//　輝く雨を浴びているかのようだ。\r\n\r\n//　……いや。\r\n\r\n//　あるいは、逆なのか？\r\n\r\n//　俺が光の群れの中を駆けているのか？\r\n  Lights. A glittering storm surrounds me, like stars against the black of space.\r\n\r\n  They streak past with dizzying speed, appearing from nothing before vanishing once more.\r\n  Or am I the one in motion here?\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　閃光、閃光、閃光。\r\n\r\n//　数限りない閃光。\r\n//　現れて去り、現れてはまた去る。\r\n\r\n//　輝く雨を浴びているかのようだ。\r\n\r\n//　……いや。\r\n\r\n//　あるいは、逆なのか？\r\n\r\n//　俺が光の群れの中を駆けているのか？\r\n  Luzes. Uma tempestade cintilante me cerca, como estrelas no breu do espaço.\r\n\r\n  Elas passam velozes, numa velocidade vertiginosa, surgindo do nada antes de desaparecer outra vez.\r\n  Ou serei eu o que está em movimento aqui?\r\n\r\n"
  },
  {
   "offset": 733,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110010a00'>\r\n//「……村正。可能な範囲でいい。\r\n//　現在状況を解説してくれ」\r\n\"...I'd appreciate any insights you can offer.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110010a00'>\r\n//「……村正。可能な範囲でいい。\r\n//　現在状況を解説してくれ」\r\n\"...Agradeceria qualquer esclarecimento que puder me dar.\"\r\n"
  },
  {
   "offset": 966,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110020a01'>\r\n//《……えぇと……》\r\n《Uh...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110020a01'>\r\n//《……えぇと……》\r\n《Hã...》\r\n"
  },
  {
   "offset": 1108,
   "en": "\r\n//　俺の当然かつ無体な要望を受け、村正は教授の代理\r\n//で急遽ロンドン王立科学協会の面々を迎えて論文発表\r\n//する事が決まった一学生風に逡巡した後、やがてぽつ\r\n//ぽつと語り出した。\r\n  I imagine Muramasa feels like a first-year university student called to deliver a lecture to the Royal Academy of Science.\r\n\r\n  After a few moments' silence, she hazards a guess.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺の当然かつ無体な要望を受け、村正は教授の代理\r\n//で急遽ロンドン王立科学協会の面々を迎えて論文発表\r\n//する事が決まった一学生風に逡巡した後、やがてぽつ\r\n//ぽつと語り出した。\r\n  Imagino que Muramasa se sinta como um calouro convocado de repente para apresentar uma tese à Real Academia de Ciências.\r\n\r\n  Depois de alguns instantes de silêncio, ela arrisca um palpite.\r\n\r\n"
  },
  {
   "offset": 1561,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110030a01'>\r\n//《今、私達は時間的に移動させられている。\r\n//　……それは間違いないと思う》\r\n《I'm... pretty sure we're moving through time right now.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110040a01'>\r\n//《ただ、私達の意識に混乱が生じていないと\r\n//いうことは、私達の<RUBY text='・・・・'>内的時間</RUBY>は正常に保たれ\r\n//ているということ。\r\n//　内的時間と外的時間が乖離してるのね……》\r\n《But our memories are still intact, right? I think that means㉓<I>our</I>㉔time has been severed from that of the world around us.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110050a01'>\r\n//《この宇宙における私と貴方の時間的座標が、\r\n//通常の規則から逸脱した変移をしている。\r\n//　……って表現で正しいのかしら……》\r\n《I guess you could say that our... temporal coordinates have been thrown into a state of flux. Does that make sense to you?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110030a01'>\r\n//《今、私達は時間的に移動させられている。\r\n//　……それは間違いないと思う》\r\n《Eu... acho que estamos nos movendo pelo tempo agora.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110040a01'>\r\n//《ただ、私達の意識に混乱が生じていないと\r\n//いうことは、私達の<RUBY text='・・・・'>内的時間</RUBY>は正常に保たれ\r\n//ているということ。\r\n//　内的時間と外的時間が乖離してるのね……》\r\n《Mas nossas memórias continuam intactas, certo? Acho que isso significa que o ㉓<I>nosso</I>㉔ tempo foi separado do tempo do mundo ao nosso redor.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110050a01'>\r\n//《この宇宙における私と貴方の時間的座標が、\r\n//通常の規則から逸脱した変移をしている。\r\n//　……って表現で正しいのかしら……》\r\n《Digamos assim: nossas... coordenadas temporais entraram em um estado de fluxo. Faz sentido para você?》\r\n"
  },
  {
   "offset": 2729,
@@ -32,291 +32,291 @@
  {
   "offset": 2847,
   "en": "\r\n//　この時点で俺の理解度は七割五分であった。\r\n\r\n//　……強引に解釈を進め、単純化を行う。\r\n  I understood about three quarters of that explanation. The other twenty-five percent can wait.\r\n\r\n  I summarize.\r\n",
-  "pt": ""
+  "pt": "\r\n//　この時点で俺の理解度は七割五分であった。\r\n\r\n//　……強引に解釈を進め、単純化を行う。\r\n  Entendi mais ou menos três quartos daquela explicação. Os outros vinte e cinco por cento podem esperar.\r\n\r\n  Eu resumo.\r\n"
  },
  {
   "offset": 3103,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110070a00'>\r\n//「要するに。\r\n//　俺達は<RUBY text='・・・・・・・・・・・・'>四次元的に吹っ飛ばされた</RUBY>という事\r\n//なのか？」\r\n\"So it flung us through the fourth dimension.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110070a00'>\r\n//「要するに。\r\n//　俺達は<RUBY text='・・・・・・・・・・・・'>四次元的に吹っ飛ばされた</RUBY>という事\r\n//なのか？」\r\n\"Então isso nos arremessou pela quarta dimensão.\"\r\n"
  },
  {
   "offset": 3405,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110080a01'>\r\n//《……おおむね、そうなんだと思う》\r\n《Basically... yeah.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110080a01'>\r\n//《……おおむね、そうなんだと思う》\r\n《Basicamente... sim.》\r\n"
  },
  {
   "offset": 3584,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110090a00'>\r\n//「途轍もない過去あるいは未来へ放逐される\r\n//と……」\r\n\"If we wind up in the distant past or future...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110090a00'>\r\n//「途轍もない過去あるいは未来へ放逐される\r\n//と……」\r\n\"Se acabarmos no passado ou no futuro distante...\"\r\n"
  },
  {
   "offset": 3806,
   "en": "\r\n//　絶望的に呟く。\r\n//　……それは困る。大いに。本来の世界、本来の時間\r\n//にやり残した事がある。\r\n\r\n//　帰らなくてはならない。\r\n//　だが、どうやって……\r\n  That would be problematic, to say the least. I still have unfinished business in my home time.\r\n\r\n  We need to get back. But how?\r\n",
-  "pt": ""
+  "pt": "\r\n//　絶望的に呟く。\r\n//　……それは困る。大いに。本来の世界、本来の時間\r\n//にやり残した事がある。\r\n\r\n//　帰らなくてはならない。\r\n//　だが、どうやって……\r\n  Isso seria problemático, no mínimo. Ainda tenho coisas inacabadas no meu tempo de origem.\r\n\r\n  Precisamos voltar. Mas como?\r\n"
  },
  {
   "offset": 4169,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110100a01'>\r\n//《いえ。\r\n//　それはどうか、わからない》\r\n《I don't think we need to worry about that.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110100a01'>\r\n//《いえ。\r\n//　それはどうか、わからない》\r\n《Acho que não precisamos nos preocupar com isso.》\r\n"
  },
  {
   "offset": 4379,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110110a00'>\r\n//「何故だ？」\r\n\"Why not?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110110a00'>\r\n//「何故だ？」\r\n\"Por que não?\"\r\n"
  },
  {
   "offset": 4505,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110120a01'>\r\n//《私の認識力が状況を正しく理解できている\r\n//なら、だけど……\r\n//　私達は時間軸上を直線的に移動していない》\r\n《Assuming my senses are perceiving this correctly, we're not moving in a straight line.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110130a01'>\r\n//《過去と未来を行ったり来たりしてる。\r\n//　移動の幅もそんなに大きくはなさそう……\r\n//当てずっぽうだけど、多分せいぜい数百年の\r\n//範囲内なんじゃないかしら》\r\n《Instead, we're bouncing between past and future. And the range of motion isn't that great. Only a few centuries in either direction.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110120a01'>\r\n//《私の認識力が状況を正しく理解できている\r\n//なら、だけど……\r\n//　私達は時間軸上を直線的に移動していない》\r\n《Supondo que meus sentidos estejam percebendo isso corretamente, não estamos nos movendo em linha reta.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110130a01'>\r\n//《過去と未来を行ったり来たりしてる。\r\n//　移動の幅もそんなに大きくはなさそう……\r\n//当てずっぽうだけど、多分せいぜい数百年の\r\n//範囲内なんじゃないかしら》\r\n《Em vez disso, estamos saltando entre passado e futuro. E a amplitude do movimento não é tão grande. Só alguns séculos para cada lado.》\r\n"
  },
  {
   "offset": 5315,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110140a00'>\r\n//「…………。\r\n//　つまり俺達は今、数百年前から数百年後の\r\n//富士山上空に、時間的座標を激しく変動させ\r\n//ながら存在している？」\r\n\"So... our physical position is fixed above Mount Fuji, but our position in time is fluctuating rapidly between a hundred years ago and a hundred years hence.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110140a00'>\r\n//「…………。\r\n//　つまり俺達は今、数百年前から数百年後の\r\n//富士山上空に、時間的座標を激しく変動させ\r\n//ながら存在している？」\r\n\"Então... nossa posição física está fixa acima do Monte Fuji, mas nossa posição no tempo flutua rapidamente entre cem anos atrás e cem anos à frente.\"\r\n"
  },
  {
   "offset": 5755,
   "en": "\r\n//　噛み砕いてみる。\r\n//　当初思った程には酷くない状況、か？\r\n\r\n//　とりあえず、パンゲア大陸の上やら未知の知的生物\r\n//が未知の文明を繁栄させている世界やらへ現れる羽目\r\n//にはならなくて済むようだ。\r\n//　……だからといって喜べはしないが。\r\n  I suppose that's not quite as bad as I thought. At least we won't wind up on Pangaea, or in a world ruled by hyper-intelligent cockroaches.\r\n\r\n//　数百年の範囲に留まる時間移動でも、俺達にとって\r\n//致命的に不都合である事には変わりない。\r\n  But while my prospects of survival are no longer so daunting, that's hardly reason to celebrate. Even a hundred years in either direction would present an insurmountable obstacle.\r\n",
-  "pt": ""
+  "pt": "\r\n//　噛み砕いてみる。\r\n//　当初思った程には酷くない状況、か？\r\n\r\n//　とりあえず、パンゲア大陸の上やら未知の知的生物\r\n//が未知の文明を繁栄させている世界やらへ現れる羽目\r\n//にはならなくて済むようだ。\r\n//　……だからといって喜べはしないが。\r\n  Suponho que não seja tão ruim quanto eu pensava. Pelo menos não vamos acabar na Pangeia, nem em um mundo governado por baratas hiperinteligentes.\r\n\r\n//　数百年の範囲に留まる時間移動でも、俺達にとって\r\n//致命的に不都合である事には変わりない。\r\n  Mas, embora minhas chances de sobrevivência já não sejam tão assustadoras, isso dificilmente é motivo para comemorar. Mesmo cem anos para qualquer lado seria um obstáculo intransponível.\r\n"
  },
  {
   "offset": 6574,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110150a01'>\r\n//《富士山上空、以外はその通りよ。\r\n//　……真実がじゃなくて、あくまで私の推測\r\n//がそうだってだけだけど》\r\n《Right. Well, except for the part about Mount Fuji.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110150a01'>\r\n//《富士山上空、以外はその通りよ。\r\n//　……真実がじゃなくて、あくまで私の推測\r\n//がそうだってだけだけど》\r\n《Certo. Bem, exceto pela parte do Monte Fuji.》\r\n"
  },
  {
   "offset": 6886,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110160a00'>\r\n//「……？　どういう意味だ。\r\n//　俺達が富士山上空にいるとは限らないと？」\r\n\"What do you mean? Our physical coordinates are changing too?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110160a00'>\r\n//「……？　どういう意味だ。\r\n//　俺達が富士山上空にいるとは限らないと？」\r\n\"O que quer dizer? Nossas coordenadas físicas também estão mudando?\"\r\n"
  },
  {
   "offset": 7152,
   "en": "\r\n//　時間的に移動しているだけなのに？\r\n  I thought we were only moving through time.\r\n",
-  "pt": ""
+  "pt": "\r\n//　時間的に移動しているだけなのに？\r\n  Achei que estávamos nos movendo apenas pelo tempo.\r\n"
  },
  {
   "offset": 7264,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110170a01'>\r\n//《時間移動が空間移動を伴わないという保障\r\n//はないし、仮に私達の空間座標が固定された\r\n//ままだとしても、やっぱり相対的には移動が\r\n//生じている可能性がある》\r\n《There's no guarantee that they can't, and even if our physical coordinates are fixed, the same isn't true for the rest of the world.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110180a01'>\r\n//《世界の方が動いたら同じだもの》\r\n《Our relative position could still change.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110170a01'>\r\n//《時間移動が空間移動を伴わないという保障\r\n//はないし、仮に私達の空間座標が固定された\r\n//ままだとしても、やっぱり相対的には移動が\r\n//生じている可能性がある》\r\n《Não há garantia de que não possam, e mesmo que nossas coordenadas físicas estejam fixas, o mesmo não vale para o resto do mundo.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110180a01'>\r\n//《世界の方が動いたら同じだもの》\r\n《Nossa posição relativa ainda pode mudar.》\r\n"
  },
  {
   "offset": 7925,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110190a00'>\r\n//「……成程」\r\n\"...Ah.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110190a00'>\r\n//「……成程」\r\n\"...Ah.\"\r\n"
  },
  {
   "offset": 8049,
   "en": "\r\n//　確かにそうだ。\r\n//　地球は自転し、また太陽の周囲を公転もしている。\r\n\r\n//　幸い、体調に異変がないことから考えて宇宙空間に\r\n//放り出されたりはしていないようだが……。\r\n  I see what she means. The earth is in constant motion: rotating on its axis, orbiting the sun. Its position in the universe changes over time.\r\n\r\n  Does that mean we could wind up in deep space? Given that I can still breathe, that probably hasn't happened... yet.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　確かにそうだ。\r\n//　地球は自転し、また太陽の周囲を公転もしている。\r\n\r\n//　幸い、体調に異変がないことから考えて宇宙空間に\r\n//放り出されたりはしていないようだが……。\r\n  Entendo o que ela quer dizer. A Terra está em constante movimento: gira em torno do próprio eixo e orbita o Sol. Sua posição no universo muda com o tempo.\r\n\r\n  Isso significa que poderíamos acabar no espaço sideral? Como ainda consigo respirar, provavelmente isso não aconteceu... ainda.\r\n\r\n"
  },
  {
   "offset": 8575,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110200a00'>\r\n//「村正？」\r\n\"Muramasa?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110200a00'>\r\n//「村正？」\r\n\"Muramasa?\"\r\n"
  },
  {
   "offset": 8699,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110210a01'>\r\n//《なに？》\r\n《Yes?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110210a01'>\r\n//《なに？》\r\n《Sim?》\r\n"
  },
  {
   "offset": 8828,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110220a00'>\r\n//「……<RUBY text='・・'>減速</RUBY>していないか？」\r\n\"Are we slowing down?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110220a00'>\r\n//「……<RUBY text='・・'>減速</RUBY>していないか？」\r\n\"Estamos desacelerando?\"\r\n"
  },
  {
   "offset": 9014,
   "en": "\r\n//　周囲を見ながら云う。\r\n//　光の流れ去る速度が、次第に緩まりつつあるように\r\n//感じられた。\r\n  I watch the lights streaming past. If I'm not mistaken, their speed is falling.\r\n\r\n//　そのせいだろう、俺の頭脳にも、見えているものの\r\n//意味が理解されてくる。\r\n//　……光の群れの疾走としか認識できなかったこれは、\r\n//その実、流れゆく無数の<RUBY text='・・'>光景</RUBY>なのだ。\r\n  And as they slow, I begin to see them for what they really are. Not just dots shining in the black. But windows, each showing a different scene.\r\n\r\n  Am I... <I>seeing</I>㉑time?\r\n\r\n//　俺は確かに時空間を移動している。\r\n",
-  "pt": ""
+  "pt": "\r\n//　周囲を見ながら云う。\r\n//　光の流れ去る速度が、次第に緩まりつつあるように\r\n//感じられた。\r\n  Observo as luzes passando. Se não me engano, a velocidade delas está diminuindo.\r\n\r\n//　そのせいだろう、俺の頭脳にも、見えているものの\r\n//意味が理解されてくる。\r\n//　……光の群れの疾走としか認識できなかったこれは、\r\n//その実、流れゆく無数の<RUBY text='・・'>光景</RUBY>なのだ。\r\n  E, conforme desaceleram, começo a vê-las pelo que realmente são. Não apenas pontos brilhando no breu. Mas janelas, cada uma mostrando uma cena diferente.\r\n\r\n  Estou... <I>vendo</I>㉑ o tempo?\r\n\r\n//　俺は確かに時空間を移動している。\r\n"
  },
  {
   "offset": 9758,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110230a01'>\r\n//《そうね。\r\n//　金神が私達に与えた時間的運動力が、少し\r\n//ずつ消耗して零に近付いてるのよ》\r\n《Yes. I think that our temporal momentum is starting to bleed off.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110240a01'>\r\n//《もうすぐ止まる……》\r\n《It won't be long now.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110230a01'>\r\n//《そうね。\r\n//　金神が私達に与えた時間的運動力が、少し\r\n//ずつ消耗して零に近付いてるのよ》\r\n《Sim. Acho que nosso impulso temporal está começando a se esgotar.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110240a01'>\r\n//《もうすぐ止まる……》\r\n《Não deve demorar.》\r\n"
  },
  {
   "offset": 10220,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110250a00'>\r\n//「俺達にできるのは祈る事だけか？\r\n//　<RUBY text='あれ'>金神</RUBY>以外の神に」\r\n\"Is there nothing we can do? Or is prayer our only hope?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110250a00'>\r\n//「俺達にできるのは祈る事だけか？\r\n//　<RUBY text='あれ'>金神</RUBY>以外の神に」\r\n\"Não há nada que possamos fazer? Ou rezar é nossa única esperança?\"\r\n"
  },
  {
   "offset": 10481,
   "en": "\r\n//　なるたけ俺達本来の時空間に近いところで止まって\r\n//くれと。\r\n  If it will increase our chances of emerging close to our original coordinates, then I'll happily pray to any god.\r\n\r\n  Any god save the Konjin.\r\n",
-  "pt": ""
+  "pt": "\r\n//　なるたけ俺達本来の時空間に近いところで止まって\r\n//くれと。\r\n  Se isso aumentar nossas chances de emergir perto de nossas coordenadas originais, então rezo de bom grado para qualquer deus.\r\n\r\n  Qualquer deus, menos o Konjin.\r\n"
  },
  {
   "offset": 10730,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110260a01'>\r\n//《…………。\r\n//　これも当てにならない推測なんだけど》\r\n《This is just a guess...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110270a01'>\r\n//《たぶん私達の状況は、それほどまでに悲観\r\n//したものでもなさそう》\r\n《But things may not be as bad as you think.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110260a01'>\r\n//《…………。\r\n//　これも当てにならない推測なんだけど》\r\n《Isto é só um palpite...》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110270a01'>\r\n//《たぶん私達の状況は、それほどまでに悲観\r\n//したものでもなさそう》\r\n《Mas as coisas podem não ser tão ruins quanto você pensa.》\r\n"
  },
  {
   "offset": 11183,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110280a00'>\r\n//「……そうか？」\r\n\"Oh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110280a00'>\r\n//「……そうか？」\r\n\"Ah?\"\r\n"
  },
  {
   "offset": 11310,
   "en": "\r\n//　絶望ないし絶望の半歩手前に思えるが。\r\n  If there's a way off this precipice, I certainly can't see it.\r\n",
-  "pt": ""
+  "pt": "\r\n//　絶望ないし絶望の半歩手前に思えるが。\r\n  Se há uma saída deste precipício, eu certamente não a vejo.\r\n"
  },
  {
   "offset": 11447,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110290a01'>\r\n//《整理してみましょうか……》\r\n《Let's think this through.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110290a01'>\r\n//《整理してみましょうか……》\r\n《Vamos pensar nisso com calma.》\r\n"
  },
  {
   "offset": 11624,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110300a01'>\r\n//《私達は本来の時間的位置から、金神の力で\r\n//弾き飛ばされた》\r\n《Say we're a rock. The Konjin picked us up and flung us through time.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110300a01'>\r\n//《私達は本来の時間的位置から、金神の力で\r\n//弾き飛ばされた》\r\n《Suponha que sejamos uma pedra. O Konjin nos apanhou e nos arremessou pelo tempo.》\r\n"
  },
  {
   "offset": 11890,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110310a01'>\r\n//《私達に働く外部からの力がそれしか無いの\r\n//なら、延々といつまでも同じ速度で時間軸上\r\n//を移動し続けるだけよ》\r\n《If that were the only force acting upon us, we would keep hurtling along the timeline in the same direction forever.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110310a01'>\r\n//《私達に働く外部からの力がそれしか無いの\r\n//なら、延々といつまでも同じ速度で時間軸上\r\n//を移動し続けるだけよ》\r\n《Se essa fosse a única força agindo sobre nós, continuaríamos voando pela linha do tempo na mesma direção para sempre.》\r\n"
  },
  {
   "offset": 12277,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110320a01'>\r\n//《……でも事実はそうなっていない》\r\n《But that's not what's happening.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110330a01'>\r\n//《私達を運ぶ力は徐々に弱まってる。\r\n//　何か別の力も働いていて、金神からの時間\r\n//移動力を減殺していると考えられる》\r\n《Instead, we're bouncing back and forth. And now, we're slowing down. Some other force is acting in opposition to the Konjin's power.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110340a01'>\r\n//《それが》\r\n《This force...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110320a01'>\r\n//《……でも事実はそうなっていない》\r\n《Mas não é o que está acontecendo.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110330a01'>\r\n//《私達を運ぶ力は徐々に弱まってる。\r\n//　何か別の力も働いていて、金神からの時間\r\n//移動力を減殺していると考えられる》\r\n《Em vez disso, estamos saltando de um lado para o outro. E agora estamos desacelerando. Alguma outra força está agindo em oposição ao poder do Konjin.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110340a01'>\r\n//《それが》\r\n《Essa força...》\r\n"
  },
  {
   "offset": 13004,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110350a01'>\r\n//《私達を本来の、正しい時間的位置へ、引き\r\n//戻そうとする力。\r\n//　言うなれば時間の<RUBY text='・・・'>修正力</RUBY>――》\r\n《Let's call it the corrective force. I believe the corrective force is trying to pull us back to where we belong.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110360a01'>\r\n//《……なんだと、思う》\r\n《Our original position in time.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110350a01'>\r\n//《私達を本来の、正しい時間的位置へ、引き\r\n//戻そうとする力。\r\n//　言うなれば時間の<RUBY text='・・・'>修正力</RUBY>――》\r\n《Digamos que seja a força corretiva. Creio que a força corretiva está tentando nos puxar de volta para onde pertencemos.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110360a01'>\r\n//《……なんだと、思う》\r\n《Nossa posição original no tempo.》\r\n"
  },
  {
   "offset": 13558,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110370a00'>\r\n//「…………。\r\n//　すると、最終的には？」\r\n\"Which means...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110370a00'>\r\n//「…………。\r\n//　すると、最終的には？」\r\n\"O que significa...\"\r\n"
  },
  {
   "offset": 13730,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110380a01'>\r\n//《修正力は私達を正しい位置へ戻すまで働き\r\n//続ける、はずだから……\r\n//　金神から新たに力が加えられてきたりしな\r\n//ければ、》\r\n《If I'm right, the corrective force will keep working until we're back in our time. So long as the Konjin doesn't give us another push...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110380a01'>\r\n//《修正力は私達を正しい位置へ戻すまで働き\r\n//続ける、はずだから……\r\n//　金神から新たに力が加えられてきたりしな\r\n//ければ、》\r\n《Se eu estiver certa, a força corretiva vai continuar agindo até voltarmos ao nosso tempo. Desde que o Konjin não nos dê outro empurrão...》\r\n"
  },
  {
   "offset": 14156,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110390a01'>\r\n//《私達は本来の時間へ戻れる――と思う》\r\n《We should get there eventually. I think.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110390a01'>\r\n//《私達は本来の時間へ戻れる――と思う》\r\n《Devemos chegar lá eventualmente. Eu acho.》\r\n"
  },
  {
   "offset": 14363,
   "en": "\r\n//　……つまり。\r\n//　俺達は地上から大砲で空に向かって射出された砲弾\r\n//だが、砲弾には地球の引力が働くため――\r\n  So, we're like a cannonball launched into the sky. All we have to do...\r\n",
-  "pt": ""
+  "pt": "\r\n//　……つまり。\r\n//　俺達は地上から大砲で空に向かって射出された砲弾\r\n//だが、砲弾には地球の引力が働くため――\r\n  Então somos como uma bala de canhão lançada ao céu. Tudo o que precisamos fazer...\r\n"
  },
  {
   "offset": 14610,
   "en": "\r\n//　結局は地上へ帰ってくる。\r\n//　\r\n//　……そういう事になるのか？\r\n  ...is wait for Earth's gravity to pull us back down.\r\n",
-  "pt": ""
+  "pt": "\r\n//　結局は地上へ帰ってくる。\r\n//　\r\n//　……そういう事になるのか？\r\n  ...é esperar que a gravidade da Terra nos puxe de volta para baixo.\r\n"
  },
  {
   "offset": 14772,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110400a00'>\r\n//「なら確かに……悲観する必要はないな」\r\n\"Then you're right. It's not as hopeless as I feared.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110400a00'>\r\n//「なら確かに……悲観する必要はないな」\r\n\"Então você tem razão. Não é tão sem esperança quanto eu temia.\"\r\n"
  },
  {
   "offset": 14981,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110410a01'>\r\n//《ええ。\r\n//　この推測が正しいならね》\r\n《Unless my guess is completely off the mark.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110410a01'>\r\n//《ええ。\r\n//　この推測が正しいならね》\r\n《A menos que meu palpite esteja completamente errado.》\r\n"
  },
  {
   "offset": 15189,
   "en": "\r\n//　正しくあってもらわねば困る。\r\n//　自力での時間移動など為し得ない俺達は、他に希望\r\n//の託し処を持たない。\r\n  Let's pray that isn't the case. Our only other hope is to wind up in a future where they've already invented some kind of time machine.\r\n",
-  "pt": ""
+  "pt": "\r\n//　正しくあってもらわねば困る。\r\n//　自力での時間移動など為し得ない俺達は、他に希望\r\n//の託し処を持たない。\r\n  Rezemos para que não seja o caso. Nossa única outra esperança é acabar em um futuro onde já tenham inventado algum tipo de máquina do tempo.\r\n"
  },
  {
   "offset": 15497,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110420a01'>\r\n//《ただ……》\r\n《There is one thing, though.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110420a01'>\r\n//《ただ……》\r\n《Há uma coisa, porém.》\r\n"
  },
  {
   "offset": 15652,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110430a00'>\r\n//「ん？」\r\n\"Yes?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110430a00'>\r\n//「ん？」\r\n\"Sim?\"\r\n"
  },
  {
   "offset": 15768,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110440a01'>\r\n//《今はあっさり時空間を移動できているけど。\r\n//　このまま移動力が弱まっていくと……最後\r\n//にはいくつかの時空間に<RUBY text='・・・'>捕まる</RUBY>と思う》\r\n《It may seem like we're flying freely, but if we keep slowing down like this, I think we're going to get caught by one of those windows out there.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110440a01'>\r\n//《今はあっさり時空間を移動できているけど。\r\n//　このまま移動力が弱まっていくと……最後\r\n//にはいくつかの時空間に<RUBY text='・・・'>捕まる</RUBY>と思う》\r\n《Pode parecer que estamos voando livremente, mas se continuarmos desacelerando assim, acho que vamos acabar capturados por uma daquelas janelas lá fora.》\r\n"
  },
  {
   "offset": 16238,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110450a00'>\r\n//「捕まる？」\r\n\"Caught?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110450a00'>\r\n//「捕まる？」\r\n\"Capturados?\"\r\n"
  },
  {
   "offset": 16363,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110460a01'>\r\n//《一時的に別の時空間の住人になるわけ》\r\n《We'll temporarily exist in that time.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110460a01'>\r\n//《一時的に別の時空間の住人になるわけ》\r\n《Vamos existir temporariamente naquele tempo.》\r\n"
  },
  {
   "offset": 16567,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110470a00'>\r\n//「……それは、なかなか<RUBY text='おおごと'>大事</RUBY>の気がする」\r\n\"That sounds rather... serious.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110470a00'>\r\n//「……それは、なかなか<RUBY text='おおごと'>大事</RUBY>の気がする」\r\n\"Isso soa um tanto... grave.\"\r\n"
  },
  {
   "offset": 16787,
   "en": "\r\n//　いわゆる時間旅行か？\r\n  It sounds like actual time travel.\r\n",
-  "pt": ""
+  "pt": "\r\n//　いわゆる時間旅行か？\r\n  Parece viagem no tempo de verdade.\r\n"
  },
  {
   "offset": 16872,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110480a01'>\r\n//《何もなければ、すぐに修正力がその世界の\r\n//拘束力を上回って、私達はまた本来の時空間\r\n//へ向かって移動できるはずよ》\r\n《The corrective force should pull us out before anything goes wrong.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110490a01'>\r\n//《<RUBY text='・・・・・・'>何もなければ</RUBY>ね》\r\n《If something does go wrong, though...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110480a01'>\r\n//《何もなければ、すぐに修正力がその世界の\r\n//拘束力を上回って、私達はまた本来の時空間\r\n//へ向かって移動できるはずよ》\r\n《A força corretiva deve nos tirar de lá antes que algo dê errado.》\r\n\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110490a01'>\r\n//《<RUBY text='・・・・・・'>何もなければ</RUBY>ね》\r\n《Se algo der errado, porém...》\r\n"
  },
  {
   "offset": 17424,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110500a00'>\r\n//「……何事かがあったら、その限りではない\r\n//と？」\r\n\"It might not pull us out?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110500a00'>\r\n//「……何事かがあったら、その限りではない\r\n//と？」\r\n\"Ela pode não nos tirar de lá?\"\r\n"
  },
  {
   "offset": 17622,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110510a01'>\r\n//《ええ。\r\n//　仮にも住人になるわけだから。何かの拍子\r\n//でその時空に固定されて、脱出できなくなる\r\n//危険性はある》\r\n《Right. There's a risk that something could happen to anchor us to the timeframe. We'd be stuck there for good.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110510a01'>\r\n//《ええ。\r\n//　仮にも住人になるわけだから。何かの拍子\r\n//でその時空に固定されて、脱出できなくなる\r\n//危険性はある》\r\n《Certo. Existe o risco de algo acontecer e nos ancorar àquele período. Ficaríamos presos lá para sempre.》\r\n"
  },
  {
   "offset": 18007,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110520a00'>\r\n//「それを避けるには？」\r\n\"How do we avoid that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110520a00'>\r\n//「それを避けるには？」\r\n\"Como evitamos isso?\"\r\n"
  },
  {
   "offset": 18161,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110530a01'>\r\n//《何もしないのが一番よ。\r\n//　その世界の事象に一切関わらないでおいて、\r\n//修正力が働くまで待つの》\r\n《By having as little impact on the timeline as possible. It should be enough to just stand back and wait for the corrective force to do its job.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110530a01'>\r\n//《何もしないのが一番よ。\r\n//　その世界の事象に一切関わらないでおいて、\r\n//修正力が働くまで待つの》\r\n《Tendo o menor impacto possível na linha do tempo. Deve bastar ficarmos de fora e esperarmos que a força corretiva faça o seu trabalho.》\r\n"
  },
  {
   "offset": 18557,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110540a00'>\r\n//「わかった」\r\n\"All right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110540a00'>\r\n//「わかった」\r\n\"Está bem.\"\r\n"
  },
  {
   "offset": 18685,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110550a01'>\r\n//《でも、これも絶対ではないから注意して。\r\n//　何もしないで待っていたせいで、その世界\r\n//の事象に絡んでしまうってことも有り得るし》\r\n《But that might not be true in every case, so be careful. Depending on the situation, just standing around could change the course of history.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110550a01'>\r\n//《でも、これも絶対ではないから注意して。\r\n//　何もしないで待っていたせいで、その世界\r\n//の事象に絡んでしまうってことも有り得るし》\r\n《Mas isso pode não valer em todos os casos, então tome cuidado. Dependendo da situação, só ficar parado pode mudar o curso da história.》\r\n"
  },
  {
   "offset": 19127,
   "en": "\r\n//　――例えばそう、捕まった時空間というのが銃撃戦\r\n//の真っ只中であったとする。\r\n//　そこで突っ立っていれば当然、銃弾に撃ち抜かれて、\r\n//世界との関わりが生じる。\r\n\r\n//　村正の示唆はそういう意味であろう。\r\n//　\r\n//　……いやその場合は、既に世界との関わりがどうの\r\n//こうのという事態ではないようにも思えるが。\r\n  I assume she's considering what might happen if we emerge in the middle of some major event. On a battlefield, for example. If we just stand around and wind up catching a bullet, that would make us as much a part of the timeline as would killing a soldier.\r\n\r\n  Of course, if that happens, I'll have other things to worry about besides getting back to where we belong.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　――例えばそう、捕まった時空間というのが銃撃戦\r\n//の真っ只中であったとする。\r\n//　そこで突っ立っていれば当然、銃弾に撃ち抜かれて、\r\n//世界との関わりが生じる。\r\n\r\n//　村正の示唆はそういう意味であろう。\r\n//　\r\n//　……いやその場合は、既に世界との関わりがどうの\r\n//こうのという事態ではないようにも思えるが。\r\n  Suponho que ela esteja considerando o que pode acontecer se surgirmos no meio de algum grande acontecimento. Em um campo de batalha, por exemplo. Se apenas ficarmos parados e acabarmos levando um tiro, isso nos tornaria tão parte da linha do tempo quanto matar um soldado.\r\n\r\n  Claro que, se isso acontecer, terei outras coisas com que me preocupar além de voltar para onde pertencemos.\r\n\r\n"
  },
  {
   "offset": 19959,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110560a00'>\r\n//「基本的には何もせず。\r\n//　但し臨機応変の気構えは捨てず」\r\n\"So basically, do nothing, but stay alert in case action is necessary.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110560a00'>\r\n//「基本的には何もせず。\r\n//　但し臨機応変の気構えは捨てず」\r\n\"Então, basicamente, não fazer nada, mas ficar alerta caso seja necessário agir.\"\r\n"
  },
  {
   "offset": 20213,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110570a00'>\r\n//「それで良いか？」\r\n\"And that will get us home?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0110570a00'>\r\n//「それで良いか？」\r\n\"E isso vai nos levar para casa?\"\r\n"
  },
  {
   "offset": 20366,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110580a01'>\r\n//《多分ね！》\r\n《Probably!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0110580a01'>\r\n//《多分ね！》\r\n《Provavelmente!》\r\n"
  },
  {
   "offset": 20503,
   "en": "\r\n//　一蓮托生の劒冑は、何とも頼もしい言葉で保障して\r\n//くれた。\r\n  Probably.\r\n\r\n  Just what I needed to hear!\r\n",
-  "pt": ""
+  "pt": "\r\n//　一蓮托生の劒冑は、何とも頼もしい言葉で保障して\r\n//くれた。\r\n  Provavelmente.\r\n\r\n  Exatamente o que eu precisava ouvir!\r\n"
  }
 ]

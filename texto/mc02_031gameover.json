@@ -2,7 +2,7 @@
  {
   "offset": 221,
   "en": "\r\n//☆ヒント１\r\n//　スタート地点に戻るのは危険なのでやめましょう。\r\n//　良くて時間の無駄、悪くすればそこでデッドエンド\r\n//です。\r\nHint 1:\r\n  Avoid returning to where you started. It's a terrible idea.\r\n\r\n//☆ヒント２\r\n//　大鳥主従に常識は通用しません。\r\n//　合流するには非常識な愚行が必要かも。\r\nHint 2:\r\n  Kanae and Sayo are not normal people. You may need to do something very silly in order to locate them.\r\n\r\n//☆ヒント３\r\n//　巧妙に隠された物は、偶然の助けがあってこそ発見\r\n//できます。たまたま近くで起きた乱闘が部屋を激しく\r\n//らしたせいで、隠し場所があらわになる……とか。\r\nHint 3:\r\n  Well-kept secrets are most often discovered by coincidence. It's possible that making some noise might precipitate a change nearby.\r\n",
-  "pt": ""
+  "pt": "\r\n//☆ヒント１\r\n//　スタート地点に戻るのは危険なのでやめましょう。\r\n//　良くて時間の無駄、悪くすればそこでデッドエンド\r\n//です。\r\nDica 1:\r\n  Evite voltar ao ponto de partida. É uma péssima ideia.\r\n\r\n//☆ヒント２\r\n//　大鳥主従に常識は通用しません。\r\n//　合流するには非常識な愚行が必要かも。\r\nDica 2:\r\n  Kanae e Sayo não são pessoas normais. Talvez você precise fazer algo bem tolo para localizá-las.\r\n\r\n//☆ヒント３\r\n//　巧妙に隠された物は、偶然の助けがあってこそ発見\r\n//できます。たまたま近くで起きた乱闘が部屋を激しく\r\n//らしたせいで、隠し場所があらわになる……とか。\r\nDica 3:\r\n  Segredos bem guardados costumam ser descobertos por coincidência. É possível que fazer algum barulho provoque uma mudança nas proximidades.\r\n"
  },
  {
   "offset": 1126,
@@ -12,7 +12,7 @@
  {
   "offset": 1138,
   "en": "Restart Mission",
-  "pt": ""
+  "pt": "Reiniciar Missão"
  },
  {
   "offset": 1161,
@@ -22,7 +22,7 @@
  {
   "offset": 1173,
   "en": "Give Up",
-  "pt": ""
+  "pt": "Desistir"
  },
  {
   "offset": 1188,
@@ -32,7 +32,7 @@
  {
   "offset": 1200,
   "en": "Read Hints",
-  "pt": ""
+  "pt": "Ler Dicas"
  },
  {
   "offset": 1218,

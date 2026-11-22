@@ -2,7 +2,7 @@
  {
   "offset": 215,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0010e206'>\r\n//「……楽しそうで結構だな。\r\n//　だが、そこまでにして頂こうか」\r\n\"Sorry to interrupt, but the fun stops here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0010e206'>\r\n//「……楽しそうで結構だな。\r\n//　だが、そこまでにして頂こうか」\r\nDesculpe interromper, mas a diversão acaba aqui.\r\n"
  },
  {
   "offset": 497,
@@ -12,72 +12,72 @@
  {
   "offset": 715,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0030e207'>\r\n//「冗談みたいな絵面だな……」\r\n\"This has to be a dream.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0030e207'>\r\n//「冗談みたいな絵面だな……」\r\nIsso tem que ser um sonho.\r\n"
  },
  {
   "offset": 928,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0040e206'>\r\n//「悪夢と言い直せ。\r\n//　こんな御婦人お一人様に、ここまで侵入を\r\n//許しただと？」\r\n\"I think you mean nightmare. You're telling me we let this lady walk through two layers of defense?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0040e206'>\r\n//「悪夢と言い直せ。\r\n//　こんな御婦人お一人様に、ここまで侵入を\r\n//許しただと？」\r\nAcho que você quis dizer pesadelo. Está me dizendo que deixamos essa dama atravessar duas camadas de defesa?\r\n"
  },
  {
   "offset": 1290,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0050e208'>\r\n//「ちと、怠慢が過ぎましたかね。\r\n//　親王殿下の貴き御命なんて、僕らがお守り\r\n//する筋合いじゃないわけで」\r\n\"We've been slacking, sir, if we're honest. None of us want to be stuck here looking after the prince.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0050e208'>\r\n//「ちと、怠慢が過ぎましたかね。\r\n//　親王殿下の貴き御命なんて、僕らがお守り\r\n//する筋合いじゃないわけで」\r\nTemos sido negligentes, senhor, para falar a verdade. Nenhum de nós quer ficar preso aqui cuidando do príncipe.\r\n"
  },
  {
   "offset": 1691,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｈ】\r\n<voice name='ｅｔｃ／駐屯隊Ｈ' class='その他男声' src='voice/mc01/017vs0060e209'>\r\n//「だが、むざむざ侵入者の手に掛けさせては\r\n//我らの恥だ……」\r\n\"You're right, but damned if I'll sit back and watch as he's murdered right under my nose.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｈ】\r\n<voice name='ｅｔｃ／駐屯隊Ｈ' class='その他男声' src='voice/mc01/017vs0060e209'>\r\n//「だが、むざむざ侵入者の手に掛けさせては\r\n//我らの恥だ……」\r\nVocê tem razão, mas que me dane se eu vou ficar parado vendo ele ser assassinado bem debaixo do meu nariz.\r\n"
  },
  {
   "offset": 2016,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0070a03'>\r\n//「そうした責任意識はとても大切でしてよ。\r\n//　責任の無さは誇りの無さ。男の魅力もあり\r\n//ませんもの」\r\n\"I do appreciate a sense of duty. It's a sign of pride, and a man without pride is no man at all.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0070a03'>\r\n//「そうした責任意識はとても大切でしてよ。\r\n//　責任の無さは誇りの無さ。男の魅力もあり\r\n//ませんもの」\r\nEu aprecio muito um senso de dever. É um sinal de orgulho, e um homem sem orgulho não é homem algum.\r\n"
  },
  {
   "offset": 2369,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0080e208'>\r\n//「いいこと言いますね、この姉さん」\r\n\"I think I'm in love, cap.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0080e208'>\r\n//「いいこと言いますね、この姉さん」\r\nAcho que me apaixonei, capitão.\r\n"
  },
  {
   "offset": 2593,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｈ】\r\n<voice name='ｅｔｃ／駐屯隊Ｈ' class='その他男声' src='voice/mc01/017vs0090e209'>\r\n//「まったくだ。\r\n//　場所が場所なら、口説きに掛かるところだ\r\n//が……」\r\n\"I saw her first. Too bad we had to meet like this.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｈ】\r\n<voice name='ｅｔｃ／駐屯隊Ｈ' class='その他男声' src='voice/mc01/017vs0090e209'>\r\n//「まったくだ。\r\n//　場所が場所なら、口説きに掛かるところだ\r\n//が……」\r\nEu a vi primeiro. Pena que tivemos que nos conhecer assim...\r\n"
  },
  {
   "offset": 2892,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0100e207'>\r\n//「この見るも無惨な鉄火場ではなァ」\r\n\"The bodies do kind of ruin the mood.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0100e207'>\r\n//「この見るも無惨な鉄火場ではなァ」\r\nOs corpos meio que estragam o clima.\r\n"
  },
  {
   "offset": 3127,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0110a03'>\r\n//「お気に召さなくて？\r\n//　<RUBY text='ヘル・ファイヤー・ソルジャーズ'>地獄の炎の戦士の皆さん</RUBY>」\r\n\"Oh? Is my work not to your liking, men of fire and <br>blood?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0110a03'>\r\n//「お気に召さなくて？\r\n//　<RUBY text='ヘル・ファイヤー・ソルジャーズ'>地獄の炎の戦士の皆さん</RUBY>」\r\nOh? Meu trabalho não é do seu agrado, homens de fogo e sangue?\r\n"
  },
  {
   "offset": 3438,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0120e207'>\r\n//「趣味っちゃあ、趣味だがね」\r\n\"I gotta admit, it is impressive.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0120e207'>\r\n//「趣味っちゃあ、趣味だがね」\r\nTenho que admitir, é impressionante.\r\n"
  },
  {
   "offset": 3660,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0130e206'>\r\n//「よくぞまぁ……殺しも殺したり。\r\n//　そして得物は、年季の入ったその銃一丁？」\r\n\"I still can't believe you did this all by yourself. And with that old rifle?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0130e206'>\r\n//「よくぞまぁ……殺しも殺したり。\r\n//　そして得物は、年季の入ったその銃一丁？」\r\nAinda não consigo acreditar que você fez tudo isso sozinha. E com esse rifle velho?\r\n"
  },
  {
   "offset": 3999,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0140a03'>\r\n//「ええ。\r\n//　気に入りですの」\r\n\"It's a favorite of mine.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0140a03'>\r\n//「ええ。\r\n//　気に入りですの」\r\nÉ um dos meus prediletos.\r\n"
  },
  {
   "offset": 4177,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0150a03'>\r\n//「でも、銃の手応えはあまり好きではないの\r\n//ですけれどね。\r\n//　人を殺す時は、やっぱり素手が一番です」\r\n\"Though if we're to be honest, I prefer to use my hands.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0150a03'>\r\n//「でも、銃の手応えはあまり好きではないの\r\n//ですけれどね。\r\n//　人を殺す時は、やっぱり素手が一番です」\r\nMas, para ser sincera, prefiro usar as minhas mãos.\r\n"
  },
  {
   "offset": 4492,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0160a03'>\r\n//「こう――両手で……\r\n//　<RUBY text='くび'>縊</RUBY>り殺すのが、一番」\r\n\"To wring the life from a man's twitching body... Why, there's nothing else like it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0160a03'>\r\n//「こう――両手で……\r\n//　<RUBY text='くび'>縊</RUBY>り殺すのが、一番」\r\nTorcer a vida do corpo convulsivo de um homem... Ah, não há nada igual.\r\n"
  },
  {
   "offset": 4780,
@@ -87,132 +87,132 @@
  {
   "offset": 4952,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0180e208'>\r\n//「今、縮みませんでした？」\r\n\"That kill your boner?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0180e208'>\r\n//「今、縮みませんでした？」\r\nIsso te broxou?\r\n"
  },
  {
   "offset": 5160,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0190e207'>\r\n//「縮んだよ……」\r\n\"Damn right it did.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0190e207'>\r\n//「縮んだよ……」\r\nBroxou, sim...\r\n"
  },
  {
   "offset": 5350,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0200e206'>\r\n//「……<RUBY text='レディ'>ご令嬢</RUBY>。\r\n//　人殺しがお好みで？」\r\n\"Pardon, miss. May I take that to mean you enjoy killing?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0200e206'>\r\n//「……<RUBY text='レディ'>ご令嬢</RUBY>。\r\n//　人殺しがお好みで？」\r\nPerdão, senhorita. Devo entender que a senhora gosta de matar?\r\n"
  },
  {
   "offset": 5642,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0210a03'>\r\n//「はい♪」\r\n\"Oh yes♪\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0210a03'>\r\n//「はい♪」\r\nAh, sim♪\r\n"
  },
  {
   "offset": 5777,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0220a03'>\r\n//「それはもう……\r\n//　何よりも！」\r\n\"It's what I live for!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0220a03'>\r\n//「それはもう……\r\n//　何よりも！」\r\nÉ para isso que eu vivo!\r\n"
  },
  {
   "offset": 5958,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0230e206'>\r\n//「……殺されるのは？」\r\n\"...And how does being killed sit with you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0230e206'>\r\n//「……殺されるのは？」\r\n...E ser morta, como a senhora encara isso?\r\n"
  },
  {
   "offset": 6181,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0240a03'>\r\n//「あぁ、忘れておりました。\r\n//　それはきっと、殺すよりも素敵でしょうね」\r\n\"Ah, of course! I've never experienced it myself, but it must be even better.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0240a03'>\r\n//「あぁ、忘れておりました。\r\n//　それはきっと、殺すよりも素敵でしょうね」\r\nAh, claro! Nunca experimentei, mas deve ser ainda melhor.\r\n"
  },
  {
   "offset": 6474,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0250a03'>\r\n//「想像するだけでときめきます」\r\n\"Oh, just the thought sets my heart aflutter.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0250a03'>\r\n//「想像するだけでときめきます」\r\nAh, só de pensar meu coração dispara.\r\n"
  },
  {
   "offset": 6674,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0260e206'>\r\n//「良かった。安心したよ。\r\n//　職務上、俺は殺されるわけにはいかないが、\r\n//殺してやることなら何とかできそうなのでね」\r\n\"Great. Glad to hear it. We can't let you kill us, you see, our duties being as they are. But I think we can spare some killing of our own.\"\r\n\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0270e206'>\r\n//「――聞いての通りだ。\r\n//　ネジが一本どころじゃなく緩んじまってる\r\n//この牝犬様に、きついのを一発見舞って差し\r\n//上げろ」\r\n\"You hear that, men? Let's give this loony bitch a quick slice down the middle.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0260e206'>\r\n//「良かった。安心したよ。\r\n//　職務上、俺は殺されるわけにはいかないが、\r\n//殺してやることなら何とかできそうなのでね」\r\nÓtimo. Fico feliz em ouvir isso. Não podemos deixar que a senhora nos mate, veja bem, nossos deveres são o que são. Mas acho que podemos arranjar um pouco de morte por conta própria.\r\n\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0270e206'>\r\n//「――聞いての通りだ。\r\n//　ネジが一本どころじゃなく緩んじまってる\r\n//この牝犬様に、きついのを一発見舞って差し\r\n//上げろ」\r\nOuviu isso, homens? Vamos dar um corte rápido no meio dessa vadia maluca.\r\n"
  },
  {
   "offset": 7525,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｈ】\r\n<voice name='ｅｔｃ／駐屯隊Ｈ' class='その他男声' src='voice/mc01/017vs0280e209'>\r\n//「諒解」\r\n\"Yes sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｈ】\r\n<voice name='ｅｔｃ／駐屯隊Ｈ' class='その他男声' src='voice/mc01/017vs0280e209'>\r\n//「諒解」\r\nSim, senhor.\r\n"
  },
  {
   "offset": 7693,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0290e208'>\r\n//「何だか殺しちまうにはちょっと惜しい<RUBY text='ひと'>女性</RUBY>\r\n//ですけどねえ？」\r\n\"Too bad. She really was my type.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0290e208'>\r\n//「何だか殺しちまうにはちょっと惜しい<RUBY text='ひと'>女性</RUBY>\r\n//ですけどねえ？」\r\nQue pena. Ela era mesmo o meu tipo.\r\n"
  },
  {
   "offset": 7988,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0300e207'>\r\n//「お前の趣味を疑うぜ……」\r\n\"Man, you've got a problem.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0300e207'>\r\n//「お前の趣味を疑うぜ……」\r\nCara, você tem problema.\r\n"
  },
  {
   "offset": 8201,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0310a03'>\r\n//「あらあら。\r\n//　みなさんおそろいで、わたくしを悦ばせて\r\n//くださるとおっしゃる？」\r\n\"I must say, it's terribly kind of you gentlemen to offer a lady such a stimulating experience...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0310a03'>\r\n//「あらあら。\r\n//　みなさんおそろいで、わたくしを悦ばせて\r\n//くださるとおっしゃる？」\r\nDevo dizer que é muita gentileza dos senhores oferecer a uma dama uma experiência tão estimulante...\r\n"
  },
  {
   "offset": 8530,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0320a03'>\r\n//「けれど死の愉しみは一度きり。\r\n//　わたくしとしても相手は選ばせて頂かない\r\n//と困ります」\r\n\"But as I have only one life to give, you'll forgive me if I save it for someone of my choosing.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0320a03'>\r\n//「けれど死の愉しみは一度きり。\r\n//　わたくしとしても相手は選ばせて頂かない\r\n//と困ります」\r\nMas, como só tenho uma vida para dar, perdoem-me se eu a reservar para alguém da minha escolha.\r\n"
  },
  {
   "offset": 8867,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0330e206'>\r\n//「俺たちでは不満だと？」\r\n\"We're not good enough for you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0330e206'>\r\n//「俺たちでは不満だと？」\r\nNão somos bons o bastante para a senhora?\r\n"
  },
  {
   "offset": 9081,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0340a03'>\r\n//「いささか役不足というものでしょう」\r\n\"One might say you're under par.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0340a03'>\r\n//「いささか役不足というものでしょう」\r\nPode-se dizer que estão abaixo do par.\r\n"
  },
  {
   "offset": 9277,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0350a03'>\r\n//「あ、今のは謙譲の表現でしてよ。\r\n///　文法ミスではなくってよ！」\r\n\"Wait, I meant <I>not up to</I> par! I know that being㉗<I>under</I>㉔par is a good thing!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0350a03'>\r\n//「あ、今のは謙譲の表現でしてよ。\r\n///　文法ミスではなくってよ！」\r\nEsperem, eu quis dizer <I>não à altura</I> do par! Eu sei que estar㉗<I>abaixo</I>㉔ do par é uma coisa boa!\r\n"
  },
  {
   "offset": 9574,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0360e206'>\r\n//「ふん。\r\n//　お前のような女に殺された兵卒どもにも、\r\n//不満はあったろうよ」\r\n\"Hmph. Something tells me our boys would rather not have been shot by a lady like you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0360e206'>\r\n//「ふん。\r\n//　お前のような女に殺された兵卒どもにも、\r\n//不満はあったろうよ」\r\nHmph. Algo me diz que nossos rapazes preferiam não ter levado um tiro de uma dama como a senhora.\r\n"
  },
  {
   "offset": 9917,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0370a03'>\r\n//「失礼なっ。\r\n//　こんな<RUBY text='イケイケギャル'>超絶美女</RUBY>をつかまえて」\r\n\"What!? But I have such a <I>killer</I>㉔body!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0370a03'>\r\n//「失礼なっ。\r\n//　こんな<RUBY text='イケイケギャル'>超絶美女</RUBY>をつかまえて」\r\nO quê!? Mas eu tenho um corpo tão <I>matador</I>㉔!\r\n"
  },
  {
   "offset": 10183,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0380e206'>\r\n//「だが奴らは不満を呑んだ。\r\n//　ああそうさ。そういうものだ。結局この世\r\n//の中、力のある者が自分の好みを押し付ける\r\n//ようにできている」\r\n\"But you don't hear them complaining, do you? That's because they know that in this world of ours, it's those with the power who get what they want.\"\r\n\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0390e206'>\r\n//「これから俺がお前にそうしてやるようにだ。\r\n//　文句はなかろう？」\r\n\"And I want your head. See how that works?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0380e206'>\r\n//「だが奴らは不満を呑んだ。\r\n//　ああそうさ。そういうものだ。結局この世\r\n//の中、力のある者が自分の好みを押し付ける\r\n//ようにできている」\r\nMas você não os ouve reclamar, ouve? É porque eles sabem que, neste nosso mundo, são os que têm poder que conseguem o que querem.\r\n\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0390e206'>\r\n//「これから俺がお前にそうしてやるようにだ。\r\n//　文句はなかろう？」\r\nE eu quero a sua cabeça. Vê como funciona?\r\n"
  },
  {
   "offset": 10954,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0400a03'>\r\n//「……そう。\r\n//　結構でしてよ？」\r\n\"Indeed. I understand quite well.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0400a03'>\r\n//「……そう。\r\n//　結構でしてよ？」\r\nÉ verdade. Compreendo muito bem.\r\n"
  },
  {
   "offset": 11146,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0410a03'>\r\n//「たしかに、力の強い者には刃向かえません\r\n//ものね。それはとても納得のゆく<RUBY text='ルール'>正義</RUBY>。\r\n//　そう……それが<RUBY text='あなたがた'>六波羅</RUBY>のルール」\r\n\"Might makes right. Such a clean, simple rule. The rule that Rokuhara lives by.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0410a03'>\r\n//「たしかに、力の強い者には刃向かえません\r\n//ものね。それはとても納得のゆく<RUBY text='ルール'>正義</RUBY>。\r\n//　そう……それが<RUBY text='あなたがた'>六波羅</RUBY>のルール」\r\nA força dita o direito. Uma regra tão limpa e simples. A regra pela qual Rokuhara se rege.\r\n"
  },
  {
   "offset": 11571,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0420a03'>\r\n//「だからわたくし、あなたがたの相手をする\r\n//時は同じルールを自分に課していましたの。\r\n//　六波羅への敬意を表して。これまでずっと\r\n//……ええ、もちろん今もそう致しましょう」\r\n\"And I respect that, I do. It's why I always try to play by your rules when I can.\r\n  ...See? Just like this.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0420a03'>\r\n//「だからわたくし、あなたがたの相手をする\r\n//時は同じルールを自分に課していましたの。\r\n//　六波羅への敬意を表して。これまでずっと\r\n//……ええ、もちろん今もそう致しましょう」\r\n\"E eu respeito isso, respeito mesmo. É por isso que sempre tento seguir as suas regras quando posso.\r\n  ...Viu? Deste jeito.\"\r\n"
  },
  {
   "offset": 12042,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0430e208'>\r\n//「……？　楽器？」\r\n\"...Huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0430e208'>\r\n//「……？　楽器？」\r\n...Hã?\r\n"
  },
  {
   "offset": 12224,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0440e206'>\r\n//「……何の真似だ？」\r\n\"What's she doing?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0440e206'>\r\n//「……何の真似だ？」\r\nO que ela está fazendo?\r\n"
  },
  {
   "offset": 12419,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0450a03'>\r\n//「最後に一曲。\r\n//　そのくらい、許してくださるでしょう？」\r\n\"You'll allow me one last piece, won't you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0450a03'>\r\n//「最後に一曲。\r\n//　そのくらい、許してくださるでしょう？」\r\n\"Vocês me permitirão uma última peça, não?\"\r\n"
  },
  {
   "offset": 12657,
@@ -222,46 +222,46 @@
  {
   "offset": 12829,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0470a03'>\r\n//「これでお別れなんですもの」\r\n\"Before we say adieu.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0470a03'>\r\n//「これでお別れなんですもの」\r\n\"Antes de dizermos adeus.\"\r\n"
  },
  {
   "offset": 13002,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0480e207'>\r\n//「自分への<RUBY text='レクイエム'>鎮魂曲</RUBY>にしちゃ、妙な選曲だな」\r\n\"...Strange choice for a requiem.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｆ】\r\n<voice name='ｅｔｃ／駐屯隊Ｆ' class='その他男声' src='voice/mc01/017vs0480e207'>\r\n//「自分への<RUBY text='レクイエム'>鎮魂曲</RUBY>にしちゃ、妙な選曲だな」\r\n\"...Uma escolha estranha para um réquiem.\"\r\n"
  },
  {
   "offset": 13278,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0490e206'>\r\n//「……満足したか？」\r\n\"Satisfied?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0490e206'>\r\n//「……満足したか？」\r\n\"Satisfeita?\"\r\n"
  },
  {
   "offset": 13466,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0500a03'>\r\n//「ええ。\r\n//　とても満足――」\r\n\"Quite.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0500a03'>\r\n//「ええ。\r\n//　とても満足――」\r\n\"Plenamente.\"\r\n"
  },
  {
   "offset": 13626,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0510a03'>\r\n//「――だから。\r\n//　あなたがたも、満足させて差し上げる」\r\n\"And now, it's my turn to satisfy you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0510a03'>\r\n//「――だから。\r\n//　あなたがたも、満足させて差し上げる」\r\n\"E agora, é a minha vez de satisfazê-los.\"\r\n"
  },
  {
   "offset": 13856,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｈ】\r\n<voice name='ｅｔｃ／駐屯隊Ｈ' class='その他男声' src='voice/mc01/017vs0520e209'>\r\n//「…………何だと!?」\r\n\"What!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｈ】\r\n<voice name='ｅｔｃ／駐屯隊Ｈ' class='その他男声' src='voice/mc01/017vs0520e209'>\r\n//「…………何だと!?」\r\n\"O quê!?\"\r\n"
  },
  {
   "offset": 14039,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0530e208'>\r\n//「つ――劒冑!?」\r\n\"A tsurugi!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｇ】\r\n<voice name='ｅｔｃ／駐屯隊Ｇ' class='その他男声' src='voice/mc01/017vs0530e208'>\r\n//「つ――劒冑!?」\r\n\"Um tsurugi!?\"\r\n"
  },
  {
   "offset": 14221,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0540a03'>\r\n//「言い忘れていましたけど。\r\n//　この〝<RUBY text='バロウズ'>贋弓聖</RUBY>〟の<RUBY text='コンセクレーションテーマ'>装甲楽曲</RUBY>は、わたくしの\r\n//敵――つまりあなたがたのための<RUBY text='レクイエム'>鎮魂曲</RUBY>」\r\n\"I forgot to mention that when Burroughs plays a requiem, it is always for my enemies. Never for me.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0550a03'>\r\n//「どうやらお好みではなかったかしら？\r\n//　けれど、わたくしの方が強いもの。力ずく\r\n//で好みを押し付けてしまいましょう」\r\n\"Not what you hoped for? I'm sorry to hear that, but I'm the one with the power here.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0560a03'>\r\n//「よろしくて？」\r\n\"You won't mind if I have my way, will you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0540a03'>\r\n//「言い忘れていましたけど。\r\n//　この〝<RUBY text='バロウズ'>贋弓聖</RUBY>〟の<RUBY text='コンセクレーションテーマ'>装甲楽曲</RUBY>は、わたくしの\r\n//敵――つまりあなたがたのための<RUBY text='レクイエム'>鎮魂曲</RUBY>」\r\n\"Esqueci de mencionar que, quando Burroughs toca um réquiem, ele é sempre para os meus inimigos. Nunca para mim.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0550a03'>\r\n//「どうやらお好みではなかったかしら？\r\n//　けれど、わたくしの方が強いもの。力ずく\r\n//で好みを押し付けてしまいましょう」\r\n\"Não era o que vocês esperavam? Sinto muito, mas quem tem o poder aqui sou eu.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc01/017vs0560a03'>\r\n//「よろしくて？」\r\n\"Vocês não se importarão que eu faça do meu jeito, não?\"\r\n"
  },
  {
   "offset": 15250,
   "en": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0570e206'>\r\n//「斬れェッ!!」\r\n\"ATTACK!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／駐屯隊Ｅ】\r\n<voice name='ｅｔｃ／駐屯隊Ｅ' class='その他男声' src='voice/mc01/017vs0570e206'>\r\n//「斬れェッ!!」\r\n\"ATAQUEM!\"\r\n"
  }
 ]

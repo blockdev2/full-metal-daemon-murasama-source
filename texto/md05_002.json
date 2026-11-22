@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020010a01'>\r\n//「御堂」\r\n\"Mido.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020010a01'>\r\n//「御堂」\r\n\"Mido.\"\r\n"
  },
  {
   "offset": 336,
@@ -12,17 +12,17 @@
  {
   "offset": 454,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020030a01'>\r\n//「茶々丸は……」\r\n\"Is she...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020030a01'>\r\n//「茶々丸は……」\r\n\"Ela...?\"\r\n"
  },
  {
   "offset": 593,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020040a00'>\r\n//「今、逝った」\r\n\"Gone.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020040a00'>\r\n//「今、逝った」\r\n\"Se foi.\"\r\n"
  },
  {
   "offset": 719,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020050a01'>\r\n//「……そう」\r\n\"...I see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020050a01'>\r\n//「……そう」\r\n\"...Entendo.\"\r\n"
  },
  {
   "offset": 852,
@@ -32,22 +32,22 @@
  {
   "offset": 976,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020070a01'>\r\n//「……これ……」\r\n\"That's...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020070a01'>\r\n//「……これ……」\r\n\"Isso é...\"\r\n"
  },
  {
   "offset": 1115,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020080a00'>\r\n//「野太刀の……断片？」\r\n\"A piece of your nodachi?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020080a00'>\r\n//「野太刀の……断片？」\r\n\"Um pedaço do seu nodachi?\"\r\n"
  },
  {
   "offset": 1272,
   "en": "\r\n//　そうだ。\r\n//　村正の主兵装である長尺の野太刀を復元するために、\r\n//この破片を集めていたのだった。\r\n\r\n//　……ここのところ事が多くて、すっかり忘れていた。\r\n  That's right. I'd completely forgotten. Before that fateful day at the shrine, I was trying to restore Muramasa's nodachi.\r\n",
-  "pt": ""
+  "pt": "\r\n//　そうだ。\r\n//　村正の主兵装である長尺の野太刀を復元するために、\r\n//この破片を集めていたのだった。\r\n\r\n//　……ここのところ事が多くて、すっかり忘れていた。\r\n  É isso. Eu tinha me esquecido completamente. Antes daquele dia fatídico no santuário, eu estava tentando restaurar o nodachi da Muramasa.\r\n"
  },
  {
   "offset": 1636,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020090a00'>\r\n//「最後の〝卵〟は茶々丸が持っていたのか」\r\n\"So the last egg was with Chachamaru.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020090a00'>\r\n//「最後の〝卵〟は茶々丸が持っていたのか」\r\n\"Então o último ovo estava com a Chachamaru.\"\r\n"
  },
  {
   "offset": 1832,
@@ -57,47 +57,47 @@
  {
   "offset": 1956,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020110a00'>\r\n//「断片はこれで全部だな？」\r\n\"We have all the pieces now?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020110a00'>\r\n//「断片はこれで全部だな？」\r\n\"Agora temos todas as peças?\"\r\n"
  },
  {
   "offset": 2122,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020120a01'>\r\n//「ええ。\r\n//　これで野太刀を再生させられる」\r\n\"Yes. I should be able to reassemble it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020120a01'>\r\n//「ええ。\r\n//　これで野太刀を再生させられる」\r\n\"Sim. Devo conseguir remontá-lo.\"\r\n"
  },
  {
   "offset": 2331,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020130a00'>\r\n//「なら、すぐに頼む。\r\n//　脇差のみで戦いに臨むのは心許ない」\r\n\"Please do. I'd like to be properly armed before our next battle.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020130a00'>\r\n//「なら、すぐに頼む。\r\n//　脇差のみで戦いに臨むのは心許ない」\r\n\"Por favor. Gostaria de estar devidamente armado antes da nossa próxima batalha.\"\r\n"
  },
  {
   "offset": 2583,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020140a01'>\r\n//「……そうね。わかった」\r\n\"...Okay. I'll get right on it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020140a01'>\r\n//「……そうね。わかった」\r\n\"...Certo. Vou cuidar disso agora mesmo.\"\r\n"
  },
  {
   "offset": 2755,
   "en": "\r\n//　戦いという一語が示すものを、説明せずとも村正は\r\n//理解した様子だった。\r\n\r\n//　手渡しで破片を預けて、少し離れる。\r\n//　脳裏に、去った者の遺した言葉が<RUBY text='よ'>過</RUBY>ぎった。\r\n\r\n//　――湊斗景明は湊斗光を倒せない。\r\n\r\n//　しかし。\r\n//　世界を守る英雄は、世界を壊す魔王を殺せる。\r\n  Muramasa accepts the last piece without question. She knows as well I do that our fight is far from over.\r\n\r\n  I leave her to her task. I need some time to think. Chachamaru's final words are still fresh in my mind.\r\n\r\n  Minato Kageaki cannot kill Minato Hikaru. Only a hero, the selfless defender of humanity, can slay the savage conqueror.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　戦いという一語が示すものを、説明せずとも村正は\r\n//理解した様子だった。\r\n\r\n//　手渡しで破片を預けて、少し離れる。\r\n//　脳裏に、去った者の遺した言葉が<RUBY text='よ'>過</RUBY>ぎった。\r\n\r\n//　――湊斗景明は湊斗光を倒せない。\r\n\r\n//　しかし。\r\n//　世界を守る英雄は、世界を壊す魔王を殺せる。\r\n  Muramasa aceita a última peça sem questionar. Ela sabe tão bem quanto eu que nossa luta está longe de acabar.\r\n\r\n  Deixo-a com sua tarefa. Preciso de um tempo para pensar. As últimas palavras de Chachamaru ainda estão frescas na minha mente.\r\n\r\n  Minato Kageaki não pode matar Minato Hikaru. Apenas um herói, o defensor altruísta da humanidade, pode aniquilar o selvagem conquistador.\r\n\r\n"
  },
  {
   "offset": 3521,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020150a00'>\r\n//（茶々丸……）\r\n(Chachamaru...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020150a00'>\r\n//（茶々丸……）\r\n(Chachamaru...)\r\n"
  },
  {
   "offset": 3655,
   "en": "\r\n//　人であって人ではなく、道具であって道具ではない、\r\n//<RUBY text='リビングアーマー'>生体甲冑</RUBY>として生を受け――そんな世界に滅びの鍵を\r\n//差し込んだ者の事を想う。\r\n//　憎しみの感情を掻き立てるのは難しかった。\r\n\r\n//　憎むには関わり過ぎ、知り過ぎてしまった。\r\n  She was born into this world as living armor, both human and tsurugi, yet denied the chance to truly be either. Her suffering led her to set in motion a plan that would bring civilization to its knees. \r\n\r\n  Unforgivable by any measure. Yet even having witnessed the fruit of her obsession, I cannot bring myself to condemn her. I came to know her too well for that.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　人であって人ではなく、道具であって道具ではない、\r\n//<RUBY text='リビングアーマー'>生体甲冑</RUBY>として生を受け――そんな世界に滅びの鍵を\r\n//差し込んだ者の事を想う。\r\n//　憎しみの感情を掻き立てるのは難しかった。\r\n\r\n//　憎むには関わり過ぎ、知り過ぎてしまった。\r\n  Ela nasceu neste mundo como armadura viva, humana e tsurugi ao mesmo tempo, mas sem jamais ter a chance de ser verdadeiramente uma ou outra. Seu sofrimento a levou a pôr em marcha um plano que levaria a civilização de joelhos.\r\n\r\n  Imperdoável sob qualquer medida. Ainda assim, mesmo tendo testemunhado o fruto de sua obsessão, não consigo condená-la. Eu a conheci bem demais para isso.\r\n\r\n"
  },
  {
   "offset": 4413,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020160a00'>\r\n//（お前は……最後、何を思って）\r\n(Why did you choose to tell me those things?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020160a00'>\r\n//（お前は……最後、何を思って）\r\n(Por que você escolheu me contar essas coisas?)\r\n"
  },
  {
   "offset": 4601,
   "en": "\r\n//　あんな事を――伝えたのか…………\r\n  Why did she make㉗<I>those</I> her last words?\r\n",
-  "pt": ""
+  "pt": "\r\n//　あんな事を――伝えたのか…………\r\n  Por que ela escolheu㉗<I>aquelas</I> palavras para serem as suas últimas?\r\n"
  },
  {
   "offset": 4717,
@@ -112,37 +112,37 @@
  {
   "offset": 4965,
   "en": "\r\n//　奇妙に、驚きはなかった。\r\n//　突然の遭遇でありながら。\r\n\r\n//　何処かで悟っていたのかもしれない。\r\n//　この人と会わずに、最後の決着を迎えることはでき\r\n//ないと。\r\n  Though his appearance is sudden, I feel no surprise.\r\n\r\n  Part of me must have known this would happen, that I could not go to my final battle without seeing him one last time.\r\n",
-  "pt": ""
+  "pt": "\r\n//　奇妙に、驚きはなかった。\r\n//　突然の遭遇でありながら。\r\n\r\n//　何処かで悟っていたのかもしれない。\r\n//　この人と会わずに、最後の決着を迎えることはでき\r\n//ないと。\r\n  Embora seu aparecimento seja repentino, não sinto surpresa.\r\n\r\n  Alguma parte de mim devia saber que isso aconteceria, que eu não poderia ir à minha batalha final sem vê-lo uma última vez.\r\n"
  },
  {
   "offset": 5393,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020190a11'>\r\n//「大鳥大尉に聞いてな」\r\n\"I heard from Captain Otori.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020190a11'>\r\n//「大鳥大尉に聞いてな」\r\n\"Fiquei sabendo pelo Capitão Otori.\"\r\n"
  },
  {
   "offset": 5553,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020200a00'>\r\n//「……そうですか」\r\n\"I see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020200a00'>\r\n//「……そうですか」\r\n\"Entendo.\"\r\n"
  },
  {
   "offset": 5686,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020210a00'>\r\n//「鎌倉の様子は？」\r\n\"How is the situation in Kamakura?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020210a00'>\r\n//「鎌倉の様子は？」\r\n\"Como está a situação em Kamakura?\"\r\n"
  },
  {
   "offset": 5846,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020220a11'>\r\n//「酷い」\r\n\"Horrible.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020220a11'>\r\n//「酷い」\r\n\"Horrível.\"\r\n"
  },
  {
   "offset": 5967,
   "en": "\r\n//　市内の治安を預かる責任者は、一言で答えた。\r\n//　そこに全ての事実があった。\r\n\r\n//　六波羅と進駐軍の戦争、そしてその後の混乱――\r\n//　それが今、鎌倉を<RUBY text='・・・・・・・'>どうしているか</RUBY>。\r\n\r\n//　本当なら、この場所を訪れて俺と話すだけの時間も\r\n//惜しいだろう。\r\n//　\r\n//　それでも彼は、来た。\r\n  I know better than to doubt his assessment. He is the man most responsible for Kamakura's security. If he says that the situation is horrible, then it must truly be so.\r\n\r\n  And no wonder. When the chaos descended, GHQ forces were still occupying the city. I can only imagine what has happened since, with Rokuhara troops on the loose.\r\n\r\n  I'm sure he had better things to do than come looking for me. Yet here he is.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　市内の治安を預かる責任者は、一言で答えた。\r\n//　そこに全ての事実があった。\r\n\r\n//　六波羅と進駐軍の戦争、そしてその後の混乱――\r\n//　それが今、鎌倉を<RUBY text='・・・・・・・'>どうしているか</RUBY>。\r\n\r\n//　本当なら、この場所を訪れて俺と話すだけの時間も\r\n//惜しいだろう。\r\n//　\r\n//　それでも彼は、来た。\r\n  Sei melhor do que duvidar de sua avaliação. Ele é o homem mais responsável pela segurança de Kamakura. Se ele diz que a situação é horrível, então deve ser realmente assim.\r\n\r\n  E não é de se espantar. Quando o caos se abateu, as forças da GHQ ainda ocupavam a cidade. Só posso imaginar o que aconteceu desde então, com as tropas do Xogunato Rokuhara à solta.\r\n\r\n  Certamente ele tinha coisas melhores a fazer do que vir me procurar. E, no entanto, aqui está ele.\r\n\r\n"
  },
  {
   "offset": 6836,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020230a00'>\r\n//「明堯様」\r\n\"Father.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020230a00'>\r\n//「明堯様」\r\n\"Pai.\"\r\n"
  },
  {
   "offset": 6958,
@@ -152,17 +152,17 @@
  {
   "offset": 7076,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020250a00'>\r\n//「建朝寺では……御迷惑を」\r\n\"I must apologize for my actions at Kenchoji.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020250a00'>\r\n//「建朝寺では……御迷惑を」\r\n\"Preciso me desculpar por minhas ações em Kenchoji.\"\r\n"
  },
  {
   "offset": 7259,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020260a11'>\r\n//「いい。\r\n//　私にお前を責める理由はない」\r\n\"Not necessary. I don't blame you for that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020260a11'>\r\n//「いい。\r\n//　私にお前を責める理由はない」\r\n\"Não é necessário. Não o culpo por isso.\"\r\n"
  },
  {
   "offset": 7462,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020270a11'>\r\n//「どのような意味でも」\r\n\"Or for anything else.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020270a11'>\r\n//「どのような意味でも」\r\n\"Nem por qualquer outra coisa.\"\r\n"
  },
  {
   "offset": 7616,
@@ -172,22 +172,22 @@
  {
   "offset": 7734,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020290a11'>\r\n//「景明」\r\n\"Kageaki.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020290a11'>\r\n//「景明」\r\n\"Kageaki.\"\r\n"
  },
  {
   "offset": 7854,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020300a00'>\r\n//「はい」\r\n\"Sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020300a00'>\r\n//「はい」\r\n\"Senhor.\"\r\n"
  },
  {
   "offset": 7970,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020310a11'>\r\n//「……あれは、<RUBY text='ひかる'>銀星号</RUBY>なのか？」\r\n\"Is that... Hikaru?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020310a11'>\r\n//「……あれは、<RUBY text='ひかる'>銀星号</RUBY>なのか？」\r\n\"Aquilo é... a Hikaru?\"\r\n"
  },
  {
   "offset": 8163,
   "en": "\r\n//　天の異常を指して、彼は問うた。\r\n  He points to the second sun.\r\n",
-  "pt": ""
+  "pt": "\r\n//　天の異常を指して、彼は問うた。\r\n  Ele aponta para o segundo sol.\r\n"
  },
  {
   "offset": 8257,
@@ -197,37 +197,37 @@
  {
   "offset": 8381,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020330a11'>\r\n//「済まんな。\r\n//　話を少し、立ち聞きする格好になった」\r\n\"Sorry. I overheard a little.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020330a11'>\r\n//「済まんな。\r\n//　話を少し、立ち聞きする格好になった」\r\n\"Desculpe. Ouvi um pouco da conversa.\"\r\n"
  },
  {
   "offset": 8588,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020340a00'>\r\n//「いえ。\r\n//　……そうです」\r\n\"It's fine. ...Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020340a00'>\r\n//「いえ。\r\n//　……そうです」\r\n\"Tudo bem. ...Sim.\"\r\n"
  },
  {
   "offset": 8746,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020350a00'>\r\n//「あれは光――銀星号。\r\n//　今、世界を混乱に陥れているものです」\r\n\"That is Hikaru. Ginseigo. The source of the chaos consuming the world.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020350a00'>\r\n//「あれは光――銀星号。\r\n//　今、世界を混乱に陥れているものです」\r\n\"Aquilo é a Hikaru. A Ginseigo. A fonte do caos que consome o mundo.\"\r\n"
  },
  {
   "offset": 9010,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020360a11'>\r\n//「……経緯が想像もつかんな」\r\n\"I can't imagine how this happened.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020360a11'>\r\n//「……経緯が想像もつかんな」\r\n\"Não consigo imaginar como isso aconteceu.\"\r\n"
  },
  {
   "offset": 9186,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020370a00'>\r\n//「ご説明しましょうか。\r\n//　大半、荒唐無稽な話になってしまいますが\r\n//……」\r\n\"Would you like me to explain? It's a rather outlandish story, I'm afraid.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020370a00'>\r\n//「ご説明しましょうか。\r\n//　大半、荒唐無稽な話になってしまいますが\r\n//……」\r\n\"Gostaria que eu explicasse? Receio que seja uma história bastante absurda.\"\r\n"
  },
  {
   "offset": 9469,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020380a11'>\r\n//「そうだな。いずれ頼む。\r\n//　今は余り時間が無い」\r\n\"No doubt. Later. I don't have much time.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020380a11'>\r\n//「そうだな。いずれ頼む。\r\n//　今は余り時間が無い」\r\n\"Sem dúvida. Mais tarde. Não tenho muito tempo.\"\r\n"
  },
  {
   "offset": 9682,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020390a00'>\r\n//「は」\r\n\"Of course.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020390a00'>\r\n//「は」\r\n\"Claro.\"\r\n"
  },
  {
   "offset": 9801,
@@ -242,7 +242,7 @@
  {
   "offset": 10037,
   "en": "\r\n//　時間が無いと言いながら、立ち続ける。\r\n//　養父は、待っている様子だった。\r\n\r\n//　言葉を。\r\n//　俺が伝えるべき事――彼が聞くべき事を。\r\n  Though duty calls, he makes no move to leave. I sense that he is waiting.\r\n\r\n  Waiting for words I am meant to say, and that he is meant to hear.\r\n",
-  "pt": ""
+  "pt": "\r\n//　時間が無いと言いながら、立ち続ける。\r\n//　養父は、待っている様子だった。\r\n\r\n//　言葉を。\r\n//　俺が伝えるべき事――彼が聞くべき事を。\r\n  Embora o dever o chame, ele não faz menção de sair. Percebo que ele está esperando.\r\n\r\n  Esperando palavras que eu devo dizer, e que ele deve ouvir.\r\n"
  },
  {
   "offset": 10394,
@@ -252,22 +252,22 @@
  {
   "offset": 10518,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020430a00'>\r\n//「……光は……\r\n//　あいつは」\r\n\"Hikaru. She...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020430a00'>\r\n//「……光は……\r\n//　あいつは」\r\n\"A Hikaru. Ela...\"\r\n"
  },
  {
   "offset": 10675,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020440a00'>\r\n//「父親を求めています」\r\n\"She wants her father.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020440a00'>\r\n//「父親を求めています」\r\n\"Ela quer o pai.\"\r\n"
  },
  {
   "offset": 10829,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020450a11'>\r\n//「……そうか……」\r\n\"...Ah.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020450a11'>\r\n//「……そうか……」\r\n\"...Ah.\"\r\n"
  },
  {
   "offset": 10962,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020460a11'>\r\n//「あるいはと……思わないではなかった」\r\n\"I admit... I had a feeling.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020460a11'>\r\n//「あるいはと……思わないではなかった」\r\n\"Admito... eu tinha um pressentimento.\"\r\n"
  },
  {
   "offset": 11146,
@@ -277,17 +277,17 @@
  {
   "offset": 11270,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020480a11'>\r\n//「それが全ての根か」\r\n\"So that's the root.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020480a11'>\r\n//「それが全ての根か」\r\n\"Então é essa a raiz.\"\r\n"
  },
  {
   "offset": 11419,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020490a00'>\r\n//「はい」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020490a00'>\r\n//「はい」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 11535,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020500a00'>\r\n//「全ての」\r\n\"Of everything.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020500a00'>\r\n//「全ての」\r\n\"De tudo.\"\r\n"
  },
  {
   "offset": 11664,
@@ -297,7 +297,7 @@
  {
   "offset": 11788,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020520a11'>\r\n//「済まなかった、景明」\r\n\"I was wrong, Kageaki.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020520a11'>\r\n//「済まなかった、景明」\r\n\"Eu estava errado, Kageaki.\"\r\n"
  },
  {
   "offset": 11942,
@@ -307,52 +307,52 @@
  {
   "offset": 12061,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020540a11'>\r\n//「やはり、お前に任せるべきではなかった」\r\n\"I should never have left it to you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020540a11'>\r\n//「やはり、お前に任せるべきではなかった」\r\n\"Eu nunca deveria ter deixado isso a seu cargo.\"\r\n"
  },
  {
   "offset": 12256,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020550a11'>\r\n//「……私が決着をつけねばならなかった……」\r\n\"It was my responsibility to end it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020550a11'>\r\n//「……私が決着をつけねばならなかった……」\r\n\"Era minha responsabilidade acabar com isso.\"\r\n"
  },
  {
   "offset": 12454,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020560a00'>\r\n//「……明堯様」\r\n\"Father...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020560a00'>\r\n//「……明堯様」\r\n\"Pai...\"\r\n"
  },
  {
   "offset": 12584,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020570a11'>\r\n//「せめてこの先は私が戦おう。\r\n//　私にはその義務がある」\r\n\"But I will do my duty now. Let me take Muramasa and finish this.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020570a11'>\r\n//「せめてこの先は私が戦おう。\r\n//　私にはその義務がある」\r\n\"Mas agora cumprirei meu dever. Deixe-me levar a Muramasa e pôr fim a isto.\"\r\n"
  },
  {
   "offset": 12830,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020580a11'>\r\n//「お前はもう、これ以上――」\r\n\"You've done more than―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020580a11'>\r\n//「お前はもう、これ以上――」\r\n\"Você já fez mais do que―\"\r\n"
  },
  {
   "offset": 12996,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020590a00'>\r\n//「いいえ」\r\n\"No.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020590a00'>\r\n//「いいえ」\r\n\"Não.\"\r\n"
  },
  {
   "offset": 13114,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020600a11'>\r\n//「……景明」\r\n\"Kageaki...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020600a11'>\r\n//「……景明」\r\n\"Kageaki...\"\r\n"
  },
  {
   "offset": 13242,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020610a00'>\r\n//「心得違いをなさらぬよう」\r\n\"Do not misunderstand.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020610a00'>\r\n//「心得違いをなさらぬよう」\r\n\"Não se equivoque.\"\r\n"
  },
  {
   "offset": 13402,
   "en": "\r\n//　告げる。\r\n//　腹の底から氷の塊を取り出して、ぶつけるように。\r\n  I tighten my gut, sharpening my words to a blade of ice.\r\n",
-  "pt": ""
+  "pt": "\r\n//　告げる。\r\n//　腹の底から氷の塊を取り出して、ぶつけるように。\r\n  Enrijeço o estômago e afio minhas palavras como uma lâmina de gelo.\r\n"
  },
  {
   "offset": 13567,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020620a00'>\r\n//「貴方の出る幕こそ、もう何処にも無い」\r\n\"You have no part in this. Not anymore.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020620a00'>\r\n//「貴方の出る幕こそ、もう何処にも無い」\r\n\"Você não tem mais parte nisto. Não mais.\"\r\n"
  },
  {
   "offset": 13762,
@@ -362,42 +362,42 @@
  {
   "offset": 13886,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020640a00'>\r\n//「貴方は光を捨てた」\r\n\"You abandoned Hikaru.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020640a00'>\r\n//「貴方は光を捨てた」\r\n\"Você abandonou a Hikaru.\"\r\n"
  },
  {
   "offset": 14037,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020650a11'>\r\n//「……ああ」\r\n\"...Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020650a11'>\r\n//「……ああ」\r\n\"...Sim.\"\r\n"
  },
  {
   "offset": 14162,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020660a11'>\r\n//「私は捨てた。\r\n//　光だけではない。統も、湊斗の家も」\r\n\"I abandoned her. As I abandoned Subaru.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020660a11'>\r\n//「私は捨てた。\r\n//　光だけではない。統も、湊斗の家も」\r\n\"Eu a abandonei. Como abandonei Subaru.\"\r\n"
  },
  {
   "offset": 14380,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020670a11'>\r\n//「そしてお前に全て押し付けた」\r\n\"Leaving you to pay the price for my failure.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020670a11'>\r\n//「そしてお前に全て押し付けた」\r\n\"Deixando você pagar o preço pelo meu fracasso.\"\r\n"
  },
  {
   "offset": 14569,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020680a11'>\r\n//「……そうだったな……」\r\n\"...You're right. It's not my place.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020680a11'>\r\n//「……そうだったな……」\r\n\"...Você tem razão. Não é o meu lugar.\"\r\n"
  },
  {
   "offset": 14740,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020690a00'>\r\n//「はい」\r\n\"No, sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020690a00'>\r\n//「はい」\r\n\"Não, senhor.\"\r\n"
  },
  {
   "offset": 14860,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020700a00'>\r\n//「光との決着は、自分がつけます」\r\n\"Hikaru is my responsibility.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020700a00'>\r\n//「光との決着は、自分がつけます」\r\n\"A Hikaru é minha responsabilidade.\"\r\n"
  },
  {
   "offset": 15036,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020710a00'>\r\n//「貴方はどうか……\r\n//　<RUBY text='・・・・'>菊池明堯</RUBY>として、為すべき事を」\r\n\"Please see to your own duties... Kikuchi Akitaka.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020710a00'>\r\n//「貴方はどうか……\r\n//　<RUBY text='・・・・'>菊池明堯</RUBY>として、為すべき事を」\r\n\"Por favor, ocupe-se dos seus próprios deveres... Kikuchi Akitaka.\"\r\n"
  },
  {
   "offset": 15297,
@@ -407,42 +407,42 @@
  {
   "offset": 15421,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020730a11'>\r\n//「わかった……」\r\n\"All right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020730a11'>\r\n//「わかった……」\r\n\"Está bem.\"\r\n"
  },
  {
   "offset": 15555,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020740a00'>\r\n//「お願いします。\r\n//　……もうお行き下さい」\r\n\"...You should go.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020740a00'>\r\n//「お願いします。\r\n//　……もうお行き下さい」\r\n\"...Você deveria ir.\"\r\n"
  },
  {
   "offset": 15736,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020750a11'>\r\n//「ああ。\r\n//　…………景明」\r\n\"Yes. ...Kageaki?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020750a11'>\r\n//「ああ。\r\n//　…………景明」\r\n\"Sim. ...Kageaki?\"\r\n"
  },
  {
   "offset": 15892,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020760a00'>\r\n//「はい」\r\n\"Sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020760a00'>\r\n//「はい」\r\n\"Senhor.\"\r\n"
  },
  {
   "offset": 16008,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020770a11'>\r\n//「済まない」\r\n\"I'm sorry.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020770a11'>\r\n//「済まない」\r\n\"Sinto muito.\"\r\n"
  },
  {
   "offset": 16136,
   "en": "\r\n//　重い言葉。\r\n//　十数年の蓄積を吐き出す謝罪。\r\n//　\r\n//　どう答えるべきかはわかっている。\r\n\r\n//　この短い対話、\r\n//　しなくてはならなかった会話の最後に、\r\n//　\r\n//　俺が何を告げねばならないか。\r\n\r\n//　その一言を告げるのは辛かった。\r\n//　それでも。\r\n  Two words, but heavy with years of guilt.\r\n\r\n  I know what my answer must be.<K>\r\n  This exchange between us was only a prelude, its purpose to set the stage for what I am about to do.\r\n\r\n  To deliver this message is my duty.<K>\r\n  But it hurts, all the same.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　重い言葉。\r\n//　十数年の蓄積を吐き出す謝罪。\r\n//　\r\n//　どう答えるべきかはわかっている。\r\n\r\n//　この短い対話、\r\n//　しなくてはならなかった会話の最後に、\r\n//　\r\n//　俺が何を告げねばならないか。\r\n\r\n//　その一言を告げるのは辛かった。\r\n//　それでも。\r\n  Duas palavras, mas carregadas de anos de culpa.\r\n\r\n  Sei qual deve ser a minha resposta.<K>\r\n  Esta troca entre nós foi apenas um prelúdio, cujo propósito era preparar o terreno para o que estou prestes a fazer.\r\n\r\n  Transmitir esta mensagem é o meu dever.<K>\r\n  Mas dói, mesmo assim.\r\n\r\n"
  },
  {
   "offset": 16767,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020780a00'>\r\n//「謝られる筋合いですらありません」\r\n\"No, sir. You have nothing to be sorry for.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020780a00'>\r\n//「謝られる筋合いですらありません」\r\n\"Não, senhor. O senhor não tem nada pelo que se desculpar.\"\r\n"
  },
  {
   "offset": 16960,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020790a11'>\r\n//「…………そうか……」\r\n\"...I see.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020790a11'>\r\n//「…………そうか……」\r\n\"...Entendo.\"\r\n"
  },
  {
   "offset": 17102,
@@ -452,12 +452,12 @@
  {
   "offset": 17220,
   "en": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020810a11'>\r\n//「では……な」\r\n\"Well... take care.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【署長】\r\n<voice name='署長' class='署長' src='voice/md05/0020810a11'>\r\n//「では……な」\r\n\"Bem... cuide-se.\"\r\n"
  },
  {
   "offset": 17359,
   "en": "\r\n//　背を向けて、養父は立ち去っていった。\r\n\r\n//　急に老境を迎えたかのような、足取りの重さ。\r\n//　その後姿に、俺は一度だけ深く礼した。\r\n\r\n//　瞑目して、胸中に理解を落とす。\r\n//　\r\n//　――あの人は。\r\n\r\n//　湊斗明堯という人は。\r\n//　今こそ、本当に去っていったのだと。\r\n  He turns and walks away. His shoulders stooped, his gait plodding, he looks like he's aged fifty years.\r\n\r\n  I bow low until he has vanished from sight. Then I close my eyes and reflect.\r\n\r\n  He's gone.\r\n\r\n  Minato Akitaka, the man who gave me a family, has finally been laid to rest.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　背を向けて、養父は立ち去っていった。\r\n\r\n//　急に老境を迎えたかのような、足取りの重さ。\r\n//　その後姿に、俺は一度だけ深く礼した。\r\n\r\n//　瞑目して、胸中に理解を落とす。\r\n//　\r\n//　――あの人は。\r\n\r\n//　湊斗明堯という人は。\r\n//　今こそ、本当に去っていったのだと。\r\n  Ele se vira e vai embora. Com os ombros curvados e o passo arrastado, parece ter envelhecido cinquenta anos.\r\n\r\n  Faço uma reverência profunda até que ele desapareça de vista. Então fecho os olhos e reflito.\r\n\r\n  Ele se foi.\r\n\r\n  Minato Akitaka, o homem que me deu uma família, finalmente encontrou descanso.\r\n\r\n"
  },
  {
   "offset": 18039,
@@ -467,7 +467,7 @@
  {
   "offset": 18163,
   "en": "\r\n//　重い荷を背負ったようでもあり。\r\n//　逆に、何かを振り切ったようでもあり。\r\n//　\r\n//　ただ――これで正しいのだ、と。\r\n\r\n//　そう思った。\r\n  This comes as both a relief and a burden. I cannot say which feeling is stronger. I know only that this was how it had to be.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　重い荷を背負ったようでもあり。\r\n//　逆に、何かを振り切ったようでもあり。\r\n//　\r\n//　ただ――これで正しいのだ、と。\r\n\r\n//　そう思った。\r\n  Isso é ao mesmo tempo um alívio e um fardo. Não sei dizer qual sentimento é mais forte. Só sei que tinha de ser assim.\r\n\r\n"
  },
  {
   "offset": 18503,
@@ -477,16 +477,16 @@
  {
   "offset": 18621,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020840a01'>\r\n//「……っ……」\r\n\"...Ah!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020840a01'>\r\n//「……っ……」\r\n\"...Ah!\"\r\n"
  },
  {
   "offset": 18754,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020850a01'>\r\n//「ぁ……これ……っ!?」\r\n\"What... no...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md05/0020850a01'>\r\n//「ぁ……これ……っ!?」\r\n\"O quê... não...!?\"\r\n"
  },
  {
   "offset": 18906,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020860a00'>\r\n//「村正？」\r\n\"Muramasa!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md05/0020860a00'>\r\n//「村正？」\r\n\"Muramasa!?\"\r\n"
  }
 ]

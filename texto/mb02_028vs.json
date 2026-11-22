@@ -2,212 +2,212 @@
  {
   "offset": 215,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0010a02'>\r\n//「ぐぅ……っ！」\r\n\"Guh...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0010a02'>\r\n//「ぐぅ……っ！」\r\n\"Gu...!\"\r\n"
  },
  {
   "offset": 348,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0020b40'>\r\n//《背面に被撃！\r\n//　貫通された――おのれェ!!》\r\n《Dorsal armor breached! Curses!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0020b40'>\r\n//《背面に被撃！\r\n//　貫通された――おのれェ!!》\r\n《Armadura dorsal violada! Maldito seja!》\r\n"
  },
  {
   "offset": 550,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0030b40'>\r\n//《修復を開始する！\r\n//　御堂、この程度で沮喪するでない！》\r\n《I've begun repairs! Don't lose heart, Mido!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0030b40'>\r\n//《修復を開始する！\r\n//　御堂、この程度で沮喪するでない！》\r\n《Comecei os reparos! Não desanime, Mido!》\r\n"
  },
  {
   "offset": 784,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0040a02'>\r\n//「あ、当たり……前だぁっ！」\r\n\"Who do you think you're... talking to!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0040a02'>\r\n//「あ、当たり……前だぁっ！」\r\n\"Com quem você pensa que... tá falando!?\"\r\n"
  },
  {
   "offset": 967,
   "en": "\r\n//　背中に<RUBY text='・・・・・'>穴が開いた</RUBY>苦痛を噛み殺す。\r\n//　泣いている暇なんかない。喚いている暇もない。\r\n  The pain from the hole in my back is insistent. I grit my teeth, shake my head clear, and focus on staying alive.\r\n",
-  "pt": ""
+  "pt": "\r\n//　背中に<RUBY text='・・・・・'>穴が開いた</RUBY>苦痛を噛み殺す。\r\n//　泣いている暇なんかない。喚いている暇もない。\r\n  A dor do buraco nas minhas costas insiste. Aperto os dentes, clareio a cabeça e me concentro em continuar vivo.\r\n"
  },
  {
   "offset": 1258,
   "en": "\r\n//　視野を確保して、崩れかけた騎航体勢を立て直す。\r\n//　損傷の回復に<RUBY text='カロリー'>熱量</RUBY>を取られている分、<RUBY text='あしこし'>翼回り</RUBY>が重い\r\n//――それでも力任せに<RUBY text='ピッチ'>兜角</RUBY>を持ち上げて高度を上げる。\r\n\r\n//　墜落したらそれまでだ。\r\n//　たとえ即死を免れても、勝敗はそこで着く。\r\n  My wings are sluggish―<br>some of my energy is being used for repairs―but I manage through brute force to raise my pitch and regain altitude.\r\n\r\n  That was close. If I'd hit the ground, we'd be dead, even if the crash itself didn't kill us.\r\n",
-  "pt": ""
+  "pt": "\r\n//　視野を確保して、崩れかけた騎航体勢を立て直す。\r\n//　損傷の回復に<RUBY text='カロリー'>熱量</RUBY>を取られている分、<RUBY text='あしこし'>翼回り</RUBY>が重い\r\n//――それでも力任せに<RUBY text='ピッチ'>兜角</RUBY>を持ち上げて高度を上げる。\r\n\r\n//　墜落したらそれまでだ。\r\n//　たとえ即死を免れても、勝敗はそこで着く。\r\n  Minhas asas estão lentas — parte da minha energia está sendo usada nos reparos — mas consigo, na força bruta, levantar o ângulo e recuperar altitude.\r\n\r\n  Por pouco. Se eu tivesse atingido o chão, estaríamos mortos, mesmo que a queda em si não nos matasse.\r\n"
  },
  {
   "offset": 1952,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0050a09'>\r\n//《はっはァ！\r\n//　如何なものかな、貫流の<RUBY text='つき'>刺突</RUBY>は》\r\n《HA HA! How do you like the taste of my spear?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0050a09'>\r\n//《はっはァ！\r\n//　如何なものかな、貫流の<RUBY text='つき'>刺突</RUBY>は》\r\n《HA HA! Que tal o gosto da minha lança?》\r\n"
  },
  {
   "offset": 2200,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0060a09'>\r\n//《なかなかに食い応えがあろう？》\r\n《Rather a lot to chew on, no?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0060a09'>\r\n//《なかなかに食い応えがあろう？》\r\n《Bastante coisa para mastigar, não?》\r\n"
  },
  {
   "offset": 2382,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0070a02'>\r\n//《抜かしてろ！》\r\n《I'll give you something to chew on!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0070a02'>\r\n//《抜かしてろ！》\r\n《Vou te dar algo para mastigar!》\r\n"
  },
  {
   "offset": 2547,
   "en": "\r\n//　毒づく。\r\n//　差し当たって、他に返せるものがない。\r\n\r\n//　貫流。管。槍……。\r\n//　今更ながらに、思い出していた。\r\n  My retort rings hollow, but there's nothing more I can do. I've finally put the pieces together―too late.\r\n",
-  "pt": ""
+  "pt": "\r\n//　毒づく。\r\n//　差し当たって、他に返せるものがない。\r\n\r\n//　貫流。管。槍……。\r\n//　今更ながらに、思い出していた。\r\n  Meu insulto soa vazio, mas não há mais nada que eu possa fazer. Finalmente juntei as peças — tarde demais.\r\n"
  },
  {
   "offset": 2836,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0080a02'>\r\n//「管槍だ。\r\n//　畜生め……」\r\n\"Kan-ryu... Fuck.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0080a02'>\r\n//「管槍だ。\r\n//　畜生め……」\r\n\"Kan-ryu... Merda.\"\r\n"
  },
  {
   "offset": 2994,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0090b40'>\r\n//《御堂、それは？》\r\n《What is it, Mido?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0090b40'>\r\n//《御堂、それは？》\r\n《O que foi, Mido?》\r\n"
  },
  {
   "offset": 3144,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0100a02'>\r\n//「普通、槍ってやつは左手を<RUBY text='・'>口</RUBY>にして右手で\r\n//突くだろ」\r\n\"With most spears, you grip with your right hand and slide it through your left.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0100a02'>\r\n//「普通、槍ってやつは左手を<RUBY text='・'>口</RUBY>にして右手で\r\n//突くだろ」\r\n\"Com a maioria das lanças, você segura com a mão direita e desliza ela pela esquerda.\"\r\n"
  },
  {
   "offset": 3428,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0110b40'>\r\n//《うむ》\r\n《Aye.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0110b40'>\r\n//《うむ》\r\n《Sim.》\r\n"
  },
  {
   "offset": 3550,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0120a02'>\r\n//「左手で持つ所に管を通して、口の<RUBY text='・・・'>すべり</RUBY>を\r\n//良くしたのが管槍だ。\r\n//　普通の槍よりも速く突けるし、修練すれば\r\n//回転を利かせて捻り込めるようにもなる」\r\n\"Well, someone figured out that if you slide it through a tube instead, you can thrust faster, withdraw faster, and even make the damn thing spin.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0120a02'>\r\n//「左手で持つ所に管を通して、口の<RUBY text='・・・'>すべり</RUBY>を\r\n//良くしたのが管槍だ。\r\n//　普通の槍よりも速く突けるし、修練すれば\r\n//回転を利かせて捻り込めるようにもなる」\r\n\"Bom, alguém descobriu que, se você deslizar ela por um tubo, dá para estocar mais rápido, recolher mais rápido, e até fazer a droga girar.\"\r\n"
  },
  {
   "offset": 4046,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0130b40'>\r\n//《成程……。\r\n//　しかしそれにしても先のあれは、<RUBY text='・・・・'>回り過ぎ</RUBY>\r\n//ではないか？》\r\n《I see... Though I would not call that mere㉓<I>spinning.</I>》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0130b40'>\r\n//《成程……。\r\n//　しかしそれにしても先のあれは、<RUBY text='・・・・'>回り過ぎ</RUBY>\r\n//ではないか？》\r\n《Entendo... Embora eu não chamaria aquilo de simples㉓<I>giro.</I>》\r\n"
  },
  {
   "offset": 4353,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0140a02'>\r\n//「……尾張貫流の管槍はもう一工夫あるんだ。\r\n//　螻蛄首がやたらと<RUBY text='・・・'>しなる</RUBY>」\r\n\"That's the thing about the Kan-ryu. They made their spears extra flexible at the neck.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0140a02'>\r\n//「……尾張貫流の管槍はもう一工夫あるんだ。\r\n//　螻蛄首がやたらと<RUBY text='・・・'>しなる</RUBY>」\r\n\"É aí que está o lance do Kan-ryu. Eles fizeram as lanças deles bem mais flexíveis no pescoço.\"\r\n"
  },
  {
   "offset": 4677,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0150a02'>\r\n//「鞭かなんかみたいにな。\r\n//　そのお陰で、手元の捻りが尖端へ伝わる頃\r\n//にはあんな大回転になってるって寸法」\r\n\"It's like a whip. Every twist of your hand is amplified, so by the time it reaches the tip, it's turned into a giant fucking circle.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0150a02'>\r\n//「鞭かなんかみたいにな。\r\n//　そのお陰で、手元の捻りが尖端へ伝わる頃\r\n//にはあんな大回転になってるって寸法」\r\n\"É como um chicote. Cada torção da sua mão é amplificada, então quando chega na ponta, virou um círculo gigante da porra.\"\r\n"
  },
  {
   "offset": 5069,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0160b40'>\r\n//《むゥ……》\r\n《Hrmm...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0160b40'>\r\n//《むゥ……》\r\n《Hrmm...》\r\n"
  },
  {
   "offset": 5200,
   "en": "\r\n//　――管槍の尾張貫流。\r\n//　いつだったか、一媛婆さんが話して聞かせてくれた。\r\n//編み物をしながら……なんで編み物しながら槍の話に\r\n//なったのかはさっぱりだけど。\r\n\r\n//　槍の怖さを知りたいなら貫流と立ち合え。\r\n//　槍は最初の一突を<RUBY text='かわ'>躱</RUBY>せばいいだけ――なんて<RUBY text='・・'>寝言</RUBY>\r\n//は一瞬で吹っ飛ばしてくれる、とかなんとか。\r\n\r\n//　確かに婆さんの言う通り。\r\n//　躱せばいい、それは間違いない――が。どうやって\r\n//あれを躱す？\r\n  I remember Grandma Ichihime telling me about it while knitting a sweater or something. What sweaters and spears got to do with each other, I still have no idea.\r\n\r\n  \"If you think spears are no big deal,\" she said, \"that you can just slip past their thrusts no problem, try facing the Owari Kan-ryu. They'll knock that silly notion right out of your head.\"\r\n\r\n  She was right. My goal is still the same. I just need to get past his thrust.\r\n\r\n  But how am I supposed to get past㉓<I>that?</I>\r\n",
-  "pt": ""
+  "pt": "\r\n//　――管槍の尾張貫流。\r\n//　いつだったか、一媛婆さんが話して聞かせてくれた。\r\n//編み物をしながら……なんで編み物しながら槍の話に\r\n//なったのかはさっぱりだけど。\r\n\r\n//　槍の怖さを知りたいなら貫流と立ち合え。\r\n//　槍は最初の一突を<RUBY text='かわ'>躱</RUBY>せばいいだけ――なんて<RUBY text='・・'>寝言</RUBY>\r\n//は一瞬で吹っ飛ばしてくれる、とかなんとか。\r\n\r\n//　確かに婆さんの言う通り。\r\n//　躱せばいい、それは間違いない――が。どうやって\r\n//あれを躱す？\r\n  Lembro da Vovó Ichihime me falando disso enquanto tricotava um suéter ou algo assim. O que suéteres e lanças têm a ver, até hoje não faço ideia.\r\n\r\n  \"Se você acha que lanças não são grande coisa\", ela disse, \"que dá para escapar das estocadas sem problema, tente enfrentar o Kan-ryu de Owari. Eles vão tirar essa ideia boba da sua cabeça na hora.\"\r\n\r\n  Ela estava certa. Meu objetivo continua o mesmo. Só preciso passar pela estocada dele.\r\n\r\n  Mas como é que eu passo por㉓<I>aquilo?</I>\r\n"
  },
  {
   "offset": 6348,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0170a09'>\r\n//《さぁて。先程、有難い忠告を頂いたばかり\r\n//であるし……。\r\n//　今度は一息に仕留めさせて貰うとしようか\r\n//のう！》\r\n《Now, I suppose I should end this quickly. Don't want to choke on hubris, do we?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0170a09'>\r\n//《さぁて。先程、有難い忠告を頂いたばかり\r\n//であるし……。\r\n//　今度は一息に仕留めさせて貰うとしようか\r\n//のう！》\r\n《Agora, acho que devo terminar isso rápido. Não convém engasgar com a própria arrogância, não é?》\r\n"
  },
  {
   "offset": 6698,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0180a02'>\r\n//《舐めんな！》\r\n《I'm not done yet!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0180a02'>\r\n//《舐めんな！》\r\n《Ainda não acabei!》\r\n"
  },
  {
   "offset": 6842,
   "en": "\r\n//　大きな螺旋を描いて、牙のような穂先が飛んで来る。\r\n//　――この軌道を見切ろうったって無理だ。\r\n\r\n//　けど、<RUBY text='・・・'>しなる</RUBY>根元を打ち払えば――\r\n  Again, the thrust comes in a rapid spiral, impossible to evade. It's like staring down a maw lined with teeth.\r\n  But if I can get my sword in there to stop it, maybe―\r\n",
-  "pt": ""
+  "pt": "\r\n//　大きな螺旋を描いて、牙のような穂先が飛んで来る。\r\n//　――この軌道を見切ろうったって無理だ。\r\n\r\n//　けど、<RUBY text='・・・'>しなる</RUBY>根元を打ち払えば――\r\n  De novo, a estocada vem num espiral rápido, impossível de evitar. É como encarar uma goela forrada de dentes.\r\n  Mas se eu conseguir enfiar minha espada ali para detê-la, talvez—\r\n"
  },
  {
   "offset": 7255,
   "en": "\r\n//　……どうにもならねえのかよ!!\r\n  Shit! Even that doesn't <br>work!?\r\n",
-  "pt": ""
+  "pt": "\r\n//　……どうにもならねえのかよ!!\r\n  Merda! Nem isso funciona!?\r\n"
  },
  {
   "offset": 7351,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0190b40'>\r\n//《右肩に被撃……！》\r\n《Right shoulder damaged!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0190b40'>\r\n//《右肩に被撃……！》\r\n《Ombro direito danificado!》\r\n"
  },
  {
   "offset": 7510,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0200a02'>\r\n//「ッ……程度は!?」\r\n\"Tch... How bad!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0200a02'>\r\n//「ッ……程度は!?」\r\n\"Tch... Quanto dano!?\"\r\n"
  },
  {
   "offset": 7654,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0210b40'>\r\n//《案ずるな！\r\n//　肉が少し吹っ飛んで関節が砕けただけだ。\r\n//大事は無い！》\r\n《Fear not! The joint was merely shattered!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0210b40'>\r\n//《案ずるな！\r\n//　肉が少し吹っ飛んで関節が砕けただけだ。\r\n//大事は無い！》\r\n《Não tema! A articulação apenas se estilhaçou!》\r\n"
  },
  {
   "offset": 7908,
   "en": "\r\n//　良し。\r\n//　<RUBY text='・・・・'>ぶらぶら</RUBY>して邪魔で動かない右腕のことは忘れる。\r\n\r\n//　目が眩みそうな激痛も鬱陶しいので無視する。\r\n  Good. My right arm dangles from the ruin of my shoulder, and the pain is getting annoying. Neither has a purpose, so I put them out of my mind.\r\n",
-  "pt": ""
+  "pt": "\r\n//　良し。\r\n//　<RUBY text='・・・・'>ぶらぶら</RUBY>して邪魔で動かない右腕のことは忘れる。\r\n\r\n//　目が眩みそうな激痛も鬱陶しいので無視する。\r\n  Ótimo. Meu braço direito pende do que restou do ombro, e a dor está ficando irritante. Nenhum dos dois tem utilidade, então eu os tiro da cabeça.\r\n"
  },
  {
   "offset": 8262,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0220a02'>\r\n//「、……っ……{WaitKey(2300);}<BR>　問題無さそうだ」\r\n\"...<WaitVoice=2600>I'm good.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0220a02'>\r\n//「、……っ……{WaitKey(2300);}<BR>　問題無さそうだ」\r\n\"...<WaitVoice=2600>Estou bem.\"\r\n"
  },
  {
   "offset": 8460,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0230b40'>\r\n//《うむ。\r\n//　問題は無いが、あと一撃食らえば墜ちる》\r\n《Indeed. However, one more hit will knock us from the sky.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0230b40'>\r\n//《うむ。\r\n//　問題は無いが、あと一撃食らえば墜ちる》\r\n《De fato. Porém, mais um golpe nos derrubará do céu.》\r\n"
  },
  {
   "offset": 8699,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0240a02'>\r\n//「対抗手段がねえな……」\r\n\"No way past...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0240a02'>\r\n//「対抗手段がねえな……」\r\n\"Não tem como passar...\"\r\n"
  },
  {
   "offset": 8851,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0250b40'>\r\n//《情けないことを言うでない。\r\n//　この正宗の仕手ともあろう者が》\r\n《Is that resignation, Mido? I had not believed you so weak!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0250b40'>\r\n//《情けないことを言うでない。\r\n//　この正宗の仕手ともあろう者が》\r\n《Isso é desistência, Mido? Não acreditava que você fosse tão fraco!》\r\n"
  },
  {
   "offset": 9109,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0260a02'>\r\n//「弱音吐いてんじゃねえ。\r\n//　考えてるんだ」\r\n\"Can it. I was just thinking.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0260a02'>\r\n//「弱音吐いてんじゃねえ。\r\n//　考えてるんだ」\r\n\"Cala a boca. Eu só estava pensando.\"\r\n"
  },
  {
   "offset": 9303,
   "en": "\r\n//　……一媛婆さんは、なんて言ってたっけか。\r\n//　尾張徳川家<RUBY text='おとめ'>御留</RUBY>流儀。槍術の至芸と目されたがため\r\n//二百年に渡って一藩内に秘め置かれた貫流の槍先を、\r\n//太刀によって封じるには。\r\n  Think. What did Grandma say? The Kan-ryu was prized by the Tokugawa of Owari. For two hundred years, they ensured that its secrets never left the clan. Their spearmen became the most feared in Yamato.\r\n\r\n  Once, I asked her if it was possible to beat the Kan-ryu with a sword. She said...\r\n\r\n//　確か……\r\n\r\n//『対抗策？\r\n//　そうねえ』\r\n\r\n//『避けて避けられるもんじゃないし。\r\n//　受けたって弾かれるだけだし』\r\n\r\n//『無いな。\r\n//　無理無理』\r\n  \"With a sword? Well, let's see...\"\r\n\r\n  \"You can't dodge it, 'cause it moves around too fast. And you can't block it, 'cause it smacks you away.\"\r\n\r\n  \"I say you're outta luck.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//　……一媛婆さんは、なんて言ってたっけか。\r\n//　尾張徳川家<RUBY text='おとめ'>御留</RUBY>流儀。槍術の至芸と目されたがため\r\n//二百年に渡って一藩内に秘め置かれた貫流の槍先を、\r\n//太刀によって封じるには。\r\n  Pensa. O que a Vovó disse? O Kan-ryu era prezado pelos Tokugawa de Owari. Por duzentos anos, eles garantiram que seus segredos nunca saíssem do clã. Seus lanceiros se tornaram os mais temidos de Yamato.\r\n\r\n  Uma vez, perguntei se era possível vencer o Kan-ryu com uma espada. Ela disse...\r\n\r\n//　確か……\r\n\r\n//『対抗策？\r\n//　そうねえ』\r\n\r\n//『避けて避けられるもんじゃないし。\r\n//　受けたって弾かれるだけだし』\r\n\r\n//『無いな。\r\n//　無理無理』\r\n  \"Com uma espada? Bem, vejamos...\"\r\n\r\n  \"Você não pode esquivar, porque ele se move rápido demais. E não pode bloquear, porque ele te tira do caminho.\"\r\n\r\n  \"Pra mim, você tá sem chance.\"\r\n"
  },
  {
   "offset": 10288,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0270a02'>\r\n//（無いのかよ！）\r\n(That's it!?)\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0270a02'>\r\n//（無いのかよ！）\r\n(É só isso!?)\r\n"
  },
  {
   "offset": 10425,
   "en": "\r\n//　記憶の中の無責任な言葉に、記憶の中の自分の声を\r\n//なぞって返す。\r\n//　記憶の中の無責任な婆さんは、小馬鹿にする風で肩\r\n//をすくめながら言ってきた。\r\n  My past and present selves are united in their exasperation. In my mind's eye, I see her shrug and smile.\r\n\r\n//『刀じゃどうにもなんないって。\r\n//　それでもどうしても勝ちたいなら、拳銃か\r\n//なんか持ってくれば？』\r\n\r\n  \"Yeah, if all you got's a sword. You want to beat the Kan-ryu, maybe bring a gun?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//　記憶の中の無責任な言葉に、記憶の中の自分の声を\r\n//なぞって返す。\r\n//　記憶の中の無責任な婆さんは、小馬鹿にする風で肩\r\n//をすくめながら言ってきた。\r\n  Meu eu do passado e o do presente se unem na mesma exasperação. Na minha mente, vejo ela dar de ombros e sorrir.\r\n\r\n//『刀じゃどうにもなんないって。\r\n//　それでもどうしても勝ちたいなら、拳銃か\r\n//なんか持ってくれば？』\r\n\r\n  \"É, se você só tem uma espada. Quer vencer o Kan-ryu, talvez traga uma arma de fogo?\"\r\n"
  },
  {
   "offset": 11004,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0280a02'>\r\n//「……けっ。\r\n//　それしか<RUBY text='ね'>無</RUBY>ぇか！」\r\n\"...Tch. Guess that's the only way!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0280a02'>\r\n//「……けっ。\r\n//　それしか<RUBY text='ね'>無</RUBY>ぇか！」\r\n\"...Tch. Parece que é o único jeito!\"\r\n"
  },
  {
   "offset": 11216,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0290b40'>\r\n//《ほゥ。\r\n//　やるのか、御堂？》\r\n《Ah! Are you ready, Mido?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0290b40'>\r\n//《ほゥ。\r\n//　やるのか、御堂？》\r\n《Ah! Está pronto, Mido?》\r\n"
  },
  {
   "offset": 11392,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0300a02'>\r\n//「やっちまえ。\r\n//　あの糞坊主をこれ以上図に乗らせるよりは\r\n//何だってマシだ！」\r\n\"Do it. Whatever it takes to bring that fucker down!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0300a02'>\r\n//「やっちまえ。\r\n//　あの糞坊主をこれ以上図に乗らせるよりは\r\n//何だってマシだ！」\r\n\"Faça. O que for preciso para derrubar aquele desgraçado!\"\r\n"
  },
  {
   "offset": 11661,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0310b40'>\r\n//《心得たり》\r\n《As you wish!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0310b40'>\r\n//《心得たり》\r\n《Como desejar!》\r\n"
  },
  {
   "offset": 11797,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0320a09'>\r\n//《まだ墜ちぬか。\r\n//　粘るのう。粘るのう》\r\n《Still flying? Impressive. Impressive indeed!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0320a09'>\r\n//《まだ墜ちぬか。\r\n//　粘るのう。粘るのう》\r\n《Ainda voando? Impressionante. Impressionante mesmo!》\r\n"
  },
  {
   "offset": 12008,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0330a09'>\r\n//《その粘りが勝機を呼べば良いがのう？》\r\n《But will tenacity be enough?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0330a09'>\r\n//《その粘りが勝機を呼べば良いがのう？》\r\n《Mas será que a tenacidade basta?》\r\n"
  },
  {
   "offset": 12199,
@@ -217,7 +217,7 @@
  {
   "offset": 12325,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0350a09'>\r\n//《くふ、ふふ……\r\n//　忘れてはおらぬであろうが、ここは六波羅\r\n//が主城、普陀楽山塞の上空。時間を掛ければ、\r\n//邪魔者が大挙して闖入して来ぬとも――》\r\n《Heh heh heh... I'm afraid our fun is doomed to be short. This is Fudaraku airspace, in case you've forgotten. It's only a matter of time before―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0350a09'>\r\n//《くふ、ふふ……\r\n//　忘れてはおらぬであろうが、ここは六波羅\r\n//が主城、普陀楽山塞の上空。時間を掛ければ、\r\n//邪魔者が大挙して闖入して来ぬとも――》\r\n《Heh heh heh... Receio que nossa diversão esteja fadada a ser curta. Este é o espaço aéreo de Fudaraku, caso tenha esquecido. É só questão de tempo até―》\r\n"
  },
  {
   "offset": 12793,
@@ -227,192 +227,192 @@
  {
   "offset": 12917,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0370a09'>\r\n//《はて。そういえば……解せぬな。\r\n//　何故いまだ、一騎たりと現れんのか……？》\r\n《Actually, why hasn't anyone shown up yet? Strange...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0370a09'>\r\n//《はて。そういえば……解せぬな。\r\n//　何故いまだ、一騎たりと現れんのか……？》\r\n《Na verdade, por que ninguém apareceu ainda? Estranho...》\r\n"
  },
  {
   "offset": 13190,
   "en": "\r\n//　正面の空飛ぶ豚が何やらごちゃごちゃ言っているの\r\n//は聞き流しておく。そんなのはどうだっていい。\r\n//　奥歯から前歯、歯という歯を全力で噛み締める。\r\n\r\n//　一度、息を吐いて。\r\n//　<RUBY text='はら'>肚</RUBY>を据える。\r\n  Confused mutterings are coming from that flying dung heap.\r\n  Ignoring them, I press my teeth together―molars first, incisors last―harder, until my jaw turns white.\r\n\r\n  Then I exhale once, slowly, and ready myself for the pain.\r\n",
-  "pt": ""
+  "pt": "\r\n//　正面の空飛ぶ豚が何やらごちゃごちゃ言っているの\r\n//は聞き流しておく。そんなのはどうだっていい。\r\n//　奥歯から前歯、歯という歯を全力で噛み締める。\r\n\r\n//　一度、息を吐いて。\r\n//　<RUBY text='はら'>肚</RUBY>を据える。\r\n  Mutterings confusas vêm daquele monte de esterco voador.\r\n  Ignorando-as, aperto os dentes―molares primeiro, incisivos por último―cada vez mais, até meu maxilar ficar branco.\r\n\r\n  Então expiro uma vez, devagar, e me preparo para a dor.\r\n"
  },
  {
   "offset": 13743,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0380a02'>\r\n//「正宗」\r\n\"Masamune.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0380a02'>\r\n//「正宗」\r\n\"Masamune.\"\r\n"
  },
  {
   "offset": 13866,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0390b40'>\r\n//《応》\r\n《Aye.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0390b40'>\r\n//《応》\r\n《Aye.》\r\n"
  },
  {
   "offset": 13985,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0400a02'>\r\n//「喰え」\r\n\"Take it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0400a02'>\r\n//「喰え」\r\n\"Aceite.\"\r\n"
  },
  {
   "offset": 14107,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0410b40'>\r\n//《拝領》\r\n《By your leave.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0410b40'>\r\n//《拝領》\r\n《Com sua licença.》\r\n"
  },
  {
   "offset": 14239,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0420a02'>\r\n//「ぐギ……」\r\n\"Ghkhh...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0420a02'>\r\n//「ぐギ……」\r\n\"Ghkhh...!\"\r\n"
  },
  {
   "offset": 14368,
   "en": "\r\n//　体のどこかで鉄の肌と鉄の肉、生の肌と生の肉が、\r\n//べきべきべりべりと<RUBY text='は'>剥</RUBY>がされていく。\r\n//　それは<RUBY text='こ'>捏</RUBY>ね合わされ。球形に固められ。\r\n\r\n//　弾丸と化す。\r\n  Throughout my body, metal shifts, tearing flesh free of the bone and viscera beneath. A snapping, crunching fills my ears, the sound of meat and steel being pressed into a ball.\r\n\r\n  I prime it with my heat.\r\n",
-  "pt": ""
+  "pt": "\r\n//　体のどこかで鉄の肌と鉄の肉、生の肌と生の肉が、\r\n//べきべきべりべりと<RUBY text='は'>剥</RUBY>がされていく。\r\n//　それは<RUBY text='こ'>捏</RUBY>ね合わされ。球形に固められ。\r\n\r\n//　弾丸と化す。\r\n  Por todo o meu corpo, o metal se move, arrancando carne do osso e das vísceras por baixo. Um estalo e um triturar enchem meus ouvidos, o som de carne e aço sendo prensados numa bola.\r\n\r\n  Eu o preparo com meu calor.\r\n"
  },
  {
   "offset": 14856,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0430a09'>\r\n//「――ぬぅ？」\r\n\"...Nuh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0430a09'>\r\n//「――ぬぅ？」\r\n\"...Nuh?\"\r\n"
  },
  {
   "offset": 14986,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0440a02'>\r\n//「……正宗、七機巧が<RUBY text='ひとつ'>一</RUBY>。\r\n//　<RUBY text='ひがてつほう'>飛蛾鉄炮</RUBY>・<RUBY text='こえんしゃく'>弧炎錫</RUBY>」\r\n\"The Third Justice. Koenshaku: Sphere of Dancing Flame!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0440a02'>\r\n//「……正宗、七機巧が<RUBY text='ひとつ'>一</RUBY>。\r\n//　<RUBY text='ひがてつほう'>飛蛾鉄炮</RUBY>・<RUBY text='こえんしゃく'>弧炎錫</RUBY>」\r\n\"A Terceira Justiça. Koenshaku: Esfera da Chama Dançante!\"\r\n"
  },
  {
   "offset": 15320,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0450a02'>\r\n//「くれてやる――」\r\n\"Chew on this!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0450a02'>\r\n//「くれてやる――」\r\n\"Mastigue isto!\"\r\n"
  },
  {
   "offset": 15462,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0460b40'>\r\n//《ＤＡＡＩ・ＡＡＡＲＲＲＲＲＲＲ!!》\r\n《DAAIAAARRRRRRRR!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0460b40'>\r\n//《ＤＡＡＩ・ＡＡＡＲＲＲＲＲＲＲ!!》\r\n《DAAIAAARRRRRRRR!》\r\n"
  },
  {
   "offset": 15637,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0470a09'>\r\n//「……そう来るかぃ!?\r\n//　だが」\r\n\"What is this!? Let's see―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0470a09'>\r\n//「……そう来るかぃ!?\r\n//　だが」\r\n\"O que é isso!? Vejamos―\"\r\n"
  },
  {
   "offset": 15811,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0480a09'>\r\n//「むん!!」\r\n\"HRM!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0480a09'>\r\n//「むん!!」\r\n\"HRM!\"\r\n"
  },
  {
   "offset": 15931,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0490a09'>\r\n//「ぬはァッッ!?」\r\n\"WHAT!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0490a09'>\r\n//「ぬはァッッ!?」\r\n\"O QUÊ!?\"\r\n"
  },
  {
   "offset": 16062,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0500a02'>\r\n//「ちぃ……！」\r\n\"Tch...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0500a02'>\r\n//「ちぃ……！」\r\n\"Tch...!\"\r\n"
  },
  {
   "offset": 16192,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0510b40'>\r\n//《おのれ、小器用な奴！\r\n//　弾を槍で打ち落としよったか！》\r\n《He struck it down with his spear!? This fiend has a devil's luck!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0510b40'>\r\n//《おのれ、小器用な奴！\r\n//　弾を槍で打ち落としよったか！》\r\n《Ele a derrubou com a lança!? Esse desgraçado tem a sorte do diabo!》\r\n"
  },
  {
   "offset": 16448,
   "en": "\r\n//　正宗が口惜しげに唸る。\r\n\r\n//〝鉄炮〟は避けようが撃ち落とそうが、爆裂四散して\r\n//無数の鉄針を飛ばす武器だ。防ぎ切ることはできない。\r\n//　広範囲に散る<RUBY text='やじり'>鏃</RUBY>は敵の分厚い胴体甲鉄は貫けずとも、\r\n//薄い関節部には突き刺さったはず……。\r\n\r\n//　しかしそれも、長槍の穂先に掛かって遠間で爆裂さ\r\n//せられたのでは、果たして何本が届いたか。\r\n//　下手をすると単に驚かせただけで、実質的な被害は\r\n//ほぼ皆無かもしれない。\r\n  Masamune's frustration resonates with my own.\r\n\r\n  The iron bomb works by expelling thousands of spikes in every single direction. You can't dodge or deflect it, and even with the strongest armor, some shrapnel's bound to get through the joints.\r\n\r\n  But in this case, the bomb went off at a distance, when it made contact with the asshole's spear. He might have escaped the brunt of it. Worst case, all we did was surprise him a little.\r\n",
-  "pt": ""
+  "pt": "\r\n//　正宗が口惜しげに唸る。\r\n\r\n//〝鉄炮〟は避けようが撃ち落とそうが、爆裂四散して\r\n//無数の鉄針を飛ばす武器だ。防ぎ切ることはできない。\r\n//　広範囲に散る<RUBY text='やじり'>鏃</RUBY>は敵の分厚い胴体甲鉄は貫けずとも、\r\n//薄い関節部には突き刺さったはず……。\r\n\r\n//　しかしそれも、長槍の穂先に掛かって遠間で爆裂さ\r\n//せられたのでは、果たして何本が届いたか。\r\n//　下手をすると単に驚かせただけで、実質的な被害は\r\n//ほぼ皆無かもしれない。\r\n  A frustração de Masamune ressoa com a minha.\r\n\r\n  A bomba de ferro funciona expelindo milhares de estilhaços em todas as direções. Você não pode esquivar nem defletir, e mesmo com a armadura mais forte, alguns cacos certamente atravessam as juntas.\r\n\r\n  Mas, neste caso, a bomba explodiu à distância, quando entrou em contato com a lança do idiota. Ele pode ter escapado da pior parte. Na pior das hipóteses, só o surpreendemos um pouco.\r\n"
  },
  {
   "offset": 17518,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0520a02'>\r\n//「<RUBY text='・・・・'>自爆兵器</RUBY>だってのに。\r\n//　こっちの<RUBY text='ダメージ'>損害</RUBY>の方がでかいんじゃねえか」\r\n\"Shit. When I use myself as ammo, I expect the㉓<I>other</I> guy to take more damage!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0520a02'>\r\n//「<RUBY text='・・・・'>自爆兵器</RUBY>だってのに。\r\n//　こっちの<RUBY text='ダメージ'>損害</RUBY>の方がでかいんじゃねえか」\r\n\"Merda. Quando uso a mim mesmo como munição, espero que o㉓<I>outro</I> cara leve mais dano!\"\r\n"
  },
  {
   "offset": 17868,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0530b40'>\r\n//《それは気にするな》\r\n《Our damage is irrelevant, Mido!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0530b40'>\r\n//《それは気にするな》\r\n《Nosso dano é irrelevante, Mido!》\r\n"
  },
  {
   "offset": 18035,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0540a02'>\r\n//「わかってる」\r\n\"Yeah. I know.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0540a02'>\r\n//「わかってる」\r\n\"É. Eu sei.\"\r\n"
  },
  {
   "offset": 18171,
   "en": "\r\n//　正宗の甲鉄の隙間に潜り込み、肉皮をえぐっている\r\n//何本かの鉄針のことは忘れておく。\r\n//　気にしても仕方がない。傷なんてもの、気にしなけ\r\n//れば無いも同じだ。\r\n\r\n//　多分。\r\n  Pain is useless. I don't need to know how many thin metal slivers are stabbing into my gut.\r\n  So I ignore it. If you ignore the pain of your wounds, it's like they don't exist. More or less.\r\n",
-  "pt": ""
+  "pt": "\r\n//　正宗の甲鉄の隙間に潜り込み、肉皮をえぐっている\r\n//何本かの鉄針のことは忘れておく。\r\n//　気にしても仕方がない。傷なんてもの、気にしなけ\r\n//れば無いも同じだ。\r\n\r\n//　多分。\r\n  A dor é inútil. Não preciso saber quantas lâminas de metal finas estão se cravando nas minhas entranhas.\r\n  Então eu as ignoro. Se você ignora a dor das suas feridas, é como se elas não existissem. Mais ou menos.\r\n"
  },
  {
   "offset": 18629,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0550b40'>\r\n//《もう一発<RUBY text='・・・'>かます</RUBY>か、御堂？》\r\n《Shall we give him another taste?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0550b40'>\r\n//《もう一発<RUBY text='・・・'>かます</RUBY>か、御堂？》\r\n《Devemos dar outra amostra a ele?》\r\n"
  },
  {
   "offset": 18839,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0560a02'>\r\n//「……いや。\r\n//　ちまちまやってても、埒が明かねえ」\r\n\"Yeah, but no more fucking around.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0560a02'>\r\n//「……いや。\r\n//　ちまちまやってても、埒が明かねえ」\r\n\"É, mas chega de ficar de enrolação.\"\r\n"
  },
  {
   "offset": 19050,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0570a02'>\r\n//「右腕全部潰せ！」\r\n\"Use my right arm. All of it!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0570a02'>\r\n//「右腕全部潰せ！」\r\n\"Use meu braço direito. Inteiro!\"\r\n"
  },
  {
   "offset": 19207,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0580b40'>\r\n//《……良いのか？》\r\n《Are you certain?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0580b40'>\r\n//《……良いのか？》\r\n《Tem certeza?》\r\n"
  },
  {
   "offset": 19356,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0590a02'>\r\n//「どうせ動かないならいらねーだろうが！」\r\n\"If it won't move, we don't need it!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0590a02'>\r\n//「どうせ動かないならいらねーだろうが！」\r\n\"Se ele não se move, não precisamos dele!\"\r\n"
  },
  {
   "offset": 19553,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0600b40'>\r\n//《道理！》\r\n《Well said!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0600b40'>\r\n//《道理！》\r\n《Bem dito!》\r\n"
  },
  {
   "offset": 19684,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0610a09'>\r\n//《ふほっ。\r\n//　おぬしも意外に芸達者よの！》\r\n《Ho! I nearly soiled myself there!》\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0620a09'>\r\n//《今のは少し<RUBY text='・・・・'>ひやっと</RUBY>したわぃ。\r\n//　いや、この戦慄こそが勝負の醍醐味という\r\n//ものであろうが！》\r\n《You're quite the trickster yourself, eh? Ahh, but these are the moments that give a battle its spice!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0610a09'>\r\n//《ふほっ。\r\n//　おぬしも意外に芸達者よの！》\r\n《Ho! Quase me borrei de medo ali!》\r\n\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0620a09'>\r\n//《今のは少し<RUBY text='・・・・'>ひやっと</RUBY>したわぃ。\r\n//　いや、この戦慄こそが勝負の醍醐味という\r\n//ものであろうが！》\r\n《Você também é bastante trapaceiro, hein? Ahh, mas são esses momentos que dão tempero à batalha!》\r\n"
  },
  {
   "offset": 20259,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0630a09'>\r\n//《しかし、そんな<RUBY text='・・・・'>のろのろ</RUBY>弾では――》\r\n《Though I don't think that one will do much―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0630a09'>\r\n//《しかし、そんな<RUBY text='・・・・'>のろのろ</RUBY>弾では――》\r\n《Embora eu não ache que essa vai fazer muita coisa―》\r\n"
  },
  {
   "offset": 20497,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0640a02'>\r\n//《喜べ》\r\n《Lucky you.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0640a02'>\r\n//《喜べ》\r\n《Sorte a sua.》\r\n"
  },
  {
   "offset": 20625,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0650a09'>\r\n//《む？》\r\n《Hmm?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/mb02/028vs0650a09'>\r\n//《む？》\r\n《Hmm?》\r\n"
  },
  {
   "offset": 20747,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0660a02'>\r\n//《<RUBY text='・・・'>醍醐味</RUBY>。\r\n//　大盤振る舞いだ》\r\n《There's plenty more㉓<I>spice</I> where that came from.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0660a02'>\r\n//《<RUBY text='・・・'>醍醐味</RUBY>。\r\n//　大盤振る舞いだ》\r\n《Tem muito mais㉓<I>tempero</I> de onde veio isso.》\r\n"
  },
  {
   "offset": 20985,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0670a02'>\r\n//《残さず綺麗に、全部食え!!》\r\n《Now let me see you eat it!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0670a02'>\r\n//《残さず綺麗に、全部食え!!》\r\n《Agora quero ver você engolir!》\r\n"
  },
  {
   "offset": 21158,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0680a02'>\r\n//「ギ――」\r\n\"GHH―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0680a02'>\r\n//「ギ――」\r\n\"GHH―\"\r\n"
  },
  {
   "offset": 21281,
   "en": "\r\n//　骨は潰して硝石に。\r\n//　肉は挽いて焦がして木炭に。\r\n//　血は<RUBY text='カロリー'>熱量</RUBY>。一滴の火炎。<RUBY text='プライミング'>起爆剤</RUBY>。\r\n  That's it. Grind my bones to niter. Char my flesh to blackened coal. Let my blood be fire to ignite my wrath.\r\n",
-  "pt": ""
+  "pt": "\r\n//　骨は潰して硝石に。\r\n//　肉は挽いて焦がして木炭に。\r\n//　血は<RUBY text='カロリー'>熱量</RUBY>。一滴の火炎。<RUBY text='プライミング'>起爆剤</RUBY>。\r\n  É isso. Moa meus ossos até virarem salitre. Carbonize minha carne até se tornar carvão negro. Deixe meu sangue ser fogo para acender minha ira.\r\n"
  },
  {
   "offset": 21608,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0690a02'>\r\n//「イィィィィァァァァァアアアアアアア!!」\r\n\"EEEEEAAAAAHHHHH!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/028vs0690a02'>\r\n//「イィィィィァァァァァアアアアアアア!!」\r\n\"EEEEEAAAAAHHHHH!\"\r\n"
  },
  {
   "offset": 21785,
   "en": "\r\n//　甲鉄の針を込め、\r\n//　甲鉄の膜で覆う。\r\n\r\n//　鉄炮・弧炎錫。\r\n//　あたしの、<RUBY text='いかり'>瞋恚</RUBY>だ。\r\n  Fill it with death.\r\n  Sheathe it in steel.\r\n\r\n  Good.<K> Now teach him the meaning of hate.\r\n",
-  "pt": ""
+  "pt": "\r\n//　甲鉄の針を込め、\r\n//　甲鉄の膜で覆う。\r\n\r\n//　鉄炮・弧炎錫。\r\n//　あたしの、<RUBY text='いかり'>瞋恚</RUBY>だ。\r\n  Encha-o de morte.\r\n  Envolva-o em aço.\r\n\r\n  Bom.<K> Agora ensine a ele o significado do ódio.\r\n"
  },
  {
   "offset": 22047,
@@ -422,6 +422,6 @@
  {
   "offset": 22184,
   "en": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0710b40'>\r\n//《ＤＡＡＩ・ＡＲＡＡＡＡＡＡＡＡＨＨＨ!!》\r\n《DAAIARAAAAAAAAHHH!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【正宗】\r\n<voice name='正宗' class='正宗' src='voice/mb02/028vs0710b40'>\r\n//《ＤＡＡＩ・ＡＲＡＡＡＡＡＡＡＡＨＨＨ!!》\r\n《DAAIARAAAAAAAAHHH!》\r\n"
  }
 ]

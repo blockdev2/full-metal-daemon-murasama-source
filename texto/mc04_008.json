@@ -12,7 +12,7 @@
  {
   "offset": 458,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080030a03' time=3500>\r\n//「<RUBY text='ろんたいむのーしー、まいしすたー'>久しぶりね愛する妹</RUBY>。\r\n//　<RUBY text='はうあーゆ'>元気だったかしら</RUBY>――」\r\n\"My dear sister! Long time no see! And how have you―\"<WaitVoice=3500>\r\n<?>\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080030a03' time=3500>\r\n//「<RUBY text='ろんたいむのーしー、まいしすたー'>久しぶりね愛する妹</RUBY>。\r\n//　<RUBY text='はうあーゆ'>元気だったかしら</RUBY>――」\r\n\"Minha querida irmã! Há quanto tempo! E como tem passado―\"<WaitVoice=3500>\r\n<?>\r\n"
  },
  {
   "offset": 829,
@@ -22,67 +22,67 @@
  {
   "offset": 954,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080050a03'>\r\n//「……あのぅ……。\r\n//　どうしてわたくし、血を分けた妹と感動の\r\n//再会を果たした瞬間にヒモですっ転ばされて\r\n//あまつさえ頭を踏まれてるのかしら……？」\r\n\"Um... this was supposed to be our tearful reunion. Why does the door have a tripwire on it? And why are you standing on my head?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080050a03'>\r\n//「……あのぅ……。\r\n//　どうしてわたくし、血を分けた妹と感動の\r\n//再会を果たした瞬間にヒモですっ転ばされて\r\n//あまつさえ頭を踏まれてるのかしら……？」\r\n\"Hã... era para este ser o nosso reencontro com lágrimas. Por que tem um fio de tropeço na porta? E por que você está pisando na minha cabeça?\"\r\n"
  },
  {
   "offset": 1410,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080060b18'>\r\n//「弾が耳の横かすめた。\r\n//　火傷した。髪の毛も少しちぎれた。なんか\r\n//文句あるか、どちくしょう」\r\n\"Your shot grazed my ear. Took some hair with it. And you expect me to thank <br>you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080060b18'>\r\n//「弾が耳の横かすめた。\r\n//　火傷した。髪の毛も少しちぎれた。なんか\r\n//文句あるか、どちくしょう」\r\n\"Seu tiro raspou minha orelha. Levou um pouco do cabelo junto. E você espera que eu agradeça a você?\"\r\n"
  },
  {
   "offset": 1734,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080070a03'>\r\n//「ごめんなさい。\r\n//　次はもう少し正確に狙います」\r\n\"Oh. I'm sorry. Next time, I'll aim more carefully... <SMALL>and get you right between the eyes.</SMALL>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080070a03'>\r\n//「ごめんなさい。\r\n//　次はもう少し正確に狙います」\r\n\"Ah. Desculpe. Da próxima vez, vou mirar com mais cuidado... <SMALL>e acertar bem no meio dos seus olhos.</SMALL>\"\r\n"
  },
  {
   "offset": 2019,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080080a03'>\r\n//「なんで捻り込むの!?　踵を！」\r\n\"Ow! Ow! Could you not grind your heel into my skull!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080080a03'>\r\n//「なんで捻り込むの!?　踵を！」\r\n\"Ai! Ai! Você poderia parar de cravar o calcanhar no meu crânio!?\"\r\n"
  },
  {
   "offset": 2225,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080090b18'>\r\n//「今、『正確に』と『狙います』のあいだに\r\n//なんか聞こえた」\r\n\"I caught your little whisper.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080090b18'>\r\n//「今、『正確に』と『狙います』のあいだに\r\n//なんか聞こえた」\r\n\"Eu ouvi seu cochicho.\"\r\n"
  },
  {
   "offset": 2442,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080100a03'>\r\n//「空耳ではなくって？」\r\n\"I didn't say anything.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080100a03'>\r\n//「空耳ではなくって？」\r\n\"Eu não disse nada.\"\r\n"
  },
  {
   "offset": 2606,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080110b18'>\r\n//「そうじゃないことは神さまが知ってる」\r\n\"Yeah, and the sky is pink.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080110b18'>\r\n//「そうじゃないことは神さまが知ってる」\r\n\"É, e o céu é rosa.\"\r\n"
  },
  {
   "offset": 2789,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080120a03'>\r\n//「ううっ、妹に信じてもらえない。悲しい」\r\n\"My own sister doesn't believe me... <I>sob.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080120a03'>\r\n//「ううっ、妹に信じてもらえない。悲しい」\r\n\"Minha própria irmã não acredita em mim... <I>soluço.</I>\"\r\n"
  },
  {
   "offset": 3005,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080130b18'>\r\n//「その嘘泣きで不信度五〇％アップだよ」\r\n\"Is saying㉓<I>sob</I>㉗supposed to make me believe you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080130b18'>\r\n//「その嘘泣きで不信度五〇％アップだよ」\r\n\"Dizer ㉓<I>soluço</I>㉗ deveria me fazer acreditar em você?\"\r\n"
  },
  {
   "offset": 3219,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080140a03'>\r\n//「それはともかくそろそろ足どけてくださら\r\n//ない？\r\n//　何を隠そうこのわたくし、床板に顔を擦り\r\n//付けるのってあまり好きではなくて」\r\n\"Do you think you could let me up now? It turns out I don't enjoy having my face pressed into the floor.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080140a03'>\r\n//「それはともかくそろそろ足どけてくださら\r\n//ない？\r\n//　何を隠そうこのわたくし、床板に顔を擦り\r\n//付けるのってあまり好きではなくて」\r\n\"Você poderia me deixar levantar agora? Acontece que eu não gosto de ter o rosto pressionado contra o chão.\"\r\n"
  },
  {
   "offset": 3623,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080150b18'>\r\n//「その前に訊くことがある」\r\n\"First, I've got a question.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080150b18'>\r\n//「その前に訊くことがある」\r\n\"Primeiro, tenho uma pergunta.\"\r\n"
  },
  {
   "offset": 3789,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080160a03'>\r\n//「後じゃだめなの？」\r\n\"Can't it wait?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080160a03'>\r\n//「後じゃだめなの？」\r\n\"Não pode esperar?\"\r\n"
  },
  {
   "offset": 3942,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080170b18'>\r\n//「だめ。\r\n//　返答次第ではこのまま首を折るから」\r\n\"No. Depending on how you answer, I might just crush your throat.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080170b18'>\r\n//「だめ。\r\n//　返答次第ではこのまま首を折るから」\r\n\"Não. Dependendo da sua resposta, posso muito bem esmagar sua garganta.\"\r\n"
  },
  {
   "offset": 4176,
@@ -92,12 +92,12 @@
  {
   "offset": 4309,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080190a03'>\r\n//「なに？」\r\n\"Go ahead.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080190a03'>\r\n//「なに？」\r\n\"Pode perguntar.\"\r\n"
  },
  {
   "offset": 4442,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080200b18'>\r\n//「雄飛くんを殺したのはあんたか」\r\n\"Did you kill Yuhi?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080200b18'>\r\n//「雄飛くんを殺したのはあんたか」\r\n\"Foi você que matou Yuhi?\"\r\n"
  },
  {
   "offset": 4608,
@@ -107,32 +107,32 @@
  {
   "offset": 4741,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080220a03'>\r\n//「それ、本気で訊いてる？」\r\n\"Is that a serious question?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080220a03'>\r\n//「それ、本気で訊いてる？」\r\n\"Você está falando sério?\"\r\n"
  },
  {
   "offset": 4916,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080230b18'>\r\n//「…………<?>\r\n//……<?>\r\n//ごめん。\r\n//　言ってみただけ」\r\n\"...<WaitVoice=870>Sorry. Didn't mean it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080230b18'>\r\n//「…………<?>\r\n//……<?>\r\n//ごめん。\r\n//　言ってみただけ」\r\n\"...<WaitVoice=870>Desculpa. Não foi sério.\"\r\n"
  },
  {
   "offset": 5134,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080240a03'>\r\n//「ふぅ。\r\n//　ひどい妹、髪にほこりがついちゃった」\r\n\"Oh, now my hair's all covered in dust.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080240a03'>\r\n//「ふぅ。\r\n//　ひどい妹、髪にほこりがついちゃった」\r\n\"Ah, agora meu cabelo ficou todo empoeirado.\"\r\n"
  },
  {
   "offset": 5354,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080250b18'>\r\n//「雄飛くんが死んだことは知ってるんだ」\r\n\"So you know he's dead.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080250b18'>\r\n//「雄飛くんが死んだことは知ってるんだ」\r\n\"Então você sabe que ele está morto.\"\r\n"
  },
  {
   "offset": 5533,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080260a03'>\r\n//「ええ」\r\n\"Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080260a03'>\r\n//「ええ」\r\n\"Sim.\"\r\n"
  },
  {
   "offset": 5658,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080270b18'>\r\n//「犯人は？」\r\n\"And who did it?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080270b18'>\r\n//「犯人は？」\r\n\"E quem foi?\"\r\n"
  },
  {
   "offset": 5791,
@@ -142,42 +142,42 @@
  {
   "offset": 5918,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080290b18'>\r\n//「知ってるらしい」\r\n\"That too.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080290b18'>\r\n//「知ってるらしい」\r\n\"Isso também.\"\r\n"
  },
  {
   "offset": 6054,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080300a03'>\r\n//「そのことは、任せて頂けません？」\r\n\"Would you mind terribly letting me take care of that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080300a03'>\r\n//「そのことは、任せて頂けません？」\r\n\"Você se importaria muito em me deixar cuidar disso?\"\r\n"
  },
  {
   "offset": 6267,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080310b18'>\r\n//「一人で片付けるつもり？」\r\n\"You want them all to yourself?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080310b18'>\r\n//「一人で片付けるつもり？」\r\n\"Você quer todos para si?\"\r\n"
  },
  {
   "offset": 6436,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080320a03'>\r\n//「…………ええ」\r\n\"...Yes.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080320a03'>\r\n//「…………ええ」\r\n\"...Sim.\"\r\n"
  },
  {
   "offset": 6576,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080330b18'>\r\n//「わたしは彼の許嫁」\r\n\"I was going to be his wife.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080330b18'>\r\n//「わたしは彼の許嫁」\r\n\"Eu ia ser a esposa dele.\"\r\n"
  },
  {
   "offset": 6733,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080340a03'>\r\n//「それでも」\r\n\"I know. Even so.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080340a03'>\r\n//「それでも」\r\n\"Eu sei. Mesmo assim.\"\r\n"
  },
  {
   "offset": 6876,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080350b18'>\r\n//「…………。\r\n//　後で説明くらいはしてくれる？」\r\n\"...Will you at least tell me about it after?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080350b18'>\r\n//「…………。\r\n//　後で説明くらいはしてくれる？」\r\n\"...Você vai pelo menos me explicar depois?\"\r\n"
  },
  {
   "offset": 7090,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080360a03'>\r\n//「そうね……」\r\n\"I'll try.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080360a03'>\r\n//「そうね……」\r\n\"Vou tentar.\"\r\n"
  },
  {
   "offset": 7229,
@@ -187,12 +187,12 @@
  {
   "offset": 7347,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080380b18'>\r\n//「あいまいな言葉でお茶を濁しやがった」\r\n\"That doesn't mean shit.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080380b18'>\r\n//「あいまいな言葉でお茶を濁しやがった」\r\n\"Isso não significa porra nenhuma.\"\r\n"
  },
  {
   "offset": 7527,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080390a03'>\r\n//「ごめんなさい」\r\n\"Sorry. It's the best I can do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080390a03'>\r\n//「ごめんなさい」\r\n\"Desculpe. É o melhor que posso fazer.\"\r\n"
  },
  {
   "offset": 7690,
@@ -202,97 +202,97 @@
  {
   "offset": 7827,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080410b18'>\r\n//「それで、何しに帰ってきたの」\r\n\"So what're you doing here?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080410b18'>\r\n//「それで、何しに帰ってきたの」\r\n\"Então, o que você está fazendo aqui?\"\r\n"
  },
  {
   "offset": 7998,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080420a03'>\r\n//「愛しの妹の窮地に華麗な参上をするために」\r\n\"I heard you were in trouble, so I thought I'd make an entrance.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080420a03'>\r\n//「愛しの妹の窮地に華麗な参上をするために」\r\n\"Ouvi que você estava em apuros, então pensei em fazer uma entrada triunfal.\"\r\n"
  },
  {
   "offset": 8233,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080430b18'>\r\n//「……華麗な参上が目的なんだ」\r\n\"Just an entrance?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080430b18'>\r\n//「……華麗な参上が目的なんだ」\r\n\"Só uma entrada?\"\r\n"
  },
  {
   "offset": 8395,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080440a03'>\r\n//「ちゃんとついでに助けて差し上げましてよ」\r\n\"And maybe help you out while I'm at it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080440a03'>\r\n//「ちゃんとついでに助けて差し上げましてよ」\r\n\"E, de quebra, talvez te ajudar.\"\r\n"
  },
  {
   "offset": 8606,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080450b18'>\r\n//「どういう風の吹きまわし？」\r\n\"Help me. Why?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080450b18'>\r\n//「どういう風の吹きまわし？」\r\n\"Me ajudar. Por quê?\"\r\n"
  },
  {
   "offset": 8761,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080460a03'>\r\n//「不思議？」\r\n\"Does it surprise you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080460a03'>\r\n//「不思議？」\r\n\"Isso te surpreende?\"\r\n"
  },
  {
   "offset": 8909,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080470b18'>\r\n//「不思議だよ。\r\n//　これまでは余計な手出ししないで、ほっと\r\n//いてくれたでしょうが」\r\n\"Hell yes. You've let me do things my way until now.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080470b18'>\r\n//「不思議だよ。\r\n//　これまでは余計な手出ししないで、ほっと\r\n//いてくれたでしょうが」\r\n\"Claro que sim. Até agora você me deixou fazer as coisas do meu jeito.\"\r\n"
  },
  {
   "offset": 9182,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080480a03'>\r\n//「それが一番いいと思ってましたから。\r\n//　あなたがどんな風に<RUBY text='・・・'>あの男</RUBY>を始末するのか、\r\n//興味もありましたし」\r\n\"Because I thought that was the prudent course. That, and I was curious to see what horrible fate you had planned for our mutual enemy.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080480a03'>\r\n//「それが一番いいと思ってましたから。\r\n//　あなたがどんな風に<RUBY text='・・・'>あの男</RUBY>を始末するのか、\r\n//興味もありましたし」\r\n\"Porque achei que era o mais prudente. Além disso, estava curiosa para ver que destino horrível você tinha planejado para o nosso inimigo em comum.\"\r\n"
  },
  {
   "offset": 9610,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080490b18'>\r\n//「なら、どうして今さら来たの」\r\n\"What changed?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080490b18'>\r\n//「なら、どうして今さら来たの」\r\n\"O que mudou?\"\r\n"
  },
  {
   "offset": 9768,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080500a03'>\r\n//「情勢を見て」\r\n\"The political landscape.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080500a03'>\r\n//「情勢を見て」\r\n\"O cenário político.\"\r\n"
  },
  {
   "offset": 9922,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080510b18'>\r\n//「情勢？\r\n//　――――あぁ。そういうこと」\r\n\"...Ahh. I get it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080510b18'>\r\n//「情勢？\r\n//　――――あぁ。そういうこと」\r\n\"...Ahh. Entendi.\"\r\n"
  },
  {
   "offset": 10100,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080520b18'>\r\n//「獅子吼を殺して、進駐軍との開戦を避ける\r\n//つもりなのね」\r\n\"You want to stop the war.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080520b18'>\r\n//「獅子吼を殺して、進駐軍との開戦を避ける\r\n//つもりなのね」\r\n\"Você quer impedir a guerra.\"\r\n"
  },
  {
   "offset": 10310,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080530a03'>\r\n//「ご明察」\r\n\"Correct.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080530a03'>\r\n//「ご明察」\r\n\"Exato.\"\r\n"
  },
  {
   "offset": 10442,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080540b18'>\r\n//「確かに有効な手だけど。\r\n//　……そういうつもりなら、わたしに任せて\r\n//おいて」\r\n\"Yeah, killing Shishiku might work. But I still say you should leave him to me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080540b18'>\r\n//「確かに有効な手だけど。\r\n//　……そういうつもりなら、わたしに任せて\r\n//おいて」\r\n\"É, matar o Shishiku pode funcionar. Mas eu ainda digo que você devia deixar ele comigo.\"\r\n"
  },
  {
   "offset": 10736,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080550b18'>\r\n//「獅子吼はあと三年生かす」\r\n\"I'll give him three more years to live.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080550b18'>\r\n//「獅子吼はあと三年生かす」\r\n\"Vou dar mais três anos de vida a ele.\"\r\n"
  },
  {
   "offset": 10914,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080560a03'>\r\n//「あの<RUBY text='クォーター'>異人の孫</RUBY>を生かしておくと、要らない\r\n//人死がざくざく増えましてよ？」\r\n\"In three years, that quarter-<br>breed will get a lot of people killed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080560a03'>\r\n//「あの<RUBY text='クォーター'>異人の孫</RUBY>を生かしておくと、要らない\r\n//人死がざくざく増えましてよ？」\r\n\"Em três anos, esse mestiço de um quarto vai fazer muita gente morrer.\"\r\n"
  },
  {
   "offset": 11239,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080570b18'>\r\n//「でも三年後には、ぜんぶ取り戻せる」\r\n\"But he'll give me what I need to take it all back.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080570b18'>\r\n//「でも三年後には、ぜんぶ取り戻せる」\r\n\"Mas, em três anos, vou ter o que preciso para recuperar tudo.\"\r\n"
  },
  {
   "offset": 11443,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080580a03'>\r\n//「全部？」\r\n\"And by all, you mean...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080580a03'>\r\n//「全部？」\r\n\"E por tudo, você quer dizer...\"\r\n"
  },
  {
   "offset": 11590,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080590b18'>\r\n//「大鳥。\r\n//　幕府。\r\n//　関東。\r\n//　大和」\r\n\"Otori. Rokuhara. Kanto. Yamato.\"\r\n\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080600b18'>\r\n//「大陸」\r\n\"<I>The empire.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080590b18'>\r\n//「大鳥。\r\n//　幕府。\r\n//　関東。\r\n//　大和」\r\n\"Otori. Rokuhara. Kanto. Yamato.\"\r\n\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080600b18'>\r\n//「大陸」\r\n\"<I>O império.</I>\"\r\n"
  },
  {
   "offset": 11903,
@@ -302,42 +302,42 @@
  {
   "offset": 12036,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080620b18'>\r\n//「疑う？」\r\n\"You don't believe me?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080620b18'>\r\n//「疑う？」\r\n\"Você não acredita em mim?\"\r\n"
  },
  {
   "offset": 12172,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080630a03'>\r\n//「疑えたら、おねえちゃんこんなにビクビク\r\n//しなくて済むんだけど」\r\n\"Would I be shaking like this if I didn't?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080630a03'>\r\n//「疑えたら、おねえちゃんこんなにビクビク\r\n//しなくて済むんだけど」\r\n\"Se eu não acreditasse, estaria tremendo assim?\"\r\n"
  },
  {
   "offset": 12419,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080640b18'>\r\n//「今日は帰って。\r\n//　さっき獅子吼が外の武者を呼び戻していた\r\n//から、うまく行き違いになるように」\r\n\"You should go. And make sure you don't run into Shishiku. He went to summon the musha.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080640b18'>\r\n//「今日は帰って。\r\n//　さっき獅子吼が外の武者を呼び戻していた\r\n//から、うまく行き違いになるように」\r\n\"É melhor você ir. E evite cruzar com o Shishiku. Ele foi chamar os musha.\"\r\n"
  },
  {
   "offset": 12748,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080650a03'>\r\n//「そっちは大丈夫。\r\n//　さよに玄関を守らせてあるから。わたくし\r\n//が獅子吼を殺すまで、誰も通れません」\r\n\"Not to worry. Sayo has the entrance covered. No one is coming to his rescue.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080650a03'>\r\n//「そっちは大丈夫。\r\n//　さよに玄関を守らせてあるから。わたくし\r\n//が獅子吼を殺すまで、誰も通れません」\r\n\"Não se preocupe. A Sayo está cuidando da entrada. Ninguém vai socorrê-lo.\"\r\n"
  },
  {
   "offset": 13082,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080660b18'>\r\n//「……話、ちゃんと聞いてた？\r\n//　獅子吼の始末は、わたしに任せろっての」\r\n\"...Were you listening? I told you to leave him to me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080660b18'>\r\n//「……話、ちゃんと聞いてた？\r\n//　獅子吼の始末は、わたしに任せろっての」\r\n\"...Você estava ouvindo? Eu disse para deixar ele comigo.\"\r\n"
  },
  {
   "offset": 13341,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080670a03'>\r\n//「質問」\r\n\"Question.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080670a03'>\r\n//「質問」\r\n\"Pergunta.\"\r\n"
  },
  {
   "offset": 13471,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080680b18'>\r\n//「なに？」\r\n\"What?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080680b18'>\r\n//「なに？」\r\n\"O quê?\"\r\n"
  },
  {
   "offset": 13591,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080690a03'>\r\n//「邦氏殿下と結婚させられてもいいの？」\r\n\"Are you all right with being forced to marry Kuniuji?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080690a03'>\r\n//「邦氏殿下と結婚させられてもいいの？」\r\n\"Você aceitaria ser forçada a se casar com o Kuniuji?\"\r\n"
  },
  {
   "offset": 13810,
@@ -347,47 +347,47 @@
  {
   "offset": 13934,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080710b18'>\r\n//「……殿下は、悪い子じゃない」\r\n\"...He's a good kid.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080710b18'>\r\n//「……殿下は、悪い子じゃない」\r\n\"...Ele é um bom garoto.\"\r\n"
  },
  {
   "offset": 14098,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080720a03'>\r\n//「それ、交際の申し出を断る時の定番台詞」\r\n\"That's about one step up from 'I think we should just be friends.'㉑\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080720a03'>\r\n//「それ、交際の申し出を断る時の定番台詞」\r\n\"Isso é quase um passo acima de 'acho que deveríamos ser só amigos'.㉑\"\r\n"
  },
  {
   "offset": 14336,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080730b18'>\r\n//「うるさいな。\r\n//　もともと、大鳥のような家に生まれついて、\r\n//好きな相手と結婚できる方がおかしいんだ」\r\n\"You shut up. Besides, I'm an Otori. It's not like I get to marry for love.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080730b18'>\r\n//「うるさいな。\r\n//　もともと、大鳥のような家に生まれついて、\r\n//好きな相手と結婚できる方がおかしいんだ」\r\n\"Cala a boca. Além do mais, eu sou uma Otori. Não é como se eu pudesse me casar por amor.\"\r\n"
  },
  {
   "offset": 14662,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080740a03'>\r\n//「政略結婚は貴族の義務ですものねー」\r\n\"Privilege does have its <br>price.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080740a03'>\r\n//「政略結婚は貴族の義務ですものねー」\r\n\"Privilégio tem seu preço.\"\r\n"
  },
  {
   "offset": 14859,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080750b18'>\r\n//「そうだよ……」\r\n\"Yeah...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080750b18'>\r\n//「そうだよ……」\r\n\"É...\"\r\n"
  },
  {
   "offset": 14990,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080760a03'>\r\n//「でも一度、夢を見てしまいました」\r\n\"Still, I once had hope.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080760a03'>\r\n//「でも一度、夢を見てしまいました」\r\n\"Mesmo assim, eu já tive esperança.\"\r\n"
  },
  {
   "offset": 15173,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080770b18'>\r\n//「夢？」\r\n\"Hope?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080770b18'>\r\n//「夢？」\r\n\"Esperança?\"\r\n"
  },
  {
   "offset": 15290,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080780a03'>\r\n//「政略だけど。親の決めたことだけど。\r\n//　それでも妹の結婚は、好きな人と結ばれる、\r\n//幸福なものになる……」\r\n\"That you might find joy in your marriage, even if it served a political aim.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080780a03'>\r\n//「政略だけど。親の決めたことだけど。\r\n//　それでも妹の結婚は、好きな人と結ばれる、\r\n//幸福なものになる……」\r\n\"Que você pudesse encontrar alegria no seu casamento, mesmo que ele servisse a um objetivo político.\"\r\n"
  },
  {
   "offset": 15633,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080790a03'>\r\n//「そんな夢」\r\n\"Just a silly little dream.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080790a03'>\r\n//「そんな夢」\r\n\"Só um sonho bobo.\"\r\n"
  },
  {
   "offset": 15786,
@@ -397,62 +397,62 @@
  {
   "offset": 15910,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080810a03'>\r\n//「人間、手に入れたと思ったものを失った時\r\n//が、一番貪欲になるのよねぇ」\r\n\"It turns out losing what you thought you had can make you desperate to get it back.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080810a03'>\r\n//「人間、手に入れたと思ったものを失った時\r\n//が、一番貪欲になるのよねぇ」\r\n\"Parece que perder o que você achava que tinha pode deixar a pessoa desesperada para recuperar.\"\r\n"
  },
  {
   "offset": 16208,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080820b18'>\r\n//「……どうしろってのさ」\r\n\"...Just get to the point.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080820b18'>\r\n//「……どうしろってのさ」\r\n\"...Vai direto ao ponto.\"\r\n"
  },
  {
   "offset": 16369,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080830a03'>\r\n//「妥協しないで、いつか政略的にもオッケー\r\n//かつ愛のある結婚をしてくださらない？」\r\n\"I'm hoping I can convince you to hold out for love㉓<I>and</I> power.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080830a03'>\r\n//「妥協しないで、いつか政略的にもオッケー\r\n//かつ愛のある結婚をしてくださらない？」\r\n\"Espero poder convencer você a esperar por amor㉓<I>e</I> poder.\"\r\n"
  },
  {
   "offset": 16669,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080840b18'>\r\n//「無茶言いやがる」\r\n\"Tall order.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080840b18'>\r\n//「無茶言いやがる」\r\n\"É pedir demais.\"\r\n"
  },
  {
   "offset": 16807,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080850a03'>\r\n//「あなたの奸佞邪智をもってすればそんなの\r\n//簡単よ」\r\n\"But simple for someone as unscrupulous as you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080850a03'>\r\n//「あなたの奸佞邪智をもってすればそんなの\r\n//簡単よ」\r\n\"Mas simples para alguém tão sem escrúpulos quanto você.\"\r\n"
  },
  {
   "offset": 17038,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080860b18'>\r\n//「保証されてる気にならんわ」\r\n\"Very encouraging.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080860b18'>\r\n//「保証されてる気にならんわ」\r\n\"Muito reconfortante.\"\r\n"
  },
  {
   "offset": 17197,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080870a03'>\r\n//「さー、妹の未来の恋路のために。\r\n//　邪魔する男を、馬に代わって蹴り殺してき\r\n//ましょうか」\r\n\"Well! Now that we're agreed, I'll go take care of the last little hurdle on my sister's road to happiness.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080870a03'>\r\n//「さー、妹の未来の恋路のために。\r\n//　邪魔する男を、馬に代わって蹴り殺してき\r\n//ましょうか」\r\n\"Bem! Agora que estamos de acordo, vou cuidar do último pequeno obstáculo no caminho da felicidade da minha irmã.\"\r\n"
  },
  {
   "offset": 17546,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080880b18'>\r\n//「……あんたは、それでいいの？」\r\n\"...Are㉒<I>you</I> okay with that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080880b18'>\r\n//「……あんたは、それでいいの？」\r\n\"...Você㉒<I>mesma</I> está bem com isso?\"\r\n"
  },
  {
   "offset": 17729,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080890a03'>\r\n//「なにが？」\r\n\"With what?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080890a03'>\r\n//「なにが？」\r\n\"Com o quê?\"\r\n"
  },
  {
   "offset": 17866,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080900b18'>\r\n//「だって。\r\n//　獅子吼は、あんたの――」\r\n\"I mean, he was your―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080900b18'>\r\n//「だって。\r\n//　獅子吼は、あんたの――」\r\n\"Quero dizer, ele era seu―\"\r\n"
  },
  {
   "offset": 18046,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080910a03'>\r\n//「ええ。\r\n//　<RUBY text='・・・'>だから</RUBY>」\r\n\"Yes. That's why.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080920a03'>\r\n//「わたくしの手で決着をつけたい。\r\n//　ごめんなさいね、花枝。ほんとうの理由は\r\n//こっち」\r\n\"Sorry, dear. If we're being honest, that's the real <br>reason.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080910a03'>\r\n//「ええ。\r\n//　<RUBY text='・・・'>だから</RUBY>」\r\n\"Sim. Por isso.\"\r\n\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080920a03'>\r\n//「わたくしの手で決着をつけたい。\r\n//　ごめんなさいね、花枝。ほんとうの理由は\r\n//こっち」\r\n\"Desculpe, querida. Sejamos honestas: essa é a verdadeira razão.\"\r\n"
  },
  {
   "offset": 18524,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080930a03'>\r\n//「あの男を、あなたに譲りたくないの」\r\n\"He belongs to me.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080930a03'>\r\n//「あの男を、あなたに譲りたくないの」\r\n\"Ele pertence a mim.\"\r\n"
  },
  {
   "offset": 18704,
@@ -462,62 +462,62 @@
  {
   "offset": 18828,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080950a03'>\r\n//「大義名分が出来なければ、我慢するつもり\r\n//でいたのだけれど。\r\n//　出来ちゃったのよね、<RUBY text='これ'>名分</RUBY>が」\r\n\"I didn't have an excuse before. Now I do.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080950a03'>\r\n//「大義名分が出来なければ、我慢するつもり\r\n//でいたのだけれど。\r\n//　出来ちゃったのよね、<RUBY text='これ'>名分</RUBY>が」\r\n\"Eu não tinha uma desculpa antes. Agora tenho.\"\r\n"
  },
  {
   "offset": 19145,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080960a03'>\r\n//「あの男をいま殺しておく事は、大和の多く\r\n//の人々の命を救う事になる。\r\n//　そして、あの男をいま殺せるのはわたくし\r\n//だけ。あなたにはできない」\r\n\"Killing him now will save many lives. And only I can make that happen. You don't have the power yet.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080960a03'>\r\n//「あの男をいま殺しておく事は、大和の多く\r\n//の人々の命を救う事になる。\r\n//　そして、あの男をいま殺せるのはわたくし\r\n//だけ。あなたにはできない」\r\n\"Matá-lo agora salvará muitas vidas. E só eu posso fazer isso acontecer. Você ainda não tem o poder.\"\r\n"
  },
  {
   "offset": 19564,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080970b18'>\r\n//「……姉さん」\r\n\"Kanae...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0080970b18'>\r\n//「……姉さん」\r\n\"Kanae...\"\r\n"
  },
  {
   "offset": 19693,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080980a03'>\r\n//「だから、あなたに任せるのはやめ。\r\n//　いいこと花枝？」\r\n\"So no more compromises. Are we clear?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080980a03'>\r\n//「だから、あなたに任せるのはやめ。\r\n//　いいこと花枝？」\r\n\"Então chega de concessões. Entendido?\"\r\n"
  },
  {
   "offset": 19921,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080990a03'>\r\n//「姉さんの<RUBY text='・・・'>楽しみ</RUBY>を邪魔してはだめよ」\r\n\"This is㉓<I>my</I>㉕party.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0080990a03'>\r\n//「姉さんの<RUBY text='・・・'>楽しみ</RUBY>を邪魔してはだめよ」\r\n\"Esta é㉓<I>a minha</I>㉕festa.\"\r\n"
  },
  {
   "offset": 20142,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081000b18'>\r\n//「…………。\r\n//　これがほかの人間の台詞だったら、へたな\r\n//気遣いするなって言うとこだけど」\r\n\"If I didn't know you, I'd think you'd lost your goddamn mind.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081000b18'>\r\n//「…………。\r\n//　これがほかの人間の台詞だったら、へたな\r\n//気遣いするなって言うとこだけど」\r\n\"Se eu não te conhecesse, ia achar que você perdeu o maldito juízo.\"\r\n"
  },
  {
   "offset": 20437,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081010b18'>\r\n//「なんも言えない。\r\n//　この姉は<RUBY text='・・'>本気</RUBY>だ。ただ単に」\r\n\"But no. This is who you are. You're serious.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081010b18'>\r\n//「なんも言えない。\r\n//　この姉は<RUBY text='・・'>本気</RUBY>だ。ただ単に」\r\n\"Mas não. Você é assim mesmo. Está falando sério.\"\r\n"
  },
  {
   "offset": 20681,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081020a03'>\r\n//「ＹＥＳ」\r\n\"<I>Yes.</I>\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081020a03'>\r\n//「ＹＥＳ」\r\n\"<I>Sim.</I>\"\r\n"
  },
  {
   "offset": 20816,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081030b18'>\r\n//「『精神状態が普通ではない人』という意味\r\n//の単語をわたしが今あんたに向かって言った\r\n//と思いなさい」\r\n\"Let's pretend like I called you some names reserved for people who belong in white rooms.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081030b18'>\r\n//「『精神状態が普通ではない人』という意味\r\n//の単語をわたしが今あんたに向かって言った\r\n//と思いなさい」\r\n\"Vamos fingir que eu te chamei de nomes reservados para quem já devia estar internado.\"\r\n"
  },
  {
   "offset": 21154,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081040a03'>\r\n//「あなたに言われるとへこむ単語ねー……」\r\n\"You're the last person I wanted to hear that from.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081040a03'>\r\n//「あなたに言われるとへこむ単語ねー……」\r\n\"Você é a última pessoa de quem eu queria ouvir isso.\"\r\n"
  },
  {
   "offset": 21373,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081050b18'>\r\n//「父さんの仇討ちまで独り占めする気？」\r\n\"So I have to watch you take revenge for Yuhi㉓<I>and</I>㉒for <br>Dad.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081050b18'>\r\n//「父さんの仇討ちまで独り占めする気？」\r\n\"Então eu tenho que assistir você se vingar pelo Yuhi㉓<I>e</I>㉒pelo Pai também.\"\r\n"
  },
  {
   "offset": 21602,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081060a03'>\r\n//「妹のものは姉のもの。\r\n//　姉のものは姉のもの」\r\n\"What's yours is mine. What's mine is mine. What are sisters for?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081060a03'>\r\n//「妹のものは姉のもの。\r\n//　姉のものは姉のもの」\r\n\"O que é seu é meu. O que é meu é meu. Para que servem as irmãs?\"\r\n"
  },
  {
   "offset": 21845,
@@ -527,22 +527,22 @@
  {
   "offset": 21969,
   "en": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081080b18'>\r\n//「獅子吼はついさっき、あんたを迎え撃ちに\r\n//出ていった。\r\n//　たぶん、ホールに向かったんだと思う」\r\n\"Shishiku said he was going after you. I think he's headed to the main hall.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【花枝】\r\n<voice name='花枝' class='花枝' src='voice/mc04/0081080b18'>\r\n//「獅子吼はついさっき、あんたを迎え撃ちに\r\n//出ていった。\r\n//　たぶん、ホールに向かったんだと思う」\r\n\"O Shishiku disse que ia atrás de você. Acho que ele foi para o salão principal.\"\r\n"
  },
  {
   "offset": 22287,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081090a03'>\r\n//「あら……そちらから来ましたのに。\r\n//　どこで入れ違いになったのかしら」\r\n\"Oh? I just came from there.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081090a03'>\r\n//「あら……そちらから来ましたのに。\r\n//　どこで入れ違いになったのかしら」\r\n\"Ora? Acabei de vir de lá.\"\r\n"
  },
  {
   "offset": 22529,
   "en": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081100a03'>\r\n//「よっぽど縁が無いみたいね、あの男とは」\r\n\"Perhaps the fates have conspired to keep us apart.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【香奈枝】\r\n<voice name='香奈枝' class='香奈枝' src='voice/mc04/0081100a03'>\r\n//「よっぽど縁が無いみたいね、あの男とは」\r\n\"Talvez as forças do destino tenham conspirado para nos manter separados.\"\r\n"
  },
  {
   "offset": 22748,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0081110a06'>\r\n//「本当に縁が無ければ幸いだったがな。\r\n//　……生憎と、とっくに出会っている」\r\n\"Oh, if only they had.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/0081110a06'>\r\n//「本当に縁が無ければ幸いだったがな。\r\n//　……生憎と、とっくに出会っている」\r\n\"Ah, se ao menos tivessem nos mantido separados.\"\r\n"
  },
  {
   "offset": 22990,

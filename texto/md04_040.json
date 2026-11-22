@@ -2,17 +2,17 @@
  {
   "offset": 213,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400010a07'>\r\n//「……来たよ」\r\n\"She's here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400010a07'>\r\n//「……来たよ」\r\n\"Ela chegou.\"\r\n"
  },
  {
   "offset": 354,
   "en": "\r\n//　茶々丸に促されるまでもなく、俺は気付いていた。\r\n\r\n//　天頂めがけて駆け上がる白銀の星。\r\n  Chachamaru points, but I've already seen it: the silver star rising high into the sky.\r\n",
-  "pt": ""
+  "pt": "\r\n//　茶々丸に促されるまでもなく、俺は気付いていた。\r\n\r\n//　天頂めがけて駆け上がる白銀の星。\r\n  Chachamaru aponta, mas eu já vi: a estrela prateada subindo alto no céu.\r\n"
  },
  {
   "offset": 587,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400020a00'>\r\n//「……光……」\r\n\"Hikaru...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400020a00'>\r\n//「……光……」\r\n\"Hikaru...\"\r\n"
  },
  {
   "offset": 717,
@@ -27,12 +27,12 @@
  {
   "offset": 1081,
   "en": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400050e261'>\r\n//《何だ？\r\n//　地上の様子がおかしい！》\r\n《Look! There's something wrong down there!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400050e261'>\r\n//《何だ？\r\n//　地上の様子がおかしい！》\r\n《Olhem! Tem algo errado lá embaixo!》\r\n"
  },
  {
   "offset": 1321,
   "en": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400060e261'>\r\n//《……この唄のせいか!?》\r\n《This song... Could that be what's causing it!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400060e261'>\r\n//《……この唄のせいか!?》\r\n《Essa canção... Será que é ela que está causando isso!?》\r\n"
  },
  {
   "offset": 1546,
@@ -47,72 +47,72 @@
  {
   "offset": 1850,
   "en": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400090e261'>\r\n//《め、滅茶苦茶だ……無差別に殺し合ってる。\r\n//　<RUBY text='てき'>進駐軍</RUBY>も<RUBY text='みかた'>六波羅</RUBY>も入り乱れて……》\r\n《They're just... killing <I>everyone...</I> like it doesn't even㉓<I>matter.</I>》 \r\n\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400100e261'>\r\n//《おい、ひとまず撤収しよう！\r\n//　これは明らかに異常事態だぞ!!》\r\n《Hey, we should pull out! No way this is part of the plan!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400090e261'>\r\n//《め、滅茶苦茶だ……無差別に殺し合ってる。\r\n//　<RUBY text='てき'>進駐軍</RUBY>も<RUBY text='みかた'>六波羅</RUBY>も入り乱れて……》\r\n《Eles estão simplesmente... matando <I>todo mundo...</I> como se nem sequer <I>importasse.</I>》\r\n\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400100e261'>\r\n//《おい、ひとまず撤収しよう！\r\n//　これは明らかに異常事態だぞ!!》\r\n《Ei, é melhor recuarmos! Não tem como isso fazer parte do plano!》\r\n"
  },
  {
   "offset": 2536,
   "en": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400110e261'>\r\n//《上の指示を仰がねば――》\r\n《Let's report in and request new―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400110e261'>\r\n//《上の指示を仰がねば――》\r\n《Vamos nos reportar e pedir novas―》\r\n"
  },
  {
   "offset": 2753,
   "en": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400120e261'>\r\n//《…………》\r\n《......》\r\n\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400130e261'>\r\n//《……ぎ……<RUBY text='ぎん'>白銀</RUBY>色の騎体……？》\r\n《What the hell!? They turned... <I>silver!?</I>》\r\n\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400140e261'>\r\n//《お前ら、まさか》\r\n《But that's―》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400120e261'>\r\n//《…………》\r\n《......》\r\n\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400130e261'>\r\n//《……ぎ……<RUBY text='ぎん'>白銀</RUBY>色の騎体……？》\r\n《Que diabos!? Eles ficaram... <I>prateados!?</I>》\r\n\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400140e261'>\r\n//《お前ら、まさか》\r\n《Mas isso é―》\r\n"
  },
  {
   "offset": 3354,
   "en": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400150e261'>\r\n//《ゲハッ――》\r\n《GAH!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／幕府騎】\r\n<voice name='ｅｔｃ／幕府騎' class='その他男声' src='voice/md04/0400150e261'>\r\n//《ゲハッ――》\r\n《GAH!》\r\n"
  },
  {
   "offset": 3523,
   "en": "\r\n//【ｅｔｃ／銀星群Ａ】\r\n<voice name='ｅｔｃ／銀星群Ａ' class='その他男声' src='voice/md04/0400160e058'>\r\n//《……ォォォ……》\r\n《...ohhh...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／銀星群Ａ】\r\n<voice name='ｅｔｃ／銀星群Ａ' class='その他男声' src='voice/md04/0400160e058'>\r\n//《……ォォォ……》\r\n《...ohhh...》\r\n"
  },
  {
   "offset": 3710,
   "en": "\r\n//【ｅｔｃ／銀星群Ｂ】\r\n<voice name='ｅｔｃ／銀星群Ｂ' class='その他男声' src='voice/md04/0400170e059'>\r\n//《ァ――ィィ》\r\n《Oooooeeeee!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／銀星群Ｂ】\r\n<voice name='ｅｔｃ／銀星群Ｂ' class='その他男声' src='voice/md04/0400170e059'>\r\n//《ァ――ィィ》\r\n《Oooooeeeee!》\r\n"
  },
  {
   "offset": 3892,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400180a00'>\r\n//「……<RUBY text='しんがた'>零零式</RUBY>が……!?」\r\n\"The Zeros! They're...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400180a00'>\r\n//「……<RUBY text='しんがた'>零零式</RUBY>が……!?」\r\n\"Os Zeros! Eles estão...!\"\r\n"
  },
  {
   "offset": 4079,
   "en": "\r\n//　上空の異変に、俺は目を<RUBY text='みは'>瞠</RUBY>った。\r\n\r\n//　変貌してゆく。\r\n//　深緑色の騎体が――白銀の光輝を放つそれへ。\r\n\r\n//　同じようなものを、同じような変異を見た事がある。\r\n//　一度だけ。江ノ島で。\r\n  I watch in disbelief as one by one, their dark green armor shifts to a brilliant silver.\r\n\r\n  I know what this is. I saw it once before, on Enoshima.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　上空の異変に、俺は目を<RUBY text='みは'>瞠</RUBY>った。\r\n\r\n//　変貌してゆく。\r\n//　深緑色の騎体が――白銀の光輝を放つそれへ。\r\n\r\n//　同じようなものを、同じような変異を見た事がある。\r\n//　一度だけ。江ノ島で。\r\n  Observo incrédulo enquanto, um a um, suas armaduras verde-escuras se transformam num prateado brilhante.\r\n\r\n  Eu sei o que é isso. Já vi uma vez antes, em Enoshima.\r\n\r\n"
  },
  {
   "offset": 4541,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400190a07'>\r\n//「お兄さんには馴染み深いよね。\r\n//　もちろん、〝卵〟だよ」\r\n\"Yeah, you get it. They all had eggs.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400190a07'>\r\n//「お兄さんには馴染み深いよね。\r\n//　もちろん、〝卵〟だよ」\r\n\"É, você entendeu. Todos eles tinham ovos.\"\r\n"
  },
  {
   "offset": 4771,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400200a00'>\r\n//「茶々丸……」\r\n\"Chachamaru...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400200a00'>\r\n//「茶々丸……」\r\n\"Chachamaru...\"\r\n"
  },
  {
   "offset": 4905,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400210a07'>\r\n//「御姫が一つ一つ配って回ったわけじゃない。\r\n//　こないだ篠川へ行った時、あてがあいつら\r\n//の甲鉄にちょっと細工しといたんだ」\r\n\"Don't worry. I didn't make her do any work. Actually, they aren't even real eggs. I just made a few adjustments while I was visiting <br>Sasagawa.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400220a07'>\r\n//「<RUBY text='・・・'>振動数</RUBY>が少し変わるように。\r\n//　普通の甲鉄は汚染波を解消して無効にする\r\n//けど、零零式の甲鉄は逆に強化して〝卵〟を\r\n//植えられたのと同じ効果にするってわけ」\r\n\"See, normally a tsurugi's armor blocks out Ginseigo's song. But I messed with how the Zeros react to certain frequencies. Instead of blocking the song, they amplify it, which winds up having the same effect as an egg.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400210a07'>\r\n//「御姫が一つ一つ配って回ったわけじゃない。\r\n//　こないだ篠川へ行った時、あてがあいつら\r\n//の甲鉄にちょっと細工しといたんだ」\r\n\"Não se preocupe. Não fiz ela fazer trabalho nenhum. Na verdade, nem são ovos de verdade. Só fiz alguns ajustes enquanto visitava Sasagawa.\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400220a07'>\r\n//「<RUBY text='・・・'>振動数</RUBY>が少し変わるように。\r\n//　普通の甲鉄は汚染波を解消して無効にする\r\n//けど、零零式の甲鉄は逆に強化して〝卵〟を\r\n//植えられたのと同じ効果にするってわけ」\r\n\"Sabe, normalmente a armadura de um tsurugi bloqueia a canção de Ginseigo. Mas eu mexi na forma como os Zeros reagem a certas frequências. Em vez de bloquear a canção, eles a amplificam, o que acaba tendo o mesmo efeito que um ovo.\"\r\n"
  },
  {
   "offset": 5921,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400230a00'>\r\n//「……何故そんな細工を」\r\n\"...Why would you do that?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400230a00'>\r\n//「……何故そんな細工を」\r\n\"...Por que você faria isso?\"\r\n"
  },
  {
   "offset": 6082,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400240a07'>\r\n//「鍛造雷弾投下の時、城内が混乱してた方が\r\n//やりやすいだろうって思ったから。\r\n//　もう当初の予定とは丸っきり違った展開に\r\n//なっちゃってるけど――」\r\n\"I figured it'd help if things went all to hell just before they dropped the bomb. The plan㉓<I>itself</I>㉕wound up going all to hell, but I think it's gonna work out.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400240a07'>\r\n//「鍛造雷弾投下の時、城内が混乱してた方が\r\n//やりやすいだろうって思ったから。\r\n//　もう当初の予定とは丸っきり違った展開に\r\n//なっちゃってるけど――」\r\n\"Imaginei que ajudaria se tudo fosse pro inferno pouco antes de lançarem a bomba. O plano <I>em si</I> acabou indo pro inferno, mas acho que vai dar certo.\"\r\n"
  },
  {
   "offset": 6576,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400250a07'>\r\n//「無意味じゃないな。これで防空網は壊滅だ。\r\n//ウォルフとキャノン中佐へのいい<RUBY text='アシスト'>補助</RUBY>になる。\r\n//　何でも手は打っとくもんだねー」\r\n\"This'll wipe out our air defenses, giving Wolf and Cannon the space they need to do their thing. Never hurts to plan ahead, huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400250a07'>\r\n//「無意味じゃないな。これで防空網は壊滅だ。\r\n//ウォルフとキャノン中佐へのいい<RUBY text='アシスト'>補助</RUBY>になる。\r\n//　何でも手は打っとくもんだねー」\r\n\"Isso vai acabar com as nossas defesas antiaéreas, dando a Wolf e Cannon o espaço necessário para fazerem o que precisam. Nunca custa planejar com antecedência, né?\"\r\n"
  },
  {
   "offset": 7028,
@@ -122,21 +122,21 @@
  {
   "offset": 7146,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400270a00'>\r\n//「防空の指揮は、大鳥中将だったな」\r\n\"I believe General Otori is leading our air forces...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0400270a00'>\r\n//「防空の指揮は、大鳥中将だったな」\r\n\"Creio que o general Otori está comandando nossas forças aéreas...\"\r\n"
  },
  {
   "offset": 7349,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400280a07'>\r\n//「……うん」\r\n\"...Yeah.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400280a07'>\r\n//「……うん」\r\n\"...É.\"\r\n"
  },
  {
   "offset": 7484,
   "en": "\r\n//　俺の確認に、一拍の間を置いて茶々丸が頷く。\r\n//　\r\n//　そして――小さな声で。呟いたようだった。\r\n  She pauses... and then, she smiles.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺の確認に、一拍の間を置いて茶々丸が頷く。\r\n//　\r\n//　そして――小さな声で。呟いたようだった。\r\n  Ela faz uma pausa... e então sorri.\r\n"
  },
  {
   "offset": 7677,
   "en": "\r\n//◆微笑\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400290a07'>\r\n//「あばよ、獅子吼」\r\n\"See ya round, Shishiku.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//◆微笑\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0400290a07'>\r\n//「あばよ、獅子吼」\r\n\"Até mais, Shishiku.\"\r\n"
  }
 ]

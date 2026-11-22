@@ -2,7 +2,7 @@
  {
   "offset": 213,
   "en": "\r\n//　……そうして。\r\n//　何という事もない、平凡な日曜は終わった。\r\n\r\n//　一つ寝床の中、温かなものと共に<RUBY text='ふ'>臥</RUBY>す。\r\n  And thus a perfectly ordinary Sunday comes to an ordinary end. I lie in bed, a warmth at my side.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　……そうして。\r\n//　何という事もない、平凡な日曜は終わった。\r\n\r\n//　一つ寝床の中、温かなものと共に<RUBY text='ふ'>臥</RUBY>す。\r\n  E assim um domingo perfeitamente comum chega a um fim comum. Deito-me na cama, com um calor ao meu lado.\r\n\r\n"
  },
  {
   "offset": 508,
@@ -17,17 +17,17 @@
  {
   "offset": 762,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280030a01'>\r\n//「……ね、御堂」\r\n\"...Mido?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280030a01'>\r\n//「……ね、御堂」\r\n\"...Mido?\"\r\n"
  },
  {
   "offset": 900,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0280040a00'>\r\n//「ん……」\r\n\"Mm...?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0280040a00'>\r\n//「ん……」\r\n\"Hmm...?\"\r\n"
  },
  {
   "offset": 1021,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280050a01'>\r\n//「どこか、遠くに行かない？」\r\n\"Let's go somewhere far away...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280050a01'>\r\n//「どこか、遠くに行かない？」\r\n\"Vamos para algum lugar bem longe...\"\r\n"
  },
  {
   "offset": 1199,
@@ -37,27 +37,27 @@
  {
   "offset": 1317,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280070a01'>\r\n//「どこか……静かなところ」\r\n\"...Someplace where it's quiet.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280070a01'>\r\n//「どこか……静かなところ」\r\n\"...Um lugar onde seja quieto.\"\r\n"
  },
  {
   "offset": 1492,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0280080a00'>\r\n//「……そうだな……」\r\n\"Quiet...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0280080a00'>\r\n//「……そうだな……」\r\n\"Quieto...\"\r\n"
  },
  {
   "offset": 1630,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0280090a00'>\r\n//「そうしようか」\r\n\"I like the sound of that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md06/0280090a00'>\r\n//「そうしようか」\r\n\"Gostei da ideia.\"\r\n"
  },
  {
   "offset": 1779,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280100a01'>\r\n//「うん」\r\n\"Mm...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280100a01'>\r\n//「うん」\r\n\"Hmm...\"\r\n"
  },
  {
   "offset": 1902,
   "en": "\r\n//　眠る。\r\n//　沈むように。忘れるように。\r\n  Soon sleep comes, bringing blessed oblivion.\r\n\r\n  Tonight... I sleep to forget.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　眠る。\r\n//　沈むように。忘れるように。\r\n  Logo o sono chega, trazendo um esquecimento abençoado.\r\n\r\n  Hoje à noite... durmo para esquecer.\r\n\r\n"
  },
  {
   "offset": 2059,
@@ -67,26 +67,26 @@
  {
   "offset": 2189,
   "en": "\r\n//　その言葉の空疎さは、口に出す前から知っていた。\r\n  Somewhere quiet. Before the words passed my lips, I knew them for the lie they were.\r\n\r\n//　静かな場所なんてない。\r\n//　争いのない土地なんて、何処にも。\r\n  There is nowhere quiet. Not anymore. We will have to keep running―forever, perhaps―so long as we hope to find peace.\r\n\r\n//　ありもしないものを求めるなら――\r\n//　それは逃げて、ただ逃げ続けるだけの旅路になるの\r\n//だろう。\r\n\r\n//　しかし、例えそうなったとしても、\r\n//　\r\n//　――この人はもう、戦うべきではない。\r\n\r\n//　戦いを忘れて生きるべきだ。\r\n  Even so, it's worth it to try. Kageaki deserves to forget.\r\n",
-  "pt": ""
+  "pt": "\r\n//　その言葉の空疎さは、口に出す前から知っていた。\r\n  Um lugar quieto. Antes mesmo de as palavras saírem dos meus lábios, eu sabia que eram mentira.\r\n\r\n//　静かな場所なんてない。\r\n//　争いのない土地なんて、何処にも。\r\n  Não existe lugar quieto. Não mais. Teremos de continuar fugindo — para sempre, talvez — enquanto tivermos esperança de encontrar paz.\r\n\r\n//　ありもしないものを求めるなら――\r\n//　それは逃げて、ただ逃げ続けるだけの旅路になるの\r\n//だろう。\r\n\r\n//　しかし、例えそうなったとしても、\r\n//　\r\n//　――この人はもう、戦うべきではない。\r\n\r\n//　戦いを忘れて生きるべきだ。\r\n  Mesmo assim, vale a pena tentar. Kageaki merece esquecer.\r\n"
  },
  {
   "offset": 2968,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280120a01'>\r\n//「……っ……」\r\n\"Kuh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280120a01'>\r\n//「……っ……」\r\n\"Kuh...\"\r\n"
  },
  {
   "offset": 3101,
   "en": "\r\n//　その確信。\r\n//　その確信は、一つの苦悶を呼ぶ。\r\n  Of this I am certain, and this certainty brings with it a terrible pain.\r\n\r\n  What is the greatest obstacle to helping him forget?<K>\r\n  The answer is clear. His weapon. His tsurugi.\r\n\r\n  The obstacle is me.\r\n\r\n//　湊斗景明という人に、戦いを忘れさせない決定的な\r\n//要因があるとすれば、それは何か。\r\n\r\n//　武器だ。\r\n//　劒冑だ。\r\n\r\n//　ここにいる<RUBY text='わたし'>村正</RUBY>だ。\r\n\r\n//　私と一緒にいる限り、彼は戦いを、過去の記憶を、\r\n//決して忘れ去れないだろう。\r\n  So long as I remain by his side, the memories of blood and slaughter will haunt him without cease.\r\n\r\n//　――昼間の会話。\r\n//　劒冑になる以外の道を望まなかったし、後悔もして\r\n//いないと言った。\r\n  I would choose this path again, I told him. Becoming a tsurugi. That, I don't regret. \r\n\r\n//　それは本当のこと。\r\n//　けれど、今は……\r\n  I spoke the truth... but of the past. The present? That...\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　その確信。\r\n//　その確信は、一つの苦悶を呼ぶ。\r\n  Disso eu tenho certeza, e essa certeza traz consigo uma dor terrível.\r\n\r\n  Qual é o maior obstáculo para ajudá-lo a esquecer?<K>\r\n  A resposta é clara. Sua arma. Seu tsurugi.\r\n\r\n  O obstáculo sou eu.\r\n\r\n//　湊斗景明という人に、戦いを忘れさせない決定的な\r\n//要因があるとすれば、それは何か。\r\n\r\n//　武器だ。\r\n//　劒冑だ。\r\n\r\n//　ここにいる<RUBY text='わたし'>村正</RUBY>だ。\r\n\r\n//　私と一緒にいる限り、彼は戦いを、過去の記憶を、\r\n//決して忘れ去れないだろう。\r\n  Enquanto eu permanecer ao seu lado, as memórias de sangue e carnificina vão assombrá-lo sem cessar.\r\n\r\n//　――昼間の会話。\r\n//　劒冑になる以外の道を望まなかったし、後悔もして\r\n//いないと言った。\r\n  Eu escolheria este caminho de novo, eu lhe disse. Tornar-me um tsurugi. Disso, não me arrependo.\r\n\r\n//　それは本当のこと。\r\n//　けれど、今は……\r\n  Falei a verdade... mas sobre o passado. O presente? Isso...\r\n\r\n"
  },
  {
   "offset": 4213,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280130a01'>\r\n//（変われるものなら）\r\n(If I could choose...)\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/md06/0280130a01'>\r\n//（変われるものなら）\r\n(Se eu pudesse escolher...)\r\n"
  },
  {
   "offset": 4369,
   "en": "\r\n//　別の何かになりたい。\r\n//　劒冑ではない、別の。\r\n  I would become something else. Not a tsurugi. Not steel. Not might.\r\n\r\n//　鉄でもなく刃でもないものに。\r\n\r\n//　……いま傍らにいる人を。\r\n//　憂いなく抱擁できるものに。\r\n  But something that could give warmth and comfort to the man sleeping by my side.\r\n\r\n",
-  "pt": ""
+  "pt": "\r\n//　別の何かになりたい。\r\n//　劒冑ではない、別の。\r\n  Eu me tornaria outra coisa. Não um tsurugi. Nem aço. Nem poder.\r\n\r\n//　鉄でもなく刃でもないものに。\r\n\r\n//　……いま傍らにいる人を。\r\n//　憂いなく抱擁できるものに。\r\n  Mas algo que pudesse dar calor e conforto ao homem que dorme ao meu lado.\r\n\r\n"
  }
 ]

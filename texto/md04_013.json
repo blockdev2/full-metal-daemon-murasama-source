@@ -2,72 +2,72 @@
  {
   "offset": 213,
   "en": "\r\n//　ひとまずのところ、普陀楽城は健在であった。\r\n//　進駐軍は日没に合わせて攻撃を停止し、海岸方面へ\r\n//撤収していった。\r\n\r\n//　堀越領衆の幕僚団からは追撃の意見具申もあったが、\r\n//おそらく一種の<RUBY text='・・・・'>景気付け</RUBY>のようなもので、本当は誰も\r\n//そんな事ができるなどと考えてはいなかったろう。\r\n//　藤沢口守備隊の死傷率は一割を超えている。\r\n\r\n//　深刻な被害と言わざるを得なかった。\r\n  As night falls, the attacking forces withdraw to the shore. We've managed to hold Fudaraku, for now.\r\n\r\n  Several of Chachamaru's commanders request permission to pursue the enemy, but I recognize this for the ritual it is. The Horigoe detachment is in no shape to mount any such excursion, and they know it. By last count, casualties are over ten percent.\r\n\r\n  Frankly, today was a bloodbath.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ひとまずのところ、普陀楽城は健在であった。\r\n//　進駐軍は日没に合わせて攻撃を停止し、海岸方面へ\r\n//撤収していった。\r\n\r\n//　堀越領衆の幕僚団からは追撃の意見具申もあったが、\r\n//おそらく一種の<RUBY text='・・・・'>景気付け</RUBY>のようなもので、本当は誰も\r\n//そんな事ができるなどと考えてはいなかったろう。\r\n//　藤沢口守備隊の死傷率は一割を超えている。\r\n\r\n//　深刻な被害と言わざるを得なかった。\r\n  Ao cair da noite, as forças atacantes recuam para a costa. Conseguimos manter Fudaraku, por enquanto.\r\n\r\n  Vários comandantes de Chachamaru pedem permissão para perseguir o inimigo, mas reconheço o ritual que isso é. O destacamento de Horigoe não tem condições de empreender nada parecido, e eles sabem disso. Pela última contagem, as baixas passam de dez por cento.\r\n\r\n  Francamente, hoje foi um banho de sangue.\r\n"
  },
  {
   "offset": 1184,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130010a07'>\r\n//「……？\r\n//　どったの、お兄さん」\r\n\"Hmm? Something wrong, big bro?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130010a07'>\r\n//「……？\r\n//　どったの、お兄さん」\r\n\"Hã? Aconteceu alguma coisa, mano?\"\r\n"
  },
  {
   "offset": 1372,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130020a00'>\r\n//「いや……」\r\n\"No...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130020a00'>\r\n//「いや……」\r\n\"Nada...\"\r\n"
  },
  {
   "offset": 1495,
   "en": "\r\n//　ふと足を止める。\r\n//　茶々丸が訝しげに問うてきた。\r\n\r\n//　俺は外の慌しい動きに目を引かれていた。\r\n\r\n//　担架で運ばれる負傷者。\r\n//　搬送手段を待っていられなかったのか、僚友に背負\r\n//われて医療所へ向かう片足の無い兵士。\r\n\r\n//　担架で運ばれる<RUBY text='・・・・・・'>動かないもの</RUBY>。\r\n//　道端に放置されている、やはりもう動かない何か。\r\n//誰もが気付かず、あるいは誰もが気付きながら、彼は\r\n//そこに捨て置かれている……。\r\n  Chachamaru wonders why I've stopped walking.\r\n\r\n  As I said, there's nothing wrong. I was simply... taking in the chaos.\r\n\r\n  The courtyard is full to brimming with casualties. I see stretcher teams racing to collect the wounded, and here and there, men who could not wait carried on the backs of their comrades, blood dripping from the stump of an arm or a leg.\r\n\r\n  And then, of course, there are those beyond helping, little islands of㉓<I>stillness</I>㉓in a frothing sea of pain. \r\n  One goes by now, carried on a stretcher. There's another, lying on the open grass like a discarded toy. Nobody seems to notice him. Or perhaps㉓<I>everyone</I>㉓does.\r\n",
-  "pt": ""
+  "pt": "\r\n//　ふと足を止める。\r\n//　茶々丸が訝しげに問うてきた。\r\n\r\n//　俺は外の慌しい動きに目を引かれていた。\r\n\r\n//　担架で運ばれる負傷者。\r\n//　搬送手段を待っていられなかったのか、僚友に背負\r\n//われて医療所へ向かう片足の無い兵士。\r\n\r\n//　担架で運ばれる<RUBY text='・・・・・・'>動かないもの</RUBY>。\r\n//　道端に放置されている、やはりもう動かない何か。\r\n//誰もが気付かず、あるいは誰もが気付きながら、彼は\r\n//そこに捨て置かれている……。\r\n  Chachamaru estranha eu ter parado de andar.\r\n\r\n  Como eu disse, não há nada de errado. Eu estava apenas... absorvendo o caos.\r\n\r\n  O pátio transborda de feridos. Vejo equipes de maca correndo para recolher os feridos e, aqui e ali, homens que não podiam esperar, carregados nas costas dos companheiros, sangue pingando do coto de um braço ou de uma perna.\r\n\r\n  E depois, é claro, há aqueles que já não têm salvação, pequenas ilhas de㉓<I>imobilidade</I>㉓num mar espumante de dor.\r\n  Um passa agora, levado numa maca. Há outro, deitado no gramado aberto como um brinquedo descartado. Ninguém parece notá-lo. Ou talvez㉓<I>todos</I>㉓percebam.\r\n"
  },
  {
   "offset": 2778,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130030a00'>\r\n//「死んでいるな」\r\n\"That man is dead.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130030a00'>\r\n//「死んでいるな」\r\n\"Aquele homem está morto.\"\r\n"
  },
  {
   "offset": 2919,
   "en": "\r\n//　わかり切った事実を、俺は口にした。\r\n  It hardly bears mentioning, but I can't contain the urge.\r\n",
-  "pt": ""
+  "pt": "\r\n//　わかり切った事実を、俺は口にした。\r\n  É quase desnecessário dizer, mas não consigo conter o impulso.\r\n"
  },
  {
   "offset": 3048,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130040a00'>\r\n//「死臭がする。\r\n//　あちらこちらから」\r\n\"Death is everywhere today. I can smell it in the air.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130040a00'>\r\n//「死臭がする。\r\n//　あちらこちらから」\r\n\"A morte está por toda parte hoje. Sinto o cheiro dela no ar.\"\r\n"
  },
  {
   "offset": 3256,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130050a00'>\r\n//「城の空気が死に澱んできた。\r\n//　馴染みの空気だ」\r\n\"Blood, rot, burning flesh. I know it well.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130050a00'>\r\n//「城の空気が死に澱んできた。\r\n//　馴染みの空気だ」\r\n\"Sangue, podridão, carne queimada. Conheço bem.\"\r\n"
  },
  {
   "offset": 3471,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130060a00'>\r\n//「吐き気がする……」\r\n\"This sickening stench...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/md04/0130060a00'>\r\n//「吐き気がする……」\r\n\"Este fedor nauseante...\"\r\n"
  },
  {
   "offset": 3625,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130070a07'>\r\n//「そうだね」\r\n\"Yeah. A lot of men died here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130070a07'>\r\n//「そうだね」\r\n\"É. Muitos homens morreram aqui.\"\r\n"
  },
  {
   "offset": 3781,
   "en": "\r\n//　茶々丸は<RUBY text='わら'>微笑</RUBY>った。\r\n\r\n//　少女らしく微笑んで、俺の耳元に囁いた。\r\n  Chachamaru smiles. For a moment, she looks like any other girl.\r\n",
-  "pt": ""
+  "pt": "\r\n//　茶々丸は<RUBY text='わら'>微笑</RUBY>った。\r\n\r\n//　少女らしく微笑んで、俺の耳元に囁いた。\r\n  Chachamaru sorri. Por um instante, parece uma garota qualquer.\r\n"
  },
  {
   "offset": 3985,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130080a07'>\r\n//「けど、こんなものじゃない。\r\n//　まだまだ死ぬ」\r\n\"But this is only the beginning,\" she whispers in my ear. \"The deaths will keep coming.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130080a07'>\r\n//「けど、こんなものじゃない。\r\n//　まだまだ死ぬ」\r\n\"Mas isto é só o começo\", ela sussurra no meu ouvido. \"As mortes vão continuar.\"\r\n"
  },
  {
   "offset": 4250,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130090a07'>\r\n//「死に続ける」\r\n\"Tomorrow, the next day, and the day after that.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130090a07'>\r\n//「死に続ける」\r\n\"Amanhã, depois de amanhã e no dia seguinte.\"\r\n"
  },
  {
   "offset": 4427,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130100a07'>\r\n//「……最後には、<RUBY text='・・・'>みんな</RUBY>」\r\n\"And in the end, there'll be <I>no one</I>㉓left.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130100a07'>\r\n//「……最後には、<RUBY text='・・・'>みんな</RUBY>」\r\n\"E no fim, não vai sobrar <I>ninguém</I>㉓.\"\r\n"
  },
  {
   "offset": 4651,
@@ -77,162 +77,162 @@
  {
   "offset": 4775,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130120a09'>\r\n//「小弓御所は陥ちた様子でござる。\r\n//　先刻、急報があり申した」\r\n\"Oyumi has fallen. We received confirmation not minutes ago.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130120a09'>\r\n//「小弓御所は陥ちた様子でござる。\r\n//　先刻、急報があり申した」\r\n\"Oyumi caiu. A confirmação chegou há instantes.\"\r\n"
  },
  {
   "offset": 5025,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130130a08'>\r\n//「……そうですか」\r\n\"So it's true...\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130140a08'>\r\n//「童心様、申し訳ございません。\r\n//　小弓を預かる公方としてお詫びいたします」\r\n\"As governor of Oyumi, I offer my abject apology for this failure.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130130a08'>\r\n//「……そうですか」\r\n\"Então é verdade...\"\r\n\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130140a08'>\r\n//「童心様、申し訳ございません。\r\n//　小弓を預かる公方としてお詫びいたします」\r\n\"Como governadora de Oyumi, apresento minhas mais profundas desculpas por este fracasso.\"\r\n"
  },
  {
   "offset": 5436,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130150a09'>\r\n//「いやいや、頭などお下げになるな。\r\n//　小弓の件は致し方なき事。雷蝶殿は普陀楽\r\n//で奮闘しておられたのだからのう」\r\n\"Please, lift your head. Your performance today was exemplary. And besides, Oyumi was beyond saving.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130150a09'>\r\n//「いやいや、頭などお下げになるな。\r\n//　小弓の件は致し方なき事。雷蝶殿は普陀楽\r\n//で奮闘しておられたのだからのう」\r\n\"Por favor, levante a cabeça. Seu desempenho hoje foi exemplar. E, além disso, Oyumi já não tinha salvação.\"\r\n"
  },
  {
   "offset": 5802,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130160a07'>\r\n//「進駐軍に先手を打たれたら小弓はあっさり\r\n//陥ちるって、最初からわかってたじゃねえか。\r\n//　攻めるにはいいけど守るにはてんで不向き\r\n//だからな、あそこ」\r\n\"We were always gonna lose Oyumi. You know that. The place just isn't defensible.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130160a07'>\r\n//「進駐軍に先手を打たれたら小弓はあっさり\r\n//陥ちるって、最初からわかってたじゃねえか。\r\n//　攻めるにはいいけど守るにはてんで不向き\r\n//だからな、あそこ」\r\n\"A gente sempre ia perder Oyumi. Você sabe disso. Aquele lugar simplesmente não dá pra defender.\"\r\n"
  },
  {
   "offset": 6213,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130170a09'>\r\n//「さようさよう。\r\n//　雷蝶殿、気に病まれてはなりませぬぞ。今\r\n//は目の前の敵に集中せねば」\r\n\"Indeed. You mustn't lose heart, Raicho. We must focus on the battles we can still win.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130170a09'>\r\n//「さようさよう。\r\n//　雷蝶殿、気に病まれてはなりませぬぞ。今\r\n//は目の前の敵に集中せねば」\r\n\"Exatamente. Não deve desanimar, Raicho. Precisamos nos concentrar nas batalhas que ainda podemos vencer.\"\r\n"
  },
  {
   "offset": 6530,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130180a08'>\r\n//「……ええ……」\r\n\"Yes... you're right.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130180a08'>\r\n//「……ええ……」\r\n\"Sim... você tem razão.\"\r\n"
  },
  {
   "offset": 6674,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130190a07'>\r\n//「童心坊主、獅子吼からの連絡はあった？」\r\n\"Have we heard anything from Shishiku?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130190a07'>\r\n//「童心坊主、獅子吼からの連絡はあった？」\r\n\"Tivemos alguma notícia de Shishiku?\"\r\n"
  },
  {
   "offset": 6880,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130200a09'>\r\n//「ござらぬ。\r\n//　敵の信号妨害が特に北東方面は厳しいよう\r\n//でござっての」\r\n\"No, nothing. The enemy's signal jamming is particularly strong in the northeast.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130200a09'>\r\n//「ござらぬ。\r\n//　敵の信号妨害が特に北東方面は厳しいよう\r\n//でござっての」\r\n\"Não, nada. A interferência de sinais do inimigo está especialmente forte no nordeste.\"\r\n"
  },
  {
   "offset": 7167,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130210a07'>\r\n//「そーかぁ……。\r\n//　まぁいいや。どうせまだ篠川領に入ったか\r\n//どうかってところだろうしな」\r\n\"Nothing, huh? Well, he's probably only just crossed the border anyway.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130210a07'>\r\n//「そーかぁ……。\r\n//　まぁいいや。どうせまだ篠川領に入ったか\r\n//どうかってところだろうしな」\r\n\"Nada, é? Bom, ele provavelmente acabou de cruzar a fronteira, de qualquer forma.\"\r\n"
  },
  {
   "offset": 7480,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130220a09'>\r\n//「あと二日……\r\n//　いや三日は耐えねばなりますまい」\r\n\"Another two... no, three days before we can expect relief.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130220a09'>\r\n//「あと二日……\r\n//　いや三日は耐えねばなりますまい」\r\n\"Mais dois... não, três dias antes de podermos esperar reforços.\"\r\n"
  },
  {
   "offset": 7714,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130230a07'>\r\n//「三日と見ても、厳しいところだな。\r\n//　二重の意味で」\r\n\"Three days is gonna be tough. There's more than one way things can go south.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130230a07'>\r\n//「三日と見ても、厳しいところだな。\r\n//　二重の意味で」\r\n\"Três dias vai ser duro. Tem mais de um jeito de tudo dar errado.\"\r\n"
  },
  {
   "offset": 7978,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130240a08'>\r\n//「三日で獅子吼が援軍に来られるか。\r\n//　あと三日、普陀楽を守り抜けるか」\r\n\"Either Shishiku doesn't make it back, or we lose the castle before he does.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130240a08'>\r\n//「三日で獅子吼が援軍に来られるか。\r\n//　あと三日、普陀楽を守り抜けるか」\r\n\"Ou Shishiku não chega a tempo, ou perdemos o castelo antes de ele chegar.\"\r\n"
  },
  {
   "offset": 8259,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130250a08'>\r\n//「……ということ？」\r\n\"Is that what you mean?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130250a08'>\r\n//「……ということ？」\r\n\"É isso que você quer dizer?\"\r\n"
  },
  {
   "offset": 8411,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130260a07'>\r\n//「うん」\r\n\"Yeah.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130260a07'>\r\n//「うん」\r\n\"É.\"\r\n"
  },
  {
   "offset": 8537,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130270a08'>\r\n//「そうね……」\r\n\"Thought so...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130270a08'>\r\n//「そうね……」\r\n\"Imaginei...\"\r\n"
  },
  {
   "offset": 8671,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130280a09'>\r\n//「大船口の小弓、藤沢口の堀越、両御領衆の\r\n//状況は如何でござる？」\r\n\"How are your detachments holding up?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130280a09'>\r\n//「大船口の小弓、藤沢口の堀越、両御領衆の\r\n//状況は如何でござる？」\r\n\"Como estão seus destacamentos?\"\r\n"
  },
  {
   "offset": 8904,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130290a08'>\r\n//「あまり明るくはありません」\r\n\"Not well, I'm afraid.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130290a08'>\r\n//「あまり明るくはありません」\r\n\"Não muito bem, receio.\"\r\n"
  },
  {
   "offset": 9067,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130300a07'>\r\n//「うちも。\r\n//　今日一日でガリガリ削られましたよ」\r\n\"Same here. They really chewed us up good.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130300a07'>\r\n//「うちも。\r\n//　今日一日でガリガリ削られましたよ」\r\n\"Aqui também. Eles nos moeram de verdade.\"\r\n"
  },
  {
   "offset": 9290,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130310a07'>\r\n//「予備隊を一部回してくれない？\r\n//　でないと明日はもう保たねえわ」\r\n\"Think I could get a few more units? Not sure I can hold the wall without 'em.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130310a07'>\r\n//「予備隊を一部回してくれない？\r\n//　でないと明日はもう保たねえわ」\r\n\"Acha que eu podia conseguir mais algumas unidades? Não sei se seguro a muralha sem elas.\"\r\n"
  },
  {
   "offset": 9573,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130320a09'>\r\n//「承知いたした。\r\n//　後程、取り計らいましょうぞ」\r\n\"Certainly. I'll see to it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130320a09'>\r\n//「承知いたした。\r\n//　後程、取り計らいましょうぞ」\r\n\"Certamente. Vou providenciar.\"\r\n"
  },
  {
   "offset": 9772,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130330a07'>\r\n//「…………。\r\n//　陸の上は退いたが、空からの爆撃は夜通し\r\n//やるつもりらしいな」\r\n\"...Shit. Guess their bombers are gonna keep that up all night, huh?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130330a07'>\r\n//「…………。\r\n//　陸の上は退いたが、空からの爆撃は夜通し\r\n//やるつもりらしいな」\r\n\"...Merda. Acho que os bombardeiros deles vão continuar com isso a noite toda, é?\"\r\n"
  },
  {
   "offset": 10064,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130340a09'>\r\n//「闇の中の盲撃ちでも、城の中心部を狙って\r\n//落とせば何処かには当たるからのう。\r\n//　直接の戦果はさほど期待できずとも、我ら\r\n//の眠りを妨げるだけで充分に意味はあり申す」\r\n\"So long as they aim for the center of the castle, they need not worry that their bombs might land on Kamakura. They are unlikely to do much damage, but they can try to deny us sleep.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130340a09'>\r\n//「闇の中の盲撃ちでも、城の中心部を狙って\r\n//落とせば何処かには当たるからのう。\r\n//　直接の戦果はさほど期待できずとも、我ら\r\n//の眠りを妨げるだけで充分に意味はあり申す」\r\n\"Contanto que mirem no centro do castelo, não precisam se preocupar que suas bombas caiam em Kamakura. É improvável que causem muito dano, mas podem tentar nos privar do sono.\"\r\n"
  },
  {
   "offset": 10592,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130350a07'>\r\n//「迷惑な話だ。\r\n//　ちっとは手ぇ抜けよ」\r\n\"Do they have to try so damn hard?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130350a07'>\r\n//「迷惑な話だ。\r\n//　ちっとは手ぇ抜けよ」\r\n\"Será que eles precisam se esforçar tanto assim?\"\r\n"
  },
  {
   "offset": 10792,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130360a08'>\r\n//「向こうに聴こえるように言ったら？」\r\n\"Perhaps you should ask them to go easy on us.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130360a08'>\r\n//「向こうに聴こえるように言ったら？」\r\n\"Talvez você devesse pedir que eles pegassem leve com a gente.\"\r\n"
  },
  {
   "offset": 10991,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130370a07'>\r\n//「お願いしろってか。\r\n//　それでオッケーもらえるようなら最初から\r\n//戦争なんてやってねえよ、あてら」\r\n\"Yeah, right. If there was a chance they'd listen, we wouldn't be killing each other in the first place.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130370a07'>\r\n//「お願いしろってか。\r\n//　それでオッケーもらえるようなら最初から\r\n//戦争なんてやってねえよ、あてら」\r\n\"Claro, até parece. Se houvesse chance de eles ouvirem, a gente não estaria se matando desde o começo.\"\r\n"
  },
  {
   "offset": 11349,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130380a09'>\r\n//「ふっふぅ……まったくまったく。\r\n//　それよりはましな思案がひとつござるが、\r\n//お聞き頂けますかな」\r\n\"Heh. Very true. Fortunately, I have a better idea.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130380a09'>\r\n//「ふっふぅ……まったくまったく。\r\n//　それよりはましな思案がひとつござるが、\r\n//お聞き頂けますかな」\r\n\"Hehe. Muito verdade. Felizmente, tenho uma ideia melhor.\"\r\n"
  },
  {
   "offset": 11645,
   "en": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130390a08'>\r\n//「何でしょう？」\r\n\"What might that be, Reverend?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【雷蝶】\r\n<voice name='雷蝶' class='雷蝶' src='voice/md04/0130390a08'>\r\n//「何でしょう？」\r\nE o que seria isso, Reverendo?\r\n"
  },
  {
   "offset": 11798,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130400a09'>\r\n//「や、なに。\r\n//　やられっ放しでいるのもつまらなかろうと、\r\n//それだけのことでござるよ」\r\n\"Oh, just a little excursion. Something to give our friends a real taste of war.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130400a09'>\r\n//「や、なに。\r\n//　やられっ放しでいるのもつまらなかろうと、\r\n//それだけのことでござるよ」\r\nAh, apenas um pequeno passeio. Algo para dar aos nossos amigos um gostinho de verdade da guerra.\r\n"
  },
  {
   "offset": 12105,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130410a07'>\r\n//「…………そりゃ上等だ。\r\n//　でも、どの兵を動かす？」\r\n\"I like the sound of that. But who'll we send?\"\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130420a07'>\r\n//「<RUBY text='こっち'>堀越領衆</RUBY>にはそんな余裕ねーぞ。\r\n//　予備隊か？」\r\n\"My guys are right out. You wanna use the reserve?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130410a07'>\r\n//「…………そりゃ上等だ。\r\n//　でも、どの兵を動かす？」\r\nGostei de ouvir isso. Mas quem a gente manda?\r\n\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130420a07'>\r\n//「<RUBY text='こっち'>堀越領衆</RUBY>にはそんな余裕ねーぞ。\r\n//　予備隊か？」\r\nOs meus estão fora. Quer usar a reserva?\r\n"
  },
  {
   "offset": 12591,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130430a09'>\r\n//「いやいや。\r\n//　予備隊は慎重に使わねばなりますまい」\r\n\"No. We must be careful with how we spend our reserves.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130430a09'>\r\n//「いやいや。\r\n//　予備隊は慎重に使わねばなりますまい」\r\nNão. Devemos ter cuidado com o modo como empregamos nossas reservas.\r\n"
  },
  {
   "offset": 12824,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130440a09'>\r\n//「もっと適した者どもがおり申す」\r\n\"Luckily, we have just the men for the job.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130440a09'>\r\n//「もっと適した者どもがおり申す」\r\nPor sorte, temos exatamente os homens certos para a tarefa.\r\n"
  },
  {
   "offset": 13014,
   "en": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130450a07'>\r\n//「……あぁ。そうか。\r\n//　いたな」\r\n\"...Oh yeah. We do, don't <br>we?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【茶々丸】\r\n<voice name='茶々丸' class='茶々丸' src='voice/md04/0130450a07'>\r\n//「……あぁ。そうか。\r\n//　いたな」\r\n...Ah, é. Temos mesmo, não temos?\r\n"
  },
  {
   "offset": 13204,
@@ -242,16 +242,16 @@
  {
   "offset": 13328,
   "en": "\r\n//　茶々丸が背後の俺を――いや、俺の更に後方を流し\r\n//見る。\r\n//　俺も予感するものがあって、同時にそちらへ視線を\r\n//投げていた。\r\n\r\n//　……音もなく、風も揺らさず。\r\n//　その男はいつからか、そこに控えていたようだ。\r\n  Chachamaru turns to look at me―no, <I>past</I>㉑me. Feeling a chill, I follow her gaze.\r\n\r\n  And there he is, silent and still as a shadow. Were it not for Chachamaru, I would never have known he was there.\r\n",
-  "pt": ""
+  "pt": "\r\n//　茶々丸が背後の俺を――いや、俺の更に後方を流し\r\n//見る。\r\n//　俺も予感するものがあって、同時にそちらへ視線を\r\n//投げていた。\r\n\r\n//　……音もなく、風も揺らさず。\r\n//　その男はいつからか、そこに控えていたようだ。\r\n  Chachamaru vira o olhar na minha direção — não, <I>para além</I>㉑ de mim. Com um arrepio, sigo o olhar dela.\r\n\r\n  E lá está ele, silencioso e imóvel como uma sombra. Não fosse por Chachamaru, eu jamais teria percebido que ele estava ali.\r\n"
  },
  {
   "offset": 13862,
   "en": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130470a09'>\r\n//「頼めるかな、常闇斎？」\r\n\"Are your men up to the task, Jo'ansai?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【童心】\r\n<voice name='童心' class='童心' src='voice/md04/0130470a09'>\r\n//「頼めるかな、常闇斎？」\r\nOs seus homens estão à altura da missão, Jo'ansai?\r\n"
  },
  {
   "offset": 14036,
   "en": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0130480b37'>\r\n//「無論の事でございます。\r\n//　しからば、直ちに」\r\n\"Of course, General. I will see to it at once.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【常闇斎】\r\n<voice name='常闇斎' class='常闇斎' src='voice/md04/0130480b37'>\r\n//「無論の事でございます。\r\n//　しからば、直ちに」\r\nCertamente, General. Cuidarei disso imediatamente.\r\n"
  }
 ]

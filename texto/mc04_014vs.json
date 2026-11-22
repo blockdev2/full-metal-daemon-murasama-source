@@ -2,42 +2,42 @@
  {
   "offset": 215,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0010a01'>\r\n//《御堂、この辺り！\r\n//　この――下！》\r\n《Mido, here! It's right below us!》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0010a01'>\r\n//《御堂、この辺り！\r\n//　この――下！》\r\n《Mido, aqui! Está bem embaixo de nós!》\r\n"
  },
  {
   "offset": 414,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0020a00'>\r\n//「そうか」\r\n\"Below?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0020a00'>\r\n//「そうか」\r\n\"Embaixo?\"\r\n"
  },
  {
   "offset": 537,
   "en": "\r\n//　その場に停止する。\r\n//　しかし、足元にあるのは床だけだ。\r\n\r\n//　都合良く地下への入口が備えられていたりはしない。\r\n//　周囲にも見当たらなかった。\r\n  I stop and look down, but see only floor. We have passed no stairs or other obvious passages that might lead underground.\r\n",
-  "pt": ""
+  "pt": "\r\n//　その場に停止する。\r\n//　しかし、足元にあるのは床だけだ。\r\n\r\n//　都合良く地下への入口が備えられていたりはしない。\r\n//　周囲にも見当たらなかった。\r\n  Paro e olho para baixo, mas vejo apenas o chão. Não passamos por escadas nem por outras passagens óbvias que possam levar ao subsolo.\r\n"
  },
  {
   "offset": 888,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0030a00'>\r\n//「<RUBY text='けはい'>香気</RUBY>の様子は」\r\n\"Describe the signal.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0030a00'>\r\n//「<RUBY text='けはい'>香気</RUBY>の様子は」\r\n\"Descreva o sinal.\"\r\n"
  },
  {
   "offset": 1064,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0040a01'>\r\n//《とにかく異常よ。相変わらず。ほかに言い\r\n//ようが見つからない。\r\n//　……<RUBY text='かかさま'>銀星号</RUBY>は一体、何をしてるのかしら》\r\n《It's... weird. I don't know how else to describe it. I've never felt anything like this before. What in the world is Mother doing?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0040a01'>\r\n//《とにかく異常よ。相変わらず。ほかに言い\r\n//ようが見つからない。\r\n//　……<RUBY text='かかさま'>銀星号</RUBY>は一体、何をしてるのかしら》\r\n《É... estranho. Não sei como descrever de outro jeito. Nunca senti nada parecido antes. O que foi que a Mamãe está fazendo, afinal?》\r\n"
  },
  {
   "offset": 1497,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0050a00'>\r\n//「やはり強行突破は危険か。\r\n//　そうなると――」\r\n\"Whatever the case, we should exercise caution.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0050a00'>\r\n//「やはり強行突破は危険か。\r\n//　そうなると――」\r\n\"De qualquer forma, é melhor agirmos com cautela.\"\r\n"
  },
  {
   "offset": 1715,
   "en": "\r\n//　急がば回るべしの<RUBY text='しんげん'>箴言</RUBY>に従うしかないのだが。\r\n//　望むらくは無駄を最小限にしたい。\r\n  The last thing we want is to trigger a massacre in Sasagawa.\r\n\r\n  So, how to get to the basement without breaking through the floor? I regret not asking the captain for a detailed plan of the manor. We'll have to keep looking for an entrance, or failing that―\r\n\r\n//　大鳥大尉に館の構造の詳細を訊いておけば良かった\r\n//のだが、これは後の祭りというものだ。\r\n//　さて、手当たり次第に探し回る以外に、何か方法は\r\n//あるだろうか。もう少しましな手立ては――\r\n",
-  "pt": ""
+  "pt": "\r\n//　急がば回るべしの<RUBY text='しんげん'>箴言</RUBY>に従うしかないのだが。\r\n//　望むらくは無駄を最小限にしたい。\r\n  A última coisa que queremos é provocar um massacre em Sasagawa.\r\n\r\n  Então, como chegar ao porão sem atravessar o piso? Me arrependo de não ter pedido ao capitão um plano detalhado da mansão. Vamos ter que continuar procurando uma entrada ou, na falta dela―\r\n\r\n//　大鳥大尉に館の構造の詳細を訊いておけば良かった\r\n//のだが、これは後の祭りというものだ。\r\n//　さて、手当たり次第に探し回る以外に、何か方法は\r\n//あるだろうか。もう少しましな手立ては――\r\n"
  },
  {
   "offset": 2424,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｓ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｓ' class='その他男声' src='voice/mc04/014vs0060e189'>\r\n//「うおっ!?」\r\n\"Whoa!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｓ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｓ' class='その他男声' src='voice/mc04/014vs0060e189'>\r\n//「うおっ!?」\r\n\"Uou!\"\r\n"
  },
  {
   "offset": 2600,
@@ -47,12 +47,12 @@
  {
   "offset": 2715,
   "en": "\r\n//　脇の廊下から飛び出してきた兵士が、俺を認めるや\r\n//ぎょっとして立ち<RUBY text='すく'>竦</RUBY>む。\r\n//　刹那、俺は考えるより先に動いていた。\r\n\r\n//　兵士に飛び掛かり、押さえ付ける。\r\n  My body reacts faster than thought, grabbing the soldier who appeared from the hall and pinning him to the ground.\r\n",
-  "pt": ""
+  "pt": "\r\n//　脇の廊下から飛び出してきた兵士が、俺を認めるや\r\n//ぎょっとして立ち<RUBY text='すく'>竦</RUBY>む。\r\n//　刹那、俺は考えるより先に動いていた。\r\n\r\n//　兵士に飛び掛かり、押さえ付ける。\r\n  Meu corpo reage antes do pensamento: agarro o soldado que surgiu do corredor e o imobilizo no chão.\r\n"
  },
  {
   "offset": 3101,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｓ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｓ' class='その他男声' src='voice/mc04/014vs0080e189'>\r\n//「――ひ――」\r\n\"Ah―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｓ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｓ' class='その他男声' src='voice/mc04/014vs0080e189'>\r\n//「――ひ――」\r\n\"Ah—\"\r\n"
  },
  {
   "offset": 3281,
@@ -62,12 +62,12 @@
  {
   "offset": 3401,
   "en": "\r\n//　顔を見れば、まだ若い。\r\n//　瞳の揺れに恐怖を察して、俺はその時初めて、自分\r\n//の行動が何を目的とするのか<RUBY text='・・・・・'>考えついた</RUBY>。\r\n  When I see the terror in the young man's eyes, only then do I realize the purpose of my act.\r\n\r\n//　己の安直な発想にうんざりとしながら、仕方もなく\r\n//続ける。\r\n  It is an artless maneuver, if I say so myself. Still, no choice but to play it out. \r\n",
-  "pt": ""
+  "pt": "\r\n//　顔を見れば、まだ若い。\r\n//　瞳の揺れに恐怖を察して、俺はその時初めて、自分\r\n//の行動が何を目的とするのか<RUBY text='・・・・・'>考えついた</RUBY>。\r\n  Ao ver o terror nos olhos do rapaz, só então percebo o propósito do meu ato.\r\n\r\n//　己の安直な発想にうんざりとしながら、仕方もなく\r\n//続ける。\r\n  É uma artimanha sem requinte, se é que posso dizer. Ainda assim, não há escolha senão levá-la até o fim.\r\n"
  },
  {
   "offset": 3902,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0100a00'>\r\n//「当方には貴方を殺害する用意がある」\r\n\"I could end your life here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0100a00'>\r\n//「当方には貴方を殺害する用意がある」\r\n\"Posso pôr fim à sua vida aqui.\"\r\n"
  },
  {
   "offset": 4085,
@@ -77,7 +77,7 @@
  {
   "offset": 4255,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0120a00'>\r\n//「しかし、解放する用意もある。\r\n//　貴方が当方の要求に沿うならば、後者の側\r\n//を実行に移すであろう」\r\n\"However, I am willing to let you live, provided that you cooperate fully.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0120a00'>\r\n//「しかし、解放する用意もある。\r\n//　貴方が当方の要求に沿うならば、後者の側\r\n//を実行に移すであろう」\r\n\"Contudo, também estou disposto a poupá-lo, desde que colabore plenamente.\"\r\n"
  },
  {
   "offset": 4576,
@@ -87,57 +87,57 @@
  {
   "offset": 4754,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0140a00'>\r\n//「この館に地下室は存在するか？」\r\n\"Does this manor have a basement?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0140a00'>\r\n//「この館に地下室は存在するか？」\r\n\"Esta mansão possui um porão?\"\r\n"
  },
  {
   "offset": 4936,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｓ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｓ' class='その他男声' src='voice/mc04/014vs0150e189'>\r\n//「あ……ある」\r\n\"Y- Yes...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｓ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｓ' class='その他男声' src='voice/mc04/014vs0150e189'>\r\n//「あ……ある」\r\n\"A... sim...\"\r\n"
  },
  {
   "offset": 5120,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0160a00'>\r\n//「そこへ行く方法は？」\r\n\"How do I get there?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0160a00'>\r\n//「そこへ行く方法は？」\r\n\"Como chego lá?\"\r\n"
  },
  {
   "offset": 5274,
   "en": "\r\n//【ｅｔｃ／大鳥兵士Ｓ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｓ' class='その他男声' src='voice/mc04/014vs0170e189'>\r\n//「……そこの角を曲がって……\r\n//　突き当たりのＴ字路を左に折れれば、階段\r\n//が――」\r\n\"Go... around that corner... then the next left... there's stairs...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／大鳥兵士Ｓ】\r\n<voice name='ｅｔｃ／大鳥兵士Ｓ' class='その他男声' src='voice/mc04/014vs0170e189'>\r\n//「……そこの角を曲がって……\r\n//　突き当たりのＴ字路を左に折れれば、階段\r\n//が――」\r\n\"Vá... dobrando aquela esquina... depois a próxima à esquerda... tem uma escada...\"\r\n"
  },
  {
   "offset": 5617,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0180a00'>\r\n//「感謝する」\r\n\"Thank you.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0180a00'>\r\n//「感謝する」\r\n\"Agradeço.\"\r\n"
  },
  {
   "offset": 5747,
   "en": "\r\n//　頚動脈を約十秒間圧迫し、彼の意識を失わせてから\r\n//立ち上がる。\r\n//　通路の真ん中に転がしておいては踏まれるかもしれ\r\n//ないので、壁際へ寄せておいた。\r\n  A few seconds of pressure to the carotid artery lays the man out flat. I shift him to the side where no one will step on him, then stand and turn down the hall.\r\n",
-  "pt": ""
+  "pt": "\r\n//　頚動脈を約十秒間圧迫し、彼の意識を失わせてから\r\n//立ち上がる。\r\n//　通路の真ん中に転がしておいては踏まれるかもしれ\r\n//ないので、壁際へ寄せておいた。\r\n  Alguns segundos de pressão na artéria carótida bastam para apagá-lo. Afasto-o para junto da parede, onde ninguém vai pisar nele, e então me levanto e sigo pelo corredor.\r\n"
  },
  {
   "offset": 6144,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0190a01'>\r\n//《なかなかの暴漢ぶりね》\r\n《That was forceful.》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0190a01'>\r\n//《なかなかの暴漢ぶりね》\r\n《Isso foi bem bruto.》\r\n"
  },
  {
   "offset": 6310,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0200a00'>\r\n//「放っておけ」\r\n\"Leave it.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0200a00'>\r\n//「放っておけ」\r\n\"Deixe para lá.\"\r\n"
  },
  {
   "offset": 6442,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0210a01'>\r\n//《そこの角を曲がって真っ直ぐ？》\r\n《Take that corner?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0210a01'>\r\n//《そこの角を曲がって真っ直ぐ？》\r\n《Dobrar aquela esquina?》\r\n"
  },
  {
   "offset": 6619,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0220a00'>\r\n//「そして左折。\r\n//　行くぞ」\r\n\"Then the next left. Let's hurry.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0220a00'>\r\n//「そして左折。\r\n//　行くぞ」\r\n\"E depois à esquerda. Vamos logo.\"\r\n"
  },
  {
   "offset": 6793,
   "en": "\r\n//　少なくとも兵士の話が完全な<RUBY text='でたらめ'>出鱈目</RUBY>でない事はすぐ\r\n//に確認できた。\r\n//　角を曲がった奥には確かにＴ字路が見える。\r\n\r\n//　が。\r\n//　その前に一つ、問題があった。\r\n  About the intersection, at least, the man was not lying. But before I can learn if the staircase exists, I encounter a fresh new problem.\r\n",
-  "pt": ""
+  "pt": "\r\n//　少なくとも兵士の話が完全な<RUBY text='でたらめ'>出鱈目</RUBY>でない事はすぐ\r\n//に確認できた。\r\n//　角を曲がった奥には確かにＴ字路が見える。\r\n\r\n//　が。\r\n//　その前に一つ、問題があった。\r\n  Ao menos quanto ao cruzamento, o homem não mentira. Mas antes que eu possa confirmar se a escada existe, encontro um novo problema.\r\n"
  },
  {
   "offset": 7209,
@@ -152,162 +152,162 @@
  {
   "offset": 7470,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0250a00'>\r\n//「貴方に用はないのだが……」\r\n\"You're not supposed to be here.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0250a00'>\r\n//「貴方に用はないのだが……」\r\n\"Você não deveria estar aqui.\"\r\n"
  },
  {
   "offset": 7645,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0260a06'>\r\n//「俺の言う事だ！」\r\n\"And you are!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0260a06'>\r\n//「俺の言う事だ！」\r\n\"E quem é você!?\"\r\n"
  },
  {
   "offset": 7796,
   "en": "\r\n//　頬を歪めて吐き捨てる。\r\n//　その男――大鳥獅子吼。\r\n\r\n//　真っ向からぶつかる形の再会であった。\r\n　The general is there, not five paces away. Behind him, three musha guard a boy in noble dress.\r\n\r\n//　彼の後ろには武者が三騎。そして、一見して貴種と\r\n//知れる少年。\r\n",
-  "pt": ""
+  "pt": "\r\n//　頬を歪めて吐き捨てる。\r\n//　その男――大鳥獅子吼。\r\n\r\n//　真っ向からぶつかる形の再会であった。\r\n　O general está ali, a menos de cinco passos. Atrás dele, três musha guardam um jovem de trajes nobres.\r\n\r\n//　彼の後ろには武者が三騎。そして、一見して貴種と\r\n//知れる少年。\r\n"
  },
  {
   "offset": 8148,
   "en": "\r\n//【ｅｔｃ／近習Ａ】\r\n<voice name='ｅｔｃ／近習Ａ' class='その他男声' src='voice/mc04/014vs0270e055'>\r\n//「中将閣下、ここは我らにお任せを」\r\n\"Leave the intruder to us, <br>sir.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／近習Ａ】\r\n<voice name='ｅｔｃ／近習Ａ' class='その他男声' src='voice/mc04/014vs0270e055'>\r\n//「中将閣下、ここは我らにお任せを」\r\n\"Deixe o intruso conosco, senhor.\"\r\n"
  },
  {
   "offset": 8375,
   "en": "\r\n//【ｅｔｃ／近習Ｂ】\r\n<voice name='ｅｔｃ／近習Ｂ' class='その他男声' src='voice/mc04/014vs0280e056'>\r\n//「殿下の御身を、どうか――」\r\n\"Please see His Grace to safety.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／近習Ｂ】\r\n<voice name='ｅｔｃ／近習Ｂ' class='その他男声' src='voice/mc04/014vs0280e056'>\r\n//「殿下の御身を、どうか――」\r\n\"Por favor, ponha Sua Alteza em segurança.\"\r\n"
  },
  {
   "offset": 8590,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0290a06'>\r\n//「<RUBY text='ざれぐち'>戯口</RUBY>を叩くな。逆だ。\r\n//　貴様ら近習が殿下の御側を離れてどうする」\r\n\"Fools. You are his personal guard, and you would presume to leave his side?\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0300a06'>\r\n//「行け。\r\n//　脱出の手筈は既に整えさせてある」\r\n\"Go. I've sent men to prepare the way.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0290a06'>\r\n//「<RUBY text='ざれぐち'>戯口</RUBY>を叩くな。逆だ。\r\n//　貴様ら近習が殿下の御側を離れてどうする」\r\n\"Não digam tolices. Vocês são os guardas pessoais dele, e pretendem abandonar seu lado?\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0300a06'>\r\n//「行け。\r\n//　脱出の手筈は既に整えさせてある」\r\n\"Vão. Já mandei homens prepararem a rota de fuga.\"\r\n"
  },
  {
   "offset": 9116,
   "en": "\r\n//【ｅｔｃ／近習Ａ】\r\n<voice name='ｅｔｃ／近習Ａ' class='その他男声' src='voice/mc04/014vs0310e055'>\r\n//「しかし――」\r\n\"But sir―\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【ｅｔｃ／近習Ａ】\r\n<voice name='ｅｔｃ／近習Ａ' class='その他男声' src='voice/mc04/014vs0310e055'>\r\n//「しかし――」\r\n\"Mas, senhor—\"\r\n"
  },
  {
   "offset": 9289,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0320a06'>\r\n//「繰り返させるな！」\r\n\"Do as you're ordered!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0320a06'>\r\n//「繰り返させるな！」\r\n\"Não me façam repetir!\"\r\n"
  },
  {
   "offset": 9451,
   "en": "\r\n//　一喝に、少年とその護衛らしき武者三騎は文字通り\r\n//飛び上がった。\r\n//　声の圧力に押し流されてか、泡を食いつつ俺の脇を\r\n//駆け抜けてゆく。\r\n  That does the trick. With admirable speed, the musha surround their wide-eyed charge and speed him past me down the corridor.\r\n\r\n  I remain motionless as they depart. My mission does not require me to stop them. \r\n\r\n  But even had that been my objective, the sheer malice emanating from the man before me would have held me in place.\r\n\r\n//　その間、俺は身動きが取れなかった。\r\n//　彼らを止める必要がそも俺に無かったのは無論だが、\r\n//仮にあったとしても、正面から放たれる殺気の束縛を\r\n//振り切って動く事は不可能であったろう。\r\n",
-  "pt": ""
+  "pt": "\r\n//　一喝に、少年とその護衛らしき武者三騎は文字通り\r\n//飛び上がった。\r\n//　声の圧力に押し流されてか、泡を食いつつ俺の脇を\r\n//駆け抜けてゆく。\r\n  Isso resolve. Com velocidade admirável, os musha cercam seu protegido de olhos arregalados e o levam correndo pelo corredor, passando por mim.\r\n\r\n  Fico imóvel enquanto eles se afastam. Minha missão não exige que eu os detenha.\r\n\r\n  Mas, mesmo que fosse esse meu objetivo, a pura malevolência que emana do homem à minha frente teria me mantido parado.\r\n\r\n//　その間、俺は身動きが取れなかった。\r\n//　彼らを止める必要がそも俺に無かったのは無論だが、\r\n//仮にあったとしても、正面から放たれる殺気の束縛を\r\n//振り切って動く事は不可能であったろう。\r\n"
  },
  {
   "offset": 10279,
   "en": "\r\n//　四人の足音が後方かなたに消える。\r\n  Soon the footsteps have vanished.\r\n",
-  "pt": ""
+  "pt": "\r\n//　四人の足音が後方かなたに消える。\r\n  Logo os passos desaparecem.\r\n"
  },
  {
   "offset": 10381,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0330a00'>\r\n//「……〝殿下〟……\r\n//　では、あれが足利四郎邦氏」\r\n\"So that was Ashikaga Kuniuji.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0330a00'>\r\n//「……〝殿下〟……\r\n//　では、あれが足利四郎邦氏」\r\n\"Então aquele era Ashikaga Kuniuji.\"\r\n"
  },
  {
   "offset": 10585,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0340a06'>\r\n//「いま初めて知ったような口を利くのだな。\r\n//　本当にそうなら、間抜けな<RUBY text='テロリスト'>凶徒</RUBY>もいたもの\r\n//だ」\r\n\"It's a poor assassin who does not recognize his <br>target.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0340a06'>\r\n//「いま初めて知ったような口を利くのだな。\r\n//　本当にそうなら、間抜けな<RUBY text='テロリスト'>凶徒</RUBY>もいたもの\r\n//だ」\r\n\"É um péssimo assassino aquele que não reconhece seu alvo.\"\r\n"
  },
  {
   "offset": 10925,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0350a00'>\r\n//「…………。\r\n//　当方には暴力行為によって達すべき政治的\r\n//主張など無い」\r\n\"I'm not here to assassinate His Grace.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0350a00'>\r\n//「…………。\r\n//　当方には暴力行為によって達すべき政治的\r\n//主張など無い」\r\n\"Não estou aqui para assassinar Sua Alteza.\"\r\n"
  },
  {
   "offset": 11172,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0360a06'>\r\n//「香奈枝に雇われただけの傭兵という事か？\r\n//　だからどうした。それで俺が貴様に手心を\r\n//加えるとでも思うか」\r\n\"Then I suppose Kanae hired you to assist her fool vendetta. No matter. Lack of motive will earn you no reprieve.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0360a06'>\r\n//「香奈枝に雇われただけの傭兵という事か？\r\n//　だからどうした。それで俺が貴様に手心を\r\n//加えるとでも思うか」\r\n\"Então suponho que Kanae o tenha contratado para ajudá-la em sua vingança tola. Não importa. A falta de motivo não lhe poupará a vida.\"\r\n"
  },
  {
   "offset": 11553,
   "en": "\r\n//　若い将帥は鼻で嗤った。\r\n//　……どうも対話は無益のようだ。\r\n\r\n//　彼にしてみれば<RUBY text='こちら'>襲撃者</RUBY>の言う事など何一つまともに\r\n//取り合うに値すまい。\r\n//　彼にも四郎邦氏にも無関心だと告げても信じないだ\r\n//ろう。――腹を<RUBY text='くく'>括</RUBY>るしかないのか？　しかし――\r\n  The young general bares his teeth. As I feared, any claims I might make to neutrality are meaningless in light of my presence here.\r\n\r\n  But if I cannot convince him to let me pass...\r\n",
-  "pt": ""
+  "pt": "\r\n//　若い将帥は鼻で嗤った。\r\n//　……どうも対話は無益のようだ。\r\n\r\n//　彼にしてみれば<RUBY text='こちら'>襲撃者</RUBY>の言う事など何一つまともに\r\n//取り合うに値すまい。\r\n//　彼にも四郎邦氏にも無関心だと告げても信じないだ\r\n//ろう。――腹を<RUBY text='くく'>括</RUBY>るしかないのか？　しかし――\r\n  O jovem general arreganha os dentes. Como eu temia, qualquer alegação de neutralidade é inútil diante da minha presença aqui.\r\n\r\n  Mas, se não posso convencê-lo a me deixar passar...\r\n"
  },
  {
   "offset": 12157,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0370a06'>\r\n//「生憎だが、捕虜を取っている暇などない。\r\n//　その首を刎ねて仕舞だ」\r\n\"I'd take you alive, but I haven't the time. Your head at my feet will suffice.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0370a06'>\r\n//「生憎だが、捕虜を取っている暇などない。\r\n//　その首を刎ねて仕舞だ」\r\n\"Eu o levaria vivo, mas não tenho tempo. Sua cabeça aos meus pés bastará.\"\r\n"
  },
  {
   "offset": 12446,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0380a01'>\r\n//《……!?\r\n//　劒冑――いつの間に！》\r\n《What!? How did I miss that!?》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0380a01'>\r\n//《……!?\r\n//　劒冑――いつの間に！》\r\n《O quê!? Como eu não vi isso!?》\r\n"
  },
  {
   "offset": 12637,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0390a00'>\r\n//「……篠川公方大鳥獅子吼中将！\r\n//　この道を通して頂けるなら、当方はあえて\r\n//争いを望むものではない！」\r\n\"General! I have no wish to fight you! Let me pass!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0390a00'>\r\n//「……篠川公方大鳥獅子吼中将！\r\n//　この道を通して頂けるなら、当方はあえて\r\n//争いを望むものではない！」\r\n\"General! Não tenho o menor desejo de lutar contra o senhor! Deixe-me passar!\"\r\n"
  },
  {
   "offset": 12941,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0400a06'>\r\n//「それは逃げ口上のつもりか？　馬鹿め！\r\n//　押し込んできた者を無傷で帰して何の公方\r\n//か！」\r\n\"Fool! What general allows vermin to roam his halls unpunished!?\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0410a06'>\r\n//「先刻は丸腰だったから譲ったまで。\r\n//　二度は許さん。貴様の目的が殿下であろう\r\n//と花枝様であろうと果たさせん。俺の前から\r\n//去りたくば、<RUBY text='かばね'>屍</RUBY>になって黄泉路をゆけ！」\r\n\"The last time we met, I lacked my tsurugi, but luck will not save you again. I don't care if you're here for His Grace or Hanae. The only place you're going now is hell, at the edge of my blade!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0400a06'>\r\n//「それは逃げ口上のつもりか？　馬鹿め！\r\n//　押し込んできた者を無傷で帰して何の公方\r\n//か！」\r\n\"Idiota! Que general deixa vermes perambularem por seus corredores sem castigo!?\"\r\n\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0410a06'>\r\n//「先刻は丸腰だったから譲ったまで。\r\n//　二度は許さん。貴様の目的が殿下であろう\r\n//と花枝様であろうと果たさせん。俺の前から\r\n//去りたくば、<RUBY text='かばね'>屍</RUBY>になって黄泉路をゆけ！」\r\n\"Da última vez que nos encontramos, eu estava sem meu tsurugi, mas a sorte não o salvará de novo. Não me importa se veio por Sua Alteza ou por Hanae. O único lugar para onde você vai agora é o inferno, na ponta da minha lâmina!\"\r\n"
  },
  {
   "offset": 13816,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0420a00'>\r\n//「……ッッ」\r\n\"Ngh...!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0420a00'>\r\n//「……ッッ」\r\n\"Ngh...!\"\r\n"
  },
  {
   "offset": 13943,
   "en": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0430a01'>\r\n//《御堂……》\r\n《Mido...》\r\n",
-  "pt": ""
+  "pt": "\r\n//【村正】\r\n<voice name='村正' class='村正さん' src='voice/mc04/014vs0430a01'>\r\n//《御堂……》\r\n《Mido...》\r\n"
  },
  {
   "offset": 14080,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0440a00'>\r\n//（止むを得ん）\r\n(It's out of our hands.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0440a00'>\r\n//（止むを得ん）\r\n(Não há como evitar.)\r\n"
  },
  {
   "offset": 14225,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0450a00'>\r\n//「篠川中将ともあろう者が、己を一介の武者\r\n//となし<RUBY text='たちうち'>太刀打</RUBY>される存念とは。\r\n//　匹夫の勇と申し上げたいが致し方なし」\r\n\"To think that the governor of Sasagawa would honor me with a duel. I only wish I could respond with the proper enthusiasm.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0450a00'>\r\n//「篠川中将ともあろう者が、己を一介の武者\r\n//となし<RUBY text='たちうち'>太刀打</RUBY>される存念とは。\r\n//　匹夫の勇と申し上げたいが致し方なし」\r\n\"Quem diria que o governador de Sasagawa me honraria com um duelo. Só gostaria de poder responder com o entusiasmo devido.\"\r\n"
  },
  {
   "offset": 14649,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0460a00'>\r\n//「一身上の都合により不法侵入させて頂いた\r\n//湊斗景明、不本意ながらお相手仕る。\r\n//　当方の劒冑は右衛門尉村正――」\r\n\"But my needs demand that I pass. So be it. I am Minato Kageaki, wielding Muramasa of Seishu.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0460a00'>\r\n//「一身上の都合により不法侵入させて頂いた\r\n//湊斗景明、不本意ながらお相手仕る。\r\n//　当方の劒冑は右衛門尉村正――」\r\n\"Mas minhas circunstâncias exigem que eu passe. Que assim seja. Sou Minato Kageaki, empunhando Muramasa de Seishu.\"\r\n"
  },
  {
   "offset": 15010,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0470a00'>\r\n//「貴騎の<RUBY text='な'>銘</RUBY>や如何に!?」\r\n\"What name does your tsurugi bear!?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0470a00'>\r\n//「貴騎の<RUBY text='な'>銘</RUBY>や如何に!?」\r\n\"Que nome carrega seu tsurugi!?\"\r\n"
  },
  {
   "offset": 15202,
   "en": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0480a06'>\r\n//「<RUBY text='まがきもの'>兇器</RUBY>に<RUBY text='な'>銘</RUBY>など無用!!」\r\n\"A weapon needs no name!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【獅子吼】\r\n<voice name='獅子吼' class='獅子吼' src='voice/mc04/014vs0480a06'>\r\n//「<RUBY text='まがきもの'>兇器</RUBY>に<RUBY text='な'>銘</RUBY>など無用!!」\r\n\"Uma arma não precisa de nome!\"\r\n"
  },
  {
   "offset": 15428,
   "en": "\r\n//　<RUBY text='あい'>相</RUBY>上段の図となった。\r\n//　互いに、斬り下ろしの圏内へ敵影を置く。\r\n  In a flash, we have both assumed the musha jodan. We are already within each other's striking range.\r\n\r\n  No strike comes.\r\n\r\n  I find this odd, not least because the general's stance is higher than my own. While this better lets me judge the reach of his sword, it also means that his weapon has less distance to travel.\r\n\r\n//　大鳥獅子吼の上段はやや刃先が高い。\r\n//　太刀を寝かせ気味のこちらに比して、刃尺を明らか\r\n//にする不利を負う一方、斬撃の到達時間は短縮される。\r\n\r\n//　斯様な構を使うからには、獰猛にすぐさま打ち込ん\r\n//で来る肚かと思いきや、\r\n//　\r\n//　――来ない。\r\n\r\n//　沈静である。\r\n//　野原にぽつり、孤独に佇む枯れ木の風情をもって、\r\n//大鳥獅子吼は<RUBY text='し'>止</RUBY>している。\r\n  Yet despite the aggressive posture, he remains motionless, a leafless tree at the center of a windswept field.\r\n",
-  "pt": ""
+  "pt": "\r\n//　<RUBY text='あい'>相</RUBY>上段の図となった。\r\n//　互いに、斬り下ろしの圏内へ敵影を置く。\r\n  Num instante, ambos assumimos o jodan de musha. Já estamos dentro do alcance de golpe um do outro.\r\n\r\n  Nenhum golpe vem.\r\n\r\n  Acho isso estranho, sobretudo porque a guarda do general é mais alta que a minha. Embora isso me permita avaliar melhor o alcance da espada dele, também significa que a arma tem menos distância a percorrer.\r\n\r\n//　大鳥獅子吼の上段はやや刃先が高い。\r\n//　太刀を寝かせ気味のこちらに比して、刃尺を明らか\r\n//にする不利を負う一方、斬撃の到達時間は短縮される。\r\n\r\n//　斯様な構を使うからには、獰猛にすぐさま打ち込ん\r\n//で来る肚かと思いきや、\r\n//　\r\n//　――来ない。\r\n\r\n//　沈静である。\r\n//　野原にぽつり、孤独に佇む枯れ木の風情をもって、\r\n//大鳥獅子吼は<RUBY text='し'>止</RUBY>している。\r\n  No entanto, apesar da postura agressiva, ele permanece imóvel, uma árvore sem folhas no centro de um campo varrido pelo vento.\r\n"
  },
  {
   "offset": 16534,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0490a00'>\r\n//（激情と鋭気のみの男に思われたが）\r\n(I was wrong.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0490a00'>\r\n//（激情と鋭気のみの男に思われたが）\r\n(Eu estava errado.)\r\n"
  },
  {
   "offset": 16699,
   "en": "\r\n//　俺は対手への評価を修正する必要に迫られた。\r\n//　敵を呑んで掛かる意気に満ちて剛剣を扱う、戦場の\r\n//<RUBY text='バンガード'>猛将</RUBY>ではなく――むしろ<RUBY text='ソードマスター'>剣術使い</RUBY>の心技を備えている\r\n//と見られる。\r\n  This man is not the sort of warrior I imagined.\r\n\r\n  My first impression of Otori Shishiku was one of fire and fury. Here, I thought, was a musha of the van, crushing his enemies with savage strength.\r\n\r\n  Instead, I find myself facing a technician, a student of the subtle blade.\r\n\r\n//　それが彼本来の<RUBY text='スタイル'>剣質</RUBY>なのかどうかは置き、今この場\r\n//の争闘において適性である事は認めねばならなかった。\r\n//　地上、しかも<RUBY text='きょうあい'>狭隘</RUBY>な屋内である。\r\n  Whether this is in fact the general's nature, there is no denying that the technical approach is better suited to the present engagement. A musha's greatest assets, speed and strength, are not as effective in tight quarters like these. When the sky is distant, that is when cunning and skill show their worth.\r\n\r\n//　天空を翔ける翼はおろか、金剛力も充分には発揮し\r\n//難い。力と速度を<RUBY text='たの'>恃</RUBY>む武者刀法が特に苦手とする局面\r\n//であった。\r\n//　このような場では精妙な術技こそが物を言う。\r\n\r\n//　敵騎がそれを甲鉄の下に蓄えて俺を待っているなら\r\n//ば、間違っても迂闊な進退はできなかった。\r\n//　無思慮に斬り込みなどした途端、切り返しの一太刀\r\n//を食って血反吐を吐く。\r\n  I must now exercise caution, for a careless strike will leave me vulnerable to my enemy's counter. There are many forms this counter might take―a preemptive strike, a parry and riposte―<br>all sharing the same result: the walls painted with my blood.\r\n\r\n//　<RUBY text='こちら'>我方</RUBY>の打つ出端を制するか――打ち込ませておいて\r\n//受け流し、体勢の崩れたところを存分に斬り下げるか。\r\n//　いずれにせよ、勝負はその一合で終わるだろう。\r\n\r\n//　こちらも術を仕込んで臨まねばならない。\r\n  To avoid that fate will take equal cunning.\r\n",
-  "pt": ""
+  "pt": "\r\n//　俺は対手への評価を修正する必要に迫られた。\r\n//　敵を呑んで掛かる意気に満ちて剛剣を扱う、戦場の\r\n//<RUBY text='バンガード'>猛将</RUBY>ではなく――むしろ<RUBY text='ソードマスター'>剣術使い</RUBY>の心技を備えている\r\n//と見られる。\r\n  Este homem não é o tipo de guerreiro que imaginei.\r\n\r\n  Minha primeira impressão de Otori Shishiku foi de fogo e fúria. Achei que ali estava um musha da vanguarda, esmagando seus inimigos com força selvagem.\r\n\r\n  Em vez disso, encontro-me diante de um técnico, um estudioso da lâmina sutil.\r\n\r\n//　それが彼本来の<RUBY text='スタイル'>剣質</RUBY>なのかどうかは置き、今この場\r\n//の争闘において適性である事は認めねばならなかった。\r\n//　地上、しかも<RUBY text='きょうあい'>狭隘</RUBY>な屋内である。\r\n  Se esta é de fato a natureza do general ou não, não se pode negar que a abordagem técnica é mais adequada ao combate atual. Os maiores trunfos de um musha, velocidade e força, não são tão eficazes em espaços apertados como estes. Quando o céu está distante, é aí que a astúcia e a perícia mostram seu valor.\r\n\r\n//　天空を翔ける翼はおろか、金剛力も充分には発揮し\r\n//難い。力と速度を<RUBY text='たの'>恃</RUBY>む武者刀法が特に苦手とする局面\r\n//であった。\r\n//　このような場では精妙な術技こそが物を言う。\r\n\r\n//　敵騎がそれを甲鉄の下に蓄えて俺を待っているなら\r\n//ば、間違っても迂闊な進退はできなかった。\r\n//　無思慮に斬り込みなどした途端、切り返しの一太刀\r\n//を食って血反吐を吐く。\r\n  Agora devo agir com cautela, pois um golpe descuidado me deixará vulnerável à resposta do inimigo. Essa resposta pode assumir muitas formas — um golpe preventivo, uma aparada e estocada — todas com o mesmo resultado: as paredes pintadas com meu sangue.\r\n\r\n//　<RUBY text='こちら'>我方</RUBY>の打つ出端を制するか――打ち込ませておいて\r\n//受け流し、体勢の崩れたところを存分に斬り下げるか。\r\n//　いずれにせよ、勝負はその一合で終わるだろう。\r\n\r\n//　こちらも術を仕込んで臨まねばならない。\r\n  Para evitar esse destino, será necessária astúcia igual.\r\n"
  },
  {
   "offset": 19062,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0500a00'>\r\n//（――うむ）\r\n(...All right.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0500a00'>\r\n//（――うむ）\r\n(...Muito bem.)\r\n"
  },
  {
   "offset": 19195,
   "en": "\r\n//　胸中に、意を決す。\r\n//　俺は重心を前へ進めた。\r\n\r\n//　膝頭が数センチ、相手へ近寄る。\r\n//　\r\n//　攻勢が高まる。意気が刃に乗る。\r\n\r\n//　打つ。\r\n  Course set, I shift my weight forward. My knees draw three centimeters closer to my enemy.\r\n\r\n  My strength gathers. I am ready to strike.\r\n",
-  "pt": ""
+  "pt": "\r\n//　胸中に、意を決す。\r\n//　俺は重心を前へ進めた。\r\n\r\n//　膝頭が数センチ、相手へ近寄る。\r\n//　\r\n//　攻勢が高まる。意気が刃に乗る。\r\n\r\n//　打つ。\r\n  Rumo traçado, desloco meu peso para a frente. Meus joelhos se aproximam três centímetros do inimigo.\r\n\r\n  Minha força se concentra. Estou pronto para golpear.\r\n"
  },
  {
   "offset": 19552,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0510a00'>\r\n//「……ィッ」\r\n\"...Mm!\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0510a00'>\r\n//「……ィッ」\r\n\"...Mm!\"\r\n"
  },
  {
   "offset": 19678,
@@ -317,22 +317,22 @@
  {
   "offset": 19813,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0530a00'>\r\n//（乗らぬか……）\r\n(...No response.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0530a00'>\r\n//（乗らぬか……）\r\n(...Sem resposta.)\r\n"
  },
  {
   "offset": 19954,
   "en": "\r\n//　敵手は不動であった。\r\n//　俺の放った攻気を、柳に風と流し去っている。\r\n  My enemy holds steady in the face of my advance.<K>\r\n  And that means my plan has failed.\r\n\r\n//　つまりは<RUBY text='・・・・・・・'>騙されなかった</RUBY>という事。\r\n//　今、敵騎が俺の露骨な攻勢を勝機と取り、先んじて\r\n//打ち倒してくれようと襲い来たならば、満を持しての\r\n//<RUBY text='カウンター'>返しの技</RUBY>で一刀のもとに敵の戦闘力を剥奪できた。\r\n  The intent I showed was, of course, a feint to draw him out. If he had struck, I could have defeated him with a counter. And if he had gone for a counter of his own, his confusion when I did not strike as expected would have given me the opening I needed.\r\n\r\n\r\n//　また、こちらに打ち込ませてから切り返す腹積もり\r\n//であったとしても、案に相違して待てど暮らせど打ち\r\n//掛かって来ないこちらの様子に、動揺を生じせしめる\r\n//事ができた筈だった。\r\n  Instead, he did nothing. He remains calm. Ready.\r\n\r\n//　<RUBY text='さ'>然</RUBY>りながら敵騎は全くの無反応。\r\n//　姿勢は揺らがず、剣気も粛然と保たれている。\r\n\r\n//　<RUBY text='フェイント'>誘いの術</RUBY>を完全に看破されたのだ。\r\n",
-  "pt": ""
+  "pt": "\r\n//　敵手は不動であった。\r\n//　俺の放った攻気を、柳に風と流し去っている。\r\n  Meu inimigo permanece firme diante do meu avanço.<K>\r\n  E isso significa que meu plano falhou.\r\n\r\n//　つまりは<RUBY text='・・・・・・・'>騙されなかった</RUBY>という事。\r\n//　今、敵騎が俺の露骨な攻勢を勝機と取り、先んじて\r\n//打ち倒してくれようと襲い来たならば、満を持しての\r\n//<RUBY text='カウンター'>返しの技</RUBY>で一刀のもとに敵の戦闘力を剥奪できた。\r\n  A intenção que demonstrei era, claro, uma finta para atraí-lo. Se ele tivesse atacado, eu poderia tê-lo derrotado com um contra-ataque. E se ele tivesse partido para um contra-ataque próprio, sua confusão quando eu não atacasse como esperado teria me dado a abertura de que eu precisava.\r\n\r\n\r\n//　また、こちらに打ち込ませてから切り返す腹積もり\r\n//であったとしても、案に相違して待てど暮らせど打ち\r\n//掛かって来ないこちらの様子に、動揺を生じせしめる\r\n//事ができた筈だった。\r\n  Em vez disso, ele não fez nada. Permanece calmo. Pronto.\r\n\r\n//　<RUBY text='さ'>然</RUBY>りながら敵騎は全くの無反応。\r\n//　姿勢は揺らがず、剣気も粛然と保たれている。\r\n\r\n//　<RUBY text='フェイント'>誘いの術</RUBY>を完全に看破されたのだ。\r\n"
  },
  {
   "offset": 21342,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0540a00'>\r\n//（不味いな）\r\n(Damn.)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0540a00'>\r\n//（不味いな）\r\n(Droga.)\r\n"
  },
  {
   "offset": 21467,
   "en": "\r\n//　技の失敗のみではなく、それが敵に与えた影響まで\r\n//慮って、俺は密やかな舌打ちを禁じ得なかった。\r\n//　今ので、敵は察した筈だ……こちらにも術を用いる\r\n//用意があるという事実を。\r\n  This has cost me more than just time. For now my opponent knows that I am playing his game, and will answer his techniques with my own.\r\n\r\n//　益々慎重になり、技は深く巧妙なるを期すだろう。\r\n//　難敵が余計に難敵と化す。\r\n  He will act with greater caution, strike with greater cunning. All that I have done is make this fight harder to win. \r\n\r\n//　下手に仕掛けず、<RUBY text='じつ'>凝</RUBY>と構え続け、敵手の焦燥を待つ\r\n//べきだったか……？\r\n//　\r\n//　そう思っても、今となっては詮ない。\r\n\r\n//　挫けている場合ではなかった。\r\n//　敵は慎重に動くであろうが、それは時間を掛けると\r\n//いう事と必ずしも<RUBY text='イコール'>同義</RUBY>ではないのだ。\r\n  What should I have done, then? Stayed my hand? Waited for him to make the first move?\r\n\r\n  It doesn't matter. My enemy is coming, for caution does not equate to inaction. The moment he senses that he has the advantage, that my focus has slipped even a fraction, he will seize that chance and strike.\r\n\r\n//　策を決すれば、この刹那にも仕掛けて来る。\r\n//　心気を迷妄させていては対応できない。小さな失敗\r\n//などさっさと忘れるべきだった。\r\n\r\n//　敵は来る――――\r\n//　来るだろう。\r\n\r\n//　今の音なき攻防で勝負の天秤がやや己の側に傾いた\r\n//と見たなら、その機を捨て去る筈はない。\r\n//　天秤が再び平衡に戻るまで――俺が心身を立て直し\r\n//再び術策を講ずるまで、待ってやる義理などないのだ。\r\n\r\n//　敵は来る。\r\n//　が、それが如何なる形を取るか……\r\n  I must be ready.<K>\r\n  But ready for what?\r\n",
-  "pt": ""
+  "pt": "\r\n//　技の失敗のみではなく、それが敵に与えた影響まで\r\n//慮って、俺は密やかな舌打ちを禁じ得なかった。\r\n//　今ので、敵は察した筈だ……こちらにも術を用いる\r\n//用意があるという事実を。\r\n  Isso me custou mais do que apenas tempo. Agora meu oponente sabe que estou jogando o jogo dele, e que responderei às suas técnicas com as minhas.\r\n\r\n//　益々慎重になり、技は深く巧妙なるを期すだろう。\r\n//　難敵が余計に難敵と化す。\r\n  Ele agirá com mais cautela, atacará com mais astúcia. Tudo o que fiz foi tornar esta luta mais difícil de vencer.\r\n\r\n//　下手に仕掛けず、<RUBY text='じつ'>凝</RUBY>と構え続け、敵手の焦燥を待つ\r\n//べきだったか……？\r\n//　\r\n//　そう思っても、今となっては詮ない。\r\n\r\n//　挫けている場合ではなかった。\r\n//　敵は慎重に動くであろうが、それは時間を掛けると\r\n//いう事と必ずしも<RUBY text='イコール'>同義</RUBY>ではないのだ。\r\n  O que eu deveria ter feito, então? Conter a mão? Esperar que ele fizesse o primeiro movimento?\r\n\r\n  Não importa. Meu inimigo virá, pois cautela não equivale a inação. No momento em que sentir que tem a vantagem, que minha concentração vacilou ainda que uma fração, ele agarrará essa chance e atacará.\r\n\r\n//　策を決すれば、この刹那にも仕掛けて来る。\r\n//　心気を迷妄させていては対応できない。小さな失敗\r\n//などさっさと忘れるべきだった。\r\n\r\n//　敵は来る――――\r\n//　来るだろう。\r\n\r\n//　今の音なき攻防で勝負の天秤がやや己の側に傾いた\r\n//と見たなら、その機を捨て去る筈はない。\r\n//　天秤が再び平衡に戻るまで――俺が心身を立て直し\r\n//再び術策を講ずるまで、待ってやる義理などないのだ。\r\n\r\n//　敵は来る。\r\n//　が、それが如何なる形を取るか……\r\n  Preciso estar pronto.<K>\r\n  Mas pronto para quê?\r\n"
  },
  {
   "offset": 23511,
@@ -342,57 +342,57 @@
  {
   "offset": 23635,
   "en": "\r\n//　獅子吼の剣が揺れ、動いた。\r\n//　反射的に迎え撃ち――<k>飛び出し――<k>そうになる五体\r\n//を、危ういところで繋ぎ止める。\r\n  His sword moves. My body reacts, every muscle leaping to strike.\r\n\r\n  I barely manage to keep it in check. The enemy's motions lack intent. This is a feint, the same as mine.\r\n\r\n//　敵のこの挙措には、殺意が乗っていない。\r\n//　誘いだ。俺が仕掛けたのと同じ。\r\n\r\n//　釣られれば、斬られる。\r\n//　自制――自制。重ねての自制。\r\n  Wait, I command myself. Now is not the time.\r\n",
-  "pt": ""
+  "pt": "\r\n//　獅子吼の剣が揺れ、動いた。\r\n//　反射的に迎え撃ち――<k>飛び出し――<k>そうになる五体\r\n//を、危ういところで繋ぎ止める。\r\n  A espada dele se move. Meu corpo reage, cada músculo saltando para golpear.\r\n\r\n  Por pouco consigo contê-lo. Os movimentos do inimigo não têm intenção. É uma finta, igual à minha.\r\n\r\n//　敵のこの挙措には、殺意が乗っていない。\r\n//　誘いだ。俺が仕掛けたのと同じ。\r\n\r\n//　釣られれば、斬られる。\r\n//　自制――自制。重ねての自制。\r\n  Espere, ordeno a mim mesmo. Agora não é o momento.\r\n"
  },
  {
   "offset": 24257,
   "en": "\r\n//　体勢の崩壊を、俺は辛くも防いだ。\r\n//　構を保って、敵刃の動向を見守る。\r\n\r\n//　……<RUBY text='けたい'>怪態</RUBY>にも、敵は誘いの手を見破られながら動き\r\n//を止めなかった。\r\n//　ゆぅるりと、刃先を流してゆく。\r\n  Strangely, my enemy's sword maintains its course despite my lack of response. It descends slowly, a languorous arc. \r\n",
-  "pt": ""
+  "pt": "\r\n//　体勢の崩壊を、俺は辛くも防いだ。\r\n//　構を保って、敵刃の動向を見守る。\r\n\r\n//　……<RUBY text='けたい'>怪態</RUBY>にも、敵は誘いの手を見破られながら動き\r\n//を止めなかった。\r\n//　ゆぅるりと、刃先を流してゆく。\r\n  Estranhamente, a espada do meu inimigo mantém seu curso apesar da minha falta de resposta. Ela desce lentamente, num arco lânguido.\r\n"
  },
  {
   "offset": 24685,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0560a00'>\r\n//（これは誘い……<RUBY text='・・'>のみ</RUBY>ではない？）\r\n(This is㉓<I>more.</I>)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0560a00'>\r\n//（これは誘い……<RUBY text='・・'>のみ</RUBY>ではない？）\r\n(Isto é㉓<I>mais.</I>)\r\n"
  },
  {
   "offset": 24884,
   "en": "\r\n//　刃が流れ――\r\n//　<RUBY text='・・'>寝る</RUBY>。\r\n  And then―his sword stops.\r\n",
-  "pt": ""
+  "pt": "\r\n//　刃が流れ――\r\n//　<RUBY text='・・'>寝る</RUBY>。\r\n  E então ― a espada dele para.\r\n"
  },
  {
   "offset": 24993,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0570a00'>\r\n//（う――ぬぅ！）\r\n(Ngh!)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0570a00'>\r\n//（う――ぬぅ！）\r\n(Ngh!)\r\n"
  },
  {
   "offset": 25123,
   "en": "\r\n//　その一瞬、俺は動揺に震えぬため、意志力の総動員\r\n//を必要とした。\r\n  In that moment, it takes all the strength I possess to keep my terror contained. \r\n\r\n//　獅子吼がした事は、上段の太刀を前へ倒す――単に\r\n//それだけである。\r\n//　尖端が対手、つまり俺へ向くよう。\r\n  My enemy, in truth, has done very little―merely lowered his sword so the tip of the blade is pointed directly at my eye.\r\n\r\n//　敵騎の太刀の鍔元、尖端、そして俺の目が、<RUBY text='・・・'>一直線</RUBY>\r\n//で結ばれる。\r\n//　\r\n//　――この現実が、俺に何をもたらしているか。\r\n  But the effect of this on my psyche―\r\n",
-  "pt": ""
+  "pt": "\r\n//　その一瞬、俺は動揺に震えぬため、意志力の総動員\r\n//を必要とした。\r\n  Naquele instante, preciso de toda a força que possuo para conter meu pavor.\r\n\r\n//　獅子吼がした事は、上段の太刀を前へ倒す――単に\r\n//それだけである。\r\n//　尖端が対手、つまり俺へ向くよう。\r\n  Meu inimigo, na verdade, fez muito pouco — apenas baixou a espada para que a ponta da lâmina aponte diretamente para meu olho.\r\n\r\n//　敵騎の太刀の鍔元、尖端、そして俺の目が、<RUBY text='・・・'>一直線</RUBY>\r\n//で結ばれる。\r\n//　\r\n//　――この現実が、俺に何をもたらしているか。\r\n  Mas o efeito disso sobre minha mente ―\r\n"
  },
  {
   "offset": 25855,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0580a00'>\r\n//（く……！）\r\n(Kuh...!)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0580a00'>\r\n//（く……！）\r\n(Kuh...!)\r\n"
  },
  {
   "offset": 25982,
   "en": "\r\n//　目が<RUBY text='くら'>眩</RUBY>む。\r\n//　距離感というものが、恐ろしいほど曖昧になる。\r\n  My vision blurs. The world recedes, distance losing its meaning. I can feel my senses falling inward toward that glittering point.\r\n\r\n//　世界が……いま突き付けられている、剣先の一点を\r\n//残して消失してしまったように感じる。\r\n",
-  "pt": ""
+  "pt": "\r\n//　目が<RUBY text='くら'>眩</RUBY>む。\r\n//　距離感というものが、恐ろしいほど曖昧になる。\r\n  Minha visão se turva. O mundo recua, a distância perde o sentido. Sinto meus sentidos recuando para dentro, em direção àquele ponto cintilante.\r\n\r\n//　世界が……いま突き付けられている、剣先の一点を\r\n//残して消失してしまったように感じる。\r\n"
  },
  {
   "offset": 26384,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0590a00'>\r\n//（おのれ）\r\n(Damn!)\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0590a00'>\r\n//（おのれ）\r\n(Droga!)\r\n"
  },
  {
   "offset": 26506,
   "en": "\r\n//　大鳥獅子吼――妖剣を使うか!?\r\n  Otori Shishiku...<K>\r\n  Is㉗<I>this</I>㉗the sword you wield!?\r\n",
-  "pt": ""
+  "pt": "\r\n//　大鳥獅子吼――妖剣を使うか!?\r\n  Otori Shishiku...<K>\r\n  É㉗<I>esta</I>㉗a espada que você empunha!?\r\n"
  },
  {
   "offset": 26632,
   "en": "\r\n//　如何ともし難い。\r\n//　<RUBY text='・・'>尖端</RUBY>を見て平静を失うのは動物の本能だ。\r\n  There is nothing I can do. Fear of the blade, the claw, the fang, is embedded in my reptile brain. With my senses honed by the adrenaline of battle, I cannot ignore the threat.\r\n\r\n//　ましてこのように、<RUBY text='タチアイ'>立合</RUBY>の最中――全身の神経感覚\r\n//を過敏にしている時であれば、その圧迫感たるや途轍\r\n//もない。\r\n//　舌の表裏が<RUBY text='たちま'>忽</RUBY>ち干上がり、唇が<RUBY text='わなな'>戦慄</RUBY>いた。\r\n  Gradually, my lips begin to tremble. My tongue is swollen and dry.\r\n",
-  "pt": ""
+  "pt": "\r\n//　如何ともし難い。\r\n//　<RUBY text='・・'>尖端</RUBY>を見て平静を失うのは動物の本能だ。\r\n  Não há nada que eu possa fazer. O medo da lâmina, da garra, da presa, está gravado no meu cérebro reptiliano. Com meus sentidos aguçados pela adrenalina da batalha, não consigo ignorar a ameaça.\r\n\r\n//　ましてこのように、<RUBY text='タチアイ'>立合</RUBY>の最中――全身の神経感覚\r\n//を過敏にしている時であれば、その圧迫感たるや途轍\r\n//もない。\r\n//　舌の表裏が<RUBY text='たちま'>忽</RUBY>ち干上がり、唇が<RUBY text='わなな'>戦慄</RUBY>いた。\r\n  Aos poucos, meus lábios começam a tremer. Minha língua está inchada e seca.\r\n"
  },
  {
   "offset": 27341,
@@ -402,17 +402,17 @@
  {
   "offset": 27476,
   "en": "\r\n//　敵手の冷えた双眸が、俺の動静を窺っている。\r\n//　待っているのだ――俺の自壊を。\r\n  I feel his cold eyes watching me. He is waiting for my collapse.\r\n\r\n//　このまま心身を消耗し、足腰を萎えさせるか。\r\n//　あるいは破れかぶれに攻め掛かるか。\r\n  If I succumb to the pressure, one of two things will happen: I will attempt to flee, or attempt to strike. In either case, my death is certain.\r\n\r\n//　どちらに陥るにせよ、俺の勝ち目はない。\r\n\r\n//　この状態で、あくまでも平常心を保てるだけの精神\r\n//力が、俺にあるのなら別だ、が――\r\n  My only hope for survival is to maintain control. Do I have the strength?\r\n",
-  "pt": ""
+  "pt": "\r\n//　敵手の冷えた双眸が、俺の動静を窺っている。\r\n//　待っているのだ――俺の自壊を。\r\n  Sinto os olhos frios dele me observando. Ele espera meu colapso.\r\n\r\n//　このまま心身を消耗し、足腰を萎えさせるか。\r\n//　あるいは破れかぶれに攻め掛かるか。\r\n  Se eu sucumbir à pressão, uma de duas coisas acontecerá: tentarei fugir ou tentarei atacar. Em ambos os casos, minha morte é certa.\r\n\r\n//　どちらに陥るにせよ、俺の勝ち目はない。\r\n\r\n//　この状態で、あくまでも平常心を保てるだけの精神\r\n//力が、俺にあるのなら別だ、が――\r\n  Minha única esperança de sobreviver é manter o controle. Tenho força para isso?\r\n"
  },
  {
   "offset": 28226,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0610a00'>\r\n//「……ッ……」\r\n\"Ngh...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mc04/014vs0610a00'>\r\n//「……ッ……」\r\n\"Ngh...\"\r\n"
  },
  {
   "offset": 28355,
   "en": "\r\n//　どうしようもなく注視する。\r\n//　感覚が一点に集中する。\r\n\r\n//　その他の全てが消える。\r\n//　敵の姿が見えなくなる。\r\n\r\n//　……駄目だッ！\r\n  I do not.\r\n\r\n  No matter how hard I try, the blade fills my sight. The world outside it crumbles and fades.\r\n\r\n  My enemy is there, but I cannot see him.\r\n",
-  "pt": ""
+  "pt": "\r\n//　どうしようもなく注視する。\r\n//　感覚が一点に集中する。\r\n\r\n//　その他の全てが消える。\r\n//　敵の姿が見えなくなる。\r\n\r\n//　……駄目だッ！\r\n  Não tenho.\r\n\r\n  Por mais que eu tente, a lâmina preenche minha visão. O mundo ao seu redor desmorona e se apaga.\r\n\r\n  Meu inimigo está ali, mas não consigo vê-lo.\r\n"
  },
  {
   "offset": 28720,
@@ -422,17 +422,17 @@
  {
   "offset": 28849,
   "en": "\r\n//　己の心を支え切れない。\r\n//　崩壊への傾斜を徐々に滑り落ちているのがわかる。\r\n\r\n//　あといくらも持たないだろう。\r\n//　十秒……数秒か。自ら崩れ、敵の刃を受けるまで。\r\n  The end fast approaches. Only seconds remain.\r\n",
-  "pt": ""
+  "pt": "\r\n//　己の心を支え切れない。\r\n//　崩壊への傾斜を徐々に滑り落ちているのがわかる。\r\n\r\n//　あといくらも持たないだろう。\r\n//　十秒……数秒か。自ら崩れ、敵の刃を受けるまで。\r\n  O fim se aproxima rápido. Restam apenas segundos.\r\n"
  },
  {
   "offset": 29151,
   "en": "\r\n//　…………決するべきか？\r\n  Should I act now, while I still can?\r\n\r\n  What are my choices? Strike, flee, wait. Any choice will be a gamble. Death is more likely than not.\r\n\r\n//　あくまで待つのか。\r\n//　一か八か、打って出るか。\r\n//　それとも、退避の道を探るか。\r\n\r\n//　決断を――<k>下すべきか――――\r\n  But if I don't act...\r\n\r\n  If I don't act―\r\n",
-  "pt": ""
+  "pt": "\r\n//　…………決するべきか？\r\n  Devo agir agora, enquanto ainda posso?\r\n\r\n  Quais são minhas opções? Atacar, fugir, esperar. Qualquer escolha será uma aposta. A morte é mais provável que a sobrevivência.\r\n\r\n//　あくまで待つのか。\r\n//　一か八か、打って出るか。\r\n//　それとも、退避の道を探るか。\r\n\r\n//　決断を――<k>下すべきか――――\r\n  Mas se eu não agir...\r\n\r\n  Se eu não agir ―\r\n"
  },
  {
   "offset": 29577,
   "en": "\r\n//　来る!?\r\n  Here he comes!\r\n",
-  "pt": ""
+  "pt": "\r\n//　来る!?\r\n  Ele vem aí!\r\n"
  },
  {
   "offset": 29620,

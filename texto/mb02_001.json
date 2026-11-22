@@ -192,7 +192,7 @@
  {
   "offset": 17056,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0010420a00'>\r\n//「全く同意できます。その姿勢なくして国内\r\n//産業の育成は成し得ません。\r\n//　……貴方が、今川中将閣下の？」\r\n\"I couldn't agree more. Those are the choices that will lead Yamato into the future.\r\n  ...I assume General Imagawa sent you?\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0010420a00'>\r\n//「全く同意できます。その姿勢なくして国内\r\n//産業の育成は成し得ません。\r\n//　……貴方が、今川中将閣下の？」\r\n\"Não poderia concordar mais. São escolhas que levarão Yamato rumo ao futuro.\r\n  ...Presumo que o general Imagawa tenha enviado você?\"\r\n"
  },
  {
   "offset": 17435,
@@ -202,26 +202,26 @@
  {
   "offset": 17931,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0010440a00'>\r\n//「とてもそうは見えませんが」\r\n\"I would not have guessed.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0010440a00'>\r\n//「とてもそうは見えませんが」\r\n\"Não teria imaginado.\"\r\n"
  },
  {
   "offset": 18098,
   "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0010450b20'>\r\n//「ふふふ……当然でしょう。\r\n//　そうでなくては密偵など務まりませんもの」\r\n\"Hehe. I should hope not. I wouldn't be much of a spy if you could see through my disguise.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0010450b20'>\r\n//「ふふふ……当然でしょう。\r\n//　そうでなくては密偵など務まりませんもの」\r\n\"Hehe. Espero que não. Não seria muito boa espiã se você conseguisse ver através do meu disfarce.\"\r\n"
  },
  {
   "offset": 18403,
   "en": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0010460a02'>\r\n//「湊斗さん。\r\n//　話が通じてないような気が」\r\n\"Uh... I don't think she got what you meant.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【一条】\r\n<voice name='一条' class='一条' src='voice/mb02/0010460a02'>\r\n//「湊斗さん。\r\n//　話が通じてないような気が」\r\n\"Hã... acho que ela não entendeu o que você quis dizer.\"\r\n"
  },
  {
   "offset": 18610,
   "en": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0010470a00'>\r\n//「俺もそう思う」\r\n\"Indeed...\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【景明】\r\n<voice name='景明' class='景明' src='voice/mb02/0010470a00'>\r\n//「俺もそう思う」\r\n\"Também penso assim...\"\r\n"
  },
  {
   "offset": 18743,
   "en": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0010480b20'>\r\n//「さ、どうぞ。\r\n//　まずは官舎へご案内します」\r\n\"Hop in. I've prepared lodgings.\"\r\n",
-  "pt": ""
+  "pt": "\r\n//【岩田】\r\n<voice name='岩田' class='その他女声' src='voice/mb02/0010480b20'>\r\n//「さ、どうぞ。\r\n//　まずは官舎へご案内します」\r\n\"Suba. Preparei acomodações.\"\r\n"
  }
 ]
