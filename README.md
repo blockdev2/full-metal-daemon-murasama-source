@@ -20,7 +20,7 @@ The tools unpack the game's encrypted `.npk` archives, extract every script stri
 | `rebuild.py` | Rebuilds a complete playable copy of the game from extracted files |
 | `translate.py`, `translator/` | Interactive terminal app that machine-translates `texto/` with Google Gemini |
 | `glossary.txt` | Fixed terms sent to Gemini with every request |
-| `texto/` | 884 JSON files (39,702 strings), one per script; the `pt` field holds the pt-BR translation (complete: 35,571 of 35,573 translatable strings; ready-made `patch900_ptbr.npk` in the release) |
+| `texto/` | 884 JSON files (39,702 strings), one per script; the `pt` field holds the pt-BR translation (complete: 35,572 of 35,573 translatable strings; ready-made `patch900_ptbr.npk` in the release) |
 | `jogo_extraido/media/script/` | Decompressed/decrypted scripts (compiled Squirrel bytecode `.nut`) |
 | `jogo_extraido/setting.ini`, `jogo_extraido/shader/` | Engine config and compiled shaders |
 
